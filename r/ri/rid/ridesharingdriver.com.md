@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ridesharingdriver.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928150845id_/http%3A//www.ridesharingdriver.com/www.ridesharingdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridesharingdriver.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614134310id_/http%3A//www.ridesharingdriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RideSharingDriver
 
 **PRIVACY POLICY**
 
- **DEFINITIONS**
+**DEFINITIONS**
 
 THE DEFINITIONS WHICH FOLLOW ARE MEANT ONLY FOR CONVENIENCE. THIS PRIVACY POLICY  MAY CHANGE WITHOUT NOTICE. YOU ARE DIRECTED TO REGULARLY CHECK THE SITE FOR THE MOST CURRENT VERSION OF THIS DOCUMENT AND YOU ARE RESPONSIBLE FOR CONFORMING YOUR ACTIONS TO THE MOST CURRENT VERSION OF THIS DOCUMENT.
 
@@ -16,7 +16,7 @@ We strive to offer You the many advantages of Internet technology and to provide
 
 We may use “Personally Identifiable Information” (name, email address, street address, telephone number, IP address, financial information, social security number and/or other form of tax identification number, and other information) subject to the terms of this Privacy Policy. We will never sell, barter, or rent your email address to any unauthorized third party. We employ specific security measures when storing, retrieving, or accessing any form of financial information and/or social security number and/or other form of tax identification number.
 
- **HOW WE GATHER INFORMATION FROM YOU**
+**HOW WE GATHER INFORMATION FROM YOU**
 
 How We collect and store information depends on the page You are visiting, the activities in which You elect to participate, and the services provided. For example, You may be asked to provide personal information such as your first and last name, email address and/or telephone number when You register for access to certain portions of the Site or request certain features, (such as Our newsletter) or when You make a purchase.  You may provide information when you participate in any of Our programs (such as the RideSharingDriver Affiliate Program) on or by the Site and other interactive areas of the Site.
 
@@ -26,7 +26,7 @@ As we adopt additional technology, We may also gather additional types and categ
 
 In certain instances, You can choose not to provide Us with information, for example by setting your browser to refuse to accept cookies, but, if You do, You may be unable to access certain portions of the Site or may be asked to re-enter Your username and password, or We may not be able to customize the Site’s features according to Your preferences, or You may not be able to become a Participant in some or all of the programs.  Furthermore, in some instances (as detailed in the Terms of Use as well as in the paragraph below entitled “Taxpayer Identification Number”) if You fail to provide Us with information We request, You may be ineligible to participate in some or all of the programs and/or services offered through the Site.¹
 
- **WHAT WE DO WITH THE INFORMATION WE COLLECT**
+**WHAT WE DO WITH THE INFORMATION WE COLLECT**
 
 Like other web services, We collect information to formulate lists of topics, categories of interest and/or use, and Your implied specific areas of interest. This may be used to enhance Your visit, deliver more individualized content and advertising, to affect Our accounting methodology, to secure Our database(s), to protect Us from illicit usage of the Site, or to disable certain services or programs for use by You. We respect Your privacy and do not share Your information with anyone outside of Our organization and any subsidiaries, affiliates, partners, and other entities with whom We may have an ongoing business relationship. Additionally, real time transmission of the information may occur to affect, enable, or enhance other programs and services.
 
@@ -42,7 +42,7 @@ Certain third parties who provide technical support for the operation of the Sit
 
 Occasionally RideSharingDriver is approached by companies and professional associations seeking to inform Our Members, Participants, Purchasers, and Affiliates, about products or services that may be of interest to them. We review these requests and when, in Our judgment, We think the information would be of benefit to these persons or entities, We cooperate in getting You this information. We view receiving such information as a benefit for those who are seeking information related to the topics covered on the Site.  In such cases, We would provide You with this information directly, rather than provide Your Personally Identifiable Information to the outside companies and professional associations. We may initiate the communication of any information or advertising for Our direct or indirect financial gain and it is done so without any compensation due to You or any other recipient of the information.
 
- **FINANCIAL INFORMATION**
+**FINANCIAL INFORMATION**
 
 We may use third party merchant payment verification and processing companies to obtain payment and approvals and to bill You and other users for goods and services. We do not have complete control over the actions or intentions of the third party payment processors or how they use the information that You may provide during a payment transaction and therefore have no responsibility for their use of the data specific to the transaction. These payment processors, and/or Your own financial institution may, in some circumstances, make secondary use of Your personal information and purchasing history; it is Your responsibility to contact the payment processors and/or Your financial institution for information regarding their specific usage of the information conveyed during transactions.
 
@@ -52,11 +52,11 @@ The actual account access credentials information is not supplied to Us, but is 
 
 During the entire process of placing and paying for an order, there may be several steps in the process where data is transmitted unencrypted and this is variable between Users partly based on the configuration of Your web browser technology or by any other means You access the Site, or by the payment method and/or payment or merchant transaction processor chosen or available at the time of purchase, or by any third party provider used by the merchant transaction or associated payment processor, all of which is beyond Our control. Your payment processor ids, payment processor transaction identifiers, dates and times of transactions, contractual obligations or details specific to the transactions, checksums, electronic forms of signature, and any other useful information for identifying or explaining or replicating the transaction may be stored temporarily or permanently on the Sites.
 
- **REQUESTING YOUR PERSONALLY IDENTIFIABLE INFORMATION AND/OR FINANCIAL INFORMATION**
+**REQUESTING YOUR PERSONALLY IDENTIFIABLE INFORMATION AND/OR FINANCIAL INFORMATION**
 
 Upon written request we may provide You with access to information that we maintain about You including, but not limited to, financial information (e.g., payment processor and/or merchant account information), unique identifier information (e.g., customer number or password), transaction information (e.g., dates on which You made purchases, amounts and types of purchases), participation history (e.g. dates on which You subscribed to lists at the Sites), and/or contact information (e.g., name, address, phone number).  Upon written request, We offer You the ability to have inaccuracies corrected in contact information, financial information, and/or transaction information as further detailed in this Site’s Terms of Use.
 
- **AFFILIATED SITES, LINKED SITES, AND ADVERTISEMENTS**
+**AFFILIATED SITES, LINKED SITES, AND ADVERTISEMENTS**
 
 We expect Our members, partners, advertisers, and Affiliates to respect Your Privacy and the privacy of Our other users. Be aware, however, that third parties (including, but not limited to, our partners, peers, advertisers, Affiliates, RideSharingDriver’s entities and personnel, other content providers, or other advertising services) (collectively referred to as “Promotional Partners”) whose websites may be accessible through the Site, may have their own privacy and data collection policies and practices.
 
@@ -66,17 +66,21 @@ While on the Site, our Promotional Partners or other third parties may use cooki
 
 You should also be aware that if You voluntarily disclose Personally Identifiable Information on message boards or in chat areas which may be accessible through the Site, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of RideSharingDriver and this Policy.
 
- **CHILDREN**
+**GOOGLE ADSENSE**
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to You based on Your visit to Our sites and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+
+**CHILDREN**
 
 We designed this Policy to comply with the Children’s Online Privacy Protection Act (“COPPA”). RideSharingDriver does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If We discover We have received any information from a child under the age of 13 in violation of this policy, We will delete that information immediately. If You believe RideSharingDriver has any information from or about anyone under the age of 13, please contact Us at the address listed below.
 
- **USER EMAILS OR TESTIMONIALS**
+**USER EMAILS OR TESTIMONIALS**
 
 If You are a customer and send an email to the Site or to RideSharingDriver or if You communicate with Us by phone or mail or other means, We collect information about Your communication. By communicating with Us, You give Your permission to collect, archive, retrieve, and otherwise use any information collected as We see fit.
 
 Any communication which, in Our sole discretion, We deem to be a testimonial, may be publicized for commercial purposes.
 
- **LEGAL DISCLAIMER**
+**LEGAL DISCLAIMER**
 
 RideSharingDriver uses reasonable precautions to keep the information disclosed to Us secure.  We will use Your information only as permitted by law. Though We make every effort to preserve Your privacy, We may need to disclose Personal Identifiable Information when required by law wherein We have a good-faith belief that such action is necessary to:
 
@@ -92,7 +96,7 @@ In addition, from time to time as We continue to develop Our business, We may se
 
 RideSharingDriver does not endorse, nor is it responsible for the accuracy of the Privacy Policy and/or Terms of Use/Service of each or any of the advertisers within the Sites. The entities which advertise and/or place ads with RideSharingDriver are independent third parties and are not affiliated with RideSharingDriver and are neither owned nor operated by RideSharingDriver unless otherwise stated on the advertiser’s website.  Furthermore, RideSharingDriver is not responsible for any breach of security, misuse of information, or for any other actions of any third parties that may receive the information.
 
- **CONTACTING US**
+**CONTACTING US**
 
 We can be reached by contacting:
 
@@ -102,15 +106,15 @@ Doug H
 HUNTINGTON BEACH, CALIFORNIA  92648  
 Email Address:  Doug@RideSharingDriver.com
 
- **CHANGES TO THIS POLICY**
+**CHANGES TO THIS POLICY**
 
 We reserve the right to change this Privacy Policy at any time. Please check this page and the Site’s Terms of Use periodically for changes. Your continued use of the Site following the posting of changes to this Privacy Policy will mean You accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
- **YOUR ACCEPTANCE OF THESE TERMS**
+**YOUR ACCEPTANCE OF THESE TERMS**
 
 By agreeing to receive information from Us, by downloading any information product, by logging into any membership area/social network/forum on the Site, or by participating in the RideSharingDriver Affiliate Program, you agree to this Privacy Policy. We reserve the right, at Our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Sites. Please check this page periodically for changes. Your continued use of the Site or acceptance of any email from RideSharingDriver following the posting of changes to these terms will mean that You accept these changes.
 
- **GOVERNING LAW**
+**GOVERNING LAW**
 
 This policy and the use of this Site are governed by the laws of the State of CALIFORNIA, in the COUNTY OFORANGE, United States. If a dispute arises under this Privacy Policy We agree to first try to resolve it with the help of a mutually agreed-upon online mediator. Any costs and fees (other than attorney fees) associated with the mediation will be shared equally by each of Us.
 
@@ -118,7 +122,7 @@ If it proves impossible to arrive at a mutually satisfactory solution through on
 
 In no case shall You have the right to go to court or have a jury trial. You will not have the right to engage in pre-trial discovery except as provided in the rules; You will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will final and binding with limited rights of appeal.
 
- **¹TAXPAYER IDENTIFICATION NUMBER (AFFILIATES ONLY)**
+**¹TAXPAYER IDENTIFICATION NUMBER (AFFILIATES ONLY)**
 
 If You register as an Affiliate (hereinafter “Payees”) AND if You are due any monies from their participation in the RideSharingDriver Affiliate Program, You must provide their Taxpayer Identification Number (either Your social security number or employer identification number if a United States citizen or resident, or other form of identification provided by their country of origin or residence) to RideSharingDriver. RideSharingDriver cannot make any payments to You until the You submit Your appropriate Taxpayer Identification Number and supporting Identification to RideSharingDriver  (as required by the Affiliate Agreement of the Site).
 
@@ -126,6 +130,6 @@ Furthermore, RideSharingDriver may not pay any monies to any You if You are a Un
 
 If You are neither a citizen nor a resident of the United States, You do not need to provide a U.S. taxpayer identification number, but in this case We are required to withhold a portion of any monies that may be due to You and remit them to the IRS. (You are still required to provide Us with Personal Identification as required in the Site’s Affiliate Policy.)  (You must apply to the IRS for a refund of this money if You do not owe any United States income taxes or are not subject to any laws pertaining to United States income taxes.) You should not be asked for (and You should never provide) Your taxpayer identification number, unless You are applying for a Program that entitles You to earn monies (whether such monies are derived from credits converted to cash, or otherwise).
 
- **NOTICE**
+**NOTICE**
 
 This content is not provided or commissioned by the credit card issuer. Opinions expressed here are author’s alone, not those of the credit card issuer, and have not been reviewed, approved or otherwise endorsed by the credit card issuer. This site may be compensated through the credit card issuer Affiliate Program.
