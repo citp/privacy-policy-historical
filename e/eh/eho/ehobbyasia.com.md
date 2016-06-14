@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033747id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080440id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
 
 # Help - Privacy
 
@@ -44,6 +44,25 @@ We use data service such as "Cookies" on the shopping cart system of the Site to
 ## Email and Newsletters
 
 We email you simply for the confirmation on your order and/or communication with you about the transactions. We send newsletters through email to you periodically to announce the latest airsoft products and services. If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by by sending us e-mail with the subject line "Unsubscribe" to or e-mail address. Also, you can simply opt-out of that subscription by clicking on the unsubscribe link at the end of the e-mail we sent to you. 
+
+Under the Ordinance, you have the right to: 
+
+* check whether we hold any of your personal data;
+* access your personal data held by us;
+* require us to correct any personal data which is inaccurate;
+* ascertain our policies and practices established (from time to time) in relation to personal data and the types of personal data held by us.
+
+If you want to access and/or correct the personal data that you have provided to us, or if you want to ascertain our policies and practices in relation to personal data and the kind of your personal data held by us, please call our customer services hotline or contact our Head of Customer Services in writing either by post or email at: 
+
+By post :  
+eHobby Asia Co.Ltd.   
+Shop B1, B/F, Lai Sun Commercial Centre, 680 Cheung Sha Wan Road, Hong Kong
+
+By email:  
+sales@ehobbyasia.com
+
+By Customer Services hotline:  
+(852) 3165 1541
 
 ## Security
 
