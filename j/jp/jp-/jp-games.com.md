@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jp-games.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215121625id_/http%3A//jp-games.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jp-games.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614183123id_/http%3A//jp-games.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy | JP-GAMES >> SHARE ISO GAMES
 
