@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929024702id_/http%3A//www.nlbuysell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614090501id_/http%3A//www.nlbuysell.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Newfoundland Buy & Sell Magazine
 
+This document was last modified on February 6th, 2016.
+
 At the Newfoundland Buy & Sell Online we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by the Newfoundland Buy & Sell Online or its subsidiaries.
 
-If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20150929024702id_/http%3A//www.nlbuysell.com/contactus.php) or [email](mailto:privacy@nlbuysell.com) us.
+If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20160614090501id_/http%3A//www.nlbuysell.com/contactus.php) or [email](mailto:privacy@nlbuysell.com) us.
+
+## Advertisements and Browser Cookies:
+
+The Buy & Sell Website uses cookies to help show you more relevant ads on the webpages. Third party vendors also use this data to show more relevant ads throughout the internet based on your past visits to websites. If you would like to Opt-out of this tracking, please [click here](https://tools.google.com/dlpage/gaoptout/).
 
 ## Information we collect and how we use it:
 
