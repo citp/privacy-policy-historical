@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infantbooks.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513025335id_/http%3A//www.infantbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infantbooks.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614171530id_/http%3A//www.infantbooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
