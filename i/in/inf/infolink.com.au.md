@@ -1,146 +1,74 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410061601id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614102446id_/http%3A//www.architectureanddesign.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Architecture And Design
 
-  1. ##  We care about your privacy.
+All rights reserved. No part of this website may be reproduced, stored in a retrieval system, transmitted in any form or by any other means, electronic, mechanical, photocopying, recording or otherwise. While every effort has been made to ensure the accuracy of the information on this website, the publishers assume no responsibility for errors or omissions or any consequences of reliance on this website.
 
-At Cirrus Media, we‘re committed to protecting your personal information. That’s why we’ve put together this policy. It explains in simple terms what kind of personal information we collect, how we use it and whether we disclose it to anyone else. And because we take privacy seriously, it’s been designed with careful reference to the Australian Privacy Principles (APPs) and related privacy laws.
+The opinions expressed on this website do not necessarily represent the views of the editor, the publisher or the publication. Contributions are submitted at the sender’s risk, and Indesign Media cannot accept any loss or damage. Please retain duplicates of text and images.
 
-This policy applies to the Cirrus Media Group Companies, including Cirrus Media Pty Ltd (“Cirrus Media”, “we”, “us”, “our”) and its related bodies corporate.
+All of Indesign Media’s website are wholly owned and maintained by Indesign Media. They are available for open viewing, without online membership.
 
-  2. ##  Collection of personal information
+The websites may contain surveys or offers which may require you to provide information about yourself. If you provide such information to us we may use the information to provide you with products or services you have. We may also provide this information to parties who provide the products or services on our behalf (such as fulfilment organisations).  
+We do not sell your information to third parties under any circumstances, however these parties may retain the information we provide for future activities of their own, including direct marketing. We may retain your information and use it to inform you of other promotions and publications from time to time.
 
-Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable. We usually collect personal information directly from individuals. However, we may also collect personal information about individuals from various third parties (for more details, see ‘Handling of personal information’ below).
+**Privacy Policy – Indesign Media Asia Pacific**
 
-The type of personal information we collect depends upon your relationship with us. When doing business with us, you may need to prove your identity and in some cases, the law requires you to do so. We may also require your contact information so that we can communicate with you directly or deliver products and services to you. So the information we collect for these purposes might include your name, telephone number, email address, business address, employment information and possibly, your driver’s licence or some other form of photo identification.
+Indesign Media Asia Pacific is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information Indesign may collect and what may happen to that information. Indesign Media may modify this Privacy Policy at any time.
 
-Less often we might collect personal information about you in connection with a commercial trading account or financing arrangement (such as bank records, credit card statements, credit reporting information), particularly if you’re intending to enter into the arrangement in your own name. We’ll provide you with more detailed information about exactly how this type of information will be used and who it may be disclosed to prior to collection.
+Any questions regarding this policy or enquiries regarding privacy should be sent to:
 
-At times we may also collect personal information for quality and improvement purposes, such as voice recordings made to our call centre and customer satisfaction surveys.
+Australia:  
+The Operations Director, Indesign Media Asia Pacific, 1/50 Marshall Street, Surry Hills NSW 2010, Australia.  
+info@indesign.com.au
 
-Whenever it’s appropriate, we’ll offer you the opportunity to interact with us anonymously or by a different name. Commonly this option will be provided to you when making a general enquiry about our products and services or requesting information about a job opportunity.
+Singapore:   
+The Managing Editor, Indesign Media Asia Pte Ltd, No.4 Leng Kee Road, SIS Building #06-08, Singapore 159088, Singapore.  
+accounts@indesign.com.sg
 
-  3. ##  Handling of personal information
+**What type of information is collected by Indesign Media?**
 
-We will do our utmost to ensure that your personal information is only used and/or disclosed for the purpose it was collected, or a related purpose that’s within your reasonable expectations.
+Indesign Media collects most information directly from the subscribers to its websites, from customers who order subscriptions via our subscription services, and visitors who register for our events. We collect this information so you can subscribe to products or services available for purchase via the Indesign Media websites, subscribe to the Architecture & Design, indesignlive, habitusliving, lookboxliving and/or Indesign The Event newsletters, advertise in our publishing partners’ publications, request a product or service from Indesign Media, get invited to sales and promotions within the industry, complete a survey or questionnaire, enter a competition, register to an event, or communicate with Indesign Media by email or telephone.
 
-    * From time to time we may need to disclose personal information to, or collect information about individuals from various third parties, including: other companies within the Cirrus Media group of companies
-    * credit providers (disclosed and undisclosed)
-    * information technology providers
-    * data processing and payment providers
-    * financial services and banking providers
-    * consultancy firms and independent contractors
-    * auditors, lawyers and other professional service firms
-    * marketing agencies and other marketing services providers
-    * print/mail/digital/imaging/document management service providers
-    * customer, product, business or strategic research and development organisations
-    * data partners and analytics consultants
-    * publicly available sources of information
-    * other entities, as required or authorised by law
+Indesign Media may also be provided with personal information about an individual from a third party, for example from third parties who give gift subscriptions.
 
-Some of these third parties may be located overseas.
+The type of personal information collected includes (but is not limited to) name, address, email address, contact details, age range, gender, profession.
 
-And to help safeguard your privacy, we’ll impose requirements on these entities for handling personal information. We’ll also do our best to inform you at or before the time of collection, about the types of organisations we may be disclosing your personal information to.
+How is this information used by Indesign Media?
 
-In addition to the above, personal information may be provided to other parties where you specifically consent.
+Indesign Media uses personal information primarily for the purpose to facilitate orders for subscriptions via its websites. Indesign Media only asks for information that is relevant for the subscription fulfilment.
 
-  4. ##  Marketing
+Indesign Media may also use this information to communicate with its customers and to provide updated information on products and services via email and Indesign Media’s newsletters. If you want to stop receiving any of Indesign Media’s newsletters, you can follow the “Unsubscribe” information at the bottom of each newsletter.
 
-Every now and again you may be contacted by mail, SMS, telephone, email or online so that we can inform you about new products and services, promotions, offers, newsletters, customer surveys competitions and the like. We may also engage third parties to do this on our behalf. In so far as the law allows us to, we are likely to market to you unless you tell us otherwise. Equally, we’ll always give you the opportunity to “opt-out” of direct marketing communications. If you don’t want to be contacted for marketing purposes, you don’t have to wait to be contacted. Simply advise us in any one of the methods set out below and we will make every effort to meet your request as soon as practicable.
+Indesign Media may also use this information to communicate with its customers and to provide updated information on products, services, and events.
 
-  5. ##  Our use of Cookies and other technologies
+From time to time, we may provide statistical information about sales, trading patterns and navigation techniques to our publishing partners. This will simply comprise data collected about you and other users to form aggregate results.
 
-Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Cirrus Media uses cookies to make your use of our websites and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website. Cirrus Media also uses other technologies such as Catchbot to collect data. Bots are a type of web crawler that browse the internet for the purpose of web indexing and updating web content.
+Unless requested not to, Indesign Media may provide your personal information to third parties, which may in turn provide your information to other third parties for marketing purposes. If you would not like us to share your information in this way please notify us by submitting the email address you used to subscribe here:
 
-If you do not wish to receive any cookies or bots you may set your browser to refuse cookies or bots. This may mean you will not be able to take full advantage of Cirrus Media’s services.
+Australia  
+By email: info@Indesign.com.au, or call us on (61 2) 9368 0150
 
-**Google cookies**  
-Cirrus Media uses Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet.
+Singapore  
+By email: accounts@indesign.com.sg, or call us on (65) 6475 5228
 
-We, and some third parties (including Google), also use first and third party cookies to optimise advertising on our websites.
+To whom might Indesign Media disclose Personal Information?
 
-Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information.
+Indesign Media may also provide your information to other organisations that are sponsoring or are otherwise involved with, or participating in, a promotion, competition or survey, including registered companies that are involved with the drawing of the prize, and database management entities.
 
-To opt out of these features at any time, simply change your Google Ads Settings by [clicking here](http://google.com.au/policies/technologies/ads). Alternatively, you can opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://networkadvertising.org/choices/#completed>).
+**Use of Internet Cookies online**
 
-If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit.
+Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting Indesign Media websites (for example, to place items in your shopping cart).
 
-  6. ##  Security of personal information
+**Sensitive Information**
 
-Once we have collected your personal information, we’ll take reasonable steps to ensure it is protected against misuse, loss, interference, unauthorised access, modification and disclosure. We do this in a variety of ways, including maintaining physical security of paper and electronic data stores (such as locks, security systems) and appropriate computer and network security (such as firewalls, user identification policies, encryption, password controls). Your personal information is stored and held securely by third party data storage providers used by Cirrus Media.
+We ask that you not send us or disclose any sensitive personal information (such as information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Indesign Media websites or over the phone or via email. If, contrary to this request, you do provide any sensitive information, in doing so you consent to us collecting and handling that information in accordance with this Privacy Policy.
 
-  7. ##  Destruction of personal information
+**Complaint**
 
-We’ll destroy or de-identify personal information that is no longer needed, provided there is no law requiring us to retain it.
+If you think we have breached the Privacy Act or other applicable privacy laws, you may contact us as outlined below. Please include your email address, name, address, and telephone number and clearly detail your complaint. We will need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days. Our response will inform you whether we have accepted your complaint, request further information, or advise that we do not think we are in breach. We will also let you know the next steps in resolving your complaint.
 
-  8. ##  Access to and correction of personal information
+If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to:
 
-Whilst we have processes in place to make sure your personal information is accurate and up-to-date, we welcome your requests to access and/or correct information we hold about you. To make a request, simply contact us in one of the ways set out below. There are no set charges for making a request, however we may charge a fee if need be, to recover any reasonable costs associated with responding to your request.
+The Office of the Australian Information Commissioner (www.oaic.gov.au),
 
-  9. ##  Collection notice: Booking forms
-
-This following information relates specifically to the personal information we collect from our event booking forms. Such information will generally include the names, and contact details of event delegates or sponsors, as well as information about the particular industry sector in which they operate and general billing information.
-
-We use this information for the primary purpose of registering delegates for the events we organise, and administering the attendance and participation of both sponsors and delegates.
-
-If we do not collect the information requested on the booking forms, we may not be able to process an individual’s attendance at an event.
-
-With your consent, we may also share your information with other entities [so that they can contact you about future event opportunities that may be of interest to you.
-
-Please see paragraphs 8 and 10 for details as to how you can access and correct the personal information we collect from our booking forms, or make a complaint about our handling of such information.
-
-We do not disclose personal information collected from our booking forms to recipients located outside Australia.
-
-  10. ##  Contact Us and complaints
-
-For more information about our privacy practices, make a complaint or lodge a request under this policy, please contact:
-
-The Privacy Officer
-
-Cirrus Media Pty Limited  
-Phone: +612 8484 0888  
-Email: privacy@cirrusmedia.com.au  
-Mail: Cirrus Media Pty Limited,  
-Tower 2 475 Victoria Ave or Locked Bag 2999 Chatswood DC,  
-Chatswood NSW 2067
-
-We will endeavour to respond to your request or complaint within 30 days. If you are still not satisfied, you may take your complaint to the OAIC.
-
-  11. ##  Application of this Privacy Policy
-
-This policy applies to the following websites:
-
-    * **Cirrus Media Main Site**
-    * cirrusmedia.com.au
-    * **Other sites**
-    * mediakit.moneymanagement.com.au
-    * australiandoctorlive.com
-    * awards.bandt.com.au
-    * events.moneymanagement.com.au
-    * primeawards.com.au
-    * cx-transformation.com.au
-    * digital-storytelling.com.au
-    * franchiseawards.net.au
-    * franchiseawards.net.au
-    * fundmanagerawards.com.au
-    * gpsmakethedifference.com.au
-    * awards.lawyersweekly.com.au
-    * madweek.com.au
-    * mining-productivity.com.au
-    * mmleaderseries.com.au
-    * postretirementforum.com.au
-    * ruraldoctorseminar.com.au
-    * roadshows.travelweekly.com.au
-    * womeninfinance.moneymanagement.com.au
-    * womeninindustry.com.au
-    * investmentplatforms.com.au
-    * medobs.com.au
-    * mydr.com.au
-    * fst.net.au
-    * medicalmedia.com.au
-    * encoredirectory.com.au
-    * aards.com.au
-    * eguide.com.sg
-    * just4docs.com.au
-
-
+or The Personal Data Protection Commission Singapore (www.pdpc.gov.sg).
