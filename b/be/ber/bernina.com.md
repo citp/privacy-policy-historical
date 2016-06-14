@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225215622id_/http%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615013027id_/http%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - BERNINA
+# Privacy Policy - Footer - BERNINA
 
 **1.  Your safety is our top priority**
 
