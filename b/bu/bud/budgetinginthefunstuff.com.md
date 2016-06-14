@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209153608id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614105804id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Budgeting In the Fun Stuff
+# Privacy PolicyBudgeting In the Fun Stuff
 
 **Personal Information Collected on this Website**  
 No personally-identifiable information is collected on this website from persons that browse our website. The only personally-identifiable information collected on this website is gathered in our comment area, where fields are provided so that you can provide your name and email address to leave a comment. We collect this information so that we can respond to the comments or questions that you post.
