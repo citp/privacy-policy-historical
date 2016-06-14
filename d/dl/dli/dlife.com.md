@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214054556id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080157id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - dLife.com - For Your Diabetes Life
 
@@ -6,9 +6,9 @@ dLife values the privacy of all of our users. We take very seriously the need to
 
 This privacy policy applies only to information collected online through the site and does not apply to the practices of companies that dLife does not own or control. Please note that we supply content to other Websites who promote our products. You will always know when dLife is collecting your information, as our privacy policy will be linked from that page. This information is not shared with any third party Websites. Please read this Policy carefully. Should any questions arise about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy.
 
-dLife has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through our Websites: [www.dLife.com](http://www.dlife.com/) and www.dlifequickcuisine.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy_items@dlife.com](mailto:privacy_items@dlife.com/) if you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+dLife has received TRUSTE's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, [http://www.dlife.com](http://www.dlife.com/) and does not cover information that may be collected through mobile applications.
 
-The TRUSTe program does not cover information that may be collected through mobile applications.
+If you have any questions or concerns regarding this Statement, you should first contact us at [privacy_items@dlife.com](mailto:privacy_items@dlife.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request)
 
 **How our site works**
 
@@ -43,6 +43,10 @@ We may provide your personal information to companies that provide services to h
 
 When you sign up on the dLife website, you may receive email communications from dLife and dLife's marketing partners that are specific to diabetes related products or services, and which may use the words "diabetes," "diabetic" or other indicators that the recipient may be diabetic. If you do not wish to receive such communications, then you may deactivate your account.
 
+**Import Contacts**
+
+You can import your contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
+
 **Blog**
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[privacy_items@dlife.com](mailto:privacy_items@dlife.com/).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -69,7 +73,7 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 **Updating/Accessing/Amending/Correcting Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [privacy_items@dlife.com](mailto:privacy_items@dlife.com/).
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [privacy_items@dlife.com](mailto:privacy_items@dlife.com/). We will respond to your request within a reasonable timeframe.
 
 **Cookies and other tracking technologies**
 
