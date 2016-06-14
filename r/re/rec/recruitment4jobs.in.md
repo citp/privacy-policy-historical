@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitment4jobs.in privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214040347id_/http%3A//www.recruitment4jobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitment4jobs.in privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614170534id_/http%3A//www.recruitment4jobs.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Recruitment 4 Jobs
 
@@ -12,7 +12,7 @@ Like many other Web sites, [www.recruitment4jobs.in](http://www.recruitment4job
 
  **Cookies and Web Beacons  **
 
-[Recruitment](http://www.recruitment4jobs.in/ "Recruitment Jobs") 4 [jobs](http://www.recruitment4jobs.in/ "jobs Jobs") does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Recruitment 4 jobs does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
   **DoubleClick DART Cookie  **
 
