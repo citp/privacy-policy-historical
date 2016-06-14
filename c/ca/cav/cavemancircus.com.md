@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavemancircus.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224142537id_/http%3A//cavemancircus.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavemancircus.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614021302id_/http%3A//cavemancircus.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Caveman Circus | Caveman Circus
 
