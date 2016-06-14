@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930162105id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614102026id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com | Privacy Policy & Security Statement
 
@@ -75,6 +75,8 @@ Some of our third party advertising partners ask us to make you aware of their p
 
 [**Criteo**](http://www.criteo.com/privacy/)
 
+[**Google**](https://www.google.es/intl/en/policies/privacy/)
+
 **REVIEWS**
 
 We offer you the opportunity to post reviews of the accommodation you book through our site. Where you provide us with a review, we may include your review on our websites and on selected partner sites.
@@ -97,14 +99,14 @@ Video guides, travel podcasts, city maps & free city guides. What to eat, where 
 
 [Find a guide »](http://www.hostels.com/d/guides "Find a travel guide")
 
-##### [Latest Blog Post](http://www.hostels.com/d/blog/cheap-eats/a-foodie-s-guide-to-marrakesh/)
+##### [Latest Blog Post](http://www.hostels.com/d/blog/travel-tips/five-free-activities-in-new-zealand/)
 
-The epitome of culinary richness, Marrakesh -the heart of the red city, is a foodies wonderland
+It's not hard to find something free to do in New Zealand; you just have to look up! Here are five ideas of what to see in this marvellous country with no need to dip into your ...
 
-[Read more »](http://www.hostels.com/d/blog/cheap-eats/a-foodie-s-guide-to-marrakesh/ "Latest blog post")
+[Read more »](http://www.hostels.com/d/blog/travel-tips/five-free-activities-in-new-zealand/ "Latest blog post")
 
 ##### [Great Value and Choice](http://www.hostels.com/hostel.menu.html)
 
-We offer the most comprehensive selection of hostels on the internet with over 35,000 great places to stay in 180 countries. The ultimate online resource for hostels everywhere.
+We offer the most comprehensive selection of hostels on the internet with over 33,000 great places to stay in 170 countries. The ultimate online resource for hostels everywhere.
 
 [Find great value hostels »](http://www.hostels.com/hostel.menu.html "Hostels.com great value and choice")
