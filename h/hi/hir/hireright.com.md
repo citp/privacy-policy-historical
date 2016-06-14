@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122033848id_/http%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615003626id_/http%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # HireRight Privacy Policy | HireRight
 
@@ -57,27 +57,31 @@ We employ Secure Socket Layer (SSL) data encryption when data is transmitted ove
 
 HireRight's web site may provide links to third-party web sites. Please be aware that those third-party web sites are outside of our control and are not covered by this Privacy Policy. If you have questions about how another site uses your information, consult that site's privacy statement.
 
-Your Ability to Review or Modify Personal Information, or Unsubscribe.
+**Your Ability to Review or Modify Personal Information, or Unsubscribe.**
 
-HireRight strives to protect the quality and integrity of your personal information. If you have provided your personal information (such as zip code, phone, e-mail or postal address) to HireRight while browsing HireRight's publicly accessible web site, and wish to update such personal information (if any) that you have provided us, please e-mail us at customerservice@hireright.com. Also, if you wish to unsubscribe from any of our newsletters or other communications for which you have registered, you may e-mail us atfeedback@hireright.com. If you are a HireRight client with a registered account, you may review (and update) your account information by logging into your account. If you are an individual on whom a HireRight client has requested a background screening investigation, and have submitted personal information to HireRight at the request of such client for purposes of procuring a background report, then you can review your HireRight file in accordance with your file disclosure rights under the Fair Credit Reporting Act, California Civil Code Section 1786.22 and any other applicable state laws by contacting HireRight's Customer Service Department at customerservice@hireright.com. Click to review a summary of your consumer rights (including file disclosure rights) under the Fair Credit Reporting Act.
+HireRight strives to protect the quality and integrity of your personal information. If you have provided your personal information (such as zip code, phone, e-mail or postal address) to HireRight while browsing HireRight's publicly accessible web site, and wish to update such personal information (if any) that you have provided us, please e-mail us at [custome](mailto:customerservice@hireright.com)[rservice@hireright.com](mailto:customerservice@hireright.com). Also, if you wish to unsubscribe from any of our newsletters or other communications for which you have registered, you may e-mail us at [feedback@hireright.com](mailto:feedback@hireright.com). If you are a HireRight client with a registered account, you may review (and update) your account information by logging into your account. If you are an individual on whom a HireRight client has requested a background screening investigation, and have submitted personal information to HireRight at the request of such client for purposes of procuring a background report, then you can review your HireRight file in accordance with your file disclosure rights under the Fair Credit Reporting Act, California Civil Code Section 1786.22 and any other applicable state laws by contacting HireRight's Customer Service Department at [customerservice@hireright.com](mailto:customerservice@hireright.com). [Click to review a summary of your consumer rights (including file disclosure rights) under the Fair Credit Reporting Act.](http://www.hireright.com/PDFs/FTCConsumerRights.pdf)
 
-Children Under Age 13
+**Children Under Age 13**
 
 HireRight does not offer services to children under the age of 13, and this web site is not directed to children under the age of 13. HireRight does not knowingly collect information about children under the age of 13.
 
-Changes to this Privacy Policy
+**Changes to this Privacy Policy**
 
 HireRight may revise this policy from time to time. If there is a material change to this Privacy Policy, we will post the revised policy at this location. HireRight will not provide less privacy protection, without your consent, to information collected under a prior privacy policy. We encourage you to periodically review this Privacy Policy to be informed of how HireRight is protecting your information.
 
+**Contact Us**
+
+You may request at any time a [ free copy of your background report](http://www.hireright.com/background-check-faq/answers/requesting-a-free-copy-of-your-background-report-file)[(s)](http://www.hireright.com/applicants) (if any) prepared by HireRight and/or your active database files (if any) maintained on you by HireRight; and you may [dispute for free](http://www.hireright.com/background-check-faq/answers/dispute-the-accuracy-or-completeness-of-your-background-report-file) the accuracy of the information in your background report. Go to <http://www.hireright.com/applicants> for links to both of these options.
+
 If you have any questions regarding our privacy policy, you may contact us at:
 
-Michele Waddell  
-HireRight, Inc.  
+Julie Duffner  
 3349 Michelson Dr., Suite 150.  
 Irvine, CA 92612  
 (949) 794-5451  
-[compliancewebsitequeue@hireright.com](mailto:compliancewebsitequeue@hireright.com)
+[HireRightPrivacy@hireright.com](mailto:HireRightPrivacy@hireright.com)
 
 In accordance with California Civil Code § 1786.20, the representative named above will be able to assist you with additional information regarding our privacy practices and policies in the event of a compromise of your information.
 
-Effective Date: January 1, 2014
+Effective Date: January 1, 2014  
+(Contact information updated January 2016)
