@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the silvaco.com privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614031555id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silvaco.com privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614183241id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><!-- InstanceBegin template="/Templates/silvacoHomeWide.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js no-touch csstransforms3d csstransitions webkit chrome linux js"><!-- InstanceBegin template="/Templates/silvacoHomeWide.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	
     	<!-- Basic -->
 		<meta charset="utf-8">
@@ -52,12 +52,15 @@
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
 
-<script type="text/javascript" async="" src="https://web.archive.org/web/20130123170311/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130123170311/https://ssl.google-analytics.com/ga.js"></script><script src="/vendor/modernizr/modernizr.js"></script> 
+		<!-- Print CSS -->
+        <link rel="stylesheet" href="/css/print.css" media="print">
+
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130123170311/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130123170311/https://ssl.google-analytics.com/ga.js"></script><script src="/vendor/modernizr/modernizr.js"></script> 
 
 
     <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
-	<body>
+	<body class="sticky-menu-active always-sticky" style="padding-top: 40px;">
   <div class="body">
 <!--<header id="header" class="clean-top" >-->
 <header id="header" class="clean-top" data-plugin-options="{&quot;alwaysStickyEnabled&quot;: true}">
@@ -67,11 +70,11 @@
 
 
                 <div class="search">
-    <form id="searchForm" action="http://www.silvaco.com/search.html" method="get">
+    <form id="searchForm" action="http://www.silvaco.com/search.html" method="get" novalidate="novalidate">
    <input type="hidden" name="cof" value="FORID:11">
    <input type="hidden" name="cx" value="018000630505577909806:qce6qwtfd-e">
                         <div class="input-group">
-                            <input type="text" name="q" class="form-control search" value="Search..." onfocus="this.value=''" id="searchBox" placeholder="Search..." required="">
+                            <input type="text" name="q" class="form-control search" value="Search..." onfocus="this.value=''" id="searchBox" placeholder="Search..." required="" aria-required="true">
                             <span class="input-group-btn">
                                 <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
                             </span>
@@ -86,10 +89,39 @@
         <li><a href="#" onclick="parent.window.location.href=getOtherURL(G_HOST_CN,location.pathname);">简体</a> </li> 
                 
         <li><a href="#" onclick="parent.window.location.href=getOtherURL(G_HOST_KR,location.pathname);">한국어</a></li> 
+
+        <li style=" color:#999; padding-top: 6px;">|</li> 
                 
+        <li><a style="color:#FFFFFF;" href="#contact_us" class="modal-sizes" onclick="initIframe('us')"> CONTACT US</a></li> 
                 </ul>
                 </nav>
         </div>
+        
+        
+        <div id="contact_us" class="modal-block modal-block-md mfp-hide">
+            <section class="panel" id="contact_form_section" "="">
+                <header class="panel-heading">
+                    <button type="button" class="modal-dismiss close" data-dismiss="modal" aria-hidden="true">X</button>
+                    <h2 class="panel-title">Contact Us</h2>
+                </header>
+                <div class="panel-body">
+                    <iframe id="contact_form_iframe" src="" width="100%" height="500" type="text/html" frameborder="0" allowtransparency="true" style="border: 0;max-width: 550px;">
+                    </iframe>
+                </div>
+                
+            </section>
+            
+            <script language="javascript">
+				function initIframe(cr){
+					document.getElementById("contact_form_iframe").src = "http://go.silvaco.com/l/145371/2016-06-02/53knw?cr="+cr;
+				}
+			
+			</script>
+            
+  </div>
+        
+        
+        
   </div>
   
   <!--END SEARCH Container-->
@@ -120,7 +152,7 @@ function getUrlVars()
 	{
 		var hash = hashes[i].split('=');
 		vars.push(hash[0]);
-		vars[hash[0]] = hash[1];
+		vars[hash[0]] = hashes[i].substring(hash[0].length+1);
 	}
 	return vars;
 }
@@ -159,7 +191,7 @@ var cnt=1;
 
 function getCurrentNodeByUrlPath(url){
 	var dir = dirname(url);
-	//console.log(dir);
+	console.log(dir);
 	if(dir=='/' || dir=='')return null;
 	
 	cnt++;
@@ -232,7 +264,7 @@ var nod_t_d_2d_a_a = new NavigationNode(nod_t_d_2d_a,'Laser','/products/vwf/atla
 var nod_t_d_2d_a_v = new NavigationNode(nod_t_d_2d_a,'VCSEL','/products/vwf/atlas/vcsels/vcsels.html','VCSEL');
 var nod_t_d_2d_a_n = new NavigationNode(nod_t_d_2d_a,'Noise','/products/vwf/atlas/noise/noise.html','Noise');
 var nod_t_d_2d_a_f = new NavigationNode(nod_t_d_2d_a,'Ferro','/products/vwf/atlas/ferro/ferro_br.html','Ferro');
-var nod_t_d_2d_a_i = new NavigationNode(nod_t_d_2d_a,'Magnetic','/products/vwf/atlas/ferro/ferro_br.html','Magnetic');
+var nod_t_d_2d_a_i = new NavigationNode(nod_t_d_2d_a,'Magnetic','/products/vwf/atlas/2D/magnetic2D/magnetic2D_br.html','Magnetic');
 var nod_t_d_2d_a_c = new NavigationNode(nod_t_d_2d_a,'Mercury','/products/vwf/atlas/mercury/mercury_br.html','Mercury');
 var nod_t_d_2d_a_d = new NavigationNode(nod_t_d_2d_a,'MC Device','/products/vwf/atlas/2D/mc_device/mc_device_br.html','MC Device');
 var nod_t_d_2d_a_r = new NavigationNode(nod_t_d_2d_a,'REM','/products/vwf/atlas/2D/rem/rem_br.html','REM');
@@ -261,13 +293,15 @@ var nod_s_s_r = new NavigationNode(nod_s_s,'SmartSpice RadHard','/products/analo
 var nod_s_s_c = new NavigationNode(nod_s_s,'Circuit Rubberband','/products/analog_mixed_signal/circuit_rubberband/circuit_rubberband_br.html','Circuit Rubberband');
 var nod_s_s_o = new NavigationNode(nod_s_s,'Optimization','/products/analog_mixed_signal/optimization/optimization_br.html','Optimization');
 var nod_s_a = new NavigationNode(nod_s,'Analog/Mixed-Signal Simulator','/products/analog_mixed_signal/harmony.html','Analog/Mixed-Signal Simulator');
-var nod_s_v = new NavigationNode(nod_s,'Verlilog-A Environment','/products/analog_mixed_signal/behavioral_modeling/verilog_A.html','Verlilog-A Environment');
 var nod_s_r = new NavigationNode(nod_s,'RF Circuit Simulator','/products/analog_mixed_signal/rf_circuit_simulation/smartspice_rf.html','RF Circuit Simulator');
+var nod_s_t = new NavigationNode(nod_s,'Waveform Viewer','/products/analog_mixed_signal/waveform_viewer/waveform_viewer.html','Waveform Viewer and Simulation Analysis Environment');
+var nod_s_v = new NavigationNode(nod_s,'Verlilog-A Environment','/products/analog_mixed_signal/behavioral_modeling/verilog_A.html','Verlilog-A Environment');
 
 /* begin Spice Modeling */
 var nod_m = new NavigationNode(product,'SPICE Modeling','/products/analog_mixed_signal/device_characterization_SPICE_modeling/utmost_IV.html','SPICE Modeling');
 var nod_m_u4 = new NavigationNode(nod_m,'Device Characterization and SPICE Modeling','/products/analog_mixed_signal/device_characterization_SPICE_modeling/utmost_IV.html','Device Characterization and SPICE Modeling');
 var nod_m_s = new NavigationNode(nod_m,'Statistical Parameter and Yield Analysis','/products/analog_mixed_signal/statistical_parameter_yield_analysis/spayn.html','Statistical Parameter and Yield Analysis');
+var nod_m_t = new NavigationNode(nod_m,'Device Modeling for New Technologies','/products/variation_analysis/techmodeler.html','Device Modeling for New Technologies');
 
 /* begin Analog Custom Design */
 var nod_c = new NavigationNode(product,'Analog/Custom Design','/products/custom_ic_cad.html','Analog/Custom Design');
@@ -279,7 +313,7 @@ var nod_c_h = new NavigationNode(nod_c,'Full-Chip Parasitic Extraction','/produc
 var nod_c_c = new NavigationNode(nod_c,'RLC Netlist Reduction','/products/custom_ic_cad/rlc_netlist_reduction/clarity_rlc.html','RLC Netlist Reduction');
 
 /* begin PDK Design Flow */
-var nod_pdk = new NavigationNode(product,'PDKs ','/design_flows/pdk.html','PDKs');
+var nod_pdk = new NavigationNode(product,'PDKs ','/design_flows/pdk.html','PDKs', true);
 var nod_pdk_o = new NavigationNode(nod_pdk,'Overview','/design_flows/pdk.html','Overview');
 var nod_pdk_ap = new NavigationNode(nod_pdk,'Available PDKs','/designflows/availablePDKs.html','Available PDKs');
 var nod_pdk_fp = new NavigationNode(nod_pdk,'Foundry Partners ','/designflows/partners.html','Foundry Partners ');
@@ -293,6 +327,13 @@ var nod_pdk_mi = new NavigationNode(nod_pdk,'Migration to Silvaco PDKs','/design
 /* begin Power Integrity */
 var nod_pow = new NavigationNode(product,'Power Integrity Signoff','/products/analog_mixed_signal/inVar/invar.html','Power Integrity Signoff');
 var nod_pow_o = new NavigationNode(nod_pow,'InVar Power-EM/IR-Thermal','/products/analog_mixed_signal/inVar/invar.html','InVar Power-EM/IR-Thermal');
+
+
+/* begin Variation Analysis */
+var nod_var = new NavigationNode(product,'Variation-Aware Design','/products/variation_analysis/variation_analysis.html','Variation-Aware Design');
+var nod_var_o = new NavigationNode(nod_var,'Overview','/products/variation_analysis/variation_analysis.html','Overview');
+var nod_var_a = new NavigationNode(nod_var,'Variation Manager','/products/variation_analysis/iclys.html','Variation Manager');
+var nod_var_b = new NavigationNode(nod_var,'Library Variation Manager','/products/variation_analysis/calys.html','Library Variation Manager');
 
 
 /* begin Digital Design */
@@ -326,6 +367,10 @@ var nod_spc_c = new NavigationNode(spicemodels,'UOTFT','/products/analog/spicemo
 var nod_spc_d = new NavigationNode(spicemodels,'VBIC','/products/analog/spicemodels/models/vbic/vbic.html','VBIC');
 var nod_spc_e = new NavigationNode(spicemodels,'IBIS Support','/products/soiModels/ibis_support.html','IBIS Support');
 
+
+/*2015 TCAD Baseline*/
+var nod_2016 = new NavigationNode(product,'Latest Baseline','/products/2016BaselineFeatures.html','Latest Baseline');
+//var nod_2015 = new NavigationNode(product,'2015 Baseline','/products/2015BaselineFeatures.html','2015 Baseline');
 
 
 /* begin Examples */
@@ -370,13 +415,15 @@ var nod_so_l = new NavigationNode(solutions,'Library/Memory Design','/solutions/
 /* begin Corporate */
 var nod_co_a = new NavigationNode(corporate,'About Us','/company/profile/profile.html','About Us');
 var nod_co_n = new NavigationNode(corporate,'News','/news/pressreleases/index.html','News',true);
-var nod_co_m = new NavigationNode(corporate,'Management','/company/management/index.html','Management');
+var nod_co_m = new NavigationNode(corporate,'Management','/company/management/index.html','Management', true);
 var nod_co_p = new NavigationNode(corporate,'Partners','/company/partners/partners.html','Partners', true);
 var nod_co_p_fp = new NavigationNode(nod_co_p,'Foundry Partners ','/designflows/partners.html','Foundry Partners ');
 var nod_co_p_up = new NavigationNode(nod_co_p,'Industry Associations','/company/partners/industryAssociations.html','Industry Associations');
 var nod_co_p_ip = new NavigationNode(nod_co_p,'University Partners','/company/partners/university_partners.html','University Partners');
 var nod_co_p_ep = new NavigationNode(nod_co_p,'EDA Partners','/company/partners/EDAPartners.html','EDA Partners');
+var nod_co_p_op = new NavigationNode(nod_co_p,'IP Partners','/company/partners/ipPartners.html','IP Partners');
 var nod_co_c = new NavigationNode(corporate,'Careers','/company/openings/openings.html','Careers',true);
+var nod_co_cc = new NavigationNode(corporate,'Events','/company/events/dac_2016.html','Events',true);
 var nod_co_f = new NavigationNode(corporate,'Conferences','/company/events/conferences.html','Conferences');
 var nod_co_g = new NavigationNode(corporate,'Goverment Program','/government/index.html','Goverment Program');
 var nod_co_u = new NavigationNode(corporate,'University Program','/company/university_program.html','University Program');
@@ -389,24 +436,24 @@ var nod_co_t_t = new NavigationNode(nod_co_t,'Texas','/company/offices/texas.htm
 var nod_co_t_m = new NavigationNode(nod_co_t,'Massachusetts','/company/offices/massachusetts.html','Massachusetts');
 var nod_co_t_j = new NavigationNode(nod_co_t,'Silvaco Japan','/company/offices/japan.html','Silvaco Japan');
 var nod_co_t_e = new NavigationNode(nod_co_t,'Silvaco Europe','/company/offices/uk.html','Silvaco Europe');
+var nod_co_t_f = new NavigationNode(nod_co_t,'Silvaco France','/company/offices/france.html','Silvaco France');
 var nod_co_t_k = new NavigationNode(nod_co_t,'Silvaco Korea','/company/offices/korea.html','Silvaco Korea');
 var nod_co_t_t = new NavigationNode(nod_co_t,'Silvaco Taiwan','/company/offices/taiwan.html','Silvaco Taiwan');
 var nod_co_t_s = new NavigationNode(nod_co_t,'Silvaco Singapore','/company/offices/singapore.html','Silvaco Singapore');
-var nod_co_t_bb = new NavigationNode(nod_co_t_s,'Buona Vista Data Systems','/company/offices/distributorsChina01.html','Certified Distributors');
-var nod_co_t_cc = new NavigationNode(nod_co_t_s,'Huada Empyrean','/company/offices/distributorsChina06.html','Certified Distributors');
-var nod_co_t_dd = new NavigationNode(nod_co_t_s,'Vendorchain International Limited','/company/offices/distributorsChina02.html','Certified Distributors');
-var nod_co_t_ee = new NavigationNode(nod_co_t_s,'Xinjia Tech','/company/offices/distributorsChina03.html','Certified Distributors');
+var nod_co_t_c = new NavigationNode(nod_co_t,'Silvaco China','/company/offices/china.html','Silvaco China');
+//var nod_co_t_cc = new NavigationNode(nod_co_t_s,'China Distributors','/company/offices/distributorsChina07.html','Certified China Distributors');
 var nod_co_t_ff = new NavigationNode(nod_co_t_s,'M/S Micro Chitronix Systems','/company/offices/distributorsIndia04.html','Certified Distributors');
+var nod_co_t_hh = new NavigationNode(nod_co_t_s,'Cognitive Design Technology Pvt. Ltd.','/company/offices/distributorsIndia05.html','Certified Distributors');
 var nod_co_t_gg = new NavigationNode(nod_co_t_s,'IC Microsystems','/company/offices/distributorsMalasia01.html','Certified Distributors');
 var nod_co_b = new NavigationNode(corporate,'30 Years in Business','/company/30th-year.html','30 Years in Business');
 
 /* begin Services */
 var nod_sv_o = new NavigationNode(service,'Overview','/services/index.html','Overview');
-var nod_sv_t = new NavigationNode(service,'TCAD Services','/services/tcadServices/tcad_services.html','TCAD Services');
 var nod_sv_s = new NavigationNode(service,'SPICE Modeling','/services/modelingServices/modeling_services.html','SPICE Modeling');
-var nod_sv_p = new NavigationNode(service,'Parasitic Extraction','/services/parasiticExtractionServices/par_extrct.html','Parasitic Extraction');
+//var nod_sv_p = new NavigationNode(service,'Parasitic Extraction','/services/parasiticExtractionServices/par_extrct.html','Parasitic Extraction');
 var nod_sv_pdk = new NavigationNode(service,'PDK Development','/services/pdkServices/pdk_services.html','PDK Development');
-var nod_sv_c = new NavigationNode(service,'Cell Libraries and Blocks','/services/cellcoreServices/cellcore_services.html','Cell Libraries and Blocks');
+//var nod_sv_c = new NavigationNode(service,'Cell Libraries and Blocks','/services/cellcoreServices/cellcore_services.html','Cell Libraries and Blocks');
+var nod_sv_t = new NavigationNode(service,'TCAD Services','/services/tcadServices/tcad_services.html','TCAD Services');
 
 /* begin Technical Library */
 var techlib_p = new NavigationNode(techlib,'Publications','/tech_lib/index.html','Publications',true);
@@ -414,7 +461,13 @@ G_navigation_folders['/tech_lib_TCAD'] = techlib_p;
 G_navigation_folders['/tech_lib_EDA'] = techlib_p;
 G_navigation_folders['/tech_lib_EDA'] = techlib_p;
 var techlib_w = new NavigationNode(techlib,'Webinars','/webinar/index.html','Webinars',true);
-/*var techlib_v = new NavigationNode(techlib,'Video Library','/tech_lib_TCAD/videos/index.html','Video Library');*/
+/*var techlib_v = new NavigationNode(techlib,'Video Library','/tech_lib_TCAD/videos/index.html','Video Library');
+ */
+
+ var support = new NavigationNode(home,'Home',null,'Supported');
+ var supportp = new NavigationNode(support,'Supported Platform','/support/platforms.html','Supported Platform');
+
+ 
 </script>
 <script>
 var hostUrl = getUrlVars()['hostUrl']?getUrlVars()['hostUrl']:'';
@@ -497,7 +550,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
                                         	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
                                         }
                                         document.write(strHtml);
-                                        </script><span class="mega-menu-sub-title">SPICE Simulation</span><li><a href="/products/analog_mixed_signal.html">Overview</a></li><li><a href="/products/analog_mixed_signal/smartspice.html">Parallel SPICE Simulator</a></li><li><a href="/products/analog_mixed_signal/harmony.html">Analog/Mixed-Signal Simulator</a></li><li><a href="/products/analog_mixed_signal/behavioral_modeling/verilog_A.html">Verlilog-A Environment</a></li><li><a href="/products/analog_mixed_signal/rf_circuit_simulation/smartspice_rf.html">RF Circuit Simulator</a></li><span class="mega-menu-sub-title">SPICE MODELING</span><li><a href="/products/analog_mixed_signal/device_characterization_SPICE_modeling/utmost_IV.html">Device Characterization and SPICE Modeling</a></li><li><a href="/products/analog_mixed_signal/statistical_parameter_yield_analysis/spayn.html">Statistical Parameter and Yield Analysis</a></li><span class="mega-menu-sub-title">Library/Memory Characterization</span><li><a href="/products/digital_cad/cell_characterization_modeling/accucell.html">Cell Characterization and Modeling</a></li><li><a href="/products/digital_cad/block_characterization_modeling_sta/accucore.html">Block Characterization, Modeling and STA</a></li>
+                                        </script><span class="mega-menu-sub-title">SPICE Simulation</span><li><a href="/products/analog_mixed_signal.html">Overview</a></li><li><a href="/products/analog_mixed_signal/smartspice.html">Parallel SPICE Simulator</a></li><li><a href="/products/analog_mixed_signal/harmony.html">Analog/Mixed-Signal Simulator</a></li><li><a href="/products/analog_mixed_signal/rf_circuit_simulation/smartspice_rf.html">RF Circuit Simulator</a></li><li><a href="/products/analog_mixed_signal/waveform_viewer/waveform_viewer.html">Waveform Viewer</a></li><li><a href="/products/analog_mixed_signal/behavioral_modeling/verilog_A.html">Verlilog-A Environment</a></li><span class="mega-menu-sub-title">SPICE MODELING</span><li><a href="/products/analog_mixed_signal/device_characterization_SPICE_modeling/utmost_IV.html">Device Characterization and SPICE Modeling</a></li><li><a href="/products/analog_mixed_signal/statistical_parameter_yield_analysis/spayn.html">Statistical Parameter and Yield Analysis</a></li><li><a href="/products/variation_analysis/techmodeler.html">Device Modeling for New Technologies</a></li><span class="mega-menu-sub-title">Library/Memory Characterization</span><li><a href="/products/digital_cad/cell_characterization_modeling/accucell.html">Cell Characterization and Modeling</a></li><li><a href="/products/digital_cad/block_characterization_modeling_sta/accucore.html">Block Characterization, Modeling and STA</a></li>
                                         
                                     </ul>
                                     </div>
@@ -509,11 +562,15 @@ document.addEventListener("DOMContentLoaded", function(event) {
 												chds = nod_c.getChildenNodes()[i];
 												strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
 											}
-											strHtml +='<span class="mega-menu-sub-title">PDKs</span>';
-											strHtml +='<li><a href="'+hostUrl + nod_pdk_o.getURL()+'">'+nod_pdk_o.getTitle()+'</a></li>';
+											strHtml +='<span class="mega-menu-sub-title">DIGITAL DESIGN</span>';
+											for(var i=0;nod_d.getChildenNodes()!=null && i<nod_d.getChildenNodes().length;i++){
+												chds = nod_d.getChildenNodes()[i];
+												strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+											}
+											
 											
 											document.write(strHtml);
-											</script><span class="mega-menu-sub-title">ANALOG/CUSTOM DESIGN</span><li><a href="/products/custom_ic_cad.html">Overview</a></li><li><a href="/products/analog_mixed_signal/schematic_editing/gateway.html">Schematic Editor</a></li><li><a href="/products/custom_ic_cad/layout_editing/expert.html">Layout Editor</a></li><li><a href="/products/custom_ic_cad/drc_lvs_net_physical_verification/guardian.html">DRC/LVS/NET Physical Verification</a></li><li><a href="/products/custom_ic_cad/full_chip_parasitic_extraction/hipex.html">Full-Chip Parasitic Extraction</a></li><li><a href="/products/custom_ic_cad/rlc_netlist_reduction/clarity_rlc.html">RLC Netlist Reduction</a></li><span class="mega-menu-sub-title">PDKs</span><li><a href="/design_flows/pdk.html">Overview</a></li>
+											</script><span class="mega-menu-sub-title">ANALOG/CUSTOM DESIGN</span><li><a href="/products/custom_ic_cad.html">Overview</a></li><li><a href="/products/analog_mixed_signal/schematic_editing/gateway.html">Schematic Editor</a></li><li><a href="/products/custom_ic_cad/layout_editing/expert.html">Layout Editor</a></li><li><a href="/products/custom_ic_cad/drc_lvs_net_physical_verification/guardian.html">DRC/LVS/NET Physical Verification</a></li><li><a href="/products/custom_ic_cad/full_chip_parasitic_extraction/hipex.html">Full-Chip Parasitic Extraction</a></li><li><a href="/products/custom_ic_cad/rlc_netlist_reduction/clarity_rlc.html">RLC Netlist Reduction</a></li><span class="mega-menu-sub-title">DIGITAL DESIGN</span><li><a href="/products/digital_cad.html">Overview</a></li><li><a href="/products/digital_cad/verilog_simulation/silos.html">Verilog Simulator</a></li><li><a href="/products/digital_cad/mixed_level_fault_simulator/hyperfault.html">Mixed-Level Fault Simulator</a></li><li><a href="/products/digital_cad/spice_netlist_verilog_gates_conversion/catalyst_ad.html">SPICE Netlist to Verilog Gates Converter</a></li><li><a href="/products/digital_cad/verilog_netlist_spice_netlist_converter/catalyst_da.html">Verilog Netlist to SPICE Netlist Converter</a></li><li><a href="/products/digital_cad/place_route_design_flow/spider.html">Place and Route Design Flow</a></li>
 											
 										</ul>
 									</div>
@@ -525,11 +582,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
 												chds = nod_pow.getChildenNodes()[i];
 												strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
 											}
-											strHtml +='<span class="mega-menu-sub-title">DIGITAL DESIGN</span>';
-											for(var i=0;nod_d.getChildenNodes()!=null && i<nod_d.getChildenNodes().length;i++){
-												chds = nod_d.getChildenNodes()[i];
-												strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
-											}
+											strHtml +='<span class="mega-menu-sub-title">VARIATION-AWARE DESIGN</span>';
+											strHtml +='<li><a href="'+hostUrl + nod_var_o.getURL()+'">'+nod_pdk_o.getTitle()+'</a></li>';
+
+											strHtml +='<span class="mega-menu-sub-title">PDKs</span>';
+											strHtml +='<li><a href="'+hostUrl + nod_pdk_o.getURL()+'">'+nod_pdk_o.getTitle()+'</a></li>';
+
+											strHtml +='<li><a class="mega-menu-sub-title" href="'+hostUrl + nod_2016.getURL()+'"><span class="mega-menu-sub-title">'+nod_2016.getTitle()+'</span></a></li>';
+											
 											strHtml +='<span class="mega-menu-sub-title">PRODUCT EXAMPLES</span>';
 											strHtml +='<li><a href="'+hostUrl + nod_e_o.getURL()+'">'+nod_e_o.getTitle()+'</a></li>';
 
@@ -538,7 +598,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 											
 											document.write(strHtml);
-											</script><span class="mega-menu-sub-title">POWER INTEGRITY SIGNOFF</span><li><a href="/products/analog_mixed_signal/inVar/invar.html">InVar Power-EM/IR-Thermal</a></li><span class="mega-menu-sub-title">DIGITAL DESIGN</span><li><a href="/products/digital_cad.html">Overview</a></li><li><a href="/products/digital_cad/verilog_simulation/silos.html">Verilog Simulator</a></li><li><a href="/products/digital_cad/mixed_level_fault_simulator/hyperfault.html">Mixed-Level Fault Simulator</a></li><li><a href="/products/digital_cad/spice_netlist_verilog_gates_conversion/catalyst_ad.html">SPICE Netlist to Verilog Gates Converter</a></li><li><a href="/products/digital_cad/verilog_netlist_spice_netlist_converter/catalyst_da.html">Verilog Netlist to SPICE Netlist Converter</a></li><li><a href="/products/digital_cad/place_route_design_flow/spider.html">Place and Route Design Flow</a></li><span class="mega-menu-sub-title">PRODUCT EXAMPLES</span><li><a href="/examples/index.html">Overview</a></li><span class="mega-menu-sub-title">LICENSING</span><li><a href="/licensing/licensing.html">Overview</a></li>
+											</script><span class="mega-menu-sub-title">POWER INTEGRITY SIGNOFF</span><li><a href="/products/analog_mixed_signal/inVar/invar.html">InVar Power-EM/IR-Thermal</a></li><span class="mega-menu-sub-title">VARIATION-AWARE DESIGN</span><li><a href="/products/variation_analysis/variation_analysis.html">Overview</a></li><span class="mega-menu-sub-title">PDKs</span><li><a href="/design_flows/pdk.html">Overview</a></li><li><a class="mega-menu-sub-title" href="/products/2016BaselineFeatures.html"><span class="mega-menu-sub-title">Latest Baseline</span></a></li><span class="mega-menu-sub-title">PRODUCT EXAMPLES</span><li><a href="/examples/index.html">Overview</a></li><span class="mega-menu-sub-title">LICENSING</span><li><a href="/licensing/licensing.html">Overview</a></li>
 											
 										</ul>
 									</div>
@@ -571,7 +631,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 							strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
 						}
 						document.write(strHtml);
-						</script><li><a href="/services/index.html">Overview</a></li><li><a href="/services/tcadServices/tcad_services.html">TCAD Services</a></li><li><a href="/services/modelingServices/modeling_services.html">SPICE Modeling</a></li><li><a href="/services/parasiticExtractionServices/par_extrct.html">Parasitic Extraction</a></li><li><a href="/services/pdkServices/pdk_services.html">PDK Development</a></li><li><a href="/services/cellcoreServices/cellcore_services.html">Cell Libraries and Blocks</a></li>
+						</script><li><a href="/services/index.html">Overview</a></li><li><a href="/services/modelingServices/modeling_services.html">SPICE Modeling</a></li><li><a href="/services/pdkServices/pdk_services.html">PDK Development</a></li><li><a href="/services/tcadServices/tcad_services.html">TCAD Services</a></li>
 					</ul>
 				</li>
 				<li id="top_download">
@@ -590,7 +650,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 							strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
 						}
 						document.write(strHtml);
-						</script><li><a href="/company/profile/profile.html">About Us</a></li><li><a href="/news/pressreleases/index.html">News</a></li><li><a href="/company/management/index.html">Management</a></li><li><a href="/company/partners/partners.html">Partners</a></li><li><a href="/company/openings/openings.html">Careers</a></li><li><a href="/company/events/conferences.html">Conferences</a></li><li><a href="/government/index.html">Goverment Program</a></li><li><a href="/company/university_program.html">University Program</a></li><li><a href="/company/offices/offices.html">Contact Us</a></li><li><a href="/company/30th-year.html">30 Years in Business</a></li>
+						</script><li><a href="/company/profile/profile.html">About Us</a></li><li><a href="/news/pressreleases/index.html">News</a></li><li><a href="/company/management/index.html">Management</a></li><li><a href="/company/partners/partners.html">Partners</a></li><li><a href="/company/openings/openings.html">Careers</a></li><li><a href="/company/events/dac_2016.html">Events</a></li><li><a href="/company/events/conferences.html">Conferences</a></li><li><a href="/government/index.html">Goverment Program</a></li><li><a href="/company/university_program.html">University Program</a></li><li><a href="/company/offices/offices.html">Contact Us</a></li><li><a href="/company/30th-year.html">30 Years in Business</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -647,6 +707,8 @@ document.write( breadcrumb_html );
                         <div class="col-md-2">
 							<aside class="sidebar">
 <!-- InstanceBeginEditable name="LeftSubNav" -->
+<div class="leftside_nav">
+
 <script>
 
 	
@@ -669,7 +731,8 @@ if(curNode!=null && curNode.getParentNode()!=null){
 	var silblings =  curNode.getParentNode().getChildenNodes();
 	document.write( getLeftNaviHTML(silblings,true));
 }
-</script><!-- InstanceEndEditable -->
+</script>
+</div><!-- InstanceEndEditable -->
 							</aside>
 						</div>
                         <!--End Left SubNav-->
@@ -785,14 +848,14 @@ if(curNode!=null && curNode.getParentNode()!=null){
 		<h4>Follow Us</h4>
 							<div class="social-icons">
 								<ul class="social-icons">
-									<li class="facebook"><a href="https://www.facebook.com/pages/Silvaco/193512520767995" target="_blank" data-placement="bottom" data-tooltip="" title="Facebook">Facebook</a></li>
-									<li class="twitter"><a href="https://twitter.com/SilvacoSoftware" target="_blank" data-placement="bottom" data-tooltip="" title="Twitter">Twitter</a></li>
-									<li class="linkedin"><a href="https://www.linkedin.com/company/silvaco?trk=tyah" target="_blank" data-placement="bottom" data-tooltip="" title="Linkedin">Linkedin</a></li>
-									<li class="youtube"><a href="https://www.youtube.com/user/SilvacoUSA" target="_blank" data-placement="bottom" data-tooltip="" title="YouTube">YouTube</a></li>
-									<li class="googleplus"><a href="http://plus.google.com/+silvaco" target="_blank" data-placement="bottom" data-tooltip="" title="Google+">Google+</a></li>
+									<li class="facebook"><a href="https://www.facebook.com/pages/Silvaco/193512520767995" target="_blank" data-placement="bottom" data-tooltip="" title="" data-original-title="Facebook">Facebook</a></li>
+									<li class="twitter"><a href="https://twitter.com/SilvacoSoftware" target="_blank" data-placement="bottom" data-tooltip="" title="" data-original-title="Twitter">Twitter</a></li>
+									<li class="linkedin"><a href="https://www.linkedin.com/company/silvaco?trk=tyah" target="_blank" data-placement="bottom" data-tooltip="" title="" data-original-title="Linkedin">Linkedin</a></li>
+									<li class="youtube"><a href="https://www.youtube.com/user/SilvacoUSA" target="_blank" data-placement="bottom" data-tooltip="" title="" data-original-title="YouTube">YouTube</a></li>
+									<li class="googleplus"><a href="http://plus.google.com/+silvaco" target="_blank" data-placement="bottom" data-tooltip="" title="" data-original-title="Google+">Google+</a></li>
 								</ul>
-							</div><br>   <a href="/company/30th-year.html"><!--<img src="/img/30thseal.png" alt="30th Year Logo" width="100" border="0"/>--><img src="/img/30th_vid_thumb.jpg" alt="30th Year Video" width="118" height="66" border="0"></a> &nbsp;
-<a href="/company/commemorate.html"><img src="/images/mugs.jpg" width="122" height="65" border="0"></a> </div>								
+							</div><br>   <a href="/company/30th-year.html"><!--<img src="/img/30thseal.png" alt="30th Year Logo" width="100" border="0"/>--><img src="/img/30th_vid_thumb.jpg" alt="30th Year Video" width="118" height="66" border="0"></a> 
+</div>								
                     </div>
                             
 
@@ -878,6 +941,25 @@ document.write(""+year+"")
         <!--Begin Google Analytics -->
         <script src="/javascript/googleAnalytics.js" type="text/javascript"></script>
         <!--End Google Analytics -->
+		<!--Click Tracking code written by Lei-->
+		<script src="/javascript/google_track.js" type="text/javascript"></script>
+        
+        
+        <!--Begin Pardot Code -->
+        <script type="text/javascript">
+piAId = '146371';
+piCId = '1437';
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+        <!--End Pardot Code -->
 
 	
 <!-- InstanceEnd -->
