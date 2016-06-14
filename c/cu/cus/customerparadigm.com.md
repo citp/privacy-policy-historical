@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customerparadigm.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132605id_/http%3A//www.customerparadigm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerparadigm.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614210424id_/http%3A//www.customerparadigm.com/privacy-policy) for the most accurate reproduction.*
 
-# Customer Paradigm | Privacy Policy
+# Customer Paradigm | Privacy Policy | Customer Paradigm
 
 Customer Paradigm is a company dedicated to helping businesses develop customer-centric business practices that encourage trust. We take privacy very seriously, and we’ve taken many steps to help safeguard your online information. We promise you that:
 
@@ -55,12 +55,12 @@ Customer Paradigm takes our responsibility to manage your information and protec
 
 ### Because we are committed to your privacy and value your trust, this site has agreed to notify you of the following:
 
-1\. What personally identifiable information of yours is collected   
-2\. What organization is collecting the information   
-3\. How the information is used   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding the collection, use, and distribution of the information   
-6\. What type of security procedures are in place to protect the loss, misuse, or alteration of information under the company’s control   
+1\. What personally identifiable information of yours is collected  
+2\. What organization is collecting the information  
+3\. How the information is used  
+4\. With whom the information may be shared  
+5\. What choices are available to you regarding the collection, use, and distribution of the information  
+6\. What type of security procedures are in place to protect the loss, misuse, or alteration of information under the company’s control  
 7\. How you can correct any inaccuracies in the information To opt-out of our newsletter or to view our opt-out page please click here.
 
 ### If you have questions or concerns regarding this site’s privacy statement, please Jeff Finkelstein 303.499.9318.
