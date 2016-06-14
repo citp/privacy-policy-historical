@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrphome.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630155639id_/http%3A//www.mrphome.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrphome.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614132437id_/http%3A//www.mrphome.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
 
 # Mrphome Online Shopping | Homeware & Furniture Store
 
@@ -212,16 +212,22 @@ This Agreement shall be governed by the laws of the Republic of South Africa, an
 
 #### **11.** **CONTACT DETAILS**
 
-In the event that you need to contact us for purposes related to this Agreement, please make use of the following contact details: 
+Mr Price Group Limited, trading as mrphome, a company registered in the Republic of South Africa (Reg. No. 1933/004418/06 ), with its registered office for legal service of documents at P.O. Box 912, Durban, 4000, South Africa 
 
-Telephone: +27 (0)31 310 8023 
+Telephone Number: +27 31 310 8809 
 
-Email: Helen Grosvenor - [HGrosvenor@mrpg.com](mailto:HGrosvenor@mrpg.com)
+Website Address: [www.mrphome.com](http://www.mrphome.com/)
 
-Registered Address (and address for legal service): 
+Telephone number: 0800 212 535 (Customer Services) 
 
-Mr Price Group Limited, 65 Masabalala Yengwa Avenue, Durban, RSA, 4001 
+Divisional Directors: A J de Haas (Managing); D J P Friis; R L Osborne; K M Strauss; R P E van Heerden and J D Vosloo 
 
-Postal Address: P.O. Box 912, Durban, RSA, 4000 
+#### **12.** **PROMOTIONS & SPECIAL OFFERS**
 
-Last updated 23/09/14 
+ALL offers and promotions are valid only while stocks last. 
+
+Please NOTE that any site wide offer of an amount of rands off when you spend a certain amount or more (for example, get R300 off when you spend R1500 or more) relate ONLY to the purchase of product. Delivery fees are not calculated into the spend amount, and therefore cannot be considered part of the value which will qualify for the promotional amount off. Ie. You will need to purchase product to the value of R1500 (for example), in order to get the set amount off. The promotion will NOT be applied if purchase product to the value of R1200, and your delivery fee is R300.
+
+Special offers or promotions DO NOT apply to the purchase of gift vouchers / gift cards online at mrphome.com 
+
+Last updated 12/05/16 
