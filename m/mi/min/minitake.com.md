@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818121502id_/http%3A//help.minitake.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614142754id_/http%3A//help.cigabuy.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - MiniTake
+# Privacy Notice - CigaBuy
 
-#### MiniTake Privacy Policy - Safe, Secure Online Shopping
+#### CigaBuy Privacy Policy - Safe, Secure Online Shopping
 
-MiniTake Co. Limited values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of MiniTake.
+TinyDeal Co. LTD values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of CigaBuy.
 
 #### WHAT INFORMATION DO WE COLLECT?
 
-MiniTake believes it is important for you to know what types of information we collect when you visit our site. We have various methods to collect information. The following is a list of the information we collect: Email, Name, Street Address, Post Code, City, Country, Telephone Number, and password.
+CigaBuy believes it is important for you to know what types of information we collect when you visit our site. We have various methods to collect information. The following is a list of the information we collect: Email, Name, Street Address, Post Code, City, Country, Telephone Number, and password.
 
 #### WHY DO WE COLLECT THIS INFORMATION?
 
@@ -34,18 +34,14 @@ have the option of disabling your computer’s ability to accept or transmit coo
 
 We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
 
-**ABOUT MINITAKE NEWSLETTER**
+**ABOUT  CIGABUY NEWSLETTER**
 
-MiniTake Newsletter will be send out regularly, with the latest updates on new arrivals, recent hottest deals, special offers and bargains, as well as the exclusive coupons and discounts to our email subscribers. [We respect your privacy](http://www.dealsdirect.com.au/privacy/) and will not disclose your details to any third party. You can click on the unsubscribe link on each email to unsubscribe MiniTake at any time.
+CigaBuy Newsletter will be send out regularly, with the latest updates on new arrivals, recent hottest deals, special offers and bargains, as well as the exclusive coupons and discounts to our email subscribers. [We respect your privacy](http://www.dealsdirect.com.au/privacy/) and will not disclose your details to any third party. You can click on the unsubscribe link on each email to unsubscribe Cigabuy at any time. 
 
 **QUESTIONS OR CONCERNS**
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](http://help.minitake.com/contact-us)" link in the side menu. Or through the following ways: 
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](http://help.cigabuy.com/contact-us)" link in the side menu. 
 
-Tel: (+86) 755-2919 4488     
-
-Email: [sales@minitake.com](mailto:sales@minitake.com)
-
-Contact Address:
-
-P.O. Box No.1225, Tsuen Wan Post Office, Hong Kong 
+Tel: (+86) 755-2919 4488  
+Email: [sales@cigabuy.com  
+](mailto:sales@cigabuy.com)Contact Address: RM 1235 LEUNG CHI HSE LEUNG KING EST TUEN MUN NT，Hong Kong
