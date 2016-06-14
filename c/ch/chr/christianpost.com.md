@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225002410id_/http%3A//www.christianpost.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpost.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614033508id_/http%3A//www.christianpost.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # Christian news, Christian Post
 
