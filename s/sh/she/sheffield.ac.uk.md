@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheffield.ac.uk privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215114131id_/http%3A//shef.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffield.ac.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614170458id_/http%3A//shef.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - The University of Sheffield
 
@@ -24,7 +24,7 @@ The link below contains information about the University’s use of cookies and 
 
 This website uses Google Analytics to analyze how users use the site. The link below contains information about Google Analytics and gives information on how you can opt out.
 
-[Google Analytics - Safeguarding your data](http://support.google.com/analytics/bin/answer.py?hl=en&answer=1008579&topic=1008008&ctx=topic)
+[Google Analytics - Safeguarding your data](https://support.google.com/analytics/answer/6004245?hl=en)
 
 ## Future developments
 
