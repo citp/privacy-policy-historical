@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claires.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002545id_/http%3A//www.claires.co.uk/privacypolicy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claires.co.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614222004id_/http%3A//www.claires.co.uk/privacypolicy/content/fcp-content) for the most accurate reproduction.*
 
 # Claire's | Privacy Policy
 
@@ -24,7 +24,7 @@ We take privacy really seriously and work super hard to protect your personal de
 
 
 
-This privacy policy (the "Privacy Policy") applies only to the www.claires.co.uk website (however accessed and/or used, whether via personal computers, mobile devices or otherwise) and other interactive features or protocols that link to this privacy policy (including, without limitation, mobile sites, widgets & downloads) (collectively "The Site"), which is owned or controlled by Claires Accessories UK Ltd ("Claires", "we", "us" or "our"). In addition, if Claire's combines information collected at one of its retail stores with information collected through the Site, this Privacy Policy will govern the combined information.
+This privacy policy (the "Privacy Policy") applies to the claires.co.uk, m.claires.co.uk and claires.fr websites (however accessed and/or used, whether via personal computers, mobile devices or otherwise) and other interactive features or protocols that link to this privacy policy (including, without limitation, mobile sites, widgets & downloads) (collectively "The Site"), which is owned or controlled by Claires Accessories UK Ltd ("Claire’s”, "we", "us" or "our"). In addition, if Claire's also collects information at one of its retail stores, for example through Ear Piercing forms, this Privacy Policy will govern the use of that information and any of that information combined with information collected through The Site.
 
 The Site is owned and maintained by the company "Claires Accessories UK Ltd", a company registered at the Companies Registration Office of England and Wales under the registration number 3115118, with registered office at Unit 4, Bromford Gate, Bromford Lane, Birmingham, B24 8DL, United Kingdom and with VAT registration number GB927124727 (the "Company" or "Claires").
 
@@ -86,7 +86,7 @@ Cookies are bits of electronic information that a website may transfer to a visi
 
 Our cookies do not contain any sensitive information, such as your name, address or payment details.
 
-We may also use cookies to tell us whether you have previously visited the Site. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain other information about you as may be available from those third-parties, such as demographic data about you. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that store cookies. Alternatively you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20150615002545id_/http%3A//www.claires.co.uk/privacypolicy/content/www.aboutcookies.org) which contains comprehensive information on how to manage cookies on a wide variety of browsers. However, please note that if you disable the use of cookies on your computer, some functionality of our site will not work you will not be able to shop on our Site, only browse. We will not use FLASH cookies, unless you are specifically notified that we intend to use them for a specific service, and you are given the opportunity to opt-out from receiving such cookies. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools, but the developer of the FLASH programming language currently has an on-line management tool to allow you to remove these FLASH cookies.
+We may also use cookies to tell us whether you have previously visited the Site. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain other information about you as may be available from those third-parties, such as demographic data about you. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that store cookies. Alternatively you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20160614222004id_/http%3A//www.claires.co.uk/privacypolicy/content/www.aboutcookies.org) which contains comprehensive information on how to manage cookies on a wide variety of browsers. However, please note that if you disable the use of cookies on your computer, some functionality of our site will not work you will not be able to shop on our Site, only browse. We will not use FLASH cookies, unless you are specifically notified that we intend to use them for a specific service, and you are given the opportunity to opt-out from receiving such cookies. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools, but the developer of the FLASH programming language currently has an on-line management tool to allow you to remove these FLASH cookies.
 
 ## OUR COOKIES POLICY
 
@@ -103,25 +103,53 @@ nextPreviousIds | Product IDs of the previous and next products if next previous
 view_format | The number of columns of products shown on the listings page |   |   | N  
 lastCategory | last browsed category, used for breadcrumbs (may be superseded by fcp_last_category) | Persistent | 31 Days | N  
 lastSuccessfulCategory |   | Persistent | 31 Days | N  
+CookieDirectivePopup |   | Persistent | 31 Days | N  
 fcp_last_category | last browsed category, used for breadcrumbs | Persistent | 31 Days | N  
 fcp_shopping_basket | Retains the customer's shopping basket contents between sessions. (See Basket Retention for more information about this one) | Persistent | Set as BASKET_COOKIE_MAX_AGE in seconds | N  
-language_iso | Used by the new FCP multi-lingual functionality to track language preference | Persistent | 31 Days | N  
+currentLAT | Used by the store finder when using ‘autofind’ to store current Latitude | Persistent | 7 Days | Y  
+currentLNG | Used by the store finder when using ‘autofind’ to store current Longitude | Persistent | 7 Days | Y  
+_qPageNum_claires | Used to store how many pages have been visited | Session |  | N  
 Cookie Name | Description  
 ---|---  
 FCP_MOBILE_LAST_CATEGORY | The last category that the customer looked at. Used in site navigation, for the 'Next' and 'Previous' buttons.  
 FCP_MOBILE_LAST_SEARCH | The last on-site search the customer did.  
 FCP_MOBILE_PRODUCT_IDS | Present but not used?  
-Cookie Name | Party Using It  
+_qPageNum_claires | Used to store how many pages have been visited  
+Cookie Name | Description / Party  
 ---|---  
-ARPTH | Bazaar voice  
-BIGipServerprod-c5c-prr-http | Bazaar voice  
-prr-sip | Bazaar voice  
-goto | Bazaar voice  
-qa-sip | Bazaar voice  
+ARPTH | Bazaar voice (Ratings and Reviews)  
+BIGipServerprod-c5c-prr-http | Bazaar voice (Ratings and Reviews)  
+prr-sip | Bazaar voice (Ratings and Reviews)  
+goto | Bazaar voice (Ratings and Reviews)  
+qa-sip | Bazaar voice (Ratings and Reviews)  
 __utma | Google Analytics  
 __utmb | Google Analytics  
 __utmc | Google Analytics  
 __utmz | Google Analytics  
+PREF | Google Analytics  
+Apis.google.com | Google Analytics  
+mt.v | Monetate (A/B variant testing)  
+SLIBeacon_591987953 | SLI  
+ss_opts |   
+_qPageNum_claires_mobile | Used to store how many pages have been visited  
+qb_ss_status | Qubit (A/B variant testing)  
+_qsst | Qubit (A/B variant testing)  
+_qsst_s | Qubit (A/B variant testing)  
+_qst | Qubit (A/B variant testing)  
+_qubitTracker | Qubit (A/B variant testing)  
+Com.silverpop.iMA.page_visit | Silverpop  
+Com.silverpop.IMA.session | Silverpop  
+Com.silverpop.iMAWebCookie | Silverpop  
+Sli_basket_count | SLI - Enhanced site search  
+Sli_currency_iso | SLI - Enhanced site search  
+Sli_fcp_shopping_basket | SLI - Enhanced site search  
+Uid | SLI - Enhanced site search  
+SLI1_59187953 | SLI - Enhanced site search  
+Ve interactive(id) | Basket Abandonment  
+S7.addthis.com | Used by add this for social widgets  
+Mobile_app | Used to detect if user if accessed the mobile site via app  
+Mt.y | Monetate (A/B variant testing)  
+Monetate | Monetate (A/B variant testing)  
   
 ## USE OF WEB BEACONS, CLEAR-GIFS, PIXEL TAGS AND JAVASCRIPT
 
