@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alljapanesepass.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208063319id_/http%3A//www.alljapanesepass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alljapanesepass.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615012945id_/http%3A//www.alljapanesepass.com/privacy) for the most accurate reproduction.*
 
 # AllJapanesePass.com - Privacy Statement
 
@@ -66,4 +66,4 @@ All questions to Mentarinet ltd regarding these terms and conditions must be dir
 
 Mentarinet ltd registered address at 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/support/).
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/).
