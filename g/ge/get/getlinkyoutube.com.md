@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getlinkyoutube.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023105801id_/http%3A//www.getlinkyoutube.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlinkyoutube.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614233917id_/http%3A//www.getlinkyoutube.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Download videos Youtube
 
