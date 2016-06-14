@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxworld.ws privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225023325id_/http%3A//gfxworld.ws/index.php%3F/gfx/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxworld.ws privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614200850id_/http%3A//gfxworld.ws/index.php%3F/gfx/static/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - GFXworld.WS - Graphic stuff daily
 
