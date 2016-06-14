@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061725id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615004303id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Anime-Planet
+# Privacy Policy | Anime-Planet
 
 ## Effective as of December 2011
 
@@ -14,7 +14,7 @@ Protecting your personal information is also your own responsibility. The federa
 
 ### General
 
-Anime-Planet collects personal information when you register to become a user on Anime-Planet, when you register and participate in forums or blogs, post reviews and recommendations, and participate in other services available on or through our site, when you visit Anime-Planet pages or the pages of certain Anime-Planet partners, and when you enter promotions and contests. Anime-Planet may combine information about you that we have with information we obtain from other users, business partners or other companies. 
+Anime-Planet collects personal information when you register to become a user on Anime-Planet, when you register and participate in forums, post reviews and recommendations, and participate in other services available on or through our site, when you visit Anime-Planet pages or the pages of certain Anime-Planet partners, and when you enter promotions and contests. Anime-Planet may combine information about you that we have with information we obtain from other users, business partners or other companies. 
 
 When you register to become a member of the site and/or any forum we ask for information such as your user name, email address, password and birth date. In addition, after you register to become a member, you have the capability of sharing other information about you in connection with your access to and use of the site, including your gender, twitter information, and facebook information. When you register with Anime-Planet and sign in to our services (including forums), you are not anonymous to us and much of your information will not be anonymous to other users. 
 
@@ -62,7 +62,7 @@ This policy does not apply to the practices of people or companies that may be r
 
 ### Your Own Information Sharing.
 
-Please be aware that when you register to become an Anime-Planet member, post recommendations and reviews, register for and/or participate in forums or blogs and create personal lists such as lists of favorite characters, personal anime/mange lists, etc., other users are able to see that information, including any bio information you provide about you, location, gender, birth date and/or age, your screen or user name, in addition to any comments or submissions that you post or submit. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you. 
+Please be aware that when you register to become an Anime-Planet member, post recommendations and reviews, register for and/or participate in forums and create personal lists such as lists of favorite characters, personal anime/mange lists, etc., other users are able to see that information, including any bio information you provide about you, location, gender, birth date and/or age, your screen or user name, in addition to any comments or submissions that you post or submit. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you. 
 
 ### Your Ability to Edit and Delete Your Account Information and Preferences
 
