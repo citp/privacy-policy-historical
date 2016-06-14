@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234902id_/https%3A//quizlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614030708id_/https%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizlet
 
@@ -8,121 +8,144 @@
 
 
 
-## Updated: August 27, 2015
+## Updated: May 17, 2016
 
 Your privacy is critically important to us. At Quizlet we have a few fundamental principles:
 
-  * We don’t ask you for personal information unless we truly need it.
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
-  * We aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+  * We don't ask you for personal information unless we truly need it.
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don't store personal information on our servers unless required for the on-going operation of one of our services.
+  * We aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and deleted.
 
 
 
 It is Quizlet's policy to respect your privacy regarding any information we may collect while operating our website and the two Quizlet mobile applications.
 
-This privacy statement describes how Quizlet Inc. (" **Quizlet** ") collects and uses the personal information you provide on our Web site, [quizlet.com](https://quizlet.com/), and the two official Quizlet iOS and Android mobile applications. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Quizlet Inc. (" **Quizlet** ") collects and uses the personal information you provide on our website, [quizlet.com](https://quizlet.com/), and the two official Quizlet iOS and Android mobile applications. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=7709ab3e-ab1e-495b-80fc-472f4c5b1236 "TRUSTe Children privacy certification")
 
-Quizlet Inc. (" **Quizlet** ") has been awarded TRUSTe's Children’s Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, quizlet.com, and our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [quizlet.com/feedback](https://quizlet.com/feedback). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. Quizlet Inc. (" **Quizlet** ") has been awarded TRUSTe's Children's Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, quizlet.com, and our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [quizlet.com/feedback](https://quizlet.com/feedback). If you are not satisfied with our response, you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+
+[ ](http://ikeepsafe.org/participating-companies "iKeepSafe FERPA badge")
+
+Quizlet Inc. (" **Quizlet** ") has been awarded iKeepSafe’s FERPA badge. The Quizlet product, data collection, and handling practices along with other relevant company policies have been reviewed by iKeepSafe and found in alignment with iKeepSafe's FERPA Program Guidelines. For detailed information, you can view [Quizlet’s iKeepProfile here](http://ikeepsafe.org/participating-companies). iKeepSafe’s FERPA Program helps schools to easily determine whether or not a website, app, data management platform or other technology product could be used in compliance with their FERPA obligations, applicable state laws and local policies. If you have any questions, [contact iKeepSafe here.](mailto:privacy@ikeepsafe.org)
+
+Quizlet complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Quizlet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Quizlet’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Website Visitors
 
-Like most website operators, Quizlet collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Quizlet’s purpose in collecting non-personally-identifying information is to better understand how Quizlet’s visitors use its website. From time to time, Quizlet may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, Quizlet collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Quizlet's purpose in collecting non-personally-identifying information is to understand better how Quizlet's visitors use its website. From time to time, Quizlet may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 Quizlet also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Quizlet does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Quizlet's website choose to interact with Quizlet in ways that require Quizlet to gather personally-identifying information. The amount and type of information that Quizlet gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Quizlet](https://quizlet.com/) to provide a username, date of birth, and email address. Those who engage in financial transactions with Quizlet are asked to provide additional information, such as name and credit card number. In each case, Quizlet collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Quizlet. Quizlet does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally- identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Quizlet's website choose to interact with Quizlet in ways that require Quizlet to gather personally-identifying information. The amount and type of information that Quizlet gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Quizlet](https://quizlet.com/) to provide a username, date of birth, and email address. Those who engage in financial transactions with Quizlet are asked to provide additional information, such as name and credit card number. In each case, Quizlet collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Quizlet. Quizlet does not disclose personally-identifying information other than as described below. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").
 
 ### Geo-Location Data
 
-We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our Mobile Apps or services.
+We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our mobile apps or services.
 
 ### Children
 
-For children under 13, Quizlet offers a limited feature set and web site experience. We require consent from a parent when children under the age of 13 want to register on Quizlet and offer a limited version of the website that removes certain social features. The only identifiable information we collect from children under 13 is a parent’s email address.
+For children under 13, Quizlet offers a limited feature set and website experience. We require consent from a parent when children under the age of 13 want to register on Quizlet, and offer a limited version of the website that removes certain social features. The only identifiable information we collect from children under 13 is a parent's email address.
 
 ### Safety on Quizlet
 
-Children’s safety and full enjoyment of Quizlet, as well as the safety and well being for all children and their families, is of the utmost importance to all of us at Quizlet. Quizlet does not accumulate personal information about any child or family for distribution, sharing, or selling except as described in this privacy policy. We only keep an email on file for notifying parents of their child's wish to join Quizlet.
+Children's safety and full enjoyment of Quizlet, as well as the safety and well being of all children and their families, is of the utmost importance to all of us at Quizlet. Quizlet does not accumulate personal information about any child or family for distribution, sharing, or selling, except as described in this Privacy Policy. We only keep an email on file for notifying parents of their child's wish to join Quizlet.
 
 ### Aggregated Statistics
 
 Quizlet may collect statistics about the behavior of visitors to its website and mobile applications. For instance, Quizlet may monitor the most popular word sets on the Quizlet site. Quizlet may display this information publicly or provide it to others. However, Quizlet does not disclose personally-identifying information other than as described below.
 
-### How We Handle Personally Identifiable Information
+### How We Handle Personally-Identifying Information
 
-Quizlet discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Quizlet's behalf or to provide services available at Quizlet's website and mobile applications, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Quizlet's website and mobile applications, you consent to the transfer of such information to them. Quizlet will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Quizlet discloses potentially personally-identifying and personally-identifying information only when required to do so by law such as to comply with a subpoena, or when Quizlet believes in good faith that disclosure is reasonably necessary to protect the property or rights of Quizlet or third parties, the public at large or if Quizlet is involved in a merger, acquisition, or sale of all or a portion of its assets. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If you are a registered user of a Quizlet website or mobile application and have supplied your email address, Quizlet may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Quizlet and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Quizlet takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. You may choose to stop receiving our email by updating your email settings within your profile or you can contact us at [quizlet.com/feedback](https://quizlet.com/feedback).
+Quizlet discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Quizlet's behalf or to provide services available on Quizlet's website and mobile applications, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Quizlet's website and mobile applications, you consent to the transfer of such information to them. Quizlet will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Quizlet discloses potentially personally-identifying and personally-identifying information only when required to do so by law, such as to comply with a subpoena, or when Quizlet believes in good faith that disclosure is reasonably necessary to protect the property or rights of Quizlet or third parties, the public at large or if Quizlet is involved in a merger, acquisition, or sale of all or a portion of its assets. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If you are a registered user of a Quizlet website or mobile application and have supplied your email address, Quizlet may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Quizlet and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Quizlet takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. You may choose to stop receiving our email by updating your email settings within your profile or you can contact us at [quizlet.com/feedback](https://quizlet.com/feedback).
 
-Name of Third Party Partner | What info is shared with or collected by this partner | Partner’s purpose | Link to Partner’s privacy policy  
+Name of Third Party Partner | What info is shared with or collected by this partner | Partner's purpose | Link to Partner's privacy policy  
 ---|---|---|---  
-comScore (Scorecard Research) | Anonymous usage data (e.g., what pages on our site people visit.) | Analytics | [comScore Privacy Policy](http://www.comscore.com/About_comScore/Privacy_Policy)  
-Quantcast Corporation | Anonymous usage data (e.g., what pages on our site people visit.) | Data provider, aggregator | [Quantcast Privacy Policy](http://www.quantcast.com/docs/display/legal/Privacy+Policy)  
-New Relic | Anonymous page-speed metrics (e.g., how fast Quizlet loads on a user’s screen.) | Help websites load faster for better use. | [New Relic Privacy Policy](http://newrelic.com/privacy)  
-Google Inc. (Analytics) | Anonymous usage data (e.g., what pages on our site people visit.) | Analytics | [Google Analytics Privacy Policy](http://www.google.com/intl/en/analytics/privacyoverview.html)  
+AWS | Compressed archives of certain database content | Serving images and data backup | [AWS Privacy Policy](https://aws.amazon.com/privacy/)  
 Cloudflare | Traffic data | Provider of network infrastructure for basic service delivery | [Cloudflare Privacy Policy](https://www.cloudflare.com/security-policy)  
+comScore (Scorecard Research) | Anonymous usage data (e.g., what pages on our site people visit) | Analytics | [comScore Privacy Policy](http://www.comscore.com/About_comScore/Privacy_Policy)  
+Desk | Email address and username | Customer service management | [Desk Privacy Policy](https://www.desk.com/privacy)  
+Google Inc. (Analytics) | Anonymous usage data (e.g., what pages on our site people visit) | Analytics | [Google Analytics Privacy Policy](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)  
 Google Inc. (Cloud Platform) | Traffic data | Provider of servers and network infrastructure for basic service delivery | [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/)  
-TRUSTe | IP address | Privacy verification | [TRUSTe Privacy Policy](http://www.truste.com/privacy-policy)  
 Google Inc. (DFP) | Anonymous demographic and site-usage information | Serving ads on Quizlet | [Google DFP Privacy Policy](https://www.google.com/intl/en/policies/privacy/)  
+Looker | Anonymous usage data (e.g., what pages on our site people visit) | Analytics | [Looker Privacy Policy](https://www.looker.com/privacy)  
+Mailgun | Email address and username | Email service for sending emails to our users | [Mailgun Privacy Policy](https://www.mailgun.com/privacy)  
+New Relic | Anonymous page-speed metrics (e.g., how fast Quizlet loads on a user's screen) and anonymous usage data (e.g., what pages on our site people visit) | Help websites load faster for better use | [New Relic Privacy Policy](http://newrelic.com/privacy)  
+Quantcast Corporation | Anonymous usage data (e.g., what pages on our site people visit) | Data provider, aggregator | [Quantcast Privacy Policy](https://www.quantcast.com/privacy/)  
+Rollbar | Username and site usage data | Website code error tracking | [Rollbar Privacy Policy](https://rollbar.com/privacy/)  
+TRUSTe | IP address | Privacy verification | [TRUSTe Privacy Policy](http://www.truste.com/privacy-policy)  
   
 ### Parental Rights
 
-Parents and legal guardians of children under 13 who are members of Quizlet have certain rights under COPPA, and Quizlet recognizes those rights. Parents/guardians can consent to collection and use of a child's personally identifiable information (PII) without consenting to the disclosure of information to third parties. Currently the only identifiable information we collect from children under 13 is parent's email address.
+Parents and legal guardians of children under 13 who are members of Quizlet have certain rights under the _Children's Online Privacy Protection Act_ , and Quizlet recognizes those rights. Parents/guardians can consent to collection and use of a child's personally-identifying information without consenting to the disclosure of information to third parties. Currently, the only identifiable information we collect from children under 13 is a parent's email address.
 
-Parents/guardians can review information their children under 13 have contributed to Quizlet, by accessing their child's account via password reset. Parents can also request that Quizlet delete that information and refuse to allow Quizlet to collect further information from their children by contacting our Customer Service department at [quizlet.com/feedback](https://quizlet.com/feedback). Quizlet may ask additional questions or take other steps to verify the identity of parents/guardians before responding to a request to review or delete their child's information, or a request to refuse further collection from children.
+Parents/guardians can review information their children under 13 have contributed to Quizlet by accessing their child's account via password reset. Parents can also request that Quizlet delete that information and refuse to allow Quizlet to collect further information from their children by contacting our Support department at [quizlet.com/feedback](https://quizlet.com/feedback). Quizlet may ask additional questions or take other steps to verify the identity of parents/guardians before responding to a request to review or delete their child's information, or a request to refuse further collection from children.
 
-A child's participation or access to an activity on Quizlet cannot be conditioned on him or her providing more information than is reasonably necessary for that activity, or any personally identifiable information. Quizlet does not collect personally identifiable information from children under 13, without a parent or guardian's consent.
+A child's participation or access to an activity on Quizlet cannot be conditioned on him or her providing more information than is reasonably necessary for that activity, or any personally-identifying information. Quizlet does not collect personally-identifying information from children under 13, without a parent or guardian's consent.
 
 ### Study Set Discussion and Profile
 
-Certain activity on Quizlet may be displayed to other users, such as posts to Quizlet discussion boards or our blog, Testimonials, or the information on your Quizlet Profile. This information includes your username, class names, and statistics.
+Certain activity on Quizlet may be displayed to other users, such as posts to Quizlet discussion boards or our blog, testimonials, or the information on your Quizlet Profile. This information includes your username, class names, and statistics.
 
 You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at [quizlet.com/feedback](https://quizlet.com/feedback). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Quizlet and our partners affiliates, or analytics or service providers, as described above. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies, beacons, tags and scripts are used by Quizlet and our partners affiliates, or analytics or service providers, as described above. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-As is true of most Websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you, for analytics and support to improve the performance of services we offer you.
+As is true of most Websites, we gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically-collected log information with other information we collect about you for analytics and support to improve the performance of the services we offer you.
 
 ### Local Storage
 
-Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, may use Local Storage (LS) to collect and store information. Various browsers may offer their own management tools for removing data from Local Storage.
+Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity, may use Local Storage to collect and store information. Various browsers may offer their own management tools for removing data from Local Storage.
 
 ### Social Media Widgets
 
-Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes Social Media Features, such as the Facebook "Like" button, and widgets, such as the "Share This" button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing them.
 
 ### Advertising on Quizlet
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
 We use [Google's DoubleClick cookie](http://www.google.com/privacy/ads/privacy-policy.html) to serve ads. You may choose to [opt out of the DoubleClick cookie](http://googleads.g.doubleclick.net/ads/preferences/naiv0optout) at any time. Quizlet does not provide any personally-identifying information to advertisers.
 
 ### Mobile Analytics
 
-We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
+We use mobile analytics software to allow us a better understanding of the functionality of our mobile software on your device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally-identifying information you submit within the mobile app.
 
-### How to Update your Information
+### Control of Information You Provide to Quizlet
 
-If your personally identifiable information changes, or if you no longer desire our service, you may review, edit, or delete it on our Settings page. Parents may remove, delete or update an account or any information posted on Quizlet by contacting us at [quizlet.com/feedback](https://quizlet.com/feedback).
+Teachers: You always remain in control of the information you provide to Quizlet. You may review, edit or delete any information you submit to us at any time by signing into your Quizlet account; however, deletion of this information may restrict your ability to use the service effectively. You may also delete your account at any time. If you delete your account, all the study sets, folders, and classes that you've created are deleted.
+
+Users 13 years of age and older: You always remain in control of the information you provide to Quizlet. You may review, edit or delete any information you submit to us at any time by signing into your Quizlet account; however, deletion of this information may restrict your ability to use the service effectively. You may also delete your account at any time. If you delete your account, all the study sets, folders, and classes that you've created are deleted.
+
+Children under the age of 13: The parent remains in control of the information the child provides to Quizlet. Parents may review, edit or delete the child’s information at any time by signing into the child’s account via password reset, or by contacting us at [quizlet.com/feedback](https://quizlet.com/feedback). We will respond to your request within a reasonable timeframe. A parent can also delete the child’s account which will delete all the study sets, folders, and classes that the child has created.
+
+### Referrals
+
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Quizlet stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [quizlet.com/feedback](https://quizlet.com/feedback) to request that we remove this information from our database.
 
 ### Facebook Connect and Google Login
 
-You can log in to our site using sign-in services such as Facebook Connect and Google Login. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Facebook Connect and Google Login. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
 ### Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it, and our Website and apps are protected by HTTPS encryption. When you enter credit card information on our order forms, that information is encrypted and protected by our third-party payment providers, Stripe, PayPal, Amazon, and Apple. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [quizlet.com/feedback](https://quizlet.com/feedback).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it, and our website and apps are protected by HTTPS encryption. When you enter credit card information on our order forms, that information is encrypted and protected by our third-party payment providers, Stripe, PayPal, Amazon, and Apple. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [quizlet.com/feedback](https://quizlet.com/feedback).
 
 ### Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [quizlet.com/feedback](https://quizlet.com/feedback). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Data Breach Practices
+
+If we know or have reason to know of a systems security breach by an unauthorized party or that any of your Information was used for an unauthorized purpose, then we will immediately notify you electronically so that you can take appropriate protective steps. We will also post an additional notice through the Service if a security breach occurs. Depending on where you live, you may also have a legal right to receive notice of a security breach in writing, and we will provide you with such required written notice in addition to the electronic notice.
 
 ### Contact Us
 
@@ -130,12 +153,12 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 Attention Privacy  
 Quizlet Inc.  
-P.O. Box 77164  
-San Francisco, CA 94107  
-510-495-6550
+501 2nd Street, Suite 500  
+San Francisco, CA 94107 USA  
++1-510-495-6550
 
 ### Privacy Policy Changes
 
-Quizlet reserves the right to modify this privacy statement at any time, so please review it frequently. If we change how we use your personally identifiable information, we will notify, by email, and/ or by means of a notice on our Web site prior to the change becoming effective.
+Quizlet reserves the right to modify this Privacy Policy at any time, so please review it frequently. If we change how we use your personally-identifying information, we will notify, by email, and/ or by means of a notice on our Web site prior to the change becoming effective.
 
-If we make material changes to how we collect and use Personal Information from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information.
+If we make material changes to how we collect and use personal information from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information.
