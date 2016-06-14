@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypat.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213021230id_/http%3A//mypat.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypat.in privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614223926id_/http%3A//mypat.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | myPAT | Learning through assessment | www.myPAT.in
 
@@ -10,7 +10,7 @@ Protecting data is a matter of trust and your privacy is important to us. We sha
 
 You can visit the website and browse without having to provide your personal details. During your visit to the website you remain anonymous and at no time can we identify you unless you register with us by filling in your details in an online/offline form and/or log on with your user name and password. 
 
-If you have any suggestions/comments, we shall be pleased to hear from you. Please email us at [info@mypat.in](mailto:info@mypat.in)
+If you have any suggestions/comments, we shall be pleased to hear from you. Please email us at [support@mypat.in](mailto:support@mypat.in)
 
 By using our Services and/or registering for an account with us and/or sharing your personal information with our website in any way whatsoever, you are accepting the terms of this Privacy Policy and our Uuser agreement, and you are consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Policy. If you do not provide the information we require, we may not be able to provide all of our services to you. 
 
@@ -179,7 +179,7 @@ In accordance with Information Technology Act 2000 and the rules made there unde
 Grievance Officer: CEO, Edfora  
 Email address: [ceo@edfora.com](mailto:ceo@edfora.com)
 
-_Any questions or clarifications with respect to this policy can be sent to myPAT at:[info@myPAT.in](mailto:info@myPAT.in) or by normal/physical mail addressed to:_
+_Any questions or clarifications with respect to this policy can be sent to myPAT at:[support@mypat.in](mailto:support@mypat.in) or by normal/physical mail addressed to:_
 
 **Edfora**
 
