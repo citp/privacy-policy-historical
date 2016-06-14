@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monoqi.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613185633id_/http%3A//monoqi.co.uk/gb_en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoqi.co.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614204923id_/http%3A//monoqi.co.uk/gb_en/privacy) for the most accurate reproduction.*
 
 # MONOQI | Privacy Policy
 
