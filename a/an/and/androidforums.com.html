@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the androidforums.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225000950id_/http%3A//androidforums.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the androidforums.com privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614033343id_/http%3A//androidforums.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut NoSidebar Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -10,7 +10,7 @@
 	
 	
 		<base href="http://androidforums.com/">
-		<script src="https://script.crazyegg.com/pages/scripts/0021/4853.js?438990" async="" type="text/javascript"></script><script async="" src="http://track.netshelter.net/async/js/sites/androidforums.com-async.js"></script><script>
+		<script src="https://script.crazyegg.com/pages/scripts/0021/4853.js?438990" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
 			var _b = document.getElementsByTagName('base')[0], _bH = "http://androidforums.com/";
 			if (_b && _b.href != _bH) _b.href = _bH;
 		</script>
@@ -19,8 +19,8 @@
 	<title>Privacy Policy | Android Forums</title>
 	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=10&amp;dir=LTR&amp;d=1450985376">
-	<link rel="stylesheet" type="text/css" href="misc/custom-node-icons?d=1447946894"><link rel="stylesheet" href="css.php?css=facebook,google,login_bar,pagenode,rellect_favicon,share_page,twitter,xenique,xenique_extra&amp;style=10&amp;dir=LTR&amp;d=1450985376">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=10&amp;dir=LTR&amp;d=1465849190">
+	<link rel="stylesheet" type="text/css" href="misc/custom-node-icons?d=1447946894"><link rel="stylesheet" href="css.php?css=facebook,google,login_bar,pagenode,rellect_favicon,share_page,twitter,xenique,xenique_extra&amp;style=10&amp;dir=LTR&amp;d=1465849190">
 	
 	
 
@@ -44,7 +44,7 @@
 
 
 
-	<script src="js/rellect/FaviconForLinks/FaviconForLinks.min.js?rev=9&amp;_v=e5f9bf07"></script>
+	<script src="js/rellect/FaviconForLinks/FaviconForLinks.min.js?rev=9&amp;_v=894008f5"></script>
 
 	<script>
 
@@ -173,70 +173,79 @@ jQuery(".discussionList .discussionListItem:nth-child(even)").addClass('even');
 <!-- <script type="text/javascript" src="styles/androidforumsv3/js/sbsearch-test.js"></script> -->
 <!-- <script type="text/javascript" src="styles/androidforumsv3/js/responsive-mobile.js"></script> -->
 
+<script type="text/javascript">
+// This is a hack to hide the navbar on mobile when input element is in focus - James 3/24/2016 - http://stackoverflow.com/questions/20069352/jquery-mobile-hide-fixed-footer-when-keyboard
+if( XenForo._isWebkitMobile )
+{
+	document.write( '<style>#nav-bar{visibility:hidden}@media(min-height:' + ($( window ).height() - 10) + 'px){#nav-bar{visibility:visible}}</style>' );
+};
+</script>
 
-<style>
-#nav-bar
-{
-	position:absolute;
-	top:0px;
-}
-#navigation
-{
-	margin-top:47px;
-}
-#content .pageContent
-{
-	margin-top:0;
-}
-@media (max-width:730px)
-{
-	#navigation {
-	  margin-top: 89px!important;
-	}
-}
-/*
-Commenting out, causing all sorts of display problems 12/16/15 - James
-@media (max-width:850px)
-{
-	.Responsive #navHeader
+
+
+	<style>
+	#nav-bar
 	{
-		top:0px	
-	}
-	.Responsive #nav-bar
-	{
-		top:-9px;
-	}
-	.Responsive #mobile-search-form, 
-	.Responsive #social-icons-mobile
-	{
-		top:-30px;
-	}
-}
-@media (max-width:480px)
-{
-	.Responsive #navHeader 
-	{
+		position:absolute;
 		top:0px;
 	}
-	.Responsive #nav-bar
+	#navigation
 	{
-		top:-14px;
+		margin-top:47px;
 	}
-	.Responsive #navigation
+	#content .pageContent
 	{
-		margin-top:45px;
+		margin-top:0;
 	}
-	.Responsive #mobile-search-form, 
-	.Responsive #social-icons-mobile
+	@media (max-width:730px)
 	{
-		top:-35px;
+		#navigation {
+		  margin-top: 89px!important;
+		}
 	}
-}
-*/
-</style>
+	/*
+	Commenting out, causing all sorts of display problems 12/16/15 - James
+	@media (max-width:850px)
+	{
+		.Responsive #navHeader
+		{
+			top:0px	
+		}
+		.Responsive #nav-bar
+		{
+			top:-9px;
+		}
+		.Responsive #mobile-search-form, 
+		.Responsive #social-icons-mobile
+		{
+			top:-30px;
+		}
+	}
+	@media (max-width:480px)
+	{
+		.Responsive #navHeader 
+		{
+			top:0px;
+		}
+		.Responsive #nav-bar
+		{
+			top:-14px;
+		}
+		.Responsive #navigation
+		{
+			margin-top:45px;
+		}
+		.Responsive #mobile-search-form, 
+		.Responsive #social-icons-mobile
+		{
+			top:-35px;
+		}
+	}
+	*/
+	</style>
 
 
-	<link rel="apple-touch-icon" href="http://androidforums.com/styles/default/xenforo/logo.og.png">
+	<link rel="apple-touch-icon" href="http://androidforums.com/af.jpg">
 	<link rel="alternate" type="application/rss+xml" title="RSS feed for Android Forums" href="forums/-/index.rss">
 	<meta name="description" content="Android Forums is a community driven website and we take privacy very seriously.  Please make sure you read and understand our privacy policy.">
 	
@@ -245,7 +254,7 @@ Commenting out, causing all sorts of display problems 12/16/15 - James
 	
 	
 	
-    	<meta property="og:image" content="http://androidforums.com/styles/default/xenforo/logo.og.png"> 
+    	<meta property="og:image" content="http://androidforums.com/af.jpg"> 
 	
     <meta property="og:type" content="article">
 	<meta property="og:url" content="http://androidforums.com/pages/privacy-policy/">
@@ -258,91 +267,121 @@ Commenting out, causing all sorts of display problems 12/16/15 - James
 
 
 	<link rel="canonical" href="http://androidforums.com/pages/privacy-policy/">
-<script type="text/javascript">
-(function() {
-var useSSL = 'https:' == document.location.protocol;
-var src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-})();
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
-<!-- NSGPT library (Netshelter) - James 12/21/15 -->
-<script type="text/javascript" id="nsgpt" data-channel="general" src="//cdn.nsstatic.net/ns/androidforums.com.js"></script>
-
-<script type="text/javascript">
-var mappingHeaderAF = googletag.sizeMapping().
-	addSize([1330, 500], [[970, 250], [970, 90], [728, 90]]).
-	addSize([1091, 500], [728, 90]).
-	addSize([1000, 500], [[970, 250], [970, 90], [728, 90]]).
-	addSize([760, 500], [[728, 90], [468, 60]]).
-	addSize([490, 200], [[468, 60], [300, 250], [320, 50], [300, 50]]).
-	addSize([320, 200], [[300, 250], [320, 50], [300, 50]]).
-		build();
-
-var mappingFooter = googletag.sizeMapping().
-	addSize([320, 200], [[300, 250], [320, 50], [300, 50]]).
-	addSize([600, 200], [[468, 60], [300, 250]]).
-	addSize([730, 200], [728, 90]).
-	addSize([970, 400], [[970, 250], [970, 90], [728, 90]]).
-		build();
-
-var mappingSidebarATF = googletag.sizeMapping().
-	addSize([600, 300], [[300, 600], [300, 250]]).
-		build();
-
-googletag.defineSlot('/1062836/AF_1stPostSig', [[300, 250], [300, 50], [320, 50]], 'div-gpt-ad-1407799372694-0').
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Footer', [[300, 250], [300, 50], [320, 50], [468, 60], [728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1407799372694-1').
-		defineSizeMapping(mappingFooter).
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Header', [[300, 250], [300, 50], [320, 50], [468, 60], [728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1407799372694-2').
-		defineSizeMapping(mappingHeaderAF).
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Sidebar_ATF', [[300, 250], [300, 600]], 'div-gpt-ad-1407799372694-3').
-		defineSizeMapping(mappingSidebarATF).
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Sidebar_BTF_1', [300, 250], 'div-gpt-ad-1407799372694-4').
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Sidebar_BTF_2', [300, 250], 'div-gpt-ad-1407799372694-5').
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_1stPostSig_Passback', [[300, 250], [300, 50], [320, 50]], 'div-gpt-ad-1407799372694-6').
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Footer_Passback', [[300, 250], [300, 50], [320, 50], [468, 60], [728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1407799372694-7').
-		defineSizeMapping(mappingFooter).
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Header_Passback', [[300, 250], [300, 50], [320, 50], [468, 60], [728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1407799372694-8').
-		defineSizeMapping(mappingHeaderAF).
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Sidebar_ATF_Passback', [[300, 250], [300, 600]], 'div-gpt-ad-1407799372694-9').
-		defineSizeMapping(mappingSidebarATF).
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Sidebar_BTF_1_Passback', [300, 250], 'div-gpt-ad-1407799372694-10').
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Sidebar_BTF_2_Passback', [300, 250], 'div-gpt-ad-1407799372694-11').
-		addService(googletag.pubads());
-googletag.defineSlot('/1062836/AF_Leaderboard_BTF_1', [[300, 50], [728, 90], [970, 250], [300, 250], [320, 50], [468, 60], [970, 90]], 'div-gpt-ad-1407799372694-12').
-		defineSizeMapping(mappingFooter).
-		addService(googletag.pubads());
-
-googletag.pubads().setTargeting("URL","0662eec3c01f386e6ac7a38f5fee114a" );
-googletag.pubads().enableSyncRendering();
-googletag.enableServices();
-</script>
-</head>
-
-<body class="node2899">
-
-<!-- Tapatalk Detect body start -->
+        <!-- App Indexing for Google Search -->
+        <link href="android-app://com.tapatalk.androidforumscom/ttbyo-497/androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=google-indexing" rel="alternate">
+        <link href="ios-app://307880732/tapatalk/androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=google-indexing" rel="alternate">
+        
+        <meta property="al:android:package" content="com.tapatalk.androidforumscom">
+        <meta property="al:android:url" content="ttbyo-497://androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=facebook-indexing">
+        <meta property="al:android:app_name" content="Forums for Android">
+        <meta property="al:ios:url" content="tapatalk://androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=facebook-indexing">
+        <meta property="al:ios:app_store_id" content="307880732">
+        <meta property="al:ios:app_name" content="Tapatalk">
+        
+        <!-- twitter app card start-->
+        <!-- https://dev.twitter.com/docs/cards/types/app-card -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@tapatalk">
+        <meta name="twitter:title" content="Privacy Policy">
+        <meta name="twitter:description" content="Android Forums">
+        <meta name="twitter:image" content="http://tapatalk.com/rebranding_icons/icon-497.png">
+        <meta name="twitter:app:id:iphone" content="307880732">
+        <meta name="twitter:app:url:iphone" content="tapatalk://androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=twitter-indexing">
+        <meta name="twitter:app:id:ipad" content="307880732">
+        <meta name="twitter:app:url:ipad" content="tapatalk://androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=twitter-indexing">
+        <meta name="twitter:app:id:googleplay" content="com.tapatalk.androidforumscom">
+        <meta name="twitter:app:url:googleplay" content="ttbyo-497://androidforums.com?location=index&amp;page=1&amp;perpage=20&amp;channel=twitter-indexing">
+        <!-- twitter app card -->
+        
+<!-- Tapatalk Detect style start -->
 <style type="text/css">
 .ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page 
 {
 top:auto;
 }
 </style>
-<script type="text/javascript">if(typeof(tapatalkDetect) == "function"){tapatalkDetect()}</script>
-<!-- Tapatalk Detect banner body end -->
+<!-- Tapatalk Detect banner style end -->
                 
+
+  <!-- DFP async-->
+  <script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+  </script>
+
+  <script type="text/javascript">
+
+  // GPT slots
+  var gptAdSlots = [];
+  googletag.cmd.push(function() {
+
+    var mappingHeader = googletag.sizeMapping().
+      addSize([1330, 500], [[970, 250], [970, 90], [728, 90]]).
+      addSize([1091, 500], [728, 90]).
+      addSize([1000, 500], [[970, 250], [970, 90], [728, 90]]).
+      addSize([760, 500], [[728, 90], [468, 60]]).
+      addSize([490, 200], [[468, 60], [300, 250], [320, 50], [300, 50]]).
+      addSize([320, 200], [[300, 250], [320, 50], [300, 50]]).
+        build();
+
+    var mappingFooter = googletag.sizeMapping().
+      addSize([320, 200], [[300, 250], [320, 50], [300, 50]]).
+      addSize([600, 200], [[468, 60], [300, 250]]).
+      addSize([730, 200], [728, 90]).
+      addSize([970, 400], [[970, 250], [970, 90], [728, 90]]).
+        build();
+
+    var mappingSidebarATF = googletag.sizeMapping().
+      addSize([600, 300], [[300, 600], [300, 250]]).
+        build();
+
+    googletag.defineSlot('/1062836/AF_1stPostSig', [[300, 50], [320, 50], [300, 250], [728, 90]], 'div-gpt-ad-1458332774904-0').
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Footer', [[300, 50], [970, 250], [970, 90], [320, 50], [468, 60], [300, 250], [728, 90]], 'div-gpt-ad-1458332774904-2').
+				defineSizeMapping(mappingFooter).
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Header', [[300, 50], [970, 250], [970, 90], [320, 50], [468, 60], [300, 250], [728, 90]], 'div-gpt-ad-1458332774904-4').
+				defineSizeMapping(mappingHeader).
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Leaderboard_BTF_1', [[300, 50], [970, 250], [970, 90], [320, 50], [468, 60], [300, 250], [728, 90]], 'div-gpt-ad-1458332774904-7').
+				defineSizeMapping(mappingFooter).
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Sidebar_ATF', [[300, 600], [300, 250]], 'div-gpt-ad-1458332774904-8').
+				defineSizeMapping(mappingSidebarATF).
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Sidebar_BTF_1', [300, 250], 'div-gpt-ad-1458332774904-10').
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Sidebar_BTF_2', [300, 250], 'div-gpt-ad-1458332774904-11').
+				addService(googletag.pubads());
+    googletag.defineSlot('/1062836/AF_Sidebar_BTF_Skyscraper', [160, 600], 'div-gpt-ad-1458332774904-14').
+				addService(googletag.pubads());
+
+    googletag.pubads().setTargeting("URL","0662eec3c01f386e6ac7a38f5fee114a" );
+    //googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+  </script>
+
+	<!-- NSGPT library -->
+	<script type="text/javascript" id="nsgpt" src="//cdn.nsstatic.net/ns/androidforums.com.js" async="true"></script>
+
+
+</head>
+
+<body class="node2899">
+
 
 
 
@@ -389,7 +428,7 @@ top:auto;
     <ul id="main-menu">
       <li class="nav-tab active"><a href="/">Forums</a></li>
       <li class="nav-tab "><a href="/news/">News</a></li>
-      <li class="nav-tab "><a href="/hot/">Hot</a></li>
+      <li class="nav-tab "><a href="/forums/android-questions.2400/">Help</a></li>
       <!-- 
       <li><a href="http://phandroid.com/">News</a></li>
       <li><a href="http://androidarea.com/">Deals</a></li>
@@ -514,6 +553,7 @@ top:auto;
 						
 						
 						
+						<div id="thread_channel_holder" style="display:none;vertical;font-size:14px"></div>
 						
 					
 						<!--[if lt IE 8]>
@@ -541,11 +581,9 @@ top:auto;
 						
 
 
-   
 
-	
-	   
 
+  
 
 
 
@@ -640,19 +678,20 @@ top:auto;
 		<ul id="eAuthUnit">
 			
 				
+        
 				
 					
-					<li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
-				
-				
-				
-					
-					<li><a href="register/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
+					<li><a href="login/login/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
 				
 				
 				
 					
-					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="91304368905-b2nn7v8te73mva9cpqg5bafoeejme8e5.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=6g6Zki_tPZGdGMjl"><span>Log in with Google</span></span></li>
+					<li><a href="login/login/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
+				
+				
+				
+					
+					<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="91304368905-b2nn7v8te73mva9cpqg5bafoeejme8e5.apps.googleusercontent.com" data-redirect-url="login/login/google?code=__CODE__&amp;csrf=jUGcNgAVVZEs0NvQ"><span>Log in with Google</span></span></li>
 				
 				
 			
@@ -742,17 +781,8 @@ top:auto;
 </nav></div>
 			
 			
+	
 
-
-
-
-<script type="text/javascript"> 
-(function() {
-    var nstrack = document.createElement("script"), el_nstrack = document.getElementsByTagName("script")[0]; nstrack.async = true;
-    nstrack.src = "http://track.netshelter.net/async/js/sites/androidforums.com-async.js";
-    el_nstrack.parentNode.insertBefore(nstrack, el_nstrack);
-  })();
-</script>
 						
 			
 						
@@ -849,7 +879,7 @@ Recent Posts
 </li>
 
 
-<li><a href="register/">Register</a></li>
+<li><a href="login/login/">Register</a></li>
 <li><a href="#" class="unregistered_link">My Forums</a></li>
 <li><a href="#" class="unregistered_link">My Posts</a></li>
 
@@ -1111,7 +1141,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<li><a href="misc/contact" class="OverlayTrigger" data-overlayoptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
 				
 				<li><a href="help/">Help</a></li>
-				<li><a href="http://androidforums.com/" class="homeLink">Home</a></li>
+				<li><a href="weeklydigest/manage/" class="OverlayTrigger">Weekly Digest</a></li>
+<li><a href="http://androidforums.com/" class="homeLink">Home</a></li>
 				<li><a href="/pages/privacy-policy/#navigation" class="topLink">Top</a></li>
 				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for Android Forums">RSS</a></li>
 			
@@ -1159,9 +1190,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1451002190,
-		today: 1450933200,
-		todayDow: 4
+		now: 1465875223,
+		today: 1465790400,
+		todayDow: 1
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
@@ -1180,11 +1211,12 @@ jQuery.extend(true, XenForo,
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"pagenode":true,"share_page":true,"xenique":true,"xenique_extra":true,"rellect_favicon":true,"login_bar":true,"facebook":true,"twitter":true,"google":true,"js\/rellect\/FaviconForLinks\/FaviconForLinks.min.js?rev=9&_v=e5f9bf07":true},
+	_loadedScripts: {"pagenode":true,"share_page":true,"xenique":true,"xenique_extra":true,"rellect_favicon":true,"login_bar":true,"facebook":true,"twitter":true,"google":true,"js\/rellect\/FaviconForLinks\/FaviconForLinks.min.js?rev=9&_v=894008f5":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "e5f9bf07",
+	_jsVersion: "894008f5",
+	_noRtnProtect: false,
 	_noSocialLogin: false
 });
 jQuery.extend(XenForo.phrases,
