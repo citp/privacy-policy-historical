@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910100548id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614163807id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
 
-# Send Privacy Policy India - FloraIndia.com - Online Florist - Flowers, Cakes and Sweets Delivery Service
+# User Dashboard | Flora India
 
-**FloraIndia.com** , recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
+## Privacy Policy
 
-  * the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail, 
-  * why we gather information from you, 
-  * how we collect it, 
-  * how we use it, and 
-  * the choices you have regarding our use of personal information you have provided. 
+FloraIndia.com, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
-
+\- the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail,  
+\- why we gather information from you,  
+\- how we collect it,  
+\- how we use it, and  
+\- the choices you have regarding our use of personal information you have provided.
 
 Note: You must be 18 years or older to use, subscribe or register as a member of FloraIndia.com. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
 
@@ -22,14 +22,12 @@ FloraIndia.com gathers personal information to help improve our products and cus
 
 We collect information through our Web Site, emails, and telephone. We collect some or all of the following types of information:
 
-  * your name, address, telephone number, email address, 
-  * billing information on our secure payment gateway (credit card number, expiration date and billing address), 
-  * products purchased and occasion type (for example, Mother's Day), 
-  * any promotion code and related information, 
-  * Message and gift recipients' names, addresses and telephone numbers, and 
-  * other information you provide to us. 
-
-
+\- your name, address, telephone number, email address,  
+\- billing information on our secure payment gateway (credit card number, expiration date and billing address),  
+\- products purchased and occasion type (for example, Mother's Day),  
+\- any promotion code and related information,  
+\- Message and gift recipients' names, addresses and telephone numbers, and  
+\- other information you provide to us.
 
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries.
 
@@ -59,7 +57,7 @@ FloraIndia.com wants you to be aware that when you click on links and/or ad bann
 
 **Security and Passwords**
 
-If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft's Internet Explorer®, Mozilla Firefox® or Google Chrome®. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
+If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft's Internet ExplorerÂ®, Mozilla FirefoxÂ® or Google ChromeÂ®. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
 
 Portions of the Web Site (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Web Site (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts.
 
@@ -77,4 +75,4 @@ In addition, if you would like notice of changes to the Privacy Policy or Terms 
 
 **Your Comments**
 
-FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com. 
+FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com.
