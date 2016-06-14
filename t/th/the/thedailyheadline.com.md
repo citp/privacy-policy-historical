@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyheadline.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628065550id_/http%3A//thedailyheadline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyheadline.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614123411id_/http%3A//thedailyheadline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Headline
 
@@ -61,4 +61,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 info@thedailyheadline.com
 
-This document was last updated on May 31, 2014
+This document was last updated on Jan 31, 2016
