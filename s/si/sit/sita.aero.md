@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sita.aero privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205095935id_/http%3A//www.sita.aero/copyright-menu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sita.aero privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614170234id_/http%3A//www.sita.aero/copyright-menu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SITA
 
@@ -74,7 +74,7 @@ As is true of most Web sites, we gather certain information automatically and st
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
-We do not link this automatically-collected data to personally identifiable information.
+We do not link this automatically collected data to personally identifiable information.
 
 ## Cookies
 
