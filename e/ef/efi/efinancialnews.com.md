@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212172153id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614231614id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Financial News
 
