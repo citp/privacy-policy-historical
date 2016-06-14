@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121171401id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614034116id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of flappybird.io
 
@@ -30,7 +30,7 @@ The natural person, legal person, public administration or any other body, assoc
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookie
+#### Cookies
 
 Small piece of data stored in the User's device.
 
