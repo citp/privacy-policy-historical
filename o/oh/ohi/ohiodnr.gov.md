@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohiodnr.gov privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165432id_/http%3A//ohiodnr.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohiodnr.gov privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615002049id_/http%3A//ohiodnr.gov/privacy) for the most accurate reproduction.*
 
 # Ohio Department of Natural Resources
 
@@ -44,4 +44,4 @@ Ohio Department of Natural Resources will occasionally update this Statement of 
 
 Contact Information
 
-Ohio Department of Natural Resources welcomes your comments regarding this Statement of Privacy. If you believe that Ohio Department of Natural Resources has not adhered to this Statement, please contact Ohio Department of Natural Resources at [nick.johnson@dnr.state.oh.us](mailto:nick.johnson@dnr.state.oh.us). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Ohio Department of Natural Resources welcomes your comments regarding this Statement of Privacy. If you believe that Ohio Department of Natural Resources has not adhered to this Statement, please contact Ohio Department of Natural Resources at [khanh.pham@dnr.state.oh.us](mailto:khanh.pham@dnr.state.oh.us). We will use commercially reasonable efforts to promptly determine and remedy the problem.
