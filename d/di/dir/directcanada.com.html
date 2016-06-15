@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directcanada.com privacy policy that was archived on 2015-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151216134528id_/http%3A//www.directcanada.com/customercare/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directcanada.com privacy policy that was archived on 2016-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615193729id_/http%3A//www.directcanada.com/customercare/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - DirectCanada</title>
@@ -14,494 +14,802 @@
 <link rel="bookmark" href="/images/favicon-dc.ico">
 </head>
 <body>
-<div id="page">
-<div id="transom"></div>
-<div id="header">
+	<div id="page">
+		<div id="transom"></div>
+		<div id="header">
+			
+
 <script src="/js/main.js" language="javascript"></script>
 <script src="/js/jquery.min.js" language="javascript"></script>
 <script>
 var delay = (function(){
-var timer = 0;
-return function(callback, ms){
-clearTimeout(timer);
-timer = setTimeout(callback, ms);
-}
+	var timer = 0;
+	return function(callback, ms){
+		clearTimeout(timer);
+		timer = setTimeout(callback, ms);
+	}
 })();
+
 function doSearch(kw){
 delay(function(){
-if(kw =="" || kw.length <= 1){
-$("#jsonDisplayResult").hide("fast");
-return;
+	if(kw =="" || kw.length <= 1){
+		$("#jsonDisplayResult").hide("fast");
+		return;
+	}
+	$.getJSON("http://www.directcanada.com/webservices/product_search.cfm/?jsoncallback=?&q="+kw);
+	}, 250);
 }
-$.getJSON("http://www.directcanada.com/webservices/product_search.cfm/?jsoncallback=?&q="+kw);
-}, 250);
-}
+
 function jsonDisplayResult(data){
-$("#jsonDisplayResult").html(data.output);
-$("#jsonDisplayResult").show("fast");
+	$("#jsonDisplayResult").html(data.output);
+	$("#jsonDisplayResult").show("fast");
+	
 }
+
 $(document).on('click', function(e){
-if($(e.target).closest("#jsonDisplayResult").length === 0)
-{
-$("#jsonDisplayResult").hide();
-}
+	if($(e.target).closest("#jsonDisplayResult").length === 0)
+	{
+		$("#jsonDisplayResult").hide();
+	}
 });
+
 function goSearch()
 {
-document.location.replace('http://www.directcanada.com/search/?kw='+document.getElementById('id_search').value);
+	document.location.replace('http://www.directcanada.com/search/?kw='+document.getElementById('id_search').value);
 }
+
 function isEnter(e)
 {
-$('#id_search').keypress(function(e){
-var code = (e.keyCode ? e.keyCode : e.which);
-if(code == 13)
-{
-goSearch();
+	$('#id_search').keypress(function(e){
+		var code = (e.keyCode ? e.keyCode : e.which);
+		if(code == 13)
+		{
+			goSearch();
+		}
+	});
 }
-});
-}
-</script>
-<div id="eyebrow">
-<div id="google_translate_element" style="float:left;"></div>
-<script type="text/javascript">
-function googleTranslateElementInit() {
-new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,fr,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
-}
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<style>
-div#google_translate_element div.goog-te-gadget-simple{background-color:green;}
-div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span{color:white}
-div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover{color:#fff}
-div#google_translate_element div.goog-te-gadget-simple .goog-tegadget-icon{display:none;}
-</style>
-<div style="float:right; font-size:11px; font-family:Verdana, Arial, Helvetica, sans-serif;">
-<ul>
-<li class="first"><a href="http://www.directcanada.com/" title="Computer Parts">Home</a></li>
-<li><a href="https://www.directcanada.com/account/">Your Account</a></li>
-<li><a href="https://www.directcanada.com/ordertracking/">Order Tracking</a></li>
-<li><a href="https://www.directcanada.com/rma/">Online Returns</a></li>
-<li><a href="http://www.directcanada.com/contact/">Contact us</a></li>
-<li class="last">
-<a href="https://www.directcanada.com/login/">Login</a>
-</li>
-</ul>
-</div>
+
+</script>	
+
+
+
+
+
+
+	
+	
+
+<div id="eyebrow">		
+	<div id="google_translate_element" style="float:left;"></div>
+		
+		<script type="text/javascript">
+			function googleTranslateElementInit() {
+				new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,fr,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+			}
+		</script>
+		<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>	
+		<style>
+			div#google_translate_element div.goog-te-gadget-simple{background-color:green;}
+			div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span{color:white}
+			div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover{color:#fff}
+			div#google_translate_element div.goog-te-gadget-simple .goog-tegadget-icon{display:none;}
+		</style>
+	<div style="float:right; font-size:11px; font-family:Verdana, Arial, Helvetica, sans-serif;">
+	<ul>
+		
+		<li class="first"><a href="http://www.directcanada.com/" title="Computer Parts">Home</a></li>
+		<li><a href="https://www.directcanada.com/account/">Your Account</a></li>
+		<li><a href="https://www.directcanada.com/ordertracking/">Order Tracking</a></li>
+		<li><a href="https://www.directcanada.com/rma/">Online Returns</a></li>
+		<li><a href="http://www.directcanada.com/contact/">Contact us</a></li>
+		<li class="last">
+			
+				<a href="https://www.directcanada.com/login/">Login</a>
+			
+		</li>
+		
+	</ul>
+	</div>
 </div>
 <div style="clear:both"></div>
 <div id="masthead">
-<div id="logo"><a href="http://www.directcanada.com/"><img src="/images/logo.gif" alt="Computer Parts" border="0"></a></div>
-<div id="headbanner">
-
-<div align="center"> <div style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:16px; color:darkblue; font-weight:bold;">
-Free Shipping on orders over $50 &amp; under 25lbs*
+	<div id="logo"><a href="http://www.directcanada.com/"><img src="/images/logo.gif" alt="Computer Parts" border="0"></a></div>
+	<div id="headbanner">
+	
+		
+		<a href="http://www.directcanada.com/search/?kw=linke"><img src="/images/linke.jpg"></a>
+	</div>
+	<div id="shopping">
+		
+		<ul>
+			<li><a href="http://www.directcanada.com/cart/">View Cart</a></li>
+			<li><a href="http://www.directcanada.com/cart/">Items (0)</a></li>
+			<li><a href="http://www.directcanada.com/cart/">Total&nbsp;$0.00</a></li>
+			<li><a href="http://www.directcanada.com/wishlist/">Wish List</a></li>
+		</ul>
+			
+	</div>
 </div>
-<!---
-<div style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:13px; color:black; font-weight:bold;">
-Fast delivery with UPS, Fedex, Canada Post & Purolator!
-</div>
---->
-<font face="verdana" size="1" color="gray">
-<div style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:9px; color:grey;">
-* Order must be greater than $50 before shipping &amp; handling, environmental fees, taxes &amp; less than
-</div>
-<div style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:9px; color:grey;">
-25lbs. Rural areas, PO boxes, territories &amp; other remote regions, or customers outside of
-</div>
-<div style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:9px; color:grey;">
-Canada are not eligible. Some areas limited to 15lbs. - <a href="http://www.directcanada.com/terms/#res">other restrictions may apply</a>
-</div>
-</font></div><font face="verdana" size="1" color="gray">
-
-</font></div><font face="verdana" size="1" color="gray">
-<div id="shopping">
-<ul>
-<li><a href="http://www.directcanada.com/cart/">View Cart</a></li>
-<li><a href="http://www.directcanada.com/cart/">Items (0)</a></li>
-<li><a href="http://www.directcanada.com/cart/">Total&nbsp;$0.00</a></li>
-<li><a href="http://www.directcanada.com/wishlist/">Wish List</a></li>
-</ul>
-</div>
-</font></div><font face="verdana" size="1" color="gray">
 <div id="headbar">
-<div class="left"><span class="major">• </span><a href="http://www.directcanada.com/hotDeals.cfm" style="color: yellow; text-decoration:none;">CATEGORIES</a></div>
-<div class="right">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search
-<input id="id_search" onkeyup="doSearch(this.value);" onkeydown="isEnter(this.value)" type="text" name="search" class="search" onchange="" align="absbottom" style="margin-bottom:0">
-<input class="go" type="image" src="/images/go1.gif" value="" onclick="document.location.replace('http://www.directcanada.com/search/?kw='+document.getElementById('id_search').value);">
+	<div class="left"><span class="major">• </span><a href="http://www.directcanada.com/hotDeals.cfm" style="color: yellow; text-decoration:none;">CATEGORIES</a></div>
+	<div class="right">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search 
+		<input id="id_search" onkeyup="doSearch(this.value);" onkeydown="isEnter(this.value)" type="text" name="search" class="search" onchange="" align="absbottom" style="margin-bottom:0">
+		<input class="go" type="image" src="/images/go1.gif" value="" onclick="document.location.replace('http://www.directcanada.com/search/?kw='+document.getElementById('id_search').value);">
+
+			
+	</div>
+	<div id="jsonDisplayResult"></div>
 </div>
-<div id="jsonDisplayResult"></div>
-</div>
-</font></div><font face="verdana" size="1" color="gray">
-<div id="body">
-<div id="leftwrap">
-<div id="middle">
-<div id="topbanner">
 
 
-</div>
-<div id="contents">
-<div id="path"> <a href="http://www.directcanada.com/">Home</a> &gt; Customer Care &gt; Privacy Policy </div>
-<div id="title">
-<h1>Privacy Policy </h1>
-</div>
-<div id="text">
-<div>
-<h2>What Personal Information About Customers Does DirectCanada.com Gather?</h2>
-<p>The information we learn from customers helps us continually improve your shopping experience at DirectCanada.com. Here are the types of information we gather.</p>
+		</div>
+		<div id="body">
+			<div id="leftwrap">
+				<div id="middle">
+					<div id="topbanner">
+						
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+					</div>
+					<div id="contents">
+						<div id="path"> <a href="http://www.directcanada.com/">Home</a> &gt; Customer Care &gt; Privacy Policy </div>
+						<div id="title">
+							<h1>Privacy Policy  </h1>
+						</div>
+						<div id="text">
+							<div>
+								<h2>What Personal Information About Customers Does DirectCanada.com Gather?</h2>
+								<p>The information we learn from customers helps us continually improve your shopping experience at DirectCanada.com. Here are the types of information we gather.</p>
+								<ul>
+									<li> <strong>Information You Give Us:</strong> We receive and store any information you enter on the DirectCanada.com web site or give us in any other way.</li>
+									<li>										<strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us. For example, like many other web sites, we use "cookies," and we obtain certain types of information when your web
+										browser accesses DirectCanada.com.</li>
+								</ul>
+								<p>&nbsp;</p>
+								<h2>Does DirectCanada.com sell the Information It Receives?</h2>
+								<p>DirectCanada.com does not sell information to other companies. </p>
+								<p>&nbsp;</p>
+								<h2>What information does DirectCanada.com share?</h2>
+								<p>DirectCanada.com may share your information with third parties acting on our behalf or as permitted or required by law. </p>
+								<ul>
+									<li> <strong>Third-Party Service Providers:</strong> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, processing credit card payments, and providing
+										customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</li>
+									<li><strong>Protection of DirectCanada.com and Others:</strong> We release account and other personal information
+										when we believe release is appropriate to comply with law; enforce or apply our terms and conditions and other agreements; or protect the rights, property, or safety of DirectCanada.com, our users, or others. This includes
+										exchanging information with other companies and organizations for fraud protection and credit-risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable
+										information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.</li>
+								</ul>
+								<p>&nbsp;</p>
+								<h2>How Secure Is Information About Me?</h2>
+								<ul>
+									<li> We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you enter.</li>
+									<li>We reveal only the enough of your credit card number to uniquely identify it when confirming
+										an order. We securely transmit the entire credit card number to the appropriate credit card company during order processing.</li>
+									<li>The security of your personal information is a high priority for DirectCanada.com. We maintain
+										appropriate safeguards and current security standards to protect your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse.</li>
+								</ul>
+								<p>&nbsp;</p>
+								<h2>Change Policy</h2>
+								<p>To accommodate changes in our service, the technology, and legal developments, this Policy may change over time. We may add, change, or remove portions of this Policy when we feel it is appropriate to do so. Whenever we update this Policy we will
+									change the date on the Policy to indicate when the changes were made.</p>
+								<p><br>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="left">
+					<div id="trough">
+						
+
+
+
+
+
+
+	<div id="menu">
+		<ul class="lv1">
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=143">Accessories</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2013">3D Vision Glasses</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2014">Batteries</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1617">Blank Media</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1507">Cables</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2038">Camera Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1850">Carrying Cases</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1517">Computer Cases</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1428">CPU Heatsinks</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1476">Drive Enclosures</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2054">External Drive Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1495">Fans - Cooling</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1544">Firewire 1394 Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2030">Flat Screen Wall Mounts</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1715">Game Controllers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1231">Headphones - Mics</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2009">HOME AUTOMATION</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1266">HTPC Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1896">IDE/RAID Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1163">KVMs</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1767">Lighting - Modding</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2020">Mac Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2021">Mac Memory</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2053">Memory - Flash</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2015">Modding</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1828">Mouse Pads</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2029">NVIDIA SHIELD Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1561">Others</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1834">Personal/ Portable – Image, Audio and Video</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1303">Physics Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1308">Power Supplies</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1971">Printer Consumables</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2016">RAID Card Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1665">Speakers - Audio</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2017">Stands</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2018">Tablet Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2019">Thermal Compound</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2011">UPS/POWER MANAGEMENT</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1006">UPS/Power Protection</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1268">USB Add-Ons</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1358">Water Cooling</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=120">Boards</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1338">Memory (RAM)</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2002">Memory + Motherboards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1711">Motherboards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1382">Overclocking Kits</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1380">Processors (CPUs)</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2003">Processors + Motherboards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2022">SAS RAID Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2023">SATA Card Non-RAID</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1998">SATA/RAID Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1823">SCSI/RAID Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1478">Serial / Parallel Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1000">Sound Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2024">USB3.0 Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2005">Video + Motherboard</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1862">Video Cards</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=216">Drives</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2010">Blu-Ray Readers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1337">Blu-Ray Writers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1773">CD Writers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1790">CD-ROM Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1049">DVD Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1571">DVD Writers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2055">External Hard Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1395">Floppy Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1223">Hard Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1798">Hard Drives (Mobile 1.8")</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1482">Hard Drives (Mobile 2.5")</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1620">Notebook Optical Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1144">Removable Storage</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2012">Solid State Drives</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1743">Tape Backup Drives</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=220">Input Devices</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1046">Keyboards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1373">Mice</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2060">Racing Wheels</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1445">Scanners</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1676">Tablets</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2047">Tablets - 7 inch and under</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1043">Webcams</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=275">Monitors</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2061">Commercial Monitors/TV</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1512">Commercial Monitors/TV 30 to 45in</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1742">Commercial Monitors/TV 45in +</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1206">CRT Monitors</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2062">Digital Signage Monitor</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2111">Digital Signage Monitor 30 to 45in</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1067">Digital Signage Monitor 45in +</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1746">LCD Monitors</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2008">LCD Monitors 30" - 45"</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1991">LCD Monitors 45"+</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1092">Projector Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1702">Projector Screens</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1263">Projectors</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1052">Touch Screen Monitor</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=289">Multimedia</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1409">Flash Memory </a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1199">MP3 Players</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1009">TV - Video</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=163">Networking</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1367">Internet Routers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1799">Network Cards</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2063">Network Patch Cables</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1628">Network Starter Kits</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2057">Network Storage NAS</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1967">Powerline Ethernet</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1919">Print Server</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1658">Security Firewall</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1454">Soho NAS</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1501">Switches - Hubs</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1204">Wireless Networking</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=123">OFFICE SUPPLIES</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1264">Calculators</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1271">Clocks</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2113">Document Holders</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2114">Keyboard Trays</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2118">Office Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2115">Office Chairs</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2119">Office Ergonomics</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1522">Pens</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2116">Shipping Materials</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2117">Shredders</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=173">Printer Supplies</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2104">3D Printing Filament</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1784">Ink Cartridges</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1265">Labels</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1596">Paper</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2080">Printer Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1591">Toner Cartridges - Consumables</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=290">Printers</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2081">3D Printing</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1227">Dot Matrix Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2106">Floor Standing Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1855">Ink Jet Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1450">Laser Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1680">Multi-Function Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2082">Photo Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1151">Photocopiers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1134">Plotters</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2083">Portable Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1923">Print Servers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1718">Receipt/Barcode Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2105">Specialty Printers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1433">Thermal Printers</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=256">Software</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1864">Accounting and Office</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1705">Antivirus </a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2088">Audio and Multimedia</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2089">Backup and Restore</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2090">Desktop</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2091">Development</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2092">Education</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1928">Educational and Reference</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2093">Graphic Apps</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2094">Home and Hobby</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2095">Network and Internet</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1142">OEM </a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2096">OEM Games</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1469">Operating Systems</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1128">Productivity </a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2097">Screen Savers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2098">Security and Privacy</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2099">Server and Virtualization</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2100">System Utilities</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1750">Tools and Utilities</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2000">Volume Licensing</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2101">Web Development</a></li>
+					
+				</ul>
+			</li>
+			
+			<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=140">Systems</a>
+				<ul class="lv2">
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2048">2-In-1 Tablet</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1787">Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1262">Barebone Notebooks</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1442">Barebone PCs</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1401">Barebone Server</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1146">Barebone Workstation</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1860">Desktop PCs</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2007">Netbooks</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1036">Notebook Accessories</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1470">Notebooks</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=1365">Servers</a></li>
+					
+						<li><a href="http://www.directcanada.com/category/?minorcatid=2102">Workstations</a></li>
+					
+				</ul>
+			</li>
+			
+		</ul>
+	</div>
+
+
 <ul>
-<li> <strong>Information You Give Us:</strong> We receive and store any information you enter on the DirectCanada.com web site or give us in any other way.</li>
-<li>	<strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us. For example, like many other web sites, we use "cookies," and we obtain certain types of information when your web
-browser accesses DirectCanada.com.</li>
-</ul>
-<p>&nbsp;</p>
-<h2>Does DirectCanada.com sell the Information It Receives?</h2>
-<p>DirectCanada.com does not sell information to other companies. </p>
-<p>&nbsp;</p>
-<h2>What information does DirectCanada.com share?</h2>
-<p>DirectCanada.com may share your information with third parties acting on our behalf or as permitted or required by law. </p>
-<ul>
-<li> <strong>Third-Party Service Providers:</strong> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, processing credit card payments, and providing
-customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</li>
-<li><strong>Protection of DirectCanada.com and Others:</strong> We release account and other personal information
-when we believe release is appropriate to comply with law; enforce or apply our terms and conditions and other agreements; or protect the rights, property, or safety of DirectCanada.com, our users, or others. This includes
-exchanging information with other companies and organizations for fraud protection and credit-risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable
-information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.</li>
-</ul>
-<p>&nbsp;</p>
-<h2>How Secure Is Information About Me?</h2>
-<ul>
-<li> We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you enter.</li>
-<li>We reveal only the enough of your credit card number to uniquely identify it when confirming
-an order. We securely transmit the entire credit card number to the appropriate credit card company during order processing.</li>
-<li>The security of your personal information is a high priority for DirectCanada.com. We maintain
-appropriate safeguards and current security standards to protect your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse.</li>
-</ul>
-<p>&nbsp;</p>
-<h2>Change Policy</h2>
-<p>To accommodate changes in our service, the technology, and legal developments, this Policy may change over time. We may add, change, or remove portions of this Policy when we feel it is appropriate to do so. Whenever we update this Policy we will
-change the date on the Policy to indicate when the changes were made.</p>
-<p><br>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div id="left">
-<div id="trough">
-<div id="menu">
-<ul class="lv1">
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=143">Accessories</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=2013">3D Vision Glasses</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2014">Batteries</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1617">Blank Media</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1507">Cables</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2038">Camera Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1850">Carrying Cases</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1517">Computer Cases</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1428">CPU Heatsinks</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1476">Drive Enclosures</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2054">External Drive Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1495">Fans - Cooling</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1544">Firewire 1394 Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2030">Flat Screen Wall Mounts</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1715">Game Controllers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1231">Headphones - Mics</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2009">HOME AUTOMATION</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1266">HTPC Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1896">IDE/RAID Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1163">KVMs</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1767">Lighting - Modding</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2020">Mac Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2021">Mac Memory</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2053">Memory - Flash</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2015">Modding</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1828">Mouse Pads</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2029">NVIDIA SHIELD Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1561">Others</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1834">Personal/ Portable – Image, Audio and Video</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1303">Physics Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1308">Power Supplies</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1971">Printer Consumables</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2016">RAID Card Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1665">Speakers - Audio</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2017">Stands</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2018">Tablet Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2019">Thermal Compound</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2011">UPS/POWER MANAGEMENT</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1006">UPS/Power Protection</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1268">USB Add-Ons</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1358">Water Cooling</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=120">Boards</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=1338">Memory (RAM)</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2002">Memory + Motherboards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1711">Motherboards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1382">Overclocking Kits</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1380">Processors (CPUs)</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2003">Processors + Motherboards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2022">SAS RAID Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2023">SATA Card Non-RAID</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1998">SATA/RAID Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1823">SCSI/RAID Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1478">Serial / Parallel Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1000">Sound Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2024">USB3.0 Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2005">Video + Motherboard</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1862">Video Cards</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=216">Drives</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=2010">Blu-Ray Readers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1337">Blu-Ray Writers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1773">CD Writers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1790">CD-ROM Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1049">DVD Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1571">DVD Writers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2055">External Hard Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1395">Floppy Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1223">Hard Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1798">Hard Drives (Mobile 1.8")</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1482">Hard Drives (Mobile 2.5")</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1620">Notebook Optical Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1144">Removable Storage</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2012">Solid State Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1743">Tape Backup Drives</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=220">Input Devices</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=1046">Keyboards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1373">Mice</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2060">Racing Wheels</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1445">Scanners</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1676">Tablets</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2047">Tablets - 7 inch and under</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1043">Webcams</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=275">Monitors</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=2061">Commercial Monitors/TV</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1512">Commercial Monitors/TV 30 to 45in</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1742">Commercial Monitors/TV 45in +</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1206">CRT Monitors</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2062">Digital Signage Monitor</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2111">Digital Signage Monitor 30 to 45in</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1067">Digital Signage Monitor 45in +</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1746">LCD Monitors</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2008">LCD Monitors 30" - 45"</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1991">LCD Monitors 45"+</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1092">Projector Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1702">Projector Screens</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1263">Projectors</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1052">Touch Screen Monitor</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=289">Multimedia</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=1409">Flash Memory </a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1199">MP3 Players</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1009">TV - Video</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=163">Networking</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=1367">Internet Routers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1799">Network Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2063">Network Patch Cables</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1628">Network Starter Kits</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2057">Network Storage NAS</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1967">Powerline Ethernet</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1919">Print Server</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1658">Security Firewall</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1454">Soho NAS</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1501">Switches - Hubs</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1204">Wireless Networking</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=173">Printer Supplies</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=2104">3D Printing Filament</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1784">Ink Cartridges</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1265">Labels</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1596">Paper</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2080">Printer Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1591">Toner Cartridges - Consumables</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=290">Printers</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=2081">3D Printing</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1227">Dot Matrix Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2106">Floor Standing Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1855">Ink Jet Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1450">Laser Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1680">Multi-Function Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2082">Photo Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1151">Photocopiers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1134">Plotters</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2083">Portable Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1923">Print Servers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1718">Receipt/Barcode Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2105">Specialty Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1433">Thermal Printers</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=256">Software</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=1864">Accounting and Office</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1705">Antivirus </a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2088">Audio and Multimedia</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2089">Backup and Restore</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2090">Desktop</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2091">Development</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2092">Education</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1928">Educational and Reference</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2093">Graphic Apps</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2094">Home and Hobby</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2095">Network and Internet</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1142">OEM </a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2096">OEM Games</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1469">Operating Systems</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1128">Productivity </a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2097">Screen Savers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2098">Security and Privacy</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2099">Server and Virtualization</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2100">System Utilities</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1750">Tools and Utilities</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2000">Volume Licensing</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2101">Web Development</a></li>
-</ul>
-</li>
-<li><a class="x" href="http://www.directcanada.com/department/?MajorCatID=140">Systems</a>
-<ul class="lv2">
-<li><a href="http://www.directcanada.com/category/?minorcatid=2048">2-In-1 Tablet</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1787">Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1262">Barebone Notebooks</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1442">Barebone PCs</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1401">Barebone Server</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1146">Barebone Workstation</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1860">Desktop PCs</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2007">Netbooks</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1036">Notebook Accessories</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1470">Notebooks</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1365">Servers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2102">Workstations</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<ul>
-<li class="all"><a href="http://www.directcanada.com/category/allcategory.cfm">All Categories...</a></li>
-<li class="major">• HOT LINKS</li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1860">Desktop PCs</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1470">Notebooks</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1507">Cables</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1999">Cell Phones</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1517">Computer Cases</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1066">Digital Cameras</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1571">DVD Writers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2055">External Hard Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1223">Hard Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1855">Ink Jet Printers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1367">Internet Routers</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1046">Keyboards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1746">LCD Monitors</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1338">Memory (RAM)</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2053">Memory - Flash</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1373">Mice</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1711">Motherboards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1013">MP3 - Media Players</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1469">Operating Systems</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2107">PlayStation 4</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1380">Processors (CPUs)</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2012">Solid State Drives</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1676">Tablets</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1862">Video Cards</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=1204">Wireless Networking</a></li>
-<li><a href="http://www.directcanada.com/category/?minorcatid=2031">Xbox One</a></li>
+	<li class="all"><a href="http://www.directcanada.com/category/allcategory.cfm">All Categories...</a></li>
+	<li class="major">• HOT LINKS</li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1860">Desktop PCs</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1470">Notebooks</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1507">Cables</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1999">Cell Phones</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1517">Computer Cases</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1066">Digital Cameras</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1571">DVD Writers</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=2055">External Hard Drives</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1223">Hard Drives</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1855">Ink Jet Printers</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1367">Internet Routers</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1046">Keyboards</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1746">LCD Monitors</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1013">Media Players</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1338">Memory (RAM)</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=2053">Memory - Flash</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1373">Mice</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1711">Motherboards</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1469">Operating Systems</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=2107">PlayStation 4</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1380">Processors (CPUs)</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=2012">Solid State Drives</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1676">Tablets</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1862">Video Cards</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=1204">Wireless Networking</a></li>
+	
+		<li><a href="http://www.directcanada.com/category/?minorcatid=2031">Xbox One</a></li>
+	
 </ul>
 <ul>
-<li class="major">• HOT VENDORS</li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1014">ACER</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1021">ADOBE</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1036">AMD</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1037">ANTEC</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1053">ASUS</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1118">CORSAIR</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1161">EVGA</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1183">GIGABYTE</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1207">HP</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1220">INTEL</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1241">KINGSTON</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1257">LENOVO</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1260">LG</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1262">LINKSYS</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1285">MICROSOFT</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1300">MUSHKIN</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1313">NGEAR</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1672">Noctua</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1321">NZXT</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1322">OCZ</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1404">Samsung</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1412">SEAGATE</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=2469">Steelseries</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1446">SUPERMICRO</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1541">Synology Inc.</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1472">TOSHIBA</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=3503">Unlocked Phones</a></li>
-<li><a href="http://www.directcanada.com/vendors/?vendorid=1518">XFX</a></li>
-<li class="all"><a href="http://www.directcanada.com/vendors/allvendors.cfm">All Vendors...</a></li>
-<li class="all"><a href="http://www.directcanada.com/products/newarrivals.cfm">New Arrivals</a></li>
+	<li class="major">• HOT VENDORS</li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1014">ACER</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1021">ADOBE</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1036">AMD</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1037">ANTEC</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1053">ASUS</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1118">CORSAIR</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1161">EVGA</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1183">GIGABYTE</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1207">HP</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1220">INTEL</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1241">KINGSTON</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1257">LENOVO</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1260">LG</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1262">LINKSYS</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1285">MICROSOFT</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1300">MUSHKIN</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1313">NGEAR</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1672">Noctua</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1321">NZXT</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1322">OCZ</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1404">Samsung</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1412">SEAGATE</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=2469">Steelseries</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1446">SUPERMICRO</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1541">Synology Inc.</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1472">TOSHIBA</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=3503">Unlocked Phones</a></li>
+	
+		<li><a href="http://www.directcanada.com/vendors/?vendorid=1518">XFX</a></li>
+	
+	<li class="all"><a href="http://www.directcanada.com/vendors/allvendors.cfm">All Vendors...</a></li>
+	<li class="all"><a href="http://www.directcanada.com/products/newarrivals.cfm">New Arrivals</a></li>
 </ul>
+
 <br>
-</div>
-<div class="shim"></div>
-</div>
-</div>
-<div id="right">
-</div>
-<div class="clear"></div>
-</div>
-<div id="footer">
+					</div>
+					<div class="shim"></div>
+				</div>
+			</div>
+			<div id="right">
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="footer">
+			
 <div id="info">
-<ul>
-Company Infomation
-<li>• <a href="http://www.directcanada.com/contact/about.cfm">About us</a></li>
-<li>• <a href="http://www.directcanada.com/contact/">Contact us</a></li>
-<script language="javascript" type="text/javascript">
-function hwalert() {
-window.open('/docs/hardwarecanucks_disclaimer.html', 'hardwarecanucks', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=0, width=600, height=400');
-}
-</script>
-<li>• <a href="http://www.hardwarecanucks.com/forum/" target="_blank" onclick="javascript:setTimeout('hwalert()', 1000); return false;">Community Forum</a></li>
-<li>&nbsp;</li>
-</ul>
-<ul>
-Customer Service
-<li>• <a href="http://www.directcanada.com/category/mail-in-rebate.cfm">Rebate Center</a></li>
-<li>• <a href="http://www.directcanada.com/customercare/warranty.cfm">Warranty &amp; Return Policy</a></li>
-<li>• <a href="http://www.directcanada.com/newsletter/">Unsubscribe to Emails</a></li>
-</ul>
-<ul>
-Your Account
-<li>• <a href="https://www.directcanada.com/login/">Log In / Register</a></li>
-<li>• <a href="https://www.directcanada.com/ordertracking/">Order Tracking</a></li>
-<li>• <a href="https://www.directcanada.com/rma/">Online RMAs</a></li>
-<li>• <a href="https://www.directcanada.com/account/">Manage Your Account</a></li>
-</ul>
-<ul class="last">
-Service Center
-<li>• <a href="http://www.directcanada.com/customercare/#faq">FAQs</a></li>
-<li>• <a href="http://www.directcanada.com/customercare/privacy.cfm">Privacy Policy</a></li>
-<li>• <a href="http://www.directcanada.com/terms/">Terms &amp; Conditions</a></li>
-</ul>
+	<ul>
+		Company Infomation
+		<li>• <a href="http://www.directcanada.com/contact/about.cfm">About us</a></li>
+		<li>• <a href="http://www.directcanada.com/contact/">Contact us</a></li>
+		<script language="javascript" type="text/javascript">
+			function hwalert() {
+				window.open('/docs/hardwarecanucks_disclaimer.html', 'hardwarecanucks', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=0, width=600, height=400');
+			}
+		</script>
+		<li>• <a href="http://www.hardwarecanucks.com/forum/" target="_blank" onclick="javascript:setTimeout('hwalert()', 1000); return false;">Community Forum</a></li>
+		<li>&nbsp;</li>
+	</ul>
+	<ul>
+		Customer Service
+		<li>• <a href="http://www.directcanada.com/category/mail-in-rebate.cfm">Rebate Center</a></li>
+		<li>• <a href="http://www.directcanada.com/customercare/warranty.cfm">Warranty &amp; Return Policy</a></li>
+		<li>• <a href="http://www.directcanada.com/newsletter/">Unsubscribe to Emails</a></li>
+
+	</ul>
+	<ul>
+		Your Account
+		<li>• <a href="https://www.directcanada.com/login/">Log In / Register</a></li>
+		<li>• <a href="https://www.directcanada.com/ordertracking/">Order Tracking</a></li>
+		<li>• <a href="https://www.directcanada.com/rma/">Online RMAs</a></li>
+		<li>• <a href="https://www.directcanada.com/account/">Manage Your Account</a></li>
+	</ul>
+	<ul class="last">
+		Service Center
+		<li>• <a href="http://www.directcanada.com/customercare/#faq">FAQs</a></li>
+		<li>• <a href="http://www.directcanada.com/customercare/privacy.cfm">Privacy Policy</a></li>
+		<li>• <a href="http://www.directcanada.com/terms/">Terms &amp; Conditions</a></li>
+
+	</ul>
 </div>
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript BLOCKIMAGEsrc='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -512,13 +820,20 @@ var pageTracker = _gat._getTracker("UA-13187367-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <p class="certification">
-<a href="http://www.shopbot.ca/direct-canada-review,hsksl64.html" title="We are listed on Shopbot">
-<img src="http://i.shopbot-inc.com/s/i/shopbot/certified_logos/certified_6.png" alt="We are listed on Shopbot" height="55">
-</a>
+
+    <a href="http://www.shopbot.ca/direct-canada-review,hsksl64.html" title="We are listed on Shopbot">
+        <img src="https://i.shopbot-inc.com/s/i/shopbot/certified_logos/certified_6.png" alt="We are listed on Shopbot" height="55">
+    </a>
+
+
 <img src="/images/geotrust94.gif" alt="" height="45">
+
+
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.directcanada.com" rel="nofollow"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.directcanada.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+
+
 <img src="/images/paypal2.gif" alt="" height="55"><a href="http://www.bbb.org/mbc/business-reviews/computer-dealers/direct-canada-computer-in-richmond-bc-1227677" target="_blank" rel="nofollow"><img src="/images/bbb4.gif" alt=""></a></p>
-<p class="copyright">Copyright © 2015 DirectCanada Computer Inc. All rights reserved. 15</p>
+<p class="copyright">Copyright © 2016 DirectCanada Computer Inc. All rights reserved. 0</p>
 <script type="text/javascript"><!--
 document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
 "directcanada.postaffiliatepro.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
@@ -530,8 +845,12 @@ PostAffTracker.track();
 } catch (err) { }
 //-->
 </script>
-</div>
-</font></div><font face="verdana" size="1" color="gray">
+
+		</div>
+	</div>
 
 
-</font></body></html>
+
+
+		
+		</body></html>
