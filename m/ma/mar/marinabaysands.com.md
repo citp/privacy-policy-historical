@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221182537id_/http%3A//www.marinabaysands.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615150712id_/http%3A//www.marinabaysands.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Marina Bay Sands
 
@@ -92,7 +92,7 @@ If you have ceased to be a customer or client of MBS and have cancelled your acc
 
 ## Opt-Out
 
-If you do not want your personal data to be shared among affiliates or partners of MBS, you may opt-out of such information sharing by sending us the appropriate withdrawal of consent form found at [http://www.marinabaysands.com/Company-Information/Data-Protection-Office/](https://web.archive.org/data-protection-office.html). Please note that if you withdraw your consent for a limited purpose, such as for marketing or a specific category of marketing, we may still contact you or use your information for other purposes for which you have not withdrawn your consent and such personal data may still be shared, as permitted under the PDPA and other applicable law.  If you do not wish to receive any further information from MBS regarding MBS Properties, offers, promotions or special events via email, you may unsubscribe by clicking the unsubscribe link included in our email correspondence.
+If you do not want your personal data to be shared among affiliates or partners of MBS, you may opt-out of such information sharing by sending us the appropriate withdrawal of consent form found at [http://www.marinabaysands.com/Company-Information/Data-Protection-Office/](https://web.archive.org/content/singapore/marinabaysands/en/main/index/data-protection-office.html). Please note that if you withdraw your consent for a limited purpose, such as for marketing or a specific category of marketing, we may still contact you or use your information for other purposes for which you have not withdrawn your consent and such personal data may still be shared, as permitted under the PDPA and other applicable law.  If you do not wish to receive any further information from MBS regarding MBS Properties, offers, promotions or special events via email, you may unsubscribe by clicking the unsubscribe link included in our email correspondence.
 
 ## International Transfers of Information
 
