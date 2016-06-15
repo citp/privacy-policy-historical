@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chachingonashoestring.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208212923id_/http%3A//www.chachingonashoestring.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chachingonashoestring.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615041717id_/http%3A//www.chachingonashoestring.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Cha-Ching on a Shoestring™
 
@@ -72,5 +72,3 @@ If you have any questions about this privacy policy or ChaChingonaShoestring.com
 ### This Privacy Statement
 
 This privacy statement is based on a precedent created by [Employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/ "Employmentlawcontracts.co.uk") and [Automattic Inc.](http://automattic.com/privacy/ "Automattic Inc."), and is available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike") license.
-
-The links in this post may contain affiliate links and I will receive a small commission if you make a purchase after clicking on my link. Thanks for supporting Cha-Ching on a Shoestring. For more information, please see my [Disclosure Policy](http://www.chachingonashoestring.com/disclosure-policy/). 
