@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawcareers.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215142918id_/http%3A//www.lawcareers.net/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcareers.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616014506id_/https%3A//www.lawcareers.net/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - Information
 
