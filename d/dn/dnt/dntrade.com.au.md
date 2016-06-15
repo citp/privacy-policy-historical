@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911114327id_/https%3A//www.dntrade.com.au/blog/dntrade-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615174746id_/https%3A//www.dntrade.com.au/blog/dntrade-privacy-policy) for the most accurate reproduction.*
 
 # DNTrade Privacy Policy - DNTrade
 
 **1\. About**
 
-This document explains how we collect, use and disclose your personal information in connection with our services. In this document when we use the term “we” or “us” it is a reference to Web DNA ABN 75 566 100 236. Our website operates as a domain name and technology forum.
+This document explains how we collect, use and disclose your personal information in connection with our services. In this document when we use the term “we” or “us” it is a reference to Hypercraft ABN 75 172 062 699. Our website operates as a domain name and technology forum.
 
 **2\. Collection**
 
