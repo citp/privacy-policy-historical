@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the livelearnevolve.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216102220id_/http%3A//livelearnevolve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelearnevolve.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615223924id_/http%3A//livelearnevolve.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Live Learn Evolve
+# Privacy Policy | Live Learn Evolve
+
+Reading Time: 2 minutes
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder Live Learn Evolve, http://livelearnevolve.com)
 
