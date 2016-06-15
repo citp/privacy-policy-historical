@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140330id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615042149id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
 
 # Things To Do - Experience Kissimmee - Orlando Florida Area - Fun Family Events - Kissimmee
 
-The **Experience Kissimmee** values your privacy. That's why we're doing everything we can to protect your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.
+**Experience Kissimmee** values your privacy. That's why we're doing everything we can to protect your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
 We are committed to protecting your privacy and maintaining your trust. We have created the following privacy policy to explain our processes and express this commitment.
 
