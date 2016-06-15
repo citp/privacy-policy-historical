@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206014758id_/http%3A//topgolf.com/us/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615050429id_/http%3A//topgolf.com/us/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Topgolf
 
-_UPDATED: December 1, 2015_
+_UPDATED: February 15, 2016_
 
-Topgolf International, Inc. and its subsidiaries ("Topgolf" or "we" or "our" or "us") are committed to respecting your privacy. This Privacy Policy describes the types of information collected from you, what we do with it and with whom we share it. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal information at our physical locations ("Locations") or through this website at [...](http://www.topgolf.com/) (this "Site").
+Topgolf International, Inc. and its subsidiaries ("Topgolf" or "we" or "our" or "us") are committed to respecting your privacy. This Privacy Policy describes the types of information collected from you, what we do with it and with whom we share it. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal information at our physical locations ("Locations") or through this website at <http://www.topgolf.com/> (this "Site").
 
 Please note that the headings contained in this Privacy Policy are inserted for convenience of reference only and shall not in any way define or affect the meaning, construction, or scope of any of the provisions contained in this Privacy Policy.
 
@@ -35,6 +35,17 @@ We do not sell or rent to third parties any of the personal information that you
 Like most web sites, this Site gathers traffic patterns, site usage information and other aggregated data in order to evaluate our visitors' preferences and the effectiveness of this Site. This aggregate usage data does not identify you individually. We may share anonymous, aggregated statistics about visitors to this Site with third-parties, and we may allow third-parties to collect aggregate data through this Site and/or supplier sites accessible from or though this Site.
 
 This Site may use cookies to enhance the browsing and usage experience on our Site. "Cookies" are small files or records that are placed on your computer's hard drive (by us or a third party provider of ours) to collect information about your activities on our Site. The information captured about your activities on our Site will make it possible for us (i) to speed navigation and provide you with custom tailored content; (ii) to remember information you gave to us so you don't have to re-enter it each time you visit the Site; (iii) to monitor the effectiveness of certain of our marketing email campaigns; (iv) to monitor total number of visitors, pages viewed, and banners served on our Site, and (v) enforce limitations on downloads described for on-line coupons and other similar offers. If you refuse cookies, your experience on our Site may be affected — for example you may not be able to utilize all of the functions on this Site.
+
+**Mobile Terms & Conditions**
+
+  * You must be 13 years of age or older to participate in the Topgolf mobile text program.
+  * By providing your mobile phone number and clicking the "Submit" button, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Topgolf. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase.
+  * **Message & data rates may apply.** All charges are billed by and payable to your mobile service provider. Topgolf does not charge you for sending or receiving text messages to **68633**.
+  * You can unsubscribe at any time by texting **"STOP"** to **68633**. A text will be sent confirming your removal. Topgolf reserves the right to remove subscribers from our messaging database. For more info, text **“HELP”** to **68633** or [contact us online](http://vibes.com/help).
+  * This program is not available on all carriers, and Topgolf is not be liable for any delays in the receipt of any SMS messages or undelivered messages.
+  * Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, the date, time and content of your messages and other information you provide to Topgolf as part of this service. We may use this information to contact you and to provide the services you request from us. Your information will not be shared with any third parties.
+
+
 
 **Contests/Sweepstakes**
 
@@ -74,7 +85,7 @@ Although we endeavor to alert you when you are about to leave our Site when you 
 
 Topgolf controls and operates this Site in the United States of America. Our online privacy practices are governed by the laws of the United States and Illinois, which may differ from privacy laws in your state or home country. By submitting your personal information to this Site, you consent to the transfer of your personal information to and within the United States and to any other country and its use and disclosure in accordance with U.S. federal and Texas law and with this Privacy Policy.
 
- **Language**
+**Language**
 
 This English-language Privacy Policy is Topgolf's official statement of its online privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document controls.
 
