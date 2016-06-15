@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waveavenue.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513011634id_/http%3A//wp.me/P3tn1C-5d0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveavenue.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615184050id_/http%3A//wp.me/P3tn1C-5d0) for the most accurate reproduction.*
 
 # Privacy Policy | Wave Avenue
 
