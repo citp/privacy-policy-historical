@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentico.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216172508id_/http%3A//www.kentico.com/Kentico-com-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentico.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615152026id_/http%3A//www.kentico.com/Kentico-com-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy policy | Kentico CMS for ASP.NET
 
@@ -71,7 +71,7 @@ By using this website, you consent to the processing of data about your visit by
 
 If you so choose, you can opt out by turning off cookies in the preferences settings in your browser, or by downloading and installing the Google Analytics Opt-out Browser Add-on from <http://tools.google.com/dlpage/gaoptout>.
 
-We also use [Hotjar](https://web.archive.org/web/20151216172508id_/http%3A//www.kentico.com/hotjar.com) and [Intercom](https://www.intercom.io/) in order to improve the experience of our websites and web services to provide support and monitor usage.
+We also use [Hotjar](http://www.hotjar.com/) and [Intercom](https://www.intercom.io/) in order to improve the experience of our websites and web services to provide support and monitor usage.
 
 ### Links to Third party sites
 
