@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffusiononline.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214174257id_/http%3A//www.diffusiononline.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffusiononline.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615144411id_/http%3A//www.diffusiononline.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
