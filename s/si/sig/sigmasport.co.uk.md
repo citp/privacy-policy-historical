@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmasport.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217032452id_/http%3A//www.sigmasport.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmasport.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615123131id_/http%3A//www.sigmasport.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sigma Sport
 
@@ -42,6 +42,7 @@ We require this information to understand your needs and provide you with a bett
   * To analyse the use of the SigmaSport.co.uk website.
   * We may use the information to improve our products and services.
   * To send promotional e-mail about new products, special offers and services or other information for Sigma Sport or SigmaSport.co.uk using the e-mail address which you have provided unless you have asked us not to do so when you registered as a user on this site.
+  * Based on the consent provided by you in a manner consistent with applicable regulations, we, or our third party partners, may use your personal information to provide you with targeted advertising.
 
 
 
