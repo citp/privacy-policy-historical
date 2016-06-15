@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216015201id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615194746id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [diannaimage.gr](http://diannaimage.gr.dedicatedornot.com/)
-  2. [barkingowl.com](http://barkingowl.com.dedicatedornot.com/)
-  3. [www.khcampsite.co.uk](http://www.khcampsite.co.uk.dedicatedornot.com/)
-  4. [www.petesmusic.net](http://www.petesmusic.net.dedicatedornot.com/)
-  5. [kyonan.net](http://kyonan.net.dedicatedornot.com/)
-  6. [naslovnica.info](http://naslovnica.info.dedicatedornot.com/)
+  1. [2wr585.com](http://2wr585.com.dedicatedornot.com/)
+  2. [talgov.com](http://talgov.com.dedicatedornot.com/)
+  3. [0556th.jjjaaa.com](http://0556th.jjjaaa.com.dedicatedornot.com/)
+  4. [tautmilesgloba.lt](http://tautmilesgloba.lt.dedicatedornot.com/)
+  5. [365mcu.com](http://365mcu.com.dedicatedornot.com/)
+  6. [bmediaasia.com](http://bmediaasia.com.dedicatedornot.com/)
 
 
