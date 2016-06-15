@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329171842id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615115807id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,5 +65,5 @@ The Web sites are hosted in the United States and are primarily intended for and
 California Civil Code Section 1798.83 permits users of the Web sites who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [privacy@ivyexec.com](mailto:privacy@ivyexec.com "privacy@ivyexec.com") or write us at:
 
 Ivy Exec Privacy Rights   
-6 East 39th Street, 11th Floor   
-New York, New York 10016 
+49 W38th Street, Floor 12A  
+New York, NY 10018 
