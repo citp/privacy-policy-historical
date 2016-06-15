@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudatcost.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216134507id_/http%3A//www.cloudatcost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudatcost.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615195854id_/http%3A//www.cloudatcost.com/privacy.php) for the most accurate reproduction.*
 
 # Cloudatcost - You don't have to pay sky high prices to be in the Cloud.
 
@@ -16,7 +16,7 @@ Personal information is information about an identifiable individual that may in
 
 CloudAtCost will be responsible for personal information under its control including personal information that has been transferred to a third party for processing.
 
-CloudAtCost has designated a Privacy Officer who is accountable for CloudAtCost' compliance with the Policy's principles. The Privacy Officer may be contacted at: [privacyofficer@CloudAtCost.com](mailto:privacyofficer@CloudAtCost.com)
+CloudAtCost has designated a Privacy Officer who is accountable for CloudAtCost' compliance with the Policy's principles. The Privacy Officer may be contacted at: [info@CloudAtCost.com](mailto:info@CloudAtCost.com)
 
 **Principle 2 - Identifying Purposes**
 
@@ -41,7 +41,7 @@ CloudAtCost will obtain your consent for the collection, use or disclosure of yo
 
 In certain circumstances, personal information may be collected, used, or disclosed without consent of the individual. For example, where collection of personal information is clearly in the interests of the individual and consent cannot be obtained in a timely way; where personal information is used in the case of an emergency that threatens the life, health or security of an individual; where the collection of personal information with that person's knowledge or consent might compromise the availability or accuracy of the information and the collection relates to the investigation of a breach of an agreement or contravention of law; and where personal information is disclosed for debt collection purposes or to comply with a subpoena, warrant or court order.
 
-You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. Please contact [privacyofficer@CloudAtCost.com](mailto:privacyofficer@CloudAtCost.com) for information on how you may withdraw your consent.
+You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. Please contact [info@CloudAtCost.com](mailto:info@CloudAtCost.com) for information on how you may withdraw your consent.
 
 **Principle 4 - Limiting Collection**
 
@@ -81,7 +81,7 @@ In certain circumstances, CloudAtCost may not be able to provide you access to y
 
 **Principle 10- Challenging Compliance**
 
-Please contact the CloudAtCost Privacy Officer at [privacyofficer@CloudAtCost.com](mailto:privacyofficer@CloudAtCost.com) for information on how you may address concerns, questions or a complaint about our compliance with the above principles. The person or persons accountable for compliance with this Privacy Policy may seek external advice where appropriate before providing a final response to individual complaints. CloudAtCost shall investigate all complaints.
+Please contact the CloudAtCost Privacy Officer at [info@CloudAtCost.com](mailto:info@CloudAtCost.com) for information on how you may address concerns, questions or a complaint about our compliance with the above principles. The person or persons accountable for compliance with this Privacy Policy may seek external advice where appropriate before providing a final response to individual complaints. CloudAtCost shall investigate all complaints.
 
 **3\. Effective Date**
 
