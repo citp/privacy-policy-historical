@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the une.edu.au privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217015646id_/http%3A//www.une.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the une.edu.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615190928id_/https%3A//www.une.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - University of New England (UNE)
 
@@ -40,7 +40,7 @@ You have a right to access personal information the University holds about you. 
 
 Access and amendment requests, complaints and other enquiries relating to privacy and the handling of personal information should be directed to:  
 
- **Leanne White**  
+ **Leanne Nisbet**  
 UNE Privacy Officer  
 Office of Legal and Governance
 
@@ -50,6 +50,8 @@ Email: [privacy@une.edu.au](mailto:leanne.white@une.edu.au)
 
 * * *
 
-##### Cookies
+### Cookies and related technologies
 
-We allow third-party companies to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about cookies and how to disable them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+The University collects information about visitors to our websites via the use of third-party cookies or other automated means including server logs. A cookie is a packet of data that a website puts on a visitor's computer's hard disk to identify them as a visitor to that site for a limited time. This information could include: your server address; your domain name; your IP address; the date, time and duration of your visit; the page accessed before your visit to our site; the pages accessed and documents downloaded from our site; the previous site visited; the type of browser you used (see [UNE Privacy Management Rule](http://policies.une.edu.au/view.current.php?id=00130)).
+
+For information about the University’s use of cookies, or to disallow cookies through your web browser settings visit the [cookies and related technologies information page](http://www.une.edu.au/privacy/cookies).
