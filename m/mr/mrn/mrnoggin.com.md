@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrnoggin.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216130004id_/http%3A//www.mrnoggin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrnoggin.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615200625id_/http%3A//www.mrnoggin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MrNoggin.com
+# Privacy Policy
 
 At MrNoggin.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the MrNoggin family of companies consisting of MrNoggin  (“MrNoggin”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our MrNoggin mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by MrNoggin (collectively the “Services”).
 
