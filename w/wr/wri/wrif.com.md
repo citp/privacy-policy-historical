@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wrif.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207212600id_/http%3A//wrif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrif.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615085959id_/http%3A//wrif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WRIF
 
-[](http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwrif.com%2Fprivacy-policy%2F&title=Privacy+Policy) [](http://twitter.com/home?status=Privacy+Policy+http%3A%2F%2Fwrif.com%2Fprivacy-policy%2F) [](https://plus.google.com/share?url=http%3A%2F%2Fwrif.com%2Fprivacy-policy%2F)
+[](http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwrif.com%2Fprivacy-policy%2F&title=Privacy+Policy+-+WRIF) [](http://twitter.com/home?status=Privacy+Policy+http%3A%2F%2Fwrif.com%2Fprivacy-policy%2F) [](https://plus.google.com/share?url=http%3A%2F%2Fwrif.com%2Fprivacy-policy%2F)
 
 **Privacy Policy**
 
