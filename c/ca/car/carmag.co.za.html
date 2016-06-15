@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the carmag.co.za privacy policy that was archived on 2015-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151203063850id_/http%3A//www.carmag.co.za/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carmag.co.za privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616005443id_/http%3A//www.carmag.co.za/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js gte-ie9"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js gte-ie9"><!--<![endif]--><head>
 	<!-- Site Meta -->
 	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NXM4GC"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYEVVdaGwcAXVlSAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="format-detection" content="telephone=no">
 
@@ -27,7 +27,7 @@
 	<!-- Google Tag Manager -->
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXM4GC"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	<script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NXM4GC"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -48,7 +48,8 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="http://www.carmag.co.za/carmag/wp-content/themes/car_mag/public/favicons/mstile-150x150.png">
 <meta name="msapplication-config" content="http://www.carmag.co.za/carmag/wp-content/themes/car_mag/public/favicons/browserconfig.xml">
-<!-- This site is optimized with the Yoast SEO plugin v2.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy - CARmag.co.za</title>
 <link rel="canonical" href="http://www.carmag.co.za/privacy-policy/">
 <meta property="og:locale" content="en_US">
@@ -62,9 +63,9 @@
 <link rel="alternate" type="application/rss+xml" title="CARmag.co.za » Feed" href="http://www.carmag.co.za/feed/">
 <link rel="alternate" type="application/rss+xml" title="CARmag.co.za » Comments Feed" href="http://www.carmag.co.za/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.carmag.co.za\/carmag\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.3"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.carmag.co.za/carmag/wp-includes/js/wp-emoji-release.min.js?ver=4.2.3" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.carmag.co.za\/carmag\/wp-includes\/js\/wp-emoji-release.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.carmag.co.za/carmag/wp-includes/js/wp-emoji-release.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -79,16 +80,22 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="allcss-css" href="http://www.carmag.co.za/carmag/wp-content/themes/car_mag/public/css/style.min.css?ver=4.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="disqus_rcw-css" href="http://www.carmag.co.za/carmag/wp-content/plugins/disqus-recent-comments-widget/disqus_rcw.css?ver=4.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="the-countdown-css" href="http://www.carmag.co.za/carmag/wp-content/plugins/the-countdown/css/tcp.css?ver=a239e086eb314f09dc536c6c9f2b08b4" type="text/css" media="all">
+<link rel="stylesheet" id="allcss-css" href="http://www.carmag.co.za/carmag/wp-content/themes/car_mag/public/css/style.min.css?ver=a239e086eb314f09dc536c6c9f2b08b4" type="text/css" media="all">
+<link rel="stylesheet" id="disqus_rcw-css" href="http://www.carmag.co.za/carmag/wp-content/plugins/disqus-recent-comments-widget/disqus_rcw.css?ver=a239e086eb314f09dc536c6c9f2b08b4" type="text/css" media="all">
 <link rel="stylesheet" id="styleblog-css" href="http://www.carmag.co.za/carmag/wp-content/plugins/get-latest-carmagdealer-cars/css/style.css?ver=all" type="text/css" media="all">
-<link rel="stylesheet" id="ssbaFont-css" href="//fonts.googleapis.com/css?family=Indie+Flower&amp;ver=4.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="wp-v-icons-css-css" href="http://www.carmag.co.za/carmag/wp-content/plugins/wp-visual-icon-fonts/css/wpvi-fa4.css?ver=4.2.3" type="text/css" media="all">
-<script>var jquery_placeholder_url = 'http://www.carmag.co.za/carmag/wp-content/plugins/gravity-forms-placeholders/jquery.placeholder-1.0.1.js';</script><script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://p.jwpcdn.com/6/12/jwplayer.js?ver=4.2.3"></script>
-<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/wp-charts/js/Chart.min.js?ver=4.2.3"></script>
+<link rel="stylesheet" id="ssbaFont-css" href="//fonts.googleapis.com/css?family=Indie+Flower&amp;ver=a239e086eb314f09dc536c6c9f2b08b4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-v-icons-css-css" href="http://www.carmag.co.za/carmag/wp-content/plugins/wp-visual-icon-fonts/css/wpvi-fa4.css?ver=a239e086eb314f09dc536c6c9f2b08b4" type="text/css" media="all">
+<script>var jquery_placeholder_url = 'http://www.carmag.co.za/carmag/wp-content/plugins/gravity-forms-placeholders/jquery.placeholder-1.0.1.js';</script><script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-includes/js/jquery/jquery.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-includes/js/jquery/jquery-migrate.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/the-countdown/js/jquery.countdown.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://p.jwpcdn.com/6/12/jwplayer.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/wp-charts/js/Chart.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/gravity-forms-placeholders/gf.placeholders.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<link rel="https://api.w.org/" href="http://www.carmag.co.za/wp-json/">
 <link rel="shortlink" href="http://www.carmag.co.za/?p=999107546">
+<link rel="alternate" type="application/json+oembed" href="http://www.carmag.co.za/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.carmag.co.za%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.carmag.co.za/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.carmag.co.za%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script><style type="text/css">	.ssba {
 									
 									
@@ -107,12 +114,14 @@ img.emoji {
 								.ssba, .ssba a
 								{
 									text-decoration:none;
+									border:0;
 									background: none;
 									font-family: Indie Flower;
 									font-size: 	20px;
 									
 									
-								}</style><!--[if lte IE 8]><script src="http://www.carmag.co.za/carmag/wp-content/plugins/wp-charts/js/excanvas.compiled.js"></script><![endif]-->	<style>
+								}</style><style type="text/css"></style><script type="text/javascript">jQuery(document).ready(function($){var theDate = new Date("09/01/2016 08:30");$('#the-countdown-2-wrapper').countdown({ until: theDate ,expiryUrl: "",expiryText: "",alwaysExpire: 0,format: 'dHMS',compact: 0,tickInterval: 1,compactLabels: ['y', 'm', 'w', 'd'],labels: ['Years', 'Months', 'Weeks', 'Days', 'Hours', 'Minutes', 'Seconds'],labels1: ['Year', 'Month', 'Week', 'Day', 'Hour', 'Minute', 'Second'] });});</script>
+<!--[if lte IE 8]><script src="http://www.carmag.co.za/carmag/wp-content/plugins/wp-charts/js/excanvas.compiled.js"></script><![endif]-->	<style>
     			/*wp_charts_js responsive canvas CSS override*/
     			.wp_charts_canvas {
     				width:100%!important;
@@ -129,8 +138,6 @@ img.emoji {
     				}
     			}
     		</style>
-		
-
 <script async="" type="text/javascript" src="//carmagsa.disqus.com/count.js"></script></head>
 <!--end head section. Open the body. -->
 
@@ -161,7 +168,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=100;target=_blank;grp=352;misc=1580360766375"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=300" target="_blank" class="overlaypx"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=300" border="0" width="1" height="1"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=100;target=_blank;grp=910;misc=1580360768029"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=300" target="_blank" class="overlaypx"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610473/0/16/ADTECH;alias=CAR_overlay-tag_1x1_default;loc=300" border="0" width="1" height="1"></a></noscript>
 <!-- End of JavaScript Tag --></div>
 		<section class="topbarwrap wrap">
 	<section class="grid-container">
@@ -175,12 +182,13 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=100;target=_blank;grp=352;misc=1580360766377"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=300" border="0" width="980" height="60"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=100;target=_blank;grp=910;misc=1580360768030"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610466/0/2739/ADTECH;alias=CAR_masthead_980x60_default;loc=300" border="0" width="980" height="60"></a></noscript>
 <!-- End of JavaScript Tag -->			      
 			</div>
 		</div>
 	</section>
-</section><header class="headwrap wrap headercenter" role="banner" id="headwrap">
+</section>
+<header class="headwrap wrap headercenter" role="banner" id="headwrap">
 	<section class="header grid-container">
 		<div class="titling">
 			<div class="titling-inner">
@@ -200,6 +208,8 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 			<i class="fa fa-google-plus"></i>
 		</a><a class="socialicons youtube" href="https://www.youtube.com/user/cartoday/videos" target="_blank">
 			<i class="fa fa-youtube-play"></i>
+		</a><a class="socialicons instagram" href="https://www.instagram.com/carmagsouthafrica/" target="_blank">
+			<i class="fa fa-instagram"></i>
 		</a>					</div>
 
 				
@@ -274,6 +284,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-999223990"><a href="http://www.carmag.co.za/prices-and-specs/">All Prices and Specs</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-999223988"><a href="http://www.carmag.co.za/category/top12bestbuys/">Top 12 Best buys</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-999223989"><a href="http://www.carmag.co.za/category/buying-used-features/">Buying Used Features</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-999242110"><a href="http://www.carmag.co.za/car-dealer/">CAR Dealer</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-999223072"><a href="http://www.carmag.co.za/video/">Video</a>
@@ -302,7 +313,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 		
 			<a href="http://www.carmag.co.za/subscribe" class="dtop-subscribe">
-				<img width="600" height="786" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/11/CAR_December.jpg" class="attachment-post-thumbnail wp-post-image" alt="CAR_December">				<span>Subscribe <span>now</span></span>
+				<img width="600" height="786" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/05/CAR_June.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="CAR_June" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/05/CAR_June-256x335.jpg 256w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/05/CAR_June.jpg 600w" sizes="(max-width: 600px) 100vw, 600px">				<span>Subscribe <span>now</span></span>
 			</a>
 		
 	</section>
@@ -312,13 +323,54 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 		<section class="mainwrap wrap">
 			<section class="grid-container main"> 
 
+		 
+
+		          
+
+          <div class="hide-on-mobile hide-on-tablet">
+            <div class="left-long-ad" id="ad-33">
+
+              <!--JavaScript Tag with group ID // Tag for network 984: Ramsay Media // Website: CARmag.co.za_Synergise // Page: Default // Placement: Default- Wallpaper-Left-200 x 900 (6036588) // created at: Feb 8, 2016 12:35:15 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/6036588/0/3435/ADTECH;alias=CAR_Wallpaper_Left_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/6036588/0/3435/ADTECH;alias=CAR_Wallpaper_Left_default;loc=100;target=_blank;grp=910;misc=1580360768056"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/6036588/0/3435/ADTECH;alias=CAR_Wallpaper_Left_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/6036588/0/3435/ADTECH;alias=CAR_Wallpaper_Left_default;loc=300" border="0" width="200" height="900"></a></noscript>
+<!-- End of JavaScript Tag -->
+            </div>
+          </div>
+
+            
+
+          <div class="hide-on-mobile hide-on-tablet">
+            <div class="right-long-ad" id="ad-31">
+
+              <!--JavaScript Tag with group ID // Tag for network 984: Ramsay Media // Website: CARmag.co.za_Synergise // Page: Default // Placement: Default-Wallpaper-Right-200 x 900 (6036589) // created at: Feb 8, 2016 12:32:39 PM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/6036589/0/3435/ADTECH;alias=CAR_Wallpaper_Right_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/6036589/0/3435/ADTECH;alias=CAR_Wallpaper_Right_default;loc=100;target=_blank;grp=910;misc=1580360768058"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/6036589/0/3435/ADTECH;alias=CAR_Wallpaper_Right_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/6036589/0/3435/ADTECH;alias=CAR_Wallpaper_Right_default;loc=300" border="0" width="200" height="900"></a></noscript>
+<!-- End of JavaScript Tag -->
+            </div>
+          </div>
+
+  	   
+
+
 		<nav class="breadcrumbs">
 		<div class="breadcrumb-trail" itemprop="breadcrumb"><span class="trail-begin"><a href="http://www.carmag.co.za" title="CARmag.co.za">Home</a></span>
 			 <span class="sep">&gt;</span> <span class="trail-end">Privacy Policy</span>
 		</div></nav>	
 
-			<div class="header-search hide-on-mobile">				
-				<form role="search" method="get" class="search-form" action="http://www.carmag.co.za/">
+				<div class="header-search hide-on-mobile">				
+					<form role="search" method="get" class="search-form" action="http://www.carmag.co.za/">
 	<label>
 		<span class="screen-reader-text">Search for:</span>
 		<input type="search" class="search-field" placeholder="Search our website..." value="" name="s" title="Search for:" required="required">
@@ -327,7 +379,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 		 <i class="fa fa-search"></i>
 	</button>
 </form>
-			</div>
+				</div>
 
 		
 	<section class="content content-page">
@@ -348,10 +400,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <p>The privacy practices of those sites linking out of us, is not our responsibility. We’d recommend you check their policy on privacy before disclosing personal information.</p>
 </div></div><div class="mob-side-pad"><div class="social-share">
 
-	<!-- Simple Share Buttons Adder (6.0.3) simplesharebuttons.com --><div class="ssba ssba-wrap"><div style="text-align:left"><a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://www.carmag.co.za/privacy-policy/" target="_blank"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba ssba-img" alt="Share on Facebook"></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://www.carmag.co.za/privacy-policy/&amp;text=Privacy+Policy+" target="_blank"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter"></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://www.carmag.co.za/privacy-policy/" target="_blank"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" title="Google+" class="ssba ssba-img" alt="Share on Google+"></a><a class="ssba_email_share" href="mailto:?subject=Privacy Policy&amp;body=%20http://www.carmag.co.za/privacy-policy/"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/email.png" title="Email" class="ssba ssba-img" alt="Email this to someone"></a></div></div>
+	<!-- Simple Share Buttons Adder (6.1.5) simplesharebuttons.com --><div class="ssba ssba-wrap"><div style="text-align:left"><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://www.carmag.co.za/privacy-policy/" target="_blank"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba ssba-img" alt="Share on Facebook"></a><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=http://www.carmag.co.za/privacy-policy/&amp;text=Privacy+Policy+" target="_blank"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter"></a><a data-site="" class="ssba_google_share" href="https://plus.google.com/share?url=http://www.carmag.co.za/privacy-policy/" target="_blank"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" title="Google+" class="ssba ssba-img" alt="Share on Google+"></a><a data-site="email" class="ssba_email_share" href="mailto:?subject=Privacy Policy&amp;body=%20http://www.carmag.co.za/privacy-policy/"><img src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/email.png" title="Email" class="ssba ssba-img" alt="Email this to someone"></a></div></div>
 
     
-</div>	<div id="comments">
+</div>
+	<div id="comments">
 	
 	
 
@@ -378,42 +431,42 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                   <div id="vid-slider-nona_video_posts-29" class="vid-slider" data-id="nona_video_posts-29">
 
                                 
-                      <a alt="Shelby Mustang GT500 Driver Wrecks Into Parked Bakkie [video]" href="http://www.carmag.co.za/video_post/shelby-mustang-gt500-driver-wrecks-into-parked-bakkie-video/" data-slide-num="1" data-excerpt="...">
+                      <a alt="Watch race car flip over seven-metre-high fence" href="http://www.carmag.co.za/video_post/watch-race-car-clear-seven-metre-high-fence/" data-slide-num="1" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/11/14-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="Ford Mustang crash">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Race car" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="BMW Driver Crashes Hard While Attempting To Show Off [video]" href="http://www.carmag.co.za/video_post/bmw-driver-crashes-hard-while-attempting-to-show-off-video/" data-slide-num="2" data-excerpt="...">
+                      <a alt="Watch Cape Town man fall out the back of a bakkie!" href="http://www.carmag.co.za/video_post/watch-cape-town-man-fall-out-the-back-of-a-bakkie/" data-slide-num="2" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/11/10-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="BMW crash">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Bakkie fail in Cape Town" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="Drag Race: New Mitsubishi Triton vs VW Amarok vs Toyota Hilux [video]" href="http://www.carmag.co.za/video_post/drag-race-new-mitsubishi-triton-vs-vw-amarok-vs-toyota-hilux-video/" data-slide-num="3" data-excerpt="...">
+                      <a alt="Lamborghini Aventador catches alight in traffic!" href="http://www.carmag.co.za/video_post/lamborghini-aventador-catches-alight-in-traffic/" data-slide-num="3" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/10/10-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="drag race">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Lamborghini fire" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="Incredibly Lucky School Boy Narrowly Escapes Out-Of-Control BMW [video]" href="http://www.carmag.co.za/video_post/incredibly-lucky-school-boy-narrowly-escapes-out-of-control-bmw-video/" data-slide-num="4" data-excerpt="...">
+                      <a alt="Watch this crash spark a full-on street fight" href="http://www.carmag.co.za/video_post/watch-crash-spark-a-full-on-street-fight/" data-slide-num="4" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/10/1-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="lucky escape">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Street fight" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="Spectacular Crash at SA Rally" href="http://www.carmag.co.za/video_post/spectacular-crash-at-sa-rally/" data-slide-num="5" data-excerpt="...">
+                      <a alt="Brave or stupid? MPV driver tackles flash flood" href="http://www.carmag.co.za/video_post/brave-or-stupid-mpv-driver-tackles-flash-flood/" data-slide-num="5" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/08/Rally-crash-pic-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="The Fragram Toyota Etios rally car looking worse for wear">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Flash flood fail" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
@@ -484,7 +537,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=100;target=_blank;grp=352;misc=1580360766391"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=300" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=100;target=_blank;grp=910;misc=1580360768074"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610467/0/170/ADTECH;alias=CAR_right-panel_top_300x250_default;loc=300" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag -->
             </div>
           </div>
@@ -499,42 +552,42 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                   <div id="vid-slider-nona_video_posts-30" class="vid-slider" data-id="nona_video_posts-30">
 
                                 
-                      <a alt="DRAG RACE: Audi RS6 vs. Nissan GT-R" href="http://www.carmag.co.za/video_post/drag-race-audi-rs6-vs-nissan-gt-r/" data-slide-num="1" data-excerpt="...">
+                      <a alt="Watch race car flip over seven-metre-high fence" href="http://www.carmag.co.za/video_post/watch-race-car-clear-seven-metre-high-fence/" data-slide-num="1" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/12/Nissan-Audi-dragrace-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="Nissan Audi drag race">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Race car" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/race-car.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="VIDEO: 2016 Performance Shootout Road Trip" href="http://www.carmag.co.za/video_post/2016-performance-shootout-road-trip/" data-slide-num="2" data-excerpt="...">
+                      <a alt="Watch Cape Town man fall out the back of a bakkie!" href="http://www.carmag.co.za/video_post/watch-cape-town-man-fall-out-the-back-of-a-bakkie/" data-slide-num="2" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/12/Highlights-video-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="2016 Performance Shootout">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Bakkie fail in Cape Town" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/bakkie-fail.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="Shelby Mustang GT500 Driver Wrecks Into Parked Bakkie [video]" href="http://www.carmag.co.za/video_post/shelby-mustang-gt500-driver-wrecks-into-parked-bakkie-video/" data-slide-num="3" data-excerpt="...">
+                      <a alt="Lamborghini Aventador catches alight in traffic!" href="http://www.carmag.co.za/video_post/lamborghini-aventador-catches-alight-in-traffic/" data-slide-num="3" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/11/14-625x375.jpg" class="attachment-stage-with-gallery wp-post-image" alt="Ford Mustang crash">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Lamborghini fire" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/lambo-fire.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="DRAG RACE: Audi RS3 vs. BMW i8 vs. RR Sport SVR" href="http://www.carmag.co.za/video_post/drag-race-audi-rs3-vs-bmw-i8-vs-rr-sport-svr/" data-slide-num="4" data-excerpt="...">
+                      <a alt="Watch this crash spark a full-on street fight" href="http://www.carmag.co.za/video_post/watch-crash-spark-a-full-on-street-fight/" data-slide-num="4" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="353" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/11/CAR-performance-shootout-2016-625x353.jpg" class="attachment-stage-with-gallery wp-post-image" alt="CAR-performance-shootout-2016">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Street fight" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/street-fight.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
                                               
-                      <a alt="VIDEO: Toyota 86 manual long-term wrap-up" href="http://www.carmag.co.za/video_post/video-toyota-86-manual-long-term-wrap-up/" data-slide-num="5" data-excerpt="...">
+                      <a alt="Brave or stupid? MPV driver tackles flash flood" href="http://www.carmag.co.za/video_post/brave-or-stupid-mpv-driver-tackles-flash-flood/" data-slide-num="5" data-excerpt="...">
 
                         <span class="img-wrap">
-                          <img width="625" height="416" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/11/DSC_9034b6-625x416.jpg" class="attachment-stage-with-gallery wp-post-image" alt="Toyota 86 manual front">                        </span>
+                          <img width="625" height="375" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-625x375.jpg" class="attachment-stage-with-gallery size-stage-with-gallery wp-post-image" alt="Flash flood fail" srcset="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-558x335.jpg 558w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-768x461.jpg 768w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-300x180.jpg 300w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-790x474.jpg 790w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-625x375.jpg 625w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood-175x105.jpg 175w, http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/mpv-flood.jpg 1000w" sizes="(max-width: 625px) 100vw, 625px">                        </span>
                       
                       </a>
               
@@ -595,24 +648,24 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
           </div><div id="nona_wallpaper_gallery-10" class="widget_nona_wallpaper_gallery ">          <article class="col-inner" id="col-wallpaper">
             <h3>Wallpaper gallery</h3>
             
-                                  <div><a href="http://www.carmag.co.za/wallpaper_gallery/aventador-lp750-4-superveloce/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/06/01-Aventador-LP750-4-Superveloce_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Aventador LP750-4 Superveloce">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/2017-ford-gt/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/02/05_fordgt_2017_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="2017 Ford GT">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/acura-nsx-2016/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/01/00_acura_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Acura NSX 2016 Wallpaper">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/performance-shootout-2015-wallpaper-collection-2/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2014/12/06_shootout15_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Performance Shootout 2015 Wallpaper Collection">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/performance-shootout-2015-wallpaper-collection/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2014/12/01_shootout15_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Performance Shootout 2015 Wallpaper Collection">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/bmw-generations-wallpaper/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2014/10/01_BMW-Generations_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="BMW Generations Wallpaper">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/alfa-romeo-4c-7/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2014/09/01_Alfa-Romeo-4C_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Alfa Romeo 4C wallpaper">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/audi-sportback-e-tron/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2014/09/01_Audi-Sportback-E-tron_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Audi Sportback E-tron wallpaper">                    </a></div>
-                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/maserati-quattroporte-s-2/">
-                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2014/09/01_Maserati-Quattroporte-S_Wall_1024x768-216x122.jpg" class="attachment-thumbnail wp-post-image" alt="Maserati Quattroporte S">                    </a></div>
+                                  <div><a href="http://www.carmag.co.za/wallpaper_gallery/mercedes-benz-sls-amg/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1440x900-8-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1440x900">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/golf-r400-oettinger/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-7-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/ferrari-badge/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1440x900-6-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1440x900">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/astra-and-friends/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-5-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/ford-mustang-gt-fastback/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-4-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/land-rover-defender-heritage-edition/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-3-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/ferrari-f40-vs-488-gtb/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-2-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/bmw-1m-vs-m2/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-1-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
+                                      <div><a href="http://www.carmag.co.za/wallpaper_gallery/audi-tts-coupe/">
+                      <img width="216" height="122" src="http://www.carmag.co.za/carmag/wp-content/uploads/2016/06/blank_1024x768-216x122.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="blank_1024x768">                    </a></div>
                                 <a class="view" href="http://www.carmag.co.za/wallpaper_gallery">View All</a>
            
           </article>      
@@ -629,7 +682,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=100;target=_blank;grp=352;misc=1580360766415"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=300" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=100;target=_blank;grp=910;misc=1580360768119"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610468/0/170/ADTECH;alias=CAR_right-panel_middle_300x250_default;loc=300" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag -->
             </div>
           </div>
@@ -699,13 +752,14 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=100;target=_blank;grp=352;misc=1580360766424"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=300" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=100;target=_blank;grp=910;misc=1580360768146"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/984.1/5610465/0/170/ADTECH;alias=CAR_right-panel_bottom_300x250_default;loc=300" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag -->
             </div>
           </div>
 
   </div>		 
 </aside>
+
 		</div><!--/right-sidebar-->
 			
 	</section><!--/content-home-->
@@ -721,7 +775,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 						<div class="copyright-credit">
 							<!--  get credits from nona_options_render.php -->
 							
-								<span class="hide-on-mobile">© Copyright 2015 All Rights Reserved.</span> 
+								<span class="hide-on-mobile">© Copyright 2016 All Rights Reserved.</span> 
 
 							
 							<div class="copyright-social">
@@ -735,6 +789,8 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 			<i class="fa fa-google-plus"></i>
 		</a><a class="socialicons youtube" href="https://www.youtube.com/user/cartoday/videos" target="_blank">
 			<i class="fa fa-youtube-play"></i>
+		</a><a class="socialicons instagram" href="https://www.instagram.com/carmagsouthafrica/" target="_blank">
+			<i class="fa fa-instagram"></i>
 		</a>							</div>
 						</div>
 					</aside>
@@ -785,14 +841,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 </ul></div></div></div>
 <div class="footer-widgets five">
 	 <div id="text-15" class="widget widget_text "><h4 class="widget-title">Contact us</h4>			<div class="textwidget"><p>CAPE TOWN OFFICE<br>
-Uitvlugt<br>
-3 Howard Drive<br>
-Pinelands, 7405<br>
+36 Old Mill Road,<br>
+Ndabeni, Maitland,<br>
+7405<br>
 Western Cape<br>
 Telephone: (021) 530 3100<br>
 Fax: (021) 530 3333</p>
 </div>
-		</div><div id="widget_sp_image-2" class="widget widget_sp_image "><div class="acc-drawer"><img width="272" height="40" alt="" class="attachment-full" style="max-width: 100%;" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/07/footerlogos.png"></div></div>	 <a href="#" class="hide-on-tablet hide-on-desktop" id="back-to-top"><i class="fa fa-angle-up"></i></a>
+		</div><div id="widget_sp_image-2" class="widget widget_sp_image "><img width="272" height="40" alt="" class="attachment-full" style="max-width: 100%;" src="http://www.carmag.co.za/carmag/wp-content/uploads/2015/07/footerlogos.png"></div>	 <a href="#" class="hide-on-tablet hide-on-desktop" id="back-to-top"><i class="fa fa-angle-up"></i></a>
 </div>
 <div class="clear"></div>
 
@@ -803,7 +859,7 @@ Fax: (021) 530 3333</p>
 					<aside class="copyright grid-container">
 						<div class="copyright-credit">
 							<!--  get credits from nona_options_render.php -->
-							<span>© Copyright 2015 All Rights Reserved.</span> 
+							<span>© Copyright 2016 All Rights Reserved.</span> 
 						</div>
 					</aside>
 				</section>
@@ -864,6 +920,7 @@ Fax: (021) 530 3333</p>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-999223990"><a href="http://www.carmag.co.za/prices-and-specs/">All Prices and Specs</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-999223988"><a href="http://www.carmag.co.za/category/top12bestbuys/">Top 12 Best buys</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-999223989"><a href="http://www.carmag.co.za/category/buying-used-features/">Buying Used Features</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-999242110"><a href="http://www.carmag.co.za/car-dealer/">CAR Dealer</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-999223072"><a href="http://www.carmag.co.za/video/">Video</a>
@@ -941,73 +998,18 @@ Fax: (021) 530 3333</p>
         }());
         // ]]>
         </script>
-            <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-    <script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/carmag-related-content-via-search/js/waypoints-js/waypoints.min.js?ver=1.6.2"></script>
-<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/carmag-related-content-via-search/js/jquery.transit.min.js?ver=1.0"></script>
+        <script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/carmag-related-content-via-search/js/waypoints-js/waypoints.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/carmag-related-content-via-search/js/jquery.transit.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var nona = {"ajaxurl":"http:\/\/www.carmag.co.za\/carmag\/wp-admin\/admin-ajax.php","templateurl":"http:\/\/www.carmag.co.za\/carmag\/wp-content\/themes\/car_mag","includesUrl":"http:\/\/www.carmag.co.za\/carmag\/wp-includes\/","homeUrl":"http:\/\/www.carmag.co.za","ismobile":"","isLoggedIn":"","request":"[]","isDesktop":"1","isMobile":"","isTablet":"","isIos":"","isAndriod":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/themes/car_mag/public/js/all.min.js?ver=4.2.3"></script>
-<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/wp-charts/js/functions.js?ver=4.2.3"></script>
-<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/gravity-forms-placeholders/gf.placeholders.js?ver=1.0"></script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"67101cd4b6","applicationID":"4098070","transactionName":"Z1ABbUIEX0ZTUEALWV4aIlpEDF5bHUNVBVM=","queueTime":0,"applicationTime":606,"atts":"SxcCGwoeTEg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
-    
-	<script>
-
-	jQuery(document).ready(function($){
-
-		if (!isMobile) {
-
-			$('.topbarwrap, .headwrap, .main, .footerwrap').on('click', function(e) {
-			    e.stopPropagation();
-			});
-
-			$('body > .wrap.push').on('click', function (e) {
-			
-			  console.log('count');
-			  $('body').click();
-			  e.stopPropagation();
-			  e.preventDefault();
-
-			});
-
-			$('body').on('click', function (e) {
-					  
-			  e.stopPropagation();
-
-			});
-
-			// $('html').off('click');
-
-		}		
-
-	});
-
-	</script>
-
-	<style>
-		.wrap {
-			cursor: pointer;
-		}
-
-		/*html {
-			pointer-events: none;
-		}*/
-
-		.topbarwrap, .headwrap, .main, .footerwrap {
-			pointer-events: all;
-		}
-
-		
-	</style>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/themes/car_mag/public/js/all.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-content/plugins/wp-charts/js/functions.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+<script type="text/javascript" src="http://www.carmag.co.za/carmag/wp-includes/js/wp-embed.min.js?ver=a239e086eb314f09dc536c6c9f2b08b4"></script>
+	
+        
 
 </body></html>
