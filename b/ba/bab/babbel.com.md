@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230003840id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615032052id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Babbel.com
 
@@ -23,6 +23,8 @@ After you have logged in (with user name and password), Babbel uses cookies with
 One type of cookie automatically expires after your session has ended. This is called a session cookie. Your user settings, in particular, are saved as session cookies so that Babbel can always be used in the form you require. Another permanently stored anonymous cookie contains the version number of your Flash player. When you log in, you also have the option of saving your user name and password locally in encrypted form on your computer. You can save this cookie permanently for automatic log in with the function “Log me in automatically on this computer”. In addition to this, user settings, such as language selection, language recognition settings, user IDs for various applications, are saved in both session cookies and permanent cookies by Babbel in order to facilitate the use of Babbel.
 
 You switch off the use of cookies for our website or in general in the settings of your Internet browser. You can find out how this functions from the website of your Internet browser supplier. For the Internet Explorer you can find the relevant instructions at <http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies>, for Firefox at <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>, for Apple Safari at [http://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari](http://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari) and for Google Chrome at <https://support.google.com/chrome/answer/95647?hl=en>. However, deactivating cookies will mean that a number of functionalities, e.g. automatically logging in to the website, will no longer operate as intended.
+
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at <http://www.networkadvertising.org/choices>.
 
 #### 1.3. Log files
 
