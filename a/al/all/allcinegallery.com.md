@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcinegallery.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215014308id_/http%3A//allcinegallery.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcinegallery.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615115701id_/http%3A//allcinegallery.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy & Disclaimer - Latest Tamil Movie Photos New Telugu Movie Stills Actor Actress Gallery
+# Privacy Policy & Disclaimer - Tamil Movie Stills Telugu Movie Stills Cinema Actor Actress Photos Images Gallery
 
 **Privacy Policy:**  
 We are using few third-party advertising companies to serve ads when you visit our website. Like Google AdSense, Google Analytics, FeedBurner, Flickr or other third-party services may place and read cookies or use web beacons to collect non-personal information.
