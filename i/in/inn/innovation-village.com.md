@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innovation-village.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215221625id_/http%3A//innovation-village.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation-village.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615145109id_/http%3A//innovation-village.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy : Innovation-village
+# Privacy policy - Innovation Village
 
 We take your privacy very seriously and are committed to being transparent with how we use your information. This website and any of our services and sites directing you to this Privacy Policy are controlled by [TenthCode Media Limited](http://www.tenthcodemedia.com/) (Collectively “we” or “us”)
 
