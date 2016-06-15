@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217013623id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615191329id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
