@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213144445id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615050432id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Send gifts and money to Nepal, Online shopping Nepal, gifts in Nepal: Muncha.com
 
@@ -54,7 +54,7 @@ Muncha Money Transfer Service gives you fast and easy, safe and legal way to sen
 
 You can choose any of the links below for the money transfer service:
 
-  * [USA](https://muncha.machpay.com/?campaign=shoppingTop) Here, you can use Internet Check or ACH (Automated Clearing House)
+  * [USA](http://money.muncha.com/?campaign=shoppingTop) Here, you can use Internet Check or ACH (Automated Clearing House)
 
 
 
@@ -290,38 +290,32 @@ By using this site, you imply to agree to the terms and conditions of the Privac
   
  
 
-Elegance Store is a unique style Multi Brand Store, sister concern of Santonza Nepal. We deal in Categories like Cosmetic, Sunglass, Home Decor, Perfume to name few.
+Dulla’s personally designed, hand-made shoes are elegant, yet comfortable enough for daily use and are giving female shoe lovers in Kathmandu a reason to smile. Shoes is one brand in Nepal that stands out against all the other brands of Nepal since it is being run by a qualified and professional Shoe Designer. All the shoes are personally Designed by the Designer himself. All the shoes are Hand- Made and made of genuine leather and in limited pairs.
 
-Outlets at City Centre and Durbar Marg.
+CHIRAG TRADE CONCERN is an exclusive company dealing with different types of gift accessories and imported brands. We ensure the qualitative products with exclusive brand in Nepal. 
 
-CHAITANYA a wellness healing spa is a first medi-spa in Nepal facilitated with the traditional, complementary and natural therapy under the supervision of Naturopathic physician. Our trained and experienced therapist bestow their expert touch upon your body to make you feel an unique experience with satisfaction of five Indriyas (Touch, Smell, Sight, Taste &Hearing) making the harmonious balance between Panchamahabhuta (Earth, Water, Fire, Air & Space) leading you to the state of “Chaitanya”. 
+Urvan Valley is Men’s wear brand who serves their customers with a quality clothing with reasonable price, meticulously crafted garment with impeccable quality and craftsmanship. No doubt, our major focus is to produce qualtiy garment with best price, best fits and latest design. Most of our products are made of premium compact cottons with finer yarn counts and suitable construction. 
 
-Chaitanya spa has developed unique and exotic spa treatments embracing beauty, spirit and traditions. We cannot promise immortality but we can provide an experience of our unique treatments, giving you a feeling of living forever maintaining youthful vigor and beauty.
+**Nirvana Wellness Centre** , a holistic health club located at Jawalakhel, within Shaligram Apartments compound and at a very close proximity to UN House. Maintaining a healthy and balanced lifestyle isn’t complicated – there are just three main steps: exercise, a balanced diet and rest. Let us work with you to achieve it. At NIRVANA we work with you to help you, your family and friends achieve Nirvana! 
 
-UP TRADE Pvt. Ltd. is a competitive and diversified company in the field of ICT which offers the wide range of IT products. They are inclined towards fulfilling the growing demand of information technology artifacts and fulfilling it by providing high quality products and services. They aim to deliver the best IT products and other relative components to design excellent network and comprehensive solution by facilitating all areas of users and enabling everyone to enjoy every day the benefits of the new and typical products in UPTRADE and thus ensuring to bring new lives in communication. In addition to this they are also specialized in creating system and network design and infrastructure as per the requirement of customers.
+Phalano Luga (फलानो लुगा) is the creative design, production and sale of various quality T-shirts... proudly Made in Nepal. Lovely selections of shirts with various cartoons that make us proudly show Nepal to the world! 
 
-Spykar is a branded company of clothing. This company was set up in the year 1992 by Mr. Prasad Pabrekar. He at first started his company with vast technical knowledge and less capital investment and at present his company has 300 associate. This company mainly deals with Denim. To come up with new styles, cuts and fabric in the market, it has special team consisting of dedicated merchandisers and designers. The type of clothing which this company manufactures includes- jeans, top, shirt, T- shirt etc. 
+Om Tarakeshwor Trade Link is a company is a company providing the best mobile phone and tablet accessories. Believes to keep the spirit of Good Quality, Competitive Price, On Time Delivery and Aggressive Technical Support. The main products include cell phone batteries, Earphones, Premium accessories ( Cover/Cases) for iPhones, Samsung, Sony, LG, Htc & Blackberry, Selfie Sticks, Power Banks, USB data cables for all branded mobiles, Memory Cards, earphones, chargers, mobile pouches etc.
 
-Shokolade, takes great pride in being one of Nepal’s few manufacturers of the finest homemade chocolates. Our products are supplied to local bakeries and companies who require chocolates for gifting purposes. Initiated in 2012, Shokolade is well known as a reliable business partner and manufacturer for the supply of chocolate products. 
+SGN Moments Enterprises is a company primarily focused on making SGN Moments brand value competitive in the market and keeps emotionally connected with its customers through the quality products of distinct recognition. It makes sure that it picks goods of high quality in terms of material, making, design and trend while branding as well as manufacturing. SGN Moments maintains and upgrades its organizational property and network with its expansion while taking care of its valued customers. 
 
-The Blue Himalayan Craft Nepal established in 2007 in Kathmandu city. We are Nepali felt exporter in Nepal, the leading manufacturer and exporter of felt bags, felt shoes, felt purses, wholesale felt shoes, felt balls, felt beads, felt crochet flowers, felt bags, wool ladies shoulder bags, felt tote bags, felt gift bags, felt accessories & jewelers, felt flowers, felt febric, felt rope, felt puppets, felt finger puppets, felt dolls, felt merino wool top, felt key chains, felt hairbands, felt broochs, felt hair clips, felt cushion cover, felt animal design shoe, wool felt bangles, wool felt ear rings, felt crafts tiger shoes, nepal felt crafts, felt needle case, felt wallets, felt slippers, felt baby shoes, felt purses, felt balls mat, felt fruits, felt necklace, felt accessories and felt ball mat from Nepal. 
+Handmade chocolates can be a special gift for your dear ones. We’ve put together a collection of chocolate recipes that we think you will enjoy. These deliciously sensuous chocolates are made with utmost care and passion. You can choose from our interesting combinations mostly packaged in beautiful paper box. 
 
-Wrangler empowers you to discover your free spirit on the open road. At the heart of Wrangler is the immense pride in celebrating the freedom inspired by the American cowboy spirit. Wrangler is about celebrating the joy of being rugged and ready for anything, on your terms. It's also about having control over your life, your moments and your personal journey. 
+Hulaki Enterprise deals in household, kitchenware and home decor items. It is a direct importer of Chinese ceramic ware. They are a lifestyle solution and an IKEA without furniture. 
 
-Index Furniture is The Lifestyle mall for home furnishing of Asia, which never stops the development of the best quality of Home Furnishings. The best quality furniture that are designed by the world class designers and the leading designer of Thailand. Index Furniture answers all modern lifestyle with all functional design in many categories.
-
-Sagar Distribution Pvt. Ltd. is one of the leading IT product vendor in Nepalese market dedicated to fulfill the demand of consumer and corporate needs related to ICT equipment, peripheral as well as softwares. It is committed to make reach of more and more Nepalese users to the latest technologies within their budget capacity. It offers reasonably qualitative product with best warranty support and service. 
-
-FOODLINE represents international retail brands on an exclusive basis such as Hanami, Parade, Marigold juice, Ojasvita, Golden Tips tea, Sunlee, Chapter Tea, Tiger Brand and Del Monte. We have household and cleaning products representing imported brands such as Titiz, Kao, Mondial, Parade, Awesome, and Shunta.
-
-We also offer pet food and pet care products representing Sleeky, imported brand in our market.
+We make our customers’ lives simpler with the convenience of online shopping. We offer exclusive products from the industry leader in the online health and beauty market. We also enjoy a close affiliation with major national brands, including Dell™, Disney™, and many more. 
 
 |    
   
 For 24-7 Customer Service, Call:  
-1-859-215-0093 (USA)     1-888-357-6348 (USA, toll free)     44 0207 078 7349 (UK)     61-(02)-8310-4158 (Australia)     977-1-5535757, 5539414 
+1-859-215-0093 (USA)     1-888-357-6348 (USA, toll free)     44 0207 078 7349 (UK)     61-(02)-8310-4158 (Australia)     977-1-5000737, 5000738 
 
-Copyright © 2000-2015 Muncha Internet Ventures  
+Copyright © 2000-2016 Muncha Internet Ventures  
 [About Us](http://www.shop.muncha.com/Content.aspx?SHOW=ABOUT_US) • 
 
 [Privacy Policy](http://www.shop.muncha.com/Content.aspx?SHOW=PRIVACY_POLICY) • [FAQ](http://www.shop.muncha.com/Content.aspx?SHOW=FAQ) • Contact Us 
