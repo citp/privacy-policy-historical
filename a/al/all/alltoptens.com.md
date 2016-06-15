@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltoptens.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213085446id_/http%3A//alltoptens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltoptens.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615120956id_/http%3A//alltoptens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy » All Top Tens
+# Privacy » AllTopTens.com
 
 **All Top Tens** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
