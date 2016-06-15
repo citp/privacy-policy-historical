@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215001819id_/http%3A//www.arenamate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615130736id_/http%3A//www.arenamate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy // arenamate.net - Your WoW Warlords S3 PvP Hub
 
