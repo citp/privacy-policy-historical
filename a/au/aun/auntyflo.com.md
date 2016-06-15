@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auntyflo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215024953id_/http%3A//www.auntyflo.com/basic-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntyflo.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615173457id_/http%3A//www.auntyflo.com/basic-page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auntyflo.com
 
