@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211103650id_/http%3A//www.anytimecostumes.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615085136id_/http%3A//www.anytimecostumes.com/privacy-security.html) for the most accurate reproduction.*
 
 # Halloween Costumes For Adults & Kids from Anytime Costumes
 
