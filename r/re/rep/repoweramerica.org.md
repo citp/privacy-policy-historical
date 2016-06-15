@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repoweramerica.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214141845id_/https%3A//www.climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repoweramerica.org privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615151318id_/https%3A//www.climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Climate Reality
 
@@ -8,7 +8,7 @@ The Alliance for Climate Protection d/b/a The Climate Reality Project (“[The C
 
 On this Website, you can request more information about our goals and programs, download materials, view how many other people are taking “action,” and enjoy other interactive services. The types of personally identifiable information that may be collected on these pages include: name, address, e-mail address, telephone number, fax number, and information about your preferences. Personal information does not include "aggregate" information, which is data we collect about the use of the site or about a group or category of services or users, from which individual identities or other personal information has been removed. 
 
-Aspects of our Website allow you to log in using sign-in services such as Facebook Connect, Twitter, or Google+ (the “Sign-In Services”). These Sign-In-Services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form. The Sign-In Services give you the option to post information about your activities on this Website to your profile page to share with others within your network. You may request that we delete any information obtained through these Sign-In Services by filling out the form [here](http://forms.climaterealityproject.org/page/unsubscribe/?email=). 
+Aspects of our Website allow you to log in using sign-in services such as Facebook Connect, Twitter, or Google+ (the “Sign-In Services”). These Sign-In-Services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form. The Sign-In Services give you the option to post information about your activities on this Website to your profile page to share with others within your network. You may request that we delete any information obtained through these Sign-In Services by filling out the form [here](http://tcrp.salsalabs.com/o/2168/p/salsa/web/common/public/signup?signup_page_KEY=5939). 
 
 **PRIVACY OF OUR E-MAIL LIST AND PERSONAL INFORMATION**
 
