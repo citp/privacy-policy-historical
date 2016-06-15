@@ -1,28 +1,36 @@
-> *The following text is extracted and transformed from the edudemic.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215214208id_/http%3A//www.edudemic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edudemic.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615095943id_/http%3A//www.edudemic.com/privacy) for the most accurate reproduction.*
 
 # Terms & Privacy Policy | Edudemic
 
-Thank you for visiting Edudemic. This terms and conditions policy and privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. **By using the site, you are accepting the practices described in this privacy policy.**
+## Terms of Use and Privacy Policy for Use of Edudemic.com (Effective Date 1/5/2016)
 
-These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+Thank you for using Edudemic.com’s site content and services. This page will explain how we gather and employ different kinds of information to provide users with content and related products and services. By using our website, you are agreeing to these Terms of Use and Privacy Policy.
 
-**Note:** the privacy practices set forth in this privacy policy are for this web site (edudemic.com) only.
+Typically, we collect submitted information and automatic information. Data that users voluntarily submit through our web form is considered “submitted” information, which may be personal contact information and any other details that may be required to match users to an education product or service. This helps us provide the services requested by our visitors. We collect, store and share submitted information with schools and other third parties as necessary to provide users with information about education-related services, schools and programs.
 
-**Collection of Information  
-**Since this is a community site with user accounts, personally identifiable information like names, postal addresses, email addresses, etc. is voluntarily submitted by users. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+By submitting this information, you authorize Edudemic.com and our affiliated schools and partners to contact you — in accordance with all applicable laws — by phone, text messages, email or mail regarding education options or related topics. If you receive any email communications from us, a school, or third party, you will be given the opportunity to unsubscribe through a link in the email, which will remove you from further mailings from that sender.
 
-**Cookie/Tracking Technology  
-**The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+Edudemic.com also collects automatic information, certain types of anonymous information, whenever you interact with us. This information helps us make site improvements and create a tailored user experience. For example, we use “cookies” to collect anonymous data for analytics, site optimization and for tailored advertising and marketing purposes. Examples of this kind of information include, but are not limited to, your browser version, operating system version and your IP address.
 
-**Distribution of Information**  
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies or any other companies for marketing purposes.
+By using our website, you acknowledge and agree that automatic information we collect may be shared with schools, affiliated companies, and third parties to provide information about degrees, programs and other education-related products and services. You also acknowledge and agree that we retain the right to release any collected information — including personally identifiable data — to businesses providing our company with administration services, such as an email delivery service. In addition, through this action, you grant us, our affiliates, partners and vendors the right to contact you for a period of time, and relinquish any rights granted to you by the Do Not Call list or other applicable law. Your submission serves as an omission to Do Not Call requirements established by state and federal governments and may exempt us from other applicable laws.
 
-**Commitment to Data Security**  
-Your personally identifiable information is kept secure. Edudemic does not ask for any sensitive information and never will. All information is voluntarily added. You have the option to permanently delete your account at any time. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+In addition, we retain the right to release your personal information in instances required by law. Examples of this include abiding by a subpoena or other legal procedure we believe is necessary to preserve our rights, ensure yours and others’ safety, identify alleged fraud, reply to a government or legal request and/or in the instance that Edudemic.com is merging, acquisitioning or selling some or all of its assets to a third party.
 
-**Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+_It is possible that we will revise our Terms of Use and Privacy Policy in the future if we change our practices. We recommend that you reread this document periodically to stay current with our practices concerning your privacy and other important information._
 
-By e-mail:  edudemic [at] gmail.com
+## Edudemic.com’s Use of Cookies
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted. _**Last edited 3/25/14**_
+By using this website, you acknowledge and consent to our use of cookies.
+
+Cookies are small pieces of data sent from a website and stored in the user’s web browser for technical purposes such as web analytics. We perform web analytics primarily using Google, Inc.’s Google Analytics. Advertising cookies do not contain personally identifiable information, which allows users to remain anonymous. However, they do permit advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties.
+
+For more information about Google Analytics, check Google’s privacy policy at <http://www.google.com/intl/en/analytics/privacyoverview.html>.  
+We — including activities through services and partnerships with vendors and third-party service providers — may use cookies for the following purposes:
+
+  * Web analytics such as demographic and other anonymous data for web optimization and other analysis
+  * “Lead auditing” to ensure the accuracy, relevance and validity of submitted information
+  * Marketing and conversion-tracking cookies for, but not limited to, targeting and optimizing digital ad serving to improve relevance, user experience and advertising effectiveness
+
+
+
+You can remove cookies through your browser settings at any time, but note that you may need to do this on a per-use basis as opposed to a one-time basis. By visiting the opt-out pages on the NAI website and DAA website, you can opt out of receiving personalized ads from third-party advertisers and ad networks that are members of the Network Advertising Initiative (NAI) or that follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
