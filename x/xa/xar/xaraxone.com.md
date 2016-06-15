@@ -1,87 +1,117 @@
-> *The following text is extracted and transformed from the xaraxone.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026225417id_/http%3A//www.xaraxone.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraxone.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615084513id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Xara Xone
+# Privacy & Cookie Statement
 
-XARA has created this privacy statement in order to **demonstrate the company’s firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web [www.xaraxone.com](http://xaraxone.com/)
+Xara has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/) and the Xara Online purchase site secure.xaraonline.com. 
 
-**Xara Group Ltd is 100% owned by Magix AG and references to Xara in this document should be taken to mean both Xara and Magix.**
+**Xara Group Ltd is 100% owned by MAGIX GmbH and references to Xara in this document should be taken to mean both Xara and MAGIX**. 
 
-## Information collected by download forms, opt-in mailing list and surveys
+### Information collected by order forms, registration forms, download forms, opt-in mailing list and surveys
 
-Certain visitors to this website choose to interact with it in ways that require Xara to gather personally-identifying information, described in this section. In each case, Xara collects such information and only shares it with its employees and contractors, and only insofar as is necessary or appropriate to fulfill the actions described in this section. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in these activities. Xara will not rent or sell personally-identifying information to anyone.
+The site's **order and registration forms** require users to provide contact information (their name, postal and e-mail address) and orders forms require financial information (credit card number.) Contact information from the order form is used to send orders and for that purpose only information will be shared with the companies responsible for delivering the order (couriers etc). Contact information from the order and registration forms will also be used to send information about the status of the order or registration to our customers or to get in touch with the customer when necessary in relation to the order or registration. The customer's contact information is also used to to send information about Xara products and the company to our customers. Users may opt-out of receiving future mailings; see the Opting Out section below. Financial information that is collected is used to bill the user for products and services and for that purpose only is passed on to the card processing companies but is otherwise never passed to any third parties and is not stored by Xara. 
 
-The site’s **mailing list sign-up forms** offer site visitors the option to subscribe to our email newslists. Contact information from this form is used to send information about Xara products and the company to our customers. Users may opt-out of receiving future mailings at the time; see the choice/opt-out section below.
+The site's **mailing list sign-up forms** offer site visitors the option to subscribe to our email newslists. Contact information from this form is used to send information about Xara products and the company to our customers. Users may opt-out of receiving future mailings at the time; see the Opting Out section below. **None of the information collected for Xara's opt in mailing lists is passed to third parties**. 
 
-The site’s **download forms** require users to give us contact information (their name, country and e-mail address). Contact information from this form is used to send information about Xara products and the company to our customers. Users may opt-out of receiving future mailings at the time of downloading or subsequently; see the choice/opt-out section below.
+The site's **download forms** require users to give us contact information (their email address and country). Contact information from this form is used to send information about Xara products and the company to our customers. Users may opt-out of receiving future mailings at the time of downloading or subsequently; see the Opting Out section below. **None of the information collected on Xara's download forms is passed to third parties**. 
 
-Occasionally we run **online surveys** which may ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level) and questions about their use of Xara’s products and web site. The customer’s contact information may be used to contact the visitor when necessary but **is not used for mailings**. This demographic, product and web site information is used to help improve Xara’s products, customer service and website.
+Occasionally we run **online surveys** which may ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level) and questions about their use of Xara's products and web site. The customer's contact information may be used to contact the visitor when necessary but **is not used for mailings**. This demographic, product and web site information is used to help improve Xara's products, customer service and web site. **None of the information collected on our survey form is passed to third parties**. 
 
-Occasionally we run **contests** for which purpose we will ask contest entrants for their contact information (their name, email address, postal address) and potentially other questions relevant to the contest so that we can announce the results and deliver the prize. This information is **not used for mailings**.
+### Information collected by cookies
 
-### Other Information
+ **Our own cookies**
 
-The Xara web site logs each user’s **IP address** and **domain name** in order to provide aggregate site usage statistics, such as the number of unique users, and in order to help diagnose problems with servers and assist in the administration of the web site.
+ We use cookies to make our website work including:
 
-Xara places cookies on this website to store visitor preferences (for example if they prefer the full desktop site or the mobile version). Data that we collect with the aid of cookies is used for the sole purpose of customizing our site to customer preferences and to make browsing of our site as convenient as possible for you.
-
-Cookies are small files that are saved on the hard drive of your PC. Access therefore only occurs in impersonalized form and exclusively when you visit our website. Other websites cannot access this information. The validity of cookies is limited, i.e. they are not stored permanently on your PC but rather for a specific period of time. You can prevent the installation of cookies anytime by selecting the option “Do not accept cookies” in your browser.
-
-## Information Shared With Third Parties
-
-This website uses **Google Analytics** , a web analytics service provided by Google, Inc. („Google“). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information to evaluate your use of the website in order to create reports about website activity for the website operator and to provide services connected to website and Internet usage. Google can also give this information to third parties if it is required by law or if the third party is a Google proxy. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website you declare your agreement with the processing of data received from you by Google in the manner and with the intentions described above.
-
-You can opt out of future collection and use of your IP address with Google Analytics at any time. For this purpose Google offers a so-called deactivation add-on for your browser. The add-on, plus more detailed information can be found using the following link:  
-<http://tools.google.com/dlpage/gaoptout?hl=en-GB>. 
-
-Using a corresponding code extension Google Analytics captures your IP address on our website, but in an anonymous form.
-
- On these web pages plug-ins from the social network **facebook.com** are used, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”).
-
-If you access Internet pages provided by our website with this kind of plug-in, a link to the Facebook servers will be created and a plug-in will be displayed on the website by notifying your browser. Thereby notifying the Facebook servers which of our websites you have visited. If you are logged in as a member of this Facebook, Facebook assigns this information to your personal Facebook account. When using plug-in functions (such as clicking on the “Like” button, or when leaving a comment) this information is associated with your Facebook account, you can prevent this by logging out before using the plug-in.
-
-For more detailed information on your rights and ways to protect your privacy and how Facebook collects and uses data, consult Facebook’s privacy policy.
-
-## Law Enforcement
-
-Within the frame of applicable law Xara will surrender information to law enforcement agencies and courts at their request for the purpose of criminal prosecution, but only when required to do so by law, or when Xara believes in good faith that disclosure is reasonably necessary to protect the property or rights of Xara, third parties, or the public at large.
-
-## Opting out of mailing lists
-
-This site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site also gives users the following options for removing information from our database if they no longer wish to receive information from Xara:
-
-  * Send [e-mail](http://www.xara.com/contact/)
-  * Post mail to: 
-
-Xara Group Ltd
-
-Gaddesden Place
-
-Hemel Hempstead,  
-Herts, HP2 6EX UK
-
-  * Call the following telephone number: int + 44 1442 350000
+  * Making our shopping basket and checkout work
+  * Determining if you are logged in or not
+  * Remembering if you have accepted our terms and conditions
 
 
 
-## Corrections & update
+The site also uses cookies as part of the Xara Affiliate Program. Affiliate cookies last for 30 days and simply identify an anonymous user as having come from a specific referring site which is a member of the affiliate program. This means that Xara can pay commission to its affiliates if users subsequently return to the site and purchase one of Xara's products. 
 
-This site gives users the following options for changing and modifying information previously provided:
+**Third party 'social' functions**
 
-  * Change your details directly in your Xara Account at <http://www.club.xara.com/>
-  * Send [e-mail](http://www.xara.com/contact/)
-  * Post mail to: 
+ Our site, like most websites, includes 'social' functionality provided by third parties. For example, we have included share and like buttons so you can easily like or share our content with social networks. The following services use cookies:
 
-Xara Group Ltd
-
-Gaddesden Place
-
-Hemel Hempstead,  
-Herts, HP2 6EX UK
-
-  * Call the following telephone number: int + 44 1442 350000
+  * [Google](https://www.google.com/policies/privacy/partners/)
+  * [Facebook](http://www.facebook.com/about/privacy/)
+  * [Twitter](https://twitter.com/privacy)
+  * [StumbleUpon](http://www.stumbleupon.com/privacy)
 
 
 
-## Contacting the Web Site
+ Disabling these cookies will likely break the functions offered by these third parties.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+**Anonymous Visitor Statistics Cookies, Analytics**
+
+Our site, like most websites, uses cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using, how long they spend on the site, what page they look at etc. This helps us to continuously improve our website. These so called "analytics" programs also tell us on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before, helping us to put more money into developing our services for you instead of marketing spend.
+
+In addition we also occasionally use Google remarketing technology on our website, which uses the Google Analytics cookies. This technology allows users that have already visited our website to be subsequently presented with specific relevant Google Adwords advertisements, with the benefit that the adverts you are shown are tailored to your interest.
+
+  * [Google Analytics](http://www.google.com/intl/en_uk/policies/privacy/)
+  * [3D Stats](http://www.3dstats.com/privacy.html)
+
+
+
+**Disabling and Removing Cookies**
+
+ You can choose to delete cookies from your web browser at anytime. You can also set your web browser to not accept any cookies if you wish (for help on how to do this, go to [http://www.aboutcookies.org](http://www.aboutcookies.org/)). You will still be able to view our web site, but note you will not be able to purchase products, log in to your account, or benefit from personalised features.
+
+In addition Google provide a browser add-on that will prevent your data being used by Google Analytics, find our more [here](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+### Contact with Xara Servers
+
+Some Xara products make contact with Xara servers in order to check whether updates are available for the program or resources. This might be instigated either manually or automatically. Version number and language information may be sent with the query so that the appropriate update information is returned to the customer. **The information collected in this way is not used for any other purpose**. 
+
+### Law Enforcement
+
+Within the frame of applicable law Xara will surrender information to law enforcement agencies and courts at their request for the purpose of criminal prosecution. 
+
+### Security
+
+This site has **security measures in place** to protect the loss, misuse and alteration of the information under Xara's control. All Xara transactions are protected by **SSL (Secure Socket Layer) encryption**. All pages that contain customer information are password protected. Some customer information can be viewed online if a correct user name and password is entered but **financial information is not stored by Xara and therefore cannot be viewed online** under any circumstances. Password hints and customer information can only be sent to the e-mail address registered for the user, and this cannot be changed unless the user logs in. **Financial information will never be sent under any circumstances**. 
+
+Xara's online store policies, procedures and technical systems **are compliant with the PCI DSS.**
+
+### Note:
+
+This site does contain links to other sites. Xara is not responsible for the privacy practices or the content of web sits which may be linked from this site.
+
+### Opting out of mailing lists
+
+If you receive an email newsletter from us you can opt-out of future emails by **clicking the unsubscribe link** at the bottom of the email. This site also provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site also gives users the following options for **removing information from our database** if they no longer wish to receive information from Xara: 
+
+  * Send **[e-mail](https://web.archive.org/contact/)**
+  * **Post** mail to: **Xara Group Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
+  * **Call** the following **telephone** number: **int + 44 1442 350000**   
+
+
+
+
+### Corrections & update
+
+This site gives users the following options for **changing and modifying information** previously provided: 
+
+  * **Change your details directly** in your Xara Account at <http://www.xara.com/servicecenter/>
+  * Send **[e-mail](https://web.archive.org/contact/)**
+  * **Post** mail to: **Xara Group Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
+  * **Call** the following telephone number: **int + 44 1442 350000**
+
+
+
+
+### Contacting the website
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+
+    
+
+ **Kate Moir,  
+    Xara Group Ltd,  
+    Gaddesden Place,  
+    Hemel Hempstead,  
+    Herts, HP2 6EX,  
+    UK**
+
+Or [click here](https://web.archive.org/contact/) to contact us. 
