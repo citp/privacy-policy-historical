@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptana.org privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922221432id_/http%3A//www.aptana.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptana.org privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615184914id_/http%3A//www.aptana.com/privacy.html) for the most accurate reproduction.*
 
 # Aptana | Privacy Policy
 
@@ -78,7 +78,7 @@ Our provision of a link to any other website or location, such as payment proces
 
 ### Contact information
 
-Aptana welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at  or contact us at the headquarters address or main phone number on our [Contact](https://web.archive.org/contact) page. 
+Aptana welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [info@aptana.com](mailto:info@aptana.com) or contact us at the headquarters address or main phone number on our [Contact](https://web.archive.org/web/20160615184914id_/http%3A//www.aptana.com/contact.html) page. 
 
 Aptana may provide you notices under this Privacy Policy by sending you an email to the email address you provided to us. 
 
