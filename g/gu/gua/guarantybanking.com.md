@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212183847id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615152447id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
