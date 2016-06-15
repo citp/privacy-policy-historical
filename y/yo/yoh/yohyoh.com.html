@@ -1,21 +1,20 @@
-<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2015-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615002551id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2016-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615061007id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch cssanimations csstransitions js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
-<title>YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.</title>
-<meta name="description" content="Showcase your talent, products, services, jokes, funny, games, wallpapers, events &amp; share it to millions of people.">
-<meta name="keywords" content="Showcase your talent, products, services, jokes, funny, games">
 <meta name="viewport" content="width=device-width">
 <meta property="og:image" content="http://www.yohyoh.com/includes/yohyoh/styles/images/fav.gif">
 <meta http-equiv="pragma" content="no-cache">
 <link rel="shortcut icon" href="/includes/yohyoh/styles/images/fav.gif">
-		  <link rel="stylesheet" href="/includes/yohyoh/styles/css/style.css">
-<link rel="alternate" type="application/rss+xml" title="Showcase and Get Liked" href="http://www.yohyoh.com/site/rss/rss_20_Nov_2012_07_15_51.xml">
+<title>YohYoh.com Showcase online and Promote</title>	
+<meta name="description" content="YohYoh is the best showcasing portal to showcase your talents, products, designs, audios, videos, skills, works and more">
+<meta name="keywords" content="yohyoh, showcasing portal, online portfolio, online portfolio site, creative professional platform, showcase talent, designers showcase, artists showcase, creative talent, showcasing websites">
+<link rel="stylesheet" href="/includes/yohyoh/styles/css/style.css">
 <!--[if IE]> <link rel="stylesheet" href="/includes/yohyoh/styles/css/ie.css"> <![endif]-->
 
 <!-- Script for android tab(samsung galaxy) Start -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 if (navigator.userAgent.indexOf('Android') != -1)
 	{
 	 document.write('<style type="text/css">.login{top:0;}</style>');  
@@ -33,21 +32,15 @@ if (navigator.userAgent.indexOf('Android') != -1)
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/commonjquery.js"></script>
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.nicescroll.min.js"></script>
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.form.js"></script>
-<script type="text/javascript" language="javascript" src="/includes/yohyoh/scripts/js/jquery.carouFredSel-6.2.0-packed.js"></script>
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery_formvalidation.js"></script>
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/crop/jquery.form.min.js"></script> 
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/modernizr.custom.js"></script>
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/libs/jquery.autocomplete.pack.js"></script>
-<script src="/includes/yohyoh/scripts/js/libs/modernizr-2.5.3.min.js"></script>
-<script src="/includes/yohyoh/scripts/js/plugins.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery.masonry.min.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery.infinitescroll.min.js"></script> 
-
-<!-- chat files -->
-<script type="text/javascript" src="/includes/yohyoh/scripts/js/chat.js"></script>
-<link type="text/css" rel="stylesheet" media="all" href="/includes/yohyoh/styles/styles/chat.css">
-<!-- End chat files -->
-
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/libs/modernizr-2.5.3.min.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/plugins.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.infinitescroll.min.js"></script> 
 
 <!-- Dropdown related JS code -->
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/dropdown.js"></script>
@@ -78,6 +71,14 @@ $('.nyroModalCont').css("z-index", "9999");
 <!-- home page slider code start -->
 <script type="text/javascript" language="javascript">
 			$(function() {
+
+ $(window).scroll(function (event) { 
+/*  if($(".nameCat_first").css("display")=="block"){ 			
+		$(".nameCat_first").hide(); 
+		return false;
+	}*/
+$(".pagetop").fadeIn('fast');
+}); 
 	
 /* Start Tending Menu Script*/
 $(".trendingmenuone_close").click(function () {
@@ -150,11 +151,19 @@ var element=$(this);
 <script type="text/javascript">
 $(document).ready(function() {
 
+var scrolled=0;
+$(".category_downarrow").on("click" ,function(){
+scrolled=scrolled+100;
+     $(".categorybox").animate({
+          scrollTop:  scrolled
+     });
+});
+
 $('.pagetop').click(function(event) {
             event.preventDefault();
             $('html, body').animate({scrollTop: 0});
             return false;
-        })
+        });
 
 
 $('.rangoliPic').mouseover(function(){
@@ -188,6 +197,54 @@ $(".trending_menu").hover(function(){
 				$.post("http://www.yohyoh.com/site/broken_images.php",{image:$(this).attr('src'), page:window.location.href },function(result){})
 				$(this).attr({src: 'http://www.yohyoh.com/site/default-200px.jpg',alt: 'Sorry!  This image is not available!',style:'border: 1px solid #f00;width:200px;'});
 			});
+
+
+
+
+/* Start Premium Popup */
+/*
+var cookieValue = $.cookie("premiumclose");//alert("cookieValue="+cookieValue);
+if(cookieValue==null || cookieValue=='undefined'){
+	$.cookie("premiumclose", 1);
+}
+cookieValue = $.cookie("premiumclose");//alert("cookieValue1="+cookieValue);
+
+
+if(cookieValue==1){
+$('.popuppremium-overlay').show();
+$('.popup_premium').show();
+$('.popuppremium-overlay').css("display", "block");
+$('.popup_premium').css("display", "block");
+$.cookie("premiumclose", 2);
+} else {
+$('.popuppremium-overlay').hide();
+$('.popup_premium').hide();
+$('.popuppremium-overlay').css("display", "none");
+$('.popup_premium').css("display", "none");
+$.cookie("premiumclose", 2);
+}
+
+$(".x").click(function () {
+$('.popuppremium-overlay').hide();
+$('.popup_premium').hide();
+});
+*/
+
+
+/*$(window).reload(function() {
+   $.removeCookie('premiumclose');
+});
+$(window).unload(function() {
+   $.removeCookie('premiumclose');
+});*/
+
+
+
+/* End Premium Popup */
+
+
+
+
 });
 </script>
 
@@ -257,8 +314,8 @@ if (navigator.userAgent.indexOf('Android') != -1)
           // show elems now they're ready
           $newElems.animate({ opacity: 1 });
           $container.masonry( 'appended', $newElems, true ); 
-		  $(".trending_showimg_first").hide();
-		  $(".nameCat_first").hide();
+		//  $(".trending_showimg_first").hide();
+		//  $(".nameCat_first").hide();
 
 
  $(".moretitle").unbind('click');
@@ -305,7 +362,7 @@ var pages = {
       content: ""
     }
   }
-
+  
 
   // Get references to the page elements.
   var navLinks = document.querySelectorAll('.load-content');  
@@ -332,6 +389,7 @@ var pages = {
       var pageData = pages[urlpage];	
       // Update the title and content.
       updateContent(pageData);
+
        // Execute the callback function.
       callback();
     };
@@ -352,14 +410,21 @@ var pages = {
       // Fetch the page data using the URL in the link.
       var pageURL = this.attributes['href'].value;
 	  var currentURL = this.attributes['prev_url'].value;
+	  var iid= this.attributes['data-id'].value;
+	  var img_title= this.attributes['title'].value;
+	  
 	  document.getElementById("loadpop_image").style.display = "block";
 	  var nameURL = "largeimage.php";
 		var urlpage = "largeimage";
 		
       loadContent(nameURL, pageURL, currentURL, function() {       
 		   var pageData = pages[urlpage];
+		   
+		   getresult("/includes/ajax/getresult.php",iid);
+		   
         // Create a new history item.
-        history.pushState(pageData, pageData.title, pageURL, currentURL);		 
+        history.pushState(pageData, pageData.title, pageURL);
+		$("title").html(img_title);
       }); 	
     });	
  }
@@ -378,36 +443,6 @@ $('[data-popup-target]').on("click", function () {
 
 /* End Largeimage Popup Functionality */
 
-	$(".smileys").unbind('click');
-	$( ".smileys" ).click(function() {//alert("masonary smileys");
-	var imgthumb = $(this).attr('data');
-	var textareabox = $('#'+imageid+'_commentpost');
-    textareabox.val(textareabox.val() + imgthumb);
-	});
-
-	$(".smileclick").unbind('click');
-	$(".smileclick").click(function(){
-		imageid=$(this).attr('data'); 
-		$('#'+imageid+'_smileclick_close').show();
-		$('#'+imageid+'_smileclick').hide();
-		$('#'+imageid+'_smileys_images').slideToggle(); 
-	 });
-
-	$(".smileclick_close").unbind('click');
-	 $(".smileclick_close").click(function(){
-		imageid=$(this).attr('data');
-		$('#'+imageid+'_smileclick').show();
-		$('#'+imageid+'_smileclick_close').hide();
-		$('#'+imageid+'_smileys_images').slideToggle(); 
-	 });
-
-
-
-	$('.comment_toggle').unbind('click');
-	$(".comment_toggle").click(function(){	
-	imageid	=$(this).attr('data');	
-    $('#'+imageid+'_comment').toggle();
-	});
 
 	$(".post_comment_home").click(function() { 				
 				imageid	=$(this).attr('data');
@@ -506,7 +541,7 @@ function myalbum_ajax_request(showcasename,page)
 { 
  
   $('#container').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  if(page=="allactivities"){
+  if(page=="follopage"){
    $('#allactivitiesmenu').hide();
   }  
   $('#tab-containt').load("/site/my-album.php?user_blog_name="+showcasename); 
@@ -516,8 +551,9 @@ function myalbum_ajax_request(showcasename,page)
 
 function privateimages(showcasename,page)
 {
-	$('#container').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-	if(page=="allactivities"){
+  
+  $('#container').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+	if(page=="follopage"){
    		$('#allactivitiesmenu').hide();
   	}
   $('#tab-containt').load("/includes/ajax/profiles/private_images.php?user_blog_name="+showcasename); 
@@ -553,50 +589,57 @@ function clearText(field){
 
 
 </script>
-<link rel="stylesheet" type="text/css" href="/includes/yohyoh/styles/css/elastislide.css">
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5045e91200e60adf"></script>
-<link rel="stylesheet" href="/includes/yohyoh/styles/styles/styleslide.css">
 
 </head>
 
-<body id="bg">
-<!-- Chat -->
+<body id="bg"><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<div id="chat_container">
-<div class="topbar_hide">
-<div class="chatboxhead" id="chatboxhead">
-<div class="chatboxtitle"><a id="displayText" href="javascript:void(0);" onclick="showchatpersons('')"><div class="chead">Chat</div></a>
-<a id="displayText" href="javascript:void(0);" onclick="showchatpersons('')"><div class="csymbol">+</div></a></div>
-<br clear="all">
-</div>
-</div>
-<div class="chatboxcss">
-<div id="toggleText" style="display:none;">
-</div>
-</div>
-</div>
-<!-- End Chat -->
+  ga('create', 'UA-26713428-1', 'auto');
+  ga('send', 'pageview');
 
-<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+</script>
+<!-- Start Premium Popup text -->
+<!--
+<div class="popuppremium-overlay"></div>
+<div class='popup_premium'>
+<div class='premium_box'>
+<img src='/includes/yohyoh/styles/images/close_sli.png' alt='quit' class='x premium_closebtn' id='x' width='12' height='12' />
+<p>
+Hi, are you so worried about your sales and need to increase them. Then it's time to partner with us. According to a recent research, Online promotion is one major reason behind huge sales of a product.</p><br/>
+
+<p>So to increase your sales, you not just need to promote your brand offline, but online too. We, at YohYoh have a team of experts in branding any product online. We design creative images, animated video presentations besides all useful branding necessities like business cards, brochures, websites, mobile apps and almost everything. We also promote you in various social networks like Facebook, Twitter, Pinterest, Tumblr, Instagram,Whatsapp and more.</p><br/>
+
+<p>Now why late, we have some exclusive offers with best discounts. Contact our marketing manager and book your slot right now. Hurry up, offers ends in 2 days.
+<br/>
+
+</p>
+<div class="marvideosbox">
+	<div class="marhead">
+		Examples
+	</div>
+	<div class="marlinks">
+		<a href="http://www.yohyoh.com/ponnalalakshmaiah" target="_blank">Ponnala Lakshmaiah</a>
+	</div>
+	<div class="marlinks">
+		<a href="http://www.yohyoh.com/srivaishnavi-centraloffice" target="_blank">Vaishnavi Schools</a>
+	</div>
+	<div class="marlinks">
+		<a href="http://www.yohyoh.com/ibpil" target="_blank">IBPIL</a>
+	</div> <br />
+	<p class="reachuson">For More Info : support@yohyoh.com (OR) 040 - 64635502, 9949088408</p>
+</div>
+</div>
+</div>
+-->
+<!-- End Premium popup text -->
 
 <!-- Header top part -->
 <script type="text/javascript">
-
 $(document).ready(function(){
-
-/*$('#slides').slides({
-	preload: true,
-	generateNextPrev: true
-});
-$('#lslides').slides({
-	preload: true,
-	generateNextPrev: true
-});
-$('#rslides').slides({
-	preload: true,
-	generateNextPrev: true
-});*/
 
            var options = {
             target: '.following_followers_list', //Div tag where content info will be loaded in
@@ -712,11 +755,19 @@ $(document).on("click", function () {
     $("#weshowcaseform").hide();
 	$("#howtoprepare").hide();
 	$(".sendmsg_browse").hide();	
-	$(".nameCat_first").hide();
+	//$(".nameCat_first").hide();
 	$(".uploadiconsdisplay").show();
 	$(".upload_headline").css('color', '#E36010');
 	$(".sendmessageform").hide();
+	$(".chat_followersnotification").hide();	
+	$('.popuppremium-overlay').hide();
+    $('.popup_premium').hide();
 	//document.getElementById("uploadiconsdisplay").style.position = "absolute";
+});
+
+$(document).on("click", ".chat_followersnotification a.namecss", function (e) {
+    e.stopPropagation(); 
+	return false;
 });
 
 
@@ -775,7 +826,7 @@ $(document).on("click", function () {
                 <li><a href="javascript:void(0);" class="categoryshow_hide"><img src="/includes/yohyoh/styles/images/categories.png"></a></li>
                 <li><a href="javascript:void(0);" class="headermenushow_hide"><img src="/includes/yohyoh/styles/images/menu.png"></a></li>
 			                <li><a id="popup_window" data-popup-targetlogin="#loginouter-popup" class="login">Login</a></li>
-                <li><a href="javascript:void(0);" id="popup_window" data-popup-targetlogin="#signupouter-popup" class="signup">Signup</a></li>
+                <li><a id="popup_window" data-popup-targetlogin="#signupouter-popup" class="signup">Signup</a></li>
 			            
 			</ul>
 		</div>
@@ -795,12 +846,17 @@ $(document).on("click", function () {
 
   </div>
 
-<!-- TOP HEADER HTML ENDS HERE -->			
+<!-- TOP HEADER HTML ENDS HERE -->	
+
+<!-- Start  - This div created for fixed div dont remove -->
+	<div class="headerposition_fixed">&nbsp;</div>
+  <!-- End  - This div created for fixed div dont remove -->
 						
 	<!-------------------------------------------------
 	         Start of Categories
 	-------------------------------------------------->				
 <div class="categorybox categoryslidingDiv" id="categorynames_list" tabindex="0" style="overflow: hidden; outline: none; display: none;">
+	<span class="category_downarrow"><img src="/includes/yohyoh/styles/images/downarrow.png" width="20px" height="20px" alt="yohyoh"></span>
           <ul>
 				    <li><a alt="Telugu News" title="Telugu News" href="/telugu-news">Telugu News</a></li>
                     <li><a alt="English News" title="English News" href="/english-news">English News</a></li>
@@ -841,6 +897,7 @@ $(document).on("click", function () {
 					<li><a alt="Digital Painting" title="Digital Painting" href="/digital-painting">Digital Painting</a></li>
 					<li><a alt="Education" title="Education" href="/education">Education</a></li>
 					<li><a alt="Events" title="Events" href="/events">Events</a></li>
+					<li><a alt="Events" title="Events" href="/entertainment">Entertainment</a></li>					
 		            <li><a alt="Fashion And Life Style" title="Fashion And Life Style" href="/fashion-and-life-style">Fashion And Life Style</a></li>
 					<li><a alt="Fitness And Excercises" title="Fitness And Excercises" href="/fitness-and-excercises">Fitness And Excercises</a></li>
 					<li><a alt="Flights" title="Flights" href="/flights">Flights</a></li>
@@ -918,21 +975,10 @@ $(document).on("click", function () {
 				    <li><a alt="Wedding" title="Wedding" href="/wedding">Wedding</a></li>
         
             <li><a href="http://www.yohyoh.com/health/online-doctor/live/">Online Doctor</a></li>
-            <li><a href="http://eshop.yohyoh.com">Eshop</a></li>
             <li><a href="http://www.yohyoh.com/careers/home">Careers</a></li>
-            <li><a href="http://www.yohyoh.com/yohyoh-quiz">Win Prize Quiz</a></li>
             <li><a href="http://www.yohyoh.com/quick-contacts">Quick Contacts</a></li>
-            <li><a href="http://www.yohyoh.com/classifieds">Classifieds</a></li>
-            <li><a href="http://www.yohyoh.com/novels/home">Novels</a></li>
-            <li><a href="http://www.yohyoh.com/live-tv-channels">Live Tv Channels</a></li>
-            <li><a href="http://www.yohyoh.com/events">Events</a></li>
-            <li><a href="http://www.yohyoh.com/quotes">Quotes</a></li>
+            <li><a href="http://www.yohyoh.com/ads-and-promotions">Ads and Promotions</a></li>
             <li><a href="http://www.yohyoh.com/games">Games</a></li>
-         
-            <li><a href="http://www.yohyoh.com/cinema/home">Cinema</a></li>
-            <li><a href="http://www.yohyoh.com/entertainment/home/lyrics">Lyrics</a></li>
-            <li><a href="http://www.yohyoh.com/entertainment/home/jokes">Jokes</a></li>
-            <li><a href="http://www.yohyoh.com/entertainment/myringtones">Ringtones</a></li>
 
   </ul></div>
 
@@ -949,7 +995,7 @@ $(document).on("click", function () {
 	<p><input type="text" name="search_name" id="search_name" class="search_name ac_input" placeholder="Keyword" autocomplete="off"></p>
 	<p><select name="gcategory" id="gcategory">
 	   <option value="">Category</option>
-<option value="2d images">2d images</option><option value="3d images">3d images</option><option value="abstraction">abstraction</option><option value="accessories">accessories</option><option value="actor">actor</option><option value="actress">actress</option><option value="ads and promotions">ads and promotions</option><option value="animal">animal</option><option value="artists">artists</option><option value="arts">arts</option><option value="astronomy">astronomy</option><option value="bengali news">bengali news</option><option value="birds">birds</option><option value="books story novels">books story novels</option><option value="buildings or architecture">buildings or architecture</option><option value="calligraphy">calligraphy</option><option value="cars and motor cycles">cars and motor cycles</option><option value="cartoons">cartoons</option><option value="celebrities">celebrities</option><option value="churches">churches</option><option value="cinematography">cinematography</option><option value="computer animation">computer animation</option><option value="crafts">crafts</option><option value="deal">deal</option><option value="design">design</option><option value="digital painting">digital painting</option><option value="education">education</option><option value="english news">english news</option><option value="events">events</option><option value="fashion and life style">fashion and life style</option><option value="favicon">favicon</option><option value="fitness and excercises">fitness and excercises</option><option value="flights">flights</option><option value="flower">flower</option><option value="food">food</option><option value="fruits and vegetables">fruits and vegetables</option><option value="fun">fun</option><option value="funny">funny</option><option value="gadgets">gadgets</option><option value="gardens">gardens</option><option value="general">general</option><option value="gossips">gossips</option><option value="graffiti">graffiti</option><option value="gujrathi news">gujrathi news</option><option value="hair and beauty">hair and beauty</option><option value="hindi news">hindi news</option><option value="history">history</option><option value="home">home</option><option value="home design">home design</option><option value="hotels">hotels</option><option value="hotpictures">hotpictures</option><option value="illustration">illustration</option><option value="interior design">interior design</option><option value="internet">internet</option><option value="islands">islands</option><option value="japanese news">japanese news</option><option value="jewelry design">jewelry design</option><option value="jobs">jobs</option><option value="jokes">jokes</option><option value="journalism">journalism</option><option value="kannada news">kannada news</option><option value="Kids">Kids</option><option value="lakes">lakes</option><option value="landscapes">landscapes</option><option value="literature">literature</option><option value="malayalam news">malayalam news</option><option value="marathi news">marathi news</option><option value="men">men</option><option value="mobiles">mobiles</option><option value="modern houses">modern houses</option><option value="modern kitchens">modern kitchens</option><option value="mountains">mountains</option><option value="movie photos">movie photos</option><option value="movies">movies</option><option value="nature">nature</option><option value="novel">novel</option><option value="others">others</option><option value="performing arts">performing arts</option><option value="pets">pets</option><option value="photography">photography</option><option value="plastics">plastics</option><option value="poultry equipment">poultry equipment</option><option value="print design">print design</option><option value="product design">product design</option><option value="products i like">products i like</option><option value="profile">profile</option><option value="programming">programming</option><option value="quote">quote</option><option value="resorts">resorts</option><option value="retouching">retouching</option><option value="science">science</option><option value="science and nature">science and nature</option><option value="singapore news">singapore news</option><option value="space">space</option><option value="spiritual">spiritual</option><option value="sports">sports</option><option value="Storyboarding">Storyboarding</option><option value="swimming pools">swimming pools</option><option value="tamil news">tamil news</option><option value="tattoo">tattoo</option><option value="technology">technology</option><option value="telugu news">telugu news</option><option value="temples">temples</option><option value="textile design">textile design</option><option value="tourism and places">tourism and places</option><option value="toy design">toy design</option><option value="typography">typography</option><option value="uae news">uae news</option><option value="videos">videos</option><option value="wallpapers">wallpapers</option><option value="watches">watches</option><option value="waterfalls">waterfalls</option><option value="web design">web design</option><option value="wedding">wedding</option><option value="women">women</option><option value="world wonders">world wonders</option><option value="yohyohvideos">yohyohvideos</option></select>
+<option value="2d images">2d images</option><option value="3d images">3d images</option><option value="abstraction">abstraction</option><option value="accessories">accessories</option><option value="actor">actor</option><option value="actress">actress</option><option value="ads and promotions">ads and promotions</option><option value="animal">animal</option><option value="artists">artists</option><option value="arts">arts</option><option value="astronomy">astronomy</option><option value="bengali news">bengali news</option><option value="birds">birds</option><option value="books story novels">books story novels</option><option value="buildings or architecture">buildings or architecture</option><option value="calligraphy">calligraphy</option><option value="cars and motor cycles">cars and motor cycles</option><option value="cartoons">cartoons</option><option value="celebrities">celebrities</option><option value="churches">churches</option><option value="cinematography">cinematography</option><option value="computer animation">computer animation</option><option value="crafts">crafts</option><option value="deal">deal</option><option value="design">design</option><option value="digital painting">digital painting</option><option value="education">education</option><option value="english news">english news</option><option value="entertainment">entertainment</option><option value="events">events</option><option value="fashion and life style">fashion and life style</option><option value="favicon">favicon</option><option value="fitness and excercises">fitness and excercises</option><option value="flights">flights</option><option value="flower">flower</option><option value="food">food</option><option value="fruits and vegetables">fruits and vegetables</option><option value="fun">fun</option><option value="funny">funny</option><option value="gadgets">gadgets</option><option value="gardens">gardens</option><option value="general">general</option><option value="gossips">gossips</option><option value="graffiti">graffiti</option><option value="gujrathi news">gujrathi news</option><option value="hair and beauty">hair and beauty</option><option value="hindi news">hindi news</option><option value="history">history</option><option value="home">home</option><option value="home design">home design</option><option value="hotels">hotels</option><option value="hotpictures">hotpictures</option><option value="illustration">illustration</option><option value="interior design">interior design</option><option value="internet">internet</option><option value="islands">islands</option><option value="japanese news">japanese news</option><option value="jewelry design">jewelry design</option><option value="jobs">jobs</option><option value="jokes">jokes</option><option value="journalism">journalism</option><option value="kannada news">kannada news</option><option value="Kids">Kids</option><option value="lakes">lakes</option><option value="landscapes">landscapes</option><option value="literature">literature</option><option value="malayalam news">malayalam news</option><option value="marathi news">marathi news</option><option value="men">men</option><option value="mobiles">mobiles</option><option value="modern houses">modern houses</option><option value="modern kitchens">modern kitchens</option><option value="mountains">mountains</option><option value="movie photos">movie photos</option><option value="movies">movies</option><option value="nature">nature</option><option value="novel">novel</option><option value="others">others</option><option value="performing arts">performing arts</option><option value="pets">pets</option><option value="photography">photography</option><option value="plastics">plastics</option><option value="politics">politics</option><option value="poultry equipment">poultry equipment</option><option value="print design">print design</option><option value="product design">product design</option><option value="products i like">products i like</option><option value="profile">profile</option><option value="programming">programming</option><option value="quote">quote</option><option value="resorts">resorts</option><option value="retouching">retouching</option><option value="science">science</option><option value="science and nature">science and nature</option><option value="singapore news">singapore news</option><option value="space">space</option><option value="spiritual">spiritual</option><option value="sports">sports</option><option value="Storyboarding">Storyboarding</option><option value="swimming pools">swimming pools</option><option value="tamil news">tamil news</option><option value="tattoo">tattoo</option><option value="technology">technology</option><option value="telugu news">telugu news</option><option value="temples">temples</option><option value="textile design">textile design</option><option value="tips">tips</option><option value="tourism and places">tourism and places</option><option value="toy design">toy design</option><option value="typography">typography</option><option value="uae news">uae news</option><option value="videos">videos</option><option value="wallpapers">wallpapers</option><option value="watches">watches</option><option value="waterfalls">waterfalls</option><option value="web design">web design</option><option value="wedding">wedding</option><option value="women">women</option><option value="world wonders">world wonders</option><option value="yohyohvideos">yohyohvideos</option></select>
     </p>
 	<p>
 	<select name="country" id="country">
@@ -970,10 +1016,7 @@ $(document).on("click", function () {
             <li><a href="/help/aboutyohyoh.php" target="_blank" class="menubtmbrdr menurtbrdr btmbrdrall">About</a></li>
 			<li>
 
-    
-        <meta name="robots" content="noindex">
-        <title>Import Gmail or Google contacts using Google Contacts Data API 3.0 and OAuth 2.0</title>
- 
+           
     
     
 <!-- <div id="gmailouath" style="display:none;"><img src"$abc" ></div> -->
@@ -1097,7 +1140,7 @@ $(document).on("click", function () {
       <div class="popup-loginsignup">
 		  <span class="popup-exit"><img src="/includes/yohyoh/styles/images/close_login.png"></span>
         <form name="loginForm" id="loginForm" method="post">
-		<div id="logmsg" style="display:block; width:73%; text-align:center; margin-top:5px;color:#FF0000;margin-bottom:5px;"></div>
+		<div id="logmsg" style="display:block; width:100%; text-align:center; margin-top:5px; color:#fbe705; margin-bottom:5px; font-size:14px;"></div>
          
           
             <input class="text required email" type="email" name="username" onfocus="clearText(this)" placeholder="Email">         
@@ -1110,16 +1153,17 @@ $(document).on("click", function () {
 		  <input type="hidden" name="comment_message" id="comment_message">
 		  <input type="hidden" name="largeimagepage_id" id="largeimagepage_id">
 		  <input type="hidden" name="categ_commentid" id="categ_commentid">
+		  <input type="hidden" name="follow_userid" id="follow_userid">
         
         <span class="or">or login with</span>        
-
-		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=6d1a99683e95cd08c68ee4b66ddc1fb8&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+			
+		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=b04b09f5b544154efe7a82e4278a4e24&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
 		 
 		 		 
 		 
-		  <a href="http://www.yohyoh.com/index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
-		  <a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
-		 
+		  <a href="http://www.yohyoh.com/index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
+		  <a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
+		  <a href="http://www.yohyoh.com/includes/twitter_process.php" class="twitterlogin"><img src="/includes/yohyoh/styles/images/twitter.png"></a>
 		 		 
 		</form>
       </div>
@@ -1129,6 +1173,8 @@ $(document).on("click", function () {
       <div class="popup-loginsignup">
         <span class="popup-exit"><img src="/includes/yohyoh/styles/images/close_login.png"></span>
         <form name="signupForm" id="" method="post" style="display:block;">
+			<div id="signupmsg" style="color:#fbe705;font-size:14px;text-align:center; width:100%;"></div>
+
               <input class="text required" type="email" name="email" placeholder="Email" onkeypress="if(event.keyCode==13){signupvalidation(document.signupForm,'/privacy-policy'); return false;}">		
 			  <input class="text required" type="text" name="showcasename" id="showcasename" placeholder="Showcase Name">
 			  <span class="name_example">ex: rahul</span>
@@ -1136,18 +1182,17 @@ $(document).on("click", function () {
             <input type="hidden" name="subval" value="Signup">
 						<input type="button" class="or_btn" value="Signup" onclick="signupvalidation(document.signupForm,'/privacy-policy','nodropdown')">
 			          
-		  <div id="signupmsg" style="color:#FF0000;float:left; text-align:center; width:81%;"></div>
          
         
         <span class="or">or signup with</span>   
 
-		   <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=6d1a99683e95cd08c68ee4b66ddc1fb8&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
+		   <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=b04b09f5b544154efe7a82e4278a4e24&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a>  
 				 
 		 
-		   <a href="http://www.yohyoh.com/index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		   <a href="http://www.yohyoh.com/index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
 			
-			<a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
-		 
+			<a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people."></a> 
+		    <a href="http://www.yohyoh.com/includes/twitter_process.php" class="twitterlogin"><img src="/includes/yohyoh/styles/images/twitter.png"></a>
 		 		 
 		</form>
 	 </div>
@@ -1240,15 +1285,18 @@ $(document).on("click", function () {
 $(document).ready(function(){
   
   $(".uploadicon").click(function(){
-	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
+	$("#categorynames_list").hide();
+	$('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/img_upload/index.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
+	  $("#categorynames_list").hide();	  
     });
   });
 
   $(".extractimg").click(function(){
-     $('html, body').animate({scrollTop: $("body").offset().top}, 100);
+	$("#categorynames_list").hide();
+    $('html, body').animate({scrollTop: $("body").offset().top}, 100);
 	$.get("/extract_image/index.php",function(data,status){	
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);	  
@@ -1256,6 +1304,7 @@ $(document).ready(function(){
   });
 
   $(".audioicon").click(function(){
+	 $("#categorynames_list").hide();
      $('html, body').animate({scrollTop: $("body").offset().top}, 100);
 	 $('.audioicon').addClass('active');
     $.get("/includes/ajax/pdfform.php?title=Upload Audio",function(data,status){
@@ -1265,6 +1314,7 @@ $(document).ready(function(){
   });
       
   $(".videoicon").click(function(){
+	 $("#categorynames_list").hide();
      $('html, body').animate({scrollTop: $("body").offset().top}, 100);
 	$.get("/includes/ajax/add_video.php",function(data,status){
 	  $("#uploadtoggle").show();
@@ -1273,7 +1323,8 @@ $(document).ready(function(){
   });
   
   $(".texticon").click(function(){
-	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
+    $("#categorynames_list").hide();
+    $('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/includes/ajax/textform.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
@@ -1281,6 +1332,7 @@ $(document).ready(function(){
   });
   
   $(".pdficon").click(function(){
+	 $("#categorynames_list").hide();
 	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/includes/ajax/pdfform.php?title=Upload PDF File",function(data,status){
 	  $("#uploadtoggle").show();
@@ -1290,7 +1342,8 @@ $(document).ready(function(){
 	
     
   $(".extracturl").click(function(){
-	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
+	$("#categorynames_list").hide();
+	$('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/extracturl/index.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
@@ -1353,7 +1406,7 @@ $(document).ready(function(){
  <div class="trendingboxcate">
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="1">News</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/yohyohnews8" class="tlink_title" data-catid="yohyohnews8">National News</a>
@@ -1371,7 +1424,7 @@ $(document).ready(function(){
 			  </div>
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="2">Interesting</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/automobiles84" class="tlink_title" data-catid="automobiles84">Funny </a>
@@ -1389,12 +1442,12 @@ $(document).ready(function(){
 			  </div>
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="3">Fun</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/sunkari" class="tlink_title" data-catid="sunkari">Funny Images</a>
-											<a href="/humorous" class="tlink_title" data-catid="humorous">Humour</a>
-											<a href="/sirisha123" class="tlink_title" data-catid="sirisha123">Jokes </a>
+											<a href="/sirisha123" class="tlink_title" data-catid="sirisha123">Jokes</a>
+											<a href="/humorous" class="tlink_title" data-catid="humorous">Humor</a>
 											<a href="/" class="tlink_title" data-catid=""></a>
 										
 						</div>
@@ -1405,7 +1458,7 @@ $(document).ready(function(){
 			  </div>
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="4">Celebrities</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/amitabh-bachan" class="tlink_title" data-catid="amitabh-bachan">Amitabh Bachchan</a>
@@ -1423,7 +1476,7 @@ $(document).ready(function(){
 			  </div>
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="5">Gossips</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/bollywoodgossip" class="tlink_title" data-catid="bollywoodgossip">Bollywood</a>
@@ -1438,7 +1491,7 @@ $(document).ready(function(){
 			  </div>
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="6">Sports</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/sportsfan" class="tlink_title" data-catid="sportsfan">Sports Updates</a>
@@ -1452,7 +1505,7 @@ $(document).ready(function(){
 			  </div>
 				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="7">Quotes</a>
 				<div class="trending_showimg">
-				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="/includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
 				  <div class="tnavimg">
 					<div class="tnavimg_all">
 												<a href="/whatsappstatus" class="tlink_title" data-catid="whatsappstatus">Whatsapp Status</a>
@@ -1464,7 +1517,7 @@ $(document).ready(function(){
 				  </div>
 				</div>
 			  </div>
-	</div><div class="trending-box"><a href="/tags/Revanth" target="_blank">#Revanth </a><a href="/tags/KCR" target="_blank">#KCR </a><a href="/tags/Chandrababu" target="_blank">#Chandrababu </a><a href="/tags/Modi" target="_blank">#Modi </a></div>
+	<div class="premiumdg_link"><a href="premiumdesigns">For Premium Designs</a></div></div><div class="trending-box"><a href="/tags/Cricket" target="_blank">#Cricket </a><a href="/tags/KCR" target="_blank">#KCR </a><a href="/tags/Movies" target="_blank">#Movies </a><a href="/tags/Modi" target="_blank">#Modi </a></div>
 
   </div><!-- End Trending Menu -->
 </div><!-- End Trending Bar -->
@@ -1492,7 +1545,7 @@ $(document).on("click", ".like, .like_home", function(e){ //alert("like in docum
 			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
 			success : function (data) {
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" title="liked" style="width:18px;height:18px;"/>');
+					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" class="ajaxliked" title="liked"/>');
 				} // on success callback
 			});
  });
@@ -1503,16 +1556,23 @@ $(document).on("click", "#comment_view", function(event) {
     }, 2000);
  });
 
+$(document).on("keypress", ".post_comment_inner", function(e) {
+	 var key = e.which || e.keyCode; 
+	  if(key == 13){
+		$('.pstbtn').trigger("click");
+	  }
+});
+
 /* ****** Post comment from details page ********** */
-$(document).on("click", ".pstbtn", function(e) {
-	$('.popup').animate({scrollTop: 0}, 2000);
-		imageid	=$('.image_comment_inner').val();
-		imagecomment	=$.trim($(".post_comment_inner").val());
-		userid	=$('.inner_comments_user').val();
+$(document).on("click", ".pstbtn", function(e) { //alert("12313");
+//$('.popup').animate({scrollTop: 0}, 2000);
+		imageid	=$('.image_comment_inner').val(); //alert("imgid="+imageid);
+		imagecomment	=$.trim($(".post_comment_inner").val()); 
+		userid	=$('.inner_comments_user').val(); 
 		categoryid	=$('.'+imageid+'_category').val();
 		var sessionemail_id="";
 		//jq172('.pstbtn').off('click');
-		if(imagecomment==''){
+		if(imagecomment==''){ 
 			alert('Comment field can not be left blank!');
             //$('.inner_cmtspost').append('Comment field can not be left blank!');
 			return false;
@@ -1522,9 +1582,9 @@ $(document).on("click", ".pstbtn", function(e) {
 			//$('.inner_cmtspost').append('Comment length does not matched!');
 			return false;
 		}
-		else{
+		else{ //alert(imagecomment);
 		$('.loading_cmnt').html("<img src='http://www.yohyoh.com/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
-		$('.pstbtn').attr("disabled", "disabled")
+		$('.pstbtn').attr("disabled", "disabled");
 		$.ajax({
 			type : 'POST', // or GET
 
@@ -1534,70 +1594,60 @@ $(document).on("click", ".pstbtn", function(e) {
 					if(sessionemail_id==""){
 							var ic=$(".pstbtn").attr("img_commentid");
 							var cm=$(".post_comment_inner").attr("comment_message");
-							document.getElementById(ic).value=imageid;
-							document.getElementById(cm).value=imagecomment;
+							document.getElementById("img_commentid").value=imageid;
+							document.getElementById("comment_message").value=imagecomment;
 							$('html').addClass('overlay');
-       						var activePopup = '#loginouter-popup';alert(activePopup);
+       						var activePopup = '#loginouter-popup';
        						$(activePopup).addClass('visible');
 					}
 					else{
-								if(data==0){
-					}
-					else{
-						$('.post_comment_inner').val('');
-						var record = data.split('|*|');
-						$('.comment_panel').html(record[0]);
-						var comment_count	='';						
-						if(comment_count>4){
-						// ************ Paging ********** //
-						$(".comment_paging").on().paginate({
-							count 		: record[1],
-							start 		: 1,
-							display     : record[2],
-							border					: true,
-							border_color			: '',
-							text_color  			: '',
-							background_color    	: '',	
-							border_hover_color		: '',
-							text_hover_color  		: '',
-							background_hover_color	: '',
-							first					:false,
-							last					:false,
-							images					: false,
-							mouse					: 'press',
-							onChange     			: function(page){
-														$('._current','.commentpaginationdemo').removeClass('_current').slideUp();
-														$('.c'+page).addClass('_current').slideDown();
-													  }
-						});
-						}
-						$('.loading_cmnt').fadeOut('fast');
-						$('.pstbtn').removeAttr('disabled');
-						//$('.inner_cmtspost').append('Comment posted successfully');
-						
-						}
+							getresult("/includes/ajax/getresult.php",imageid);
+							$('.loading_cmnt').fadeOut('fast');
+							$('.pstbtn').removeAttr('disabled');
+							$(".post_comment_inner").val('');
 					}
 				} // on success callback
 			});
 		}
-	});
 
-$(document).on("click", ".smileys", function(e) { //alert("document smileys");
+});
+
+
+$(document).on("click", ".comment_toggle", function(e) {
+	imageid	=$(this).attr('data');
+    $('#'+imageid+'_comment').toggle();
+	$('#'+imageid+'_commentpost').focus();
+});
+
+$(document).on("click", ".smileys", function(e) {
 var imgthumb = $(this).attr('data');
-document.innercmntform.post_comment_inner.value += imgthumb;
-document.innercmntform.post_comment_inner.focus();
+var imageid = $(this).attr('dataimgid');
+var pagename=$(this).attr('pagename');
+if(pagename=="largeimage"){
+$('#post_comment_inner').focus();
+var textareabox = $('#post_comment_inner');
+textareabox.val(textareabox.val() + imgthumb);
+$('#'+imageid+'_postcommenthomeimgs').show();
+} else {
+$('#'+imageid+'_commentpost').focus();
+var textareabox = $('#'+imageid+'_commentpost');
+textareabox.val(textareabox.val() + imgthumb);
+$('#'+imageid+'_postcommenthomeimgs').show();
+	}
 });
 
 $(document).on("click", ".smileclick", function(e){ //alert("document smileclick");
- $(".smileclick_close").fadeIn();
- $(".smileclick").fadeOut();
- $("#smileys_images").slideToggle(); 
+var imgthumb_id = $(this).attr('data');
+ $('#'+imgthumb_id+'_smileclick_close').show();
+ $('#'+imgthumb_id+'_smileclick').hide();
+ $('#'+imgthumb_id+'_smileys_images').slideToggle(); 
  });
 
 $(document).on("click", ".smileclick_close", function(e) { //alert("document smileclick_close");
- $(".smileclick").fadeIn(1000);
- $(".smileclick_close").fadeOut(1000);
- $("#smileys_images").slideToggle();
+ var imgthumb_num = $(this).attr('data');
+ $('#'+imgthumb_num+'_smileclick').show();
+ $('#'+imgthumb_num+'_smileclick_close').hide();
+ $('#'+imgthumb_num+'_smileys_images').slideToggle();
  });
 
 $(document).on("click", "a.viewMore", function(e) {
@@ -1610,14 +1660,34 @@ $(document).on("click", ".slide_prev", function(e) {
 		direction = $(".slide_prev").attr('data'); //alert("direction="+direction);
 		pagetype=$(".slide_prev").attr('pagetype'); //alert("pagetype="+pagetype);
 		pageurl = $(".slide_prev").attr('data_url'); //alert("pageurl="+pageurl);
+		previmgid=$(".slide_prev").attr('data_previmgid');
+		title = $(".slide_prev").attr('datatitle');
+		imgtitle = $(".slide_prev").attr('datatitle');
 		$('.loading_nextimage').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif'/>").fadeIn('fast');
 		$.ajax({
 			type : 'GET', // or GET
 			url : '/includes/ajax/largeimage_sliderimage.php', // this the page url where ur insert comment script lies
 			data : {id:id,showcasename:showcasename,direction:direction,pagetype:pagetype}, // GET or POST key/value parameters
 			context : document.body,
-			success : function (data) {		
+			success : function (data) {
+					getresult("/includes/ajax/getresult.php",previmgid);
 					window.history.pushState({path:pageurl},'',pageurl);
+
+					
+
+
+
+
+					if(title!=''){
+						if(title.length > 90){
+						$(".titlelink").html(imgtitle.substring(0,100) + '.....');
+						} else {
+						$(".titlelink").html(imgtitle);
+						}
+					//$(".titlelink").html(title);
+					} else {
+					$("title").html("YohYoh-Showcase your talent, products, services, events & share it to millions of people.");
+					}
 					if(pagetype=="largeimagepage")
 						$('#mainimage_viewlarge').html(data);
 					else if(pagetype=="homepopup")
@@ -1636,14 +1706,29 @@ $(document).on("click", ".slide_next", function(e) {
 		direction = $(".slide_next").attr('data');
 		pagetype=$(".slide_next").attr('pagetype');
 		pageurl = $(".slide_next").attr('data_url');
+		nextimgid=$(".slide_next").attr('data_nextimgid');
+		title = $(".slide_next").attr('datatitle');
+		imgtitle = $(".slide_next").attr('datatitle');
 		$('.loading_nextimage').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif'/>").fadeIn('fast');
 		$.ajax({
 			type : 'GET', // or GET
 			url : '/includes/ajax/largeimage_sliderimage.php', // this the page url where ur insert comment script lies
 			data : {id:id,showcasename:showcasename,direction:direction,pagetype:pagetype}, // GET or POST key/value parameters
 			context : document.body,
-			success : function (data) {	
+			success : function (data) { //alert(pageurl);
+			    getresult("/includes/ajax/getresult.php",nextimgid);
 				window.history.pushState({path:pageurl},'',pageurl);
+				if(title!=''){
+						if(title.length > 90){
+						$(".titlelink").html(imgtitle.substring(0,100) + '.....');
+						} else {
+						$(".titlelink").html(imgtitle);
+						}
+						//$("title").html(title);
+					//$(".titlelink").html(title);
+					} else {
+					$("title").html("YohYoh-Showcase your talent, products, services, events & share it to millions of people.");
+					}
 				if(pagetype=="largeimagepage")
 					$('#mainimage_viewlarge').html(data);
 				else if(pagetype=="homepopup")
@@ -1656,10 +1741,14 @@ $(document).on("click", ".slide_next", function(e) {
 		
 		});
 
-	$(document).on("click", ".postcommenthomeimgs",function(e){
+/* Start Homepage and Showcasepage comment function ajax */
+	$(document).on("keypress", ".post_comment_home", function(e){
+	  var key = e.which || e.keyCode; 
+	  if(key == 13){
 		e.preventDefault();
 		imageid	=$(this).attr('data');
 		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
+		pagename=$('#'+imageid+'_commentpost').attr('datacategory');
 		userid	=$('#'+imageid+'_user').val();
 		categoryid	=$('#'+imageid+'_category').val();
 		var sessionemail_id="";
@@ -1685,7 +1774,61 @@ $(document).on("click", ".slide_next", function(e) {
 			$.ajax({
 			type : 'POST', // or GET
 			url : '/includes/ajax/comments.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,imagecomment:addslashes(imagecomment),userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			data : {imageid:imageid,imagecomment:addslashes(imagecomment),pagename:pagename,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			success : function(data) {
+					if(data==0){
+						alert('Comment is not posted');
+						//$('.inner_cmtspost').append('Comment does not posted successfully');
+					}	
+					else{
+						
+					$('#'+imageid+'_commentpost').val('');
+					var record = data.split('|*|');
+					$('#'+imageid+'_commentpanel').html(record[0]);	
+					$('#'+imageid+'_loading_cmnt').hide();
+					//$('#'+imageid+'_loading_cmnt').fadeOut('fast');
+						if(pagename=='categorypage'){
+						  $('#container').masonry('reload');
+						}
+					}
+				} // on success callback
+			});
+			}
+		}	
+	  }
+	});
+
+	$(document).on("click", ".postcommenthomeimgs",function(e){
+		e.preventDefault();
+		imageid	=$(this).attr('data');
+		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
+		pagename=$('#'+imageid+'_commentpost').attr('datacategory');
+		userid	=$('#'+imageid+'_user').val();
+		categoryid	=$('#'+imageid+'_category').val();
+		var sessionemail_id="";
+		if((imagecomment=='') || (imagecomment.length<2)){
+			alert('Comment field can not be left blank!');
+			return false;
+		}
+		else if(imagecomment.length>250){
+			alert('You cannot comment over 250 characters long');
+			return false;
+		}
+		else{
+			if(sessionemail_id==""){
+					document.getElementById("img_commentid").value=imageid;
+					document.getElementById("comment_message").value=imagecomment;
+					 $('html').addClass('overlay');
+       				 var activePopup = '#loginouter-popup';
+       				 $(activePopup).addClass('visible');
+			}
+			else
+			{
+			$('#'+imageid+'_loading_cmnt').html("<img src='/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
+			$.ajax({
+			type : 'POST', // or GET
+			url : '/includes/ajax/comments.php', // this the page url where ur insert comment script lies
+			data : {imageid:imageid,imagecomment:addslashes(imagecomment),pagename:pagename,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
 			success : function(data) {
 					if(data==0){
 						alert('Comment is not posted');
@@ -1695,7 +1838,11 @@ $(document).on("click", ".slide_next", function(e) {
 					$('#'+imageid+'_commentpost').val('');
 					var record = data.split('|*|');
 					$('#'+imageid+'_commentpanel').html(record[0]);	
-					$('#'+imageid+'_loading_cmnt').fadeOut('fast');
+					$('#'+imageid+'_loading_cmnt').hide();
+					//$('#'+imageid+'_loading_cmnt').fadeOut('fast');
+						if(pagename=='categorypage'){
+						  $('#container').masonry('reload');
+						}
 					}
 				} // on success callback
 			});
@@ -1703,7 +1850,7 @@ $(document).on("click", ".slide_next", function(e) {
 		}	
  
 	});
-	
+/* Start Homepage and Showcasepage comment function ajax */	
 	
 	$(document).on("click", ".seemorebutton", function(event){
         event.stopPropagation();
@@ -1714,6 +1861,10 @@ $(document).on("click", ".slide_next", function(e) {
         event.stopPropagation();
          $(".cmnt_followersnotification").toggle("fast");
 		 $(".like_followersnotification").hide();
+		 $(".chat_followersnotification").hide();
+		 $(".categoryslidingDiv").hide();
+		 $(".headermenuslidingDiv").hide();
+		 $(".searchslidingDiv").hide();
 		 rid=$(this).attr('data');
 		 name ='mediaviews';
 		 $.ajax({
@@ -1737,6 +1888,10 @@ $(document).on("click", ".slide_next", function(e) {
         event.stopPropagation();
          $(".like_followersnotification").toggle("fast");
 		 $(".cmnt_followersnotification").hide();
+		 $(".chat_followersnotification").hide();
+		 $(".categoryslidingDiv").hide();
+		 $(".headermenuslidingDiv").hide();
+		 $(".searchslidingDiv").hide();
 		rid	=$(this).attr('data');
 		name ='likescomments';
 		 $.ajax({
@@ -1745,7 +1900,7 @@ $(document).on("click", ".slide_next", function(e) {
 				data: {rid:rid,name:name},
 				cache: false,
 				success: function(data)
-						{
+						{  
 						  $('.likenotificationid').hide(); 
 						  $('.like_followersnotification').html(data); 						  
 						}							   
@@ -1755,6 +1910,69 @@ $(document).on("click", ".slide_next", function(e) {
 	$(document).on("click", ".like_followersnotification", function(event) { //alert("like_followersnotification h1");
         event.stopPropagation();
     });
+	
+	$(document).on("click",".chat_iconnotification, #chatno", function(event){
+		event.stopPropagation();
+         $(".chat_followersnotification").toggle("fast");
+		 $(".cmnt_followersnotification").hide();
+		 $(".like_followersnotification").hide();
+		 $(".categoryslidingDiv").hide();
+		 $(".headermenuslidingDiv").hide();
+		 $(".searchslidingDiv").hide();
+		 rid=$(this).attr('data');
+		 name=$(this).attr('name');
+		 $.ajax({
+				type: "GET",
+				url: "/includes/ajax/notificationalerts.php",
+				data: {rid:rid,name:name},
+				cache: false,
+				success: function(data)
+						{
+						  $('.chat_followersnotification').html(data); 	
+						}
+				});
+		 
+	});
+	
+	$(document).on("click",".chattoggleclose",function(event){
+		$('.chat_followersnotification').hide();
+	});
+	
+	$(document).on("click",".chatmessagestoggleclose",function(event){
+		rid=$(this).attr('data');
+		name="chatcount";
+		$.ajax({
+			type:"GET",
+			url:"/includes/ajax/notificationalerts.php",
+			data: {rid:rid,name:name},
+			cache: false,
+			success: function(data)
+					{ //alert(data);
+					if(data!=0)
+					{
+					  $('#chatno').html(data);
+					}
+					  $('.chat_followersnotification').hide();
+					}
+		});
+		
+	});
+	
+	function getresult(url,imgid){
+	//alert("url="+url); alert("imgid="+imgid);
+	var displayimgid=imgid.replace(/\D/g,'');
+	//alert(displayimgid);
+	$.ajax({
+		url: url,
+		type: "GET",
+		data:  {rowcount:$(".rowcount").val(), imgid:displayimgid},
+		success: function(data){
+		$("#pagination").html(data);
+		},
+		error: function() 
+		{} 	        
+   });
+	}
 <!-- Load Feather code -->
 <!-- Instantiate Feather -->
 
@@ -1795,26 +2013,14 @@ $(document).on("click", ".slide_next", function(e) {
 		
 
 jQuery(document).ready(function ($) {	
-    $('[data-popup-target]').click(function () {
+
+	$('[data-popup-target]').click(function () {
 		$('html').addClass('overlay');
 		$('.loadpop_image').css("display", "block");
 		$('.popup-content').empty();
         var activePopup = $(this).attr('data-popup-target');
-        $(activePopup).addClass('visible');	
+        $(activePopup).addClass('visible');
 
-		$(document).ajaxStop(function() {
-		if (window.addthis) {
-		window.addthis = null;
-		window._adr = null;
-		window._atc = null;
-		window._atd = null;
-		window._ate = null;
-		window._atr = null;
-		window._atw = null;
-		}
-		return $.getScript("http://s7.addthis.com/js/250/addthis_widget.js#pubid=5045e91200e60adf");
-		return $.getScript("http://www.yohyoh.com/includes/yohyoh/scripts/jquery.min.js");
-		}); 
     });
 
 $(document).keyup(function (e) {	
@@ -1822,9 +2028,15 @@ $(document).keyup(function (e) {
             clearPopup();
         }
 });
-$(document).on("click", ".popup-exit", function(e) {	
+$(document).on("click", ".popup-exit", function(e) {
 	var changeurl = this.attributes['data'].value;	
         clearPopup(changeurl);		
+		return false;
+});
+$(document).on("click", ".closebtn", function(e) {
+	var changeurl = this.attributes['data'].value;	
+        clearPopup(changeurl);
+	$("title").html("YohYoh-Showcase your talent, products, services, events & share it to millions of people.");
 		return false;
 });
 $(document).on("click", ".popup-overlay", function(e){
@@ -1832,11 +2044,15 @@ $(document).on("click", ".popup-overlay", function(e){
 });
 
 
-$(document).on("click", ".login, .loginuser", function(e){ //alert("34535 document");
+$(document).on("click", ".login, .loginuser", function(e){
 					 imageid = $(this).attr('data');
 					 document.getElementById("img_likeid").value=imageid;					 
 					 });
 
+$(document).on("click", ".followlogin", function(e){
+					 followingrid = $(this).attr('receiver');
+					 document.getElementById("follow_userid").value=followingrid;					 
+					 });
 
 $(document).on("click", ".close_loginbox", function(e){
 	$('.login_box').hide();
@@ -1847,7 +2063,6 @@ $(document).on("click", ".close_loginbox", function(e){
 $(document).on("click", ".popup-body", function(e){
 	$(".fulltitle_see").hide();
   });
-
 
 });
 
@@ -2186,43 +2401,8 @@ $(document).ready(function() {
 
 });
 </script>
-
-<!-- -------------------- ----------------------------------------------
-Pagination for premium users related images script & style start
------------------------ -------------------------------------------------------->
-        <script type="text/javascript">
-            $(document).ready(function(){
-                function loading_show(){
-                    $('#loading').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif' alt='YohYoh' />").fadeIn('fast');
-                }
-                function loading_hide(){
-                    $('#loading').fadeOut('fast');
-                }                
-                function loadData(page){
-                    loading_show();                    
-                    $.ajax
-                    ({
-                        type: "POST",
-                         url: "http://www.yohyoh.com/site/relatedload_images.php?cat=privacy-policy&relbg=&url1=privacy-policy",
-                        data: "page="+page,
-                        success: function(msg)
-                        {
-                               loading_hide();
-                                $("#relatedpaginationdemojj").html(msg);
-                        }
-                    });
-                }
-                loadData(1);  // For first time page load default results
-                $('#relatedpaginationdemojj .pagination li.active').live('click',function(){
-                    var page = $(this).attr('p');
-                    loadData(page);
-                    
-                });         
-                
-            });
-</script>
 <script type="text/javascript">
-$(document).on("click", ".follow, .followhome", function(e){ 
+$(document).on("click", ".followhome", function(e){
   var receiver_user_id =$(this).attr('receiver'); //alert("receiver_user_id="+receiver_user_id);
   var action =$(this).attr('action');
   var follow =$(this);
@@ -2247,15 +2427,41 @@ $(document).on("click", ".follow, .followhome", function(e){
     } // on success callback
    });
  });
+$(document).on("click", ".follow", function(e){
+  var receiver_user_id =$(this).attr('receiver'); //alert("receiver_user_id="+receiver_user_id);
+  var action =$(this).attr('action');
+  var follow =$(this);
+  $('#'+receiver_user_id+'_loading_flw').html("<img src='http://www.yohyoh.com/includes/yohyoh/styles/images/loading_flow.gif' style='height: 18px; margin-top:2.5%; width:18px;' alt='YohYoh' />").fadeIn('fast');
+  $('.follow, .followhome').off('click');
+  $.ajax({
+   type : 'POST', // or GET
+   url : '/includes/ajax/profiles/follow.php', // this the page url where ur insert comment script lies
+   data : {action:action,receiver_user_id:receiver_user_id}, // GET or POST key/value parameters
+   success : function (data) {
+	   //alert(data);
+	 if(data=='follow'){
+      follow.html('Unfollow');
+      follow.attr('action','unfollow');
+     }else if(data=='unfollow'){
+      follow.html('Follow');
+      follow.attr('action','follow');
+     }
+	 $('#'+receiver_user_id+'_loading_flw').html("");
+	
+
+    } // on success callback
+   });
+ });
 
 </script>
 <script>
-$(document).ready(function(){
+/*$(document).ready(function(){
   $(".comment_toggle").click(function(){
 	imageid	=$(this).attr('data');	
     $('#'+imageid+'_comment').toggle();
+	$('#'+imageid+'_commentpost').focus();
   });
-});
+});*/
 </script><br>   
   <footer> 
     	<section>
@@ -2284,7 +2490,14 @@ $(document).ready(function(){
             	<li><a alt="Waterfalls" title="Waterfalls" href="/waterfalls">Waterfalls</a></li>
 				<li><a alt="Web Design" title="Web Design" href="/web-design">Web Design</a></li>
 					
-            </ul>			  
+            </ul> <br> 	
+			 <ul>
+					<li><a alt="Food" title="Food" href="/food">Food</a></li>
+					<li><a alt="Fruits And Vegetables" title="Fruits And Vegetables" href="/fruits-and-vegetables">Fruits And Vegetables</a></li>
+					<li><a alt="Fun" title="Fun" href="/fun">Fun</a></li>
+					<li><a alt="Funny" title="Funny" href="/funny">Funny</a></li>
+					
+            </ul>
         </section>
         <section>
         	<ul>
@@ -2315,6 +2528,14 @@ $(document).ready(function(){
 					<li><a alt="Toy Design" title="Toy Design" href="/toy-design">Toy Design</a></li>
 										
             </ul>
+			<br>
+			<ul>
+            	<li><a alt="Fashion And Life Style" title="Fashion And Life Style" href="/fashion-and-life-style">Fashion And Life Style</a></li>
+				<li><a alt="Fitness And Excercises" title="Fitness And Excercises" href="/fitness-and-excercises">Fitness And Excercises</a></li>
+					<li><a alt="Flights" title="Flights" href="/flights">Flights</a></li>
+					<li><a alt="Flower" title="Flower" href="/flower">Flower</a></li>
+					
+            </ul> 
         </section>
 		        <section>
         	<ul>
@@ -2442,43 +2663,27 @@ $(document).ready(function(){
 					<li><a alt="Print Design" title="Print Design" href="/print-design">Print Design</a></li>
 					<li><a alt="Product Pesign" title="Product Design" href="/product-design">Product Design</a></li>
 										
-            </ul>
+            </ul> <br>
 
-        </section>
-				   
-		<section>
-		      <ul>
+			<ul>
             		<li><a alt="Cinematography" title="Cinematography" href="/cinematography">Cinematography</a></li>
 					<li><a alt="Computer Animation" title="Computer Animation" href="/computer-animation">Computer Animation</a></li>
 					<li><a alt="Crafts" title="Crafts" href="/crafts">Crafts</a></li>
 					<li><a alt="Deal" title="Deal" href="/deal">Deal</a></li>
 					
-            </ul> <br>
-		     <ul>
-					<li><a alt="Food" title="Food" href="/food">Food</a></li>
-					<li><a alt="Fruits And Vegetables" title="Fruits And Vegetables" href="/fruits-and-vegetables">Fruits And Vegetables</a></li>
-					<li><a alt="Fun" title="Fun" href="/fun">Fun</a></li>
-					<li><a alt="Funny" title="Funny" href="/funny">Funny</a></li>
-					
-            </ul><br>
-        	<ul>
-            	<li><a alt="Fashion And Life Style" title="Fashion And Life Style" href="/fashion-and-life-style">Fashion And Life Style</a></li>
-				<li><a alt="Fitness And Excercises" title="Fitness And Excercises" href="/fitness-and-excercises">Fitness And Excercises</a></li>
-					<li><a alt="Flights" title="Flights" href="/flights">Flights</a></li>
-					<li><a alt="Flower" title="Flower" href="/flower">Flower</a></li>
-					
-            </ul> 
+            </ul>
 
-		</section>	 
-
-
+        </section>
+		
+		
+		
         <div class="clear"></div>
         <div class="bordF">
         	 <div class="Smedia">
             	<ul>
                 	<li>Follow Us On :</li>
-                    <li><a href="http://www.facebook.com/yohyohfun"><img src="/includes/yohyoh/styles/images/fb.png" alt=""></a></li>
-                    <li><a href="https://twitter.com/yohyohfun"><img src="/includes/yohyoh/styles/images/twitter.png" alt=""></a></li>
+                    <li><a href="http://www.facebook.com/yohyohfun" class="yohyohfun_fb"><img src="/includes/yohyoh/styles/images/fb.png" alt="yohyohfun" width="30px" height="30px"></a></li>
+                    <li><a href="https://twitter.com/yohyohfun" class="yohyohfun_twitter"><img src="/includes/yohyoh/styles/images/twitter.png" alt="yohyohfun"></a></li>
                     <!-- <li><a href="#"><img src="/includes/yohyoh/styles/images/youtube.png" alt=""></a></li> -->
                     <li class="clear">&nbsp;</li>
                 </ul>
@@ -2494,21 +2699,6 @@ $(document).ready(function(){
 
 
 
-<!-- Google Analytics -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26713428-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 
 
 <!-- Start of StatCounter Code for Default Guide -->
@@ -2525,4 +2715,4 @@ src="http://c.statcounter.com/7233632/0/ac1ac433/1/"
 alt="drupal analytics" /></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-</header><div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 7px; z-index: auto; cursor: default; position: absolute; top: 0px; left: 1359px; height: 255px; touch-action: none; display: none;"><div class="nicescroll-cursors" style="position: relative; top: 0px; float: right; width: 5px; height: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px; touch-action: none;"></div></div><div id="ascrail2000-hr" class="nicescroll-rails nicescroll-rails-hr" style="height: 7px; z-index: auto; top: 248px; left: 0px; position: absolute; cursor: default; display: none;"><div class="nicescroll-cursors" style="position: absolute; top: 0px; height: 5px; width: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div></div></body></html>
+</header><div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 7px; z-index: auto; cursor: default; position: absolute; top: 215.594px; left: 1359px; height: 1808px; touch-action: none; display: none;"><div class="nicescroll-cursors" style="position: relative; top: 0px; float: right; width: 5px; height: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px; touch-action: none;"></div></div><div id="ascrail2000-hr" class="nicescroll-rails nicescroll-rails-hr" style="height: 7px; z-index: auto; top: 2016.59px; left: 0px; position: absolute; cursor: default; display: none;"><div class="nicescroll-cursors" style="position: absolute; top: 0px; height: 5px; width: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div></div></body></html>
