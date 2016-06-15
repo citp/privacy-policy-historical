@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gypsynester.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014303id_/http%3A//www.gypsynester.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gypsynester.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615190237id_/http%3A//www.gypsynester.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy | GypsyNester | Celebrating Life After Kids ™
 
