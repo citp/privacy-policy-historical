@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batln.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080425id_/http%3A//www.batln.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batln.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615085159id_/http%3A//www.batln.com/privacy-policy) for the most accurate reproduction.*
 
 # Batln.com - Unleash Your Dork Side
 
@@ -17,6 +17,10 @@ Furthermore:
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 
+
+**Third Party Advertising**
+
+If a user wishes to know more about this practice or would like to know more about his/her options, the user can visit the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/). The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement. We are in no way responsible for notifying users when such changes occur.
 
