@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215024103id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615163448id_/http%3A//www.subhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SubHub - Membership Sites Made Easy
+# Privacy Policy - Membership Websites
 
 END USER PRIVACY AND COOKIE POLICY  
 Welcome to our Privacy Policy.
