@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112021839id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615041732id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Fish and Wildlife Service
 
@@ -38,7 +38,7 @@ When you visit some Web sites, their web servers generate pieces of information 
 Per-session cookies serve technical purposes like providing seamless navigation through www.fws.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. www.fws.gov cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.
 
 **_For Kids!_**  
-Please don't send us e-mail ** _, Especially if you are under 13 years old_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](http://www.fws.gov/duspit/contactus.htm)** if you need further assistance. 
+Please don't send us e-mail ** _, Especially if you are under 13 years old_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](https://www.fws.gov/duspit/contactus.htm)** if you need further assistance. 
 
 For more information: See the[ Federal Trade Commission's Children's Privacy statement](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html "Link to non-FWS site").
 
@@ -80,10 +80,10 @@ We will identify material we use from sources outside the Service, and request o
 
 The Service logo is our official "trademark." Its use is reserved for official publications or other products of the U.S. Fish and Wildlife Service. Use of the Service logo without prior written approval is prohibited. Restrictions on use of the Service logo were published in the Federal Register on February 13, 1984 (Vol. 49, No. 30, page 5387), and [18 USC 701](http://www.law.cornell.edu/uscode/18/701.shtml "Link to non-FWS site") provides for enforcement.
 
-Please use [alternative images if you need a graphic](http://www.fws.gov/help/altlogo.html). 
+Please use [alternative images if you need a graphic](https://www.fws.gov/help/altlogo.html). 
 
 There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications such as Web sites. Contact [Mark Newcastle](mailto:Mark_Newcastle@fws.gov) in the External Affairs office at (703) 358-2196 for assistance. 
 
-The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://www.fws.gov/duckstamps) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://wsfrprograms.fws.gov/Subpages/ToolkitFiles/fasymb.pdf) [PDF], and the "[blue goose](http://www.fws.gov/midwest/ottawa/Images/bluegoose.gif)" image used to identify wildlife refuges. 
+The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](https://www.fws.gov/duckstamps) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://wsfrprograms.fws.gov/Subpages/ToolkitFiles/fasymb.pdf) [PDF], and the "[blue goose](https://www.fws.gov/midwest/ottawa/Images/bluegoose.gif)" image used to identify wildlife refuges. 
 
-Comments? Questions? Please check our answers to [Frequently Asked Questions](http://www.fws.gov/faq) (FAQ's) before you [contact us](http://www.fws.gov/duspit/contactus.htm) . 
+Comments? Questions? Please check our answers to [Frequently Asked Questions](https://www.fws.gov/faq) (FAQ's) before you [contact us](https://www.fws.gov/duspit/contactus.htm) . 
