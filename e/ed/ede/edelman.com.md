@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edelman.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207140920id_/http%3A//www.edelman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelman.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615075250id_/http%3A//www.edelman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Edelman
 
@@ -31,9 +31,9 @@ If you wish, you may set your browser to refuse cookies. However, by refusing to
 
 **_The Way We Use Information_**
 
-We store the information you provide in a secure database in order to provide you with the information, products, and/or services you request and may be used to provide you with additional information about our services we believe may be of interest to you. The information is stored for the lifetime of the database unless you request that it be removed. The information you provide us will be shared with Edelman employees and service providers to the extent necessary administrate our systems and accommodate your request.
+We store the information you provide in a secure database in order to provide you with the information, products, and/or services you request and may be used to provide you with additional information about our services we believe may be of interest to you. The information is stored for the lifetime of the database unless you request that it be removed. The information you provide us will be shared with Edelman employees and service providers to the extent necessary to administrate our systems and/or accommodate your request.
 
-For example, if you provide your name, mailing address, telephone and email address and request more information about Edelman services, this information will be shared with appropriate Edelman personnel to fulfill your request. This information will not be shared with non-affiliated third parties without your consent.
+For example, if you provide your name, mailing address, telephone and/or email address and request more information about Edelman services, this information will be shared with appropriate Edelman personnel to fulfill your request. This information will not be shared with non-affiliated third parties without your consent.
 
 We use non-identifying and aggregate information about the use of the Site to improve the navigation, content, and design of the Site. This information may include, for example, the most and least requested pages, analyzing traffic regarding specific features, and the number of users from the U.S. and other countries, among other things.
 
@@ -41,11 +41,11 @@ Edelman will not sell or distribute personally identifiable information collecte
 
 **_Promotions_**
 
-We may operate contests, sweepstakes or other promotions through the Site, which may require registration in order to enter. Your personally identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing lists as well as those of our promotional partners or clients associated with the contest or sweepstakes.  Acceptance of a prize may require you (unless prohibited by law)  to allow us to post publicly some of your information on the Site, such as in social media.   on a winner’s page, in the event you win a contest or sweepstakes.
+We may operate contests, sweepstakes or other promotions through the Site, which may require registration in order to enter. Your personally identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing lists as well as those of our promotional partners or clients associated with the contest or sweepstakes.  Acceptance of a prize may require you (unless prohibited by law)  to allow us to post publicly some of your information on the Site, such as in social media or   on a winner’s page, in the event you win a contest or sweepstakes.
 
 **_Surveys or Voting_**
 
-From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information.  At times, you may have to register to vote or to take part in a survey.
 
 **_Exceptions_**
 
@@ -73,7 +73,7 @@ Our Site contains links to other websites. Edelman is not responsible for any w
 
 **_International Users_**
 
-The Site is hosted from the United States.  Users located outside of the United States consent to the transfer of their data to the United States for processing and use in accordance with this privacy policy.
+Information provided through this Site may be uploaded to a cloud and transferred to or accessed globally.   By providing information to this Site, you consent to the transfer, processing and/or use of the information globally throughout Edelman.    Wherever the information is transferred or accessed within Edelman it will be processed and used in accordance with this privacy policy.
 
 **_Notification Of Changes_**
 
@@ -95,4 +95,6 @@ The Edelman jobs and internships website can be linked to from this Site.  A se
 
 If you ever have any questions about this Privacy Policy, please contact us at [feedback@edelman.com](mailto:feedback@edelman.com).
 
-This privacy policy was last updated on May 21, 2015.
+This privacy policy was last updated on March 1, 2016
+
+© 2016 Daniel J. Edelman, Holdings Inc. All rights reserved.
