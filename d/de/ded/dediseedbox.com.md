@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dediseedbox.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019185512id_/https%3A//dediseedbox.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dediseedbox.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615190934id_/https%3A//dediseedbox.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
