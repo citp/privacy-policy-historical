@@ -1,50 +1,65 @@
-> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215040331id_/http%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615134635id_/http%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Investment Banking Tutorials |WallStreetMojo
+# Privacy Policy | Wallstreetmojo.com
 
-The following Privacy Policy governs the online information collection practices of WallstreetMojo.com ”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the WallstreetMojo.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+Thank you for visiting Wallstreetmojo.com (hereby referred to “we” or “us”). Wallstreetmojo.com is a personal blog operated by Dheeraj Vaidya. This section details the privacy policy that governs the online information collection practice of wallstreetmojo.com. We believe that Privacy policy should be easily assesible to all and hence, we are making it available on our home page and all places where personal idenfiable information is collected.
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+We are committed to developing technology that protects your privacy and makes your online experience secure.
 
-WallstreetMojo.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
+All billing information is encrypted whenever transmitted or received online. Personal information is made available only to the staff or contractors of providers.
 
-How we gather information from users
+## **What we collect?**
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in surveys, sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, WallstreetMojo.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+Since, wallstreetmojo is a blog, we do not require any credit card or any such information. The only information at best we collect from you is a) Name b) Email Id.
 
-Google Analytics Tracking
+When you browse the website (blog), you do this anonymously. We may use cookies to identify what part of the website you visited and how long you may have stayed at this website. Please visit “Use of cookie” below for further details.
 
-We’ve implemented a tracking code in order to collect demographic information in Google Anayltics. You can opt-out of this program anytime by adjusting yourAds Settings. You may also wish to review other available opt-outs.
+## **How we use it?**
 
-What we do with the information we collect
+  * We do not require your personal information to be provided more than once, such that your website experience is easier.
+  * Deliver services, excel models, templates or purchases
+  * It helps us publish content that is most relevant for the user.
+  * Information on any product upgrades, special offers etc.
+  * Request assistance or support requests
+  * Answer career related individual queries.
+  * 
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+## **Who we share it with?**
 
-We may use Personally Identifiable Information collected on WallstreetMojo.comm to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by WallstreetMojo.com and other topics we think you might find of interest.
+We will never sell, barter, or rent your email address to any unauthorized third party. We may disclose your email as required by law or regulation or in good faith to a) comply with the legal process b) to protect the rights and property of provider c) fraudulent activity that governmental agency should be aware of d) where communication suggests harm.
 
-Personally Identifiable Information collected by WallstreetMojo.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We will not share your information with any third party without your permission, other than the scope of privacy policy mentioned herewith.
 
-Affiliated sites, linked sites and advertisements
+## Google Analytics Tracking
 
-WallstreetMojo.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on WallstreetMojo.com pages, certain content that is actually created or hosted by a third party. Also, through WallstreetMojo.com you may be introduced to, or be able to access, information, surveys, Web sites, features, contests or sweepstakes offered by other parties WallstreetMojo.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+We’ve implemented a tracking code in order to collect site usage, demographic information in Google Anayltics. You can opt-out of this program anytime by adjusting your Ads Settings. You may also wish to review other available opt-outs.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. WallstreetMojo.com does not control the use of this technology by third parties or the resulting information, and are not responsible for any actions or policies of such third parties.
+## Use of Cookie
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WallstreetMojo.com and this policy.
+We do not track personal identifiable information. Information such as the number of hits, time spent on the website in a non-identifiable way may be generated. Information generated is used only for internal purposes. The data points generated does not contain any personal information.
 
-Children’s Privacy Statement
+For personalize and provide best user experience, we may use cookies. A cookie is nothing but a text file that is placed on your hard disk by a Web page server. Cookies is not used to deliver virus or run a program in your computer. You can accept or decline cookies.  Most modern browsers accept cookies, but cookie settings can be changed to decline if you prefer.
 
-This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+## Links
 
-This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.  
-Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.  
-We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.  
-Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.  
-We can be reached by contacting:  
-Email: dheeraj –at– WallstreetMojo (dot) com
+This website contains links to other websites. The other websites are linked for providing best information and resources to the blog users. However, please note that we are not responsible for the content or privacy of other websites. Please be aware that you read the privacy statement of the website that collect your personal information.
 
-Changes to this Policy
+## Changes to this Policy
 
-WallstreetMojo.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+WallstreetMojo.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes.
+
+## Problems or complaints with Privacy Policy
+
+If you have any comments or issues related to our privacy policy, please do reach out to us at [contact us](http://www.wallstreetmojo.com/contact/).
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
+
+
+
+#### Dheeraj Vaidya
+
+worked as JPMorgan Equity Analyst, ex-CLSA India Analyst ; edu qualification - cleared all 3 CFA exams, FRM Charterholder, IIT Delhi, IIML; This is my personal blog that aims to help students and professionals become awesome in Financial Analysis. Here, I share secrets about the best ways to analyze Stocks, buzzing IPOs, M&As, Private Equity, Startups, Valuations and Entrepreneurship.
