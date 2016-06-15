@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101153659id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615062453id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
 
-# BatteryMart.com Privacy Statement - BatteryMart.com
+# BatteryMart.com Privacy Statement: BatteryMart.com
 
 Battery Mart has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for BatteryMart.com.
 
@@ -31,7 +31,7 @@ Important information communicated through e-mail may be affected by any e-mail 
 BatteryMart.com uses your e-mail address to:
 
   * Confirm your online order.
-  * Forward UPS tracking information.
+  * Forward order tracking information.
   * Notify you of any delays or problems with shipping your order.
   * Notify you of any billing issues with processing your order.
   * Respond to inquiries.
@@ -58,7 +58,7 @@ Third parties that support BatteryMart.com by serving advertisements or content,
 
 ## Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or ordering with this Web site, you can [contact us](https://web.archive.org/c-contact-us.html).
+If you have any questions about this privacy statement, the practices of this site, or ordering with this Web site, you can [contact us](http://www.batterymart.com/c-contact-us.html).
 
   
 
