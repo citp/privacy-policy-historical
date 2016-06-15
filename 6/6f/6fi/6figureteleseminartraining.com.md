@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 6figureteleseminartraining.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610070634id_/http%3A//www.theinvisibleclose.com/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6figureteleseminartraining.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615200939id_/http%3A//www.theinvisibleclose.com/articles/privacy) for the most accurate reproduction.*
 
 # Privacy | The Invisible Close | Sales Nuggets
-
-## Privacy
 
 For each visit to our Web site, our Web server automatically recognizes only the visitor’s IP address, but not the e-mail address, unless the visitor volunteers their e-mail address to us by filling out a Web form.
 
