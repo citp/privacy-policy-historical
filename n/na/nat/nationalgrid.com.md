@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgrid.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213085353id_/http%3A//www2.nationalgrid.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgrid.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615084202id_/http%3A//www2.nationalgrid.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | National Grid
 
