@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231015654id_/https%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615031648id_/https%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Khan Academy
 
 [ ](http://studentprivacypledge.org/?page_id=45)
 
-#### Last Updated: June 10, 2015
+#### Last Updated: May 10, 2016
 
 _Our mission at Khan Academy is to provide a free, world-class education for anyone, anywhere._
 
@@ -80,6 +80,8 @@ Khan Academy uses all of the information that you provide or that we collect fro
 
 Khan Academy will not share Personal Information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in. You can grant us permission to share your Personal Information with authorized partners, not-for-profit organizations, and other entities that are not affiliated with Khan Academy. In these cases, we will only provide to these third parties the information you have authorized or asked us to share to these third parties. 
 
+If you participate in special programs, Khan Academy may collect personal information from you to facilitate those programs. For example, LearnStorm participants may be asked to provide information related to event logistics and prize awarding and processing (e.g., contact information, dietary restrictions, shirt sizes, etc.), and College Board program participants may provide information regarding study habits and test scores (e.g., the number of hours studied, modules or tests taken, scores earned, etc.). This information may be shared with our program partners for research or evaluation purposes or as otherwise permitted under this Privacy Notice. 
+
 Khan Academy may send information or offers to you on behalf of these third parties. For example, if we partner with a not-for-profit organization running a contest in your region and send you an email notifying you of the partnership, we will only share your information with the third party if you opt-in to participate in the contest, and if so, the information we would share would be limited to that needed to facilitate your participation in the contest and enable you to redeem your prize. 
 
 * * *
@@ -115,6 +117,10 @@ Some of our Users choose to connect their Khan Academy account with social netwo
 #####  We may share data with third-party applications that you authorize. 
 
 Third-party application developers and service providers (commonly known as “App Developers“) may build complementary services for our platform, such as a mobile application for visually-impaired learners to access our resources. You may request we share your information with App Developers by connecting to the application or service and approving access to your Khan Academy account. Khan Academy has taken steps to try to ensure the safety of information accessed by App Developers and requires App Developers to comply with our [API Terms of Service](https://web.archive.org/about/api-tos) and this Privacy Notice. 
+
+#####  We may share data in connection with special programs you participate in. 
+
+If you participate in special programs where Khan Academy partners with third parties, Khan Academy may share data collected from or about you with its third party partners to facilitate the program or services being offered. For instance, if you participate in Khan Academy’s program with College Board, Khan Academy may share information regarding your study habits, tests taken, and test scores with College Board. 
 
 #####  We may share anonymous or aggregate data to improve our services and learn more about our Users. 
 
@@ -184,7 +190,7 @@ Some other features of our Properties may, however, permit a Child User to enter
 
 As a Parent, you can choose to share information about your child as you deem appropriate. Khan Academy won’t share Personal Information about your child or his/her progress with anyone other than you, your child and any permitted Coaches, unless we receive your permission (or as otherwise noted in this Privacy Notice). 
 
-As a Parent, you have the ability to control information about your Child User. To review, update, or delete information collected from your Child User, you can do so in the “Your Children” section within your account. To refuse future collection or use of your child’s Personal Information, you can delete your Child User’s account or contact us at [privacy@khanacademy.org](mailto:privacy@khanacademy.org). To find out more about how Khan Academy protects Child Users, please click [here](https://www.khanacademy.org/coach-res/parents-and-tutors/student-privacy-for-parent/a/how-does-khan-academy-protect-students-under-age-13). 
+As a Parent, you have the ability to control information about your Child User. To review, update, or delete information collected from your Child User, you can do so in the “Your Children” section within your account. To refuse future collection or use of your child’s Personal Information, you can delete your Child User’s account or contact us at [privacy@khanacademy.org](mailto:privacy@khanacademy.org). To find out more about how Khan Academy protects Child Users, please click [here](https://www.khanacademy.org/educator/parents-and-tutors/student-privacy-for-parent/a/how-does-khan-academy-protect-students-under-age-13). 
 
 #####  California Children’s Privacy Rights 
 
