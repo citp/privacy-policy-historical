@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619005505id_/http%3A//www.thorntons.co.uk/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616001650id_/http%3A//www.thorntons.co.uk/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -80,7 +80,7 @@ You can always ask us what information we hold about you. Please contact us on 4
 
 We want you to be comfortable with How, When and Why we contact you. It’s simple to choose. How would you like to tell us your preferences?
 
-Online: simply log in and click on 'Account' to change your 'Opt-In' status.  
+Online: simply visit [www.thorntons.co.uk/unsubscribe](http://www.thorntons.co.uk/unsubscribe) and enter your email address.  
 By post: write to us at the address found here [clicking here](http://www.thorntons.co.uk/contact/Thorntons/).  
 By Phone: call us on the number listed here, [clicking here](http://www.thorntons.co.uk/contact/Thorntons/).
 
@@ -116,7 +116,7 @@ In order to develop our business we use some of the collected data including rec
 
 ###  **Opting-in to emails**
 
-To process your order on the Thorntons.co.uk site, we gather electronic mail information from you which we will use to send marketing communications from Thorntons (for example, text messages, emails and catalogues). Should you wish to opt-out at any time, simply call 0845 121 1911 or log in and click on 'Account' to change your 'opt-in' status and we will update your account. (P.S. If you’ve decided to leave us, we’re really sorry and would love to know why, so we’d be very grateful if you can spend 30 seconds telling us why on the ‘opt-out’ form)
+To process your order on the Thorntons.co.uk site, we gather electronic mail information from you which we will use to send marketing communications from Thorntons (for example, text messages, emails and catalogues). Should you wish to opt-out at any time, simply call 0845 121 1911 or visit [www.thorntons.co.uk/unsubscribe](http://www.thorntons.co.uk/unsubscribe).
 
 ###  **Does Thorntons ensure the privacy practices of other sites to which it provides links?**
 
