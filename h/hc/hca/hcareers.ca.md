@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcareers.ca privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209155906id_/http%3A//www.hcareers.ca/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcareers.ca privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615182911id_/http%3A//www.hcareers.ca/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Hcareers
 
@@ -65,4 +65,4 @@ This privacy policy will be governed by the laws of the Province of British Colu
 
 If any provision of this privacy policy is held to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this privacy policy will otherwise remaining full force and effect and enforceable.
 
-Source: [Privacy Policy](http://www.hcareers.com/us/abouthospitalityjobs/privacy.aspx)
+Source: [Privacy Policy](https://www.hcareers.com/us/abouthospitalityjobs/privacy.aspx)
