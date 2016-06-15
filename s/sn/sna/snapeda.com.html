@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snapeda.com privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215214727id_/http%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapeda.com privacy policy that was archived on 2016-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615223819id_/https%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -27,8 +27,8 @@
 .social-twitter a{
     background-image: url(https://snapeda-static.s3.amazonaws.com/images/icons/twitter.199fdd7b93a0.png);
 }
-</style>     
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+</style>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 
 
     <title>
@@ -38,16 +38,32 @@
         
     </title>
 
-    <link href="https://snapeda-static.s3.amazonaws.com/styles/core.min.83a9b7f7b488.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css">
+    <link href="https://snapeda-static.s3.amazonaws.com/styles/core.min.199382a095de.css" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css">
     
     <!-- EXTRA_HEAD -->
     
         
-<style>
-#body{
-margin: 15px;
-}
+<style type="text/css" media="screen">
+    #body{
+        max-width: 700px;
+        padding: 16px;
+        margin: 16px auto;
+        font-size: 16px;
+        font-family: 'Open Sans';
+        font-weight: 300;
+        line-height: 1.3em;
+    }
+    #privacy-title{
+	    text-align: center;
+    	margin: 40px;
+    }
+
+    #body li, p{
+    	font-weight: 300;
+    	font-size: 16px;
+        line-height: 1.3em;
+    }
 </style>
 
     
@@ -79,6 +95,8 @@ margin: 15px;
             <a id="nav-logo-link" href="/">
                 <img src="https://snapeda-static.s3.amazonaws.com/images/logo_small_55.7ee9c73a0d4f.png" width="125" alt="" title="SnapEDA">
             </a>
+            
+
             
             <div class="nav-collapse">
 
@@ -125,7 +143,7 @@ margin: 15px;
                     </li>
                 </ul>
                 <form id="navbar-search-form" action="/search/?q=" method="GET">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="Qe538aR9yrNhyu5c04uc3hwkZ1Iq3S1A"></div>
+                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="qFa2yJ0NPByX37dNbeq9wJSDTaQQqqzQ"></div>
                     <div id="navbar-search" class="search-wrapper searchbox-big">
 
                         <input id="navbar-serch-query" type="text" name="q" class="search-query search-input" placeholder="Search Parts" required="">
@@ -158,7 +176,7 @@ margin: 15px;
 	                </div>
 	
 	                
-<h1>
+<h1 id="privacy-title" class="sub-heading clr-blue">
 	Privacy Policy
 </h1>
 
@@ -216,6 +234,7 @@ margin: 15px;
                     <li><a href="/about/team/#contact_us">Contact</a></li>
                     <li><a href="/about/FAQ/#faq">FAQ</a></li>
                     <li><a href="/pricing/">Pricing</a></li>
+                    <li><a href="/jobs/">Jobs</a></li>
                 </ul>
             </div>
             <div class="footer-column">
@@ -283,9 +302,33 @@ margin: 15px;
 
         ga('create', 'UA-36753380-1', 'auto');
         ga('send', 'pageview');
-    </script>
     
-    <script type="text/javascript" src="https://snapeda-static.s3.amazonaws.com/scripts/core.min.09bd20e1abb2.js" charset="utf-8"></script>
+ 
+        $(function() {
+          $(".try-premium-button").on("click", function(){
+                        
+              name = $(this).attr('data-button-name');
+              version = $(this).attr('data-version');
+              
+              var properties = {
+                  'Type': name,
+                  'A/B Version' : version,
+                  'User': ''
+              }
+
+              mixpanel.track('Upgrade', properties);
+
+          });
+        });
+
+    </script>
+
+
+    
+       
+
+
+    <script type="text/javascript" src="https://snapeda-static.s3.amazonaws.com/scripts/core.min.6b677acb2452.js" charset="utf-8"></script>
     <script async="" type="text/javascript" src="https://snapeda-static.s3.amazonaws.com/analytics.min.da427eb8a215.js" charset="utf-8"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     
@@ -325,10 +368,16 @@ $("#navbar-search input[type='text']").bind("change paste keyup", function() {
 
 </script>
 <script>
+    var stop_mixpanel_logging = 10;
     var mixpanelWait = setInterval(function() {
       if (mixpanel) {
         mixpanel.track_forms("#navbar-search-form", "Navbar Search", search_form_data);
         clearInterval(mixpanelWait);
+      }else{
+        stop_mixpanel_logging = stop_mixpanel_logging - 1;
+        if(stop_mixpanel_logging < 0){
+            clearInterval(mixpanelWait);
+        }
       }
     }, 100);
 
