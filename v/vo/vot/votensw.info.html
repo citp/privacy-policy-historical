@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the votensw.info privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209053854id_/http%3A//www.elections.nsw.gov.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the votensw.info privacy policy that was archived on 2016-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615201248id_/http%3A//www.elections.nsw.gov.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <link rel="icon" href="http://www.elections.nsw.gov.au/__data/assets/file/0019/94150/favicon.ico" type="image/x-icon">
@@ -12,12 +12,12 @@
         
 						
 						
-									<link rel="stylesheet" type="text/css" href="http://www.elections.nsw.gov.au/__data/assets/file/0011/68753/screen.css" media="screen">
+									<link rel="stylesheet" type="text/css" href="http://www.elections.nsw.gov.au/_designs/css/screen.css" media="screen">
 											
         
 						
 						
-									<link rel="stylesheet" type="text/css" href="http://www.elections.nsw.gov.au/__data/assets/file/0016/205108/efa.css?v=0.2.6" media="screen">
+									<link rel="stylesheet" type="text/css" href="http://www.elections.nsw.gov.au/_designs/css/efa_v1.css" media="screen">
 											
     <!--<![endif]-->
     <!--[if IE 7]>
@@ -35,188 +35,15 @@
 											
     <![endif]-->
     
+												
+						<link rel="stylesheet" href="http://www.elections.nsw.gov.au/state_elections/_designs/css/colorbox.css" media="screen"><!-- colorbox css --> 
+<link rel="stylesheet" href="http://www.elections.nsw.gov.au/_designs/home_page/jquery-ui.css" media="screen"><!-- jquery-ui.css dialog styles -->						
+
+    
 						
 						
-									<link rel="stylesheet" type="text/css" href="http://www.elections.nsw.gov.au/__data/assets/file/0008/68759/print.css" media="print">
+									<link rel="stylesheet" type="text/css" href="http://www.elections.nsw.gov.au/_designs/css/print.css" media="print">
 											
-
-    <!-- JS -->
-      
-												
-						<!-- Global JS -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=9"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/file/0009/68832/jquery-1.4.2.min.js"></script><!-- jquery-1.4.2.min.js -->
-<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/file/0010/68833/jquery.printPreview.min.js"></script><!-- jquery.printPreview.min.js -->
-<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0010/184249/site-tools.js"></script><!-- site-tools.js -->
-<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0020/190181/nswec-ga-custom-events.js"></script><!-- nswec-ga-custom-events.js -->
-						
-
-    <!-- Site Tools JS -->
-    
-												
-												
-
-    <!-- Common JS -->
-    <!-- <script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/text_file/0007/93328/common.js"></script> -->
-
-    <!-- Global nested JS -->
-    
-												
-						<script>
-$(document).ready(function($) {
-       $('#accordion p').hide();
-       $('#accordion table').hide();
-       $('#accordion h3 a').click(function(){
-         if($(this).parent().next().hasClass('selected')){
-           $(this).parent().next().slideUp();
-           $(this).parent().next().removeClass('selected');
-           return false;
-         }
-         else{
-           $('#accordion p').slideUp();
-           $('#accordion table').slideUp();
-           $(this).parent().next().slideDown();
-           $(this).parent().next().addClass('selected');
-           return false;
-         }
-       });
-
-       if (jQuery('#content-main .news-item').length < 2)
-       {
-           $('#content-main .panel-contents div').css('border-bottom', 'none'); 
-       }
-
-       //Apply hidden class to wide-panels (homepage) if lists are null
-       $('.home .wide-panel').each(function(){
-          var length = $(this).find('li').length;
-          if (length <=0 ){
-            $(this).addClass('hide');
-          }  
-       });
-function countChars(textbox, counter, max) {
-  var count = max - document.getElementById(textbox).value.length;
-  if (count < 0) { document.getElementById(counter).innerHTML = "<span style=\"color: red;\">" + count + "</span>"; }
-  else { document.getElementById(counter).innerHTML = count; }
-}
-
-    // Accordions
-
-    //Loop to find all accordions on any page
-    $('div.accordion').each(function() {
-        //Prepend a accessibility message
-        $(this).prepend('<span class="for-accessibility">The following headings in the section toggles the corresponding container directly below</span>');
-        //Condition to see if the accordion has a class of show-first...
-        if($(this).hasClass('show-first')) {
-            //If it does loop through all the children divs with a class of detail...
-            $(this).children('div.detail').each(function(index) {
-                //Find the first one...
-                if(index == 0) {
-                    //Give its heading a class of selected
-                    $(this).prev().addClass('selected');
-                    //Change the style/accessiblity icon helper inner text
-                    $(this).prev().children('span').text('Retract Section');
-                    //Show the div on load
-                    $(this).show();
-                }
-                //If it isn't the first div...
-                else {
-                    //Hide it
-                    $(this).hide();
-                }
-            });
-        }
-        //Bind a function to the click of an accordion heading
-        $(this).children('h2.heading').bind('click', function(e) {
-            //Prevent anything from happening on click
-            e.preventDefault();
-
-            //Close any other opened heading
-            if( $('h2.heading.selected').length > 0 && !$(this).hasClass("selected") ){
-              var open = $('h2.heading.selected');
-              open.toggleClass('selected'); 
-              open.children('span').text("Expand Section");
-              open.next().slideToggle('slow');               
-            }
-            //Toggle the class for styling purposes
-            $(this).toggleClass('selected');
-            //Toggle the style/accessiblity icon helper inner text
-            if($(this).children('span').text() == "Expand Section") {
-                $(this).children('span').text("Retract Section");
-            }
-            else {
-                $(this).children('span').text("Expand Section");
-            }
-            //Slide toggle the relevant div.detail element
-            $(this).next().slideToggle('slow');            
-        });
-        
-     });
-   
-    //Loop to find all accordions on any page
-    $('div.accordions').each(function() {
-        //Condition to see if the accordion has a class of show-first...
-        if($(this).hasClass('show-first')) {
-            //If it does loop through all the children divs with a class of detail...
-            $(this).children('div.detail').each(function(index) {
-                //Find the first one...
-                if(index == 0) {
-                    //Give its heading a class of selected
-                    $(this).prev().addClass('selected');
-                    //Change the style/accessiblity icon helper inner text
-                    $(this).prev().children('span').text('Retract Section');
-                    //Show the div on load
-                    $(this).show();
-                }
-                //If it isn't the first div...
-                else {
-                    //Hide it
-                    $(this).hide();
-                }
-            });
-        }
-        //Bind a function to the click of an accordion heading 3
-        $(this).children('h3.heading').bind('click', function(e) {
-            //Prevent anything from happening on click
-            e.preventDefault();
-
-            //Close any other opened heading
-            if( $('h3.heading.selected').length > 0 && !$(this).hasClass("selected") ){
-              var open = $('h3.heading.selected');
-              open.toggleClass('selected'); 
-              open.children('span').text("Expand Section");
-              open.next().slideToggle('slow');               
-            }
-            //Toggle the class for styling purposes
-            $(this).toggleClass('selected');
-            //Toggle the style/accessiblity icon helper inner text
-            if($(this).children('span').text() == "Expand Section") {
-                $(this).children('span').text("Retract Section");
-            }
-            else {
-                $(this).children('span').text("Expand Section");
-            }
-            //Slide toggle the relevant div.detail element
-            $(this).next().slideToggle('slow');            
-        });
-     });
-
-   //Setup variable to store height value
-    var biggestHeight = 0;
-    //Loop through all the home page tiles to find the tallest list item
-    $('ul.tiles > li').each(function() {  
-        if($(this).height() > biggestHeight) {  
-            biggestHeight = $(this).height();  
-        }  
-    });
-    //Apply the value of the tallest list item to all other list items
-    $('ul.tiles > li').height(biggestHeight);
- 
-});
-
-
-</script>						
-
-    <!-- Additional JS -->
-    
 
     <!-- Metadata -->
     
@@ -271,7 +98,7 @@ sector: Government">
 						
 
 <!-- Google Analytics //-->
-<script>
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=016686841579858634953:fsapkokbinu"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -285,18 +112,22 @@ sector: Government">
 <!-- end Google Analytics //-->
 <meta name="google-site-verification" content="05setIYag0MUP-7rOHdIPycFpuia7aNmwpcY5lMa1o0">
 
+<script type="text/javascript">
 <!--
-  Running Squiz Matrix
-  Developed by Squiz - http://www.squiz.net
-  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 09 December 2015 16:39:01
--->
+    window.rsConf = {general: {usePost: true}};
+//-->
+</script>
+
+<!-- async code for ReadSpeaker -->
+<script src="http://f1-as.readspeaker.com/script/8746/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+
 
 
 
 </head>
 
 <body class="inside wide-left">
+
     <!-- Header -->
     <div id="header">
         <h1 title="Electoral Commission NSW">
@@ -350,9 +181,24 @@ sector: Government">
                 </ul> <!-- end #content-tools-->
             </div> <!-- end #content-tools-container-->
 
-            <!-- Site Search -->
+           <!-- Site Search -->
             <div id="site-search-container">
-                
+                <form method="get" action="http://www.elections.nsw.gov.au/search_results">
+                    <fieldset>
+                        <legend class="hide">Site search</legend>
+                        <div class="search-field-container">
+                            <label for="search_query_input">Search:</label>
+                            <input type="hidden" name="mode" value="results">
+                            <label for="search_query_input">search</label>
+                            <input id="search_query_input" type="text" name="q" data-value="Search" value="" class="sq-form-field">
+                        </div>
+                        <div class="controls">
+                            <input type="submit" value="Search">
+                        </div>
+                    </fieldset>
+                </form>
+
+                <!-- 
 						
 						
 						
@@ -363,15 +209,15 @@ sector: Government">
                             <div class="search-field-container">
                                 <label for="queries_site-search_query">Search:</label>
                                 
-				<input type="hidden" name="mode" value="results">
-				<label for="queries_site-search_query">search</label><input type="text" name="queries_site-search_query" value="Site Search" size="25" title="Site Search" class="sq-form-field" id="queries_site-search_query" onfocus="if (this.value == 'Site Search') { this.value = ''; }" onblur="if (this.value == '') { this.value='Site Search'; }">				
+				<input type="hidden" name="mode" value="results" />
+				<label for="queries_site-search_query">search</label><input type="text" name="queries_site-search_query" value="Site Search" size="25"  title="Site Search" class="sq-form-field" id="queries_site-search_query" onfocus="if (this.value == 'Site Search') { this.value = ''; }" onblur="if (this.value == '') { this.value='Site Search'; }" />				
                             </div>
                             <div class="controls">
-                                <input type="submit" value="Search">
+                                <input type="submit" value="Search" />
                             </div>
                          </fieldset>
                     </form>
-						
+						 -->
             </div> <!-- end #site-search-container -->
         </div> <!-- end #site-tools -->
     </div> <!-- end #header-->
@@ -389,10 +235,14 @@ sector: Government">
                         							
                             <ul>
                                                             <li><a href="http://www.elections.nsw.gov.au/fd/registration">Registration</a></li>
-                                                            <li><a href="http://www.elections.nsw.gov.au/fd/disclosures">Disclosures</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/fd/agents">Agents</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/fd/political_donations">Political Donations</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/fd/electoral_expenditure">Electoral Expenditure</a></li>
-                                                            <li><a href="http://www.elections.nsw.gov.au/fd/election_funding">Election Funding</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/fd/public_funding">Public Funding</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/fd/disclosure">Disclosure</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/fd/campaign_accounts">Campaign Accounts</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/fd/record_keeping">Record Keeping</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/fd/news">News</a></li>
                                                         </ul>
                         
 						
@@ -434,7 +284,7 @@ sector: Government">
                             <a href="http://www.elections.nsw.gov.au/voting">Voting</a>
                         							
                             <ul>
-                                                            <li><a href="http://www.vote.nsw.gov.au">NSW State Election 2015</a></li>
+                                                            <li><a href="http://www.votensw.info">NSW Local Council Elections 2016</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/current_elections">Current elections</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/voting/voting_for_the_first_time">Voting for the first time?</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/voting/before_election_day">Before Election Day</a></li>
@@ -479,13 +329,15 @@ sector: Government">
                             <a href="http://www.elections.nsw.gov.au/about_us">About Us</a>
                         							
                             <ul>
+                                                            <li><a href="http://www.elections.nsw.gov.au/about_us/work_of_the_commission">Work of the Commission</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/about_us/work_of_the_electoral_commissioner_led_agency">Work of the Electoral Commissioner led agency</a></li>
+                                                            <li><a href="http://www.elections.nsw.gov.au/about_us/reporting_to_nsw_parliament">Reporting to NSW Parliament</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/about_us/what_we_do">What We Do</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/about_us/our_legislation">Our Legislation</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/about_us/plans_and_reports">Plans &amp; Reports</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/about_us/doing_business_with_us">Doing Business with Us</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/about_us/careers_with_us">Careers with Us</a></li>
                                                             <li><a href="http://www.elections.nsw.gov.au/about_us/access_to_information">Access to Information</a></li>
-                                                            <li><a href="http://www.elections.nsw.gov.au/about_us/contact_us">Contact Us</a></li>
                                                         </ul>
                         
 						
@@ -520,8 +372,10 @@ sector: Government">
     <!-- Main Content -->
     <div id="content-container">
         <div id="content">
+
             <div id="content-main">
                 <h1>Privacy</h1>
+
 
 <div id="content_div_68896">
 <h2>Information collection and privacy protection</h2><p>The Information Protection Principles of the Privacy and Personal Information Protection Act 1998 are the basis upon which personal information is collected, stored, used and disclosed by this Office.</p><p>This Office aims to ensure that personal information gathered via the electoral process or in the carriage of the activities of this Office is secure and protected from unauthorised access and use. Our officers are expected to be diligent in ensuring that personal information is not inadvertently released.</p><p>No officer is to disclose personal information unless authorised by legislation or approved by the Electoral Commissioner.</p><h3>Your email address</h3><p>This Office will only record your email address in the event that you send a message by email. Your email address will only be used for the purpose for which you have provided it and will not be added to any mailing lists without your consent. This Office will not use or disclose your email address for any other purpose, without your prior written consent.</p><h3>Clickstream data and cookies</h3><p>When visiting this website the site server makes a record of the visit and logs the following information for statistical purposes:</p><ul><li><p>The user's server address – this allows us to consider the visitors who use the site most, and tailor the site to their interests and needs;</p></li><li><p>The user's operating system (for example Windows, Mac etc.) – this allows us to tailor browser or platform specific parts of the site to each operating system because browsers act differently on each platform;</p></li><li><p>The user's top level domain name (for example, .com, .gov, .au etc.) – this can allow us to tailor information relevant to different domains;</p></li><li><p>The date and time of the visit to the site – this is important for identifying the website's busy times and ensuring maintenance on the site is conducted outside these periods;</p></li><li><p>Pages accessed and documents downloaded – this indicates to us which pages or documents are most important to our users and also helps identify important information that may be difficult to find;</p></li><li><p>Duration of the visit – this indicates to us how interesting and informative our site is to our users;</p></li><li><p>Geographic location – this shows us how well marketed our site is internationally;</p></li><li><p>The site visited before our website – this helps us determine the interests of our users and which sites are providing links to ours as well as sites where we may be able to seek links;</p></li><li><p>The type of browser used – this is important for browser specific coding e.g. Javascript.</p></li></ul><p>No attempt will be made to identify users unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.</p><p>This site contains links to other sites. This Office is not responsible for the privacy practices or the content of such websites. This Office has no knowledge if cookies or other tracking devices are used on linked websites other than those used to confirm the effectiveness of online advertising.</p><h3>Security of Information</h3><p>We provide a secure environment and a reliable system but you should be aware that there may be inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, this Office provides alternative ways of obtaining and providing information.</p><h3>Need further information?</h3><p>If you have any privacy concerns, please contact this Office on telephone 1300 135 736.</p><p><strong>Cookies</strong> – Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies. In some instances this may mean you will not be able to take full advantage of parts of the Network. A server cannot find out a name or email address, or anything about a user's computer, by using cookies.</p><p><strong>Domain name</strong> – The code for the country or type of internet connection a user comes from, such as '.com' '.gov' '.au' '.uk'.</p><p><strong>Information Privacy Principles</strong> – Principles established under Part 2 Division 1 of the Privacy and Personal Information Protection Act 1998. Government agencies must comply with these principles in their handling of personal information in their possession. The principles can be accessed via <a href="http://www.legislation.nsw.gov.au/">www.legislation.nsw.gov.au</a>.</p><p><strong>Internet Service Provider</strong> – A company or organisation that provides access to the internet for users.</p><p><strong>Law enforcement agency</strong> – An agency of the Commonwealth or a State or Territory, such as the Police, which exercises powers such as executing a warrant to seize documentation or goods or to search premises etc.</p>
@@ -546,8 +400,7 @@ sector: Government">
 
                 		
 												
-						
-					
+											
 						
             </div>  <!-- end #content-aside-->
 
@@ -645,15 +498,55 @@ sector: Government">
         </div> <!-- end #footer -->
     </div> <!-- end #footer-container -->
 
+    <!-- JS JQuery etc -->
+    
+												
+						<!-- Global JS -->
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/file/0009/68832/jquery-1.4.2.min.js"></script><!-- jquery-1.4.2.min.js -->
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/file/0010/68833/jquery.printPreview.min.js"></script><!-- jquery.printPreview.min.js -->
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0010/184249/site-tools.js"></script><!-- site-tools.js -->
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0020/190181/nswec-ga-custom-events.js"></script><!-- nswec-ga-custom-events.js -->
+						
+    <!-- Site Tools JS -->
+    
+												
+												
+    <!-- Global nested JS -->
+    
+												
+						<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0010/212689/global_js.js"></script>						
+    <!-- Additional JS -->
+    
+												
+						<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0007/72916/jquery.colorbox.js"></script><!-- jquery.colorbox.js -->
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0006/72915/common.js"></script><!-- common.js - for colorbox -->
+
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0008/191456/jquery-cookie14js.js"></script><!-- jquery-cookie.js -->
+<script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/js_file/0005/195665/home-dialog-nswecjs.js"></script><!-- home-dialog-nswec.js -->						
+    <!-- common js -->
     <script type="text/javascript" src="http://www.elections.nsw.gov.au/__data/assets/text_file/0007/93328/common.js"></script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53320aa93de6c14f"></script>
+    <!-- addThis -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53320aa93de6c14f" async="async"></script>
+    <!-- Google site search -->
+    <script>
+      (function() {
+        var cx = '016686841579858634953:fsapkokbinu';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
 
 
 <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=9';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
