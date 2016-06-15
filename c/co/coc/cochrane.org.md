@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215000842id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615122607id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Cochrane
 
@@ -17,3 +17,5 @@ Cochrane does not share information (names, personal information, email addresse
  **Concerns?**
 
 If you have concerns about your data, feel free to contact us at [techsupport@cochrane.org](mailto:techsupport@cochrane.org).
+
+ _  ICO Registration Number: Z4681494_
