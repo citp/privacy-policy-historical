@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216000815id_/http%3A//www.amsa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616013233id_/https%3A//www.amsa.gov.au/privacy) for the most accurate reproduction.*
 
 # Condensed Privacy Policy - Australian Maritime Safety Authority (AMSA)
 
