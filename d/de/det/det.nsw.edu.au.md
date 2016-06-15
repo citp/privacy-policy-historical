@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the det.nsw.edu.au privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913082757id_/http%3A//www.dec.nsw.gov.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the det.nsw.edu.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615051110id_/http%3A//www.dec.nsw.gov.au/footer/privacy) for the most accurate reproduction.*
 
-# Website Privacy Statement - NSW Department of Education & Communities
+# Website Privacy Statement - NSW Department of Education
 
 The privacy of our website visitors is of utmost importance to the NSW Department of Education and Communities. The purpose of this statement is to let you know what information is collected when you visit the Department's website and how the information is used.
 
