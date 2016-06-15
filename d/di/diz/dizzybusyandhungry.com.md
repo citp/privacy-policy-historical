@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dizzybusyandhungry.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213072506id_/http%3A//www.dizzybusyandhungry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dizzybusyandhungry.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615174716id_/http%3A//www.dizzybusyandhungry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dizzy Busy and Hungry!
 
