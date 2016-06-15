@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226133949id_/http%3A//www.drugwatch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615100707id_/https%3A//www.drugwatch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DrugWatch.com
 
@@ -67,7 +67,7 @@ We reserve the right to disclose your personally identifiable information, as re
 
 Information obtained is utilized solely to improve and enhance the quality of Drugwatch.com. Information submitted to Drugwatch.com in some instances may be shared or sold to a third-party service provider. Drugwatch.com will not share or sell information submitted to us to any third party unless consent is authorized by the visitor.
 
-For more information please see our [Disclaimer](http://www.drugwatch.com/disclaimer.php) page.
+For more information please see our [Disclaimer](https://www.drugwatch.com/disclaimer.php) page.
 
 ## Security
 
