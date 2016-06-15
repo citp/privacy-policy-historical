@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the co-operativetravel.co.uk privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215053352id_/http%3A//co-operativetravel.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the co-operativetravel.co.uk privacy policy that was archived on 2016-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615145433id_/http%3A//www.co-operativetravel.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" js no-touch csstransitions svg" style=""><head>
        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5ZFJ7J"></script><script src="//c.webtrends.com/acs/account/7nd9u25s4t/js/wt.js" type="text/javascript"> </script>
     	<meta charset="utf-8">
         <meta content="IE=edge" http-equiv="X-UA-Compatible">
@@ -11,30 +11,24 @@
    
 
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script type="text/javascript">
-/*<![CDATA[*/
-jQuery.noConflict();
-/*]]>*/
-</script>
-              
+        
    
 
-   <script>var CATTParams = {"PageID":"home","SessID":"8B4AD5EEAA0DFF8AC9BD06D87C5D737A","ErrorCode":"404 error - \/cruise\/cruise-lines\/po-cruises\/","TLD":".co.uk"}</script>
+   <script>var CATTParams = {"PageID":"home","SessID":"DCE33DD52BF48B93DF40061A04D83B2D","TLD":"www.co-operativetravel.co.uk"}</script>
 
    
 
     <link rel="stylesheet" type="text/css" href="../wicket/resource/com.xmltravel.wicket.jquery.McomJQueryBehavior/jquery-ui-1.11.4/jquery-ui-ver-028F9D5ECD235CEC34C98AB04BF16F21.css">
 <script type="text/javascript" src="../wicket/resource/com.xmltravel.wicket.jquery.McomJQueryBehavior/jquery-1.11.3.min-ver-895323ED2F7258AF4FAE2C738C8AEA49.js"></script>
 <script type="text/javascript" src="../wicket/resource/com.xmltravel.wicket.jquery.McomJQueryBehavior/jquery-ui-1.11.4/jquery-ui.min-ver-85658307B2214E39771458FF868DE13A.js"></script>
-<link rel="stylesheet" type="text/css" href="/assets/css/uikit.css?20150902.092157">
-<link rel="stylesheet" type="text/css" href="/assets/font-awesome/css/font-awesome.min.css?20150902.091933">
-<link rel="stylesheet" type="text/css" href="/assets/css/styles.less?20150902.092130">
-<script type="text/javascript" src="/assets/js/modernizr.js?20150902.092149"></script>
-<script type="text/javascript" src="/assets/js/functions.js?20150902.092209"></script>
-<script type="text/javascript" src="/assets/js/jquery.cookie.js?20150902.092201"></script>
-<script type="text/javascript" src="/assets/js/touch-punch.js?20150902.092304"></script>
-<!--[if IE 9]><link rel='stylesheet' type='text/css' href='/assets/css/ie9-only.css?20150902.092128' ></link><![endif]-->
+<link rel="stylesheet" type="text/css" href="/assets/css/uikit.css?20160419.094748">
+<link rel="stylesheet" type="text/css" href="/assets/font-awesome/css/font-awesome.min.css?20160419.094450">
+<link rel="stylesheet" type="text/css" href="/assets/css/styles.less?20160526.124337">
+<script type="text/javascript" src="/assets/js/modernizr.js?20160419.094746"></script>
+<script type="text/javascript" src="/assets/js/functions.js?20160419.094723"></script>
+<script type="text/javascript" src="/assets/js/jquery.cookie.js?20160419.094748"></script>
+<script type="text/javascript" src="/assets/js/touch-punch.js?20160419.094800"></script>
+<!--[if IE 9]><link rel='stylesheet' type='text/css' href='/assets/css/ie9-only.css?20160419.094742' ></link><![endif]-->
 <script type="text/javascript" id="CookieAcceptance">
 /*<![CDATA[*/
 $(document).ready(function($) {
@@ -54,7 +48,7 @@ function hideCookieContainer() {
 <script type="text/javascript" src="../wicket/resource/com.xmltravel.fabrix.cms.plugins.site.nodetypes.fabrixpage.head.PageJSFunctions/page-functions-ver-0CC6E502771276E92A6C0DD947050408.js"></script>
 <script type="text/javascript" id="konami">
 /*<![CDATA[*/
-new Konami(function(){window.open('https://datacontrol.xmltravel.com/fabrix/logs/s/CECSV:8B4AD5EEAA0DFF8AC9BD06D87C5D737A', '_blank').focus();});
+new Konami(function(){window.open('https://datacontrol.xmltravel.com/fabrix/logs/s/CR8SXIRRD8:DCE33DD52BF48B93DF40061A04D83B2D', '_blank').focus();});
 /*]]>*/
 </script>
 <script type="text/javascript" id="SplashServiceHeader">
@@ -62,6 +56,9 @@ new Konami(function(){window.open('https://datacontrol.xmltravel.com/fabrix/logs
 function checkSplashKey(key) {
 	if (fabrixSplashes[key]) {
 		return key;
+	}
+	if (typeof fallBackSplash != "undefined" && fallBackSplash != null){
+		return fallBackSplash;
 	}
 	return '';
 }
@@ -101,17 +98,7 @@ function hideSplash(key){
 function hideAllSplashes() {
 	for (key in fabrixSplashes) {
 		if (key != '' && $('.fabrixSplash.' + key).size() > 0) {
-			try {
-				var bodyElem = (fabrixSplashes[key][3] == 'true') ?
-						parent.$('.fabrixSplash' + key) :
-						$('.fabrixSplash.' + key);
-				bodyElem.hide();
-				bodyElem.remove();
-			} catch (err) {
-				if (console) {
-					console.log('document.domain do not match');
-				}
-			}
+			hideSplash(key);
 			eval(fabrixSplashes[key][2]);
 		}
 		if ($('.fabrixSplash').size() > 0){
@@ -120,6 +107,7 @@ function hideAllSplashes() {
 			eval(fabrixSplashes[''][2])
 		}
 	}
+	hideSplash(fallBackSplash);
 }
 
 var fabrixSplashes = {'Add to BasketNew':['<style\>.black-overlay {\n\tposition: fixed;\n\ttop: 0%;\n\tleft: 0%;\n\twidth: 100%;\n\theight: 100%;\n\tbackground-color: black;\n\t-moz-opacity: 0.6;\n\topacity: .60;\n\tfilter: alpha(opacity=60);\n\tz-index:400;\n}\n.inter_content {\n\tposition:fixed;\n\ttop: 20%;\n\tleft: 35%;\n\twidth: 300px;\n\theight: 212px;\n\tpadding: 15px;\n\tborder: 4px solid #848586;\n\tbackground-color: white;\n\tz-index: 1002;\n\toverflow: hidden;\n}\n\n.tcie-logo {\n\tdisplay: block;\n\tmargin: 0 auto;\n\twidth: 50%;\n}\n\n.inter_content img {\n\tmax-width: 100%;\n}\n\n.tcie-loading {\n\tdisplay: block;\n\tmargin: 0 auto 3% auto;\n}\n.font {\n\tfont-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tfont-size: 1em;\n\ttext-align: center;\n\tmargin-top: 0;\n\tmargin-bottom: 6%;\n\tcolor:#848586;\n}<\/style\>\n\n<div class=\"fabrixSplash\" standard=\"\" style=\"position:fixed;top:0;left:0;width:100%;height:100%;z-index:500\"\><div style=\"position:fixed;width:100%;height:100%;z-index:1;border: 4px solid #848586;\"\><table style=\"vertical-align: middle;height: 100%;\tmargin: 0 auto; \"\><tbody\><tr\><td\> <div style=\"background-color:#FFFFFF; padding: 0; border-radius:0; border:#ccc solid;  padding:15px; margin-right:5px; \"\>\t<img src=\"/assets/img/logo.png\" alt=\"Direct Holidays\" class=\"tcie-logo\"\>\n<img src=\"/assets/img/TC-ie-loading.gif\" alt=\"Direct Holidays - finding your perfect holiday\" class=\"tcie-loading\"\>\n<p class=\"font\"\>Please wait whilst we update your basket...<\/p\><\/div\><\/td\><\/tr\><\/tbody\><\/table\><\/div\>\n<\/div\><\/div\><div class=\"black-overlay\"\><\/div\>','','','false'],
@@ -130,30 +118,32 @@ var fabrixSplashes = {'Add to BasketNew':['<style\>.black-overlay {\n\tposition:
 'Room Board Upsell':['<div style=\'position:fixed;width:100%;height:100%;z-index:1\'\><table style=\'vertical-align: middle;height: 100%;\tmargin: 0 auto; \'\><tr\><td\> <div style=\'background-color:#FFFFFF; padding: 0 0; border-radius:0;\'\>\t\t<img src=\'/assets/img/splash-screens/basketSplash.gif\' style=\'display:block\'/\>\t<\/div\><\/td\><\/tr\><\/table\><\/div\><div style=\'position:fixed;top:0;left:0;width:100%;height:100%;background-color:#002156;opacity:0.4;filter: alpha(opacity=40);z-index:0\'\><\/div\>','','','false'],
 'confirm new':['<style\>.black-overlay {\n\tposition: fixed;\n\ttop: 0%;\n\tleft: 0%;\n\twidth: 100%;\n\theight: 100%;\n\tbackground-color: black;\n\t-moz-opacity: 0.6;\n\topacity: .60;\n\tfilter: alpha(opacity=60);\n\tz-index:400;\n}\n.inter_content {\n\tposition:fixed;\n\ttop: 20%;\n\tleft: 35%;\n\twidth: 300px;\n\theight: 212px;\n\tpadding: 15px;\n\tborder: 4px solid #848586;\n\tbackground-color: white;\n\tz-index: 1002;\n\toverflow: hidden;\n}\n\n.tcie-logo {\n\tdisplay: block;\n\tmargin: 0 auto;\n\twidth: 50%;\n}\n\n.inter_content img {\n\tmax-width: 100%;\n}\n\n.tcie-loading {\n\tdisplay: block;\n\tmargin: 0 auto 3% auto;\n}\n.font {\n\tfont-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tfont-size: 1em;\n\ttext-align: center;\n\tmargin-top: 0;\n\tmargin-bottom: 6%;\n\tcolor:#848586;\n}<\/style\>\n\n<div class=\"fabrixSplash\" standard=\"\" style=\"position:fixed;top:0;left:0;width:100%;height:100%;z-index:500\"\><div style=\"position:fixed;width:100%;height:100%;z-index:1;border: 4px solid #848586;\"\><table style=\"vertical-align: middle;height: 100%;\tmargin: 0 auto; \"\><tbody\><tr\><td\> <div style=\"background-color:#FFFFFF; padding: 0; border-radius:0; border:#ccc solid;  padding:15px; margin-right:5px; \"\>\t<img src=\"/assets/img/logo.png\" alt=\"Direct Holidays\" class=\"tcie-logo\"\>\n<img src=\"/assets/img/TC-ie-loading.gif\" alt=\"Direct Holidays - finding your perfect holiday\" class=\"tcie-loading\"\>\n<p class=\"font\"\>Please wait, whilst we confirm your basket...<\/p\><\/div\><\/td\><\/tr\><\/tbody\><\/table\><\/div\>\n<\/div\><\/div\><div class=\"black-overlay\"\><\/div\>','','','false'],
 'Deals Filter':['<div style=\'position:fixed;width:100%;height:100%;z-index:1\'\><table style=\'vertical-align: middle;height: 100%;\tmargin: 0 auto; \'\><tr\><td\> <div style=\'background-color:#FFFFFF; padding: 0 0; border-radius:0;\'\>\t\t<img src=\'/assets/img/splash-screens/ajax-loader-message.gif\' style=\'display:block\'/\>\t<\/div\><\/td\><\/tr\><\/table\><\/div\><div style=\'position:fixed;top:0;left:0;width:100%;height:100%;background-color:#002156;opacity:0.6;filter: alpha(opacity=60);z-index:0\'\><\/div\>','','replaceTable(\'.dealsTable\');hideFilters();','false'],
+'fallback_splash':['<div style=\'position:fixed;width:100%;height:100%;z-index:1\'\><table style=\'vertical-align: middle;height: 100%;\tmargin: 0 auto; \'\><tr\><td\> <div style=\'background-color:#FFFFFF; padding: 20px 50px; border-radius:20px;\'\>\t\t<img src=\'/sharedimages/Miscellaneous/searching\' style=\'display:block\'/\>\t<\/div\><\/td\><\/tr\><\/table\><\/div\><div style=\'position:fixed;top:0;left:0;width:100%;height:100%;background-color:#111111;opacity:0.4;filter: alpha(opacity=40);z-index:0\'\><\/div\>','','','false'],
 'standardNew':['<style\>.black-overlay {\n\tposition: fixed;\n\ttop: 0%;\n\tleft: 0%;\n\twidth: 100%;\n\theight: 100%;\n\tbackground-color: black;\n\t-moz-opacity: 0.6;\n\topacity: .60;\n\tfilter: alpha(opacity=60);\n\tz-index:400;\n}\n.inter_content {\n\tposition:fixed;\n\ttop: 20%;\n\tleft: 35%;\n\twidth: 300px;\n\theight: 212px;\n\tpadding: 15px;\n\tborder: 4px solid #848586;\n\tbackground-color: white;\n\tz-index: 1002;\n\toverflow: hidden;\n}\n\n.tcie-logo {\n\tdisplay: block;\n\tmargin: 0 auto;\n\twidth: 50%;\n}\n\n.inter_content img {\n\tmax-width: 100%;\n}\n\n.tcie-loading {\n\tdisplay: block;\n\tmargin: 0 auto 3% auto;\n}\n.font {\n\tfont-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tfont-size: 1em;\n\ttext-align: center;\n\tmargin-top: 0;\n\tmargin-bottom: 6%;\n\tcolor:#848586;\n}<\/style\>\n\n<div class=\"fabrixSplash\" standard=\"\" style=\"position:fixed;top:0;left:0;width:100%;height:100%;z-index:500\"\><div style=\"position:fixed;width:100%;height:100%;z-index:1;border: 4px solid #848586;\"\><table style=\"vertical-align: middle;height: 100%;\tmargin: 0 auto; \"\><tbody\><tr\><td\> <div style=\"background-color:#FFFFFF; padding: 0; border-radius:0; border:#ccc solid;  padding:15px; margin-right:5px; \"\>\t<img src=\"/assets/img/logo.png\" alt=\"Direct Holidays\" class=\"tcie-logo\"\>\n<img src=\"/assets/img/TC-ie-loading.gif\" alt=\"Direct Holidays - finding your perfect holiday\" class=\"tcie-loading\"\>\n<p class=\"font\"\>Please wait, whilst we search for the best prices and availability...<\/p\><\/div\><\/td\><\/tr\><\/tbody\><\/table\><\/div\>\n<\/div\><\/div\><div class=\"black-overlay\"\><\/div\>','','checkMapStatus();hideChildAges();moveValidation();','false'],
 'Back to Results':['<div style=\'position:fixed;width:100%;height:100%;z-index:1\'\><table style=\'vertical-align: middle;height: 100%;\tmargin: 0 auto; \'\><tr\><td\> <div style=\'background-color:#FFFFFF; padding: 0 0; border-radius:0;\'\>\t\t<img src=\'/assets/img/splash-screens/resultsSplash.gif\' style=\'display:block\'/\>\t<\/div\><\/td\><\/tr\><\/table\><\/div\><div style=\'position:fixed;top:0;left:0;width:100%;height:100%;background-color:#002156;opacity:0.6;filter: alpha(opacity=60);z-index:0\'\><\/div\>','','','false'],
 'Add To Basket':['<div style=\'position:fixed;width:100%;height:100%;z-index:1\'\><table style=\'vertical-align: middle;height: 100%;\tmargin: 0 auto; \'\><tr\><td\> <div style=\'background-color:#FFFFFF; padding: 0 0; border-radius:0;\'\>\t\t<img src=\'/assets/img/splash-screens/basketSplash.gif\' style=\'display:block\'/\>\t<\/div\><\/td\><\/tr\><\/table\><\/div\><div style=\'position:fixed;top:0;left:0;width:100%;height:100%;background-color:#002156;opacity:0.6;filter: alpha(opacity=60);z-index:0\'\><\/div\>','','','false']
 };
 ;
-
+var fallBackSplash ="fallback_splash";
 // Used just to preload the images
 new Image().src='/assets/img/splash-screens/ajax-loader-message.gif';
 new Image().src='/assets/img/splash-screens/bookingSplash.gif';
 new Image().src='/assets/img/splash-screens/splash.gif';
 new Image().src='/assets/img/splash-screens/basketSplash.gif';
 new Image().src='/assets/img/splash-screens/ajax-loader-message.gif';
+new Image().src='/sharedimages/Miscellaneous/searching';
 new Image().src='/assets/img/splash-screens/resultsSplash.gif';
 new Image().src='/assets/img/splash-screens/basketSplash.gif';
 
 
 /*]]>*/
 </script>
-</head>
+<style id="com-xmltravel-fabrixinterface-ui-panels-accom-moreinfo-splitaccominfo-SplitMoreInfoPanel-3-0">#tab-container .tab-panel.hidden {position:absolute!important;left:-9999px!important}</style></head>
     <body>
  
    
 
-   <script>var CATTParams = {"PageID":"home","SessID":"8B4AD5EEAA0DFF8AC9BD06D87C5D737A","ErrorCode":"404 error - \/cruise\/cruise-lines\/po-cruises\/","TLD":".co.uk"}</script>
+   <script>var CATTParams = {"PageID":"home","SessID":"DCE33DD52BF48B93DF40061A04D83B2D","TLD":"www.co-operativetravel.co.uk"}</script>
 
    
 
@@ -177,7 +167,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="cookieContainer" style="">
 		<div class="cookieMessage">
 			<p>
-				By using this site you agree to our <a href="/terms" title="Terms of Use">cookies and privacy policies</a>
+				By using this site you agree to our <a href="/privacy-policy/" title="Terms of Use">cookies and privacy policies</a>
 			</p>
 		</div>
 		<a href="../" onclick="hideCookieContainer();return false" class="cookieAccept" title="Agree to the use of cookies">
@@ -322,7 +312,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li><a href="/holidays/africa/egypt/sharm-el-sheikh">Sharm El Sheikh</a></li>
                             <li><a href="/holidays/spain/canary-islands/tenerife">Tenerife</a></li>
                             <li><a href="/holidays/middle-east/turkey">Turkey</a></li>
-                            <li><a href="/holidays/africa/tunisia">Tunisia</a></li>
                             <li><a href="/holidays/usa">USA</a></li>
                             <li><a href="/holidays/greece/zante">Zante</a></li>
                    
@@ -430,7 +419,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li><a title="Airport Hotels" href="/extras/airport-parking">Airport Parking</a></li>
                         
                         
-                        <li><a title="Foreign Exchange" href="/extras/foreign-exchange">Foreign Exchange</a></li>
+                        <li><a title="Travel Money" href="/extras/foreign-exchange">Travel Money</a></li>
                         
                           
                             <li><a title="Car Hire" href="/extras/car-hire">Car Hire</a></li>
@@ -470,10 +459,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Privacy Policy</h3>
 <p>PRIVACY POLICY AND INFORMATION ON COOKIES<br><br>
-Co-operative travel understands and respects the importance of your privacy. This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us.  Please read the following information carefully.
-For the purpose of the Data Protection Act 1998 (the Act), we, Thomas Cook Retail Ltd are the Data Controller for this <a href="../www.co-operativetravel.co.uk">www.co-operativetravel.co.uk </a>website.<br><br>
+
+</p><p></p>Co-operative travel understands and respects the importance of your privacy. This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us. Please read the following information carefully. For the purpose of the Data Protection Act 1998 (the Act), we, TCCT Retail Ltd are the Data Controller for this
+<a href="../www.co-operativetravel.co.uk">www.co-operativetravel.co.uk </a>website.<p></p>
 COOKIES<br>
-This Site uses cookies to distinguish you from other users.  Some of these cookies are essential to make this Site work properly, to allow you to make your travel booking or other purchases, and to enable us to fulfil your purchase requests.  Other types of cookie help us to provide you with a good experience when you browse our Site, allow us to improve our Site or the way we provide our service to customers, or are used to provide you with information or offers from co-operativetravel companies or third parties that may be of interest to you.  A summary of the non-essential cookies used on this Site is set out in the attached document.  You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under 'Edit', 'Tools' or 'Options').  However, if you choose to remove cookies parts of the Site may not work properly or your use of the Site may be impaired.<br><br> 
+This Site uses cookies to distinguish you from other users.  Some of these cookies are essential to make this Site work properly, to allow you to make your travel booking or other purchases, and to enable us to fulfil your purchase requests.  Other types of cookie help us to provide you with a good experience when you browse our Site, allow us to improve our Site or the way we provide our service to customers, or are used to provide you with information or offers from co-operativetravel companies or third parties that may be of interest to you. You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under 'Edit', 'Tools' or 'Options').  However, if you choose to remove cookies parts of the Site may not work properly or your use of the Site may be impaired.<br><br> 
  
 On-Site advertising and behavioural advertising:  Web publishers, advertisers and ad networks use cookies and data to optimise advertising effectiveness.  For some of our partner offers, we tailor advertising offers based on what you have searched for on our Site, to make it relevant to you. 
  
@@ -485,7 +475,7 @@ PLEASE NOTE: if you choose to use this Site without declining any non-essential 
 
 
 
-</p><p>Information we may collect from you
+<p>Information we may collect from you
 <br><br>
 
 We may collect and process the following data about you:
@@ -538,9 +528,8 @@ You have the right to ask us not to process your personal data for marketing pur
 <br><br>
 Our site contains links to and from the websites of our principals, suppliers, advertisers and other third parties.  If you follow a link to any of these other websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or for these 3rd party websites.  Please check these policies before you submit any personal data to these websites.
 <br><br>
-Access to your personal data
-<br><br>
-The Data Protection Act 1998 gives you the right to check that your personal data is being processed lawfully (“subject access right”).  Your subject access right can be exercised in accordance with the Act.  Any subject access request must be made in writing to:  The Company Secretary, Legal &amp; Compliance Dept., Thomas Cook Retail Ltd, The Thomas Cook Business Park, Unit 17 Coningsby Road, Peterborough, PE3 8SB, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you.
+
+The Data Protection Act 1998 gives you the right to check that your personal data is being processed lawfully (“subject access right”). Your subject access right can be exercised in accordance with the Act. Any subject access request must be made in writing to: The Company Secretary, Legal &amp; Compliance Dept., TCCT Retail Ltd, The Thomas Cook Business Park, Unit 17 Coningsby Road, Peterborough, PE3 8SB, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you
 <br><br>
 Changes to our privacy policy
 <br><br>
@@ -577,20 +566,22 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
               <li><a href="/accessibility/">Accessibility</a></li>
               <li><a title="Corporate" target="_blank" href="/contact-us/">Contact Us</a></li>
               <li><a title="Press &amp; media" target="_blank" href="/frequently-asked-questions/">FAQs</a></li>
+              <li><a title="visas" target="_blank" href="/information/passport-visa-requirements.pdf">Passport &amp; Visas</a></li>  
               <li><a title="Careers" target="_blank" href="/privacy-policy/">Privacy Policy &amp; Cookies</a></li>  
-              <li><a title="What is a co-operative?" target="_blank" href="/special-assistance/">Special Assistance</a></li>
- 
+              <li><a title="What is a co-operative?" target="_blank" href="https://www.thomascookairlines.com/en/fly-with-us/special-assistance/assistance-for-passengers-with-special-needs.jsp">Special Assistance</a></li>
+              <li><a title="Advice" target="_blank" href="https://www.thomascook.com/travel-info/before-you-go/health-advice/">Travel Advice</a></li>
+              <li><a title="Map" target="_blank" href="/site-map/">Sitemap</a></li>
               </ul>
               </div>
               
                <div class="col col-940-6 col-480-6">
               <ul class="list-unstyled">
-              <li><a title="website conditions" target="_blank" href="/information/bookingconditions2015.pdf">Booking Terms &amp; Conditions</a></li>
-            <li><a title="website conditions" href="/website-conditions/">Web Conditions</a></li>
+              <li><a title="website conditions" target="_blank" href="/information/bookingconditions.pdf">Booking Terms &amp; Conditions</a></li>
             <li><a title="Corporate" href="/pricing-terms-conditions/">Pricing Terms &amp; Conditions</a></li>
                <li><a title="Corporate" href="/promotional-terms-conditions/">Promotional Terms &amp; Conditions</a></li>
-               <li><a title="Careers" target="_blank" href="/site-map/">Sitemap</a></li>
- 
+               <li><a href="/website-conditions">Website Conditions</a></li>
+               <li><a href="/travel-money-terms-conditions">Travel Money Terms &amp; Conditions</a></li>
+                <li><a href="/blog">Blog</a></li>
               </ul>
               </div>
               
@@ -598,7 +589,7 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
           </div>
           
         <div class="col col-940-2 col-480-12 footerLeft">
-         <h3>Brands</h3>
+         <h3>Other Thomas Cook Group brands</h3>
            
                 <ul class="list-unstyled">
                                   
@@ -636,8 +627,8 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
           </div>
           
                <ul class="list-inline securityLogos">
-            <li><div class="sprite-assoc-atol"></div></li>
-            <li><div class="sprite-assoc-abta"></div></li>
+            <li><a href="http://www.caa.co.uk/atol-protection/"><div class="sprite-assoc-atol"></div></a></li>
+            <li><a href="http://abta.com/"><div class="sprite-assoc-abta"></div></a></li>
             <li><div class="sprite-assoc-veriSign"></div></li>
           </ul>
           
@@ -648,37 +639,7 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
       </div>
       
       
- <div class="footerSection">
-        <div class="row">
-          <div class="col col-940-6 col-480-12">
-            <div class="cards">
-              <h3>We accept the following cards</h3>
-              <ul class="list-unstyled list-inline">
-                <li><div title="Visa" class="sprite-cards-cardVisa"></div></li>
-                <li><div title="MasterCard" class="sprite-cards-cardMasterCard"></div></li>
-                <li><div title="Maestro" class="sprite-cards-cardMaestro"></div></li>
-                <li><div title="Visa Debit" class="sprite-cards-cardvisaDebit"></div></li>
-                <li><div title="Electron" class="sprite-cards-cardElectron"></div></li>
-                <li><div title="Solo" class="sprite-cards-cardSolo"></div></li>
-                <li><div title="Delta" class="sprite-cards-cardDelta"></div></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col col-940-6 col-480-12">
-            <div class="flags">
-              <h3>Thomas Cook</h3>
-              <ul class="list-unstyled list-inline">
-                <li><a class="exit-link" href="http://www.thomascook.be/"><div title="Belgium" class="sprite-flags-belgium"></div></a></li>
-                <li><a class="exit-link" href="http://www.thomascook.fr/"><div title="France" class="sprite-flags-france"></div></a></li>
-                <li><a class="exit-link" href="http://www.thomascook.de/"><div title="Germany" class="sprite-flags-germany"></div></a></li>
-                <li><a class="exit-link" href="http://www.thomascook.nl/"><div title="Netherlands" class="sprite-flags-netherlands"></div></a></li>
-                <li><a class="exit-link" href="http://www.thomascook.pl/"><div title="Poland" class="sprite-flags-poland"></div></a></li>
-                <li><a href="/"><div title="Uk" class="sprite-flags-uk"></div></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
+
       
     
       
@@ -694,7 +655,7 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
         
           <div class="col col-940-4 col-480-6">
             <div class="footerSection">
-              <h3>About The co-operative travel</h3>
+              <h3>About the Co-operative Group</h3>
               <ul class="list-unstyled">
               <li><a title="What is a co-operative?" target="_blank" href="http://www.co-operative.coop/corporate/widermovement/">What is a co-operative?</a></li>
                             <li><a title="What makes us different" target="_blank" href="http://www.co-operative.coop/corporate/aboutus/our-democracy/The-Co-operative-Group-Values-and-Principles/">What makes us different</a></li>
@@ -762,25 +723,22 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
       </div></div>
       
       <div id="session_info" data-tile-id="session_info">
-   <div id="idc65" style="display:none">
+   <div id="id4" style="display:none">
     <div style="display: none;">TCCoopTra_F</div>
     <div style="display: none;"></div>
     <table class="basic-info-table">
         <tbody><tr>
-            <td style="font-weight:bold">FAB session</td>
-            <td id="sessionid">
-            	<div>
-            		PVW39_3WXw4FSl6pFrRLfeUe
-            	</div>
-            </td>
-            <td><a href="../privacy-policy?44-1.ILinkListener-brix~page~2-brix~session_info-child-reset_fab" rel="nofollow">reset</a></td>
-        </tr>
+            <th><b>Web</b>Voyage session</th>
+            <td><a href="https://datacontrol.xmltravel.com/fabrix/logs/s/CR8SXIRRD8:DCE33DD52BF48B93DF40061A04D83B2D" target="_blank" rel="nofollow">CR8SXIRRD8:DCE33DD52BF48B93DF40061A04D83B2D</a></td>
+            <td><a href="./;jsessionid=DCE33DD52BF48B93DF40061A04D83B2D?0-ILinkListener-brix~page~2-brix~session_info-child-reset_fabrix" rel="nofollow">reset</a></td>
+        </tr>        
         <tr>
-            <td style="font-weight:bold">Fabrix session</td>
-            <td><a href="https://datacontrol.xmltravel.com/fabrix/logs/s/CECSV:8B4AD5EEAA0DFF8AC9BD06D87C5D737A" target="_blank" rel="nofollow">CECSV:8B4AD5EEAA0DFF8AC9BD06D87C5D737A</a></td>
-            <td><a href="../privacy-policy?44-1.ILinkListener-brix~page~2-brix~session_info-child-reset_fabrix" rel="nofollow">reset</a></td>
-        </tr>
-       
+            <th>Service sessions</th>
+            <td id="sessionid">
+            	
+            </td>
+            <td><a href="./;jsessionid=DCE33DD52BF48B93DF40061A04D83B2D?0-ILinkListener-brix~page~2-brix~session_info-child-reset_fab" rel="nofollow">reset</a></td>
+        </tr>       
         
     </tbody></table>
     
@@ -796,13 +754,6 @@ We reserve the right to update or alter this Privacy Policy from time to time wi
 
     
    
-   
-
-       
-   
-
-   <script>var CATTParams = {"PageID":"home","SessID":"8B4AD5EEAA0DFF8AC9BD06D87C5D737A","ErrorCode":"404 error - \/cruise\/cruise-lines\/po-cruises\/","TLD":".co.uk"}</script>
-
    
 
 </body></html>
