@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akahitutors.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226004934id_/http%3A//www.akahitutors.org/akahi-tutors-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akahitutors.org privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615134523id_/http%3A//www.akahitutors.org/akahi-tutors-privacy-policy) for the most accurate reproduction.*
 
-# Akahi Tutors Privacy Policy | Akahi Tutors|News|Universities|Polytechnics|Colleges|Entertainment
+# Akahi Tutors Privacy Policy | Latest Nigerian News| Akahi News|Newspapers
 
 Effective: February, 2015 | Last Modified: July, 2015 
 
