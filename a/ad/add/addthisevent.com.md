@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addthisevent.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104014109id_/http%3A//addthisevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addthisevent.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615171300id_/https%3A//www.addevent.com/privacy) for the most accurate reproduction.*
 
-# AddEvent
+# AddEvent.com - "Add to Calendar" button for websites and newsletters.
 
 AddEvent ("AddEvent") operates several websites including AddEvent.com and related subdomains. It is AddEvent's policy to respect your privacy regarding any information we may collect while operating our websites. 
 
