@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daycalc.appspot.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051734id_/https%3A//daycalc.appspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daycalc.appspot.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615105208id_/https%3A//daycalc.appspot.com/privacy) for the most accurate reproduction.*
 
 # 
 
