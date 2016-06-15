@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexu.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110144428id_/http%3A//sexu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexu.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615033508id_/http%3A//sexu.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY : title : EDIT ME
 
 This document details important information regarding the use and disclosure of User Data collected on Sexu.com 
 
