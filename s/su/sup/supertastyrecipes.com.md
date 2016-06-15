@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supertastyrecipes.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215215207id_/http%3A//supertastyrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supertastyrecipes.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615110730id_/http%3A//supertastyrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Super Tasty Recipes
+# Privacy Policy - Super Tasty Recipes
 
 **Super Tasty Recipes** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
