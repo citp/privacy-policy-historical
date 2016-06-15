@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023232516id_/http%3A//www.yoganonymous.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoganonymous.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615122413id_/http%3A//www.yoganonymous.com/pages/privacy) for the most accurate reproduction.*
 
 # YOGANONYMOUS
 
