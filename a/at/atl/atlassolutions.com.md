@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlassolutions.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230035342id_/http%3A//atlassolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassolutions.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615152219id_/http%3A//atlassolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlas Solutions
 
@@ -53,11 +53,11 @@ We use all of the information we have to improve, support, and provide our adver
 
 
 
-We use a variety of technologies, such as pixels, browser headers, software development kits (“SDKs”), cookies and other technologies, to collect, use, log and share information as described in this policy so we can provide and support our Services. Our customers, partners and other parties may also use various technologies to collect information about you, such as when you interact with ads, websites, or apps using our Services. Learn more about how we use [cookies ](http://atlassolutions.com/cookie-policy/%20)or how [third parties](http://atlassolutions.com/third-parties) may collect information about you.
+We use a variety of technologies, such as pixels, browser headers, software development kits (“SDKs”), cookies and other technologies, to collect, use, log and share information as described in this policy so we can provide and support our Services. Our customers, partners and other parties may also use various technologies to collect information about you, such as when you interact with ads, websites, or apps using our Services. Learn more about how we use [cookies ](https://atlassolutions.com/cookie-policy/%20)or how [third parties](https://atlassolutions.com/third-parties) may collect information about you.
 
 **What choices do I have regarding how information is used?**
 
-Atlas supports the principles of and participates in the self-regulatory programs of the Digital Advertising Alliance (“DAA”) and the Network Advertising Initiative (“NAI”). [Learn more](http://atlassolutions.com/privacy-policy/about-our-ads) about how you can control how information collected from your browsers and devices is used to personalize the ads you see.
+Atlas supports the principles of and participates in the self-regulatory programs of the Digital Advertising Alliance (“DAA”) and the Network Advertising Initiative (“NAI”). [Learn more](https://atlassolutions.com/privacy-policy/about-our-ads) about how you can control how information collected from your browsers and devices is used to personalize the ads you see.
 
 **How is this information shared?**
 
