@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129025222id_/http%3A//www.getreading.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615050429id_/http%3A//www.getreading.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Get Reading: Latest Reading and Berkshire News, Sport and What's On
 
