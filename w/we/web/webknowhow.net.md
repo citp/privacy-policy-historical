@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webknowhow.net privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031174809id_/http%3A//www.devstart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webknowhow.net privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615045300id_/http%3A//www.devstart.com/privacy.html) for the most accurate reproduction.*
 
 # DevStart.com - The Web Developers Resource Center | Privacy Policy
 
