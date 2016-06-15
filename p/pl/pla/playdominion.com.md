@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the playdominion.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003210927id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdominion.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615084355id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Making Fun, Inc.
 
-**Updated September 5, 2015:**
+**Updated September 5, 2015**
 
 Summary of the Making Fun, Inc. Privacy Policy:
 
-**1.  INTRODUCTION – **The Introduction identifies the basic Making Fun Services covered by this Privacy Policy and provides a brief overview of what this Privacy Policy covers.
+**1\. INTRODUCTION –  **The Introduction identifies the basic Making Fun Services covered by this Privacy Policy and provides a brief overview of what this Privacy Policy covers.
 
 **2\. SUBMISSION AND COLLECTION OF INFORMATION –  **This section addresses the types of information that Making Fun collects directly from users and collection of non-personally identifiable information via cookies and related technologies by, and on behalf of, Making Fun and third parties.
 
@@ -24,7 +24,7 @@ Summary of the Making Fun, Inc. Privacy Policy:
 
 Making Fun, Inc. (“Making Fun” or “we”) is a publisher and developer of mobile and social games. The services Making Fun offers include MakingFun.com, games published on a variety of platforms, and other features, content, games or applications offered, from time to time, by or on behalf of, Making Fun, including when these services are accessed via the Internet, mobile or other device (collectively, the “Making Fun Services”).  Making Fun is based in the United States.
 
-As set forth in our [Terms of Use](http://www.makingfun.com/footer/terms-of-services/), the Making Fun Services are general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Use](http://www.makingfun.com/terms-of-services/), the Making Fun Services are general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all users.  This Policy describes the collection and use of users’ personal information on the Making Fun Services. It also describes generally Making Fun’s practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular user or user account.
 
@@ -96,13 +96,13 @@ Making Fun uses commercially reasonable administrative, technical, personnel and
 
 **6\. USER CONTROL AND ACCOUNT CANCELLATION**
 
-To access, correct, cancel, or update your account information, login to your account and go to the account setting. In some cases, in order to cancel your account, you may have to email Making Fun’s customer service at help@makingfun.com. Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances – where, for example, you have shared information on the Making Fun Services or with a third-party application or website.  We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies.  Because of the nature of caching technology, your account may not be instantly inaccessible to others, and we may not be able to remove your content or there may be a delay in the removal of the content from elsewhere on the Internet, for example, from search engines.
+To access, correct, cancel, or update your account information, login to your account and go to the account setting. In some cases, in order to cancel your account, you may have to email Making Fun’s customer service at [help@makingfun.com](mailto:help@makingfun.com). Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances – where, for example, you have shared information on the Making Fun Services or with a third-party application or website.  We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies.  Because of the nature of caching technology, your account may not be instantly inaccessible to others, and we may not be able to remove your content or there may be a delay in the removal of the content from elsewhere on the Internet, for example, from search engines.
 
 **7\. CONTACT US**
 
 If you have questions about this Privacy Policy, please contact Making Fun at:
 
-Email: privacy@makingfun.com
+Email: [privacy@makingfun.com](mailto:privacy@makingfun.com)
 
 Mail:  
 Making Fun, Inc  
