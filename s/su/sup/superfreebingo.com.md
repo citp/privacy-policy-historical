@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superfreebingo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630103409id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfreebingo.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615133753id_/http%3A//www.superfreebingo.com/basicprivacy) for the most accurate reproduction.*
 
-# Privacy Policy at Super Free Bingo
+# Privacy - Super Free Bingo — Super Free Bingo
 
 This privacy policy sets out how Super Free Bingo uses and protects any information that you give Super Free Bingo when you use this website.
 
@@ -23,7 +23,7 @@ We require this information to understand your needs and provide you with a bett
 
 #### Internal record keeping:
 
-We may use the information to improve our products and services. We will frequently send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests.
+We may use the information to improve our products and services. We will frequently send promotional emails and SMS messages about new products, special offers or other information, using the name, email address and mobile number that you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or SMS message. We may use the information to customise the website according to your interests.
 
 #### Security:
 
@@ -37,7 +37,7 @@ Cookies allow web applications to respond to you as an individual. The web appli
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. To find out more or to change how cookies interact with your computer, [click here](http://www.superfreebingo.com/privacy-and-cookies/).
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. To find out more or to change how cookies interact with your computer, [**click here**](http://www.superfreebingo.com/privacy-and-cookies/).
 
 #### Google Analytics
 
@@ -51,7 +51,8 @@ We and third-party vendors, including Google, use first-party cookies (such as t
 
 We use Google Analytics Demographics and Interest Reporting in order to target users who have a higher probability of being interested in our products. We also may use 3rd-party audience data (such as age, gender, and interests) to help guide our website offering to better meet consumer needs, an ultimately improve the user experience.
 
-Using the  _Ads Settings_ , you can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads. Read more here: [Opt Out Information](https://tools.google.com/dlpage/gaoptout/).
+Using the Ads Settings, you can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads. Read more here: [  
+**Opt Out Information**](https://tools.google.com/dlpage/gaoptout/).
 
 #### Links to other websites:
 
@@ -63,11 +64,11 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable.
 
-If you would like a copy of the information held on you please [contact us](https://web.archive.org/contact).
+If you would like a copy of the information held on you please [**contact us**](https://web.archive.org/contact).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.
 
-If wish to unsubscribe from this service please email [contact us](https://web.archive.org/contact/) using the subject line "Unsubscribe" also please include the email address you signed up with. Please allow 3 -5 working days for your request to be processed.
+If wish to unsubscribe from this service please email [**contact us**](https://web.archive.org/contact/) using the subject line “Unsubscribe” also please include the email address you signed up with. Please allow 3 -5 working days for your request to be processed.
 
 #### Little Star Media
 
