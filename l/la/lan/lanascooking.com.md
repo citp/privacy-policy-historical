@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213030056id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615042747id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Never Enough Thyme
 
