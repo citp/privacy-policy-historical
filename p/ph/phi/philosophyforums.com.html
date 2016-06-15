@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the philosophyforums.com privacy policy that was archived on 2015-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205221526id_/http%3A//forums.philosophyforums.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the philosophyforums.com privacy policy that was archived on 2016-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615214032id_/http%3A//forums.philosophyforums.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -51,7 +51,7 @@ $(".memuitems a").click(function(e) { $(".menuitems").hide(500); });
       
         });
         
-        $("#loginsubmit").click(function(e){ modallogin("http://forums.philosophyforums.com/index.php?rewritten=1&TID=pages-privacypolicy", e); });        
+        $("#loginsubmit").click(function(e){ e.preventDefault(); modallogin("http://forums.philosophyforums.com/index.php?rewritten=1&TID=pages-privacypolicy", e); });        
    
 $(".fb-login-button").click(function() {
  wsn_unmakecookie("fblogout");
@@ -62,7 +62,7 @@ $(".fb-login-button").click(function() {
 });
 
 $("#logout").click(function() { wsn_makecookie("fblogout", 1); wsn_unmakecookie("fblogin"); FB.Logout(); window.reload(); });
-
+ $("#addisplay6").click(function() { $.get("http://forums.philosophyforums.com/ajax.php?action=countadclick&id=6", {}, function(response) {}); });  $("#addisplay2").click(function() { $.get("http://forums.philosophyforums.com/ajax.php?action=countadclick&id=2", {}, function(response) {}); });  $("#addisplay4").click(function() { $.get("http://forums.philosophyforums.com/ajax.php?action=countadclick&id=4", {}, function(response) {}); }); 
         if ($("#searchauto").length) $("#searchauto").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" });
         else $("[name=searchauto]").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" });
 
@@ -74,9 +74,10 @@ $('a.ajaxdelete').click(function(e) { wsn_doajaxdelete(e, this.href, this.id); }
 //]]>
 </script>
 <title>Privacypolicy: Philosophy Forums</title>
-<link rel="stylesheet" href="http://forums.philosophyforums.com/schemas/base.css">
-<link rel="stylesheet" href="http://forums.philosophyforums.com/templates/styles/bootstrap.css">
+<link rel="stylesheet" href="http://forums.philosophyforums.com/schemas/base.css" type="text/css">
+<link rel="stylesheet" href="http://forums.philosophyforums.com/templates/styles/bootstrap.css" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+</head><body><div id="addisplay6" class="adslots"></div>
 <link rel="alternate" type="application/rss+xml" title="Philosophy Forums" href="http://forums.philosophyforums.com/rssfeed.php">
 
 <meta property="fb:app_id" content="187377864634370">
@@ -85,12 +86,13 @@ $('a.ajaxdelete').click(function(e) { wsn_doajaxdelete(e, this.href, this.id); }
 <meta property="og:site_name" content="Philosophy Forums">
 <meta property="og:type" content="website">
 
-</head>
 
-<body>
+
+
 
 <header>
-<div id="topcontainer">
+
+<div id="topcontainer" class="stickytop">
 
 <div class="floatleft">
 <div class="logobg"> </div>
@@ -103,32 +105,36 @@ $('a.ajaxdelete').click(function(e) { wsn_doajaxdelete(e, this.href, this.id); }
 
 
 
-<div id="toprightad"></div>
-
 </div>
 
 <div class="clear"></div>
 
-<nav class="navbar navbar-default">
-<ul class="nav navbar-nav">
-<li><a id="mobilemenubutton">☰ Options</a></li>
+<nav class="navbutton">
+<a id="mobilemenubutton">☰ Options</a>
+<span class="menuitems">
 
-<li><a href="http://forums.philosophyforums.com/members/">Members</a></li>
+<a href="http://forums.philosophyforums.com/members/">Members</a> 
 
-<li><a href="http://forums.philosophyforums.com/calendar.php" rel="nofollow">Calendar</a></li>
+<a href="http://forums.philosophyforums.com/calendar.php" rel="nofollow">Calendar</a> 
 
-<li><a href="http://forums.philosophyforums.com/newposts.php" rel="nofollow">Latest</a></li>
+<a href="http://forums.philosophyforums.com/newposts.php" rel="nofollow">Latest</a> 
 
-<li><a href="http://forums.philosophyforums.com/chat.php" rel="nofollow">Chat</a></li>
+<a href="http://forums.philosophyforums.com/chat.php" rel="nofollow">Chat</a> 
 
-<li><a href="http://forums.philosophyforums.com/help/">Help</a></li>
+<a href="http://forums.philosophyforums.com/help/">Help</a> 
 
-<li><a id="login" href="http://forums.philosophyforums.com/index.php?action=userlogin">Log In</a></li>
+<a id="login" href="http://forums.philosophyforums.com/index.php?action=userlogin">Log In</a> 
 
-<li><a href="http://forums.philosophyforums.com/register.php" rel="nofollow">Register</a></li>
+<a href="http://forums.philosophyforums.com/register.php" rel="nofollow">Register</a> 
 
-</ul>
+</span>
 </nav>
+
+<div class="clear"></div>
+
+<div id="top-banner-ad" class="ad"><div id="addisplay2" class="adslots"><script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js">
+  googletag.pubads().definePassback('/129092098/revon-philosophy-728x90', [728, 90]).display();
+</script></div></div>
 
 <div class="clear"></div>
 
@@ -137,7 +143,7 @@ $('a.ajaxdelete').click(function(e) { wsn_doajaxdelete(e, this.href, this.id); }
 <div class="warning" id="loginproblem"></div>
 Username<br><input type="text" name="username" id="loginname" class="giantinput"><br>
 Password<br><input type="password" name="userpassword" id="loginpassword" class="giantinput"><br>
-<button class="btn btn-default" type="submit" id="loginsubmit">Login</button>
+<button type="submit" id="loginsubmit" class="bigbutton halfwide">Login</button>
 <a href="http://forums.philosophyforums.com/index.php?action=userlogin" rel="nofollow">Forgot your password?</a>
 </form>
 <p style="center bigtext">or<br><br>
@@ -194,14 +200,29 @@ Password<br><input type="password" name="userpassword" id="loginpassword" class=
 
 <div class="push"></div>
 
- <footer class="footer panel-footer text-muted">
+<div class="clear"></div>
+
+<div id="bottom-banner-ad" class="ad"><div id="addisplay4" class="adslots"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9239195125740515";
+/* Philosophyforums.com Tag 4 - 970x90 */
+google_ad_slot = "9873169248/6780000768";
+google_ad_width = 970;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></div>
+
+<div class="clear"></div>
+
+<footer>
 <div id="bottomarea">
 <div id="languageandtheme">
  <form action="http://forums.philosophyforums.com/index.php?action=setstyle" method="post">
  Style:
   <input type="hidden" name="returnto" value="http://forums.philosophyforums.com/index.php?rewritten=1&amp;TID=pages-privacypolicy">
   <select name="style"><option value="blue">blue</option><option value="bluepigment11">bluepigment11</option><option value="bootstrap" selected="selected">bootstrap</option><option value="dark">dark</option><option value="default">default</option><option value="edir">edir</option><option value="green">green</option><option value="greenbubblz">greenbubblz</option><option value="large">large</option><option value="lightblue">lightblue</option><option value="modern">modern</option><option value="simplicity">simplicity</option><option value="space">space</option><option value="stark">stark</option><option value="techmania12">techmania12</option><option value="white">white</option></select>
-  <button type="submit" class="btn btn-default btn-sm">Go ►</button>
+  <button type="submit" class="gobutton btn btn-default btn-sm">Go ►</button>
  </form>
  
  
@@ -212,7 +233,7 @@ Password<br><input type="password" name="userpassword" id="loginpassword" class=
  <option value="0">Choose Forum</option>
  <optgroup label="Philosophy"><option value="18"> Introduction to Philosophy / Factual Issues / Books</option><option value="4"> General Philosophy</option><option value="17"> Metaphysics and Epistemology</option><option value="6"> Ethics</option><option value="21"> Logic and Philosophy of Math</option><option value="143">- Logic and Math Homework</option><option value="28"> Philosophy of Religion</option><option value="11">- Religion (non-philosophical discussions)</option><option value="22"> Philosophy of Language</option><option value="15"> Philosophy of Science</option><option value="141">- Science</option><option value="12"> Philosophy of Politics and Law</option><option value="23">- Politics</option><option value="14"> Social Sciences</option><option value="7"> Philosophy of the Arts</option><option value="24"> Debates</option><option value="25">- Debate Discussion</option><option value="152"> Guest Speakers</option><option value="160">- Graham Priest</option><option value="153">- David Chalmers</option><option value="155">- John Searle</option></optgroup><optgroup label="Not Quite Philosophy"><option value="158"> Casual Philosophyesque Discussions</option><option value="159"> Unmoderated</option></optgroup><optgroup label="Off Topic"><option value="10"> Community / Off Topic</option><option value="27">- The Green Room</option><option value="9"> Feedback</option><option value="151">- The Dumpster</option><option value="13"> Moderators</option><option value="148">- Reports</option><option value="26">- Contact Form</option></optgroup>
 </select>
-<button type="submit" class="btn btn-default btn-sm">Go ►</button>
+<button type="submit" class="gobutton btn btn-default btn-sm">Go ►</button>
 </form>
 </div>
 
@@ -236,7 +257,6 @@ Password<br><input type="password" name="userpassword" id="loginpassword" class=
 
 <p></p>
 </footer>
-
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
