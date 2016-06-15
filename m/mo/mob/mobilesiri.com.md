@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilesiri.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216023543id_/http%3A//mobilesiri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesiri.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615200931id_/http%3A//mobilesiri.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MobileSiri
+# Privacy Policy| | MobileSiri
 
 Mobilesiri.com takes privacy issues very seriously. Submission of personal information is not required in order to browse the website. We use demographic and traffic information of our users only to analyze the readers community and may also provide it to potential advertisers and business partners. This does not include personal reader information. Submission of this information on Mobilesiri.com is always optional and will never be provided to third parties.  
 To ensure that users email addresses will not get in any bulk mail lists or newsletters, we at Mobilesiri.com modify the addresses so any email collecting scripts will not be able to gather them. Besides that, only in the Forum section of the website it is obligatory for the user to provide an email address in order to complete the registration. The Forum section requires certain user information in order to take full advantage of the software features. This information will never be provided to third parties.
