@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the directcanada.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216134528id_/http%3A//www.directcanada.com/customercare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directcanada.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615193729id_/http%3A//www.directcanada.com/customercare/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - DirectCanada
-
-[Home](http://www.directcanada.com/) > Customer Care > Privacy Policy 
 
 ## What Personal Information About Customers Does DirectCanada.com Gather?
 
