@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etfdailynews.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210190144id_/http%3A//etfdailynews.com/about-wwwetfdailynewscom/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etfdailynews.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615085810id_/http%3A//etfdailynews.com/about-wwwetfdailynewscom/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | ETF DAILY NEWS
 
