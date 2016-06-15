@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216202002id_/http%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskpolytech.ca privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615231244id_/http%3A//saskpolytech.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,9 +6,11 @@ Saskatchewan Polytechnic is committed to protecting the privacy and the personal
 
 Saskatchewan Polytechnic is a "local authority" pursuant to [The Local Authority Freedom of Information and Protection of Privacy Act](http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/L27-1.pdf) (LAFOIP). Accordingly, Saskatchewan Polytechnic has a responsibility in many instances to provide access to records that are in its possession and control. Saskatchewan Polytechnic also has a duty to protect the personal information that it acquires in the course of delivering its programs and services. Saskatchewan Polytechnic strives to ensure that both Saskatchewan Polytechnic and any third parties working with Saskatchewan Polytechnic comply with not only LAFOIP, but also with any other legislation that may apply to the collection, use and disclosure of personal information of any kind. 
 
-**Access to Information** To learn more about the types of records which may be accessed and to see how to make an [Access to Information Request](https://web.archive.org/about/about-us/freedom-of-information.aspx), please refer to Saskatchewan Polytechnic's [Freedom of Information Statement](https://web.archive.org/about/about-us/freedom-of-information.aspx). 
+## Access to Information
 
-**Protecting Your Personal Information  
+To learn more about the types of records which may be accessed and to see how to make an [Access to Information Request](https://web.archive.org/about/about-us/freedom-of-information.aspx), please refer to Saskatchewan Polytechnic's [Freedom of Information Statement](https://web.archive.org/about/about-us/freedom-of-information.aspx). 
+
+## Protecting Your Personal Information **  
 **
 
 _What is Personal Information?  
@@ -129,7 +131,7 @@ _ Additional Saskatchewan Polytechnic [policies and procedures](https://web.arch
 
 Links to FAQ's relating to a number of the policies are provided in the electronic version of the relevant policy. 
 
-**Saskatchewan Polytechnic Privacy Head**
+## Saskatchewan Polytechnic Privacy Head
 
 Questions about this privacy statement or concerns about your privacy or about access to information may be directed, in writing, to Saskatchewan Polytechnic's Privacy Head at the following address: 
 
@@ -138,7 +140,9 @@ Saskatchewan Polytechnic Administrative Offices 
 Saskatoon SK S7K 5X2  
 [privacyhead@saskpolytech.ca](mailto:privacyhead@saskpolytech.ca)
 
-**Additional Resources** **** _Office of the Saskatchewan Information and Privacy Commissioner  _  
+## Additional Resources
+
+_Office of the Saskatchewan Information and Privacy Commissioner  _  
 503 - 1801 Hamilton Street  
 Regina, Saskatchewan S4P 4B4  Telephone:  306-787-8350  
 Toll Free Telephone (within Saskatchewan): 1-877-748-2298  
