@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7news.com.au privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112112120id_/https%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7news.com.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615171846id_/https%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
