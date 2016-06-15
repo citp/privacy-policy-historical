@@ -1,42 +1,49 @@
-> *The following text is extracted and transformed from the hackcollege.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003736id_/http%3A//www.hackcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackcollege.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615095954id_/http%3A//www.hackcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HackCollege
 
-HackCollege.com’s privacy policy serves to explain to its users what personal information we collect, why we collect it, and under what circumstances we will share it. If any of our information rules change, we may update this policy to display those changes. We urge you to check our privacy policy from time to time so that you can maintain a current knowledge of our information practices. 
+_Terms of Use and Privacy Policy for Use of HackCollege (Effective January 22, 2016)_
 
-#### Information HackCollege.com Collects 
+Thank you for visiting HackCollege and using our website content and services. This page explains the conditions under which you may utilize our website, and the way in which HackCollege gathers and uses different information to provide our content and related products and services. By using our website, you are agreeing to these Terms of Use and Privacy Policy.
 
-While using HackCollege.com, it is common for us to collect your contact, computer, and demographic information. This can include, but is not limited to, your home phone number, cell phone number, mailing address, first and last name, gender, income level, hobbies, operating system, IP address, and so on.
+## Types of Information Collected
 
-#### How HackCollege.com Uses Collected Information
+### Submitted Information
 
-This collected information is used to improve our business and services, engage in research and analysis, as well as provide you with a variety of services. More specifically, it is used to contact you in reference to: 
+In order to provide the services that our visitors request, we provide web forms for the voluntary submission of personal contact information (such as name, telephone number, email address and mailing address), as well as any other information needed to match you to an education-related product or service. The information you submit is collected, stored and shared with schools, programs and other services relevant to education.
 
-  * Schools that fit your needs
-  * Degrees that will help you attain your career goals
-  * Customer service requests
-  * Questions you’ve expressed
-  * Current news, services, or products related to HackCollege.com 
+Submitting this information authorizes HackCollege and our affiliated schools and partners to contact you in accordance with all applicable laws by telephone, text messages, email or mail regarding education options or related subjects. However, if you receive any email communication from us, a third party or a school, you will be able to unsubscribe through a link provided in the email. At this point, you’ll be removed from further mailings from that sender.
+
+### Automatic information
+
+HackCollege receives and stores certain types of anonymous information whenever you interact with us. This may include, but is not limited, to your browser version, operating system version and IP address. This information is used for improving and creating a better user experience. We use “cookies” to collect this anonymous data for site optimization, analytics and advertising and marketing purposes. 
+
+By using our website, you acknowledge and agree that information collected on HackCollege may be shared with schools, affiliated companies and third parties, and to allow us to provide you with information regarding degrees, programs and other education related products and services. Additionally, you acknowledge and agree that we retain the right to release any information that we collect, including personally identifiable information, as needed, to businesses providing our company with administration services, such as email service delivery.
+
+By submitting any personal information to HackCollege, you are granting permission for us, our affiliates, including schools, third party marketing partners and vendors to contact you. This may be via telephone, text messages, mail or email for purposes of providing information, including marketing, for education related products and services. You also grant us, our affiliates and partners and vendors the right to contact you for a period of time and relinquish any rights granted by the Do Not Call list or other applicable law. Your submission serves as an omission to the Do Not Call requirements established by state and federal governments and may exempt us from other applicable laws.
+
+Additionally, we retain the right to release your personal information when required by law. For example, in the case of abiding by a subpoena or other legal procedure, when, in good faith, we believe it necessary to preserve our rights, ensure the safety of you or others, explore alleged fraud, to reply to a government or legal request, and/or in the instance that HackCollege is merging, acquisitioning or selling some or all of its assets to a third party. 
+
+### Cookie Policy 
+
+Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes like web analytics. Google Analytics, a tool provided by Google, Inc., is our primary tool for performing web analytics. Users remain anonymous; advertising cookies do not contain personally identifiable information. However, cookies allow advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes called third-party cookies, since they track navigation and publish ads on behalf of third parties. For more information about Google Analytics, check Google’s privacy policy here: http://www.google.com/intl/en/analytics/privacyoverview.html.
+
+By using this website, you acknowledge and consent to our use of Cookies. 
+
+Here are some examples of how Cookies may be used by us, including through services and partnerships with vendors and third party service providers: 
+
+  * Marketing and conversion tracking cookies used for, but not limited to, targeting and optimizing digital ad serving to improve relevance, user experience and advertising effectiveness 
+  * Web analytics that include demographic and other anonymous data for web optimization and other analysis
+  * ”Lead auditing” to ensure accuracy, relevance and validity of submitted information 
 
 
 
-Additionally, HackCollege.com and its related affiliates may use this information to contact you, as your supplied personal information serves as an inquiry into our services and grants us permission to do so. This contact consent extends to contact by telephone despite your enrollment in state or federal Do Not Call lists; a query of this kind effectively excludes us and our affiliates from the requirements stipulated by all Do Not Call lists.
+You can remove cookies through your browser settings at any time, but you may need to do so on a per use and not one time basis. 
 
-#### Choice/Opt-Out 
+You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. This can be done by visiting the opt-out pages on the NAI website and DAA website.
 
-Occasionally, HackCollege.com will send you marketing communications. If you do not want to be a recipient of these communications, you may opt-out by unsubscribing; directions for doing so are located in our emails to you.
+## Terms of Use and Privacy Policy Changes Notification
 
-#### Information HackCollege.com Shares 
+It is possible that we will revise our Terms of Use and Privacy Policy in the future. In order to stay current with our practices concerning your privacy and other important information, it is recommended that you reread this document periodically. 
 
-Instances in which we will share your personal information with third party companies are compliant with this privacy policy. On no occasion will HackCollege.com share your personal information with a third party to benefit its unrelated marketing undertakings. Correspondingly, HackCollege.com will only share your personal information in the following circumstances:
-
-  * To aid in its business efforts when it contracts a third party service provider. For example, HackCollege.com may give your mailing address to a communications service it contracts to mail you a HackCollege.com newsletter.
-  * If HackCollege.com ever becomes involved in the merging, acquiring, or selling of any of its business assets, it may share your information with a third party, if equipped with your former consent, when we feel doing so is necessary to protect our business, yours or others’ safety, examine a case of fraud, or adhere to a government demand.
-
-
-
-#### Contact Information 
-
-Please contact us at info@HackCollege.com if you find you have any questions regarding HackCollege.com’s privacy policy. 
-
-Effective as of August 18, 2012 
+Please contact us if you have any questions or concerns about this Terms of Use and Privacy Policy.
