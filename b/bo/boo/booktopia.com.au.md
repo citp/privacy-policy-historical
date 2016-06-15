@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014524id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615183831id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
 
 # Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
 
