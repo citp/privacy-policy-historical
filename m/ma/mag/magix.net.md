@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210044840id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055316id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,11 +36,9 @@ On this website Google Analytics, a web analysis service by Google Inc, gathers 
 
 Using a corresponding code extension, Google Analytics captures your IP address on our website, but in an anonymous form.
 
-On these web pages plug-ins from the social network facebook.com are used, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook").
+In addition, we use Google remarketing and Google DoubleClick technology on our website.This technology enables users who have visited our website and are interested in our products to be targeted with specific advertisements. This benefits users in that they will receive advertisements that are in line with their interests. All data collected by this technology is anonymous, so individual users cannot be identified. Users can opt out of targeted advertising within the Google network via the following link: <http://www.google.com/ads/preferences/html/opt-out.html>.
 
-If you access Internet pages provided by our website with this kind of plug-in, a link to the Facebook servers will be created and a plug-in will be displayed on the website by notifying your browser. Thereby notifying the Facebook servers which of our websites you have visited. If you are logged in as a member of Facebook, Facebook assigns this information to your personal Facebook account. When using plug-in functions (such as clicking on the "Like" button, or when leaving a comment) this information is associated with your Facebook account, you can prevent this by logging out before using the plug-in.
-
-Please consult Facebook's privacy policy for more detailed information on your rights and ways to protect your privacy and how Facebook collects and uses data, which you can read about at <http://www.facebook.com/policy.php>.
+The MAGIX website uses retargeting technology from AdRoll (AdRoll, 972 Mission St, 3rd Floor, San Francisco, CA 94103, United States). This technology enables targeting individual Internet users who have already shown interest in our shop and products with advertising. Naturally, no personal information is requested or saved in the process. The AdRoll privacy statement and privacy policy are found under the following link: <https://www.adroll.com/about/privacy>. Additionally, you can decide to opt out of targeted ads from AdRoll by clicking on the following link: <https://app.adroll.com/optout/safari>.
 
 #### The following applies in other cases:
 
@@ -76,4 +74,4 @@ In accordance with the federal data protection act you have the right to free in
 
 ### Application register
 
-Our application register according to section 4 paragraph 2 of the federal data protection act can be [found here](https://web.archive.org/fileadmin/user_upload/Misc/PDF/en/magix_Application_register.pdf).
+Our application register according to section 4 paragraph 2 of the federal data protection act can be [found here](https://web.archive.org/fileadmin/user_upload/Misc/PDF/en/application_register.pdf).
