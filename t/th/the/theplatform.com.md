@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908084347id_/https%3A//www.theplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191939id_/https%3A//www.theplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # thePlatform Privacy Policy | thePlatform
 
@@ -10,7 +10,7 @@ As the Internet and the World Wide Web accelerate the exchange of information be
 
 thePlatform has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.thePlatform.com](https://web.archive.org/web/20150908084347id_/https://www.theplatform.com/privacy-policy/www.theplatform.com/) and our service the Service Portals. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged thePlatform.
+The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.thePlatform.com](https://web.archive.org/web/20160616191939id_/https://www.theplatform.com/privacy-policy/www.theplatform.com/) and our service the Service Portals. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged thePlatform.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
