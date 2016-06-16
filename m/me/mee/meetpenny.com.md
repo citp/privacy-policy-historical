@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100835id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616032149id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Meet Penny
 
@@ -52,10 +52,6 @@ Accordingly, we have developed this Policy in order for you to understand how we
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-Subscribe to receive a FREE ebook.
+### Boost Your Income!
 
-### Your family matters more than anything but finding the balance between time and money is a problem.
-
-Subscribe to Meet Penny and receive a weekly email packed with resources for ways you can save, serve, LOVE. New subscribers also receive a copy of my ebook, _Advanced Penny Pinching_ , for FREE.
-
-_I treasure my subscribers and will never send you spam or sell your email address._
+Sign up for the FREE email class (coming in January!) and find your side hustle. Boost your income!
