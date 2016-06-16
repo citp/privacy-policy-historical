@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adayinmotherhood.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215230014id_/http%3A//www.adayinmotherhood.com/anti-spam_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adayinmotherhood.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171150id_/http%3A//www.adayinmotherhood.com/anti-spam_policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Disclaimer - A Day in Motherhood
 
@@ -30,17 +30,17 @@ Unauthorized use of any A Day in Motherhood services in connection with the tran
 Violators of the CAN SPAM Act may be subject to “cease and desist” orders or penalties from the FTC (Federal Trade Commission) of up to $11,000 per violation. Criminal prosecution is also possible in the case of egregious offenders, which can result in penalties such as fines, forfeiture of proceeds and equipment. The worst offenders can also be subject to prison time.
 
 A Day in Motherhood  
-www.adayinmotherhood.com
+http://192.138.17.90/~adayinm/
 
 lomargie@rfehosting.com
 
 **Giveaway/ Review Disclaimer**
 
-_**[ADayinMotherhood.com](https://web.archive.org/web/20151215230014id_/http://www.adayinmotherhood.com/2011/) is the writer and distributor of  posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}.  100% of the opinions and writings are [ADayinMotherhood.com’s](https://web.archive.org/web/20151215230014id_/http://www.adayinmotherhood.com/2011/) and can not be duplicated without prior permission.  Images and links were used with permission from the website/ promoters discussed. **_
+_**[ADayinMotherhood.com](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) is the writer and distributor of  posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}.  100% of the opinions and writings are [ADayinMotherhood.com’s](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) and can not be duplicated without prior permission.  Images and links were used with permission from the website/ promoters discussed. **_
 
-_**[ADayinMotherhood.com](https://web.archive.org/web/20151215230014id_/http://www.adayinmotherhood.com/2011/) is not responsible for the delivery of the winners prizes.  All complaints  and dissatisfactions with the website or products within are to be discussed with the sponsoring company. **_
+_**[ADayinMotherhood.com](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) is not responsible for the delivery of the winners prizes.  All complaints  and dissatisfactions with the website or products within are to be discussed with the sponsoring company. **_
 
-_**Giveaway winners are chosen by a random generator and failure to follow the rules of entry disqualifies that entry.**_ _ **By entering this giveaway, you understand and agree that[ADayinMotherhood.com](https://web.archive.org/web/20151215230014id_/http://www.adayinmotherhood.com/2011/) is is no way responsible for the production, delivery, or quality of the received product.**_
+_**Giveaway winners are chosen by a random generator and failure to follow the rules of entry disqualifies that entry.**_ _ **By entering this giveaway, you understand and agree that[ADayinMotherhood.com](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) is is no way responsible for the production, delivery, or quality of the received product.**_
 
 **Privacy Policy**
 
