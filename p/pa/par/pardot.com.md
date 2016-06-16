@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228234445id_/http%3A//www.pardot.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053550id_/http%3A//www.pardot.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pardot
+# Privacy Policy | Pardot
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
