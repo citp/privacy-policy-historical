@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaibisket.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209055514id_/http%3A//chaibisket.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaibisket.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616183350id_/http%3A//chaibisket.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Chai Bisket |
 
