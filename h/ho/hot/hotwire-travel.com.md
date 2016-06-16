@@ -1,33 +1,12 @@
-> *The following text is extracted and transformed from the hotwire-travel.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228044713id_/http%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwire-travel.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051627id_/http%3A//www.hotwire.com/en/content/privacy-policy%3Fcc%3Dus) for the most accurate reproduction.*
 
 # Privacy policy | Hotwire.com
 
-This Privacy Policy is effective as of January 1, 2014.
-
-Below you will find the updated Privacy Policy for Hotwire (www.hotwire.com).
+This Privacy Policy is effective as of April 17, 2016.
 
 We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
 
-  * What information we collect from you
-  * How we use your information
-  * With whom we share your information
-  * How you can access your information
-  * Your choices with respect to the collection and use of your information
-  * Cookies and other technologies
-  * Display of tailored advertising/Your choices
-  * Using the Hotwire.com mobile phone and tablet Apps
-  * How we protect your information
-  * Children's privacy
-  * External links
-  * Visiting our website from outside the United States
-  * U.S.-Swiss Safe Harbor Framework
-  * Secure Flight Privacy Notice
-  * Changes to this Privacy Policy
-  * How you can contact us
-
-
-
-**What information we collect from you**
+ **What information we collect from you**
 
 **In General**  
 We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; book travel; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site.
@@ -60,7 +39,7 @@ This website may share your information with the following entities:
 
 **Third-party vendors** who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or our Apps or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
 
-**Business partners** with whom we may jointly offer products or services, or whose products or services may be offered on our website or through our Apps. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. 
+**Business partners** with whom we may jointly offer products or services, or whose products or services may be offered on our website or through our Apps. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
 
 **Referring websites.** If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites' use of your personal information and we encourage you to review the privacy policies of any website that referred you here.
 
@@ -68,9 +47,9 @@ This website may share your information with the following entities:
 
 We also may share your information:
 
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
-  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website or our Apps, our customers, or others; and in connection with our Terms of Service and other agreements. 
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website or our Apps, our customers, or others; and in connection with our Terms of Service and other agreements.
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
 
 
@@ -84,10 +63,10 @@ Hotwire registered users can access and update their contact information by visi
 
 **Your choices with respect to collection and use of your information**
 
-  * As discussed above, you can choose not to provide us with any information, although it may be needed to make travel bookings or to take advantage of certain features offered on our site or our Apps. 
+  * As discussed above, you can choose not to provide us with any information, although it may be needed to make travel bookings or to take advantage of certain features offered on our site or our Apps.
   * You also can add or update information and close your account as described above.
-  * As a Hotwire registered user, you can modify your subscription choices at any time on the Hotwire My Account page. Whether registered as a member or not, you also will be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from our site, you will not be able to access portions of this site. 
+  * As a Hotwire registered user, you can modify your subscription choices at any time on the Hotwire My Account page. Whether registered as a member or not, you also will be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from our site, you will not be able to access portions of this site.
 
 
 
@@ -95,15 +74,15 @@ Hotwire registered users can access and update their contact information by visi
 
 Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). This website use cookies for the following general purposes:
 
-  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting this site. For example, if you register on this site, we may use cookies to remember your registration information. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information. 
-  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See the "Display of advertising/Your choices" section for more information about our online advertising practices and your choices. 
-  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon). 
+  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting this site. For example, if you register on this site, we may use cookies to remember your registration information. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information.
+  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See the "Display of advertising/Your choices" section for more information about our online advertising practices and your choices.
+  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon).
 
 
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our site.
 
-In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our website. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click here: <http://kb2.adobe.com/cps/526/52697ee8.html>. 
+In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our website. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click here: <http://kb2.adobe.com/cps/526/52697ee8.html>.
 
 This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our site to another, to deliver or communicate with cookies, to understand whether you have come to this site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on this site. This helps us measure the effectiveness of our content and other offerings.
 
@@ -133,10 +112,10 @@ When you use a Hotwire.com Mobile App, we collect and use information about you 
 
 In addition to this, we also use some other information that we collect automatically when you use our Mobile Apps. Specifically:
 
-  * We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you. 
-  * Each Mobile App also creates a sequence of numbers or characters that are unique to your mobile device (a “Mobile Identifier”), which is used for identification purposes, including identifying your preferences. We use communicate with our advertising networks regarding the number of downloads resulting from clicks on their respective ad banners and other marketing tools using industry standard mobile identifiers. 
-  * If you use a Mobile App's ’find hotels’ feature using your ‘current location,’ we use information about your current location – provided by your mobile device using GPS or similar technologies – to show nearby facilities. We do not collect location data unless you expressly click on the ’find hotels’ feature using ‘current location’ as your destination or you switch on location data collection through your phone settings menu. 
-  * Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the Mobile Identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error. 
+  * We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you.
+  * Each Mobile App also creates a sequence of numbers or characters that are unique to your mobile device (a “Mobile Identifier”), which is used for identification purposes, including identifying your preferences. We use communicate with our advertising networks regarding the number of downloads resulting from clicks on their respective ad banners and other marketing tools using industry standard mobile identifiers.
+  * If you use a Mobile App's ’find hotels’ feature using your ‘current location,’ we use information about your current location – provided by your mobile device using GPS or similar technologies – to show nearby facilities. We do not collect location data unless you expressly click on the ’find hotels’ feature using ‘current location’ as your destination or you switch on location data collection through your phone settings menu.
+  * Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the Mobile Identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
 
 
 
@@ -166,6 +145,10 @@ As described in our [Safe Harbor Privacy Statement](http://www.expedia.com/p/inf
 
 **Privacy notice (found in Section 1560.103 of the Secure Flight Final Rule):** The Transportation Security Administration of the U.S. Department of Homeland Security requires us to collect information from you for purposes of watch list screening, under the authority of 49 U.S.C. section 114, and the Intelligence Reform and Terrorism Prevention Act of 2004. Providing this information is voluntary; however, if it is not provided, you may be subject to additional screening or denied transport or authorization to enter a sterile area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA Privacy policies, or to view the system of records notice and the privacy impact assessment, please see TSA's website at [www.tsa.gov](http://www.tsa.gov/).
 
+**Agreement to Hotwire’s Terms of Use**
+
+Your use of the Hotwire.com Website is also subject to [Hotwire’s Terms of use](http://merch.hotwire.com/en/content/terms-use?cc=us). Any disputes related to this Privacy Policy shall be governed by the dispute resolution provisions of the Terms of Use (including, but not limited to, its provisions concerned dispute arbitration) which are incorporated here by reference.
+
 **Changes to this Privacy Policy**
 
 We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website and/or through our Apps.
@@ -189,4 +172,4 @@ If you have questions about this Privacy Policy (or your travel planning or purc
 > Hotwire Customer Care  
 >  655 Montgomery Street, Suite 600  
 >  San Francisco, CA 94111  
->  U.S.A 
+>  U.S.A
