@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182709id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616035756id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
@@ -70,6 +70,6 @@ If you have any questions about our privacy policy or the information you have p
 
 You can also reach us by regular mail at the following address:  
 Liberal Party of Canada  
-81 Metcalfe Street, Suite 600  
-Ottawa, Ontario K1P 6M8  
+350 Albert Street, Suite 920  
+Ottawa, Ontario, K1P 6M8  
 Attention: Deputy Director of Compliance
