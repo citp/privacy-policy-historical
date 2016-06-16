@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fxnetworks.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025211308id_/http%3A//www.fxnetworks.com/settings/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxnetworks.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616065032id_/http%3A//www.fxnetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FX Networks
 
-**Effective as of August 25, 2015.**
+**Effective as of December 1, 2015.**
 
 **1\. INTRODUCTION**
 
@@ -10,7 +10,7 @@ FX Networks, LLC ("FX"), which operates the FXNetworks.com website, has develope
 
 By providing personal information to us and using the FX Services, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies ("FX Affiliates") click [here](http://www.21cf.com/). 
 
-As set forth in our [Terms of Use](http://www2.fxnetworks.com/settings/terms-of-use), the FX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
+As set forth in our [Terms of Use](http://www.fxnetworks.com/terms-of-use), the FX Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
 This Privacy Policy applies to all users, including both those who use some of the FX Services without being registered for an FX Service and those who have registered for one or more FX Service. This Privacy Policy applies to FX's collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally FX's practices for handling non-personal information (e.g., interests, demographics and services usage). 
 
@@ -18,11 +18,11 @@ This Privacy Policy applies to all users, including both those who use some of t
 
 FX and our service providers collect the following information from and about you: 
 
-**Registration Information** is the information you submit to register for our FX Services, for example to create an FX account, receive a newsletter or mobile alert, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, birthday, and phone number. 
+**Registration Information** iis the information you submit to register for our FX Services, for example to create an FX account, receive a newsletter or mobile alert, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, birthday, and phone number. 
 
 **Public Information and Posts** consist of comments or content that you post to the FX Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, and profile information. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
 
-**Social Media Information and Content** . If you access or log-in to an FX Service through a third party social media service or another website, app, service or log-in ("Other Service"), or connect an FX Service to Other Services, the information we collect may also include your user ID and/or user name associated with that Other Service, any information or content you have permitted the Other Service to share with us, such as your profile picture, email address or friends' lists, and any information you have made public in connection with that Other Service (collectively, "Social Media Information and Content"). When you access the FX Services through Other Services, or when you connect an FX Service to Other Services, you are authorizing FX to collect, store, and use any and all Social Media Information and Content in accordance with this Privacy Policy. ****
+**Social Media Information and Content** **. If you access or log-in to an FX Service through a third party social media service or another website, app, service or log-in ("Other Service"), or connect an FX Service to Other Services, the information we collect may also include your user ID and/or user name associated with that Other Service, any information or content you have permitted the Other Service to share with us, such as your profile picture, email address or friends' lists, and any information you have made public in connection with that Other Service (collectively, "Social Media Information and Content"). When you access the FX Services through Other Services, or when you connect an FX Service to Other Services, you are authorizing FX to collect, store, and use any and all Social Media Information and Content in accordance with this Privacy Policy.**
 
 **Authenticated Content** . To access certain video content via the FX Services, you will be redirected to your television content provider’s registration page where you will be required to register directly with your television content provider. Please contact your television content provider directly for questions on your account, including how to access or cancel your account. Any information that you provide to your television content provider will be subject to the applicable television content provider’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any television content provider’s use of information collected via the FX Services. 
 
@@ -33,6 +33,8 @@ Cookies and other tracking technologies (such as browser cookies, pixels, beacon
 Third parties that support the FX Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate FX Service usage statistics, may also use these technologies to collect similar information when you use the FX Services or third party service. FX does not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party ad networks and similar entities that use these technologies, including your choices with respect to them, see the section entitled “To deliver relevant advertisements,” below. 
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., [ http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies).](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies) Users can manage the use of Flash technologies with the Flash management tools available at Adobe's website, see [ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) . Please note that by blocking any or all cookies, you may not have access to certain features, content or personalization available through the FX Services. 
+
+The FX Services that enable you to view FX video content may feature Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. The information is collected directly by Nielsen’s software within the applicable FX Service. FX makes no representation or warranty to you regarding the Nielsen software. To learn more about Nielsen’s digital measurement products and your choices in regard to them, please visit [www.nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy). If you do not wish to participate in Nielsen’s digital measurement research, please visit <http://www.nielsen.com/digitalprivacy#choice> to learn more about your choices and how to opt-out. 
 
 **Information from Other Sources** . To improve the quality of the FX Services, we and our service providers may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our FX Affiliates or business partners. 
 
