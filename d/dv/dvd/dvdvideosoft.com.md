@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055416id_/https%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053245id_/https%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
 
-# DVDVideoSoft Privacy Statement
+# Digital Wave Ltd Privacy Statement
 
-Since your privacy is important to us, DVDVideoSoft Ltd has created this privacy statement in order to let you know our firm commitment to your privacy.
+Since your privacy is important to us, Digital Wave ltd has created this privacy statement in order to let you know our firm commitment to your privacy.
 
-The following discloses our information gathering and dissemination practices for DVDVideoSoft Ltd websites http://dvdvideosoft.com/
+The following discloses our information gathering and dissemination practices for Digital Wave ltd websites http://dvdvideosoft.com
 
 ## Information collection
 
 Our programs do not collect any kind of personal information.
 
-We will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. Generally this information is requested when you buy Rocket Subscription for our software, or you want to provide us with your personal data, to give us the opportunity to get in touch with you.
+We will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. Generally this information is requested when you buy Premium Membership for our software, or you want to provide us with your personal data, to give us the opportunity to get in touch with you.
 
 When you enter a contest or other promotional event, we may ask for information such as your name, address, telephone number and e-mail address so we can administer the contest and notify winners.
 
-When you buy Rocket Subscription, we may ask you for information such as your name, e-mail address, shipping address, and serial number.
+When you buy Premium Membership, we may ask you for information such as your name, e-mail address, and serial number.
 
 We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and your time spent at our sites, and to gather broad demographic information. This allows us to see which parts of our sites users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use this information for any other purposes.
 
@@ -22,15 +22,15 @@ When a user submits personal information, it is kept on a private server not acc
 
 ## Use of personal information
 
-DVDVideoSoft Ltd may share non-personal, summary information regarding its customers with partners or other third parties. However, for partners or third parties under contract with DVDVideoSoft Ltd, any individual customer information provided may be used solely to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement.
+Digital Wave Ltd may share non-personal, summary information regarding its customers with partners or other third parties. However, for partners or third parties under contract with Digital Wave Ltd, any individual customer information provided may be used solely to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement.
 
-DVDVideoSoft Ltd will not share any individual customer information outside of the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In short, DVDVideoSoft Ltd does not sell users' personal information to lists. In some cases, DVDVideoSoft Ltd may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc. 
+Digital Wave Ltd will not share any individual customer information outside of the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In short, Digital Wave Ltd does not sell users' personal information to lists. In some cases, Digital Wave Ltd may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc. 
 
-DVDVideoSoft Ltd may send the user information or updates about special offers, programs, new products and/or services via e-mail. The user are able to unsubscribe from the mailing list any time after receiving the first information message.
+Digital Wave Ltd may send the user information or updates about special offers, programs, new products and/or services via e-mail. The user are able to unsubscribe from the mailing list any time after receiving the first information message.
 
 ## Links to other sites
 
-This site contains links to other sites. Please be aware that DVDVideoSoft Ltd is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to http://dvdvideosoft.com.
+This site contains links to other sites. Please be aware that Digital Wave Ltd is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to http://dvdvideosoft.com.
 
 ## Use of "cookies"
 
