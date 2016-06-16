@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228180128id_/http%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052521id_/http%3A//www.thomasnet.com/privacy.html) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Statement
 
-So that you can better protect your privacy, Thomas Industrial Network, Inc. ("THOMAS") provides this Privacy Statement explaining our online information practices and the choices you can make about the way your personal information is collected and used. By using this website, you accept the practices that are described in this Privacy Statement, which is part of the [Terms and Conditions](https://web.archive.org/terms.html) governing the use of this website and the terms and conditions governing any other THOMAS service you use. If, however, any area within or feature offered by this website or other THOMAS website or service sets forth a separate or additional privacy statement, terms and conditions or other policy, then that separate privacy statement, terms and conditions or other policy shall apply in connection with that area, feature, website or service. This Privacy Statement does not apply to personal information that is collected through the websites or other services of THOMAS or its affiliates based outside the United States of America or through any services offered by THOMAS or its affiliates outside the United States of America. 
+So that you can better protect your privacy, Thomas Industrial Network Inc. ("THOMAS") provides this Privacy Statement explaining our online information practices and the choices you can make about the way your personal information is collected and used. By using this website, you accept the practices that are described in this Privacy Statement, which is part of the [Terms and Conditions](https://web.archive.org/terms.html) governing the use of this website and the terms and conditions governing any other THOMAS service you use. If, however, any area within or feature offered by this website or other THOMAS website or service sets forth a separate or additional privacy statement, terms and conditions or other policy, then that separate privacy statement, terms and conditions or other policy shall apply in connection with that area, feature, website or service. This Privacy Statement does not apply to personal information that is collected through the websites or other services of THOMAS or its affiliates based outside the United States of America or through any services offered by THOMAS or its affiliates outside the United States of America. 
 
 If you do not agree with the practices explained in this Privacy Statement, do not complete the Sign-Up for MyThomas form, create a MyThomas profile, contact us using the "Contact ThomasNet" link on this website or submit any personal information through this website or other THOMAS service. 
 
@@ -96,7 +96,7 @@ Or write to us at:
 
 Privacy Manager  
 ThomasNet  
-Thomas Industrial Network, Inc.  
+Thomas Industrial Network Inc.  
 5 Penn Plaza  
 New York, NY 10001
 
