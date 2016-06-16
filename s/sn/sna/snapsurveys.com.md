@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216030601id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616035249id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy » Snap Surveys
 
@@ -10,8 +10,6 @@ Please read the following carefully to understand our views and practices regard
 
 For the purposes of the Data Protection Act 1988, the data controller is Snap Surveys Limited (company number 01672722) of 5 Mead Court, Cooper Road, Thornbury, Bristol BS35 3UW in relation to all data (e.g. registration, billing and account information) other than data provided in a client survey. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our client’s instructions and permissions.
 
-Snap Surveys NH, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Snap Surveys NH, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Snap Surveys NH, Inc’s certification, please visit <http://www.export.gov/safeharbor/>.
-
 If you have questions, comments or complaints regarding our privacy policy or practices, please  
 contact us at one of the following addresses;
 
@@ -21,14 +19,6 @@ contact us at one of the following addresses;
 
 
 or at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com).
-
-[](http://privacy.truste.com/privacy-seal/Snap-Surveys-NH,-Inc-/validation?rid=83e67561-162a-4aca-8bcb-eb12ada01455 "TRUSTe Privacy Certification")
-
-Snap Surveys NH, Inc. has obtained TRUSTe’s Privacy Certification signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s Privacy Certification Standards including transparency, accountability and choice regarding the collection and use of your personal information.
-
-The TRUSTe program covers only information that is collected through this website www.snapsurveys.com, and does not cover information that may be collected through software downloaded from the website www.snapsurveys.com.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request.>
 
 ### Information We May Collect From You
 
@@ -151,4 +141,4 @@ We follow generally accepted industry standards to protect the personal informat
 
 Any changes we may make to this policy in the future will be posted on this page and, where the changes are material, notified to you by email or by means of a notice on our home page, prior to the changes becoming effective. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have expressly consented to any change if you continue to use our website and services after the date on which the change becomes effective.
 
-Last Updated 2 September 2015
+Last Updated 24 February 2016
