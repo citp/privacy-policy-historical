@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204205847id_/http%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616151322id_/http%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - SofaScore News
 
@@ -184,3 +184,5 @@ policies/privacy/](http://www.google.com/intl/en/policies/privacy/)
 ### Facebook Native Ads
 
 This app serves Facebook Native ads. More information about this type of advertising are available on this link: <https://m.facebook.com/ads/ad_choices>
+
+[ssba_hide]
