@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061855id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052741id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: May 14, 2015 
+Effective Date: April 20, 2016 
 
-Your privacy is important, so Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the following Privacy Policy to let users of [humblebundle.com](https://web.archive.org/) or Humble Bundle’s mobile application (individually and collectively, the “Service”), know what information we collect when you visit the Service, why we collect it, and how it is used. This Privacy Policy explains the data collection and use practices of the Service; it does not apply to other online or offline Humble Bundle sites, products or services. The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our Service. This Privacy Policy is governed by our [Terms and Conditions](https://web.archive.org/terms). By using the Service, you consent to the data practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and remain informed about any changes to it, so we encourage you to visit this page often. If a material change is made to this Privacy Policy, then Humble Bundle will post a notice on [humblebundle.com](https://web.archive.org/). Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms and Conditions](https://web.archive.org/terms). 
+Your privacy is important, so Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the following Privacy Policy to let users of [humblebundle.com](https://web.archive.org/) or Humble Bundle’s mobile application (individually and collectively, the “Service”), know what information we collect when you visit the Service, why we collect it, and how it is used. This Privacy Policy explains the data collection and use practices of the Service; it does not apply to other online or offline Humble Bundle sites, products or services. The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our Service. By using the Service, you consent to the data practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and remain informed about any changes to it, so we encourage you to visit this page often. If a material change is made to this Privacy Policy, then Humble Bundle will post a notice on [humblebundle.com](https://web.archive.org/). Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms and Conditions](https://web.archive.org/terms). 
 
 **What Information Is Collected?**
 
@@ -22,7 +22,7 @@ Humble Bundle uses the data you enter on the Service, such as the price you ente
 
 We use cookies to improve our Service and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. Cookies from our Service cannot be read by other sites. Most browsers will accept cookies until you change your browser settings to refuse them. 
 
-We may use certain information about you internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
+We may use certain information about you internally or via third-party service providers for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
 
 We may make your Personal Information non-personally identifiable by either combining it with information about other users (aggregating your Personal Information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your Personal Information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect on the Site (the “Analytical Data”). We may make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties. 
 
@@ -62,7 +62,7 @@ We are not responsible for the practices employed by websites linked to or from 
 
 **Your Consent To This Privacy Policy.**
 
-By using this Service, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [**Terms and Conditions**](https://web.archive.org/terms) take precedence over any conflicting Privacy Policy provision. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Service which it is your responsibility to review. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates. 
+By using this Service, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Service which it is your responsibility to review, but we will provide reasonable notice to you of material changes. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates. 
 
 **Contacting Humble Bundle.**
 
@@ -81,7 +81,3 @@ Humble Bundle will send its notice to the mailing or email address that we have 
 **Dispute Resolution for Residents of the European Union**
 
 If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction. 
-
-**European Commission’s Directive on Data Protection - Safe Harbor**
-
-Humble Bundle complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Humble Bundle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Humble Bundle’s certification, please visit <http://www.export.gov/safeharbor/>. 
