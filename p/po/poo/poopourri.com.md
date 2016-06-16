@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the poopourri.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316220145id_/http%3A//www.poopourri.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poopourri.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617001300id_/http%3A//www.poopourri.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Poo~Pourri
+# Privacy Policy – Poo~Pourri
 
 This is the web site of **Scentsible, LLC**.
 
 Our postal address is  
-**4901 Keller Springs**  
-**Suite 106D**  
-**Addison, TX 75001**
+ **4901 Keller Springs**  
+ **Suite 106D**  
+ **Addison, TX 75001**
 
 We can be reached via e-mail at **[info@poopourri.net](mailto:info@poopourri.net)**  
 or you can reach us by telephone at **972.818.8200**
@@ -38,7 +38,7 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
