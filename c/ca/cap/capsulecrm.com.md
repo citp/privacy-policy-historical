@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203070249id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052137id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Capsule
 
-## Privacy Policy
-
 Zestia Limited ("We") is committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://capsulecrm.com/terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It also sets out your responsibilities for your processing of personal data when using our Service (as defined below). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it, and your data protection obligations in respect of your use of the Service. In the event of a conflict or disagreement between this Privacy Policy and the terms of use, the [terms of use](http://capsulecrm.com/terms/) will prevail. 
+This policy (together with our [terms of use](https://capsulecrm.com/terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It also sets out your responsibilities for your processing of personal data when using our Service (as defined below). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it, and your data protection obligations in respect of your use of the Service. In the event of a conflict or disagreement between this Privacy Policy and the terms of use, the [terms of use](https://capsulecrm.com/terms/) will prevail. 
 
 ### Information We collect from you
 
@@ -52,7 +50,7 @@ We may also disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Zestia Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://capsulecrm.com/terms/) and other agreements; or to protect the rights, property, or safety of Zestia Limited, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://capsulecrm.com/terms/) and other agreements; or to protect the rights, property, or safety of Zestia Limited, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
