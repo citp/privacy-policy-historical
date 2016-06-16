@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217204127id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204237id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
 
-# Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
+# 用自己的声音唱歌或哼唱来搜索音乐、观看音乐视频、加入歌迷俱乐部、与朋友分享、被发现以及进行许多其它活动，不收取任何费用！ - midomi.com
 
 SoundHound, Inc. (referred to herein as "SoundHound") values the privacy of our customers, users, members, and others (collectively or individually "Customers") who use www.midomi.com, and any other websites or services owned or operated by SoundHound. www.midomi.com is referred to herein as "midomi" and the services operated under midomi are referred to herein as the "midomi Service." This statement governs information you provide to us or that we learn from your use of the midomi Service and tells you how we may collect, use, and in some instances share this information.
 
