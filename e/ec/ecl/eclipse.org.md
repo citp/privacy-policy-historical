@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219063337id_/https%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052810id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
 
 # Eclipse.org Privacy Policy
 
 ## Eclipse.org Privacy Practices
 
-15th November, 2004
+May 12, 2016
 
 **Privacy**
 
@@ -15,6 +15,8 @@ You can visit Eclipse.org without revealing who you are or any information about
 We intend to protect the quality and integrity of your personally identifiable information. We have tried to implement appropriate technical and organizational measures, such as using encryption for transmission of certain forms of information, to help keep that information secure, accurate, current, and complete.
 
 We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender with details of the correction requested.
+
+We offer as a service to our community the ability for users of Eclipse software to store data on Eclipse Foundation servers through services including but not limited to the User Storage Service and the Automated Error Reporting Initiative. Any data stored through these services will be publicly available on the Internet in unencrypted form and without access restriction. Therefore you should not use this service to store passwords, any personally identifiable information, any confidential business information, or anything else that you do not want to be generally and publicly available.
 
 **Clickstream Data and Cookies**
 
@@ -32,7 +34,7 @@ This Web site contains links to other Web sites. We are not responsible for the 
 
 **Notification of Changes**
 
-This privacy statement was last updated on November 15, 2004. A notice will be posted on this Web site home page for thirty (30) days whenever this privacy statement is changed.
+This privacy statement was last updated on May 12, 2016. A notice will be posted on this Web site home page for thirty (30) days whenever this privacy statement is changed.
 
 **Questions Regarding This Statement**
 
