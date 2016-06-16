@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigresource.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106005318id_/http%3A//www.bigresource.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigresource.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051552id_/http%3A//www.bigresource.com/privacy_policy.html) for the most accurate reproduction.*
 
-# BigResource - Privacy Policy
+# Privacy Policy - BigResource
 
 BigResource respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. Please read the following to learn more about our privacy policy. 
 
@@ -12,12 +12,11 @@ We do not collect personal information when you visit our site unless you signup
 
 ## Information Sharing and Disclosure
 
-BigResource certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party.   
-
+BigResource certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party. 
 
 ## Advertisments & Resources
 
-**Google** , as a third party vendor, uses cookies to serve ads on our site. 
+Google, as a third party vendor, uses cookies to serve ads on our site. 
 
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
@@ -34,12 +33,11 @@ From time to time, BigResource or its advertisers may send a "cookie" to your co
 
 ## Changes to this Privacy Policy 
 
-By using the BigResource, you consent to the collection and use of information by BigResource as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
-
+By using the BigResource, you consent to the collection and use of information by BigResource as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 ## Questions and Suggestions 
 
 If you have questions or comments about BigResource's privacy policy, please feel free to contact us at:  
 [Admin@BigResource.com](mailto:Admin@BigResource.com).
 
-Last Updated: 15th May, 2014 
+Last Updated: 16th June, 2016 
