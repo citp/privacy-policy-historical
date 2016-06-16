@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003135id_/http%3A//www.somethingawful.com/feature-articles/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052600id_/http%3A//www.somethingawful.com/feature-articles/website-privacy-policy) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
