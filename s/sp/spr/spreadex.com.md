@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215134107id_/http%3A//www.spreadex.com/sports/terms-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616200915id_/http%3A//www.spreadex.com/sports/terms-agreements/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spreadex | Terms & Agreements
+# Privacy Policy | Terms & Agreements | Spreadex
 
 **1\. DATA PRIVACY PROTECTION POLICY**  
 Protecting the security and privacy of your personal information is important to Spreadex and to the way we conduct our business in compliance with laws on privacy, data protection and data security. We hope the policy outlined below will help you understand what information Spreadex may collect, how Spreadex uses and safeguards that information and with whom we may share it.
@@ -51,8 +51,11 @@ In addition to the controls available on your computer there are also other ways
 • Internet Advertising Bureau (IAB) "Your Online Choices" page. This allows you to control interest based advertising from each of the ad networks represented by the IAB. [http://www.youronlinechoices.com ](http://www.youronlinechoices.com/)  
 • Network Advertising Initiative (NAI) control page. This allows you to control behavioural advertising from each of the ad networks represented by the NAI. <http://www.aboutads.info/choices/>   
 • Digital Advertising Alliance’s self-regulatory program for online behavioural advertising control page.   
-<http://www.networkadvertising.org/choices/>
+<http://www.networkadvertising.org/choices/>[  
+](http://www.networkadvertising.org/choices/)**[  
+](http://www.networkadvertising.org/choices/)Casino  
+** When you play casino slots developed by NetEnt, NetEnt’s privacy policy also applies. It can be found [here](https://www.netent.com/en/netent-privacy-policy-eu/).  ** _  
+ _**
 
-  
 **Questions and Comments**  
 If you have any questions or comments about Spreadex's Data Privacy Protection Policy please send an e-mail to [info@spreadex.com](mailto:info@spreadex.com) and insert the words "Data Privacy Protection Policy" in the "Subject" line. As the Internet matures, so will our Data Privacy Protection Policy. We will post changes to our Data Privacy Protection Policy on this page as soon as the commitment has been made to alter any existing policy.
