@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calumetphoto.co.uk privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625014210id_/http%3A//www.calumetphoto.co.uk/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DGB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calumetphoto.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616220757id_/https%3A//www.calphoto.co.uk/company/privacy-policy%3Ffoot%3Dcp6) for the most accurate reproduction.*
 
-# Calumet Photographic
+# Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -9,7 +9,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### Information We Collect:
 
-This notice applies to all information collected or submitted on the CalumetPhoto.co.uk website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the CalPhoto.co.uk website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name  
 Address  
@@ -29,7 +29,7 @@ Phone Number
 
 ### Usage of Information:
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties.
+We use the information you provide about yourself when placing an order only to complete that order and confirm you are happy with your transaction.
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties.
 
@@ -69,28 +69,22 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-  
-
-
-### Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-  
-
-
-### California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-  
-
-
 ### How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by going to the My Account section of calumetphoto.co.uk
+You can access all your personally identifiable information that we collect online and maintain by going to the My Account section of calphoto.co.uk
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+  
+
+
+### Newsletters
+
+If you have subscribed to our newsletter, you can unsubscribe at any time by clicking on the unsubscribe link in each email
+
+If you subscribe to our newsletter, your email address will be used for marketing purposes unless you choose to unsubscribe. Unsubscribing is possible at any time and incurs no charges to you.
+
+If you have signed up for our newsletter we will use the data that you have given us when you register only for the purposes of sending you our newsletter. We do not disclose your data to any third parties except the companies we have partnered with to facilitate the technical aspects of sending our newsletters. In these cases the amount of data transferred is limited to the minimum necessary.
 
   
 
@@ -104,7 +98,7 @@ By using our site, you consent to our privacy policy.
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 08706 030303, send us an email at [webmaster@calumetphoto.co.uk](mailto:webmaster@calumetphoto.co.uk) or mail us at:
+Should you have other questions or concerns about these privacy policies, please call us at 0333 003 5000, send us an email at [webmaster@calphoto.co.uk](mailto:webmaster@calphoto.co.uk) or mail us at:
 
 Calumet Photographic  
 Bradbourne Drive  
