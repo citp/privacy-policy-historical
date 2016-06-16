@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204163954id_/http%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616194713id_/http%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alternet
 
