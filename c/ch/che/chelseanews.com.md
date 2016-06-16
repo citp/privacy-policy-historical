@@ -1,11 +1,26 @@
-> *The following text is extracted and transformed from the chelseanews.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206032548id_/http%3A//scoopdragonpublishing.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseanews.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616202742id_/http%3A//scoopdragonpublishing.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
 
-# Cookie Policy « ScoopDragon Publishing – News Aggregation
+# Privacy Policy and Cookie Policy « ScoopDragon Publishing – News Aggregation
 
-`We are committed to safeguarding the well-being and fair treatment of our users in an ethical manner to the best of our abilities. Below we outline the Cookie Policy for all the visitors to the websites in the ScoopDragon Publishing Limited network. These policies set out how we treat your personal information.  
-`
+`We are committed to safeguarding the privacy of all the visitors to the websites and apps in the ScoopDragon Publishing Limited network. These policies set out how we treat your personal information. They apply to all websites in our network. Some sites may have their own unique Privacy Policy and Cookie Policy.`
 
-  **Cookies**
+**Privacy – what information do we collect?**
+
+We may collect, store and use the following kinds of personal data:
+
+**(1)** information about your computer and about your visits to and use of the websites in the ScoopDragon Publishing network, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;
+
+**(2)** information that you provide to us for the purpose of subscribing to our websites’ services, email notifications and/or newsletters;
+
+**(3)** information that you provide to us for the purpose of registering with us;
+
+**(4)** information relating to any transactions carried out between you and us on or in relation to the websites in the ScoopDragon Publishing network, including information relating to any purchases you make of our services;
+
+**(5)** any other information that you choose to send to us.
+
+* * *
+
+**Cookies**
 
 Like most websites we use cookies on the websites in the ScoopDragon Publishing network. A cookie is a text file sent by a website to a web browser, and stored by the browser. The text file is then sent back to the website each time the browser requests a page from the site. This enables the website to identify and track the web browser.
 
