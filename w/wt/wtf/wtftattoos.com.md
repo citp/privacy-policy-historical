@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wtftattoos.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206231151id_/http%3A//wtftattoos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtftattoos.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616031131id_/http%3A//wtftattoos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : WTF Tattoos
+# Privacy Policy | WTF Tattoos
+
+## Privacy Policy
 
 Tim Brown LLC (“Tim Brown”) provides www.wtftattoos.com (the “Website”) and related services for your personal non-commercial use only and subject to your compliance with this Privacy Statement and Tim Brown’s Terms of Use Agreement (collectively the “Agreement”). Please read this Agreement carefully before using this Website. Your use of this Website constitutes your acceptance to be bound by this Agreement without limitation, qualification or change. If at any time you do not accept all the terms and conditions of this Agreement, you must immediately discontinue use of this Website. This Agreement sets forth Tim Brown’s policies with respect to its operation of this Website.
 
