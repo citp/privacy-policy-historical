@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntrex.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212204223id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntrex.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125411id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PornTrex | We Deliver The Best Free HD Porn Videos
 
