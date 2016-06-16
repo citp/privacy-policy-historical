@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914193420id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616151541id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Xtend-Life Natural Certified Privacy
 
 ## Xtend-Life has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
-_Effective Date: 05/20/2014_
+_Effective Date: 10/29/2015_
 
 Xtend-Life Natural Products (Intl) Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact by phone at +64 3 384 2116 or by mail at 12 Mary Muller Drive, Hillsborough, Christchurch, New Zealand.
 
@@ -46,8 +46,6 @@ As is true of most Web sites, we gather certain information automatically and st
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
-We also use a third party tracking partner to collect anonymous statistics about visitors to our website, and allow us to better tailor how our website is presented to visitors.
-
 ### Cookies and Other Tracking Technologies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site.
@@ -60,9 +58,13 @@ The Persistent cookie is also used to identify how you arrived at our website. T
 
 If you reject cookies, the site should still function correctly but you may have problems with adding multiple products to our shopping cart.
 
-The use of cookies by our service providers is not covered by our privacy statement.  We do not have access or control over these cookies. Our service providers use session ID cookies to enhance the services they provide.
+Technologies such as: cookies, beacons, tags and scripts are used by Xtend-Life Natural Products (Intl) Limited and our partners [marketing partners], affiliates, or analytics or service providers [ online customer support provider]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+
+### Behavioral Targeting/Re-targeting
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 As you browse this website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, Google Remarketing, then enables us to present you with retargeting advertising on other sites based on your previous interaction with this website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page to opt out](http://www.google.com/settings/ads) of Google Remarketing and their partners' targeted advertising.
 
@@ -94,7 +96,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 ### Legal Disclaimer
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site or to any other third party with your prior consent to do so.
+We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, bankruptcy proceedings or legal process served on our Web site or to any other third party with your prior consent to do so.
 
 ### Business Transitions
 
