@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222212id_/https%3A//www.ozbargain.com.au/wiki/help%3Aprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053617id_/https%3A//www.ozbargain.com.au/wiki/help%3Aprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - OzBargain Wiki
 
-**OzBargain** values our users and is 100% committed to protect your privacy. Since this is a growing website and Internet technologies are constantly evolving, our privacy policy is subject to change and any change will be reflected in this page. OzBargain is not responsible for the content or privacy policy of the websites it links it. 
+**OzBargain** values our users and is 100% committed to protect your privacy. Since this is a growing website and Internet technologies are constantly evolving, our privacy policy is subject to change and any change will be reflected in this page. OzBargain is not responsible for the content or privacy policy of the websites it links to. 
 
 Registered users: 
 
@@ -136,9 +136,7 @@ Personal information is stored and transferred on servers located in Australia &
 
 ## How to view or correct your personal information?
 
-Users can view personal information about their account by logging into OzBargain and navigating to My Account. Users can change their personal details such as their email address within the My Account settings. 
-
-To request a change in username, you can do so by making a request in the [Talk with a Moderator forum](https://www.ozbargain.com.au/forum/10041 "https://www.ozbargain.com.au/forum/10041") or by [contacting us directly](https://www.ozbargain.com.au/contact "https://www.ozbargain.com.au/contact"). 
+Users can view personal information about their account by logging into OzBargain and navigating to My Account. Users can change their personal details such as their username or email address within the My Account settings. (Username changes are permitted once every 12 months only). 
 
 Upon request, we can provide a database dump of all of your personal details as well as collected information such as IP addresses. Please note that this process can take up to 30 days. A user may request this by [contacting us directly](https://www.ozbargain.com.au/contact "https://www.ozbargain.com.au/contact"). 
 
@@ -146,4 +144,4 @@ Upon request, we can provide a database dump of all of your personal details as 
 
 Complaints about a privacy issue can be made by making a request in the [Talk with a Moderator forum](https://www.ozbargain.com.au/forum/10041 "https://www.ozbargain.com.au/forum/10041") or by [contacting us directly](https://www.ozbargain.com.au/contact "https://www.ozbargain.com.au/contact"). Moderators & staff will discuss the issue and work on a resolution with the user in a reasonable timeframe. 
 
-Last edited by **neil** on 2015/05/10 23:24
+Last edited by **moocher** on 2016/02/17 15:53
