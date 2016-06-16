@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguarlandrover.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124143806id_/http%3A//www.jaguarlandrover.com/gl/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarlandrover.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616151717id_/http%3A//www.jaguarlandrover.com/gl/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jaguar Land Rover Corporate Website
 
