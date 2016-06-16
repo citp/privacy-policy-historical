@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228180642id_/http%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053131id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PJ Media
 
@@ -198,6 +198,4 @@ There are also a number of software and shareware programs available that are de
 
 Copyright PJ Media® 2013. All Rights Reserved.
 
-Article printed from PJ Media: **http://pjmedia.com/**
-
-URL to article: **http://pjmedia.com/privacy-policy**
+http://pjmedia.com/privacy-policy 
