@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the iplocation.net privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042959id_/https%3A//www.iplocation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocation.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051240id_/https%3A//www.iplocation.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 ## 1\. PRIVACY STATEMENT
 
