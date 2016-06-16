@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106010306id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145808id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Ally
 
@@ -55,19 +55,31 @@ Finally, we may disclose your personal information as otherwise permitted or req
 
   * Does Ally use cookies or other online technologies to collect information?
 
-When you browse or visit one of our websites, we may store certain information on your computer. This information may be in the form of a small text file called a "cookie" and can help us to tailor our sites to your individual preferences and save you time if you visit the site again. For example, cookies may be used to remember your bank or auto login preference. Where our websites support it, to save you time we may offer you the option to save your username and/or remember your computer by putting a cookie on your machine. Other online technologies we use may include Flash® objects (sometimes called "Local Shared Objects") as part of our online authentication measures if you ask us to remember your computer. Flash objects help us recognize your computer when you come back to our site. We do not use Flash objects for any online behavioral advertising purpose.
+We use a variety of technologies, including cookies, to collect information about your online/mobile activity when you visit our website. Cookies are small text files that a website server stores on your computer or device. They’re typically used to remember your account login preferences, monitor website traffic, provide customer support like live chat and help us better customize our site for your individual preferences.
+
+We may also use Flash® objects (sometimes called "Local Shared Objects") as part of our online authentication to help us recognize your computer when you come back to our site. We do not use Flash objects for any online behavioral advertising purpose.
 
   * Can I disable or delete cookies?
 
-You can disable cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our site. Deleting cookies does not delete Flash objects.
+Yes, you can disable cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our site.
+
+For more information, please view our [Online Privacy Policy](https://web.archive.org/privacy).
 
   * Does Ally track my online activity on your websites?
 
-We may use online tracking technologies, such as cookies, to gather anonymous, aggregate information about your visit to our websites. This information allows us to measure site activity and to create ideas for improving our sites and may include the time and length of your visit, the pages you look at on our sites, the website you visited just before coming to ours and your internet service provider. If we provide you with a link from an Ally site to another site, we may track the fact that you clicked the link. This will help us understand which links are helpful to you when you visit our site, and will help us provide you with links that may be of interest to you, when you visit our site again.
+To improve your customer experience, we may use online tracking technologies like cookies to learn more about your online and mobile activities. We track data such as search terms, page visits and link clicks. This helps us provide more relevant online and offline information including, custom content and recommended products and services tailored to your interests.
 
   * Does Ally use online behavioral advertising (OBA) on third party sites?
 
-Yes, we utilize OBA on third party websites and mobile apps that are not affiliated with Ally. The third parties with which Ally contracts may use cookies or other technologies for OBA. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may be relevant or of interest to you. Examples of aggregate data include, but are not limited to, pages visited or keyword searches. Anyone receiving an online behavioral ad may opt-out by clicking the third party site’s Advertising Option icon (Ad Choices) associated with the ad or visiting the third party website's privacy policy for an opt-out mechanism, if any.
+There are two ways we use OBA on third party websites and mobile apps that are not affiliated with Ally.
+
+**Interest‐Based Advertising**   
+The third parties we contract with may use cookies or other technologies to gather interest-based information to customize the ads you see. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may interest you.
+
+Ally has adopted the use of the [AdChoices Icon](http://www.youradchoices.com/) (also known as the Advertising Option Icon) on our interest-based advertising (excluding ads appearing on platforms that do not accept the icon). You can click the AdChoices Icon to learn more and control whether or not you receive this type of advertising from participating companies.
+
+**Device-Based Advertising**   
+We also use device information, particularly in mobile advertising, to help deliver our ads and measure ad campaign effectiveness. Ally and the companies we work with won’t collect any personally identifiable information (PII) but may collect your device information when you visit one of our sites or see our ads. Compiling and comparing this information creates a unique ID for individual devices and can be "matched" to the same information on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.
 
   * How do your websites respond to web browser "Do Not Track" signals?
 
@@ -93,11 +105,11 @@ Public forums are available on our websites, and they may include text, photogra
 
   * Will Ally make changes to this online privacy policy?
 
-This policy is effective January 1, 2015. We reserve the right to alter this policy at our discretion. Any change to this policy will be posted on our websites in a timely manner.
+This policy is effective January 1, 2016. We reserve the right to alter this policy at our discretion. Any change to this policy will be posted on our websites in a timely manner.
 
 
 
 
 ## Social Security Number Privacy Protection Policy
 
-The [Ally group of companies ](https://web.archive.org/help/glossary/bank/index.html#term-ally-group-of-companies) ("Ally") collects Social Security numbers as necessary to support state and federal legal requirements, to provide products or services to you and to meet needs within our Human Resources unit. To support these requirements, we restrict the access to Social Security numbers only to employees, agents, service providers, and government entities that require access to Social Security numbers to meet these purposes. We strive to protect Social Security numbers from unlawful disclosure and keep them confidential by maintaining administrative, technical, and physical safeguards that comply with applicable state and federal regulations.
+The [Ally group of companies ](https://web.archive.org/help/glossary/bank/index.html#term-ally-group-of-companies) ("Ally") collects Social Security numbers as necessary to support state and federal legal requirements, to provide products or services to you and to meet needs within our Human Resources unit. To support these requirements, we restrict the access to Social Security numbers only to employees, agents, service providers, and government entities that require access to Social Security numbers to meet these purposes. We strive to protect Social Security numbers from unlawful disclosure and keep them confidential by maintaining administrative, technical, and physical safeguards that comply with applicable state and federal regulations.
