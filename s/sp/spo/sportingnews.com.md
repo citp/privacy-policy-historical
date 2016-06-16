@@ -1,66 +1,110 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103120437id_/http%3A//www.sportingnews.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053240id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
 
-# Sporting News
+# Privacy | Sporting News
 
-Last Revised July 11, 2008
+## **PRIVACY POLICY**
 
-Kids and parents click here!
+Sportingnews.com and the Sporting News mobile application(s) (the “Website”) is operated by Perform Sporting News Limited ("Perform") together with other companies within the Perform Group (which means the entities controlled by, controlling, or under common control with, Perform) (the "Perform Group"). 
 
-The following Privacy Policy summarizes the various ways that Sporting News, a division of American City Business Journals, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.sportingnews.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found [ here](http://www.sportingnews.com/end-user-agreement). 
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.sportingnews.com/policy/terms). Your use of the Website constitutes agreement to its terms and conditions as well. 
+By your use of the Website you consent to the terms and conditions of this Privacy Policy. We may update this Privacy Policy from time to time. Any updates will be posted here and we may also provide additional notice to you via the Website or email for certain changes. 
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+Additionally, the Website contains links to websites that are not operated by Perform Group. These third parties may collect data from you and share some of that data with us. Perform Group is careful when choosing its partners, sponsors, and affiliates, but Perform Group is not responsible for any misuse of personal information by such third parties. We recommend that you view the Privacy Policy posted on each Website that you use to confirm that the companies' policies are acceptable to you. 
 
-**I.        THE TYPE OF INFORMATION THE WEBSITE COLLECTS**
+**1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED**
 
-The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
+When using the Services, we may ask you to provide all or some of the following information: your name, your address, your email address, banking details, credit card information, your telephone number, and your age ("Personal Information"). We may also ask you to provide your thoughts or answer some questions about your favorite events, personalities, and other subjects of interest to sports fans. 
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address.  Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
+In order to purchase any live events viewable on this Website, participate in any contest or message feature, download any content, take part in any other interactive feature of the Websites, or receive information from Perform Group, such as newsletters or email regarding upcoming the Services you must register and provide accurate information about yourself to the Websites, as the Services may not work properly without such information. 
 
-**II.       HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
+We may use the Personal Information you provide to us to do some or all of the following: 
 
-Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs. 
+  * \- contact you about the Website; 
+  * \- provide you with personalised visits to our site; 
+  * \- recommend goods, services or promotions which may be of interest to you (but only where you have requested us to do so); 
+  * \- develop our offers and the layout of our site to ensure that our services are as useful and enjoyable as possible; 
+  * \- customize the advertising and content you see; 
+  * \- contact you in order to conduct market research; and 
+  * \- send out email alerts you may have signed up for. 
 
-Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date.  Otherwise, contact our Privacy Policy Coordinator as described below with your changes. 
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
 
-In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
+Perform Group will not, however, sell or lease your Personal Information to third parties. If you do not wish to receive marketing and promotional communications from us or our partners, sponsors, and affiliates, you can choose to opt-out when providing your Personal Information to Perform Group. You can also opt-out by updating your user profile on the Website. 
 
-While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+Please note: If you do decide to opt-out of receiving information, Perform Group will be unable to keep you informed of any new products, services, or special offers that may interest you and will have an impact on our ability to inform you of any live events or important information as part of any subscription service you may have. 
 
-In addition, as our business changes, we may buy or sell various assets.  In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets. 
+**2\. SHARING INFROMATION WITH THIRD PARTIES.**
 
-**III.      COOKIES**
+To evaluate the Websites and ensure that we are providing Content and Services of interest to you, we may collect and store statistical information regarding how you use the Websites, the name of your internet service provider, any websites that referred you to the Websites, and the time and date you view the Websites. We may also use Personal Information to develop demographic information regarding Website users. Such aggregated information will not identify you personally. We may share this aggregated, statistical information with our partners, sponsors, affiliates, and other third parties. 
 
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer.  Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies. 
+We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to customerservices@performgroup.com letting us know. 
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
+Additionally, we may share your Personal Information with third party agents we use to provide certain services and functionality to the Website. Examples include fulfilling orders, providing the subscription video products, sending email, website analysis, processing credit card payments and providing customer service. In cases where we do share Personal Information, the parties with whom we share such information may not use or disclose your Personal Information for other purposes. 
 
-We may also use advertising service vendors to help present advertisements on the Website.  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.  If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting   
-[ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
+**3\. SECURITY**
 
-If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
+We understand that the security of your Personal Information is important to you. When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected. Your Personal Information is password protected, and any Personal Information you provide to Perform Group is protected from unauthorised disclosure by reasonable technological measures. Personal Information provided to Perform Group is not, however, transmitted via SSL encryption technology. We recommend that you do not divulge your password to anyone. 
 
-**IV.      INFORMATION SECURITY AND NOTIFICATION**
+**4\. COOKIES**
 
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website.  In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).
+We use cookies in order to ensure the website functions properly and to improve your user experience. Cookies are usually a string of numbers and/or letters that a website transfers to your hard drive. Similar technologies include pixel tags and web storage and other technologies, and we refer to all these things as “cookies” in this section. The cookies enable the website to "remember" you, either for the duration of your visit (session cookies) or for repeat visits (persistent cookies). We recommend that you visit the websites [www.allaboutcookies.org](http://www.allaboutcookies.org/),[www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (Europe) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (United States). if you would like in-depth information about cookies. 
 
-**V.      KIDS AND PARENTS**
+On this website, we use the following types of cookies: 
 
-This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
+Strictly necessary cookies - These cookies are essential to enable you to navigate around the site securely and to provide you with services you have specifically requested. For instance, they help ensure that payments are processed securely. 
 
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
+Functionality cookies - These cookies enhance the functionality of the website by storing your preferences. For instance, they can remember your name and location, if you provide this information. 
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
+Performance cookies - These cookies improve the performance of the website. For instance, they help pages load quicker. 
 
-**VI.      PRIVACY POLICY COORDINATOR**
+Targeting/advertising – These cookies assist in serving of relevant advertisements and implement frequency capping procedures. 
 
-If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
+These types of cookies may also be placed on the website by our business partners or service providers. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. You are not obliged to accept cookies and you can adjust your browser's setting to prevent it from accepting cookies on your computer - go to [www.allaboutcookies.org](http://www.allaboutcookies.org/),[www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (Europe) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (United States) for instructions on how to disable cookies. However, you may not be able to take full advantage of our site or use certain functions if you disable cookies. 
 
-Privacy Policy Coordinator  
-SportingNews  
-120 West Morehead Street, Suite 200  
-Charlotte, NC 28202  
-[privacy@sportingnews.com](mailto:privacy@sportingnews.com)
+If you register with us or if you continue to use our site, you agree to our use of cookies. 
+
+**5\. DISCLOSURE FOR LAW ENFORCEMENT PURPOSES**
+
+Perform Group reserves the right to access and disclose Personal Information to comply with applicable laws and lawful government requests, to operate their systems properly, or to protect themselves or others. Perform Group may attempt to obtain the prior consent of the individual before disclosing the Personal Information, but they have no obligation to do so. 
+
+**6\. PARENTS & GUARDIANS **
+
+This Website is a general audience Website. We do not knowingly collect and/or share Personal Information from children under the age of thirteen on the Website. However, your child cannot use some of the interactive features of the Website without providing Personal Information. We therefore recommend using the Website with your child if he or she is interested in participating in an interactive feature of the Website. 
+
+If, in the future, Perform Group actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 
+
+**7\. ACCESS TO YOUR INFORMATION**
+
+Data Protection law gives you various rights including the right to access the Personal Information that is held about you. 
+
+We will also provide you with copies of all the Personal Information we hold about you. If you wish to access the Personal Information held by us, you should contact us at customerservices@performgroup.com. 
+
+You can also request at any time that the Personal Information we hold about you is updated, corrected, or deleted. 
+
+**8\. TRANSFER TO OTHER COUNTRIES**
+
+Perform Group processes information about users on servers located in a number of countries. We may also subcontract processing or share your information to a third parties located in countries, other than your home country. Information collected within the European Economic Area (“EEA”) and Switzerland may, for example, be transferred to, and processed in, a country outside of the EEA and Switzerland. You expressly consent to this. 
+
+**9\. YOUR ACCEPTANCE OF THESE TERMS**
+
+If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses. 
+
+**10\. CHOICE OF LAW**
+
+If any disputes arise between us regarding your use of this Website, such disputes shall be resolved according to the laws of the England and Wales, without regard to its choice-of-law provisions and the courts of England shall have exclusive jurisdiction over all claims. 
+
+If you have any questions or comments about this Privacy Policy please feel free to contact us at customerservices@performgroup.com 
+
+**Registered Office:**
+
+Perform Sporting News Limited  
+Sussex House  
+Plane Tree Crescent  
+Feltham TW13 7HE 
+
+Tel: (0)20 3372 0600 
+
+Registered No: 08426667 
+
+This privacy policy was last updated 1 May 2015 
