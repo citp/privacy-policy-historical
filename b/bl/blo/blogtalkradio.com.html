@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the blogtalkradio.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225005316id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogtalkradio.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616053218id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
     <!--[if lt IE 9]><script src="/scripts/lib/html5shiv.js"></script><![endif]-->
-<link href="http://cdn2.btrstatic.com/content/global-imports-dist.cache.afa74001.css" rel="stylesheet">
+<link href="http://cdn2.btrstatic.com/content/global-imports-dist.cache.b11836f4.css" rel="stylesheet">
 
 
 
@@ -104,6 +104,7 @@ userCookieValues:{},
 hostId:null,
 userUrl:null,
 userId:null,
+disableStudio:false,
 init:function(){
 this.createAid();
 this.parseCookie();
@@ -164,6 +165,7 @@ setUserData:function(){
 this.hostId=this.userCookieValues["hid"];
 this.userUrl=this.userCookieValues["url"];
 this.userId=this.isAuthenticated?this.userCookieValues["uid"]:this.readCookie('BTRListenGUID');
+this.disableStudio=this.isAuthenticated&&this.userCookieValues["dstud"]?this.userCookieValues["dstud"]:false;
 },
 readCookie:function(name){
 var buffer=(document.cookie.match('(^|; )'+name+'=([^;]*)')||0);
@@ -240,7 +242,8 @@ IfUserHasAnAccount:UserAccount.hasAccount,
 IfAuthenticatedAndIsNotAHost:UserAccount.isAuthenticated&&!UserAccount.isHost,
 IfToolsEnabled:UserAccount.toolsEnabled,
 IfToolsNotEnabled:!UserAccount.toolsEnabled,
-IfIsSignupPage:location.href.toLowerCase().indexOf("/signup")>-1
+IfIsSignupPage:location.href.toLowerCase().indexOf("/signup")>-1,
+IfDisableStudio:JSON.parse(UserAccount.disableStudio)||!UserAccount.isHost
 };
 var cssToHead=[];
 var cssToBeRemoved=[];
@@ -329,7 +332,7 @@ this.removeDomElement(node);
 }
 };
 ;window.EarlyLoadingCssManager.init();
-</script><style type="text/css" id="css-manager-styles">.hideIfNotAuthenticated { display: none !important; }.hideIfUserIsNotAHost { display: none !important; }.hideIfCurrentIsNotPremium { display: none !important; }.hideIfHasNeverBeenPremium { display: none !important; }.hideIfToolsNotEnabled { display: none !important; }</style>
+</script><style type="text/css" id="css-manager-styles">.hideIfNotAuthenticated { display: none !important; }.hideIfUserIsNotAHost { display: none !important; }.hideIfCurrentIsNotPremium { display: none !important; }.hideIfHasNeverBeenPremium { display: none !important; }.hideIfToolsNotEnabled { display: none !important; }.hideIfDisableStudio { display: none !important; }</style>
 
     
     
@@ -340,8 +343,9 @@ this.removeDomElement(node);
 <meta content="Blogtalkradio Terms of Use and Privacy Policy" name="description">
 
     
-<script src="http://cdn1.btrstatic.com/scripts/dist/main.cache.e865e30d.js" async="true"></script></head>
+<script src="http://cdn1.btrstatic.com/scripts/dist/main.cache.b2395bad.js" async="true"></script></head>
 <body id="cms-page-termsofuse">
+    <script type="text/javascript">(function(){window['globalConstants']={"appRootUrl":"http://www.blogtalkradio.com","userAdminRootUrl":"http://my.blogtalkradio.com","registrationUrl":"https://secure.blogtalkradio.com/register.aspx","signupUrlForListeners":"https://secure.blogtalkradio.com/signup","studioUrl":"http://sb.blogtalkradio.com/","gigyaApiKey":"2_Rjx2fUtr3F4O28iJQEddgBuGHz26TPRZt5YUQu1Q8xSq_dfQ3tQuJqnwDpj__99w","toolsRootUrl":"http://my.blogtalkradio.com/tools","toolsSecureFullUrl":"https://secure.blogtalkradio.com/tools","secureUrl":"https://secure.blogtalkradio.com","enableBundling":true,"playerHost":"http://player.cinchcast.com","securePlayerHost":"https://player.cinchcast.com","html5PlayerHost":"http://percolate.blogtalkradio.com/offsiteplayer","secureHtml5PlayerHost":"https://percolate.blogtalkradio.com/offsiteplayer","playerPlatformId":"1","profilePlayerItemCount":"6","defaultCookieDomain":".blogtalkradio.com","fbApplicationID":"72364733256","useCaptcha":true,"newHostCallToActionBarDismissalExpirationDays":30,"audioUploadMaxSize":188743680,"loggingApiKey":"","loggingEndpoint":"log/{severity}/BlogTalkRadio","episodeShortLinkRoot":"http://tobtr.com/","googleExperimentsBaseUrl":"https://www.google-analytics.com/cx/api.js?experiment=","offsitePlayerSingleEpisodeHeight":180,"offsitePlayerPlaylistHeight":550,"hasBtrAccountCookieName":"HasBTRAcct","loginUrl":"https://secure.blogtalkradio.com/login.aspx","apiRootUrl":"http://www.blogtalkradio.com/api","apiFullUrl":"http://www.blogtalkradio.com/api","apiSecureFullUrl":"https://secure.blogtalkradio.com/api","createEpisodeUrl":"http://my.blogtalkradio.com/tools/#/new-episode","editEpisodeUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit?episode={0}","editAudioEpisodeUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit-audio?episode={0}","editEpisodeRecurrenceUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit?recurrence={0}"};})();</script>
 
 <!-- Google Tag Manager -->
 <noscript>
@@ -357,8 +361,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
 </script>
 <!-- End Google Tag Manager -->
-
-
 
 
 
@@ -440,11 +442,11 @@ var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
         <div class="span3">
             <ul class="explore-list">
                     <li><a href="http://www.blogtalkradio.com/themotleyfool">The Motley Fool</a></li>
+                    <li><a href="http://www.blogtalkradio.com/rhapups">Reality TV RHAPups</a></li>
+                    <li><a href="http://www.blogtalkradio.com/Hardwood-Paroxysm">Hardwood Paroxysm Basketball Network</a></li>
                     <li><a href="http://www.blogtalkradio.com/sbnation">SB Nation</a></li>
-                    <li><a href="http://www.blogtalkradio.com/sharkdropperstudios">Shark Dropper Studios</a></li>
-                    <li><a href="http://www.blogtalkradio.com/fantasysportsnetwork">Fantasy Sports Network</a></li>
+                    <li><a href="http://www.blogtalkradio.com/biztalkradio">BizTalkRadio</a></li>
                     <li><a href="http://www.blogtalkradio.com/eWNRadioNetwork">eWN Radio Network</a></li>
-                    <li><a href="http://www.blogtalkradio.com/geekcastradionetwork">GeekCast Radio Network</a></li>
                 <li><br></li>
                 <li><strong><a href="http://www.blogtalkradio.com/networks">view all networks</a></strong></li>
             </ul>
@@ -877,7 +879,7 @@ var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
     <section class="row-fluid">
         <div class="span8">
             <h5>11.  Contacting Us  </h5>
-            <p>If you need to write to us, use this address: BlogTalkRadio, Inc., 1072 Madison Ave, Lakewood, NJ 08701. </p>
+            <p>If you need to write to us, use this address: BlogTalkRadio, Inc., 25 Broadway, 9th Floor New York, New York 10004. </p>
         </div>
     </section>
     <section class="row-fluid">
@@ -948,23 +950,15 @@ var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
                     <h2>Online Privacy and Security Statement</h2>
                     <h3>Effective Date: April 22, 2015</h3>
                 </div>
-                <div class="span4">
-                        <div id="c65a33a2-5379-4ec9-9dfc-d8745627d711" class="pull-right">
-                            <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/BlogTalkRadio-Inc-/asc?rid=c65a33a2-5379-4ec9-9dfc-d8745627d711"></script>
-                            <a href="//privacy.truste.com/privacy-seal/BlogTalkRadio-Inc-/validation?rid=2cfaa686-d495-46a3-9a21-9bc2ca61ed57" title="TRUSTe online privacy certification" target="_blank">
-                                <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/BlogTalkRadio-Inc-/seal?rid=2cfaa686-d495-46a3-9a21-9bc2ca61ed57" alt="TRUSTe online privacy certification">
-                            </a>
-                        </div>
-                </div>
+               
             </section>
 
             <section class="row-fluid">
                 <div class="span8">
                     <p>
                     BlogTalkRadio Inc. is committed to protecting the privacy of individuals that interact with our websites. This policy discloses the Company's practices governing the gathering and use of information submitted to the Company through <a href="http://www.blogtalkradio.com">www.blogtalkradio.com</a> (“Site”) which is owned and operated by BlogTalkRadio Inc. (“BlogTalkRadio”). Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, to the extent permitted hereunder, shall be considered a "User" under this privacy policy. All Users are bound by the terms of this privacy policy. This privacy policy does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from this site.</p>
-                    <p>
-                    BlogTalkRadio Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a target="_blank" href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@BlogTalkRadio.com">privacy@BlogTalkRadio.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site. The TRUSTe program covers only information that is collected through this Web site: <a href="http://www.blogtalkradio.com">www.blogtalkradio.com</a>.
-</p>
+                   
+<p></p>
                     <h5>1. General</h5>
                     <p>
                     BlogTalkRadio respects the privacy of every individual who visits our Web sites, responds to our interactive advertisements or sends us e-mail. This Privacy and Security Statement outlines the information BlogTalkRadio' will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit BlogTalkRadio' Web sites, respond to our Web-based advertisements or send us email.</p>
@@ -1084,7 +1078,7 @@ We use Local Storage Objects (LSOs) such as Flash to store [content information 
                  
                     <h5>22. Contact Us</h5>
                     <p>
-                    If you have any questions or concerns regarding this privacy policy your may contact us at privacy@BlogTalkRadio.com or Blogtalkradio Inc. 1072 Madison Ave Lakewood NJ 08701.</p>
+                    If you have any questions or concerns regarding this privacy policy your may contact us at privacy@BlogTalkRadio.com or Blogtalkradio Inc. 25 Broadway, 9th Floor New York, New York 10004.</p>
 
                 </div>
                 <div class="span4 summary">
@@ -1130,8 +1124,6 @@ page_init();
                     </div>
                 </div>
         </div>
-
-
 
 
 
@@ -1269,12 +1261,11 @@ page_init();
     <div data-widget="payment-process-notification"></div>
     <div data-widget="new-host-call-to-action-bar"></div>
     
-<script type="text/javascript">(function(){window['globalConstants']={"appRootUrl":"http://www.blogtalkradio.com","userAdminRootUrl":"http://my.blogtalkradio.com","registrationUrl":"https://secure.blogtalkradio.com/register.aspx","signupUrlForListeners":"https://secure.blogtalkradio.com/signup","studioUrl":"http://sb.blogtalkradio.com/","gigyaApiKey":"2_Rjx2fUtr3F4O28iJQEddgBuGHz26TPRZt5YUQu1Q8xSq_dfQ3tQuJqnwDpj__99w","toolsRootUrl":"http://my.blogtalkradio.com/tools","toolsSecureFullUrl":"https://secure.blogtalkradio.com/tools","secureUrl":"https://secure.blogtalkradio.com","enableBundling":true,"playerHost":"http://player.cinchcast.com","securePlayerHost":"https://player.cinchcast.com","html5PlayerHost":"http://percolate.blogtalkradio.com/offsiteplayer","secureHtml5PlayerHost":"https://percolate.blogtalkradio.com/offsiteplayer","playerPlatformId":"1","profilePlayerItemCount":"6","defaultCookieDomain":".blogtalkradio.com","fbApplicationID":"72364733256","useCaptcha":true,"newHostCallToActionBarDismissalExpirationDays":30,"audioUploadMaxSize":188743680,"loggingApiKey":"","loggingEndpoint":"log/{severity}/BlogTalkRadio","episodeShortLinkRoot":"http://tobtr.com/","googleExperimentsBaseUrl":"https://www.google-analytics.com/cx/api.js?experiment=","offsitePlayerSingleEpisodeHeight":180,"offsitePlayerPlaylistHeight":550,"hasBtrAccountCookieName":"HasBTRAcct","loginUrl":"https://secure.blogtalkradio.com/login.aspx","apiRootUrl":"http://www.blogtalkradio.com/api","apiFullUrl":"http://www.blogtalkradio.com/api","apiSecureFullUrl":"https://secure.blogtalkradio.com/api","createEpisodeUrl":"http://my.blogtalkradio.com/tools/#/new-episode","editEpisodeUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit?episode={0}","editAudioEpisodeUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit-audio?episode={0}","editEpisodeRecurrenceUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit?recurrence={0}"};})();</script>
 <script type="text/javascript">
     (function () {
         var mainBundle = document.createElement('script');
         // automatically hashed url
-        mainBundle.src = 'http://cdn1.btrstatic.com/scripts/dist/main.cache.e865e30d.js';
+        mainBundle.src = 'http://cdn1.btrstatic.com/scripts/dist/main.cache.b2395bad.js';
         mainBundle.setAttribute('async', 'true');
         var head = document.getElementsByTagName("head")[0] || document.documentElement;
         head.appendChild(mainBundle);
@@ -1302,17 +1293,15 @@ var dg3Array = [];
 if (dg3!=null) {dg3Array = dg3.split(';');}
    var slot1 = googletag.defineSlot('/297079030/Search_728x90',[[970, 90], [728, 90]],'Ad6_divGpaJsAd').defineSizeMapping(mapping).addService(googletag.pubads())
 .setTargeting('aid', [$.cookie('_aid')])
-.setTargeting('qdsd', dg3Array)
 .setTargeting('tpt', [$.cookie('BZ')])
 .setTargeting('cto', [$.cookie('cto_btr')])
-.setTargeting('adm', [$.cookie('adm')]);
+.setTargeting('adm', [$.cookie('adm')])
+.setTargeting('qdsd', [$.cookie('qdsd_Vis')]);
 googletag.enableServices();
 googletag.display('Ad6_divGpaJsAd');
 setInterval(function(){googletag.pubads().refresh([slot1]);}, 120000);
 });
 
- });
-require(['jquery', 'underscore', 'user', 'mybtr'], function(){ 
  });
 
 
