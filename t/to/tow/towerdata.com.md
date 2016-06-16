@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008232853id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182124id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ TowerData is in the business of intermediating between consumers who wish to rec
 
 When you visit our website, [www.towerdata.com](https://web.archive.org/ "www.towerdata.com"), we collect the information you voluntarily give us when you register on our site. Additionally, like most websites, our servers use log files to list requests made by users to the server.  We use log files to store information such as internet protocol addresses, browser type, internet service provider, visited pages, date and time used and we also gather broad demographic information. This information is not linked to any personally identifiable information.   
 
-We also receive data through aggregating personal information received from websites and compilers of websites (data providers) where people have opted-in to receive third party offers through web sites or email. The data we receive is maintained in our database and may be shared with clients who use our data enhancement services. We mandate that any company that provides us with data for enhancement services certify that the data represents permissible data that they are allowed to share with us and that we are allowed to use. If we become aware that the data is not in compliance, we will terminate our relationship with that company immediately and destroy that data.
+We also receive data through aggregating personal information received from websites and compilers of websites (data providers) where people have opted-in to receive third party offers through web sites or email. The data we receive is maintained in our database and may be shared with clients who use our data enhancement services and with our marketing partners. We mandate that any company that provides us with data for enhancement services certify that the data represents permissible data that they are allowed to share with us and that we are allowed to use. If we become aware that the data is not in compliance, we will terminate our relationship with that company immediately and destroy that data.
 
 ## **The Use of Cookies**
 
