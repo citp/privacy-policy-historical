@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themichiganmom.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216214833id_/http%3A//themichiganmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themichiganmom.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222843id_/http%3A//themichiganmom.com/privacy-policy) for the most accurate reproduction.*
 
 # The Michigan Mom | Privacy Policy - The Michigan Mom |
 
