@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the porntrex.com privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212204223id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the porntrex.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616125411id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="1 days">
-    <meta name="keywords" content="free, porn, video, videos, movies, adult, tube, online, members, xxx, sex, anal, vagina, pussy, amateur, asia, japanese, blonde, teen, squirt, brunette, milf, babes, babe, russian, hungurian">
+    <meta name="keywords" content="free, porn, video, videos, movies, adult, tube, online, members, xxx, sex, anal, vagina, pussy, amateur, asia, japanese, blonde, teen, squirt, brunette, milf, babes, babe, russian, hungurian, nurse porn, foot worship, feet worship, babysitter tube">
     <meta name="description" content="Huge collection of free hd porn videos. Tons of amateur sex and professional hd movies. Daily update of hot busty teen, latina, amateur &amp; more hd porn videos.">
     <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
 
@@ -19,8 +19,9 @@
 
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
     var base_url = "http://www.porntrex.com";
+	var relative = "";
 	var max_thumb_folders = "32000";
-    var tpl_url = "/templates/frontend/porntrex";
+	var tpl_url = "/templates/frontend/porntrex";
 		var lang_deleting = "Deleting...";
 	var lang_flaging = "Flaging...";
 	var lang_loading = "Loading...";
@@ -90,18 +91,25 @@
 		</div>
 		<div class="navbar-collapse collapse navbar-inverse-collapse">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="/videos">Videos</a></li>				<li><a href="/albums">Photos</a></li>
+				<li><a href="/videos" class="hidden-sm">Videos</a></li>				<li><a href="/albums" class="hidden-sm">Photos</a></li>				<li><a href="/gifs" class="hidden-sm">GIFs</a></li>	
 
 				
 				<li class="dropdown visible-sm hidden-xs hidden-md hidden-lg">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="/categories"><i class="fa fa-list-ul"></i> Categories</a></li>
-						</ul>
+														<li><a href="/categories"> Categories</a></li>
+          		<li><a data-toggle="modal" href="#login-modal"><i class="fa fa-sign-in"></i> Sign in</a></li>
+          		<li><a href="/signup" rel="nofollow"><i class="fa fa-star"></i> Sign up</a></li>
+          								</ul>
 				</li>
-				<li class="hidden-sm"><a href="/categories"><i class="fa fa-list-ul"></i> Categories</a></li>
-								<li><a href="/signup" rel="nofollow"><i class="fa fa-star"></i> Join now!</a></li>
-				<li><a data-toggle="modal" href="#login-modal">Sign in</a></li>	
+				<li class="hidden-sm"><a href="/categories"> Categories</a></li>
+								<li class="dropdown hidden-sm">
+				<a data-toggle="dropdown" class="dropdown-toggle" id="search-drop" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="dropdown-menu">
+          		<li><a data-toggle="modal" href="#login-modal"><i class="fa fa-sign-in"></i> Sign in</a></li>
+          		<li><a href="/signup" rel="nofollow"><i class="fa fa-star"></i> Sign up</a></li>
+				</ul>
+				</li>
 							<li class="dropdown">
 				<a href="#" id="search-drop" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
 				<ul class="dropdown-menu search-dropdown-menu">
@@ -111,7 +119,7 @@
 						<span class="search-select input-group-addon" style="display:none">
 							<select class="form-control" name="search_type" id="search_type">
 								<option value="videos">Videos</option>
-								<option value="photos">Photos</option>								<option value="users">Users</option>
+								<option value="photos">Photos</option>								<option value="gif">GIF</option>								<option value="users">Users</option>
 							</select>		
 						</span>
 						<span class="input-group-btn">
@@ -130,8 +138,8 @@
     </div>
 </div>
 <div id="wrapper">
-<!--<div class="container">
-<div class="alert alert-info"><img src="/templates/frontend/porntrex/img/warning.png"> One of our streaming server is down. Due to that down some videos might not be playing. We are sorry for this situation. We will do the best to solve this problem as soon as possible.</div>	
+<div class="container">
+<!--<div class="alert alert-info"><img src="/templates/frontend/porntrex/img/warning.png"> We lost one of our streaming server. Our DC erase the server without our permission. Due to that some videos might not be playing. We are sorry for this situation. We are trying our possible to get the backup of that server. We do not guarantee the success of this. We will keep informing you on this.</div>	
 </div>--><div class="container">
 <div class="panel panel-default">
   <div class="panel-heading"><h4>Privacy Policy</h4></div>
@@ -212,14 +220,19 @@ $("img.lazy").lazyload({
 				<div class="col-sm-3">
 						<ul class="list-unstyled">
 							<li><a href="/invite" rel="nofollow"><i class="fa fa-fw fa-envelope" style="color:#962d22"></i> Invite Friends</a></li>						
-							<li><a href="/static/advertise" rel="nofollow"><i class="fa fa-fw fa-asterisk" style="color:#962d22"></i> Partners</a></li>	
-							<li><a href="/static/referral" rel="nofollow"><i class="fa fa-fw fa-heart" style="color:#962d22"></i> Referral</a></li>				
+							<li><a href="/static/referral" rel="nofollow"><i class="fa fa-fw fa-heart" style="color:#962d22"></i> Referral</a></li>
+							<!--<li><a href="http://www.javtasty.com" onclick="_gaq.push(['_trackEvent', 'JavTasty', 'Click', 'http://www.javtasty.com/']);" title="JavTasty" target="_blank"><img src="/templates/frontend/porntrex/img/javtasty.ico"> JavTasty</a></li>-->
+							<li><a href="http://www.theporndude.com" onclick="_gaq.push(['_trackEvent', 'The Porn Dude', 'Click', 'http://www.theporndude.com/']);" target="_blank"><img src="/templates/frontend/porntrex/img/porndude.ico"> Theporndude</a></li>
+							<a href="http://pron.tv/pornstars" title="best pornstars toplist on
+							pron.tv" target="_blank"><img width="16px" alt="pron.tv" src="/templates/frontend/porntrex/img/pron.ico"> Pron</a>
 						</ul>
 				</div>
 				<div class="col-sm-3">
 						<ul class="list-unstyled">
 							<li><a href="/static/faq" rel="nofollow"><i class="fa fa-fw fa-question-circle" style="color:#962d22"></i> FAQ</a></li>
-							<li><a href="/feedback" rel="nofollow"><i class="fa fa-fw fa-life-ring" style="color:#962d22"></i> Support</a></li>					
+							<li><a href="/feedback" rel="nofollow"><i class="fa fa-fw fa-life-ring" style="color:#962d22"></i> Support</a></li>	
+							<li><a data-toggle="modal" href="#login-modal"><i class="fa fa-fw fa-sign-in" style="color:#962d22"></i> Login</a></li>
+          		<li><a href="/signup" rel="nofollow"><i class="fa fa-fw fa-star" style="color:#962d22"></i> Sign up</a></li>				
 						</ul>
 				</div>
 				<div class="col-sm-3">
@@ -233,17 +246,17 @@ $("img.lazy").lazyload({
 		<div class="container">
 			<div class="hidden-xs">
 				<div class="pull-left">
-					<span>© 2015</span> PornTrex, All Rights Reserved
+					<span>© 2016</span> PornTrex, All Rights Reserved
 				</div>
 			</div>
-			<div class="visible-xs"><span>© 2015</span> PornTrex, All Rights Reserved
+			<div class="visible-xs"><span>© 2016</span> PornTrex, All Rights Reserved
 		</div>
 	</div>
 </div>
 
     <script src="/templates/frontend/porntrex/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/templates/frontend/porntrex/js/jquery.rotator-0.2.js"></script>
-    <script type="text/javascript" src="/templates/frontend/porntrex/js/jquery.avs-0.2.js"></script>
+        <script type="text/javascript" src="/templates/frontend/porntrex/js/jquery.rotator-0.2.js"></script>
+        <script type="text/javascript" src="/templates/frontend/porntrex/js/jquery.avs-0.2.js"></script>
 
 	<script>
 	
@@ -277,4 +290,4 @@ $("img.lazy").lazyload({
 	
 	</script>
 
-</div></div></body></html>
+</div></div></div></body></html>
