@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004021id_/http%3A//www.petsmart.com/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952%3Farticle%3Dhelpdesk_landing_article_privacy_policy_cmp_20120808_142218) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616121618id_/http%3A//www.petsmart.com/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952%3Farticle%3Dhelpdesk_landing_article_privacy_policy_cmp_20120808_142218) for the most accurate reproduction.*
 
 # PETSMART - US
 
 PetSmart wants you to know how we collect, use, share and protect information about you online and in our stores. By interacting with us, you consent to our use of information that is collected or submitted as we describe in our privacy policy. We may change or add to this privacy policy, so we urge you to review it periodically.
 
-  * What Information is Collected
-  * How is Your Information Used
-  * How is Your Information Shared
-  * What Choices Do You Have
-  * How Do You Access and Update Your Personal Information
-  * How is Your Personal Information Protected
-  * California Disclosures
+    * What Information is Collected
+    * How is Your Information Used
+    * How is Your Information Shared
+    * What Choices Do You Have
+    * How Do You Access and Update Your Personal Information
+    * How is Your Personal Information Protected
+    * California Disclosures
 
+  
 
 
 ### WHAT INFORMATION IS COLLECTED
@@ -45,11 +46,21 @@ In order to provide the best customer experience possible, we also use these tec
 
 **Third-Party Automated Information Collection**
 
-In certain instances, we allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for PetSmart products and services or for the products and services of other companies when you visit our website or other websites. These companies use non-personally identifiable information during your visits to this and other websites in order to customize your shopping experience and to provide advertisements about products and services likely to be of greater interest to you. These parties typically use cookies, third-party web beacons, and similar technologies to collect this information. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. Neither PetSmart nor its third party providers have a systematic method for ensuring that browser “Do Not Track” requests are consistently honored. However, you may learn more about online advertising and opt out of the use of your web browsing activity to serve targeted ads by companies that participate in the Digital Advertising Alliance by visiting <http://www.aboutads.info/choices/>.
+In certain instances, we allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for PetSmart products and services or for the products and services of other companies when you visit our website or other websites. These companies use non-personally identifiable information during your visits to this and other websites in order to customize your shopping experience and to provide advertisements about products and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacons, and similar technologies to collect this information. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. Neither PetSmart nor its third party providers have a systematic method for ensuring that browser “Do Not Track” requests are consistently honored. However, you may learn more about online advertising and opt out of the use of your web browsing activity to serve targeted ads by companies that participate in the Digital Advertising Alliance by visiting <http://www.aboutads.info/choices/>.
 
 **Our Mobile App and Mobile Website**
 
-Our PetSmart mobile app is downloadable onto smart phones and serves as a mechanism to take you to our mobile website. Our mobile applications do not currently collect personally identifiable information. Our mobile website collects the same type of information outlined throughout this policy.
+Our PetSmart mobile app is downloadable onto smart phones and serves as a mechanism to take you to our mobile website. Our mobile website collects the same type of information outlined throughout this policy.
+
+**Our Mobile Programs**
+
+By participating in any of our mobile programs you are agreeing to receive automated marketing phone calls and text marketing messages at the phone number you provide at opt-in. Your consent to receive such marketing messages is not required to make a purchase. You understand and agree that the phone calls made and text messages sent to your mobile phone/device may be generated using automated telephone dialing technology. You agree to notify PetSmart at 1-855-537-0295 in the event that you change or disconnect your mobile phone number.
+
+Message and data rates may apply. All charges are billed by and payable to your mobile service provider. PetSmart will not be liable for any delays in the receipt of any messages as delivery is subject to effective transmission from your mobile service provider. For those using T-Mobile as their carrier, T-Mobile is not liable for delayed or undelivered messages.
+
+PetSmart text alerts are recurring. For help, you can text “ **HELP** ” to 84848. To cancel, you can text “ **STOP** ” to 84848. If you text to cancel, you will receive one additional message confirming that your cancelation request has been received. Alternatively, you can call 1-855-537-0295 to cancel your participation in a mobile program. Once you cancel, you are welcome to opt back into the program at any time.
+
+PetSmart reserves the right to remove subscribers at our discretion. Terms are subject to change.
 
 **PetPerks® Loyalty Program – Automatic Number Assignment**
 
@@ -201,9 +212,9 @@ If you do not wish to receive promotional e-mails from us, you may opt out by lo
 
 We may distribute coupons, offers and other information via text messages or mobile applications to customers who have requested this information or who have downloaded a PetSmart application.
 
-To opt out of a specific mobile messaging campaign, reply "STOP" to text messages we send you.
+To opt out of a specific mobile messaging campaign, reply " **STOP** " to text messages we send you.
 
-Our mobile applications do not currently collect personally identifiable information. They take you to our mobile website, which acts similarly to our petsmart.com website. To opt out, delete our mobile app from your smart phone and follow the phone manufacturers’ directions on how to delete cookies or other technology received from our mobile website. For many phones, you will go to the Settings function to do this.
+Our mobile applications may take you to our mobile website, which acts similarly to our petsmart.com website. To opt out, delete our mobile app from your smart phone and follow the phone manufacturers’ directions on how to delete cookies or other technology received from our mobile website. For many phones, you will go to the Settings function to do this.
 
 **Online - petsmart.com Cookies**
 
@@ -221,7 +232,7 @@ If you no longer want to have a PetPerks number, you may opt out by logging onto
 
 If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to PetSmart, Inc. Attn: Privacy Officer, 19601 N. 27th Avenue, Phoenix, AZ 85027. Please allow 30 days for a response.
 
-Neither PetSmart nor its third party providers have a systematic method for ensuring “Do Not Track” functionality in certain browsers can operate to prevent such tracking. You may be able to opt out of certain types of “tracking” by utilizing the opt-out service at the Network Advertising Initiative at [ http://www.networkadvertising.org/choices/#completed](http://www.networkadvertising.org/choices/#completed).
+Neither PetSmart nor its third party providers have a systematic method for ensuring “Do Not Track” functionality in certain browsers can operate to prevent such tracking. You may be able to opt out of certain types of “tracking” by utilizing the opt-out service at the Network Advertising Initiative at <http://www.networkadvertising.org/choices/#completed>.
 
 ### HOW DO YOU ACCESS AND UPDATE YOUR PERSONAL INFORMATION
 
@@ -264,4 +275,4 @@ This privacy policy applies to all current or former customer personal informati
 
 If we intend to use or disclose your personal information in any way materially different than what we say in this privacy policy or make any other material changes, we will make reasonable efforts to revise this policy. If we make any changes to this Policy, we will change the “Revised” date below.
 
-Revised November 2015
+Revised April 2016
