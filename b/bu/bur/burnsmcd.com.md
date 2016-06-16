@@ -1,20 +1,157 @@
-> *The following text is extracted and transformed from the burnsmcd.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209092757id_/http%3A//www.burnsmcd.com/Privacy-Statement-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnsmcd.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616164446id_/http%3A//www.burnsmcd.com/footer/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Burns & McDonnell
+# Privacy Statement | Burns & McDonnell
 
-Welcome to the Burns & McDonnell website. We are committed to protecting the privacy of visitors to our site. Most areas of our site are available for visitors to browse without providing personal information such as names, phone numbers, physical addresses or email addresses. However, our servers automatically log certain non-personal, statistical information about visits to the site in the normal course of operating, which may include: visitors' IP addresses, software used, time and duration of visit, and pages visited before and after visiting our site. This information is used only in aggregate form and only to improve our site's content by identifying, for example, the number of visitors and the page(s) accessed.
+**Burns & McDonnell Digital Privacy Policy**
 
-In the course of browsing, you may voluntarily choose to provide personal information to us by using our [Contact Us](https://web.archive.org/Contact-Us "Contact Us") form, sending us email, applying for a job through our online career center, subscribing to our publications, signing up for an event, registering for access to a secure document or submitting a supplier registration or update form. Any personal information you provide to us will typically be used only to respond to your inquiry or to process your request and will not be sold or shared with other organizations except as described herein. We treat your information with the same care and diligence as our own corporate information, protecting it from compromise.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-When you view portions of this Internet website, information may be stored on the hard drive of your computer. This information may be in the form of a "cookie" or other technologies that will permit the adaptation of this Internet website to better reflect your particular interests, priorities, and preferences.  
-A "cookie" is a piece of data that an Internet website transfers, via your browser, back to your computer's hard drive or other parts of your computer system to assist us with general website recordkeeping activities.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-Information collected may be accessed, stored, processed by and transferred among any of Burns & McDonnell's affiliate companies regardless of location, including affiliates in countries that do not have data protection or data privacy laws equivalent to those of the United States. Burns & McDonnell may disclose your personal information if required to do so by law or a regulatory agency, or to relevant third parties such as auditors, lawyers or other professional advisers in accordance with standard corporate policy. The information will be retained for a reasonable period or as otherwise required by applicable law.
+When subscribing or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-We are committed to comply with the United States' Children's Online Privacy Protection Act (COPPA).
+**When do we collect information?**
 
-Our site contains links to third-party websites for your information and convenience. Except for sites of our affiliates who provide hiring application processes, technical tools, supplier prequalification content or other services clearly identified on our site, Burns & McDonnell is not responsible for the content of such third-party sites or for any personal information you may provide to them. Visitors who follow links to such sites are subject to the separate privacy policies thereof.
+We collect information from you when you register for an event, subscribe to a newsletter, respond to a survey, apply for a job through our online career center, subscribe to our publications, fill out a form, submit a supplier registration or update form or enter information on our site.
 
-Burns & McDonnell reserves the right to modify this privacy policy at any time. Please visit this page periodically to inform yourself of any changes to our privacy policy. Your continued use of this site indicates your awareness of and agreement to the terms and conditions herein. Any questions or comments about this privacy policy are welcome and can be made via the [Contact Us](https://web.archive.org/Contact-Us "Contact Us") form.
+**How do we use your information?**
 
-The materials, images and other content of this website are for informational purposes only and are copyrighted by the authors thereof. All rights reserved. Last updated August 2012.
+We may use the information we collect from you when you register on our site, subscribe to a publication, register for an event, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+  * To personalize user's experience and to allow us to deliver the type of content and service offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To send marketing emails promoting and informing you of other products and services and invite you to events.
+
+
+
+**How do we protect visitor information?**
+
+We do not use vulnerability scanning and/or scanning to PCI standards as we do not sell any products online. We use regular Malware Scanning.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.  
+**  
+Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  
+**  
+We use cookies to:**
+
+  * Understand and save user's preferences for future visits.
+  * Keep track of advertisements and marketing activities.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+**If users disable cookies in their browser:**  
+If you disable cookies off, some features will be disabled. It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. Your personalized preferences and experiences will also be null.
+
+**Third Party Disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+We do not include or offer third party products or services on our website.
+
+**Google**
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en   
+We have not enabled Google AdSense on our site.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA we agree to the following:**
+
+  * Users can visit our site anonymously. 
+  * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+
+
+Users will be notified of any privacy policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Users are able to change their personal information:
+
+  * By submitting a form with new information.
+
+
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track or plant cookies when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we do not allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
+We do not collect information from children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
+We will notify the users via email
+
+  * Within 7 business days
+
+
+
+We will notify the users via in site notification
+
+  * Within 7 business days
+
+
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act  
+**   
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Market to our mailing list or continue to send emails to our clients
+  * Invite our clients to events.
+
+
+
+**  
+To be in accordance with CANSPAM we agree to the following:**
+
+  * NOT use false, or misleading subjects or email addresses
+  * Identify the message as an advertisement in some reasonable way
+  * Include the physical address of our business or site headquarters
+  * Monitor third party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly
+  * Allow users to unsubscribe by using the link at the bottom of each email
+
+
+
+**If at any time you would like to unsubscribe from receiving future emails:**
+
+  * Follow the instructions at the bottom of each email 
+
+
+
+Burns & McDonnell reserves the right to modify this privacy policy at any time. Please visit this page periodically to inform yourself of any changes to our privacy policy. Your continued use of this site indicates your awareness of and agreement to the terms and conditions. Any questions or comments about this privacy policy are welcome and can be made via the Contact Us form.
+
+The materials, images and other content of this website are for informational purposes only and are copyrighted by the authors thereof. All rights reserved. 
+
+Last Edited on 2015-11-22 BH
