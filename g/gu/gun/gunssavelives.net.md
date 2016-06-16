@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunssavelives.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208033908id_/http%3A//gunssavelives.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunssavelives.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617005924id_/http%3A//gunssavelives.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Guns Save Lives
 
@@ -73,4 +73,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 GunsSaveLives.net  
 2126 Easy Victory Dr. Suite 138  
 Savannah, GA 31401  
-admin@gunssavelives.net
+admin@gunssavelives.wpengine.com
