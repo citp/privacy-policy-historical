@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bitcurex.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316153101id_/https%3A//bitcurex.com/page/1487682-prywatnosc) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitcurex.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616185254id_/https%3A//bitcurex.com/page/1487682-prywatnosc) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580520222000"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580520221997"></script><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580520221994"></script>
+<!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <meta name="description" content="Buy and sell BTC. Secure transactions since 2012. One of the most experienced Bitcoin exchanges on the market.">
     <meta name="author" content="">
@@ -10,7 +10,7 @@
     
     <title>Bitcurex</title>
     <link rel="shortcut icon" href="/media/assets/images/favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
     <meta name="viewport" content="initial-scale=0.7, user-scalable=yes, width=1200, maximum-scale=1.0">
     <!--[if lt IE 9]>
         <script src="/media//assets/js/html5.js"></script>
@@ -20,20 +20,25 @@
     <script src="/media/assets/js/cr.js" type="text/javascript"></script>
     <script type="text/javascript">
 	var chloaded = false;
+	var verBA = null;
         var foot = 2;
         var dynlo = true;
-        var shid = '60411a096d520a4a63a40a93e63dd842948b16be';
+        var shid = 'e4563ced0b8fe241b3de43b1a90cbf7ceea47186';
 	var sform = null;
 	var pinput = null;
         var minorder = 5;
 	var pin_trade = true;
 	var buysell_confirm = true; //true;
-        var miniticker_pln_url = '/miniticker/pln/';
-        var miniticker_eur_url = '/miniticker/eur/';
-        var miniticker_usd_url = '/miniticker/usd/';
+	var tstm = new Date().getTime();
+        <!-- var miniticker_pln_url = '/miniticker/pln/'; -->
+        <!-- var miniticker_eur_url = '/miniticker/eur/'; -->
+        <!-- var miniticker_usd_url = '/miniticker/usd/'; -->
+        var miniticker_pln_url = '/api/pln/miniticker.html?t=' + tstm;
+        var miniticker_eur_url = '/api/eur/miniticker.html?t=' + tstm;
+        var miniticker_usd_url = '/api/usd/miniticker.html?t=' + tstm;
         var placeholder_text = 'Retype captcha picture here:';
         var reload_text = 'Reload';
-        var token = 'HiYQP39i8oKinuJbwxc7gbQFrMNVQKaF';
+        var token = 'abqK4813VJV6TEpi0BUBuEsGic7NelRt';
         var ret_f = null;
         var confirmTxt = '';
 	var confirmTTxt = 'Are you sure you want to change tel. no.?';
@@ -48,146 +53,85 @@
 	var notValidBothFieldsTxt = 'Both fields are required';
 	var notValidBicSwiftTxt = 'Bic/Swift is not valid';
 	var notValidCountryTxt = 'Select country';
+    var cTxtVcode = 'Are you sure?';
 	var cTxtPgpDel = 'Are you sure you want to delete this PGP key?';
+      var ppii = null;
+
     </script>
-    <script src="/media/assets/js/main.js?g=2" type="text/javascript"></script>
+    <script src="/media/assets/js/main.js?g=8" type="text/javascript"></script>
     <script type="text/javascript" src="/media/cookielaw/js/cookielaw.js"></script>
-    
-	<script type="text/javascript">
+    <script type="text/javascript">
 	
-	    function createCookie(name, value, days) {
-		if (days) {
-		    var date = new Date();
-		    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-		    var expires = "; expires=" + date.toGMTString();
+	function opensel(elem) {
+	    if (document.createEvent) {
+		var e = document.createEvent("MouseEvents");
+		e.initMouseEvent("mousedown", true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+		elem[0].dispatchEvent(e);
+	    } else if (element.fireEvent) {
+		elem[0].fireEvent("onmousedown");
+	    }
+	}
+
+	$.fn.scrollStopped = function(callback) {
+	    var $this = $(this), self = this;
+	    $this.scroll(function(){
+		if ($this.data('scrollTimeout')) {
+		  clearTimeout($this.data('scrollTimeout'));
 		}
-		else var expires = "";
-
-		var fixedName = '';
-		name = fixedName + name;
-
-		document.cookie = name + "=" + value + expires + "; path=/";
-	    }
-
-	    function readCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for (var i = 0; i < ca.length; i++) {
-		    var c = ca[i];
-		    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-		    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-		}
-		return null;
-	    }
-
-	    function eraseCookie(name) {
-		createCookie(name, "", -1);
-	    }
-
-	    function show_chwnd(){
-		$('#chat-button').hide();
-		$('#chat-content').css({ top: $(window).height() }).show().animate({ top: $(window).height() - 300 }, 300, function(){
-		    $('#chat-button').css({ top: $(window).height() - 330 }).show();
-		    chatWindow = true;
-		    createCookie("chwnd", 1);
-		});
-	    }
-
-	    function close_chwnd(){
-		$('#chat-button').hide();
-		$('#chat-content').animate({ top: $(window).height() }, 300, function(){
-		    $('#chat-button').css({ top: $(window).height() - 30 }).show();
-		    chatWindow = false;
-		    $('#chat-content').hide();
-		    createCookie("chwnd", 0);
-		});
-	    }
-
-	    function chat_history(){
-		$.get('https://irc.bitcurex.com:15000/history/', function(data){
-		    var text = '<pre>';
-		    for(var i=0; i<data.data.length; i++){
-			text += data.data[i].sender + ': ' + data.data[i].msg + '<br />';
-		    }
-		    text += '</pre>'
-		    $('#chat-history').html(text);
-		    $('#chat-history').scrollTop($('#chat-history')[0].scrollHeight);
-		});
-	    }
-
-	    function send_message(){
-		$('#chat-input').attr('placeholder', '');
-		var text = $('#chat-history').html();
-		$('#chat-history').html(text + '<span style="color: #aaa;">Sending...</span>');
-		$('#chat-history').scrollTop($('#chat-history')[0].scrollHeight);
-		$.post('https://irc.bitcurex.com:15000/message/', {
-			'sender': '', 
-			'message': $('#chat-input').val()
-		    }, function(data){
-			if(data.status == 'error'){
-			    $('#chat-error').html(data.data).slideDown('fast', function(){
-				setTimeout(function(){
-				    $('#chat-error').slideUp('slow', function(){
-					$('#chat-error').html('');
-				    });
-				}, 3000);
-			    });
-			}
-		    }
-		);
-		$('#chat-input').val('');
-	    }
-
-	    var chatWindow = false;
-	    
-	    $(function(){
-
-		var chwnd = readCookie("chwnd");
-		if(chwnd==1){
-		    chat_history();
-		    show_chwnd();
-		}
-
-		$('#chat-button').css({ top: $(window).height() - 30 }).show();
-
-		$('#chat-button').click(function(){
-		    if (chatWindow==false) {
-			show_chwnd();
-		    }else{
-			close_chwnd();
-		    }
-		});
-
-		setInterval(function(){
-		    chat_history();
-		}, 2000);
-		
-		$('#chat-send').click(function(){
-		    send_message();
-		});
-		
-		$("#chat-input").keyup(function(event){
-		    if(event.keyCode == 13){
-			send_message();
-		    }
-		});
-
-		$(window).resize(function(){
-		    if (chatWindow==false) {
-			$('#chat-button').css({ top: $(window).height() - 30 });
-			$('#chat-content').css({ top: $(window).height() });
-		    }else{
-			$('#chat-button').css({ top: $(window).height() - 330 });
-			$('#chat-content').css({ top: $(window).height() - 300 });
-		    }
-		});
-		
+		$this.data('scrollTimeout', setTimeout(callback,250,self));
 	    });
+	};
+    
+	function createCookie(name, value, days) {
+	    if (days) {
+		var date = new Date();
+		date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+		var expires = "; expires=" + date.toGMTString();
+	    }
+	    else var expires = "";
 
-	</script>
+	    var fixedName = '';
+	    name = fixedName + name;
+
+	    document.cookie = name + "=" + value + expires + "; path=/";
+	}
+
+	function readCookie(name) {
+	    var nameEQ = name + "=";
+	    var ca = document.cookie.split(';');
+	    for (var i = 0; i < ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+	    }
+	    return null;
+	}
+
+	function eraseCookie(name) {
+	    createCookie(name, "", -1);
+	}
+
+	var dashadv = false;
+
+	function dashAdvClick(){
+		if (dashadv==false) {
+			$('#dashadv').animate({ left: '0px' }, 300);
+			dashadv = true;
+		}else{
+			$('#dashadv').animate({ left: '-150px' }, 300);
+			dashadv = false;
+		}
+	}
+
+    </script>
+    
     
     <style type="text/css">
     
+		#id_ref {
+			width: 120px;
+		}
+	
         .birdiea:hover {
             color: #fff !important;
         }
@@ -196,6 +140,10 @@
             line-height: 25px;
             margin: 0px;
         }
+
+#body_wrap {
+background: url('/media/assets/images/bg1a.jpg') repeat-x !important;
+}
 
         .notifa {
             float: left;
@@ -215,15 +163,113 @@
             margin-top: 2px;
         }
 	
+	  .spec-box-content {
+		width: 600px;
+		margin: auto;
+		margin-top: 30px;
+		padding-top: 0px;
+		text-align: center;
+		border: solid 1px #ddd;
+		-webkit-box-shadow: 3px 3px 3px 0px #ddd;
+		-moz-box-shadow: 3px 3px 3px 0px #ddd;
+		box-shadow: 3px 3px 3px 0px #ddd;
+	  }
+	  
+	  #alt-nr {
+		text-align: center;
+		font-weight: bold;
+	  }
+	
 	
 
+	.prtn {
+	    float: left;
+	    margin-left: 55px;
+	}
+	
+	#dashadv {
+		width: 190px;
+		height: 180px;
+		position: absolute;
+		top: 150px;
+		left: -150px;
+		font-size: 12px;
+		z-index: 10000;
+	}
+	
+	#dashadvcontent {
+	    border-bottom: 1px solid #fff;
+	    border-top: 1px solid #fff;
+	    box-shadow: 0px 0px 12px #fff;
+	    float: left;
+	    width: 130px;
+	    height: 180px;
+	    padding: 10px;
+	}
+	
+	#dashadvclip {
+		display: block;
+		float: left;
+		width: 35px;
+		height: 150px;
+		background: #fff url('/media/assets/images/dashadv.png') no-repeat left center;
+		/*border-bottom: 1px solid #999;*/
+		/*border-right: 1px solid #999;*/
+		/*border-top: 1px solid #999;*/
+		border-bottom-right-radius: 5px;
+		border-top-right-radius: 5px;
+		box-shadow: 2px 0px 4px #bbb;
+		z-index: 10000;
+		margin-left: 2px;
+	}
+	
+	#feed {
+	    clear: both;
+	    width: 100%;
+	    height: 30px;
+	    line-height: 30px;
+	    overflow: hidden;
+	}
+	
+	#feed-wrapper {
+	    /*display: inline-block;
+	    /* width: 5000px; */
+	}
+	
+	#feed-wrapper marquee {
+	}
+	
+	.feed {
+	    display: inline-block;
+	    padding-top: 7px;
+	}
+	
+	.feed a {
+	    font-size: 12px;
+	    color: #000;
+	}
+	
     </style>
 
     
 
-    <link href="/media/assets/css/bitcurex.css?g=4" rel="stylesheet">
+    <link href="/media/assets/css/bitcurex.css?g=8" rel="stylesheet">
+	<link href="/media/assets/css/n.css?r=15" rel="stylesheet">
 </head>
 <body class="" style="">
+
+	<div id="dashadv">
+		<div id="dashadvcontent" style="">
+			Export profile from Bitcurex to Dashcurex<br><br>
+			Instant funds transfer between services<br><br>
+			<div style="margin-left: 10px;">
+				<a href="/page/dash" class="profilechange" style="margin: auto; background-color: #1676BD !important;" target="_blank">Guide</a><br><br>
+				<a href="https://dashcurex.com/" class="profilechange" style="margin: auto; background-color: #1676BD !important;">Dashcurex</a>
+			</div>
+		</div>
+		<a href="javascript:dashAdvClick();" id="dashadvclip"></a>
+	</div>
+
     
     <div id="overlay"></div>
     <div id="preloader" style="display: none;"><img src="/media/assets/images/prc.gif" width="50"></div>
@@ -232,7 +278,7 @@
     </div>
     <div id="pconfirm">
         <div id="pconfirm-title"><span>Confirm</span><div class="qico"></div></div>
-        <div id="pconfirm-info">
+        <div id="pconfirm-info" style="line-height: 18px;">
 
         </div>
         <div class="clear"></div>
@@ -262,14 +308,24 @@
         <a href="javascript:void(0);" id="pini-no">Cancel</a>
         <a href="javascript:void(0);" id="pini-yes">Send</a>
     </div>
-    <div id="lock">
+    <div id="lock" style="height: 250px;">
         <div id="lock-title"><span>Account locked</span><div class="wico"></div></div>
-        <div id="lock-info">
+        <div id="lock-info" style="height: 100px;">
             Account locked. Please contact with portal administration
+	    
         </div>
         <div class="clear"></div>
         <a href="javascript:logout();" id="pini-yes">Log out</a>
         <a href="/support/" id="pini-no">Support</a>
+    </div>
+    <div id="message-window" class="oconfirm">
+        <div class="oconfirm-title"><span>Bitcurex</span><div class="wico"></div></div>
+        <div class="oconfirm-info">
+            
+        </div>
+        <div class="clear"></div>
+        <a href="javascript:closeMessage(0);" class="oconfirm-no">Ok</a>
+        <a href="/support/" class="oconfirm-yes">Support</a>
     </div>
     <div id="tlock">
         <div id="tlock-title"><span>Account locked</span><div class="wico"></div></div>
@@ -287,6 +343,18 @@
         </div>
         <div class="clear"></div>
     </div>
+    
+    <div id="newbankinfo" style="width: 550px; height: 300px;">
+        <div id="newbankinfo-title" style="line-height: 35px;"><span>Important information</span><div class="wico"></div></div>
+        <div id="newbankinfo-info" style="height: 150px;">
+	    Important!<br><br>
+            From 01.01.2016 we are changing bank accounts for deposits! Please check your new bank accounts at "Deposit" section
+        </div>
+        <div class="clear"></div>
+        <a href="javascript:newbinfo();" id="pini-yes">Ok</a>
+        <a href="/support/" id="pini-no">Support</a>
+    </div>
+
     <div id="bl">
         <div id="tlock-title"><span>Error</span><div class="wico"></div></div>
         <div id="tlock-info">
@@ -306,488 +374,69 @@
     </div>
     
     
-    <div id="body_wrap">
-    
-        <div id="top">
-            <div id="logo">
-                <a href="" border="0">
-                    <img src="/media/assets/images/logo_SYSTEM.png" width="290" border="0">
-                </a>
-            </div>
-            <div id="curr" style="width: 612px; margin-left: 35px;">
-                <div style="margin: auto;">
-                    <div class="currbox cbbr" id="miniticker1">
-
-<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app105.us.archive.org';v.server_ms=364;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20141209123324", "bitcurex.com");
-</script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<script type="text/javascript">
-    
-    $(function(){
-        $('.vchpln').click(function(){
-            var id = $(this).attr('id');
-            $(this).find('.vchn').toggle();
-            $(this).find('.vchn2').toggle();
-            $('#'+id+'c').find('.cbfcv').toggle();
-            $('#'+id+'c').find('.cbfcv2').toggle();
-        });
-    });
-    
-</script>
-<div class="cbl1">
-    <div class="cbfl">
-        
-            1175.00
-        
-    </div>
-    <div class="cbfc cbfp" style="font-size: 14px;">
-        <a href="/web/20141209123324/https://bitcurex.com/buysellview/?market=PLN">PLN</a>
-    </div>
-    <div class="cbfr">
-        
-            1199.85
-        
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl2">
-    <div class="cbfmiddle cbfp cbfbig" style="width: 190px; margin-top: 5px;">
-        <div class="cbfmiddle" style="text-align: center; margin-left: 30px;">
-            <div style="float: left; font-size: 17px;">
-                
-                    1173.00&nbsp;
-                
-            </div>
-            <div style="float: left;">
-                
-                    
-                        <div class="ra" style="margin-top: 4px;"></div>
-                    
-                
-                <div class="f-left">% 0.08</div> 
-            </div>
-        </div>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl3" id="vchplnc">
-    <div class="cbfc cbfmiddle cbfcv" style="font-size: 15px; display: none;">
-        <span style="font-size: 11px;">Volume</span> 169.04 <span style="font-size: 11px;">BTC</span>
-    </div>
-    <div class="cbfc cbfmiddle cbfcv2" style="font-size: 15px;">
-        <span style="font-size: 11px;">Volume</span> 564.5578 <span style="font-size: 11px;">BTC</span>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl4">
-    <div class="clear"></div>
-    <div class="cbfl cbfsmall">
-
-        
-            1169.00
-        
-    </div>
-    <div class="cbfc cbfsmall" style="cursor: pointer; margin-top: -5px;">
-        <div class="vchpln" id="vchpln">
-            <div class="vchn" style="display: none;">
-                12<sup>am</sup>-12<sup>pm</sup>
-            </div>
-            <div class="vchn2" style="padding-top: 4px;">
-                24h
-            </div>
-        </div>
-    </div>
-    <div class="cbfr cbfsmall">
-        
-            1217.00
-        
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl5">
-    <div class="cbfl">
-        
-            <div class="ga" style=""></div>
-        
-        <div class="f-right cbfsmall">
-            % 0.34
-        </div>
-    </div>
-    <div class="cbfc cbfsmall">
-        (Spread)
-    </div>
-    <div class="cbfr">
-        <div class="f-left cbfsmall">
-            % 3.75
-        </div>
-        
-            
-                <div class="ra"></div>
-            
-        
-    </div>
-</div>
-<div class="clear"></div>
-
-<!--
-     FILE ARCHIVED ON 12:33:24 Dec 09, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:23:38 Feb 01, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  captures_list: 257.745
-  exclusion.robots.policy: 0.154
-  PetaboxLoader3.resolve: 127.518 (2)
-  CDXLines.iter: 13.227 (3)
-  RedisCDXSource: 56.95
-  PetaboxLoader3.datanode: 132.385 (4)
-  esindex: 0.028
-  LoadShardBlock: 184.519 (3)
-  exclusion.robots: 0.166
-  load_resource: 99.393
---></div>
-                    <div class="currbox cbbr" id="miniticker2">
-
-<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app105.us.archive.org';v.server_ms=266;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20141209123322", "bitcurex.com");
-</script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<script type="text/javascript">
-    
-    $(function(){
-        $('.vcheur').click(function(){
-            var id = $(this).attr('id');
-            $(this).find('.vchn').toggle();
-            $(this).find('.vchn2').toggle();
-            $('#'+id+'c').find('.cbfcv').toggle();
-            $('#'+id+'c').find('.cbfcv2').toggle();
-        });
-    });
-    
-</script>
-<div class="cbl1">
-    <div class="cbfl">
-        
-            280.56
-        
-    </div>
-    <div class="cbfc cbfp" style="font-size: 14px;">
-        <a href="/web/20141209123322/https://bitcurex.com/buysellview/?market=EUR">EUR</a>
-    </div>
-    <div class="cbfr">
-        
-            289.99
-        
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl2">
-    <div class="cbfmiddle cbfp cbfbig" style="width: 190px; margin-top: 5px;">
-        <div class="cbfmiddle" style="text-align: center; margin-left: 30px;">
-            <div style="float: left; font-size: 17px;">
-                
-                    289.99&nbsp;
-                
-            </div>
-            <div style="float: left;">
-                
-                    <div class="ga" style="margin-top: 4px;"></div>
-                
-                <div class="f-left">% 3.50</div> 
-            </div>
-        </div>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl3" id="vcheurc">
-    <div class="cbfc cbfmiddle cbfcv" style="font-size: 15px; display: none;">
-        <span style="font-size: 11px;">Volume</span> 5.39 <span style="font-size: 11px;">BTC</span>
-    </div>
-    <div class="cbfc cbfmiddle cbfcv2" style="font-size: 15px;">
-        <span style="font-size: 11px;">Volume</span> 155.9179 <span style="font-size: 11px;">BTC</span>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl4">
-    <div class="clear"></div>
-    <div class="cbfl cbfsmall">
-
-        
-            270.79
-        
-    </div>
-    <div class="cbfc cbfsmall" style="cursor: pointer; margin-top: -5px;">
-        <div class="vcheur" id="vcheur">
-            <div class="vchn" style="display: none;">
-                12<sup>am</sup>-12<sup>pm</sup>
-            </div>
-            <div class="vchn2" style="padding-top: 4px;">
-                24h
-            </div>
-        </div>
-    </div>
-    <div class="cbfr cbfsmall">
-        
-            292.00
-        
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl5">
-    <div class="cbfl">
-        
-            <div class="ga" style=""></div>
-        
-        <div class="f-right cbfsmall">
-            % 6.62
-        </div>
-    </div>
-    <div class="cbfc cbfsmall">
-        (Spread)
-    </div>
-    <div class="cbfr">
-        <div class="f-left cbfsmall">
-            % 0.69
-        </div>
-        
-            
-                <div class="ra"></div>
-            
-        
-    </div>
-</div>
-<div class="clear"></div>
-
-<!--
-     FILE ARCHIVED ON 12:33:22 Dec 09, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:23:37 Feb 01, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  captures_list: 178.834
-  exclusion.robots.policy: 0.186
-  PetaboxLoader3.resolve: 37.767
-  CDXLines.iter: 16.839 (3)
-  RedisCDXSource: 86.589
-  PetaboxLoader3.datanode: 79.232 (4)
-  esindex: 0.016
-  LoadShardBlock: 70.966 (3)
-  exclusion.robots: 0.203
-  load_resource: 78.99
---></div>
-                    <div class="currbox cbbr" id="miniticker3" style="border-right: none;">
-
-<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app13.us.archive.org';v.server_ms=2040;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20150328131447", "bitcurex.com");
-</script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<script type="text/javascript">
-    
-    $(function(){
-        $('.vchusd').click(function(){
-            var id = $(this).attr('id');
-            $(this).find('.vchn').toggle();
-            $(this).find('.vchn2').toggle();
-            $('#'+id+'c').find('.cbfcv').toggle();
-            $('#'+id+'c').find('.cbfcv2').toggle();
-        });
-    });
-    
-</script>
-<div class="cbl1">
-    <div class="cbfl">
-        
-            241.00
-        
-    </div>
-    <div class="cbfc cbfp" style="font-size: 14px;">
-        <a href="/web/20150328131447/https://bitcurex.com/buysellview/?market=USD">USD</a>
-    </div>
-    <div class="cbfr">
-        
-            266.92
-        
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl2">
-    <div class="cbfmiddle cbfp cbfbig" style="width: 190px; margin-top: 5px;">
-        <div class="cbfmiddle" style="text-align: center; margin-left: 30px;">
-            <div style="float: left; font-size: 17px;">
-                
-                    255.00&nbsp;
-                
-            </div>
-            <div style="float: left;">
-                
-                    
-                        
-                    
-                
-                <div class="f-left">% 0.0</div> 
-            </div>
-        </div>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl3" id="vchusdc">
-    <div class="cbfc cbfmiddle cbfcv" style="font-size: 15px; display: none;">
-        <span style="font-size: 11px;">Volume</span> 0.00 <span style="font-size: 11px;">BTC</span>
-    </div>
-    <div class="cbfc cbfmiddle cbfcv2" style="font-size: 15px;">
-        <span style="font-size: 11px;">Volume</span> 0.0000 <span style="font-size: 11px;">BTC</span>
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl4">
-    <div class="clear"></div>
-    <div class="cbfl cbfsmall">
-
-        
-            0.00
-        
-    </div>
-    <div class="cbfc cbfsmall" style="cursor: pointer; margin-top: -5px;">
-        <div class="vchusd" id="vchusd">
-            <div class="vchn" style="display: none;">
-                12<sup>am</sup>-12<sup>pm</sup>
-            </div>
-            <div class="vchn2" style="padding-top: 4px;">
-                24h
-            </div>
-        </div>
-    </div>
-    <div class="cbfr cbfsmall">
-        
-            0.00
-        
-    </div>
-</div>
-<div class="clear"></div>
-<div class="cbl5">
-    <div class="cbfl">
-        
-            
-                <div class="ra"></div>
-            
-        
-        <div class="f-right cbfsmall">
-            % 100
-        </div>
-    </div>
-    <div class="cbfc cbfsmall">
-        (Spread)
-    </div>
-    <div class="cbfr">
-        <div class="f-left cbfsmall">
-            % 100.0
-        </div>
-        
-            <div class="ga" style=""></div>
-        
-    </div>
-</div>
-<div class="clear"></div>
-
-<!--
-     FILE ARCHIVED ON 13:14:47 Mar 28, 2015 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:23:39 Feb 01, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  CDXLines.iter: 12.367 (3)
-  exclusion.robots: 0.196
-  PetaboxLoader3.resolve: 190.749
-  exclusion.robots.policy: 0.182
-  LoadShardBlock: 971.833 (3)
-  RedisCDXSource: 7.789
-  esindex: 0.01
-  captures_list: 995.289
-  PetaboxLoader3.datanode: 1813.042 (4)
-  load_resource: 1037.782
---></div>
-                </div>
-            </div>
-            <div id="navblock">
-            
-                <nav id="navi">
-                    <ul>
-                        
-                        <li>
-                            <a href="/account/login/">
-                                Log in
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/account/register/">
-                                Sign up
-                            </a>
-                        </li>
-                        
-                    </ul>
-                    
-                </nav>
-            
-            </div>
-	    
-            <div class="clear"></div>
-            <div id="sels">
-                <div class="cursellabel">Language</div>
-                <form action="/change_language/" method="post" id="langsel" autocomplete="off">
-                    <input type="hidden" name="csrfmiddlewaretoken" value="HiYQP39i8oKinuJbwxc7gbQFrMNVQKaF">
-                    <select name="lang" class="sel" onchange="javascript:selectLang();">
-                        
-                            <option value="pl">Polski</option>
-                        
-                            <option value="en" selected="selected">English</option>
-                        
-                            <option value="ru">Pусский</option>
-                        
-                    </select>
-                </form>
-            </div>
-        </div>
-    
-    <div class="clear"></div>
-    <div id="mnt"></div>
-        
+	
+		<div id="body_wrap">
+		
+		    <div id="top">
+			<div id="logo">
+			    <a href="" border="0">
+				<img src="/media/assets/images/n/n_logo.png" width="290" border="0" style="margin-left: 25px; margin-top: 30px;">
+			    </a>
+			</div>
+			<div id="curr" style="width: 799px;">
+			    <div style="width: 660px; margin: auto;">
+				<div class="currbox cbbr" id="miniticker1"></div>
+				<div class="currbox cbbr" id="miniticker2"></div>
+				<div class="currbox cbbr" id="miniticker3" style="border-right: none;"></div>
+			    </div>
+			</div>
+			<div id="navblock">
+			
+			    <nav id="navi">
+				<ul>
+				    
+				    <li>
+					<a href="/account/login/">
+					    Log in
+					</a>
+				    </li>
+				    <li>
+					<a href="/account/register/">
+					    Sign up
+					</a>
+				    </li>
+				    
+				</ul>
+				
+			    </nav>
+			
+			</div>
+			<div class="clear"></div>
+			<div id="sels" style="margin-top: 25px;">
+			    <div class="cursellabel">Language</div>
+			    <form action="/change_language/" method="post" id="langsel">
+				<input type="hidden" name="csrfmiddlewaretoken" value="abqK4813VJV6TEpi0BUBuEsGic7NelRt">
+				<select name="lang" class="sel" onchange="javascript:selectLang();">
+				    
+					<option value="pl">Polski</option>
+				    
+					<option value="en" selected="selected">English</option>
+				    
+					<option value="ru">Pусский</option>
+				    
+				</select>
+			    </form>
+			</div>
+			<div id="feed">
+			    <div id="feed-wrapper">
+				
+			    </div>
+			</div>
+		    </div>
+		
+		<div class="clear"></div>
+		<div id="mnt"></div>
+		
     <div id="content">
         
         
@@ -842,16 +491,43 @@ playback timings (ms):
     </div>
     </div>
 
+	
     <div class="clear"></div>
+    
     
 
     <div class="clear"></div>
+    <div id="partners" style="background: #363636; width: 100%; height: 110px;">
+	<div style="  width: 1000px; padding: 10px 0px 0px 10px; margin: auto;">
+	    <div style="margin: auto; text-transform: uppercase; color: #aaa; text-align: center; margin-bottom: 20px;">Partners</div>
+	    <div style="margin: auto; text-transform: uppercase;">
+		<div class="prtn" style="margin-left: 9px;">
+		    <img src="/media/assets/images/cryptoins.png" height="40">
+		</div>
+		<div class="prtn">
+		    <img src="/media/assets/images/inpay_logo_dark_rgb.png" height="40">
+		</div>
+		<div class="prtn">
+		    <img src="/media/assets/images/kryptopay.png" height="60" style="margin-top: -10px;">
+		</div>
+		<div class="prtn">
+		    <img src="/media/assets/images/midgar.png" height="50" style="margin-top: -10px;">
+		</div>
+		<div class="prtn">
+		    <img src="/media/assets/images/sfxlogo.png" height="35" style="margin-top: 0px;">
+		</div>
+	    </div>
+	</div>
+	<div class="clear"></div>
+    </div>
+    <div class="clear"></div>
     
         <div id="footer-wrap">
-             <div id="footer"> <div class="fmenu1"> <h3>User</h3> <ul> <li> <a href="/page/faq"> FAQ </a> </li> <li> <a href="/page/1479542-api"> API </a> </li> <li> <a href="/support/"> Support </a> </li> <li> <a href="/page/1483881-weryfikacja/"> Verification </a> </li> <li> <a href="/page/rub/"> Rouble Transfers </a> </li> </ul> <div class="clear"></div> </div> <div class="fmenu1"> <h3>Features</h3> <ul> <li> <a href="/page/1485694-bezpieczenstwo"> Security </a> </li> <li> <a href="/fee/"> Fee </a> </li> <li> <a href="/page/1487682-prywatnosc"> Privacy policy </a> </li> <li> <a href="/page/1488728-aml-policy"> AML </a> </li> <li> <a href="/page/1490124-pgp-public-key"> PGP Public Key </a> </li> <li> <a href="/page/1574502-bug-bounty"> Bug bounty </a> </li> </ul> <div class="clear"></div> </div> <div class="fmenu1"> <h3>About Us</h3> <ul> <li> <a href="/?l=1"> Home </a> </li> <li> <a href="/page/1481827-regulamin"> Terms of Service </a> </li> <li> <a href="/article/list/"> News </a> </li> <li> <a href="/page/1484532-kontakt"> Contact </a> </li> </ul> <div class="clear"></div> </div> <div id="social-links"> <div class="social-link"> <a href="https://twitter.com/Bitcurex"> <img src="/media/assets/images/tw.png"> </a> </div> <div class="social-link"> <a href="https://www.facebook.com/Bitcurex"> <img src="/media/assets/images/fb.png"> </a> </div> </div> <div class="clear"></div> </div> 
+             <div id="footer"> <div class="fmenu1"> <h3>User</h3> <ul> <li> <a href="/page/faq"> FAQ </a> </li> <li> <a href="/page/1479542-api"> API </a> </li> <li> <a href="/page/7203907-mobile"> Mobile </a> </li> <li> <a href="/support/"> Support </a> </li> <li> <a href="/page/1483881-weryfikacja/"> Verification </a> </li> </ul> <div class="clear"></div> </div> <div class="fmenu1"> <h3>Features</h3> <ul> <li> <a href="/page/1485694-bezpieczenstwo"> Security </a> </li> <li> <a href="/fee/"> Fee </a> </li> <li> <a href="/page/1487682-prywatnosc"> Privacy policy </a> </li> <li> <a href="/page/1488728-aml-policy"> AML </a> </li> <li> <a href="/page/1490124-pgp-public-key"> PGP Public Key </a> </li> <li> <a href="/page/1574502-bug-bounty"> Bug bounty </a> </li> </ul> <div class="clear"></div> </div> <div class="fmenu1"> <h3>About Us</h3> <ul> <li> <a href="/?l=1"> Home </a> </li> <li> <a href="/page/1481827-regulamin"> Terms of Service </a> </li> <li> <a href="/article/list/"> News </a> </li> <li> <a href="/page/1484532-kontakt"> Contact </a> </li> </ul> <div class="clear"></div> </div> <div id="social-links"> <div class="social-link"> <a href="https://twitter.com/Bitcurex"> <img src="/media/assets/images/tw.png"> </a> </div> <div class="social-link"> <a href="https://www.facebook.com/Bitcurex"> <img src="/media/assets/images/fb.png"> </a> </div> </div> <div class="clear"></div> </div> 
             <div class="clear"></div>
         </div>
     
+
     </div>
     
     
@@ -868,7 +544,7 @@ playback timings (ms):
     </div>
 </div>
     <div style="display: none;">
-        <form action="/account/logout/" id="logoutf" method="post" autocomplete="off"><input type="hidden" name="csrfmiddlewaretoken" value="HiYQP39i8oKinuJbwxc7gbQFrMNVQKaF"><input type="submit" name="logout" value="logout"></form>
+        <form action="/account/logout/" id="logoutf" method="post"><input type="hidden" name="csrfmiddlewaretoken" value="abqK4813VJV6TEpi0BUBuEsGic7NelRt"><input type="submit" name="logout" value="logout"></form>
     </div>
     
 
@@ -903,7 +579,7 @@ playback timings (ms):
     </script>
 
     <script type="text/javascript">
-        var stime = toSeconds('16:31:04');
+        var stime = toSeconds('20:52:55');
     
         var tlock = toSeconds('');
         var diff = tlock - stime;
@@ -913,9 +589,14 @@ playback timings (ms):
 
             
 
+	    
+	    
             
+
                 
                     
+                        
+	    
                         
                     
                 
@@ -925,106 +606,106 @@ playback timings (ms):
 
     </script>
     
-<!-- Piwik -->
-<script type="text/javascript">
-    
-
- function getBChart(){
-    
-  if (chloaded==false) {
-    $.getJSON('/api/'+market+'/transactions.json', function(data) {
-        chloaded = true;
-        for(i=0;i<data.length;i++){
-            data[i][1] = parseFloat(data[i][1]);
-        }
-        $('#chart').highcharts('StockChart', {
-
-            rangeSelector : {
-                buttons: [{
-                    type: 'hour',
-                    count: 1,
-                    text: '1h'
-                }, {
-                    type: 'day',
-                    count: 1,
-                    text: '1d'
-                }, {
-                    type: 'month',
-                    count: 1,
-                    text: '1m'
-                }, {
-                    type: 'all',
-                    text: 'All'
-                }],
-                inputEnabled: false,
-                selected : 3
-            },
-
-            yAxis: [{
-                min: null
-            }],
-
-            navigator: {
-                adaptToUpdatedData: false,
-                series: {
-                    data: data
-                }
-            },
-
-            scrollbar: {
-                liveRedraw: false
-            },
-
-            title: {
-                text: chartTitle
-            },
-
-            series: [{
-                name: seriesName,
-                data: data,
-                type: 'area',
-                threshold: null,
-                tooltip: {
-                    tooltip: {
-                        pointFormat: '{point.x} BTC/{point.y} ' + market
-                    }
-                },
-                fillColor : {
-                    linearGradient : {
-                        x1: 0,
-                        y1: 0,
-                        x2: 0,
-                        y2: 1
-                    },
-                    stops : [
-                        [0, Highcharts.getOptions().colors[0]],
-                        [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
-                    ]
-                }
-            }]
-        });
-    });
-  }
-  
- }
-    
-    
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//coinapphost.com/piwik/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 2]);
-    var d=document, g=d.createElement('script'),
-s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true;
-g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//coinapphost.com/piwik/piwik.php?idsite=2"
-style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+		<!-- Piwik -->
+		<script type="text/javascript">
+			
+		
+		 function getBChart(){
+			
+		  if (false){ //(chloaded==false) {
+			$.getJSON('/api/'+market+'/transactions.json', function(data) {
+				chloaded = true;
+				for(i=0;i<data.length;i++){
+					data[i][1] = parseFloat(data[i][1]);
+				}
+				$('#chart').highcharts('StockChart', {
+		
+					rangeSelector : {
+						buttons: [{
+							type: 'hour',
+							count: 1,
+							text: '1h'
+						}, {
+							type: 'day',
+							count: 1,
+							text: '1d'
+						}, {
+							type: 'month',
+							count: 1,
+							text: '1m'
+						}, {
+							type: 'all',
+							text: 'All'
+						}],
+						inputEnabled: false,
+						selected : 3
+					},
+		
+					yAxis: [{
+						min: null
+					}],
+		
+					navigator: {
+						adaptToUpdatedData: false,
+						series: {
+							data: data
+						}
+					},
+		
+					scrollbar: {
+						liveRedraw: false
+					},
+		
+					title: {
+						text: chartTitle
+					},
+		
+					series: [{
+						name: seriesName,
+						data: data,
+						type: 'area',
+						threshold: null,
+						tooltip: {
+							tooltip: {
+								pointFormat: '{point.x} BTC/{point.y} ' + market
+							}
+						},
+						fillColor : {
+							linearGradient : {
+								x1: 0,
+								y1: 0,
+								x2: 0,
+								y2: 1
+							},
+							stops : [
+								[0, Highcharts.getOptions().colors[0]],
+								[1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+							]
+						}
+					}]
+				});
+			});
+		  }
+		  
+		 }
+			
+			
+		  var _paq = _paq || [];
+		  _paq.push(['trackPageView']);
+		  _paq.push(['enableLinkTracking']);
+		  (function() {
+			var u="//coinapphost.com/piwik/";
+			_paq.push(['setTrackerUrl', u+'piwik.php']);
+			_paq.push(['setSiteId', 2]);
+			var d=document, g=d.createElement('script'),
+		s=d.getElementsByTagName('script')[0];
+			g.type='text/javascript'; g.async=true; g.defer=true;
+		g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+		  })();
+		</script>
+		<noscript><p><img src="//coinapphost.com/piwik/piwik.php?idsite=2"
+		style="border:0;" alt="" /></p></noscript>
+		<!-- End Piwik Code -->
     
 
 
