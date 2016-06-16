@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dansmovies.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225012128id_/http%3A//www.dansmovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansmovies.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061024id_/http%3A//www.dansmovies.com/privacy) for the most accurate reproduction.*
 
 # DansMovies (DM) - Free Porn Videos
 
