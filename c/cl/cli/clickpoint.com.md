@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickpoint.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225001804id_/http%3A//site.clickpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpoint.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054135id_/http%3A//site.clickpoint.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Clickpoint
+# Privacy Policy | ClickpointClickpoint
 
 Personal data include all information that may refer to natural or legal persons, for example first and last names, postal address, e-mail address and telephone number. Simple navigation and consultation of the website do not generally involve the gathering of the User’s personal data and only relate to the processing in anonymous form of so-called navigation data. In compliance with the provisions of the Organic Law 15/1999 (Protection of Personal Information), we inform the User that the personal data communicated and gathered in the context of the registration process are held and processed by Clickpoint for the purposes listed below.
 
