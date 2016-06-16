@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919121732id_/https%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182107id_/https%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Video Hosting for Businesses - SproutVideo
 
@@ -65,11 +65,11 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sproutvideo.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://sproutvideo.com/terms>
 
 ## Your Consent
 
-By using our site, you consent to our [web site privacy policy](http://www.sproutvideo.com/privacy). 
+By using our site, you consent to our [web site privacy policy](http://sproutvideo.com/privacy). 
 
 ## Changes to our Privacy Policy
 
