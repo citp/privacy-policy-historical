@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tfltruck.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041536id_/http%3A//www.tfltruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfltruck.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617001354id_/http%3A//www.tfltruck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Truck News, Views and Real World Reviews
+# Privacy Policy – The Fast Lane Truck
 
 **What information do we collect?**
 
@@ -59,5 +59,7 @@ This policy was last modified on dec-08-2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.tfltruck.com  
+> [Home](http://www.tfltruck.com/)
+
+  
 info@tflcar.com
