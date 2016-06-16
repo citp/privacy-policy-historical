@@ -1,54 +1,85 @@
-> *The following text is extracted and transformed from the nessus.org privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001161134id_/http%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nessus.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125739id_/http%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tenable Network Security
 
-The Tenable Network Security group of web sites (the "Site") is owned and operated by Tenable Network Security, Inc. ("Tenable"). Tenable collects personally identifiable information and non-personal information on the Site. Tenable is committed to protecting your privacy. We have created this Privacy Policy to explain how we collect and use personally identifiable information. If you have any questions or concerns about Tenable's information collection and use practices, please send an email stating your questions or concerns, with the subject heading "Privacy Policy Question", to [marketing@tenable.com](mailto:marketing@tenable.com).
+At Tenable Network Security, Inc. (“Tenable” or “We”), your privacy is important to us. This Privacy Policy describes Tenable’s privacy practices in relation to information that we collect through websites operated by Tenable (the “Site”). “You” or “Your” refers to any individual who visits or otherwise uses the Site. By using the Site, You accept and agree to the practices outlined in this Privacy Policy. If You have any questions or concerns about Tenable’s information collection and use practices, please send an email stating Your questions or concerns, with the subject heading, “Privacy Policy Question” to [privacy@tenable.com](mailto:privacy@tenable.com).
 
-### WHAT INFORMATION IS COLLECTED?
+This Privacy Policy does not apply to the practices of third parties that Tenable does not own or control or to individuals that Tenable does not employ or manage.
 
-We collect personally identifiable information about you if you choose to purchase, register or apply online for one of our products, services, promotions or other online activities. Our online activities include web seminars, support responses, user surveys, product demonstrations, registration for our partner program and access to downloadable software and documents. When you register or apply for one of our online activities, you complete a form that may require you to provide personally identifiable information, including your full name, email address and telephone number. To the extent you utilize our online store, you may also provide your credit card information and mailing address. 
+**What Type of Information Does Tenable Collect?**
 
-### HOW DOES TENABLE USE MY INFORMATION?
+“Personally Identifiable Information” is information that identifies You as an individual or relates to an identifiable individual, including information such as: full name, company name, job title, email address, telephone number, company address, or home address. To the extent You utilize our online store, You may also provide Your credit card information and mailing address. If you submit any Personally Identifiable Information relating to a third party to Tenable or to our service providers in connection with the Site, You represent that You have authority to do so and to permit Tenable to use that information provided in accordance with this Privacy Policy. You warrant that You have the authority to provide Personally Identifiable Information to Tenable in connection with the use of the Site.
 
-We use your personally identifiable information to deliver the services you have requested, to evaluate your registration or application for our products and services, to process your request for information and to contact you if we need more information. We may use personally identifiable information to contact a user in connection with the user's inappropriate use of the Site. We may also use your email address, telephone number or mailing address:
+Tenable may also collect other information that does not reveal specific individual identity, such as browser or device information, information collected through cookies and other technologies that are used to facilitate Tenable’s operation of the Site and other business purposes. Tenable may also identify and log automatically in our servers, or in third party log files, IP Addresses whenever You access our site, along with the time of the visit and the page(s) visited.
 
+**How Does Tenable Collect My Information?**
+
+Tenable may collect Personally Identifiable Information from You through our Sites at different events: such as when You request a demo; register for a webinar, event or promotion; contact us via email or live chat; subscribe to our newsletter; respond to a survey; register for our partner programs; download content; access customer support portals; or when You purchase, register or apply online for products or services.
+
+Tenable may also collect Personally Identifiable Information from You offline such as during phone calls and meeting with sales and support representatives, when You attend our events, or when You contact customer service.
+
+Tenable may also obtain information about You from other sources such as public databases, joint marketing partners, social media platforms, and from other third parties.
+
+**How Does Tenable Use My Information?**
+
+We may use Your Personally Identifiable Information, as well as Your name, email address, telephone number, and/or mailing address:
+
+  * to deliver the services You request;
+  * to evaluate Your registration or application for our products and services;
+  * to process Your payment of products and software;
+  * to process Your request for information;
+  * to contact You if Tenable needs more information;
+  * to contact You in connection with Your inappropriate use of the Site;
   * for internal marketing purposes to obtain feedback on our products, the Site or on other aspects of our business;
-  * to notify you of new products or services that we think may be of interest to you;
-  * to send you promotional materials; and
-  * to provide you with a newsletter.
+  * to send administrative information to You, such as information regarding the Site and changes to our terms and policies;
+  * to notify You of new products, services, webinars and training sessions that we think may be of interest to You;
+  * to send You promotional materials;
+  * to collaborate with other companies and people to perform tasks on Your behalf and to provide products or services to You;
+  * to allow You to participate in sweepstakes, contests and similar promotions and to administer such activities. Promotions may have additional rules which may contain additional terms about how we use and disclose Personally Identifiable Information;
+  * to share Personally Identifiable Information with a business partner or other third party sponsors to promotions; and
+  * to provide You with newsletters.
 
 
 
-If you prefer not to receive promotional materials, our email newsletter or other forms of communication, you may opt out by sending an email to the regional sales representative from whom you received the communication, asking us to drop you from our mailing or email lists. Except as stated in this Privacy Policy, we will not sell, rent, share or otherwise disclose to third parties the personally identifiable information collected on the Site. We may disclose your personally identifiable information when required by law or in the good-faith belief that disclosure is necessary to comply with the law. If we sell our company or all or substantially all its assets, we may transfer your personally identifiable information to the purchaser, which will be bound by the terms of this Privacy Policy. We may use a third party to process credit and debit card transactions, in which case we will allow such third party to access your personal information to charge you for any paid services you have authorized. We may also transfer your personal information to our authorized resellers for the purpose of further marketing our products to you.
+If You prefer not to receive promotional materials, our email newsletter or other forms of communication, You may choose to opt-out or manage Your email subscriptions on the following link: <http://www.tenable.com/contact-tenable/tenable-email-subscription-management>. Tenable will honor Your requests to opt out of specified emails, phone calls and marketing materials. Tenable may however maintain Your information for internal purposes. Furthermore, except as stated in this Privacy Policy, Tenable will not sell, rent, share or otherwise disclose to third parties the Personally Identifiable Information collected on the Site. Tenable may transfer Your Personally Identifiable Information to a successor entity, which will be bound by the terms of this Privacy Policy if Tenable merges with another company or substantially all of its assets are sold.
 
-We use anonymous information, such as aggregate data about visitors to the Site, to determine how to improve the Site, marketing and services, how visitors find out about the Site and which of our online services most interest visitors to the Site. We also may share anonymous information with third parties. This anonymous information cannot be used to identify you personally.
+Tenable may also disclose Your Personally Identifiable Information if necessary or appropriate:
 
-### DOES TENABLE COLLECT INFORMATION ABOUT CHILDREN?
+  * under applicable law;
+  * to comply with legal process;
+  * to respond to requests from government authorities;
+  * to enforce Tenable’s terms of service;
+  * to protect Tenable’s operations or those of any of our Affiliates;
+  * to protect Tenable’s rights, privacy, safety or property, and/or that of our Affiliates or others.
 
-We respect the sensitive nature of children's privacy online. You must be at least 18 years old to register, purchase or apply online for our products, services, promotions and other activities. If you are under the age of 18, please do not provide us with any information about yourself.
 
-### WHAT TYPE OF SAFEGUARDS DOES TENABLE USE?
 
-The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
+Tenable may also use a third party to process Your Personally Identifiable Information, including a third party for credit and debit card processing for online sales and credit card transactions, and third party marketing and lead generation platforms, in which case we will allow such third parties to access Your Personally Identifiable Information. We may also transfer Your Personally Identifiable Information to our authorized resellers for the purpose of further marketing our products to You.
 
-### DOES TENABLE'S PRIVACY POLICY APPLY TO LINKED WEB SITES?
+Tenable uses IP addresses to calculate usage levels of the Site, help identify issues with its servers and security incidents, administer the Site and monitor the region from which You navigate to the Site. Tenable may also use anonymous information, such as aggregate data about visitors to the Site, to determine how to improve the Site, marketing and services, to determine how visitors find out about the Site and which of our online services most interest visitors to the Site. Tenable may share anonymous information with third parties.
 
-Our Privacy Policy applies solely to information collection practices on the Site. The Site contains links to other sites. Please be aware that Tenable has no control or influence over the privacy practices of other web sites and that our Privacy Policy does not apply when you leave the Site. We encourage you to read the privacy policies of each web site you visit. 
+**Does Tenable Collect Information About Children?**
 
-### YOUR CALIFORNIA PRIVACY RIGHTS
+We respect the sensitive nature of children’s privacy online. You must be at least eighteen (18) years old to register, purchase or apply online for our products, services, promotions and other activities. If You are under the age of eighteen (18), please do not provide us with any type of information about Yourself. Tenable is not liable for any information provided to us by a person under the age of eighteen (18).
 
-A California resident who has provided us with personal information (a "California Customer") is entitled to request information about whether we have disclosed personal information to any third parties for the third parties' direct marketing purposes. If so, upon receipt of a request by a California Customer, we will provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. 
+**What Type of Safeguards Does Tenable Use?**
 
-Except as otherwise stated in this Privacy Policy (including, but not limited to, sharing information with our third party resellers), we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure. To prevent further disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on the Site. If you opt in to receive communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
+The security and confidentiality of Your Personally Identifiable Information is extremely important to Tenable. Tenable continuously implements organizational, technical, administrative, and physical security measures to protect Your Personally Identifiable Information from loss, improper use and unauthorized access, disclosure and modification. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware that, despite our best efforts, no security measure is perfect or impenetrable and therefore there is always some risk assumed by sharing Personally Identifiable Information online. If You have reason to believe Your account has been compromised, please immediately notify us at: [privacy@tenable.com](mailto:customercare@tenable.com). If an unauthorized party gains access to the Site, Tenable shall not be liable for any information that is accessed or compromised.
 
-California Customers may request further information about our compliance with this law by e-mailing [marketing@tenable.com](mailto:marketing@tenable.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+**Your California Privacy Rights**
 
-### MAY I CORRECT OR UPDATE THE INFORMATION COLLECTED ABOUT ME?
+Under California law, a California resident who has provided Tenable with Personally Identifiable Information (a “California Customer”) is entitled to request certain information with respect to the types of Personally Identifiable Information that Tenable has shared with third parties for their direct marketing purposes. In accordance with California law, Tenable will, in response to Your written request, provide You with the means to choose not to have Your information shared.
 
-You may correct or update the personally identifiable information collected about you on the Site. To correct or update your personally identifiable information, please contact [marketing@tenable.com](mailto:marketing@tenable.com).
+Except as otherwise stated in this Privacy Policy (including, but not limited to, sharing information with our third party resellers), we will not share Your Personally Identifiable Information with third parties for their direct marketing purposes unless You affirmatively agree to such disclosure. To prevent further disclosure to Your Personally Identifiable Information from use in direct marketing by a third party, do no opt-in to such use when You provide Personally Identifiable Information on the Site. If You opt-in to receive communication from a third party, Your Personally Identifiable Information will be subject to the third party’s privacy policy. If You later decide that You do not want that third party to use Your Personally Identifiable Information, You must contact that third party directly, as Tenable has no control over a third party’s use of Personally Identifiable Information. You should always review the privacy policy of any party that collects Your information to determine how that entity will handle Your information.
 
-### CHANGES TO THIS PRIVACY POLICY
+California Customers may request further information about our compliance with this law by emailing: [privacy@tenable.com](mailto:legal@tenable.com). Please note that we are only required to respond to one request per customer per year and are not required to respond to requests made by means other than through this e-mail address.
 
-We may change this Privacy Policy at any time without notice. If we change this Privacy Policy, we will post the changed Privacy Policy on the Site so that you are always aware of what type of information we collect, how we use it and under what circumstances, if any, we disclose it to third parties.
+**May I Correct or Update My Info?**
 
-Effective Date: October 15, 2008
+You may update or correct Your information collected on the Site by contacting us at: [privacy@tenable.com](mailto:marketing@tenable.com).
+
+**Changes to Privacy Policy**
+
+Tenable may change this Privacy Policy at any time without notice. If Tenable changes this Privacy Policy, we will post the changed Privacy Policy on the Site so that You are always aware of what type of information we collect, how we use it, and under what circumstances, if any, we disclose it to third parties.
+
+Effective Date: January 13, 2016
