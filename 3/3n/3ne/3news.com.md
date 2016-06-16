@@ -1,166 +1,122 @@
-> *The following text is extracted and transformed from the 3news.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504010834id_/http%3A//www.paradisehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3news.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145149id_/http%3A//3news.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Paradise Hunter
+# Privacy Policy | 3News
 
-Paradise Hunter Inc. respects the privacy of visitors to our website. 
+**Internet Privacy & Cookies Policy **
 
-This document lays out what information we collect, how we use it, and the steps we take to safeguard your private information – including your e-mail address.  If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/Feedback.aspx?currentPageId=31&contactMsgTypeId=1).
+MG Digital Media Ltd is committed to protecting and respecting your privacy. This is the website privacy policy for  
+www.3news.com (the “Website”). 
 
-All visitors to our site can view the country information, property listings for rent and sale, and view postings in the message boards without being registered.  If users wish to post comments, reviews, create property listings, or book travel, we require that they sign up for an account.
+This Website Privacy Policy applies only to the information collected on the publicly available sections of the Website, however accessed, and/or used.
 
-This Privacy Policy applies to information collected online through the ParadiseHunter.com website, and may not reflect our policy pertaining to information collected through other means.
+We take the privacy of all visitors to this Website very seriously and therefore set out in this privacy and cookies policy our position regarding certain privacy matters, the type of information we may gather during your visit to the website, how we use and share your information, how you can manage your information and the use of cookies on this Website.
 
-GENERAL INFORMATION
+By visiting our Website, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy please do not use the Website.
 
-ParadiseHunter.com appreciates that nobody likes to get SPAM.  We will not share your e-mail address with any unaffiliated person or company unless we are required by law to do so, you choose to enter a sponsored contest, or you wish to use our online forms to inquire about a property for sale or rent.  In the latter case, we will provide your e-mail address to the person or company that you are initiating contact with so that they may reply to your query.
+This website is the property of www.3news.com. 
 
-Account holders have the option to receive our e-newsletter, which may include feature articles, notice of website upgrades and enhancements and policy changes.  These newsletters may also contain promotion for companies that have chosen to advertise with us.
+**Information we may collect from you**
 
-Account holders also have the option to receive notification of the Last Minute Deals available on our website. These notifications contain promotional pricing from companies and individuals that have chosen to advertise with us.
+1\.       In operating our Website we may collect two basic types of information from you in conjunction with your use of the Website: personally identifiable information (PII) and non-personally identifiable information (non-PII) Personally Identifiable Information (PII) is any information that can individually identify you includes, among other things, information that you may supply to us when you visit the Website, e.g. your company name, your name, e-mail address, postal address and telephone number. Non –personally identifiable information includes information that does not identify you personally, but it may include tracking and usage of information about your location, demographics, use of the Website and the internet. 
 
-On rare occasions, we may e-mail you with critical information about the website, even if you have selected to not receive our e-newsletters.  Two examples of when we may need to do this are if you have a property listing that is about to expire or if we make changes to the website which will significantly alter your ability to use elements of the site.
+We will also process the following data about you:
 
-NOTICE: PARADISEHUNTER.COM WILL NEVER CONTACT YOU VIA E-MAIL REQUESTING FINANCIAL OR ACCOUNT INFORMATION.  PLEASE NOTIFY US IMMEDIATELY AT [security@paradisehunter.com](mailto:security@paradisehunter.com) IF YOU RECEIVE A SUSPICIOUS E-MAIL.  
+1.1       Details of your visits to our Website and the resources that you access including, but not limited to, traffic data, location data, weblog statistics and other communication data.
 
-PROTECTING THE PRIVACY OF CHILDREN
+1.2       Information that you provide by filling in forms on our Website, such as when you register to receive take part in our reality shows such as subscription of newsletters etc or contact us via the contact us page.
 
-ParadiseHunter.com is not directed towards children, and people under the age of 18 should not use this website without direct permission from their parents or legal guardians.  If you are using this website and are a minor, please do not provide any personal information (e-mail addresses, name, phone number, address).  We will not knowingly collect any personally identifying information from a minor, and if we become aware that a minor has entered personal information, we will delete it immediately.
+1.3       Information provided to us when you communicate with us for any reason.
 
-THE INFORMATION WE COLLECT
+ **2.         Use of cookies**
 
-The information that we collect falls into three categories: (1) Information supplied by visitors to the site when they sign up for an account; (2) Payment information that we collect when processing a payment for product or service purchased on our website; (3) Information we gather and aggregate about how our visitors use and navigate our website. We also gather information about the type of browser and operating system you’re using, the website that referred you, and your IP address (a numerical identifier used by computers). We use this information to help us understand and interact with our visitors, and to ultimately provide you a better surfing experience.
+Like many websites, we use “cookies”, which are a small text files stored on your computer or equipment when you visit our Website. Where used, these cookies are downloaded to your computer automatically. 
 
-We may use a third party to gather and analyze aggregated traffic information or to serve ads on our web pages.   These third party companies may read your IP address, but do not have access to private information such as your name, email address, or financial information.
+This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to monitor traffic, improve our Website and the service that we provide to you.
 
-HOW WE PROTECT YOUR INFORMATION
+We may gather information about your computer for our services, your general Internet use, and to provide statistical information regarding the use of our Website to our advertisers.
 
-Your privacy is important to us.  As such, all personal information that we gather is stored behind firewalls on our secure servers and maintained in a protected environment.  All credit card information you provide us is transmitted over the internet using industry-standard secure sockets layer (SSL) encryption, and is stored encrypted in databases on a restricted-access server.  Having said that, no physical or electronic security system is 100% impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the internet.
+Such information will not identify you personally; it is statistical data about our visitors and their use of our site. 
 
-HOW LONG WE KEEP YOUR INFORMATION
+This statistical data does not identify any personal details whatsoever. It is used by us to analyse how visitors interact with the Website so that we can continue to develop and improve this Website.
 
-Due to the type of information that we provide on our website, some of our users will go for extended periods of time between visits to our site.  For this reason, we will keep your information for a minimum period of 2 years after your last visit, at which time it may be deleted.
+All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular areas of our Website.
 
-INFORMATION SHARING AND DISCLOSURE
+Any advertising featured on this Website may also incorporate cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our Website.
 
-Personal Information: Generally, we will not share any personally identifying information with any unrelated third party with a few exceptions; 1) if you have entered a contest that we hold in conjunction with a partner (see CONTESTS AND SWEEPSTAKES), 2) if we are using a third party to fulfill an order, booking or service, or to complete a transaction, 3) when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+For more information on cookies you can read the guidance at All About Cookies.
 
-In the event that we use a third party to complete a transaction, our partners and suppliers are contractually obligated to use that information solely for the purpose of completing a request made by you on our website.
+ **3.         Use of your information**
 
-Aggregated Information: We share aggregated information about our visitor’s demographics, as well as overall traffic and website usage with our advertising partners and other third parties.  This information does not identify you personally.
+The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
-We do not link individual user data to aggregated data.
+3.1       To provide you with information requested from us relating to our products or services and to provide information on third party products and services which we feel may be of interest to you if you have consented to receive such information.
 
-CHANGING YOUR PRIVATE INFORMATION
+3.2       To meet our contractual commitments to you.
 
-You can make changes to most of your private information through the “My Account” link in the top right corner of our web pages.  Some information, such as your e-mail address cannot be changed through this interface.  If you need to change this information, please [contact us](https://web.archive.org/Feedback.aspx?currentPageId=31&contactMsgTypeId=1).
+3.3       To notify you about any changes to our Website, such as improvements or service/product changes, that may affect our service.
 
-USING SEARCHABLE PROPERTY LISTINGS
+3.4       If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
 
-ParadiseHunter.com has searchable property listings that may display personal information, specifically a lister’s name and telephone number.  
+3.5       We may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected.
 
-If you create a listing and do not want people to contact you by phone, you must de-select the “Show my phone number in this listing” field.  As the vast majority of people want their phone number displayed, that is the default setting.  Visitors to our site also have the option of contacting you by e-mail.  In an effort to reduce SPAM, we do not display your e-mail address on our website.  Instead we offer visitors an online form to enter their questions and information, and then we forward the e-mail directly to you.  
+3.6       If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.
 
-If you are interested in a property and choose to contact a lister by e-mail, the lister will receive your e-mail address as a means of responding to your initial inquiry.  ParadiseHunter.com has no control over the individual policies of each lister.  If you do not want your e-mail address shared in this fashion, you should not use the “Inquire about this Property” form.  Many of the listings on our website include a phone number as an alternate means of contact.
+3.7      If you do not want us to use your data for ourselves or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
 
-PAYMENT INFORMATION
+3.8       Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors such as your area of residence or age group.
 
-As a means of providing faster service to advertisers and people wanting to list their properties, we accept credit card payments online.
+3.9 To optimize or improve our products, services and operations.
 
-All credit card information is transmitted over the internet using industry-standard secure sockets layer (SSL) encryption and is stored encrypted in databases on a restricted-access server. You can learn more about the SSL protocol on webopedia.com.
+3.10 To detect investigate and prevent activities that may violate our policies or be illegal.
 
-We will only use your credit card information to charge you for services or products that you have chosen to purchase from us either on our website or through direct contact with our staff.  We will not share your credit card information with any third party, except as may be necessary to process your transaction or as may be required by law.  
+We may also use and/or combine information that we collect off-line, or that we collect or receive from third party sources, to enhance, expand and check the accuracy of user records
 
-If you would like to advertise on ParadiseHunter.com but do not want to use our online payment processing, you can send a bank transfer as a means of payment.  In this event, your property listing will not become active until receipt of funds can be confirmed – generally 3-5 business days from the date you originally send the money.  Contact us for more information.
+ **4.         Storing your personal data**
 
-SERVICE RELATED ANNOUNCEMENTS
+4.1       We may transfer the data that we collect from you to other locations for processing and storing. In addition, it may be processed by people who work for us or for one of our suppliers. 
 
-On rare occasions, we may send you service related announcements if we feel it is necessary.  For instance if our service will be temporarily suspended for maintenance, we may send you an e-mail.
+By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this privacy policy.
 
-Generally, you may not opt-out of these non-promotional communications.  If you do not want to receive these e-mails, you have the option of deactivating your account.  Please see ACCOUNT DEACTIVATION.
+4.2       All information you provide to us is stored on our secure servers. Details relating to any transactions entered into via our site will be encrypted to ensure its safety.
 
-E-MAIL TO A FRIEND
+4.3       Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of data sent to us electronically and the transmission of such data is entirely at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
-If you choose to e-mail a listing to a friend or want to notify them of something on our site, we will ask you for your friend’s e-mail address.  We will automatically send your friend a one-time message inviting him or her to visit the listing on our site.  We will then store this information so you can simply select their e-mail address from a list the next time you want to send them something from our site.  
+Where we have given you (or where you have chosen) a password so that you can access certain areas of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-We will not contact your friend for any purpose other than one initiated by you, and we will not give your friends e-mail address to any third party.
+ **5.         Disclosing your information**
 
-If your friend wishes to be removed from our database, they may notify us at [help@paradisehunter.com](mailto:help@paradisehunter.com).
+5.1       Where applicable, we may disclose some or all the data we collect from you when you visit our site to third parties.
 
-COMMUNITY
+5.2 We may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries.
 
-If you choose to post messages or otherwise participate in our online community, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information that you choose to submit in these forums.
+5.2       We may also disclose your personal information to third parties:
 
-If you choose to use our community, you must abide by our website’s Terms of Use.  Failure to do so may result in the suspension or termination of your account.  Also, you are responsible for the content that you choose to post.  ParadiseHunter.com does not endorse or support any publicly submitted material, but maintains the right to edit it to meet our standards or length requirements.  We also reserve the right to edit and re-use all content posted in our community for use in other sections of our website, on affiliated websites or on our accounts on websites such as Facebook, MySpace, LinkedIn, YouTube, and Flickr.
+5.2.1   In the event we sell or by any business assets, in which case we may disclose your personal data to the prospective buyer or seller of such  business and/or  assets. .
 
-NEWSLETTERS
+5.2.2    Where we are legally required to disclose your information.
 
-From time to time, we will send out electronic newsletters. They may include feature articles, notice of website upgrades and enhancements, and policy changes.  These newsletters may also contain promotional information from companies that have chosen to advertise with us. You have the ability to select whether you want to receive these newsletters or not, and can choose to subscribe or unsubscribe on your account page at any time.
+5.2.3    To assist fraud protection and minimize credit risk.
 
-CONTESTS AND SWEEPSTAKES
+ **6.         Third party links**
 
-From time to time ParadiseHunter.com will feature contests or sweepstakes.  Only registered users will be eligible to enter contests on our website.  Some of these contests will be held solely by ParadiseHunter.com, and others may be in conjunction with third parties.  If a contest is being held with the participation of a third party and you choose to enter the contest, some of your private information may be shared with our contest partners.  In this case, we will clearly explain in the contest rules what information may be shared.  If you win a contest, your contact information may also need to be shared with a shipping or fulfillment company for the purpose of getting your prize to you.  Your name may also be mentioned in promotional materials or reporting/disclosure due to regulatory requirements.
+You might find from time to time links to third party websites on our Website. These websites may have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies or for any personal data that may be collected through these websites as we have no control over them. Please check these policies before you submit any personal data to these websites.
 
-PHOTOGRAPHS & VIDEO
+ **7.          Your Rights**
 
-In an effort to provide as much information as possible about destination countries, we allow our visitors to post photographs and videos on our website.  If you choose to upload any material to our website, you agree to the following conditions:
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [address] or [email address] 
 
-You are granting us permission to use the photograph or video in promotional material for Paradise Hunter Inc.;
+**8.         Access to information**
 
-  * You are granting us permission to use the photograph or video on our website, as well as any affiliated websites or accounts on websites such as Facebook, MySpace, LinkedIn, YouTube, and Flickr, indefinitely;
-  * You are granting us permission to use the photograph or video in promotional material for Paradise Hunter Inc.
-  * You represent that you own all legal and moral rights to the photograph or video, and grant Paradise Hunter the right to display, modify, and adjust the photo or video in any way, indefinitely;
-  * You represent that you have legal authorization and moral right to show any people, art, buildings, property, or logos that may be visible in the photographs or videos, and you agree to indemnify Paradise Hunter Inc. and ParadiseHunter.com against any damages arising from your failure to secure those rights.
+The Data Protection Act 2012, Act 843 gives you the right to access the information that we hold about you. Your right of access can be exercised in accordance with that Act.
 
+Please note that any demand for access may be subject to payment of a fee which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
+ **9.         Changes to privacy policy**
 
-SURVEYS
+Any changes We may make to our privacy policy in the future will be posted on this page and where appropriate, notified to you. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of the Website.
 
-Occasionally, we may use surveys as a means of gathering information about our users and to help us measure visitor satisfaction with our site.  If you choose to participate in a survey, the information we gather will be reviewed as aggregate data only, and will in no way be specifically linked to you or your account.  This aggregated information may be shared with other companies including our advertisers and research companies.  The decision to participate in a survey is completely yours.
+ **10.         Contacting us**
 
-LINKS AND ADVERTISERS
+We welcome any queries, comments or requests you may have regarding this policy please do not hesitate to contact us at this email: info@3news.com
 
-We want to help you find your paradise.  To help us do this, our website has links and advertising from related companies, services and resources that we believe our visitors will find valuable.  If you choose to click on an advertisement or link on our website, you may be directed away from our site and you will cease to be protected by our privacy policy.   At that point, your surfing experience will be governed by the Privacy Policy and Terms of Use of the website you are re-directed to.  You should always read the privacy policy and terms of use of any website prior to using it or entering any personal information.
-
-COOKIES
-
-A cookie is a small piece of information that we send to your computer to help us interact with you.  It is stored by your web browser, and can be used to keep your preferences, as well as information about your browser, software versions, and your browsing session. Our cookies don’t retrieve any personal information from your computer, and they don’t read unrelated data off your hard drive.    
-
-We work with third party companies such as Google to help us understand our customers and their preferences, allowing us to create a better experience for our visitors.  These companies may place and retrieve cookies on your computer that collect information about your visit, but not personal information like your name, phone number, address, or e-mail address.
-
-We also may use third party advertising companies to serve you ads when you are visiting our site.  These companies may place or retrieve a cookie on your computer but they will not collect your name, phone number, address, or e-mail address.
-
-You can choose not to accept cookies in your browser, but doing so may result in some functions and features no longer working, and your surfing experience will not be as complete as users who accept cookies.
-
-CLEAR GIFS 
-
-We may use clear gifs in some of our HTML-based e-mails to let us know which e-mails have been opened by recipients.  This helps us to gauge the effectiveness of our communications.  If you would like to opt-out of our e-mails, click on the link at the bottom of each e-mail to unsubscribe.
-
-BOOKING TRAVEL
-
-We utilize Travelocity’s search engine and interface to provide our customers with world-class booking capabilities and low rates.  When you book travel on our website, your personal information will be shared with our travel partners for the purpose of completing your travel arrangements.  For example, your airline may require your name, address, email address, phone number, travel itinerary and credit card information.  When booking travel through our website, your surfing session also becomes subject to Travelocity’s Terms and Policies.  Click on these links to view [Travelocity’s User Agreement](http://svc.travelocity.com/info/info_popup/0,2766,TRAVELOCITY:EN%7CTERMS_WINDOW,00.html) and [Privacy Policy](http://svc.travelocity.com/info/info_window/0,2766,TRAVELOCITY%7CPRIVACY_WINDOW,00.html). 
-
-All credit card information is transmitted over the internet using industry-standard secure sockets layer (SSL) encryption and is stored encrypted in databases on a restricted-access server.
-
-We will not share your credit card information with any third party, except as may be necessary to process your transaction or as may be required by law.
-
-SUPPLEMENTATION OF INFORMATION 
-
-We may on occasion add to our knowledge about you using information we gather from third parties.  For example, if you rent a property, we may ask the person you rent from what their experience was like, in the same way that you can leave a review about your experience.
-
-ACCOUNT DEACTIVATION
-
-If you no longer wish to use our services, you may choose to deactivate your account by notifying us in writing at [help@paradisehunter.com](mailto:help@paradisehunter.com).
-
-BUSINESS TRANSITIONS   
-
-In the event Paradise Hunter Inc. goes through a business transition, such as a merger, an acquisition by another company, or the sale of all or a portion of it’s assets, your personally identifiable information may be among the assets transferred.  You will be notified by e-mail, or by a prominent notice on our website for a minimum of 30 days of any such change in ownership or control of your personal information.
-
-CHANGES TO THIS PRIVACY STATEMENT
-
-We’re constantly working to improve ParadiseHunter.com, and as such we may need to make changes to our Privacy Policy.  If this policy changes, we’ll let you know in our news feed (viewable in the My Page section of the website).  We’ll also put a date on this document so you can see how recently it was revised.
-
-By visiting ParadiseHunter.com and using this website, you agree to be bound by the terms of this Privacy Policy and our Terms of Use.
-
-CONTACT US
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at [help@paradisehunter.com](mailto:help@paradisehunter.com).
+If you would prefer to write to us then our contact address is  MG Digital Ltd P.O. Box1464, Accra
