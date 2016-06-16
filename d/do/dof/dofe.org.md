@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813120727id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235932id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - the DofE
 
@@ -103,4 +103,6 @@ Email: [info@DofE.org](mailto:info@dofe.org)
 
 Post: The Duke of Edinburgh's Award, Gulliver House Madeira Walk, Windsor SL4 1EU
 
-Last updated: July 2015 
+Although every reasonable effort has been made to ensure that the information on this website is accurate at the time of publication, visitors who use this website and rely on any information do so at their own risk. The Duke of Edinburgh's Award does not warrant its accuracy and disclaims any liability to any third party anywhere in the world for any injury, damage, loss or inconvenience arising as a consequence of any use of or the inability to use any information on this website to the fullest extent permitted at law.
+
+_Last updated: August 2015_
