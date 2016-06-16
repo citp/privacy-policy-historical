@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052637id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053130id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
 
 # Newsday LLC Privacy Policy - Revised 2/19/2014 | Newsday
 
