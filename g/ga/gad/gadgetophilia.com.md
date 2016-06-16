@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetophilia.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625031714id_/http%3A//gadgetophilia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetophilia.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616181339id_/http%3A//gadgetophilia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
