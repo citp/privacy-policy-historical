@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.de privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602182158id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.de privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617004103id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -8,11 +8,13 @@ This Privacy Policy does not apply to residents of Australia and New Zealand. To
 
 ### Introduction
 
-Betfair wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information"). In this respect we have invested heavily in providing a world class Information Security Management System, which has been accredited with ISO 27001 certification.
+Betfair Limited (“Betfair”) wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information"). In this respect we have invested heavily in providing a world class Information Security Management System, which has been accredited with ISO 27001 certification.
 
 Personal Information is any information about you and may include your name and address, date of birth, payment card details, details of betting transactions and account transfers and any other information you may wish to provide. Betfair is endeavouring to ensure that our business practices that involve the use of your Personal Information are compliant with privacy regulations in the countries where we operate. Accordingly, in this policy document (the "Privacy Policy"), Betfair wants not only to advise you of your privacy rights but also explain how we intend to respect them.
 
-Any reference to "Betfair" or the "Group" within this Privacy Policy includes Betfair Group Plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+Any reference to "Betfair" or the "Group" within this Privacy Policy includes Paddy Power Betfair plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+
+For the purposes of the Data Protection Act 1998, the data controller is Betfair Limited of Waterfront, Hammersmith Embankment, London W6 9HP.
 
 ### How is your Personal Information collected by our website?
 
@@ -202,7 +204,7 @@ These cookies collect information about how visitors use a website, for instance
 
 
 
-**Cookies we have defined as 'Performance' cookies will not be used to** :
+**Except as explained under ‘Display Advertising’ (see below), cookies we have defined as 'Performance' cookies will not be used to:** :
 
   * Gather information that could be used to advertise products or services to you on other websites 
   * Remember your preferences or username beyond your current visit 
@@ -221,12 +223,18 @@ spi | Sub-partner ID.
 sui | Super Partner ID.  
 rfr | Referrer Code. This is used to identify affiliate traffic on the Betfair site.  
   
+**Display advertising**
+
+We, and our trusted partners, use first-party cookies (such as Google Analytics) and third-party cookies (such as Google DoubleClick) together to report how our advertising relates to visits to our site. To opt out of performance cookies, please see below.
+
+**Performance cookies – opt out**
+
 Please be aware that opting out of our performance cookies may mean some useful information such as Betfair contact details are not available to you, however, if you wish to opt out of any of the web analytics that Betfair use, please use the links below:
 
-Omniture   
-<http://www.omniture.com/en/privacy/2o7>  
 Google Analytics   
 <http://tools.google.com/dlpage/gaoptout>  
+DoubleClick   
+<https://www.google.com/settings/ads/onweb>  
 Mediaplex   
 <http://www.mediaplex.com/opt-out>  
 Flurry   
@@ -300,4 +308,4 @@ Please include a cheque for £10 made payable to Betfair Limited with your reque
 
 Subject access requests may take up to 40 days to be processed from the date of receipt by Betfair.
 
-V 03/14 17/12/14
+V 01/16 02/02/16
