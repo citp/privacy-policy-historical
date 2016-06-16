@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226000739id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053823id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy On Yuvutu Homemade Amateur Porn Movies And XXX Sex Videos
 
@@ -20,6 +20,8 @@ Data Collected
   * **Log File Information:** When you visit yuvutu.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
   * **Emails:** If you contact us, we may keep a record of that correspondence. 
 
+
+
 Uses 
 
   * Your Personally identifiable information submitted to yuvutu.com is used to provide to the user the website’s features and special personalised features. 
@@ -29,11 +31,15 @@ Uses
   * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
   * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the yuvutu.com user-experience. 
 
+
+
 Disclosure of information 
 
   * Yuvutu.com may release data if under a duty to comply with any legal obligation, or in order to enforce or apply our Terms Of Use and other agreements; or to protect the rights, property or safety of yuvutu.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Use . It is yuvutu.com’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
   * We may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality of yuvutu.com. 
+
+
 
 Security 
 
