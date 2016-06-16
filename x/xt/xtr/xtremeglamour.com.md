@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtremeglamour.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217031157id_/http%3A//www.xtremeglamour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeglamour.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616043900id_/http%3A//www.xtremeglamour.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | XtremeGlamour
 
 This Privacy Policy is in application to XtremeGlamour. This would impart how XtremeGlamour collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on XtremeGlamour and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with XtremeGlamour, you may receive and be under the coverage of XtremeGlamour, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
