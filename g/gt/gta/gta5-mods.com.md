@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gta5-mods.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233556id_/https%3A//www.gta5-mods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta5-mods.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617011157id_/https%3A//www.gta5-mods.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - GTA5-Mods.com
 
-This Privacy Policy governs the manner in which GTA5-Mods.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.gta5-mods.com](https://www.gta5-mods.com/) website ("Site").
+Loading...
+
+This Privacy Policy governs the manner in which GTA5-Mods.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [GTA5-Mods.com](https://www.gta5-mods.com/) website ("Site").
 
 ### Personal identification information
 
