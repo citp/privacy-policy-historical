@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the merchantshares.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908014158id_/https%3A//www.merchantshares.com/privacy-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantshares.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163325id_/https%3A//www.merchantshares.com/privacy-spam-policy) for the most accurate reproduction.*
 
-# Privacy & Spam Policy - Merchant Shares
+# Privacy & Spam Policy - Merchant Shares — A Service Merchants Corp. company
+
+## Privacy Policy
 
 This privacy policy sets out how Merchant Shares uses and protects any information that you give when you use this website. Merchant Shares is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Merchant Shares may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -34,7 +36,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to keep track of advertisements and Affiliates
 
@@ -43,6 +45,11 @@ Do we disclose any information to outside parties?
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 If you have any additional questions or concerns about our privacy policy, please contact us via our Help Desk.
+
+  
+
+
+## Spam Policy
 
 Merchant Shares strictly prohibits its members from using spam and other forms of Internet abuse to seek referrals.
 
