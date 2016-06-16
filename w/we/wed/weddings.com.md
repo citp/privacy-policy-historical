@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddings.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229071334id_/https%3A//www.theknot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddings.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060403id_/https%3A//www.theknot.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -89,6 +89,8 @@ We may share the information we collect on the Site with others for a variety of
 
 
 
+If you communicate with a vendor through our chat, inbox or other messaging features (including through our "request a quote" feature), we may share personally identifiable information share about you and your event (such as your name, email address, location and wedding details), as well as the contents of your message, so that the vendor may contact you with customized offers and messages. For security purposes, please do not include any password, social security number, payment card or other sensitive information via this service. We reserve the right to monitor messaging between you and our vendors for security and training purposes.
+
 In addition, we may share non-personally identifiable Site usage information (including aggregate data) with others, for their use, in a form that does not include your name or contact information.
 
 If you participate in certain public or community areas of our Site, such as a chat room, message board, blog, or by creating a public profile), the information you voluntarily disclose will be accessible to other Site members and, in some cases, the general public. You should be cautious about the information you submit to these areas (e.g., make up a username that does not disclose your personal identity). On some of our Sites, you may choose to make your online registries available to guests and friends via a password. If you do not elect this option, then anyone visiting the Site will be able to search for and view your registry by using your first and/or last name and other information regarding your event. 
@@ -145,6 +147,7 @@ We may change this Policy from time to time. When we do, we will let you know by
 
 ### Contact Us
 
-If you have any questions or comments regarding our privacy practices, you should first contact The Knot Member Services by emailing [help@theknot.com](mailto:help@theknot.com) and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (877) 335-5252.
+If you have any questions or comments regarding our privacy practices, you should first contact The Knot Member Services by emailing [help@theknot.com](mailto:help@theknot.com) and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (877) 843-5668.
 
-**Last Updated: FEBRUARY 18, 2015**
+**Last Updated: MARCH 14, 2016**  
+(revised to update our phone number and provide additional details regarding our inbox and messaging features)
