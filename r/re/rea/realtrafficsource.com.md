@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtrafficsource.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226025436id_/http%3A//realtrafficsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtrafficsource.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616144046id_/https%3A//realtrafficsource.com/privacy) for the most accurate reproduction.*
 
 # Privacy | RealTrafficSource.com
 
@@ -6,7 +6,7 @@
 
 Return to Content
 
-[](http://i2.wp.com/realtrafficsource.com/wp-content/uploads/2010/08/privacy.png)
+[](https://i2.wp.com/realtrafficsource.com/wp-content/uploads/2010/08/privacy.png)
 
 We at [Real Traffic Source](http://realtrafficsource.com/) respect and are committed to protecting our clients’ privacy. With this intention we have adopted our Privacy Policy.
 
