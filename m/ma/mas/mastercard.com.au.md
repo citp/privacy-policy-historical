@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228180117id_/http%3A//www.mastercard.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616185932id_/http%3A//www.mastercard.com.au/privacy.html) for the most accurate reproduction.*
 
 # Global Privacy Notice | MasterCard®
 
@@ -69,7 +69,7 @@ We may use the personal information we obtain about you to:
   * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of and optimizing our advertising; analyzing our products, services, websites, mobile applications and any other digital assets; facilitating the functionality of our websites, mobile applications and any other digital assets; and performing accounting, auditing, billing, reconciliation and collection activities)
   * Anonymizing personal information and preparing and furnishing aggregated data reports showing anonymized information, (including, but not limited to, the following: compilations, analyses, analytical and predictive models and rules, and other aggregated reports) for the purpose of advising our issuing and acquiring institutions, merchants and other customers and partners regarding past and potential future patterns of spending, fraud, and other insights that may be extracted from this data
   * Evaluate your interest in employment and contact you regarding possible employment with MasterCard
-  * Enforce our [Terms of Use](https://web.archive.org/web/20151228180117id_/http%3A//www.mastercard.com.au/terms-of-use.html) or other legal rights
+  * Enforce our [Terms of Use](https://web.archive.org/web/20160616185932id_/http%3A//www.mastercard.com.au/terms-of-use.html) or other legal rights
   * As may be required by applicable laws and regulations or requested by any judicial process or governmental agency having or claiming jurisdiction over MasterCard or MasterCard's affiliate
   * Comply with industry standards and our policies
 
@@ -157,7 +157,7 @@ Back to top
 
 How To Contact Us
 
-If you have any questions or comments about this Global Privacy Notice, MasterCard's privacy practices or if you would like us to update information or preferences you provided to us, please [click here](https://web.archive.org/web/20151228180117id_/http%3A//www.mastercard.com.au/contact-us.html). You also may e-mail us at: [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com); or write to us at:
+If you have any questions or comments about this Global Privacy Notice, MasterCard's privacy practices or if you would like us to update information or preferences you provided to us, please [click here](https://web.archive.org/web/20160616185932id_/http%3A//www.mastercard.com.au/contact-us.html). You also may e-mail us at: [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com); or write to us at:
 
 Global Privacy Officer  
 **MasterCard Worldwide**  
