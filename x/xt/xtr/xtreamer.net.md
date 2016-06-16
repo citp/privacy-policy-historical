@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtreamer.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207235849id_/http%3A//www.xtreamer.net/company/policies/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtreamer.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616174407id_/http%3A//www.xtreamer.net/company/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Xtreamer.Net - Privacy Polivy
 
