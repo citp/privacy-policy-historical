@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225065753id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063931id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Privacy Policy | VerticalResponse
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.verticalresponse.com/seal_l "Validate TRUSTe privacy certification")
-
-**Effective Date: 01/01/2015**
+**Effective Date: March 3, 2016**
 
 Deluxe Small Business Sales, Inc. doing business as Vertical Response.com (VerticalResponse) discloses the following privacy practices.
 
@@ -22,9 +20,7 @@ Deluxe Small Business Sales, Inc. doing business as Vertical Response.com (Verti
 
 If you have questions or concerns regarding this statement, please contact us by email at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com).
 
-VerticalResponse has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or within our applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-VerticalResponse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. VerticalResponse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view VerticalResponse’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com). If you are not satisfied with our response you can email the Privacy and Marketing Compliance team at [PrivacyProgramOffice@Deluxe.com](mailto:PrivacyProgramOffice@Deluxe.com).
 
 ### Information Collection and Use
 
@@ -78,7 +74,11 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 #### Advertising
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: <http://preferences.truste.com/>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+#### Advertising Network Cookies
+
+Some of our business partners place advertising network cookies in emails we broadcast on your behalf. The cookies contain pseudonymous information about email recipients to provide them with targeted advertising on websites. However, if email recipients wish to not have this information used for the purpose of serving targeted ads, they may opt-out by [clicking here](http://preferences.truste.com/) or by visiting the Criteo website [here](http://www.criteo.com/privacy/) and following Criteo’s opt-out instructions.
 
 ### Log Files
 
@@ -106,9 +106,7 @@ When you enter sensitive information (such as a credit card number) on our order
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info!verticalresponse.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. If an employee were to violate VerticalResponse privacy practices, that employee would be subject to disciplinary action up to and including dismissal.
 
-Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems
-
-. 
+Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems.
 
 If you have any questions about the security at our website, you can send an email to [info@vertcalresponse.com.](mailto:info@vertcalresponse.com)
 
