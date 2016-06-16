@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122082622id_/https%3A//www.tacobell.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617014641id_/https%3A//www.tacobell.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Taco Bell
 
@@ -126,7 +126,7 @@ For example, you can turn off the GPS locator or push notifications on your phon
 
 Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
 
-Parents, you can learn more about how to protect children's privacy on-line [here](https://web.archive.org/http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+Parents, you can learn more about how to protect children's privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
 ## How safe is my info?
 
