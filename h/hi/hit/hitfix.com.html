@@ -1,806 +1,563 @@
-<!--The following is the downloaded HTML source of the hitfix.com privacy policy that was archived on 2014-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140608083626id_/http%3A//www.hitfix.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitfix.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616063825id_/http%3A//hitfix.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"ec937356ba","applicationID":"1949242","transactionName":"cV5cEEdWWF9TQR8FAF1ERktFS11FV1BJOxJdXVsHTA==","queueTime":46,"applicationTime":275,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUlRVGwIJUFhQAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script async="" src="//d36wtdrdo22bqa.cloudfront.net/mngr/mtm.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="//tru.am/scripts/ta-pagesocial-sdk.js"></script><script type="text/javascript" async="" src="https://z.moatads.com/wovencontent654pYot17/moatcontent.js#l1=web.archive.org&amp;l2=HitFix%20Privacy%20Policy&amp;l3=__page__&amp;l4=-&amp;sa=&amp;sn="></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta charset="utf-8">
-  <title>HitFix Privacy Policy</title>
-
-  <meta name="description" content="HitFix Privacy Policy">
-
-  <meta name="keywords" content="HitFix Privacy Policy">
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"ec937356ba","applicationID":"1949242","transactionName":"cV5cEEdWWF9TQR8FAF1ERktFS11FV1BJOxJdXVsHTA==","queueTime":6,"applicationTime":1295,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUlRVGwIJUFhQAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<title>HitFix Privacy Policy</title>
+<meta name="description" content="HitFix Privacy Policy">
+<meta name="keywords" content="HitFix Privacy Policy">
 <meta name="”robots”" content="index,follow"><meta name="verify-v1" content="HOuiiGvfcw/VrWLv5mbRZ8O/gzXsyJHZIjBjxnadvVc=">
 <meta name="msvalidate.01" content="DB0966BBEA8ABC09250C05DB1A98CF70">
-
 <link href="http://www.hitfix.com" rel="canonical">
-	<meta property="og:site_name" content="HitFix">
-	<meta property="fb:app_id" content="99382424614">
-	<meta property="fb:admins" content="1800477">
-
-
-
-
-<link rel="shortcut icon" href="http://www.hitfix.com/images2/favicon.ico"> 
-<link rel="stylesheet" href="/bootstrap/3.1.1/css/bootstrap.min.css">
-<link rel="stylesheet" href="/bootstrap/3.1.1/css/bootstrap-theme.min.css">
-<link rel="stylesheet" href="/bootstrap/bootstrapvalidator-dist-0.4.3/dist/css/bootstrapValidator.min.css">
+<meta property="og:site_name" content="HitFix">
+<meta property="fb:pages" content="57802365742">
+<meta property="fb:app_id" content="99382424614">
+<meta property="fb:admins" content="100000465587615">
+<meta property="fb:admins" content="3200029">
+<meta property="fb:admins" content="500086521">
+<link rel="shortcut icon" href="http://www.hitfix.com/images2/favicon.ico">
+<link rel="stylesheet" href="http://www.hitfix.com/bootstrap/A.3.1.1,,_css,,_bootstrap.min.css+3.1.1,,_css,,_bootstrap-theme.min.css+bootstrapvalidator-dist-0.5.1,,_dist,,_css,,_bootstrapValidator.min.css,Mcc.LfEMEopub4.css.pagespeed.cf.rg8eTadWHI.css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-<link href="/css/hf.css" media="screen" rel="stylesheet" type="text/css">
-<link type="text/css" rel="stylesheet" media="screen" href="/css/hf-lite.css">
-
-
-<script src="/jquery/jquery-1.11.0.min.js" type="text/javascript"></script>
-<script src="/jquery/jquery-ui-1.10.4.min.js" type="text/javascript"></script>
-<script src="/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/bootstrap/bootstrapvalidator-dist-0.4.3/dist/js/bootstrapValidator.min.js"></script>
-<script src="/assets/application-89087e58cc6a0ab41372ea93da48a73e.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-    var gads = document.createElement("script");
-    gads.async = true;
-    gads.type = "text/javascript";
-    var useSSL = "https:" == document.location.protocol;
-    gads.src = (useSSL ? "https:" : "http:") +       "//www.googletagservices.com/tag/js/gpt.js";
-    var node =document.getElementsByTagName("script")[0];
-    node.parentNode.insertBefore(gads, node);
-  })();
-</script>
-
-<script type="text/javascript">
-googletag.cmd.push(function(){
-  		googletag.defineSlot('/91547359/hitfix_728x90', [[728, 90], [970, 250], [970, 66], [970, 90], [1024, 90]], 'div-gpt-ad-1324477320362-0').addService(googletag.pubads());
-  		googletag.defineSlot('/91547359/hitfix_1x1', [1, 1], 'div-gpt-ad-1324477320362-0-oop').addService(googletag.pubads());
-  		googletag.defineSlot('/91547359/hitfix_116x50', [116, 50], 'div-gpt-ad-1324477320362-11').addService(googletag.pubads());
-			googletag.defineSlot('/91547359/hitfix_300x600', [[300, 600],[300,1050]], 'div-gpt-ad-1324477320362-34').addService(googletag.pubads());
-  		googletag.defineSlot('/91547359/hitfix_1x1', [1, 1], 'div-gpt-ad-1324477320362-31').addService(googletag.pubads());
-			var tv = googletag.defineSlot('/91547359/hitfix_619x66', [619, 66], 'div-gpt-ad-1324477320362-43');
-			tv.addService(googletag.pubads()); 
-			tv.setTargeting("navbar", ["tv"]);
-			var events = googletag.defineSlot('/91547359/hitfix_619x66', [619, 66], 'div-gpt-ad-1324477320362-49');
-			events.addService(googletag.pubads()); 
-			events.setTargeting("navbar", ["events"]);
-			var music = googletag.defineSlot('/91547359/hitfix_619x66', [619, 66], 'div-gpt-ad-1324477320362-44');
-			music.addService(googletag.pubads()); 
-			music.setTargeting("navbar", ["music"]);
-
-  googletag.pubads().enableSingleRequest();
-    googletag.pubads().setTargeting('kyd',['hitfix_privacy_policy']);
-  googletag.enableServices();
-});
-</script>
-
-
-  <script src="http://s3.amazonaws.com/static.onintercast.com/embed/ib/0.1.0.src.js"></script>
-
-<!-- socialize.js script should only be included once -->
- <!-- production -->
-<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=3_lh0TsD17iJ5j-xH1CA-VWFb6zAN-SG_rF7h_ruxaTG1DhwJvW5zHJOaCqgeUpoPt">
-{
-	siteName: 'hitfix.com (HitFix)'
-	,enabledProviders: 'facebook,twitter,googleplus'
-}
-</script>
-<script>
-gigya.socialize.addEventHandlers({
-  onLogin: function(eventObj){
-    jQuery(function($){
-      $.post('/login/gigya', { user: eventObj.user }, function(data){
-        if (data.redirect) {
-          document.location = data.redirect;
-        } else {
-          location.reload(); // for now
-        }
-      }, 'json');
-    });
-  }
-})
-</script>
-<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
-<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-<!--[if lt IE 9]>
-  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+<link href="http://www.hitfix.com/css/A.hf.css+hf-lite.css,Mcc.HNPeJzx8FV.css.pagespeed.cf.mLweVrp3-6.css" media="screen" rel="stylesheet" type="text/css">
+<script src="http://www.hitfix.com/jquery/jquery-1.11.0.min.js.pagespeed.jm.VDIv7VBTRR.js" type="text/javascript"></script>
+<script src="http://www.hitfix.com/jquery/jquery-ui-1.10.4.min.js.pagespeed.jm.Mz-AF-45Sh.js" type="text/javascript"></script>
+<script src="http://www.hitfix.com/bootstrap/3.1.1/js/bootstrap.min.js.pagespeed.jm.XgdcBa1M94.js"></script>
+<script type="text/javascript" src="http://www.hitfix.com/bootstrap/bootstrapvalidator-dist-0.5.1/dist/js/bootstrapValidator.min.js.pagespeed.jm.NsgxCBBZrc.js"></script>
+<script src="/assets/application-6ff0fe30d3b04ff8b64e0a0a93b96236.js" type="text/javascript"></script>
+<!-- See dfp/_header_index_exchange.html.erb instead. This isn't currently in use. -->
+<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">try{amznads.getAds('3168');}catch(e){}</script>
+<script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[];try{amznads.setTargetingForGPTAsync('amznslots');}catch(e){}</script>
+<script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement("script");gads.async=true;gads.type="text/javascript";var useSSL="https:"==document.location.protocol;gads.src=(useSSL?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var node=document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads,node);})();</script>
+<script type="text/javascript">window.HitFix||(window.HitFix={})
+var tags=['companion_emulation_1','companion_emulation_2'];HitFix.companionEmulationTag=tags[Math.floor(Math.random()*tags.length)];var referringDomain='(direct)';if(document.referrer){var a=document.createElement('a');a.href=document.referrer;referringDomain=a.hostname;}
+googletag.cmd.push(function(){googletag.defineSlot('/30013909/hitfix_leaderboard',[[728,90],[728,1],[970,500],[970,250],[970,66],[970,90],[1600,520]],'div-gpt-ad-1324477320362-0').addService(googletag.pubads());googletag.defineSlot('/30013909/hitfix_rec',[[300,600],[300,250],[320,50],[320,100][300,1050]],'div-gpt-ad-1324477320362-34').addService(googletag.pubads());googletag.defineSlot('/30013909/hitfix_skin',[1,1],'div-gpt-ad-1324477320362-31').addService(googletag.pubads());googletag.defineSlot('/30013909/hitfix_footer',[[728,90],[728,1],[970,500],[970,250],[970,66],[970,90],[970,550]],'div-gpt-ad-1324477320362-1').addService(googletag.pubads());googletag.defineSlot('/30013909/hitfix_interstitial',[1,1],'div-gpt-ad-1324477320362-0-oop').addService(googletag.pubads());googletag.pubads().setTargeting('kyd',['hitfix_privacy_policy',HitFix.companionEmulationTag]);googletag.pubads().setTargeting('referrer',referringDomain);googletag.enableServices();});</script>
+<script type="text/javascript" src="http://analytics.revee.com/analytics-v1.js"></script>
+<script type="text/javascript">$(window).load(function(){$revee.init(4,8,1);});</script>
+<!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','724814677621787');fbq('track',"PageView");fbq('track',"Lead");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=724814677621787&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Conversion Code for Any Pageview - HitFix -->
+<script>(function(){var _fbq=window._fbq||(window._fbq=[]);if(!_fbq.loaded){var fbds=document.createElement('script');fbds.async=true;fbds.src='//connect.facebook.net/en_US/fbds.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds,s);_fbq.loaded=true;}})();window._fbq=window._fbq||[];window._fbq.push(['track','6024963046258',{'value':'0.00','currency':'USD'}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6024963046258&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1"/></noscript>
+<!-- mezzobit takes care of the intercast tag on production as well -->
+<!-- <script src="http://s3.amazonaws.com/static.onintercast.com/embed/ib/0.1.0.src.js"></script> -->
+<!-- new relic browser monitoring -->
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"ec937356ba",applicationID:"1949242",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script>(function(){try{var a={l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""},b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d2hedv37huvhdh.cloudfront.net?a=4c49ee39dcfa4e94abd9d3fdf274c086";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/wovencontent654pYot17/moatcontent.js#"+b}catch(f){try{var g="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}catch(h){}};})();</script>
 </head>
-
 <body>
-	  
-<!-- Compete CrossPoint Tag for hitfix.com -->
-<script type="text/javascript">
-__compete_code = '74cb233bce1079d951f48b8d2da13810';
-/* Set control variables below this line. */ 
-</script>
-<script type="text/javascript" src="//c.compete.com/bootstrap/s/74cb233bce1079d951f48b8d2da13810/hitfix-com/bootstrap.js"></script>
-<noscript>
-    <img width="1" height="1" src="https://ssl-hitfix-com-74cb23.c-col.com"/>
-</noscript>
-
-
-
-
-		<div id="wrapper">
-		  	<div class="header">
-	<div class="signin-follow">
-		<div class="signin">
-			<div id="logged-out">
-				<a href="/login" id="login-link" onclick="recordEvent('Header', 'Login', 'Login')">Log In</a> / <a href="/signup" id="sign-up" onclick="recordEvent('Header', 'Signup', 'Signup')">Register</a>
-			</div>
-			<div id="logged-in" style="display:none">
-				<a href="/logout" id="logout-link" onclick="recordEvent('Header', 'Logout', 'Logout')">Log Out</a> / <a href="/my/profile" id="settings-link">My Profile</a>
-			</div>
-			<script type="text/javascript">    
-			  // <! [CDATA[
-			    new HideIfHasCookie('user_login' , 'logged-out');
-			    new ShowIfHasCookie('user_login' , 'logged-in');
-			// ]]>        
-			</script>
-		</div>
-		<div class="follow">
-			<a href="http://www.facebook.com/hitfix" onclick="recordEvent('Header', 'Follow HitFix', 'Facebook')" target="_blank"><i class="fa fa-facebook-square"></i></a>
-			<a href="https://plus.google.com/u/1/b/113785096849056623739/113785096849056623739/posts" onclick="recordEvent('Header', 'Follow HitFix', 'Google Plus')" target="_blank"><i class="fa fa-google-plus-square"></i></a>
-			<a href="http://www.twitter.com/hitfix" onclick="recordEvent('Header', 'Follow HitFix', 'Twitter')" target="_blank"><i class="fa fa-twitter-square"></i></a>
-			<a href="http://www.youtube.com/user/hitfixcom" onclick="recordEvent('Header', 'Follow HitFix', 'YouTube')" target="_blank"><i class="fa fa-youtube-square"></i></a>
-		</div>
-	</div>
-	<div class="logo-search">
-		<h1><a href="/"><img src="http://images.hitfix.com/images2/assets/site/hitfix-logo-265.png" alt="HitFix"></a></h1>
-		<div class="top-news-first-story">
-			
-			<div id="ten_4_top_container" class="load_async_js" data-async-js="ten_4_top">
-			</div>
-			
-			<a data-toggle="collapse" data-target="#top-news-more" href="#" class="more-link"><i class="fa fa-caret-down"></i></a>
-		</div>
-		<a data-toggle="collapse" data-target="#search-form" href="#" id="search-link" class="search-link"><i class="fa fa-search"></i></a>
-		<script>
-		$(function () {
-		    $('#search-link').click(function () {
-		        setTimeout(function(){$('#q').focus();},0);
-		    });
-		});
-		</script>
-	</div>
-	<div id="search-form" class="collapse search-form">
-	<form accept-charset="UTF-8" action="/site/search" id="top_search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>    	<input class="query" id="q" name="q" size="20" type="text" onclick="this.value=''; return false;" placeholder="Enter search term">
-    	<input id="filter" name="filter" type="hidden" value="All">
-      	<input class="search-btn btn" type="submit" value="GO">
-</form></div>
-	<div id="ten_4_container" class="load_async_js" data-async-js="ten_4">
+<div id="wrapper">
+<div class="header">
+<div class="signin-follow">
+<div class="signin">
+<div id="logged-out">
+<a href="/login" id="login-link" onclick="recordEvent('Header', 'Login', 'Login')">Log In</a> / <a href="/signup" id="sign-up" onclick="recordEvent('Header', 'Signup', 'Signup')">Register</a>
 </div>
-
-
-
-	<div class="hf-nav-wrap" data-spy="affix" data-offset-top="195">
-	<ul class="hf-nav">
-		<li class="parent hitfix-logo"><a href="/" class="item"><img src="http://images.hitfix.com/images2/assets/site/hitfix-logo-265.png" alt="HitFix" width="130"></a></li>
-		<li class="parent popular">
-			<a class="item">Popular</a>
-			<div class="child">
-				
-<div id="popular-top-stories" class="load_async_js" data-async-js="popular_top_stories">
+<div id="logged-in" style="display:none">
+<a href="/logout" id="logout-link" onclick="recordEvent('Header', 'Logout', 'Logout')">Log Out</a> / <a href="/my/profile" id="settings-link">My Profile</a>
 </div>
-
-
-<div class="navbar-ad">
-	
+<script type="text/javascript">new HideIfHasCookie('user_login','logged-out');new ShowIfHasCookie('user_login','logged-in');</script>
 </div>
+<div class="follow">
+<a href="http://www.facebook.com/hitfix" onclick="recordEvent('Header', 'Follow HitFix', 'Facebook')" target="_blank" title="Follow us on Facebook"><i class="fa fa-facebook-square"></i></a>
+<a href="http://www.twitter.com/hitfix" onclick="recordEvent('Header', 'Follow HitFix', 'Twitter')" target="_blank" title="Follow us on Twitter"><i class="fa fa-twitter-square"></i></a>
+<a href="https://plus.google.com/u/1/b/113785096849056623739/113785096849056623739/posts" onclick="recordEvent('Header', 'Follow HitFix', 'Google Plus')" target="_blank" title="Follow us on Google Plus"><i class="fa fa-google-plus-square"></i></a>
+<a href="http://www.youtube.com/user/hitfixcom" onclick="recordEvent('Header', 'Follow HitFix', 'YouTube')" target="_blank" title="Follow us on YouTube"><i class="fa fa-youtube-square"></i></a>
+<a href="http://www.pinterest.com/hitfix" onclick="recordEvent('Header', 'Follow HitFix', 'Pinterest')" target="_blank" title="Follow us on Pinterest"><i class="fa fa-pinterest-square"></i></a>
+<a href="http://instagram.com/hitfix" onclick="recordEvent('Header', 'Follow HitFix', 'Instagram')" target="_blank" title="Follow us on Instagram"><i class="fa fa-instagram"></i></a>
+</div>
+</div>
+<div class="hf-nav-wrap" data-spy="affix" data-offset-top="195">
+<ul class="hf-nav">
+<li class="parent hitfix-logo"><a href="/" class="item"><script pagespeed_no_defer="">(function(){var d=window,e=document,f="documentElement",g="scrollTop",k="prototype",l="body",m="getAttribute",n="",p="1",q="data",r="img",s="load",t="number",u="on",v="onload",w="pagespeed_lazy_position",x="pagespeed_lazy_replaced_functions",y="pagespeed_lazy_src",z="position",A="relative",B="resize",C="scroll",D="src";d.pagespeed=d.pagespeed||{};var E=d.pagespeed,F=function(a){this.d=[];this.a=0;this.b=!1;this.o=a;this.e=null;this.i=0;this.j=200;this.c=!1};
+F[k].s=function(){var a=0;typeof d.pageYOffset==t?a=d.pageYOffset:e[l]&&e[l][g]?a=e[l][g]:e[f]&&e[f][g]&&(a=e[f][g]);var b=d.innerHeight||e[f].clientHeight||e[l].clientHeight;return{top:a,bottom:a+b,height:b}};F[k].n=function(a){var b=a[m](w);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&&(b+=this.n(c));b=Math.max(b,0);a.setAttribute(w,b);return b};F[k].r=function(a){var b=this.n(a);return{top:b,bottom:b+a.offsetHeight}};
+F[k].q=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(e.defaultView&&e.defaultView.getComputedStyle){var c=e.defaultView.getComputedStyle(a,null);if(c)return c.getPropertyValue(b)}return a.style&&a.style[b]?a.style[b]:n};F[k].p=function(a){if(!this.c&&(0==a.offsetHeight||0==a.offsetWidth))return!1;if(this.q(a,z)==A)return!0;var b=this.s(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.r(a),a=c.top-b.bottom,b=c.bottom-b.top);return a<=this.a&&0<=b+this.a};
+F[k].m=function(a){this.l(a);var b=this;d.setTimeout(function(){var c=a[m](y);if(null!=c)if((b.b||b.p(a))&&-1!=a.src.indexOf(b.o)){var h=a.parentNode,G=a.nextSibling;h&&h.removeChild(a);a.getAttribute=a.k;a.removeAttribute(v);a.removeAttribute(y);a.removeAttribute(x);h&&h.insertBefore(a,G);a.src=c}else b.d.push(a)},0)};F[k].loadIfVisible=F[k].m;F[k].u=function(){this.b=!0;this.f()};F[k].loadAllImages=F[k].u;F[k].f=function(){var a=this.d,b=a.length;this.d=[];for(var c=0;c<b;++c)this.m(a[c])};
+F[k].h=function(a,b){return a.a?null!=a.a(b):null!=a[m](b)};F[k].v=function(){for(var a=e.getElementsByTagName(r),b=0;b<a.length;++b){var c=a[b];this.h(c,y)&&this.l(c)}};F[k].overrideAttributeFunctions=F[k].v;F[k].l=function(a){var b=this;this.h(a,x)||(a.k=a[m],a.getAttribute=function(a){a.toLowerCase()==D&&b.h(this,y)&&(a=y);return this.k(a)},a.setAttribute(x,p))};
+E.g=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(u+b,c);else{var h=a[u+b];a[u+b]=function(){c.call(this);h&&h.call(this)}}};E.t=function(a,b){var c=new F(b);E.lazyLoadImages=c;E.g(d,s,function(){c.c=!0;c.b=a;c.a=200;c.f()});0!=b.indexOf(q)&&((new Image).src=b);var h=function(){if(!(c.c&&a||c.e)){var b=c.j;(new Date).getTime()-c.i>c.j&&(b=0);c.e=d.setTimeout(function(){c.i=(new Date).getTime();c.f();c.e=null},b)}};E.g(d,C,h);E.g(d,B,h)};
+E.lazyLoadInit=E.t;})();
 
-			</div>
-			
-		</li>
-		<li class="parent videos">
-			<a href="/videos" class="item" onclick="recordEvent('Header', 'Clicked Videos Link', 'Videos')">Videos</a>
-			<div class="child">
-				<div class="featured-links">
-
-							<a href="http://www.hitfix.com/videos/browse/interviews" class="first" onclick="recordEvent('Header', 'Clicked Videos Link', 'Exclusive Interviews')">Exclusive Interviews</a>
-							<a href="http://www.hitfix.com/videos/browse/movie-clips" onclick="recordEvent('Header', 'Clicked Videos Link', 'Movie Trailers and Clips')">Movie Trailers and Clips</a>
-							<a href="http://www.hitfix.com/videos/browse/firewall-iceberg" onclick="recordEvent('Header', 'Clicked Videos Link', 'Firewall &amp; Iceberg')">Firewall &amp; Iceberg</a>
-							<a href="http://www.hitfix.com/videos/browse/hitfix" onclick="recordEvent('Header', 'Clicked Videos Link', 'HitFix Originals')">HitFix Originals</a>
-							<a href="http://www.hitfix.com/videos/browse/tv" onclick="recordEvent('Header', 'Clicked Videos Link', 'Television')">Television</a>
-							<a href="http://www.hitfix.com/videos/browse/music" onclick="recordEvent('Header', 'Clicked Videos Link', 'Music')">Music</a>
-							<a href="http://www.hitfix.com/videos/browse/the-snap" onclick="recordEvent('Header', 'Clicked Videos Link', 'The Snap')">The Snap</a>
-					<a href="/videos/ssr" onclick="recordEvent('Header', 'Clicked Videos Link', 'Six Second Reviews')">Six Second Reviews</a>
-				</div>
-				
+pagespeed.lazyLoadInit(false, "/ngx_pagespeed_static/1.JiBnMqyl6S.gif");
+</script><img pagespeed_lazy_src="http://images.hitfix.com/images2/assets/site/hitfix-logo-265.png" alt="HitFix" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a></li>
+<li class="parent popular">
+<a class="item">Popular</a>
+<div class="child">
+<div class="featured-links">&nbsp;</div>
+<div class="top-stories-wrap">
+<div id="carousel-popular-top-stories" class="top-stories-box carousel slide featured-stories" data-ride="carousel" data-interval="false">
+<div class="carousel-inner">
+<div class="item active">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/galleries/8-horror-movies-actually-worth-being-excited-for-in-2016" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/galleries/8-horror-movies-actually-worth-being-excited-for-in-2016')">
+<div class="photo">
+<img alt="2016horrormovies_the-neon-demon-elle-fanning-picture_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6194602/2016horrormovies_the-neon-demon-elle-fanning-picture_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">1</span>
+</div>
+<div class="headline">8 horror movies actually worth being excited for in 2016</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/review-did-person-of-interest-bring-the-samaritan-war-to-a-strong-close" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/whats-alan-watching/review-did-person-of-interest-bring-the-samaritan-war-to-a-strong-close')">
+<div class="photo">
+<img alt="Person-of-interest-exe_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262542/person-of-interest-exe_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">2</span>
+</div>
+<div class="headline">Review: Did 'Person of Interest' bring the Samaritan war to a strong close?</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/did-game-of-thrones-just-send-jorah-on-a-quest-to-find-another-zombie-army" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/harpy/did-game-of-thrones-just-send-jorah-on-a-quest-to-find-another-zombie-army')">
+<div class="photo">
+<img alt="Game-of-thrones--greyscale_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6253625/Game-of-Thrones--Greyscale_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">3</span>
+</div>
+<div class="headline">This 'Game of Thrones' fan theory about greyscale will blow your mind</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+<div class="item ">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/get-a-load-of-the-joker-and-harley-in-two-jokey-suicide-squad-spots" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/get-a-load-of-the-joker-and-harley-in-two-jokey-suicide-squad-spots')">
+<div class="photo">
+<img alt="Joker_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262382/joker_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">4</span>
+</div>
+<div class="headline">Get a load of The Joker and Harley in Two Jokey 'Suicide Squad' Spots</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/steven-spielberg-just-made-a-big-promise-about-indiana-jones-5" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/steven-spielberg-just-made-a-big-promise-about-indiana-jones-5')">
+<div class="photo">
+<img alt="Indiana-jones_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262622/Indiana-Jones_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">5</span>
+</div>
+<div class="headline">Steven Spielberg just made a big 'Indiana Jones 5' promise</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/how-on-earth-is-warcraft-stomping-all-over-star-wars-box-office-in-china" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/harpy/how-on-earth-is-warcraft-stomping-all-over-star-wars-box-office-in-china')">
+<div class="photo">
+<img alt="Warcraft-vs-star-wars_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262342/Warcraft-vs-Star-Wars_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">6</span>
+</div>
+<div class="headline">How on Earth is 'Warcraft' stomping all over 'Star Wars' box office in China?</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+<div class="item ">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/buckle-your-seat-belt-dame-helen-mirren-joins-the-cast-of-fast-8" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/harpy/buckle-your-seat-belt-dame-helen-mirren-joins-the-cast-of-fast-8')">
+<div class="photo">
+<img alt="Hitfixhelenmirrendrive2_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262742/HitFixHelenMirrenDrive2_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">7</span>
+</div>
+<div class="headline">Buckle Your Seat Belt: Dame Helen Mirren Joins the Cast of 'Fast 8'</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/here-comes-your-man-michael-shannon-on-lip-sync-battle" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/here-comes-your-man-michael-shannon-on-lip-sync-battle')">
+<div class="photo">
+<img alt="Screen_shot_2016-06-15_at_11.17.12_am_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262602/Screen_Shot_2016-06-15_at_11.17.12_AM_home_top_story.png" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">8</span>
+</div>
+<div class="headline">Michael Shannon Performs "Here Comes Your Man" on 'Lip Sync Battle'</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/watch-the-new-ghostbusters-roast-the-stay-puft-marshmallow-man" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/watch-the-new-ghostbusters-roast-the-stay-puft-marshmallow-man')">
+<div class="photo">
+<img alt="Ghostbusters-staypuft-1_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262643/ghostbusters-staypuft-1_home_top_story.png" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">9</span>
+</div>
+<div class="headline">Watch The New Ghostbusters Roast the Stay Puft Marshmallow Man</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+<div class="item ">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-spins-its-wheels-with-no-one" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/whats-alan-watching/review-game-of-thrones-spins-its-wheels-with-no-one')">
+<div class="photo">
+<img alt="Got_mp_090715_ep608-0980_1__home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6261482/GOT_MP_090715_EP608-0980_1__home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">10</span>
+</div>
+<div class="headline">Review: 'Game of Thrones' spins its wheels with 'No One'</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/madtv-cast-announced-for-reboot-of-sketch-comedy-show" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/madtv-cast-announced-for-reboot-of-sketch-comedy-show')">
+<div class="photo">
+<img alt="Madtv_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262682/MadTV_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">11</span>
+</div>
+<div class="headline">'MADtv': Cast announced for reboot of sketch comedy show</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/dont-expect-to-see-this-in-the-wonder-woman-movie" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/dont-expect-to-see-this-in-the-wonder-woman-movie')">
+<div class="photo">
+<img alt="Wonder-woman-gal-gadot-batman-v-superman_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262722/wonder-woman-gal-gadot-batman-v-superman_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1">
+<span class="rank">12</span>
+</div>
+<div class="headline">Don't Expect To See THIS In The 'Wonder Woman' Movie</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+</div>
+<a class="left carousel-control" href="#carousel-popular-top-stories" data-slide="prev"><span class="fa fa-caret-square-o-left"></span></a>
+<a class="right carousel-control" href="#carousel-popular-top-stories" data-slide="next"><span class="fa fa-caret-square-o-right"></span></a>
+</div>
+</div>
+</div>
+</li>
+<li class="parent videos">
+<a href="/videos" class="item" onclick="recordEvent('Header', 'Clicked Videos Link', 'Videos')">Videos</a>
+<div class="child">
+<div class="featured-links">
+<a href="/videos/browse/trending" class="first" onclick="recordEvent('Header', 'Clicked Videos Link', 'Trending')">Trending</a>
+<a href="/videos/browse/trailers" onclick="recordEvent('Header', 'Clicked Videos Link', 'Trailers')">Trailers</a>
+<a href="/videos/browse/fandemonium" onclick="recordEvent('Header', 'Clicked Videos Link', 'Fandemonium')">Fandemonium</a>
+<a href="/videos/browse/girls-on-film" onclick="recordEvent('Header', 'Clicked Videos Link', 'Girls on Film')">Girls on Film</a>
+<a href="/videos/browse/2-steps-forward-1-step-back" onclick="recordEvent('Header', 'Clicked Videos Link', '2 Steps Forward 1 Step Back')">2 Steps Forward 1 Step Back</a>
+<a href="/videos/browse/the-snap" onclick="recordEvent('Header', 'Clicked Videos Link', 'The Snap')">The Snap</a>
+<a href="/videos/browse/2-minute-history" onclick="recordEvent('Header', 'Clicked Videos Link', '2 Minute History')">2 Minute History</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent('Header', 'Clicked Videos Link', 'See or Skip')">See or Skip</a>
+<a href="/videos/browse/interviews" onclick="recordEvent('Header', 'Clicked Videos Link', 'Interviews')">Interviews</a>
+<a href="/videos/browse/ask-alan" onclick="recordEvent('Header', 'Clicked Videos Link', 'Ask Alan')">Ask Alan</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent('Header', 'Clicked Videos Link', 'See or Skip')">See or Skip</a>
+<a href="/the-dartboard" onclick="recordEvent('Header', 'Clicked Videos Link', 'The Dartboard')">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
 <div id="video-top-stories" class="load_async_js" data-async-js="video_top_stories">
 </div>
-
-
 <div class="navbar-ad">
-	
 </div>
-
-			</div>
-		</li>
-		<li class="parent movies">
-			<a href="/channels/movies" class="item" onclick="recordEvent('Header', 'Clicked Movies Link', 'Movies')">Movies</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/motion-captured" class="first" onclick="recordEvent('Header', 'Clicked Movies Link', 'Motion Captured')">Motion Captured</a>	
-					<a href="/in-contention" onclick="recordEvent('Header', 'Clicked Movies Link', 'In Contention')">In Contention</a>
-					<a href="/awards-campaign" onclick="recordEvent('Header', 'Clicked Movies Link', '4 Quadrant')">4 Quadrant</a>			
-										
-					<a href="/reviews" onclick="recordEvent('Header', 'Clicked Movies Link', 'Reviews')">Reviews</a>
-					<a href="/videos/browse/movie-trailers" onclick="recordEvent('Header', 'Clicked Movies Link', 'Trailers')">Trailers</a>
-					<a href="/movies/in-theaters-now" onclick="recordEvent('Header', 'Clicked Movies Link', 'In Theaters')">In Theaters</a>
-					<a href="/movies/on-demand" onclick="recordEvent('Header', 'Clicked Movies Link', 'On Demand')">On Demand</a>
-					<a href="/movies/available-on-dvd" onclick="recordEvent('Header', 'Clicked Movies Link', 'DVDs')">DVDs</a>					
-					<a href="/motion-captured/film-nerd-2-0" onclick="recordEvent('Header', 'Clicked Movies Link', 'Film Nerd 2.0')">Film Nerd 2.0</a>
-					<a href="/videos/ssr" onclick="recordEvent('Header', 'Clicked Movies Link', 'Six Second Reviews')">Six Second Reviews</a>
-				</div>
-				
+</div>
+</div>
+</li>
+<li class="parent movies">
+<a href="/channels/movies" class="item" onclick="recordEvent('Header', 'Clicked Movies Link', 'Movies')">Movies</a>
+<div class="child">
+<div class="featured-links">
+<a href="/motion-captured" class="first" onclick="recordEvent('Header', 'Clicked Movies Link', 'Motion Captured')">Motion Captured</a>
+<a href="/reviews" onclick="recordEvent('Header', 'Clicked Movies Link', 'Reviews')">Reviews</a>
+<a href="/movies/in-theaters-now" onclick="recordEvent('Header', 'Clicked Movies Link', 'In Theaters')">In Theaters</a>
+<a href="/movies/on-demand" onclick="recordEvent('Header', 'Clicked Movies Link', 'On Demand')">On Demand</a>
+<a href="/motion-captured/film-nerd-2-0" onclick="recordEvent('Header', 'Clicked Movies Link', 'Film Nerd 2.0')">Film Nerd 2.0</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent('Header', 'Clicked Movies Link', 'See or Skip')">See or Skip</a>
+<a href="/the-dartboard" onclick="recordEvent('Header', 'Clicked Movies Link', 'The Dartboard')">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
 <div id="movies-top-stories" class="load_async_js" data-async-js="movies_top_stories">
 </div>
-
-
 <div class="navbar-ad">
-	
 </div>
-
-			</div>
-		</li>
-		<li class="parent tv">
-			<a href="/channels/tv" class="item" onclick="recordEvent('Header', 'Clicked TV Link', 'TV')">TV</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/whats-alan-watching" class="first" onclick="recordEvent('Header', 'Clicked TV Link', 'Whats Alan Watching')">What's Alan Watching</a>
-					<a href="/the-fien-print" onclick="recordEvent('Header', 'Clicked TV Link', 'The Fien Print')">The Fien Print</a>
-					<a href="/starr-raving" onclick="recordEvent('Header', 'Clicked TV Link', 'Starr Raving')">Starr Raving</a>					
-					<a href="/tv-tattle" onclick="recordEvent('Header', 'Clicked TV Link', 'TV Tattle')">TV Tattle</a>
-					<a href="/recaps" onclick="recordEvent('Header', 'Clicked TV Link', 'Recaps')">Recaps</a>
-					<a href="/boards/thread/topic/category/TV" onclick="recordEvent('Header', 'Clicked TV Link', 'TV Boards')">TV Boards</a>
-					<a href="/podcasts/firewall-iceberg" onclick="recordEvent('Header', 'Clicked TV Link', 'Firewall &amp; Iceberg')">Firewall &amp; Iceberg</a>
-					<a href="/channels/realitytv" onclick="recordEvent('Header', 'Clicked TV Link', 'Reality TV')">Reality TV</a>
-				</div>
-				
+</div>
+</div>
+</li>
+<li class="parent tv">
+<a href="/channels/tv" class="item" onclick="recordEvent('Header', 'Clicked TV Link', 'TV')">TV</a>
+<div class="child">
+<div class="featured-links">
+<a href="/whats-alan-watching" class="first" onclick="recordEvent('Header', 'Clicked TV Link', 'Whats Alan Watching')">What's Alan Watching</a>
+<a href="/recaps" onclick="recordEvent('Header', 'Clicked TV Link', 'Recaps')">Recaps</a>
+<a href="/podcasts/firewall-iceberg" onclick="recordEvent('Header', 'Clicked TV Link', 'Firewall &amp; Iceberg')">Firewall &amp; Iceberg</a>
+<a href="/channels/realitytv" onclick="recordEvent('Header', 'Clicked TV Link', 'Reality TV')">Reality TV</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent('Header', 'Clicked TV Link', 'See or Skip')">See or Skip</a>
+<a href="/tvcriticspoll" onclick="recordEvent('Header', 'Clicked TV Link', 'TV Critics Poll')" title="TV Critics Poll">TV Critics Poll</a>
+<a href="/the-dartboard" onclick="recordEvent('Header', 'Clicked TV Link', 'The Dartboard')">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
 <div id="tv-top-stories" class="load_async_js" data-async-js="tv_top_stories">
 </div>
-
-
 <div class="navbar-ad">
-	
 </div>
-
-			</div>
-		</li>
-		<li class="parent music">
-			<a href="/channels/music" class="item" onclick="recordEvent('Header', 'Clicked Music Link', 'Music')">Music</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/the-beat-goes-on" class="first" onclick="recordEvent('Header', 'Clicked Music Link', 'The Beat Goes On')">The Beat Goes On</a>					
-					<a href="/immaculate-noise" onclick="recordEvent('Header', 'Clicked Music Link', 'Immaculate Noise')">Immaculate Noise</a>		
-					<a href="/music/available-albums" onclick="recordEvent('Header', 'Clicked Music Link', 'Available Albums')">Available Albums </a>					
-					<a href="/topics" onclick="recordEvent('Header', 'Clicked Music Link', 'Popular Artists')">Popular Artists</a>
-					<a href="/boards/thread/topic/category/Music" onclick="recordEvent('Header', 'Clicked Music Link', 'Music Boards')">Music Boards</a>
-					<a href="/podcasts/culture-pop" onclick="recordEvent('Header', 'Clicked Music Link', 'CulturePop')">CulturePop</a>
-				</div>
-				
-<div id="music-top-stories" class="load_async_js" data-async-js="music_top_stories">
 </div>
-
-
-<div class="navbar-ad">
-	
 </div>
-
-			</div>
-		</li>
-		<li class="parent herofix">
-			<a href="/channels/herofix" class="item" onclick="recordEvent('Header', 'Clicked HeroFix Link', 'HeroFix')">HeroFix</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/channels/herofix" class="first" onclick="recordEvent('Header', 'Clicked HeroFix Link', 'HeroFix Home')">HeroFix Home</a>					
-					<a href="/channels/herofix/HEROFIX:%20Comic%20Book%20Previews" onclick="recordEvent('Header', 'Clicked HeroFix Link', 'Comic Book Previews')">Comic Book Previews</a>					
-					<a href="/channels/herofix/videos" onclick="recordEvent('Header', 'Clicked HeroFix Link', 'HeroFix Videos')">HeroFix Videos</a>
-					<a href="/channels/herofix/HEROFIX:%20Set%20Visits" onclick="recordEvent('Header', 'Clicked HeroFix Link', 'Set Visits')">Set Visits</a>
-				</div>
-				
-<div id="herofix-top-stories" class="load_async_js" data-async-js="herofix_top_stories">
+</li>
+<li class="parent riot">
+<a href="/channels/riot" class="item" onclick="recordEvent('Header', 'Clicked Riot Link', 'Riot')">RIOT</a>
+<div class="child">
+<div class="featured-links">
+<a href="/channels/riot" class="first" onclick="recordEvent('Header', 'Clicked Riot Link', 'Riot Home')">Riot Home</a>
+<a href="/channels/riot/videos" onclick="recordEvent('Header', 'Clicked Riot Link', 'Riot Videos')">Riot Videos</a>
+<a href="/videos/browse/the-snap" onclick="recordEvent('Header', 'Clicked Riot Link', 'The Snap')">The Snap</a>
+<a href="/the-dartboard" onclick="recordEvent('Header', 'Clicked Riot Link', 'The Dartboard')">The Dartboard</a>
 </div>
-
-
-<div class="navbar-ad">
-	
-</div>
-
-			</div>
-		</li>
-		<li class="parent awards">
-			<a href="/channels/awards" class="item" onclick="recordEvent('Header', 'Clicked Awards Link', 'Awards')">Awards</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/channels/awards" class="first" onclick="recordEvent('Header', 'Clicked Awards Link', 'Awards Home')">Awards Home</a>
-					<a href="/in-contention" onclick="recordEvent('Header', 'Clicked Awards Link', 'In Contention')">In Contention</a>
-					<a href="/contenders" onclick="recordEvent('Header', 'Clicked Awards Link', 'The Contenders')">The Contenders</a>
-					<a href="/blogs/in-contention/posts/the-2013-2014-film-awards-circuit" onclick="recordEvent('Header', 'Clicked Awards Link', 'The Circuit')">The Circuit</a>
-					<a href="/oscars/predictions/new" onclick="recordEvent('Header', 'Clicked Awards Link', 'HitFix Oscar Picks')">HitFix Oscar Picks</a>
-				</div>
-				
-<div id="awards-top-stories" class="load_async_js" data-async-js="awards_top_stories">
-</div>
-
-
-<div class="navbar-ad">
-	
-</div>
-
-			</div>
-		</li>
-		
-		<li class="parent riot">
-			<a href="/channels/riot" class="item" onclick="recordEvent('Header', 'Clicked Riot Link', 'Riot')">RIOT</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/channels/riot" class="first" onclick="recordEvent('Header', 'Clicked Riot Link', 'Riot Home')">Riot Home</a>
-					<a href="/channels/riot/videos" onclick="recordEvent('Header', 'Clicked Riot Link', 'Riot Videos')">Riot Videos</a>
-					<a href="/channels/riot/RIOT:%20Photos%20and%20Gifs" onclick="recordEvent('Header', 'Clicked Riot Link', 'Photos and Gifs')">Photos and Gifs</a>
-					<a href="/channels/riot/RIOT:%20Comedians" onclick="recordEvent('Header', 'Clicked Riot Link', 'Comedians')">Comedians</a>
-					<a href="/channels/riot/RIOT:%20Oddities" onclick="recordEvent('Header', 'Clicked Riot Link', 'Oddities')">Oddities</a>
-					<a href="/channels/riot/RIOT:%20Homemade%20Content" onclick="recordEvent('Header', 'Clicked Riot Link', 'Homemade Content')">Homemade Content</a>
-					<a href="/videos/browse/the-snap" onclick="recordEvent('Header', 'Clicked Riot Link', 'The Snap')">The Snap</a>
-				</div>
-				
+<div class="top-stories-wrap">
 <div id="riot-top-stories" class="load_async_js" data-async-js="riot_top_stories">
 </div>
-
-
 <div class="navbar-ad">
-	
 </div>
-
-			</div>
-		</li>
-		
-		<li class="parent events">
-			<a href="/forecast/thirty-day" class="item" onclick="recordEvent('Header', 'Clicked Events Link', 'Events')">Events</a>
-			<div class="child">
-				<div class="featured-links">
-					<a href="/forecast/thirty-day" class="first" onclick="recordEvent('Header', 'Clicked Events Link', 'All Events')">All Events</a>
-						<a href="/calendar/filter/movies" onclick="recordEvent('Header', 'Clicked Events Link', 'Movies')">Movies</a>
-						<a href="/calendar/filter/tv" onclick="recordEvent('Header', 'Clicked Events Link', 'TV')">TV</a>
-						<a href="/calendar/filter/music" onclick="recordEvent('Header', 'Clicked Events Link', 'Music')">Music</a>
-						<a href="/calendar/filter/sports" onclick="recordEvent('Header', 'Clicked Events Link', 'Sports')">Sports</a>
-						<a href="/calendar/filter/dvd" onclick="recordEvent('Header', 'Clicked Events Link', 'DVD')">DVD</a>
-						<a href="/calendar/filter/local" onclick="recordEvent('Header', 'Clicked Events Link', 'Local')">Local</a>
-				</div>
-				
-<div id="event-top-stories" class="load_async_js" data-async-js="event_top_stories">
 </div>
-
-
-<div class="navbar-ad">
-	
 </div>
-
-			</div>
-		</li>
-		<li class="parent hf-login">
-			<a class="item">login</a>
-			<div class="child">
-				<div id="logged-out2">
-					<a href="/login" id="login-link" onclick="recordEvent('Header', 'Login', 'Login')">Log In</a> / <a href="/signup" id="sign-up" onclick="recordEvent('Header', 'Signup', 'Signup')">Register</a>
-				</div>
-				<div id="logged-in2" style="display:none;">
-					<a href="/logout" id="logout-link" onclick="recordEvent('Header', 'Logout', 'Logout')">Log Out</a> / <a href="/my/profile" id="settings-link">My Profile</a>
-				</div>
-				<script type="text/javascript">    
-				  // <! [CDATA[
-				    new HideIfHasCookie('user_login' , 'logged-out2');
-				    new ShowIfHasCookie('user_login' , 'logged-in2');
-				// ]]>        
-				</script>
-			</div>
-		</li>
-		<li class="parent search-icon">
-			<a class="item"><i class="fa fa-search"></i></a>
-			<div class="child search-form-small">
-				<form accept-charset="UTF-8" action="/site/search" id="top_search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>			    	<input class="query" id="q" name="q" onfocus="clearTextb(this)" onblur="clearTextb(this)" size="20" type="text" value="">
-			    	<input id="filter" name="filter" type="hidden" value="All">
-			      	<input class="search-btn btn" type="submit" value="Go">
-</form>			</div>
-		</li>
-	</ul>
-	<div class="clearleft"></div>
+</li>
+<li class="parent herofix">
+<a href="/herofix" class="item" onclick="recordEvent('Header', 'Clicked Herofix Link', 'Herofix')">Herofix</a>
+<div class="child">
+<div class="featured-links">
+<a href="/herofix" class="first" onclick="recordEvent('Header', 'Clicked Herofix Link', 'Herofix')">Herofix</a>
+<a href="/harpy" onclick="recordEvent('Header', 'Clicked Harpy Link', 'Harpy')">Harpy</a>
 </div>
-	<div class="featured-links">
-	<h3>Featured:</h3>
-	<a href="/whats-alan-watching" class="first" onclick="recordEvent('Header', 'Clicked Featured Link', 'Whats Alan Watching')" title="What's Alan Watching">What's Alan Watching</a>
-    <a href="/motion-captured" onclick="recordEvent('Header', 'Clicked Featured Link', 'Motion Captured')" title="Motion Captured">Motion Captured</a>
-    <a href="/the-beat-goes-on" onclick="recordEvent('Header', 'Clicked Featured Link', 'Beat Goes On')" title="Beat Goes On">Beat Goes On</a>
-    <a href="/in-contention" onclick="recordEvent('Header', 'Clicked Featured Link', 'In Contention')" title="In Contention">In Contention</a>
-    <a href="/tv-tattle" onclick="recordEvent('Header', 'Clicked Featured Link', 'TV Tattle')" title="TV Tattle">TV Tattle</a>
-	<a href="/channels/realitytv" class="reality" onclick="recordEvent('Header', 'Clicked Featured Link', 'Reality TV')" title="Reality TV">Reality TV</a>
-	<a href="/summermovies" class="summermovieslink label label-summermovie" onclick="recordEvent('Header', 'Clicked Featured Link', 'Summer Movie Preview')" title="Summer Movie Preview">Summer Movies</a>
-	<a href="/summermusic" class="label label-summermusic" onclick="recordEvent('Header', 'Clicked Featured Link', 'Summer Music Preview')" title="Summer Music Preview">Summer Music</a>
+</div></li>
+<li class="parent streamfix">
+<a href="/streamfix" class="item" onclick="recordEvent('Header', 'Clicked Streamfix Link', 'Streamfix')">Streamfix</a>
+<div class="bug">New!</div>
+</li>
+<li class="parent hf-login">
+<a class="item">login</a>
+<div class="child">
+<div id="logged-out2">
+<a href="/login" id="login-link" onclick="recordEvent('Header', 'Login', 'Login')">Log In</a> / <a href="/signup" id="sign-up" onclick="recordEvent('Header', 'Signup', 'Signup')">Register</a>
+</div>
+<div id="logged-in2" style="display:none;">
+<a href="/logout" id="logout-link" onclick="recordEvent('Header', 'Logout', 'Logout')">Log Out</a> / <a href="/my/profile" id="settings-link">My Profile</a>
+</div>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">new HideIfHasCookie('user_login','logged-out2');new ShowIfHasCookie('user_login','logged-in2');</script>
+</div>
+</li>
+<li class="search-icon">
+<a class="item"><i class="fa fa-search"></i></a>
+<div class="child search-form-small">
+<form accept-charset="UTF-8" action="/site/search" id="top_search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>	<input class="query" id="q" name="q" onfocus="clearTextb(this)" onblur="clearTextb(this)" size="20" type="text" value="">
+<input id="filter" name="filter" type="hidden" value="All">
+<input class="search-btn btn" type="submit" value="Go">
+</form>	</div>
+</li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="featured-links">
+<!-- h3>Featured:</h3 -->
+<a href="/whats-alan-watching" class="first" onclick="recordEvent('Header', 'Clicked Featured Link', 'Whats Alan Watching')" title="What's Alan Watching">What's Alan Watching</a>
+<a href="/motion-captured" onclick="recordEvent('Header', 'Clicked Featured Link', 'Motion Captured')" title="Motion Captured">Motion Captured</a>
+<a href="/the-dartboard" onclick="recordEvent('Header', 'Clicked Featured Link', 'The Dartboard')" title="The Dartboard">The Dartboard</a>
+<a href="/harpy" onclick="recordEvent('Header', 'Clicked Featured Link', 'Fangirl')" title="Fangirl">Fangirl</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent('Header', 'Clicked Featured Link', 'See or Skip')">See or Skip</a>
+<a href="/streaming_genie" class="label label-streaming" onclick="recordEvent('Header', 'Clicked Featured Link', 'Streaming Genie')" title="Streaming Genie">Streaming Genie</a>
+<a href="/march_mayhem/2016" class="label label-screening" onclick="recordEvent('Header', 'Clicked Featured Link', 'March Mayhem')" title="March Mayhem 2016">Vote In Heroes vs. Villains</a>
 </div><!-- /featured-links -->
-
-
-
-
-</div>
-
-	
-			<div id="page-wrapper">
-				<div class="main liteweight users-main index-main">
-					
-					
+</div><!--/ header -->
+<div id="page-wrapper">
+<div class="main liteweight users-main index-main">
 <div class="about-nav">
-	<ul>
-		<li><a href="/about/about-us" class="">About Us</a></li>
-		<li><a href="/advertising/about" class="">Advertise</a></li>
-		<li><a href="/about/become-a-partner" class="">Partner</a></li>
-	    <li><a href="/contact" class="">Contact Us</a></li>
-		<li><a href="/careers" class="">Careers</a></li>
-			<li><a href="/in-the-news" class="">In the News</a></li>
-	</ul>
-	<div class="clearleft"></div>
+<ul>
+<li><a href="/about/about-us" class="">About Us</a></li>
+<li><a href="/advertising/about" class="">Advertise</a></li>
+<li><a href="/about/become-a-partner" class="">Partner</a></li>
+<li><a href="/contact" class="">Contact Us</a></li>
+<li><a href="/careers" class="">Careers</a></li>
+<li><a href="/in-the-news" class="">In the News</a></li>
+</ul>
+<div class="clearleft"></div>
 </div>
-
-
 <div id="reg">
-	<div class="column1" style="width: 1000px;">
-		<div class="head">
-		  <h1>HitFix, INC Privacy Policy</h1>
-		</div>
-	  <div class="columnA">
-
-	  </div>
-	  <div class="columnB myaccount">
-		<div id="aboutcontainer">	
-		    <div id="content_left">
-				<p>This Privacy Policy applies to you (“You” and “Your”) and all other users of the HitFix website and Network and the HitFix Programs and HitFix Service. Capitalized terms used herein, which are otherwise undefined, shall have the meanings attributed thereto in the HitFix Terms and Conditions of Use. This privacy policy (the “Privacy Policy”) was last updated December 17, 2008.</p>
-		        <h3>Personal Information</h3>
-		        <ul class="orangedot">    
-		            <li>Account-Related Activity. Certain activities on HitFix—like uploading Content or posting comments—require You to have a HitFix account. HitFix asks for some personal information when You create a HitFix account, including Your email address and a password, which is used to protect Your account from unauthorized acces.</li>
-		            <li>Usage Information. We may record information about Your usage, as well as information You display or click on in HitFix. If You are logged in, we may associate that information with Your account.</li>
-		           <li>Content Uploaded to the Site. Any personal information or Content that You voluntarily disclose online becomes publicly available and can be collected and used by others.</li>
-		       </ul>
-		      <h3>Uses</h3>
-		      <ul class="orangedot"> 
-		           <li>If You submit personally identifiable information to HitFix through the Site, HitFix uses Your personal information to operate, maintain, and provide to You the features and functionality of the Site, as well as provide special personalized features to You.</li>
-		           <li>Your account name is displayed to other Users when You upload Video Content or send messages through HitFix and other Site users can contact You through messages and comments. Any Content that You submit to HitFix may be redistributed through the Internet and other media channels, and may be viewed by the general public.</li>
-		           <li>HitFix does not use Your email address or other personally identifiable information to send commercial or marketing messages without Your consent, except as part of a specific program or feature for which You will have the ability to opt-in or opt-out.  HitFix may, however, use Your email address without further consent for non-marketing or administrative purposes (such as notifying You of major Site changes or for customer service purposes). </li>
-		           <li>HitFix uses both Your personally identifiable information and certain non-personally-identifiable information to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing Your user preferences and trends. </li>
-				   <li>HitFix uses third-party advertising companies to serve ads when You visit the Site. These companies may use information (not including Your name, address email address or telephone number) about Your visits to HitFix and other Web sites in order to provide advertisements about goods and services of interest to You. If You would like more information about this practice and to know Your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/">click here</a>.</li>
-		           <li>HitFix uses cookies, other tools and information to: (a) store information so that You will not have to re-enter it during Your visit or the next time You visit HitFix; (b) provide custom, personalized content and information; (c) monitor the effectiveness of its marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track Your entries, submissions, and status in promotions, sweepstakes, and contests. </li>
-		       </ul>      
-		       <h3>Your Control</h3>       
-		       <ul class="orangedot"> 
-		            <li>You may decline to submit personally identifiable information through the Site, in which case You can still view videos and explore the Site, but HitFix may not be able to provide certain services to You.</li>
-		            <li>You may update or correct Your personal profile information and email preferences at any time by visiting Your account profile page.</li>
-		       </ul>                                         
-		    </div>
-		</div>
-	  </div>
-	</div>
+<div class="column1" style="width: 1000px;">
+<div class="head">
+<h1>HitFix, INC Privacy Policy</h1>
 </div>
-
-
-					<div class="clearboth"></div>
-				</div>
-				<div class="footer">
-	<div class="links">
-		<a href="/about/about-us" onclick="recordEvent('Footer', 'About Us', 'About Us')">About Us</a>
-		<a href="/in-the-news" onclick="recordEvent('Footer', 'In the News', 'Company News')">In the News</a>
-		<a href="/advertising/about" onclick="recordEvent('Footer', 'Advertise', 'Advertise')">Advertise</a>
-		<a href="/about/partner" onclick="recordEvent('Footer', 'Partner', 'Become a Partner')">Partner</a>
-		<a href="/careers" onclick="recordEvent('Footer', 'Careers', 'Careers')">Careers</a>
-		<a href="/about/contact-us" onclick="recordEvent('Footer', 'Contact Us', 'Contact Us')">Contact Us</a>
-		<a href="/about/terms_of_use" onclick="recordEvent('Footer', 'Terms of Use', 'Terms of Use')">Terms of Use</a>
-	</div>
-	<div class="copyright">© 2014 HitFix, Inc. All rights reserved</div>
-	<div class="follow-us">
-		<a href="http://www.facebook.com/hitfix" onclick="recordEvent('Footer', 'Follow HitFix', 'Facebook')" target="_blank"><i class="fa fa-facebook"></i></a>
-		<a href="http://www.twitter.com/hitfix" onclick="recordEvent('Footer', 'Follow HitFix', 'Twitter')" target="_blank"><i class="fa fa-twitter"></i></a>
-		<a href="https://plus.google.com/u/1/b/113785096849056623739/113785096849056623739/posts" onclick="recordEvent('Footer', 'Follow HitFix', 'Google Plus')" target="_blank"><i class="fa fa-google-plus"></i></a>
-		<a href="http://www.youtube.com/user/hitfixcom" onclick="recordEvent('Footer', 'Follow HitFix', 'YouTube')" target="_blank"><i class="fa fa-youtube-play"></i></a>
-		<a href="http://www.hitfix.com/rss" onclick="recordEvent('Footer', 'Follow HitFix', 'RSS')" target="_blank"><i class="fa fa-rss"></i></a>
-	</div> 
-  <img src="https://amch.questionmarket.com/adsc/d1169363/2/1174070/ad_radar.php?ord=[randnum]" height="1" width="1" border="0">
-	<div class="clearleft"></div>
+<div class="columnA">
 </div>
-
-
-				
-				<div id="rewards-bar" class="rewards-user">
-	<a class="top-tab" href="javascript:void(0)" style="display:none;">
-		<span class="value">HitFix Rewards: 
-		<nitro:request method="user.getPointsBalance">
-			<nitro:response data="Balance.points" criteria="BALANCE"></nitro:response>
-		</nitro:request> points
-		</span>	
-	</a>
-	<div id="rewards-bar-content-wrap">
-		<div class="rewards-bar-content">
-			<h3>Earn points by reading these stories now</h3>
-			<div class="read-now">
-				<div id="carousel-rewards-bar" class="carousel slide featured-stories" data-ride="carousel" data-interval="false">		
-			    	<div id="read-now-content" class="carousel-inner">
-				       		<div class="item active">
-				        		<ul>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/awards-campaign/25-panels-we-want-to-see-at-comic-con-2014-star-wars-lost-avengers-age-of-ultron" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/awards-campaign/25-panels-we-want-to-see-at-comic-con-2014-star-wars-lost-avengers-age-of-ultron', 'http://www.hitfix.com/awards-campaign/25-panels-we-want-to-see-at-comic-con-2014-star-wars-lost-avengers-age-of-ultron')"><img alt="Cc_collage_top_story" src="http://cdn.hitfix.com/photos/5585417/cc_collage_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/awards-campaign/25-panels-we-want-to-see-at-comic-con-2014-star-wars-lost-avengers-age-of-ultron" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/awards-campaign/25-panels-we-want-to-see-at-comic-con-2014-star-wars-lost-avengers-age-of-ultron', 'http://www.hitfix.com/awards-campaign/25-panels-we-want-to-see-at-comic-con-2014-star-wars-lost-avengers-age-of-ultron')">25 panels we want to see at Comic-Con 2014: 'Interstellar,' 'Lost,' 'Star Wars'</a>				         			</li>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-star-kerry-bishe-on-not-being-a-wet-blanket-wife" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-star-kerry-bishe-on-not-being-a-wet-blanket-wife', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-star-kerry-bishe-on-not-being-a-wet-blanket-wife')"><img alt="Haltandcatchfire_gallery_kerrybishe_1200_top_story" src="http://cdn.hitfix.com/photos/5585374/haltandcatchfire_gallery_kerrybishe_1200_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-star-kerry-bishe-on-not-being-a-wet-blanket-wife" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-star-kerry-bishe-on-not-being-a-wet-blanket-wife', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-star-kerry-bishe-on-not-being-a-wet-blanket-wife')">Interview: 'Halt and Catch Fire' star Kerry Bishé on not being a wet blanket wife</a>				         			</li>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/news/best-and-worst-of-fault-in-our-stars-shailene-woodley-ansel-elgort-laura-dern" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/best-and-worst-of-fault-in-our-stars-shailene-woodley-ansel-elgort-laura-dern', 'http://www.hitfix.com/news/best-and-worst-of-fault-in-our-stars-shailene-woodley-ansel-elgort-laura-dern')"><img alt="Anselelgortshailenewoodleyamsterdamfaultinourstars_top_story" src="http://cdn.hitfix.com/photos/5584191/AnselElgortShaileneWoodleyAmsterdamFaultinOurStars_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/news/best-and-worst-of-fault-in-our-stars-shailene-woodley-ansel-elgort-laura-dern" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/best-and-worst-of-fault-in-our-stars-shailene-woodley-ansel-elgort-laura-dern', 'http://www.hitfix.com/news/best-and-worst-of-fault-in-our-stars-shailene-woodley-ansel-elgort-laura-dern')">Best and Worst of 'Fault in Our Stars'</a>				         			</li>
-				      			</ul>
-								<div class="clearleft"></div>
-				     		</div>
-				       		<div class="item ">
-				        		<ul>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/news/marvels-ant-man-selects-comedy-director-peyton-reed-to-replace-edgar-wright" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/marvels-ant-man-selects-comedy-director-peyton-reed-to-replace-edgar-wright', 'http://www.hitfix.com/news/marvels-ant-man-selects-comedy-director-peyton-reed-to-replace-edgar-wright')"><img alt="Antman_top_story" src="http://cdn.hitfix.com/photos/5584172/antman_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/news/marvels-ant-man-selects-comedy-director-peyton-reed-to-replace-edgar-wright" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/marvels-ant-man-selects-comedy-director-peyton-reed-to-replace-edgar-wright', 'http://www.hitfix.com/news/marvels-ant-man-selects-comedy-director-peyton-reed-to-replace-edgar-wright')">Marvel's 'Ant-Man' selects comedy director Peyton Reed to replace Edgar Wright</a>				         			</li>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/news/box-office-fault-in-our-stars-rules-friday-on-its-way-to-huge-50-million-opening" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/box-office-fault-in-our-stars-rules-friday-on-its-way-to-huge-50-million-opening', 'http://www.hitfix.com/news/box-office-fault-in-our-stars-rules-friday-on-its-way-to-huge-50-million-opening')"><img alt="Fault_top_story" src="http://cdn.hitfix.com/photos/5584153/fault_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/news/box-office-fault-in-our-stars-rules-friday-on-its-way-to-huge-50-million-opening" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/box-office-fault-in-our-stars-rules-friday-on-its-way-to-huge-50-million-opening', 'http://www.hitfix.com/news/box-office-fault-in-our-stars-rules-friday-on-its-way-to-huge-50-million-opening')">Box office: 'Fault in Our Stars' rules Friday on its way to huge $50 million opening</a>				         			</li>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/news/miranda-lamberts-platinum-set-for-a-shiny-start-on-album-chart" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/miranda-lamberts-platinum-set-for-a-shiny-start-on-album-chart', 'http://www.hitfix.com/news/miranda-lamberts-platinum-set-for-a-shiny-start-on-album-chart')"><img alt="Miranda-lambert_top_story" src="http://cdn.hitfix.com/photos/5583945/Miranda-Lambert_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/news/miranda-lamberts-platinum-set-for-a-shiny-start-on-album-chart" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/miranda-lamberts-platinum-set-for-a-shiny-start-on-album-chart', 'http://www.hitfix.com/news/miranda-lamberts-platinum-set-for-a-shiny-start-on-album-chart')">Miranda Lambert's "Platinum" set for a shiny start on album chart</a>				         			</li>
-				      			</ul>
-								<div class="clearleft"></div>
-				     		</div>
-				       		<div class="item ">
-				        		<ul>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/news/tracy-morgan-in-critical-condition-after-nj-car-crash" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/tracy-morgan-in-critical-condition-after-nj-car-crash', 'http://www.hitfix.com/news/tracy-morgan-in-critical-condition-after-nj-car-crash')"><img alt="Tracymorgan2014_top_story" src="http://cdn.hitfix.com/photos/5584096/TracyMorgan2014_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/news/tracy-morgan-in-critical-condition-after-nj-car-crash" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/tracy-morgan-in-critical-condition-after-nj-car-crash', 'http://www.hitfix.com/news/tracy-morgan-in-critical-condition-after-nj-car-crash')">Updated: Tracy Morgan in critical condition after NJ car crash</a>				         			</li>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-showrunner-jonathan-lisco-on-the-tv-tech-zeitgeist-and-more" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-showrunner-jonathan-lisco-on-the-tv-tech-zeitgeist-and-more', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-showrunner-jonathan-lisco-on-the-tv-tech-zeitgeist-and-more')"><img alt="Haltandcatchfire_pilot_scootandlee_1200_top_story" src="http://cdn.hitfix.com/photos/5583984/haltandcatchfire_pilot_scootandlee_1200_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-showrunner-jonathan-lisco-on-the-tv-tech-zeitgeist-and-more" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-showrunner-jonathan-lisco-on-the-tv-tech-zeitgeist-and-more', 'http://www.hitfix.com/the-fien-print/interview-halt-and-catch-fire-showrunner-jonathan-lisco-on-the-tv-tech-zeitgeist-and-more')">Interview: 'Halt and Catch Fire' showrunner Jonathan Lisco on the TV tech zeitgeist and more</a>				         			</li>
-				          			<li> 
-						              	<div class="imagewrap">
-						              		<a href="http://www.hitfix.com/news/10-stories-you-might-have-missed-mark-ruffalo-promises-more-hulk-in-avengers-2" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/10-stories-you-might-have-missed-mark-ruffalo-promises-more-hulk-in-avengers-2', 'http://www.hitfix.com/news/10-stories-you-might-have-missed-mark-ruffalo-promises-more-hulk-in-avengers-2')"><img alt="Hulk2_top_story" src="http://cdn.hitfix.com/photos/5583815/hulk2_top_story.jpg"></a>						              	</div>
-				            			<a href="http://www.hitfix.com/news/10-stories-you-might-have-missed-mark-ruffalo-promises-more-hulk-in-avengers-2" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/news/10-stories-you-might-have-missed-mark-ruffalo-promises-more-hulk-in-avengers-2', 'http://www.hitfix.com/news/10-stories-you-might-have-missed-mark-ruffalo-promises-more-hulk-in-avengers-2')">10 Stories You Might Have Missed: Mark Ruffalo promises more Hulk in 'Avengers 2'</a>				         			</li>
-				      			</ul>
-								<div class="clearleft"></div>
-				     		</div>
-					</div>
-					<div class="rewards-nav">
-						<a class="left carousel-control prev" href="#carousel-rewards-bar" data-slide="prev">
-					   		<span class="fa fa-caret-left"></span>
-					  	</a>
-					  	<a class="right carousel-control next" href="#carousel-rewards-bar" data-slide="next">
-					   		<span class="fa fa-caret-right"></span>
-					  	</a>
-					</div>
-				</div><!-- carousel-rewards-bar -->
-			</div>
-			<div class="links">
-				<a target="_self" href="/my/rewards">Earn Points</a>
-				<a target="_self" href="/my/store">Redeem</a>
-				<a target="_self" href="/my/leaderboard">Leaderboard</a>
-				<a target="_self" href="">About HitFix Rewards</a>
-			</div>
-		<div class="clearboth"></div>
-	</div>
+<div class="columnB myaccount">
+<div id="aboutcontainer">
+<div id="content_left">
+<p>This Privacy Policy applies to you (“You” and “Your”) and all other users of the HitFix website and Network and the HitFix Programs and HitFix Service. Capitalized terms used herein, which are otherwise undefined, shall have the meanings attributed thereto in the HitFix Terms and Conditions of Use. This privacy policy (the “Privacy Policy”) was last updated December 17, 2008.</p>
+<h3>Personal Information</h3>
+<ul class="orangedot">
+<li>Account-Related Activity. Certain activities on HitFix—like uploading Content or posting comments—require You to have a HitFix account. HitFix asks for some personal information when You create a HitFix account, including Your email address and a password, which is used to protect Your account from unauthorized acces.</li>
+<li>Usage Information. We may record information about Your usage, as well as information You display or click on in HitFix. If You are logged in, we may associate that information with Your account.</li>
+<li>Content Uploaded to the Site. Any personal information or Content that You voluntarily disclose online becomes publicly available and can be collected and used by others.</li>
+</ul>
+<h3>Uses</h3>
+<ul class="orangedot">
+<li>If You submit personally identifiable information to HitFix through the Site, HitFix uses Your personal information to operate, maintain, and provide to You the features and functionality of the Site, as well as provide special personalized features to You.</li>
+<li>Your account name is displayed to other Users when You upload Video Content or send messages through HitFix and other Site users can contact You through messages and comments. Any Content that You submit to HitFix may be redistributed through the Internet and other media channels, and may be viewed by the general public.</li>
+<li>HitFix does not use Your email address or other personally identifiable information to send commercial or marketing messages without Your consent, except as part of a specific program or feature for which You will have the ability to opt-in or opt-out. HitFix may, however, use Your email address without further consent for non-marketing or administrative purposes (such as notifying You of major Site changes or for customer service purposes). </li>
+<li>HitFix uses both Your personally identifiable information and certain non-personally-identifiable information to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing Your user preferences and trends. </li>
+<li>HitFix uses third-party advertising companies to serve ads when You visit the Site. These companies may use information (not including Your name, address email address or telephone number) about Your visits to HitFix and other Web sites in order to provide advertisements about goods and services of interest to You. If You would like more information about this practice and to know Your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/">click here</a>.</li>
+<li>HitFix uses cookies, other tools and information to: (a) store information so that You will not have to re-enter it during Your visit or the next time You visit HitFix; (b) provide custom, personalized content and information; (c) monitor the effectiveness of its marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track Your entries, submissions, and status in promotions, sweepstakes, and contests. </li>
+</ul>
+<h3>Your Control</h3>
+<ul class="orangedot">
+<li>You may decline to submit personally identifiable information through the Site, in which case You can still view videos and explore the Site, but HitFix may not be able to provide certain services to You.</li>
+<li>You may update or correct Your personal profile information and email preferences at any time by visiting Your account profile page.</li>
+</ul>
 </div>
-<style>
-
-</style>			</div>
-
-		</div>
-		        <div id="div-gpt-ad-1324477320362-31">
-				<script type="text/javascript">
-	        googletag.cmd.push(function(){
-	          googletag.display('div-gpt-ad-1324477320362-31');
-	        });
-				</script>
-			</div>
-
-  		<!-- Bunchball -->
-<!-- it's ok for this to be loaded always, because it doesn't affect reporting in production -->
-<script src="http://assets.bunchball.net/scripts/nitro/current/nitro.js" type="text/javascript"></script>
-<script>
-  var connectionParams={};
-
-    connectionParams.apiKey = "2a0dc0d938864c46af9b2834bceba57c";
-    connectionParams.server = "http://cs017.nitro.bunchball.net/nitro/json/";
-
-  //connectionParams.timeStamp = <timeStamp>;
-  //connectionParams.signature = <signature>;
-
-  connectionParams.userId = (function(){
-    if (jQuery.cookie('user_login')) {
-      return jQuery.cookie('user_login');
-    } else {
-      return "anonymous"; // Should we randomize userId? (So that we can track anon users individually.)
-    }
-  })();
-
-  window.HitFix || (window.HitFix = {});
-  window.HitFix.nitro = new Nitro(connectionParams);
-  window.HitFix.nitroLogAction = function(actions, metadata){
-    // console.log('hitfix nitro log action');
-    var addMetadata = metadata ? ',' + metadata : '';
-    window.HitFix.nitro.callAPI('method=user.logAction&tags=' + actions + '&metadata=page:/privacy-policy' + addMetadata, 'HitFix.nitroActionCallback');
-  };
-  window.HitFix.nitroActionCallback = function(data, token){
-    // console.log('hitfix nitro log action callback');
-    if(window.HitFix.User.current().bunchball_enabled){
-      // console.log('showing pending notifications');
-      window.HitFix.nitro.showPendingNotifications();
-    }
-  };
-
-  window.HitFix.nitro.refreshNML();
-
-  // log every page visit
-  window.HitFix.nitroLogAction('page_visit');
-</script>
-
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-
-
-
-
-
-</script>
-
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-
-  // inline query-string parsing
-  // http://stackoverflow.com/a/3855394/241367
-  var qs = (function(a) {
-    if (a == "") return {};
-    var b = {};
-    for (var i = 0; i < a.length; ++i) {
-      var p=a[i].split('=');
-      if (p.length != 2) continue;
-      b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
-    }
-    return b;
-  })(window.location.search.substr(1).split('&'));
-
-  // "HF Campaign" tracking
-  if(qs.hf_source && qs.hf_medium && qs.hf_campaign) {
-    var scope = 2; // default to **session level** ga custom var scope
-    if(qs.hf_medium == 'MobileApp'){
-      scope = 1; // set to **visitor level** (fully persistent)
-    }
-    
-    _gaq.push(['_setCustomVar',
-      2,                   // This custom var must be set to a slot number.  Required parameter.
-      'HF Campaign',       // The top-level name for your online content categories.  Required parameter.
-      qs.hf_source + ',' + qs.hf_medium + ',' + qs.hf_campaign,
-      scope                    // Sets the scope. Optional parameter.
-    ]);
-  }
-</script>
-
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-
-  _gaq.push(['_setAccount', 'UA-5790167-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-<script type="text/javascript">
-function recordOutboundLink(link, category, action) {
-  try {
-    var pageTracker=_gat._getTracker("UA-5790167-1");
-    pageTracker._trackEvent(category, action);
-    //setTimeout("window.open('" +link.href+ "','toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1')",100); 
-	setTimeout('document.location= "' + link.href + '"', 100);
-	}catch(err){}
-}
-
-function recordEvent(category, action, label) {
-  try {
-    var pageTracker=_gat._getTracker("UA-5790167-1");
-    pageTracker._trackEvent(category, action, label);
-	}catch(err){}
-}
-</script>
-
+</div>
+</div>
+</div>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="footer">
+<div class="links">
+<a href="/about/about-us" onclick="recordEvent('Footer', 'About Us', 'About Us')">About Us</a>
+<a href="/in-the-news" onclick="recordEvent('Footer', 'In the News', 'Company News')">In the News</a>
+<a href="/advertising/about" onclick="recordEvent('Footer', 'Advertise', 'Advertise')">Advertise</a>
+<a href="/about/partner" onclick="recordEvent('Footer', 'Partner', 'Become a Partner')">Partner</a>
+<a href="/careers" onclick="recordEvent('Footer', 'Careers', 'Careers')">Careers</a>
+<a href="/about/contact-us" onclick="recordEvent('Footer', 'Contact Us', 'Contact Us')">Contact</a>
+<a href="/terms-of-service" onclick="recordEvent('Footer', 'Terms of Use', 'Terms of Use')">Terms of Use</a>
+<a href="/privacy-policy" onclick="recordEvent('Footer', 'Privacy Policy', 'Privacy Policy')">Privacy Policy</a>
+</div>
+<div class="copyright">© 2016 HitFix, Inc. All rights reserved.</div>
+<div class="follow-us">
+<a href="http://www.hitfix.com/rss" onclick="recordEvent('Footer', 'Follow HitFix', 'RSS')" target="_blank"><i class="fa fa-rss"></i></a>
+</div>
+<!-- handled by Mezzobit -->
+<!-- <img src="https://amch.questionmarket.com/adsc/d1169363/2/1174070/ad_radar.php?ord=[randnum]" height="1" width="1" border="0" /> -->
+<div class="clearleft"></div>
+</div>
+<div id="rewards-bar" class="rewards-user">
+<a class="top-tab" href="javascript:void(0)" style="display:none;">
+<span class="value">HitFix Rewards:
+<nitro:request method="user.getPointsBalance">
+<nitro:response data="Balance.points" criteria="BALANCE"></nitro:response>
+</nitro:request> points
+</span>
+</a>
+<div id="rewards-bar-content-wrap">
+<div class="rewards-bar-content">
+<h3>Earn points by reading these stories now</h3>
+<div class="read-now">
+<div id="carousel-rewards-bar" class="carousel slide featured-stories" data-ride="carousel" data-interval="false">
+<div id="read-now-content" class="carousel-inner">
+<div class="item active">
+<ul>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/the-dartboard/watch-tom-cruise-and-cobie-smulders-be-badasses-together-in-this-jack-reacher-never-go-back-pseudo-trailer" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/watch-tom-cruise-and-cobie-smulders-be-badasses-together-in-this-jack-reacher-never-go-back-pseudo-trailer', 'http://www.hitfix.com/the-dartboard/watch-tom-cruise-and-cobie-smulders-be-badasses-together-in-this-jack-reacher-never-go-back-pseudo-trailer')"><img alt="Jack-reach-never-go-back-tom-cruise-cobie-smulders_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6263162/jack-reach-never-go-back-tom-cruise-cobie-smulders_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/the-dartboard/watch-tom-cruise-and-cobie-smulders-be-badasses-together-in-this-jack-reacher-never-go-back-pseudo-trailer" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/watch-tom-cruise-and-cobie-smulders-be-badasses-together-in-this-jack-reacher-never-go-back-pseudo-trailer', 'http://www.hitfix.com/the-dartboard/watch-tom-cruise-and-cobie-smulders-be-badasses-together-in-this-jack-reacher-never-go-back-pseudo-trailer')">Ethan Hunt meets Maria Hill in this ‘Jack Reacher: Never Go Back’ pseudo-trailer</a>	</li>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/the-dartboard/heres-whats-working-about-warcraft" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/heres-whats-working-about-warcraft', 'http://www.hitfix.com/the-dartboard/heres-whats-working-about-warcraft')"><img alt="Warcraft-2_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6263042/warcraft-2_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/the-dartboard/heres-whats-working-about-warcraft" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/heres-whats-working-about-warcraft', 'http://www.hitfix.com/the-dartboard/heres-whats-working-about-warcraft')">Here's what's working about 'Warcraft'</a>	</li>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/the-dartboard/david-duchovny-owns-up-to-one-major-flaw-in-x-files-season-10" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/david-duchovny-owns-up-to-one-major-flaw-in-x-files-season-10', 'http://www.hitfix.com/the-dartboard/david-duchovny-owns-up-to-one-major-flaw-in-x-files-season-10')"><img alt="X-files-10x03_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6263022/x-files-10x03_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/the-dartboard/david-duchovny-owns-up-to-one-major-flaw-in-x-files-season-10" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/david-duchovny-owns-up-to-one-major-flaw-in-x-files-season-10', 'http://www.hitfix.com/the-dartboard/david-duchovny-owns-up-to-one-major-flaw-in-x-files-season-10')">David Duchovny owns up to one major flaw in 'X-Files' season 10</a>	</li>
+</ul>
+<div class="clearleft"></div>
+</div>
+<div class="item ">
+<ul>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/harpy/taika-waititi-on-which-civil-war-team-thor-would-have-sided-with" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/harpy/taika-waititi-on-which-civil-war-team-thor-would-have-sided-with', 'http://www.hitfix.com/harpy/taika-waititi-on-which-civil-war-team-thor-would-have-sided-with')"><img alt="Captainamericathor_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6263082/CaptainAmericaThor_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/harpy/taika-waititi-on-which-civil-war-team-thor-would-have-sided-with" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/harpy/taika-waititi-on-which-civil-war-team-thor-would-have-sided-with', 'http://www.hitfix.com/harpy/taika-waititi-on-which-civil-war-team-thor-would-have-sided-with')">Taika Waititi on Which Civil War Team Thor Would Have Sided With</a>	</li>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/harpy/bryan-fullers-american-gods-picks-up-sleepy-hollow-12-monkeys-actors" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/harpy/bryan-fullers-american-gods-picks-up-sleepy-hollow-12-monkeys-actors', 'http://www.hitfix.com/harpy/bryan-fullers-american-gods-picks-up-sleepy-hollow-12-monkeys-actors')"><img alt="Orlandojones_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262922/OrlandoJones_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/harpy/bryan-fullers-american-gods-picks-up-sleepy-hollow-12-monkeys-actors" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/harpy/bryan-fullers-american-gods-picks-up-sleepy-hollow-12-monkeys-actors', 'http://www.hitfix.com/harpy/bryan-fullers-american-gods-picks-up-sleepy-hollow-12-monkeys-actors')">Bryan Fuller's 'American Gods' Picks Up Sleepy Hollow, 12 Monkeys Actors</a>	</li>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/whats-alan-watching/sepinwall-fienberg-a-reunion-conversation" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/whats-alan-watching/sepinwall-fienberg-a-reunion-conversation', 'http://www.hitfix.com/whats-alan-watching/sepinwall-fienberg-a-reunion-conversation')"><img alt="A9ee7d01bb3fb2d4d20f535610e7e26b4c3c6667c40c351f8b81475c824802ff_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262822/a9ee7d01bb3fb2d4d20f535610e7e26b4c3c6667c40c351f8b81475c824802ff_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/whats-alan-watching/sepinwall-fienberg-a-reunion-conversation" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/whats-alan-watching/sepinwall-fienberg-a-reunion-conversation', 'http://www.hitfix.com/whats-alan-watching/sepinwall-fienberg-a-reunion-conversation')">Sepinwall &amp; Fienberg: A reunion conversation</a>	</li>
+</ul>
+<div class="clearleft"></div>
+</div>
+<div class="item ">
+<ul>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/harpy/old-gods-and-the-new-help-me-i-think-im-shipping-sansa-and-jon-on-game-of-thrones" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/harpy/old-gods-and-the-new-help-me-i-think-im-shipping-sansa-and-jon-on-game-of-thrones', 'http://www.hitfix.com/harpy/old-gods-and-the-new-help-me-i-think-im-shipping-sansa-and-jon-on-game-of-thrones')"><img alt="Game-of-thrones--sansajon-ship_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262902/Game-of-Thrones--SansaJon-Ship_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/harpy/old-gods-and-the-new-help-me-i-think-im-shipping-sansa-and-jon-on-game-of-thrones" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/harpy/old-gods-and-the-new-help-me-i-think-im-shipping-sansa-and-jon-on-game-of-thrones', 'http://www.hitfix.com/harpy/old-gods-and-the-new-help-me-i-think-im-shipping-sansa-and-jon-on-game-of-thrones')">Old gods and the new help me, I think I'm shipping Sansa and Jon on 'Game of Thrones'</a>	</li>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/the-dartboard/everything-you-need-to-know-about-thor-ragnarok" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/everything-you-need-to-know-about-thor-ragnarok', 'http://www.hitfix.com/the-dartboard/everything-you-need-to-know-about-thor-ragnarok')"><img alt="Thor_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262882/Thor_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/the-dartboard/everything-you-need-to-know-about-thor-ragnarok" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/everything-you-need-to-know-about-thor-ragnarok', 'http://www.hitfix.com/the-dartboard/everything-you-need-to-know-about-thor-ragnarok')">Everything you need to know about 'Thor: Ragnarok' </a>	</li>
+<li>
+<div class="imagewrap">
+<a href="http://www.hitfix.com/the-dartboard/report-abc-threatened-to-cut-real-oneals-short-after-noah-galvins-controversial-interview" class="image" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/report-abc-threatened-to-cut-real-oneals-short-after-noah-galvins-controversial-interview', 'http://www.hitfix.com/the-dartboard/report-abc-threatened-to-cut-real-oneals-short-after-noah-galvins-controversial-interview')"><img alt="Realoneals_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6262782/RealONeals_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);" pagespeed_lazy_replaced_functions="1"></a>	</div>
+<a href="http://www.hitfix.com/the-dartboard/report-abc-threatened-to-cut-real-oneals-short-after-noah-galvins-controversial-interview" class="title" onclick="recordEvent('Rewards Bar Story', 'http://www.hitfix.com/the-dartboard/report-abc-threatened-to-cut-real-oneals-short-after-noah-galvins-controversial-interview', 'http://www.hitfix.com/the-dartboard/report-abc-threatened-to-cut-real-oneals-short-after-noah-galvins-controversial-interview')">Report: Noah Galvin's Bryan Singer comments caused a 'grade-A s**t show' at ABC</a>	</li>
+</ul>
+<div class="clearleft"></div>
+</div>
+</div>
+<div class="rewards-nav">
+<a class="left carousel-control prev" href="#carousel-rewards-bar" data-slide="prev">
+<span class="fa fa-caret-left"></span>
+</a>
+<a class="right carousel-control next" href="#carousel-rewards-bar" data-slide="next">
+<span class="fa fa-caret-right"></span>
+</a>
+</div>
+</div><!-- carousel-rewards-bar -->
+</div>
+<div class="links">
+<a target="_self" href="/my/rewards">Earn Points</a>
+<a target="_self" href="/my/store">Redeem</a>
+<a target="_self" href="/my/leaderboard">Leaderboard</a>
+<a target="_self" href="">About HitFix Rewards</a>
+</div>
+<div class="clearboth"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="div-gpt-ad-1324477320362-31" style="height: 0px;">
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">googletag.cmd.push(function(){googletag.display('div-gpt-ad-1324477320362-31');});</script>
+</div>
+<!-- TEST NAME: More Section Test 1 -->
+<script src="//www.google-analytics.com/cx/api.js?experiment=GM9Q1qSSRUamXxo1ZB-wBw"></script>
+<script>var pageVariations=[function(){if(console){console.log('mobile engagement: variation 0');}},function(){if(console){console.log('mobile engagement: variation 1');}
+$('#more-sections .video-indicator').hide();}];var chosenVariation=cxApi.chooseVariation();$(document).ready(pageVariations[chosenVariation]);</script>
+<!-- track hf_exp query params and send some events to GA -->
+<script>$(function(){var qs=(function(a){if(a=="")return{};var b={};for(var i=0;i<a.length;++i){var p=a[i].split('=');if(p.length!=2)continue;b[p[0]]=decodeURIComponent(p[1].replace(/\+/g," "));}
+return b;})(window.location.search.substr(1).split('&'));var title=qs.title;if(qs.hf_exp=='social_title_on'){recordEvent('Social Title Experiment','http://www.hitfix.com/privacy-policy','Clicked Social Title: '+title);}else if(qs.hf_exp=='social_title_off'){recordEvent('Social Title Experiment','http://www.hitfix.com/privacy-policy','Clicked Regular Title: '+title);}});</script>
+<!-- BEGIN trueAnthem tracking code -->
+<script>(function(w,d){var s1=d.getElementsByTagName('script')[0],s=d.createElement('script'),cid='558';s.src='//tru.am/scripts/ta-pagesocial-sdk.js';if(s.addEventListener){s.addEventListener('load',function(){w.TRUE_ANTHEM.configure(cid);},false);}else{s.onreadystatechange=function(){if(s.readyState in{loaded:1,complete:1}){s.onreadystatechange=null;w.TRUE_ANTHEM.configure(cid);}};}
+s1.parentNode.insertBefore(s,s1);}(window,document));</script>
+<!-- END trueAnthem tracking code -->
+<script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-5790167-1','auto');ga('require','linkid');</script>
+<script type="text/javascript">channel_name="Other"
+author="HitFix Staff"</script>
+<script type="text/javascript">var qs=(function(a){if(a=="")return{};var b={};for(var i=0;i<a.length;++i){var p=a[i].split('=');if(p.length!=2)continue;b[p[0]]=decodeURIComponent(p[1].replace(/\+/g," "));}
+return b;})(window.location.search.substr(1).split('&'));if(qs.hf_source&&qs.hf_medium&&qs.hf_campaign){ga('set','dimension3',qs.hf_source+','+qs.hf_medium+','+qs.hf_campaign);}</script>
+<script></script>
+<script>ga('send','pageview');</script>
+<script type="text/javascript">function recordOutboundLink(link,category,action){try{ga('send','event',category,action,link.href,{'hitCallback':function(){document.location=link.href;}});}catch(err){}}
+function recordEvent(category,action,label){try{ga('send','event',category,action,label);}catch(err){}}</script>
 <!-- Start Quantcast tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-  var elem = document.createElement('script');
-  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-  elem.async = true;
-  elem.type = "text/javascript";
-  var scpt = document.getElementsByTagName('script')[0];
-  scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-  qacct:"p-efrmNKn5uz_bo"
-});
-</script>
-
+<script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt);})();_qevents.push({qacct:"p-efrmNKn5uz_bo"});</script>
 <noscript>
 <div style="display:none;">
 <img src="http://pixel.quantserve.com/pixel/p-efrmNKn5uz_bo.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-
 <!-- Begin comScore Tag -->
-<script>
-    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:7381687,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
+<script>document.write(unescape("%3Cscript src='"+(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+<script>COMSCORE.beacon({c1:2,c2:7381687,c3:"",c4:"",c5:"",c6:"",c15:""});</script>
 <noscript>
 <div id="comscore-beacon">
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7381687&c3=&c4=&c5=&c6=&c15=&cj=1" />
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=7381687&c3=&c4=&c5=&c6=&c15=&cj=1"/>
 </div>
 </noscript>
 <!-- End comScore Tag -->
+<!-- Jinni tracking script -->
+<script src="https://bartltd.hs.llnwd.net/m1/adovida/hitfix.js" type="text/javascript" async=""></script>
+<!-- Begin Mezzobit Tag Manager -->
+<script async="1">(function(){__mtm=['52f6ab8de88a0d11106e26ab','d36wtdrdo22bqa.cloudfront.net/mngr','tdi.mezzobit.com'];var s=document.createElement('script');s.async=1;s.src='//'+__mtm[1]+'/mtm.js';var e=document.getElementsByTagName('script')[0];(e.parentNode||document.body).insertBefore(s,e);})();</script>
+<!-- End Mezzobit Tag Manager -->
 
 
-
-<!-- End comScore Tag -->
-          <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-          <script>
-            window.fbAsyncInit = function() {
-              FB.init({
-                appId  : '99382424614',
-                status : true, // check login status
-                cookie : true, // enable cookies to allow the server to access the session
-                
-                oauth : true,
-                xfbml  : true  // parse XFBML
-              });
-              
-            };
-
-            (function() {
-              var e = document.createElement('script'); e.async = true;
-              e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-              document.getElementById('fb-root').appendChild(e);
-            }());
-          </script>
-
-
-
-
-</div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</div></body></html>
