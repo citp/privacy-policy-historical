@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225064836id_/http%3A//www.thestar.com.my/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616065324id_/http%3A//www.thestar.com.my/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Star Online
 
-Star Media Group Berhad (ROC 10894D) (Formerly known as Star Publications (Malaysia) Berhad) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 ("Act"), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, The Star Online.
+Star Media Group Berhad (ROC 10894D) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 ("Act"), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, The Star Online.
 
 * ## Information collected by The Star Online
 
@@ -42,7 +42,7 @@ Although the precise details of the Personal Data collected will vary according 
 
 We may disclose your Personal Data to other subsidiaries within our group. These subsidiaries will treat your Personal Data as confidential, in accordance with this Privacy Policy and with all applicable Data Protection legislation and will process such Personal Data only for the Purposes and within the terms set out herein.
 
-We are responsible for the Personal Data under our control, including Personal Data disclosed by us to a Vendor (often referred to as the data processor). "Vendor" in this Privacy Policy means in relation to Personal Data any person or entity (other than an employee of Star Publications (M) Berhad) who processes the Personal Data on behalf of us. "Processing", in relation to Personal Data means for example obtaining, recording, holding or using the Personal Data in carrying out any operation or set of operations on the Personal Data including organisation, compilation, retrieval disclosure of the Personal Data for verification Purposes.
+We are responsible for the Personal Data under our control, including Personal Data disclosed by us to a Vendor (often referred to as the data processor). "Vendor" in this Privacy Policy means in relation to Personal Data any person or entity (other than an employee of Star Media Group Berhad (ROC 10894D)) who processes the Personal Data on behalf of us. "Processing", in relation to Personal Data means for example obtaining, recording, holding or using the Personal Data in carrying out any operation or set of operations on the Personal Data including organisation, compilation, retrieval disclosure of the Personal Data for verification Purposes.
 
 We take every measure to provide a comparable level of protection for Personal Data should the information be Processed by a Vendor.
 
@@ -123,20 +123,6 @@ This site contains links to other sites. The Star Online is not responsible for 
 * ## Right of Access to Personal Data
 
 Under the Act, you have the right of access to your Personal Data held by us on payment of a prescribed fee and to request correction of the Personal Data that is inaccurate, incomplete, misleading or not up-to-date. If you have any questions regarding this Privacy Policy or if you wish to request access to your Personal Data or if you wish to correct your Personal Data or if you wish to withdraw your consent to us for the processing of your Personal Data for the purposes as set out in (2) above or for the transfer of your Personal Data to the parties stated in (3) above, you may send your request in writing to the following address:
-
-Star Media Group Berhad (ROC 10894D)
-
-(Formerly known as Star Publications (Malaysia) Berhad)
-
-Menara Star
-
-15 Jalan 16/11
-
-46350 Petaling Jaya
-
-MALAYSIA
-
-[customerservice@thestar.com.my](mailto:customerservice@thestar.com.my)
 
 * ## Changes to Privacy Policy
 
