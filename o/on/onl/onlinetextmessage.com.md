@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the onlinetextmessage.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924022700id_/http%3A//www.onlinetextmessage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetextmessage.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171725id_/http%3A//www.onlinetextmessage.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For OnlineTextMessage.com
 
 ## OnlineTextMessage.com Privacy Policy
 
-  
 This website is only for individuals over the age of 18. By using this site or submitting information to us you agree to our Terms of Service and our use and sharing of this information. We collect information when you use our service. This information includes but is not limited to email, phone number, and IP address. 
 
 **Publisher Partners**  
@@ -21,7 +20,8 @@ You can adjust your own personal cookie settings in your browser. Please access 
 
 By using this site you release OnlineTextMessage.com and all its affiliates from any and all liability resulting from the use of this site. 
 
-We reserve the right to provide any information to law enforcement agencies or the courts when/if presented with a subpoena. We also reserve the right to bring legal action against those in violation of the TOS or those using the site to violate the rights or others or cause harm to others.
+We reserve the right to provide any information to law enforcement agencies or the courts when/if presented with a subpoena. We also reserve the right to bring legal action against those in violation of the TOS or those using the site to violate the rights or others or cause harm to others.  
+
 
 Enter your email/phone number to block its use on this site. 
 
@@ -43,10 +43,4 @@ Enter your email/phone number to block its use on this site.
   7. "The Site" is for entertainment purposes only and should not be used for anything considered critical. "The Site" is not responsible or liable for any and all lost text messages or any actions or inactions which may result from lost messages. 
   8. "The Site" reserves the right to cooperate with any legal or law enforcement agency with presentation of proper subpoena for the violation of any item in these TOS. 
 
-| 
 
-| 
-
-OnlineTextMessage.com - 268,061,583 Messages Sent  
-  
----
