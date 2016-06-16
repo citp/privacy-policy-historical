@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217114833id_/http%3A//www.100percentdesign.co.uk/Content/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053738id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# 100% Design 2015 - Privacy Policy
+# Privacy Policy - 100% Design 2016 - The UK's biggest trade event for architects and designers
 
 This site is owned and operated by Media 10 Limited. Your privacy on the Internet is of the utmost importance to us. At Media 10, we want to make your experience online satisfying and saf
 
@@ -92,8 +92,9 @@ By using this site, you consent to the collection and use of this information by
 
 Data Protection Registration Number: Z1245054
 
-**WEBSITE**  
-[ASP](http://www.asp.com/privacy) provide and host this website for Media 10. [ASP](http://www.asp.com/privacy) is registered with the UK Data Commissioner as Data Controllers and hold all the data within the UK.
+**WEBSITE**
+
+[ASP](http://www.asp.com/ "http://www.asp.com") provide and host this website for Media 10. [ASP](http://www.asp.com/ "http://www.asp.com") is registered with the UK Data Commissioner as Data Controllers and hold all the data within the UK.
 
 **Contact Details**
 
@@ -104,4 +105,4 @@ Loughton
 IG10 4LF  
 Tel: 020 3225 5200
 
-Email: [privacy@media-ten.com](mailto:privacy@media-ten.com)
+Email: [privacy@media-ten.com](mailto:privacy@media-ten.com?Subject=100%25%20Design%20Enquiry "privacy@media-ten.com")
