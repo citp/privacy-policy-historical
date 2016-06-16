@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225235522id_/https%3A//vend-o.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052632id_/https%3A//vend-o.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Vendo Store
+# Privacy policyVendoStore
 
 #### Privacy Statement
 
