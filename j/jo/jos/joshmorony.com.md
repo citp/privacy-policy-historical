@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215102033id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210815id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HTML5 Mobile Tutorials | Ionic, Phaser, Sencha Touch & PhoneGap
 
@@ -26,11 +26,14 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+We work with third parties to collect user data for conversion tracking and serving ads targeted to users’ interests. You can opt out of interest-based advertising through methods that Twitter may specify from time to time [here](https://support.twitter.com/articles/20170405).  
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**
+
+[](https://joshmorony.com/building-mobile-apps-with-ionic-2/?utm_source=homepage&utm_medium=banner&utm_campaign=incontent)
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
