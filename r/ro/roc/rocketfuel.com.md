@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225231427id_/http%3A//www.rocketfuel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060439id_/http%3A//rocketfuel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Rocketfuel
 
@@ -90,7 +90,16 @@ Rocket Fuel and x+1 are members of the Network Advertising Initiative, and you m
 
 Rocket Fuel and x+1 also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving personalized advertisements by DAA members via the DAA website at http://www.aboutads.info/choices/.
 
-An opt-out in any of the tools listed in Section III will have the same effect, and you do not need to make the selection more than once. If you opt out, you’ll still see ads from us online, they just won’t be tailored to your interests. Note that we’ll still maintain a cookie on your computer to track that you’ve opted out. That opt-out cookie (like all cookies) is associated with a particular computer and browser. So, for example, if you get a new computer, install a new browser, or clear your cookies, you’ll need to opt-out again. If you change your mind, click **[here](http://rocketfuel.com/#)** **to opt back in**.
+Rocket Fuel is integrated with the DAA’s AppChoices, which allows consumers to download and manage their privacy preferences in the mobile environment. You may download DAA’s AppChoices mobile app on your iOS or Android device in order to exercise choice regarding the collection of application activity for interest-based advertising.  Links to those applications are below:
+
+  * [DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8)
+  * [DAA AppChoices Android](https://play.google.com/store/apps/details?id=com.DAA.appchoices&hl=en)
+  * [Ad Privacy Manager iOS](https://support.apple.com/en-us/HT202074)
+  * [Ad Privacy Manager Android](https://support.google.com/ads/answer/2662922?hl=en)
+
+
+
+An opt-out in any of the tools listed in Section III will have the same effect, and you do not need to make the selection more than once. If you opt out, you’ll still see ads from us online, they just won’t be tailored to your interests. Note that we’ll still maintain a cookie on your computer to track that you’ve opted out. That opt-out cookie (like all cookies) is associated with a particular computer and browser. So, for example, if you get a new computer, install a new browser, or clear your cookies, you’ll need to opt-out again. If you change your mind, click **[here](http://rocketfuel.com/#) to opt back in.**
 
 **Security**  
 We use physical, administrative, and technical safeguards that are designed to protect the personal information that we collect and maintain. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.
