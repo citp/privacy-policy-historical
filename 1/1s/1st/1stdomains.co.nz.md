@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stdomains.co.nz privacy policy that was archived on 2015-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150113234652id_/https%3A//www.1stdomains.co.nz/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stdomains.co.nz privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616233950id_/http%3A//1stdomains.nz/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 1st Domains
 
@@ -13,7 +13,7 @@ The statement applies to user interaction with the registrar of the website, 1st
 Certain financial information is recorded for our accounting systems, however your credit card information provided at our web site is discarded after use and is not stored.
 
 **What happens and what we do with the information that you have provided**  
-The information that you provide is stored on our databases. We use the information for statistical purposes such as to gauge customer's interests and to assist in providing customer support and services. We may from time to time contact you with new service offerings. You may remove yourself from these mailings at anytime by emailing us at: service@1stdomains.co.nz
+The information that you provide is stored on our databases. We use the information for statistical purposes such as to gauge customer's interests and to assist in providing customer support and services. We may from time to time contact you with new service offerings. You may remove yourself from these mailings at anytime by emailing us at: service@1stdomains.nz
 
 **Security of Information**  
 The information that you provide and which we receive is stored on our systems that are designed to prevent the loss, misuse, unauthorised access, disclosure, alteration or destruction of that information. We encrypt certain sensitive information such as usernames and passwords to ensure maximum protection. 
@@ -22,7 +22,7 @@ The information that you provide and which we receive is stored on our systems t
 As an .nz authorised registrar we maintain a WhoIs database that is accessible by any user. The information that is available includes the registered domain name and the name, email address, telephone numbers and postal address of the point of contact. The amount of information that is disclosed on the WhoIs database may change from time to time and we review that regularly.
 
 **Your Rights to Access and Change Information**  
-You have the right and we encourage you to correct or change information in our records such as address and contact information. You may do this by accessing the 1st Domains website at: http://www.1stdomains.co.nz. You can make changes at any time and as often as you need to maintain currency and accuracy of the information. Alternatively, you can email us at: service@1stdomains.co.nz
+You have the right and we encourage you to correct or change information in our records such as address and contact information. You may do this by accessing the 1st Domains website at: http://1stdomains.nz. You can make changes at any time and as often as you need to maintain currency and accuracy of the information. Alternatively, you can email us at: service@1stdomains.nz
 
 **Sharing Information**  
 To comply with our contractual obligations, we provide your domain name and the IP numbers to the appropriate registry (the organisation which assumes responsibility for domain name allocation). We provide this information to ensure that the domain name operates as a functional access on the Internet.   
