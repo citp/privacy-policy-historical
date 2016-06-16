@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231084312id_/http%3A//www.thebump.com/a/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052459id_/http%3A//www.thebump.com/a/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Privacy Rights
 
@@ -39,10 +39,14 @@ As is the case with many Web sites, our servers automatically collect your IP ad
 
 In addition, we may deploy various tracking technologies on the Site to collect additional information about your Site visits. These technologies may enable us to, for example, assign a unique number to you, to collect information about your usage of our Site, administer the Site and our systems, and to relate such Site usage information to other information about you, including your Personal Information. **By using our Site, you agree to our use of these tracking technologies.** Examples of the types of tracking technologies deployed on the Site include the following:
 
-• “Cookies” are small data files stored on your computer or device at the request of a Web site. In addition to the general purposes listed above, cookies may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as other Site usage information and Personal Information. Cookies may also be used to enhance your experience on the Site (for example, by storing your username) and/or to collect general usage and aggregated statistical information. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, limit your use of the Site or its features. To learn more about the use of cookies, including how to manage or delete them, click [here](http://www.networkadvertising.org/consumer-education/education-resources).  
-• “Local shared objects,” such as “Flash cookies,” may be stored on your computer or device using a media player or other software installed on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).   
-• A “pixel tag” (also known as a “clear GIF” or “web beacon”) is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages. • “HTML5” (the language some Web sites, such as mobile Web sites, are coded in) may be used to store information on your computer or device about your Site usage activities and to help determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users.    
-The above tracking technologies may be deployed by us or our service providers on our behalf. For example, we currently use, and/or in the future may use certain third party vendors to collect Site usage information and track traffic to, from and around the Sites. To find out more about how your Site usage information is collected through the practices of and how you may be able to opt out of certain information by, such third parties, click [here](http://www.thebump.com/join/email-preferences).
+• “Cookies” are small data files stored on your computer or device at the request of a Web site. In addition to the general purposes listed above, cookies may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as other Site usage information and Personal Information. Cookies may also be used to enhance your experience on the Site (for example, by storing your username) and/or to collect general usage and aggregated statistical information. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, limit your use of the Site or its features. To learn more about the use of cookies, including how to manage or delete them, click [here](http://www.networkadvertising.org/consumer-education/education-resources).
+
+• “Local shared objects,” such as “Flash cookies,” may be stored on your computer or device using a media player or other software installed on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+
+• A “pixel tag” (also known as a “clear GIF” or “web beacon”) is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages.
+
+• “HTML5” (the language some Web sites, such as mobile Web sites, are coded in) may be used to store information on your computer or device about your Site usage activities and to help determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users.    
+The above tracking technologies may be deployed by us or our service providers on our behalf. For example, we currently use, and/or in the future may use certain third party vendors to collect Site usage information and track traffic to, from and around the Sites.
 
 We may use third-party web beacons to help analyze where visitors go and what they do while visiting our website. **By using our Site, you agree to our use of these tracking technologies.**  
 
@@ -54,23 +58,42 @@ Our third party partners, such as ad networks, web analytics companies and socia
 **How we may use your information**  
 We (or one of our service providers, on our behalf) may use your information (including your Personal Information and Site usage information) for a variety of purposes, such as the following:
 
-• processing and fulfilling your transactions • administering the Site, the Site’s features and services, and your account with us  
-• enabling users to use the Site and the Site’s features and services  
-• responding to your requests, questions, and concerns  
-• developing new features and offerings on the Site  
-• sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the Opt In and Opt Out section above.  
-• protecting our rights and property   
-• customizing the Site to your interests and history with us  
-• tailoring ads displayed to you on our Site and elsewhere to your interests and history with us  
-• other purposes described at the time you choose to provide Personal Information to us 
+• processing and fulfilling your transactions
+
+• administering the Site, the Site’s features and services, and your account with us
+
+• enabling users to use the Site and the Site’s features and services
+
+• responding to your requests, questions, and concerns
+
+• developing new features and offerings on the Site
+
+• sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the Opt In and Opt Out section above.
+
+• protecting our rights and property
+
+• customizing the Site to your interests and history with us
+
+• tailoring ads displayed to you on our Site and elsewhere to your interests and history with us
+
+• other purposes described at the time you choose to provide Personal Information to us
 
 To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and Site usage information, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information. We or our service providers may also use your information to assess the level of interest in, and use of, the Site, our e-mails and our other messaging campaigns both on an individual basis and in the aggregate.
 
 **How we may share Personal Information and Site usage information with others?**  
 We may share the information we collect on the Site with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such as sharing with our subsidiaries, affiliates and third-party providers who need your information in order to provide services to us or on our behalf, and sharing what you voluntarily post to public areas on the Site with other Site users, we may share your information:
 
-• with our affiliates and other third parties (e.g., pre-screened organizations that have offerings we think may interest you, registry program participants, retailers, and other third party partners) for their marketing and other purposes, unless you tell us not to by following the instructions in the **Opt-in and Opt-out** section above  
-• including limited personal information, such as your first name, first initial of your last name, and other related data, with our affiliates and other third parties (e.g., pre-screened organizations that have offerings we think may interest you, registry program participants, retailers, and other third party partners) for their marketing and other purposes; • with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you tell us not to by following the instructions in the **Opt-in and Opt-out** section above  • when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law • in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets, or wind-down of a business. In addition, we may share non-personally identifiable Site usage information (including aggregate data) with others, for their use, in a form that does not include your name or contact information.
+• with our affiliates and other third parties (e.g., pre-screened organizations that have offerings we think may interest you, registry program participants, retailers, and other third party partners) for their marketing and other purposes, unless you tell us not to by following the instructions in the **Opt-in and Opt-out** section above
+
+• including limited personal information, such as your first name, first initial of your last name, and other related data, with our affiliates and other third parties (e.g., pre-screened organizations that have offerings we think may interest you, registry program participants, retailers, and other third party partners) for their marketing and other purposes
+
+• with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you tell us not to by following the instructions in the **Opt-in and Opt-out** section above
+
+• when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law
+
+• in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets, or wind-down of a business.
+
+In addition, we may share non-personally identifiable Site usage information (including aggregate data) with others, for their use, in a form that does not include your name or contact information.
 
 If you participate in certain public or community areas of our Site, such as a chat room, message board, blog, or by creating a public profile), the information you voluntarily disclose will be accessible to other Site members and, in some cases, the general public. You should be cautious about the information you submit to these areas (e.g., make up a username that does not disclose your personal identity). On some of our Sites, you may choose to limit the viewability of your online registries. If you do not elect this option, then anyone visiting the Site will be able to search for and view your registry by using your first and/or last name and other information regarding your event.
 
@@ -118,4 +141,4 @@ We may change this Policy from time to time. When we do, we will let you know by
 **Contact Us**  
 If you have any questions or comments regarding our privacy practices, you should first contact The Bump Member Services by emailing [help@thebump.com](mailto:help@thebump.com) and writing "Privacy Policy" in the subject line. You may also write to The Bump Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (877) 843-5668.
 
-**Last Updated:  December 29, 2015**
+**Last Updated:  February 9, 2016**
