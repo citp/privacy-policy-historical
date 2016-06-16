@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051257id_/http%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051937id_/http%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - People Per Hour (PPH) - PeoplePerHour.com
 
@@ -12,13 +12,13 @@ For the purpose of the Data Protection Act 1998 (the **Act** ), the data control
 
 The term "Personal Data" refers to personally identifiable information about you, such as your name, job description, health related data, birthday, e-mail address or mailing address.
 
-* If you provide Information to us by filling in forms on our website. This may include information provided at the time of registering, subscribing to any of our services, posting material, sending messages and posting in WorkSteam, making or receiving payments through your PPH Wallet or requesting further services.
+* If you provide Information to us by filling in forms on our website. This may include information provided at the time of registering, subscribing to any of our services, posting material, sending messages and posting in WorkSteam, making or receiving payments through your PPH Account or requesting further services.
 * Details of transactions you carry out via our website.
 * We may ask you for information when you report an issue or concern or we have or receive a complaint or query about you (whether or not a formal Dispute is raised).
 * We may keep a record of correspondence between you and us.
 * We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 * Details of the messages you send and receive using WorkStream including without limitation, when you sent or received a message and the contents of that message. Messages are not private and are not confidential
-* We sometimes supplement the information that you provide with information received from third parties. For instance, credit reference agencies, search information providers, PayPal etc.
+* We sometimes supplement the information that you provide with information received from third parties. For instance, credit reference agencies, search information providers, PayPal, other companies (subject to their privacy policies and applicable law), and from other accounts we have reason to believe you control (whether in part or in whole).
 
 ## Use of Personal Data
 
@@ -30,7 +30,8 @@ We will use your Personal Data to fulfil your requests and we will ask only for 
   * We may use your Personal Data for marketing purposes and market research; and
   * We may use your Personal Data internally to provide you with the services offered by us via this website, to administer this website and to help us improve our services.
   * To allow you to participate in interactive features of our service when you choose to do so;
-  * We may use your Personal Data to notify you about changes to our services, terms and conditions, policies or website
+  * We may use your Personal Data to notify you about changes to our services, [terms and conditions](https://web.archive.org/static/terms), policies or website
+  * We may use your Personal Data to manage risk, or to investigate, detect, prevent, and/or remediate fraud, suspected fraud or other potentially illegal or prohibited activities.
 
 
 
@@ -59,8 +60,9 @@ We do not share, sell or distribute your Personal Data with unrelated third part
   * In order to provide you with the information or products which you have requested, Personal Data may occasionally be transferred or shared with other companies within our group of companies or third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf.
   * We will keep your contact details on our database and may, from time to time, e-mail or post you information to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive e-mails or post from us for these purposes, please let us know by following the "unsubscribe" procedure set out above.
   * Where you have consented, we may also share your Personal Data with other companies within our group of companies or disclose your Personal Data to other businesses who may contact you about their products or services that may interest you.
-  * We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, dissolution or similar event. We will inform you of any such transfer or disclosure as required by law.
-  * In order to apply or enforce our terms and conditions, our policies or any other agreements between you and us.
+  * We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, dissolution or similar event. We will inform you of any such transfer or disclosure as required by law. 
+  * Specifically, you consent to and direct that we may disclose necessary information to: [the police and other law enforcement agencies; security forces; competent governmental, intergovernmental or supranational bodies; competent agencies (other than tax related authorities), departments, regulatory authorities, self-regulatory authorities or] organisations and other third parties, including but not limited to our group companies, with whom we have reason to believe it is appropriate for us to cooperate in investigations of fraud or other illegal activity or potential illegal activity, or to conduct investigations of violations of our [terms and conditions](https://web.archive.org/static/terms) and other policies referred to in it (including without limitation, your funding source or credit or debit card provider). We and other organisations, may also share, access and use (including from other countries) necessary information (including, without limitation the information recorded by fraud prevention agencies) to help us and them assess and to manage risk (including, without limitation, to prevent fraud, money laundering and terrorist financing). This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * In order to apply or enforce our [terms and conditions](https://web.archive.org/static/terms), our policies or any other agreements between you and us.
   * We may pass on your Personal Data to other users of this website if they confirm to us in writing that they intend to issue proceedings or take legal action against you.
   * Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.
   * Where you have chosen to connect your PPH account to your Facebook account we may share, disclose, and transfer Personal Data to Facebook. This permission will be requested when you connect your accounts. If you have given this permission you may then disable this function at anytime by changing your Facebook or PPH account settings.
