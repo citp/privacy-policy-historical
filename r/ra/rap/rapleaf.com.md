@@ -1,92 +1,51 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026195534id_/http%3A//intelligence.towerdata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182124id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
 
-# Email Intelligence From TowerData - Privacy Policy
+# Privacy Policy
 
-## A rising bar
+The TowerData Privacy Policy is our way of ensuring the safety and accuracy of Internet users' personal information, whether gathered on this site, by our clients, or by our partners.
 
-##### Ensuring your privacy is protected is our number one priority at TowerData.
+We are in the email business and understand the importance of personal information security. We only work with companies that protect the personal information they collect from their existing or potential customers.  We respect your privacy and are committed to safeguarding your privacy.  This “Privacy Policy” discloses how we gather and use personal information.
 
-* * *
+For TowerData's Safe Harbor Privacy Policy, [click here](https://web.archive.org/eu_privacy_policy "click here").
 
-  * We never sell, rent, or lease email addresses to third parties. Ever.
-  * We don't collect or work with sensitive data on children, or any person's health or medical conditions, sexual preferences, financial account information, ethnicity, or religious beliefs.
+## **How We Gather Information**
 
+TowerData is in the business of intermediating between consumers who wish to receive highly valuable promotions, goods and services and companies who offer those promotions, goods and services.
 
+When you visit our website, [www.towerdata.com](https://web.archive.org/ "www.towerdata.com"), we collect the information you voluntarily give us when you register on our site. Additionally, like most websites, our servers use log files to list requests made by users to the server.  We use log files to store information such as internet protocol addresses, browser type, internet service provider, visited pages, date and time used and we also gather broad demographic information. This information is not linked to any personally identifiable information.   
 
-  * We don’t track online behavior like your web browsing history or search history.
-  * We follow industry best practices and work closely with industry associations to continually raise the bar on consumer privacy.
-  * We observe deep anonymization practices.
+We also receive data through aggregating personal information received from websites and compilers of websites (data providers) where people have opted-in to receive third party offers through web sites or email. The data we receive is maintained in our database and may be shared with clients who use our data enhancement services and with our marketing partners. We mandate that any company that provides us with data for enhancement services certify that the data represents permissible data that they are allowed to share with us and that we are allowed to use. If we become aware that the data is not in compliance, we will terminate our relationship with that company immediately and destroy that data.
 
+## **The Use of Cookies**
 
+A "cookie" is a small data file transferred by a Web site to your browsing device's hard drive that allows TowerData and/or its partners to identify and match your device with corresponding information in our database. TowerData and our partners send and read cookies when you visit our sites or open our emails, and they are used to track individual responses or views of advertisements or websites. This information may be used to help predict what advertisements may be of interest to consumers and enable the receipt of customized advertisements or content. This may result, for example, in ads for TowerData appearing on websites that you visit. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us or our partners, such as your email address, which we may share with any third party, solely in hashed, non-readable form.  
 
-### Scope:
+You can express your choices for display advertising, through the following platforms: Digital Advertising Alliance [opt-out platform](http://www.aboutads.info/choices/) or the Network Advertising Initiative [opt-out platform](http://www.networkadvertising.org/choices/).      ** **
 
-TowerData helps our business clients develop better relationships with their customers. We believe in the power of transparency, choice, and control when it comes to personal information online. We view privacy and security as fundamental design requirements in our technologies and services and core to our business practices and operations.
+We and/or our partners may also use cookie's for creating personalized advertising emails. These cookies are used to identify the visitors of our advertisers' websites and send personalized emails based on the visitors' browsing experience. For example, if you browse on of our advertisers' websites, you may receive a personalized email promoting the advertiser or the product you were viewing. You will only receive such personalized email if you have consented to receive email from one of our partners (an advertiser, a publisher or an email list provider). To opt out of these emails, [click here](https://dashboard.towerdata.com/optout).
 
-This Privacy Statement applies to data collected through all websites and domains maintained by TowerData including TowerData.com, www.TowerData.com, and www.TowerData.com (collectively, "the Websites"). The purpose of this privacy policy is to help you understand what information we collect and how we use it. We also provide an option for you to [opt-out](https://dashboard.towerdata.com/optout/) of the TowerData database if you choose to.
+## **The Use of Web Beacons**
 
-### Definitions:
+A "web beacons" is is programming code used to display an image on a web page and can also transfer an individual’s user identification to a database and associate the individual with previously acquired information about the individual. Web beacons enable TowerData to track certain Web sites you visit or emails or advertisements you view online. Web beacons help determine products or services in which you may be interested and help track online behaviors for marketing purposes.
 
-TowerData collects personal information from a variety of sources including the TowerData Website and stores it in the "TowerData Database."
+## **How We Use Information**
 
-TowerData data is structured around individual email addresses and contain personally and non-personally identifiable information.
+We keep all our customers, and our clients' customers, contact information private and, except as described in this Privacy Policy, never sell, rent or lease this information to others. Except as described in this Privacy Policy, we never share the information collected at our websites with any third parties. We only use personal information in a way that is fair and consistent with the reason the recipient supplied us with that information.
 
-### Collection And Use Of Personal Information
+TowerData utilizes industry leading data security solutions and has implemented policies and procedures to ensure the physical and electronic security of data stored by TowerData.
 
-When you visit the TowerData Websites, we may collect information from you. The information we gather falls into two categories: 1) personal information you voluntarily supply when you log into our Websites (such as first name and email) and 2) tracking information collected as you navigate through our sites.
+We may disclose personal information received directly from you or from our data providers to third party contractors. This disclosure is made for the sole purpose of the third party contractors performing work for TowerData, such as sending our newsletter. These third party contractors are bound by confidentiality restrictions that, amongst other restrictions, only allow use of the information while those contractors are performing services for TowerData. We may also disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
 
-Personal Information: We may collect personally identifiable information you provide to us directly. TowerData permits any visitor to the TowerData Websites to access and edit the information we have stored in your TowerData report. We use the information you provide us to update your TowerData report and distribute it as part of the TowerData Database. At the TowerData Blog (www.TowerData.com) you can submit your email address to receive blog updates and you can leave comments. Information from these two sources is not used by TowerData for any other purpose than proper administration of the blog and the email list and not disclosed to third parties.
+## **You Can Control the Use of Your Information**
 
-Tracking Information: We may use industry standard technologies to track your use of our website and tailor your web experience.
+At any time, you have the right to choose not to receive offers from any of our clients. You can do this by clicking the unsubscribe link in the email you received.
 
-Cookies are small unique strings of letters and numbers that are stored on your computer to make it easier for you to use our site and for us to improve site functionality and improve security. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them).
+As mentioned above, TowerData maintains a database used for the services we provide to our clients. When asked by clients to validate or enhance data that our clients have, we access that database. If you do not wish your data to be used as part of that database or if you do not want to receive any future emails from TowerData, you may [opt-out here](https://dashboard.towerdata.com/optout). ** **
 
-When you visit our TowerData.com web site (or other web sites that we operate), or open an email you have received from us, we or one of our ad partners may place or recognize a unique cookie on your browser.  These cookies enable us to send you ads about our services, customize our services and gather analytics about our web traffic.  Additionally, emails we send to you may contain a bit of code known as a "web beacon."  This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website, allowing us to collect analytics about our traffic, customize our services, and send you ads about our services.  Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
+## **General**  
 
-We may also use cookies to automatically collect information about your computer when you visit the TowerData Websites and automatically store it in log files. This may include the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address.
+From time to time, our website may contain links to other sites. TowerData is not responsible for the terms of use or privacy practices and policies of those other sites.  Use of those sites, even if accessed through a link on TowerData’s site, is governed by the other sites own terms and policies. 
 
-Your browser may permit you to reject or delete cookies, but this may prevent proper working of our website. If you want to opt-out of receiving some advertising cookies, you may be able to do so by visiting <http://www.networkadvertising.org/optout_nonppii.asp>.
+TowerData is a business-to-business site and is not directed to children under the age of 13. Similarly, TowerData's services are not directed to nor intended for anyone under the age of 13. Whether for itself or for its clients, TowerData will not knowingly collect or maintain personally identifiable information from or about anyone under 13. 
 
-Information Disclosure: Except as described in this statement, we will not disclose to third parties any personal information you provide to us through this web site.
-
-### Disclosure of Personal Information
-
-Business Clients: TowerData data may be disclosed in whole or in part to TowerData's business clients as part of our primary product offerings.
-
-Business Partners: Except where limited by contract, TowerData data may be disclosed in whole or in part to other information providers or content owners to augment ours or their data offerings, as part of data exchanges or to provide services to their users.
-
-Internet Partners: TowerData has an Open API that allows web sites to integrate searches of the TowerData database into their web offering. We contractually limit sharing in these instances to only the information required to provide the service.
-
-Vendors and other Service Providers: We may use third party service providers for network, security, email, and hosting services for our system. Suppliers and service providers are required by contract to keep confidential the information received on behalf of TowerData and may not use it for any purpose other than to carry out the services they are performing for TowerData.
-
-Disclosure Required By Law: Under certain circumstances personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. In the event that we are legally compelled to disclose your personal information to a third party, we will notify you with the contact information we have in your report in advance unless doing so would violate the law or a court order.
-
-### Disclosure of Non-personal information:
-
-We may share with third parties non-personally identifiable information about you, which could include demographics, interests, and other online habits from your TowerData Report.
-
-### Additional Terms and Conditions:
-
-TowerData enters into contracts with business clients for use of its products and services. These contracts may further govern the use of personal information collected and maintained by TowerData.
-
-### Other Important Information:
-
-Children's Privacy: We do not knowingly collect personal information about children. Our systems are not designed for use by children under the age of 13. In the event that TowerData learns it has collected personal information belonging to someone under age of 13, TowerData will delete that information from our database. If you believe that we have any information from or about a child under 13, please contact us at [privacy@towerdata.com](mailto:privacy@TowerData.com).
-
-Security: TowerData takes the security of our data seriously. We take reasonable precaution to protect against unauthorized access to our systems and to prevent data from being disclosed to unauthorized parties.
-
-Business Transitions: In the event that TowerData goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information and non-personal information will likely be among the assets transferred. You will be notified in advance via email where possible, and we will post a prominent notice on our website. We will require an acquiring company or merger agreement to uphold the material terms of this privacy statement, including honoring requests for account deletion.
-
-### Changes to this Statement:
-
-This Privacy Statement was last updated April 10, 2013. The prior policy is located here. A notice will be posted as part of this Privacy Statement and on our login pages for 30 days whenever this Privacy Statement is changed in a material way, highlighting both the old and new content in a way that makes the changes easy to understand.
-
-### Contact Information
-
-If you have questions about this statement, please e-mail our privacy administrator: [privacy@towerdata.com](mailto:privacy@TowerData.com) or contact us:
-
-Privacy Administrator  
-TowerData  
-1603 Orrington Ave.  
-6th Floor - Suite 600  
-Evanston, IL 60201
+We may make changes to this Privacy Policy from time to time for any reason. Use of the information we collect is governed by the Privacy Policy in effect at the time the information is used or collected. If we make changes in the way we use personal information, we will update this Privacy Policy to reflect that change. Use of the site after the Privacy Policy has been updated confirms agreement with the updated terms.       
