@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624073950id_/https%3A//www.sba.gov/about-sba/sba-performance/open-government/about-sbagov-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616112725id_/https%3A//www.sba.gov/about-sba/sba-performance/open-government/about-sbagov-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The U.S. Small Business Administration | SBA.gov
 
@@ -84,4 +84,4 @@ SBA.gov contains links to websites of other public and private organizations. Wh
 
 Please visit SBA.gov’s [Linking Policy](https://www.sba.gov/about-sba/sba-performance/open-government/about-sbagov-website/linking-policy) for more information about the linking policies of SBA.gov.
 
-This policy was updated on May 24, 2011.
+This policy was reviewed by the Office of the Chief Privacy Officer on April 20, 2016.
