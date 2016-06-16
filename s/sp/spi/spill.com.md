@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165850id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617004032id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hollywood.com
 
-Updated December 2014
+**Updated January  2016**
 
 Hollywood.com, LLC (“Hollywood.com” or “we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Hollywood.com strives to respect and protect the privacy of individuals that visit our web sites. This notice constitutes our Privacy Policy.
 
@@ -16,17 +16,17 @@ This Privacy Policy applies to the all of the following web sites and services o
 
 To most effectively offer our services, we may collect information from you in the following ways:
 
-– Information You Provide to Register for Services. If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
+– **Information You Provide to Register for Services.** If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
 
-– Server Log Information. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computer’s operating system, and any Hollywood.com cookies associated with your browser.
+– **Server Log Information.** Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computer’s operating system, and any Hollywood.com cookies associated with your browser.
 
-– Communications From You to Us. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
+– **Communications From You to Us.** If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
 
-– Cookies. When you browse to www.hollywood.com, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
+– **Cookies.** When you browse to www.hollywood.com, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
 
-– Social Networking. We allow you to sign into social networking and other online profiles through Hollywood.com so you can interact with our services using those accounts. Hollywood.com can only recognize you through these accounts if you specifically agree to share that information by signing in.
+– **Social Networking.** We allow you to sign into social networking and other online profiles through Hollywood.com so you can interact with our services using those accounts. Hollywood.com can only recognize you through these accounts if you specifically agree to share that information by signing in.
 
-– Demographic Data. We may access information about you from third-party sources and platforms (such as databases, online marketing firms, and ad targeting firms) including your age range, gender, location, and interests.
+– **Demographic Data.** We may access information about you from third-party sources and platforms (such as databases, online marketing firms, and ad targeting firms) including your age range, gender, location, and interests.
 
 The only purposes for which Hollywood.com processes personal information are those stated in this Privacy Policy, including the above, and the following purposes:
 
@@ -119,6 +119,14 @@ This Privacy Policy may change from time to time. Please check here for the most
 Users of our site may opt out of their information being (1) disclosed to third parties; or (2) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user. To opt-out, please submit your request to [membership@hollywood.com](mailto:membership@hollywood.com)
 
 Sensitive personal information will never be disclosed to third parties or used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user, unless you expressly grant permission for the use.
+
+**Third Party Collection of Information**
+
+Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing  [www.aboutads.info/choices](http://cp.mcafee.com/d/1jWVIe4zqb3XRT4QnXCXCQrLn7fECzBxASztWUVZd6WpJ6XRNPW9EVoodETuKevjoKCrx8H854WDDBz5qEsKr9Rffb6aRgVsS-MOMZXz_nVxxBZeX7nKnjpd7b7fcfFEIKth5dqWqJTQul3PWApmU6CQjrVKVKVI05F2HsZgFQEeRONeIHvgSpJkf1hWR3ZVsSOzteVI5zihEw2Qp6tImd40mGvaNr1spd40Bm1DUQBm1Ew1ctIlB0yrohdAj1DbRxT)  and following the opt-out instructions contained there.
+
+**Nielsen Digital Measurement and Your Right to Opt-Out**
+
+This site includes Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices to opt out with respect to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
 **Safe Harbor Framework Notice**
 
