@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the helloinsiders.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622053316id_/http%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloinsiders.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617014826id_/http%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloWorld
 
 ## HelloWorld, Inc. Privacy Policy
 
-###### Last Revised: January 17, 2013
+###### Last Revised: January 20, 2016
 
-HelloWorld, Inc. (formerly known as ePrize) is a company that helps other businesses operate sweepstakes, contests, promotions, and loyalty programs ("Promotions"). In addition, HelloWorld occasionally runs its own Promotions. Such Promotions gather personally identifiable information from individuals who choose to enter a particular Promotion and anonymous data regarding the Promotion itself. HelloWorld takes its privacy obligations, both to its clients and to people who enter its Promotions, very seriously. HelloWorld complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. HelloWorld has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view HelloWorld’s certification, please visit <http://www.export.gov/safeharbor/>.
+HelloWorld, Inc. (formerly known as ePrize) is a company that helps other businesses operate sweepstakes, contests, promotions, and loyalty programs ("Promotions"). In addition, HelloWorld occasionally runs its own Promotions. Such Promotions gather personally identifiable information from individuals who choose to enter a particular Promotion and anonymous data regarding the Promotion itself. HelloWorld takes its privacy obligations, both to its clients and to people who enter its Promotions, very seriously.
 
 This policy outlines our treatment of personally identifiable information we collect on behalf of our clients and for our own use. There are three types of Promotions in which HelloWorld is involved and may collect such information: 1) client Promotions; 2) HelloWorld "opt-in" to client Promotions; and 3) HelloWorld Promotions.
 
@@ -21,8 +21,9 @@ From time to time, HelloWorld and a client will agree to allow HelloWorld to off
   1. Send an email to [remove@helloworld.com](mailto:remove@helloworld.com). Please make sure to include the name of the Promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
   2. Mail the details of your request to:  
 Privacy Policy c/o HelloWorld, Inc.  
-One ePrize Drive  
-Pleasant Ridge, MI 48069
+3000 Town Center  
+Suite 2100  
+Southfield, MI 48075
 
 
 
@@ -33,8 +34,9 @@ HelloWorld also runs Promotions on its own behalf. Such Promotions are to genera
   1. Send an email to [remove@helloworld.com](mailto:remove@helloworld.com). Please make sure to include the name of the Promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
   2. Mail the details of your request to:  
 Privacy Policy c/o HelloWorld, Inc.  
-One ePrize Drive  
-Pleasant Ridge, MI 48069
+3000 Town Center  
+Suite 2100  
+Southfield, MI 48075
 
 
 
@@ -78,7 +80,9 @@ If you wish to contact HelloWorld to correct, amend, or delete information (if H
 
   1. Mail to:  
 Privacy Policy c/o HelloWorld, Inc.  
-One ePrize Drive Pleasant Ridge, MI 48069; or
+3000 Town Center  
+Suite 2100  
+Southfield, MI 48075; or
   2. Email to: [privacy@helloworld.com](mailto:privacy@helloworld.com)
 
 
