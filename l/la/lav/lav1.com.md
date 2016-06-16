@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lav1.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220170955id_/http%3A//www.lav1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lav1.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616132353id_/http%3A//www.lav1.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Los Angeles SEO Company | Since 1995, LaV1 is a top SEO expert company
+# Privacy Policy - SEO expert - Best search engine optimization services
 
 Privacy Policy
 
