@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the istation.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907112906id_/https%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the istation.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616174440id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 	<!-- begin meta -->
@@ -15,8 +15,8 @@
 	<!-- end meta -->
 	<link href="/Content/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <!-- begin css style sheets -->
-    <link href="/Content/css/corpsite.css?v=2" type="text/css" rel="stylesheet" id="main-style">
-    <link href="/Content/css/responsive.css" type="text/css" rel="stylesheet">
+    <link href="/Content/css/corpsite.css?v=4" type="text/css" rel="stylesheet" id="main-style">
+    <link href="/Content/css/responsive.css?v=2" type="text/css" rel="stylesheet">
     <!-- end of style sheets -->
 
     <!-- begin JS -->
@@ -48,6 +48,13 @@
             $(".menu-btn").on("click", function () {
                 $('.nav').toggleClass("expand");
             });
+            var windowOpen = "toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,fullscreen=yes,top=0,left=0,width=" + (screen.width - 50) + ",height=" + (screen.height - 150);
+            $('.newWindow').click(function (event) {
+                var url = $(this).attr("href");
+                var windowName = url;
+                window.open(url, windowName, windowOpen);
+                event.preventDefault();
+            });
         });
     </script>
     <!-- end JS -->
@@ -76,13 +83,13 @@
     	<div class="container clearfix">
             <div class="util_top">
                 <ul class="social-links">
-                    <li class="twitter"><a href="https://twitter.com/Istationed" title="Twitter" target="_blank">Twitter</a></li>
-                    <li class="facebook"><a href="https://www.facebook.com/pages/Istation/1386025848289180" title="Facebook" target="_blank">Facebook</a></li>
+                    <li class="twitter"><a href="https://twitter.com/Istationed" title="Twitter" class="newWindow">Twitter</a></li>
+                    <li class="facebook"><a href="https://www.facebook.com/pages/Istation/1386025848289180" title="Facebook" class="newWindow">Facebook</a></li>
                 </ul>                   
                 <div class="utility">
                     <ul id="login">
-                        <li><a href="http://blog.istation.com" onclick="_gaq.push(['_trackEvent', 'BlogTop', 'clicked']);" target="_blank">Blog</a></li>
-                        <li><a href="http://info.istation.com/contactsales" onclick="_gaq.push(['_trackEvent', 'ContactSales_TopNav', 'clicked']);" target="_blank">Contact Sales</a></li>
+                        <li><a href="http://blog.istation.com" onclick="_gaq.push(['_trackEvent', 'BlogTop', 'clicked']);" class="newWindow">Blog</a></li>
+                        <li><a href="/Contact" onclick="_gaq.push(['_trackEvent', 'ContactUs_TopNav', 'clicked']);">Contact Us</a></li>
                         <li><a href="https://secure.istation.com/TrainingCenter" title="" onclick="_gaq.push(['_trackEvent', 'TrainingCenterTop', 'clicked']);">Help Center</a></li>
 					    <li><a href="https://secure.istation.com/Account/LogOn" onclick="_gaq.push(['_trackEvent', 'CustomerLoginTop', 'clicked']);">Customer Login</a></li>      
                     </ul>
@@ -96,24 +103,22 @@
                 </a>
             </h1>
             <!-- end logo -->
-        
-        <!-- begin navigation wrapper -->
-         <div class="container clearfix" id="compactMenu">
+            <!-- begin navigation wrapper -->
+             <div class="container clearfix" id="compactMenu">
 
-            <a href="/"><img src="/Content/images/logo_bug.png" alt="Istation" class="logo_mobile"></a>
-            <div class="menu-btn">
-	            <div></div>
-	            <span></span>
-	            <span></span>
-	            <span></span>
-                <h4>MENU</h4>
+                <a href="/"><img src="/Content/images/logo_bug.png" alt="Istation" class="logo_mobile"></a>
+                <div class="menu-btn">
+	                <div></div>
+	                <span></span>
+	                <span></span>
+	                <span></span>
+                    <h4>MENU</h4>
 
-            </div>
-			<a href="https://secure.istation.com/Account/LogOn" onclick="_gaq.push(['_trackEvent', 'CustomerLoginTop', 'clicked']);" class="button">Customer Login</a>      
+                </div>
+			    <a href="https://secure.istation.com/Account/LogOn" onclick="_gaq.push(['_trackEvent', 'CustomerLoginTop', 'clicked']);" class="button">Customer Login</a>      
 
-        </div> 
+            </div> 
             <div class="nav-wrap clearfix">
-            
             <!-- begin navigation -->
                 <div class="nav">
                       
@@ -152,17 +157,15 @@
 
 
 
+
     </ul>    
 
                     
                 </div>
-
 			<!-- end navigation -->
             </div>
-             
         <!-- end navigation wrapper -->
         </div>
-        
     </div> 
 
 
@@ -306,6 +309,7 @@ Write to us at:</p>
 
     <nav>
         <ul side_links="" class="menu">
+            <li style="font-size:1.2em;font-weight:bold;" class="current-menu-item"><a href="/Legal">Legal</a></li>
 
 
         <li class="current-menu-item"> 
@@ -322,7 +326,7 @@ Write to us at:</p>
 			        <!-- end of side navigation -->
                     <div class="side_btns">
                         
-        <a href="http://studentprivacypledge.org/" target="_blank"><img src="/Content/images/spp_signatory square.jpg" alt="Student Privacy Pledge" width="225" height="225" border="0" style="margin: 50px 0 30px 0;"></a>
+        <a href="http://studentprivacypledge.org/" class="newWindow"><img src="/Content/images/Student-Privacy-Pledge-Sig_logo.png" alt="Student Privacy Pledge" width="225" height="111" border="0" style="margin: 50px 0 30px 0;"></a>
 	
                         	
 		            </div> 
@@ -378,10 +382,11 @@ Write to us at:</p>
 
 
 
+
                         <li><a href="/Studies">Studies</a></li>
                         <li><a href="/Stories">Stories</a></li>
                         <li><a href="/Solutions">Solutions</a></li>
-                        <li><a href="http://blog.istation.com" onclick="_gaq.push(['_trackEvent', 'BlogFooter', 'clicked']);" target="_blank">Blog</a></li>
+                        <li><a href="http://blog.istation.com" onclick="_gaq.push(['_trackEvent', 'BlogFooter', 'clicked']);" class="newWindow">Blog</a></li>
                         <li><a href="https://secure.istation.com/TrainingCenter" title="" onclick="_gaq.push(['_trackEvent', 'TrainingCenterFooter', 'clicked']);">Help Center</a></li>
                    </ul>
                 </div>
@@ -392,14 +397,16 @@ Write to us at:</p>
                     <ul class="square">
                         <li><a href="/Support/Webinar">Informational Webinars</a></li>
                         <li><a href="/Support/FAQ">Quick Tips and FAQs</a></li>
-                        <li><a href="/Contact">Contact Services and Support</a></li>
+                        <li><a href="/Contact">Contact Us</a></li>
                     </ul>
                     <h3>About Istation:</h3>
                     <ul class="square">
                         <li><a href="/About">About Us</a>
-                        </li><li><a href="/About/AwardWinning">Awards, Endorsements, Reviews, and State Approvals</a></li>
+                        </li><li><a href="/About/StateApprovals">State Approvals</a></li>
+                        <li><a href="/About/AwardWinning">Awards, Endorsements, and Reviews</a></li>
                         <li><a href="/About/ManagementTeam">Management Team</a></li>
                         <li><a href="/About/AuthorsAdvisors">Authors and Advisors</a></li>
+                        <li><a href="/About/PressMentions">Press Mentions</a></li>
                         <li><a href="/About/PressRoom">News/Press Room</a></li>
                         <li><a href="/About/ConferencesPresentations">Conferences and Presentations</a></li>
                         <li><a href="/About/Careers">Careers</a></li>
@@ -442,8 +449,8 @@ Write to us at:</p>
                             Need information about Istation?<br><a href="mailto:info@Istation.com">info@Istation.com</a><br>
                             Customer requiring support?<br><a href="mailto:support@Istation.com">support@Istation.com</a><br>
                         </li>
-                        <li><strong>Online:</strong><br><a href="/Contact#Help">Contact Support</a><br>
-                        <a href="http://info.istation.com/contactsales" onclick="_gaq.push(['_trackEvent', 'ContactSales_Footer', 'clicked']);" target="_blank">Contact Sales</a></li>
+                        <li><strong>Online:</strong><br><a href="/Contact?Help=Support">Contact Support</a><br>
+                        <a href="http://info.istation.com/contactsales" onclick="_gaq.push(['_trackEvent', 'ContactSales_Footer', 'clicked']);" class="newWindow">Contact Sales</a></li>
                     </ul>
                 </div>
             </div>
@@ -455,7 +462,7 @@ Write to us at:</p>
                 <ul class="site_utils">
 					<li class="foot_link last"><a href="https://secure.istation.com" style="font-weight:bold;" onclick="_gaq.push(['_trackEvent', 'CustomerLoginFooter', 'clicked']);">Customer Login</a></li>
                     <li class="foot_link"><a href="/About">About Us</a></li>
-                    <li class="foot_link"><a href="/Contact">Contact</a></li>
+                    <li class="foot_link"><a href="/Contact">Contact Us</a></li>
                     <li class="foot_link"><a href="/About/Careers">Careers</a></li>
 					<li class="foot_link"><a href="/Legal/PrivacyStatement">Privacy</a></li>
 					<li class="foot_link"><a href="/Legal/TermsOfUse">Terms</a></li>
@@ -474,10 +481,10 @@ Write to us at:</p>
             </div>
             <div class="one-half column-last">
                 <ul class="social-links">
-                    <li class="youtube"><a href="https://www.youtube.com/user/IstationEd" title="YouTube" target="_blank">YouTube</a></li>
-                    <li class="linkedin"><a href="http://www.linkedin.com/company/istation" title="LinkedIn" target="_blank">LinkedIn</a></li>
-                    <li class="twitter"><a href="https://twitter.com/Istationed" title="Twitter" target="_blank">Twitter</a></li>
-                    <li class="facebook"><a href="https://www.facebook.com/pages/Istation/1386025848289180" title="Facebook" target="_blank">Facebook</a></li>
+                    <li class="youtube"><a href="https://www.youtube.com/user/IstationEd" title="YouTube" class="newWindow">YouTube</a></li>
+                    <li class="linkedin"><a href="http://www.linkedin.com/company/istation" title="LinkedIn" class="newWindow">LinkedIn</a></li>
+                    <li class="twitter"><a href="https://twitter.com/Istationed" title="Twitter" class="newWindow">Twitter</a></li>
+                    <li class="facebook"><a href="https://www.facebook.com/pages/Istation/1386025848289180" title="Facebook" class="newWindow">Facebook</a></li>
                 </ul>        
             </div>
         </div>
@@ -514,6 +521,11 @@ Write to us at:</p>
      })(document, "script", "hs-analytics", 300000);
 </script>
 <!-- End of Async HubSpot Analytics Code -->
+
+<!-- Google code for ad words -->
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/934649868/?value=0&amp;guid=ON&amp;script=0">
+
+
 
 
 </div>
