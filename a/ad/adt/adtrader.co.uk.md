@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051151id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051755id_/http%3A//www.autotrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
 
@@ -13,7 +13,7 @@
 
 Try our new **Discovery search**
 
-](https://web.archive.org/discovery-search?form=open) This dealer only  All stock[](https://web.archive.org/secure/signin?after-signin-url=/)
+](https://web.archive.org/discovery-search) This dealer only  All stock[](https://web.archive.org/secure/signin?after-signin-url=/)
 
   * Used
   * Nearly new
@@ -33,7 +33,7 @@ Part Ex Quote
   *   * 
 
 
-## Privacy policy
+## Privacy Policy
 
 ### Auto Trader Privacy Policy ("Policy")
 
@@ -153,7 +153,7 @@ If you wish to access your personal details held by Auto Trader, a charge of £1
 
 ### Cookies
 
-The Website uses cookies to distinguish you from other users. This helps Auto Trader to provide you with a good experience when you browse the Website and also allows Auto Trader to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/common/mytrader/cookie_policy.jsp).
+The Website uses cookies to distinguish you from other users. This helps Auto Trader to provide you with a good experience when you browse the Website and also allows Auto Trader to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/cookie-policy).
 
 * * *
 
@@ -169,4 +169,4 @@ Questions, comments and requests regarding this Policy are welcomed and should b
 
 * * *
 
-Copyright © Auto Trader Limited 2015
+Copyright © Auto Trader Limited 2016
