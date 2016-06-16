@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217161108id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616173104id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy @ Interpunk.com - The Ultimate Punk Music Store
 
@@ -87,8 +87,8 @@ This policy was last modified on 8/26/2009
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.interpunk.com  
-7516 Whitepine Rd  
-Richmond, VA 23237  
+203 E German School Rd  
+Richmond, VA 23224  
 United States  
 service@interpunk.com  
 (804) 275-9737  
