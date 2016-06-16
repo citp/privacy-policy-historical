@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004804id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053559id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
 
-# Funny Or Die Privacy Notice
+# Privacy Notice | Funny Or Die
 
 Thank you for visiting [www.funnyordie.com](https://web.archive.org/), a general audience site presented by Funny Or Die, Inc. ("Funny Or Die"). Your privacy is important to us. As such, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site and among our network of affiliated websites and applications, which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Funny Or Die (each a “Site”, collectively the "Funny Or Die Sites"). This Privacy Notice and the Funny Or Die Terms of Use set forth the terms that apply to your access and use of the Funny Or Die Sites. **Please note that any video, image, or other content posted at the direction of users onto the Funny Or Die Sites becomes published content available to the general public, which will be removed solely at our discretion, and which remains subject to our Terms of Use.**
 
