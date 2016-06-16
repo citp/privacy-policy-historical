@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagonow.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231045715id_/http%3A//chicagotribune.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagonow.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617012618id_/http%3A//chicagotribune.com/privacypolicy) for the most accurate reproduction.*
 
 # Tribune Publishing | Privacy Policy and Your Privacy Rights
 
@@ -178,4 +178,4 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 Tribune Publishing Company reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Policy will mean you accept those changes.
 
-Copyright © 2015 Tribune Publishing Company.
+Copyright © 2016 Tribune Publishing Company.
