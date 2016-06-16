@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225123223id_/http%3A//www.coach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125148id_/http%3A//www.coach.com/privacy.html) for the most accurate reproduction.*
 
 # Coach: Security and Privacy
 
@@ -114,7 +114,7 @@ We evaluate our privacy safeguards on an ongoing basis to help minimize risks fr
 
 As stated above, we welcome your queries concerning the protection and correction of your personal data. If you have any questions or concerns about any of Coach’s practices in respect of PII please do contact us at:
 
-Email: [comments@coach.com](mailto:comments@coach.com), or 
+Email: [privacy@coach.com](mailto:privacy@coach.com), or 
 
 Coach Customer Care  
 One Coach Way  
@@ -136,7 +136,7 @@ This Website is not intended for use by children under the age of 13. Coach adhe
 
 The Company reserves the right, at its discretion, to change, modify, add, or remove portions of this privacy policy at any time. You should check this page periodically for changes. Your continued use of the Website following the posting of changes to this privacy policy will be considered your consent to those changes .In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, to the extent we have your email address, we may notify you by email.
 
-Updated: April 30, 2015 
+Updated: March 10, 2016 
 
   * [Store Locator](http://www.coach.com/stores "Store Locator")
 
