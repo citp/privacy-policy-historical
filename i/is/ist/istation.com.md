@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907112906id_/https%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616174440id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
 
 # Istation - Istation
 
