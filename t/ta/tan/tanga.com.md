@@ -1,33 +1,139 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225193643id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060419id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Tanga's Privacy Policy - Tanga
 
-Tanga respects your privacy. What you do behind closed doors, and in front of the open doors of your college dorm room is completely up to you. And we will not tell a soul, unless, of course, you post about it on our forums. What we collect from you allows us to ship product to you, use all of our Daily Fun and Social Entertainment features, make great improvements to our web site and give you a better, interactive experience.
+**Tanga.com Privacy Policy  
+Last Revised: March 25th, 2016 **
 
-Tanga will collect information such as your name, shipping and billing address, credit card number, email address, phone number and other pieces of info, from you so that we can complete your order, give you excellent customer service, allow you to participate in all of the Daily Fun activities, contests, puzzles and games and other forum features and also to send you out newsletters and other correspondence from Tanga.
+Tanga.com LLC and its affiliates (collectively, the “ **Company** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the personal information we collect from users of our websites and applications that link to this Privacy Policy, including tanga.com, bellechic.com, and lolshirts.com (each, a “ **Site** ” and collectively, the “ **Sites** ”), our mobile applications (each, an “ **Application** ”), and our online services (the “ **Services** ”, which term includes Site and Application).
 
-Tanga sets cookies and accesses those cookies on your computer so you can make purchases and interact more dynamically with our web site. We also currently use Google Analytics to gather and combine traffic data so we can see what’s going on with our Web traffic.
+  1. **Questions; Contacting Company; Reporting Violations.** If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
-From time to time, we will need to share information collected by us to help process your orders with shipping companies, credit card processors and occasionally TangaMonkey’s mother (so she knows he’s not hanging out with the wrong crowd again like in High School) or to provide data to help us and our business partners give you the best service available.
-
-We will not, never, jamias, sell your personal information, email address, credit card info to any third party for their benefit.
-
-Google, as a third party vendor, uses cookies to serve ads on your site.
-
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-We partner with SteelHouse to deliver offers that are relevant to your interests based on what you’ve viewed on our site. Steel­House’s cookies only collect Non-Personally Identifiable Informa­tion for online marketing purposes. This information is anonymous and cannot be traced back to any individual. To learn more, please visit [SteelHouse’s Privacy Policy](http://www.steelhouse.com/privacy-policy). To receive less relevant offers and decline to be included in our online offers through SteelHouse, [click here](http://www.steelhouse.com/opt-out). To opt-out of all online marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a mem­ber, [click here](http://www.networkadvertising.org/).
-
-We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication.
-
-From time to time, we may need to make additions or changes to this privacy policy, especially if we get those dang lawyers involved. If we make changes to this privacy policy, we will email you or post a notice on the web site before we make any changes to our plans.
-
-If you have comments or questions about our privacy policy, please send them to Tanga at service@tanga.com, or contact:
-
-Tanga.com, LLC  
-25 S Arizona Place  
-Suite 410  
+Tanga.com LLC  
+Attn: Matt Verbin  
+25 S. Arizona Place, Suite 410  
 Chandler, AZ 85225  
-phone: 435-688-9595
+(435) 688-9595 
+
+  2. **A Note About Children.** We do not intentionally gather personal information from visitors who are under the age of 13. If a child under 13 submits personal information to the Company and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal information from a child under 13, please contact us at: [www.tanga.com/support](http://www.tanga.com/support).
+  3. **Types of Data We Collect.** We collect personal information from users, as described below.
+
+**(a) Information You Provide to Us.**
+
+    * We may collect personal information from you, such as your first and last name, e-mail, phone number, username and password when you create an account to log in to our Services (“ **Account** ”).
+    * We will collect payment information necessary to complete transactions, including your name, credit card information, shipping information and billing information.
+    * We collect your birthdate in order to send you special offers and customized product recommendations on your birthday.
+    * If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+    * If you sign up for our newsletter we will collect your email address.
+    * When you participate in any quiz or survey on our Services, we will collect your answers and add it to your profile.
+    * If you participate in a sweepstakes, contest or other promotion on our Services, we may ask you for your e-mail address and/or home number (to notify you if you win or not). We may also ask for first and last name, and sometimes postal address to verify your identity. In some situations, we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules for each sweepstakes and contest that you enter.
+    * We also collect personal information at other points in our Services that state that personal information is being collected.
+
+**(b) Information Collected via Technology.**
+
+    * _Log Files._ As is true of most websites and mobile applications, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ **ISP** ”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Services, track users’ movements around the Site or Application, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs.
+    * _Mobile Services._ We may also collect non-personal information from your mobile device if you have downloaded any of our Applications. For example, in the event our Applications crash on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our Applications.
+    * _Cookies._ Like many online services, we use cookies to collect information. “ **Cookies** ” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the Site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Services. This type of information is collected to make the Services more useful to you, to tailor the experience with us to meet your special interests and needs, and to deliver advertising tailored to your interests.
+    * _Pixel Tags._ In addition, we use “ **Pixel Tags** ” (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to a user.
+    * _Collection of Data by Advertisers._ We may also use third parties to serve ads on the Services. Certain third parties may automatically collect information about your access to our Services, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, e-mail address or telephone number). They do this by using Cookies, Pixel Tags, or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Services and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, Cookies or Pixel Tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.aboutads.info/choices>.
+    * _Traffic Analytics._ We use a number of third party service providers, such as Google Analytics, to help analyze how users use the Services (“ **Analytics Companies** ”). These Analytics Companies uses Cookies to collect information such as how often users visit the Services, what features they use on our Applications, and what other sites they used prior to coming to the Site. We use the information we get from these Analytics Companies to improve our Site, Applications and Services. These Analytics Companies collect the IP address assigned to you on the date you visit the Services, rather than your name or other personally identifying information. We do not combine the information generated through the use of our Analytics Companies with your personal information. Although these Analytics Companies may place a persistent Cookie on your web browser or mobile device to identify you as a unique user the next time you visit the Services, the Cookie cannot be used by anyone but the Analytics Company that placed the applicable Cookie. This Policy does not apply to and we are not responsible for the Cookies used by these Analytics Companies.
+
+**(c) Information Collected via Social Networking Sites.** The Services may allow you to log in through social networking sites, such as Facebook and Google Plus (each an “SNS”). By logging in to the Services through an SNS, you consent to our collection of information from the SNS. Any information that we collect from an SNS may depend on your then-current SNS privacy settings, so please consult the SNS’ privacy and data practices and edit privacy settings in the SNS if you choose.
+
+  4. **Use of Your Personal information**
+
+**(a) General Use.** In general, personal information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your personal information in the following ways:
+
+    * facilitate the creation of and secure your Account on our network;
+    * identify you as a user in our system;
+    * provide improved administration of our Services;
+    * provide the Services you request;
+    * improve the quality of experience when you interact with our Applications and Services;
+    * send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+    * send you administrative e-mail notifications, such as security or support and maintenance advisories;
+    * respond to your inquiries related to employment opportunities or other requests;
+    * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Company.
+
+**(b) User Feedback.** We often receive comments from users about our Services. We may post user feedback on the Site from time to time. We will share your feedback with your first name and last initial only. If we choose to post your first and last name along with your feedback, we will obtain your consent prior to posting you name with your feedback.
+
+**(c) Creation of Anonymous Data.** We may create anonymous data records from personal information by excluding information (such as your name) that makes the data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance the content of our Services and improve Application and Site navigation. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion.
+
+  5. **Disclosure of Your Personal information.** We disclose your personal information as described below and as described elsewhere in this Privacy Policy.
+
+**(a) Third Party Service Providers.** We may share your personal information with third party service providers to: provide you with the Services that we offer you; to fulfill your order or subscription for any products, services or other goods; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the Company.
+
+**(b) Affiliates.** We may share some or all of your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
+
+**(c) Disclosure to Third Party Companies.** We may have arrangements with companies that provide our Services by way of private-labeled websites, that fulfill orders on our Services, or that offer or fulfill orders for their products and/or services on our Services (“Third Party Companies”). We may provide these Third Party Companies with access to the personal information that we collect.
+
+**AS A RESULT, WE MAY PROVIDE YOUR PERSONAL INFORMATION TO A THIRD PARTY COMPANY. WE DO NOT CONTROL THE PRIVACY PRACTICES OF THESE THIRD PARTY COMPANIES.**
+
+**NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**  
+**(AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83)**
+
+**A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL INFORMATION TO A BUSINESS WITH WHOM HE/SHE HAS ESTABLISHED A BUSINESS RELATIONSHIP FOR PERSONAL, FAMILY, OR HOUSEHOLD PURPOSES (A “CALIFORNIA CUSTOMER”) MAY REQUEST INFORMATION ABOUT WHETHER THE BUSINESS HAS DISCLOSED PERSONAL INFORMATION TO ANY THIRD PARTIES FOR THE THIRD PARTIES’ DIRECT MARKETING PURPOSES. IN GENERAL, IF THE BUSINESS HAS MADE SUCH A DISCLOSURE OF PERSONAL INFORMATION, UPON RECEIPT OF A REQUEST BY A CALIFORNIA CUSTOMER, THE BUSINESS IS REQUIRED TO PROVIDE A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL INFORMATION WAS DISCLOSED IN THE PRECEDING CALENDAR YEAR, AS WELL AS A LIST OF THE CATEGORIES OF PERSONAL INFORMATION THAT WERE DISCLOSED. CALIFORNIA CUSTOMERS MAY REQUEST FURTHER INFORMATION ABOUT OUR COMPLIANCE WITH THIS LAW BY CONTACTING THE COMPANY AT[WWW.TANGA.COM/SUPPORT](http://www.tanga.com/support). PLEASE NOTE THAT WE ARE REQUIRED TO RESPOND TO ONE REQUEST PER CALIFORNIA CUSTOMER EACH YEAR AND WE ARE NOT REQUIRED TO RESPOND TO REQUESTS MADE BY MEANS OTHER THAN THROUGH THIS E-MAIL ADDRESS.**
+
+**(d) Corporate Restructuring.** We may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or any portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset. If another company acquires our company, business, or any of our assets, that company will possess the personal information collected by us and will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
+
+**(e) Other Disclosures.** Regardless of any choices you make regarding your personal information (as described below), Company may disclose personal information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Company; (c) to protect or defend the rights or property of Company or users of the Applications or Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.
+
+  6. **Your Choices Regarding Your Information.** You have several choices regarding use of information on our Services:
+
+**(a) Email Communications.** We will periodically send you free newsletters and e-mails that directly promote the use of our Services. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information above). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our Terms of Use or Privacy Policy.
+
+**(b) Changing or Deleting Your Personal Information.** You may change any of your personal information in your Account by editing your settings within your Account or by contacting us at [www.tanga.com/support](http://www.tanga.com/support). You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives or backups. We may also retain your information for fraud prevention or similar purposes.
+
+**(c) Applications.** You can stop all collection of information by an Application by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+**(d) Do Not Track Signals.** Some web browsers may transmit “do not track” signals to the websites and other online services with which your web browser communicates. There is no standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard is established, we may revise our policy on responding to these signals.
+
+  7. **Changes to This Privacy Policy.** This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your personal information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Sites or within our Applications. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site or within the Applications. These changes will be effective immediately for new users of our Services. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Sites, Applications or Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+
+
+
+
+Create a Free Account! 
+
+Free to join and new members get a  10% off coupon  after first purchase is shipped! [Learn more](https://web.archive.org/tanga-loyalty-rewards)
+
+{{status.message.text}}
+
+This field is required
+
+{{ mailgunMsg }}
+
+This field is required
+
+Password needs to have 6 characters at least
+
+Already a member? Login
+
+By pressing the "Join" button you agree to the [Terms of Membership](https://web.archive.org/pages/terms-and-conditions) for Tanga. You will also be added to our Daily and Weekly Deals Emails (you can unsubscribe at any time). 
+
+Create a Free Account! 
+
+Free to join and new members get a  10% off coupon  after first purchase is shipped! [Learn more](https://web.archive.org/tanga-loyalty-rewards)
+
+{{status.message.text}}
+
+This field is required
+
+{{ mailgunMsg }}
+
+This field is required
+
+Password needs to have 6 characters at least
+
+Already a member? Login
+
+By pressing the "Shop Now" button you agree to the [Terms of Membership](https://web.archive.org/pages/terms-and-conditions) for Tanga. You will also be added to our Daily and Weekly Deals Emails (you can unsubscribe at any time). 
+
+Forget Password? 
+
+No problem, we'll send you a new one. All we need is the e-mail address you signed up with. 
+
+{{status.message.text}}
+
+E-mail is required
+
+Valid e-mail is required
