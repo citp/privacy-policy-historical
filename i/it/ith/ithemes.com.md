@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051407id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051825id_/https%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iThemes :: iThemes
+# Privacy Policy
 
 **iThemes Media takes your privacy seriously.** This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
