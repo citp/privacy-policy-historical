@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aveda.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324091319id_/http%3A//www.aveda.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveda.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616213725id_/http%3A//www.aveda.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
 # Aveda - Customer Service - Privacy Policy
 
-**Effective Date: 4/16/2014**
+**Effective Date: 7/23/2015**
 
 Aveda Corporation United States Privacy Policy
 
@@ -60,7 +60,14 @@ Cookies are small text files that websites send to your computer or other Intern
 
 Third Party Web Analytics Services  
 
-We may use third party web analytics services on this site. Such third party web analytics service providers may include, but is not limited to, Coremetrics and Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of Coremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please [click here](https://web.archive.org/customer_service/coremetrics_optout.tmpl). To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications such as those of Adobe Site Catalyst, Coremetrics and/or Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use this information to evaluate use of the website. You may deativate the ability of these analytics services to analyze your browsing activities on this site. To exercise your choice with respect to their collection of information on this site: 
+
+• For Adobe Site Catalyst, please [click here](http://www.adobe.com/privacy).
+
+• To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis. 
+
+  
+
 
 How We Use the Information Collected by Automated Means  
 
