@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the shopbop.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225005651id_/https%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D5041370471%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopbop.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616054051id_/https%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D71955628016%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script async="" src="https://images-na.ssl-images-amazon.com/images/G/01/csminstrumentation/ue-full-051542d0cfa6f645f8266601739de597._V1_.js"></script>
+        
+            <script src="//cdn.optimizely.com/js/2002000414.js"></script>
+        
 		
   <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
   <script type="text/javascript">(function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);</script>
@@ -10,6 +13,91 @@
       window.ue.tag('', window.ue.main_scope);
       window.ue.tag(window.location.pathname, window.ue.main_scope);
     }
+  </script>
+  <script type="text/javascript">
+
+    function setCSMProp(method, prop, key) {
+        if (typeof window[method] == 'function') {
+            window[method](prop, key, {wb:1});
+        }
+    }
+
+    function csmSbBrowsePageATF(elementId,querySelector){
+        var i,
+            image,
+            images,
+            csmAvailable = typeof window.uet === 'function',
+            numberOfCompleteImages = 0,
+            imageContainer = document.getElementById(elementId);
+
+        if (!imageContainer || !csmAvailable) {
+            return;
+        }
+
+        images = imageContainer.querySelectorAll(querySelector);
+
+        for (i = 0; i < images.length && i < 4; i++) {
+            image = images[i];
+
+            if (!image) {
+                continue;
+            }
+
+            image.onload = function () {
+                window.uet('af');
+            };
+
+            if (image.complete) {
+                numberOfCompleteImages++;
+            }
+        }
+
+        if (numberOfCompleteImages == 4) {
+            window.uet('af');
+        }
+    }
+
+
+    function csmAllImagesLoaded(elementId, querySelector, csmWidgetName ){
+        var i,
+            images,
+            imageCounter = 0,
+            imageLength = 0,
+            csmAvailable = typeof window.uet === 'function',
+            imageContainer = document.getElementById(elementId);
+
+        if (!imageContainer || !csmAvailable) {
+            return;
+        }
+
+        images = imageContainer.querySelectorAll(querySelector);
+        imageLength = images.length;
+
+        for (i = 0; i < imageLength; i++){
+
+            if(images[i].complete){
+                imageCounter++;
+                fireImageCompleteWidgetTag(imageCounter, imageLength, csmWidgetName);
+            } else {
+                var imageOnLoad =images[i].onload;
+                images[i].onload = function(){
+                    imageCounter++;
+                    fireImageCompleteWidgetTag(imageCounter, imageLength, csmWidgetName);
+                    if(typeof imageOnLoad === 'function'){
+                        imageOnLoad.apply(this, arguments);
+                    }
+
+                }
+            }
+        }
+    }
+
+    function fireImageCompleteWidgetTag(currentCount, maxCount, csmWidgetName){
+        if(currentCount == maxCount){
+            setCSMProp('uex', 'ld', csmWidgetName);
+        }
+    }
+
   </script>
 
 
@@ -33,9 +121,9 @@
 	
 		<link rel="dns-prefetch" href="//images-cn.ssl-images-amazon.com">
 	
-		<link rel="dns-prefetch" href="//amazonshopbop.122.2o7.net">
-	
 		<link rel="dns-prefetch" href="//s.amazon-adsystem.com">
+	
+		<link rel="dns-prefetch" href="//amazonshopbop.d2.sc.omtrdc.net">
 	
 
 
@@ -54,7 +142,7 @@ window.ue_t0 = t0_date.getTime();
 var headerCountryCode = 'US';
 var chosenLanguageCode = 'en';
 var s_account = "amznshopbopprod";
-var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod","authType":"anonymous"},"attributes":{"country":"US","language":"en","currency":"USD","brand":"womens","platform":"www"},"category":{"primaryCategory":"privacypolicy"}}} ;
+var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod","authType":"anonymous"},"attributes":{"pixelUrl":"https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p","country":"US","language":"en","currency":"USD","brand":"womens","platform":"www"},"category":{"primaryCategory":"privacypolicy"}}} ;
 //--></script>
 
 
@@ -66,16 +154,44 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 
 
-    <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/css/8be54293dab9d0ae9d0f26bef2033c35132cade14af7c35147026aed3ab035d3.css" type="text/css">
+<script type="text/javascript">
+    setCSMProp('uet', 'bb', 'cssContent');
+</script>
 
 
+    <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/css/3350efe1af16c810f71ffdbfe9e3212d75c375cb9e1ed6696622160b535b8389.css" type="text/css">
 
 
-    <script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/js/42f2dff687325bdd782804c334d06e9b08101d7786deb5d928acc69f7c8f3951.js" type="text/javascript"></script>
+<script type="text/javascript">
+    setCSMProp('uex', 'ld', 'cssContent');
+</script>
 
 
+<script type="text/javascript">
+    setCSMProp('uet', 'bb', 'synchronousJavaScript');
+</script>
 
-<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/dtm/js/21e.2/b2698c39d61437537d0b9151f218ccf38b2a6d46/satelliteLib-2cb957f37942ca921559b8e4082736efd6358c9e.js" type="text/javascript"></script>
+
+    
+    
+    	<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/js/b5edd7ffbe8feca490f1c3b9eec408f797e8cf9b6c4fb1eccf1a6b8aa244c865.js" type="text/javascript"></script>
+    
+
+
+<script type="text/javascript">
+    setCSMProp('uex', 'ld', 'synchronousJavaScript');
+</script>
+
+
+<script type="text/javascript">
+    setCSMProp('uet', 'bb', 'dtmJavaScript');
+</script>
+
+<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/dtm/js/32a/b2698c39d61437537d0b9151f218ccf38b2a6d46/satelliteLib-2cb957f37942ca921559b8e4082736efd6358c9e.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    setCSMProp('uex', 'ld', 'dtmJavaScript');
+</script>
 
 
 	<meta name="keywords" content="">
@@ -91,18 +207,21 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 	<body id="top" data-lang="en" data-country="US" data-currency="USD" data-locale="en-US">
 		
-		<div id="visitid" style="display:none;" data-visitid="5429435365">5429435365</div>
-		<div id="seqnum" style="display:none;" data-seqnum="503">503</div>
+		<div id="visitid" style="display:none;" data-visitid="72358220978">72358220978</div>
+		<div id="seqnum" style="display:none;" data-seqnum="473">473</div>
 		<div id="availableMessage" style="display:none;">Only #{qta} left.</div>
 		
+		
+		
 
-		
-		
+			<script type="text/javascript">
+				setCSMProp('uet', 'bb', 'globalBar');
+			</script>
+
 			<div class="global-bar">
   <div class="page-container row">
     <div class="g6">
       
-
 
 
 
@@ -113,7 +232,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
     </a>
       </li>
   <li class="domain">
-    <a class="link" href="https://www.eastdane.com/#cs=ov=5429435365,os=503,link=eastDaneDomainHeader" data-at="mensLink">
+    <a class="link" href="https://www.eastdane.com/#cs=ov=72358220978,os=473,link=eastDaneDomainHeader" data-at="mensLink">
       shop men's
     </a>
           
@@ -121,8 +240,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 
 
-
-<a href="https://www.eastdane.com/#cs=ov=5429435365,os=503,link=eastDaneDomainHeader" class="domain-hover">
+<a href="https://www.eastdane.com/#cs=ov=72358220978,os=473,link=eastDaneDomainHeader" class="domain-hover">
   <div class="uppercase intro-text">
     Shop Men's Fashion at
   </div>
@@ -163,6 +281,10 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
   </div>
 </div>
 
+
+			<script type="text/javascript">
+				setCSMProp('uex', 'ld', 'globalBar');
+			</script>
 		
 		<div id="siteContainer" class="page-container">
 			<header class=" clearfix page-header">
@@ -186,7 +308,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 
     
-  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#cs=ov=5429435365,os=503,link=headerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=945,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping and FREE returns
+  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#cs=ov=72358220978,os=473,link=headerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=945,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping and FREE returns
 Amazon Prime eligible">
           FREE 3-day shipping and FREE returns<br>
 Amazon Prime eligible
@@ -204,7 +326,7 @@ Amazon Prime eligible
   <div class="login-container g4">
     <form id="searchForm" class="search-form clearfix" method="get" name="searchForm" action="/actions/viewSearchResultsAction.action">
       <input class="arrow-right" type="submit" name="searchButton">
-      <input id="searchKeywords" class="search" type="text" name="query" value="Search" autocomplete="off">
+      <input id="searchKeywords" class="search" type="text" name="query" placeholder="Search" autocomplete="off">
       <input type="hidden" id="searchSuggestion" name="searchSuggestion" value="false">
     </form>
   </div>
@@ -261,58 +383,6 @@ Amazon Prime eligible
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/ci/4/gg/holiday-gift-guide-110915.html" data-cs-name="gifts" data-at="gifts">
-      Gifts
-    </a>
-    <a class="parent topnav-logged-out " href="/ci/4/gg/holiday-gift-guide-110915.html" data-cs-name="gifts" style="display: none">
-      Gifts
-    </a>
-    <span class="nolink">Gifts</span>
-        <ul id="submenu2" class="subnav">
-            <li class="subnav-item">
-        <a href="/boutiques-gifts/br/v=1/2534374302207750.htm" class=" link" data-cs-name="gifts-allgifts" data-at="allgifts">
-           All Gifts
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/boutiques-gifts-her/br/v=1/2534374302207761.htm" class=" link" data-cs-name="gifts-forher" data-at="forher">
-           For Her
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/boutiques-gifts-home/br/v=1/2534374302207757.htm" class=" link" data-cs-name="gifts-forhome" data-at="forhome">
-           For Home
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/boutiques-gifts-kids/br/v=1/42471.htm" class=" link" data-cs-name="gifts-forkids" data-at="forkids">
-           For Kids
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/boutiques-gifts-under-100/br/v=1/2534374302207753.htm" class=" link" data-cs-name="gifts-under$100" data-at="under$100">
-           Under $100
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/boutiques-gifts-under-50/br/v=1/42470.htm" class=" link" data-cs-name="gifts-under$50" data-at="under$50">
-           Under $50
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="//www.eastdane.com/ci/4/gg/holiday-gift-guide-mens-110915.html" class=" link" data-cs-name="gifts-forhimateastdane" data-at="forhimateastdane">
-           For Him at East Dane
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/ci/4/gg/holiday-gift-guide-110915.html" class="promoItem holiday-image link" data-cs-name="gifts-${01}" data-at="${01}">
-           <img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/shopbop/media/4/images/nav/holiday-sprite_1-0.jpg">
-        </a>
-      </li>
-          </ul>
-      </li>
-    <li class="navCategory nav-item">
-    
         <a class="parent topnav-logged-in " href="/actions/designerindex/viewAlphabeticalDesigners.action" data-cs-name="designers" data-at="designers">
       Designers
     </a>
@@ -320,7 +390,7 @@ Amazon Prime eligible
       Designers
     </a>
     <span class="nolink">Designers</span>
-        <ul id="submenu3" class="subnav">
+        <ul id="submenu2" class="subnav">
             <li class="subnav-item">
         <a href="/actions/designerindex/viewAlphabeticalDesigners.action?folderID=2534374302167373" class=" link" data-cs-name="designers-designersa-z" data-at="designersa-z">
            Designers A-Z
@@ -357,7 +427,7 @@ Amazon Prime eligible
       Boutiques
     </a>
     <span class="nolink">Boutiques</span>
-        <ul id="submenu4" class="subnav">
+        <ul id="submenu3" class="subnav">
             <li class="subnav-item">
         <a href="/ci/4/lp/designer-boutique.html" class=" link" data-cs-name="boutiques-designerboutique" data-at="designerboutique">
            Designer Boutique
@@ -369,7 +439,7 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/ci/4/lp/denim-boutique-101614.html" class=" link" data-cs-name="boutiques-denimboutique" data-at="denimboutique">
+        <a href="/ci/4/lp/denim-boutique.html" class=" link" data-cs-name="boutiques-denimboutique" data-at="denimboutique">
            Denim Boutique
         </a>
       </li>
@@ -384,7 +454,7 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/ci/4/gg/holiday-gift-guide-110915.html" class=" link" data-cs-name="boutiques-gifts" data-at="gifts">
+        <a href="/boutiques-gifts/br/v=1/2534374302207750.htm" class=" link" data-cs-name="boutiques-gifts" data-at="gifts">
            Gifts
         </a>
       </li>
@@ -394,7 +464,7 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/ci/4/wedding/bridal-and-wedding-2013.html" class=" link" data-cs-name="boutiques-weddingboutique" data-at="weddingboutique">
+        <a href="/ci/4/lp/bridal-and-wedding.html" class=" link" data-cs-name="boutiques-weddingboutique" data-at="weddingboutique">
            Wedding Boutique
         </a>
       </li>
@@ -414,7 +484,7 @@ Amazon Prime eligible
       Clothing
     </a>
     <span class="nolink">Clothing</span>
-        <ul id="submenu5" class="subnav">
+        <ul id="submenu4" class="subnav">
             <li class="subnav-item">
         <a href="/clothing/br/v=1/2534374302155112.htm" class=" link" data-cs-name="clothing-shopall" data-at="shopall">
            Shop All
@@ -471,11 +541,6 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-suit-separates/br/v=1/2534374302063184.htm" class=" link" data-cs-name="clothing-suitseparates" data-at="suitseparates">
-           Suit Separates
-        </a>
-      </li>
-            <li class="subnav-item">
         <a href="/clothing-sweaters-knits/br/v=1/2534374302024636.htm" class=" link" data-cs-name="clothing-sweaters/knits" data-at="sweaters/knits">
            Sweaters / Knits
         </a>
@@ -511,7 +576,7 @@ Amazon Prime eligible
       Shoes
     </a>
     <span class="nolink">Shoes</span>
-        <ul id="submenu6" class="subnav">
+        <ul id="submenu5" class="subnav">
             <li class="subnav-item">
         <a href="/shoes/br/v=1/2534374302024643.htm" class=" link" data-cs-name="shoes-shopall" data-at="shopall">
            Shop All
@@ -563,11 +628,6 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-winter-boots/br/v=1/33279.htm" class=" link" data-cs-name="shoes-winterboots" data-at="winterboots">
-           Winter Boots
-        </a>
-      </li>
-            <li class="subnav-item">
         <a href="/shoes-shoe-accessories/br/v=1/13477.htm" class=" link" data-cs-name="shoes-shoeaccessories" data-at="shoeaccessories">
            Shoe Accessories
         </a>
@@ -575,6 +635,11 @@ Amazon Prime eligible
             <li class="subnav-item">
         <a href="/shoes-designer-boutique/br/v=1/2534374302124543.htm" class=" link" data-cs-name="shoes-designerboutique" data-at="designerboutique">
            Designer Boutique
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/ci/4/lp/shoe-trends.html" class=" link" data-cs-name="shoes-shoetrends" data-at="shoetrends">
+           Shoe Trends
         </a>
       </li>
           </ul>
@@ -588,7 +653,7 @@ Amazon Prime eligible
       Bags
     </a>
     <span class="nolink">Bags</span>
-        <ul id="submenu7" class="subnav">
+        <ul id="submenu6" class="subnav">
             <li class="subnav-item">
         <a href="/bags/br/v=1/2534374302024667.htm" class=" link" data-cs-name="bags-shopall" data-at="shopall">
            Shop All
@@ -685,8 +750,8 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-trend-rich-reds/br/v=1/41401.htm" class=" link" data-cs-name="bags-trend:richreds" data-at="trend:richreds">
-           Trend: Rich Reds
+        <a href="/bags-trend-global-eclectic/br/v=1/41401.htm" class=" link" data-cs-name="bags-trend:globaleclectic" data-at="trend:globaleclectic">
+           Trend: Global Eclectic
         </a>
       </li>
           </ul>
@@ -700,7 +765,7 @@ Amazon Prime eligible
       Accessories
     </a>
     <span class="nolink">Accessories</span>
-        <ul id="submenu8" class="subnav">
+        <ul id="submenu7" class="subnav">
             <li class="subnav-item">
         <a href="/accessories/br/v=1/2534374302024641.htm" class=" link" data-cs-name="accessories-shopall" data-at="shopall">
            Shop All
@@ -712,8 +777,13 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-trend-bright-accents/br/v=1/13583.htm" class=" link" data-cs-name="accessories-trend:brightaccents" data-at="trend:brightaccents">
-           Trend: Bright Accents
+        <a href="/accessories-fine-jewelry/br/v=1/48184.htm" class=" link" data-cs-name="accessories-finejewelry" data-at="finejewelry">
+           Fine Jewelry
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/accessories-trend-globetrotter/br/v=1/13583.htm" class=" link" data-cs-name="accessories-trend:globetrotter" data-at="trend:globetrotter">
+           Trend: Globetrotter
         </a>
       </li>
             <li class="subnav-item">
@@ -757,6 +827,11 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
+        <a href="/accessories-pool-party/br/v=1/47933.htm" class=" link" data-cs-name="accessories-poolparty" data-at="poolparty">
+           Pool Party
+        </a>
+      </li>
+            <li class="subnav-item">
         <a href="/accessories-scarves-wraps/br/v=1/2534374302062834.htm" class=" link" data-cs-name="accessories-scarves/wraps" data-at="scarves/wraps">
            Scarves / Wraps
         </a>
@@ -787,11 +862,6 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-winter/br/v=1/2534374302207430.htm" class=" link" data-cs-name="accessories-winteraccessories" data-at="winteraccessories">
-           Winter Accessories
-        </a>
-      </li>
-            <li class="subnav-item">
         <a href="/accessories-designer-boutique/br/v=1/2534374302123250.htm" class=" link" data-cs-name="accessories-designerboutique" data-at="designerboutique">
            Designer Boutique
         </a>
@@ -807,7 +877,7 @@ Amazon Prime eligible
       Sale
     </a>
     <span class="nolink">Sale</span>
-        <ul id="submenu9" class="subnav">
+        <ul id="submenu8" class="subnav">
             <li class="subnav-item">
         <a href="/shop-category-sale/br/v=1/2534374302025763.htm" class=" link" data-cs-name="sale-shopall" data-at="shopall">
            Shop All
@@ -899,7 +969,7 @@ Amazon Prime eligible
       My Shopbop
     </a>
     <span class="nolink">My Shopbop</span>
-        <ul id="submenu11" class="subnav">
+        <ul id="submenu10" class="subnav">
             <li class="subnav-item">
         <a href="/actions/myaccount/myAccountHomePageAction.action?folderID=2534374302158871" class=" link" data-cs-name="myshopbop-account" data-at="account">
            Account
@@ -965,6 +1035,10 @@ Amazon Prime eligible
 			</header>
 			<div id="pageContent" class="clearfix page-content">
 				
+					<script type="text/javascript">
+						setCSMProp('uet', 'bb', 'leftNav');
+					</script>
+
 					
 
 
@@ -983,12 +1057,19 @@ Amazon Prime eligible
 	
 
 
+
+					<script type="text/javascript">
+						setCSMProp('uex', 'ld', 'leftNav');
+					</script>
 				
+				<script type="text/javascript">
+					setCSMProp('uet', 'bb', 'pageContentScope');
+				</script>
 				<div id="content" class="content">
 					
 					<div id="wrapper">
 <div id="top OneLinkNoTx">
-<!--<h1 class="hideTitle">Privacy Notice</h1>--><br><br>
+
 <span style="color:#dd641d;"><b>Shopbop.com and EastDane.com (the “Websites”) Privacy Notice</b></span><br>
 Last updated: December 29, 2014.<br>
 
@@ -1096,7 +1177,7 @@ We use Amazon and third party ad-serving companies to display interest-based adv
 <br>
 <br>
 <a name="advertising"><b>Advertising Preferences</b></a><br><!--Advertising Preferences-->
-We offer you choices about receiving interest-based ads from Amazon. You can choose not to receive interest-based ads from Amazon by adjusting your <a class="underline" href="http://www.amazon.com/gp/dra/info" target="_blank">Advertising Preferences</a>. If you choose to opt out of receiving interest-based ads from Amazon, you will still see ads but they will not be personalized. <p></p>
+We offer you choices about receiving interest-based ads from Amazon. You can choose not to receive interest-based ads from Amazon by adjusting your <span class="underline"><a class="underline" href="http://www.amazon.com/adprefs" target="_blank">Advertising Preferences</a>. If you choose to opt out of receiving interest-based ads from Amazon, you will still see ads but they will not be personalized. <p></p>
 <p>In addition to the interest-based ads from Amazon, we may also use other third parties to serve interest-based ads.  You can opt-out of receiving interest-based ads from third parties who are members of the <span class="underline"><a class="underline" href="http://www.networkadvertising.org/choices/" target="_blank">Network Advertising Initiative(NAI)</a> or who follow the <span class="underline"><a class="underline" href="http://www.aboutads.info/choices/#completed" target="_blank">Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (DAA)</a> by visiting the opt-out pages on the NAI website and DAA website.  </span></span></p>
 <br>
 <a name="children"><b>Are Children Allowed to Use the Websites?</b></a><br><!--Are Children Allowed to Use the Websites?-->
@@ -1111,11 +1192,11 @@ including limitations on damages, resolution of disputes, and application of the
 <p> Our business changes constantly, and our Privacy Notice and the <a class="underline" href="/ci/aboutShopBop/conditions.html">Conditions of Use</a> will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Websites frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.</p> <br><br>
 
 <b>Related Practices and Information</b><br><!--Related Practices and Information-->
-<ul>
+
  <li><a class="underline" href="/ci/aboutShopBop/conditions.html">Conditions of Use</a></li><!--Conditions of Use-->
  <li><a class="underline" href="http://www.shopbop.com/ci/aboutShopBop/customerservice.html" target="_blank">Customer Service (Shopbop)</a></li>
  <li><a class="underline" href="http://www.eastdane.com/ci/aboutShopBop/customerservice.html" target="_blank">Customer Service (East Dane) </a></li>
-</ul>
+
 
 <br>
 <a name="examples"><b>Examples of Information Collected</b></a><br><!--Examples of Information Collected-->
@@ -1136,15 +1217,21 @@ Examples of information we receive from other sources include updated delivery a
 Examples of information you can access easily at the Websites include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password and address book); payment settings (including credit card information and gift certificate balances); e-mail notification settings (including product availability alerts and newsletters); shopping lists (including My Wish List, My Hearts and My Designers); product reviews; and My Account (including shipping preferences and shopping preferences).
 
 
-</div><!--bodycopy-->
+</span></div><!--bodycopy-->
 
 </div><!--top-->
 
 </div><!--wrapper-->
 
 				</div>
+				<script type="text/javascript">
+					setCSMProp('uex', 'ld', 'pageContentScope');
+				</script>
 			</div>
 			
+			<script type="text/javascript">
+				setCSMProp('uet', 'bb', 'pageFooter');
+			</script>
 			
 <div class="page-footer">
     <ul class="services category">
@@ -1152,17 +1239,17 @@ Examples of information you can access easily at the Websites include up-to-date
       Services
     </li>
     <li class="item">
-      <a id="footer-customer-service" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#cs=ov=5429435365,os=503,link=footerSvcsCustomerService', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=945,HEIGHT=875, resizable=yes');" data-at="customerService">
+      <a id="footer-customer-service" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#cs=ov=72358220978,os=473,link=footerSvcsCustomerService', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=945,HEIGHT=875, resizable=yes');" data-at="customerService">
         Customer Service
       </a>
     </li>
     <li class="item">
-      <a href="/actions/giftCertificatePageAction.action#cs=ov=5429435365,os=503,link=footerSvcsGiftCertificates" data-at="giftCert">
+      <a href="/actions/giftCertificatePageAction.action#cs=ov=72358220978,os=473,link=footerSvcsGiftCertificates" data-at="giftCert">
         Gift Certificates
       </a>
     </li>
     <li class="item">
-      <a href="/actions/wishlist/viewWishlistSearch.action#cs=ov=5429435365,os=503,link=footerServicesWishListSearch" data-at="wishListSearch">
+      <a href="/actions/wishlist/viewWishlistSearch.action#cs=ov=72358220978,os=473,link=footerServicesWishListSearch" data-at="wishListSearch">
         Wish List Search
       </a>
     </li>
@@ -1177,12 +1264,12 @@ Examples of information you can access easily at the Websites include up-to-date
       </a>
     </li>
     <li class="item">
-      <a href="/ci/aboutShopBop/careers.html#cs=ov=5429435365,os=503,link=footerInformationCareers" data-at="careers">
+      <a href="/ci/aboutShopBop/careers.html#cs=ov=72358220978,os=473,link=footerInformationCareers" data-at="careers">
       Careers
       </a>
     </li>
     <li class="item">
-      <a href="/ci/aboutShopBop/shopbop-affiliate-program.html#cs=ov=5429435365,os=503,link=footerInformationAffiliateProgram" data-at="affiliate">
+      <a href="/ci/aboutShopBop/shopbop-affiliate-program.html#cs=ov=72358220978,os=473,link=footerInformationAffiliateProgram" data-at="affiliate">
       Affiliate Program
       </a>
     </li>
@@ -1192,27 +1279,27 @@ Examples of information you can access easily at the Websites include up-to-date
       Personalize
     </li>
     <li class="item">
-      <a href="/actions/myaccount/myAccountHomePageAction.action#cs=ov=5429435365,os=503,link=footerPersonalizeAccount" data-at="myAccount">
+      <a href="/actions/myaccount/myAccountHomePageAction.action#cs=ov=72358220978,os=473,link=footerPersonalizeAccount" data-at="myAccount">
       Account
       </a>
     </li>
     <li class="item">
-      <a href="/actions/hearts/viewHeartedProducts.action#cs=ov=5429435365,os=503,link=footerPersonalizeMyHearts" data-at="myHearts" rel="nofollow">
+      <a href="/actions/hearts/viewHeartedProducts.action#cs=ov=72358220978,os=473,link=footerPersonalizeMyHearts" data-at="myHearts" rel="nofollow">
       My&nbsp;<img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/red_filled_heart_1-0.png">s
       </a>
     </li>
     <li class="item">
-      <a href="/actions/wishlist/wishlistHome.action#cs=ov=5429435365,os=503,link=footerPersonalizeMyWishList" data-at="myWishList" rel="nofollow">
+      <a href="/actions/wishlist/wishlistHome.action#cs=ov=72358220978,os=473,link=footerPersonalizeMyWishList" data-at="myWishList" rel="nofollow">
       My Wish List
       </a>
     </li>
     <li class="item">
-      <a href="/actions/designers/myDesigners.action#cs=ov=5429435365,os=503,link=footerPersonalizeMyDesigners" data-at="myDesigners" rel="nofollow">
+      <a href="/actions/designers/myDesigners.action#cs=ov=72358220978,os=473,link=footerPersonalizeMyDesigners" data-at="myDesigners" rel="nofollow">
       My Designers
       </a>
     </li>
     <li class="item">
-      <a href="/actions/reviews/myReviews.action#cs=ov=5429435365,os=503,link=footerPersonalizeMyReviews" data-at="myReviews" rel="nofollow">
+      <a href="/actions/reviews/myReviews.action#cs=ov=72358220978,os=473,link=footerPersonalizeMyReviews" data-at="myReviews" rel="nofollow">
       My Reviews
       </a>
     </li>
@@ -1222,37 +1309,37 @@ Examples of information you can access easily at the Websites include up-to-date
       Connect
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('/ci/apps.html#cs=ov=5429435365,os=503,link=footerConnectApplink', 'left=100,top=100,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,WIDTH=1230,HEIGHT=830, resizable=yes');" rel="nofollow" data-at="faceBook">
+      <a class="wide-link" href="javascript:open_popup('/ci/apps.html#cs=ov=72358220978,os=473,link=footerConnectApplink', 'left=100,top=100,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,WIDTH=1230,HEIGHT=830, resizable=yes');" rel="nofollow" data-at="faceBook">
         <img id="AppConnectImage" alt="Mobile" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/shopbop/media/3/images/footer/appicon_1-4.png">
         <span id="AppConnectLabel">Mobile</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://www.facebook.com/shopbop#cs=ov=5429435365,os=503,link=footerConnectFacebooklink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="faceBook">
+      <a class="wide-link" href="javascript:open_popup('https://www.facebook.com/shopbop#cs=ov=72358220978,os=473,link=footerConnectFacebooklink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="faceBook">
         <img alt="Facebook" id="facebookConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/facebook_grey_1-1.jpg">
         <span id="facebookConnectLabel">Facebook</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://twitter.com/shopbop#cs=ov=5429435365,os=503,link=footerConnectTwitterlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="twitter">
+      <a class="wide-link" href="javascript:open_popup('https://twitter.com/shopbop#cs=ov=72358220978,os=473,link=footerConnectTwitterlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="twitter">
         <img alt="Twitter" id="twitterConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/twitter2x_1-1.gif">
         <span id="twitterConnectLabel">Twitter</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://pinterest.com/shopbop#cs=ov=5429435365,os=503,link=footerConnectPinterestlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="pin">
+      <a class="wide-link" href="javascript:open_popup('https://pinterest.com/shopbop#cs=ov=72358220978,os=473,link=footerConnectPinterestlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="pin">
         <img alt="Pinterest" id="pinterestConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/Pinterest_grey_1-0.jpg">
         <span id="pinterestConnectLabel">Pinterest</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://www.weibo.com/ShopbopChina#cs=ov=5429435365,os=503,link=footerConnectWeibolinkCN', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="weibo">
+      <a class="wide-link" href="javascript:open_popup('https://www.weibo.com/ShopbopChina#cs=ov=72358220978,os=473,link=footerConnectWeibolinkCN', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="weibo">
         <img alt="Weibo" id="weiboConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/wiebo-logo_1-0.jpg">
         <span id="weiboConnectLabel">Weibo</span>
       </a>
     </li>
     <li class="item">
-      <a href="/actions/emailSignupPageAction.action#cs=ov=5429435365,os=503,link=footerConnectEmaillink" rel="nofollow" data-at="email">
+      <a href="/actions/emailSignupPageAction.action#cs=ov=72358220978,os=473,link=footerConnectEmaillink" rel="nofollow" data-at="email">
         <img alt="Get on our email list!" id="emailConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/_global/images/envelope_icon_1-1.png">
         <span id="emailConnectLabel">Get on our email list!</span>
       </a>
@@ -1275,7 +1362,7 @@ Examples of information you can access easily at the Websites include up-to-date
 
     
 <li class="item">
-  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#cs=ov=5429435365,os=503,link=footerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=945,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping FREE returns
+  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#cs=ov=72358220978,os=473,link=footerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=945,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping FREE returns
 Amazon Prime eligible">
   FREE 3-day shipping FREE returns<br>
 Amazon Prime eligible
@@ -1285,27 +1372,34 @@ Amazon Prime eligible
 </ul>
 
   <div class="copyright">
-  © 1999-2015 <a href="/">BOP LLC</a>. All Rights Reserved.
-  <a class="link" data-at="privacy" href="/ci/aboutShopBop/privacypolicy.html#cs=ov=5429435365,os=503,link=footerPrivacyPolicyEN">Privacy Notice</a>&nbsp;
-  <a class="link" data-at="condOfUse" href="/ci/aboutShopBop/conditions.html#cs=ov=5429435365,os=503,link=footerCopyrightEN">Conditions of Use</a>
+  © 1999-2016 <a href="/">BOP LLC</a>. All Rights Reserved.
+  <a class="link" data-at="privacy" href="/ci/aboutShopBop/privacypolicy.html#cs=ov=72358220978,os=473,link=footerPrivacyPolicyEN">Privacy Notice</a>&nbsp;
+  <a class="link" data-at="condOfUse" href="/ci/aboutShopBop/conditions.html#cs=ov=72358220978,os=473,link=footerCopyrightEN">Conditions of Use</a>
 </div>
         <div id="domainSwitchDiv" class="OneLinkNoTx">
     	        <a href="https://ru.shopbop.com/actions/i18n/switchSubdomains.action" class="OneLinkKeepLinks" data-at="ru_domainSwitch">
 		            Shopbop на русском! Шопинг на Вашем языке
       </a>
-	      	      	        <a href="https://cn.shopbop.com/actions/i18n/switchSubdomains.action" class="OneLinkKeepLinks" data-at="zh_domainSwitch">
+	      	        <a href="https://cn.shopbop.com/actions/i18n/switchSubdomains.action" class="OneLinkKeepLinks" data-at="zh_domainSwitch">
 		            中文版 Shopbop！使用您最熟悉的语言尽享精彩购物体验。
       </a>
 	        </div>
   
         <script language="JavaScript">
-      document.write('<img src="/actions/capabilitiesAction.action?request_seq=1&js=true&ts=1451005011987&visitid=5429435365&seqno=504" width="1" height="1" />');
-    </script><img src="/actions/capabilitiesAction.action?request_seq=1&amp;js=true&amp;ts=1451005011987&amp;visitid=5429435365&amp;seqno=504" width="1" height="1">
-    <span id="challengeToken" style="display: none;">558cba85-8e92-4939-984d-e3747754dfea</span>
+      document.write('<img src="/actions/capabilitiesAction.action?request_seq=1&js=true&ts=1466055652013&visitid=72358220978&seqno=474" width="1" height="1" />');
+    </script><img src="/actions/capabilitiesAction.action?request_seq=1&amp;js=true&amp;ts=1466055652013&amp;visitid=72358220978&amp;seqno=474" width="1" height="1">
+    <span id="challengeToken" style="display: none;">1c5bcf86-21e0-43c5-ada6-2ec99787571e</span>
 </div>
+			<script type="text/javascript">
+				setCSMProp('uex', 'ld', 'pageFooter');
+			</script>
 		</div><!-- siteContainer -->
 
         
+        <script type="text/javascript">
+			setCSMProp('uet', 'bb', 'pixelContentScope');
+		</script>
+
         
 		
 
@@ -1314,7 +1408,6 @@ Amazon Prime eligible
 
 
 <script type="text/javascript"><!--
-s.trackingServer="amazonshopbop.122.2o7.net";
 s.channel="CI";
 --></script>
 
@@ -1344,17 +1437,18 @@ if( window._satellite ) _satellite.pageBottom();
 
 
 
-
-
 		<!-- p13n -->
 
 		<!-- syncVisitor -->
 
+
+		<script type="text/javascript">
+			setCSMProp('uex', 'ld', 'pixelContentScope');
+		</script>
+
+		
 		<!-- securityRequiredEvent Notification -->
 	
-
-        
-        
 	
 
 </body></html>
