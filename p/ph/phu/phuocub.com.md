@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuocub.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063604id_/http%3A//phuocub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuocub.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063507id_/http%3A//phuocub.com/privacy) for the most accurate reproduction.*
 
 # Privacy • PhuocUB
 
