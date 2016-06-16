@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbobet.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920041815id_/http%3A//info.sbobet.com/article/AA-00273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbobet.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617014431id_/http%3A//info.sbobet.com/article/AA-00273) for the most accurate reproduction.*
 
 # Privacy Policy | SBOBET Information Center
 
