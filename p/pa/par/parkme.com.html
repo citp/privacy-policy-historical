@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the parkme.com privacy policy that was archived on 2015-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213153417id_/https%3A//www.parkme.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkme.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617001222id_/https%3A//www.parkme.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- start Mixpanel --><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">
     (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -7,9 +7,13 @@
     
         mixpanel.init("a7ea873dc635a7e44b0be96c151b53eb", {
     
-            loaded: function() {
+        loaded: function() {
+            DISTINCT_ID = null;
+
+            if (mixpanel.get_distinct_id()) {
                 DISTINCT_ID = mixpanel.get_distinct_id();
             }
+        }
     });
 </script>
 <!-- end Mixpanel -->
@@ -50,10 +54,10 @@
         <script type="text/javascript" src="/jsi18n/"></script>
 
         <!-- Jquery -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
 
         <!-- Google Maps -->
-        <script type="text/javascript" src="//maps.google.com/maps/api/js?key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y&amp;libraries=geometry,places,drawing">
+        <script type="text/javascript" src="//maps.google.com/maps/api/js?key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y&amp;libraries=geometry,places,drawing&amp;v=3.23">
         </script>
     
 
@@ -152,60 +156,27 @@ window.onload = function(){
         
 
     <div id="header_fullsize" class="header_fullsize">
-        <div class="row header-row ninesixty_fixed">
+        <div class="row header-row ninesixty_fixed relative">
             
-            <span class="left header-left">
-                <a href="/" class="left">
-                    <div class="logo" alt="ParkMe Logo"></div>
+            <span class="left header-left relative">
+                <a href="/" class="left logo-link">
+                    <div class="logo logo-desktop" alt="ParkMe Logo"></div>
                 </a>
-                
 
                 
-                
-                <div class="user-actions browse-menu">
-                    <div class="header-dropdown browse-dropdown">
-                        <div class="header-toggle uppercase nav-link header-browse-toggle" data-toggle="dropdown">Browse&nbsp;▼</div>
-                        <ul class="dropdown-menu browse-dropdown-menu" role="menu" aria-labelledby="dropdownMenu2">
-                            <li role="presentation">
-                                <ul class="browse-dropdown-submenu">
-                                    <li class="pgColumnHeader">Cities</li>
-                                    <li><a href="/new-york-city-parking">New York</a></li>
-                                    <li><a href="/los-angeles-parking">Los Angeles</a></li>
-                                    <li><a href="/washington-dc-parking">Washington DC</a></li>
-                                    <li><a href="/austin-parking">Austin</a></li>
-                                </ul>
-                            </li>
-                            <li role="presentation">
-                                <ul class="browse-dropdown-submenu">
-                                    <li class="pgColumnHeader">Neighborhoods</li>
-                                    <li><a href="/san-francisco-parking/financial-district">SF Financial District</a></li>
-                                    <li><a href="/seattle-parking/belltown">Belltown</a></li>
-                                    <li><a href="/new-york-city-parking/west-village">NY West Village</a></li>
-                                    <li><a href="/chicago-parking/loop">Chicago Loop</a></li>
-                                </ul>
-                            </li>
-                            <li role="presentation">
-                                <ul class="browse-dropdown-submenu">
-                                    <li class="pgColumnHeader">Airports</li>
-                                    <li><a href="/los-angeles-parking/lax">Los Angeles Int'l Airport</a></li>
-                                    <li><a href="/atlanta-parking/atlanta-airport">Atlanta Int'l Airport</a></li>
-                                    <li><a href="/dallas-parking/dfw-airport-parking">Dallas-Fort Worth Int'l Airport</a></li>
-                                    <li><a href="/denver-parking/den-denver-international-airport">Denver Worth Int'l Airport</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+
                 <div class="header-input-container">
                     <form action="/search" id="search-form">
                         <img class="header-search-icon" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/lib/img/header_input_search.png">
-                        <input id="searchLoc" name="q" value="" type="text" class="header-input searchLoc input-destination" required="true" placeholder="Where are you going?">
-                        <div class="clear-search hide">X</div>
+                        <input id="searchLoc" name="q" value="" type="text" class="left header-input searchLoc input-destination" required="true" placeholder="Where are you going?">
                     </form>
                 </div>
-                
+
+                <img id="outter-search-icon" class="right hide pointer" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/core/img/nav/ic_search_white_24px.svg">
+                <img id="clear-search" class="right hide pointer" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/core/img/nav/ic_close_black_24px.svg">
 
                 
+
             </span>
             
 
@@ -213,22 +184,26 @@ window.onload = function(){
             <span class="right header-right">
                 <!-- Login/Logout -->
                 
+
                     <div class="user-actions">
-                        <div class="header-dropdown">
-                            <div class="header-toggle header-dropdown-toggle hidden" data-toggle="dropdown"></div>
-                            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                                <li role="presentation"><a class="header-sign-up" href="/accounts/register/?next=/">
-                                    Sign Up</a></li>
-                                <li role="presentation"><a class="header-log-in" href="/accounts/login/?next=/">
-                                Log In</a></li>
-                            </ul>
-                        </div>
                         <ul class="right signin-links">
-                            <li class="right signup-link pointer"><a class="uppercase" href="/accounts/register/?next=/">
+                            <li class="right signup-link pointer"><a class="header-sign-up uppercase" href="/accounts/register/?next=/">
                                 Sign Up</a></li>
                             <li class="right login-link pointer"><a class="uppercase nav-link header-log-in" href="/accounts/login/?next=/">
                                 Log In</a></li>
                         </ul>
+
+                        <div class="header-dropdown">
+                            <div class="header-toggle header-dropdown-toggle hide burger" data-toggle="dropdown"></div>
+                            <img id="nav-back-arrow" class="right hide pointer" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/core/img/nav/ic_arrow_back_black_24px.svg">
+
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a class="header-sign-up" href="/accounts/register/?next=/">
+                                    Sign Up</a></li>
+                                <li role="presentation"><a class="header-log-in" href="/accounts/login/?next=/">
+                                    Log In</a></li>
+                            </ul>
+                        </div>
                 
                         <ul class="left relative mid-links">
                             <li class="right header-mid-link pointer faq-link"><a class="nav-link uppercase" href="http://help.parkme.com">FAQ</a></li>
@@ -244,7 +219,12 @@ window.onload = function(){
                         </ul>
                     </div>
                 <div class="clear"></div>
+
+
             </span>
+                <a href="/" class="logo-link">
+                    <div class="logo logo-mobile hide" alt="ParkMe Logo"></div>
+                </a>
             
             <div class="clear"></div>
         </div>
@@ -264,14 +244,391 @@ window.onload = function(){
         <div class="module-inner border-radius">
 
 
+<p class="western" align="CENTER" style="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in">
+<font size="2" style="font-size: 11pt"><b>ParkMe App – </b></font><font size="2" style="font-size: 11pt"><b>Privacy
+Policy</b></font></p>
+<p class="western" align="RIGHT" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">Effective Date: 1-15-16</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">Welcome to the ParkMe App (the
+“</font><font size="2" style="font-size: 11pt"><b>App</b></font><font size="2" style="font-size: 11pt">”)
+from ParkMe, an INRIX company, and thanks for taking the time to read
+our Privacy Policy.  This Privacy Policy sets out how we collect,
+use, and share Personal Information that we obtain about you through
+the App. </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">Our Privacy Policy explains:</font></p>
+<ul>
+	<li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">What information we collect and
+	why we collect it.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">How we share that information.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">Your rights and choices with
+	regard to that information.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">The steps we take to protect
+	that information.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">Limitations with regard to
+	third party websites and content.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">How we transfer your
+	information.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">How we may make changes to our
+	Privacy Policy.</font></p>
+	</li><li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt">How you may contact us. </font>
+	</p>
+</li></ul>
+<p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>INFORMATION WE COLLECT AND
+HOW WE USE IT</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">We gather and use Personal
+Information about you through the App as described below.  “Personal
+Information” means any information </font><font size="2" style="font-size: 11pt">about
+an identified or identifiable individual</font><font size="2" style="font-size: 11pt">.
+</font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>1. </b></font><font size="2" style="font-size: 11pt"><u><b>Information
+you provide directly to us </b></u></font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>Account information</b></font><font size="2" style="font-size: 11pt">.
+ You may create an account in our App by registering in “Settings”
+with an email address and password. </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>Reports</b></font><font size="2" style="font-size: 11pt">:
+You may report issues with our maps to us, so that we can improve
+them.  We will not disclose such reports to other App users.  </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>Your contact information</b></font><font size="2" style="font-size: 11pt">:
+We may use the contact information you provide to us to communicate
+with you, including through e-mail communications, mobile text
+messages, in-App messages, and push notifications.  For example, we
+may use your email address, phone number, or other information that
+you provide to us (i) to contact you to verify your email address or
+phone number; (ii) to contact you for administrative purposes such as
+customer service, to respond to your inquiries, to manage your
+account, or otherwise provide user support; and (iii) to provide
+service-related messages such as notifications, confirmations,
+updates, and security alerts.  Where required by applicable law, we
+will obtain your consent to send you marketing communications by
+electronic means.</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>Payment-related information</b></font><font size="2" style="font-size: 11pt">.&nbsp;
+We may ask you to provide us with information we need to enable you
+to pay for certain services or offers using the App.&nbsp; This
+information may include information about your payment card and
+billing address.&nbsp; If we collect this information from you, we
+will use a trusted third-party payment processor to process your
+payments, and will allow you to review your payments in the App.</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>2. Information we obtain
+from your use of our App</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>Location</b></font><font size="2" style="font-size: 11pt">.
+ We will only collect geo-location information with your
+authorization and as permitted by your device settings, and we will
+only use it in accordance with this Policy.  You may at any time
+opt-out of the collection of your location information via your
+device settings.  Turning off the collection of your location
+information will result in not receiving data for your specific
+location.</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><b>Other usage information</b></font><font size="2" style="font-size: 11pt">.
+ When you use our App, we may record certain information from your
+device and your use of the App, such as feature usage and account
+status.  </font><font size="2" style="font-size: 11pt">We may use that
+information in de-identified form for analytics purposes. </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>HOW WE SHARE YOUR
+INFORMATION</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">We do not sell or rent your
+Personal Information to marketers or third parties.  We may, however,
+share or disclose your Personal Information as follows:</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<ul>
+	<li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt"><b>Members of our group.</b></font><font size="2" style="font-size: 11pt">
+	 We may share your Personal Information to any members of our group,
+	which includes our affiliates, subsidiaries and branch offices, to
+	which it is reasonably necessary or desirable for us to disclose
+	your Personal Information in order to carry out the above-mentioned
+	information processing purposes.</font></p>
+</li></ul>
+<p class="western" style="margin-left: 0.4in; text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<ul>
+	<li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt"><b>Service providers</b></font><font size="2" style="font-size: 11pt">.
+	 We may share your Personal Information with service providers who
+	perform services on our behalf.  When we work with service
+	providers, we require them by contract to only use or disclose the
+	Personal Information they process on our behalf as necessary to
+	perform certain services on our behalf or comply with legal
+	requirements.  </font>
+	</p>
+</li></ul>
+<p class="western" style="margin-left: 0.4in; text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<ul>
+	<li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt"><b>Compliance with laws and law
+	enforcement</b></font><font size="2" style="font-size: 11pt">. We will
+	share your Personal Information if we, in our good faith judgment,
+	believe it is necessary to: (i) investigate and defend ourselves
+	against any third-party claims or allegations; (ii) comply with laws
+	and legal process (including valid subpoenas, court orders, or
+	government requests); (iii) take precautions against liability and
+	protect the property, rights, and safety of our company, our App
+	users, or others as required or permitted by law; (iii) enforce our
+	Terms of Use or other agreements; (iv) prevent or stop activity we
+	believe to be illegal, fraudulent, abusive, unethical or legally
+	actionable; and (v) detect, prevent, or otherwise address fraud, the
+	security or integrity of our App or equipment used to make the App
+	available, or any other technical issues.</font></p>
+</li></ul>
+<p class="western" style="margin-left: 0.4in; text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<ul>
+	<li><p class="western" style="margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font size="2" style="font-size: 11pt"><b>Business Transfers</b></font><font size="2" style="font-size: 11pt">.
+	 If our business is involved in a merger, acquisition,
+	reorganization, sale of assets, or bankruptcy, your Personal
+	Information may be disclosed and otherwise transferred to an
+	acquirer, or successor or assignee. Should such operation occur, we
+	will use reasonable efforts to direct the acquirer to use your
+	Personal Information in a manner that is consistent with this
+	Privacy Policy. Following such operation, you may contact the entity
+	to which we transferred your Personal Information with any inquiries
+	concerning the processing of that information.</font></p>
+</li></ul>
+<p style="margin-left: 0.5in; text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<br>
+</p>
+<ul>
+	<li><p style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+	<font face="Calibri, serif"><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt"><b>Other
+	Disclosures</b></font></font><font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">.
+	 We may disclose your Personal Information in other ways when we
+	have your consent to do so.</font></font></font></p>
+</li></ul>
+<p style="margin-left: 0.4in; text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">We may share statistical data
+that does not identify you with App users and third party partners
+for reporting purposes e.g., to derive or report on traffic flows.</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>YOUR RIGHTS AND CHOICES </b></u></font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<font size="2" style="font-size: 11pt">Subject to applicable law, you
+may have the right to request access to and receive information about
+the Personal Information we maintain about you, update and correct
+inaccuracies in your Personal Information, and have the information
+blocked or deleted, as appropriate.  The right to access Personal
+Information may be limited in some circumstances by local law
+requirements. You also have the right to withdraw your consent to the
+collection of your Personal Information.  You may at any time stop
+the collection of your information via the settings of your device,
+or by uninstalling the App.  Note however that if you exercise your
+right of blocking or deletion, if you decline to share certain
+Personal Information with us, or if you withdraw your consent, we may
+not be able to provide to you some of the features and
+functionalities of the App.  </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<font size="2" style="font-size: 11pt">If you receive promotional
+messages from us, you may unsubscribe at any time by following the
+opt-out instructions contained within the message.  Even after you
+opt-out of receiving promotional messages from us, you may continue
+to receive administrative messages from us regarding the App.  You
+may turn off push notifications through your device settings.</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<font size="2" style="font-size: 11pt">To exercise your rights and
+choices to your Personal Information, please visit the settings
+section in the App or contact us by using the contact details provide
+below under “Our Contact Information”.  </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>INFORMATION SECURITY</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">We maintain technical and
+organizational measures intended to protect the Personal Information
+we obtain about you through the App against unauthorized or unlawful
+processing and against accidental loss, destruction or damage. </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>THIRD PARTY WEBSITES AND
+CONTENT</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">Our App may provide links to
+other websites for your convenience and information.  These websites
+may operate independently from ParkMe.  Linked websites may have
+their own privacy notices or policies, which we strongly suggest you
+review if you visit any linked websites.  To the extent any linked
+websites you visit are not owned or controlled by ParkMe, we are not
+responsible for the websites’ content, any use of the websites,
+or the privacy practices of the websites.  </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>INTERNATIONAL DATA
+TRANSFERS</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">If you are in the European
+Economic Area (EEA) or other region with laws governing data
+collection and use that differ from those of the United States,
+please note that your information, including your Personal
+Information, may be transferred to countries located outside the EEA,
+in particular to the United States, and those countries may not have
+the same level of protection as the country in which you initially
+provided that information.  When we transfer your Personal
+Information we will protect it as described in this Policy. </font>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>CHANGES TO OUR PRIVACY
+POLICY</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">We may revise this Privacy
+Policy from time to time.  When we do, we will post the revised
+policy in the App, and the revised version will be effective when it
+is posted.  If we make any material changes to this policy, we will
+notify you of such changes, and we will indicate when such changes
+will become effective.</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt"><u><b>OUR CONTACT INFORMATION</b></u></font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">If you have any questions about
+this Privacy Policy and the way in which we handle your Personal
+Information, or to exercise your rights and choices, please contact
+us at:</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<br>
+</p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%">
+<font size="2" style="font-size: 11pt">ParkMe</font></p>
+<p class="western" style="text-indent: 0in; margin-bottom: 0in; background: #ffffff; line-height: 130%"><a name="_GoBack"></a>
+<font size="2" style="font-size: 11pt">An INRIX Company<br>10210 NE
+Points Drive<br>Suite 400<br>Kirkland, WA, USA
+98033<br></font>support@parkme.com</p>
 
+
+
+<br><br><hr><br><br>
 
 
 <p align="CENTER" style="margin-bottom: 0in; line-height: 0.19in">
-	<font color="#000000"><font face="Helvetica Neue, serif"><font size="5" style="font-size: 21pt"><b>PRIVACY
-		POLICY<br></b></font></font></font><font color="#000000"><font face="Helvetica Neue, serif"><font size="2"><b><sdfield type="DATETIME" sdnum="1033;1033;M\/D\/YYYY">8/15/2013</sdfield></b></font></font></font></p>
-<p style="margin-bottom: 0in"><font color="#333333"><font face="Helvetica Neue, serif"><font size="2"><br></font></font></font><br>
-</p>
+
+</p><p class="MsoNormal" align="center" style="text-align:center;text-indent:0in"><b><span style="font-size:11.0pt">ParkMe Website – </span></b><b><span style="font-size:
+11.0pt">Privacy Policy</span></b></p>
+
+<p class="MsoNormal" align="right" style="margin-top:0in;text-align:right;
+text-indent:0in;line-height:130%;background:white;vertical-align:baseline"><span style="font-size:11.0pt;line-height:130%">Effective Date: 8-15-13</span></p>
+
+
+
+
+
+
+<p></p>
 <p style="margin-bottom: 0.09in; line-height: 0.19in"><a name="_GoBack"></a>
 	<font color="#333333"><font face="Helvetica Neue, serif"><font size="2">ParkMe,
 		Inc</font></font></font><font color="#333333"><font face="Helvetica Neue, serif"><font size="2"><b>.
@@ -649,13 +1006,14 @@ window.onload = function(){
 
     
         
+
 <div id="footer">
     <!-- Module Start -->
     <div class="container-12 footer-container">
         <div class="footer-inner">
             <div class="group">
                 <div class="footer-top-section">
-                    <div class="grid-4 offset-1">
+                    <div class="grid-3 footer-grid-padding">
                         <div class="app-links footer-section">
                             <div class="uppercase footer-section-title module-hidable">Download Free</div>
                             <iphone_link action="iTunes CityPage">
@@ -669,7 +1027,7 @@ window.onload = function(){
                             </windowsphone_link>
                         </div>
                     </div>
-                    <div class="grid-4 offset-1 footer-links-grid">
+                    <div class="grid-3 footer-links-grid footer-grid-padding">
                         <div class="footer-links footer-section">
                             <div class="uppercase footer-section-title module-hidable">ParkMe</div>
                             <ul class="footer-link-list">
@@ -683,7 +1041,7 @@ window.onload = function(){
                             </ul>
                         </div>
                     </div>
-                    <div class="grid-4 offset-1">
+                    <div class="grid-3">
                         <div class="footer-section seen-in-section module-hidable">
                             <div class="uppercase footer-section-title">Seen In</div>
                             <ul class="footer-link-list">
@@ -718,11 +1076,15 @@ window.onload = function(){
                                 
                                 <li class="footer-link weight-200"><a href="/fr/privacy">French</a></li>
                                 
+                                <li class="footer-link weight-200"><a href="/it/privacy">Italian</a></li>
+                                
                                 <li class="footer-link weight-200"><a href="/nl/privacy">Dutch</a></li>
                                 
                                 <li class="footer-link weight-200"><a href="/pt/privacy">Portuguese</a></li>
                                 
                                 <li class="footer-link weight-200"><a href="/pt-br/privacy">Brazilian Portuguese</a></li>
+                                
+                                <li class="footer-link weight-200"><a href="/ru/privacy">Russian</a></li>
                                 
                             </ul>
                         </div>
@@ -739,8 +1101,16 @@ window.onload = function(){
 
                     <div class="clear"></div>
 
+                    <div class="footer-inrix-box">
+                        <div>An</div>
+                        <a href="http://www.inrix.com">
+                            <img class="footer-inrix-logo" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/homepage/img/logo/inrix-logo-white.png">
+                        </a>
+                        <div>Company</div>
+                    </div>
+
                     <div class="copy weight-200">
-                        © 2011-2015 ParkMe Inc. — All rights reserved<br>
+                        © 2011-2016 ParkMe Inc. — All rights reserved<br>
                         Event data by <a target="_blank" href="http://eventful.com/">Eventful</a>
                     </div>
                 </div>
