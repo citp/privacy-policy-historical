@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitening.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175257id_/https%3A//raventools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitening.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051722id_/https%3A//raventools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ At Raven we recognize that privacy is important. This Policy applies to all of t
 
 Raven adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s safe harbor program.
 
-If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Raven Internet Marketing Tools, 1101 McGavock St, Suite 201, Nashville, TN 37203, USA.
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Raven Internet Marketing Tools, 10 Cannery Row, Suite 201, Nashville, TN 37203, USA.
 
 ## Information we collect and how we use it:
 
@@ -77,10 +77,10 @@ When you use Raven services, we make good faith efforts to provide you with acce
 
 ## Enforcement
 
-Raven regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Raven’s treatment of personal information by contacting us through this web site or by writing to us at Privacy Matters, c/o Raven Internet Marketing Tools, 1101 McGavock St, Suite 201, Nashville, TN 37203, USA. When we receive formal written complaints at this address, it is Raven’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Raven and an individual.
+Raven regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Raven’s treatment of personal information by contacting us through this web site or by writing to us at Privacy Matters, c/o Raven Internet Marketing Tools, 10 Cannery Row, Suite 201, Nashville, TN 37203, USA. When we receive formal written complaints at this address, it is Raven’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Raven and an individual.
 
 ## Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Raven Internet Marketing Tools, 1101 McGavock St, Suite 201, Nashville, TN 37203, USA.
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Raven Internet Marketing Tools, 10 Cannery Row, Suite 201, Nashville, TN 37203, USA.
