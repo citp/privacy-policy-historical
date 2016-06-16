@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044233id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adroll.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616065717id_/https%3A//www.adroll.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | AdRoll
 
@@ -60,7 +60,9 @@ We recognize how important your online privacy is to you, so we offer the follow
 
 We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
 
-We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://www.youronlinechoices.com/) website.
+We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt out of receiving targeted ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/)
+
+We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://%3D/) website.
 
 Please note that when using the ad industry opt-out tools described above:
 
