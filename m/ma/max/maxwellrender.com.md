@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxwellrender.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028232936id_/http%3A//www.maxwellrender.com/mw2_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxwellrender.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191711id_/http%3A//www.maxwellrender.com/mw2_privacy_policy.html) for the most accurate reproduction.*
 
 # Maxwell Render :: Privacy Policy
 
