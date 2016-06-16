@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankboostup.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230120843id_/http%3A//www.rankboostup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankboostup.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091300id_/http%3A//rankboostup.com/privacy-policy) for the most accurate reproduction.*
 
 # RankBoostup Traffic Exchange | Free Website Traffic
 
