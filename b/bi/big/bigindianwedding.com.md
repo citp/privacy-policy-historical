@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigindianwedding.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215143636id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigindianwedding.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616143349id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.*
 
-# Find best wedding vendors in your city - Bigindianwedding
+# Privacy Policy - Bigindianwedding
 
 This privacy policy sets out how www.bigindianwedding.com uses and protects any information that you give www.bigindianwedding.com when you use this website.  
 
