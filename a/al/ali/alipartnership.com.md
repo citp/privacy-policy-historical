@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alipartnership.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227155747id_/http%3A//alipartnership.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alipartnership.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616230243id_/http%3A//alipartnership.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Alipartnership collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://alipartnership.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Alipartnership.
 
