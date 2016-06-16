@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226060042id_/http%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616183203id_/http%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
 
 # Legal notices | HealthEquity
 
