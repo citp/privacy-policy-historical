@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chroniclevitae.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235737id_/http%3A//chronicle.com/article/Privacy-Policy/1612) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclevitae.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616093841id_/http%3A//chronicle.com/article/Privacy-Policy/1612) for the most accurate reproduction.*
 
-# THE CHRONICLE OF HIGHER EDUCATION PRIVACY POLICY - Permissions - The Chronicle of Higher Education
+# Privacy Policy - The Chronicle of Higher Education
+
+### THE CHRONICLE OF HIGHER EDUCATION PRIVACY POLICY
 
 Last updated on June 26, 2015
 
