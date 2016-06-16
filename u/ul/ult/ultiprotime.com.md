@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ultiprotime.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510091103id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultiprotime.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053212id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ultimate Software
+# Privacy Policy - Ultimate Software Human Resource Systems
 
-## 1\. Purpose
+## Purpose
 
-This document establishes the Ultimate Software Group (USG) Privacy Policy. This document is in accordance to ISO/IEC 27001:2013 and establishes Control A18.1.4 –Privacy and Protection of Personally Identifiable Information.
+This document establishes the Ultimate Software Group (USG) Privacy Policy. This document is in accordance to ISO/IEC 27001:2013 and establishes Control A18.1.4 – Privacy and Protection of Personally Identifiable Information.
 
-## 2\. Scope
+## Scope
 
 This policy applies to Ultimate Software customers, employees, website visitors, and job applicants.
 
-## 3\. Privacy Policy
+## Privacy Policy
 
 The Ultimate Software Group, Inc. (“Ultimate Software”) respects the privacy of our customers, employees, website visitors, and job applicants.  We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of Personally Identifiable Information (PII) you provide to us. This Privacy Policy sets forth the privacy principles Ultimate Software follows with respect to your Personal Information. 
 
@@ -18,19 +18,13 @@ The Ultimate Software Group, Inc. (“Ultimate Software”) respects the privacy
 
 Ultimate Software adheres to the Safe Harbor privacy frameworks, which were developed by the U.S. Department of Commerce in consultation with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, on the transfer of PII from European Union member countries and Switzerland to the United States (the “U.S.-EU Safe Harbor Frameworks” and the U.S.-Swiss Safe Harbor Framework”, collectively the “Safe Harbor  Frameworks”). The Safe Harbor privacy principles are notice, choice, onward transfer, access, security, data integrity, and enforcement. More information about the U.S. Department of Commerce’s Safe Harbor program can be found at <http://www.export.gov/safeharbor/>.
 
-## Scope
-
-This Privacy Policy applies to all PII received by Ultimate Software (including its Subsidiaries) in any format including electronic, paper, or verbal.
-
-For purposes of this Policy, “PII” means any information collected by Ultimate Software that identifies or could be used by Ultimate Software to identify an individual.
-
 ## Notice
 
 _**How Personal Information is Collected**_  
 _Web Visitors_  
 Ultimate Software collects PII about a visitor to our website only when the visitor chooses to provide such information.  On certain pages, for example, a visitor has the opportunity to provide his/her PII such as his/her name, company, address, phone number, and e-mail address.  By supplying such information to Ultimate Software, a visitor can request details about Ultimate Software, including information about the company’s product line and investor information, or sign up for company-sponsored events or use the company’s support website. 
 
-_Website /Website / Cookies_  
+_Website / Cookies_  
 In order to improve the content and format of our site, Ultimate Software uses website  tracking software to automatically capture technical information that is then stored in our server’s log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site.
 
 In addition, some of Ultimate Software’s Web pages may contain “cookies”.  A cookie is a small amount of data which our website stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for a number of administrative purposes; for example, to store your preferences for certain kinds of information. No cookie will contain information that will allow anyone to contact you via telephone, e-mail, or any other means. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services on our websites. 
@@ -57,6 +51,8 @@ Ultimate Software may contract with third-party providers to perform certain fun
 
 These third parties may have access to your PII only to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements before any information is provided to them, and they are restricted from using the information for other purposes.
 
+If you do not wish your information shared with third-party providers for the purposes of providing services you may opt-out by contacting us at privacy@ultimatesoftware.com. 
+
 ## Links to Non-Ultimate Software websites and Third Parties
 
 Ultimate Software’s websites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave Ultimate Software’s website and be re-directed to a third-party site.  Ultimate Software does not control those sites or the privacy practices of those third-party sites, which may differ from Ultimate Software’s privacy practices.  We do not endorse or make any representations about third-party websites, and the personal data you choose to provide to third-party websites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any website or company before submitting your PII to them.
@@ -73,7 +69,7 @@ To prevent unauthorized access or disclosure, to maintain data accuracy, and to 
 
 To protect the confidentiality, integrity, and availability of your PII, Ultimate Software utilizes a variety of physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, anti-virus, and backup systems. We use encrypted sessions when collecting or transferring sensitive data through our websites.
 
-We limit access to your PII and data to those persons who have a specific business purpose for maintaining and processing such information.  Ultimate Software’s employees who have been granted physical access to your PII will be made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so.
+We limit access to your PII and data to those persons who have a specific business purpose for maintaining and processing such information.  Ultimate Software’s employees who have been granted physical access to your PII are made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so.
 
 ## Data Integrity
 
@@ -90,7 +86,7 @@ Where Ultimate Software has knowledge that one of Ultimate Software’s employee
 At any time you may contact Ultimate Software with questions or concerns about this Privacy Policy at [privacy@ultimatesoftware.com](mailto:privacy@ultimatesoftware.com). Written responses may also be submitted to:
 
 The Ultimate Software Group  
-Attention: Vice President of Governance, Risk & Compliance  
+Attention: Vice President of Privacy, Risk & Compliance  
 1485 North Park Drive  
 Weston, FL 33326 
 
@@ -100,4 +96,4 @@ Ultimate Software will investigate and attempt to resolve complaints and dispute
 
 ## Changes to This Privacy Policy
 
-The practices described in this Policy are the current PII protection policies as of June 9, 2014. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. 
+The practices described in this Policy are the current PII protection policies approved on June 9, 2014 and last reviewed on 7/16/2015. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. 
