@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mydomain.com privacy policy that was archived on 2015-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151116143157id_/https%3A//www.mydomain.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydomain.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616215649id_/http%3A//www.mydomain.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,13 +12,47 @@
 <link rel="shortcut icon" href="http://images.mydomain.com/icons/favicon_myd.ico">
 <link rel="apple-touch-icon" href="http://images.mydomain.com/icons/apple-touch-icons/apple-touch-icon-mydomaincom.png">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
-<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script src="/generalAppC/javascripts/mydomaincom/util-functions.js"></script><script src="/generalAppC/javascripts/mydomaincom/input-fields.js"></script><script src="/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js"></script><script src="/generalAppC/javascripts/mydomaincom/superfish.js"></script><script src="/generalAppC/javascripts/mydomaincom/scripts.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script src="/generalAppC/javascripts/mydomaincom/util-functions.js"></script><script src="/generalAppC/javascripts/mydomaincom/input-fields.js"></script><script src="/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js"></script><script src="/generalAppC/javascripts/mydomaincom/superfish.js"></script><script src="/generalAppC/javascripts/mydomaincom/scripts.js"></script>
+
 
 <script>
 window.V = window.V || {};
 V.cart = V.cart || {
 	items: []
 };
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.mydomain.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 750);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
 </script>
 
 
@@ -33,7 +67,7 @@ V.cart = V.cart || {
 
 
 
-		<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=66651396"></script></head><body id="stylesheet1"><block>
+		</head><body id="stylesheet1"><block>
 			<style>
 				.quicklinks {width: 200px; float: right; margin: 0 0 2em 2em;}
 				.info_msg {width: 400px;}
@@ -113,10 +147,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul></div>
 <div id="search"><div id="title">
 <li class="log-in"><a href="/controlpanel/">Log In</a></li>
-<li class="webmail"><a href="/mail/">WebMail</a></li>
+<li class="webmail"><a href="/secure/login.bml?showWebmailTab=1">WebMail</a></li>
 <ul class="second-row">
 <li class="log-in">Call Us 800-405-7875</li>
-<li class="webmail livechat"><a class="gtm_chat" href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1&amp;ref=chatbubble" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Live Chat</a></li>
+<li class="webmail livechat"><a class="gtm_chat" href="#chat">Live Chat</a></li>
 </ul>
 </div></div>
 <p class="tagline">The original discount domain registrar since 1998</p>
@@ -434,7 +468,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 					</ul>
 				</li>
 			</ul>		 
-			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on April 30, 2015.</strong></p><strong>
+			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on May 29, 2015.</strong></p><strong>
 </strong><p></p>
 		</block></div>
 </div>
@@ -486,7 +520,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <ul>
 <li><a href="/support/">Support Center</a></li>
 <li><a href="/support/user-guide/">Popular How-To's</a></li>
-<li><a href="/mail/">Webmail Login</a></li>
+<li><a href="/secure/login.bml?showWebmailTab=1">Webmail Login</a></li>
 </ul>
 </div>
 <div class="clearmap"></div>
@@ -504,51 +538,6 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 </div>
 </div></div>
 </div>
-
-
-
-
-
-<script type="text/javascript">
-  var _bcvma = _bcvma || [];
-  _bcvma.push(["setAccountID", "506535311544236990"]);
-  _bcvma.push(["setParameter", "WebsiteDefID", "4053428296471844554"]);
-  _bcvma.push(["setParameter", "ChatWindowDefID", "328533921525693678"]);
-  _bcvma.push(["setParameter", "ChatWidth", "640"]);
-  _bcvma.push(["setParameter", "ChatHeight", "480"]);
-  _bcvma.push(["setParameter", "InvitationDefID", "588035302132977989"]);
-  _bcvma.push(["setParameter", "WindowScheme", "http"]);
-  _bcvma.push(["pageViewed"]);
-  (function(){
-    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
-    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/506535311544236990/bc.vms3/vms.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
-  })();
-</script>
-
-
-	<a href="http://www.boldchat.com" title="Live Chat" rel="nofollow" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/506535311544236990/bc.vmi?wdid=4053428296471844554" border="0" width="1" height="1"></a>
-
-
-<script type="text/javascript">
-_gaq.push(['_setCustomVar',2,'Boldchat Test','On',1]);
-</script>
-
-
-
-
-
-	<script type="text/javascript">
-		window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'66651396',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
-	</script>
-
-
-
-
-
-
-
-
 
 
     
