@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pow.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025123451id_/http%3A//pow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pow.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616164510id_/http%3A//pow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,8 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20151025123451id_/http%3A//pow.com/contact.aspx).
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20160616164510id_/http%3A//pow.com/contact.aspx).
 
 **Effective Date: Privacy Notice last modified April 5, 2011.**
 
-© 2015 pow.com 
+© 2016 pow.com 
