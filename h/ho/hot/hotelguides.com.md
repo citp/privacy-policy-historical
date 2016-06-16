@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelguides.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210134335id_/http%3A//hotelguides.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelguides.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145654id_/http%3A//hotelguides.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HotelGuides.com - Our Privacy Policy
 
