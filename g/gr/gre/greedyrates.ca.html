@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greedyrates.ca privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226135417id_/http%3A//www.greedyrates.ca/static/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greedyrates.ca privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616204606id_/http%3A//www.greedyrates.ca/static/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
@@ -102,6 +102,11 @@
                     $(this).addClass('active');
                 }
             });
+            $('.url_link_redirect').click(function() {
+                call('App_Front_Ajax_Controller_Index','getUrlTranslateRedirect',[window.location.pathname]).listen(function(response) {
+                    window.location.href = response.response;
+                })
+            })
         });
         $(window).resize(function() {
             setLinkMenu();
@@ -118,30 +123,23 @@
         <a href="/" class="logo">www.greedyrates.ca</a>
         <ul class="site-nav">
             <li class="site-nav__item active">
-                <a href="javascript:;" class="sub_nav_link site-nav__link compare_credit_card_m_l">Compare Credit Cards</a>
-                <div class="sub-nav">
+<a href="javascript:;" class="sub_nav_link site-nav__link compare_credit_card_m_l">Compare credit cards</a>                <div class="sub-nav">
                     <ul class="sub-nav__list">
-                        <li class="sub-nav__item"><a href="/cards/Rewards-Credit-Cards" class="sub-nav__link">Rewards Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/Travel-Credit-Cards" class="sub-nav__link">Travel Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/cash-back-credit-cards" class="sub-nav__link">Cash Back Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/no-annual-fee-credit-cards" class="sub-nav__link">No Annual Fee Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/Low-Interest-Rate-Credit-Cards" class="sub-nav__link">Low Interest Rate Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/Low-Balance-Transfer-Credit-Cards" class="sub-nav__link">Low Balance Transfer Rate Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/Student-Rewards-Credit-Cards" class="sub-nav__link">Student Credit Cards</a></li>
-                        <li class="sub-nav__item"><a href="/cards/Establish-Credit" class="sub-nav__link">Establish Credit</a></li>
-                        <li class="sub-nav__item"><a href="/cards/Repair-Credit" class="sub-nav__link">Repair Credit</a></li>
-                        <li class="sub-nav__item"><a href="/cards/us-dollar-credit-cards" class="sub-nav__link">U.S. Dollar</a></li>
-                    </ul>
+<li class="sub-nav__item"><a href="/cards/Rewards-Credit-Cards" class="sub-nav__link">Rewards credit cards</a></li><li class="sub-nav__item"><a href="/cards/Travel-Credit-Cards" class="sub-nav__link">Travel credit cards</a></li><li class="sub-nav__item"><a href="/cards/cash-back-credit-cards" class="sub-nav__link">Cash back credit cards</a></li><li class="sub-nav__item"><a href="/cards/no-annual-fee-credit-cards" class="sub-nav__link">No annual fee credit cards</a></li><li class="sub-nav__item"><a href="/cards/Low-Interest-Rate-Credit-Cards" class="sub-nav__link">Low interest rate credit cards</a></li><li class="sub-nav__item"><a href="/cards/Low-Balance-Transfer-Credit-Cards" class="sub-nav__link">Low balance transfer rate credit cards</a></li><li class="sub-nav__item"><a href="/cards/Student-Rewards-Credit-Cards" class="sub-nav__link">Student credit cards</a></li><li class="sub-nav__item"><a href="/cards/Establish-Credit" class="sub-nav__link">Establish credit</a></li><li class="sub-nav__item"><a href="/cards/Repair-Credit" class="sub-nav__link">Repair credit</a></li><li class="sub-nav__item"><a href="/cards/us-dollar-credit-cards" class="sub-nav__link">U.s. dollar</a></li>                    </ul>
                 </div>
             </li>
             <li class="site-nav__item">
-                    <a href="javascript:;" class="site-nav__link sub_nav_link top_picks_m_l">Top Picks 2015</a>
-                <div class="sub-nav">
+<a href="javascript:;" class="site-nav__link sub_nav_link top_picks_m_l">Top picks 2016</a>                <div class="sub-nav">
                         <ul class="sub-nav__list">
-<li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-rewards-credit-cards.html" class="sub-nav__link">Top Rewards Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-cash-back-credit-cards.html" class="sub-nav__link">Top Cash Back Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-low-interest-credit-cards.html" class="sub-nav__link">Top Low Interest Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-student-credit-cards.html" class="sub-nav__link">Top Student Credit Cards</a></li>                        </ul>
+<li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-cash-back-credit-cards.html" class="sub-nav__link">Top Cash Back Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-low-interest-credit-cards.html" class="sub-nav__link">Top Low Interest Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-student-credit-cards.html" class="sub-nav__link">Top Student Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-rewards-credit-cards.html" class="sub-nav__link">Top Rewards Credit Cards</a></li>                        </ul>
                 </div>
             </li>
 <li class="site-nav__item"><a href="http://www.greedyrates.ca/blog" class="site-nav__link">News &amp; Tips</a></li>        </ul>
+        <ul class="lang__switch">
+            <li class="lang__switchItem">
+                <a href="javascript:;" class="lang__switchLink url_link_redirect">Fr</a>
+            </li>
+        </ul>
         <ul class="social-list">
             <li class="social-list__item"><a target="_blank" class=" social-list__link  social-list__link_tw" href="https://twitter.com/GreedyRates">www.twitter.com</a></li>
             <li class="social-list__item"><a target="_blank" class=" social-list__link  social-list__link_fb" href="https://www.facebook.com/pages/GreedyRates/224093461068587">www.facebook.com</a></li>
@@ -152,24 +150,12 @@
 </header>
 <ul class="site-nav_m" style="display: none;">
     <li class="site-nav_m__item">
-        <a href="javascript:;" class="sub_nav_link site-nav_m__link">Compare Credit Cards</a>
-        <ul class="sub-nav">
-            <li class="sub-nav__item"><a href="/cards/Rewards-Credit-Cards" class="sub-nav__link">Rewards Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/Travel-Credit-Cards" class="sub-nav__link">Travel Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/cash-back-credit-cards" class="sub-nav__link">Cash Back Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/no-annual-fee-credit-cards" class="sub-nav__link">No Annual Fee Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/Low-Interest-Rate-Credit-Cards" class="sub-nav__link">Low Interest Rate Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/Low-Balance-Transfer-Credit-Cards" class="sub-nav__link">Low Balance Transfer Rate Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/Student-Rewards-Credit-Cards" class="sub-nav__link">Student Credit Cards</a></li>
-            <li class="sub-nav__item"><a href="/cards/Establish-Credit" class="sub-nav__link">Establish Credit</a></li>
-            <li class="sub-nav__item"><a href="/cards/Repair-Credit" class="sub-nav__link">Repair Credit</a></li>
-            <li class="sub-nav__item"><a href="/cards/us-dollar-credit-cards" class="sub-nav__link">U.S. Dollar</a></li>
-        </ul>
+<a href="javascript:;" class="sub_nav_link site-nav_m__link">Compare credit cards</a>        <ul class="sub-nav">
+<li class="sub-nav__item"><a href="/cards/Rewards-Credit-Cards" class="sub-nav__link">Rewards credit cards</a></li><li class="sub-nav__item"><a href="/cards/Travel-Credit-Cards" class="sub-nav__link">Travel credit cards</a></li><li class="sub-nav__item"><a href="/cards/cash-back-credit-cards" class="sub-nav__link">Cash back credit cards</a></li><li class="sub-nav__item"><a href="/cards/no-annual-fee-credit-cards" class="sub-nav__link">No annual fee credit cards</a></li><li class="sub-nav__item"><a href="/cards/Low-Interest-Rate-Credit-Cards" class="sub-nav__link">Low interest rate credit cards</a></li><li class="sub-nav__item"><a href="/cards/Low-Balance-Transfer-Credit-Cards" class="sub-nav__link">Low balance transfer rate credit cards</a></li><li class="sub-nav__item"><a href="/cards/Student-Rewards-Credit-Cards" class="sub-nav__link">Student credit cards</a></li><li class="sub-nav__item"><a href="/cards/Establish-Credit" class="sub-nav__link">Establish credit</a></li><li class="sub-nav__item"><a href="/cards/Repair-Credit" class="sub-nav__link">Repair credit</a></li><li class="sub-nav__item"><a href="/cards/us-dollar-credit-cards" class="sub-nav__link">U.s. dollar</a></li>        </ul>
     </li>
     <li class="site-nav_m__item">
-            <a href="javascript:;" class="site-nav_m__link sub_nav_link">Top Picks 2015</a>
-            <ul class="sub-nav">
-<li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-rewards-credit-cards.html" class="sub-nav__link">Top Rewards Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-cash-back-credit-cards.html" class="sub-nav__link">Top Cash Back Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-low-interest-credit-cards.html" class="sub-nav__link">Top Low Interest Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-student-credit-cards.html" class="sub-nav__link">Top Student Credit Cards</a></li>            </ul>
+<a href="javascript:;" class="site-nav_m__link sub_nav_link">Top picks 2016</a>            <ul class="sub-nav">
+<li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-cash-back-credit-cards.html" class="sub-nav__link">Top Cash Back Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-low-interest-credit-cards.html" class="sub-nav__link">Top Low Interest Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-student-credit-cards.html" class="sub-nav__link">Top Student Credit Cards</a></li><li class="sub-nav__item"><a href="http://www.greedyrates.ca/top-picks/top-rewards-credit-cards.html" class="sub-nav__link">Top Rewards Credit Cards</a></li>            </ul>
     </li>
 <li class="site-nav_m__item"><a href="http://www.greedyrates.ca/blog" class="site-nav_m__link">News &amp; Tips</a></li></ul><main class="site-main text-page">
     <div class="box clearfix">
@@ -199,8 +185,8 @@
             <li class="footer-nav__item"><a href="/static/privacy.html" class="footer-nav__link">Privacy policy</a></li>
         </ul>
         <p class="copyright">
-            <span class="copyright__text">Copyright 2015 GreedyRates.com. All rights reserved</span>
-            <span class="copyright__text">Designed by Pacatum San Francisco Web Designers</span>
+            <span class="copyright__text">Copyright 2016 GreedyRates.com. All rights reserved</span>
+            <span class="copyright__text">Designed by pacatum san francisco web designers</span>
         </p>
     </div>
     <div class="footer_m">
@@ -212,7 +198,7 @@
         </ul>
         <ul class="footer_m-nav">
             <li class="footer_m-nav__item"><a href="/static/about.html" class="footer_m-nav__link">About us</a></li>
-            <li class="footer_m-nav__item"><a href="/static/privacy.html" class="footer_m-nav__link">Privacy Policy</a></li>
+            <li class="footer_m-nav__item"><a href="/static/privacy.html" class="footer_m-nav__link">Privacy policy</a></li>
             <li class="footer_m-nav__item"><a href="/static/terms.html" class="footer_m-nav__link">Terms of use</a></li>
         </ul>
     </div>
@@ -220,12 +206,10 @@
 
 <div class="popup-bg" style="display: none;"></div>
 
+<div style="display: none;" id="LocalizerStrings">
+<div data-key="Estimate your interest savings">Estimate your interest savings</div><div data-key="Estimate your balance transfer savings">Estimate your balance transfer savings</div><div data-key="Estimate your monthly credit card spend">Estimate your monthly credit card spend</div></div>
 <script src="/js/modules/common.js"></script>
+<script src="/js/localiser.js"></script>
 
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
