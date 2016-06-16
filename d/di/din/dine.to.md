@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005052513id_/http%3A//www.dine.to/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191815id_/http%3A//www.dine.to/privacy.php) for the most accurate reproduction.*
 
 # Dine.TO Privacy Policy
 
-**Dine.TO** _a division of Candia Group Inc._
+**Dine.TO** _a division of Yellow Media Limited_
 
 590 King Street West, 2nd floor (YP Offices)  
 Toronto, Ontario, M5V 1M3, Canada  
