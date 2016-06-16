@@ -1,9 +1,122 @@
-> *The following text is extracted and transformed from the parkme.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213153417id_/https%3A//www.parkme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkme.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617001222id_/https%3A//www.parkme.com/privacy) for the most accurate reproduction.*
 
 # ParkMe - Privacy Policy
 
-**PRIVACY POLICY  
-** **8/15/2013**
+**ParkMe App –** **Privacy Policy**
+
+Effective Date: 1-15-16
+
+Welcome to the ParkMe App (the “ **App** ”) from ParkMe, an INRIX company, and thanks for taking the time to read our Privacy Policy. This Privacy Policy sets out how we collect, use, and share Personal Information that we obtain about you through the App. 
+
+Our Privacy Policy explains:
+
+  * What information we collect and why we collect it.
+
+  * How we share that information.
+
+  * Your rights and choices with regard to that information.
+
+  * The steps we take to protect that information.
+
+  * Limitations with regard to third party websites and content.
+
+  * How we transfer your information.
+
+  * How we may make changes to our Privacy Policy.
+
+  * How you may contact us. 
+
+
+
+
+_**INFORMATION WE COLLECT AND HOW WE USE IT**_
+
+We gather and use Personal Information about you through the App as described below. “Personal Information” means any information about an identified or identifiable individual. 
+
+**1.** _ **Information you provide directly to us**_
+
+**Account information**. You may create an account in our App by registering in “Settings” with an email address and password. 
+
+**Reports** : You may report issues with our maps to us, so that we can improve them. We will not disclose such reports to other App users. 
+
+**Your contact information** : We may use the contact information you provide to us to communicate with you, including through e-mail communications, mobile text messages, in-App messages, and push notifications. For example, we may use your email address, phone number, or other information that you provide to us (i) to contact you to verify your email address or phone number; (ii) to contact you for administrative purposes such as customer service, to respond to your inquiries, to manage your account, or otherwise provide user support; and (iii) to provide service-related messages such as notifications, confirmations, updates, and security alerts. Where required by applicable law, we will obtain your consent to send you marketing communications by electronic means.
+
+**Payment-related information**.  We may ask you to provide us with information we need to enable you to pay for certain services or offers using the App.  This information may include information about your payment card and billing address.  If we collect this information from you, we will use a trusted third-party payment processor to process your payments, and will allow you to review your payments in the App.
+
+_**2\. Information we obtain from your use of our App**_
+
+**Location**. We will only collect geo-location information with your authorization and as permitted by your device settings, and we will only use it in accordance with this Policy. You may at any time opt-out of the collection of your location information via your device settings. Turning off the collection of your location information will result in not receiving data for your specific location.
+
+**Other usage information**. When you use our App, we may record certain information from your device and your use of the App, such as feature usage and account status. We may use that information in de-identified form for analytics purposes. 
+
+_**HOW WE SHARE YOUR INFORMATION**_
+
+We do not sell or rent your Personal Information to marketers or third parties. We may, however, share or disclose your Personal Information as follows:
+
+  * **Members of our group.** We may share your Personal Information to any members of our group, which includes our affiliates, subsidiaries and branch offices, to which it is reasonably necessary or desirable for us to disclose your Personal Information in order to carry out the above-mentioned information processing purposes.
+
+
+
+  * **Service providers**. We may share your Personal Information with service providers who perform services on our behalf. When we work with service providers, we require them by contract to only use or disclose the Personal Information they process on our behalf as necessary to perform certain services on our behalf or comply with legal requirements. 
+
+
+
+  * **Compliance with laws and law enforcement**. We will share your Personal Information if we, in our good faith judgment, believe it is necessary to: (i) investigate and defend ourselves against any third-party claims or allegations; (ii) comply with laws and legal process (including valid subpoenas, court orders, or government requests); (iii) take precautions against liability and protect the property, rights, and safety of our company, our App users, or others as required or permitted by law; (iii) enforce our Terms of Use or other agreements; (iv) prevent or stop activity we believe to be illegal, fraudulent, abusive, unethical or legally actionable; and (v) detect, prevent, or otherwise address fraud, the security or integrity of our App or equipment used to make the App available, or any other technical issues.
+
+
+
+  * **Business Transfers**. If our business is involved in a merger, acquisition, reorganization, sale of assets, or bankruptcy, your Personal Information may be disclosed and otherwise transferred to an acquirer, or successor or assignee. Should such operation occur, we will use reasonable efforts to direct the acquirer to use your Personal Information in a manner that is consistent with this Privacy Policy. Following such operation, you may contact the entity to which we transferred your Personal Information with any inquiries concerning the processing of that information.
+
+
+
+  * **Other Disclosures**. We may disclose your Personal Information in other ways when we have your consent to do so.
+
+
+
+
+We may share statistical data that does not identify you with App users and third party partners for reporting purposes e.g., to derive or report on traffic flows.
+
+_**YOUR RIGHTS AND CHOICES**_
+
+Subject to applicable law, you may have the right to request access to and receive information about the Personal Information we maintain about you, update and correct inaccuracies in your Personal Information, and have the information blocked or deleted, as appropriate. The right to access Personal Information may be limited in some circumstances by local law requirements. You also have the right to withdraw your consent to the collection of your Personal Information. You may at any time stop the collection of your information via the settings of your device, or by uninstalling the App. Note however that if you exercise your right of blocking or deletion, if you decline to share certain Personal Information with us, or if you withdraw your consent, we may not be able to provide to you some of the features and functionalities of the App. 
+
+If you receive promotional messages from us, you may unsubscribe at any time by following the opt-out instructions contained within the message. Even after you opt-out of receiving promotional messages from us, you may continue to receive administrative messages from us regarding the App. You may turn off push notifications through your device settings.
+
+To exercise your rights and choices to your Personal Information, please visit the settings section in the App or contact us by using the contact details provide below under “Our Contact Information”. 
+
+_**INFORMATION SECURITY**_
+
+We maintain technical and organizational measures intended to protect the Personal Information we obtain about you through the App against unauthorized or unlawful processing and against accidental loss, destruction or damage. 
+
+_**THIRD PARTY WEBSITES AND CONTENT**_
+
+Our App may provide links to other websites for your convenience and information. These websites may operate independently from ParkMe. Linked websites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by ParkMe, we are not responsible for the websites’ content, any use of the websites, or the privacy practices of the websites. 
+
+_**INTERNATIONAL DATA TRANSFERS**_
+
+If you are in the European Economic Area (EEA) or other region with laws governing data collection and use that differ from those of the United States, please note that your information, including your Personal Information, may be transferred to countries located outside the EEA, in particular to the United States, and those countries may not have the same level of protection as the country in which you initially provided that information. When we transfer your Personal Information we will protect it as described in this Policy. 
+
+_**CHANGES TO OUR PRIVACY POLICY**_
+
+We may revise this Privacy Policy from time to time. When we do, we will post the revised policy in the App, and the revised version will be effective when it is posted. If we make any material changes to this policy, we will notify you of such changes, and we will indicate when such changes will become effective.
+
+_**OUR CONTACT INFORMATION**_
+
+If you have any questions about this Privacy Policy and the way in which we handle your Personal Information, or to exercise your rights and choices, please contact us at:
+
+ParkMe
+
+An INRIX Company  
+10210 NE Points Drive  
+Suite 400  
+Kirkland, WA, USA 98033  
+support@parkme.com
+
+* * *
+
+**ParkMe Website –** **Privacy Policy**
+
+Effective Date: 8-15-13
 
 ParkMe, Inc **.** ("ParkMe") provides this notice explaining our online information practices and the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not use our Mobile Applications or Website (collectively, the “Service”), and, if you have registered an account with us, disable your account through the Service or ask that your registration be cancelled by emailing us at [info@parkme.com](mailto:info@parkme.com). This policy applies only to information ParkMe collects from you in connection with your use of the Service. By using the Service, you agree to accept the practices and terms set forth in this Privacy Policy. Capitalized terms not defined in this policy shall have the meaning set forth in the [ParkMe EULA](http://www.parkme.com/terms-of-use).
 
