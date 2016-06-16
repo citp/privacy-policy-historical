@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.sg privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026154329id_/http%3A//www.statravel.com.sg/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.sg privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617002156id_/http%3A//www.statravel.com.sg/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy | STA Travel | Privacy policy
 
@@ -36,4 +36,4 @@ The STA Travel site may contain links to web sites operated and maintained by th
 
  **Your consent** By using our site, you consent to the collection and use of this information by STA Travel.
 
- **Feedback** STA Travel welcomes your questions and comments about privacy. Please contact us if you have any queries via the links below. STA Travel reserves the right to alter our privacy policy, as business needs requires. Any alterations to this policy will be posted on our website in a timely manner. Send an email to [marketing@statravel.com.sg](mailto:marketing@statravel.com.sg). 
+ **Feedback** STA Travel welcomes your questions and comments about privacy. Please contact us if you have any queries via the links below. STA Travel reserves the right to alter our privacy policy, as business needs requires. Any alterations to this policy will be posted on our website in a timely manner. Send an email to [marketing.sg@statravel.com](mailto:marketing.sg@statravel.com)
