@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229035930id_/https%3A//www.mailjet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051553id_/https%3A//www.mailjet.com/privacy-policy) for the most accurate reproduction.*
 
-# Mailjet Personal Data Protection and Privacy Policy - Email marketing software - Mailjet
+# Mailjet Personal Data Protection and Privacy Policy - Email Marketing - SMTP services - Mailjet
 
 This document describes Mailjet’s rules on managing, processing and storing personal data submitted in the context of Mailjet services.
 
