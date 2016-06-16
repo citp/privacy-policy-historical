@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imshopping.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215000929id_/http%3A//www.imshopping.com/content/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imshopping.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235226id_/http%3A//www.imshopping.com/content/privacyPolicy) for the most accurate reproduction.*
 
 # IMshopping
 
@@ -15,6 +15,12 @@ IMshopping may collect information from or about you when you use the Service, i
 
 
 You may request that we cease using and/or delete some or all of your information by changing your account settings or contacting Customer Service as indicated below. Additionally, we may from time to time provide you with the opportunity to “opt-in” and/or “opt-out” of receiving certain communications from us or our third party affiliates, and these settings can be changed at any by changing your account settings or contacting Customer Service as indicated below. You agree that such actions, including the deletion of your information and/or your election to opt-out of receiving certain communications, may impact your ability to fully use the Service. 
+
+**Do Not Track**
+
+We do not allow third parties to collect your personally identifiable information or track your actions through cookies and web beacons over time and across different websites or platforms.
+
+In addition, you may be able to adjust your browser settings or other settings so that "do not track" requests are sent to the websites and mobile applications that you use. However, IMshopping will not disable tracking technology that may be active on this website in response to any "do not track" requests that are sent to the Service. 
 
 **Customer Service**
 
@@ -67,4 +73,4 @@ If you need help using the Service or have a question regarding the Terms of Ser
     408-228-4456 
     
 
-Last updated as of March 28, 2009. 
+Last updated as of January 22, 2016. 
