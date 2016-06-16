@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the outerknown.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906112449id_/http%3A//www.outerknown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerknown.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616103227id_/http%3A//www.outerknown.com/privacy-policy) for the most accurate reproduction.*
 
 # Outerknown | Privacy
+
+## BE THE FIRST IN THE LINE UP
+
+Be the first to know about new arrivals, sales, and special events.  
+Plus, receive 15% off your first purchase.  
+
+
+This email address is already subscribed.
+
+## THANKS FOR SIGNING UP
+
+We’ve added you to our list and will be sending you details of our 15% offer shortly.
 
 Effective Date: September 8, 2014
 
