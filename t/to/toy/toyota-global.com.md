@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128040428id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616161846id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
 
 # Toyota Global Site | Privacy Policy
 
@@ -10,7 +10,7 @@ Toyota Motor Corporation (hereinafter referred to as the "Company") has establis
 
 The Company will, when obtaining any Personal Information, identify the purpose of use thereof and obtain it to the extent it becomes necessary and through a lawful and fair manner.  
 When any customer should contact our "Customer Assistance Center" mentioned below (hereinafter referred to as "CA Center", any communication are to be recorded in order to confirm the details.  
-In addition, the Company has adopted a number displaying system so that the Company may return a call to such customer for a follow up in case of necessity. We would appreciate your understanding in this regard. 
+In addition, the Company has adopted a number displaying system so that the Company may return a call to such customer for a follow up in case of necessity. We would appreciate your understanding in this regard.
 
 ## 2.Handling of Personal Information
 
