@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanshalshaw.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233539id_/http%3A//www.evanshalshaw.com/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanshalshaw.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616160742id_/http%3A//www.evanshalshaw.com/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,3 +25,8 @@ Under the Data Protection Act 1998, you may request details of personal informat
 If you believe that any information Evans Halshaw holds about you is incorrect or incomplete, you should write to the Data Protection Officer at the above address. Any information which is found to be incorrect will be corrected as soon as possible.
 
 Calls to Evans Halshaw may be recorded for quality and training purposes.
+
+**Other information we collect:**  
+SessionCam - We also use the SessionCam web site recording service. SessionCam is a product that has been developed by www.servicetick.com. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive information and it is for internal use only. Personal data may be collected and will be treated in accordance with the DPA. Information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting. 
+
+You can refuse to accept the cookies we use by adjusting your browser settings. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site and some online products.
