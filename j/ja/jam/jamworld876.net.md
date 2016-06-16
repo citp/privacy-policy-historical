@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215162306id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616121723id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Jamworld876
 
@@ -37,7 +37,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### What is a cookie?
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
 
 You can find more information about cookies at:
 
@@ -92,6 +92,6 @@ You may request details of personal information which we hold about you under th
 
 A small fee will be payable.
 
-If you would like a copy of the information held on you please write to: jamworldblog@gmail.com
+If you would like a copy of the information held on you please write to: jamworldblog@gmail.com 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
