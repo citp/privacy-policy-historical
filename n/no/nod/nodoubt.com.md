@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodoubt.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103215913id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodoubt.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616184217id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
 # UMG Privacy Policy
 
@@ -127,4 +127,4 @@ Any material changes we may make to our privacy policy in the future will be pos
 
 ## • CONTACT 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Universal Music Group, 2220 Colorado Ave, Santa Monica, CA 90404 Attn: Head of Global or email us by clicking [here](http://privacypolicy.umusic.com/email/default.asp).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Universal Music Group, 2220 Colorado Ave, Santa Monica, CA 90404 Attn: Head of Global or email us by clicking [here](http://privacypolicy.umusic.com/email/).
