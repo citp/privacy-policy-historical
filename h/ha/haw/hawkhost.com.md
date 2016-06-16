@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawkhost.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225235629id_/https%3A//www.hawkhost.com/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawkhost.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052741id_/https%3A//www.hawkhost.com/Legal/privacy) for the most accurate reproduction.*
 
 # Hawk Host Privacy Policy
 
