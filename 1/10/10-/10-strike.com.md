@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133215id_/http%3A//www.10-strike.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063655id_/http%3A//www.10-strike.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
