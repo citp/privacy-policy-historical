@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908162510id_/https%3A//www.gonitro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616212717id_/https%3A//www.gonitro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nitro
 
@@ -8,11 +8,7 @@ Revised: 22 June, 2015
 
 Welcome to the website of Nitro Software, Inc. (“Nitro”, “we”, “us” and/or “our”). We have prepared this Privacy Policy to explain how we collect, use, protect and disclose information and data when you use any Nitro website ("Site(s)") and Nitro services, including any software, products or other services offered by Nitro from time to time (collectively, "Services"). "You" refers to you as a user of the Site or Services.
 
-Nitro has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the websites: [http://www.gonitro.com](http://www.gonitro.com/), <https://www.gonitro.com/pdf-reader>, [http://www.pdftoword.com](http://www.pdftoword.com/), [http://www.pdftoexcelonline.com](http://www.pdftoexcelonline.com/) and [http://www.primopdf.com](http://www.primopdf.com/).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
-
-Nitro complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Nitro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nitro’s certification, please visit <http://www.export.gov/safeharbor/>
+Nitro complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Nitro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nitro’s certification, please visit <http://export.gov/safeharbor/>
 
 ##### Information we collect
 
