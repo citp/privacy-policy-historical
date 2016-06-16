@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227232940id_/http%3A//foreignpolicy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616122213id_/http%3A//foreignpolicy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Foreign Policy
 
@@ -80,7 +80,7 @@ When you visit the Site, we use session “cookies” — a piece of information
 
 **Advertisement Choices**
 
-Online advertising for foreignpolcy.com is delivered by the vendor DoubleClick. DoubleClick places cookies on your browser to facilitate serving particular ads – for instance, to help determine whether you have seen a particular advertisement before, to tailor ads to you if you have visited our Site before, and to avoid sending you duplicate advertisements. You can opt out of DoubleClick’s use of cookies for these purposes by visiting <http://www.google.com/intl/en/privacy/>.
+Online advertising for foreignpolicy.com is delivered by the vendor DoubleClick. DoubleClick places cookies on your browser to facilitate serving particular ads – for instance, to help determine whether you have seen a particular advertisement before, to tailor ads to you if you have visited our Site before, and to avoid sending you duplicate advertisements. You can opt out of DoubleClick’s use of cookies for these purposes by visiting <http://www.google.com/intl/en/privacy/>.
 
 In some cases, we and advertisers on foreignpolicy.com and other sites work with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity (e.g., the sites and pages you have visited) in order to help advertisers deliver particular ads on our Site and other sites that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting <http://www.aboutads.info/>.
 
