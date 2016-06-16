@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudecomedy.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230135858id_/http%3A//dudecomedy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudecomedy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616133955id_/http%3A//dudecomedy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,6 +55,3 @@ Questions regarding this Statement or the practices of the Site should be direct
 Disputes/Arbitration
 
 DudeComedy will attempt to investigate and promptly resolve any disputes or complaint regarding the interpretation or compliance with this Statement. In the event that DudeComedy is unable to resolve any issues or complaints to your satisfaction, then the dispute, claim or controversy arising out of or relating to this Statement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this Statement to arbitration, shall be determined by arbitration in Seattle, Washington before a single arbitrator.
-
-[](http://thro.me/pkrGf)   
-[](http://thro.me/BottomLaserDude)
