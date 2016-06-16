@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the custom404error.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029142946id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the custom404error.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616192157id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
