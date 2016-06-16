@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052310id_/http%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060143id_/https%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,9 +58,7 @@ Please see our [Cookie Policy](https://web.archive.org/help/cookie-policy/) for 
 
 #### 4\. Where Will We Store Your Personal Data?
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed and use by staff operating outside the EEA who work for us or by one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your request, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
-
-All information you provide to us is hosted and stored on Amazon Web Services cloud-based services (for further information on the measures taken by Amazon to protect the security of their servers and your personal data, please see: http://aws.amazon.com/security/). If you are not satisfied with the levels of security offered by our cloud provider, you should restrict the nature and amount of personal data or confidential information which you include in your log data or not use the Services. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Services, you are responsible for keeping this password confidential. You must not to share a password with anyone.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed and use by staff operating outside the EEA who work for us or by one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your request, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. All information you provide to us is hosted and stored on Amazon Web Services cloud-based services (for further information on the measures taken by Amazon to protect the security of their servers and your personal data, please see: http://aws.amazon.com/security/). If you are not satisfied with the levels of security offered by our cloud provider, you should restrict the nature and amount of personal data or confidential information which you include in your log data or not use the Services. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Services, you are responsible for keeping this password confidential. You must not to share a password with anyone.
 
 #### 5\. Will Lyst Share Any Of The Personal Data It Receives?
 
@@ -70,51 +68,63 @@ Personal data about our customers is an integral part of our business. We neithe
 
 Lyst works with a variety of merchants (“Lyst Partners”) in order to offer you the widest possible choice of fashion items through the services. We promote and sell the items offered by the Lyst Partners through the Services. When you choose to buy an item, you may be taken directly to their online store. You can easily recognise when a third-party business is associated with your transaction, and we will share your personal data that is related to such transactions with that business. Please note that: (i) the third-party business will use and share your personal data in accordance with its privacy policy; (ii) you should check its policy before completing any transaction involving such third-party business; and (iii) such third-party business is solely responsible for its use and sharing of your personal data.
 
-##### ii. Stripe
+##### ii. Klarna checkout
 
-We use a third party payment process provider called Stripe to process certain credit card and debit card transactions you make through the Services via our Integrated Checkout service (please see section 5(ix) below). Please note that we will share your personal data with Stripe that it is related to such transactions and Stripe may collect personal data from you directly via cookies or other means in order to process such transactions. Stripe does not sell or rent your personal Information to marketers or third parties. Please note that Stripe may transfer, process and store your personal data that it collects outside of EU member states. Stripe has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. The Safe Harbor certification for Stripe, Inc. can be viewed on the U.S. Department of Commerce’s Safe Harbor Web Site. Your personal data may be subject to disclosure by Stripe as required by applicable law. You can find out more about how Stripe collects and uses your personal data by clicking https://stripe.com/gb/privacy if you are a UK customer or https://stripe.com/us/privacy if you are a US customer, or by selecting the relevant privacy policy for your country by following these links. By using the Services and making payments through the Services, you are agreeing to Stripe's use of your personal data in accordance with their privacy policy.
+For payments made on Lyst via Klarna checkout, we use a third party payment process provider called Klarna. In order to pay for items via Klarna checkout you must contract with Klarna directly for their payment services. Your transaction with Klarna is subject to Klarna’s terms and conditions. Klarna is solely responsible for its use and sharing of your personal data, and you should carefully review Klarna’s privacy policy before completing a transaction via Klarna checkout. Klarna’s full terms and conditions are available to view [here](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/checkout) and its Privacy Policy is available [here.](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy)
 
-##### iii. Other Third Parties
+##### iii. Stripe
+
+For certain transactions made via our Integrated Checkout, we also use a third party payment process provider called Stripe (please see section 5(ix) below). Please note that we will share your personal data with Stripe that is related to such transactions and Stripe may collect personal data from you directly via cookies or other means in order to process such transactions. Stripe does not sell or rent your personal Information to marketers or third parties. Please note that Stripe may transfer, process and store your personal data that it collects outside of EU member states. Stripe has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. The Safe Harbor certification for Stripe, Inc. can be viewed on the U.S. Department of Commerce’s Safe Harbor Web Site. Your personal data may be subject to disclosure by Stripe as required by applicable law. You can find out more about how Stripe collects and uses your personal data by clicking https://stripe.com/gb/privacy if you are a UK customer or https://stripe.com/us/privacy if you are a US customer, or by selecting the relevant privacy policy for your country by following these links. By using the Services and making payments through the Services, you are agreeing to Stripe's use of your personal data in accordance with their privacy policy.
+
+##### iv. Other Third Parties
 
 We may share your personal data with selected third parties including advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
 We may also share your personal data to analytics and search engine providers that assist us in the improvement and optimisation of our site. We have implemented the Google Analytics Demographics and Interest Reporting feature. Click [here](https://www.google.com/settings/ads/) for information on opting out of Google Analytics features.
 
-##### iv. Agents
+##### v. Agents
 
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Lyst’s agents do not have any right to use personal data we share with them beyond what is necessary to assist us.
 
-##### v. User Profiles and Other Information You Post
+##### vi. User Profiles and Other Information You Post
 
 User profile information including your username, name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Services and allow you to follow other users, and them to follow you. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any personal data or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.), as well as the items and "Lysts" you compile on the Services, become publicly available and can be viewed, collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Services may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 
 Please be aware that whenever you voluntarily post information to public areas on the Services or any other public forums, such information can be accessed by the public.
 
-##### vi. Communication in Response to User Submissions
+##### vii. Communication in Response to User Submissions
 
 As part of the Services, you will receive from Lyst email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Lyst may send you email and other communication that it determines in its sole discretion relate to your User Submissions. Lyst may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Lyst account, which you may not be able to opt-out from receiving.
 
-##### vii. Business Transfers
+##### viii. Business Transfers
 
 In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Lyst, or substantially all of its assets were acquired, or in the unlikely event that Lyst goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Lyst may continue to use your Personal Information as set forth in this policy.
 
-##### viii. Protection of Lyst and Others and a Transfer in the Ownership of Lyst
+##### ix. Protection of Lyst and Others and a Transfer in the Ownership of Lyst
 
 We may release personal data when we believe in good faith that release is necessary to comply with the law, regulation or legal request; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Lyst, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. You agree that we may also share your data with entities where Lyst is engaged in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy.
 
-##### ix. Integrated Checkout
+##### x. Integrated Checkout
 
-We allow you to purchase items from different multiple different Lyst Partners via the Services through our Integrated Checkout service. Lyst Partners that are part of our Integrated Checkout marketplace (please see the [Terms & Conditions](https://web.archive.org/help/terms-and-conditions/) for more information on the Integrated Checkout service) promote and market their items to you through the Services.
+We allow you to purchase items from multiple different Lyst Partners via the Services through our Integrated Checkout service. Lyst Partners that are part of our Integrated Checkout marketplace (please see the [terms and conditions](https://web.archive.org/help/terms-and-conditions/) for more information on the Integrated Checkout service) promote and market their items to you through the Services. Purchases made using our Integrated Checkout Service are processed either:
 
-When you make a purchase through our Integrated Checkout services, we will share your personal data that is related to such transactions with the relevant Lyst Partner from whom you have purchased the item(s), but only using our secure systems. These details will be encrypted and used to process card transactions which you have initiated and may be used by the Lyst Partner, along with other personal data, as set forth in such Lyst Partners’ privacy policies for a number of purposes, including, without limitation, for keeping you up to date with their latest products, developments, and trends. We require the Lyst Partners to honor your opt-out requests if you elect to stop receiving these marketing e-mails. Please be advised that you cannot opt-out of receiving emails related to your transactions. If, for whatever reason, a Lyst Partner does not honor your opt-out request, please let us know and we will attempt to resolve the issues. Again, these Lyst Partners are solely responsible for their use and sharing of your personal data, and you should carefully review their privacy policies before completing a transaction on our Integrated Marketplace.
+(a) by the Lyst Partner using information that you provide to us, or
+
+(b) by a third party payment process provider called Klarna (please see the [terms and conditions](https://web.archive.org/help/terms-and-conditions/) for more information on Klarna and the Integrated Checkout service).
+
+When you make a purchase through our Integrated Checkout services using Klarna checkout, you will transact with Klarna directly for their payment services and provide your payment details directly to Klarna to enable them to process payment for your order. Your details may be used by Klarna in accordance with Klarna’s privacy policy. Klarna is solely responsible for its use and sharing of your personal data. You should carefully review Klarna’s privacy policy before completing a transaction using Klarna checkout. Klarna’s privacy policy can be viewed [here.](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy)
+
+Further when you make a purchase through our Integrated Checkout services, we will share your personal data that is related to such transactions with the relevant Lyst Partner from whom you have purchased the item(s), but only using our secure systems. These details will be encrypted and used to process card transactions transactions and/or the orders which you have initiated. The details we provide may be used by the Lyst Partner, along with other personal data, as set forth in such Lyst Partners’ privacy policies for a number of purposes, including, without limitation, for keeping you up to date with their latest products, developments, and trends. Lyst Partners are solely responsible for their use and sharing of your personal data, and you should carefully review their privacy policies before completing a transaction on our Integrated Marketplace.
+
+We require our partners to honor your opt-out requests if you elect to stop receiving marketing e-mails. Please be advised that you cannot opt-out of receiving emails related to your transactions. If, for whatever reason, your opt-out request is not honored, please let us know and we will attempt to resolve the issues.
 
 We may also share your data with Lyst Partners in connection with certain promotions and competitions. These will be subject to additional rules and conditions which will be made available at the time of any such competition or promotion. You should carefully review the rules and conditions relating to such competitions and promotions.
 
-##### x. With Your Consent
+##### xi. With Your Consent
 
 By using the Services, you consent to our sharing of personal data for the above purposes.
 
-##### xi. Affiliates
+##### xii. Affiliates
 
 We may share some or all of your personal data with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
 
@@ -138,7 +148,7 @@ Lyst allows you to access the following information about you for the purpose of
 
 The information you can access will change as the Services change.
 
-If you a are registered user of Lyst, you can change or delete saved credit/debit card details and add or edit shipping and billing address information.
+If you are a registered user of Lyst, you can change or delete any saved payment card details and add or edit shipping and billing address information.
 
 You have the right to access information held about you. In the UK the Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You may at any time request correction or deletion of your personal data, and object to any processing of your personal data by emailing us at legal@lyst.com. We will respond to your access and/or correction request within four (4) weeks.
 
@@ -168,4 +178,4 @@ Lyst may amend this Policy from time to time. Use of information we collect now 
 
 If you have any questions or concerns regarding privacy on our Services or the Content, please send us a detailed message here. We will make every effort to resolve your concerns. If your questions or concerns are not answered online, you may write to us at 48 Hoxton Square, London N1 6PB.
 
-Effective Date: Nov 17th 2014
+Effective Date: 26 January 2016
