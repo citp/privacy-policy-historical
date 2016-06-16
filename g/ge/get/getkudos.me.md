@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getkudos.me privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033037id_/https%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkudos.me privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061505id_/https%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zendesk
 
