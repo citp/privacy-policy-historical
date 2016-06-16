@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003214id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055044id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
 
 # Terms and Policies - NamePros
 
-[ ](http://xmas.global/?utm_source=namepros&utm_medium=banner&utm_campaign=xmas)
+[ ](https://ad.doubleclick.net/ddm/jump/N9515.1917964NAMEPROS.COM/B9166586.124566472;sz=728x90;ord=756856?)
 
 Legal terms for use of NamePros
 
@@ -15,15 +15,17 @@ These terms may change without explicit notice. Each top-level section header ha
     3. [About Individual Data Collectors](https://web.archive.org/pages/terms/#privacy-collectors)
       1. [NamePros](https://web.archive.org/pages/terms/#privacy-collectors-namepros)
       2. [CloudFlare](https://web.archive.org/pages/terms/#privacy-collectors-cloudflare)
-      3. [Mandrill](https://web.archive.org/pages/terms/#privacy-collectors-mandrill)
-      4. [Google](https://web.archive.org/pages/terms/#privacy-collectors-google)
-      5. [Quantcast](https://web.archive.org/pages/terms/#privacy-collectors-quantcast)
-      6. [Stripe](https://web.archive.org/pages/terms/#privacy-collectors-stripe)
-      7. [PayPal](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
-      8. [New Relic](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
-      9. [Datadog](https://web.archive.org/pages/terms/#privacy-collectors-datadog)
-      10. [Intercom](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
-      11. [Other Third Parties](https://web.archive.org/pages/terms/#privacy-collectors-other)
+      3. [SendGrid](https://web.archive.org/pages/terms/#privacy-collectors-sendgrid)
+      4. [Mandrill (legacy)](https://web.archive.org/pages/terms/#privacy-collectors-mandrill)
+      5. [Google](https://web.archive.org/pages/terms/#privacy-collectors-google)
+      6. [Quantcast](https://web.archive.org/pages/terms/#privacy-collectors-quantcast)
+      7. [Stripe](https://web.archive.org/pages/terms/#privacy-collectors-stripe)
+      8. [PayPal](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
+      9. [New Relic](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
+      10. [Datadog](https://web.archive.org/pages/terms/#privacy-collectors-datadog)
+      11. [Intercom](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
+      12. [Advertisers](https://web.archive.org/pages/terms/#privacy-collectors-advertisers)
+      13. [Other Third Parties](https://web.archive.org/pages/terms/#privacy-collectors-other)
   3. [Payment Processing](https://web.archive.org/pages/terms/#payment)
   4. [Security](https://web.archive.org/pages/terms/#security)
   5. [Digital Millenium Copyright Act (DMCA)](https://web.archive.org/pages/terms/#dmca)
@@ -31,13 +33,13 @@ These terms may change without explicit notice. Each top-level section header ha
 [¶](https://web.archive.org/pages/terms/#tos)
 
 Last updated
-    December 11, 2015 EST
+    May 15, 2016 EDT
 
 The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts ("Content"). Content submitted express the views of their author only.
 
 You agree to take full responsibility for all Content you submit to the Service. You agree to assume any losses and/or liabilities that result from your Content.
 
-Users marked as NamePros "Staff" are mostly volunteers. Content and opinions from volunteer Staff are their own, not those of the providers. They take full responsibility for their own Content. This includes, for example, Moderators, but does not include Staff that are actively paid for being Staff.
+Users marked as NamePros "Staff" are mostly volunteers. Content and opinions from volunteer Staff are their own, not those of the providers. They take full responsibility for their own Content. This includes, for example, Moderators, but does not include employees that are actively paid for being an employee.
 
 You understand that we are not a publisher of Content on our forums. We do not moderate most Content.
 
@@ -65,6 +67,10 @@ Changes to this clause must be copied to the identical clause in the Privacy Pol
 
 You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
 
+You agree that you are at least 13 years of age at the time of creating your account and at least 18 years of age when using the marketplace.
+
+You agree that all of your registration information is accurate when you created your account and that you will maintain the accuracy of such information.
+
 These terms may be changed at any time without explicit notice.
 
 If any portion(s) of these terms is found to be legally unapplicable, the rest of the terms will remain in effect.
@@ -74,7 +80,7 @@ If you do not agree with the [Terms of Service](https://web.archive.org/pages/te
 [¶](https://web.archive.org/pages/terms/#privacy)
 
 Last updated
-    December 11, 2015 EST
+    June 1, 2016 EDT
 
 ## NamePros Privacy Policy
 
@@ -112,14 +118,21 @@ If you do not agree with this Privacy Policy, the privacy policy of each Data Co
 
 This list may not be exhaustive.
 
+**Note that many of these policies apply primarily to NamePros, not Users.** They are referenced here because they often contain clauses that are of interest to Users. NamePros does not knowingly share non-public Personally Identifiable Information with third-party Data Collectors that do not require such information. Data Collectors known to require Personally Identifiable Information from Users are marked with an asterisk (*).
+
+Most Data Collectors can inadvertently receive and process Personally Identifiable Information if instructed to do so by a User. For example, if a User posts their address on the Website, publicly or privately, CloudFlare will necessarily be involved in the relaying of that address.
+
+Several Data Collectors may attempt to retrieve public information associated with an internet alias (username, email address, IP address, etc.).
+
   * NamePros: [https://www.namepros.com/pages/terms/#privacy](https://web.archive.org/pages/terms/#privacy)
   * CloudFlare: <https://www.cloudflare.com/security-policy>
   * Google (Analytics, DoubleClick): <http://www.google.com/intl/en/policies/privacy/>
   * Google Ads: <http://www.google.com/policies/technologies/ads/>
   * Quantcast: <https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
-  * Mandrill: <http://mandrill.com/privacy/>
-  * Stripe: <https://stripe.com/us/privacy>
-  * PayPal: <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+  * SendGrid: <https://sendgrid.com/privacy>
+  * Mandrill (legacy): <https://web.archive.org/web/20141227072819/http://mandrill.com/privacy/> (archived)
+  * *Stripe: <https://stripe.com/us/privacy>
+  * *PayPal: <https://www.paypal.com/webapps/mpp/ua/privacy-full>
   * New Relic: <http://newrelic.com/privacy>
   * Datadog: <https://app.datadoghq.com/policy/privacy>
   * Intercom: <http://docs.intercom.io/privacy>
@@ -148,11 +161,19 @@ Since NamePros has a geographically diverse userbase, our edge network is very i
 
 As our edge network, CloudFlare is part of our infrastructure; we work very hard to ensure that our entire system stays online. In order to do this, we need a lot of information about how requests are traveling from your computer to our servers and what happens when they get there. CloudFlare logs a significant amount of technical information to ensure that its services are working as intended. Much of this data only persists for a few hours; NamePros does not have direct access to this data. CloudFlare exposes some persistent data to the NamePros team in charge of networking. This data typically includes broad statistics and details about suspected abuse attempts. Abuse information often includes IP addresses and browser versions. As this data is necessary in order to provide services, users cannot opt out of such data collection. None of the data directly identifies users.
 
-### Mandrill
+### SendGrid
+
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-sendgrid)
+
+NamePros utilizes SendGrid to send transactional e-mails. SendGrid maintains a log of e-mails and their status. At this time, we do not typically send information in e-mails that staff cannot otherwise access, and user-specific content is kept to a minimum. SendGrid logs minimal information and does not retain email contents to the best of NamePros' knowledge.
+
+### Mandrill (legacy)
 
 [¶](https://web.archive.org/pages/terms/#privacy-collectors-mandrill)
 
-NamePros utilizes Mandrill to send transactional e-mails. Mandrill maintains a log of e-mails and their status. At this time, we do not typically send information in e-mails that staff cannot otherwise access, and user-specific content is kept to a minimum. Nevertheless, access to the log is restricted to staff who require it.
+Mandrill merged into MailChimp in the first half of 2016. As a result, NamePros is discontinuing use of Mandrill/MailChimp. This information remains as it may apply to past events.
+
+NamePros utilizes Mandrill to send transactional e-mails. Mandrill maintains a log of emails and their status. At this time, we do not typically send information in emails that staff cannot otherwise access, and user-specific content is kept to a minimum. Nevertheless, access to the log is restricted to staff who require it.
 
 ### Google
 
@@ -160,9 +181,11 @@ NamePros utilizes Mandrill to send transactional e-mails. Mandrill maintains a l
 
 Our services integrate with Google Analytics to collect heavily-anonymized statistics about our users. It allows us to observe trends, such as which browsers are most often used to visit our website, common traffic flow patterns as users enter, browser, and leave the website, and much more. When there aren't enough data points to ensure anonymity, Google excludes any statistics that could be used to obtain an identity. Google Analytics is a reputable, industry-standard tool used on a large number of websites.
 
-In addition to the basic Google Analytics services, NamePros has opted to enable a single feature of [Google Analytics Display Advertising](https://support.google.com/analytics/answer/3450482?hl=en&ref_topic=3413645). Analytics Display Advertising is a service that integrates Google Analytics with Google's [DoubleClick ad network technology](http://www.google.com/doubleclick/). In our case, the purpose is to provide more information for Google Analytics, specifically [demographics and interest reporting](https://support.google.com/analytics/answer/2799357?hl=en&ref_topic=2799375). NamePros does not use any other Google Analytics Display Advertising features at this time.
+In addition to the basic Google Analytics services, NamePros has opted to enable a single feature of [Google Analytics Display Advertising](https://support.google.com/analytics/answer/3450482?hl=en&ref_topic=3413645). Analytics Display Advertising is a service that integrates Google Analytics with Google's [DoubleClick ad network technology](http://www.google.com/doubleclick/). In our case, the primary purpose is to provide more information for Google Analytics, particularly [demographics and interest reporting](https://support.google.com/analytics/answer/2799357?hl=en&ref_topic=2799375).
 
 It's important to note the primary difference between standard Google Analytics and DoubleClick, which powers Google Analytics Display Advertising. Google Analytics uses _first-party_ [cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie): this allows visitors to be tracked, but not beyond a single domain. DoubleClick uses _third-party_ cookies, which can aid the tracking of users across domains. These cookies do not contain information about users: they are identifiers that Google Analytics and DoubleClick use to track a single user while keeping that user anonymous. NamePros uses DoubleClick in addition to standard Google Analytics specifically for the purpose of demographics and interest reporting. We do not attempt to link any of this additional data to individual, identifiable users.
+
+In additional to NamePros' own use of Google Analytics and DoubleClick, NamePros also permits some of its advertiers to track their ads using DoubleClick's services. Anyone who views a DoubleClick-enabled ad may be tracked by the respective advertiser via DoubleClick. NamePros expects that both Google (DoubleClick) and its advertisers will protect any information they obtain through this system. If you suspect this system is being abused, please contact us immediately.
 
 Google offers the ability to opt out of DoubleClick's tracking. To do so, follow Google's instructions to opt out of interest-based ads: <https://support.google.com/ads/answer/2662922?hl=en>. It's also possible to opt out of standard Google Analytics data collection: <https://tools.google.com/dlpage/gaoptout/>.
 
@@ -180,11 +203,15 @@ Users can opt out of Quantcast's direct data collection: <https://www.quantcast.
 
 Stripe processes ACH payments on behalf of NamePros. Some information that you provide is stored by Stripe and accessible to NamePros for billing and technical support purposes, as well as fraud prevention. Full credit card numbers are not accessible and do not reach the NamePros network. See [Payment Processing](https://web.archive.org/pages/terms/#payment) for details, including additional policy information.
 
+In order to function, Stripe requires the use of Personally Identifiable Information. Email address, username, and subscription status are provided by NamePros; Personally Identifiable Information must be provided directly by the User. The information is sent directly from the User's browser to Stripe, without being
+
 ### PayPal
 
 [¶](https://web.archive.org/pages/terms/#privacy-collectors-paypal)
 
-PayPal processes various types of electronic payments on behalf of NamePros. When payments occur, PayPal provides NamePros with some of the information that it has stored. Such information typically includes person or business name, e-mail address, and sometimes telephone number. NamePros may use this information for billing and technical support purposes, as well as fraud prevention.
+PayPal processes various types of electronic payments on behalf of NamePros. When payments occur, PayPal provides NamePros with some of the information that it has stored. Such information typically includes person or business name, email address, and sometimes telephone number. NamePros may use this information for billing and technical support purposes, as well as fraud prevention.
+
+In order to function, PayPal requires the use of Personally Identifiable Information. This information must by entered by the User directly on the PayPal website.
 
 ### New Relic
 
@@ -202,11 +229,29 @@ Datadog provides low-level server and service monitoring tools that NamePros use
 
 [¶](https://web.archive.org/pages/terms/#privacy-collectors-intercom)
 
-As of 2015-10-06, we have begun testing Intercom's products on our site. We are still assessing which features are appropriate for our community. Feedback is always welcome.
-
 Intercom provides a variety of products that we use to offer customer service and support. We provide Intercom with information about each user account, including username, email, and various metadata. Intercom uses this information to provide customer support channels. Some of Intercom's products are aimed at marketing/engagement, but this is not our focus with the use of their services. As an example usage, Intercom allows us to organize and delegate email communications with a user who may require technical support to access our website.
 
 To give us a better picture of our userbase, Intercom is capable of pulling basic social networking information about users based on the email addresses associated with their accounts. To the best of our knowledge, this information is publicly accessible, and does not reveal private information about any users. Intercom explains how this works [on their website](http://docs.intercom.io/FAQs/where-do-the-social-profiles-come-from). It utilizes a third-party API by [FullContact](https://www.fullcontact.com/). Intercom is responsible for security and privacy agreements between itself and FullContact. _As of 2015-10-06, we are still evaluating this feature and have not yet decided whether it is appropriate for our community._
+
+### Advertisers
+
+[¶](https://web.archive.org/pages/terms/#privacy-collectors-advertisers)
+
+Some of our advertisers request to track clicks and/or views of their ads through an analytics service such as DoubleClick. (DoubleClick is a brand of services operated by Google; our relationship with them is covered in the [Google](https://web.archive.org/pages/terms/#privacy-collectors-google) section.) Once data has been collected by the analytics service, it can be accessed by the specific advertiser implementing the service. At that point, protection and responsible utilization of the data is up to the advertiser.
+
+For your reference, we maintain a list of advertisers that log views of their ads on NamePros. The list documents relevant advertisers as far back as 2016.
+
+Current advertisers:
+
+  * VeriSign, via DoubleClick: <https://www.verisign.com/en_US/privacy/index.xhtml>
+
+
+
+Past advertisers (2016 to present):
+
+  * (None)
+
+
 
 ### Other Third Parties
 
@@ -259,8 +304,6 @@ We reserve the right to redistribute and/or publicize any communication regardin
 **By contacting us about DMCA takedown requests, copyright infringement, and/or other intellectual property matters, you agree to forfeit all confidentiality, regardless of any notices requesting otherwise.**
 
 DMCA takedown requests should be sent to `dmca@namepros.com`. Requests sent elsewhere are still subject to the above terms.
-
-[ ](https://uniregistry.com/easy?utm_source=namepros&utm_medium=banner&utm_content=845x60&utm_campaign=uniregistry_ban_Q2)
 
 [ ](https://www.dn.com/)
   *[domain]: namepros.com
