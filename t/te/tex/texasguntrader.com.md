@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215143426id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616152050id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # New and Used Guns For Sale in Houston, Dallas, San Antonio,Ft. Worth, Austin, EL Paso
 
