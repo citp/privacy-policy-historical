@@ -1,10 +1,32 @@
-<!--The following is the downloaded HTML source of the yankeecandle.com privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212043113id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yankeecandle.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616221058id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=11,IE=10,IE=9">
+
 <script src="//tags.tiqcdn.com/utag/yankeecandle/atg-main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="//cdn.optimizely.com/js/1772190175.js"></script>
+
+
+<script type="text/javascript">
+if (self === top || allowDomains('app.optimizely.com')) {
+var antiClickjack = document.getElementById("antiClickjack");
+antiClickjack.parentNode.removeChild(antiClickjack);
+} else {
+top.location = self.location;
+}
+function allowDomains(xFrameAllowDomains){
+var url = (window.location != window.parent.location)
+? document.referrer : document.location;
+var domains = xFrameAllowDomains.split(" ");
+for (index in domains) {
+if(url.match('/' + domains[index] + '/')){
+return true;
+}
+}
+return false;
+}
+</script>
 
 <!--  Page Title -->
 <!-- Stopping browser to cache -->
@@ -22,9 +44,9 @@ XM  Meta tags  -->
 
 
 <!-- Global styles -->
-<link href="/statics/css/global.css?v=20151113.15.11.11" rel="stylesheet" type="text/css">
-<link href="/statics/css/print.css?v=20151113.15.11.11" rel="stylesheet" type="text/css" media="print">
-<link rel="stylesheet" href="/statics/css/jquery-ui.css?v=20151113.15.11.11">
+<link href="/statics/css/global.css?v=20160528.4.18.11" rel="stylesheet" type="text/css">
+<link href="/statics/css/print.css?v=20160528.4.18.11" rel="stylesheet" type="text/css" media="print">
+
 <!-- Canonical URL -->
 
 <link rel="canonical" href="http://www.yankeecandle.com/customer-service/privacy-and-security">
@@ -37,28 +59,29 @@ XM  Meta tags  -->
 
 
 <!-- specific styles -->
-<link href="/statics/css/account.css?v=20151113.15.11.11" rel="stylesheet" type="text/css">
-<link href="/statics/css/misc.css?v=20151113.15.11.11" rel="stylesheet" type="text/css">
+<link href="/statics/css/account.css?v=20160528.4.18.11" rel="stylesheet" type="text/css">
+<link href="/statics/css/misc.css?v=20160528.4.18.11" rel="stylesheet" type="text/css">
 
 
 <!-- HTML5 for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
-<script src="js/html5.js?v=20151113.15.11.11"></script>
+<script src="js/html5.js?v=20160528.4.18.11"></script>
 <![endif]-->
 
 <link rel="shortcut icon" href="/statics/images/favicon.ico">
 
 
 <meta name="robots" content="index,follow">
-<meta http-equiv="X-Frame-Options" content="deny">
 
 <!-- mobileRedirect js -->
-<script type="text/javascript" src="/statics/js/lib/jquery.js?v=20151113.15.11.11"></script>
-<script type="text/javascript" src="/statics/js/jquery.cookie.js?v=20151113.15.11.11"></script>
-<script type="text/javascript" src="/statics/js/mobileRedirect.js?v=20151113.15.11.11"></script>
-<script type="text/javascript" src="/statics/js/plugins/jquery.jcarousel.js?v=20151113.15.11.11"></script>
-<script type="text/javascript" src="/statics/js/moxieYcConfig.js?v=20151113.15.11.11"></script>
+<script type="text/javascript" src="/statics/js/lib/jquery.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/jquery.cookie.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/mobileRedirect.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/plugins/jquery.jcarousel.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/moxieYcConfig.js?v=20160528.4.18.11"></script>
 <!--  giftbox carousel changes -->
+<script type="text/javascript" src="/statics/js/endeca-auto-suggest.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/plugins/jquery.carousel.js?v=20160528.4.18.11"></script>
 </head>
 <!--[if IE 7]><body class="no-js lt-ie9 lt-ie8 ie7 oldIE"> <![endif]-->
 <!--[if IE 8]><body class="no-js lt-ie9 ie8 oldIE"> <![endif]-->
@@ -71,6 +94,19 @@ XM  Meta tags  -->
 </section>
 -->
 <script>
+document.onreadystatechange = function updateLocale(){
+if (document.readyState == "complete"){
+var imageArr = document.getElementsByClassName('locale_img');
+for (var i = 0; i < imageArr.length; i++) {
+var src = imageArr[i].src;
+var lang = "";
+if(lang.length!=0){
+var res =src.replace("default",lang);
+imageArr[i].src=res;
+}
+}
+}
+}
 if (self == top) {
 var theBody = document.getElementsByTagName('body')[0]
 theBody.style.display = "block"
@@ -86,6 +122,9 @@ top.location = self.location
 
 
 <section id="wrapper">
+<div class="cookieMessageBox">
+<p>By continuing to use our site you agree to us using cookies in accordance with our <a href="javascript:void(0);">COOKIE POLICY</a> <a id="acceptCookiePolicy" href="javascript:void(0);">ACCEPT &amp; CLOSE</a></p>
+</div>
 <!-- START OF THE CONTAINER -->
 <section id="container">
 
@@ -118,6 +157,18 @@ top.location = self.location
 
 
 
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="lang_country" value="en_US">
+
+
 <header>
 <div class="bnr-imgs">
 
@@ -142,9 +193,23 @@ top.location = self.location
 
 
 
+
+
+
+
+
+
+
+
+
+
 <p>
-	<a href="/customer-service/shipping-information"><img alt="$5.99 Shipping on any order" src="https://www.yankeecandle.com/statics/images/desktop/homePage/icons/Header_Redesign_FreeShip100.png"></a></p>
-<!--<p>
+	<a href="/customer-service/shipping-information"><img alt="$5.99 Shipping on any order" src="https://www.yankeecandle.com/statics/images/desktop/optimizely/header/Header_Redesign_FreeShip60.jpg"></a></p>
+<!--
+<p>
+	<a href="/customer-service/shipping-information"><img alt="$5.99 Shipping on any order" src="https://www.yankeecandle.com/statics/images/desktop/homePage/icons/Header_Redesign_FreeShip100.png" /></a></p>
+
+--><!--<p>
 	<a href="/customer-service/shipping-information"><img alt="$5.99 Shipping on any order" src="http://www.yankeecandle.com/statics/images/desktop/homePage/icons/HP_SUM15_Boardwalk_FreeShip_4-23.jpg" /></a></p>-->
 
 
@@ -173,12 +238,32 @@ top.location = self.location
 
 
 
+
+
+
+
+
+
+
+
+
+
 <p>
-	<a href="/" title="Yankee Candle"><img alt="Yankee Candle" src="http://www.yankeecandle.com/statics/images/desktop/homePage/icons/YC_274x57.png"></a></p>
+	<a href="/" title="Yankee Candle"><img alt="Yankee Candle" src="https://www.yankeecandle.com/statics/images/desktop/homePage/icons/YC_274x57.png"></a></p>
 
 </div>
 
 <div class="sitesearch">
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -212,7 +297,7 @@ top.location = self.location
 	<li>
 		<a data-modal-class="Yankee.Modal.emilsigup" href="" title="">Email Sign up</a></li>
 	<li>
-		<a href="#" id="catReqSuccess" title="">Catalog Request</a></li>
+		<a href="#" id="catReqSuccess" title="">Free Catalogs</a></li>
 </ul>
 
 
@@ -240,8 +325,20 @@ top.location = self.location
 
 
 
-<form id="searchform" action="/cartridges/SearchBox/?_DARGS=/cartridges/SearchBox/SearchBox.jsp.searchform#" class="search" method="post" autocomplete="off"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="-1374539353478617628" type="hidden"> </div>
-<input id="searchBar" placeholder="Quick search: Keyword or item #" name="Ntt" onblur="if(this.value=='')this.value='Quick search: Keyword or item #';" value="" role="textbox" onfocus="if(this.value=='Quick search: Keyword or item #')this.value='';" type="text"><input name="_D:Ntt" value=" " type="hidden">
+
+
+
+
+
+
+
+
+
+
+<form id="searchform" action="/cartridges/SearchBox/;jsessionid=283425621B920A40FE5F0DFDFC4C84C5.prod_bot05-6?_DARGS=/cartridges/SearchBox/SearchBox.jsp.searchform" class="search" method="post" autocomplete="off"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="3910001492807576216" type="hidden"> </div>
+
+<input id="searchBar" placeholder="Keyword or item #" name="Ntt" onblur="if(this.value=='')this.value='Quick search: Keyword or item #';" value="" role="textbox" onfocus="if(this.value=='Quick search: Keyword or item #')this.value='';" type="text"><input name="_D:Ntt" value=" " type="hidden">
+
 <input id="searchSubmit" name="/atg/endeca/assembler/SearchFormHandler.search" value="" class="searchBtnIcon" type="submit"><input name="_D:/atg/endeca/assembler/SearchFormHandler.search" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/cartridges/SearchBox/SearchBox.jsp.searchform" type="hidden"> </div></form>
 </div>
 <div class="lgncrt">
@@ -263,8 +360,18 @@ top.location = self.location
 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- Displays user and cart details on header -->
-<a id="loggedInUserAnchr" class="logout hideMe" href="/index.jsp?_DARGS=/global/headerSignIn.jsp_A&amp;_DAV=logout">Logout
+<a id="loggedInUserAnchr" class="logout hideMe" href="/index.jsp;jsessionid=283425621B920A40FE5F0DFDFC4C84C5.prod_bot05-6?_DARGS=/global/headerSignIn.jsp_A&amp;_DAV=logout">Logout
 </a><section id="loggedInUser" class="lgn-usr hideMe">
 <div class="lgn-cntr">
 <div class="usraccnt">
@@ -281,6 +388,7 @@ top.location = self.location
 </div>
 <!-- END FOR LOOGED IN USER -->
 </section>
+
 <div id="transitUser" class="hideMe">
 <a class="sncrtaccnt" href="/account/signIn.jsp">Hi&nbsp;<span class="usrname"></span></a>
 </div>
@@ -318,6 +426,18 @@ top.location = self.location
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="message-panel"></div>
 <div class="mincrt-head">
 <h5>RECENTLY ADDED ITEMS</h5>
@@ -327,14 +447,14 @@ top.location = self.location
 data-totals="0-$0.00">
 
 </ul>
-<form id="frmRemoveItem" action="/xhr/handler.jsp?_DARGS=/global/mini-cart.jsp" class="ajaxSubmit" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"/> </div><div style="display:none"><input name="_dynSessConf" value="-1374539353478617628" type="hidden"/> </div>
+<form id="frmRemoveItem" action="/xhr/handler.jsp;jsessionid=283425621B920A40FE5F0DFDFC4C84C5.prod_bot05-6?_DARGS=/global/mini-cart.jsp" class="ajaxSubmit" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"/> </div><div style="display:none"><input name="_dynSessConf" value="3910001492807576216" type="hidden"/> </div>
 <input type="hidden" name="amplifiHandler"
 value="/atg/commerce/order/purchase/CartModifierFormHandler" />
 <input type="hidden" name="amplifiMessenger"
 value="/atg/dynamo/droplet/ErrorMessageForEach" />
 <input id="txtCommerceItem" name="/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrder" value="" type="hidden"/><input name="_D:/atg/commerce/order/purchase/CartModifierFormHandler.removeItemFromOrder" value=" " type="hidden"/>
 <div style="display:none"><input name="_DARGS" value="/global/mini-cart.jsp" type="hidden"/> </div></form><div class="bag-subtl">
-<p class="big-sub">Bag Subtotal</p>
+<p class="big-sub">Bag Subtotal </p>
 <p>
 $0.00
 </p>
@@ -362,17 +482,26 @@ $0.00
 
 
 
+
+
+
+
+
+
+
+
+
+
 </p>
 </div>
 <div class="bag-subtl">
-<a href="/cart/bag.jsp" class="submitBtn">Checkout</a> <a
-class="subscribeBtn" title="Take a peek inside your shopping bag"
-href="/cart/bag.jsp">View Your
-Shopping Bag</a>
+<a href="/cart/bag.jsp" class="submitBtn">Checkout</a>
+<a class="subscribeBtn" title="Take a peek inside your shopping bag" href="/cart/bag.jsp">View Your Shopping Bag</a>
 </div>
  -->
 </section>
 </div>	<!-- end minicart -->
+
 <form class="chkout" action="/cart/bag.jsp">
 <input type="submit" value="Checkout" class="submitBtn">
 </form>
@@ -432,7 +561,20 @@ Shopping Bag</a>
 
 
 
-<li><a href="/browse/candles/jar-candles/large-jar-candles/_/N-8ce" title="Large Jar Candles">Large Jar Candles</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/browse/candles/shop-by-color/_/N-9z3" title="Shop by Color">Shop by Color</a>
 
 </li>
 
@@ -483,7 +625,20 @@ Shopping Bag</a>
 
 
 
-<li><a href="/browse/new-arrivals/_/N-8hj" title="NEW Arrivals">NEW Arrivals</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/browse/large-candles/_/N-9zn" title="Large Candles">Large Candles</a>
 
 </li>
 
@@ -534,9 +689,32 @@ Shopping Bag</a>
 
 
 
-<li><a href="/browse/online-exclusives/_/N-8ex" title="Online Exclusives">Online Exclusives</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/browse/new-arrivals/_/N-a0g" title="New">New</a>
 
 </li>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -631,12 +809,35 @@ Shopping Bag</a>
 
 
 
-<li><a href="/browse/sale-scenter/_/N-8i0" title="Sale Scenter">Sale Scenter</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/browse/get-the-look-home-dcor/_/N-a2m" title="Get the Look">Get the Look</a>
 
 </li>
 
 
 </ul>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -681,6 +882,7 @@ Shopping Bag</a>
 </fieldset>
 <div class="inputs">
 <a href="" title="" class="linkCancel">Cancel</a>
+
 <input type="button" id="btnOrderTracking" value="Submit" class="submitBtn">
 </div>
 </form>
@@ -768,9 +970,7 @@ Shopping Bag</a>
 <span class="close">X</span>
 </div>
 <div class="content">
-<p>Your browser preferences are set to disable/block session cookies.<br>
-In order to proceed, session cookies must be enabled.<br>
-If you need guidance on enabling cookies, please refer to your browser's Help menu.</p>
+<p>Your browser preferences are set to disable/block session cookies.<br> In order to proceed, session cookies must be enabled.<br> If you need guidance on enabling cookies, please refer to your browser's Help menu.</p><p></p>
 </div>
 </div>
 </div>
@@ -778,6 +978,26 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 </section>
 </div>
 </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -897,10 +1117,33 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <li>
 
 
-<a href="/browse/candles/_/N-7zk" title="Candles">Candles</a>
+<a href="/browse/candles/_/N-9ye" title="Candles">Candles</a>
 
 <section class="drpdwnmenu">
 <div class="drpcntnr">
@@ -926,7 +1169,27 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <section>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1027,7 +1290,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/jar-candles/_/N-8cd" title="Jar Candles">Jar Candles</a>
 
 
 
@@ -1051,6 +1313,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/jar-candles/_/N-9yf" title="Jar Candles">Jar Candles</a>
 
 
 
@@ -1102,7 +1365,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/tumbler-candles/_/N-8ch" title="Tumbler Candles">Tumbler Candles</a>
 
 
 
@@ -1149,6 +1411,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/tumbler-candles/_/N-9yj" title="Tumbler Candles">Tumbler Candles</a>
 
 
 
@@ -1177,7 +1440,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/pillar-candles/_/N-8d5" title="Pillar Candles">Pillar Candles</a>
 
 
 
@@ -1247,12 +1509,12 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/pillar-candles/_/N-9yr" title="Pillar Candles">Pillar Candles</a>
 
 
 
 
 
-<a href="/browse/candles/tea-light-candles/_/N-803" title="Tea Light Candles">Tea Light Candles</a>
 
 
 
@@ -1327,7 +1589,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/vase-candles/_/N-8d0" title="Vase Candles">Vase Candles</a>
 
 
 
@@ -1346,6 +1607,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/tea-light-candles/_/N-9yy" title="Tea Light Candles">Tea Light Candles</a>
 
 
 
@@ -1402,7 +1664,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/votive-candles/_/N-808" title="Votive Candles">Votive Candles</a>
 
 
 
@@ -1410,7 +1671,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-</section>
 
 
 
@@ -1431,7 +1691,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<section>
 
 
 
@@ -1446,6 +1705,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/vase-candles/_/N-9yu" title="Vase Candles">Vase Candles</a>
 
 
 
@@ -1456,7 +1716,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<h4>Collections</h4>
 
 
 
@@ -1532,7 +1791,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/new-arrivals/candles/new-festive-fragrances/_/N-92k" title="New Festive Fragrances">New Festive Fragrances</a>
 
 
 
@@ -1545,6 +1803,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/votive-candles/_/N-9yz" title="Votive Candles">Votive Candles</a>
 
 
 
@@ -1602,7 +1861,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/new-arrivals/candles/homefront-girl/_/N-8yh" title="Homefront Girl®">Homefront Girl®</a>
 
 
 
@@ -1635,6 +1893,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/favorites---limited-time/_/N-9n8" title="Favorites">Favorites</a>
 
 
 
@@ -1672,7 +1931,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/treasures-for-all-seasons/_/N-9du" title="Treasures">Treasures</a>
 
 
 
@@ -1733,6 +1991,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/candles/shop-by-color/_/N-9z3" title="NEW! Shop Candles by Color">NEW! Shop Candles by Color</a>
 
 
 
@@ -1747,7 +2006,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/candles/collegiate-jar-candles/_/N-8ev" title="Collegiate Collection">Collegiate Collection</a>
 
 
 
@@ -1822,676 +2080,8 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/online-exclusives/european-exclusives/_/N-8yk" title="European Exclusives">European Exclusives</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/customer-service/customized-candles" title="Personalized Candles">Personalized Candles</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/_/N-94w" title="Shop by Occasion">Shop by Occasion</a>
-
-
-
-
-
-
-
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h4>More from Yankee Candle®</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/candles/tumbler-candles/y-collection/_/N-8py" title="Y.Collection™">Y.Collection™</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/pure-radiance/_/N-8j2" title="Pure Radiance™">Pure Radiance™</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/good-air/_/N-8ii" title="Good Air®">Good Air®</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/wedding-collection/_/N-8oq" title="Wedding Candles &amp; Décor">Wedding Candles &amp; Décor</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h4>Candle Styles and Sizes</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/customer-service/candle-styles" title="Learn More">Learn More</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/includes/browse/shopByFragrance.jsp" title="Shop by Fragrance">Shop by Fragrance</a>
+<a href="/customer-service/customized-candles" title="NEW! Personalized Candles">NEW! Personalized Candles</a>
 
 
 
@@ -2527,33 +2117,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<!--<div class="menu-cntntbnr">
-	<p>
-		<a href="/browse/buy-1-get-1-5037-off/_/N-8ih"><img alt="Buy One, Get One 50% Off" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/fall2015/icon_SaleScenter_BOGO-HW.jpg" /> </a></p>
-</div>
-<p>
-	<span style="font-size:13px;"><b>Our Best for Less!</b></span></p>
-<p>
-	Enjoy three fragrances</p>
-<p>
-	just right for the season.</p>
-<p>
-	While quantities last!</p>
-<p>
-	<a class="linkto" href="/browse/buy-1-get-1-5037-off/_/N-8ih" title="">Shop Now</a></p>-->
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2566,16 +2129,16 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 <div class="menu-cntntbnr">
 	<p>
-		<a href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp"><img alt="Personalized Photo Candles" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/holiday2015/icon_Candles_Personalized.jpg"> </a></p>
+		<a href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp"><img alt="Personalized Photo Candles" src="/statics/images/desktop/categoryLandingPage/subCategory/4spring2016/Icon_Gifts_PersonalizedCandles.jpg"> </a></p>
 </div>
 <p>
 	<span style="font-size:13px;"><b>Personalized Photo Candles</b></span></p>
 <p>
 	Pair your photo and message</p>
 <p>
-	with a great Yankee Candle fragrance.</p>
+	with a great Yankee Candle fragrance,</p>
 <p>
-	It's so easy. Fast delivery!</p>
+	perfect for Grads &amp; Dads!</p>
 <p>
 	<a class="linkto" href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp" title="">Get Started!</a></p>
 
@@ -2586,6 +2149,29 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 </section>
 
 </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2686,7 +2272,27 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <section>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2787,7 +2393,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/wax-melts/tarts-wax-melts/_/N-8eg" title="Tarts® Wax Melts">Tarts® Wax Melts</a>
 
 
 
@@ -2811,6 +2416,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/wax-melts/wax-melts---singles/_/N-8eg" title="Tarts® Wax Melts">Tarts® Wax Melts</a>
 
 
 
@@ -2862,7 +2468,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/wax-melts/scenterpiece-easy-meltcups/_/N-8le" title="Scenterpiece™ Easy MeltCups">Scenterpiece™ Easy MeltCups</a>
 
 
 
@@ -2890,7 +2495,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<h4>Warmers</h4>
 
 
 
@@ -2910,6 +2514,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/wax-melts/scenterpiece-easy-meltcups/_/N-8le" title="Scenterpiece® Easy MeltCups">Scenterpiece® Easy MeltCups</a>
 
 
 
@@ -2966,7 +2571,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/wax-melts/wax-warmers/classic-wax-warmers/_/N-8g2" title="Classic Warmers">Classic Warmers</a>
 
 
 
@@ -3008,214 +2612,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/wax-melts/wax-warmers/electric-wax-warmers/_/N-8g1" title="Electric Warmers">Electric Warmers</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/wax-melts/wax-warmers/scenterpiece-warmers/_/N-8lo" title="Scenterpiece™ Warmers">Scenterpiece™ Warmers</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h4>Candle Styles and Sizes</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/customer-service/candle-styles" title="Learn More">Learn More</a>
+<a href="/browse/wax-melts/wax-warmers/_/N-8g0" title="Wax Warmers">Wax Warmers</a>
 
 
 
@@ -3251,20 +2648,30 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<!--<div class="menu-cntntbnr">
+
+
+
+
+
+
+
+
+
+
+<div class="menu-cntntbnr">
 	<p>
-		<a href="/browse/wax-melts/wax-warmers/25-off-select-scenterpiece-warmers/_/N-9ds"><img alt="25% Off Select Warmers" src="/statics/images/desktop/categoryLandingPage/subCategory/fall2015/icon_WaxMelts_SPStarterKit.jpg" /> </a></p>
+		<a href="/browse/home--car/flameless-fragrance/scenterpiece-easy-meltcup-system/scenterpiece-kits/_/N-9iv"><img alt="Scenterpiece Starter Kits" src="/statics/images/desktop/categoryLandingPage/subCategory/spring2016/Icon_Flameless_SPKits.jpg"> </a></p>
 </div>
 <p>
-	<span style="font-size:13px;"><b>25% Off Warmers</b></span></p>
+	<span style="font-size:13px;"><b>Scenterpiece Starter Kits</b></span></p>
 <p>
-	Save when you buy a select</p>
+	We've paired our top 4 fragrances</p>
 <p>
-	Scenterpiece&trade; wax warmer.</p>
+	with these exclusive warmers. It's the</p>
 <p>
-	Hurry - quantities are limited!</p>
+	best start to your flameless adventure.</p>
 <p>
-	<a class="linkto" href="/browse/wax-melts/wax-warmers/25-off-select-scenterpiece-warmers/_/N-9ds" title="">Shop Now</a></p>-->
+	<a class="linkto" href="/browse/home--car/flameless-fragrance/scenterpiece-easy-meltcup-system/scenterpiece-kits/_/N-9iv" title="">Shop Now</a></p>
 
 
 </div>
@@ -3344,10 +2751,33 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <li>
 
 
-<a href="/browse/accessories/_/N-7zg" title="Candle Accessories">Candle Accessories</a>
+<a href="/browse/accessories/_/N-7zg" title="Accessories">Accessories</a>
 
 <section class="drpdwnmenu">
 <div class="drpcntnr">
@@ -3373,7 +2803,27 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <section>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3474,7 +2924,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/accessories/candle-holders/_/N-8c1" title="Candle Holders">Candle Holders</a>
 
 
 
@@ -3498,6 +2947,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/accessories/candle-holders/_/N-8c1" title="Jar Holders">Jar Holders</a>
 
 
 
@@ -3521,35 +2971,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/accessories/candle-trays/_/N-8c0" title="Candle Trays">Candle Trays</a>
 
 
 
@@ -3699,7 +3120,53 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/browse/accessories/candle-toppers/_/N-8g3" title="Candle Toppers">Candle Toppers</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3812,426 +3279,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/accessories/fragrance-oil-warmers/_/N-8ca" title="Oil Warmers">Oil Warmers</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/accessories/candle-tools/_/N-8cc" title="Candle Tools &amp; Fill">Candle Tools &amp; Fill</a>
-
-
-
-
-
-
-
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h4>Collections</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/accessories/_/N-7zgZ1z140slZ1z140srZ1z140rqZ1z140so" title="Everyday Essentials">Everyday Essentials</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/wedding-collection/_/N-8oq" title="Wedding Collection">Wedding Collection</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/_/N-94w" title="Shop by Occasion">Shop by Occasion</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h4>Get the Look</h4>
 
 
@@ -4308,7 +3355,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/get-the-look/berry-trifle-collection/_/N-9fy" title="Berry Trifle Collection">Berry Trifle Collection</a>
 
 
 
@@ -4347,6 +3393,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/_/N-9ph" title="Evening Glow">Evening Glow</a>
 
 
 
@@ -4383,7 +3430,376 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/get-the-look/winter-mosaic-collection/_/N-9fz" title="Winter Mosaic Collection">Winter Mosaic Collection</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/get-the-look/reflective-mood/_/N-9pi" title="Reflective Mood">Reflective Mood</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/_/N-9pt" title="Hues of Blue">Hues of Blue</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/_/N-9pu" title="Inviting Statement">Inviting Statement</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/get-the-look/_/N-9fx" title="View All">View All</a>
 
 
 
@@ -4419,20 +3835,30 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <div class="menu-cntntbnr">
 	<p>
-		<a href="/browse/new-arrivals/candles/new-festive-fragrances/_/N-92k"><img alt="New Fragrances for Fall" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/holiday2015/icon_Candles_Festive.jpg"> </a></p>
+		<a href="/browse/get-the-look/_/N-9fx"><img alt="Get the Look" src="/statics/images/desktop/categoryLandingPage/subCategory/2spring2016/Icon_GTL_InvitingStatement.jpg"> </a></p>
 </div>
 <p>
-	<span style="font-size:13px;"><b>New Festive Fragrances</b></span></p>
+	<span style="font-size:13px;"><b>Get Inspired!</b></span></p>
 <p>
-	Find all the fragrances that</p>
+	Get the Look: Here's a little</p>
 <p>
-	help you make your home</p>
+	inspiration to help you create</p>
 <p>
-	special this time of year.</p>
+	your very own candle oasis!</p>
 <p>
-	<a class="linkto" href="/browse/new-arrivals/candles/new-festive-fragrances/_/N-92k" title="">Shop Now</a></p>
+	<a class="linkto" href="/browse/get-the-look/_/N-9fx" title="">Shop Now</a></p>
 
 
 </div>
@@ -4441,6 +3867,29 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 </section>
 
 </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4541,7 +3990,27 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <section>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4642,7 +4111,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/home--car/flameless-fragrance/scent-plug/scentplug-bases/_/N-8dc" title="Scent-Plug® Bases">Scent-Plug® Bases</a>
 
 
 
@@ -4658,6 +4126,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/home--car/flameless-fragrance/scentplug/_/N-8da" title="ScentPlug™ Bases &amp; Refills">ScentPlug™ Bases &amp; Refills</a>
 
 
 
@@ -4717,7 +4186,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/home--car/flameless-fragrance/scent-plug/scentplug-refills/_/N-8db" title="Scent-Plug® Refills">Scent-Plug® Refills</a>
 
 
 
@@ -4756,6 +4224,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/home--car/flameless-fragrance/scenterpiece-easy-meltcup-system/_/N-8lp" title="Scenterpiece® System">Scenterpiece® System</a>
 
 
 
@@ -4779,20 +4248,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/home--car/flameless-fragrance/scenterpiece-easy-meltcup-system/_/N-8lp" title="Scenterpiece™ System">Scenterpiece™ System</a>
 
 
 
@@ -4942,7 +4397,50 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/browse/home--car/flameless-fragrance/fragrance-spheres/_/N-8dd" title="Fragrance Spheres™">Fragrance Spheres™</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5087,7 +4585,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/home--car/flameless-fragrance/fragrance-oil/_/N-8dk" title="Fragrance Oil">Fragrance Oil</a>
 
 
 
@@ -5103,291 +4600,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/home--car/flameless-fragrance/fragrance-oil-warmers/_/N-8dl" title="Oil Warmers">Oil Warmers</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/home--car/flameless-fragrance/scent-light-refills/_/N-8dm" title="Scent Light Refills">Scent Light Refills</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/home--car/flameless-fragrance/scented-potpourri/_/N-8dn" title="Scented Potpourri">Scented Potpourri</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/home--car/flameless-fragrance/roomaroma/_/N-8do" title="RoomAroma®">RoomAroma®</a>
+<a href="/browse?Ntt=scent+configurator" title="Build Your Own ScentPlug™">Build Your Own ScentPlug™</a>
 
 
 
@@ -5423,57 +4636,30 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<div class="menu-cntntbnr">
+
+
+
+
+
+
+
+
+
+
+<!--<div class="menu-cntntbnr">
 	<p>
-		<a href="/browse/home--car/flameless-fragrance/scent-plug/scentplug-refills/_/N-8db"><img alt="4 for $20 Flameless Fragrance" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/fall2015/icon_ScentPlug_RefillsSALE.jpg"> </a></p>
+		<a href="/browse/home--car/flameless-fragrance/scentplug/_/N-8da"><img alt="Special Deal on Scent-Plugs &amp; Refills" src="/statics/images/desktop/categoryLandingPage/subCategory/4spring2016/Icon_SaleScenter_ScentPlug.jpg" /> </a></p>
 </div>
 <p>
-	<span style="font-size:13px;"><b>Save on Scent-Plug® Refills!</b></span></p>
+	<span style="font-size:13px;"><b>Buy 3, Get 1 Free</b></span></p>
 <p>
-	Mix &amp; match our seasonal</p>
+	Our Scent-Plug&trade; Bases &amp; Refills</p>
 <p>
-	scents and save!</p>
+	are on special for a limited time.</p>
 <p>
-	<a class="linkto" href="/browse/home--car/flameless-fragrance/scent-plug/scentplug-refills/_/N-8db" title="">Shop Now</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--<p>
-	&nbsp;</p>
-<div class="menu-cntntbnr">
-	<p>
-		<a href="/browse?Ntt=scent+configurator"><img alt="Build Your Own Scent-Plug" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/011315_icon_ScentPlug_BuildOwn.jpg" /> </a></p>
-</div>
+	Have fun mixing &amp; matching!</p>
 <p>
-	<span style="font-size:13px;"><b>Customize Your Scent-Plug&reg;</b></span></p>
-<p>
-	Enjoy Scent-Plugs exactly the way you</p>
-<p>
-	like by choosing your favorite fragrance</p>
-<p>
-	refill &amp; a decorative base to go with it.</p>
-<p>
-	<a class="linkto" href="/browse?Ntt=scent+configurator" title="">Mix &amp; Match Now</a></p>-->
+	<a class="linkto" href="/browse/home--car/flameless-fragrance/scentplug/_/N-8da" title="">Shop Now</a></p>-->
 
 
 </div>
@@ -5482,6 +4668,29 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 </section>
 
 </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5582,6 +4791,16 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <section>
 
 
@@ -5607,7 +4826,40 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <h4>For the Car</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5758,6 +5010,29 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/browse/home--car/car--small-spaces/car-jar-ultimate/_/N-8hd" title="Car Jar® Ultimate">Car Jar® Ultimate</a>
 
 
@@ -5782,58 +5057,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/home--car/car--small-spaces/car-vent-sticks/_/N-8hc" title="Car Vent Sticks">Car Vent Sticks</a>
 
 
 
@@ -5933,7 +5156,40 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <h4>Small Spaces</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6084,6 +5340,29 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/browse/home--car/car--small-spaces/room-sprays/_/N-8vr" title="Room Spray">Room Spray</a>
 
 
@@ -6123,20 +5402,30 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<div class="menu-cntntbnr">
+
+
+
+
+
+
+
+
+
+
+<!--<div class="menu-cntntbnr">
 	<p>
-		<a href="/browse/home--car/car--small-spaces/room-sprays/_/N-8vr"><img alt="$3 Concentrated Room Spray" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/0401_PROMO_roomsprays.jpg"> </a></p>
+		<a href="/browse/home--car/car--small-spaces/room-sprays/_/N-8vr"><img alt="Personalized Photo Candles" src="/statics/images/desktop/categoryLandingPage/subCategory/4spring2016/Icon_SaleScenter_RoomSpray.jpg" /> </a></p>
 </div>
 <p>
-	<span style="font-size:13px;"><b>Room Spray on Sale!</b></span></p>
+	<span style="font-size:13px;"><b>$4 Room Spray</b></span></p>
 <p>
-	4 for $20 Room Spray Deal!</p>
+	Our concentrated Room Sprays</p>
 <p>
-	Discount is applied at checkout.</p>
+	are now $4 each for a limited time.</p>
 <p>
-	(While supplies last.)</p>
+	Limit 5 per transaction, please.</p>
 <p>
-	<a class="linkto" href="/browse/home--car/flameless-fragrance/room-sprays/_/N-8de" title="">Shop Now</a></p>
+	<a class="linkto" href="/browse/home--car/car--small-spaces/room-sprays/_/N-8vr" title="">Get Started!</a></p>-->
 
 
 </div>
@@ -6216,13 +5505,46 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <li>
 
 
-<a href="/browse/gifts/_/N-80s" title="Gifts &amp; Gift Cards">Gifts &amp; Gift Cards</a>
+<a href="/browse/gifts/_/N-80s" title="Gifts">Gifts</a>
 
 <section class="drpdwnmenu">
 <div class="drpcntnr">
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6270,7 +5592,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<h4>Holiday Gift Selector</h4>
 
 
 
@@ -6281,6 +5602,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<h4>Gifts by Occasion</h4>
 
 
 
@@ -6341,7 +5663,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/holiday-gift-selector/gift-sets/_/N-9fj" title="Gift Sets">Gift Sets</a>
 
 
 
@@ -6372,6 +5693,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/gifts/best-selling-gifts/_/N-9h0" title="Best-selling Gifts">Best-selling Gifts</a>
 
 
 
@@ -6411,7 +5733,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/holiday-gift-selector/gifts-for-her/_/N-9fk" title="Gifts for Her">Gifts for Her</a>
 
 
 
@@ -6462,6 +5783,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/gifts/birthday-gifts/_/N-9m2" title="Birthday Gifts">Birthday Gifts</a>
 
 
 
@@ -6481,7 +5803,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/holiday-gift-selector/gifts-for-him/_/N-9fl" title="Gifts for Him">Gifts for Him</a>
 
 
 
@@ -6551,8 +5872,8 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/holiday-gift-selector/stocking-stuffers/_/N-9fm" title="Quick Gifts">Quick Gifts</a>
 
+<a href="/browse/gifts/new-home-gifts/_/N-9m4" title="New Home Gifts">New Home Gifts</a>
 
 
 
@@ -6621,7 +5942,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/holiday-gift-selector/best-sellers/_/N-9fn" title="Best Sellers">Best Sellers</a>
 
 
 
@@ -6643,6 +5963,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/gifts/wedding-gifts/_/N-9m3" title="Wedding Gifts">Wedding Gifts</a>
 
 
 
@@ -6691,7 +6012,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/holiday-gift-selector/christmas-scents/_/N-9fo" title="Christmas Scents">Christmas Scents</a>
 
 
 
@@ -6733,6 +6053,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+<a href="/browse/gifts/just-because-gifts/_/N-9m5" title="Just Because Gifts">Just Because Gifts</a>
 
 
 
@@ -6743,235 +6064,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/gifts/holiday-gift-selector/christmas-dcor/_/N-9fp" title="Christmas Décor">Christmas Décor</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/gifts/holiday-gift-selector/gifts-under-25/_/N-9fq" title="Gifts under $25">Gifts under $25</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/gifts/holiday-gift-selector/gifts-under-15/_/N-9fr" title="Gifts under $15">Gifts under $15</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/gifts/holiday-gift-selector/gifts-under-10/_/N-9fs" title="Gifts under $10">Gifts under $10</a>
 
 
 
@@ -7000,6 +6092,29 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 <h4>Gift Collections</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7150,61 +6265,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="/browse/gifts/y-collection/_/N-8yx" title="Y.Collection™">Y.Collection™</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7228,28 +6288,12 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-</section>
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section>
 
 
 
@@ -7275,6 +6319,26 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 <h4>Gift Cards</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7415,7 +6479,6 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-<a href="https://yankeecandle.cashstar.com" title="E-Gift Cards">E-Gift Cards</a>
 
 
 
@@ -7436,785 +6499,7 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://yankeecandle.cashstar.com/?display=PHOTO" title="Photo E-Gift Cards">Photo E-Gift Cards</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/secure/checkBalance.jsp?categoryId=910002" title="Check Balance">Check Balance</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h4>Shop by Occasion</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/the-wedding/_/N-94x" title="The Wedding">The Wedding</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/birthday/_/N-94y" title="Birthday">Birthday</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/housewarming/_/N-94z" title="Housewarming">Housewarming</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/romantic-mood/_/N-950" title="Romantic Mood">Romantic Mood</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/beach-house-visit/_/N-951" title="Beach House Visit">Beach House Visit</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/garden-party/_/N-952" title="Garden Party">Garden Party</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/fall-entertaining/_/N-953" title="Fall Entertaining">Fall Entertaining</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/browse/occasions/cozy-inside/_/N-954" title="Cozy Inside">Cozy Inside</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/cat/occasions/_/N-94w" title="View All">View All</a>
+<a href="https://yankeecandle.cashstar.com" title="Personalized E-Gift Cards">Personalized E-Gift Cards</a>
 
 
 
@@ -8250,61 +6535,1284 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <div class="menu-cntntbnr">
 	<p>
-		<a href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp"><img alt="Personalized Photo Candles" src="http://www.yankeecandle.com/statics/images/desktop/categoryLandingPage/subCategory/holiday2015/icon_Candles_Personalized.jpg"> </a></p>
+		<a href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp"><img alt="Personalized Photo Candles" src="/statics/images/desktop/categoryLandingPage/subCategory/4spring2016/Icon_Gifts_PersonalizedCandles.jpg"> </a></p>
 </div>
 <p>
 	<span style="font-size:13px;"><b>Personalized Photo Candles</b></span></p>
 <p>
 	Pair your photo and message</p>
 <p>
-	with a great Yankee Candle fragrance.</p>
+	with a great Yankee Candle fragrance,</p>
 <p>
-	It's so easy. Fast delivery!</p>
+	perfect for Grads &amp; Dads!</p>
 <p>
 	<a class="linkto" href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp" title="">Get Started!</a></p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>&nbsp;</p>
-<div class="menu-cntntbnr">
-	<p>
-		<a href="/global/giftCard.jsp?categoryId=910002"><img alt="Gift Cards" src="/statics/images/desktop/categoryLandingPage/subCategory/icon_Gifts_TradGC.jpg"> </a></p>
 </div>
-<p>
-	<span style="font-size:13px;"><b>Gift Cards</b></span></p>
-<p>
-	Our gift cards are always great to give.</p>
-<p>
-	Available in your choice of design</p>
-<p>
-	and whatever denomination you choose.</p>
-<p>
-	<a class="linkto" href="/global/giftCard.jsp?categoryId=910002" title="">Shop Now</a></p>
-
 
 </div>
+</section>
+
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+
+
+<a href="/browse/semi-annual-clearance/_/N-90t" title="Sale Scenter">Sale Scenter</a>
+
+<section class="drpdwnmenu">
+<div class="drpcntnr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4>Semi-Annual Clearance</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/7537-off---best-buys/_/N-92x" title="75% Off - Best Buys">75% Off - Best Buys</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/6037-off-holiday-fragrances/_/N-a2j" title="60% Off Holiday Fragrances">60% Off Holiday Fragrances</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/5037-off-select-candles/_/N-93l" title="50% Off Select Candles">50% Off Select Candles</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/5037-off-candle-accessories/_/N-92n" title="50% Off Select Accessories">50% Off Select Accessories</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/5037-off-flameless-fragrance/_/N-93f" title="50% Off Flameless Fragrance">50% Off Flameless Fragrance</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/5037-off-gifts--gift-sets/_/N-93c" title="50% Off Gift Sets">50% Off Gift Sets</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/4037-off-scenterpiece-warmers/_/N-93s" title="40% Off Scenterpiece Warmers">40% Off Scenterpiece Warmers</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/large-candles-buy-more--save/_/N-a2l" title="Large Candles Sale">Large Candles Sale</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/cat/semi-annual-clearance/_/N-90t" title="View All">View All</a>
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4>Dollar Deals</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/10--under-deals/_/N-a2c" title="$10 &amp; under Deals">$10 &amp; under Deals</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/semi-annual-clearance/5-tumblers-and-vases/_/N-a3d" title="$5 Select Tumblers">$5 Select Tumblers</a>
+
+
+
+
+
+
+
+</section>
+
+
+
 
 </div>
 </section>
@@ -8323,6 +7831,16 @@ If you need guidance on enabling cookies, please refer to your browser's Help me
 <!--<![endif]-->
 
   		
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8539,6 +8057,7 @@ section.staticHeader { background-image: url(/statics/images/desktop/about_us/04
 var utag_data={
 site_region:"USA",
 site_currency:"USD",
+selected_language:"en_US",
 page_name:"Privacy & Security | Yankee Candle",
 page_type:"Cmpages - Index Page"
 };
@@ -8557,6 +8076,27 @@ page_type:"Cmpages - Index Page"
 		
 		
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8620,10 +8160,23 @@ page_type:"Cmpages - Index Page"
 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- p>
-<span>Customer Service  </span>
-<a href="tel:1-877-803-6890" title="">1-877-803-6890</a>
-<a href="/customer-service/contact-information" title="" class="linkto">available hours</a>
+
+
+<span>Customer Service  </span> <a href="tel:1-877-803-6890" title="">1-877-803-6890</a> <a href="/customer-service/contact-information" title="" class="linkto"> available hours</a>
+
+
+
 </p-->
 <!-- MOXIE CHAT FUNCTIONALITY START -->
 <p>&nbsp;</p>
@@ -8638,6 +8191,8 @@ ie8 = true;
 <![endif]-->
 <script type="text/javascript">
 </script>
+
+
 <!-- START MOXIE SOFTWARE CHAT BUTTON -->
 <!-- div id="live-chat">
 <a href="#" onclick="javascript:openChat();">
@@ -8645,6 +8200,8 @@ ie8 = true;
 </a>
 <br />
 </div>
+
+
 <!-- END MOXIE SOFTWARE CHAT BUTTON -->
 </div>
 <!-- MOXIE CHAT FUNCTIONALITY END -->
@@ -8657,6 +8214,16 @@ ie8 = true;
 <div class="subscibe">
 <h3>Be the First to Know</h3>
 <p>Get our latest news &amp; exclusive offers</p>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8696,10 +8263,10 @@ ie8 = true;
 <!--
 <a href="https://www.facebook.com/TheYankeeCandleCompany" title="Facebook" class="fb">Facebook</a>
 <a href="http://twitter.com/theyankeecandle" title="Twitter" class="twtr">Twitter</a>
-<a href="http://pinterest.com/theyankeecandle/" title="Pinterest" class="pintrst">Pinterest</a>
+<a href="http://pinterest.com/theyankeecandle/" 	title="Pinterest" class="pintrst">Pinterest</a>
 -->
 </div>
-<p></p>
+<p>Many ways to stay informed &amp; engaged.</p>
 </div>
 <div class="pmntgtwys">
 <a href="/customer-service/ordering-information#Payment-Methods"><span>&nbsp;</span></a>
@@ -8731,19 +8298,37 @@ ie8 = true;
 
 
 
-<p>
-	<a href="http://www.youtube.com/embed/FKIU2MIq92o?rel=0&amp;autoplay=1" onclick="window.open('http://www.youtube.com/embed/FKIU2MIq92o?rel=0&amp;autoplay=1', 'vidWindow', 'width=600, height=400, top=200, left=200'); return false;"><img alt="Holiday 2015 with the Yankee Candle Company" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HolidayTVPreview672x60.jpg"></a></p>
 
+
+
+
+
+
+
+
+
+
+<p>
+	<a href="/browse/get-the-look-home-deacutecor/_/N-a2m" title="Get the Look"><img align="left" alt="Get the Look" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/116630 Get The Look Supporting Graphics_Footer2.jpg"></a></p>
 <!--<p>
-	<a href="/includes/browse/shopByFragrance.jsp" title="Shop by Fragrance: Yankee Candle"><img align="left" alt="Shop by Fragrance" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HP_FooterBanner_SBF.jpg" /></a></p>
+	<a href="/includes/browse/shopByFragrance.jsp" title="Shop by Fragrance: Yankee Candle"><img align="left" alt="Shop by Fragrance" src="https://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HP_FooterBanner_SBF.jpg" /></a></p>
+<p>
+	&nbsp;</p>
+<p>
+	<a href="/browse?Ntt=scent+configurator" title="Build Your Own Scent-Plug!"><img align="left" alt="Build Your Own Scent-Plug" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promotions/HP-Banner-Scent-Plug-Config_4-2.jpg" /></a></p>
+<p>
+	<a href="/product/catching-rays-tote/_/R-1515544" title="Catching Rays Tote"><img align="left" alt="Catching Rays Tote" src="http://www.yankeecandle.com/statics/images/desktop/homePage/contentslot/spring2016/HP_ESPR16_SpringBlooms_15FooterTotePromo.jpg" /></a></p>
 
 <p>
+	<a href="https://www.yankeecandle.com/candleConfigurator/cchomepage.jsp" title="Personalized Photo Candles"><img align="left" alt="Shop by Fragrance" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HP_Dec_Cartridges_Footer-1223.jpg" /></a></p>
+<p>
+	<a href="http://www.youtube.com/embed/FKIU2MIq92o?rel=0&amp;autoplay=1" onclick="window.open('http://www.youtube.com/embed/FKIU2MIq92o?rel=0&amp;autoplay=1', 'vidWindow', 'width=600, height=400, top=200, left=200'); return false;"><img alt="Holiday 2015 with the Yankee Candle Company" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HolidayTVPreview672x60.jpg" /></a></p>
+
 	<a href="/customer-service/Military-Discount-2-14" title="The Yankee Candle Military Discount Program"><img align="left" alt="Military Discount" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HP_Footer_MilitaryDiscount.jpg" /></a></p>
 
 
-	<a href="/includes/browse/shopByFragrance.jsp" title="Shop by Fragrance: Yankee Candle"><img align="left" alt="Shop by Fragrance" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HP_FooterBanner_SBF.jpg" /></a></p>
-<p>
-	<a href="/browse?Ntt=scent+configurator" title="Build Your Own Scent-Plug!"><img align="left" alt="Build Your Own Scent-Plug" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promotions/HP-Banner-Scent-Plug-Config_4-2.jpg" /></a></p>
+
+
 <p>
 	<a href="http://learning-scenter.yankeecandle.com/congratulations-class-of-2015" target="_blank" title="Enter to Win a Personalized Candle"><img align="left" alt="Enter to Win a Personalized Candle" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promotions/HP_GradSweeps_FooterBanner_6-19.jpg" /></a></p>
 
@@ -8751,7 +8336,11 @@ ie8 = true;
 <p><a href="/customer-service/eCatalog?utm_source=ecatalog&amp;utm_medium=print" target="_blank" title="eCatalog"><img align="left" alt="Browse our latest catalog online" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promotions/HP-Banner-ECatalog_4-7.jpg" /></a></p>
         <p><a href="/customer-service/rr-sweeps-rules-2014" title="Write a Review &amp; Get Entered To Win!"><img align="left" alt="Get entered to win a Yankee Candle Gift Card" src="/statics/images/desktop/homePage/promoslot/HP_Fall_Footer_ReviewsBanner_2.jpg" /></a></p>
 <p>
-	<a href="/customer-service/ordering-information#Payment-Methods" title="Payment Options"><img align="left" alt="Learn More about our Payment Options" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promotions/HP-Banner-Pmt-Options_3-23.jpg" /></a></p>-->
+	<a href="/customer-service/ordering-information#Payment-Methods" title="Payment Options"><img align="left" alt="Learn More about our Payment Options" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promotions/HP-Banner-Pmt-Options_3-23.jpg" /></a></p>
+
+
+<p>
+	<a href="/global/giftCard.jsp?categoryId=910002" title="E-Gift Cards"><img align="left" alt="Gift Cards - The Gift that Always Fits" src="http://www.yankeecandle.com/statics/images/desktop/homePage/promoslot/HP_December_GiftCards_Footer.jpg" /></a></p>-->
 
 
 
@@ -8762,6 +8351,26 @@ ie8 = true;
 
 
 <section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8895,12 +8504,58 @@ ie8 = true;
 
 
 
-<a href="/browse/candles/_/N-7zk" title="Candles">Candles</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/browse/candles/_/N-9ye" title="Candles">Candles</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9047,12 +8702,58 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/browse/accessories/_/N-7zg" title="Candle Accessories">Candle Accessories</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9199,12 +8900,55 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/browse/home--car/car--small-spaces/_/N-8ei" title="Car &amp; Small Spaces">Car &amp; Small Spaces</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9346,12 +9090,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/customer-service/customized-candles" title="Personalized Candles">Personalized Candles</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9488,6 +9272,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/includes/browse/shopByFragrance.jsp" title="Shop by Fragrance">Shop by Fragrance</a>
 
 
@@ -9553,6 +9357,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul>
 
 <li><h3>Help &amp; Support</h3>
@@ -9562,6 +9386,26 @@ ie8 = true;
 
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9708,6 +9552,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/customer-service/contact-information" title="Contact Us">Contact Us</a>
 
 
@@ -9779,12 +9643,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/shop/quick-shop.jsp" title="Quick Shop">Quick Shop</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9926,12 +9830,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/customer-service/shipping-information" title="*Shipping Information">*Shipping Information</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10026,8 +9970,18 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
 <p>
-	<a class="catReqSuccess" href="#" title="">Catalog Request</a></p>
+	<a class="catReqSuccess" href="#" title="">Free Catalogs</a></p>
 <p>
 	<a data-modal-class="Yankee.Modal.orderTracking" href="" title="">Track Your Order</a></p>
 
@@ -10094,6 +10048,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul>
 
 <li><h3>Our Stores &amp; Sites</h3>
@@ -10103,6 +10077,26 @@ ie8 = true;
 
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10244,12 +10238,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/about-us/visit-our-village-stores" title="Village Stores">Village Stores</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10386,6 +10420,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="http://www.yankeecandle.co.uk/" title="UK / International">UK / International</a>
 
 
@@ -10457,12 +10511,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="http://ycamericanhome.com" title="American Home™">American Home™</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10604,6 +10698,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/about-us/fundraising" title="Fundraisers">Fundraisers</a>
 
 
@@ -10613,6 +10727,16 @@ ie8 = true;
 
 
 <li>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10695,6 +10819,26 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul>
 
 <li><h3>Company Info</h3>
@@ -10704,6 +10848,26 @@ ie8 = true;
 
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10850,12 +11014,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/about-us/press-room" title="Press Room">Press Room</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11002,12 +11206,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/about-us/career-opportunities" title="Careers">Careers</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11149,12 +11393,52 @@ ie8 = true;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/about-us/corporate-accounts" title="Corporate Accounts">Corporate Accounts</a>
 
 
 </li>
 
 <li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11247,23 +11531,7 @@ ie8 = true;
 <section>
 
 <p>
-	<small>Copyright 2015 The Yankee Candle Company, Inc. All Rights Reserved</small> 
-		<script type="text/javascript">var bizrate={small:"true"};</script>
-        <script src="//medals.bizrate.com/medals/js/138631_medal.js" type="text/javascript"></script>
-         <a style="bottom:0;right:0;display:block;position:absolute;width:50px;height:16px;z-index:2;text-decoration:none;background:#fff;filter:alpha(opacity=0);opacity: 0;" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank"></a>
-                <a class="br-button" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur" title="See Yankee Candle Company Review at Bizrate.com" target="_blank" style="height: 37px; width: 112px; text-decoration: none; cursor: pointer; display: inline-block;">
-					<img src="//medals.bizrate.com/medals/dynamic/small/138631_medal.gif" width="112" height="37" border="0" alt="See Yankee Candle Company Reviews at Bizrate.com">
-				</a>
-                
-        <a name="trustlink" href="http://secure.trust-guard.com/security/8227" rel="nofollow" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/logo/8227-lg.gif"></a>
-                                
-		<!--script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.yankeecandle.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script-->     
-
-			
-		<a href="http://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.yankeecandle.com&amp;lang=en" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" title="Norton"> 
-			<img src="http://www.yankeecandle.com/statics/images/desktop/homePage/icons/norton_footer.png" border="0" alt="Norton secured">
-		</a>
-</p>
+	<small>Copyright 2016 The Yankee Candle Company, Inc. All Rights Reserved</small> <script type="text/javascript">var bizrate={small:"true"};</script><script src="//medals.bizrate.com/medals/js/138631_medal.js" type="text/javascript"></script><a class="br-button" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur" style="height: 37px; width: 112px; text-decoration: none; cursor: pointer; display: inline-block;" target="_blank" title="See Yankee Candle Company Review at Bizrate.com"><img alt="See Yankee Candle Company Reviews at Bizrate.com" border="0" height="37" src="//medals.bizrate.com/medals/dynamic/small/138631_medal.gif" width="112"> </a> <a href="http://secure.trust-guard.com/security/8227" name="trustlink" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard © '+d.getFullYear()+'.'); return false;" rel="nofollow" target="_blank"><img alt="Security Seals" name="trustseal" src="//dw26xg4lubooo.cloudfront.net/seals/logo/8227-lg.gif" style="border: 0;"></a> <!--script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.yankeecandle.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script--><a href="http://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.yankeecandle.com&amp;lang=en" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" title="Norton"><img alt="Norton secured" border="0" src="https://www.yankeecandle.com/statics/images/desktop/homePage/icons/norton_footer.png"> </a></p>
 
 </section>
 </div>
@@ -11286,17 +11554,20 @@ Removing this item will also remove the Gift Box!
 
 
 
+
+
 <!-- END OF THE FOOTER -->
 <!-- Include page specific popups -->
 <script></script>
 <input type="hidden" id="hdnSiteUrl" value="m.yankeecandle.com">
 <!-- Jquery Library -->
-<script type="text/javascript" src="/statics/js/endeca-auto-suggest.js?v=20151113.15.11.11"></script>
+<script type="text/javascript" src="/statics/js/endeca-auto-suggest.js?v=20160528.4.18.11"></script>
 <!-- Validation Files -->
-<script type="text/javascript" src="/statics/js/lib/jquery.form.min.js?v=20151113.15.11.11"></script>
-<script type="text/javascript" src="/statics/js/plugins/jquery.validate.js?v=20151113.15.11.11"></script>
+<script type="text/javascript" src="/statics/js/lib/jquery.form.min.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/plugins/jquery.validate.js?v=20160528.4.18.11"></script>
 <!-- Global scripts -->
-<script type="text/javascript" src="/statics/js/global.js?v=20151113.15.11.11"></script>
+<script type="text/javascript" src="/statics/js/jquery.cookie.js?v=20160528.4.18.11"></script>
+<script type="text/javascript" src="/statics/js/global.js?v=20160528.4.18.11"></script>
 <!-- CoreMetrics script -->
 <!-- Beginning Tealium tags -->
 <script type="text/javascript">
