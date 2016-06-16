@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirportly.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202100255id_/http%3A//sirportly.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirportly.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616202319id_/http%3A//sirportly.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sirportly
 
