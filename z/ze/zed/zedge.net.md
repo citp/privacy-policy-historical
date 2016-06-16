@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113013424id_/http%3A//www.zedge.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051517id_/http%3A//www.zedge.net/privacy) for the most accurate reproduction.*
 
 # Zedge | Privacy policy
 
 ### Privacy Policy
 
-_Date of Last Revision: October 26th, 2015_
+_Date of Last Revision: April 15th, 2016_
 
-This privacy policy (the "Privacy Policy") describes how Zedge Holdings, Inc. ("Zedge" or "we" or "us") uses personal information in running our business. Zedge is available from our websites, including but not limited to, www.zedge.net, m.zedge.net and t.zedge.net ("Websites") and mobile applications ("Mobile Apps"). We refer to our Website visitors and Mobile App users as users ("Users") of Zedge's Services ("Services"). Please read our [Terms of Service](https://web.archive.org/terms/) and our [online safety and best practices guidelines](https://web.archive.org/online-safety/). By visiting any of the Websites or using any of the Mobile Apps, you are accepting and consenting to the practices described in the Privacy Policy.
+This privacy policy (the "Privacy Policy") describes how Zedge, Inc. ("Zedge" or "we" or "us") uses personal information in running our business. Zedge is available from our websites, including but not limited to, www.zedge.net, m.zedge.net and t.zedge.net ("Websites") and mobile applications ("Mobile Apps"). We refer to our Website visitors and Mobile App users as users ("Users") of Zedge's Services ("Services"). Please read our [Terms of Service](https://web.archive.org/terms/) and our [online safety and best practices guidelines](https://web.archive.org/online-safety/). By visiting any of the Websites or using any of the Mobile Apps, you are accepting and consenting to the practices described in the Privacy Policy.
 
 ##### 1\. WHAT TYPES OF INFORMATION DOES ZEDGE COLLECT?
 
@@ -50,7 +50,7 @@ Some of our advertisers enable you to purchase content such as ringtones. In ord
 
 ##### 4\. DISCLOSURES OF INFORMATION
 
-As reasonably necessary to provide services to you, Zedge may share non-personally identifying information or personally identifying information with its partners or affiliates, and also with third party vendors.
+As reasonably necessary to provide services to you, Zedge may share non-personally identifying information or personally identifying information with its partners or affiliates, and also with third party vendors. For example, for certain Services, Zedge may require you to verify your phone number and consent to a one-time SMS message sent through a third-party service provider, Digits by Twitter. By providing your phone number, you consent to receive a SMS message from Digits by Twitter and consent to the collection and use of your phone number by Digits by Twitter in accordance with its Privacy Policy.
 
 Zedge may disclose your information to third parties when obligated or permitted to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person. We reserve the right to disclose to third parties non-personally identifiable information collected for any lawful purpose.
 
@@ -85,7 +85,7 @@ The information collected by Zedge is hosted in the United States of America and
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at:
 
 Privacy Officer  
-Zedge Holdings, Inc.  
+Zedge, Inc.  
 22 Cortlandt Street, 14th Floor  
 New York, NY 10007  
 Email: privacy@zedge.net
