@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webseo.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073904id_/http%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webseo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060355id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy covers how WebCEO uses personal information that users provi
 
 ### How We Collect and Use Your Information
 
-You can browse the WebCEO website, located at [http://www.webceo.com](http://www.webceo.com/), without providing any personal information. To start using the WebCEO's Service you may be required to register and provide some personal information.
+You can browse the WebCEO website, located at [//www.webceo.com](https://www.webceo.com/), without providing any personal information. To start using the WebCEO's Service you may be required to register and provide some personal information.
 
 The information that WebCEO collects about you can be classified as Personal Information and Anonymous Information. Personal Information refers to information that identifies you as a person, for example, your name, postal address, phone number, email address, payment details. Anonymous Information refers to information that does not identify a specific individual.
 
