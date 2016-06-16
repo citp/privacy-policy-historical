@@ -1,0 +1,135 @@
+> *The following text is extracted and transformed from the housecall.io privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616131234id_/http%3A//www.tryhousecall.com/privacy) for the most accurate reproduction.*
+
+# HouseCall - Privacy Policy
+
+This privacy policy was last modified on October 1, 2013.
+
+Welcome to HouseCall, an online and mobile service from Codefied, Inc. (“HouseCall,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+
+HOW WE COLLECT AND USE INFORMATION 
+
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use.
+
+We collect the following types of information about you: 
+
+Information you provide us directly as a Consumer 
+
+We ask for certain information such as your first and last name, home address, phone number, email address, photograph of yourself, or if you correspond with us. You may also provide us with photographs related to your use of the Service. You will need to provide your financial information for purposes of processing a transaction on or through the Service. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service such as Pro ratings and comments. We use this information to operate, maintain, and provide to you the features and functionality of the Service, as is further described below. 
+
+Information you provide us directly as a Pro 
+
+If you create a Pro account with HouseCall, you have the opportunity to provide additional information (“Business Profile”) such as your business name, logo, photograph of yourself, credentials and qualifications, licenses, year of business establishment, as well as links to your personal web site, if you have one. You will need to provide your financial information for purposes of processing a transaction on or through the Service. You may also have the ability to upload a photograph portfolio of your previous work. We may supplement or modify the Business Profile to conform to our editorial policies or to add information from your website, materials that you supply to us, or publicly available sources. When you respond to a Consumer’s Service Request, any or all of the Business Profile can be displayed to the Consumer making such Service Request. We may also conduct a background check on you and/or your business. 
+
+Inviting a friend to use HouseCall from the “Invite friends” or “Pro referral” feature 
+
+If you choose to use our invitation service to invite a third party to the Service through our “Invite friends” feature, you may directly choose a friend to invite through your mobile device’s native contact list – but we do not require that you import your contacts list to the Service, and we do not retain the information contained in your contacts list. You understand that by inviting a friend to HouseCall through the “Invite friends” feature, you are directly sending a an SMS text message or an email from your personal accounts and that we are not storing your contact list. In addition, you understand and agree that normal carrier charges apply to communications sent from your phone. Since this invitation is coming directly from your email or phone, we do not have access to or control this communication. If you choose to use our “Pro referral” feature, we will ask you to provide us with certain personal information for a third party so that we can invite them to join the Service, including their first and last name, and email address and phone number. We may retain this information for the purposes of inviting the third party to join the Service and to track the success of the referral feature. Unless the invitee agrees to join the Service, we do not use the invitee’s contact information for marketing purposes, and we do not share such information with third parties. The invitee may contact us at any time to request that we remove his or her information from our records at support [at] tryhousecall [dot] com. 
+
+Use of Facebook Connect 
+
+We may allow you to login to our Service with Facebook Connect. When you do so, we collect your Facebook graph information including the people you are friends with on Facebook. 
+
+Analytics information 
+
+We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user. 
+
+Cookies 
+
+When you visit the Service online, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets HouseCall help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
+
+Log file information 
+
+Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. 
+
+Clear gifs/web beacons information 
+
+When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service. 
+
+Device identifiers 
+
+When you access the Service by or through a mobile device (including but not limited to smartphones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by HouseCall. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled. 
+
+Location data 
+
+When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled. 
+
+Commercial and marketing communications 
+
+We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt-out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails. 
+
+Use of certain service type information we collect about you 
+
+We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the HouseCall application on your mobile devices. 
+
+SHARING OF YOUR INFORMATION 
+
+We will not rent or sell your information to third parties outside HouseCall and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below: 
+
+Who we may share your information with 
+
+We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy. As a Consumer, when you request a home service, we will share your name, “star rating,” home Service address, and phone number with the Pro who will complete your job. As a Pro, we will share your location, Business Profile, your photograph, “star rating”, first and last name, and phone number with Consumers requesting a Service. 
+
+Completed services 
+
+As a Consumer or Pro we may publish to our website or mobile service your first name, last initial, description of Service completed, Facebook picture, ZIP code and date. 
+
+Who you may choose to share your User Content with 
+
+Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please change your profile settings. Subject to your profile and privacy settings, any User Content that you make public is viewable and searchable by other Users on the Service. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information. You may also choose to share your location, name, or other identifying information or User Content on third party services like Facebook or Twitter through the use of functionality we provide on the Service (i.e., a “post on Facebook” button). Please note that if you choose to share your information on these third party services, your information will be made visible in accordance with your applicable privacy settings on such services (if any), and that such information may be collected and used in accordance with that third party service’s own rules and policies. This Privacy Policy does not govern the collection or use of your information or User content on third party services, and you agree that if you choose to share your information or User Content on a third party website or service (like Facebook) you do so at your own risk. 
+
+Surveys and Feedback 
+
+We may also collect information if you participate in surveys conducted by or on behalf of us or our partner companies, including but not limited to feedback within the Service, questionnaires, telephone interview and/or discussion groups, and otherwise providing general information about the HouseCall service. 
+
+What happens in the event of a change of control 
+
+We may buy or sell/divest/transfer HouseCall (including any shares in the company), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, User Content and other user information related to the Service will likely be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company. 
+
+Instances where we are required to share your information 
+
+HouseCall will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of HouseCall, our Users or others. 
+
+Sharing certain service type information we collect about you: We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+
+HOW WE STORE AND PROTECT YOUR INFORMATION 
+
+Storage and Processing 
+
+Your information collected through the Service may be stored and processed in the United States or any other country in which HouseCall or its subsidiaries, affiliates or service providers maintain facilities. HouseCall may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which HouseCall or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+
+Keeping your information safe 
+
+HouseCall cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from HouseCall, at all times. However, HouseCall cannot ensure or warrant the security of any information you transmit to HouseCall or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the HouseCall Service, such as social networks. HouseCall is not responsible for the functionality or security measures of any third party. 
+
+Compromise of information 
+
+In the event that any information under our control is compromised as a result of a breach of security, HouseCall will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations. 
+
+YOUR CHOICES ABOUT YOUR INFORMATION 
+
+You control your account information and settings 
+
+You may update your account information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at support [at] tryhousecall [dot] com. 
+
+Opting out of collection of your information for Tracking / Advertising 
+
+Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents HouseCall or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. 
+
+How long we keep your User Content 
+
+Following termination or deactivation of your User account, HouseCall may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. 
+
+CHILDREN’S PRIVACY 
+
+HouseCall does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13\. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support [at] tryhousecall [dot] com. 
+
+LINKS TO OTHER WEB SITES AND SERVICES 
+
+We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to you User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service. 
+
+HOW TO CONTACT US 
+
+If you have any questions about this Privacy Policy or the Service, please contact us at support [at] tryhousecall [dot] com.
+
+CHANGES TO OUR PRIVACY POLICY 
+
+HouseCall may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. 
