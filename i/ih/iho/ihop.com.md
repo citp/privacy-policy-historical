@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216061105id_/http%3A//www.ihop.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616234359id_/http%3A//www.ihop.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # IHOP Customer Privacy Policy
 
