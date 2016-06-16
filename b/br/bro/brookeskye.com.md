@@ -1,44 +1,54 @@
-> *The following text is extracted and transformed from the brookeskye.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302025038id_/http%3A//track.brookeskye.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookeskye.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225004id_/http%3A//clips4sale.com/list/en/page/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Amateur Porn | Fetish Porn Videos - Clips4Sale.com
 
-**BrookeSkye.com**
+[ ](https://plus.google.com/+Clips4sale1/about)[](http://clips4sale.com/list/)
 
-**PRIVACY POLICY STATEMENT**  
-  
-  
+#### Clip4sale Privacy Policy
+
+Clips4sale.com(Website) has created this privacy policy ("Policy") in order to demonstrate our company's commitment to privacy. The following discloses our information gathering and disseminating practices. This Policy also instructs you on what procedures to take if you do not want to receive communications from us other than those required for account maintenance. 
+
+#### Minors
+
+Our company's services are directed to adults who possess validated credit card information, and are not marketed to individuals under the age of Eighteen(18)(21-years old where 18 is not the age of majority). Certain portions of Website, which may contain content considered offensive to some, are inaccessible to individuals under the age of Eighteen(18)(21-years old where 18 is not the age of majority)., as advocated by the Communications Decency Act. For those portions that may be accessible to individuals under the age of Eighteen(18), such as the Website home page and other areas presenting non-offensive content, the Website has no intention of collecting any personally identifiable information (that is, name, address, telephone number, or email address) from individuals under Eighteen(18) years of age(21-years old where 18 is not the age of majority). 
+
+#### PERSONS UNDER THE AGE OF EIGHTEEN(18) & or (21) SHOULD NOT SUBMIT INFORMATION TO THE WEBSITE
+
+minor has provided us with personally-identifiable information, a parent or guardian of that minor should contact us at the email address listed at the bottom of this Policy immediately. 
+
+#### PERSONALLY-IDENTIFIABLE INFORMATION
+
+We use your IP address to help diagnose problems with our servers, and to administer the Website. Your IP address is used to help identify you and to gather broad demographic information. Our site may require Members & Studios to give us contact information (such as email addresses and phone numbers), financial information (this includes account or credit card numbers), and demographic information (this includes zip code, age and income level). We use contact information to send the user information needed to maintain their studio & or membership account, to contact them when necessary, and to notify them of news about our company. We also use customer contact information to send the user promotional material from some of our partners. Users may opt-out of receiving future mailings (other than those required for account administration); see the opt-out section below. The financial information collected is used to check the users' qualifications and to bill the user for services ordered. Demographic and profile data is also collected at our site. We may use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only. From time to time, our site may request additional information from users via promotional programs or special offers. Participation in these offers is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information such as phone numbers and address. This information may be used to award gifts and promotional products. 
+
+#### USE OF COOKIES
+
+We use cookies to save your preferences so you do not have to re-enter them each time you visit our site. When you visit our site, we also gather information that does not identify individual users. Cookies are used to track your IP address only for the purposes of tracking unique user sessions, to help diagnose problems with our server, and to administer our Web site. We use aggregate information along with other data to make improvements and update to our site for our visitors. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law, regulation or subpoena; (2) enforce or apply the terms of any of our user agreements; or (3) protect the rights, property or safety of our users and/or any third parties. 
+
+#### SHARING OF INFORMATION
+
+The Website does not rent, sell, or share personal information about you with any third party, except to the financial institution that processes your transaction or where required by law. If our company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, members personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, the members personally identifiable information will be used in a manner different from that stated at the time of collection members will be given choice consistent with our Changes to our Privacy Policy section below. 
+
+#### THIRD-PARTY COMPANIES
+
+This site contains links to other sites. Please note that the Website is not responsible for the privacy practices or the content of other sites. In some cases, information may be collected about you that is not personally identifiable by third-party advertising companies and service providers ("third parties"). Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the site from which you linked to our site. Internet advertising networks such as some of the third parties used on this site are currently the focus of regulatory and legislative scrutiny concerning the breadth and ultimate use of information collected from sites like the Website. When you navigate through the Website, these third parties may set cookies during your viewing of certain pages. The Website utilizes the data that third parties have collected in this fashion to determine how far you have progressed into the Website. Third parties are not entitled to use collected data other than for general reporting of aggregate information. Should regulations and laws evolve which impose limitations and restrictions on the Website's collection and use of such data (beyond the limitations Website already imposes upon itself, as these are set forth in this Policy), of course the Website will abide by such laws and/or regulations. 
+
+#### MONITORING THE SERVICES
+
+The Website reserves the right, but has no obligation, to monitor all services offered. This includes but is not limited to the materials posted in the public areas of the Website as well as the contents of communications transmitted while engaging in voice and text chat, email, or voicemail. The Website shall have the right to remove any material that violates, or is alleged to violate, any law or regulation, the User Agreement, or this Policy. The Website shall have the right to disclose information transmitted while using its services for any reason if the Website believes that it is reasonable to do so, including to: satisfy laws, regulations, or governmental or legal requests; operate the service properly; or protect itself and/or users. 
+
+#### OPT-OUT
+
+Our site provides users the opportunity to opt-out of receiving communications from us (other than email required for account maintenance). If you have established an studio or a membership you may edit your account information to selectively opt to not receive news and/or promotions. Users may change their option for receiving news and/or promotions in the following ways: 
+
+  1. Visiting your profile and editing the information; or
+  2. If you are unable to edit, email Customer Service (include the email address used when signing up, full name, and credit card billing address). Users may also follow this procedure for changing and modifying information previously provided to Website 
 
 
-* * *
 
-has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of brookeskye.com. brookeskye.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
+#### CHANGES TO OUR PRIVACY POLICY
 
-### Non-Personal Information and Cookies
+We will users of any change to this privacy policy either by posting a notification on the main page of the site or via email, unless you have opted-out of receiving email from us. 
 
-Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behavior, date and time of visit, the pages visited; the time spent viewing the Site, the number of times the visitor returns to the Site, and click-stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site.
+#### FURTHER QUESTIONS
 
-### Use of Information
-
-We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber.
-
-We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
-
-No credit card holder information is shared with third parties
-
-Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us.
-
-There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers.
-
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
-
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to 
-
-### Security
-
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control.As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.
-
-### Acceptance of these Terms
-
-By visiting or subscribing to this Site, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
-
-* * *
+Further Customer Service questions? Contact us at our email address [customerservice@clips4sale.com](mailto:customerservice@clips4sale.com)
