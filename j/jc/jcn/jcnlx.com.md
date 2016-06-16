@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the jcnlx.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102214846id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcnlx.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204232id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
 
 # Privacy policy for My.jobs
 
 This Privacy Policy covers the collection, use and disclosure of information collected through the My.jobs website, owned and operated by DirectEmployers Association (hereafter, “DE”, “We”, “Us”). This Privacy Policy describes how DirectEmployers Association collects and uses the personal information you provide. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
-
-[ ](https://privacy.truste.com/privacy-seal/DirectEmployers-Association/validation?rid=39667ce1-6884-4b85-a86b-cd9a659f9e31 "TRUSTe online privacy certification")
-
-The TRUSTe program covers only information that is collected through this website http://my.jobs, and does not cover information that may be collected through software downloaded from the website. 
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
 
 ### Information Collection and Use
 
