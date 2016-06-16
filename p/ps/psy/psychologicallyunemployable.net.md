@@ -1,48 +1,79 @@
-> *The following text is extracted and transformed from the psychologicallyunemployable.net privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024070940id_/http%3A//psychologicallyunemployable.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicallyunemployable.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222356id_/http%3A//theconversionslab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Psychologically Unemployable
+# Privacy Policy - The Conversions Lab
 
-**Privacy Policy**
+Theconversionslab.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-**  
-INTRODUCTION**  
-Your privacy is essential to us. Here in http://psychologicallyunemployable.net/, we believe that privacy is a top priority. We know that you care how information about you is used and shared. Thus, we provide this Privacy Policy to summarize our procedures and practices as regards to information collection and use. This will serve you as a guide in making an intelligent decision in sharing your information with us. By visiting http://psychologicallyunemployable.net/, you agree to be bound by this Privacy Policy and hereby accept the procedures and practices stated in this herein.
+You or Your means you as a participant in or as a user of the Theconversionslab.com website. We or Our or Us means Theconversionslab.com. Our site Theconversionslab.com.
 
-**COVERAGE**  
-This Privacy Policy also outlines our privacy practices on our corporate website. This would describe and explain how we take care and handle your personal information. You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher (“Publisher”) and/or advertiser (“Advertiser” and together with the Publishers, “Clients”) services available through the Website (“Services”). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
+**WHAT DO WE DO WITH YOUR INFORMATION?**
 
-**INFORMATION COLLECTION**  
-If you attempt to become a Client or otherwise choose to provide information to us, this website shall collect Personal Information from you. This information includes, but is not limited to: name, address, telephone number, mobile number and/or email address. Once collected, we will store your information for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business.
+When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
 
-**REMOVAL OF YOUR INFORMATION/OPTING OUT**
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
 
-At anytime you want to opt out/unsubscribe you can click the link at the bottom of any of the emails and you will be removed from our database. You may also [contact us directly](http://psychologicallyunemployable.net/contact-me/ "Contact Me") and send an email and we will remove you immediately. This will take you out of our database, but if you optin to any websites linked from our site(third party sites) you should refer to their policies to opt out of their database list.
+Email marketing: With your permission, we may send you emails about new products, free and premium content (i.e. blog posts, YouTube videos, reports/whitepapers, etc.), and special events. We will email you between 3-7 times a week.
 
-**  
-DISCLOSURE OF INFORMATION**  
-Information that we collected and stored shall not be sold or make it for rent to or with others. Your personal information is not shared with any third parties, except:  
-(a) where necessary to conduct business, such as invoicing Clients in connection with the Services or making payments to, or collecting money from, a Client;  
-(b) in case of a breach of any agreement between Client and http://psychologicallyunemployable.net/;  
-(c) when required by law, or requested by a court of competent jurisdiction;  
-(d) in the event of http://psychologicallyunemployable.net/ bankruptcy, or if http://psychologicallyunemployable.net/ is sold or acquired; or  
-(e) where http://psychologicallyunemployable.net/ determines, in its sole discretion, that such disclosure is necessary to protect the rights of http://psychologicallyunemployable.net/ and/or a third party, or necessary to protect http://psychologicallyunemployable.net/ from liability of any kind.  
-In an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+**CONSENT**
 
-**COOKIES AND WEB BEACONS**  
-We use “cookies” and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as “1X1 pixels” or “clear GIFs”) are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier’s website for details on how to do this.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-**SECURITY**  
-All collected information is stored in a technically and physically secure environment. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our end-users’ personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.  
-Once we receive the transmission of your personal information, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All our end-users’ personal information is restricted in our offices. Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to the same.
+If we ask for your personal information for a secondary reason (i.e. newsletter subscription and marketing messages), we will ask you directly for your expressed consent and provide you with an opportunity to withdraw your consent.
 
-**ACCESSING AND UPDATING PERSONAL INFORMATION**  
-When you use our services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our policies and take other actions otherwise permitted by law.
+You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
 
-**THIRD PARTIES**  
-It should be stressed here that the websites of our advertiser and publisher clients as well as the websites on which we place advertisements or any third party websites linked to one of our sites also may collect information from you for various purposes, including, but not limited to providing advertisements about goods and services likely to be of greater interest to you. Such information may include non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with such website. These companies typically use a cookie or third party web beacon to collect this information. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of such third parties to determine how they handle any information they collect from you. If you disclose your information to others, whether they are bidders, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. We encourage you to ask questions before you disclose your personal information to others.
+You may also withdraw your consent anytime, by contacting us at zach@theconversionslab.com or mailing us at: Psychologically Unemployable LLC, Suite 117, 8206 Rockville RD, Indianapolis, IN 46214
 
-**MINORS**  
-This Website is not intended for visitors that are minors or under eighteen (18) years of age. http://psychologicallyunemployable.net/ does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected personal information from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children.
+**DISCLOSURE**
 
-**CHANGES AND AMENDMENTS & NOTIFICATION OF CHANGES**  
-http://psychologicallyunemployable.net/ reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.
+
+**IMPORTANT:** We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
+
+**DATA STORAGE**
+
+Theconversionslab.com uses third party vendors and hosting partners to provide the necessary hardware, software, and related technology required to run Theconversionslab.com. Although Theconversionslab.com owns the code, databases and all rights to the Theconversionslab.com application, you retain all rights to your data.
+
+Theconversionslab.com may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+
+**THIRD-PARTY SERVICES**
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links: When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+**SECURITY**
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+**COOKIES**
+
+Theconversionslab.com utilizes cookies to create a more customized experience for our users and customers. For example, we use a login cookie so members do not have to re-enter their username and password each time they return to our site We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising.
+
+**AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at zach@theconversionslab.com or you can call us directly at 1-800-204-7195
+
+### Comments
+
+comments
