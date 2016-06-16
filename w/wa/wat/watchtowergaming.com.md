@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchtowergaming.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903053741id_/http%3A//watchtowergaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtowergaming.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617001227id_/http%3A//watchtowergaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watchtower Gaming
 
@@ -41,8 +41,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of this site then you may contact us using our [Contact Page](https://web.archive.org/contact-us/).
-
-[](http://watchtowergaming.com/author/admin/ "More about Watchtower Gaming ")
-
-on May 11, 2015.  
-Last revised by: [Jason E.](http://watchtowergaming.com/author/editor/ "More about Jason E. "), our reviewer, on May 15, 2015.
