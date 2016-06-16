@@ -1,184 +1,141 @@
-> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815172633id_/https%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616062315id_/https%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Econsultancy
+# Privacy & Cookies Policy
 
-Enter a search term such as “mobile analytics” or browse our content using the filters above. 
+## Centaur Media PLC - Privacy & Cookies Policy
 
-That’s not only a poor Scrabble score but we also couldn’t find any results matching “”.  
-Check your spelling or try broadening your search. 
+### 1\. SCOPE
 
-Sorry about this, there is a problem with our search at the moment.  
-Please try again later. 
+This policy applies to personal information collected on websites owned or controlled by Centaur Communications Limited and its UK affiliates and their brands (for a list of these brands, please see http://www.centaurmedia.com/brands) (collectively referred to in this policy as “we”, "us" or "our").
 
-### Overview
+We comply with data protection legislation such as the Data Protection Act 1998. This regulates the processing of personal data relating to you and grants you various rights in respect of your personal data.
 
-**Effective: 13 May 2015**
+The aim of this policy is to tell you how we will use any personal information we collect or you provide through our websites. Please read it carefully before you proceed. The data controller in respect of this website is Centaur Communications Limited.
 
-This privacy policy applies to http://econsultancy.com owned and operated by E-consultancy.com Limited (“Econsultancy”). This privacy policy describes how Econsultancy collects and uses the personal information you provide on our web site: [https://econsultancy.com](https://econsultancy.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+### 2\. WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-[ ](https://privacy.truste.com/privacy-seal/E-consultancy-com-Limited/validation?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014 "TRUSTe online privacy certification")
+You do not have to give us any personal information in order to use most of this website.
 
-Econsultancy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers information collected through this Web site, econsultancy.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +44 (0)20 7269 1450. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+However, if you wish to register on this website, subscribe to a service, book delegate space at events, request further information, or provide content for inclusion on this website (e.g. blogs or other online forums)we may collect the following personal information from you:
 
-This document discloses the data protection and privacy practices for Econsultancy including:
+  * name, address, phone number and email address; and
+  * gender, salary, employment details, employer details, and education details.
 
-  * What personally identifiable information of yours is collected
-  * What organization is collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under Econsultancy's control
-  * How you can correct any inaccuracies in the information.
 
 
+We will also keep a record of any financial transaction you make with us but we do not directly collect, process or store your debit or credit card information. Online payments made through this website are processed securely by a third party payment provider Datacash. Please refer to Datacash's Privacy Policy www.datacash.com/mcdatacash/privacy/privacy.html for how your payment card data is processed by them.
 
-Questions regarding this privacy policy should be directed to Econsultancy via our [contact form](https://web.archive.org/contact/).
+You may also choose to provide additional voluntary information in the course of your use of this website.
 
-### Table of Contents
+In addition, we may automatically collect information about the website that you came from or are going to. We also collect information about the pages of this website which you visit, IP addresses, the type of browser you use and the times you access this website. However, this information is aggregated and is not used to identify you.
 
-  1. Under 18s
-  2. Information We Collect
-  3. Our Use of Your Information
-  4. Email Communications
-  5. Our Disclosure of Your Information
-  6. Control of Your Password
-  7. Reviewing and Changing Your Personally Identifiable Information
-  8. Other Information Collectors
-  9. Security
-  10. Changes to Privacy Policy
-  11. Downloadable Software Disclaimer
-  12. Mailing Address
+### 3\. HOW WILL YOUR PERSONAL INFORMATION BE USED AND SHARED?
 
+The personal information we collect allows us to:
 
+  * provide the products and services you have ordered;
+  * verify your identity and details of your payment method or credit card amount;
+  * administer our website and provide customer services;
+  * meet legal, regulatory and compliance requirements;
+  * monitor and analyse the use of any account to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime;
+  * gather management information to form statistical and trend analysis;
+  * communicate with you;
+  * investigate any complaints about this website;
+  * personalise your experience of this website; and
+  * contact you about our products and services which we think might be of interest to you (where we have the appropriate permissions to do so; please see Paragraph 5 for more information).
 
-### 1\. Under 18s
 
-Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us.
 
-### 2\. Information We Collect
+We may share your personal information with all of our affiliate companies and their brands for the above purposes.
 
-Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.
+We may employ the services of third party service providers to help us in certain areas, such as website hosting, maintenance, call centre operation. In some cases the third party may receive your information. However, at all times, we will control and be responsible for the use of your information.
 
-To fully use our services, you will need to join as a Member, where you will be required to provide us with your contact information such as name, email address, phone number and postal address and some other information relating to your professional employment. We automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve our users.
+We may use aggregated information so we can administer and improve our website, analyse trends, gather broad demographic information and detect suspicious or fraudulent transactions. We may pass this information to third parties.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+If you provide a credit or debit card, we may also use third parties to check the validity of the sort code, account number and card number you submit in order to prevent fraud as well as to process any transaction you attempt via the website.
 
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:
 
-Technologies such as: cookies, beacons, tags and scripts are used by Econsultancy and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+  * checking details in applications for credit and credit related or other facilities
+  * managing credit and credit related accounts or facilities
+  * recovering debt
+  * checking details on proposals and claims for all types of insurance
+  * checking details of job applicants and employees.
 
-We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+Please email us on customerdata@centaurmedia.com if you want to have details of those fraud prevention agencies from whom we obtain and to whom we pass information about you. You have a legal right to these details.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+### 4\. TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE THE EEA
 
-**Social buttons.** On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’, and LinkedIn ‘Share’. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Econsultancy. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Econsultancy’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Econsultancy, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+We may transfer some of your personal information to the United States of America and to Singapore as we have affiliates in both these jurisdictions. These countries may not have equivalent data protection legislation to the UK. However, when we transfer your personal information in this way, we will keep it securely and only use it as outlined in this Privacy & Cookies Policy. By submitting your personal information to this website, you consent to such transfers taking place.
 
-**External web services.** We use a number of external web services on the Econsultancy site, mostly to display content within our web pages. For example, to display images we often use Flickr; to display slideshows we sometimes use SlideShare; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
+### 5\. MARKETING COMMUNICATIONS
 
-**Email tracking.** Some emails that we send you have no tracking in at all e.g. service emails with invoices attached. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of Econsultancy’s emails which you can do via Your Account.
+Where you have given us the appropriate permissions during the registration process to the website/website services (as applicable), we may from time to time contact you by email, SMS, telephone or post about our products and services (including from all our brands) that may be of interest to you.
 
-**Surveys & Contests.** From time to time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on the Econsultancy web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winner's name and organization. If the survey or contest has a sponsor then we may share information given by entrants with the sponsor, but only with the user's consent.
+If at any point, you would like to opt-out of receiving such marketing communications from us, or would like to change the channels that we use to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at customerdata@centaurmedia.com.
 
-**Payment Processing.** In order to process payments online we require the billing address for the credit card used and our external payment provider, [DataCash](http://www.datacash.com/), requires your credit card details. For details of how this information is used, please see Section 3 below.
+### 6\. COOKIES AND RELATED TRACKING TECHNOLOGIES
 
-**Supplier Profile.** We have a [Supplier Directory](https://web.archive.org/directories/suppliers/) which contains profiles of suppliers, agencies, vendors, consultancies and freelancers offering service or products related to digital marketing and ecommerce. If you represent such a Supplier you can set up a basic profile for free when you join Econsultancy. The information we collect for the Supplier Profile comes from two sources. Firstly, it is the information that you give when you join as a Member, or the information you subsequently update via the "[Your Profile](https://web.archive.org/account/edit/)" section in "[Your Account](https://web.archive.org/account/)". We require a minimum amount of information for each supplier profile so that it is useful for users of the directory. We also offer a "Full Profile" which allows you to add further information but this is a paid-for service. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user has chosen to contribute anonymously.
+#### 6.1 Use of Cookies on our website
 
-**Blog Comments.** In order to leave a comment in our [Blog](https://web.archive.org/blog/) you either have to be a logged in Member or you have to give us at least your Name and Email address. You can choose whether to post as yourself, or anonymously. We require name and email address even for anonymous posts for quality control purposes. To request removal of your personal information from our blog or community forum, contact us [here](https://web.archive.org/contact/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We use cookies to collect information about store your online preference. Cookies are small pieces of information sent by a web server to a web browser which allows the server to uniquely identify the browser on each page.
 
-### 3\. Our Use of Your Information
+We use the following categories of cookies on our website:
 
-**Testimonials.** We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us [here](https://web.archive.org/contact/). 
+##### Strictly Necessary Cookies
 
-**Links to 3rd Party Sites.** Our Site includes links to other Web sites whose privacy practices may differ from those of Econsultancy. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for such as remembering your login details or shopping basket items cannot be provided.
 
-We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
+##### Performance Cookies
 
-We use your email address to send you newsletters or other communications (for example, content notifications) that you have requested from the Site. Out of respect for our users we offer an opt-out (see Section 4 below).
+These cookies collect anonymous information on how people use our website. For example, we use Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
 
-We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our [Terms & Conditions](https://web.archive.org/about/terms/). At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.
+##### Functionality Cookies
 
-**Payment Processing.** We take online payments for our services (compulsory for payments below £395 excluding VAT). We use [DataCash](http://www.datacash.com/) as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process renewals or so you can pay again with the same card more easily. We also use the billing details in case we need to contact you regarding payments e.g. for an outstanding invoice or failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on a secure DataCash server and data passing between Econsultancy servers and DataCash are encrypted using SSL (Secure Sockets Layer). We only store reference details of the most recent card that you have used to purchase on our site, not multiple card details.
+These cookies remember choices you make such as the country you visit our website from, language and search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and pleasant. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
-Your Personal Information is stored in our databases. Please note that the information you enter will be transferred outside the European Economic Area to the United States of America where it will be stored for the purposes of processing by Econsultancy or any of its affiliates including subcontractors. By submitting your information, you consent to this transfer.
+##### Targeting Cookies or Advertising Cookies
 
-Econsultancy complies with the UK Data Protection Act 1998 and is registered with the Data Protection Registrar number Z4942204.
+These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. The cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with other parties such as advertisers.
 
-**Supplier Directory.** Our [Supplier Directory](https://web.archive.org/directories/suppliers/) is to help users find a suitable digital marketing or ecommerce agency, vendor, consultancy, supplier or freelancer. We use your supplier profile details, and the contributions to the site of the individuals on any subscription which has a supplier profile, to build a supplier profile which we publish in our Supplier Directory as described in more detail in Section 5 below.
+##### Social Media Cookies
 
-### 4\. Email Communications
+These cookies allow you to share what you’ve been doing on the website on social media such as Facebook and Twitter. These cookies are not within our control. Please refer to the respective privacy policies for how their cookies work.
 
-As part of the registration process for joining as an Econsultancy user you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "[Contact Settings](https://web.archive.org/account/contact/)" section under "[Your Account](https://web.archive.org/account/)". You can define what emails you receive from the site (if any) and save your settings.
+If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies.
 
-### 5\. Our Disclosure of Your Information
+Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. To find out more about cookies please visit: www.allaboutcookies.org or see www.youronlinechoices.eu which contains further information about behavioural advertising and online privacy.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell or rent any personally identifiable information about you to any third party.
+####  6.2 Use of Web Beacons.
 
-By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorise us to) disclose any information about you as required by law, such as to comply with subpoena, so simular legal process, to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, to protect our rights, protect your safety or the safety of others, in connection with an investigation of fraud, Intellectual Property Rights infringements, or other activity that is illegal or may expose us to legal liability. If Econsultancy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
 
-**Advertisers.** We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. There are some cases where we do pass on your personal details, however we only do this if you explicitly agree to this, typically by checking an opt-in checkbox where the default position will be that you do not agree to your details being passed on. For example, where we have events such as Supplier Showcases you may choose to opt-in, at the time of registering for the event, to allow your details to be passed on to those presenting.
+### 7\. LINKS
 
-**Visibility of your information on the Site.** Following are details of how your information is visible across the site depending on the site section and what you are doing:
+Our site contains links to other websites over which we have no control. We are not responsible for privacy policies or practices of other websites to which you choose to link from this site. We encourage use to review the privacy policies of those other websites so you can understand how they collect, use and share your personal information.
 
-  * **Blog Comments.** If you post a comment to our [Blog](https://web.archive.org/blog/) then, by default, your name (first name, last name) will be published against your post as well as your job position and company name, based on your profile information. Your name will also then be a link to your full Member Profile. If you have chosen not to publish your profile in our User Directory then there will be no such link. At the point of posting you can choose to "Post as Anonymous" in which case your contribution will appear as "Anonymous" and there will be no link to your profile.
-  * **Press Releases, Event and Training bookings.** The details published to the site are those included in the press release itself. We record and keep the details of who has posted what and show these against the individual's profile (see Member and Supplier Directory sections below for details) and for administration purposes. We do not publish personal details of users who have booked particular events or training. However, as non-personally identifiable information, we do occasionally publish job titles and company names of those booked to attend a particular event.
-  * **Supplier Directory Profile.** The information that is shown on your supplier profile comes from two sources. Firstly, it is the information that you give when you join and, via the "[Your Profile](https://web.archive.org/account/edit/)" section in "[Your Account](https://web.archive.org/account/)", you can edit and update these details. We require a minimum amount of information for each supplier profile so that it is useful for users of the [Supplier Directory](https://web.archive.org/directories/suppliers/). We also offer a "Full Profile" which allows you to add further information but this is a paid for service. Unlike the user profile, which can be disabled, a supplier profile is automatically enabled if you give the required information. You cannot then disable your supplier profile completely except by contacting Econsultancy. You should be aware that any information you publish on your supplier profile is visible to everyone and anyone, not just other Econsultancy Members, and may appear in search engines and elsewhere on the internet. For example, we cannot prevent others trying to contact you if you publish contact information. Furthermore, you should be aware that, once published, just because you subsequently update your supplier profile information it does not mean that it will be updated everywhere across the internet, as it may already exist elsewhere, for example in the cache of search engines. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user chose to contribute anonymously. These links are generated automatically and cannot be edited or removed by you. If you do not want them to show then you should not create a supplier profile.
+### 8\. SECURITY
 
+We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
+### 9\. SALE OF THE BUSINESS
 
-**Payment and Credit Card Details.** As explained above, we store a unique reference against your card details which allows us to process renewals automatically (unless you have turned renewals off, or your card fails) and also allows you to easily pay further sums due with the card you last paid with. We only store such reference details for the last card you paid with. Your card number is displayed to you on screen, and to Econsultancy admin staff, with only the last four digits visible. The first twelve digits are hidden so that other users, including Econsultancy staff, cannot see your full card details. None of your card details, or billing details, are published on the site in any way, nor are they visible to other users on your subscription.
+In the event that the business is sold or integrated with another business, your details will be disclosed to our advisers and any prospective purchaser’s adviser and will be passed to the new owners of the business.
 
-**Your Account.** Registered Users and Small Business level subscriptions only have one user per subscription. Small Business Multi-user, or higher level subscriptions permit multiple users per subscription. Any user on the same subscription can add or remove any other user to that subscription, and use up the benefits of the subscriptions, so care should be taken in only adding trusted users to a subscription. Within a subscription all users can see who else is part of their subscription; we also show a history of who has invited whom, or removed whom, from the subscription so there is transparency and an audit trail with details of users added or removed from the subscription. Name, job title and company name are shown to the other registered users who can also see any details you have published in your user profile by clicking on your name. All users on the same subscription can see what research has been purchased on behalf of the subscription (as all users on that subscription can then download them), as well as what press releases have been posted by users on the subscription. Blog comments from users on the same subscription will also be shown, except where the individual user posted them anonymously. Bookings for events (including training) are also shared across a subscription so that users on a particular subscription can see who of their colleagues are attending what events. However, credit card details and invoices exist, and are visible, only at the individual user level: you cannot see the card details (even partially hidden as explained earlier) of another user, or his or her transaction history, even if he or she is on the same subscription as you.
+### 10\. ACCESS TO YOUR PERSONAL INFORMATION
 
-**Legal Requests.** Econsultancy cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.
+You are entitled to see the personal information held about you. If you wish to do this, please contact us at customerdata@centaurmedia.com. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the personal information we hold. Please note that in certain circumstances we may withhold access to your personal information where we have the right to do so under current data protection legislation.
 
-**Suppliers and Other Service Providers.** From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional.
+### 11\. UPDATING YOUR PERSONAL INFORMATION
 
-### 6\. Control of Your Password
+You may review, correct, update or change your personal information at any time by contacting us at customerdata@centaurmedia.com.
 
-Except as specifically permitted by this section, you may not disclose your Econsultancy password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "[Your Profile](https://web.archive.org/account/edit/)" section in "[Your Account](https://web.archive.org/account/)".
+### 12\. CHANGES TO OUR PRIVACY & COOKIES POLICY
 
-You may, however, disclose your password to certain third parties with whom Econsultancy has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to the Econsultancy services.
+If our Privacy & Cookies Policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what personal information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-If you wish to change your password you can do so at any time through the "[Your Profile](https://web.archive.org/account/edit/)" section within the "[Your Account](https://web.archive.org/account/)" section of the site.
+### 13\. HOW TO CONTACT US
 
-### 7\. Reviewing and Changing Your Personally Identifiable Information
-
-You can at any time review, delete or change the information you submitted during registration by visiting the "[Your Profile](https://web.archive.org/account/edit/)" section within the "[Your Account](https://web.archive.org/account/)" section of the site.
-
-You must promptly update your information if it changes.
-
-You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact Econsultancy if you would like your personal information removed. We will respond to your request within a reasonable timeframe. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our [Terms & Conditions](https://web.archive.org/about/terms/).
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-### 8\. Other Information Collectors
-
-Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other registered users of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
-
-### 9\. Security
-
-In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to communicate with [DataCash](http://www.datacash.com/), our payment provider.
-
-On the Econsultancy site we use best endeavour to safeguard the confidentiality of your personally identifiable information and we do use encryption (such as SSL) and firewalls to further protect the information as it travels across the Internet. This is because we believe that, apart from the credit card information processed by DataCash, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet.
-
-### 10\. Changes to Privacy Policy
-
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site prior to the change becoming effective. It is up to you whether you then continue to use the site and Econsultancy's services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using Econsultancy's site and services and contact us, as per Section 7 above, should you wish to have any of your details removed.
-
-### 11\. Downloadable Software Disclaimer
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
-### 12\. Mailing Address
-
-Telephone | +1 212 971-0630  
----|---  
-Office address | 350 7th Avenue  
-Ste. 307  
-New York  
-NY 10001  
-United States
+If you have any questions about this statement or your personal information, please contact us at customerdata@centaurmedia.com.
