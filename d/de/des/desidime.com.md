@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the desidime.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225063056id_/http%3A//www.desidime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desidime.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616093223id_/http%3A//www.desidime.com/privacy) for the most accurate reproduction.*
 
 # Online Shopping India - Best Deals, Coupons, Freebies, Indian Online Shopping Community for Mobiles, Electronics, Games, Travel -- DesiDime
 
-## Last Updated: December 09, 2015
+DesiDime Privacy Policy
+
+Last Updated: December 09, 2015
 
 ### Commitment
 
@@ -10,7 +12,7 @@ DesiDime intends to protect the privacy of its users (whether or not registered 
 
 For the purpose of providing you with quality services, we require you to enrol yourself on our Website and/or our mobile application and get yourself registered. If you choose to become a registered member of our Website and/or our mobile application, you must provide your name, e-mail address, a unique login name, password, and password validation (“Personal Information”). Some of our services may direct you to web domains of third parties. Personal Information (if any) provided by you on such web domains shall be dealt with them in the manner provided by the Privacy Policy of such third party web domains. It is hereby expressly stated that DesiDime has no control whatsoever over information of its users posted on other websites. This Privacy Policy only deals with your Personal Information shared with us and we shall in no manner be liable/bound for protection of Personal Information (if any), which may be shared by you on such third party web domains. We encourage you to ask questions and to be very cautious before you disclose your Personal Information to others.
 
-### What type of information does DesiDime.com collect from you?
+## What type of information does DesiDime.com collect from you?
 
 ### Personal Information
 
@@ -36,11 +38,11 @@ Similar to other commercial web sites, our Website and/or our mobile application
 
 Most web browsers automatically accept cookies. By changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. DesiDime understands and supports your right to block any unwanted Internet activity, especially that of unscrupulous websites. However, blocking DesiDime cookies may disable certain features on our Website and/or our mobile application and may make it impossible for you to use certain services available on our Website and/or our mobile application. This may also affect your overall shopping experience with us.
 
-### When and how do we collect the Information?
+## When and how do we collect the Information?
 
 We collect information from you for various purposes including but not limited to the following: 
 
-## 1) Member Registration:
+### 1) Member Registration:
 
 If you choose to become a registered member of our Website and/or our mobile application, you will be required to share some of your personal details such as your name, e-mail address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including but not limited to the following:
 
@@ -51,15 +53,15 @@ If you choose to become a registered member of our Website and/or our mobile app
 
 
 
-## 2) Automatic Logging of Session Data
+### 2) Automatic Logging of Session Data
 
 We automatically log generic information about your computer's connection to the Internet, which we call "session data", that is anonymous and not linked to any personal information. Session data consists of information such as the IP address, operating system, type of browser software being used by you and the activities conducted by you on our Website and/or our mobile application. An IP address is a number that lets computers attached to the internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyse things such as the items visitors are likely to click on most, the manner in which visitors click preferences on our Website and/or our mobile application, number of visitors surfing to various pages on the site, time spent by the visitors on our Website and/or our mobile application and frequency of their visit . It also helps us diagnose problems with our servers and lets us better administer our systems. Although such information does not identify any visitor personally, it is possible to determine from an IP address a visitor's Internet Service Provider (ISP), and the approximate geographic location of his or her point of connectivity.
 
-## 3) Cookies
+### 3) Cookies
 
 The use of cookies is very common on the Internet and DesiDime’s use of cookies is similar to that prevailing in the industry from to time. No personal information about you is gathered or stored in the cookies placed by our Website and/or our mobile application and, as a result, none can be passed on to any third party.
 
-## 4) Other
+### 4) Other
 
 We may from time to time add or enhance products/services available on our Website and/or our mobile application. To the extent these products/services are provided to and used by you, we will use the information you provide in this regard to facilitate the products/service requested. For example, if you email us with a question, we will use your email address, name, nature of the question, etc. to respond to your question. We may also store and publish such information to assist us in making the site the better and easier to use.
 
