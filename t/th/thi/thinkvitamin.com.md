@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thinkvitamin.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227031151id_/http%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkvitamin.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051526id_/http%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
 
 # Treehouse | Privacy Policy
 
 We at Treehouse Island, Inc. (“Treehouse,” “Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the teamtreehouse.com site and our mobile applications (the “Website”) or any related services offered by the Company (the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Treehouse Terms and Conditions which can be found at <https://teamtreehouse.com/terms>.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this Website [teamtreehouse.com](http://teamtreehouse.com/) and Treehouse mobile app.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [help@teamtreehouse.com](mailto:help@teamtreehouse.com).
 
