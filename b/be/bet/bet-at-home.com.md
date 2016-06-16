@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bet-at-home.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226020814id_/https%3A//www.bet-at-home.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet-at-home.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616102922id_/https%3A//www.bet-at-home.com/en/privacypolicy) for the most accurate reproduction.*
 
 # bet-at-home.com: Online sports betting, live bets & top odds
 
