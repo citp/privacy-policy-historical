@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rantlifestyle.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203225328id_/http%3A//www.rantlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantlifestyle.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063337id_/http%3A//www.rantlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# RantLifestyle
+# – Privacy Policy
 
 PRIVACY POLICY  
 Rant, Inc. (“Rant,” “we,” “us,” or “our”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. This Privacy Policy addresses Rant’s practices regarding information collected from visitors of [RantLifestyle](https://web.archive.org/). The website is hereinafter referred to as the “Site”.  
