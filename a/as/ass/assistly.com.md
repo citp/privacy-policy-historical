@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the assistly.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905162857id_/http%3A//www.desk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assistly.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051704id_/http%3A//www.desk.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Desk.com
 
 [ ](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=89c5f057-7f71-4e69-9b74-43994ce03f69 "TRUSTe European Safe Harbor certification")
 
-Desk.com (or the “Company”), a salesforce.com, inc. company, is committed to protecting the privacy of individuals who visit the Company’s Web sites and individuals who register to use the Services as defined below. This Privacy Statement describes Desk.com’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Desk.com (the “Services”). 
+Desk.com (or the “Company”), a salesforce.com, inc. company, is committed to protecting the privacy of individuals who visit the Company’s Web sites and individuals who register to use the Services as defined below. This Privacy Statement describes Desk.com’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Desk.com (the “Services”).
 
 Desk.com has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and related practices have been reviewed by TRUSTe for compliance with TRUSTe’s [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your Personal Information. 
 
@@ -41,15 +41,10 @@ Desk.com uses Web Site Navigational Information to operate and improve the Compa
 
 Desk.com uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information used on the Company’s Web sites and how this information may be used.
 
-  
-
-
 #### Cookies
 
-  
 Desk.com uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Desk.com’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to Desk.com, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me”), you remain anonymous to the Company.
 
-  
 Desk.com uses cookies that are session-based and persistent-based. Session cookies exist only during one session, i.e., only while you are reading or navigating the Company’s Web Sites. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you may not be able to successfully use the Services.
 
 The following sets out how Desk.com may use different categories of cookies and your options for managing cookies’ settings:
@@ -126,26 +121,15 @@ To learn how to manage privacy and storage settings for Flash cookies [click he
   
 Cookies that are used as part of the Services (in the proxy) may include cookies of a third party Web site that is being co-browsed, for example, in order to deliver the Web site as intended by the third party Web site operator. The cookie practices of such Web sites are governed by their own respective privacy statements. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
-  
-
-
 #### Web Beacons
 
-  
 Desk.com, or third parties with whom we contract, may use Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Desk.com may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web sites. Desk.com uses Web beacons to operate and improve the Company’s Web sites and email communications.
-
-  
-
 
 #### IP Addresses and URLs
 
-  
 Due to Internet communications standards, when you visit or use Desk.com’s Web sites, we automatically receive the URL of the Web site from which you came and the Web site to which you go when you leave a Desk.com Web site. We also receive your computer’s Internet Protocol (IP) address (or the proxy server you use to access the World Wide Web), your computer operating system, the type of Web browser you are using, and your Internet Service Provider (ISP). This information is used to analyze overall trends to help us improve the Desk.com Service and to track and aggregate non-personal information. For example, Desk.com uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.
 
 Desk.com may collect aggregated data regarding use of the Desk.com Services, including, without limitation, number of visitors to the Web site, frequency and patterns of use, tag usage, feedback request trends, etc. (“Aggregated Data”). Desk.com uses Aggregated Data as a statistical measure and not in a manner that would identify you personally. Aggregated Data enables us to determine how often certain parts of Desk.com’s Web site or the Desk.com Services are used so that we can improve them. Desk.com may make use of, or make such Aggregated Data available to, third parties, in any manner in our sole discretion.
-
-  
-
 
 #### Social Media Features
 
@@ -161,44 +145,24 @@ Desk.com posts a list of Customers and testimonials on the Company’s Web sites
 
 ### 6\. Sharing of Information Collected
 
-  
-
-
 #### Service Providers
 
-  
 Desk.com may share Data About Desk.com Customers with the Company’s contracted service providers, such a payment processors, so that these service providers can provide services on our behalf. Desk.com may also share Data About Desk.com Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this Privacy Statement, Desk.com does not share, sell, rent, or trade any information with third parties for their promotional purposes.
-
-  
-
 
 #### Desk.com Affiliates
 
-  
 The Company may share Data About Desk.com Customers with other companies in order to work with them, including affiliates of the Desk.com corporate group. For example, the Company may need to share Data About Desk.com Customers for customer relationship management purposes.
-
-  
-
 
 #### Business Partners
 
-  
 From time to time, Desk.com may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Desk.com, the Company may share Data About Desk.com Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Desk.com does not control our business partners’ use of the Data About Desk.com Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
-
-  
-
 
 #### Billing
 
-  
 Desk.com may use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
-
-  
-
 
 #### Compelled Disclosure
 
-  
 Desk.com reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
 ### 7\. International Transfer of Information Collected
