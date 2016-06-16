@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naja.co privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213533id_/http%3A//www.naja.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naja.co privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616232040id_/http%3A//www.naja.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naja
 
@@ -52,8 +52,8 @@ We do not knowingly collect Personal Information from children under the age of 
 Under California Civil Code Section 1798.83, California residents who have an established business relationship with Naja may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [privacy@naja.co](mailto:privacy@naja.co) or write to us at:
 
 Naja  
-139 Harriet St #4  
-San Francisco, CA 94103
+1010 Wilshire Blvd Suite 404  
+Los Angeles, CA 90017
 
 The Websites and the Services may contain links to third-party websites. Naja has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
