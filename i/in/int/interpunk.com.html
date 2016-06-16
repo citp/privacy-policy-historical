@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interpunk.com privacy policy that was archived on 2015-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217161108id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interpunk.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616173104id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Privacy Policy @ Interpunk.com - The Ultimate Punk Music Store</title>
@@ -8,6 +8,7 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
 <meta name="google-site-verification" content="03gCFioVH1BiDjQSvdvPWMO6MxM9ewyEvPwCodafyBE">
+
 <link rel="SHORTCUT ICON" href="http://www.Interpunk.com/favicon.ico">
 <style type="text/css"><!--
   html { min-height: 100%; margin-bottom: 1px; }
@@ -48,6 +49,8 @@
 .resclass2 {background-color: #f8a303; color: #660099;}
 .login1 {visibility: hidden; display: none;}
 .login2 {display: block; visibility: visible;}
+.tab1 {color:#663399; font-weight:normal; text-decoration: none;}
+.tab2 {color:#ffffff; font-weight:bold; text-decoration: none;}
 .co0 { background-color: #a2a2a2;}
 .co1 { color: #2e0794;}
 .co2 { color: #000000;}
@@ -159,14 +162,13 @@ function isdefined(variable) {
 }
 function trim(stringToTrim) {
 	return stringToTrim.replace(/^\s+|\s+$/g,"");
-} k2 = '375367512';
+} k2 = '392203945';
 function newWindow(URLLINK, Wname, WW, WH) {
 	window.open(URLLINK,Wname,'toolbars=no,resizable=yes,scrollbars=yes,status=no,width=' + WW + ',height=' + WH);
 }
 function popup(URLLINK, Wname, WW, WH) {
 	window.open(URLLINK,Wname,'toolbars=no,resizable=yes,scrollbars=yes,status=no,width=' + WW + ',height=' + WH);
-}
-function MenuPOD() { window.open('picoftheday.cfm#Start','POTD','toolbars=no,resizable=yes,scrollbars=yes,status=yes,width=700,height=595');
+}function MenuPOD() { window.open('picoftheday.cfm#Start','POTD','toolbars=no,resizable=yes,scrollbars=yes,status=yes,width=700,height=595');
 }
   if (document.images)
    {
@@ -202,10 +204,16 @@ function turnoff(imgName){
       document[imgName].src= imgOff;
     }
  }
-function doOnLoad() {
+function doOnLoad() { 
 	
 	
 	return;
+}
+function EmailAdd(DOWHAT) {
+	var E1 = window.document.EmailSignup.myemail.value;
+	if(E1>'') {
+	var url = "liveaction.cfm?a=676911622&b=" + DOWHAT + "&e=" + E1;
+	postRequest(url);}
 }
 // Login Start
 function postRequest(strURL){
@@ -242,7 +250,10 @@ return chosen;
 function updatepage(str){
 	str=trim(str).split("|");
 	rtype=parseInt(str[0]);
-	if (rtype==100) {
+	if (rtype==911) {
+		document.getElementById('MainPanel').innerHTML=str[1];
+	}
+	else if (rtype==100) {
 		if (str[3] > '') {document.getElementById('EPWSpan3').innerHTML=str[2]; document.getElementById('EPWSpan').innerHTML=str[3]; document.getElementById('EPWSpan').style.float='right';} else {document.getElementById('EPWSpan').innerHTML=str[2];}
 	}
 	else if (rtype==200) {
@@ -255,17 +266,20 @@ function updatepage(str){
 	else if (rtype==400) {
 		document.getElementById('svrWorking').style.display='none';
 	}
+	else if (rtype==5521) {
+		document.getElementById('signup').innerHTML=str[1];
+	}
 	else {
 	focusnext=str[3];
 	document.getElementById('loginprogress').className='login1';
 	document.getElementById('loginresult').className='login2';
-	accesskey = 992916;
+	accesskey = 469665;
 var currentTime = new Date();
 var digitslist = '0123456789012345';
 var loginanswer = 0;
 	loginanswer=parseInt(str[0]);
 	err = '';
-var TheYear2=2015+"";
+var TheYear2=2016+"";
 if (TheYear2.length < 4) {TheYear2=""+(TheYear2-0+1900);}
 k1=TheYear2;
 k3=k2.substring(1,5);
@@ -306,10 +320,10 @@ if(loginanswer==1) {
 	document.getElementById('tryagaincancel').className='login1';
 	document.getElementById('newkeycancel').className='login1';
 	document.getElementById('loginresultshow').innerHTML='<font color="009933">LOGIN SUCCESSFUL</font>';
-	var PickGreeting = 9;
+	var PickGreeting = 3;
 	document.getElementById('loginresultimg').src='images/face_pass.gif';
 	document.getElementById('loginresult').style.backgroundImage='url(images/backgrounds/washgreen.gif)';
-	var greet='Hey there NAME!<br>We&rsquo;re glad you&rsquo;re back!';
+	var greet='Hi NAME, its nice<br>to see you again!';
 	document.getElementById('loginmessage').innerHTML='<center><font face="Comic Sans MS" style="font-size: 20px; line-height: 130%;">' + greet.replace("NAME",str[2]) + '</font></center>';
 	setTimeout("logincontinue1(postlogin);", 2500); // pause for 2.5 seconds
 	}
@@ -353,7 +367,7 @@ var customer = window.document.iploginform.cn.value;
 var password = window.document.iploginform.pw.value;
 var saveinfo = window.document.iploginform.OKtoSaveCN.checked;
 var lastcart = GetSelLastCart();
-var accesskey = 992916;
+var accesskey = 469665;
 var url = "loginlive.cfm?t=51626&u=" + username + "&p=" +password + "&c=" +customer + "&s=" +saveinfo + "&l=" +lastcart + "&accesskey=" +accesskey;
 postRequest(url);
 }
@@ -368,7 +382,7 @@ function LUviaCC() {
 	document.getElementById('svrWorking').style.display='block';
 	var username = window.document.iploginform.email.value;
 	var customer = window.document.iploginform.cn.value;
-	var accesskey = 992916;
+	var accesskey = 469665;
 	var q=window.document.CCVerifyForm.CardNum.value;
 	var m=window.document.CCVerifyForm.EMonth.value;
 	var n=window.document.CCVerifyForm.EYear.value;
@@ -423,7 +437,7 @@ function GoNotifyCS() {
 	        </tr>
 	        <tr>
 	          <td width="306" height="35" align="center" valign="middle">
-				  <font face="Arial" color="#ffffff" style="font-size: 15px;"><b>THE ULTIMATE MUSIC &amp; MERCH STORE!</b></font><br><font face="Arial" style="font-size: 11px;" color="#ffffff"><b>With 78,940 Punk, Metal, Indie, HXC &amp; Ska items!</b></font><br>
+				  <font face="Arial" color="#ffffff" style="font-size: 15px;"><b>THE ULTIMATE MUSIC &amp; MERCH STORE!</b></font><br><font face="Arial" style="font-size: 11px;" color="#ffffff"><b>With 78,275 Punk, Metal, Indie, HXC &amp; Ska items!</b></font><br>
 				</td>
 	        </tr>
       	</tbody></table>
@@ -570,15 +584,14 @@ function GoNotifyCS() {
 		<table width="204" height="29" border="0" cellspacing="0" cellpadding="0" background="images/backgrounds/tab_down_wd204x29.gif" style="background-repeat: no-repeat; background-position: top;">
 			<tbody><tr>
 				<td width="204" height="29" valign="top" style="padding-top:4px;">
-				<div align="center" style="width: 204; height: 31px;"><a href="mystery.cfm" style="vertical-align: middle; font-family: 'Trebuchet MS',Arial; color:ffff00; font-size: 13px; font-weight: bold; text-align:center; text-decoration: none;" onmouseover="this.style.color='#66ff00'" onmouseout="this.style.color='#eda205'">MYSTERY ITEM PACKS!</a><br></div>
+				<div align="center" style="width: 204; height: 31px;vertical-align: middle; font-family: 'Trebuchet MS',Arial; color:ffff00; font-size: 13px; font-weight: bold; text-align:center;">INTERPUNK E-MAIL SIGNUP!<br></div>
 				</td>
 			</tr>
 		</tbody></table>
-			<img src="images/pixel.gif" alt="" width="1" height="1" border="0"><br>
-			<table width="200" border="0" cellspacing="0" cellpadding="0">
+			<table width="200" border="0" cellspacing="0" cellpadding="0"><form action="default.cfm" name="EmailSignup" id="EmailSignup"></form>
 				<tbody><tr>
-					<td style="padding-left: 3; padding-right: 2; font-size:12px; color:66cc00;" width="200" align="justify">
-						Make sure you check out our very popular mystery item packs. Save big on some cool records, CDs and merch! Plus new packs were just added.<br><a href="mystery.cfm" style="text-decoration: none; color:ffff00;">Click here to view</a>
+					<td style="padding-left: 3; padding-right: 2; font-size:11px; color:66cc00;" width="200" align="justify">
+						<span id="signup">Sign up for our COUPONS and occasional updates. Your e-mail address is kept private and safe.<br><img src="images/pixel.gif" alt="" width="1" height="4" border="0"><br><center><table border="0" cellspacing="1" cellpadding="1"><tbody><tr><td colspan="2" align="center"><input type="text" id="myemail" name="myemail" size="20" maxlength="75" value="" onkeydown="if (event.keyCode==13) {EmailAdd('1'); return false;}"></td></tr><tr><td><a href="javascript:void(0);" onclick="EmailAdd('1');" style="text-decoration: none; font-size:11px; color:ff9900;">ADD ME</a></td><td align="right"><a href="javascript:void(0);" onclick="EmailAdd('2');" style="text-decoration: none; font-size:11px; color:cc3300;">cancel me</a></td></tr></tbody></table></center></span>
 					</td>
 				</tr>
 			</tbody></table>
@@ -1200,15 +1213,11 @@ function GoNotifyCS() {
 					<td width="7">&nbsp;</td>
 					<td width="102"><a id="reviewtxtcolor" name="reviewtxtcolor" href="review.cfm?" class="qlink">Reviews</a></td>
 				</tr>
-				<tr onclick="location.href='lj.cfm?';" onmouseover="this.style.cursor='pointer'; this.style.backgroundColor='#0B3F63'; ljtxtcolor.style.color='#ffffff';" onmouseout="this.style.backgroundColor='transparent'; ljtxtcolor.style.color='#3366cc';">
-					<td width="7" align="right" valign="middle">&nbsp;</td>
-					<td width="102"><a id="ljtxtcolor" name="ljtxtcolor" href="lj.cfm?" class="qlink" style="font-size:12px;">Leather Jackets</a></td>
-				</tr>
 				<tr onclick="location.href='dickies.cfm?';" onmouseover="this.style.cursor='pointer'; this.style.backgroundColor='#0B3F63'; diktxtcolor.style.color='#ffffff';" onmouseout="this.style.backgroundColor='transparent'; diktxtcolor.style.color='#3366cc';">
 					<td width="7" align="right" valign="middle">&nbsp;</td>
 					<td width="102"><a id="diktxtcolor" name="diktxtcolor" href="dickies.cfm?" class="qlink">Dickies</a></td>
 				</tr>
-			<tr onclick="location.href='converse.cfm?';" onmouseover="this.style.cursor='pointer'; this.style.backgroundColor='#0B3F63'; convtxtcolor.style.color='#ffffff';" onmouseout="this.style.backgroundColor='transparent'; convtxtcolor.style.color='#3366cc';">
+				<tr onclick="location.href='converse.cfm?';" onmouseover="this.style.cursor='pointer'; this.style.backgroundColor='#0B3F63'; convtxtcolor.style.color='#ffffff';" onmouseout="this.style.backgroundColor='transparent'; convtxtcolor.style.color='#3366cc';">
 					<td width="7" align="right" valign="middle">&nbsp;</td>
 					<td width="102"><a id="convtxtcolor" name="convtxtcolor" href="converse.cfm?" class="qlink">Converse</a></td>
 				</tr>
@@ -1262,7 +1271,7 @@ function GoNotifyCS() {
 		<tr>
 			<td colspan="3" width="100%" bgcolor="#ffffff" style="padding-left: 2; padding-right: 2;"><img src="images/pixel.gif" alt="" width="3" height="3" border="0"><br>		
 				<h3 style="text-align:center;">INTERPUNK PRIVACY POLICY</h3>
-				<div style="font-size:12px; font-family:arial; padding:15px;"><strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, place an order, respond to a survey or enter a contest.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>• To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>• To process transactions<br><blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</blockquote><br>• To administer a contest, promotion, survey or other site feature<br><br><br>• To send periodic emails<br><blockquote>The email address you provide for order processing, will only be used  to send you information and updates pertaining to your order.</blockquote>If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.<br><br>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br><br><br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. <br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and clicking "Customer Service", then "Account Information".<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our <a style="text-decoration:none; color:black; cursor:default" href="http://www.freeprivacypolicy.com/" target="_blank">websites privacy policy</a>.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will update the Privacy Policy modification date below. <br><br>This policy was last modified on 8/26/2009<br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>www.interpunk.com<br>7516 Whitepine Rd<br>Richmond, VA 23237<br>United States<br>service@interpunk.com<br>(804) 275-9737<br><span></span><span></span></div><span></span><span></span><span></span>
+				<div style="font-size:12px; font-family:arial; padding:15px;"><strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, place an order, respond to a survey or enter a contest.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>• To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>• To process transactions<br><blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</blockquote><br>• To administer a contest, promotion, survey or other site feature<br><br><br>• To send periodic emails<br><blockquote>The email address you provide for order processing, will only be used  to send you information and updates pertaining to your order.</blockquote>If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.<br><br>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br><br><br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. <br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and clicking "Customer Service", then "Account Information".<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our <a style="text-decoration:none; color:black; cursor:default" href="http://www.freeprivacypolicy.com/" target="_blank">websites privacy policy</a>.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will update the Privacy Policy modification date below. <br><br>This policy was last modified on 8/26/2009<br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>www.interpunk.com<br>203 E German School Rd<br>Richmond, VA 23224<br>United States<br>service@interpunk.com<br>(804) 275-9737<br><span></span><span></span></div><span></span><span></span><span></span>
 			</td>
 		</tr>
 		<tr>
@@ -1278,6 +1287,8 @@ function GoNotifyCS() {
 	<td width="4"><img src="images/pixel.gif" alt="" width="4" height="2" border="0"></td>
 	<td align="center" width="200" valign="top">
 	<span id="showcowarn"></span>
+	
+	
 	
 	
 	
@@ -1332,7 +1343,27 @@ function GoNotifyCS() {
 						
 							<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
 								<tbody><tr>
-									<td background="images/columnstuff/2005_198.gif" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=2005&amp;"><img src="images/overlay200x82.gif" title="Click here!" width="200" height="82" border="0"></a></td>
+									<td background="images/columnstuff/1995_198.gif" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1995&amp;"><img src="images/overlay200x82.gif" title="Save up to 95% on our Super Hot Deals!" width="200" height="82" border="0"></a></td>
+								</tr>
+							</tbody></table>
+							<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
+							
+						
+					
+						
+							<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td background="images/columnstuff/1999_198.jpg" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1999&amp;"><img src="images/overlay200x82.gif" title="Let's see what we got!" width="200" height="82" border="0"></a></td>
+								</tr>
+							</tbody></table>
+							<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
+							
+						
+					
+						
+							<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td background="images/columnstuff/1996_198.jpg" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1996&amp;"><img src="images/overlay200x82.gif" title="Rare and Out Of Print Vinyl" width="200" height="82" border="0"></a></td>
 								</tr>
 							</tbody></table>
 							<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
@@ -1344,47 +1375,17 @@ function GoNotifyCS() {
 							
 								<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
 									<tbody><tr>
+										<td background="images/columnstuff/2005_198.gif" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=2005&amp;"><img src="images/overlay200x82.gif" title="Click here!" width="200" height="82" border="0"></a></td>
+									</tr>
+								</tbody></table>
+								<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
+								
+							
+						
+							
+								<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
+									<tbody><tr>
 										<td background="images/columnstuff/2004_198.jpg" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=2004&amp;"><img src="images/overlay200x82.gif" title="Randomly picked CD's, LP's, and 7" width="200" height="82" border="0"></a></td>
-									</tr>
-								</tbody></table>
-								<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
-								
-							
-						
-							
-								<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td background="images/columnstuff/1995_198.gif" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1995&amp;"><img src="images/overlay200x82.gif" title="Save up to 95% on our Super Hot Deals!" width="200" height="82" border="0"></a></td>
-									</tr>
-								</tbody></table>
-								<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
-								
-							
-						
-							
-								<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td background="images/columnstuff/1996_198.jpg" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1996&amp;"><img src="images/overlay200x82.gif" title="Rare and Out Of Print Vinyl" width="200" height="82" border="0"></a></td>
-									</tr>
-								</tbody></table>
-								<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
-								
-							
-						
-							
-								<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td background="images/columnstuff/1998_198.jpg" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1998&amp;"><img src="images/overlay200x82.gif" title="See our future releases" width="200" height="82" border="0"></a></td>
-									</tr>
-								</tbody></table>
-								<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
-								
-							
-						
-							
-								<table width="200" height="82" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td background="images/columnstuff/1999_198.jpg" style="background-position: center; background-repeat: no-repeat;"><a href="link.cfm?ID=1999&amp;"><img src="images/overlay200x82.gif" title="Let's see what we got!" width="200" height="82" border="0"></a></td>
 									</tr>
 								</tbody></table>
 								<img src="images/pixel.gif" alt="" width="1" height="3" border="0"><br>
@@ -1408,7 +1409,7 @@ function GoNotifyCS() {
 </td>
 <td width="3" style="background-image: url(images/backgrounds/right_edge_3x32.gif); background-position: left; background-repeat: repeat-y;"><img src="images/pixel.gif" alt="" width="3" height="1" border="0"></td>
 </tr>
-<tr><td width="3"><img src="images/backgrounds/right_edge_3x32.gif" alt="" width="3" height="15" border="0"></td><td width="100%"><div align="center" style="width: 100%; height: 14; visibility: visible; display: block; position: relative; bottom: 0px; background-image: url(/images/backgrounds/bar_black.gif); font-size: 10px; color: ffffff; font-family: 'Trebuchet MS',Arial; background-position: top; background-repeat: repeat-x;">© 1997-2015 Interpunk Inc. All rights reserved. <a href="privacypolicy.cfm"><font color="#FFFFFF">Our Privacy Policy</font></a> <a href="disclaimer.cfm" style="text-decoration: none;color:#ffff79" onmouseover="style.color='#98d940';" onmouseout="style.color='#ffff79';">Read our disclaimer</a>.</div></td><td width="3"><img src="images/backgrounds/foot_right.gif" alt="" width="3" height="15" border="0"></td></tr>
+<tr><td width="3"><img src="images/backgrounds/right_edge_3x32.gif" alt="" width="3" height="15" border="0"></td><td width="100%"><div align="center" style="width: 100%; height: 14; visibility: visible; display: block; position: relative; bottom: 0px; background-image: url(/images/backgrounds/bar_black.gif); font-size: 10px; color: ffffff; font-family: 'Trebuchet MS',Arial; background-position: top; background-repeat: repeat-x;">© 1997-2016 Interpunk Inc. All rights reserved. <a href="privacypolicy.cfm"><font color="#FFFFFF">Our Privacy Policy</font></a> <a href="disclaimer.cfm" style="text-decoration: none;color:#ffff79" onmouseover="style.color='#98d940';" onmouseout="style.color='#ffff79';">Read our disclaimer</a>.</div></td><td width="3"><img src="images/backgrounds/foot_right.gif" alt="" width="3" height="15" border="0"></td></tr>
 </tbody></table>
 
 <script type="text/javascript">
