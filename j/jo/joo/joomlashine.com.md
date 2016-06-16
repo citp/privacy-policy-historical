@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121955id_/http%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616093405id_/https%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Joomlashine
 
@@ -17,6 +17,10 @@ JoomlaShine is committed to protecting your privacy.
 #### Personally identifiable information
 
 Only information you provide JoomlaShine with directly will be collected, such as through subscribing to various products & services, or identifying yourself when requesting information to be sent to you. For example, when you fill out a request form, we collect the details you enter in order to post information to you. When you answer questions about what you would like to see we keep this information so as to better serve you.
+
+#### Environment statistics
+
+In order to better understand our install base and support end user, we will send environment statistics back to a JoomlaShine! controlled central server when you install or update our products. The data gathered will help JoomlaShine to determine which versions and software requirements it should support.
 
 #### Emails
 
