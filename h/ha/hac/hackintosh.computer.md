@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackintosh.computer privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128001916id_/http%3A//www.hackintosh.computer/%3Fp%3D110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackintosh.computer privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616032137id_/http%3A//www.hackintosh.computer/%3Fpage_id%3D110) for the most accurate reproduction.*
 
-# Privacy Policy
+#  Privacy Policy
 
 This Privacy Policy governs the manner in which The Hackintosh Computer collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.Hackintosh.Computer](http://www.hackintosh.computer/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Hackintosh Computer .
 
