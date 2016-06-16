@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216185611id_/http%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616082331id_/http%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | StudyPortals
 
@@ -42,7 +42,7 @@ We offer newsletters with which we want to inform interested persons about news 
 
 **Use of cookies**
 
-We make use of cookies in the offering and performance of our electronic services. A cookie is a simple small file which is sent along with the web-pages of the Website and is saved on your hard-drive by your browser. We use cookies to save your options and preferences. You can disable these cookies through your browser, see for examples and more data on cookies [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+We make use of analytical and advertising cookies in the offering and performance of our electronic services. A cookie is a simple small file which is sent along with the web-pages of the Website and is saved on your hard-drive by your browser. We use cookies to save your options and preferences. You can disable these cookies through your browser, see for examples and more data on cookies [http://www.aboutcookies.org](http://www.aboutcookies.org/).
 
 Cookies from the American company Google are placed through the Website as part of the “Analytics”-service. We use this service to keep track of and acquire data on how visitors use the Website. Google can share data when required to do so by law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices.
 
