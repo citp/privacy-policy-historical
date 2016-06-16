@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228051058id_/http%3A//www.familylife.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222456id_/http%3A//www.familylife.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ Our Websites may collect some information (such as your IP address) that may not
 
 When we collect your Personal Information, we employ industry-standard security measures, including technical, administrative, and physical security steps to protect the loss, misuse and alteration of Personal Information under our control.  For example, our Websites may use a Secured Socket Layer (SSL) server, which enables us to protect the Personal Information you provide during transactions (such as when you download materials, participate in certain programs, purchase resources, register for events, make donations, etc). We also use technology to protect your credit card number when we store your order and whenever we transfer that Personal Information to participating merchants or service providers (including your financial institution). We cannot guarantee that the security measures we implement in connection with the operation of our Websites will absolutely prevent others from accessing or acquiring any Personal Information that you provide to us when you are visiting our Websites. 
 
-You can also do some things to help protect the security of your Personal Information.  For instance, you should never give out your account information (user ID, password) since this provides access to your account Personal Information.  Also, remember to sign out of your account and close your browser window when you finish visiting our Website, so that other people using the same computer will not have access to your Personal Information.
+You can also do some things to help protect the security of your Personal Information.  For instance, you should never give out your account information (user ID, password) since this provides access to your account Personal Information.  Also, remember to sign out of your account and close your browser window when you finish visiting our Website, so that other people using the same computer will not have access to your Personal Information. 
 
 **Your California Privacy Rights**
 
