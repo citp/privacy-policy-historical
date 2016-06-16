@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the dnsbycomodo.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225055148id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dnsbycomodo.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616051919id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head>
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/8018129.js"></script>
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Policies and Practices of the Comodo Companies - Privacy Statement</title>
@@ -20,7 +20,7 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/main-v2.css">
-    <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/vendor/modernizr-2.8.3.min.js"></script>
     <!--Start Google Analytics Tracking-->
 <script>
 
@@ -79,20 +79,34 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
     <div id="wrapper">
         <header id="header">
     <div class="middle">
-        <div itemscope="" itemtype="http://schema.org/Organization" id="logo">                
-            <a href="https://www.comodo.com" itemprop="url" title="Comodo">
-                <img itemprop="logo" alt="Comodo Logo" src="/imagesv2/logo.png" width="138" height="41">
-            </a>				
-        </div>
+        <div id="logo">
+			<div itemscope="" itemtype="http://schema.org/Organization">                
+					<a href="https://www.comodo.com" itemprop="url" title="Comodo">
+						<img itemprop="logo" alt="Comodo Logo" src="/imagesv2/logo.png" width="138" height="41">
+					</a>	
+					<meta itemprop="name" content="Comodo"> 			
+				</div>
+		   </div>
+		   <div itemprop="brand" itemscope="" itemtype="http://schema.org/Brand">
+				<meta itemprop="name" content="Comodo">
+		</div>
         <!-- only home page-->
         <!--<div id="logo"><a href="index.html" title="Free Internet Security and Antivirus | Security Solutions from Comodo">Free Internet Security and Antivirus | Security Solutions from Comodo</a></div>-->
         <div class="right">
             <div class="block">
-                <div class="search">
+                   <div class="search" style=" margin-right: 15px; ">
                     					<form method="get" id="search" action="/search.php" onsubmit="return checksearchForm();">
 						<input type="text" value="Search our website" onfocus="if(this.value == 'Search our website') this.value = '';" name="sp_q">
 						<input type="submit" value="">
 					</form>
+                </div>
+				
+				  <div style="float: right;   ">
+                    <form name="region_form" class="f-l">
+				<select name="region_select" onchange="return regionChanged()" class="select_box2" id="current-region" style="font-size: 14px;height: 30px; ">
+					<option>Unavailable</option>
+				</select>
+			</form>
                 </div>
 <!--                <div class="lang">
                     <div class="current">
@@ -147,7 +161,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                         <div class="clearfix"></div>
                                         <a href="https://secure.comodo.com/home/purchase.php?pid=9&amp;track=1154" class="btn small block arrow" target="_blank"><span>BUY NOW!</span></a>
                                         <a href="http://download.comodo.com/cis/download/installs/1000/partners/cispro_30day_installer_1150_8d.exe?key5sk0=2128" class="btnFBlue block" target="_blank"><span>Get Free Trial</span></a>
-                                        <a href="btn"></a>
+                                        
                                     </li>
                                     <li>
                                         <div class="image"><a href="/home/internet-security/internet-security-complete.php"><img src="/imagesv2/megamenu/cis-complete.png" alt="Internet Security Complete 8" width="150" height="155"></a></div>
@@ -161,11 +175,13 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                 <div class="bottom">
                                     <div class="image"><img src="/imagesv2/megamenu/geekbuddy.png" alt="Talk to GeekBuddy!" width="137" height="121"></div>
                                     <ul>
+                                        <li class="gb-head">GeekBuddy Tech Support</li>
                                         <li class="bubbles">
-                                            <a id="lp-chat" href="http://ws.livepcsupport.com/lps-wca/geekbuddy.html?track=5613" target="_blank">Talk to GeekBuddy!</a>
+                                            <a id="lp-chat" href="http://ws.livepcsupport.com/lps-wca/geekbuddy.html?track=5613" target="_blank" class="font-18">Talk to GeekBuddy!</a>
                                         </li>
                                         <li class="lock">
-                                            <a href="https://www.geekbuddy.com/" target="_blank">Get Instant Help!<span>Only $199.99/year</span></a>
+                                            <!-- <a href="https://www.geekbuddy.com/" target="_blank">Get Instant Help!<span>Only $199.99/year</span></a> -->
+                                            <a href="https://www.geekbuddy.com/" target="_blank" class="font-18">Learn More!</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -183,7 +199,8 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
 								
 								<li><a href="/home/internet-security/wifi-security.php">TrustConnect Wifi Security</a></li>
 								<li><a href="/business-security/network-protection/rescue-disk.php">Comodo Rescue Disk</a></li>
-								<li><a href="/home/support-maintenance/programs-manager.php">Comodo Programs Manager</a></li>
+                                <li><a href="https://antivirus.comodo.com/cloud-antivirus.php" target="_blank">Comodo Cloud Antivirus</a></li>
+								<!-- <li><a href="/home/support-maintenance/programs-manager.php">Comodo Programs Manager</a></li> -->
 								<!--<li><a href="/home/free/free-protection.php">Comodo PC TuneUp</a></li>-->
 								<li><a href="https://pctuneup.comodo.com/" target="_blank">Comodo PC TuneUp</a></li>
 								<!--<li><a href="#">Comodo Unite</a></li>-->
@@ -212,7 +229,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                     </li>
                                 </ul>
                             </div>
-                            <a href="https://www.ccloud.com" class="banner"><img src="/imagesv2/megamenu/ccloud-banner.png" alt="5GB Free Cloud Storage" width="393" height="107"></a>
+                            <!--<a href="https://www.ccloud.com" class="banner"><img src="/imagesv2/megamenu/ccloud-banner.png" alt="5GB Free Cloud Storage" width="393" height="107" /></a>-->
                             <div class="box browser-box">
                                 <p class="title">Free And Secure Browsers</p>
                                 <ul>
@@ -237,6 +254,23 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                 </ul>
                             </div>
                             <a href="https://www.dnsbycomodo.com/" class="banner last" target="_blank"><img src="/imagesv2/megamenu/dns-banner.png" alt="Comodo DNS" width="393" height="107"></a>
+
+                            <div class="box mobile-app">
+                                <p class="title">Mobile Applications</p>
+                                <ul>
+                                    <li>
+                                        <a href="https://goo.gl/bso8Do" target="_blank">
+                                            <div class="image">
+                                            <img src="/imagesv2/mobile-app/comodo-logo.png">
+                                            </div>
+                                            <p>World's fastest Mobile Antivirus for Android™</p>
+                                            <div class="image free-install-button">
+                                                <img src="/imagesv2/mobile-app/free-install-button.png">
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </li>
@@ -286,7 +320,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                         </section>
                         <div class="ribbon">
                             <div class="green-ribbon">
-                                <span>Need Assistance? Talk To US Now: +44 (0) 161 874 7070</span>
+                                <span> Need Assistance? Talk To US Now:  <span id="top-nav">+ 1 888 266 6361</span> </span>
                             </div>
                             <div class="red-ribbon">
                                 <a href="https://secure.comodo.com/renew/" target="_blank">Expired Certificate? Renew Now!</a>
@@ -350,10 +384,11 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                         <section class="block">
                             <figure class="first">
                                 <ul class="certificate">
-                                    <li class="cssl"><a href="https://enterprise.comodo.com/security-solutions/digital-certificates/certificate-manager/" target="_blank"><span>Enterprise Certificate Manager</span></a></li>
-                                    <li class="wssl"><a href="https://dm.comodo.com/" target="_blank"><span>Comodo Device Manager</span></a></li>
-                                    <li class="essl"><a href="https://securebox.comodo.com" target="_blank"><span>SecureBox</span></a></li>
-                                    <li class="ussl"><a href="https://hackerguardian.com" target="_blank"><span>HackerGuardian</span></a></li>
+                                    <li class="cssl"><a href="https://enterprise.comodo.com/comodo-ccm/" target="_blank"><span>Comodo Certificate Manager</span></a></li>
+                                    <li class="wssl"><a href="https://securebox.comodo.com" target="_blank"><span>SecureBox</span></a></li>
+                                    <li class="essl"><a href="/business-security/email-security/antispam-gateway.php" target="_blank"><span>Comodo Antispam Gateway</span></a></li>
+                                    <!--<li class="ussl"><a href="https://hackerguardian.com" target="_blank"><span>HackerGuardian</span></a></li>-->
+                                    <li class="ussl"><a href="https://waf.comodo.com" target="_blank"><span>Web Application Firewall</span></a></li>
                                 </ul>
                                 <div class="block-fill">
                                     <a href="/e-commerce/code-signing/code-signing-certificate.php"><span class="title">Code Signing Certificate</span></a>
@@ -361,18 +396,24 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                 </div>
                             </figure>
                             <figure class="second">
+                                <a href="https://enterprise.comodo.com" target="_blank">
+                                <div class="block-fill cmdenterprise">
+                                    <span class="title" style="padding-top: 35px;">Enterprise Solutions</span>
+                                    <!--<p>Security solutions that prevent cyber-attacks and maintain your company's reputation.</p>-->
+                                </div>
+                                </a>
                                 <a href="/business-security/pki-management/certificate-manager.php">
                                 <div class="block-fill promo-pki">
                                     <span class="title">Manage PKI and Certificates</span>
                                     <p>Get Organized With Your Own Certificate Manager!</p>
                                 </div>
                                 </a>
-                                <a href="/business-security/authentication/two-factor-authentication.php">
+                                <!--                                <a href="https://valkyrie.comodo.com" target="_blank">
                                 <div class="block-fill promo-twof">
-                                    <span class="title">Two Factor Authentication</span>
+                                    <span class="title">Specialized Threat<br />Analysis and Protection<br />(STAP)</span>
                                     <p>Security solutions that prevent cyber-attacks and maintain your company's reputation.</p>
                                 </div>
-                                </a>
+                                </a>-->
                                 <a href="/e-commerce/compliance/pci-compliance.php">
                                 <div class="block-fill promo-pci">
                                     <span class="title">PCI Compliance</span>
@@ -403,19 +444,45 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                 <div class="box">
                                     <div class="title">Endpoint Protection</div>
                                     <div class="padding">
-                                        <div class="image"><img src="/imagesv2/megamenu/endpoint-security-icon.png" alt="Endpoint Security Icon" width="77" height="63"></div>
-                                        <a href="/endpoint-protection/endpoint-security.php">Endpoint Security<span>Manager</span></a>
-                                        <ul>
+                                        <div class="rw">
+                                            <div class="image">
+                                                <img src="/imagesv2/megamenu/endpoint-security-icon-50x50.png" alt="Endpoint Security Icon" width="58" height="50">
+                                            </div>
+                                            <a href="/endpoint-protection/endpoint-security.php">Endpoint Security Manager</a>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        
+                                        <div class="rw" style="border-bottom:0;">
+                                            <div class="image2">
+                                                <img src="/imagesv2/megamenu/comodo-one.png" alt="Comodo ONE Client Icon" width="50" height="25">
+                                            </div>
+                                            <a href="https://dm.comodo.com/" target="_blank">Comodo ONE Client</a>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        
+<!--                                        <div class="image2">
+                                            <img src="/imagesv2/megamenu/comodo-one.png" alt="Comodo ONE ITSM Icon" width="50" height="25" />
+                                        </div>
+                                        <a href="#">Comodo ONE ITSM</a>-->
+                                        
+<!--                                        <ul>
                                             <li><a href="/home/internet-security/wifi-security.php">TrustConnect WiFi Security</a></li>
                                             <li><a href="/business-security/network-protection/cleaning_essentials.php">Comodo Cleaning Essentials</a></li>
                                             <li><a href="/business-security/network-protection/rescue-disk.php">Comodo Rescue Disk</a></li>
-                                        </ul>
+                                        </ul>-->
                                     </div>
                                 </div>
                                 <div class="block-fill">
                                     <ul>
-                                        <li class="comodo-agw"><a href="/business-security/email-security/antispam-gateway.php"><span>Comodo Antispam Gateway</span></a></li>
-                                        <li class="se-certificate"><a href="/e-commerce/email-certificates/email-privacy.php"><span>Secure Email Certificate</span></a></li>
+<!--                                        <li class="comodo-agw"><a href="/business-security/email-security/antispam-gateway.php"><span>Comodo Antispam Gateway</span></a></li>
+                                        <li class="se-certificate"><a href="/e-commerce/email-certificates/email-privacy.php"><span>Secure Email Certificate</span></a></li>-->
+<!--                                        <li class="comodo-one"><a href="#"><span class="small">Comodo ONE Internal Network Solutions</span></a></li>
+                                        <li class="comodo-one"><a href="#"><span class="small">Comodo ONE Boundary Solutions</span></a></li>-->
+                                        <li class="se-certificate"><a href="/e-commerce/email-certificates/email-privacy.php"><span class="small">Secure Email Certificate</span></a></li>
+                                        <li class="comodo-agw"><a href="/business-security/email-security/antispam-gateway.php"><span class="small">Comodo Antispam Gateway</span></a></li>
+                                        <li class="cwatch-network"><a href="https://enterprise.comodo.com/cwatch-network" target="_blank"><span class="small">cWatch Network</span></a></li>
+                                        <li class="comodo-dome"><a href="https://enterprise.comodo.com/comodo-dome" target="_blank"><span class="small">Comodo Dome</span></a></li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="box last">
@@ -449,7 +516,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                                 <div class="topic-block">Contact Us</div>
                                 <figcaption>
                                     <p>U.S.: 571-730-6041</p>
-                                    <p>International: +44 (0) 161 874 7070</p>
+                                    <p>International: +44 (0) 151 554 9055</p>
                                     <a href="/partners/contact.php">Partner with us</a>
                                 </figcaption>
                             </figure>
@@ -500,16 +567,24 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
 </header>
 <!--header-->
 
-<script language="javascript" type="text/javascript" src="https://secure.comodo.com/prices.js"></script>
-<a href="//www.instantssl.com/" id="comodoTL" style="display:none;">Free SSL Certificate</a>
-<script language="JavaScript" type="text/javascript">COT("/images/comodo_secure_113x59_transp.png", "SC5", "none");</script>
-<script>
+ <a href="//www.instantssl.com/" id="comodoTL" style="display:none;">Free SSL Certificate</a>
+<script type="text/javascript">COT("/images/comodo_secure_104x59_transp.png", "SC5", "none");</script>
+<!--<script>
         $('a#lp-chat').click(function(){
             var lnk = $(this).attr('href');
             window.open(lnk,'chat61298727',"toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=350");
             return false;
         });
-</script>        <!--header-->
+</script>-->
+<style type="text/css">
+li.gb-head { color: #666666; font-size: 22px; font-weight: 300; margin-bottom: 10px; padding-left: 0px !important; }
+a.font-18 { font-size: 18px !important; }
+.mobile-app { margin-top: 20px; }
+.mobile-app ul li { width: 85% !important; }
+.free-install-button { position: relative !important; margin-left: 168px; margin-top: -25px; }
+.mobile-app ul li p { padding-left: 75px !important; padding-top: 0px !important; margin-top: -5px; }
+.mobile-app ul li a { line-height: 24px !important; }
+</style>        <!--header-->
         <section class="contentSlider style2">
             <figure>
                 <div class="middle">
@@ -579,11 +654,15 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                 <ul>
                     <li><a target="_blank" href="https://antivirus.comodo.com">Antivirus</a></li>
                     <li><a target="_blank" href="https://personalfirewall.comodo.com">Firewall</a></li>
-                    <li><a target="_blank" href="https://pctuneup.comodo.com/">PC TuneUp</a></li>
-                    <li><a target="_blank" href="https://www.geekbuddy.com">GeekBuddy</a></li>
+					<li><a href="/home/internet-security/free-internet-security.php">Internet Security Suite</a></li>
+					<li><a target="_blank" href="https://antivirus.comodo.com/download-free-antivirus.php">Free Antivirus</a></li>
+					<li><a target="_blank" href="https://www.geekbuddy.com">GeekBuddy</a></li>
                     <li><a href="/home/browsers-toolbars/browser.php">Comodo Dragon</a></li>
-                    <li><a href="/business-security/network-protection/cleaning_essentials.php">Comodo Cleaning Essentials</a></li>
-                    <li><a target="_blank" href="https://www.ccloud.com">Comodo Cloud</a></li>
+					<li><a target="_blank" href="https://dm.comodo.com/solutions/mobile-device-management/">Mobile Device Management</a></li>
+					<li><a target="_blank" href="https://modsecurity.comodo.com">ModSecurity</a></li>
+					<li><a target="_blank" href="https://one.comodo.com/">RMM</a></li>
+					<li><a target="_blank" href="https://securebox.comodo.com/pos-system/pos-security">POS Security</a></li>
+					<li><a target="_blank" href="https://one.comodo.com/patch-management/">Patch Management</a></li>
                 </ul>
             </div>
             <div class="footer-column">
@@ -592,10 +671,11 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                     <li><a target="_blank" href="https://www.enterprisessl.com/">Enterprise SSL</a></li>
                     <li><a href="/business-security/pki-management/certificate-manager.php">Comodo CCM</a></li>
                     <li><a href="/business-security/email-security/antispam-gateway.php">Comodo Antispam Gateway</a></li>
-                    <li><a href="/business-enterprise/endpoint-protection/endpoint-security-manager.php">Comodo Endpoint Security</a></li>
+                    <li><a href="/endpoint-protection/endpoint-security.php">Comodo Endpoint Security</a></li>
                     <li><a href="/e-commerce/compliance/pci-compliance.php">PCI Compliance</a></li>
                     <li><a href="/e-commerce/email-certificates/email-privacy.php">Email Certificate</a></li>
-                    <li><a target="_blank" href="https://dnsbycomodo.com/">Managed DNS  </a></li>
+                    <li><a target="_blank" href="https://dnsbycomodo.com/">Managed DNS</a></li>
+                    <li><a target="_blank" href="https://waf.comodo.com">Web Application Firewall</a></li>
                 </ul>
             </div>
             <div class="footer-column">
@@ -617,8 +697,8 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                     <li><a target="_blank" href="https://www.comodo.co.in">Comodo India</a></li>
                     <li><a target="_blank" href="http://www.comodo.cn/">Comodo China</a></li>
                     <li><a target="_blank" href="https://ru.comodo.com/">Comodo Russia</a></li>
-                    <li><a target="_blank" href="http://www.comodobr.com/">Comodo Brasil</a></li>
-                     
+                    <li><a target="_blank" href="http://www.comodobr.com/">Comodo Brazil</a></li>
+                    <li><a target="_blank" href="https://www.comodo.nl/">Comodo Netherlands</a></li> 
                 </ul>
             </div>
             <div class="footer-column">
@@ -628,11 +708,12 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
                     <li><a target="_blank" href="http://forums.comodo.com/">Comodo Forums</a></li>
                     <li class="connect">Connect with Comodo:</li>
                     <li class="sotial-links">
-                        <a target="_blank" href="https://www.facebook.com/Comodogroup"><img src="/imagesv2/social/facebook-icon.png" alt="Comodo Facebook Community" width="16" height="17"></a>
+                        <a target="_blank" href="https://www.facebook.com/ComodoHome/"><img src="/imagesv2/social/facebook-icon.png" alt="Comodo Facebook Community" width="16" height="17"></a>
                         <a target="_blank" href="https://twitter.com/comododesktop"><img src="/imagesv2/social/twitter-icon.png" alt="Comodo Twitter Network" width="16" height="17"></a>
                         <a target="_blank" href="https://www.linkedin.com/company/comodo?trk=cws-cpw-coname-0-0"><img src="/imagesv2/social/linkedin-icon.png" alt="Comodo Linkedin Network" width="16" height="17"></a>
                         <a target="_blank" href="https://plus.google.com/+comodo"><img src="/imagesv2/social/google-plus-icon.png" alt="Comodo Google+ Community" width="16" height="17"></a>
-                        <a target="_blank" href="https://www.youtube.com/user/comododesktop"><img src="/imagesv2/social/youtube-icon.png" alt="Comodo Youtube Channel" width="16" height="17"></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCMxfiKdoQhg2KyOcynb1Cuw"><img src="/imagesv2/social/youtube-icon.png" alt="Comodo Youtube Channel" width="16" height="17"></a>
+                        <a target="_blank" href="https://www.instagram.com/comododesktop/?ref=badge"><img src="/imagesv2/social/instagram.png" alt="Comodo instagram" width="16" height="16"></a>
                     </li>
                 </ul>
                 <div class="seal-wrap">
@@ -655,7 +736,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
     </div>
     <div class="footer-statement">
         <div class="middle">
-            <span>© Comodo Group, Inc. 2015. All rights reserved. All trademarks displayed on this web site are the exclusive property of the respective holders.</span>
+            <span>© Comodo Group, Inc. <script type="text/javascript">var currentTime = new Date();var year = currentTime.getFullYear();document.write(year);</script>2020. All rights reserved. All trademarks displayed on this web site are the exclusive property of the respective holders.</span>
 <!--            <div class="lang">
                 <div class="current">
                     <a href="#">North America <span class="flag us">fix</span></a>
@@ -673,7 +754,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
     </div>
 </footer>
 <!-- .footer -->
-<script language="javascript" type="text/javascript">
+<script type="text/javascript">
 function checksearchForm() {
 	if($("#search input[name='sp_q']").val() == "" || $("#search input[name='sp_q']").val() == "Search our website")
 	{
@@ -684,12 +765,49 @@ function checksearchForm() {
 	return true;
 }
 </script>
-<form name="region_form" action="" class="f-l" style="display:none; ">
-    <select name="region_select" onchange="return regionChanged()" class="select_box2" id="current-region">
-     <option>Unavailable</option>
-    </select>
-   </form>
-   <script language="javascript" type="text/javascript" src="//secure.comodo.com/prices.js"></script>        
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="//secure.comodo.com/prices.js"></script>
+   <script type="text/javascript">
+		//<![CDATA[
+		
+	$(document).ready(function(){
+		setTimeout(function() {
+		 
+		 
+ 
+		 if(g_currency=="GBP")
+		 {
+			 $("#top-nav").html("");
+			$("#top-nav").html('+44 (0) 151 554 9055');
+		 }
+		   else if(g_currency=="EUR")
+		 {
+			 $("#top-nav").html("");
+			$("#top-nav").html('+44 (0) 151 554 9055');
+		 }
+		 else
+		 {
+		 	$("#top-nav").html("");
+			$("#top-nav").html('+ 1 888 266 6361');
+		 }
+	},10);
+        $('.readmore').click(function(){
+            //$(this).prev("p").css({"overflow":"visible","height":"auto"});
+            $(this).prev("p").addClass("open");
+            $(this).hide();
+            $(this).next(".close").show();
+        });
+        $('.close').click(function(){
+            //$(this).prev("p").css({"overflow":"visible","height":"auto"});
+            $(this).prev().prev("p").removeClass("open");
+            $(this).hide();
+            $(this).prev(".readmore").show();
+        });
+});
+ 
+//]]>
+	</script>
+        
         <!-- .footer -->
     </div>
     <div class="menu-overlay" data-show="0"></div>
