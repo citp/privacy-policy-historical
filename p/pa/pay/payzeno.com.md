@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payzeno.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216065454id_/http%3A//www.payzeno.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzeno.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616150358id_/http%3A//www.payzeno.com/pages/privacy) for the most accurate reproduction.*
 
 # Free Affiliate Marketplace, Sell Products Online, Merchant Account, Affiliates Make Money
 
