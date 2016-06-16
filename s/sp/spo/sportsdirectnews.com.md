@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sportsdirectnews.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314123424id_/http%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsdirectnews.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054434id_/http%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# SportsDirect.com > CustomerServices > Other Information > Security and Privacy
+# Security and Privacy | SportsDirect.com
+
+Look no further to find answers to some of our most frequently asked questions.
 
 We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
