@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cars.com privacy policy that was archived on 2015-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229024412id_/https%3A//www.cars.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cars.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616052334id_/https%3A//www.cars.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
         
         
         
-        <script>var carsJSModule="modules/about/privacyPage";</script>
+        <script type="text/javascript" src="/cs/Sites/dtagent634_23gjpqr_1034.js" data-dtconfig="rid=RID_1935761439|rpid=-706022730|rt=100|tp=500,50,5|reportUrl=/cs/Sites/dynaTraceMonitor|domain=cars.com"></script><script>var carsJSModule="modules/about/privacyPage";</script>
         
 
 <!--Proudly built by cars.com development. graphicsHost: graphics.cars.com-->
@@ -47,31 +47,36 @@
   var CARS = CARS || {};
 </script>
 
-
-  
-    <script>
-      window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
-      (function(){
+<script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
         function retrieve(n){
           var m, k='kx'+n;
-          if (window.localStorage){
-            return window.localStorage[k] || "";
-          }
-          else if (navigator.cookieEnabled){
-            m = document.cookie.match(k+'=([^;]*)');
-            return (m && unescape(m[1])) || "";
-          }
-          else{
-            return '';
-          }
+            if (window.localStorage){
+              return window.localStorage[k] || "";
+            }else if (navigator.cookieEnabled){
+              m = document.cookie.match(k+'=([^;]*)');
+              return (m && unescape(m[1])) || "";
+            } else {
+              return '';
+            }
         }
-        Krux.user = retrieve('user');
-        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
-    })();
-    </script>
-  
-  
 
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : 
+        [];
+
+        //(DFP(Premium(Interchange
+        var dfpp = [];
+        if (Krux.user) {
+          dfpp.push('kuid=' + Krux.user);
+        }
+        for (var i =0; i < Krux.segments.length; i++) {
+          dfpp.push('ksg=' + Krux.segments[i]);
+        }
+        Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : '';
+    })();
+</script>
 
 
 
@@ -269,7 +274,7 @@
 <script type="text/javascript">
   var si_expiry = new Date();
   si_expiry.setTime(si_expiry.getTime()+7200000); 
-  document.cookie = 'adZoneInfo=94107|bayareaca_south|sanfrancisco;expires='+si_expiry.toGMTString()+'; path=/';
+  document.cookie = 'adZoneInfo=94118|bayareaca_south|sanfrancisco;expires='+si_expiry.toGMTString()+'; path=/';
 </script>
     
 
@@ -329,13 +334,15 @@
 
 
     <script type="text/javascript">
-        CARS.data = {"adDefaults":{"site":"cdn.cars.about","zone":"privacy","zc":"94107","lzone":"bayareaca_south","cdma":"sanfrancisco","aff":"national","lang":"en"}}
+        CARS.data = {"adDefaults":{"site":"cdn.cars.about","zone":"privacy","zc":"94118","lzone":"bayareaca_south","cdma":"sanfrancisco","aff":"national","lang":"en"}}
     </script>
 
 
 
-  <script src="/core/js/libs/ads/gpt.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cars" src="/core/js/libs/cars/cars.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="/core/js/libs/requirejs/domReady.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/deferredLoading" src="/core/js/modules/common/deferredLoading.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20130217041136/http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/about/privacyPage" src="/core/js/modules/about/privacyPage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can" src="/core/js/libs/canjs/1.1.2/amd/can.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquerytools" src="/core/js/libs/jquery/jquery.tools.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/library" src="/core/js/libs/canjs/1.1.2/amd/can/util/library.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/control" src="/core/js/libs/canjs/1.1.2/amd/can/control.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/model" src="/core/js/libs/canjs/1.1.2/amd/can/model.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view/ejs" src="/core/js/libs/canjs/1.1.2/amd/can/view/ejs.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/route" src="/core/js/libs/canjs/1.1.2/amd/can/route.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/backToTopWidget" src="/core/js/modules/common/backToTopWidget.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/smoothScrolling" src="/core/js/modules/common/smoothScrolling.js"></script><iframe src="https://web.archive.org/web/20151229024604/http://tpc.googlesyndication.com/safeframe/1-0-1/html/container.html" style="visibility: hidden; display: none;"></iframe>
-  <script src="/core/js/modules/common/genericGptAdModel.js"></script>
+
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="/core/js/modules/common/genericGptAdModel.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cars" src="/core/js/libs/cars/cars.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="/core/js/libs/requirejs/domReady.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/deferredLoading" src="/core/js/modules/common/deferredLoading.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20130217041136/http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/about/privacyPage" src="/core/js/modules/about/privacyPage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can" src="/core/js/libs/canjs/1.1.2/amd/can.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquerytools" src="/core/js/libs/jquery/jquery.tools.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/library" src="/core/js/libs/canjs/1.1.2/amd/can/util/library.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/control" src="/core/js/libs/canjs/1.1.2/amd/can/control.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/model" src="/core/js/libs/canjs/1.1.2/amd/can/model.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view/ejs" src="/core/js/libs/canjs/1.1.2/amd/can/view/ejs.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/route" src="/core/js/libs/canjs/1.1.2/amd/can/route.js"></script>
+
 
 
 
@@ -347,7 +354,7 @@
         <meta name="ROBOTS" content="NOODP">
         <meta name="Slurp" content="NOYDIR">
         <link rel="canonical" href="/about/privacy/">
-        <script async="" type="text/javascript" src="https://web.archive.org/web/20151229024604/http://partner.googleadservices.com/gpt/pubads_impl_56.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/jquery" src="/core/js/libs/canjs/1.1.2/amd/can/util/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/construct" src="/core/js/libs/canjs/1.1.2/amd/can/construct.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/observe" src="/core/js/libs/canjs/1.1.2/amd/can/observe.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view" src="/core/js/libs/canjs/1.1.2/amd/can/view.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/string" src="/core/js/libs/canjs/1.1.2/amd/can/util/string.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/observe/compute" src="/core/js/libs/canjs/1.1.2/amd/can/observe/compute.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view/scanner" src="/core/js/libs/canjs/1.1.2/amd/can/view/scanner.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view/render" src="/core/js/libs/canjs/1.1.2/amd/can/view/render.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/string/deparam" src="/core/js/libs/canjs/1.1.2/amd/can/util/string/deparam.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/can" src="/core/js/libs/canjs/1.1.2/amd/can/util/can.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/array/each" src="/core/js/libs/canjs/1.1.2/amd/can/util/array/each.js"></script></head>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/backToTopWidget" src="/core/js/modules/common/backToTopWidget.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/smoothScrolling" src="/core/js/modules/common/smoothScrolling.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/jquery" src="/core/js/libs/canjs/1.1.2/amd/can/util/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/construct" src="/core/js/libs/canjs/1.1.2/amd/can/construct.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/observe" src="/core/js/libs/canjs/1.1.2/amd/can/observe.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view" src="/core/js/libs/canjs/1.1.2/amd/can/view.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/string" src="/core/js/libs/canjs/1.1.2/amd/can/util/string.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/observe/compute" src="/core/js/libs/canjs/1.1.2/amd/can/observe/compute.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view/scanner" src="/core/js/libs/canjs/1.1.2/amd/can/view/scanner.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/view/render" src="/core/js/libs/canjs/1.1.2/amd/can/view/render.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/string/deparam" src="/core/js/libs/canjs/1.1.2/amd/can/util/string/deparam.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/can" src="/core/js/libs/canjs/1.1.2/amd/can/util/can.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="can/util/array/each" src="/core/js/libs/canjs/1.1.2/amd/can/util/array/each.js"></script></head>
         <body>
         <div id="page" class="privacy-page">
         
@@ -372,7 +379,7 @@
 
 
 
-<div class="main-header core" data-js="main-header" data-zip="94107">
+<div class="main-header core" data-js="main-header" data-zip="94118">
     
 
 <style>
@@ -650,17 +657,11 @@
 
 
     <div class="row grid-layout">
-        
-            
-            
-            
-                <div id="div-gpt-leaderboard-ad-1" class="leaderboard-ad">
-                    <script>
-                        CARS.gptAdTag.setAdSlot([[728,90],[970,66]],'div-gpt-leaderboard-ad-1');
-                    </script>
-                <div id="google_ads_iframe_/6427/cdn.cars.about/privacy_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/6427/cdn.cars.about/privacy_0" name="google_ads_iframe_/6427/cdn.cars.about/privacy_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div><iframe id="google_ads_iframe_/6427/cdn.cars.about/privacy_0__hidden__" name="google_ads_iframe_/6427/cdn.cars.about/privacy_0__hidden__" width="0" height="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom; visibility: hidden; display: none;"></iframe></div>
-            
-        
+        <div id="div-gpt-leaderboard-ad-1" class="leaderboard-ad">
+            <script>
+                CARS.gptAdTag.setAdSlot([[728,90],[970,66]],'div-gpt-leaderboard-ad-1');
+            </script>
+        </div>
     </div>
 
 
@@ -984,35 +985,35 @@
     <div class="z-row">
         <div class="small-12 large-4 columns">
             <h5>Our Company</h5>
-    
+
             <span class="footer-item">
-                <a href="/about/" onclick="s_objectID=&quot;About Cars.com_1&quot;;return this.s_oc?this.s_oc(e):true">About Cars.com</a>
+                <a href="/aboutus/" onclick="s_objectID=&quot;About Cars.com_1&quot;;return this.s_oc?this.s_oc(e):true">About Cars.com</a>
             </span>
-        
+
             <span class="footer-item">
-                <a href="/about/#contact-us" onclick="s_objectID=&quot;Contact Cars.com_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Cars.com</a>
+                <a href="/contact/" onclick="s_objectID=&quot;Contact Cars.com_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Cars.com</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="/sitemap/" onclick="s_objectID=&quot;Site Map_1&quot;;return this.s_oc?this.s_oc(e):true">Site Map</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="/careers/" onclick="s_objectID=&quot;Careers_1&quot;;return this.s_oc?this.s_oc(e):true">Careers</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="/mobile/" onclick="s_objectID=&quot;Mobile Site_1&quot;;return this.s_oc?this.s_oc(e):true">Mobile Site</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="http://dealers.cars.com/" onclick="s_objectID=&quot;For Car Dealers_1&quot;;return this.s_oc?this.s_oc(e):true">For Car Dealers</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="/sell/fraud/overview/" onclick="s_objectID=&quot;Fraud Awareness_1&quot;;return this.s_oc?this.s_oc(e):true">Fraud Awareness</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="http://www.carslicensing.com/" onclick="s_objectID=&quot;Reprints &amp; Permissions_1&quot;;return this.s_oc?this.s_oc(e):true">Reprints &amp; Permissions</a>
             </span>
@@ -1020,15 +1021,15 @@
 
         <div class="small-12 large-4 columns">
             <h5>Our Partners</h5>
-            
+
             <span class="footer-item">
                 <a href="http://www.auto.com/" onclick="s_objectID=&quot;Auto.com_1&quot;;return this.s_oc?this.s_oc(e):true">Auto.com</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="http://www.newcars.com/" onclick="s_objectID=&quot;NewCars.com_1&quot;;return this.s_oc?this.s_oc(e):true">NewCars.com</a>
             </span>
-        
+
             <span class="footer-item">
                 <a href="http://www.repairpal.com/" onclick="s_objectID=&quot;RepairPal.com_1&quot;;return this.s_oc?this.s_oc(e):true">RepairPal.com</a>
             </span>
@@ -1036,19 +1037,19 @@
 
         <div class="small-12 large-4 columns social-media">
             <h5>Stay Connected</h5>
-        
+
             <a href="http://www.facebook.com/CarsDotCom/" class="facebook" onclick="s_objectID=&quot;http://www.facebook.com/CarsDotCom/_1&quot;;return this.s_oc?this.s_oc(e):true"></a>
-        
+
             <a href="https://twitter.com/carsdotcom/" class="twitter" onclick="s_objectID=&quot;https://twitter.com/carsdotcom/_1&quot;;return this.s_oc?this.s_oc(e):true"></a>
-        
+
             <a href="http://www.youtube.com/user/Carscom/" class="youtube" onclick="s_objectID=&quot;http://www.youtube.com/user/Carscom/_1&quot;;return this.s_oc?this.s_oc(e):true"></a>
-        
+
             <a href="https://plus.google.com/+CarsDotCom/posts/" class="google" onclick="s_objectID=&quot;https://plus.google.com/+CarsDotCom/posts/_1&quot;;return this.s_oc?this.s_oc(e):true"></a>
-        
+
             <div id="footer-search-fields">
                 <form id="googlemini-foot" action="/go/search/results.jsp" method="get" target="_top" class="ng-pristine ng-valid">
                     <input type="text" class="search-field" id="textEntry" name="q" placeholder="Enter Make or Model" value="" rel="Search Cars.com">
-                    <input type="image" src="/static/www/dev/app/images/search-icon.png" id="footer-search-image">
+                    <input type="image" src="/images/core/search-icon.png" id="footer-search-image">
                 </form>
             </div>
 
@@ -1059,7 +1060,7 @@
         </div>
     </div> <!-- /.z-row -->
 
-    
+
     <div class="copyrights">
         <div class="z-row">
             <div class="small-12 columns">
@@ -1068,8 +1069,8 @@
                 <a href="/about/privacy/" onclick="s_objectID=&quot;Privacy Statement_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy Statement</a>
                 <a href="/go/core/jsp/about/adDisplayInfo.jsp" onclick="s_objectID=&quot;Ad Choices_1&quot;;return this.s_oc?this.s_oc(e):true">Ad Choices</a>
             </div>
-        
-            <div class="small-12 columns" id="footer-copyright">© 2015 Cars.com All rights reserved.</div>
+
+            <div class="small-12 columns" id="footer-copyright">© 2016 Cars.com All rights reserved.</div>
         </div>
     </div>
 </footer>
@@ -1224,7 +1225,7 @@ s_clven.prop8="";
 s_clven.prop9="";
 if (QueryString.prMx) { s_clven.prop9 = QueryString.prMx;}
 s_clven.prop10="";
-s_clven.prop11="94107";
+s_clven.prop11="94118";
 s_clven.prop12="";
 s_clven.prop13="";
 s_clven.prop14="";
@@ -1278,7 +1279,7 @@ if ( window.sessionStorage.getItem('prop73') ) {
 /* E-commerce Variables */
 s_clven.campaign="";
 s_clven.state="";
-s_clven.zip="94107";
+s_clven.zip="94118";
 s_clven.events="";
 
 if(document.forms.namedItem('leadForm') || document.forms.namedItem('quoteForm')){
@@ -1314,7 +1315,7 @@ if (!s_clven.eVar18 && QueryString.mlgMn) { s_clven.eVar18 = QueryString.mlgMn }
 s_clven.eVar19=""; 
 if (!s_clven.eVar19 && QueryString.rd) { s_clven.eVar19 = QueryString.rd; }
 
-s_clven.eVar20="94107"; 
+s_clven.eVar20="94118"; 
 
 /* track logged in users */
 (function () {
@@ -1707,7 +1708,7 @@ var s_code=s_clven.t();if(s_code) { document.write(s_code); };document.close();
 
 <script>
 window.CARS = window.CARS || {};
-btData = {"category":"","make":"","model":"","mdid":"","year":"","stock":"","price":"","miles":"","dlid":"","listing":"","zip":"94107","lzone":"bayareaca_south","aff":"national","section":"cdn.cars.other/default","intent":"n","lang":"en"}
+btData = {"category":"","make":"","model":"","mdid":"","year":"","stock":"","price":"","miles":"","dlid":"","listing":"","zip":"94118","lzone":"bayareaca_south","aff":"national","section":"cdn.cars.other/default","intent":"n","lang":"en"}
 
 if(typeof window.btDataHelper === 'function'){
 	window.btDataHelper();
@@ -1717,13 +1718,11 @@ if(typeof window.btDataHelper === 'function'){
 <noscript><iframe src="//s.thebrighttag.com/iframe?c=4IGCP5L" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript>
 
 
-<script type="text/javascript" src="//vcu.collserve.com/vcu.js"></script>
-
         </div><!-- #Page Ends Here -->
         
         
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app41.us.archive.org';v.server_ms=328;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=730;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
 <script type="text/javascript">
 WB_wombat_Init("https://web.archive.org/web/", "20131128121437", "www.cars.com");
 </script>
@@ -1743,14 +1742,14 @@ __wbhack.init('https://web.archive.org/web');
 -->
 <!--
 playback timings (ms):
-  load_resource: 115.636
-  PetaboxLoader3.datanode: 220.806 (4)
-  captures_list: 203.941
-  exclusion.robots: 0.196
-  exclusion.robots.policy: 0.182
-  PetaboxLoader3.resolve: 42.373
-  CDXLines.iter: 12.356 (3)
-  RedisCDXSource: 8.114
-  LoadShardBlock: 180.078 (3)
-  esindex: 0.015
+  RedisCDXSource: 2.936
+  exclusion.robots.policy: 0.288
+  PetaboxLoader3.datanode: 652.681 (4)
+  CDXLines.iter: 16.56 (3)
+  captures_list: 663.238
+  load_resource: 60.343
+  LoadShardBlock: 638.58 (3)
+  esindex: 0.022
+  PetaboxLoader3.resolve: 40.476
+  exclusion.robots: 0.31
 --></body></html>
