@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mql5.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121746id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mql5.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091709id_/https%3A//www.mql5.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
