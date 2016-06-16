@@ -1,66 +1,63 @@
-> *The following text is extracted and transformed from the zemanta.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175106id_/http%3A//www.zemanta.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemanta.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051340id_/http%3A//www.zemanta.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy — Zemanta
+# Zemanta DSP Advertising Technology Privacy Policy — Zemanta
 
-This Privacy Policy governs the manner in which Zemanta inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.zemanta.com](http://www.zemanta.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Zemanta inc..
+Effective as of March 17, 2016
 
- **Personal identification information**
+ **Introduction**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Zemanta is a global provider of advertising technology to advertisers and agencies. This privacy policy governs Zemanta’s collection and use of data on websites where Zemanta’s proprietary Zemanta DSP technology is used to purchase ads (also known as “Zemanta One”). This privacy policy does not govern the collection and use of data on Zemanta’s corporate web site ([http://www.zemanta.com](https://web.archive.org/)) or through other Zemanta’s products—that information can be [found here](https://web.archive.org/legal/privacy-ednet).
 
- **Non-personal identification information**
+Zemanta is a member of IAB (Interactive Advertising Bureau) and adheres to its policies around online consumer privacy. While not a member, Zemanta adheres to Network Advertising Initiative Code of Conduct self-regulatory principles.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+ **Platform Data Collection**  
+When you visit a website or application that queries  Zemanta One platform for targeted ads, we collect certain information about you and your device (“User Information”). Some of this User Information, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere. 
 
- **Web browser cookies**
+User Information that we may collect includes: IP address, domain, browser type and language, referring website addresses, date/time of visits, page view data, search keywords, your activities and actions on publisher’s sites, browser history, Internet service provider, referring/exit pages, platform type, date/time stamp, geolocation (including city, country, zip code, and geographic coordinates, if you have enabled location services on your device), click data, types of advertisements viewed, and information about your device including device make, device model, device operating system, device operating system version, and data connection type. We do not collect any “sensitive personal data” as defined under European data protection laws.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+We may also collect information about our partners’ interactions with you—for example, by placing pixels on an advertiser’s webpage so we can know if you ultimately purchased an item after viewing an advertisement bought through our platform or by integrating with the partners’s web analytics software, so we can know how long and where you engaged on their site. We may partner with other companies that are permitted to share anonymous information with us in order to enhance audience profiles. For example, we may partner with companies to learn the kinds of products you buy or express interest in. 
 
- **How we use collected information**
+ **How we collect information**  
+We collect information in industry standard ways, including:
 
-Zemanta inc. may collect and use Users personal information for the following purposes:
-
-  *  _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  *  _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * Cookies - Cookies are short strings of characters. Zemanta uses cookies to uniquely identify an internet browser and in turn a device. We sync those cookies with our partners, so we can identify users across environments and know which segements our partners identify them with. For more information about cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)/.
+  * Pixel Tags - Pixel tags are transparent images or short snippets of Javascript that our partners and clients use to understand how their users interact with their properties online, including websites and mobile apps.
+  * Mobile Advertising Identifiers - Mobile advertising IDs (like IDFA) are unique, non PII IDs associated with individual mobile devices. Users can reset them by instructing their device to do so.
+  * General Web Analytics - We integrate with Web Analytics software of our clients and partners in order to observe how users behave after clicking on ads. We do not control how third party Web Analytics software collects the data as this is defined by its own privacy policy.
 
 
 
- **How we protect your information**
+ **How we use the information we collect**  
+We primarily use User Information to enable our partners and clients to buy appropriate advertising space across the Zemanta One platform, which allows buying advertisement on the web and in desktop and mobile apps.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+User Information is used to target ads to consumers on behalf of our advertisers. This means displaying ads that might be of interest to consumers sharing certain traits. In some cases our data is used in conjunction with the information advertisers have collected themselves (for example by bringing their CRM data into Zemanta One platform). User Information is also used to appropriately price the ads on behalf of our advertisers.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+You agree that Zemanta and its third party partners may disclose links to or the entirety of articles you read, and in connection therewith, waive any rights you may have under the California Reader Privacy Protection Act, the United States Video Privacy Protection Act, and any similar federal, state, local, or foreign law. You further acknowledge that information we disclose to third parties in anonymized form may be de-anonymized, and third parties may be able to ascertain your identity using this information in conjunction with other information they may have. 
 
- **Sharing your personal information**
+ **Data retention**  
+Cookies that are used to identify browsers expire after one year or less on a user’s machine. Likewise data Zemanta One platform retains about those identifiers is retained for 90 days. Log level data of served ad such as IP address and date an ad is served may be retained indefinitely.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+ **Opt-Out**  
+Opt out means you inform Zemanta One platform that you wish Zemanta to delete the data it holds about your browser and ceases collecting data while you remain opted-out (which means non-unique opt-out cookie is set in your browser). 
 
- **Third party websites**
+In practice this means Zemanta One platform will not have and therefore will not be able to use any information specific to your browser to deliver targeted ads to you.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Please note that you will still see ads if you opt out, they just won’t be interest-based or otherwise targeted based on your browser’s cookie.
 
- **Changes to this privacy policy**
+You can opt out on this page: [http://www.zemanta.com/opt-out](https://web.archive.org/opt-out)
 
-Zemanta inc. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Additionally you can reset your Mobile Advertising Identifiers on your mobile device by following instructions for [iOS devices](https://support.apple.com/en-us/HT202074) and for [Android Devices](https://support.google.com/ads/answer/2662922?hl=en).
 
- **Your acceptance of these terms**
+ **Information Our Customers Collect**  
+Our customers and other third parties who use our technology may use their own tags, pixels, cookies, or other similar technology (or those of their other affiliates) within their advertisements and on certain websites. These customers maintain their own privacy policies and processes. We are not responsible for the privacy practices of customers that use our technology.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.zemanta.com/blog/about/related-posts-terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+ **Changes to this privacy policy**  
+Zemanta may update this privacy policy at any time (on a prospective basis). When we do, we will post an updated version here, and indicate the date of revision at the top of this page. We may, but are not required to, give you notice through other means. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the information we collect.
 
- **Contacting us**
+ **Contact Us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Zemanta inc.](http://www.zemanta.com/)  
-[http://www.zemanta.com](http://www.zemanta.com/)  
-Zemanta inc. 33 west 17th street 9th floor 10010 New York NY  
+Zemanta inc.  
+http://www.zemanta.com  
+Zemanta Inc. 33 West 17th Street. 9th floor, 10010 New York NY  
 info+privacy@zemanta.com
-
-This document was last updated on March 20, 2014
-
-Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
