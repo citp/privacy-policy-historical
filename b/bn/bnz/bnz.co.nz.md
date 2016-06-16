@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnz.co.nz privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908032223id_/https%3A//www.bnz.co.nz/support/banking/privacy-and-security/your-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnz.co.nz privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616194115id_/https%3A//www.bnz.co.nz/support/banking/privacy-and-security/your-privacy-and-security) for the most accurate reproduction.*
 
 # Your privacy and security - Help and support - BNZ
 
@@ -16,15 +16,15 @@ Wherever you provide personal information about yourself, whether it’s online 
 
 We follow the privacy provisions as set out in the Privacy Act, which says we can collect information for a lawful purpose. We believe in being honest and upfront with our customers at all times. We’ll only disclose information in accordance with our [Standard terms and conditions](https://web.archive.org/about-us/governance/terms-and-conditions/standard-terms-and-conditions/ "Standard terms and conditions"), or if we are required to by law. Under the Privacy Act, you’re entitled to see and request the correction of any personal information about you held by us. As a new customer, you can choose not to supply this information but we may not be able to accept you as a customer.
 
-#### Recent regulatory law changes
+### Foreign tax compliance
 
-Recent changes to overseas and local laws mean New Zealand financial institutions, including BNZ, may have to collect and in some cases report your personal financial information to foreign governments under certain circumstances.
+Overseas and local laws mean New Zealand financial institutions, including BNZ, may have to collect and in some cases report your personal and account information to foreign governments under certain circumstances.
 
-The first of the new regulatory requirements to come into effect is the United States Foreign Tax Compliance Act (FATCA). The Act came into force on 1 July 2014, and impacts major banks and financial institutions around the world, including BNZ.
+The United States law commonly known as the Foreign Account Tax Compliance Act (FATCA) has been implemented in New Zealand by provisions in the Income Tax Act 2007 and the Tax Administration Act 1994 and came into effect on 1 July 2014. FATCA applies to major banks and financial institutions around the world. It requires us to collect and share certain customers’ personal and account information with the New Zealand Inland Revenue, which will share it with the US Internal Revenue Service (IRS).
 
-[Find out more about foreign tax compliance](https://web.archive.org/about-us/governance/corporate-governance)
+Our standard terms and conditions encompass our general need to collect and disclose your personal information as we’re required to by local or overseas law. We’ll always try to contact you before we share your information with regulatory authorities.
 
-To help us comply with FATCA, we’ve made a [change to our terms and conditions](https://web.archive.org/personal-banking/footer/public-notices). The change relates to the way we use and disclose your personal information. This means that when we’re required by local or overseas law to share your personal information, we’ll be able to do so. We’ll always endeavour to contact you before we share your information with foreign regulatory authorities.
+[Find out more about FATCA](https://web.archive.org/about-us/governance/corporate-governance/).
 
 ## We protect you online
 
