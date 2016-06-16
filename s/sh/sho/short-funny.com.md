@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-funny.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525024347id_/http%3A//www.short-funny.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616221235id_/http%3A//www.short-funny.com/terms.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 
 Last updated: May 10, 2015
 
-Webdesign Michael Janik ("us", "we", or "our") operates the http://www.short-funny.com website (the "Service").
+Katerina Janik, Kamene Zbozi 193, 28802 Nymburk, [legal@short-funny.com](mailto:legal@short-funny.com) Phone: +420 608 211 172,  ("us", "we", or "our") operates the http://www.short-funny.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -84,7 +84,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20150525024347id_/http%3A//www.short-funny.com/legal-notice.php)
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20160616221235id_/http%3A//www.short-funny.com/legal-notice.php)
 
 **
 
