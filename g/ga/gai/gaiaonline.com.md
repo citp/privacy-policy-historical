@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225162938id_/http%3A//www.gaiaonline.com/info/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616104113id_/http%3A//www.gaiaonline.com/info/legal/privacy) for the most accurate reproduction.*
 
-# Gaia Online PRIVACY POLICY – Effective December 16, 2013 | Gaia Online
+# Gaia Online PRIVACY POLICY – Effective April 5, 2016 | Gaia Online
 
 Thank you for visiting the [www.gaiaonline.com](http://www.gaiaonline.com/) website (hereinafter referred to as the "Website" or "Site"). This Website is brought to you by Gaia Interactive, Inc. (hereinafter "Gaia" "we" and "us"). This privacy policy applies to [www.gaiaonline.com](http://www.gaiaonline.com/), its forums and any other related services owned or operated by Gaia.
 
@@ -70,6 +70,15 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 
 
+**GEEMOJI SUBSCRIPTION**
+
+Geemoji is free to use. There is an optional, monthly recurring subscription that will cost a user real money. With the subscription you will have access to all existing and new content in the app, including stickers, animated stickers, and fonts. If you choose to purchase a subscription, your iTunes account will be charged once you confirm the purchase. Once you purchase the subscription, it will automatically renew every month unless auto-renew is turned off 24 hours in advance. If you continue your subscription, you will be charged $29.99 24-hours before the end of your most current period. If you choose to cancel or turn off auto-renew at any time, you can manage your subscription in iTunes Account Settings. Please be advised that you cannot cancel your subscription during an active period.
+
+Duration & Pricing (USD): 1 Month = $29.99
+
+SAFETY  
+Before you download Geemoji, please remember that it contains in-app purchases and push notifications to let you know when new content is added.
+
 **THIRD-PARTY ADVERTISERS, LINKS TO OTHER SITES:**
 
 If you opt-in to connect your Gaia account and personal information with Facebook (through the Facebook Connect feature) or with any other third party networking (or other) site, then your shared personal information or data may become public through Facebook or other site. This Privacy Policy only applies to information collected through Gaia Online. When you access Facebook or other third party sites through links or features on Gaia Online, you do so at your own risk. These other sites are not under Gaia's control, and you acknowledge that Gaia is not responsible or liable for their privacy practices and/or policies. When linking to another site you should read the privacy policy posted on that site and make sure that you are comfortable with its privacy practices.
@@ -110,6 +119,6 @@ Please contact Gaia with any questions or comments about this Privacy Policy, Yo
 
 ### Effective Date, Date Last Modified:
 
-Gaia Online PRIVACY POLICY effective as of December 16, 2013
+Gaia Online PRIVACY POLICY effective as of April 05, 2016
 
-Gaia Online PRIVACY POLICY last modified on December 16, 2013
+Gaia Online PRIVACY POLICY last modified on April 05, 2016
