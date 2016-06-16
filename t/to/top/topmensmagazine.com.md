@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the topmensmagazine.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122010141id_/http%3A//topmensmagazine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmensmagazine.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616152802id_/http%3A//topmensmagazine.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TOP Men's Magazine
 
-**Privacy Policy for http://topmensmagazine.com/**
+**Privacy Policy for http://23.253.245.140/**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://topmensmagazine.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://23.253.245.140/contact-us/).
 
-At http://topmensmagazine.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://topmensmagazine.com/ and how it is used.
+At http://23.253.245.140/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://23.253.245.140/ and how it is used.
 
-**Log Files**  
-Like many other Web sites, http://topmensmagazine.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+ **Log Files**  
+Like many other Web sites, http://23.253.245.140/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
-http://topmensmagazine.com/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+ **Cookies and Web Beacons**  
+http://23.253.245.140/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on http://topmensmagazine.com/.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://topmensmagazine.com/ and other sites on the Internet.  
+ **DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on http://23.253.245.140/.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://23.253.245.140/ and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/ads/preferences/>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
 Clickbank
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://topmensmagazine.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://23.253.245.140/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-http://topmensmagazine.com/ has no access to or control over these cookies that are used by third-party advertisers.
+http://23.253.245.140/ has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://topmensmagazine.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://23.253.245.140/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-###  Wait! You must see these incredible stories:
