@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214230730id_/https%3A//www.globalwebindex.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616023442id_/http%3A//www.globalwebindex.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalWebIndex - Know Your Audience™
 
@@ -6,7 +6,7 @@ Trendstream Limited ( **we** , **us** or **our** ) are committed to protecting a
 
 This policy, together with the terms of use for [www.globalwebindex.net](https://www.globalwebindex.net/%22%20%5Ct%20%22_blank) (our **site** ) and, where applicable, our [invoice-paying user subscription terms and conditions](https://app.globalwebindex.net/pages/enterprise_terms_and_conditions) or our [credit-card paying user subscription terms and conditions](https://app.globalwebindex.net/pages/terms_and_conditions), sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Trendstream Limited (company number 6761659) of Bedford House, 69-79 Fulham High Street, London SW6 3JW. 
+For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Trendstream Limited (company number 6761659) of 3 Dorset Rise, London EC4Y 8EN. 
 
 **Information we may collect from you**
 
@@ -95,7 +95,7 @@ We may disclose your personal information to third parties:
 
 **Your rights**  
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Trendstream Limited, Bedford House, 69-79 Fulham High Street, London SW6 3JW or [hello@globalwebindex.net](mailto:hello@globalwebindex.net).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Trendstream Limited, 3 Dorset Rise, London EC4Y 8EN or [hello@globalwebindex.net](mailto:hello@globalwebindex.net).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers, affiliates and other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or the content of those websites. Please check these policies before you submit any personal data to these websites.
 
@@ -109,4 +109,4 @@ Any changes we may make to our privacy policy in the future will be posted on 
 
 **Contact**  
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Trendstream Limited, Bedford House, 69-79 Fulham High Street, London SW6 3JW or [hello@globalwebindex.net](mailto:hello@globalwebindex.net).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Trendstream Limited, 3 Dorset Rise, London EC4Y 8EN or [hello@globalwebindex.net](mailto:hello@globalwebindex.net).
