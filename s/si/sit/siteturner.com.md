@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteturner.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213032144id_/http%3A//siteturner.com/privacy-policy-for-siteturner) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteturner.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616232607id_/http%3A//siteturner.com/privacy-policy-for-siteturner) for the most accurate reproduction.*
 
 # Privacy Policy for Siteturner.com | Siteturner.com
 
