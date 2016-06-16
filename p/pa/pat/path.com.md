@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the path.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042903id_/https%3A//www.path.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051343id_/https%3A//path.com/privacy) for the most accurate reproduction.*
 
-# Path — Privacy
+# Path - Privacy
 
-Thanks for visiting our Privacy Policy. At Path, we are committed to protecting your privacy, and we believe in being transparent about what information we collect and how we use it. In keeping with these principles, our Privacy Policy explains how Path and its corporate affiliates (“Path,” “we” or “us”) collect, use, and share information when you register for and use our websites on which a link to this Privacy Policy is posted (including www.path.com) or our mobile applications in which this Privacy Policy is made available (collectively, our “Services”). This Privacy Policy reflects our current data collection, use, and sharing practices. We encourage you to keep your mobile applications up to date.
+Thanks for visiting our Privacy Policy. At Path, we are committed to protecting your privacy, and we believe in being transparent about what information we collect and how we use it. In keeping with these principles, our Privacy Policy explains how Path and its corporate affiliates, with the exception of Kakao Corp., (“Path,” “we” or “us”) collect, use, and share information when you register for and use our websites on which a link to this Privacy Policy is posted (including www.path.com) or our mobile applications in which this Privacy Policy is made available (collectively, our “Services”). This Privacy Policy reflects our current data collection, use, and sharing practices. We encourage you to keep your mobile applications up to date.
 
 This Privacy Policy operates alongside our Terms of Use and covers the following:
 
@@ -25,10 +25,10 @@ In order to provide you with our Services, we collect certain information from y
 
 ### Information You Provide
 
-  * Registration and Profile Information. When you register for an account, we will ask for your name, email address, a password, and a telephone number. You may also provide additional information such as a profile picture, gender, and birth month and day. 
-  * Contacts. With your permission, we may collect from your mobile address book contacts, including names, telephone numbers, email addresses, and social media handles, if available. 
-  * Information You Post. We collect information or other content that you may post using our Services (such as text, photos, videos, locations, friends you are with, and music you are listening to) or actions that you take using our Services (such as commenting on friends’ content, changing your profile picture, or connecting to third-party apps). We collect this information whether you post it directly to our Services or via a third-party service. When you post things like photos or videos on our Services, we may receive additional related data (or metadata), such as the time, date, and place you took the photo or video. 
-  * Other Services. We receive information when you choose to connect social media or other third party accounts and applications with your account, including a token to authenticate your identity between these accounts. 
+  * Registration and Profile Information. When you register for an account, we will ask for your name, email address, a password, and a telephone number. You may also provide additional information such as a user ID, profile picture, gender, and birth year, month and day.
+  * Contacts. With your permission, we may collect from your mobile address book contacts, including names, telephone numbers, email addresses, and social media handles, if available.
+  * Information You Post. We collect information or other content that you may post using our Services (such as text, photos, videos, locations, friends you are with, and music you are listening to) or actions that you take using our Services (such as commenting on friends’ content, changing your profile picture, or connecting to third-party apps). We collect this information whether you post it directly to our Services or via a third-party service. When you post things like photos or videos on our Services, we may receive additional related data (or metadata), such as the time, date, and place you took the photo or video.
+  * Other Services. We receive information when you choose to connect social media or other third party accounts and applications with your account, including a token to authenticate your identity between these accounts.
   * Communications. We receive the messages you send to and receive from other users of our Services. We also will receive any communications between you and Path relating to our Services.
   * Payment Information. We do not collect credit card information. Purchases for virtual goods or upgrades to our premium services are handled by third party app stores such as Apple’s App Store and Google Play, among others. We are not responsible for the policies and practices of such app stores.
 
@@ -55,7 +55,7 @@ We use this information for the purposes described below:
   * To provide our Services or information you request;
   * To personalize, improve, and promote our Services, such as providing content or features that match your profile or interests (including ads), and to monitor and analyze usage and trends;
   * To help you to find and connect with your friends, including inviting them to use our Services, and to help your friends find you;
-  * To communicate with you through email or messages, notices posted on our Services, and other means available through the Services, including mobile text messages and push notifications. Examples of these messages include: (1) welcome and engagement messages; (2) a text message to enable you to verify your telephone number; (3) service-related messages such as notifications, confirmations, updates, and security alerts; and (4) promotional messages. We will also communicate with you to provide customer service; and 
+  * To communicate with you through email or messages, notices posted on our Services, and other means available through the Services, including mobile text messages and push notifications. Examples of these messages include: (1) welcome and engagement messages; (2) a text message to enable you to verify your telephone number; (3) service-related messages such as notifications, confirmations, updates, and security alerts; and (4) promotional messages. We will also communicate with you to provide customer service; and
   * For any other purpose for which the information was collected.
 
 
@@ -66,8 +66,8 @@ We will not share the information we have collected from you except as described
 
 ### Sharing With Other Users.
 
-  * On Path. Your Path friends will have access to information you include in your profile and content you post. You may use our Inner Circle and Private Sharing features if you wish to limit the friends with whom you share particular moments. Your comments, emotions, and other actions you take will display your neighborhood location. If the “Neighborhood” setting is enabled, we will periodically and automatically post a moment with your neighborhood to your Path. Other Path users can search for you on Path, unless you enable “Only Friends Can Find Me” in Settings. Your name and profile picture will always be viewable by other Path users. 
-  * On Talk. We will automatically share your “Automatic Status” with your People List. Your Automatic Status may include your neighborhood or city location, whether you are in transit or working out, what music you are listening to, and whether your device’s battery is low. People will also be able to see when you last used our Services. Your status continues to update unless you turn it off in your app settings or until you log out, even when the app is not open on your device. Your People List includes your mobile address book contacts who are registered users of our Services, your Path friends, and people you have messaged with on Path or Talk. 
+  * On Path. Your Path friends will have access to information you include in your profile and content you post. You may use our Inner Circle and Private Sharing features if you wish to limit the friends with whom you share particular moments. Your comments, emotions, and other actions you take will display your neighborhood location. If the “Neighborhood” setting is enabled, we will periodically and automatically post a moment with your neighborhood to your Path. Other Path users can search for you on Path, unless you enable “Only Friends Can Find Me” in Settings. Your name, user ID and profile picture will always be viewable by other Path users.
+  * On Talk. We will automatically share your “Automatic Status” with your People List. Your Automatic Status may include your neighborhood or city location, whether you are in transit or working out, what music you are listening to, and whether your device’s battery is low. People will also be able to see when you last used our Services. Your status continues to update unless you turn it off in your app settings or until you log out, even when the app is not open on your device. Your People List includes your mobile address book contacts who are registered users of our Services, your Path friends, and people you have messaged with on Path or Talk.
 
 
 
@@ -77,14 +77,23 @@ We will share your information, including personal information, location informa
 
 ### Service Providers and Other Third Parties.
 
-We will share your information with service providers and other third parties who are working with us to perform functions and process user data on our behalf. We may share information with third party partners in order to understand how you interact with advertisements. To opt out of sharing information with third party partners for advertising purposes, please send an email to opt-out@adjust.com from the email address you used to register your account. Service providers have access to your personal information only to perform services on our behalf and are obligated not to disclose it or use it for any other purposes). Some of these service providers and other third parties, such as analytics providers, may collect information about your online activities over time and across different websites or online services when you use our services. We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly to any third parties.
+We will share your information with service providers and other third parties who are working with us to perform functions and process user data on our behalf. Please be informed that while we exercise control over the use of user data, we may outsource the processing of the following data through dedicated servers to Kakao Corp. for the purpose of analyzing user data:
+
+  * your email address and telephone number;
+  * telephone numbers and email addresses in your contact list;
+  * information you post; and
+  * information you provide when you use our Services.
+
+
+
+To opt out of sharing information with third party partners for advertising purposes, please send an email to [opt-out@path.com](mailto:opt-out@path.com) from the email address you used to register your account. Service providers have access to your personal information only to perform services on our behalf and are obligated not to disclose it or use it for any other purposes. Some of these service providers and other third parties, such as analytics providers, may collect information about your online activities over time and across different websites or online services when you use our services. We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly to any third parties.
 
 ### Other Sharing. We will also share your information:
 
   * When you give us your consent to do so;
-  * With our corporate affiliates;
-  * When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, including responding to lawful subpoenas, warrants or court orders; 
-  * To enforce our Privacy Policy, our Terms of Use, or our other policies or agreements; and 
+  * With our corporate affiliates (with the exception of Kakao Corp);
+  * When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, including responding to lawful subpoenas, warrants or court orders;
+  * To enforce our Privacy Policy, our Terms of Use, or our other policies or agreements; and
   * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of our business assets.
 
 
@@ -105,7 +114,7 @@ Our settings may also allow you to adjust your communications preferences. If yo
 
 ## INTERNATIONAL USERS
 
-If you are located outside the United States and choose to provide information to us, we may transfer your information to the United States and process it there (or in any other country in which we operate). By using our Services, you consent to the collection, transfer, use, storage, and disclosure of your information as described in this Privacy Policy.
+If you are located outside Singapore and choose to provide information to us, we may transfer your information outside Singapore and process it in any country in which we operate, in which case we will ensure that your personal data transferred outside Singapore will be offered a standard of protection that is comparable to the protection under the data protection laws in Singapore. By using our Services, you consent to the collection, transfer, use, storage, and disclosure of your information as described in this Privacy Policy.
 
 ## OUR POLICY TOWARDS CHILDREN
 
@@ -119,6 +128,6 @@ We take reasonable measures to protect your personal information in an effort to
 
 Any information that is collected is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise our privacy policy from time to time. If we make any material changes to this policy, we will notify you of such changes by posting them on this page or by sending you an email or other notification, and we will indicate when such changes will become effective. By continuing to access or use our Services after those changes become effective, you are agreeing to be bound by the revised policy.
 
-Please contact us at service@path.com if you have any questions about our Privacy Policy.
+Please contact us at [service@path.com](mailto:service@path.com) if you have any questions about our Privacy Policy.
 
-Effective Date: June 25, 2015
+Effective Date: January 31, 2016
