@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121927id_/http%3A//pagesix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616095922id_/http%3A//pagesix.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Page Six
 
-_Updated June 28, 2013_
+_Updated June 1, 2016_
 
 ### 1\. Introduction
 
@@ -29,6 +29,8 @@ Cookies and other tracking technologies (such as browser cookies, pixels, beacon
 Third parties that support the NYP Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate NYP Services usage statistics, may also use these technologies to collect similar information. NYP does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [aboutads.info/choices](http://www.aboutads.info/choices).
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see [adobe.com/devnet/security](http://www.adobe.com/devnet/security.html). Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the NYP Services.
+
+Our sites are not designed to respond to “do not track” signals from browsers.
 
 Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our NYP Affiliates or business partners.
 
@@ -62,9 +64,9 @@ NYP uses commercially reasonable administrative, technical, personnel and physic
 
 ### 5\. User Access and Control
 
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at [onlinehelp@nypost.com](mailto:onlinehelp@nypost.com). In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
+If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at [privacy@nypost.com](mailto:privacy@nypost.com). In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
 
-If you are a California resident, you may request that we not share your personal information on a going-forward basis with NYP Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [onlinehelp@nypost.com](mailto:onlinehelp@nypost.com) with “NYPost.com: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
+If you are a California resident, you may request that we not share your personal information on a going-forward basis with NYP Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [privacy@nypost.com](mailto:privacy@nypost.com) with “NYPost.com: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
 
 ### 6\. Other Important Information
 
@@ -85,5 +87,5 @@ Sensitive Information. We ask that you not send us, and you not disclose, any se
 ### 7\. Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:  
-Email: [onlinehelp@nypost.com](mailto:onlinehelp@nypost.com)  
+Email: [privacy@nypost.com](mailto:privacy@nypost.com)  
 Mail: Privacy Office, New York Post, 1211 Avenue of the Americas, New York, New York 10036
