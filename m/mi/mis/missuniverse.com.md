@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227193758id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616085609id_/http%3A//www.missuniverse.com/info/privacy) for the most accurate reproduction.*
 
 # 
 
