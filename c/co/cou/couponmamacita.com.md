@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponmamacita.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213164722id_/http%3A//www.couponmamacita.com/disclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmamacita.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616045434id_/http%3A//www.couponmamacita.com/disclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy | Coupon Mamacita
 
@@ -81,7 +81,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **Terms and Conditions**
 
-  * Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.couponmamacita.com](http://www.couponmamacita.com/)
+  * Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.couponmamacita.com
 
 
 
@@ -124,4 +124,4 @@ Entrants MUST be 18 or older _**(unless otherwise posted differently)  **_to en
 
 Entrants may not reside in Belgium, Norway, Sweden, or India.   ALL promotions are USA ONLY unless specified!
 
-[Please see Facebook’s Promotions Guidelines ](http://www.freeprivacypolicy.org/)[HERE](https://www.facebook.com/promotions_guidelines.php)[](http://www.blogger.com/page-edit.do?blogID=742830741271645686&pageID=8614901099278777105)
+[Please see Facebook’s Promotions Guidelines ](http://www.freeprivacypolicy.org/)[HERE](https://www.facebook.com/promotions_guidelines.php)
