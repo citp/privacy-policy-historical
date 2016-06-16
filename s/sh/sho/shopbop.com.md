@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005651id_/https%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D5041370471%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054051id_/https%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D71955628016%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
 
 # Shopbop privacy policy
 
@@ -74,12 +74,12 @@ Advertisers or ad companies working on their behalf sometimes use technology to 
 
 **Advertising Preferences**
 
-We offer you choices about receiving interest-based ads from Amazon. You can choose not to receive interest-based ads from Amazon by adjusting your [Advertising Preferences](http://www.amazon.com/gp/dra/info). If you choose to opt out of receiving interest-based ads from Amazon, you will still see ads but they will not be personalized. 
+We offer you choices about receiving interest-based ads from Amazon. You can choose not to receive interest-based ads from Amazon by adjusting your [Advertising Preferences](http://www.amazon.com/adprefs). If you choose to opt out of receiving interest-based ads from Amazon, you will still see ads but they will not be personalized. 
 
 In addition to the interest-based ads from Amazon, we may also use other third parties to serve interest-based ads. You can opt-out of receiving interest-based ads from third parties who are members of the [Network Advertising Initiative(NAI)](http://www.networkadvertising.org/choices/) or who follow the [Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (DAA)](http://www.aboutads.info/choices/#completed) by visiting the opt-out pages on the NAI website and DAA website. 
 
-**Are Children Allowed to Use the Websites?**
-
+  
+**Are Children Allowed to Use the Websites?**  
 The Websites do not sell products for purchase by children. If you are under 18, you may use the Websites only with the involvement of a parent or guardian. 
 
 **Conditions of Use, Notices, and Revisions**
@@ -90,16 +90,12 @@ Our business changes constantly, and our Privacy Notice and the [Conditions of U
 
 **Related Practices and Information**
 
-  * [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html)
-  * [Customer Service (Shopbop)](http://www.shopbop.com/ci/aboutShopBop/customerservice.html)
-  * [Customer Service (East Dane) ](http://www.eastdane.com/ci/aboutShopBop/customerservice.html)
-
-
-
-**Examples of Information Collected**
-
-**Information You Give Us**
-
+* [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html)
+* [Customer Service (Shopbop)](http://www.shopbop.com/ci/aboutShopBop/customerservice.html)
+* [Customer Service (East Dane) ](http://www.eastdane.com/ci/aboutShopBop/customerservice.html)
+  
+**Examples of Information Collected**  
+**Information You Give Us**  
 You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through the Websites; provide information in [My Account](https://web.archive.org/myaccount/my_account_home.jsp) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists, My Hearts, My Designers or other shopping lists; or write reviews and rate products. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses of your friends and other people; and content of reviews and e-mails to us. 
 
 **Automatic Information**
