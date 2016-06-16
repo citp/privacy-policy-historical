@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022939id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052331id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | We are serious about your privacy | AVG
 
@@ -29,7 +29,8 @@ If you are really interested in this privacy stuff, we’ve put together [a few 
 
 ## How do you collect my data?
 
-We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking services here. Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats. 
+  
+We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking and analytics services [here](https://web.archive.org/cookies). Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats.
 
 ## What do you collect that can identify me?
 
@@ -121,15 +122,15 @@ If we are legally compelled to disclose your personal data to a third party, we 
 
 ## What rights do I have over my data?
 
-You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with. 
+You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with.
 
-You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected). 
+You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected).
 
-You have the right to opt out of the use or collection of certain data, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/us-en/privacy-preferences). 
+You have the right to opt out of the use or collection of certain data by us or by third parties, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/us-en/privacy-preferences).
 
-You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/us-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts. 
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/us-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts.
 
-You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular: 
+You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular:
 
   * We abide by this Privacy Policy at all times with respect to all data that we collect from you;
   * We limit the use and disclosure of your personal data, and work to ensure that anyone with whom we share such information treats that information with the privacy and security it deserves; and
