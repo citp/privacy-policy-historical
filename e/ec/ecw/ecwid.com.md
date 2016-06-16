@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the ecwid.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225000617id_/http%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecwid.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054031id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy covers the information practices of our user interfaces, including our website Ecwid.com, that link to this Privacy Policy: [http://www.ecwid.com](http://www.ecwid.com/).
+Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy covers the information practices of our user interfaces, including our website Ecwid.com, that link to this Privacy Policy: [https://www.ecwid.com](https://www.ecwid.com/).
 
- **By  visiting [Ecwid.com](http://www.ecwid.com/) or our other user interfaces, you are accepting the practices described in this Privacy Policy.** This Privacy Policy operates in conjunction with our Terms of Service, and also our Channel Partner Agreement and Master Service Agreement, as applicable, which together constitute the entire agreement between you and Ecwid. Please review each of these documents to understand all of the terms and conditions of your agreement with us.
+ **By  visiting [Ecwid.com](https://www.ecwid.com/) or our other user interfaces, you are accepting the practices described in this Privacy Policy.** This Privacy Policy operates in conjunction with our Terms of Service, and also our Channel Partner Agreement and Master Service Agreement, as applicable, which together constitute the entire agreement between you and Ecwid. Please review each of these documents to understand all of the terms and conditions of your agreement with us.
 
 Ecwid.com may contain links to third-party websites. Ecwid is not responsible for the information practices or the content of such third-party websites. We encourage you to review the privacy policies of third-party websites to understand their information practices.
+
+## Safe Harbor
+
+Ecwid complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ecwid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
 
 ## Notice
 
@@ -20,7 +24,7 @@ We collect and store the following information:
 
   * Information you give us, including, contact information, such as your name, company name, address, phone number, email address, and financial information;
   * automatic information, such as computer sign-on data, browser type, browser language, statistics on page views, traffic to and from our user interfaces and ad data. Like many websites, we use identifiers such as “cookies” and Web beacons to obtain this automatic information.
-  * discussion board posts and other messages, including your correspondence with us. Our communications will include notices about your account (for example, change in password or payment method, confirmation e-mails and other transactional information) and information concerning or related to our service. These communications are part of your relationship with Ecwid and you receive them as part of the Ecwid membership. If you or your store’s customers do not want to receive our emailed newsletters, other promotional announcements or non-transactional communications, simply use your account name and password to access the control panel on Ecwid.com and disable any email notifications sent to you or your customers. Email notifications sent by Ecwid’s community forums can be adjusted or disabled via the community forums control panel. For members subscribing to notifications about the availability of specific partner programs at [http://www.ecwid.com/partners-program.html](http://www.ecwid.com/partners-program.html), we include instructions to unsubscribe in the body of the email notifications; and 
+  * discussion board posts and other messages, including your correspondence with us. Our communications will include notices about your account (for example, change in password or payment method, confirmation e-mails and other transactional information) and information concerning or related to our service. These communications are part of your relationship with Ecwid and you receive them as part of the Ecwid membership. If you or your store’s customers do not want to receive our emailed newsletters, other promotional announcements or non-transactional communications, simply use your account name and password to access the control panel on Ecwid.com and disable any email notifications sent to you or your customers. Email notifications sent by Ecwid’s community forums can be adjusted or disabled via the community forums control panel. For members subscribing to notifications about the availability of specific partner programs at <https://www.ecwid.com/partners>, we include instructions to unsubscribe in the body of the email notifications; and 
   * general information regarding the Products or Services that you have registered to receive; and 
   * information from third-party providers and services to help Ecwid provide our Products and Services and to help us understand the use of our Products and Services..
 
@@ -121,7 +125,7 @@ We neither sell nor rent your personal information to third parties for their
 
 Ecwid.com may include community forums, blogs, or chat rooms. Any other visitors to these forums may read, collect, or use the personal information you choose to disclose there, and may use it to send you unsolicited messages. Ecwid is not responsible for the privacy of information you choose to disclose in these forums.
 
-Users may elect to use our affiliate referral program to inform friends about Ecwid. We request the name and email address of each referred friend. Ecwid will send a one-time automatic email to the friend inviting him or her to visit our user interfaces. For further information about our affiliate referral program, please see [http://www.ecwid.com/affiliate-program.html](http://www.ecwid.com/affiliate-program.html). The agreement governing our affiliate referral program may be found at <http://ecwid.zferral.com/>.
+Users may elect to use our WebPartner Affiliate Program to inform friends about Ecwid. We request the name and email address of each referred friend. Ecwid will send a one-time automatic email to the friend inviting him or her to visit our user interfaces. For further information about our WebPartner Affiliate Program, please see <https://www.ecwid.com/webpartners>. The agreement governing our WebPartner Affiliate Program may be found at [https://www.ecwid.com/affiliate-agreement.html](https://www.ecwid.com/affiliate-agreement.html).
 
 Ecwid posts a list of users and testimonials on our user interfaces, including on our website, Ecwid.com that contain information such as user names and titles. We obtain the consent of each user prior to posting any information on such a list or posting testimonials.
 
@@ -134,6 +138,12 @@ We may delete personal information when we no longer need it for the purpo
 ## Security
 
 To prevent unauthorized access, promote data security, and encourage appropriate use of information, we use a variety of tools, such as encryption technologies, passwords, physical and electronic security, or procedural safeguards to assist in the protection of your information. No security on the Internet is absolute, however, so we are unable to guarantee the security of any information that you share with us.
+
+## Enforcement
+
+Ecwid uses a self-assessment approach to ensure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the Principles.
+
+Ecwid has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Ecwid, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Changes to This Privacy Policy
 
