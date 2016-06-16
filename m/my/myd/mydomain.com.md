@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116143157id_/https%3A//www.mydomain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616215649id_/http%3A//www.mydomain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # MyDomain's Privacy Policy
 
@@ -46,6 +46,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on April 30, 2015.**
+**This file was last modified on May 29, 2015.**
 
  ****
