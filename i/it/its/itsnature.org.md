@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsnature.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216204027id_/http%3A//www.itsnature.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnature.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616231401id_/http%3A//www.itsnature.org/privacy.html) for the most accurate reproduction.*
 
 # itsnature.org | Privacy Policy
 
