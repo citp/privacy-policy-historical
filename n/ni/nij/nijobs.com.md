@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130190054id_/http%3A//www.nijobs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616143340id_/http%3A//www.nijobs.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - nijobs.com
 
@@ -12,7 +12,7 @@ By using the Website and/or the NIJobs.com Service, you permit the collection an
 
 ## About our privacy policy
 
-  * Our website NIJOBS.COM which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (the **“Website"** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions ](https://web.archive.org/about/terms) ) (the " **NIJobs.com Service** ") are operated by NIJobs.com, 239 Lisburn Road, Belfast BT9 7EN, Northern Ireland (" **we** ", " **us** " and " **our** "). The Website and the NIJobs.com Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
+  * Our website NIJOBS.COM which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (the **“Website"** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions ](https://web.archive.org/about/terms) ) (the " **NIJobs.com Service** ") are operated by NIJobs.com,3rd Floor Rose House, 2 Derryvolgie Avenue, Belfast, BT9 6FL, Northern Ireland (" **we** ", " **us** " and " **our** "). The Website and the NIJobs.com Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
   * This policy, our [Terms and Conditions ](https://web.archive.org/about/privacy) and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the NIJobs.com Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 
