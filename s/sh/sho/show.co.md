@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the show.co privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318222435id_/http%3A//www.show.co/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the show.co privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617004719id_/http%3A//www.show.co/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Show.co
 
-###  Last Modified 2014-08-11 
-
-Show.co, owned by Soundrop AS (“Soundrop”) a company registered in Norway under registration number 997 538 501 takes the matter of privacy very seriously, and treats all Personal Data with the utmost respect and in accordance with applicable privacy laws and regulations. 
+Show.co, owned by Soundrop AS (“Soundrop”) a company registered in Norway under registration number 997 538 501 takes the matter of privacy very seriously, and treats all Personal Data with the utmost respect and in accordance with applicable privacy laws and regulations.
 
 ## General
 
   1. Soundrop’s Privacy Policy differs between Personal Data about the user of the Show.co service, having a direct commercial relationship with us (“Customer”, “You”), and Personal Data about the user of campaign sites or widgets as created by a user who is browsing the Site or Widget (“Consumers”).
-  2. The term Personal Data does not include any anonymized and aggregated data made on the basis of Personal Data (“Aggregated Data”) which are wholly owned by Soundrop. 
+  2. The term Personal Data does not include any anonymized and aggregated data made on the basis of Personal Data (“Aggregated Data”) which are wholly owned by Soundrop.
 
 
 
@@ -26,13 +24,13 @@ Show.co, owned by Soundrop AS (“Soundrop”) a company registered in Norway un
   9. Soundrop deletes personal information when the purposes for the processing have been fulfilled.
   10. Procedures are reviewed regularly to ensure that the policies are followed. Any nonconformance, regarding the policies will be corrected without unnecessary delay.
   11. Soundrop has safeguards in place to protect Customers’ data from loss, misuse, unauthorized access, alterations, or destruction. We protect user data from disclosure, with exceptions only in matters where designated by law or court order.
-  12. If you have any questions about this Privacy Policy, we can be reached by email at: [legal@show.co](mailto:legal@show.co), or via mail at the following address:  **Soundrop AS**  
+  12. If you have any questions about this Privacy Policy, we can be reached by email at: [legal@show.co](mailto:legal@show.co), or via mail at the following address:
+
+**Soundrop AS**  
 Inngang A1  
 Sandakerveien 24C  
 0473 Oslo  
 Norway 
-
-
 
 ## Consumer Personal Data
 
