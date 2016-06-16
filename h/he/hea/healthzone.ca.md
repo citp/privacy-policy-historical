@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthzone.ca privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005330id_/http%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthzone.ca privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054704id_/http%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Toronto Star
 
@@ -10,19 +10,13 @@ This Privacy Policy governs the collection, use and disclosure of your personal 
 
 This Privacy Policy is available to the public through our Sites, and in paper form from the Star. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability. **Please read this Privacy Policy carefully, and check back periodically as we may update it from time to time.**
 
-**What is personal information?**
-
-Personal information is any information about an identifiable individual.
-
-The Star is responsible for personal information in its possession and under its control. The Star has implemented policies and practices to give effect to this Privacy Policy, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, the Star's parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of the Star.
-
-**What is excluded from privacy protection?**
+ **What is personal information?**
 
 This Privacy Policy does not impose restrictions on: business contact information (e.g. name, title, work contact information) collected, used or disclosed solely for the purpose of communicating with the individual in relation to their employment, business or profession; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual's name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.
 
-**Children:** If you are under the age of majority in your jurisdiction of residence, be sure to obtain your parent or guardian's permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating.
+ **Children:** If you are under the age of majority in your jurisdiction of residence, be sure to obtain your parent or guardian's permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating.
 
-**What personal information do we collect, and why?**
+ **What personal information do we collect, and why?**
 
   * We collect personal contact information (such as your name, address, email address and telephone numbers) if you: sign up for a newsletter; subscribe to a newspaper; sign up to receive electronic messages including by email or SMS; register on an online forum or website, or to attend a paid event; download and use one of our mobile applications or register on a mobile application; purchase any product or service from the Star; are a classified advertiser or auction participant; or provide it to us when you attend a trade or consumer show. This information is used to fulfill your request for information, products or services, to provide targeted advertising, and to respond to your inquiries. From time to time this information may be used to provide reward points or apply credit, as applicable in the circumstances.
   * We collect personal contact information (such as your name, address, email address and telephone numbers) when you make a charitable donation to the Star's sponsored charities, including the Star Fresh Air Fund and the Star Santa Claus Fund, for the purpose of processing your donation and to issue you an income tax receipt.
@@ -66,9 +60,9 @@ This Privacy Policy does not impose restrictions on: business contact informatio
 
 **User Generated Content**
 
-All information, data, text, graphics, images, messages, reviews, opinions, suggestions or other materials created by users on any Site, including but not limited to its comment forums and chat boards, is public information and may be used and disclosed by the Star in accordance with the Star’s [Terms and Conditions](http://www.thestar.com/about/terms.html).
+All information, data, text, graphics, images, messages, reviews, opinions, suggestions or other materials created by users on any Site, including but not limited to its comment forums and chat boards, is public information and may be used and disclosed by the Star in accordance with the Star’s [Terms and Conditions](https://www.thestar.com/about/terms.html).
 
-**To whom does the Star disclose personal information, and why?**
+ **To whom does the Star disclose personal information, and why?**
 
 The Star may disclose your personal information under the following circumstances:
 
@@ -112,25 +106,25 @@ It may take 2-4 weeks to fully process your opt-out request. Please note that if
 
 We reserve the right to use and disclose your personal information without your consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.
 
-**Safeguards**
+ **Safeguards**
 
 The Star has technical, contractual, administrative and physical security measures to protect your personal information in a manner that is reasonable and appropriate to the nature of the personal information you provide to the Star. For example, when you provide credit card information to us, we work to help protect the security of your credit card information by using industry standard secure sockets layer (SSL) encryption technology.
 
 Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our Site is secure. Credit card numbers should not be sent by email.  Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users. The Star is not responsible for personal information you choose to post or submit in any online forum on any of its Sites.
 
-**How to access and correct your personal information**
+ **How to access and correct your personal information**
 
 Some of our Sites provide you with the means to access, update, edit or delete certain subscriber or registration information by going to the appropriate page on the Site and changing or deleting such information as desired. Alternatively, or for other information, you may call Customer Service at 1-800-279-0181 and we will make the changes upon receipt of appropriate evidence.
 
 We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
 
-**How to address concerns regarding your privacy**
+ **How to address concerns regarding your privacy**
 
 The Star encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Policy. If you have a question concerning the Star's Privacy Policy, would like a copy, or if you have any questions or concerns regarding the manner in which we or our Canadian, U.S. or other service providers treat your personal information, please contact Customer Service at: 1-800-279-0181, or email us at [privacy@thestar.ca.](mailto:privacy@thestar.ca)
 
 Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation's Chief Privacy Officer in writing as follows:
 
-**Chief Privacy Officer**
+ **Chief Privacy Officer**
 
 Torstar Corporation
 
