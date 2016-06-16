@@ -1,85 +1,112 @@
-> *The following text is extracted and transformed from the 123article.org privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421225755id_/http%3A//123article.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123article.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163658id_/http%3A//rule.alibaba.com/rule/detail/2034.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Alibaba.com Rules Center
 
-This document was last updated on October 02, 2010.
+(Updated as of November 2015)
 
-* * *
+Alibaba.com and Aliexpress.com (each a "Site", together the "Sites") are electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Alibaba recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
-## Section 1. Acknowledgement and Acceptance of Terms.
+You may use our services and products via a mobile device either through mobile applications or mobile optimized websites. This Privacy Policy also applies to such use of our services and products.
 
-We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+All capitalized terms not defined in this document shall have the meanings ascribed to them in the Terms of Use of the Site, which can be found [here](http://rule.alibaba.com/rule/detail/2041.htm). If you are a user from mainland China, the Alibaba entity that you are contracting with is Alibaba Advertising Co., Ltd. If you are a user from Hong Kong and Macau, you are contracting with Alibaba.com Hong Kong Limited. If you are a user outside mainland China, Hong Kong and Macau, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (“Alibaba”, “we”, “us”, “our”).
 
-* * *
+**A. COLLECTION OF INFORMATION**
 
-## Section 2. Participating Merchant Policies
+1\. Your privacy is important to us and we have taken steps to ensure that we do not collect more information from you than is necessary for us to provide you with our services and to protect your account.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+2\. Information including, but not limited to, user name, address, phone number, fax number, email address, gender, date and/or year of birth and user preferences ("Registration Information") may be collected at the time of user registration on the Sites.
 
-* * *
+3\. In connection with any transaction and payment services or services under our buyer protection schemes we provide on the Sites, information, including but not limited to, bank account numbers, billing and delivery information, credit/debit card numbers and expiration dates and tracking information from cheques or money orders ("Account Information") may be collected to, among other things, facilitate the sale and purchase as well as the settlement of purchase price of the products or services transacted on or procured through the Sites.
 
-## Section 3. Information We Collect and How We Use It
+4\. We record and retain details of users’ activities on the Sites. Information relating to such transactions including, but not limited to, the types and specifications of the goods, pricing and delivery information and any trade dispute records (“Activities Information”) may be collected when sale and purchase transactions are conducted on or facilitated through the Sites
 
-Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
+5\. From time to time, we collect information about our users and prospective users during trade shows, industry events and other functions. The information we may collect at these locations may include, but is not limited to, user name, address, phone number, fax number and email address ("Event Information").
 
-* * *
+6\. We record and retain records of users' buying and browsing activities on our platform including but not limited to IP addresses, browsing patterns and buyer behavioral patterns. In addition, we gather statistical information about the Sites and visitors to the Sites including, but not limited to, IP addresses, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors (together "Browsing Information").
 
-## a. Web Server Logs
+7\. Registration Information, Account Information, Activities Information, Event Information and Browsing Information generally relate to business entities and are together referred to as business data (“Business Data”). Insofar and only insofar as they constitute personally identifiable data of living individuals, such information are together referred to as personal data (“Personal Data”).
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+8\. It is mandatory for users of the Sites to provide certain categories of Business Data and Personal Data (as specified at the time of collection). In the event that users do not provide any or sufficient Business Data and/or Personal Data marked as mandatory, we may not be able to complete the registration process or provide such users with our products or services. 
 
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
+**B. USE OF PERSONAL DATA**
 
+If you provide any Personal Data to us, you are deemed to have authorized us to collect, retain and use that Personal Data for the following purposes:
 
+1\. verifying your identity;
 
-* * *
+2\. verifying your eligibility to register as a user of the Sites;
 
-## b. Use of Cookies
+3\. processing your registration as a user, providing you with a log-in ID for the Sites and maintaining and managing your registration;
 
-This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+4\. providing you with customer service and responding to your queries, feedback, claims or disputes;
 
-* * *
+5\. to facilitate communication between buyers and sellers on the Sites;
 
-## c. Use of Personal Information
+6\. performing research or statistical analysis in order to improve the content and layout of the Sites, to improve our product offerings and services and for marketing and promotional purposes;
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+7\. subject to obtaining your consent in such form as may be required under the applicable law, we may use your name, phone number, residential address, email address and fax number ("Marketing Data") to provide notices, surveys, product alerts, communications and other marketing materials to you relating to goods and services offered by us on the Sites including Gold Suppliers membership, Verified Members membership, Free Members membership (each of Gold Suppliers membership, Verified Members membership, and Free Members membership, a “Membership” and collectively, the “Memberships”) the value added services ancillary to the Memberships, and other products and services offered by us from time to time to members of the Sites; 
 
-* * *
+8\. if you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, Company Profile, Product Catalog, Trade Leads, TrustPass Profile and any discussion forum, then you are deemed to have given consent to the publication of such information on the Sites ("Voluntary Information"); and
 
-  * To fulfill your service requests for services,
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
+9\. making such disclosures as may be required for any of the above purposes or as required by law or in respect of any claims or potential claims brought against us.
 
+**C. DISCLOSURE OF PERSONAL DATA**
 
+1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to service providers engaged by us to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, and membership authentication and verification services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes (including direct marketing). 
 
-* * *
+2\. You agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with), for the purposes specified at B.1 to B.9 above, your Personal Data to other affiliated companies within the Alibaba Group, which comprises a group of companies operating leading online and mobile marketplaces in consumer and business-to-business commerce, as well as cloud computing and other services. 
 
-Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
+3\. When necessary we may also disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to our professional advisers, law enforcement agencies, insurers, government and regulatory and other organizations for the purposes specified at B.9 above.
 
-* * *
+4\. Any Personal Data supplied by you will be retained by us and will be accessible by our employees, any Service Providers engaged by us and third parties referred to at C.2 and C.3 above, for or in relation to any of the purposes stated in B.1 to B.9 above.
 
-## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
+5\. All Voluntary Information may be made publicly available on the Sites and therefore accessible by any internet user. Any Voluntary Information that you disclose to us becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyright) in such information. You should exercise caution when deciding to include personal or proprietary information in the Voluntary Information that you submit to us.
 
-This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
+6\. We may share your Account Information with banks or vendors to enable your transactions on the Sites to be completed. In addition, we may use your Account Information to determine your credit-worthiness and, in the process of such determination, we may need to make such Account Information available to banks or credit agencies. While we have in place up-to-date technology and internal procedures to keep your Account Information and other Personal Data secure from intruders, there is no guarantee that such technology or procedures can eliminate all of the risks of theft, loss or misuse. 
 
-* * *
+7\. We may provide statistical information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
-## 5\. Accessing Web Account Information
+8\. We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from the Sites or through offering "co-branded" sites in which both we and other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third party sites and co-branded sites before responding to any offers, products or services advertised by those parties. 
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
+**D. RIGHT TO ACCESS/CORRECT PERSONAL DATA**
 
-* * *
+Under the applicable laws, you have the right of access to personal information held by us and to request correction of the information.  
+If you have any questions regarding this Privacy Policy or if you wish to access or correct your Personal Data, you may send your request in writing to the following address:  
+Legal Counsel, The Legal Department  
+Alibaba.com Hong Kong Limited, 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.  
+If you are a user from Mainland China, please send your request in writing to the following address:  
+Legal Counsel, The Legal Department  
+Alibaba Advertising Co., Ltd., No. 699, Wangshang Road, Bingjiang District, Hangzhou, the People’s Republic of China.  
+In accordance with the applicable laws, we reserve the right to charge you a reasonable fee for the processing of any data access or correction request.
 
-## 6\. Changes to this Statement
+**E. COOKIES**
 
-We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+We use "cookies" to store specific information about you and track your visits to the Sites. It is not uncommon for websites to use cookies to enhance identification of their users. 
 
-* * *
+A "cookie" is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access the Sites using a computer. If you do not de-activate or erase the cookie, each time you use the same computer to access the Sites, our web servers will be notified of your visit to the Sites and in turn we may have knowledge of your visit and the pattern of your usage. 
+
+Generally, we use cookies to identify you and enable us to i) access your Registration Information or Account Information so you do not have to re-enter it; ii) gather statistical information about usage by users; iii) research visiting patterns and help target advertisements based on user interests; iv) assist our partners to track user visits to the Sites and process orders; and v) track progress and participation in promotions.
+
+You can determine if and how a cookie will be accepted by configuring the browser which is installed in the computer you are using to access the Sites. If you choose, you can change those configurations. By setting your preferences in the browser, you can accept all cookies or you can choose to be notified when a cookie is sent or you can choose to reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter information on the Sites more often and certain features of the Sites may be unavailable.
+
+**F. MINORS**
+
+The Sites and their contents are not targeted to minors (those under the age of 18) and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact our Legal Department at the address set out in paragraph D above to remove the information. 
+
+**G. SECURITY MEASURES**
+
+We employ commercially reasonable security methods to prevent unauthorized access to the Sites, to maintain data accuracy and to ensure the correct use of the information we hold. 
+
+For registered users of the Sites, your Registration Information and Account Information (if any) can be viewed and edited through your account, which is protected by a password. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited email. If you share a computer with others, you should not choose to save your log-in information (e.g., user ID and password) on that shared computer. Remember to sign out of your account and close your browser window when you have finished your session. 
+
+No data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect the information we hold for you, we cannot guarantee the security of any information you transmit to us and you do so at your own risk. 
+
+**H. CHANGES TO THIS PRIVACY POLICY**
+
+Any changes to this Privacy Policy will be communicated by us posting an amended and restated Privacy Policy on the Sites. Once posted on the Sites the new Privacy Policy will be effective immediately. You agree that any information we hold about you (as described in this Privacy Policy and whether or not collected prior to or after the new Privacy Policy became effective) will be governed by the latest version of the Privacy Policy. 
+
+**I. YOUR FEEDBACK**
+
+We welcome your input regarding our Privacy Policy and any comments on the services we provide to you. You may send us your comments and responses by post to: The Legal Department, Alibaba.com Hong Kong Limited, 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong. 
+
+If you are a user from Mainland China, please send us your comments and responses to the following address: The Legal Department, Alibaba Advertising Co., Ltd., No. 699, Wangshang Road, Bingjiang District, Hangzhou, the People’s Republic of China.
