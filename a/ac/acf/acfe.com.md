@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acfe.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053748id_/http%3A//www.acfe.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acfe.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616215637id_/http%3A//www.acfe.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Association of Certified Fraud Examiners - Privacy Policy
 
@@ -63,6 +63,6 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information off-line. All ACFE employees who have access to your personally identifiable information are subject to criminal and credit background checks and receive training on how to protect such information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (800) 245-3321 in US or Canada or (512) 478-9000 or via e-mail at [info@ACFE.com](mailto:info@acfe.com).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (800) 245-3321 in the U.S. or Canada or (512) 478-9000 or via email at [info@ACFE.com](mailto:info@acfe.com).
 
 _Policy effective as of April 17, 2015._
