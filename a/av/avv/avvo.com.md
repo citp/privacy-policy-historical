@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225192158id_/http%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053231id_/http%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Avvo.com
+# Privacy Policy- Avvo
 
 **AVVO.COM**
 
-Last Revised: January 6, 2015
+Last Revised: January 28, 2016
 
 Thanks for using Avvo. This privacy policy ( _"Policy"_ ) applies to your use of Avvo's website, products, app, and services (together, the _"Services"_ ). The Policy is intended to inform you about how we collect and use information so you can make an informed decision about using the Services. Please read it carefully before using the Services or submitting any information to us. If you do not agree to any part of this Policy, then you should stop accessing the Services.
 
@@ -98,6 +98,6 @@ We may change the provisions of this Policy at any time, and we will always post
 If you have any questions or comments about this Policy or the practices relating to our Services, or you wish to verify, correct or delete any Personal Information we have collected, please contact us via our [Support page](http://www.avvo.com/support/contact_us)[ ](http://www.avvo.com/support/contact_us)or at:
 
 Avvo, Inc.  
-705 Fifth Avenue South, Suite 600  
-Seattle, WA 98104  
+720 Olive Way, Suite 1400  
+Seattle, WA 98101  
 Attn: Privacy Policy
