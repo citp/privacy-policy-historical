@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamroom.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207012635id_/http%3A//www.jamroom.net/page/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamroom.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616084816id_/http%3A//www.jamroom.net/page/1/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jamroom
 
@@ -32,6 +32,6 @@ We are committed to conducting our business in accordance with these principles 
 
 If you have any questions or concerns about our Privacy Policy, please send correspondence to:
 
- **Talldude Networks, LLC  
+**Talldude Networks, LLC  
 2885 Sanford Ave SW #15132  
 Grandville, MI 49418 USA** 
