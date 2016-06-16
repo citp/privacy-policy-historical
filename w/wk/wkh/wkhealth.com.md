@@ -1,41 +1,75 @@
-> *The following text is extracted and transformed from the wkhealth.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161947id_/http%3A//www.wolterskluwerhealth.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkhealth.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616143514id_/http%3A//wolterskluwer.com/privacy-cookies.html) for the most accurate reproduction.*
 
-# Wolters Kluwer Health: Privacy Policy - Wolters Kluwer Health
+# Privacy & Cookies
 
-This Privacy Statement relates solely to the online information collection and use practices of our website located at www.wolterskluwerhealth.com (this "Website?). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time at Wolters Kluwer Health's sole discretion, has been developed to address those concerns.
+**Privacy and Cookie Policy**  
+Welcome to this Corporate Website. This site is owned by Wolters Kluwer nv. This Privacy and Cookies Policy (the “Policy”) is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Policy before using or submitting information to this site. This site is governed by applicable Dutch laws.
 
-By your use of this Website you explicitly warrant to Wolters Kluwer Health that you have read and that you accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please [contact us](mailto:wolterskluwerhealth-communications@wolterskluwer.com "wolterskluwerhealth-communications@wolterskluwer.com").
+**Your Consent**  
+Use of this site constitutes your consent to application of such laws and regulations and to the terms of our Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Policy.
 
-**WHAT INFORMATION ABOUT YOU DO WE COLLECT?**
+**Information Collection**  
+Like many web sites, this site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you such as your full name, address, e-mail address, phone number, and so on).
 
-When you visit our Website, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information which is collected on an aggregate basis as you browse this Website.
+Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as e-mail alerts or newsletter subscriptions). You will be informed at each information collection point what information is required and what for.
 
-**(1) Personally Identifiable Information You Choose to Provide**
+As you navigate through a Web site, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags and navigational data collection.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving ongoing information about Wolters Kluwer Health, you are asked to submit your e-mail address, which we retain on file so we may send you the information that you requested. We also request your name and e-mail address and other information that helps us understand your needs each time you contact us by clicking on the "request more information? links. At our option, we may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
+**IP Addresses**  
+This site uses Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non- personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site.
 
-**(2) Non-Personally Identifiable Information We Collect**
+**Cookies**     
+The website of Wolters Kluwer uses “cookies”. A cookie is a small text file that’s stored on your computer, tablet, or phone when you visit a website that helps the site remember information about you and your preferences.
 
-Similar to other commercial websites, our Website utilizes standard technology called "cookies" and Web server logs to collect information about how our Website is used. Cookies are a feature of Web browser software that allows web servers to recognize the computer used to access a web site. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the websites visited just before and just after our Website. This information will be collected on an aggregate basis. None of this information is associated with you as an individual in our databases.
+Some cookies are deleted when you close down your browser.  These are known as session cookies.  Others remain on your device until they expire or you delete them from your cache.  These are known as persistent cookies and enable us to remember things about you as a returning visitor. 
 
-Should you decide, you can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Website will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
+The cookies we use allow us to recognize and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. Our cookies also enable us to tailor the content you view according to preferences you set.
 
-**HOW DO WE USE THE INFORMATION WE COLLECT?**
+We use Session Cookies for the following purposes:
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features, or services. If you no longer wish to receive press releases or any other type of information from us, you must [contact us](mailto:wolterskluwerhealth-communications@wolterskluwer.com "wolterskluwerhealth-communications@wolterskluwer.com").
+  * To allow you to carry information across pages of our website and avoid having to re-enter information.
+  * Within registration to allow you to access stored information.
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website.  
 
-We use non-identifying information collected on our Website in the aggregate to better understand the use of the Website and to enhance your experience. For example, we may use the information to improve the design and content of our Website or to analyze the programs and services that we offer.
 
-We may employ other companies and individuals to perform functions on our behalf. We will use our all reasonable efforts to ensure that our employees, agents, and contractors who have access to personally identifiable information protect the information in a manner that is consistent with this Privacy Statement.
 
-We reserve the right to provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Website, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Website or the public. In those instances, the information will be provided only for that limited purpose.
+We use Persistent Cookies for the following purposes:
 
-We will not share your personally identifiable information in ways unrelated to those described in this Privacy Statement without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
+  * To help us recognize you as a unique visitor (just a number) when you return to our website and to allow us to tailor content to match your preferred interests.
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website.
+  * To internally identify you by account name, email address, customer ID, and location (geographic and computer ID/IP address).
+  * To tailor content to your preferences.
 
-**HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?**
 
-If you visit our Website and volunteer personally identifiable information, you may modify, update, or delete such information at any time by sending us an [e-mail](mailto:wolterskluwerhealth-communications@wolterskluwer.com "wolterskluwerhealth-communications@wolterskluwer.com"). In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Website.
 
-**PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET**
+Third parties serve cookies via this website. These Third Party Cookies are used for the following purposes:
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Website from those we actually know are under the age of 13, nor is any part of our Website targeted to attract anyone under 13. We request that all visitors to our Website who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
+  * To serve content on our site and track whether this content is clicked on by users. 
+  * To control how often you are shown particular content. 
+  * To count the number of anonymous users of our site. For website usage analysis.
+
+
+
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+
+You can also set your browser to block the placing of cookies at all, but you should realize that this can limit the use of our website or services. You can find more information about cookies at [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq)
+
+**Use of Information**  
+Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Policy. We may disclose your personally identifiable information where required by applicable laws, court orders, or government regulations.
+
+**E-mail address**  
+If you subscribe to our e-mail alerts, we collect your e-mail address. This address will only be used for keeping you informed as indicated. If you wish to unsubscribe from our e-mail alert list, you can do so at any moment as indicated in every e-mail you receive or by contacting us through [info@wolterskluwer.com](mailto:info@wolterskluwer.com).
+
+**Access and Correction**  
+To keep your personally identifiable information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct personally identifiable
+
+information in our possession that you have previously submitted via this site.
+
+**Security**  
+We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
+
+**Links to Other Web Sites**  
+This site may contain links or references to other web sites. Please be aware that we do not control other web sites and that, in any case, this Policy does not apply to those web sites. We encourage you to read the privacy and cookie policy of every web site you visit.
+
+**Changes**  
+Wolters Kluwer may revise this Policy. You agree to be bound by any such revisions and should therefore periodically visit this page to determine the current terms to which you are bound. This Policy has been amended for the last time in June 2012.
