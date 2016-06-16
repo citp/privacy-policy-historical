@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231053646id_/http%3A//www.agoda.com/info/agoda-privacy.html%3Fasq%3DjGXBHFvRg5Z51Emf%252fbXG4w%253d%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616165902id_/http%3A//www.agoda.com/info/agoda-privacy.html%3Fasq%3DjGXBHFvRg5Z51Emf%252fbXG4w%253d%253d) for the most accurate reproduction.*
 
 # Agoda Privacy Policy
 
