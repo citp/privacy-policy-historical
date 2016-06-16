@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225010039id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061548id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SimplyRecipes.com
 
-Simply Recipes is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Simply Recipes website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
+Simply Recipes is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website located at www.simplyrecipes.com (“Site”) and how we use that information. By using the Site, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
 #### Children Under 13:
 
@@ -10,7 +10,7 @@ We care about protecting the privacy of children. We won’t knowingly allow any
 
 #### Information We Collect:
 
-The information we gather falls into two categories: (1) information you supply when you register to receive emails or comment on the website, and (2) tracking information collected as you navigate through our site.
+The information we gather falls into two categories: (1) information you supply when you register to receive emails or comment on the Site, and (2) information collected as you navigate through our Site.
 
 #### Personally Identifying Information
 
@@ -18,46 +18,62 @@ In operating the Site, Simply Recipes may include registration, comment forms, o
 
 #### Tracking Information
 
-**Cookies.** From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
+**Cookies.** From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our Site other than cookies. Cookies and other technologies help us learn which areas of our Site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Site may be diminished and some features may not work as they were intended.
 
-**Click Tracking.** As is true of most websites, Simply Recipes gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the site, track users’ movements around the site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
+**Browser Information.** As is true of most websites, Simply Recipes gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, smart phone or tablet MAC addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
 
-**IP Addresses.** Each user’s IP address is logged with each visit and each action performed on Simply Recipes. This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
+**Device  Addresses.** Each user’s computer IP address, device MAC address, or similar address (“device address”) is logged with each visit and each action performed on the Simply Recipes Site. This information is never provided to third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. Device address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
-**Advertising.** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please click here: <http://www.networkadvertising.org/choices/>.
+**Do Not Track.** California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personal information about an individual’s online activities from their website or service. Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, we do not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals.
 
-Google, as a third-party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**Advertising; Third Party Cookies.** We use third-party advertising companies to serve ads when you visit our Site. These third parties include business partners and advertising networks, which collect information about your interests when you view or interact with one of their advertisements or with a social sharing button displayed on our Site. These third parties use cookies and other technologies to collect information about your use of the Site. The information gathered by these third parties is used to make predictions about your interest or preferences so that they can display advertisements or promotional material on this Site and on other sites across the Internet tailored to your apparent interests. These companies may have access to information about your device (such as IP or MAC address) and may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-**Participation on a Public Website.** You should be aware that any personal information you submit on Simply Recipes in the comments may be read, collected, or used by other users of this Site, including anonymous visitors.
+We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+
+For more information about this practice and to understand whether and how you may prevent the use of interest based advertising and your opt-out choices, please click here: <http://www.networkadvertising.org/choices/>.
+
+Google, as a third-party vendor, uses cookies to serve ads on this Site. Google’s use of the DART cookie enables it to serve ads based on your visit to this Site and other websites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 #### How Your Information Will Be Used:
 
-**Personal Information** We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the site. We may also use your contact information to inform you of any changes to Simply Recipes, or to send you additional information about Simply Recipes.
+**Use by Us.  **We use information about you to provide you with the products and services that you request; to respond to your questions and comments, and to measure interest in and improve our products, services, and Site. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site. We may also use your contact information to inform you of any changes to Simply Recipes, or to send you additional information about Simply Recipes.
 
-**Anonymous Information** We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+**Sharing with Third Parties.** We do not share personal information with third parties for their direct marketing purposes other than as described in this Privacy Policy. If our practices change, we will provide you with the relevant information as required by applicable law.
 
-**Use of Cookies** We may use cookies to deliver content specific to your interests. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+**Marketing Communications.** We may email you about offers for products and services that we believe may be of interest to you. If you wish to opt-out of receiving emails from us, please follow the instructions at the bottom of each email.
 
-**Disclosure of Personal Information** We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Simply Recipes, Inc., (2) protect and defend the rights or property of Simply Recipes or the users of this site, or (3) act under circumstances to protect the safety of the public or users of this site.
+**Surveys.** From time to time, we may ask you to participate in surveys designed to help us improve this Site. Any personal information that you provide in response to a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally identifying, aggregated form.
 
-#### Security
+**Employees, Third-Party Processors and Third-Party Service Providers.** We will disclose personal information to our employees, contractors, affiliates, distributors, dealers, vendors, and suppliers who process personal information on our behalf, or assist us in the provision or operation of this Site. For example, if you sign up for our newsletter, we will share this information with our mailing list service provider.
+
+**Anonymous Information.** We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+**Use of Cookies.** We may use cookies to deliver content specific to your interests or to customize your experience of the Site. Promotions or advertisements displayed on our Site may contain cookies.
+
+**Sharing or Disclosure of Personal Information.** We may share with, or disclose to third parties personal information as necessary to provide you with our services; or in connection with a corporate transaction such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. We may also disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Simply Recipes, Inc., (2) protect and defend the rights or property of Simply Recipes or the users of this Site, or (3) act under circumstances to protect the safety of the public or users of this Site.
+
+#### Security:
 
 Simply Recipes has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-#### Comments
+#### Comments:
 
-Simply Recipes may include interactive forms such as comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Simply Recipes may include interactive forms such as comments. Please remember that any information that is disclosed in these areas becomes public information. Such information may be read, collected, or used by other users of this Site, including anonymous visitors. You should exercise caution when deciding to disclose your personal information.
 
-#### Third Party Websites
+#### Visiting our Site from outside the United States:
 
-Simply Recipes may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+If you are visiting our Site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. Please be aware tat the data protection and other laws of the United States might not be as comprehensive as those in your country. However, please be assured that we take steps to ensure that your privacy is protected. By using our Site, you agree that your information may be transferred to our facilities and those third parties with whom we share it, as described in this Privacy Policy.
 
-#### Contacting Us
+#### Third Party Websites:
 
-If you have any questions about this policy, our practices related to this site, please feel contact us at the following recipes AT elise DOT com.
+The Simply Recipes Site may contain social buttons, links, graphics, or banners that link to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
 
-#### Updates and Changes
+#### Contacting Us:
 
-We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Simply Recipes and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
+This site is operated by Simply Recipes, Inc. If you have any questions about this policy, our practices related to this site, please feel contact us at the following email address: elise AT simplyrecipes DOT com.
 
-_This policy was last updated on July 24, 2008._
+#### Updates and Changes:
+
+We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you or as required by applicable laws. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
+
+_This policy was last updated on March 29, 2016._
