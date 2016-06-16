@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatecitybank.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910000234id_/https%3A//www.gatecitybank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatecitybank.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616165034id_/https%3A//www.gatecitybank.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Gate City Bank
 
@@ -115,7 +115,7 @@ However, you can contact us at any time to limit our sharing.
 ---|---  
 **Questions?** | 
 
-Call 877-243-0825  
+Call 800-423-3344  
   
 ---|---  
 **Who we are**  
