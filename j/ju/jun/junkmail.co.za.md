@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622061314id_/http%3A//www.junkmail.co.za/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070613id_/http%3A//www.junkmail.co.za/blog/privacy-policy/36771) for the most accurate reproduction.*
 
-# Junk Mail Help – Privacy Policy | Junk Mail Help -
+# Privacy Policy | Junk Mail Blog
 
 **Junk Mail Digital Privacy Statement**
 
