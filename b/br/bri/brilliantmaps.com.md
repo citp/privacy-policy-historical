@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantmaps.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216192843id_/http%3A//brilliantmaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantmaps.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616165827id_/http%3A//brilliantmaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For BrilliantMaps.com - Brilliant Maps
 
