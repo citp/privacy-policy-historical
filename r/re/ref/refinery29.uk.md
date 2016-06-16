@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the refinery29.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111523id_/http%3A//www.refinery29.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refinery29.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051525id_/http%3A//www.refinery29.uk/privacy) for the most accurate reproduction.*
 
 # R29's Privacy Policy - Your Information Is Protected on Refinery29
 
-Last updated October 1st, 2015
+Last updated November 23rd, 2015
 
 Refinery 29 Limited registered in England and Wales under company number 08279936 and with registered office at 10 John Street, London, WC1N 2EB, United Kingdom (“Refinery29” or “we”) takes your privacy extremely seriously. This privacy policy describes how we treat and use the information we collect when you visit or use our web site Refinery29.uk, mobile-optimized versions of the web site, or software applications to which this policy is linked (collectively, “Website”), including when you sign-up for our newsletters.
 
