@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205194304id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617010614id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -113,6 +113,6 @@ Thank you for visiting our website.
 
 This is the website of Afilias Technologies Ltd, a private company limited by shares, incorporated and registered in the Republic of Ireland with registered number 398040 and registered office at First Floor, Fitzwilton House, Wilton Place, Dublin 2, Ireland.
 
-Copyright © 2015 Afilias Technologies Ltd (dotMobi)
+Copyright © 2016 Afilias Technologies Ltd
 
 This is a website of Afilias Technologies Ltd, a private company limited by shares, incorporated and registered in the Republic of Ireland with registered number 398040 and registered office at Sixth Floor, 2 Grand Canal Square, Dublin 2, Ireland.
