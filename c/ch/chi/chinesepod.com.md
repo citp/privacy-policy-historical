@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143204id_/http%3A//chinesepod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616190503id_/https%3A//chinesepod.com/privacy) for the most accurate reproduction.*
 
-# Privacy · ChinesePod
+# Privacy - ChinesePod
 
 The ChinesePod privacy policy guarantees that all of your personal information is strictly private and safe from harm or abuse. All information you pass along to us while on the site is secure and strictly confidential.
 
