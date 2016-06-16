@@ -1,23 +1,16 @@
-<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2015-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204081141id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616180731id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="stylish-select"><head>
 <title>Knoll</title>
-<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
-<!--<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />-->
-<!-- meta name="viewport" content="width=1130" / -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">	
-<!-- Added By Knoll to bypass fastfonts 4/23 -->
-<link rel="stylesheet" href="https://www.knoll.com/static_resources/css/fast.fonts.async.css" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">	
+<link rel="stylesheet" href="//www.knoll.com/static_resources/css/fast.fonts.async.css" type="text/css">
 <link href="/css/fonts/font.css" type="text/css" rel="stylesheet">
-<!-- Bootstrap -->
-<!-- link href="/css/bootstrap.min.css" type="text/css" rel="stylesheet" / -->
 <link href="/css/style.css" type="text/css" rel="stylesheet">
 <link href="/css/style3.css" type="text/css" rel="stylesheet">	
 <link href="/css/reset.css" type="text/css" rel="stylesheet">
-<link href="/css/ankit.css" type="text/css" rel="stylesheet">
 <link href="/css/css3.css" type="text/css" rel="stylesheet">
 <link href="/css/stylish-select.css" type="text/css" rel="stylesheet">
 <link href="/css/style_inputs.css" type="text/css" rel="stylesheet">
@@ -29,6 +22,7 @@
 <link href="/css/advanced_textile_search_thumbs.css" rel="stylesheet" type="text/css">
 <link href="/css/jquery-ui-1.11.2-themes_smoothness.css" rel="stylesheet" type="text/css">
 <link href="/css/dp_inspiration_style.css" rel="stylesheet" type="text/css">
+<link href="/mcss/responsive.css" type="text/css" rel="stylesheet">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NP5BWZ"></script><script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
 <script type="text/javascript">
 jQuery.browser = {};
@@ -59,8 +53,11 @@ version: M[1]
 };
 }
 </script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<!-- script type="text/javascript" src="/js/bootstrap.min.js"></script -->
+<!--[if lt IE 10]>
+<script type="text/javascript">
+$.support.cors = true;
+</script>
+<![endif]-->
 <script type="text/javascript" src="/js/jquery/jquery.ui.core.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.ui.widget.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.ui.tabs.js"></script>
@@ -68,8 +65,7 @@ version: M[1]
 <script type="text/javascript" src="/js/jquery/authCheck.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.routes.bbqhashchange-min.js"></script>
 <script type="text/javascript" src="/js/plugins/jquery.fitvids.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.bxSlider.js"></script>
-<!-- <script type="text/javascript" src="/js/plugins/scroll-top.js"></script> -->
+<script type="text/javascript" src="/js/jquery/jquery.bxslider.min.js"></script>
 <script type="text/javascript" src="/js/jquery/style_inputs.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.4; filter: alpha(opacity=50); }</style>
 <script type="text/javascript" src="/js/jquery/custom.js"></script>
 <script type="text/javascript" src="/js/jquery/custom2.js"></script>
@@ -80,7 +76,6 @@ version: M[1]
 <script type="text/javascript" src="/js/jquery/jquery.stylish-select.js"></script>
 <script type="text/javascript" src="/js/jwplayer/jwplayer.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.viewport.mini.js"></script>
-<script type="text/javascript" src="/js/jquery/stickyfloat.min.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.textchange.min.js"></script>
 <script type="text/javascript" src="/js/jquery/mustache.js"></script>
 <script type="text/javascript" src="/js/jquery/planning_ideas_search.js"></script>
@@ -89,7 +84,6 @@ version: M[1]
 <script type="text/javascript" src="/js/jquery/searchLibraryMod.js"></script>
 <script type="text/javascript" src="/js/jquery/searchGlobalKeyboardControlsMod.js"></script>
 <script type="text/javascript" src="/js/jquery/searchGlobalResultsMod.js"></script>
-<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery-contained-sticky-scroll-min.js"></script>
 <script type="text/javascript" src="/js/jquery/shoppingCartCommon.js"></script>
 <script type="text/javascript" src="/js/jquery/iscroll.min.js"></script>
@@ -105,22 +99,15 @@ var popupLeft = 0;
 var modalContentSectionWidth = 0;
 var modalBannerWidth = 0;
 var playerInstance = null;
-var playerButton = null;
 $(function(){
 //stylish select
 $('#my-dropdown').sSelect(); 
-//lightbox
-//$('#gallery a').lightBoxCustom({fixedNavigation:true});
 //Add To cart Pop up
 $(".cart_close, .overlay_swatch, .cart_continue").click(function(){
 $('.overlay_swatch, .addedItemToCart').fadeOut();
+$( 'body' ).removeClass( 'hidescroll' );
 return false;
 });
-/* $(document).keyup(function(e) {
-if (e.keyCode == 27) { 
-$('.overlay_swatch, .addedItemToCart').fadeOut();
-}
-}); */
 //lightbox
 $(".slideShow_popup").hide(); 
 $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeOut();
@@ -129,17 +116,16 @@ $( document ).on( 'click', 'a.thumbs', function() {
 $('#requestHiresForm').hide();
 //if ($.browser.webkit) {
 if ($.browser.webkit || browser.webkit ) {
-//alert( "this is webkit!" );
 var currentPosition = $("body").scrollTop();
 }else{
 var currentPosition = $("html").scrollTop();
 }
-//alert(currentPosition + " px");
 $('.fileDownloadModal').css("top", currentPosition);
 $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeIn();
 var thumbDetails = $(this).closest(".swatch").children(".thumbDetails").html();
 $(".currentPopup").html(thumbDetails);
-$('.body_container').addClass('popupActive'); 
+$('.body_container').addClass('popupActive');
+$( 'body' ).addClass( 'hidescroll' );
 if ( $(this).closest(".swatch").children(".thumbDetails").length ) {
 // Reset imagePopup and child widths 
 if ( popupWidth > 0 ) {
@@ -175,15 +161,11 @@ $('a.slideshow-link').click(function(){
 $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeIn();
 $(".slideShow_popup").fadeIn();
 $('.body_container').addClass('popupActive');
+$( 'body' ).addClass( 'hidescroll' );
 return false;
 });
 $('.overlay_swatch, #closePopup, #closePopup1').click(function(){
-// Special handling for jwPlayer
 if ( playerInstance != null ) {
-//window.console && console.log( 'Removing player button: '+ playerButton );
-jwplayer().removeButton( playerButton );
-//window.console && console.log( 'Removing player instance: '+ playerInstance.id );
-//window.console && console.log( playerInstance );
 jwplayer().remove();
 playerInstance = null;
 playerButton = null;
@@ -192,12 +174,14 @@ $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeOut();
 $(".currentPopup").html("");
 $(".slideShow_popup").fadeOut();
 $('.body_container').removeClass('popupActive');
+$( 'body' ).removeClass( 'hidescroll' );
 return false;
 });
 $('.imagePopup span a').click(function(){
 $('.overlay_swatch, .fileDownloadModal, .imagePopup').fadeOut();
 $(".currentPopup").html("");
 $('.body_container').removeClass('popupActive');
+$( 'body' ).removeClass( 'hidescroll' );
 });
 $(document).on('click', '.high-res', function(){
 $('#requestHiresForm').fadeIn();
@@ -275,16 +259,6 @@ document.getElementById("memberOfMedia").value = "Yes";
 }
 document.getElementById("requestHiresForm").submit();
 }
-//$( function() {
-//	var addthis_config = {
-//	url: window.location,
-//	title: $( ".product_info h2" ),
-//	description: $( ".product_info p.description" ),
-//	services_compact: 'pinterest_share,twitter,facebook,email,tumblr,google_plusone_share,linkedin,favorites',
-//	ui_offset_top: 20,
-//	data_track_addressbar:true
-//	};
-//});
 var addthis_config = {
 image_include: "at_image"	
 };
@@ -293,11 +267,8 @@ $('.fileDownloadModal .currentPopup .searchvideoblock').each(function() {
 var getVideo = $('>div',this);
 var videoId = getVideo.attr( 'id' )+'_1';
 getVideo.attr( 'id', videoId );
-//window.console && console.log(getVideo);
 var videofile={id: getVideo.attr('id'), url:getVideo.attr('data-videoUrl'), height:getVideo.attr('data-videoHeight'),width:getVideo.attr('data-videoWidth'),image:getVideo.attr('data-videoImage')};
-//window.console && console.log(videofile); 
 playerInstance = jwplayer(videofile.id);
-playerButton = "download_" + getVideo.attr('data-videoid');
 var defaultWidth = 407;
 if(videofile.height=="" || videofile.height==null || !videofile.height) videofile.height = 281;
 if(videofile.width =="" || videofile.width==null || !videofile.width) videofile.width = defaultWidth;
@@ -315,25 +286,6 @@ width: videofile.width,
 image: videofile.image
 });	
 }
-playerInstance.addButton(
-//This portion is what designates the graphic used for the button
-"/images/download_arrow.png",
-//This portion determines the text that appears as a tooltip
-"Download Video", 
-//This portion designates the functionality of the button itself
-function() {
-//With the below code, we're grabbing the file that's currently playing
-//window.open( jwplayer().getPlaylistItem()['file'] );
-var file = jwplayer().getPlaylistItem()['file'];
-file = file.substr( file.lastIndexOf( '/' ) + 1 );
-var link = document.createElement( "a" );
-link.download = file;
-link.href = jwplayer().getPlaylistItem()['file'];
-link.click();
-},
-//And finally, here we set the unique ID of the button itself.
-playerButton
-);
 /* SITEWORK-65: Correct Videos on Product Pages.
 * Subtract default video width from current video width
 * If result > 0 add result to width of the following
@@ -358,6 +310,7 @@ $( '#videoNote' ).hide();
 } else {
 $( 'a.downloadVideo' ).attr( 'href', videofile.url );	
 $( 'a.downloadVideo' ).attr( 'target', '_blank' );	
+$( 'a.downloadVideo' ).html( 'Open Video' );	
 }
 });
 //*** video embed 
@@ -376,123 +329,106 @@ $( 'a.downloadVideo' ).attr( 'target', '_blank' );
 <script>
 dataLayer = [];
 </script>
-<script type="text/javascript" src="/foresee/foresee-surveydef.js?build=2"></script></head>
-<body style="">
+<script type="text/javascript" src="//d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js"></script></head>
+<body>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NP5BWZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NP5BWZ');</script> 
 <!-- End Google Tag Manager -->
-<!--header starts-->
-<header id="outer_header"> 
-<!-- <script type="text/javascript" src="/js/jquery/authCheck.js"></script> -->
-<section class="wrapper">
-<section id="header">
-<section class="left_header">
-<section class="contact_info">
+<section id="mobilenav" style="display:none;">
 <ul>
-<li class="first"><a href="#">1.800.343.5665</a></li>
-<!-- <li><a href="#">Help</a></li> -->
-<li><a href="/location">locations</a></li>
-</ul>
-</section>
-<a class="logo" href="/"><img src="/images/logo.png" width="148" height="52" alt="Knoll"></a>
-<section id="navigation">
-<ul>
-<li id="1347382602231" data-urlpath="/shop">
+<li class="1347382602231" data-urlpath="/shop">
 <a class="level1" href="/shop">Shop &amp; Browse</a>
 <section class="sub_menu">
 <ul>
-<li> 
+<li class="1347382602236"> 
 <a href="/shop/by-category">By Category</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
-<li>
-<a href="/shop/by-category/seating">Seating</a> 
+<li class="1404379895344">
+<a href="/shop/by-category/home-office">Home Office Sale</a> 
 </li>
-<li>
-<a href="/shop/by-category/tables">Tables</a> 
-</li>
-<li>
+<li class="1347382602571">
 <a href="/shop/by-category/knoll-classics">Classics</a> 
 </li>
-<li>
+<li class="1347382602546">
+<a href="/shop/by-category/seating">Seating</a> 
+</li>
+<li class="1347382602552">
+<a href="/shop/by-category/tables">Tables</a> 
+</li>
+<li class="1347382602574">
 <a href="/shop/by-category/outdoor">Outdoor</a> 
 </li>
-<li>
+<li class="1347382602542">
 <a href="/shop/by-category/quickship">Quickship</a> 
 </li>
-<li>
+<li class="1347382602537">
 <a href="/shop/by-category/new">New &amp; Expanded</a> 
 </li>
-<li>
-<a href="/shop/by-category/home-office">Home Office</a> 
-</li>
-<li>
-<a href="/shop/by-category/small-business">Small Business</a> 
-</li>
-<li>
+<li class="1353004975565">
 <a href="/shop/by-category/ergonomic-desk-chairs">Ergonomic Desk Chairs</a> 
+</li>
+<li class="1347382602568">
+<a href="/shop/by-category/accessories">Accessories</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
-<a href="/shop/by-category/gift-guide">Holiday Gift Guide</a>
+<li class="1352995715882">
+<a href="/shop/by-category/small-business">Small Business Sale</a>
 </li>
-<li>
-<a href="/shop/by-category/accessories">Accessories</a>
-</li>
-<li>
+<li class="1347382602558">
 <a href="/shop/by-category/files-and-storage">Files and Storage</a>
 </li>
-<li>
+<li class="1347382602561">
 <a href="/shop/by-category/floor-coverings">Floor Coverings</a>
 </li>
-<li>
+<li class="1347382602564">
 <a href="/shop/by-category/kids">Kids Furniture</a>
 </li>
 <li>
 <a class="" href="/shop/knolltextiles">Textiles</a>
 </li>
-<li>
+<li class="1347382610669">
 <a href="/shop/by-category/leather">Leather</a>
 </li>
-<li>
+<li class="1347382610973">
 <a href="/shop/by-category/felt">Felt</a>
 </li>
-<li>
+<li class="1413513012016">
 <a href="/shop/by-category/totes-and-travel-collection">Totes &amp; Travel Collection</a>
 </li>
 </ul>
 </section>
 </li>
-<li> 
+<li class="1347382602530"> 
 <a href="/shop/by-room">By Room</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
-<li>
+<li class="1347382604853">
 <a href="/shop/by-room/living-room">Living Room</a> 
 </li>
-<li>
+<li class="1347382604858">
 <a href="/shop/by-room/dining-room">Dining Room</a> 
 </li>
-<li>
+<li class="1347382606609">
 <a href="/shop/by-room/kitchen">Kitchen</a> 
 </li>
-<li>
-<a href="/shop/by-room/home-office">Home Office</a> 
+<li class="1347382604863">
+<a href="/shop/by-room/outdoor">Outdoor</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
+<li class="1347382604868">
+<a href="/shop/by-room/home-office">Home Office</a>
+</li>
+<li class="1347382606615">
 <a href="/shop/by-room/bedroom">Bedroom</a>
 </li>
-<li>
+<li class="1347382606604">
 <a href="/shop/by-room/kids">Kids</a>
-</li>
-<li>
-<a href="/shop/by-room/outdoor">Outdoor</a>
 </li>
 <li>
 <a href="/myknollgallery" target="_self">#myknoll Gallery</a>
@@ -500,402 +436,411 @@ dataLayer = [];
 </ul>
 </section>
 </li>
-<li> 
+<li class="1347382767400"> 
 <a href="/shop/by-designer">By Designer</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
-<li>
+<li class="1347383879122">
 <a href="/shop/by-designer/2x4">2x4</a> 
 </li>
-<li>
+<li class="1353012778185">
 <a href="/shop/by-designer/david-adjaye">David Adjaye</a> 
 </li>
-<li>
+<li class="1353010912318">
 <a href="/shop/by-designer/antenna-design">Antenna Design</a> 
 </li>
-<li>
+<li class="1347383879125">
 <a href="/shop/by-designer/anni-albers">Anni Albers</a> 
 </li>
-<li>
+<li class="1353006120164">
 <a href="/shop/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a> 
 </li>
-<li>
+<li class="1347382786060">
 <a href="/shop/by-designer/harry-bertoia">Harry Bertoia</a> 
 </li>
-<li>
+<li class="1352995259337">
 <a href="/shop/by-designer/irma-boom">Irma Boom</a> 
 </li>
-<li>
+<li class="1347382786084">
 <a href="/shop/by-designer/marcel-breuer">Marcel Breuer</a> 
 </li>
-<li>
+<li class="1347382786069">
 <a href="/shop/by-designer/don-chadwick">Don Chadwick</a> 
 </li>
-<li>
+<li class="1347382786087">
 <a href="/shop/by-designer/joseph-durso">Joseph D'Urso</a> 
 </li>
-<li>
+<li class="1353002661899">
 <a href="/shop/by-designer/Maria-Cornejo">Maria Cornejo</a> 
 </li>
-<li>
+<li class="1347383877637">
 <a href="/shop/by-designer/dorothy-cosonas">Dorothy Cosonas</a> 
 </li>
-<li>
+<li class="1347382786111">
 <a href="/shop/by-designer/formway-design">Formway Design</a> 
 </li>
-<li>
+<li class="1352994458104">
 <a href="/shop/by-designer/emanuela-frattini-magnusson">Emanuela Frattini Magnusson</a> 
 </li>
-<li>
+<li class="1347382786105">
 <a href="/shop/by-designer/frank-gehry">Frank Gehry</a> 
 </li>
-<li>
+<li class="1347382786093">
 <a href="/shop/by-designer/alexander-girard">Alexander Girard</a> 
 </li>
-<li>
+<li class="1347383879556">
 <a href="/shop/by-designer/suzanne-huguenin">Suzanne Huguenin</a> 
 </li>
-<li>
+<li class="1353014734185">
 <a href="/shop/by-designer/florence-knoll">Florence Knoll</a> 
 </li>
-<li>
+<li class="1347382786102">
 <a href="/shop/by-designer/jehslaub">Jehs+Laub</a> 
 </li>
-<li>
+<li class="1353011608110">
 <a href="/shop/by-designer/marc-krusin">Marc Krusin</a> 
 </li>
-<li>
+<li class="1347382786072">
 <a href="/shop/by-designer/maya-lin">Maya Lin</a> 
 </li>
-<li>
+<li class="1352996010234">
 <a href="/shop/by-designer/piero-lissoni">Piero Lissoni</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
+<li class="1347382786075">
 <a href="/shop/by-designer/ross-lovegrove">Ross Lovegrove</a>
 </li>
-<li>
+<li class="1347382786066">
 <a href="/shop/by-designer/ludwig-mies-van-der-rohe">Ludwig Mies van der Rohe</a>
 </li>
-<li>
+<li class="1347383879561">
 <a href="/shop/by-designer/abbott-miller">Abbott Miller</a>
 </li>
-<li>
+<li class="1347382786081">
 <a href="/shop/by-designer/george-nakashima">George Nakashima</a>
 </li>
-<li>
+<li class="1410025952217">
 <a href="/shop/by-designer/isamu-noguchi">Isamu Noguchi</a>
 </li>
-<li>
+<li class="1347382786114">
 <a href="/shop/by-designer/jonathan-olivares">Jonathan Olivares</a>
 </li>
-<li>
+<li class="1352995940693">
 <a href="/shop/by-designer/kari-pei">Kari Pei</a>
 </li>
-<li>
+<li class="1352996010228">
 <a href="/shop/by-designer/charles-pfister">Charles Pfister</a>
 </li>
-<li>
+<li class="1353010929143">
 <a href="/shop/by-designer/warren-platner">Warren Platner</a>
 </li>
-<li>
+<li class="1401710525847">
 <a href="/shop/by-designer/charles-pollock">Charles Pollock</a>
 </li>
-<li>
+<li class="1347383879634">
 <a href="/shop/by-designer/proenza-schouler">Proenza Schouler</a>
 </li>
-<li>
+<li class="1347382786078">
 <a href="/shop/by-designer/jens-risom">Jens Risom</a>
 </li>
-<li>
+<li class="1347383879639">
 <a href="/shop/by-designer/rodarte">Rodarte</a>
 </li>
-<li>
+<li class="1353004008963">
 <a href="/shop/by-designer/Eero-Saarinen">Eero Saarinen</a>
 </li>
-<li>
+<li class="1347382786099">
 <a href="/shop/by-designer/richard-sapper">Richard Sapper</a>
 </li>
-<li>
+<li class="1347383879801">
 <a href="/shop/by-designer/ruth-adler-schnee">Ruth Adler Schnee</a>
 </li>
-<li>
+<li class="1353006648789">
 <a href="/shop/by-designer/rich-schultz">Richard Schultz</a>
 </li>
-<li>
+<li class="1347382786117">
 <a href="/shop/by-designer/daniel-stromborg">Daniel Stromborg</a>
 </li>
-<li>
+<li class="1352994505722">
 <a href="/shop/by-designer/suno">SUNO</a>
 </li>
-<li>
+<li class="1347383879741">
 <a href="/shop/by-designer/suzanne-tick">Suzanne Tick</a>
 </li>
-<li>
+<li class="1347383948128">
 <a href="/shop/by-designer/trove">Trove</a>
 </li>
 </ul>
 </section>
 </li>
-<li> 
+<li class="1347382604751"> 
 <a href="/shop/knolltextiles">KnollTextiles </a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
-<li>
+<li> 
+<a href="/shop/knolltextiles" target="_self">KnollTextiles Home</a>
+</li>
+<li class="1347382646572">
 <a href="/shop/knolltextiles/recent-introductions">Recent Introductions</a> 
 </li>
-<li>
+<li class="1347382646577">
 <a href="/shop/knolltextiles/drapery">Drapery</a> 
 </li>
-<li>
+<li class="1347382646061">
 <a href="/shop/knolltextiles/wallcovering">Wallcovering</a> 
 </li>
-<li>
+<li class="1347382646072">
 <a href="/shop/knolltextiles/upholstery">Upholstery</a> 
 </li>
-<li>
+<li class="1347382646587">
 <a href="/shop/knolltextiles/panel-fabrics">Panel Fabrics</a> 
 </li>
-<li>
+<li class="1347382646592">
 <a href="/shop/knolltextiles/healthcare">Healthcare</a> 
-</li>
-<li>
-<a href="/shop/knolltextiles/environmental-fabrics">Environmental Fabrics</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
+<li class="1353019517085">
+<a href="/shop/knolltextiles/acoustic-tiles">Acoustic Tiles</a>
+</li>
+<li class="1347382646597">
+<a href="/shop/knolltextiles/environmental-fabrics">Environmental Fabrics</a>
+</li>
+<li class="1352993950472">
 <a href="/shop/knolltextiles/best-picks-for-the-home">Best Picks For The Home</a>
 </li>
-<li>
-<a href="/shop/knolltextiles/imago1">Imago™</a>
-</li>
-<li>
+<li class="1347382646602">
 <a href="/shop/knolltextiles/custom-solutions">Custom Solutions</a>
 </li>
-<li>
+<li class="1347382789988">
 <a href="/shop/knolltextiles/knoll-luxe">Knoll Luxe</a>
 </li>
-<li>
+<li class="1353005004593">
 <a href="/shop/knolltextiles/last-call-knolltextiles">Last Call KnollTextiles</a>
 </li>
-<li>
+<li class="1353008486225">
 <a href="/shop/knolltextiles/the-adjaye-collection-by-david-adjaye-for-knolltextiles">The Adjaye Collection</a>
 </li>
 </ul>
 </section>
 </li>
-<li> 
+<li class="1347382945135"> 
 <a href="/shop/inspiration">Inspiration</a> 
 </li>
 </ul>
 </section>
 </li>
-<li id="1347382605724" data-urlpath="/design-plan">
+<li class="1347382605724" data-urlpath="/design-plan">
 <a class="level1" href="/design-plan">Design &amp; Plan</a>
 <section class="sub_menu">
 <ul>
-<li> 
+<li class="1347382669013"> 
 <a href="/design-plan/products">Products</a> 
 <section class="sub_menu_level3 superNav superNav4c">	
 <ul class="span6">
-<li class="superNav3">By Category</li>
-<li class="superNav4"> 
+<li class="superNav3 1347382669005">By Category</li>
+<li class="superNav4 1347382669020"> 
 <a href="/design-plan/products/by-category/systems-furniture">Systems Furniture</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353002882493"> 
 <a href="/design-plan/products/by-category/spine-based-planning">Technology Walls + Spine-based Planning</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353005143737"> 
 <a href="/design-plan/products/by-category/ergonomic-products">Ergonomic Products</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352939521214"> 
 <a href="/design-plan/products/by-category/seating">Task Seating</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382669027"> 
 <a href="/design-plan/products/by-category/side-seating">Side Seating</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352939521092"> 
 <a href="/design-plan/products/by-category/lounge">Lounge Seating</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382669032"> 
 <a href="/design-plan/products/by-category/tables">Tables</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1405073212842"> 
 <a href="/design-plan/products/by-category/height-adjustable-tables/height-adjustable-desks">Adjustable Height Tables + Desks</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382669037"> 
 <a href="/design-plan/products/by-category/desks">Desks</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382669042"> 
 <a href="/design-plan/products/by-category/files-and-storage">Files and Storage</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382669047"> 
 <a href="/design-plan/products/by-category/accessories">Accessories </a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382669052"> 
 <a href="/design-plan/products/by-category/outdoor">Outdoor</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353005844953"> 
 <a href="/design-plan/products/by-category/residential">Residential</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353016104718"> 
+<a href="/design-plan/products/by-category/architectural-and-acoustic-solutions">Architectural + Acoustic Solutions</a> 
+</li>
+<li class="superNav4 1352995385176"> 
 <a href="/design-plan/products/by-brand/knolltextiles">Textiles</a>
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352995846428"> 
 <a href="/design-plan/knoll-essentials" target="_self">Knoll Essentials</a>
 </li>
 </ul>
 <ul class="span6">
-<li class="superNav3">By Application</li>
-<li class="superNav4"> 
+<li class="superNav3 1347382669017">By Application</li>
+<li class="superNav4 1347382673442"> 
 <a href="/design-plan/products/by-application/open-plan">Open Plan Environments</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673449"> 
 <a href="/design-plan/products/by-application/activity-spaces">Activity Spaces</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673454"> 
 <a href="/design-plan/products/by-application/private-office">Private Office</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673469"> 
 <a href="/design-plan/products/by-application/conference-and-meeting">Conference and Meeting</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673459"> 
 <a href="/design-plan/products/by-application/administrative-areas">Administrative Areas</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673464"> 
 <a href="/design-plan/products/by-application/reception-and-lounge">Reception and Lounge</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673474"> 
 <a href="/design-plan/products/by-application/training-and-classroom">Training and Classroom</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382673479"> 
 <a href="/design-plan/products/by-application/dining-and-cafe">Dining and Café </a> 
 </li>
 </ul>
 <ul class="span6">
-<li class="superNav3">By Designer</li>
-<li class="superNav4"> 
+<li class="superNav3 1347383616565">By Designer</li>
+<li class="superNav4 1352995123261"> 
 <a href="/design-plan/products/by-designer/adjaye">David Adjaye</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352940424707"> 
 <a href="/design-plan/products/by-designer/antenna">Antenna Design</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353006131961"> 
 <a href="/design-plan/products/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347383616635"> 
 <a href="/design-plan/products/by-designer/harry-bertoia">Harry Bertoia</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352941561727"> 
 <a href="/design-plan/products/by-designer/chadwick">Don Chadwick</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352941561834"> 
 <a href="/design-plan/products/by-designer/formway">Formway Design</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352941561951"> 
 <a href="/design-plan/products/by-designer/krusin">Marc Krusin</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352941561829"> 
 <a href="/design-plan/products/by-designer/knoll">Florence Knoll</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352941562056"> 
 <a href="/design-plan/products/by-designer/mies-van-der-rohe">Ludwig Mies van der Rohe</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352941562156"> 
 <a href="/design-plan/products/by-designer/saarinen">Eero Saarinen</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352940526801"> 
 <a href="/design-plan/products/by-designer/sapper">Richard Sapper</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353007085103"> 
 <a href="/design-plan/products/by-designer" target="_self">VIEW ALL</a>
 </li>
 </ul>
 <ul class="span6">
-<li class="superNav3">By Brand</li>
-<li class="superNav4"> 
+<li class="superNav3 1347382669010">By Brand</li>
+<li class="superNav4 1347382672101"> 
 <a href="/design-plan/products/by-brand/knolloffice">Knoll Office</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382672116"> 
 <a href="/design-plan/products/by-brand/knollstudio">KnollStudio</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382672106"> 
 <a href="/design-plan/products/by-brand/knollextra">KnollExtra</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382677097"> 
 <a href="/design-plan/products/by-brand/knolltextiles">KnollTextiles</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352994689434"> 
 <a href="/design-plan/products/by-brand/spinneybeck-design">Spinneybeck</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352994663019"> 
 <a href="/design-plan/products/by-brand/filzfelt-design">FilzFelt</a> 
 </li>
 </ul>
 </section>
 </li>
-<li> 
+<li class="1353008616518"> 
 <a href="/design-plan/planning-and-markets">Planning + Market Focus</a> 
 <section class="sub_menu_level3 superNav superNav2c">	
 <ul class="span6">
-<li class="superNav3">Planning</li>
-<li class="superNav4"> 
+<li class="superNav3 1347382801712">Planning</li>
+<li class="superNav4 1353017750417"> 
+<a href="/design-plan/planning/workplace-themes">Workplace Themes</a> 
+</li>
+<li class="superNav4 1400327169824"> 
 <a href="/design-plan/planning/revolution-workplace">r/evolution workplace™</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382801864"> 
 <a href="/design-plan/planning/open-plan">Open Plan</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352993747649"> 
 <a href="/design-plan/planning/private-offices">Private Office</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382801870"> 
 <a href="/design-plan/planning/activity-spaces">Activity Spaces</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1347382801829"> 
 <a href="/design-plan/planning/office-seating">Office Seating</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1397827562358"> 
 <a href="/design-plan/planning/ergonomics">Workplace Ergonomics</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353007236532"> 
 <a href="/design-plan/planning/knoll-residential">Residential </a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352995609366"> 
 <a href="/Typicals/search" target="_self">Planning Ideas Library</a>
 </li>
 </ul>
 <ul class="span6">
-<li class="superNav3">Market Focus </li>
-<li class="superNav4"> 
+<li class="superNav3 1347382801741">Market Focus </li>
+<li class="superNav4 1352994289676"> 
 <a href="/design-plan/market-focus/knoll-healthcare-solutions">Healthcare</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352994359826"> 
 <a href="/design-plan/market-focus/small-business-and-startups">Small Business and Startups</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352994303126"> 
 <a href="/design-plan/market-focus/higher-education">Higher Education</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352994361692"> 
 <a href="/design-plan/market-focus/knoll-for-government">Government/GSA</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352995597448"> 
 <a href="/design-plan/market-focus/canadian-federal-government">Canadian Federal Government</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352995145372"> 
 <a href="/design-plan/market-focus/knoll-for-legal">Legal</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1353004099347"> 
 <a href="/design-plan/market-focus/knoll-global-business-division">Global Business Division</a> 
 </li>
-<li class="superNav4"> 
+<li class="superNav4 1352996366828"> 
 <a href="/design-plan/market-focus/knoll-residential">Residential </a> 
 </li>
 </ul>
 </section>
 </li>
-<li> 
+<li class="1352995092657"> 
 <a href="/design-plan/resources/research" target="_self">Research</a>
 <section class="sub_menu_level3">	
 <ul class="span6">
@@ -928,119 +873,77 @@ dataLayer = [];
 </ul>
 </section>
 </li>
-<li> 
+<li class="1347382693201"> 
 <a href="/design-plan/resources">Resources</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
-<li>
+<li class="1347382697679">
 <a href="/design-plan/resources/media-bank">Media Bank</a> 
 </li>
-<li>
+<li class="1347382693206">
 <a href="/design-plan/resources/surface-finishes">Surface Finishes</a> 
 </li>
-<li>
+<li class="1347382768235">
 <a href="/design-plan/resources/project-profiles">Project Profiles</a> 
 </li>
-<li>
+<li class="1347382768241">
 <a href="/design-plan/resources/research">Research</a> 
 </li>
-<li>
+<li class="1347382768232">
 <a href="/design-plan/resources/brochures">Brochures</a> 
 </li>
-<li>
+<li class="1347382768229">
 <a href="/design-plan/resources/price-lists">Price Lists</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
+<li class="1352995568545">
 <a href="/design-plan/resources/furniture-symbols">Furniture Symbols</a>
 </li>
 <li>
 <a href="/Typicals/search" target="_self">Planning Ideas</a>
 </li>
-<li>
+<li class="1347382964039">
 <a href="/design-plan/resources/environment">Environment </a>
 </li>
-<li>
-<a href="/design-plan/resources/knoll-at-neocon-2015">NeoCon 2015</a>
+<li class="1353022287780">
+<a href="/design-plan/resources/knoll-at-neocon-2016">NeoCon 2016</a>
 </li>
-<li>
-<a href="/design-plan/teams">Teams</a>
+<li class="1352995559589">
+<a href="/design-plan/teams">Sales Teams</a>
 </li>
 </ul>
 </section>
 </li>
-<li> 
+<li class="1353006991827"> 
 <a href="/design-plan/inspiration">Inspiration</a> 
 </li>
-<li> 
-<a href="/design-plan/knoll-essentials">Knoll Essentials 2015</a> 
+<li class="1353019616457"> 
+<a href="/design-plan/knoll-essentials" target="_self">Knoll Essentials</a>
 </li>
 </ul>
 </section>
 </li>
-<li id="1347382605727" data-urlpath="/discover-knoll">
+<li class="1347382605727" data-urlpath="/discover-knoll">
 <a class="level1" href="/discover-knoll">Discover Knoll</a>
 <section class="sub_menu">
 <ul>
-<li> 
+<li class="1347382985655"> 
 <a href="/discover-knoll/news">News</a> 
 </li>
-<li> 
+<li class="1352995079503"> 
 <a href="/discover-knoll/sales-teams">Teams</a> 
 </li>
-<li> 
+<li class="1347382985679"> 
 <a href="/discover-knoll/our-story">Our Story</a> 
-<section class="sub_menu_level3">	
-<ul class="span6">
-<li>
-<a href="/discover-knoll/our-story/knoll-museum">Knoll Museum</a> 
 </li>
-</ul>
-</section></li>
-<li> 
+<li class="1347382985970"> 
 <a href="/discover-knoll/designers">Designers</a> 
 </li>
-<li> 
+<li class="1347382974903"> 
 <a href="/discover-knoll/timeline">Timeline</a> 
-<section class="sub_menu_level3">	
-<ul class="span6">
-<li>
-<a href="/discover-knoll/timeline/1920">1920</a> 
 </li>
-<li>
-<a href="/discover-knoll/timeline/1930">1930</a> 
-</li>
-<li>
-<a href="/discover-knoll/timeline/1940">1940</a> 
-</li>
-<li>
-<a href="/discover-knoll/timeline/1950">1950</a> 
-</li>
-<li>
-<a href="/discover-knoll/timeline/1960">1960</a> 
-</li>
-</ul>
-<ul class="span6">
-<li>
-<a href="/discover-knoll/timeline/1970">1970</a>
-</li>
-<li>
-<a href="/discover-knoll/timeline/1980">1980</a>
-</li>
-<li>
-<a href="/discover-knoll/timeline/1990">1990</a>
-</li>
-<li>
-<a href="/discover-knoll/timeline/2000">2000</a>
-</li>
-<li>
-<a href="/discover-knoll/timeline/2010">2010</a>
-</li>
-</ul>
-</section>
-</li>
-<li> 
+<li class="1352940356062"> 
 <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=66169&amp;p=irol-irhome" target="_self">Investor Relations</a>
 </li>
 </ul>
@@ -1057,7 +960,6 @@ return this.lastIndexOf(searchString, position) === position;
 }	
 $( document ).ready(function () {
 var url = location.pathname;
-window.console && console.log( url );
 var shopAndBrowse = "";
 if( url.indexOf( 'textile-search-results' ) > 0 ) {
 shopAndBrowse = "KnollTextiles Search Results";
@@ -1068,7 +970,672 @@ shopAndBrowse = "Textiles";
 } else if( url.indexOf( '/myknollgallery' ) >= 0 ) {
 shopAndBrowse = "myknollgallery";
 } else if( url.indexOf( '/Typicals' ) >= 0 ) {
-window.console && console.log( "Selecting Design & Plan for Typicals" );
+$( 'section#mobilenav ul li.active' ).removeClass( "active" );
+$( 'section#mobilenav ul li:first-child + li' ).addClass( "active" );
+} else {
+$( 'section#mobilenav ul li[data-urlPath]' ).each( function() {
+var urlPath = $( this ).attr( 'data-urlPath' );
+if ( url.startsWith ( urlPath ) ) {
+$( 'section#mobilenav ul li.active' ).removeClass( "active" );
+$( this ).addClass( "active" );
+var sectionName = $( this ).find( 'a' ).first().html();
+}
+});
+}
+if (shopAndBrowse.length > 0) {
+$( 'section#mobilenav ul li.active' ).removeClass( "active" );
+$( 'section#mobilenav ul li:first-child' ).addClass( "active" );
+}
+});
+</script>
+<!--header starts-->
+<header id="outer_header"> 
+<section class="wrapper">
+<section id="header">
+<div id="offerTab" class="offerTab"><span style="background: #f04e23;">Home Office Sale and Free Delivery. June 17-28.</span></div>
+<section class="left_header">
+<section class="contact_info">
+<ul>
+<li class="first"><a href="tel:18003435665">1.800.343.5665</a></li>
+<li><a href="/location">locations</a></li>
+</ul>
+</section>
+<a class="logo" href="/"><img src="//www.knoll.com/images/logo.png" data-at2x="//www.knoll.com/images/logo@2x.png" alt="Knoll"></a>
+<button class="mobileNav" type="button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> 
+<button class="cartNav" type="button"><span id="mobileCartQuantity">0</span><img src="//www.knoll.com/images/theme/shoppingCart.png" data-at2x="//www.knoll.com/images/theme/shoppingCart@2x.png"></button>
+<section id="navigation">
+<ul>
+<li class="1347382602231" data-urlpath="/shop">
+<a class="level1" href="/shop">Shop &amp; Browse</a>
+<section class="sub_menu">
+<ul>
+<li class="1347382602236"> 
+<a href="/shop/by-category">By Category</a> 
+<section class="sub_menu_level3">	
+<ul class="span6">
+<li class="1404379895344">
+<a href="/shop/by-category/home-office">Home Office Sale</a> 
+</li>
+<li class="1347382602571">
+<a href="/shop/by-category/knoll-classics">Classics</a> 
+</li>
+<li class="1347382602546">
+<a href="/shop/by-category/seating">Seating</a> 
+</li>
+<li class="1347382602552">
+<a href="/shop/by-category/tables">Tables</a> 
+</li>
+<li class="1347382602574">
+<a href="/shop/by-category/outdoor">Outdoor</a> 
+</li>
+<li class="1347382602542">
+<a href="/shop/by-category/quickship">Quickship</a> 
+</li>
+<li class="1347382602537">
+<a href="/shop/by-category/new">New &amp; Expanded</a> 
+</li>
+<li class="1353004975565">
+<a href="/shop/by-category/ergonomic-desk-chairs">Ergonomic Desk Chairs</a> 
+</li>
+<li class="1347382602568">
+<a href="/shop/by-category/accessories">Accessories</a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="1352995715882">
+<a href="/shop/by-category/small-business">Small Business Sale</a>
+</li>
+<li class="1347382602558">
+<a href="/shop/by-category/files-and-storage">Files and Storage</a>
+</li>
+<li class="1347382602561">
+<a href="/shop/by-category/floor-coverings">Floor Coverings</a>
+</li>
+<li class="1347382602564">
+<a href="/shop/by-category/kids">Kids Furniture</a>
+</li>
+<li>
+<a class="" href="/shop/knolltextiles">Textiles</a>
+</li>
+<li class="1347382610669">
+<a href="/shop/by-category/leather">Leather</a>
+</li>
+<li class="1347382610973">
+<a href="/shop/by-category/felt">Felt</a>
+</li>
+<li class="1413513012016">
+<a href="/shop/by-category/totes-and-travel-collection">Totes &amp; Travel Collection</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382602530"> 
+<a href="/shop/by-room">By Room</a> 
+<section class="sub_menu_level3">	
+<ul class="span6">
+<li class="1347382604853">
+<a href="/shop/by-room/living-room">Living Room</a> 
+</li>
+<li class="1347382604858">
+<a href="/shop/by-room/dining-room">Dining Room</a> 
+</li>
+<li class="1347382606609">
+<a href="/shop/by-room/kitchen">Kitchen</a> 
+</li>
+<li class="1347382604863">
+<a href="/shop/by-room/outdoor">Outdoor</a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="1347382604868">
+<a href="/shop/by-room/home-office">Home Office</a>
+</li>
+<li class="1347382606615">
+<a href="/shop/by-room/bedroom">Bedroom</a>
+</li>
+<li class="1347382606604">
+<a href="/shop/by-room/kids">Kids</a>
+</li>
+<li>
+<a href="/myknollgallery" target="_self">#myknoll Gallery</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382767400"> 
+<a href="/shop/by-designer">By Designer</a> 
+<section class="sub_menu_level3">	
+<ul class="span6">
+<li class="1347383879122">
+<a href="/shop/by-designer/2x4">2x4</a> 
+</li>
+<li class="1353012778185">
+<a href="/shop/by-designer/david-adjaye">David Adjaye</a> 
+</li>
+<li class="1353010912318">
+<a href="/shop/by-designer/antenna-design">Antenna Design</a> 
+</li>
+<li class="1347383879125">
+<a href="/shop/by-designer/anni-albers">Anni Albers</a> 
+</li>
+<li class="1353006120164">
+<a href="/shop/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a> 
+</li>
+<li class="1347382786060">
+<a href="/shop/by-designer/harry-bertoia">Harry Bertoia</a> 
+</li>
+<li class="1352995259337">
+<a href="/shop/by-designer/irma-boom">Irma Boom</a> 
+</li>
+<li class="1347382786084">
+<a href="/shop/by-designer/marcel-breuer">Marcel Breuer</a> 
+</li>
+<li class="1347382786069">
+<a href="/shop/by-designer/don-chadwick">Don Chadwick</a> 
+</li>
+<li class="1347382786087">
+<a href="/shop/by-designer/joseph-durso">Joseph D'Urso</a> 
+</li>
+<li class="1353002661899">
+<a href="/shop/by-designer/Maria-Cornejo">Maria Cornejo</a> 
+</li>
+<li class="1347383877637">
+<a href="/shop/by-designer/dorothy-cosonas">Dorothy Cosonas</a> 
+</li>
+<li class="1347382786111">
+<a href="/shop/by-designer/formway-design">Formway Design</a> 
+</li>
+<li class="1352994458104">
+<a href="/shop/by-designer/emanuela-frattini-magnusson">Emanuela Frattini Magnusson</a> 
+</li>
+<li class="1347382786105">
+<a href="/shop/by-designer/frank-gehry">Frank Gehry</a> 
+</li>
+<li class="1347382786093">
+<a href="/shop/by-designer/alexander-girard">Alexander Girard</a> 
+</li>
+<li class="1347383879556">
+<a href="/shop/by-designer/suzanne-huguenin">Suzanne Huguenin</a> 
+</li>
+<li class="1353014734185">
+<a href="/shop/by-designer/florence-knoll">Florence Knoll</a> 
+</li>
+<li class="1347382786102">
+<a href="/shop/by-designer/jehslaub">Jehs+Laub</a> 
+</li>
+<li class="1353011608110">
+<a href="/shop/by-designer/marc-krusin">Marc Krusin</a> 
+</li>
+<li class="1347382786072">
+<a href="/shop/by-designer/maya-lin">Maya Lin</a> 
+</li>
+<li class="1352996010234">
+<a href="/shop/by-designer/piero-lissoni">Piero Lissoni</a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="1347382786075">
+<a href="/shop/by-designer/ross-lovegrove">Ross Lovegrove</a>
+</li>
+<li class="1347382786066">
+<a href="/shop/by-designer/ludwig-mies-van-der-rohe">Ludwig Mies van der Rohe</a>
+</li>
+<li class="1347383879561">
+<a href="/shop/by-designer/abbott-miller">Abbott Miller</a>
+</li>
+<li class="1347382786081">
+<a href="/shop/by-designer/george-nakashima">George Nakashima</a>
+</li>
+<li class="1410025952217">
+<a href="/shop/by-designer/isamu-noguchi">Isamu Noguchi</a>
+</li>
+<li class="1347382786114">
+<a href="/shop/by-designer/jonathan-olivares">Jonathan Olivares</a>
+</li>
+<li class="1352995940693">
+<a href="/shop/by-designer/kari-pei">Kari Pei</a>
+</li>
+<li class="1352996010228">
+<a href="/shop/by-designer/charles-pfister">Charles Pfister</a>
+</li>
+<li class="1353010929143">
+<a href="/shop/by-designer/warren-platner">Warren Platner</a>
+</li>
+<li class="1401710525847">
+<a href="/shop/by-designer/charles-pollock">Charles Pollock</a>
+</li>
+<li class="1347383879634">
+<a href="/shop/by-designer/proenza-schouler">Proenza Schouler</a>
+</li>
+<li class="1347382786078">
+<a href="/shop/by-designer/jens-risom">Jens Risom</a>
+</li>
+<li class="1347383879639">
+<a href="/shop/by-designer/rodarte">Rodarte</a>
+</li>
+<li class="1353004008963">
+<a href="/shop/by-designer/Eero-Saarinen">Eero Saarinen</a>
+</li>
+<li class="1347382786099">
+<a href="/shop/by-designer/richard-sapper">Richard Sapper</a>
+</li>
+<li class="1347383879801">
+<a href="/shop/by-designer/ruth-adler-schnee">Ruth Adler Schnee</a>
+</li>
+<li class="1353006648789">
+<a href="/shop/by-designer/rich-schultz">Richard Schultz</a>
+</li>
+<li class="1347382786117">
+<a href="/shop/by-designer/daniel-stromborg">Daniel Stromborg</a>
+</li>
+<li class="1352994505722">
+<a href="/shop/by-designer/suno">SUNO</a>
+</li>
+<li class="1347383879741">
+<a href="/shop/by-designer/suzanne-tick">Suzanne Tick</a>
+</li>
+<li class="1347383948128">
+<a href="/shop/by-designer/trove">Trove</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382604751"> 
+<a href="/shop/knolltextiles">KnollTextiles </a> 
+<section class="sub_menu_level3">	
+<ul class="span6">
+<li> 
+<a href="/shop/knolltextiles" target="_self">KnollTextiles Home</a>
+</li>
+<li class="1347382646572">
+<a href="/shop/knolltextiles/recent-introductions">Recent Introductions</a> 
+</li>
+<li class="1347382646577">
+<a href="/shop/knolltextiles/drapery">Drapery</a> 
+</li>
+<li class="1347382646061">
+<a href="/shop/knolltextiles/wallcovering">Wallcovering</a> 
+</li>
+<li class="1347382646072">
+<a href="/shop/knolltextiles/upholstery">Upholstery</a> 
+</li>
+<li class="1347382646587">
+<a href="/shop/knolltextiles/panel-fabrics">Panel Fabrics</a> 
+</li>
+<li class="1347382646592">
+<a href="/shop/knolltextiles/healthcare">Healthcare</a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="1353019517085">
+<a href="/shop/knolltextiles/acoustic-tiles">Acoustic Tiles</a>
+</li>
+<li class="1347382646597">
+<a href="/shop/knolltextiles/environmental-fabrics">Environmental Fabrics</a>
+</li>
+<li class="1352993950472">
+<a href="/shop/knolltextiles/best-picks-for-the-home">Best Picks For The Home</a>
+</li>
+<li class="1347382646602">
+<a href="/shop/knolltextiles/custom-solutions">Custom Solutions</a>
+</li>
+<li class="1347382789988">
+<a href="/shop/knolltextiles/knoll-luxe">Knoll Luxe</a>
+</li>
+<li class="1353005004593">
+<a href="/shop/knolltextiles/last-call-knolltextiles">Last Call KnollTextiles</a>
+</li>
+<li class="1353008486225">
+<a href="/shop/knolltextiles/the-adjaye-collection-by-david-adjaye-for-knolltextiles">The Adjaye Collection</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382945135"> 
+<a href="/shop/inspiration">Inspiration</a> 
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382605724" data-urlpath="/design-plan">
+<a class="level1" href="/design-plan">Design &amp; Plan</a>
+<section class="sub_menu">
+<ul>
+<li class="1347382669013"> 
+<a href="/design-plan/products">Products</a> 
+<section class="sub_menu_level3 superNav superNav4c">	
+<ul class="span6">
+<li class="superNav3 1347382669005">By Category</li>
+<li class="superNav4 1347382669020"> 
+<a href="/design-plan/products/by-category/systems-furniture">Systems Furniture</a> 
+</li>
+<li class="superNav4 1353002882493"> 
+<a href="/design-plan/products/by-category/spine-based-planning">Technology Walls + Spine-based Planning</a> 
+</li>
+<li class="superNav4 1353005143737"> 
+<a href="/design-plan/products/by-category/ergonomic-products">Ergonomic Products</a> 
+</li>
+<li class="superNav4 1352939521214"> 
+<a href="/design-plan/products/by-category/seating">Task Seating</a> 
+</li>
+<li class="superNav4 1347382669027"> 
+<a href="/design-plan/products/by-category/side-seating">Side Seating</a> 
+</li>
+<li class="superNav4 1352939521092"> 
+<a href="/design-plan/products/by-category/lounge">Lounge Seating</a> 
+</li>
+<li class="superNav4 1347382669032"> 
+<a href="/design-plan/products/by-category/tables">Tables</a> 
+</li>
+<li class="superNav4 1405073212842"> 
+<a href="/design-plan/products/by-category/height-adjustable-tables/height-adjustable-desks">Adjustable Height Tables + Desks</a> 
+</li>
+<li class="superNav4 1347382669037"> 
+<a href="/design-plan/products/by-category/desks">Desks</a> 
+</li>
+<li class="superNav4 1347382669042"> 
+<a href="/design-plan/products/by-category/files-and-storage">Files and Storage</a> 
+</li>
+<li class="superNav4 1347382669047"> 
+<a href="/design-plan/products/by-category/accessories">Accessories </a> 
+</li>
+<li class="superNav4 1347382669052"> 
+<a href="/design-plan/products/by-category/outdoor">Outdoor</a> 
+</li>
+<li class="superNav4 1353005844953"> 
+<a href="/design-plan/products/by-category/residential">Residential</a> 
+</li>
+<li class="superNav4 1353016104718"> 
+<a href="/design-plan/products/by-category/architectural-and-acoustic-solutions">Architectural + Acoustic Solutions</a> 
+</li>
+<li class="superNav4 1352995385176"> 
+<a href="/design-plan/products/by-brand/knolltextiles">Textiles</a>
+</li>
+<li class="superNav4 1352995846428"> 
+<a href="/design-plan/knoll-essentials" target="_self">Knoll Essentials</a>
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3 1347382669017">By Application</li>
+<li class="superNav4 1347382673442"> 
+<a href="/design-plan/products/by-application/open-plan">Open Plan Environments</a> 
+</li>
+<li class="superNav4 1347382673449"> 
+<a href="/design-plan/products/by-application/activity-spaces">Activity Spaces</a> 
+</li>
+<li class="superNav4 1347382673454"> 
+<a href="/design-plan/products/by-application/private-office">Private Office</a> 
+</li>
+<li class="superNav4 1347382673469"> 
+<a href="/design-plan/products/by-application/conference-and-meeting">Conference and Meeting</a> 
+</li>
+<li class="superNav4 1347382673459"> 
+<a href="/design-plan/products/by-application/administrative-areas">Administrative Areas</a> 
+</li>
+<li class="superNav4 1347382673464"> 
+<a href="/design-plan/products/by-application/reception-and-lounge">Reception and Lounge</a> 
+</li>
+<li class="superNav4 1347382673474"> 
+<a href="/design-plan/products/by-application/training-and-classroom">Training and Classroom</a> 
+</li>
+<li class="superNav4 1347382673479"> 
+<a href="/design-plan/products/by-application/dining-and-cafe">Dining and Café </a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3 1347383616565">By Designer</li>
+<li class="superNav4 1352995123261"> 
+<a href="/design-plan/products/by-designer/adjaye">David Adjaye</a> 
+</li>
+<li class="superNav4 1352940424707"> 
+<a href="/design-plan/products/by-designer/antenna">Antenna Design</a> 
+</li>
+<li class="superNav4 1353006131961"> 
+<a href="/design-plan/products/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a> 
+</li>
+<li class="superNav4 1347383616635"> 
+<a href="/design-plan/products/by-designer/harry-bertoia">Harry Bertoia</a> 
+</li>
+<li class="superNav4 1352941561727"> 
+<a href="/design-plan/products/by-designer/chadwick">Don Chadwick</a> 
+</li>
+<li class="superNav4 1352941561834"> 
+<a href="/design-plan/products/by-designer/formway">Formway Design</a> 
+</li>
+<li class="superNav4 1352941561951"> 
+<a href="/design-plan/products/by-designer/krusin">Marc Krusin</a> 
+</li>
+<li class="superNav4 1352941561829"> 
+<a href="/design-plan/products/by-designer/knoll">Florence Knoll</a> 
+</li>
+<li class="superNav4 1352941562056"> 
+<a href="/design-plan/products/by-designer/mies-van-der-rohe">Ludwig Mies van der Rohe</a> 
+</li>
+<li class="superNav4 1352941562156"> 
+<a href="/design-plan/products/by-designer/saarinen">Eero Saarinen</a> 
+</li>
+<li class="superNav4 1352940526801"> 
+<a href="/design-plan/products/by-designer/sapper">Richard Sapper</a> 
+</li>
+<li class="superNav4 1353007085103"> 
+<a href="/design-plan/products/by-designer" target="_self">VIEW ALL</a>
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3 1347382669010">By Brand</li>
+<li class="superNav4 1347382672101"> 
+<a href="/design-plan/products/by-brand/knolloffice">Knoll Office</a> 
+</li>
+<li class="superNav4 1347382672116"> 
+<a href="/design-plan/products/by-brand/knollstudio">KnollStudio</a> 
+</li>
+<li class="superNav4 1347382672106"> 
+<a href="/design-plan/products/by-brand/knollextra">KnollExtra</a> 
+</li>
+<li class="superNav4 1347382677097"> 
+<a href="/design-plan/products/by-brand/knolltextiles">KnollTextiles</a> 
+</li>
+<li class="superNav4 1352994689434"> 
+<a href="/design-plan/products/by-brand/spinneybeck-design">Spinneybeck</a> 
+</li>
+<li class="superNav4 1352994663019"> 
+<a href="/design-plan/products/by-brand/filzfelt-design">FilzFelt</a> 
+</li>
+</ul>
+</section>
+</li>
+<li class="1353008616518"> 
+<a href="/design-plan/planning-and-markets">Planning + Market Focus</a> 
+<section class="sub_menu_level3 superNav superNav2c">	
+<ul class="span6">
+<li class="superNav3 1347382801712">Planning</li>
+<li class="superNav4 1353017750417"> 
+<a href="/design-plan/planning/workplace-themes">Workplace Themes</a> 
+</li>
+<li class="superNav4 1400327169824"> 
+<a href="/design-plan/planning/revolution-workplace">r/evolution workplace™</a> 
+</li>
+<li class="superNav4 1347382801864"> 
+<a href="/design-plan/planning/open-plan">Open Plan</a> 
+</li>
+<li class="superNav4 1352993747649"> 
+<a href="/design-plan/planning/private-offices">Private Office</a> 
+</li>
+<li class="superNav4 1347382801870"> 
+<a href="/design-plan/planning/activity-spaces">Activity Spaces</a> 
+</li>
+<li class="superNav4 1347382801829"> 
+<a href="/design-plan/planning/office-seating">Office Seating</a> 
+</li>
+<li class="superNav4 1397827562358"> 
+<a href="/design-plan/planning/ergonomics">Workplace Ergonomics</a> 
+</li>
+<li class="superNav4 1353007236532"> 
+<a href="/design-plan/planning/knoll-residential">Residential </a> 
+</li>
+<li class="superNav4 1352995609366"> 
+<a href="/Typicals/search" target="_self">Planning Ideas Library</a>
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3 1347382801741">Market Focus </li>
+<li class="superNav4 1352994289676"> 
+<a href="/design-plan/market-focus/knoll-healthcare-solutions">Healthcare</a> 
+</li>
+<li class="superNav4 1352994359826"> 
+<a href="/design-plan/market-focus/small-business-and-startups">Small Business and Startups</a> 
+</li>
+<li class="superNav4 1352994303126"> 
+<a href="/design-plan/market-focus/higher-education">Higher Education</a> 
+</li>
+<li class="superNav4 1352994361692"> 
+<a href="/design-plan/market-focus/knoll-for-government">Government/GSA</a> 
+</li>
+<li class="superNav4 1352995597448"> 
+<a href="/design-plan/market-focus/canadian-federal-government">Canadian Federal Government</a> 
+</li>
+<li class="superNav4 1352995145372"> 
+<a href="/design-plan/market-focus/knoll-for-legal">Legal</a> 
+</li>
+<li class="superNav4 1353004099347"> 
+<a href="/design-plan/market-focus/knoll-global-business-division">Global Business Division</a> 
+</li>
+<li class="superNav4 1352996366828"> 
+<a href="/design-plan/market-focus/knoll-residential">Residential </a> 
+</li>
+</ul>
+</section>
+</li>
+<li class="1352995092657"> 
+<a href="/design-plan/resources/research" target="_self">Research</a>
+<section class="sub_menu_level3">	
+<ul class="span6">
+<li> 
+<a href="/design-plan/resources/research?tp=Benchmarking%3B&amp;typ=&amp;ind=" target="_self">Benchmarking</a>
+</li>
+<li> 
+<a href="/design-plan/resources/research?tp=Change+Management%3B&amp;typ=&amp;ind=" target="_self">Change Management</a>
+</li>
+<li> 
+<a href="/design-plan/resources/research?tp=&amp;typ=Case+Studies%3B&amp;ind=" target="_self">Case Studies</a>
+</li>
+<li> 
+<a href="/design-plan/resources/research?tp=Design+%2B+Planning%3B&amp;typ=&amp;ind=" target="_self">Design + Planning</a>
+</li>
+</ul>
+<ul class="span6">
+<li>
+<a href="/design-plan/resources/research?tp=Ergonomics+%2B+Well-Being%3B&amp;typ=&amp;ind=" target="_self">Ergonomics + Well-Being</a>
+</li>
+<li>
+<a href="/design-plan/resources/research?searchtext=visual+summary" target="_self">Infographics</a>
+</li>
+<li>
+<a href="/design-plan/resources/research?tp=Products%3B" target="_self">Products</a>
+</li>
+<li>
+<a href="/design-plan/resources/research?tp=Work+Trends%3B" target="_self">Work Trends</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382693201"> 
+<a href="/design-plan/resources">Resources</a> 
+<section class="sub_menu_level3">	
+<ul class="span6">
+<li class="1347382697679">
+<a href="/design-plan/resources/media-bank">Media Bank</a> 
+</li>
+<li class="1347382693206">
+<a href="/design-plan/resources/surface-finishes">Surface Finishes</a> 
+</li>
+<li class="1347382768235">
+<a href="/design-plan/resources/project-profiles">Project Profiles</a> 
+</li>
+<li class="1347382768241">
+<a href="/design-plan/resources/research">Research</a> 
+</li>
+<li class="1347382768232">
+<a href="/design-plan/resources/brochures">Brochures</a> 
+</li>
+<li class="1347382768229">
+<a href="/design-plan/resources/price-lists">Price Lists</a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="1352995568545">
+<a href="/design-plan/resources/furniture-symbols">Furniture Symbols</a>
+</li>
+<li>
+<a href="/Typicals/search" target="_self">Planning Ideas</a>
+</li>
+<li class="1347382964039">
+<a href="/design-plan/resources/environment">Environment </a>
+</li>
+<li class="1353022287780">
+<a href="/design-plan/resources/knoll-at-neocon-2016">NeoCon 2016</a>
+</li>
+<li class="1352995559589">
+<a href="/design-plan/teams">Sales Teams</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1353006991827"> 
+<a href="/design-plan/inspiration">Inspiration</a> 
+</li>
+<li class="1353019616457"> 
+<a href="/design-plan/knoll-essentials" target="_self">Knoll Essentials</a>
+</li>
+</ul>
+</section>
+</li>
+<li class="1347382605727" data-urlpath="/discover-knoll">
+<a class="level1" href="/discover-knoll">Discover Knoll</a>
+<section class="sub_menu">
+<ul>
+<li class="1347382985655"> 
+<a href="/discover-knoll/news">News</a> 
+</li>
+<li class="1352995079503"> 
+<a href="/discover-knoll/sales-teams">Teams</a> 
+</li>
+<li class="1347382985679"> 
+<a href="/discover-knoll/our-story">Our Story</a> 
+</li>
+<li class="1347382985970"> 
+<a href="/discover-knoll/designers">Designers</a> 
+</li>
+<li class="1347382974903"> 
+<a href="/discover-knoll/timeline">Timeline</a> 
+</li>
+<li class="1352940356062"> 
+<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=66169&amp;p=irol-irhome" target="_self">Investor Relations</a>
+</li>
+</ul>
+</section>
+</li>
+</ul>
+</section>
+<script type="text/javascript">
+if (!String.prototype.startsWith) {
+String.prototype.startsWith = function(searchString, position) {
+position = position || 0;
+return this.lastIndexOf(searchString, position) === position;
+};
+}	
+$( document ).ready(function () {
+var url = location.pathname;
+var shopAndBrowse = "";
+if( url.indexOf( 'textile-search-results' ) > 0 ) {
+shopAndBrowse = "KnollTextiles Search Results";
+} else if( url.indexOf( 'cart' ) > 0 ) {
+shopAndBrowse = "Shopping Cart";
+} else if( url.indexOf( '/knolltextileproductdetail' ) >= 0 ) {
+shopAndBrowse = "Textiles";
+} else if( url.indexOf( '/myknollgallery' ) >= 0 ) {
+shopAndBrowse = "myknollgallery";
+} else if( url.indexOf( '/Typicals' ) >= 0 ) {
 $( 'section#navigation ul li.active' ).removeClass( "active" );
 $( 'section#navigation ul li:first-child + li' ).addClass( "active" );
 } else {
@@ -1078,12 +1645,10 @@ if ( url.startsWith ( urlPath ) ) {
 $( 'section#navigation ul li.active' ).removeClass( "active" );
 $( this ).addClass( "active" );
 var sectionName = $( this ).find( 'a' ).first().html();
-window.console && console.log( "Selecting "+sectionName+" for "+url );
 }
 });
 }
 if (shopAndBrowse.length > 0) {
-window.console && console.log( "Selecting Shop & Browse for "+shopAndBrowse );
 $( 'section#navigation ul li.active' ).removeClass( "active" );
 $( 'section#navigation ul li:first-child' ).addClass( "active" );
 }
@@ -1091,7 +1656,7 @@ $( 'section#navigation ul li:first-child' ).addClass( "active" );
 </script>
 </section>
 <section class="right_header">
-<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="CB5DF0D38DCE7CD5DBB3A01F60B57BCD0FD23225E0E4273C42EA1B31C4BDF8BE8E2E7552800B4C5EB2B85C02263114DB">
+<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="1C18250E96166CC3A41883E1F27AAE6C8FB780AA659B41D329D7863F421CC9CEDA1A9397D6D4C7E01517C076A39789E7">
 <input type="hidden" name="logout" value="true">
 <input type="hidden" name="c" value="Page">
 <input type="hidden" name="childpagename" value="Knoll/Knoll_SplashPageLayout">
@@ -1104,26 +1669,21 @@ $( 'section#navigation ul li:first-child' ).addClass( "active" );
 function logout() {
 //setSiteCookie("_knollguid", "", 365, "/");
 createCookie( "kv", "", -1 );
-//document.getElementById( 'logout' ).submit();
 $.ajax({
 type: "POST",
 url: '/cart/signout',
 success: function() {
-window.console && console.log( "success" );
 },
 error: function() {
-window.console && console.log("failed");
 }
 });
 $.ajax({
 type: "POST",
 url: '/myaccount/signout',
 success: function() {
-window.console && console.log( "success" );
 window.location = '/myaccount/signin';
 },
 error: function() {
-window.console && console.log("failed");
 }
 });
 }
@@ -1194,15 +1754,15 @@ display: block;
 margin: 0 auto;
 }
 </style>
-<script type="text/javascript" src="/js/jquery/jquery.ui.mouse.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.ui.position.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.ui.draggable.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.ui.resizable.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.ui.button.min.js"></script>
-<script type="text/javascript" src="/js/jquery/jquery.ui.dialog.min.js"></script>
+<script type="text/javascript" src="//www.knoll.com/js/jquery/jquery.ui.mouse.min.js"></script>
+<script type="text/javascript" src="//www.knoll.com/js/jquery/jquery.ui.position.min.js"></script>
+<script type="text/javascript" src="//www.knoll.com/js/jquery/jquery.ui.draggable.min.js"></script>
+<script type="text/javascript" src="//www.knoll.com/js/jquery/jquery.ui.resizable.min.js"></script>
+<script type="text/javascript" src="//www.knoll.com/js/jquery/jquery.ui.button.min.js"></script>
+<script type="text/javascript" src="//www.knoll.com/js/jquery/jquery.ui.dialog.min.js"></script>
 <div id="waitForIt">
 <div>
-<img src="/images/ajax_loader.gif">
+<img src="//www.knoll.com/images/ajax_loader.gif" data-no-retina="">
 </div>
 </div>
 <script type="text/javascript">	
@@ -1226,15 +1786,18 @@ $( "#waitForIt" ).dialog("open");
 </script>
 <script type="text/javascript">
 function validateGlobalSearchForm() {
-var x=document.getElementById( 'search-input' ).value;
-if( !x || x == null ) { 
-return false;
+var x = document.getElementById( 'search-input' ).value;
+if( !x || x == null ) {
+x = document.getElementById( 'search-input1' ).value;
+}
+if( !x || x == null ) {
+return false;	
 } else {
 x = negateCrossSiteScripting( x );
-$( '#search-input' ).val( x );
+$( '[id^=search-input]' ).val( x );
 x = x.replace( /\s+/g, '' );	
 if( x == "" ) {
-return false
+return false;
 }
 }
 x = x.toLowerCase();	
@@ -1315,7 +1878,7 @@ location.href = "/design-plan/resources/furniture-symbols";
 return false;
 }
 // Display please wait...
-//pleaseWaitForSearch();
+pleaseWaitForSearch();
 }
 </script>
 <form action="/search-results" method="GET" onsubmit="return validateGlobalSearchForm()" id="globalSearchForm"> 
@@ -1333,44 +1896,44 @@ return false;
 </header>
 <section class="body_container">
 <div class="allbody-wrapper">
-<!-- <a class="top pos01" href="#top"></a> -->
-<!--page sec starts-->
-<br>
 <section class="wrapper">
 <section id="page" class="pad"> 
-<article class="bodyBlock">
-<h1 class="heading">Privacy Policy</h1>
-<div class="right" style="margin-top:6px;">
-<div id="addThisToolbox" class="row form_controls at-share-tbx-element addthis_16x16_style addthis-smartlayers animated at4-show"></div>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
-<script>
-function renderAddThisToolbox() {
-if( typeof addthis !== 'undefined' ) {
-var addthis_config = {
-image_include: "at_image"
-};
-var tbx = $( "#addThisToolbox" ),
-svcs = {twitter: '', facebook: '', pinterest_share: '', linkedin: '', reddit: '', tumblr: '', email: '', print: ''};
-tbx.addClass( 'addthis_default_style' );
-tbx.attr( 'addthis:url', window.location );
-tbx.attr( 'addthis:title', 'Privacy Policy' );
-tbx.attr( 'addthis:description', '' );
-for( var s in svcs ) {
-var addThisButton = $( '<a/>' );
-addThisButton.addClass( 'addthis_button_' + s );
-tbx.append( addThisButton );
+<article class="bodyBlock shipping_detail">
+<script type="text/javascript">
+/**
+* Sets a cookie with the specified name, value, expiration and path.
+* if daysToExpire is null or 0 a session cookie will be created
+*/
+function setSiteCookie(cookieName, cookieValue, daysToExpire, path) {
+var cookie = cookieName + "=" + cookieValue;
+if ((daysToExpire != null) && (daysToExpire != "") && (daysToExpire != "null") && (daysToExpire != "0")) {
+var expirationDate = new Date();
+expirationDate.setDate(expirationDate.getDate() + daysToExpire);
+cookie += '; expires=' + expirationDate.toUTCString();
 }
-addthis.toolbox( "#addThisToolbox" );
+if ((path != null) && (path != "") && (path != "null")) {
+cookie += '; path=' + path;
+}
+document.cookie = cookie;
+}
+function getCookie(c_name) {
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++) {
+x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+x=x.replace(/^\s+|\s+$/g,"");
+if (x==c_name) {
+return unescape(y);
 }
 }
-$(window).load(function() {
-// Make sure we haven't already rendered the AddThis toolbox on this page via a separate call to renderAddThisToolbox()
-//if ($('#addThisToolbox').children('div.atclear').size() < 1) {
-renderAddThisToolbox();
-//}
-});
+}
 </script>
-</div>
+<div class="bread-wrap"><ul class="breadcumb pad"><li class="last">Privacy Policy</li></ul></div>
+<script type="text/javascript">
+setSiteCookie("_knollbreadcrumb",'|Privacy Policy:/privacy-policy/privacy-policy',0,'/'); // set the cookie as a session cookie by passing 0 as expiration.
+</script>
+<!-- end default breadcrumb logic -->
+<h1 class="heading">Privacy Policy</h1>
 <p>This Privacy Policy explains Knoll®'s policy regarding the privacy of information supplied by users or collected by us from users of this Knoll Web Site. Because we want to build users trust and confidence in this web site, we want to disclose our privacy practices.</p>
 <h3 style="padding-bottom:10px">Modifications</h3>
 <p>Since this policy may change over time as we modify or expand our services, we suggest that you check back from time to time in order to understand how we treat your information.</p>
@@ -1404,9 +1967,7 @@ East Greenville, PA 18041<br>
 </article>
 </section>
 </section>
-</div></section>
-<!--page sec ends-->
- 
+</div> 
 <!--footer template starts-->
 <!--footer starts-->
 <section id="footer_wrapper">
@@ -1422,11 +1983,11 @@ East Greenville, PA 18041<br>
 <section class="linklist width01"><h3>How to Find Us</h3><ul>
 <li class="first"><a href="/flagship-retail-shop">Knoll Home Design Shop</a></li><li class="first"><a href="/location/" target="_self">Locations</a></li><li class="first"><a href="http://www.knoll-int.com/" target="_blank">Knoll International</a></li><li class="first"><a href="/trade-accounts">Trade Accounts</a></li><li class="first"><a href="/discover-knoll/sales-teams">Sales Teams</a></li>
 </ul></section>
-<section class="linklist width01"><h3>Knoll Online</h3><ul>
-<li class="first"><a href="/shop">Shop &amp; Browse</a></li><li class="first"><a href="/design-plan">Design &amp; Plan</a></li><li class="first"><a href="/discover-knoll">Discover Knoll</a></li>
-</ul></section>
 <section class="linklist width01"><h3>Corporate Info</h3><ul>
 <li class="first"><a href="/discover-knoll/news">News</a></li><li class="first"><a href="https://knollcareers.silkroad.com/" target="_blank">Careers</a></li><li class="first"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=66169&amp;p=irol-irhome" target="_self">Investor Relations</a></li><li class="first"><a href="http://exchange.knoll.com" target="_self">Knoll Exchange</a></li>
+</ul></section>
+<section class="linklist width01"><h3>Knoll Is</h3><ul>
+<li class="first"><a href="/design-plan/products/by-brand/knolloffice">Knoll Office</a></li><li class="first"><a href="/design-plan/products/by-brand/knollstudio">KnollStudio</a></li><li class="first"><a href="/design-plan/products/by-brand/knollextra">KnollExtra</a></li><li class="first"><a href="/shop/knolltextiles">KnollTextiles</a></li><li class="first"><a href="/design-plan/products/by-brand/spinneybeck-design">Spinneybeck</a></li><li class="first"><a href="/design-plan/products/by-brand/filzfelt-design">FilzFelt</a></li><li class="first"><a href="http://www.edelmanleather.com/" target="_blank">Edelman Leather</a></li><li class="first"><a href="http://www.hollyhunt.com" target="_blank">Holly Hunt</a></li>
 </ul></section>
 <section class="footer_right">
 <section class="subscribe">
@@ -1442,17 +2003,17 @@ East Greenville, PA 18041<br>
 <section class="follow_us">
 <h3>Join Us</h3>
 <ul>
-<li><a href="http://twitter.com/knoll_inc"><img src="/images/twitter.gif" alt="twitter"></a></li>
-<li><a href="http://www.facebook.com/knollinc"><img src="/images/facebook.gif" alt="facebook"></a></li>
-<li><a href="http://instagram.com/knollinc#"><img alt="instagram" src="/images/instagram.gif"></a></li>
-<li><a href="http://knollinc.tumblr.com/"><img alt="tumblr" src="/images/tumblr_logo.gif"></a></li>
-<li><a href="http://www.youtube.com/user/knolldesign"><img src="/images/youtube.gif" alt="youtube"></a></li>
-<li><a href="http://pinterest.com/knolldesign/"><img alt="pinterest" src="/images/pinterest_logo.gif"></a></li>
-<li><a href="http://www.mymorpholio.com/site.php/home/member/id/ub6UdesHydGbfQGZ"><img src="/images/morpholio.gif" alt="morpholio"></a></li>
+<li><a href="http://twitter.com/knoll_inc"><img src="//www.knoll.com/images/twitter.gif" alt="twitter" data-no-retina=""></a></li>
+<li><a href="http://www.facebook.com/knollinc"><img src="//www.knoll.com/images/facebook.gif" alt="facebook" data-no-retina=""></a></li>
+<li><a href="http://instagram.com/knollinc#"><img alt="instagram" src="//www.knoll.com/images/instagram.gif" data-no-retina=""></a></li>
+<li><a href="http://knollinc.tumblr.com/"><img alt="tumblr" src="//www.knoll.com/images/tumblr_logo.gif" data-no-retina=""></a></li>
+<li><a href="http://www.youtube.com/user/knolldesign"><img src="//www.knoll.com/images/youtube.gif" alt="youtube" data-no-retina=""></a></li>
+<li><a href="http://pinterest.com/knolldesign/"><img alt="pinterest" src="//www.knoll.com/images/pinterest_logo.gif" data-no-retina=""></a></li>
+<li><a href="http://www.mymorpholio.com/site.php/home/member/id/ub6UdesHydGbfQGZ"><img src="//www.knoll.com/images/morpholio.gif" alt="morpholio" data-no-retina=""></a></li>
 </ul>
 <section class="nda">
 <ul>
-<li><a href="/knollnewsdetail/knoll-wins-the-prestigious-smithsonians-cooper-hewitt-national-design-award"><img alt="nda" src="/images/nda_award.gif"></a></li>
+<li><a href="/knollnewsdetail/knoll-wins-the-prestigious-smithsonians-cooper-hewitt-national-design-award"><img alt="nda" src="//www.knoll.com/images/nda_award.gif" data-no-retina=""></a></li>
 </ul>
 </section>
 </section>
@@ -1460,25 +2021,22 @@ East Greenville, PA 18041<br>
 <section class="logolist">
 <ul>
 <li class="">
-<a href="/design-plan/products/by-brand/knolloffice"><img src="/media/981/650/knolloffice_logo,0.jpg"></a>
+<a href="/design-plan/products/by-brand/knolloffice"><img src="//www.knoll.com/media/814/1007/knoll-office-logo.jpg" data-no-retina=""></a>
 </li>
 <li class="">
-<a href="/design-plan/products/by-brand/knollstudio"><img src="/media/95/26/knolltstudio_logo,0.jpg"></a>
+<a href="/design-plan/products/by-brand/knollstudio"><img src="//www.knoll.com/media/969/699/knollstudio-logo.jpg" data-no-retina=""></a>
 </li>
 <li class="">
-<a href="/design-plan/products/by-brand/knollextra"><img src="/media/345/728/knollextra_logo,0.jpg"></a>
+<a href="/design-plan/products/by-brand/knollextra"><img src="//www.knoll.com/media/807/876/knollextra-logo.jpg" data-no-retina=""></a>
 </li>
 <li class="">
-<a href="/shop/knolltextiles"><img src="/media/19/693/knolltextiles_logo.jpg"></a>
+<a href="/shop/knolltextiles"><img src="//www.knoll.com/media/481/841/knolltextiles-logo.jpg" data-no-retina=""></a>
 </li>
 <li class="">
-<a href="/shop/by-brand/knoll-kids"><img src="/media/68/631/knollkids_logo.jpg"></a>
-</li>
-<li class="">
-<a href="/design-plan/products/by-brand/spinneybeck-design"><img src="/media/826/567/Spinneybeck_logo.png"></a>
+<a href="/design-plan/products/by-brand/spinneybeck-design"><img src="//www.knoll.com/media/672/377/spinneybeck-logo.jpg" data-no-retina=""></a>
 </li>
 <li class="last">
-<a href="/design-plan/products/by-brand/filzfelt-design"><img src="/media/485/35/filzfelt_logo,0.jpg"></a>
+<a href="/design-plan/products/by-brand/filzfelt-design"><img src="//www.knoll.com/media/947/183/filzfelt-logo.jpg" data-no-retina=""></a>
 </li>
 </ul>
 </section>
@@ -1522,7 +2080,20 @@ _ltk.SCA.CaptureEmail('shipToEmail');
 _ltk.SCA.CaptureEmail('billToEmail');
 });
 </script>
-
+<!-- SessionCam Client Integration v6.0 -->
+<script type="text/javascript">
+//<![CDATA[
+var scRec=document.createElement('SCRIPT');
+scRec.type='text/javascript';
+scRec.src="//d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js";
+document.getElementsByTagName('head')[0].appendChild(scRec);
+//]]>
+</script>
+<!-- End SessionCam -->
+</section>
+<script type="text/javascript" src="/mjs/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/mjs/scripts.js"></script>
+<script type="text/javascript" src="/mjs/retina.min.js"></script>
 
 
 </body></html>
