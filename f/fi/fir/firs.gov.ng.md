@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firs.gov.ng privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101195736id_/http%3A//www.firs.gov.ng/aboutus/Pages/Privacy-Policy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firs.gov.ng privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616213644id_/http%3A//www.firs.gov.ng/aboutus/Pages/Privacy-Policy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -60,10 +60,10 @@ This website contains links to other websites.
 
 The Federal Inland Revenue Service (FIRS) is not responsible for the privacy policies or practices of any third party.
 
-Contact:  The Federal Inland Revenue Service (FIRS), No. 15 Sokode Crescent, Wuse Zone 5, Abuja.
+Contact:  The Federal Inland Revenue Service (FIRS), No. 20 Sokode Crescent, Wuse Zone 5, Abuja.
 
 If you have any questions about this privacy policy or The Federal Inland Revenue Service (FIRS)’s treatment of your personal information, please write to:
 
 By email to: oec@firs.gov.ng; or
 
-By post to: The Federal Inland Revenue Service (FIRS), No. 15 Sokode Crescent, Wuse Zone 5, Abuja.
+By post to: The Federal Inland Revenue Service (FIRS), No. 20 Sokode Crescent, Wuse Zone 5, Abuja.
