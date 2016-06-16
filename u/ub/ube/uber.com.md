@@ -1,113 +1,166 @@
-> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424215532id_/https%3A//www.uber.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616084513id_/https%3A//www.uber.com/legal/privacy/users) for the most accurate reproduction.*
 
-# Uber - Privacy Policy
+# Uber | Legal
 
-Uber Technologies, Inc. is committed to protecting our visitors’ and members’ privacy. The following Privacy Policy outlines the information Uber Technologies, Inc., (the "Company", "we", or "us") may collect and how we may use that information to better serve visitors and members while using our Web site [www.uber.com](https://www.uber.com/) and Mobile Application.
+### USER PRIVACY STATEMENT
 
-BY USING OUR WEBSITE AND MOBILE APPLICATION (COLLECTIVELY, THE "SERVICE"), YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Please review the following carefully so that you understand our privacy practices.
+Effective Date: July 15th 2015
 
-If you have questions about this Privacy Policy, please contact us at [support@uber.com](mailto:support@uber.com).
+Uber collects information about you when you use our mobile applications, websites, and other online products and services (collectively, the “Services”) and through other interactions and communications you have with us. If you reside in the United States, the Services are provided by Uber USA, LLC and its U.S. affiliates (collectively “Uber U.S.”), and this Privacy Statement applies to information collected and used by Uber U.S. If you reside outside of the United States, the Services are provided by Uber B.V., and this Privacy Statement applies to information collected and used by Uber B.V. (Uber U.S. and Uber B.V. are referred to herein collectively as “Uber” or “we”).
 
-Uber Technologies, Inc. has been awarded TRUSTe's EU Safe Harbor Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@uber.com](mailto:support@uber.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+#### Scope and Application
 
-Uber Technologies, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Uber Technologies, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Uber Technologies, Inc. certification, please visit <http://www.export.gov/safeharbor/>.
+This Privacy Statement (“Statement") applies to persons anywhere in the world who use our apps or Services to request transportation, delivery, or other on-demand services (“Users”). This Statement does not apply to information we collect from or about drivers, couriers, partner transportation companies, or any other persons who use the Uber platform under license (collectively “Drivers”). If you interact with the Services as both a User and a Driver, the respective privacy statements apply to your different interactions.
 
-## Children Under the Age of 13
+#### Collection of Information
 
-The Company cares about the safety of children. Because the Service is not directed toward kids, children under 13 are not allowed to register with or use the Service. We do not knowingly collect personal information from anyone under the age of 13. If we discover that we have collected personal information from a child under 13, we will delete that information immediately.
+##### Information You Provide to Us
 
-## Information We Collect
+We collect information you provide directly to us, such as when you create or modify your account, request on-demand services, contact customer support, or otherwise communicate with us. This information may include: name, email, phone number, postal address, profile picture, payment method, items requested (for delivery services), delivery notes, and other information you choose to provide.
 
-Upon registration with the Service (either as a consumer, partner or driver), a user profile is developed to further customize the user’s experience. The current required data fields are:
+##### Information We Collect Through Your Use of Our Services
 
-  * Email
-  * Password
-  * Name
-  * Mobile Number
-  * Zip Code
-  * Credit Card Number
-  * Expiration date & Security Code
+When you use our Services, we collect information about you in the following general categories:
+
+  * **Location Information:** When you use the Services for transportation or delivery, we collect precise location data about the trip from the Uber app used by the Driver. If you permit the Uber app to access location services through the permission system used by your mobile operating system (“platform”), we may also collect the precise location of your device when the app is running in the foreground or background. We may also derive your approximate location from your IP address.
+
+  * **Contacts Information:** If you permit the Uber app to access the address book on your device through the permission system used by your mobile platform, we may access and store names and contact information from your address book to facilitate social interactions through our Services and for other purposes described in this Statement or at the time of consent or collection.
+
+  * **Transaction Information:** We collect transaction details related to your use of our Services, including the type of service requested, date and time the service was provided, amount charged, distance traveled, and other related transaction details. Additionally, if someone uses your promo code, we may associate your name with that person.
+
+  * **Usage and Preference Information:** We collect information about how you and site visitors interact with our Services, preferences expressed, and settings chosen. In some cases we do this through the use of cookies, pixel tags, and similar technologies that create and maintain unique identifiers. To learn more about these technologies, please see our [Cookie Statement](https://web.archive.org/legal/privacy/cookies).
+
+  * **Device Information:** We may collect information about your mobile device, including, for example, the hardware model, operating system and version, software and file names and verions, preferred language, unique device identifier, advertising identifiers, serial number, device motion information, and mobile network information.
+
+  * **Call and SMS Data** : Our Services facilitate communications between Users and Drivers. In connection with facilitating this service, we receive call data, including the date and time of the call or SMS message, the parties’ phone numbers, and the content of the SMS message.
+
+  * **Log Information:** When you interact with the Services, we collect server logs, which may include information like device IP address, access dates and times, app features or pages viewed, app crashes and other system activity, type of browser, and the third-party site or service you were using before interacting with our Services.
 
 
 
-In addition, tracking information is collected as you navigate through our website (the "Website") or use the Service, including, but not limited to geographic areas. If you are traveling in a vehicle ordered via the Service, the driver’s mobile phone will record your GPS coordinates. Most GPS enabled mobile devices can define one’s location to within 50 feet. We collect this information in order to calculate your fare and do not use it for any other purpose.
 
-We also collect device type and unique identifier when you use our mobile application, we use this information for the sole purpose of providing you with the most up to date application and features. You may also choose to upload a photo while using the site or application, if you wish to do so this may be viewable by the drivers who are picking you up so that they are able to verify your identity. You may remove it or update it at anytime by logging into your account.If you use our services through your mobile device, we will track your geo-location information so that you are able to view the drivers in your area that are close to your location, set your pick up location, and our drivers are able to find the location in which you wish to be picked up from. We will not share this information with third parties for any purpose and will only use this information for the sole purpose of fulfilling your request. You may at any time no longer allow our application to use your location by turning this off at the device level.
+##### Important Information About Platform Permissions
 
-If you wish to apply for a job on our site we will collect personal information such as your name, email address, phone number and additional information such as resume, gender, and your ethnicity. We use the information collected within this area of the site to determine your qualifications for the position in which you have applied and to contact you to set up an interview.
+Most mobile platforms (iOS, Android, etc.) have defined certain types of device data that apps cannot access without your consent. And these platforms have different permission systems for obtaining your consent. The iOS platform will alert you the first time the Uber app wants permission to access certain types of data and will let you consent (or not consent) to that request. Android devices will notify you of the permissions that the Uber app seeks before you first use the app, and your use of the app constitutes your consent. To learn about the platform-level permissions that the app seeks, please visit our new [iOS Permissions](https://web.archive.org/legal/ios/permissions) page and [Android Permissions](https://web.archive.org/legal/android/permissions) page. Sometimes these permissions require more explanation than the platforms themselves provide, and the permissions we request will change over time, so we’ve created these pages to serve as authoritative and up-to-date resources for our users.
 
-To help us serve your needs better, we use "cookies" to store and sometimes track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies can be disabled or controlled by setting a preference within your web browser.
+##### Information We Collect From Other Sources
 
-Users of the Website should be aware that non-personal information and data may be automatically collected by virtue of the standard operation of the Company’s computer servers or through the use of "cookies". Cookies are files a website can use to recognize repeat users, and allow a website to track web usage behavior. Cookies take up minimal room on your computer and cannot damage your computer’s files. Cookies work by assigning a number to the user that has no meaning outside of the assigning website. Users should be aware that the Company cannot control the use of cookies (or the resulting information) by third-parties. If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. There may, however, be some features of the Service which require the use of cookies in order to customize the delivery of information to you.
+We may also receive information from other sources and combine that with information we collect through our Services. For example:
 
-The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.
+  * If you choose to link, create, or log in to your Uber account with a payment provider (e.g., Google Wallet) or social media service (e.g., Facebook), or if you engage with a separate app or website that uses our API (or whose API we use), we may receive information about you or your connections from that site or app.
 
-Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored in a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
+  * If your employer uses one of our enterprise solutions, such as Uber for Business, we may receive information about you from your employer.
 
-## How We Use Your Information
+  * When you request on demand services, our Drivers may provide us with a User rating after providing services to you.
 
-Our primary goal in collecting information is to provide you with an enhanced experience when using the Service. We use this information to closely monitor which features of the Service are used most, to allow you to view your trip history, store your credit card information on a secure page, view any promotions we may currently be running, rate trips, and to determine which features we need to focus on improving, including usage patterns and geographic locations to determine where we should offer or focus services, features and/or resources, we use the mobile information collected so that we are able to serve you the correct app version depending on your device type, for troubleshooting and in some cases marketing purposes. We use the credit card information you provide us to bill you for services.
+  * If you also interact with our Services in another capacity, for instance as a Driver or user of other apps we provide, we may combine or associate that information with information we have collected from you in your capacity as a User or rider.
 
-The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer the Website. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you.
 
-### Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+#### Use of Information
 
-### Customer Service
+We may use the information we collect about you to:
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+  * Provide, maintain, and improve our Services, including, for example, to facilitate payments, send receipts, provide products and services you request (and send related information), develop new features, provide customer support to Users and Drivers, develop safety features, authenticate users, and send product updates and administrative messages;
 
-## Targeted or Behavioral Advertising
+  * Perform internal operations, including, for example, to prevent fraud and abuse of our Services; to troubleshoot software bugs and operational problems; to conduct data analysis, testing, and research; and to monitor and analyze usage and activity trends;
 
-Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which uber.com advertisement should be displayed to a particular individual on websites other than uber.com. For example, if you have shown a preference for nursing while visiting uber.com, you may be served an advertisement from uber.com for nursing related programs when you visit a site other than uber.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from uber.com or through third party website publishers. If you would like to opt out of targeted advertising from uber.com that occurs when visiting our third party advertising publishers, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this will opt you out of targeted ads from uber.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from uber.com; however, these ads may not be as relevant to you.
+  * Send or facilitate communications (i) between you and a Driver, such as estimated times of arrival (ETAs), or (ii) between you and a contact of yours at your direction in connection with your use of certain features, such as referrals, invites, split fare requests, or ETA sharing;
 
-## Our Disclosure of Your Information
+  * Send you communications we think will be of interest to you, including information about products, services, promotions, news, and events of Uber and other companies, where permissible and according to local applicable laws; and to process contest, sweepstake, or other promotion entries and fulfill any related awards;
 
-We do not sell, share, rent or trade your personal information or geo-location information other than as disclosed within this privacy policy.
+  * Personalize and improve the Services, including to provide or recommend features, content, social connections, referrals, and advertisements.
 
-The Company may share aggregated information that includes non-identifying information and log data with third parties for industry analysis, demographic profiling and to deliver targeted advertising about other products and services.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to process payment, provide customer support, provide geo-location information to our drivers, to host our job application form, to perform Website-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Website’s features) or to assist us in analyzing how our Website and Service are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide personal information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications by contacting those third parties directly.
 
-The Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of the Company or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, an illegal, unethical or legally actionable activity.
 
-If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+We may transfer the information described in this Statement to, and process and store it in, the United States and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your personal information in accordance with this Statement.
 
-We use a third party hosting provider who hosts our support section of the site. Information collected within this section of the site is governed by our privacy policy. Our third party service provider does not have access to this information.
+#### Sharing of Information
 
-## Access to Personal Information
+We may share the information we collect about you as described in this Statement or as described at the time of collection or sharing, including as follows:
 
-If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or amend it by making the change on our member information page or by emailing us at [support@uber.com](mailto:support@uber.com). We will respond to your access request within 30 days.
+##### Through Our Services
 
-We will retain your information (including geo-location) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@uber.com](mailto:support@uber.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We may share your information:
 
-## Security
+  * With Drivers to enable them to provide the Services you request. For example, we share your name, photo (if you provide one), average User rating given by Drivers, and pickup and/or drop-off locations with Drivers;
 
-The personally identifiable and geo-location information we collect is securely stored within our database, and we use standard, industry-wide, commercially reasonable security practices such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information (credit card number and geo-location information). However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone.
+  * With other riders if you use a ride-sharing service like UberPOOL; and with other people, as directed by you, such as when you want to share your estimated time of arrival or split a fare with a friend;
 
-### Tell-A-Friend
+  * With third parties to provide you a service you requested through a partnership or promotional offering made by a third party or us;
 
-If you choose to use our referral service to tell a friend about our site or a job position, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+  * With the general public if you submit content in a public forum, such as blog comments, social media posts, or other features of our Services that are viewable by the general public;
 
-Your friend may contact us at [support@uber.com](mailto:support@uber.com) to request that we remove this information from our database.
+  * With third parties with whom you choose to let us share information, for example other apps or websites that integrate with our API or Services, or those with an API or Service with which we integrate; and
 
-### Social Media (Features) and Widgets
+  * With your employer (or similar entity) and any necessary third parties engaged by us or your employer (e.g., an expense management service provider), if you participate in any of our enterprise solutions such as Uber for Business.
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-### Public Forums
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@uber.com](mailto:support@uber.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-## Changes in this Privacy Policy
+##### Other Important Sharing
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may share your information:
 
-Contact us by postal mail:
+  * With Uber subsidiaries and affiliated entities that provide services or conduct data processing on our behalf, or for data centralization and / or logistics purposes;
 
-Uber Technologies, Inc.  
-182 Howard Street, #8  
-San Francisco, CA 94105
+  * With vendors, consultants, marketing partners, and other service providers who need access to such information to carry out work on our behalf;
+
+  * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation, or legal process;
+
+  * With law enforcement officials, government authorities, or other third parties if we believe your actions are inconsistent with our User agreements, Terms of Service, or policies, or to protect the rights, property, or safety of Uber or others;
+
+  * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or into another company;
+
+  * If we otherwise notify you and you consent to the sharing; and
+
+  * In an aggregated and/or anonymized form which cannot reasonably be used to identify you.
+
+
+
+
+The Services may integrate with social sharing features and other related tools which let you share actions you take on our Services with other apps, sites, or media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the social sharing service. Please refer to the privacy policies of those social sharing services for more information about how they handle the data you provide to or share through them.
+
+#### Analytics and Advertising Services Provided by Others
+
+We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, SDKs, and other technologies to identify your device when you visit our site and use our Services, as well as when you visit other online sites and services. For more information about these technologies and service providers, please refer to our [Cookie Statement](https://web.archive.org/legal/privacy/cookies).
+
+#### Your Choices
+
+##### Account Information
+
+You may correct your account information at any time by logging into your online or in-app account. If you wish to cancel your account, please email us at [support@uber.com](mailto:support@uber.com). Please note that in some cases we may retain certain information about you as required by law, or for legitimate business purposes to the extent permitted by law. For instance, if you have a standing credit or debt on your account, or if we believe you have committed fraud or violated our Terms, we may seek to resolve the issue before deleting your information.
+
+##### Access Rights
+
+Uber will comply with individual’s requests regarding access, correction, and/or deletion of the personal data it stores in accordance with applicable law.
+
+##### Location Information
+
+We request permission for our app’s collection of precise location from your device per the permission system used by your mobile operating system. If you initially permit the collection of this information, you can later disable it by changing the location settings on your mobile device. However, this will limit your ability to use certain features of our Services. Additionally, disabling our app’s collection of precise location from your device will not limit our ability to collect your trip location information from a Driver's device nor our ability to derive approximate location from your IP address.
+
+##### Contact Information
+
+We may also seek permission for our app’s collection and syncing of contact information from your device per the permission system used by your mobile operating system. If you initially permit the collection of this information, iOS users can later disable it by changing the contacts settings on your mobile device. The Android platform does not provide such a setting.
+
+##### Promotional Communications
+
+You may opt out of receiving promotional messages from us by following the instructions in those messages. If you opt out, we may still send you non-promotional communications, such as those about your account, about Services you have requested, or our ongoing business relations.
+
+##### Your California Privacy Rights
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Uber does not share your personally identifiable information with third parties for the third parties’ direct marketing purposes unless you provide us with consent to do so.
+
+##### Cookies and Advertising
+
+Please refer to our [Cookie Statement](https://web.archive.org/legal/privacy/cookies) for more information about your choices around cookies and related technologies.
+
+#### Changes to the Statement
+
+We may change this Statement from time to time. If we make significant changes in the way we treat your personal information, or to the Statement, we will provide you notice through the Services or by some other means, such as email. Your continued use of the Services after such notice constitutes your consent to the changes. We encourage you to periodically review the Statement for the latest information on our privacy practices.
+
+#### Contact Us
+
+If you have any questions about this Privacy Statement, please contact us at [privacy@uber.com](mailto:privacy@uber.com), or write us at Uber Technologies, Inc., Attn: Legal,1455 Market Street, Suite 400, San Francisco, CA 94103 (if you reside in the U.S.), or at Uber B.V., Attn: Legal, Vijzelstraat 68-78, 1017 HL Amsterdam, Netherlands (if you do not reside in the U.S.).
