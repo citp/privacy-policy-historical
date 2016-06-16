@@ -1,67 +1,246 @@
-> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052848id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053310id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Data Protection and Privacy Policy | Metro News
+# Privacy & Cookies Policy | Metro News
 
-This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you must not use this Site.
+This Privacy & Cookies Policy dated 17/05/2016 replaces our previous policies. Please take the time to review before you continue to use our products and services.
 
-**Collection Of Personal Information**
+This Privacy & Cookie Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy.
 
-**Collection Of Other Information**
+If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.  
+**About us**
 
-In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site.
+[**_dmg media_**](http://www.dmgmedia.co.uk/) is an international multichannel media company which is home to some of the UK’s most popular [brands](http://www.dmgmedia.co.uk/our-brands), including the Daily Mail, The Mail on Sunday, MailOnline, Metro, This Is Money, Today I’m Wearing and You Beauty Box. These brands are trading styles of Associated Newspapers Ltd.
 
-A cookie is a small text file that is placed on your computer’s hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer.
+Associated Newspapers Ltd is part of the Daily Mail and General Trust plc group (“DMGT”).  Members of the DMGT group may, use and share, within that group, the information you provide and other information held about you for the purposes set out below.   For more information about the DMGT group please see the [DMGT website](http://www.dmgt.com/) and the [DMGT Privacy Policy](http://www.dmgt.com/footer/privacy-policy).
 
-If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
+**Information we may hold about you**
 
-The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
+  * Information you’ve provided to us
+  * Information about products and services you’ve ordered, enquired about or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you, including from specialist data companies
+  * Information about your interaction with our websites, mobile apps and other products and services, including adverts
+  * Information we collect using cookies stored on your device about your use of our websites and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Your IP address, which is a number that identifies a specific network device on the internet which allows your device to communicate with websites and apps.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
-Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
-**Use Of Your Information**
 
-By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
+In line with industry best practice guidelines, we have a central database were we compile and hold all the information we have about our customers. In the industry this is often known as a “single customer view”.
 
-• Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you
+**How we may use your information**
 
-• Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting
+By using our websites, apps and other products and services, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services and developing our business which shall include (without limitation):
 
-• Communicating (and personalising such communication) with you
+  * Verifying your identity (for example when you return to our websites or mobile apps)
+  * Personalising the content and advertisements you see on our websites and apps
+  * Developing the design and style of the our products and services to make improvements
+  * Understanding more about you, such as your location and demographic information
+  * Informing you about the latest changes to our products and services
+  * Informing you of promotional offers that you might find interesting
+  * Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities
+  * Enabling you to share our content with others e.g. using “Email a friend” and “Share this article”
+  * Customer services and support
+  * Informing you if you have been successful in any competitions or promotions
+  * Compiling customer reviews
+  * Conducting market research
+  * Carrying out statistical, technical and logistical analysis and strategic development
+  * According to your preferences, communicating (and personalising such communication) with you 
+    * To send you periodic newsletters about your chosen services
+    * To send you direct marketing.  This may include communications by post, telephone or email or SMS about us and our business partners’ products and services, events and special offers
 
-• Informing you if you have been successful in any Site competitions or promotions
 
-• Compiling customer reviews
+  * To provide you with personalised services, such as providing with you with recommendations on our websites, apps and in direct marketing, and tailored advertising.  This includes where we use cookies or similar technologies in relation to the devices you use, for example to make some of the adverts you see more relevant to you
+  * To provide you with location based services such as weather information based on your location and to provide advertising relevant to your location and previous locations
+  * To provide you with advertising more relevant to your interests and your online behaviour through the use of cookies and similar technologies when you visit our websites and apps
+  * To block disruptive use and to ensure the security of our products and services
+  * To ensure the integrity of votes, competitions and polls
+  * To comply with laws and other circumstances permitted under the Data Protection Act 1998 and other data protection laws.
 
-• Conducting market research
 
-• Carrying out statistical, technical and logistical analysis
 
-**Sharing Your Personal Information**
+**How we may use your information in specific products or services**
 
-By using the Site, you agree that we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies.
+**_Registration_**
 
-Subject to obtaining your consent, we may also supply personal information about you to third parties.
+If you’ve registered on our websites or apps, you’ll receive personalised recommendations, newsletters and marketing. These are tailored to you based upon your registration details and other information you provide us, your browsing history interactions with our emails and information we receive from our trusted partners and specialist data companies to help us understand what you might be interested in. This information may be collected using cookies and similar technologies. Please see our Cookie Policy below for more details.
 
-We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information.
+**_Message boards, blogs and other public forums_**
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+Our websites may provide message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. Please see our [Terms _ _ and House Rules](https://web.archive.org/terms) for more information.  
+**_“Email a friend” and “share this article”_**
 
-**Safeguards And Security**
+Before you use “email a friend” or “share this article” buttons please make sure that anyone you wish to email or share with are happy for this to occur and expect to receive the email or article. You may only share the details of another person with us where you have their express permission.
 
-No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site.
+**_Location based services_**
 
-However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology.
+Where we provide services that utilise your device’s location, such as local weather or news, your location will be determined either from a lookup of your IP address in a “GeoIP” database which lists information provided by your ISP (usually your closest town or borough) or your precise location directly from the device (such as through GPS or Wifi on mobile devices) where you have granted permission for us to access this location information. If you have given us permission to use your location, we may use it for marketing and advertising purposes.
 
-In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date.
+**_Push and in-app notifications on apps_**
 
-For more information on the Data Protection Act 1998 and your related rights please see <http://www.legislation.gov.uk/ukpga/1998/29/contents>
+Where you install one of our apps on your mobile device, this may use push notifications or in-app notifications. These notifications are used for a variety of reasons, for example push notifications may be used to trigger an automatic download of new content (such as a new edition) or to send you an update on a new “editorial” or a breaking news message. Please see the app download or install page for each app for more information on how it uses notifications. Within the app, you may be able to select to receive only certain types of notifications.
 
-**Accessing Your Personal Information**
+**_Tailored advertising_**
 
-If you wish to review or receive copies of the personal information we hold about you, or have any other queries please write to us (including full details of your request) at:
+We use advertising to fund our websites and apps. Some advertising is “contextual” meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your device’s browsing history. This information is collected through the use of cookies and similar technologies. You may opt-out of online behavioural advertising at any time, please see our Cookies Policy for details.
 
-Legal Dept. Associated Newspapers Limited Northcliffe House 2 Derry Street London W8 5TT
+Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own website.
 
-We may charge a small administration fee in relation to fulfilling a request for access to personal information.
+Other times we will arrange for our customers to be shown advertisements on our own or other websites or apps. These advertisements are tailored to you with information we have obtained from your browsing on our websites and apps and from information about your likely interests that we obtain from our partners and specialist data companies, where they have your permission to share this information with us in line with their privacy policies.
+
+Where we arrange for our customers to be shown advertisements, we use technological and contractual mechanisms to protect your cookie data and to ensure that your browsing data used for advertising is not used by advertisers or other website owners for other purposes, such as linking online behavioural advertising data with your contact details, unless you have provided the advertiser or other website with your express permission to do this.
+
+If you have registered on our websites or apps, we may analyse the information we hold on you in aggregate with our other customers to improve our advertising systems.
+
+When you are shown an advertisement, our advertising systems do not know who you are or your contact details (such as your name, email address or postal address).
+
+Where you have granted permission to access your device’s location to us, our advertising partners or specialist data companies, this location information may be used to tailor the advertising you receive, including showing you certain advertisements when you are in the vicinity of a particular location.
+
+**How we may share your information**
+
+We may share information about you with suppliers that we engage to help us provide the services and/or functionality, e.g. online payment processing and suppliers of any of the goods or services that you buy. We will use reasonable endeavours to ensure these third parties process your data securely.
+
+As discussed above, we may share your personal information with other companies within the DMGT group of companies
+
+We may also share personal information about you to third parties, where you have given us permission or where the third party can confirm that they have your permission for us to do this.
+
+We may also provide third parties with certain aggregate statistical data about our customers’ use of our websites and apps, which may include demographic data such as age range and/or geographic location of groups of our customers. This aggregate data does not include contact details (such as the customer’s name or postal address).
+
+We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
+
+We may also share your information as required by law and as contemplated by the Data Protection Act 1998 and other data protection laws.
+
+**Safeguards and security for your information**
+
+We have measures in place to protect the security of your personal information from unauthorised access or use, such as by using encryption technology.
+
+We comply with the Data Protection Act 1998 and related data protection laws. For more information on the Data Protection Act 1998 and your related rights please see the Information Commissioner’s Office website [www.ico.gov.uk](http://www.ico.gov.uk/).
+
+**Your choices**
+
+Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences. For your cookie choices, please the Cookies Policy below.
+
+**_Email & SMS marketing_**
+
+You can opt out of a particular marketing campaign or newsletter subscription by clicking on the ‘unsubscribe’ link in each email.
+
+Your can opt-out of marketing text messages by replying ‘STOP’.
+
+In accordance with industry best practice guidelines, we may retain your information for a reasonable amount of time to make sure that we do not contact you in the future.
+
+**_Use of your location_**
+
+You can choose whether to provide us with your precise location from your device through your browser’s “Help” menu, or through the “Location” or “Location Services” in the Settings on your mobile device.
+
+**_Use of push notifications_**
+
+You will be prompted to choose whether to receive push notifications the first time you run each app, and you can update your preferences at any time through Settings on your device.
+
+**Cookies Policy**  
+You should be aware that when you use our websites and apps we may collect information using cookies or similar technologies.
+
+When you visit our pages on social media or other websites, the social media site or other website may also use cookies in line with their own cookies policies.
+
+**_What are cookies and how do they work?_**
+
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you. This allows websites to tailor what you see on the screen.
+
+**_Do you use other technologies which are similar to cookies?_**
+
+Our websites, apps and emails often contain small invisible images known as ‘web beacons’ or ‘tracking pixels’. These are used in a way similar to cookies, to understand when a particular part of a webpage, email or app is viewed.
+
+Our apps often use device identifiers in the same way as cookies as used on web browsers. A device identifier is a unique number on your device which allow us to remember your device.
+
+We use these similar technologies on websites, emails and apps, for the same purposes and in much the same way as we use cookies on websites. We will use “cookies” and “websites” below as shorthand for “cookies and similar technologies” on “websites, emails and in apps”.
+
+**_What do you use cookies for?_**
+
+Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+**_(i) Cookies that are needed to provide the service you have asked for  _**
+
+Some cookies are essential so you can move around the website and use its features. Without these cookies, services you’ve asked for can’t be provided. These cookies don’t gather information about you that could be used for marketing or remembering your browsing history. For example:
+
+  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
+  * When you add something to the online shopping basket, cookies make sure it’s still there when you get to the checkout.
+
+
+
+**(ii) _Cookies used to improve your browsing experience_**
+
+These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. For example:
+
+  * Remembering your preferences and settings, including marketing preferences.
+  * Remembering if you’ve filled in a survey, so you’re not asked to do it again.
+  * Showing you information that’s relevant to products of ours that you have.
+  * Showing ‘related article’ links that are relevant to the page you’re looking at.
+  * Remembering a location you’ve provided us with to provide local weather forecasts.
+  * Linking your browsing history collected by analytics cookies to your registration details to provide you with recommended content and marketing
+  * Restricting the number of times you’re shown a particular advertisement. This is sometimes called ‘frequency capping’.
+
+
+
+Cookies are also used to enable social media components on our websites, such as embedded content from social media sites such as Facebook or Twitter, share buttons and videos. The cookies are set by the relevant social media provider. For more information about these cookies, including how to set your preferences for these cookies, please refer to the relevant social media provider’s website for more information.
+
+**(iii)** ** _Cookies used to understand how people use our products and services (_** ** _Analytics)_**
+
+We like to keep track of what pages, links and sections of our apps are popular and which ones don’t get used so much to help us keep our sites relevant and up to date. It’s also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get ‘error messages’ from web pages.
+
+We use cookies, which are often called ‘analytics cookies’, to gather this information. These cookies don’t store you contact details (such as your name or postal address). We may, however, combine information collected by analytics cookies with other information that you provide to us. For instance, if you have registered for an account with us, we may combine your contact details other information you provide us with the browsing history from your device collected by analytics cookies (including data collected from before you registered and when you are signed-out). We use this information to provide you with personalised content recommendations and marketing communications. We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems.
+
+**_(iv)_** ** _Cookies_** ** _used to show advertising that is relevant to you_**
+
+Some advertising, known as “online behavioural advertising” or “OBA” is tailored to you and uses information collected by first party and third party cookies. Please see our _Privacy Policy_ above for further information about how we use online behavioural advertising.
+
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+
+We also use cookies on our own and advertisers’ sites to understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is.
+
+In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called “ad verification”. ** _ _**
+
+Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral.
+
+**Your cookie choices**
+
+Please note that our website, apps and other products and services may not work correctly (or at all) if you change your preferences.
+
+You can opt-out of receiving cookies by changing your web browser settings. For more information on how to achieve this, please see our [Privacy Policy and Cookies FAQ’s](https://web.archive.org/privacypolicyfaq).
+
+You can usually prevent the operation of web-beacons by changing your web-browser cookie settings and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display”). See the “Help” section of your email client for instructions. You can opt-out of analytics cookies on this website on our “Controlling online behavioural advertising and other third party cookies” page. Where you use our apps, similar technologies to cookies are used for analytics. Is it not presently possible to opt-out of these similar technologies. If you are not happy to be included in our analysis, please do not use our apps.
+
+**Your ad choices**
+
+You can opt-out of online behavioural advertising cookies on this website on our “[Controlling online behavioural advertising and other third party cookies](https://web.archive.org/cookiesoptout)” page.
+
+When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting ‘Limit Ad Tracking’ in the Settings of your Apple iPhone or iPad, or the “Opt out of interest-based ads” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “Advertising ID”) in the Settings on your Apple or Android device.
+
+Please note that you will continue to receive advertising, however, it may not be tailored to your likely interests using information collected from cookies and similar technologies on your device.  
+**Contacting us and accessing your personal information**
+
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:
+
+If you wish to review or receive a copy of the personal information we hold about you, please write to us at:
+
+Data Protection Officer
+
+Commercial Legal Department
+
+Associated Newspapers Limited
+
+Northcliffe House
+
+2 Derry Street
+
+London
+
+W8 5TT
+
+United Kingdom  
+We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.
+
+**Changes to this Privacy & Cookies Policy**
+
+We reserve the right to make changes to our Privacy & Cookies Policy. Where changes are made, we will post the revised Policy here with an updated effective date. Your continued use of our websites, apps, or other products or services will signify your acceptance of these changes. ** **
