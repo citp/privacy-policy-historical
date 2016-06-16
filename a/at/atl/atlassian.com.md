@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208031535id_/https%3A//www.atlassian.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052212id_/https%3A//www.atlassian.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlassian
+
+_Effective starting: June 23, 2015_  ([view archived versions](https://www.atlassian.com/legal/archives/))
+
+## Introduction
+
+This Privacy Policy explains what information Atlassian Pty Ltd and its related entities ("Atlassian") collect about you and why, what we do with that information, how we share it, and how we handle the content you place in our products and services. It also explains the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Scope of Privacy Policy
 
@@ -209,6 +215,8 @@ If you have any questions or concerns about our data use practices pertaining to
 The TRUSTe program covers our collection, use and disclosure of information through HipChat's website, web application, and mobile application, but not through any software downloaded from our site or other hosted products.
 
 [](https://privacy.truste.com/privacy-seal/Atlassian-Pty-Ltd/validation?rid=5c657897-2b36-484f-a891-1faf8105ac38 "TRUSTe Privacy Certification")
+
+ 
 
 **E.U. Safe Harbor for HipChat** :
 
