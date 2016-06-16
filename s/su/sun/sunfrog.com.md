@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunfrog.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924063216id_/https%3A//www.sunfrog.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunfrog.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616153308id_/https%3A//www.sunfrog.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
 
 # SunFrog - Privacy Policy
 
