@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsrun.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172744id_/http%3A//www.letsrun.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsrun.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616165309id_/http%3A//www.letsrun.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LetsRun.com Privacy Policy
 
