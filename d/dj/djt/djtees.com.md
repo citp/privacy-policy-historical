@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djtees.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204101357id_/http%3A//www.djtees.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djtees.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616224054id_/http%3A//www.djtees.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - DJTees T-shirts that Rock
+# Privacy Policy | DJTees T-shirts that Rock
 
 This policy covers how we use your personal information. We take your privacy SERIOUSLY and will take all measures to protect your personal information.
 
