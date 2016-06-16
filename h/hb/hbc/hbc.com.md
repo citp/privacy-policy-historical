@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hbc.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210015742id_/http%3A//www3.hbc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbc.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053020id_/http%3A//www3.hbc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hudson's Bay Company
 
-**PRIVACY POLICY**  
+**PRIVACY POLICY**
 
 **Hudson’s Bay Company and Your Privacy**
 
@@ -155,12 +155,6 @@ We conduct video surveillance at our stores for security, fraud and loss prevent
 To obtain a copy of the Hudson’s Bay Privacy Policy, request a correction or to review your personal information, withdraw your consent to the use of your personal information or to ask questions about privacy at Hudson’s Bay, contact the Hudson’s Bay Privacy Office at:
 
 Hudson’s Bay Privacy Office
-
-P.O. Box 4135 Station A
-
-Toronto, Ontario
-
-M5W 3B7
 
 1-866-225-8251[](http://www3.hbc.com/privacy/# "Call: 1-866-225-8251")
 
