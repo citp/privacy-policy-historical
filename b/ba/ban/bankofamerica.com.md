@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211031200id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616073135id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
 
 # Bank of America Privacy and Security
 
@@ -112,11 +112,11 @@ You may set your choices for advertising in the following ways:
 
 Opting out also means that the online content and advertising you receive on our non-servicing sites (i.e. before sign-in) will be untailored and will not be based on your online behavior or your relationship.
 
-Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America.  When accessing online account servicing areas (i.e. after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.  In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements. See **Important Reminder** section below.
+Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America. When accessing online account servicing areas (i.e. after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships. In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements. See **Important Reminder** section below.
 
 **Bank managed Direct Marketing:**   If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing [choices online](https://secure.bankofamerica.com/customer/public/privacy.go)  or:
 
-  * by telephone at 1.888.341.5000 -our menu will prompt you through the choices,
+  * by telephone at 888.341.5000 — our menu will prompt you through the choices,
   * through your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer) or a representative at a banking center
 
 
