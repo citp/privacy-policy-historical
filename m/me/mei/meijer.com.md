@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230135721id_/http%3A//www.meijer.com/Privacy___Security.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616111827id_/http%3A//www.meijer.com/Privacy___Security.cms) for the most accurate reproduction.*
 
-# Privacy & Security | Meijer | Meijer.com
+# Privacy & Security | Meijer.com
 
 ###  Introduction
 
-We collect personal information on our websites and through our various promotional programs including, but not limited to, mPerks, text alerts, voice messaging alerts, email messaging coupons, and postal mailers ("Promotional Programs"). The following privacy policy (the "Policy") applies to the Meijer website located at www.meijer.com (the "Site") and all other sites, services, mobile applications, platforms and tools where this Policy appears or is linked(collectively the "Sites"), personal information we may collect from you at our stores, all Meijer Promotional Programs, and generally to Meijer's collection of personal information. Unless otherwise provided on the applicable website, this Policy does not apply to any websites linked to the Sites operated by our retail partners, including, but not limited to the following retail partner: Meijer Optical (US Vision). This Policy also does not apply to any websites linked to the Sites operated by our partners providing financial products and or specialty services to our customers, including, but not limited to the following partners: Meijer credit cards and charge cards (Comenity Bank), and the SIMPLR Protection Plans available for certain customer purchases (N.E.W.). These websites are not owned or operated by us and not under our control. They have their own privacy policies. You may want to review the privacy policies of these sites and how they collect and use personal information. Additionally, your use of the Sites is subject to our Terms and Conditions of Use located at:   
+We collect personal information on our websites and through our various promotional programs including, but not limited to, mPerks, text alerts, voice messaging alerts, email messaging coupons, and postal mailers ("Promotional Programs"). The following privacy policy (the "Policy") applies to the Meijer website located at www.meijer.com (the "Site") and all other sites, services, mobile applications, platforms and tools where this Policy appears or is linked(collectively the "Sites"), personal information we may collect from you at our stores, all Meijer Promotional Programs, and generally to Meijer's collection of personal information. Unless otherwise provided on the applicable website, this Policy does not apply to any websites linked to the Sites operated by our retail partners, including, but not limited to the following retail partner: Meijer Optical (US Vision). This Policy also does not apply to any websites linked to the Sites operated by our partners providing financial products and or specialty services to our customers, including, but not limited to the following partners: Meijer credit cards and charge cards (Comenity Bank), and the SIMPLR Protection Plans available for certain customer purchases (Asurion). These websites are not owned or operated by us and not under our control. They have their own privacy policies. You may want to review the privacy policies of these sites and how they collect and use personal information. Additionally, your use of the Sites is subject to our Terms and Conditions of Use located at:   
 [www.meijer.com/Legal_Notice.cms](http://www.meijer.com/Legal_Notice.cms). 
 
-Please note that the Pharmacy portion of our Site has its own notice of privacy practices because of requirements by the federal government. You can review that notice at the following link: [www.meijer.com/pharmacy](http://www.meijer.com/pharmacy).
+Please note that the Pharmacy portion of our Site has its own notice of privacy practices because of requirements by the federal government. You can find that notice linked to the Meijer Pharmacy webpage located at: [www.meijer.com/pharmacy](http://www.meijer.com/pharmacy)
 
 ###  Privacy and Security
 
@@ -26,7 +26,17 @@ Meijer has adopted policies that govern our collection and use of personal infor
 
 In addition to collecting personal information on our Sites and through the Promotional Programs, we also collect personal information from Meijer in-store transactions and data provided by third parties. At times we match personal information we collect from users of the Sites and our Promotional Programs with this offline data in order to carry out our services and conduct target advertising and promotions more effectively. 
 
-###  How Do We Use Your Personal Information?
+### Interest-Based Advertising Choices
+
+Meijer uses "interest-based" advertising to deliver personalized ads to you. In order to enable these ads, Meijer or its partners may place browser "cookies" on your computer and use other technologies, as noted in this Privacy Policy, in order to recognize your browser across the web. We adhere to the Digital Advertising Alliance principles ad guidelines regarding interest-based advertising. This means you have choices about whether certain information collected on websites, including Meijer's, is used to customize advertising based on predictions generated from your visits over time and across different websites and apps. When you see this icon  on an advertisement you can click on the icon to see additional information on the companies and data practices that were used to deliver the ad and a description of how you may opt out of these advertising programs. 
+
+You may visit Digital Advertising Alliance's Consumer Choices to learn more or to opt-out of the interest-based advertising activities of a significant number of parties. The opt-out provided by the Network Advertising Initiative (NAI) <http://www.networkadvertising.org/choices/> provides additional opt-out options. Similarly, many mobile devices offer controls you can set to limit the use of interest-based information for ad serving that is collected across mobile apps. Another way to make ad choices on mobile devices is using the Digital Advertising Alliance's "App Choices" app, described here: <https://itunes.apple.com/us/app/appchoices/id894822870?mt=8>. 
+
+Please note that many opt outs use browser cookies or device controls and are specific to the device and browser you are using. If you change web browsers or devices or delete the cookies on your computer, you may need to opt out again.
+
+You also can limit the collection of certain website information by deleting or disabling cookies. Most computers' Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Disabling cookies may prevent you from using specific features on our sites and other websites, such as ordering products or services and maintaining an online account. Cookies must be enabled, however, for you to use certain services as well as for the opt-out provided by the Digital Advertising Alliance to work.
+
+### How Do We Use Your Personal Information?
 
   * All personal information that we collect may be used to improve our Sites, used to customize the content or layout of our Sites pages for individual visitors, used to notify customers about updates to the Sites, used by us and our service providers to contact customers for marketing purposes, used to communicate with our customers about their orders or accounts (transactional and administrative messages), and used for product recalls. 
   * We may also share your personal information with our strategic partners and other third parties that perform services or functions on our behalf (such as credit card payment processing, and order processing, fulfillment and delivery), but their activities are subject to appropriate confidentiality obligations. We may also share aggregated data with these parties. Aggregated data is gathered from many different customers and does not contain any personal information. 
@@ -98,6 +108,6 @@ Phone:
 ###  Policy Revisions and Updates
 
   * This Policy will continue to be reviewed and revised as changes occur in Meijer's business and technology or to laws that affect this policy. All information collected is subject to the privacy policy in effect at the time of use. Changes will be posted on the Sites with an updated effective date. Please check our Sites periodically to see the current policy. 
-  * Last Revision Date: May 22, 2015 
+  * Last Revision Date: May 8, 2016 
 
 
