@@ -1,0 +1,661 @@
+<!--The following is the downloaded HTML source of the theeroticreview.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616051530id_/http%3A//www.theeroticreview.com/info_policies/privacyPolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 2 --><head>
+
+    
+
+
+<title>The Erotic Review </title>
+<!--http://www.theeroticreview.com/-->
+
+<meta name="description" content="The Erotic Review is the top community of escorts, hobbyists and service providers.  Find escort reviews, site reviews, discussion boards, live chat and guides.">
+<meta name="keywords" content=",escort,review,reviews,escorts,service,provider,chicago,las vegas,toronto,female,atlanta,dallas,houston,new york,united states,canada,vancouver,boston,escort,call,girl,massage,review,reviews,ter,TER,ohio,tree house park,treehousepark,world sex guide,the big dog,the Big doggie,aspd,red book,my red book,Captain 69">
+
+<meta name="copyright" content="Copyright © 2005-2010 Treehouse Park, S.A. All rights reserved.">
+<meta name="rating" content="RTA-5042-1996-1400-1577-RTA">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/kbcecmmckgcpknjccmipoakkajjppmif">
+<link rel="stylesheet" type="text/css" href="/Library/style/reset-min.css">
+
+<link rel="stylesheet" type="text/css" href="/Library/style/style.css?h=1">
+<link rel="stylesheet" type="text/css" href="/Library/style/style2.css">
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/Library/style/style-ie6.css" />
+   	<script type="text/javascript" src="/Library/script/dd_belatedpng_0.0.8a-min.js"></script>
+	<script type="text/javascript" src="/Library/script/iefix.js"></script>
+
+<![endif]-->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/Library/style/style-ie7.css" />
+<![endif]-->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Library/script/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/Library/script/fixpng.js"></script>
+<script type="text/javascript" src="/_includes/js/help_popup.js"></script>
+<script type="text/javascript" src="/_includes/js/main.js"></script>
+<script type="text/javascript" src="/_includes/chat_scripts/childs.js"></script>
+<script type="text/javascript" src="/_includes/im_scripts/RunContactList.js"></script>
+
+<!--<script src="/_includes/js/prototype.js" type="text/javascript"></script>-->
+
+<script src="/_includes/chat_scripts/RunChat.js" type="text/javascript"></script>
+<script type="text/javascript" src="/_includes/js/swfobject1.2.js"></script>
+<script type="text/javascript">
+<!--
+//     $(document).ready(function(){
+//        $("body").fixPng("/Library/style/i/trans.gif");
+//        var n = $(".sub .cols li").length;
+//        $(".sub").css('width', Math.round(n / 12) * 120);
+//        $(".sub-top-bg").css('width', (Math.round(n / 12) * 120) + 2);
+//        $(".sub-bt-bg").css('width', (Math.round(n / 12) * 120) + 2);
+// 
+//     });
+
+    var bannerIndex = 0;
+    var banners;
+
+    function ReadCookie(cookieName) 
+    {    
+         if (window.location.pathname.indexOf('/reviews/') == -1)
+            return "";
+         var theCookie = "" + document.cookie;
+         var ind=theCookie.indexOf(cookieName);
+         if (ind == -1 || cookieName == "") 
+            return ""; 
+         var ind1=theCookie.indexOf(';', ind);
+         if (ind1 == -1) 
+            ind1=theCookie.length; 
+         return unescape(theCookie.substring(ind + cookieName.length + 1,ind1));
+    }
+    
+    function ReadQueryString(paramName)
+    {
+         if (window.location.pathname.indexOf('/discussion_boards/') == -1)
+            return "";
+        var query = window.location.search;
+        var ind = query.indexOf(paramName);
+        if (ind == -1 || paramName == "") 
+            return "";
+        var ind1 = query.indexOf('&',ind);
+        if (ind1 == -1) 
+            ind1 = query.length;
+        return unescape(query.substring(ind + paramName.length + 1, ind1));;
+    }
+    
+    function WriteAds()
+    {
+        if (banners.length == 0)
+           return 0;
+    
+			if (bannerIndex < banners.length)
+			{
+
+	            elemsAnch = document.getElementsByName('bannerAnch');
+		        elemsImg = document.getElementsByName('bannerImg');
+			
+				    for (var i = 0; i < elemsAnch.length; i++)
+					{
+							var ran_number = Math.floor(Math.random()*banners.length);
+							bannerIndex = ran_number;
+							//alert(ran_number);
+						elemsAnch[i].href = banners[bannerIndex].Href;
+						elemsImg[i].src = banners[bannerIndex].ImageUrl;
+						elemsImg[i].alt = banners[bannerIndex].Alt;
+					}
+					bannerIndex++;
+				}
+			
+			else
+			{
+            bannerIndex = 0;
+            //WriteAds();
+        }
+        window.setTimeout('WriteAds();', 30000);
+    }
+
+    function LoadAds()
+    {
+        var request = new Ajax.Request
+        (
+            '/banners/Banners.aspx',
+            {
+	            asynchronous: false,	
+                method: 'post',
+	            parameters: { city: 0, board: 0 },
+                onSuccess: function(result)
+                {
+                    banners = eval('(' + result.responseText + ')');                    
+                    WriteAds();
+                }
+            }
+        );
+    }
+
+//-->
+</script>
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7998564-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+</head>
+
+<body class=" lang-en  section- not-logged-in " onload=" LoadAds();">
+
+
+
+
+
+<script type="text/javascript">
+        //$(document).ready(function () {
+
+            //function changeEM() {
+                //document.getElementById("animatedurl1").href = "/reviews/refer.asp?trueURL=1&URL=http%3A%2F%2Fwww%2Epinterest%2Ecom%2Ftheeroticreview";
+                //document.getElementById("animatedlogo1").src = "/library/style/i/ter-header-flip-ani/logo-flip-animation-e-m.gif";
+            //}
+
+            //function changeME() {
+                //document.getElementById("animatedurl1").href = "/main.asp";
+                //document.getElementById("animatedlogo1").src = "/library/style/i/ter-header-flip-ani/logo-flip-animation-m-e.gif";
+            //}
+
+
+            //var states = { stillE: 0, stillM: 1 };
+            //var currentStep = states.stillE;
+            //var timeQuant = 0;
+
+            //function runAnimation() {
+                //if (currentStep == states.stillE) {
+                    //timeQuant++;
+                    //if (timeQuant >= 36) {
+                        //timeQuant = 0;
+                        //changeEM();
+                        //currentStep = states.stillM;
+                    //}
+
+                //} else if (currentStep == states.stillM) {
+                    //timeQuant++;
+                    //if (timeQuant >= 2) {
+                        //timeQuant = 0;
+                        //changeME();
+                        //currentStep = states.stillE;
+                    //}
+                /}
+            //}
+
+
+            //var timeStep = 5000;
+            //var interval_id = setInterval(runAnimation, timeStep);
+
+            //$(window).focus(function () {
+                //if (!interval_id) {
+                    //interval_id = setInterval(runAnimation, timeStep);
+                    //console.log('resume');
+                //}
+            //});
+
+            //$(window).focusout(function () {
+                //clearInterval(interval_id);
+                //interval_id = 0;
+            //});
+        //});
+</script>
+
+<script type="text/javascript">
+
+	function blink(selector){
+
+		$(selector).animate({opacity:0}, 50, "linear", function(){
+
+			$(this).delay(600); //600
+
+			$(this).animate({opacity:1}, 50, function(){
+
+				blink(this);
+
+			});
+
+			$(this).delay(2400);
+
+		});
+
+	}
+
+	$(document).ready(function(){
+
+		blink("#alertFB");
+		blink("#alertRW");
+		blink("#alertMYTER");
+
+	});
+
+</script>
+
+<div id="page-wrapper">
+  <div id="page">
+	<div id="header">
+		<div id="nav">
+		<a id="nav-logo" href="/main.asp"><img src="/Library/style/i/trans.gif" alt="[Home]"></a>
+		<!--<a style="position: absolute; left: 19px; top: 9px;" href="/main.asp" id="animatedurl1" target=""><img id="animatedlogo1" style="" src="/library/style/i/ter-header-flip-ani/logo-flip-animation-still-e.gif"></a>-->
+			
+<ul id="nav-primary">
+    
+    <li class="li-firstchild">
+        <a href="/main.asp" class="" id="A1">
+            <span class="tab-1">
+                <span class="tab-2">Home</span>
+            </span>
+        </a>
+    </li>
+    
+	<li><a href="/reviews/index.asp" id="nav-primary-tab-reviews" class=""><span class="tab-1"><span class="tab-2">Reviews</span></span></a></li>
+	<li><a href="/mail/index.asp" id="nav-primary-tab-mail" class=""><span class="tab-1"><span class="tab-2">Mail</span></span></a></li>
+	<li><a href="/discussion_boards/index.asp" id="nav-primary-tab-boards" class=""><span class="tab-1"><span class="tab-2">Discussion Boards</span></span></a></li>
+	<li><a href="/site_reviews/index.asp" id="nav-primary-tab-site-reviews" class=""><span class="tab-1"><span class="tab-2">Site Reviews</span></span></a></li>
+	<li class="li-lastchild"><a href="/info_policies/chatIMdisclaimer.asp?dest=chat&amp;chatid=15" id="nav-primary-tab-onlinechat" class=""><span class="tab-1"><span class="tab-2">Chat</span></span></a></li>
+    <style type="text/css">
+        .ter-get-ready > a {
+            background: none !important;
+            background-color: #F4B62F !important;
+            padding: 0 10px !important;
+            border-radius: 4px !important;
+            border-bottom-left-radius: 0 !important;
+            border-bottom-right-radius: 0 !important;
+            color: #000 !important;
+            box-shadow: 0 -6px 11px -5px #000 inset;
+            height: 36px !important;
+            line-height: 36px !important;
+            margin: 1px 0 1px 1px;
+        }
+
+        .ter-get-ready > a:hover {
+                background-color: #ECCB83 !important;
+            }
+    </style>
+    <!-- 
+    <li class="ter-get-ready">
+        <a href="" target=_blank></a>
+    </li>
+    -->
+</ul>
+			<!--
+			<form id="nav-search" action="/search.asp">
+				<div id="nav-search-box">
+					<input id="nav-search-input" type="text" value="Search TER" class="input-text input-defaulttext" />
+				</div>
+			</form>
+			//-->
+			<div id="nav-secondary">
+            			    <ul>
+				    <!-- <li class="li-firstchild"><a href="#">#</a></li> -->
+				    <!-- <li class="list-links"><a href="#">#</a></li> -->
+				    
+				    
+				        <li class="li-firstchild"><a href="/memberlaunch/signup1.asp">Free Sign-up</a></li>
+				    
+                    
+                    <li class="li-lastchild">
+                    
+                                <a href="/memberlaunch/login.asp?dest=/info_policies/privacyPolicy.asp">
+                        Login
+                        </a>
+                    
+                    </li>
+			    </ul>
+			</div>
+			<ul id="nav-statistics">
+			
+
+				<li class="li-firstchild">Users Online: <span class="nav-statistics-number">
+				    26,560
+				    </span>
+				  </li>
+				<li>New Reviews: <span class="nav-statistics-number"><a href="/reviews/newReviews.asp">5,631</a></span>
+				</li>
+				<li class="li-lastchild">Total Reviews: <span class="nav-statistics-number"><a href="/reviews/searchReviews.asp">1,315,195</a></span>
+				</li>
+	
+			</ul>
+		    <a id="nav-messenger" href="/info_policies/chatIMdisclaimer.asp?dest=im"><img src="/Library/style/i/trans.gif" alt="TER messenger >"></a>
+		</div>
+	</div><!-- /header-->
+
+    
+
+	<div id="sidebar">
+		<div class="sidebar-area" id="sidebar-area-memberpanel">
+			<div class="sidebar-area-inner">
+			    <p>6/15/2016</p>
+	            
+				    <h2>Free Membership!</h2>
+				    <br>
+				    <p class="sidebar-area-signup-copy">Not a Member?<br><b><a href="/memberlaunch/signUp1.asp">Register for free!</a></b></p>
+		        
+
+		    </div>
+		    <div class="sidebar-area-footer"></div>
+		    <br>
+        </div>
+		
+	    <!--
+	    <div class="sidebar-area sidebar-area-twitter">
+		    <a href="http://twitter.com/TERtweet" title="Follow Us On Twitter"><img src="/Library/style/i/bg_sidebar-twitter.jpg" /></a>
+	    </div>
+	    -->
+
+		
+		
+		<div>
+		    
+            <a href="/memberlaunch/signUp2.asp"><img src="/library/media/promo/promo-join-0_en.jpg"></a>
+		</div>
+		
+		
+		<!--
+		<div class="sidebar-area sidebar-area-sponsor">
+			Sponsored by
+	    	<a target="_blank" name="bannerAnch"><img width="140" height="60" border="0" src="/Library/Style/i/spacer.gif" name="bannerImg"></a>
+		</div>
+		-->
+
+		
+		
+		    <div class="sidebar-area sidebar-area-sponsor">
+                <a href="https://media.luxverify.com/www/delivery/ck.php?n=aac41bfc&amp;cb=4" target="_blan"><img src="/ads/LuxVerify/LV_140x260_4.jpg" border="0" alt=""></a>
+		    </div>
+		
+
+	</div>
+	<div id="main">
+        <div id="main-decoration-left"></div>
+		<div id="main-decoration-right"></div>
+		<div id="content">
+		<!-- todo automate menu-->
+		   <!--
+		    <div class="content-layout content-layout-1col content-layout-has-sectionnav">
+		        <div class="content-layout-area content-layout-area-sectionnav">
+    		        <div class="content-layout-area-inner">
+    		        <ul class="sf-js-enabled" id="section-nav">
+    		         
+	    	        -->
+		        
+
+<style type="text/css">
+    li.TOU
+    {
+        margin-left: -6px;
+        margin-top: .5em;
+        margin-bottom: .5em;
+        line-height: 2.0;
+    }
+    
+    li.alpha
+    {
+        list-style-type: lower-alpha !important;
+        margin-left: 38px;
+        margin-top: .5em;
+        margin-bottom: .5em;
+        line-height: 2.0;
+    }
+    
+    li.roman
+    {
+        list-style-type: lower-roman !important;
+        margin-left: 45px;
+        margin-top: .5em;
+        margin-bottom: .5em;
+        line-height: 2.0;
+    }
+</style>
+
+    <div class="content-layout content-layout-1col content-layout-has-sectionnav">
+		
+
+<script type="text/javascript">
+<!--		
+function msg(listname) {
+	var strSubCatURL;
+	strSubCatURL = listname.options[listname.selectedIndex].value;
+	listname.selectedIndex=0
+	if (strSubCatURL != "0")
+		{						
+		window.parent.location.href= "/discussion_boards/messageList.asp?boardID=" + strSubCatURL;
+		}
+	else
+		{
+		alert("Please select a Region!");
+		}
+	}
+// -->
+</script>
+
+
+
+
+<!--- START SUB NAV --->
+	<div class="content-layout-area content-layout-area-sectionnav">
+		<div class="content-layout-area-inner">
+			<ul id="section-nav">
+
+	<li><a href="/reviews/submitReview.asp" class="section-nav-tab"><span class="tab-1"><span class="tab-2">Review Submission Guidelines</span></span></a></li>
+	<li><a href="/info_policies/privacyPolicy.asp" class="section-nav-tab tab-active"><span class="tab-1"><span class="tab-2">Privacy Policy</span></span></a></li>
+	<li><a href="/info_policies/tou.asp" class="section-nav-tab"><span class="tab-1"><span class="tab-2">Terms of Use</span></span></a></li>
+	<li><a href="/info_policies/whyJoin.asp" class="section-nav-tab"><span class="tab-1"><span class="tab-2">How &amp; Why to Join</span></span></a></li>
+
+	<li class="has-tab-dropdown"><a href="" class="section-nav-tab"><span class="tab-1"><span class="tab-2"><span class="tab-arrow">FAQ's</span></span></span></a>
+    <ul class="tab-dropdown">
+
+	    <li class="li-first-child"><a href="/info_policies/generalFAQ.asp">General FAQ</a></li>
+	    <li><a href="/info_policies/reviewFAQ.asp">Review FAQ</a></li>
+	    <li class="li-last-child"><a href="/info_policies/whiteListFAQ.asp">White List FAQ</a></li>
+
+    </ul>
+    </li>
+
+	
+	<li class="has-tab-dropdown"><a href="" class="section-nav-tab"><span class="tab-1"><span class="tab-2"><span class="tab-arrow">Contact Us</span></span></span></a>
+    <ul class="tab-dropdown">
+
+	    <li class="li-first-child"><a href="/info_policies/fbForm.asp?FBType=2">Membership Inquiry</a></li>
+	    <li><a href="/info_policies/fbForm.asp?FBType=3">Review Questions</a></li>
+	    <li><a href="/info_policies/fbForm.asp?FBType=1">Suggestion Box</a></li>
+	    <li><a href="/info_policies/fbForm.asp?FBType=4">Report a Tech Issue</a></li>
+	    <li class="li-last-child"><a href="/info_policies/fbForm.asp?FBType=5">Cancel membership</a></li>
+
+    </ul>
+    </li>
+    
+	<li class="has-tab-dropdown"><a href="" class="section-nav-tab"><span class="tab-1"><span class="tab-2"><span class="tab-arrow">Other</span></span></span></a>
+    <ul class="tab-dropdown">
+
+	    <li class="li-first-child"><a href="/info_policies/aboutUs.asp">About Us</a></li>
+	    <li class=""><a href="/info_policies/mailingList.asp">Mailing List</a></li>
+	    <li class=""><a href="/info_policies/providerInfo.asp">Provider Information</a></li>
+	    
+	    <li class=""><a href="/info_policies/boardPolicies.asp">Discussion Board Guidelines</a></li>
+	    <li class=""><a href="/discussion_boards/viewmsg.asp?BoardID=33&amp;Page=1&amp;Messageid=75528">Self-Help Center</a></li>
+	    
+	    <li class="li-last-child"><a href="/info_policies/siteListingHelp.asp">Site Listing Help</a></li>
+
+    </ul>
+    </li>    
+			</ul>
+		</div>
+	</div>
+<!--- END SUB NAV --->
+
+
+<style type="text/css">
+DIV#page DIV#content DIV.content-layout.content-layout-1col .ter-new-banner{
+    margin-top:12px;
+}
+DIV#page DIV#content DIV.content-layout-area-pagetitle{
+    background-position: 60px 14px;
+    padding-top: 30px;
+}
+</style>
+
+<!-- banner place holder
+<div class="ter-new-banner">
+    <a href="" target=_blank><img src="" width="789" height="110"></a>
+</div>
+-->
+
+		<div class="content-layout-area content-layout-area-pagetitle">
+		    <div class="content-layout-area-inner">
+		        <h1>Privacy Policy</h1>
+		    </div>
+		</div>
+		<div class="content-layout-area">
+			<div class="content-layout-area-inner">
+			    <br>
+            	<ol class="decimal-list">
+                    <li class="TOU"><strong>INTRODUCTION.</strong> The Erotic Review (www.theeroticreview.com), and the company that owns it, Treehouse Park, S.A. (collectively, “TER,” “us,” or “we”) is committed to respecting the privacy rights of its subscribers, visitors, and other users of TER.  TER expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age older (and of the age of majority under the laws of the place from which you access TER).  All persons who do not meet these criteria are strictly forbidden from accessing or viewing the contents of TER.  We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+                    <br>
+                    We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use TER, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to TER, and not to any other websites that you may be able to access from TER, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.  (We encourage you to review the privacy policies of any site which you choose to access from TER.)  This Privacy Policy describes how we use information received about you when you subscribe to or visit TER.  This Policy does not cover any information that we may receive from or about you other than just through the use of TER.
+                    </li>
+                    <li class="TOU"><strong>INFORMATION COLLECTION PRACTICES</strong>
+                        <ol>
+                            <li class="alpha"><strong>TYPES OF INFORMATION COLLECTED</strong>
+                                <ol>
+                                    <li class="roman"><strong>TRAFFIC DATA COLLECTED</strong> We automatically track and collect the following categories of information when you visit TER: (1) IP addresses; (2) domain servers; (3) Referral URLs; (4) types of computers accessing TER; and (5) types of web browsers used to access TER (collectively “Traffic Data”).  Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on TER.
+                                        <ol class="decimal-list">
+                                            <li class="TOU">When you visit TER, we may send one or more “cookies” to your computer that uniquely identifies your browser session.  TER uses both session cookies and persistent cookies.  If you remove your persistent cookie, some of the TER’s features may not function the way you have come to expect them to function.  Among other things, TER uses cookies to improve site navigation, to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, to provide general internal and user web analytics reports, to conduct research, to assist in identifying possible fraudulent activities, and to store your encrypted password so you do not have to re-enter it each time you visit TER.  We reserve the right to utilize information collected during the registration process, and from users who voluntarily provide us information such as comments, feedback, and DMCA notices ("Voluntary Users"), in accordance with the applicable provisions of this Privacy Policy.</li>
+                                        </ol>
+                                    </li>
+                                    <li class="roman"><strong>PERSONAL INFORMATION COLLECTED</strong> In order for you to access certain sections of TER, and in particular subscriber services, we may require you to provide us with certain information that personally identifies you (“Personal Information”).  Personal Information includes the following categories of information: (1) Contact Data (such as your User Name and e-mail address); and (2) Demographic Data.  If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, post images or videos, or otherwise complete online forms, surveys, or contest entries, any information provided in such communication may be collected as Personal Information.  Additional Personal Information, such as year of birth, relationship status, and sexual interests and orientation may occasionally be requested in TER’s discussion groups and elsewhere.  You may respond to such requests on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria.  Information you post in electronic mail, in discussion groups, or in other “public” areas of TER (with the exception of your email address and IP address – unless you choose to post them), becomes publicly accessible information.  TER does not directly collect Financial Data (such as your credit card number), which is instead collected and maintained by third party credit card processors (such as CCBill, SegPay and others).  The credit card processors do not voluntarily share your Financial Data with TER except such limited information as is necessary to activate or maintain your subscription to TER, in the event of some problem with your subscription or in the event that fraudulent activity is discovered or suspected.  We encourage you to review the privacy policies of any credit card processors which processes the credit card you used to subscribe to TER.</li>
+                                </ol>
+                            </li>
+                            <li class="alpha"><strong>USES OF INFORMATION COLLECTED</strong>
+                                <ol>
+                                    <li class="roman"><strong>TER’S USE OF INFORMATION.</strong> The primary use for any information collected is to provide you with site services. We also use your information to deliver customized services to you; for user support purposes; and for efforts to monitor and help ensure against fraud, harassment, and spamming.  We also use Contact Data to send you information about TER and its services, or promotional material from some of our partners, or to contact you when necessary.  We may also have your credit card processor confirm that your Financial Data is valid, accurate and current (without actually sharing it with TER) to verify your qualifications for certain services and to assure that you are properly billed for such services.  Unless you voluntarily provide your Personal Information to TER, we do not maintain or have access to your name, physical address, credit card number or other private information you may have shared with your credit card processor.  We may use your Demographic Data to customize and tailor your experience on TER, displaying content that we think you might be interested in and according to your preferences.  Non-personal and aggregate information is used in order to geographically customize our marketing efforts or to generally customize the use of TER for an aggregate group of customers.</li>
+                                </ol>
+                            </li>
+                            <li class="alpha"><strong>SHARING OF PERSONAL INFORMATION.</strong>
+                            <br>
+                            We will not share your personal information, except in the limited ways described in this Privacy Policy.  We may share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis.
+                            <ol>
+                                    <li class="roman">Sometimes we may be required to share Personal Information in response to a regulation, court order or subpoena. We may also share information when we believe it is necessary to comply with the law.  We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of TER, its owners, employees, agents or affiliates, our Users, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.</li>
+                            </ol>
+                            </li><li class="alpha"><strong>USER CHOICE REGARDING COLLECTION, USE, AND DISTRIBUTION OF PERSONAL INFORMATION</strong> You may choose not to provide us with any Personal Information.  In such an event, you can still access and use the public areas of TER; however you will not be able to access and use those portions of TER that require your Personal Information.</li>
+                        </ol>
+                    </li><li class="TOU"><strong>TRANSFER OF PERSONAL INFORMATION.</strong> We reserve the right to transfer Personal Information to one or more affiliates or third parties in the event of a sale, merger or other transfer of all or some of the assets of TER, its owner, parent entities, subsidiary entities or affiliates.</li>
+                    <li class="TOU"><strong>CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION.</strong> Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process;  (b) satisfy our legal obligations to cooperate with law enforcement or other investigating agencies;  (c) satisfy any laws or regulations, or, governmental or legal requests for such information;  (d) protect our rights or property, or the rights or property of others; or (d) enforce our terms of service Agreement.  Your Personal Information is stored on secure servers that are not accessible by third parties.  We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser.  Please note: Should you deliberately upload or link to any illegal material (including anything which constitutes, assists with or references child pornography or human trafficking), in the event that a crime (including, but not limited to, a fraud-related offense) is committed or is suspected, if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, warrants, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process, TER specifically reserves the right to disclose any and all information to law enforcement.  In particular, please note that TER will cooperate with any law enforcement agency that is investigating the exploitation of children, minors or others incapable of protecting themselves;
+                        <ol>
+                            <li class="alpha"><strong>SAFETY.</strong> We take measures, including data encryption, to protect the transmission of all sensitive user information.  We make every reasonable effort to help ensure the integrity and security of our network and systems, and, use commercially reasonable safeguards to preserve the integrity and security of your Personal Information.  Nevertheless, we cannot guarantee that our security measures will prevent third-parties from illegally “hacking” in to our computers and obtaining this information.  You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.</li>
+                            <li class="alpha"><strong>CONTENT SHARED ON TER.</strong> Any Personal Information that you voluntarily disclose on TER (including chat dialog, email, images, or video content) becomes publicly available and can be collected and used by others.  Any content that you submit to TER may be redistributed through the internet and other media channels, and may be viewed by the general public.</li>
+                            <li class="alpha"><strong>USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION</strong> We maintain an Account Manager in order to help you confirm that your Personal Information remains correct and up-to-date.  At any time, you may visit Account Manager to update your personal profile at Support@eroticreview.com [insert web address used by TER for user access to Account Manager/Personal Information].  Through the Account Manager you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about TER, or promotional material from some of our partners; and/or (c) choose whether or not you wish for us to share your Personal Information with third parties.</li>
+                            <li class="alpha"><strong>LOST OR STOLEN INFORMATION.</strong> You must promptly notify us if your user name or password is lost, stolen, or used without permission.  In such an event, we will remove that user name, or password from your account and update our records accordingly. <strong>(Note that TER never requests or possesses your credit card information, so you must promptly notify CCBill, SegPay or any other credit card processor you use if your credit card is lost, stolen, or used without permission.  If you receive an email or any other communication from TER requesting your credit card information, delete it as it is an attempt at “phishing”.)</strong></li>
+                            <li class="alpha"><strong>PUBLIC INFORMATION.</strong> TER contains links to other websites.  We are not responsible for the privacy practices or the content of such websites.  We also make public areas (such as chat rooms, forums, message boards, and news groups) available to you.  Please understand that any information that is disclosed in these areas becomes public information.  We have no control over its use and you should exercise caution when deciding to disclose your Personal Information in areas intended to be viewed by others.</li>
+                    
+                    <li class="TOU"><strong>UPDATES AND CHANGES TO PRIVACY POLICY.</strong> We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy and other agreements, simply by posting such change, update, or modification on TER and without any other notice to you.  As a courtesy, and without any obligation to do so, we may also notify you by email at the address you have provided to us.  Please register your current email address at Support@eroticreview.com.  Any such change, update, or modification will be effective immediately upon posting on TER.  You should periodically check for any modifications of this Policy by re-visiting this web page.  An updated or edited version of TER’s Privacy Policy supersedes any prior versions immediately upon posting.</li>
+                </ol>
+			</li></ol></div>
+		</div>
+		<div class="content-layout-clear">&nbsp;</div>
+	</div>
+
+				</div> <!-- /content -->
+				<div id="footer">
+					<ul id="footer-links">
+						<li><a href="/index.asp?mobile=true">TER mobile</a></li>
+						<li><a href="/webmasters/">Webmasters</a></li>
+						<li><a href="/info_policies/">Info &amp; Policies</a></li>
+						<li><a href="/info_policies/privacyPolicy.asp">Privacy Policy</a></li>
+						<li><a href="/info_policies/tou.asp">Terms of Use</a></li>
+						<li><a href="/site_map/">Site Map</a></li>
+						<li><a href="/info_policies/fbForm.asp?FBType=8">Contact Us</a></li>
+						<li><a href="/info_policies/aboutUs.asp">About Us</a></li>
+						<li class="li-lastchild"><a href="/info_policies/generalFAQ.asp">FAQ's</a></li>
+					</ul>
+					
+					<div id="footer-networks">
+					    <li class="li-firstchild">
+					        <a href="https://twitter.com/theeroticreview" target="_new"><img src="/Library/style/i/ter-social-icons/twitter.png" width="20" height="20" border="0" vspace="5" alt="Follow us on twitter" style="vertical-align: bottom;"></a>
+					        &nbsp;
+					        <!--<a href="https://www.facebook.com/the.erotic.review.official" target="_new"><img src="/Library/style/i/ter-social-icons/facebook.png" width="20" height="20" border="0" vspace="5" alt="Follow us on facebook" style="vertical-align: bottom;" /></a>
+					        &nbsp;-->			     
+					        <a href="https://plus.google.com/+theeroticreview/" target="_new"><img src="/Library/style/i/ter-social-icons/google_plus.png" width="20" height="20" border="0" vspace="5" alt="Follow us on google +" style="vertical-align: bottom;"></a>
+					        &nbsp;
+					        <a href="http://the-erotic-review.tumblr.com/" target="_new"><img src="/Library/style/i/ter-social-icons/tumblr.png" width="20" height="20" border="0" vspace="5" alt="Follow us on tumblr" style="vertical-align: bottom;"></a>
+					        &nbsp;
+					        <a href="http://pinterest.com/theeroticreview/" target="_new"><img src="/Library/style/i/ter-social-icons/pinterest.png" width="20" height="20" border="0" vspace="5" alt="Follow us on pinterest" style="vertical-align: bottom;"></a>
+					        <!--&nbsp;
+					        <a href="http://www.youtube.com/user/TheEroticReview" target="_new"><img src="/Library/style/i/ter-social-icons/youtube.png" width="20" height="20" border="0" vspace="5" alt="Follow us on youtube" style="vertical-align: bottom;" /></a>-->
+					    </li>
+					</div>
+					<br>
+					<div style="font-size:10px;">
+					    
+					        © 2016 Treehouse Park, S.A. managed by THP Internet Resources Ltd. All Rights Reserved.
+					    
+					</div>
+					
+				</div>
+			</div>
+			
+            <!-- /main -->
+
+            <ul class="nav-secondary-langselector">
+            
+                <!--<li class="lang-active"><a href="/memberlaunch/lc.asp?lc=en&" title="English"><img src="/Library/style/i/trans.gif" alt="English" class="lang-flag lang-flag-en" /><span class="Unicode">&#x25be;</span></a></li>-->
+                <!--<li class=""><a href="/memberlaunch/lc.asp?lc=de&" title="German"><img src="/Library/style/i/trans.gif" alt="German" class="lang-flag lang-flag-de" /></a></li>-->
+            
+                <!--<li class="lang-active"><a href="/memberlaunch/lc.asp?lc=de&" title="German"><img src="/Library/style/i/trans.gif" alt="German" class="lang-flag lang-flag-de" /><span class="Unicode">&#x25be;</span></a></li>-->
+                <!--<li class=""><a href="/memberlaunch/lc.asp?lc=en&" title="English"><img src="/Library/style/i/trans.gif" alt="English" class="lang-flag lang-flag-en" /></a></li>-->
+            
+            <li class="lang-active"><img src="/Library/style/i/trans.gif" alt="English" class="lang-flag lang-flag-en"></li>
+            </ul>
+
+			<div id="page-clear">&nbsp;</div>
+		</div><!-- /page -->
+	</div><!-- /page-wrapper -->
+	
+	
+    <!-- VIP upgrade confirmation inline popup -->
+    <div id="upgradeConf" class="popup_block">
+        <img src="/library/style/i/badge-vip-large.png" style="float: top;  margin: 8px 0 5px 0" alt="VIP Member"><br>    
+        <h1><strong>, you are now a VIP member!</strong></h1><br>
+        <p>We thank you for your purchase!</p>
+    </div>
+    
+    <!-- failed transaction inline popup -->
+    <div id="transactionDeclined" class="popup_block">        
+        <h1><strong>Transaction declined</strong></h1><br>
+        <p>Unfortunately it looks like your attempt to purchase VIP membership has failed due to your card being declined. Good news is that we have several other payment options that you could try.</p>
+    </div>
+    
+    
+	<script type="text/javascript">
+		function THPIRinfo() {
+		window.open("/info_policies/thpirinfo.asp","THPIRinfo","width=615,height=350,scrollbars=no,resizable");
+		}
+    </script>
+	
+	
+	<script type="text/javascript" src="/Library/script/superfish.uncompressed.js"></script>	
+	<script type="text/javascript" src="/Library/script/ter_dropdown.js"></script>
+	<script type="text/javascript" src="/Library/script/ter_input_defaulttext.js"></script>
+	<script type="text/javascript" src="/Library/script/ter_content-layout-area_close.js"></script>
+	<script type="text/javascript" src="/Library/script/ter_form-tabs.js"></script>
+	<script type="text/javascript" src="/Library/script/ter_langselector.js"></script>
+
+
+
+
+
+</body></html>
