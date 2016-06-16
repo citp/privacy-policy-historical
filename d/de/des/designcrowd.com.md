@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcrowd.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083257id_/http%3A//www.designcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcrowd.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051655id_/http%3A//www.designcrowd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignCrowd
 
@@ -8,7 +8,7 @@ DesignCrowd Pty Ltd ACN 127 272 315, and its related entities ("DesignCrowd", "w
 
 ### 2 The Information We Collect and Hold
 
-The types of personal information that we collect and hold about you will depend on the circumstances of collection and on the type of product or service you request from us. When collecting personal information from you, we specifically describe what information is required in order to provide you with the product or service you have requested. Such personal information may include details such as your name, phone number, email address, credit/debit card number, expiry date and billing address. 
+The types of personal information that we collect and hold about you will depend on the circumstances of collection and on the type of product or service you request from us. When collecting personal information from you, we specifically describe what information is required in order to provide you with the product or service you have requested. Such personal information may include details such as your name, phone number, email address, credit/debit card number, expiry date and billing address. We may also collect your IP address for the purpose of protecting the security and integrity of our marketplace and preventing fraudulent use of our services. 
 
 Unless you notify us otherwise, we will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Privacy Policy. 
 
@@ -16,8 +16,9 @@ Unless you notify us otherwise, we will assume that you have consented to the co
 
 We may collect personal information from you when you: 
 
-  * (a) request or purchase goods or services from us; or
-  * (b) contact us by any method, such as telephone, email, post, facsimile or in person.
+  * (a) create an account with DesignCrowd; or
+  * (b) request or purchase goods or services from us; or
+  * (c) contact us by any method, such as telephone, email, post, facsimile or in person.
 
 
 
@@ -30,7 +31,8 @@ As well as collecting information directly from you, there may be occasions when
   * (a) where he or she has authorisation to purchase or request goods or services on your behalf;
   * (b) who has collected your personal information and disclosed it to us so that we may issue you with goods or services on behalf of the third party;
   * (c) who is one of our service providers who collects personal information on our behalf; and
-  * (d) who is one of the market research companies contracted by us to obtain personal information so that we may improve and market our products and services.
+  * (d) who is one of the market research companies contracted by us to obtain personal information so that we may improve and market our products and services
+  * (e) who is an aggregator of publicly available information
 
 
 
@@ -49,12 +51,14 @@ We take reasonable steps to protect the personal information we hold from misuse
 
 Information collected by us may be used for the following purposes: 
 
-  * (a) to process your requests for goods or services;
-  * (b) to notify you of changes to our goods or services;
-  * (c) to send email notifications for special promotions or offers conducted by us, our suppliers or distributors;
-  * (d) to conduct marketing activities and to conduct market research; 
-  * (e) to respond to your questions or suggestions; or
-  * (f) to improve the quality of our goods or service and the quality of your visit to the website.
+  * (a) to create an account for you on DesignCrowd;
+  * (b) to process your requests for goods or services;
+  * (c) to notify you of changes to our goods or services;
+  * (d) to send email notifications for special promotions or offers conducted by us, our suppliers or distributors;
+  * (e) to conduct marketing activities and to conduct market research; 
+  * (f) to respond to your questions or suggestions;
+  * (g) to protect the security and integrity of the marketplace for all users and prevent fraudulent use of our services; or
+  * (h) to improve the quality of our goods or service and the quality of your visit to the website.
 
 
 
