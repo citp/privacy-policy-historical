@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225083254id_/https%3A//www.choxi.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051439id_/https%3A//www.choxi.com/info/privacy_policy) for the most accurate reproduction.*
 
-# Choxi.com
+# Choxi
 
 Choxi.com Inc. (“Choxi”,"Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information, the choices available to you regarding our use of your personal information and how you can access and update this information. By visiting the Choxi website and domain name, and any other linked pages, features, content, or mobile application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
