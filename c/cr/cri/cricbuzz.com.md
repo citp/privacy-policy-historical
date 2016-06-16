@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051630id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053557id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Cricbuzz.com
 
 Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers/manages the website www.cricbuzz.com
 
@@ -75,6 +75,9 @@ Redressal Mechanism: Any complaints, abuse or concerns with regards to content a
 Mr. Harsha Kishan (Grievance Officer).  
 Times Internet Limited.  
 [www.cricbuzz.com](https://web.archive.org/)
+
+  
+
 
 Akuate Internet Services Pvt Ltd.  
 No. 190-B, 1st Floor,  
