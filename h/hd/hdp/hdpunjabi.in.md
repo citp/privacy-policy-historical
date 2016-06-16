@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdpunjabi.in privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127004234id_/http%3A//hdpunjabi.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdpunjabi.in privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083145id_/http%3A//hdpunjabi.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | View Lyrics Mp4 Hd Video
+# Privacy Policy | Hdpunjabi.in
 
 **Hdpunjabi.in Privacy Policy**
 
