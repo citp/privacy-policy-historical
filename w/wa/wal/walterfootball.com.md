@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117201454id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616124135id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.*
 
 # WalterFootball.com: Links
 
@@ -54,7 +54,7 @@ Conditions of Use
 
 If you decide to visit WalterFootball.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. Effective Date of this Privacy Policy 
 
-This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. This site also uses PubMatic, Inc.?s yield optimization services. To read more about how PubMatic uses cookies or to opt out of PubMatic?s cookie usage, please visit http://www.pubmatic.com/opt-out. 
+This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. This site also uses PubMatic, Inc.�s yield optimization services. To read more about how PubMatic uses cookies or to opt out of PubMatic�s cookie usage, please visit http://www.pubmatic.com/opt-out. 
 
 This Privacy Policy is effective as of Jan. 1, 2011 and last updated Aug. 29, 2011. 
 
