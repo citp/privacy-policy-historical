@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073610id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060043id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Post Planner
 
