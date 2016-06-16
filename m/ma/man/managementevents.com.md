@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementevents.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818082212id_/http%3A//managementevents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementevents.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616215442id_/http%3A//managementevents.com/privacy-policy) for the most accurate reproduction.*
 
 # Management Events
 
