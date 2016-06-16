@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodle.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235858id_/https%3A//moodle.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodle.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616073738id_/https%3A//moodle.org/privacy) for the most accurate reproduction.*
 
 # Moodle.org: Privacy policy
 
@@ -10,6 +10,6 @@ All information that you disclose in your public profile, in forum posts, commen
 
 IP addresses, URLs visited, and related information is recorded for all site visitors for the purpose of site traffic analytics and captured as part of normal operation in our server logs. Cookies are used to track logins, sessions, and collect anonymous traffic data.
 
-If you have any questions about any of these practices or our use of your personal information, please email [privacy@moodle.com](mailto:p%72%69v%61%63%79@%6do%6fd%6c%65.%63%6fm).
+If you have any questions about any of these practices or our use of your personal information, please email [privacy@moodle.com](mailto:%70ri%76a%63%79@m%6f%6f%64%6ce%2e%63o%6d).
 
 Last modified: Monday, 16 February 2015, 5:04 PM
