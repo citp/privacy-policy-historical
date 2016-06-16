@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultipro.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003557id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultipro.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053212id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ultimate Software Human Resource Systems
 
@@ -51,7 +51,7 @@ Ultimate Software may contract with third-party providers to perform certain fun
 
 These third parties may have access to your PII only to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements before any information is provided to them, and they are restricted from using the information for other purposes.
 
-If you do not wish your information shared with third-party providers for the purposes of proving services you may opt-out by contacting us at privacy@ultimatesoftware.com. 
+If you do not wish your information shared with third-party providers for the purposes of providing services you may opt-out by contacting us at privacy@ultimatesoftware.com. 
 
 ## Links to Non-Ultimate Software websites and Third Parties
 
