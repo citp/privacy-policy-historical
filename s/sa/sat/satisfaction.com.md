@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215163455id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616190642id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
 # Satisfaction | Privacy Policy
 
