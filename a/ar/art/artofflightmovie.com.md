@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artofflightmovie.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050329id_/http%3A//www.redbull.com/us/en/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofflightmovie.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616065739id_/http%3A//www.redbull.com/us/en/data-privacy-policy) for the most accurate reproduction.*
 
 # Your Privacy Rights | Red Bull
 
 ### 1\. Introduction
 
-1.1 This Red Bull Privacy Policy (" **Policy** ") sets out how Red Bull North America Inc., whose offices are at 1630 Stewart St., Santa Monica, CA 90404 (hereinafter “ **Red Bull** ”, " **we** ", " **us** ", " **our** ") collect and process information about you when you, among other things, visit our website, use our applications on mobile phones or other consumer electronic devices, apply for a job, access our social media experiences or other experiences where this Policy is posted (the " **Properties** "). By continuing to use any of these Properties, you consent to your information being collected, processed/or and shared in accordance with this Policy.
+1.1 This Red Bull Privacy Policy (" **Policy** ") sets out how Red Bull Media House North America, Inc. whose offices are at 1630 Stewart St., Santa Monica, CA 90404 (hereinafter “ **Red Bull** ”, " **we** ", " **us** ", " **our** ") collect and process information about you when you, among other things, visit our website, use our applications on mobile phones or other consumer electronic devices, apply for a job, access our social media experiences or other experiences where this Policy is posted (the " **Properties** "). By continuing to use any of these Properties, you consent to your information being collected, processed/or and shared in accordance with this Policy.
 
 ### 2\. Information we collect
 
