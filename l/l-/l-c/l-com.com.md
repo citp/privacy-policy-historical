@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317071009id_/http%3A//www.l-com.com/what-is-your-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616153457id_/http%3A//www.l-com.com/what-is-your-privacy-policy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -14,6 +14,10 @@ L-com, Inc.
 
 Attn: Mailroom Manager
 
-45 Beechwood Drive
+50 High Street, West Mill 3rd Floor  
+
 
 North Andover, MA 01845
+
+  
+
