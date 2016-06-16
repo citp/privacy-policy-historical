@@ -1,82 +1,142 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141626id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616205303id_/http%3A//www.surfrider.org/pages/surfrider-foundation-privacy-policy) for the most accurate reproduction.*
 
 # Surfrider Foundation Privacy Policy - Surfrider Foundation
 
+EFFECTIVE: November 19, 2015
+
 A FAQ about our Privacy Policy is available [here.](http://www.surfrider.org/pages/privacy-policy-faqs)
 
-Welcome to www.surfrider.org (the “ **Site** ”), a website operated by the Surfrider Foundation (“ **Surfrider** ”, “ **we** ”, “ **us** ”, or “ **our** ”). We are a non-profit grassroots organization dedicated to the protection and enjoyment of the world’s oceans, waves and beaches. We provide our users (collectively, “ **you** ” or “ **your** ”) with resources and information about our organization and our cause, as well as a number of related services (collectively, the “ **Services** ”). We know you are concerned about your privacy, so we developed this privacy policy (“ **Privacy Policy** ”) to explain how we collect, use, and disclose information from and/or about you, whether you are simply visiting our Site or whether you are a member of our organization.
+This Privacy Policy applies to www.surfider.org, www.beachapedia.org (the “ **Sites** ”) and to other websites, applications, services and mobile applications on or in which this Privacy Policy is linked or referenced, as well as and any services or mobile applications linked to or accessible to or through the Site  (collectively with the Site, the “ **Services** ”).  The Services are owned and/or operated by Surfrider Foundation (sometimes referred to in these Terms as “we” or “us”).  We hope that this Privacy Policy helps clarify how we collect and process your information.
 
-YOUR PERSONAL INFORMATION MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. BY USING THIS SITE AND PROVIDING ANY PERSONAL INFORMATION, YOU ARE CONSENTING TO THE TRANSFER OF DATA FROM YOUR COUNTRY TO A COUNTRY THAT HAS LESS STRINGENT LAWS, AND THE PROCESSING OF YOUR PERSONAL INFORMATION IN CONFORMANCE WITH THIS POLICY.
+This Privacy Policy describes:
 
-So we are clear about the terminology we are using, when we use the phrase “ **Personal Information** ” in this Privacy Policy, we mean contact information (e.g., name, address, email address, or telephone number) and any other non-public information that is used or intended to be used to personally identify an individual. When we use the phrase “ **Anonymous Information** ” in this Privacy Policy, we mean information that is neither used nor intended to be used to personally identify an individual.
-
-**How We Collect Information.**  
-_Personal Information_  
-In general, the Personal Information we gather enables us to provide the Services to you and helps us learn more about the use of the Site and/or Services. We collect Personal Information that you or someone else submits to us voluntarily through the Site or the Services. If you are a member of our organization (“ **Member** ’), paying for a Member’s annual dues, or making a donation to Surfrider, we may also collect Personal Information offline. One type of Personal Information we collect is “ **Payment Information** ”, which means the information necessary to process a payment from you, including the following: (i) your name as it appears on the card, (ii) the credit card type (VISA, MasterCard, American Express or any other issuer then accepted by Surfrider), (iii) a valid credit card number; (iv) the date of expiration of your credit card, (v) your billing address, and (vi) any activation numbers or codes needed to charge your card.
-
-To receive our newsletter, you must provide your email address. When you communicate with us through our Site or by sending us an email, we may collect and store any information that is contained in your communications with us. You can choose not to provide us with certain information, but this may limit the features of the Site or Services you are able to use.
-
-If you become a Member, we will need to collect additional Personal Information about you to process and administer your Membership. We may receive this Personal Information from you or, if a third party buys you a gift Membership to our organization, from the party paying for your Membership. If you do not wish for us to collect or hold information about you that you did not provide to us, please see the section below regarding deleting and changing your information. If you are the party paying for a Membership but are not yourself a Member, the only personal information we collect about you will be your Payment Information.
-
-If you wish to donate to Surfrider, we will collect your Payment Information for such donation.
-
-One of the Services we provide is our application on through http://www.facebook.com (“ **Facebook** ”), through which you may make certain Personal Information available to us. You do not need to be a Member to use this application. You may restrict and edit the Personal Information that you make available to us by editing your privacy settings on Facebook. We do not collect or record any Personal Information through Facebook unless you expressly request us to do so to provide you certain Services (e.g., requesting Membership information or a newsletter subscription). We may collect the information about your use of the application on Facebook or that you otherwise make available, however, in anonymized manner such that your identity cannot be ascertained from such information. For example, we may record that a user “liked” content or the number of photos tagged by a user, but we will not record that you liked that content or that you tagged certain photos. We will consider this aggregated and anonymous information collected from Facebook as “ **Anonymous Information** ”.
-
-_Anonymous Information_  
-As you use the Site or Services, certain Anonymous Information may be passively collected and stored, such as your Internet protocol address, domain names, browser type, and access times. We may also use Cookies (as defined below) and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. “Cookies” are small pieces of information that a website sends to your browser while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies. You can instruct your browser, by changing its options, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. If you do not accept Cookies, however, you may not be able to use all portions or functionalities of the Site or Services, including signing up for Membership online.
-
-**How We Use Information.**  
-_Personal Information_  
-We will use your Personal Information to:
-
-  * Administer your Membership;
-  * Provide you with Services and customer support;
-  * Tailor the features, performance and support of the Site or Services to you;
-  * Collect Membership fees and/or donations;
-  * Market our products and services to you and those of third parties we believe may be of interest to you;
-  * Respond to your requests, resolve disputes and/or troubleshoot problems;
-  * Improve the quality of the Site and the Services; and
-  * Communicate with you about the Site and the Services.
+  * The information we collect on or through the Services and how we collect it.
+  * How we use and process the information we collect.
 
 
 
-We may also use your Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable to you. You can opt out of receiving certain communications from the Site such as our newsletter by clicking the “Unsubscribe” link at the bottom of each email. Please note that even if you unsubscribe or opt-out, we may still send you Membership, Site and Service related communications (e.g., emails related to your questions or comments).
+Please review this Privacy POLICY CAREFULLY BEFORE ACCESSING AND USING THE SERVICES. When you submit information to or through the Services, you consent to the collection and processing of information as described in this Privacy Policy.
 
-_Anonymous Information_  
-We may, through our use of Cookies, keep you logged into our Site, track your session history and collect your click-stream data. We may also tailor Site content to your interests and personalize your use of the Site. We may use your Anonymous Information to analyze usage patterns so that we may enhance the Site or Services, improve our internal operations and the content of our software, and customize the Site or Services for you.
+If you have not done so already, please also review our [Terms of Service](http://surfrider.org/pages/terms-of-use) (“ **Terms** ”).  The Terms contain provisions that limit our liability to you and require you to resolve any dispute with us through final and binding arbitration on an individual basis and not as part of any class or representative action. 
 
-**How We Disclose Information.**  
-_Personal Information_  
-We may disclose certain Personal Information:
+**IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE SERVICES.**
 
-  * To third party vendors who help us provide the Services or the Site;
-  * To third parties to whom you ask or have authorized us to send Personal Information;
-  * To any subsidiary organizations, joint ventures, or other organizations under our control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy; or
-  * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity; or (c) protect and defend our rights or property or the rights and property of you or third parties.
+  1. CHANGES TO THIS PRIVACY POLICY
+  2. INFORMATION WE COLLECT
+  3. HOW WE COLLECT INFORMATION
+  4. HOW WE USE, SHARE AND DISCLOSE INFORMATION
+  5. ONLINE ADVERTISING, DATA COLLECTION AND “DO NOT TRACK” 
+  6. CREDIT CARD INFORMATION
+  7. INFORMATION PROTECTION
+  8. LINKS TO OTHER SERVICES
+  9. YOUTH CLUB NETWORK
+  10. CALIFORNIA CONSUMER RIGHTS INFORMATION
+  11. INFORMATION TRANSMISSION
+  12. HOW TO CONTACT US
 
 
 
-_Anonymous Information_  
-We reserve the right to disclose Anonymous Information publicly without restriction, including to third party vendors who may help us enhance or provide the Site or Services or to third parties.
+#### 1\. CHANGES TO THIS PRIVACY POLICY
 
-**Updating and Controlling Your Information.**  
-If you are a Member, you may update certain of your Personal Information on our Site. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives and we may also retain Anonymous Information about your use of our Services. Once we disclose some of your Personal Information to third parties, we cannot access that Personal Information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures.
+The Effective Date of this Privacy Policy is set forth at the top of this webpage. As we add new features, we may need to modify this Privacy Policy.   Whenever possible, we will provide you with advance written notice of our changes.  Your continued use of the Services after the Effective Date constitutes your acceptance of the amended Privacy Policy.  The amended Privacy Policy supersedes all previous versions.  We will not, however, make retroactive changes that reduce your privacy rights unless you affirmatively agree to those changes. 
 
-**Information Disclosed to Third Parties**  
-This Privacy Policy addresses our use and disclosure of information we collect from and/or about you on the Site. Helping you to protect your information is a vital part of our mission. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use the Site, certain information you post or provide through the Site, such as your name, photographs, and comments, may be shared with other users and posted on publicly available portions of the Site or the Service. Please keep in mind that if you choose to disclose Personal Information when posting comments or other information or content through the Site, this information may become publicly available and may be collected and used by others, including people outside the Surfrider community. We will not have any obligations with respect to any information that you post to parts of the Site available to others, and recommend that you use caution when giving out information to others in public forums online or otherwise. We may also share the information you publish with other third parties.
+#### 2\. INFORMATION WE COLLECT
 
-Please be aware that any Personal Information you make available to us on Facebook may also be made available generally on Facebook, including to third parties, pursuant to your Facebook privacy settings. Please be thoughtful about your Facebook privacy settings. The use and disclosure restrictions contained in this Privacy Policy will not apply to any third party, including Facebook. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
+“ **Personal Information** " means information associated with or used to identify a specific person.  Your Personal Information includes: (1) contact data (such as your e-mail address, mailing address, telephone number, school name and school grade); and (2) certain Usage Data, such as the IP address from which you access the Services (as further discussed in Section 3b. below)   
 
-The Site may contain links to other websites that are not owned or controlled by us, including our partner sites. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Information or Anonymous Information from you. The Site may also contain links to other websites controlled by us but which operate under different privacy policies. Please review the privacy policy of any new site you visit.
+**“General Information** ” is information about an individual’s online activity that, by itself, cannot be used to identify him or her, such as browser type, operating system and the dates/times of Services access.
 
-**Children.**  
-The Site is not directed to children and children are not eligible to use our Services. Protecting the privacy of children is very important to us. We do not collect or maintain Personal Information from people we actually know are under 18 years of age, and no part of our Site or Services is designed to attract people under 18 years of age. If we later learn that a user is under 18 years of age, we will take steps to remove that user's Personal Information from our databases and to prevent the user from utilizing the Site and the Services.
+Personal Information and General Information may be linked together. Different types of General Information also may be linked together and, once linked, may identify an individual person.
 
-**Changes to this Privacy Policy.**  
-This Privacy Policy is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Policy on this page. If we make any material changes to it, we will also send you notice to the last email address you have provided to us and/or provide notice through Facebook. Continued use of our Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+#### 3\. HOW WE COLLECT INFORMATION
 
-**Contact Us.**  
-If you have questions or concerns about our Privacy Policy, please contact us by sending an email to: info@surfrider.org.
+We collect information that you provide to us and from your use of the Services.  The information that we collect and how we process it depends on how you use and access the Services.  Some information is collected through use of cookies and similar data collection tools (as further discussed in Section 5 below).
 
-This Policy was last revised: December 10, 2010.  
- 
+**a. Information that You Provide to Surfrider Foundation:** You may provide us with your Personal Information when you contact us for help or information, create an account to use one of the Services; make a donation to one of our campaigns, post your biographical information on the Sites or otherwise voluntarily supply your Personal Information to us.  We may collect information, some of which may be Personal Information, as otherwise described to you at the point of collection or pursuant to your consent.
+
+**b. Information that We Collect When You Use the Services:** When you use the Services, we may automatically collect Information about how you interact with the Services, such as (i) IP address; (ii) domain server; (iii) type of device(s) used to access the Services; (iv) web browser(s) used to access the Services; (v) statistics and information associated with the interaction between your browser or device and the Services; and (vi) referring webpage or other source through which you accessed the Services (collectively, “ **Usage Data** ”). Depending on applicable law, some Usage Data is Personal Information and some is General Information. 
+
+**c. Information Collected from Other Sources:** Third parties that assist us with our business operations also collect information (including Personal Information and Usage Data) from you and share it with us.  For example, we may purchase mailing lists and use email service providers that help us to more effectively administer our communications and programs. 
+
+#### 4\. HOW WE USE, SHARE AND DISCLOSE INFORMATION
+
+**a. How We Use Information**
+
+We use the information that we collect or that you provide to us to operate, maintain and enhance the Services, including:
+
+  * To present the Services to you and to customize, improve and develop content and functionality that helps us better serve your needs;
+  * To troubleshoot problems with the Services;
+  * To facilitate communication between Surfrider Foundation and you;
+  * To prevent, detect and investigate prohibited or illegal activities, such as claims of copyright infringement and security breaches;
+  * To send emails and other communications that display content that we think will interest you, such as news about our campaigns, programs, services, products and promotions;
+  * To generate statistical information about how users interact with the Services and conduct analyses to support, improve and enhance the Services;
+  * To carry out our obligations and protect our rights arising from any contracts entered into between you and us, including our [Terms of Service](http://surfrider.org/pages/terms-of-use);
+  * To protect the safety, security and legal rights of other users of the Services;
+  * To send you important administrative information regarding the Services, such as changes to this Privacy Policy or our other policies; and
+  * To fulfill any other purpose for which you provide information to us or to which you consent.
+
+
+
+We and our business partners also may combine different types of information collected from or about you through various sources, including Personal Information, and use the combined information for the purposes described in this Privacy Policy.
+
+**b. How We Share and Disclose Information**
+
+We may share and disclose information:
+
+  * With third party service providers that we retain to perform functions on our behalf, such as web hosting, data analyses and promotion services providers, communication services providers, e-commerce vendors, and technology and data service providers, that have access to Personal Information needed to perform their functions;
+  * With affiliated non-profit organizations and our business partners;
+  * To enforce our agreements with other users or third parties, including in connection with claims of copyright infringement;
+  * To protect the safety and security of users;
+  * With companies with which we plan to merge or an acquirer of all or substantially all of Surfrider Foundation’s assets (we will continue to process information consistent with this Privacy Policy and, when possible, will provide you with notice before Personal Information is transferred or becomes subject to a different privacy policy);
+  * To comply with a subpoena, regulation, binding order of a data protection agency, legal process, governmental request or other legal or regulatory process; and
+  * If we believe you have or are violating our [Terms of Service](http://surfrider.org/pages/terms-of-use) or in order to protect or defend Surfrider Foundation’s rights or property, even without a subpoena, warrant or other court order.
+
+
+
+#### 5\. ONLINE ADVERTISING, DATA COLLECTION AND “DO NOT TRACK”
+
+**a. Cookies & Other Data Collection Tools.** “ **Data Collection Tools** ” means technology that that collects information about your use of the Services and potentially about your activities when you leave the Services and visit other sites on the Internet, such as cookies and web beacons. 
+
+**b.   Online Advertising.  **The Services use Data Collection Tools to help manage our online advertising program. These Data Collection Technologies are provided by us as well as our ad management partners and other third parties.
+
+In addition, we and our ad management partners may use these Data Collection Tools to track the actions of users of the Services, to measure statistics of our marketing efforts, to deliver advertisements on the Services that may be more relevant to you and that will improve your experience on the Services, and to deliver advertisements to you when you  visit other third party sites.  
+
+**c.   ****How We Respond to Browser “Do Not Track” Signals:** Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “Do Not Track” ( **DNT** ) or similar feature that signals to websites that a visitor does not want to have his/her online activity and behavior tracked.  If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain Personal Information about the browser’s user.  Not all browsers offer a DNT option and DNT signals are not yet uniform.  For this reason, we and many website operators do not respond to DNT signals.  For more information about DNT signals, visit http://allaboutdnt.com.
+
+#### 6\. CREDIT CARD INFORMATION
+
+Surfrider Foundation does not process your credit card information. Instead, Surfirder Foundation has entered into an agreement with Trustcommerce, a third party payment processing service,  to store, process and transmit your credit card data when you make a donation to us. Surfrider Foundation may transfer Personal Information to Trustcommerce for the purpose of facilitating the transaction.
+
+#### 7\. INFORMATION PROTECTION
+
+Surfrider Foundation has implemented safeguards intended to protect your information from unauthorized access and use.  We also strive to obligate our agents, contractors and business partners that have access to information in connection with providing services for Surfrider Foundation protect your information.  But, while we do work hard to protect your information, we cannot guarantee the privacy or security of your information.  DISCLOSURE OF INFORMATION TO SURFRIDER FOUNDATION IS AT YOUR OWN RISK.  We urge you to take every precaution to protect your information when you use the Internet or store information on your computer, tablet or mobile device.
+
+#### 8\. LINKS TO OTHER SERVICES
+
+This Privacy Policy applies solely to information collected by or through the Services.  As noted in the Terms, the Services may contain plug ins from and links to third-party websites and services, including our merchandising partner Swell, as well as social media services such as Facebook and Twitter (collectively, “ **Linked Services** ”).  Linked Services are not under the control of Surfrider Foundation and Surfrider Foundation is not responsible for Linked Services.  The inclusion of a plug in or a link does not imply endorsement by Surfrider Foundation of the Linked Services or any association with the operators of the Linked Services.  Surfrider Foundation does not investigate, verify or monitor the Linked Services.  We provide links to Linked Sites for your convenience only.  You access Linked Services at your own risk.  We encourage you to read about the privacy practices of any Linked Service that you access. Swell’s privacy policy can be found [here](http://www.swell.com/c/privacyandsecurity.htm).
+
+#### 9\. YOUTH CLUB NETWORK
+
+We administer our Youth Club Network through the Services. While we are a nonprofit entity not subject to the Children’s Online Privacy Protection Act (COPPA), we do not direct the Services to children under the age of 13, and we do not knowingly collect, store or use personal information about children under the age of 13
+
+If we learn that a child under the age of 13 has submitted information about himself/herself to us, we delete it as soon as possible. If you believe that we have collected Personal Information from a child under the age of 13, please contact us at info@surfrider.org.
+
+#### 10\. CALIFORNIA CONSUMER RIGHTS INFORMATION
+
+California Civil Code section 1798.83 law permits residents of California to opt-out of disclosure of Personal Information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to our contact address below or by e-mailing us at [info@surfrider.org](mailto:info@surfrider.org). We honor all such opt-out requests and it is our policy not to share personal information with third parties for direct marketing purposes where you have submitted such a request.  Please note that this opt-out does not prohibit disclosure made for non-marketing purposes.
+
+Under California Civil Code Section 1789.3, we are required to provide California residents with the following specific consumer rights information:
+
+  1. The Services are owned and/or operated by Surfrider Foundation, P.O. Box 6010, San Clemente, CA 92674.
+  2. Unless otherwise expressly stated, the Services are provided without charge.
+  3. To file a complaint regarding any of the Services or to receive further information regarding use of the Services, please send a letter to Surfrider Foundation P.O. Box 6010, San Clemente, CA 92674 or contact us via email at info@surfrider.org  (with “California Resident Request” as the Subject Line). You also may contact the Complaint Assistance Unit of the Division of Consumer Services of California’s Department of Consumer Affairs in writing at 400 R Street, Suite 1080, Sacramento, California 95814 or by telephone at 916.445.1254 or 800.952.5210.
+
+
+
+#### 11\. INFORMATION TRANSMISSION
+
+_The Services are based in the United States and provided for access and use only by persons located in the United States and Canada._ __ The Services are hosted in the United States.  If you are visiting the Services from outside the United States and Canada, your information may be transferred to, stored and processed in the United States and Canada. The data privacy and protection and other laws of the United States may not be as comprehensive as those in your country.  By using the Services, you consent to transfer of your information to our facilities as described in this Privacy Policy.
+
+#### 12\. HOW TO CONTACT US
+
+If you have questions about this Privacy Policy or to request corrections, amendments or deletions to any Personal Information that you have provided through the Services, please contact us at [info@surfrider.org](mailto:info@surfrider.org) or call us at 949.492.8170.  Surfrider Foundation will use reasonable efforts to supply you with requested Personal Information and correct any factual inaccuracy or delete your Personal Information from our databases. To honor your request, we will need the exact information you wish to correct, amend or delete.
