@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615045920id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055443id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory - TrueLocal.com.au
 
-11 March 2014
+10 August 2015
 
 ##### Protecting your privacy
 
@@ -112,7 +112,7 @@ We also collect and manage Internet Protocol (IP) addresses - the unique identif
 
 TrueLocal may use third parties to analyse usage statistics. Such analysis is performed using data collected from our websites. The technology is not intended to collect personally identifiable information, however in limited circumstances some personally identifiable information is collected, for example, an email address incorporated into a URL string. Personally identifiable information collected in this way is not used by the third party or TrueLocal for any purpose.
 
-Digital advertising may be included on our site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity on your computer’s or device’s internet browser on sites within the TrueLocal network is collected and used to associate your computer or device with one or more pre-defined interest categories.
+Sensis has partnered with Yahoo!7 and other third parties so digital advertising may be included on our site. To make this advertising more relevant to you, we or our third party advertising companies may collect and use information about visits to our site and to other sites made using your computer or device. For more information on this practice and your options, visit [here](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options). You may also wish to visit [here](https://info.yahoo.com/privacy/au/yahoo/adserving) for more information on ad-serving and information on 'opting out'. 
 
 ##### Additional terms in relation to TrueLocal applications
 
@@ -124,7 +124,7 @@ Some TrueLocal applications may collect information about your location at a giv
 
 ##### Credit reporting policy
 
-In the process of providing credit to you in connection with our products and services, we may collect ‘credit information’ and ‘credit eligibility information’ about you as referred to in the Privacy Act.We have arranged for Telstra Corporation Limited (”Telstra’) to manage our credit operations on our behalf. Information that we may collect in connection with the provision of credit to our customers, may be provided to Telstra. How this information is managed by Telstra is set out in their Credit Reporting Policy which is available by clicking [here.](http://www.telstra.com.au/privacy/important-information-about-credit/)
+In the process of providing credit to you in connection with our products and services, we may collect ‘credit information’ and ‘credit eligibility information’ about you as referred to in the Privacy Act.We have arranged for Telstra Corporation Limited (”Telstra’) to manage our credit operations on our behalf. Information that we may collect in connection with the provision of credit to our customers, may be provided to Telstra. How this information is managed by Telstra is set out in their Credit Reporting Policy which is available by clicking [here](http://www.telstra.com.au/privacy/important-information-about-credit/).
 
 ##### Third party sites
 
