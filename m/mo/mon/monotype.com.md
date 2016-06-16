@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the monotype.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217205849id_/http%3A//www.monotype.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monotype.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210417id_/http%3A//www.monotype.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Monotype
 
-* * *
-
-  * [Legal ❭ ](https://web.archive.org/legal/)
-  * **Privacy Policy :**
-
-
-
 Monotype Imaging Holdings Inc., a Delaware corporation with its principal offices at 600 Unicorn Park Drive, Woburn, Massachusetts 01801 USA and its subsidiaries and affiliates worldwide (collectively, the “Company”, “we”, “us” and/or “our”), makes information, products, and services available, including on our Websites (the “Site(s)”), subject to the following Privacy Policy (the "Privacy Policy").  The Privacy Policy applies to all Company products and services, including any mobile applications that link to or display the Privacy Policy and/or the Site(s) (together, the “Services”).  This Privacy Policy is incorporated by reference into the Company’s [**Terms and Conditions of Use**.](https://web.archive.org/legal/terms-of-use/)
 
-**INFORMATION THE COMPANY MAY COLLECT:**
+### INFORMATION THE COMPANY MAY COLLECT:
 
 “ **Personal Information** ” means information that may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone or fax number. We do not consider Personal Information to include information that has been de-identified or aggregated so that it does not allow a third party to easily identify a specific individual.
 
@@ -19,7 +12,7 @@ Monotype Imaging Holdings Inc., a Delaware corporation with its principal office
 
 If we associate Usage Information with your Personal Information, we will treat it as Personal Information.
 
-**HOW THE COMPANY MAY COLLECT YOUR INFORMATION:**
+### HOW THE COMPANY MAY COLLECT YOUR INFORMATION:
 
 **Personal Information Collection Directly From You.** We may collect Personal Information when you register for any of the Services, visit certain areas of the Services, purchase products, subscribe to any communications from us, or otherwise voluntarily provide it to us. 
 
@@ -33,7 +26,7 @@ A "cookie" is a small line of text that is stored with your Web browser for reco
 
 By using the Services, you are authorizing us to gather, parse, and retain data, including Personal Information, related to the provision of the Services.
 
-**HOW THE COMPANY USES YOUR INFORMATION:**
+### HOW THE COMPANY USES YOUR INFORMATION:
 
 **Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us or such third party to facilitate the Services and/or to improve our services. 
 
@@ -43,7 +36,7 @@ By using the Services, you are authorizing us to gather, parse, and retain data,
 
 **Aggregate Data.** We may de-identify and aggregate data collected through the Services and use it for any purpose. It is important to remember that such information does not identify you individually.
 
-**HOW THE COMPANY MAY DISCLOSE YOUR INFORMATION:**
+### HOW THE COMPANY MAY DISCLOSE YOUR INFORMATION:
 
 We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission to do so. We may share Usage Information or de-identified or aggregate information with third parties for marketing or other purposes.
 
@@ -59,42 +52,42 @@ We do not rent, sell, or share Personal Information about you with other people 
 
 **With Your Consent.** We may also disclose your Personal Information with your permission.
 
-**SECURITY OF YOUR INFORMATION:**
+### SECURITY OF YOUR INFORMATION:
 
 We take steps to ensure that your Personal Information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
 By using the Services or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Services or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach involving your Personal Information (or to withdraw your consent from receiving electronic notice), please notify us at privacy@monotype.com.
 
-**CHILDRENS PRIVACY:**
+### CHILDREN'S PRIVACY:
 
 We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Services is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at privacy@monotype.com. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
 
-**INTERNATIONAL USERS:**
+### INTERNATIONAL USERS:
 
 By choosing to use the Services or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the Commonwealth of Massachusetts and the adjudication of any disputes arising in connection with the Services will be in accordance with the Terms and Conditions of Use.
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
 
-**UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION:**
+### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION:
 
 If you have any questions or concerns about this Privacy Policy or the use of your information, or to modify or update any information we have received, please contact [privacy@monotype.com.](mailto:privacy@monotype.com)
 
-**LINKS TO OTHER SITES:**
+### LINKS TO OTHER SITES:
 
 Our Site(s) may contain links to other web sites and services operated by third parties (the “Third Party Services”). The Company assumes no responsibility for the content or the privacy policies and practices of any such Third Party Service. The Company encourages you to read the privacy statements of each applicable Third Party Service as those privacy statements will apply to information collected through those Third Party Services.
 
-**BUSINESS TRANSITION INCLUDING MERGER OR ACQUISITION:**
+### BUSINESS TRANSITION INCLUDING MERGER OR ACQUISITION:
 
 If the Company undergoes a business transition such as a merger, being acquired by another company, or selling a portion of its assets, your Usage Information and Personal Information may become part of the assets transferred.
 
-**CHANGES TO OUR PRIVACY POLICY AND PRACTICES:**
+### CHANGES TO OUR PRIVACY POLICY AND PRACTICES:
 
 **Posting of Revised Privacy Policy.** We may update this Privacy Policy to reflect changes in our business and to our information practices. If we make any change in how we use Personal Information, we will notify you by placing a prominent notice on the Services prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
-**CONTACT INFORMATION:**
+### CONTACT INFORMATION:
 
 Visit our [Contact Page](https://web.archive.org/company/contact) for contact information for our domestic and international offices.
 
-_**LAST UPDATED: APRIL 23, 2015**_
+_**Last updated: April 23, 2015**_
