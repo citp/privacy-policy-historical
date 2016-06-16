@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023437id_/http%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051323id_/https%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Hit Profits : Privacy Policy
 
@@ -99,4 +99,4 @@ Contacting Us 
 
 
 
-[](http://trck.me/337764/banner.php)
+[](https://www.triplethr3at.net/?ref=regist)
