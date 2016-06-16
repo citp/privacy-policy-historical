@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the knoll.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204081141id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoll.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180731id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Knoll
-
-  
-
 
 This Privacy Policy explains Knoll®'s policy regarding the privacy of information supplied by users or collected by us from users of this Knoll Web Site. Because we want to build users trust and confidence in this web site, we want to disclose our privacy practices.
 
