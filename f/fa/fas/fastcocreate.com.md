@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcocreate.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228123239id_/http%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcocreate.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052648id_/https%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fast Company | Business + Innovation
 
@@ -120,6 +120,3 @@ If we decide to request information from children, we will require verifiable pa
 
 
 [Image: [Shutterstock](http://www.shutterstock.com/pic-92590003/stock-photo-profile-of-a-man-opening-the-door-of-a-safe.html?src=pp-same_artist-92589946-ebVtd5pywqqiIdGWVz280g-1&ws=1)]
-
-  
-
