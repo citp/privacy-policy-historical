@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnaplay.com privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309040924id_/http%3A//www.donnaplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnaplay.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171610id_/https%3A//www.donnaplay.com/privacy) for the most accurate reproduction.*
 
 # donnaplay.com - Privacy Policy
 
@@ -43,11 +43,11 @@ Digital Spread LLC uses cookie technology to make your use of the Sites more con
 
 ## What Other Mechanisms Does Digital Spread LLC Use to Track User Behavior?
 
-Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
+Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies.
 
 Digital Spread LLC and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Digital Spread LLC is owned and used by Digital Spread LLC. Digital Spread LLC reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
 
-We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 ## How Does Digital Spread LLC Handle Information from Children?
 
@@ -69,7 +69,7 @@ You may periodically receive from Digital Spread LLC, its subsidiaries and affil
 
 By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. Digital Spread LLC is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us.
 
-E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Digital Spread LLC are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action. 
+E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Digital Spread LLC are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action.
 
 ## What Personal Information Does Digital Spread LLC Give to Others?
 
@@ -87,19 +87,19 @@ Public postings. If you disclose your personal information in a manner that will
 
 ## How does Digital Spread LLC Protect Personal Information?
 
-Digital Spread LLC takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Digital Spread LLC. For example, Digital Spread LLC uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
+Digital Spread LLC takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Digital Spread LLC. For example, Digital Spread LLC uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions.
 
 ## What About Links to Other Web Sites?
 
-This Privacy Policy applies solely to information collected by Digital Spread LLC. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Digital Spread LLC's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Digital Spread LLC is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+This Privacy Policy applies solely to information collected by Digital Spread LLC. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Digital Spread LLC's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Digital Spread LLC is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
 ## How Can I Access or Correct My Personal Information?
 
 If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
 
-You can review and change certain account related information by visiting Digital Spread LLC, submiting suitable identification and giving the Digital Spread LLC your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+You can review and change certain account related information by visiting Digital Spread LLC, submiting suitable identification and giving the Digital Spread LLC your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc.
 
-You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area.
 
 Note that in most cases, Digital Spread LLC will retain the previously entered data.
 
