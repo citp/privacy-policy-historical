@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwtv.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226181341id_/http%3A//www.cwtv.com/thecw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwtv.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052109id_/http%3A//cwtv.com/thecw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CWTV.com
 
