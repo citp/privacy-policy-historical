@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullionguru.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128125903id_/http%3A//www.bullionguru.com/inner.php%3Fid%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullionguru.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616230742id_/https%3A//www.bullionguru.com/inner.php%3Fid%3D35) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,7 @@ The bullionguru.com site contains links to other websites. bullionguru.com is no
 
 **Notify Us**  
 If at any time you believe that bullionguru.com or its users/members have not adhered to these principles, please notify bullionguru.com by e-mail at [privacy@bullionguru.com](mailto:privacy@moneycontrol.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+
+* * *
+
+* * *
