@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the thesurvivalistblog.net privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218153209id_/http%3A//www.muddywaterpress.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesurvivalistblog.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616231617id_/http%3A//www.thesurvivalistblog.net/about3/my-disclosure-policy) for the most accurate reproduction.*
 
-# 
+# ***Disclaimer and Privacy Policy*** - TheSurvivalistBlog.net
 
-The privacy of our visitors to TheSurvivalistBlog.net is important to us. At TheSurvivalistBlog.net, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TheSurvivalistBlog.net, and how we safeguard your information. We never sell your personal information to third parties.
+**Blog Content**
 
- **Log Files**
+All data and information provided on this site is for informational purposes only and reflects the personal experiences of the author. While all information is true and complete to the best of our knowledge, we can give no guarantee as to the accuracy, completeness, suitability, or validity of any information on this site and will not be held liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its use.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**Compensation**
 
- **Cookies and Web Beacons**
+Author will not compensate you in any way whatsoever if you ever happen to suffer a loss/inconvenience or damage because of/while making use of information in this blog. All information is provided on an as-is basis.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**Blog Comments**
 
-We also use third party advertisements on TheSurvivalistBlog.net to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Because I value your thoughtful opinions, I encourage you to add a comment to this discussion. Don’t be offended, if I edit your comment for clarity or to keep out questionable matters, however, and I may even delete off-topic or comments that I feel do not contribute anything useful to the conversation.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+By submitting a comment you agree that the comment content is your own, and to hold this site and all subsidiaries and representatives harmless from any and all repercussions, damages, or liability.
+
+**Privacy Policy**
+
+The privacy of our visitors is important to us and we will never sell your personal information to third parties or purposely do anything that would knowingly compromise your information or security.
+
+**Financial Disclosure**
+
+This blog accepts cash payments for advertising banners, link insertions or other forms of compensation for our services. Even though we sometimes receive compensation for posts, links to affiliate sites (such as Amazon.com) or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. Assume that all links on any page are affiliate links – most aren’t but to conform to FTC rules just assume that they are.
+
+Sponsor’s and advertisers – do not expect a positive review of your product just because you paid for advertising on TheSurvivalistBlog.net or sent a free product to me for review. If I find your product to be of poor quality or of little use to my readers I will let them know, my readers are more important that advertisers or my making a few dollars, from a review or affiliate link.
