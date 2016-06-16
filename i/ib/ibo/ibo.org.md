@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibo.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929100542id_/http%3A//www.ibo.org/en/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibo.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182116id_/http%3A//www.ibo.org/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IB privacy policy - International Baccalaureate®
 
@@ -6,7 +6,7 @@ The International Baccalaureate Organization, a Swiss foundation, with a registe
 
 The IB is committed to protecting the privacy of students, parents, educators and others who use our websites services and products (the “Services”). The IB operates on a global basis and is subject to a variety of legal requirements which affect how we treat your personal data, personal information and respect your privacy. This Privacy Policy describes how your personal data and information may be collected through the IB’s Services and how it is used, disclosed and transferred. 
 
-By accessing or using this website or any of our Services you are accepting the practices and policies outlined in this Privacy Policy.  Also, your use of any of the Services is governed by the [Terms and Conditions](https://web.archive.org/en/terms-and-conditions/), which includes this Privacy Policy. If you do not agree with any aspect of these documents or any of the Terms and Conditions, please do not access this website or use the Services. 
+By accessing or using this website or any of our Services you are accepting the practices and policies outlined in this Privacy Policy.  Also, your use of any of the Services is governed by the [Terms and Conditions](https://web.archive.org/terms-and-conditions/), which includes this Privacy Policy. If you do not agree with any aspect of these documents or any of the Terms and Conditions, please do not access this website or use the Services. 
 
 If you are not of legal age to form a binding contract (in many jurisdictions, this age is 18, but you should check the age applicable to yours), you may only use the Services and disclose information to us with your parent’s (or guardian’s) express consent. Please review this Privacy Policy with your parent or guardian. 
 
@@ -103,7 +103,7 @@ The IB uses a web analytics tool, Google Analytics, to monitor and evaluate site
 
 When using the IB’s websites, you will be shown a cookie banner and by using the IB websites you agree and consent to use of cookies for these purposes. 
 
-For information about the different cookies the IB uses and Google Analytics, please follow [this link to cookies terms](https://web.archive.org/en/terms-and-conditions/cookie-disciaimer/).
+For information about the different cookies the IB uses and Google Analytics, please follow [this link to cookies terms](https://web.archive.org/terms-and-conditions/cookie-disciaimer/).
 
 ## VI. NOTICE OF CHANGES IN PRIVACY POLICY
 
