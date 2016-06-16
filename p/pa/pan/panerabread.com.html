@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panerabread.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905101524id_/https%3A//www.panerabread.com/en-us/company-information/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panerabread.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617011205id_/https%3A//www.panerabread.com/en-us/company-information/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js geolocation rgba multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients csstransitions fontface generatedcontent" style=""><!--<![endif]--><head>
       <meta charset="utf-8">
@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="/etc/designs/panerabread/clientLibs.css" type="text/css">
 <link rel="stylesheet" href="/etc/clientlibs/foundation/searchpromote/themes/default.css" type="text/css">
 
-<script type="text/javascript" id="lightning_bolt_9627218401" src="https://b3.mookie1.com/2/LB/9627218401@x96?"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/clientlibrarymanager.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/clientlibrarymanager.js"></script>
 <script type="text/javascript">
 GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":[]},{"p":"/etc/clientlibs/granite/utils.js","c":[]},{"p":"/etc/clientlibs/granite/jquery/granite.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/libs/cq/ui/rte.js","c":["extjs","ie6"]},{"p":"/etc/designs/panerabread/clientHeadLibs.js","c":[]}],false);
 </script><script src="/etc/clientlibs/granite/jquery.js" type="text/javascript"></script>
@@ -97,67 +97,54 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 
 
-
-
-
-
-
-
-
-    
-    
-    
-        
-    
-    
-
-
-
-
-     
-     
-    
-        
-    
-    
-
 <div class="header-shadow" aria-hidden="true"></div>
 <header id="page-header">
    <div class="nav-top-wrapper">
    <input type="hidden" id="sub_domain" value=".panerabread.com">
-	<a href="/en-us/home-01.html" class="logo">PaneraBread</a>
+	<a href="/en-us/home.html" class="logo">PaneraBread</a>
+	
+
+
+<div class="findpanera-wrapper">
+
+    
+    
+        <form name="nav-search-form" action="/en-us/mypanera/find-a-panera.html" id="nav-search-form">
+            <div id="nav-search-panera">
+                <input type="text" placeholder="City/State/Zip Code" id="nav_find_panera">
+                <input class="findPanera gatrack" data-lb-track="store_locator" data-ga-track="Engagement||FindPanera||Search:Header:Locations:FindPanera" value="Find" type="submit">
+                <input type="hidden" name="limit" id="limit" value="10">
+            </div>
+        </form>
+    
+
+<div id="errorMsg"></div>
+</div>
+
+
+
 
         <!-- header order button starts -->
+	<div class="header-button-container hide-order-button" id="header-button-wrapper">
+		<div class="header-button-content">		    
+			<div class="header-buttons">	
+					     
 
-	<div class="header-button-container hide-order-button" id="header-button-wrapper"> 
-		<div class="header-button-content">    
-				<div class="header-buttons">
-				     
-            		
-							
-							
-								
-									 <a id="global-order-button" href="https://delivery.panerabread.com/ordering-webapp/" data-icon-image="" class="button-order-online header-button">
-               						 	<span class="order-button">Order Online</span>
-									 </a> 
-								
-							
-					        
-            		
-							
-							
-								
-									 <a id="global-catering-button" href="https://cater.panerabread.com/" data-icon-image="" class="header-button">
-										<span class="catering-button">Catering</span>
-									</a>
-								
-							
-					
-					
-					</div>
-					
-					<div data-delivery-state-url="http://delivery.panerabread.com/ordering-webapp/home/prevState" data-reskin-integration="[Ljava.lang.Object;@54254adc" id="global-order-count"></div>
-					
+ 
+ 
+
+ 
+ 
+ 
+ 
+  
+
+ 
+			<a id="b1" href="https://delivery.panerabread.com" target="" class="button-geraldo" tabindex="6">Order Online</a>
+			<a id="b2" href="https://cater.panerabread.com" target="" class="button-geraldo" tabindex="7">Catering</a>
+			<a id="b3" href="http://panerapeople.com/?utm_source=pbdotcom&amp;utm_medium=header&amp;utm_campaign=now_hiring" target="_blank" class="button-geraldo-inverse" tabindex="8">Now Hiring</a>
+			</div>
+			<!-- <div data-delivery-state-url="http://delivery.panerabread.com/ordering-webapp/home/prevState" data-reskin-integration="true" id="global-order-count"></div>-->	
 		</div>
 	</div>
 
@@ -172,11 +159,12 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
             </form>
         </div>
         <ul id="member" class="notLoggedInView" style="display:none">
-            <li><a id="global-sign-in" data-ga-track="Engagement||SignIn||HeaderNav:SignIn:Activity_Start" data-ga-track-end="Engagement||SignIn||HeaderNav:SignIn:Activity_End" href="#" class="modal-static gatrack" data-modal="sign-in-modal" data-acknowledge="/content/panerabread/en_us/lookups/acknowledgement.tabview.html" data-acknowledge-timeout="">Sign In</a></li>
+            <li><a id="global-sign-in" data-ga-track="Engagement||SignIn||HeaderNav:SignIn:Activity_Start" data-ga-track-end="Engagement||SignIn||HeaderNav:SignIn:Activity_End" href="#" class="modal-static gatrack" data-modal="sign-in-modal" data-acknowledge="/content/panerabread/en_us/lookups/acknowledgement.tabview.html" data-acknowledge-timeout="" data-catering-welcome="/content/panerabread/en_us/lookups/catering-teaser.tabview.html" data-catering-sign-in="/content/panerabread/en_us/lookups/catering-sign-in.tabview.html" data-catering-end-point="/content/panerabread/en_us/lookups/catering-end-point.tabview.html">Sign In</a>
+            </li>
             <li><a id="global-join-nav" data-ga-track="Conversion||Registration||HeaderNav:JoinNow:Activity_Start" data-ga-track-end="Conversion||Registration||HeaderNav:JoinNow:Activity_End" href="javascript:void(0);" class="modal-dynamic gatrack" data-modal="/content/panerabread/en_us/lookups/registration.tabview.html" data-secondary-reg="/content/panerabread/en_us/lookups/secondary-registration.tabview.html">Join Now</a></li>
         </ul>
         <ul id="member" class="loggedInView" style="display:none">
-            <li>Welcome, <span class="welcomeUser"></span></li>
+            <li>Hello  <span class="welcomeUser"></span></li>
             <li><a id="global-logout-link" href="/pbdyn/user/logout" class="test">Sign Out</a></li>
         </ul>
     </div>
@@ -234,10 +222,6 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                     
 		
                     
-		
-                    
-		
-                    
                
                  
                       
@@ -249,12 +233,18 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
      	  	
 
-				 <a href="#">Locations<span>giving &amp; events</span></a>
+				 <a href="#">Gift Cards<span>Give Good Taste</span></a>
 
       		   
 
    			  
                         </li>
+                    
+		
+                    
+		
+                    
+		
                     
 		
                     
@@ -295,6 +285,18 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
    			  
                         </li>
+                    
+		
+                    
+		
+                    
+		
+                    
+		
+                    
+		
+                    
+		
                     
 		
                     
@@ -481,7 +483,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
            	
              	
 					<li>
-                    	<a href="/en-us/menu-categories/soups.html" title="Soups and Mac &amp; Cheese">Soups and Mac &amp; Cheese</a>
+                    	<a href="/en-us/menu-categories/soups.html" title="Soups">Soups</a>
 					</li>
                     
                	
@@ -522,7 +524,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
              	
 				
 						<li>
-                            <a href="/en-us/menu-categories/pasta.html" title="Pasta">Pasta</a>
+                            <a href="/en-us/menu-categories/pasta.html" title="Pasta and Mac &amp; Cheese">Pasta and Mac &amp; Cheese</a>
 						</li>
 				
             
@@ -757,7 +759,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
            	
              	
 					<li>
-                    	<a href="/en-us/featured-menu/you-pick-two.html" title="You Pick Two ">You Pick Two </a>
+                    	<a href="/en-us/featured-menu/you-pick-2.html" title="You Pick Two">You Pick Two</a>
 					</li>
                     
                	
@@ -979,8 +981,8 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 				
 				
 					
-						
 					
+						
 					
 				
 				
@@ -1005,6 +1007,8 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                     
 
                     
+                        
+                    
 
 
 
@@ -1019,7 +1023,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 							
 
                             
-								 <li><a class=" gatrack" href="/panerabread/documents/nutrition/Menu-Retail.PDF" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:PrintableMenu:Activity_Exit" title=" Printable Menu" target="_blank"> Printable Menu</a>
+								 <li class=" None"><a class=" gatrack" href="https://www.panerabread.com/panerabread/documents/nutrition/Menu-Retail.PDF?utm_source=pbcom&amp;utm_medium=menu-dropdown-link&amp;utm_campaign=retail-menu-pdf" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:PrintableMenu:Activity_Exit" title=" Printable Menu" target="_blank"> Printable Menu</a>
 						</li>
                             
                         
@@ -1197,8 +1201,8 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 				
 				
 					
-						
 					
+						
 					
 				
 				
@@ -1239,7 +1243,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 							
 
                             
-								 <li class=" None"><a class=" gatrack" href="/panerabread/offsite/catering/Catering-WM.pdf" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:PrintableMenu:Activity_Exit" title="Printable Menu" target="_blank">Printable Menu</a>
+								 <li class=" None"><a class=" gatrack" href="https://www.panerabread.com/panerabread/offsite/catering/Catering-WM.pdf?utm_source=pbcom&amp;utm_medium=menu-dropdown-link&amp;utm_campaign=catering-menu-pdf" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:PrintableMenu:Activity_Exit" title="Printable Menu" target="_blank">Printable Menu</a>
 						</li>
                             
                         
@@ -1343,12 +1347,12 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 		
 			
 			
-				<a data-ga-track="" href="/en-us/gift-cards/about-gift-cards.html" class="promo-banner " width="100%"> <img src="/content/dam/panerabread/banners/nav-dropdown-banners/SC2-2015/sc2b-menu-dropdown-gift-card.jpg" alt="gift cards"></a>
+				<a data-ga-track="" href="/en-us/articles/celebreate-clean-salads-summer-2016.html" class="promo-banner " width="100%"> <img src="/content/dam/panerabread/banners/nav-dropdown-banners/Summer-2016/c3-menu-dropdown-clean-salads.jpg" alt="eat well your way menus"></a>
 
 
 
 				
-					<a data-ga-track="" href="/en-us/gift-cards/about-gift-cards.html" class="forward-button-primary ">Shop Gift Cards<span></span></a>
+					<a data-ga-track="" href="/en-us/articles/celebreate-clean-salads-summer-2016.html" class="forward-button-primary ">Every bite clean.<span></span></a>
 				
 			
 		
@@ -1778,12 +1782,12 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 		
 			
 			
-				<a data-ga-track="" href="/en-us/company/food-policy-no-no-list.html" class="promo-banner " width="100%"> <img src="/content/dam/panerabread/banners/nav-dropdown-banners/SC2-2015/sc2b-panera-way-dropdown-clean-eating.jpg" alt="clean dressings"></a>
+				<a data-ga-track="" href="/en-us/featured-menu/curated-menus.html" class="promo-banner " width="100%"> <img src="/content/dam/panerabread/banners/nav-dropdown-banners/Summer-2016/c3-menu-dropdown-curated-menu.jpg" alt="eat well your way menus"></a>
 
 
 
 				
-					<a data-ga-track="" href="/en-us/company/food-policy-no-no-list.html" class="forward-button-primary ">See Our No No List<span></span></a>
+					<a data-ga-track="" href="/en-us/featured-menu/curated-menus.html" class="forward-button-primary ">Eat well, your way.<span></span></a>
 				
 			
 		
@@ -1823,10 +1827,6 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                              
                             </nav>
                            
-                    
-                       
-                    
-                       
                     
                        
                         
@@ -1905,337 +1905,49 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 
 
-
-	
-		
 	
 	
 
-
-	
-		
-		
-	
-	
-
-
-<div class="teaser  rignt-nav-top show-separator">
-	
-		
-		
-			
-				
-                     
-
-                      
-						
-							
-							<h4><span aria-hidden="true"></span>In The Community</h4>
-						
-						
-					
-
-
-                    
-				
-				
-			
-		
-	
-
-	
-
-	
 		
 
-        
-        	
-            
-        
-
-         
-        	
-            
-        
-
 		
-			
-			
-		
-
-	
-		
-		
-	
-
-        
-		
-		
-		
-
-         
-		
-		
-		
-
-
-		
-		
-		
-
-		<ul class="">
-			
-				
-                
-                
-                
-				
-                
-
-                    
-						  
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
 			 
-					
-					
+                 
+					<h4>Gift Cards</h4>
+                
+                
+					<p>More convenient than cash, Panera Bread Gift Cards are easy-to-give and can be set up to reload automatically.</p>
+                
+				
 
-                        
-                        	
-                            
+				<ul>
+					
+						
+						
 
+						
 							
-
-                            
-								 <li><a class=" gatrack" href="/en-us/community/in-the-community-new.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:GivingBack:Activity_Exit" title="Giving Back" target="_self">Giving Back</a>
-						</li>
-                            
-                        
-
-					
-				
-			
-				
-                
-                
-                
-				
-                
-
-                    
-						  
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-					
-
-                        
-                        	
-                            
-
+								<li><a href="https://www.paneracards.com/buycards.aspx?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards" target="_blank" rel="external">Purchase Gift Cards</a></li>
 							
-
-                            
-								 <li><a class=" gatrack" href="/en-us/community/community-news-events.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:LocalEvents:Activity_Exit" title="Local Events" target="_self">Local Events</a>
-						</li>
-                            
-                        
-
-					
-				
-			
-				
-                
-                
-                
-				
-                
-
-                    
-						  
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-					
-
-                        
-                        	
-                            
-
 							
-
-                            
-								 <li><a class=" gatrack" href="/en-us/company/bakers-in-training/bit-kids-landing.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:Bakers-In-Training:Activity_Exit" title="Bakers-In-Training" target="_self">Bakers-In-Training</a>
-						</li>
-                            
-                        
+						
 
 					
-				
+				</ul>
+
 			
-				
-                
-                
-                
-				
-                
 
-                    
-						  
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-					
-
-                        
-                        	
-                            
-
-							
-
-                            
-								 <li><a class=" gatrack" href="/en-us/company/fundraising-night.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:FundraisingNights:Activity_Exit" title="Fundraising Nights" target="_self">Fundraising Nights</a>
-						</li>
-                            
-                        
-
-					
-				
 			
-		</ul>
+
+			
+
+			
+
+			
+
+			
+		
 	
-</div>
 </li>
 					
 						
@@ -2261,25 +1973,57 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 
 
- <h4 class="title">Find a Panera Bread</h4> 
-<p>Enter your city, state or ZIP code:</p>
-
-
-        <form name="nav-search-form" action="/en-us/mypanera/find-a-panera.html" id="nav-search-form">
-            <div id="nav-search-panera">
-                <input type="text" placeholder="" id="nav_find_panera">
-          <input class="findPanera gatrack" data-lb-track="store_locator" data-ga-track="Engagement||FindPanera||Search:GlobalNav:Locations:FindPanera" value="Find" type="submit">
-          <input type="hidden" name="limit" id="limit" value="10">
-                  </div>
-</form>
-   <div id="errorMsg"></div>
 
 
 
+
+	
+	
+
+		
+
+		
+			 
+                 
+					<h4>eGift Cards</h4>
+                
+                
+					<p>Need a gift now? Panera Bread eGift Cards can be personalized and delivered via email for a gift they won’t forget.</p>
+                
+				
+
+				<ul>
+					
+						
+						
+
+						
+							
+								<li><a href="https://panerabread.cashstar.com/?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards" target="_blank" rel="external">Purchase eGift Cards</a></li>
+							
+							
+						
+
+					
+				</ul>
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+		
+	
 </li>
 					
 						
-							<li class="separator-long"></li>
+							<li class="separator-short"></li>
 						
 					
 				
@@ -2296,8 +2040,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 						
 					
 					
-					<li class="promo-spot small ">
-
+					<li class="eq-column ">
 
 
 
@@ -2307,91 +2050,151 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 
 	
-
 	
 
 		
-		
 
 		
-            
-		
-
-
-		
-			
-
-            
-
-			
-
-            
-
-            
-
-             
-
-             						
+			 
+                 
+					<h4>Corporate Gift Cards</h4>
+                
+                
+					<p>We offer discounts on Panera Bread Gift Card purchases of $1,000 or more through our partner Incomm.</p>
+                
 				
 
+				<ul>
+					
+						
+						
 
+						
+							
+								<li><a href="http://app.vcdelivery.com/CorporateCustomerPortal/41470?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards" target="_blank" rel="external">Purchase Corporate Gift Cards</a></li>
+							
+							
+						
 
+					
+				</ul>
 
+			
 
+			
 
+			
 
+			
 
+			
 
-
-	
-		
-
-		
 			
 		
 	
-
-
-
-    
-
-  
-
-    
-
-<!-- Actual display of banner !-->
-
-
-
-
-
-
-
-	
-		
-			
-				<a data-ga-track="" href="http://paneracares.org/" rel="external" target="_blank" class="promo-banner " width="100%"> <img src="/content/dam/panerabread/banners/nav-dropdown-banners/nav-community.jpg" alt="Panera Cares cafe"></a>
+</li>
+					
+						
+							<li class="separator-short"></li>
+						
+					
 				
-					<a data-ga-track="" href="http://paneracares.org/" rel="external" target="_blank" class="forward-button-primary ">Learn More About Panera Cares<span></span></a>
+			
+		
+	            
+			
+				
+				
+					
+						
+						
+							
+						
+					
+					
+					<li class="eq-column ">
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			 
+                 
+					<h4>More Gift Card Links</h4>
+                
+                
 				
 
+				<ul>
+					
+						
+						
+
+						
+							
+							
+								<li><a href="https://www.panerabread.com/en-us/gift-cards/panera-bread-gift-cards.html?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards">About Gift Cards</a></li>
+							
+						
+
+					
+						
+						
+
+						
+							
+								<li><a href="https://www.paneracards.com/checkbalance.aspx?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards" target="_blank" rel="external">Check Your Balance</a></li>
+							
+							
+						
+
+					
+						
+						
+
+						
+							
+								<li><a href="https://www.paneracards.com/reloadcard.aspx?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards" target="_blank" rel="external">Reload A Gift Card</a></li>
+							
+							
+						
+
+					
+						
+						
+
+						
+							
+								<li><a href="https://www.paneracards.com/manageaccount.aspx?utm_source=panera&amp;utm_medium=header&amp;utm_campaign=gift_cards" target="_blank" rel="external">Manage Your Account</a></li>
+							
+							
+						
+
+					
+				</ul>
+
 			
+
+			
+
+			
+
+			
+
+			
+
 			
 		
 	
-
-	
-  
- 
-
-
-			
-
-            
-			
-        	
-         
-
 </li>
 					
 				
@@ -2414,6 +2217,12 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                              
                             </nav>
                            
+                    
+                       
+                    
+                       
+                    
+                       
                     
                        
                         
@@ -2504,10 +2313,10 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 			
 				 
-					<h4>Our Products</h4>
+					<h4>Explore Products</h4>
                 
 				
-					<p>Bring home our soups, salad dressings, mac &amp; cheese, frozen breads and more.</p>
+					<p>Bring home our soups, mac &amp; cheese, artisan frozen bread, salad dressings, coffee and more.</p>
                 
 				
 				<ul>
@@ -2515,16 +2324,14 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 						
 						
 
-							
-						
-
 						
 							
-							
-								<a href="/en-us/panera-at-home/panera-at-home-landing/panera-at-home-products.html" class="forward-button-primary">Explore Products
-                                    
+								<a href="https://www.paneraathome.com/products/categories" target="_blank" rel="external" class="forward-button-primary">Explore Products
+                                        
                                         <span></span>
-                                    </a>
+                                        
+                                        </a>
+							
 							
 						
 					
@@ -2590,12 +2397,9 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 						
 						
 
-							
-						
-
 						
 							
-								<a href="/panerabread/cpg/panera-at-home-where-to-buy-map.pdf" target="_blank" rel="external" class="forward-button-primary">Find Stores
+								<a href="https://www.paneraathome.com/where-to-buy" target="_blank" rel="external" class="forward-button-primary">Find Stores
                                         
                                         <span></span>
                                         
@@ -2654,26 +2458,27 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 			
 
                 
-					<h4>Fast &amp; Easy Recipes</h4>
+					<h4>Quick &amp; Easy Recipes</h4>
                 
                 
-					<p>Explore our recipes made just for busy home cooks. </p>
+					<p>Explore our Meal Ideas for busy home cooks.</p>
                 
 				
 
 				
 					
 						
+						
 							
+
                                 
-								
-									<a href="/en-us/panera-at-home/panera-at-home-landing/panera-at-home-product-recipes.html" title="Find Recipes" target="_top" class="forward-button-primary">Find Recipes 
+									<a href="https://www.paneraathome.com/meal-ideas" title="Find Recipes" target="_blank" rel="external" class="forward-button-primary">Find Recipes 
                                             
                                             <span></span>
                                             </a>
 								
+								
 							
-						
 						
 					
 				
@@ -2754,6 +2559,14 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 
 
+	
+		
+
+		
+			
+		
+	
+
 
 
     
@@ -2771,28 +2584,18 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 
 	
+		
+			
+				<a data-ga-track="" href="https://www.paneraathome.com/?utm_source=pbcom&amp;utm_medium=menu-dropdown&amp;utm_campaign=panera-at-home" rel="external" target="_blank" class="promo-banner " width="100%"> <img src="/content/dam/panerabread/banners/nav-dropdown-banners/Summer-2016/c3a-panera-at-home-dropdown-2016.jpg" alt="panera at home"></a>
+				
+					<a data-ga-track="" href="https://www.paneraathome.com/?utm_source=pbcom&amp;utm_medium=menu-dropdown&amp;utm_campaign=panera-at-home" rel="external" target="_blank" class="forward-button-primary ">Explore Panera at Home<span></span></a>
+				
 
+			
+			
+		
 	
-		
-			
-			
-				<a href="" class="promo-banner">
-			
-		
-		<img src="/content/dam/panerabread/banners/nav-dropdown-banners/SC2-2015/sc2b-panera-at-home-dropdown-2015.jpg" alt="panera at home">
 
-                
-                    
-
-                    
-						
-                    
-                
-
-                <label class="align-left">  
-
-		</label>
-		</a>
 	
   
  
@@ -2883,6 +2686,18 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                              
                             </nav>
                            
+                    
+                       
+                    
+                       
+                    
+                       
+                    
+                       
+                    
+                       
+                    
+                       
                     
                        
                     
@@ -3114,13 +2929,13 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 		</tbody></table>
 		
 		
-		<p>None of these?  <a href="/en-us/customer-service/contact-us.html">Contact Us</a> and we will do our best to help.</p>
+		<p>None of these?  <a href="/.html">Contact Us</a> and we will do our best to help.</p>
 	</form>
 </div>
 
 <div id="identify_account" class="">
 <div class="overlay-desc">
-	<p>Help us locate your account by entering either your MyPanera card number or the phone number associated with your account.</p> 	<p>Don't know either one? <a href="/en-us/customer-service/contact-us.html">Contact Us</a> and we will do our best to help.</p>
+	<p>Help us locate your account by entering either your MyPanera card number or the phone number associated with your account.</p> 	<p>Don't know either one OR no longer have access to your email account? <a href="http://panera.custhelp.com">Contact Us</a> and we will do our best to help.</p>
 </div>
 <form id="identify_account_form" method="post" action="" class="static-load form-no-check-marks" data-msg-error="Enter a valid phone number" data-msg-either-one="Please provide either your Phone number or Panera card number" data-ajax-action-url="/pbdyn/reset/identifyAccount">
 		<div id="identify-account-content">
@@ -3214,22 +3029,27 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 		    <ul class="mobHeadlinks navSet">
 			
 		       
-                <li class="listItem"><a href="https://mobile.panerabread.com/panera/home.action" class="navlink">
+                <li class="listItem"><a href="https://delivery.panerabread.com/#!/" class="navlink">
                     <img src="/content/dam/panerabread/icons/mobile-startorder.png">
-					Start Order</a></li>
+					Order Online</a></li>
 			
 		       
-                <li class="listItem"><a href="https://mobile.panerabread.com/panera/cafelocator.action" class="navlink">
+                <li class="listItem"><a href="https://cater.panerabread.com" class="navlink">
+                    <img src="/content/dam/panerabread/icons/mobile-catering.png">
+					Catering</a></li>
+			
+		       
+                <li class="listItem"><a href="https://delivery.panerabread.com/#!/cafeLocations/" class="navlink">
                     <img src="/content/dam/panerabread/icons/mobile-locations.png">
 					Locations</a></li>
 			
 		       
-                <li class="listItem"><a href="https://mobile.panerabread.com/panera/menucategory.action" class="navlink">
+                <li class="listItem"><a href="https://delivery.panerabread.com/#!/menu/category/" class="navlink">
                     <img src="/content/dam/panerabread/icons/mobile-ourmenu.png">
 					Our Menu</a></li>
 			
 		       
-                <li class="listItem"><a href="https://mobile.panerabread.com" class="navlink">
+                <li class="listItem"><a href="https://www.panerabread.com/en-us/home.html" class="navlink">
                     <img src="/content/dam/panerabread/icons/mobile-home.png">
 					Home</a></li>
 			
@@ -3245,25 +3065,25 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                
 		       
 				<li class="listItem">
-				    <a href="/en-us/mypanera/dashboard.html" class="navlink">My Dashboard</a>
+				    <a href="https://delivery.panerabread.com/#!/account/my_rewards" class="navlink">My Rewards</a>
 					
                  </li>
 				
 		       
 				<li class="listItem">
-				    <a href="https://mobile.panerabread.com/panera/pastorders.action" class="navlink">My Past Orders</a>
+				    <a href="https://delivery.panerabread.com/#!/account/my_past_orders" class="navlink">My Past Orders</a>
 					
                  </li>
 				
 		       
 				<li class="listItem">
-				    <a href="https://mobile.panerabread.com/panera/myfavorites.action" class="navlink">My Favorites</a>
+				    <a href="https://delivery.panerabread.com/#!/account/my_favorites" class="navlink">My Favorites</a>
 					
                  </li>
 				
 		       
 				<li class="listItem">
-				    <a href="https://mobile.panerabread.com/panera/myprofile.action" class="navlink">My Profile</a>
+				    <a href="https://delivery.panerabread.com/#!/account/my_favorites" class="navlink">My Profile</a>
 					
                  </li>
 					
@@ -3278,25 +3098,31 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                
 		       
 				<li class="listItem">
-				    <a href="/en-us/craftsmanship/recipes.html" class="navlink">Recipes</a>
+				    <a href="https://panerabread.cashstar.com" class="navlink">e-Gift Cards</a>
 					
                  </li>
 				
 		       
 				<li class="listItem">
-				    <a href="/en-us/craftsmanship/stories.html" class="navlink">Stories</a>
+				    <a href="https://www.paneraathome.com" class="navlink">Panera at Home</a>
 					
                  </li>
 				
 		       
 				<li class="listItem">
-				    <a href="/en-us/community/community-news-events.html" class="navlink">Community</a>
+				    <a href="#" class="navlink">Craftsmanship</a>
 					
-                 </li>
-				
-		       
-				<li class="listItem">
-				    <a href="/en-us/panera-at-home/panera-at-home-landing.html" class="navlink">Panera at Home</a>
+                    <ul class="mobHide">
+                        
+                        <li class="subListitem">
+						     <a href="/en-us/craftsmanship/stories.html" class="navlink">Stories</a>
+						</li>	
+                        
+                        <li class="subListitem">
+						     <a href="/en-us/craftsmanship/recipes.html" class="navlink">Recipes</a>
+						</li>	
+                        
+                    </ul> 
 					
                  </li>
 					
@@ -3372,8 +3198,8 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 <header id="mobile-page-header">
     <div class="nav-top-wrapper">
-        <div class="locator"><a href="https://mobile.panerabread.com/panera/cafelocator.action" mobile-href="">&nbsp;</a></div>
-        <div class="logo"><a class="logo" href="https://mobile.panerabread.com" mobile-href="">&nbsp;</a></div>
+        <div class="locator"><a href="https://delivery.panerabread.com/#!/cafeLocations/" mobile-href="">&nbsp;</a></div>
+        <div class="logo"><a class="logo" href="https://www.panerabread.com/en-us/home.html" mobile-href="">&nbsp;</a></div>
 
          <div class="mob-signlinks">
                 <div class="loggedInView" style="display:none">
@@ -3508,13 +3334,13 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
                         	
                             
-                            <p>EFFECTIVE DATE: September 17, 2014</p>
-<p>This policy describes the personal information we collect on &nbsp;<a href="http://www.panerabread.com/">www.panerabread.com</a> &nbsp;and any other authorized sites, services and tools where this policy appears (collectively, this "Site"), how we use it, and when we share it with third parties. Program terms applicable to Programs not described herein or in the Terms of Use Statement provide additional information about information collected related to that Program(s) and how it is used in connection with the applicable Program. This policy applies only to information collected via this Site, and unless otherwise specifically described herein or in any Program terms, does not apply to information collected offline (including but not limited to information you may provide over the phone, via fax, or when visiting a Panera Bread bakery-cafe or any other website of Panera Bread or on third party sites) (see&nbsp;<a href="#thirdpartysites">Third Party Sites</a>&nbsp;section below). Please note that not all of the features/functionality described are available on or through each portion of the Site.</p>
-<p>By using this Site, you agree to this Privacy Policy and to the&nbsp;<a href="https://www.panerabread.com/en-us/fine-print/terms-of-use.html">Terms of Use</a>&nbsp;statement ("Statement") governing its use and Program terms applicable to various Programs. If you have questions, comments or concerns about this Privacy Policy, please&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>. Be sure to check this page periodically for updates, as your continued use of this Site and/or participation in any Program signifies your acceptance of any changed terms.</p>
+                            <p>EFFECTIVE DATE: January 11, 2016</p>
+<p>This policy describes the personal information we collect on &nbsp;<a href="http://www.panerabread.com/">www.panerabread.com</a>&nbsp;&nbsp;and any other authorized sites, services and tools where this policy appears (collectively, this "Site"), how we use it, and when we share it with third parties. Program terms applicable to Programs not described herein or in the Terms of Use Statement provide additional information about information collected related to that Program(s) and how it is used in connection with the applicable Program. This policy applies only to information collected via this Site, and unless otherwise specifically described herein or in any Program terms, does not apply to information collected offline (including but not limited to information you may provide over the phone, via fax, or when visiting a Panera Bread bakery-cafe or any other website of Panera Bread or on third party sites) (see&nbsp;<a href="#thirdpartysites">Third Party Sites</a>&nbsp;section below). Please note that not all of the features/functionality described are available on or through each portion of the Site.</p>
+<p>By using this Site, you agree to this Privacy Policy and to the&nbsp;<a href="https://www.panerabread.com/en-us/fine-print/terms-of-use.html">Terms of Use</a>&nbsp;statement ("Statement") governing its use and Program terms applicable to various Programs. If you have questions, comments or concerns about this Privacy Policy, please&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>. Be sure to check this page periodically for updates, as your continued use of this Site and/or participation in any Program signifies your acceptance of any changed terms.</p>
 <h1>Information Collected and How It Is Used</h1>
 <p>Information is collected about you (directly and/or through the activities of third party suppliers and service providers ("suppliers") and/or franchisees) from various sources, including without limitation the following:</p>
 <ol class="global-list">
-<li>information you provide when you&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>&nbsp;through this Site,</li>
+<li>information you provide when you&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>&nbsp;through this Site,</li>
 <li>information you provide on the Program/account registration and other online pages, surveys, or other submission through this Site and/or in connection with Programs and services available through this Site,</li>
 <li>information recorded as a result of your interaction with us and/or franchisees and/or use of the Site (including without limitation information we receive when you use your Program member card(s), historical sales information, information about your location and the device you are using, through this Site or any other website or in any other manner),</li>
 <li>information you provide when you respond to surveys conducted by or on behalf of us and/or franchisees,</li>
@@ -3551,44 +3377,44 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 <p>From time to time Panera, directly or utilizing the services of third party provider(s), may ask you to participate in surveys. If you provide personal information, this information will be utilized as described in the privacy policy applicable to the site collecting the information, and any information transferred to Panera shall be utilized as described in Information Collected and How It Is Used. Survey responses received by Panera may not be in an anonymous format and may be associated with your Program account number or the like.</p>
 <h1>Job Application Information</h1>
 <p>It may be possible to apply for certain jobs at Panera through this Site. If you choose to apply through this Site, you will be required to provide certain personal information, to complete questionnaires related to evaluation of your qualifications for certain positions, or provide a resume or other similar employment experience description. You may also be asked to provide your gender and racial/ethnic origin on a voluntary basis, which information will not be provided to anyone involved in the hiring decision and will be used solely for EEO tracking purposes. Panera uses suppliers to provide certain of these services. We encourage you to review their privacy policies. (See&nbsp;<a href="#thirdpartysites">Third Party Sites</a>&nbsp;provisions below). Information you submit online through this Site or through supplier sites may be made available to suppliers and/or franchisees of Panera, as well as certain employees and contractors of Panera. You may also fax your résumé to us at 314-909-3320. Additionally, we may from time to time ask you to apply for certain jobs by email and/or a different fax number. This Privacy Policy does not apply to information sent to us by emails or faxes as such information is sent and received outside of this Site.</p>
-<p>Please note that certain suppliers' sites may also allow you to submit your resume and/or otherwise apply for jobs at franchisee locations. Panera Bread is not responsible for the hiring or employment practices of its franchisees. As described in the Our Business Structure section in the Statement, Panera Bread assumes no responsibility for the privacy practices of our franchisees in their handling of the personal information they collect from you online or offline. If you have questions or concerns about a Panera Bread franchisee, please contact that franchisee directly. If you need assistance reaching a franchisee, please&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>&nbsp;or see the&nbsp;<a href="#formoreinformation">For More Information</a>&nbsp;section below.</p>
+<p>Please note that certain suppliers' sites may also allow you to submit your resume and/or otherwise apply for jobs at franchisee locations. Panera Bread is not responsible for the hiring or employment practices of its franchisees. As described in the Our Business Structure section in the Statement, Panera Bread assumes no responsibility for the privacy practices of our franchisees in their handling of the personal information they collect from you online or offline. If you have questions or concerns about a Panera Bread franchisee, please contact that franchisee directly. If you need assistance reaching a franchisee, please&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>&nbsp;or see the&nbsp;<a href="#formoreinformation">For More Information</a>&nbsp;section below.</p>
 <h1>Press Information</h1>
 <p>If you are a member of the press, Panera Bread will collect your name and contact information in order to respond to your&nbsp;<a href="https://www.panerabread.com/en-us/company/media-inquiries.html">inquiry</a>. We may store your personal information and inquiries for future reference.</p>
 <h1>Site Usage and Targeted Marketing Information</h1>
 <p>Like most web sites, this Site gathers traffic patterns, site usage information and similar data. This usage data may identify you individually and we may associate it with other personal information that we collect from you on this Site and related to any Program(s) you participate in and as otherwise described in this Privacy Policy (see Information Collected and How It Is Used section of this privacy policy and any applicable individual Program terms for more details on how this information is used). This usage data may also be used in anonymous and/or aggregated form. We may share anonymous and/or aggregated statistics about visitors to this Site with others outside our Company, and we may allow third-parties to collect and aggregate non-personal information through this Site and/or supplier sites accessible from or through this Site.</p>
 <p>This Site may use cookies, pixels, web beacons (described below) or other similar technology to enhance the browsing and usage experience on this Site. The information captured about your activities on this Site will make it possible for us, among other things, (i) to speed navigation and provide you with custom tailored content; (ii) to remember information you gave to us so you don't have to re-enter it each time you visit this Site; (iii) to monitor the effectiveness of certain of our marketing campaigns; (iv) to monitor total number of visitors, pages viewed, web address you came from and type of browser you are using, and (v) enforce limitations on downloads described for on-line coupons and other similar offers.</p>
-<p>We may from time to time use your information and third party service providers to implement and evaluate our marketing activities and programs, including without limitation activities on our Site and to engage in targeted and personalized online advertising on third party websites or other online or offline services operated by third parties. This marketing may be completed using data collected about you over time in connection with Programs you participate in, on this Site and other sites on the Internet, from our other marketing activities and programs, and from third parties with whom we work. This data may be collected on an individual basis, such as through information you have provided to us on this Site or through a Program, or based on the use of cookies, pixels, web beacons and other technology, as described below. This information may also be available to and/or shared with the third party service providers and others outside our Company on an anonymous basis for their own business purposes. For information about opting out of our third party service provider cookies/pixels/web beacons and certain other targeted advertising, please visit the Network Advertising Initiative website &nbsp;<a href="http://www.networkadvertising.org/">networkadvertising.org</a> &nbsp;and <a href="http://www.aboutads.info/consumers">aboutads.info/consumers</a>.</p>
+<p>We may from time to time use your information and third party service providers to implement and evaluate our marketing activities and programs, including without limitation activities on our Site and to engage in targeted and personalized online advertising on third party websites or other online or offline services operated by third parties. This marketing may be completed using data collected about you over time in connection with Programs you participate in, on this Site and other sites on the Internet, from our other marketing activities and programs, and from third parties with whom we work. This data may be collected on an individual basis, such as through information you have provided to us on this Site or through a Program, or based on the use of cookies, pixels, web beacons and other technology, as described below. This information may also be available to and/or shared with the third party service providers and others outside our Company on an anonymous basis for their own business purposes. For information about opting out of our third party service provider cookies/pixels/web beacons and certain other targeted advertising, please visit the Network Advertising Initiative website &nbsp;<a href="http://www.networkadvertising.org/">networkadvertising.org</a>&nbsp;and&nbsp;<a href="http://www.aboutads.info/consumers">aboutads.info/consumers</a>.</p>
 <p>"Cookies" are small files or records that are stored on your computer's hard drive when you visit a website. To opt out of receiving most cookies related to this Site, including cookies used for targeted advertising, you can clear your browser(s) of all existing cookies, and set your browser(s) to refuse cookies. The "help" functionality of your browser(s) will explain how to do this. If you refuse cookies, your experience on this Site, some Programs, and some of our online advertising may be affected — for example you may not be able to utilize all of the functions on this Site. If you delete your cookies, change browsers or use a different computer, any opt-out cookie may no longer work and you will have to opt-out again.&nbsp; We may also use a "pixel" or "web beacon" which is a line of code used by a website or third party ad server to cause a cookie to track a user’s activity on particular sites and/or using particular advertising/links, for example, to record that a user has visited a particular webpage and to collect other information about that user on that site, including without limitation the IP address of the computer (and therefore infer information, such as geolocation), web pages being viewed, date/time viewed, and user activity on a particular page.</p>
 <h1>Protecting Our Community</h1>
 <p>The law requires that we and our suppliers may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants or other like orders and in other ways necessary to comply with applicable law. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we and our suppliers reserve the right to use and disclose your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, violation of third party rights, situations involving potential threats to the physical safety of any person, or any other similar situation, violations of the Statement, any Program terms and/or as required by law.</p>
 <h1>Children's Privacy</h1>
-<p>This Site is not directed toward children under the age of thirteen, and we do not knowingly collect any personal information from children under the age of thirteen. If you are between the ages of 13 and 18, please ensure that you use this Site with the permission of a parent or guardian. If a child under thirteen provided this Site with personal information, we ask that a parent or guardian&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>, call us at 394-866-1000 or write us at Customer Resource Group, Panera Bread, 3630 S. Geyer Road St. Louis, MO 63127, and we will promptly delete the child's information from our records.</p>
-<h1><a name="security"></a><img src="/libs/cq/ui/resources/0.gif">Security of Your Personal Information</h1>
-<p>Panera Bread maintains reasonable physical, electronic and procedural safeguards to protect your personal information. Unfortunately though, we can't guarantee that any safeguards or security measures will be sufficient to prevent a security problem. If you believe your account(s) have been compromised, please immediately&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>&nbsp;and take immediate action to remove the credit card, Panera gift card or other payment information associated with your account(s).&nbsp; Personal information and non-personal information are stored on computers and servers located in the United States. The United States may not offer a level of privacy protection for personal information as great as that offered in other jurisdictions. Therefore the disclosure of personal information is at your own risk. We make no representation that the practices described in this policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of personal information.&nbsp; Email submissions over the Internet may not be secure. Please consider this fact before emailing any personal or confidential information.</p>
+<p>This Site is not directed toward children under the age of thirteen, and we do not knowingly collect any personal information from children under the age of thirteen. If you are between the ages of 13 and 18, please ensure that you use this Site with the permission of a parent or guardian. If a child under thirteen provided this Site with personal information, we ask that a parent or guardian&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>, call us at 394-866-1000 or write us at Customer Resource Group, Panera Bread, 3630 S. Geyer Road St. Louis, MO 63127, and we will promptly delete the child's information from our records.</p>
+<h1><img src="/libs/cq/ui/resources/0.gif"><img src="/libs/cq/ui/resources/0.gif">Security of Your Personal Information</h1>
+<p>Panera Bread maintains reasonable physical, electronic and procedural safeguards to protect your personal information. Unfortunately though, we can't guarantee that any safeguards or security measures will be sufficient to prevent a security problem. If you believe your account(s) have been compromised, please immediately&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>&nbsp;and take immediate action to remove the credit card, Panera gift card or other payment information associated with your account(s).&nbsp; Personal information and non-personal information are stored on computers and servers located in the United States. The United States may not offer a level of privacy protection for personal information as great as that offered in other jurisdictions. Therefore the disclosure of personal information is at your own risk. We make no representation that the practices described in this policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of personal information.&nbsp; Email submissions over the Internet may not be secure. Please consider this fact before emailing any personal or confidential information.</p>
 <h1>Transfer of Assets or Business</h1>
 <p>In the event of a transfer or sale of some or all of our business or assets, Panera Bread may disclose your personal information to those involved in such a transfer or sale of business or assets.</p>
 <h1>Changing Your Information</h1>
-<p>Please notify us immediately of a lost or stolen member card.&nbsp; If you need to update, verify or delete your personal information related to a particular Program or service, please edit your account in the area provided, if available as part of a Program,&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>, or contact us at Customer Resource Group, Panera Bread, 3630 S. Geyer Road St. Louis, MO 63127. Note that not all fields are able to be changed. If you need to update or verify your personal information related to a job application, or wish to remove yourself from future consideration for other career opportunities, please go to the Careers section of this Site, and use your user name and password to update or verify your personal information or to indicate that you no longer want to receive emails regarding other career opportunities. Please, note, however, that changes made either in an account area or by contacting us directly may not remove your personal information from specific uses for which it was previously provided or active marketing or other programs. This information will be updated as soon as reasonably possible, subject to retention for Program administration, dispute resolution, troubleshooting and other valid legal or business reasons. Please note that your historical usage information may remain in our records.</p>
+<p>Please notify us immediately of a lost or stolen member card.&nbsp; If you need to update, verify or delete your personal information related to a particular Program or service, please edit your account in the area provided, if available as part of a Program,&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>, or contact us at Customer Resource Group, Panera Bread, 3630 S. Geyer Road St. Louis, MO 63127. Note that not all fields are able to be changed. If you need to update or verify your personal information related to a job application, or wish to remove yourself from future consideration for other career opportunities, please go to the Careers section of this Site, and use your user name and password to update or verify your personal information or to indicate that you no longer want to receive emails regarding other career opportunities. Please, note, however, that changes made either in an account area or by contacting us directly may not remove your personal information from specific uses for which it was previously provided or active marketing or other programs. This information will be updated as soon as reasonably possible, subject to retention for Program administration, dispute resolution, troubleshooting and other valid legal or business reasons. Please note that your historical usage information may remain in our records.</p>
 <h1>Opt-Out</h1>
-<p>To opt-out of email marketing communications, unsubscribe using the "unsubscribe" choices at the bottom of an email marketing communication from us, or refer to the applicable account page.&nbsp; To opt-out of certain site and online advertising tracking, see Application/Site Usage and Targeted Marketing Information. To opt-out of future offline uses of your personal information, do not use your Program member card(s) or account(s) and contact us at&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>&nbsp;and request that your personal information be deleted.&nbsp; Please, note, however, that changes made either in an account area or by contacting us directly may not remove your personal information from specific uses or active marketing or other programs. This information will be updated as soon as reasonably possible, subject to&nbsp;retention for Program administration, dispute resolution, troubleshooting and other valid legal or business reasons. Please note that your historical usage information may remain in our records.</p>
-<h1><a name="thirdpartysites"></a><img src="/libs/cq/ui/resources/0.gif">Third Party Sites</h1>
+<p>To opt-out of email marketing communications, unsubscribe using the "unsubscribe" choices at the bottom of an email marketing communication from us, or refer to the applicable account page.&nbsp; To opt-out of certain site and online advertising tracking, see Application/Site Usage and Targeted Marketing Information. To opt-out of future offline uses of your personal information, do not use your Program member card(s) or account(s) and contact us at&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>&nbsp;and request that your personal information be deleted.&nbsp; Please, note, however, that changes made either in an account area or by contacting us directly may not remove your personal information from specific uses or active marketing or other programs. This information will be updated as soon as reasonably possible, subject to&nbsp;retention for Program administration, dispute resolution, troubleshooting and other valid legal or business reasons. Please note that your historical usage information may remain in our records.</p>
+<h1><img src="/libs/cq/ui/resources/0.gif"><img src="/libs/cq/ui/resources/0.gif">Third Party Sites</h1>
 <p>This Site may provide links to web sites not operated by Panera Bread, including without limitation our supplier(s) related to certain Programs or services offered through this Site. Panera Bread assumes no responsibility for third-party websites, including but not limited to, the privacy practices of these third-party sites. We encourage you to be aware of this when you leave this Site, and we recommend that you review the privacy policies of every web site that collects personal information from you. This Privacy Policy applies only to this Site.</p>
 <p>Although this Site may open a new browser window when you click on a link to a third party's site, we do not guarantee that you will receive this alert when you leave this Site. It is your responsibility to determine when you have left this Site.</p>
 <p>We may also provide you with access to third party functionality that allows you to post certain content from this Site to your social media account(s). Any information that you post to a third party site is governed by the applicable third party’s site terms and privacy policy.</p>
 <h1>California Privacy Rights</h1>
-<p>Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Panera Bread who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>&nbsp;or write us at: Customer Service, Panera Bread, 3630 S. Geyer Road St. Louis, MO 63127.</p>
+<p>Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Panera Bread who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>&nbsp;or write us at: Customer Service, Panera Bread, 3630 S. Geyer Road St. Louis, MO 63127.</p>
 <h1>Miscellaneous</h1>
 <ul>
 <li>This Privacy Policy is subject to, and incorporated by reference into, the Statement.</li>
 <li>Capitalized terms referenced in this Privacy Policy but not defined herein shall have the same meaning as identified in the Statement.</li>
 </ul>
-<h1><a name="formoreinformation"></a><img src="/libs/cq/ui/resources/0.gif">For More Information</h1>
-<p>If you have any questions regarding our Privacy Policy, please&nbsp;<a href="https://panera.custhelp.com">Contact Us</a>&nbsp;or write to us at:</p>
-<p style="margin-bottom: 0;">Customer Resource Group </p>
-<p style="margin-bottom: 0;">Panera Bread </p>
-<p style="margin-bottom: 0;">3630 S. Geyer Road</p>
-<p> St. Louis, MO 63127</p>
-<p>© 2009-2014 Panera Bread. All Rights Reserved.</p>
+<h1><img src="/libs/cq/ui/resources/0.gif"><img src="/libs/cq/ui/resources/0.gif">For More Information</h1>
+<p>If you have any questions regarding our Privacy Policy, please&nbsp;<a href="https://www.panerabread.com/en-us/customer-service/contact-us.html">Contact Us</a>&nbsp;or write to us at:</p>
+<p>Customer Resource Group <br>
+Panera Bread <br>
+3630 S. Geyer Road<br>
+ St. Louis, MO 63127</p>
+<p>© 2009-2016 Panera Bread. All Rights Reserved.</p>
 
 
 
@@ -3603,7 +3429,15 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 </div>                     
                         </article>
                         <article class="one-column-tiny teaser-column last">
-                             <!-- 
+                            <div>
+                                
+                            </div>
+                            <div>
+                                
+                                    
+
+                                    
+                                          
 
 
 
@@ -3699,116 +3533,6 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
                 
 
                     
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-					
-
-                        
-                        	
-                            
-
-							
-
-                            
-								 <li ><a class=" gatrack" href="/en-us/company-information/terms-of-use.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:TermsofUse:Activity_Exit"
-							title="Terms of Use" target="_self">Terms of Use</a>
-						</li>
-                            
-                        
-
-					
-				
-			
-				
-                
-                
-                
-				
-                
-
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-                        <li ><span class="link-active ">Your Privacy </span>
-						</li>
-					
-					
-				
-			
-				
-                
-                
-                
-				
-                
-
-                    
 						  
                     
 
@@ -3857,8 +3581,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 							
 
                             
-								 <li class=" None"><a class=" gatrack" href="/en-us/company-information/wifi-terms-of-use.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:WiFiTermsofUse:Activity_Exit"
-							title="WiFi Terms of Use" target="_self">WiFi Terms of Use</a>
+								 <li class=" None"><a class=" gatrack" href="/en-us/company-information/terms-of-use.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:TermsofUse:Activity_Exit" title="Terms of Use" target="_self">Terms of Use</a>
 						</li>
                             
                         
@@ -3913,224 +3636,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 
 			 
 					
-					
-
-                        
-                        	
-                            
-
-							
-
-                            
-								 <li class=" None"><a class=" gatrack" href="/en-us/company-information/california-supply-chain-act.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:CaliforniaSupplyChainAct:Activity_Exit"
-							title="California Supply Chain Act" target="_self">California Supply Chain Act</a>
-						</li>
-                            
-                        
-
-					
-				
-			
-		</ul>
-	
-</div>
- -->
-                            
-                                
-
-                                
-                                      
-
-
-
-
-
-
-
-
-
-	
-	
-		
-	
-
-
-	
-	
-		
-		
-	
-
-
-<div class="teaser no-border rignt-nav-right show-separator">
-	
-		
-		
-			
-				
-				
-                    
-                      
-						
-						
-							<h2>Legal</h2>
-						
-					
-
-
-
-                    
-				
-			
-		
-	
-
-	
-
-	
-		
-
-        
-        	
-            
-        
-
-         
-        	
-            
-        
-
-		
-			
-			
-		
-
-	
-		
-		
-	
-
-        
-		
-		
-		
-
-         
-		
-		
-		
-
-
-		
-		
-		
-
-		<ul class="global-no-bullet-list">
-			
-				
-                
-                
-                
-				
-                
-
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-					
-
-                        
-                        	
-                            
-
-							
-
-                            
-								 <li><a class=" gatrack" href="/en-us/company-information/terms-of-use.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:TermsofUse:Activity_Exit" title="Terms of Use" target="_self">Terms of Use</a>
-						</li>
-                            
-                        
-
-					
-				
-			
-				
-                
-                
-                
-				
-                
-
-                    
-
-				
-				
-					
-						
-					
-					
-				
-				
-					
-					
-						
-					
-				
-				
-					
-					
-						
-					
-				
-
-	                
-                    
-                    
-                    
-
-                    
-                    
-
-                    
-
-
-
-			 
-					
-                        <li><span class="link-active ">Your Privacy </span>
+                        <li class=" None"><span class="link-active ">Your Privacy </span>
 						</li>
 					
 					
@@ -4264,13 +3770,75 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 					
 				
 			
+				
+                
+                
+                
+				
+                
+
+                    
+						  
+                    
+
+				
+				
+					
+						
+					
+					
+				
+				
+					
+					
+						
+					
+				
+				
+					
+					
+						
+					
+				
+
+	                
+                    
+                    
+                    
+
+                    
+                    
+
+                    
+
+
+
+			 
+					
+					
+
+                        
+                        	
+                            
+
+							
+
+                            
+								 <li><a class=" gatrack" href="/en-us/company-information/gift-card-terms-and-conditions.html" data-ga-track="Conversion||Navigation||FooterNav:GiftCards:GiftCardTerms&amp;Conditions:Activity_Exit" title="Gift Card Terms &amp; Conditions" target="_self">Gift Card Terms &amp; Conditions</a>
+						</li>
+                            
+                        
+
+					
+				
+			
 		</ul>
 	
 </div>
- 
-                                
-                            
 
+                                    
+                                
+                            </div>
                         </article>
                     </section>
                 </div>
@@ -4431,7 +3999,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
     
 
 
-        <h4>How Can We Help?</h4>
+        <h4>In The Community</h4>
    <ul>
     
          
@@ -4441,10 +4009,71 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
         
 
         
-      
+
             <li>
-                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:PaneraSupport" href="http://panera.custhelp.com" title="Panera Support">Panera Support</a>
-            </li>
+
+                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:CommunityGiving" href="/en-us/community/in-the-community-new.html" title="Community Giving">Community Giving</a>
+
+                </li>
+
+        
+      
+
+        
+    
+         
+         
+     	 
+		 
+        
+
+        
+
+            <li>
+
+                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:LocalEvents" href="/en-us/community/community-news-events.html" title="Local Events">Local Events</a>
+
+                </li>
+
+        
+      
+
+        
+    
+         
+         
+     	 
+		 
+        
+
+        
+
+            <li>
+
+                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:Bakers-In-Training" href="/en-us/company/bakers-in-training/bit-kids-landing.html" title="Bakers-In-Training">Bakers-In-Training</a>
+
+                </li>
+
+        
+      
+
+        
+    
+         
+         
+     	 
+		 
+        
+
+        
+
+            <li>
+
+                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:FundraisingNights" href="/en-us/company/fundraising-night.html" title="Fundraising Nights">Fundraising Nights</a>
+
+                </li>
+
+        
       
 
         
@@ -4475,7 +4104,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
     
 
 
-        <h4>Gift Cards</h4>
+        <h4>How Can We Help?</h4>
    <ul>
     
          
@@ -4485,58 +4114,9 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
         
 
         
-
-            <li>
-
-                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:AboutPaneraBreadGiftCards" href="/en-us/gift-cards/gift-cards.html" title="About Panera Bread Gift Cards">About Panera Bread Gift Cards</a>
-
-                </li>
-
-        
-      
-
-        
-    
-         
-         
-     	 
-		 
-        
-
-        
       
             <li>
-                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:BuyaPaneraBreadGiftCard" href="https://www.paneracards.com/buycards.aspx" title="Buy a Panera Bread Gift Card">Buy a Panera Bread Gift Card</a>
-            </li>
-      
-
-        
-    
-         
-         
-     	 
-		 
-        
-
-        
-      
-            <li>
-                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:BuyaPaneraBreadeGiftCard" href="https://panerabread.cashstar.com/" title="Buy a Panera Bread eGift Card">Buy a Panera Bread eGift Card</a>
-            </li>
-      
-
-        
-    
-         
-         
-     	 
-		 
-        
-
-        
-      
-            <li>
-                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:CheckYourBalance" href="https://www.paneracards.com/checkbalance.aspx" title="Check Your Balance">Check Your Balance</a>
+                <a class="gatrack" data-ga-track="Engagement||Navigation||FooterNav:CustomerService:PaneraSupport" href="https://panera.custhelp.com" title="Panera Support">Panera Support</a>
             </li>
       
 
@@ -4610,7 +4190,7 @@ GraniteClientLibraryManager.write([{"p":"/etc/clientlibs/granite/jquery.js","c":
 		
 			
 				
-                <span class="copyright">Copyright ©2015 Panera Bread. All rights reserved.</span>
+                <span class="copyright">Copyright ©2016 Panera Bread. All rights reserved.</span>
 				
 		  
               
@@ -4722,25 +4302,11 @@ GraniteClientLibraryManager.write([{"p":"/etc/designs/panerabread/clientLibs.js"
 
 
     <script type="text/javascript">
-    	   var lbTrans = '[TRANSACTION ID]';
-	    var lbValue = '[TRANSACTION VALUE]';
-	    var lbData = '[Attribute/Value Pairs for Custom Data]';
-	    var lb_rn = new String(Math.random()); var lb_rns = lb_rn.substring(2, 12);
-	    var boltProtocol = ('https:' == document.location.protocol) ? 'https://' : 'http://';
-	    try {
-	        var newScript = document.createElement('script');
-	        var scriptElement = document.getElementsByTagName('script')[0];
-	        newScript.type = 'text/javascript';
-	        newScript.id = 'lightning_bolt_' + lb_rns;
-	        newScript.src = boltProtocol + 'b3.mookie1.com/2/LB/' + lb_rns + '@x96?';
-	        scriptElement.parentNode.insertBefore(newScript, scriptElement);
-	        scriptElement = null; newScript = null;
-	    } catch (e) { }
-		<!-- Lightning Bolt Ends -->
+    </script><!-- Lightning Bolt Begins --><script type="text/javascript" id="lightning_bolt" src="//cdn-akamai.mookie1.com/LB/LightningBolt.js"></script><!-- Lightning Bolt Ends --><script>
     </script> 
 
 
 
-<span class="hide" aria-hidden="true" id="site-config" data-challenge-ga-category="" data-challenge-pt-prefix="" data-default-ajax-error="Unable to process your request. Please try after some time." data-disable-welcome-popup="" data-generic-service-error="An Error occured." data-mobile-logo-url="http://mobile.panerabread.com" data-mobile-login-url="https://mobile.panerabread.com/panera//login.action" data-mobile-join-url="https://mobile.panerabread.com/panera//signup.action"></span>
+<span class="hide" aria-hidden="true" id="site-config" data-challenge-ga-category="" data-challenge-pt-prefix="" data-default-ajax-error="Unable to process your request. Please try after some time." data-disable-welcome-popup="" data-generic-service-error="An Error occured." data-mobile-logo-url="https://www.panerabread.com/en-us/home.html" data-mobile-login-url="https://mobile.panerabread.com/panera//login.action" data-mobile-join-url="https://mobile.panerabread.com/panera//signup.action"></span>
 
 </body></html>
