@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907225301id_/https%3A//www.acuityscheduling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616170143id_/https%3A//acuityscheduling.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Acuity Online Appointment Scheduling Software
 
-Last Update: August 8, 2014
+Last Update: September 17, 2015 (adding Safe Harbor information)
 
-This is the Privacy Policy governing your use of the Acuity Scheduling websites (the "Site") and the collection, use, transfer and processing of your Collected Information by Acuity Scheduling, Inc.and our affiliates (collectively referred to as "Acuity Scheduling", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Service Agreement](https://web.archive.org/web/20150907225301id_/https%3A//www.acuityscheduling.com/tos.php) between you and Acuity Scheduling which by use of this Site you agree to accept. 
+This is the Privacy Policy governing your use of the Acuity Scheduling websites (the "Site") and the collection, use, transfer and processing of your Collected Information by Acuity Scheduling, Inc.and our affiliates (collectively referred to as "Acuity Scheduling", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Service Agreement](https://web.archive.org/web/20160616170143id_/https%3A//acuityscheduling.com/tos.php) between you and Acuity Scheduling which by use of this Site you agree to accept. 
 
 ## The Information We Collect
 
@@ -71,8 +71,16 @@ Any changes to this Privacy Policy will be communicated through our posting an a
 
 You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Acuity Scheduling. 
 
+## Safe Harbor
+
+Acuity Scheduling, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Acuity Scheduling, inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Acuity Scheduling's certification, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Acuity Scheduling, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us via email.
+
+We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by our team, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
 ## Your feedback
 
-Acuity Scheduling welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to Acuity Scheduling at [support@acuityscheduling.com](mailto:support@acuityscheduling.com) for anything, or 79 Madison Ave, 2nd Floor, New York, NY.. 
+Acuity Scheduling welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to Acuity Scheduling at [support@acuityscheduling.com](mailto:support@acuityscheduling.com) for anything. 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
