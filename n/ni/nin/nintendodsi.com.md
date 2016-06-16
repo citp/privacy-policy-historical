@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nintendodsi.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051143id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendodsi.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616165128id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
 # Nintendo Privacy Notice
 
 Nintendo Privacy Notice
 
-[Version française](https://web.archive.org/web/20151225051144id_/http://www.nintendo.com/corp/privacy_fr.jsp) | [Versión española](https://web.archive.org/web/20151225051144id_/http://www.nintendo.com/corp/privacy_es.jsp) | [Versão Português](https://web.archive.org/web/20151225051144id_/http://www.nintendo.com/corp/privacy_br.jsp)
+[Version française](https://web.archive.org/web/20160616165129id_/http://www.nintendo.com/corp/privacy_fr.jsp) | [Versión española](https://web.archive.org/web/20160616165129id_/http://www.nintendo.com/corp/privacy_es.jsp) | [Versão Português](https://web.archive.org/web/20160616165129id_/http://www.nintendo.com/corp/privacy_br.jsp)
 
-The Privacy Notice listed below only applies to Nintendo's web sites, Wii U systems, and the Nintendo 3DS family systems. For a list of Nintendo's web sites, [click here](https://web.archive.org/web/20151225051144id_/http://www.nintendo.com/corp/privacy_list.jsp). The Privacy Policy for [Wii](http://www.nintendo.com/consumer/info/en_na/docs.jsp?menu=wii&submenu=rvl-doc-privacy-policy) and [Nintendo DSi / Nintendo DSi XL](http://www.nintendo.com/consumer/info/en_na/docs.jsp?menu=dsi&submenu=dsi-doc-privacy-policy) can be found [here](http://www.nintendo.com/consumer/info/en_na/docs.jsp). 
+The Privacy Notice listed below only applies to Nintendo's web sites, Wii U systems, and the Nintendo 3DS family systems. For a list of Nintendo's web sites, [click here](https://web.archive.org/web/20160616165129id_/http://www.nintendo.com/corp/privacy_list.jsp). The Privacy Policy for [Wii](http://www.nintendo.com/consumer/info/en_na/docs.jsp?menu=wii&submenu=rvl-doc-privacy-policy) and [Nintendo DSi / Nintendo DSi XL](http://www.nintendo.com/consumer/info/en_na/docs.jsp?menu=dsi&submenu=dsi-doc-privacy-policy) can be found [here](http://www.nintendo.com/consumer/info/en_na/docs.jsp). 
 
 Last Updated: July 2, 2015
 
