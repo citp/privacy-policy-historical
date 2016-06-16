@@ -1,113 +1,142 @@
-> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015092224id_/http%3A//www.televisionwithoutpity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616200906id_/http%3A//www.tribunemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Television Without Pity | TWoP
+# Tribune Media | Privacy Policy
 
-### TELEVISIONWITHOUTPITY.COM PRIVACY POLICY
+Tribune Media Company is a diverse multimedia company and, together with its Affiliates, operates television stations, a satellite and cable television network, a radio station, a digital broadcast program network, a television production studio, a mobile application development division, and news, entertainment, and information websites. In this Privacy Policy, “Affiliates” refers to our subsidiaries and entities that Tribune Media or its subsidiaries operate or have an ownership interest in.
 
-**Introduction:** These web sites which are located at the domain televisionwithoutpity.com (the "Site") are operated by NBC Universal, Inc. ("NBCU" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at tech@televisionwithoutpity.com or at the address at the end of this policy.
+This Privacy Policy applies only to the information we collect through the websites, mobile applications, electronic devices, kiosks, and all other interactive services whereby data is transmitted (hereinafter “the Services”) operated by Tribune Media Company and its subsidiaries (collectively “we” or “us”) regardless of how you access the Services, unless such website, mobile application, electronic device, kiosk, or other interactive service has a separate Privacy Policy specific to such website, application, device, kiosk, or interactive service. The Policy describes:
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
-
-  1. Types of Information Collected
-    * Personal Data
-    * Aggregate and Anonymous Data
-  2. Use of Cookies and Other Technologies
-  3. Our Use of Your Information
-  4. Disclosure of Personal Data to Third Parties
-    * Disclosure to Affiliates
-    * Disclosure to Third Parties
-    * Disclosure to Others
-  5. Third Party Advertising and Links to Other Sites
-  6. Your Choice
-  7. Access and Correction
-  8. Children and Privacy
-  9. Message Boards, Chat Rooms, Blogs and Other User Forums
-  10. Data Security
-  11. Exclusions
-  12. Other Terms and Conditions
-  13. Site Location
-  14. Changes to this Privacy Policy
-  15. Contacting NBCU Regarding Your Privacy
+  * The information we collect and how we collect it;
+  * What we do with the information we collect;
+  * Information sharing and disclosure;
+  * How you can access and update your information;
+  * How we protect information;
+  * Linked sites and advertisements;
+  * Users from outside the United States;
+  * Children;
+  * How to contact us;
+  * Your California privacy rights;
+  * No rights of third parties; and
+  * Changes to this policy.
 
 
 
- **1\. Types of Information Collected:**
+#### The information we collect and how we collect it.
 
- **Personal Data:** Personally Identifiable Information ("Personal Data") is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices ("Other Services"). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.
+How we collect and store information depends on the websites you visit, the activities in which you participate and the Services you use. You can use some of the Services without providing any information other than that automatically collected as described below.
 
- **Aggregate and Anonymous Data:** Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site ("AA Data"). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
+We may collect information about you during your use of the Services, including your name, username, password, email address, postal address, phone number, mobile phone number, payment information, gender, birth year, and information you provide or post on our Services or allow us to access when you do certain things, such as:
 
- **2\. Use of Cookies and Similar Technologies:**
+  * Enter registration information for one or more of our Services;
+  * Enter a sweepstakes or contest or register for a promotion;
+  * Participate in voting or polling activities;
+  * Make a purchase;
+  * Request certain features (e.g., newsletters, updates, and other products);
+  * Sign up to receive SMS (text message) notifications;
+  * Download or use one of our mobile applications;
+  * Connect with the Services or otherwise allow us to access certain information about you via a social networking site (“SNS”); or
+  * Post user-generated content to or on any of our Services.
 
-Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit "member only" portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order ("Clickstream Data") that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
 
-In addition, we may use a service that collects data remotely by using so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") embedded in the Site's content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. This information is AA data.
 
- **3\. Our Use of Your Data:**
+We may collect and store your user ID associated with a SNS account that you use to sign in to your Tribune Media account or connect or use with the Services. When you sign in to your Tribune Media account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize Tribune Media to collect, store, and use in accordance with this Privacy Policy any and all information available to Tribune Media through the SNS interface, including without limitation any information that you have made public in connection with your SNS account, information that the SNS shares with us, or information that is disclosed as being shared during the sign-in process.
 
-**Personal Data:** We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted.
+We may also combine information that we collect from you with information we obtain about you from third parties and Affiliates and information derived from any other subscription, product, or service we provide.
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data.
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as via SNSs, on message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
 
-**AA Data:** We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, televisionwithoutpity.com often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. Televisionwithoutpity.com may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
+#### Cookies and other electronic technologies.
 
-We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
+When you use the Services, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of our sites and Services; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services. We may also use other Internet technologies, such as Flash technologies, Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services (including to serve you ads when you are on other websites or the Internet when we can access those cookies). We also may include Web beacons in e-mail messages or newsletters to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
- **4\. Disclosure of Personal Data:**
+We use these automated technologies to collect and analyze certain types of information we consider to be non-personal information, including: (a) information related to the devices you use to access or interact with our services, such as: IP addresses, geolocation information (as described further below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, and other similar information. We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique Tribune Media identifier (that cannot be used by itself to identify you) for our internal use, in which case your Tribune identifier will be considered Tribune Media information and nothing in this Privacy Policy restricts how Tribune Media may use this information.
 
- **Disclosure to Affiliates:** We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at televisionwithoutpity.com (see "Your Choices" below).
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel.
 
- **Disclosure to Third Parties:** NBCU, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see "Your Choices" below). In the event you have elected to "unsubscribe" from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request.
+#### Third party advertising and your choices.
 
- **Disclosure to Others:** In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of NBCU, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.
+Third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect non-personal information about your use of the Services. We also allow other third parties (e.g., ad networks and ad servers) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below. You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer to deliver tailored advertising, you may visit the Network Advertising Initiative’s website and/or the Digital Advertising Alliance’s website. You also can control advertising cookies from Google, by using its Ads Preference Manager . Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.
 
-If NBCU sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
+When using a mobile application you may receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.
 
- **5\. Third-Party Advertising and Links to Other Sites:**
+#### Device location information.
 
-This Site may include third-party advertising. These third parties' websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit http://doubleclick.net/privacy_policy;or http://networkadvertising.org/optout_nonppii.asp Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data.
+We may collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if you provide a zip code that indicates that you live in Chicago, the Services may be customized with Chicago-specific information and advertisements. In order to do this, your location information may be passed along to our Affiliates, agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
 
- **6\. Your Choices:**
+#### What we do with the information we collect.
 
-You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, or contacting us at: tech@televisionwithoutpity.com. If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.
+We use the information that we collect for the following purposes:
 
- **7\. Access and Correction:**
+  * For the purposes for which you provided it;
+  * To send you information about your relationship or transactions with us;
+  * To send you alerts or other communications via SMS messages or other media or networks;
+  * To notify you about new features of the Services, special events, or products, services, and special offers;
+  * To administer sweepstakes and contests;
+  * To process and respond to your inquiries;
+  * To contact you with information that we believe will be of interest to you;
+  * To attribute content that you make available through the Services;
+  * To generate and review reports and data about our user base and Service usage patterns;
+  * To analyze the accuracy, effectiveness, usability, or popularity of the Services;
+  * To improve the content and features of the Services or develop new Services;
+  * To allow us to personalize the content and advertising that you see on the Services;
+  * To enforce the legal terms that govern your use of the Services; and
+  * To administer and troubleshoot the Services.
 
-If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the "My Controls" section of the forum when you are logged in or contact us at tech@televisionwithoutpity.com. We will take reasonable steps to update or correct Personal Data in our possession.
 
- **8\. Children and Privacy:**
 
-We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services.
+The Services are supported by advertising revenue. We will send you commercial email on behalf of ourselves, our Affiliates, and advertisers. Each such email we send you will have an opt-out that you can use to stop receiving such communications.We may aggregate and/or anonymize information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
 
- **9\. Message Boards, Chat Rooms, Blogs and Other User Forums:**
+#### Information sharing and disclosure.
 
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services.
+We will make your information available to other companies, websites, applications or people in the circumstances described below:
 
- **10\. Data Security Disclaimer:**
+  * We may rent, sell, or share your information with non-affiliated third parties: (a) in order to provide services or products that you have requested; (b) when we have your permission; or (c) as described in this Privacy Policy.
+  * We may share your information with any Affiliate or agent of Tribune Company in order to provide the Services or advertising or to communicate with you on our behalf.
+  * When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
+  * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
+  * We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.
+  * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service for the Services you accessed, and/or to protect our rights and property.
 
-NBCU takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of televisionwithoutpity.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at tech@televisionwithoutpity.com.
 
- **11\. Exclusions:**
 
-This Privacy Policy shall not apply to any unsolicited information you provide to televisionwithoutpity.com on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and NBCU shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets.
 
- **12\. Other Terms and Conditions:**
+#### How you can access and update your information.
 
-Your access to and use of this Site or Other Services is subject to the Terms of Service.
+To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at [privacy@tribunemedia.com](mailto:privacy@tribunemedia.com).
 
- **13\. Applicable Law:**
+#### How we protect information.
 
-We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
+We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable.
 
- **14\. Changes to this Privacy Policy:**
+#### Linked sites and advertisements.
 
-From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site.
+The Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites.
 
- **15\. Contacting Televisionwithoutpity.com Regarding Your Privacy:**
+We have relationships with third-party providers to provide content, products, services, and functionality through the Services. When you visit sites or use any Services provided in conjunction with one or more of these third-party providers and the brands of those providers appear on the site or Services in connection with such content, products, services, or functionality, we may share any information you provide or that is collected during your use of those Services with those providers. In some cases, the provider may collect information from you directly, in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information.
 
-If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at the email at the beginning of this policy, or at the address listed below.
+#### Users from outside the United States.
 
-Bravo Viewer Relations  
-30 Rockefeller Plaza  
-8th Floor  
-New York, NY 10112
+The Services are hosted in the United States and are governed by United States law. If you are using the Services from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
+
+#### Children.
+
+The Services are not intended for persons under the age of 13. We require that only persons 13 years of age or older use the Services. By using the Services, you hereby represent that you are at least 13 years old. Some third parties, such as platform providers like the iTunes Store or Google Play may provide age-based ratings on some of the Services. These ratings shall have no bearing on this limitation. Third parties may also provide content categories on some of the Services. These categories shall have no bearing on this limitation.
+
+#### How to contact us.
+
+If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to [privacy@tribunemedia.com](mailto:privacy@tribunemedia.com).
+
+#### Your California privacy rights.
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@tribunemedia.com](mailto:privacy@tribunemedia.com).
+
+#### No rights of third parties.
+
+This Privacy Policy does not create rights enforceable by third parties.
+
+#### Changes to this policy.
+
+Tribune Media Company reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this policy will mean you accept those changes. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website.
+
+Copyright © 2014 Tribune Media Company
