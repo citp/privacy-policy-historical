@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the stickpage.com privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215042654id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stickpage.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617000237id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.headStart = new Date().getTime();</script>
 <title>Stickpage.com Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="xiao games, flash games, fun games, matrix games, games, stick games, flashgames, addictive games, play games">
@@ -10,14 +11,19 @@
 
 <!-- Javascript Libraries -->
 <!-- <script type="text/javascript" src="/js/jquery.js"></script> -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="/js/mobile-detect.min.js"></script>
+<script src="/js/pixi.min.js" defer=""></script>
+<script src="/js/pixi-spine.min.js" defer=""></script>
+<script type="text/javascript" src="/js/sw_mobile.js?v=1.2"></script>
 <!-- <script type="text/javascript" src="/js/swfobject.js"></script> -->
 
 <!-- Application Includes and Styles -->
 <script type="text/javascript" src="/js/application.js"></script>
-<link type="text/css" rel="stylesheet" href="/css/application.css">
+<link type="text/css" rel="stylesheet" href="/css/application.css?v=1">
+<link type="text/css" rel="stylesheet" href="/css/mobile.css?v=1.2">
 <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/application_ie.css" /><![endif]-->
 
 <style type="text/css" media="screen">
@@ -25,7 +31,9 @@
 </style>
 </head>
 
-<body>
+<body onload="pageInit();">
+
+
 
 <div id="top_nav">
 	<div id="sp_logo_small">
@@ -48,16 +56,16 @@
 </div>
 
 <!-- Stick Empires site skins -->
-<!-- <div id="skin_left" style="position:absolute;top:30px;left:50%;margin:0 0 0 -740px;">
-    <a href="http://www.stickempires.com" target="_blank"><img src="/img/stick_empires_skin_left.jpg"></a>
+<div id="skin_left" style="position:absolute;top:27px;left:50%;margin:0 0 0 -740px; z-index: 0;">
+    <a href="http://www.stickpage.com/stickwarlegacytrailer.shtml" target="_blank"><img src="/img/skins/StickPageLeft.jpg"></a>
 </div>
-<div id="skin_right" style="position:absolute;top:30px;left:50%;margin:0 0 0 390px;">
-    <a href="http://www.stickempires.com" target="_blank"><img src="/img/stick_empires_skin_right.jpg"></a>
+<div id="skin_right" style="position:absolute;top:27px;left:50%;margin:0 0 0 390px; z-index: 0;">
+    <a href="http://www.stickpage.com/stickwarlegacytrailer.shtml" target="_blank"><img src="/img/skins/StickPageRight.jpg"></a>
 </div>
--->
-    <div id="header_overlap" style="width:330px;height:24px;margin-left:-110px;margin-top:6px;">
-        <img src="/img/header_overlap_ninja.png" width="330" height="24">
+    <div id="header_overlap" style="width: 98px; height: 24px; top: 6px; margin-left: -64px;">
+        <img src="/img/headers/HeaderTop.png" width="98" height="24">
     </div>
+
 
 
 <div id="flash_nav_left">
@@ -66,17 +74,34 @@
 <div id="content_container">
 	<div id="header">
 										
-						        				                		<object id="header_flash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="950" height="220">
-	        <param name="movie" value="/img/header_ninja.swf">
+						        				                      		<object id="header_flash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="950" height="220">
+	        <param name="movie" value="/img/headers/Header.swf">
 	        <param name="wmode" value="transparent">
 	        <!--[if !IE]>-->
-	        <object type="application/x-shockwave-flash" data="/img/header_ninja.swf" width="950" height="220">
-		        <param name="movie" value="/img/header_ninja.swf">
+	        <object type="application/x-shockwave-flash" data="/img/headers/Header.swf" width="950" height="220">
+		        <param name="movie" value="/img/headers/Header.swf?v=1">
 	        	<param name="wmode" value="transparent">
 	        </object>
 	        <!--<![endif]-->
 		</object>
+
+		<script>
+		var clock = document.getElementById("timer")
+		, targetDate = new Date(Date.UTC(2016, 1, 1, 19)); // Jan 1, 2050
+
+formatTimer = function(t) {
+	clock.innerHTML = t.days +  "D " + t.hours + "H " + t.minutes + "M";
+}
+formatTimer(countdown(targetDate));
+setInterval(function(){
+	formatTimer(countdown(targetDate));
+}, 1000);
+</script>
+
+
 		
+
+
 	</div>
 	
 	<div id="content">
