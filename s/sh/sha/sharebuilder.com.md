@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317182333id_/https%3A//www.sharebuilder.com/sharebuilder/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091333id_/https%3A//www.capitaloneinvesting.com/main/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ShareBuilder by Capital One
+# Capital One Investing
 
-We know your privacy is valuable (that’s why we never peek over the fence into your backyard). To learn how we collect, share and protect your information after you’ve applied for or obtained a consumer product or service from us, please download our [Privacy & Opt-Out Notice](https://content.sharebuilder.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).
+## Privacy
+
+We know your privacy is valuable (that’s why we never peek over the fence into your backyard). To learn how we collect, share and protect your information after you’ve applied for or obtained a consumer product or service from us, please download our [Privacy & Opt-Out Notice](https://content.capitaloneinvesting.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).
 
 ### Privacy Settings
 
-Looking to update your Privacy Settings? Sign in and go to our [Profile & Settings](https://www.sharebuilder.com/sharebuilder/account/profile/personalinfo.aspx) page. You can update your Communications and Sharing Preferences under the Privacy Settings section.
+Looking to update your Privacy Settings? Sign in and go to our [Profile & Settings](https://www.capitaloneinvesting.com/main/account/profile/personalinfo.aspx) page. You can update your Communications and Sharing Preferences under the Privacy Settings section.
 
 ### Maintenance of Accurate Information
 
-We work hard to make sure the personal information we maintain about you is accurate, complete, and up to date. Something not right? Sign in and go to our [Profile & Settings](https://www.sharebuilder.com/sharebuilder/account/profile/personalinfo.aspx) page to update your personal information, or if you need to, get ahold of one of our friendly Customer Service Associates by using the Help link at the top of the page.
+We work hard to make sure the personal information we maintain about you is accurate, complete, and up to date. Something not right? Sign in and go to our [Profile & Settings](https://www.capitaloneinvesting.com/main/account/profile/personalinfo.aspx) page to update your personal information, or if you need to, get ahold of one of our friendly Customer Service Associates by using the Help link at the top of the page.
 
 ## Our Social Security Number Protections
 
@@ -22,7 +24,7 @@ Capital One protects your Social Security Number. Our policies and procedures:
 
 
 
-These safeguards apply to all Social Security numbers collected through any channel or retained in any way by Capital One in connection with customer, employee, or other relationships. Individuals applying for or obtaining a product or service from us to be used primarily for personal, family, or household purposes may obtain more information by reviewing the [Privacy & Opt-Out Notice](https://content.sharebuilder.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).
+These safeguards apply to all Social Security numbers collected through any channel or retained in any way by Capital One in connection with customer, employee, or other relationships. Individuals applying for or obtaining a product or service from us to be used primarily for personal, family, or household purposes may obtain more information by reviewing the [Privacy & Opt-Out Notice](https://content.capitaloneinvesting.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).
 
 ## Our Online & Mobile Privacy Statement
 
@@ -67,21 +69,21 @@ We may use Contact Information, Personal Information, and Online/Mobile Activity
   * to verify your identity and/or location to allow access to your accounts, conduct online transactions and assist us in taking data security precautions and to engage in fraud prevention/detection
   * for business purposes, including data analysis, to improve, personalize, optimize your website browsing and mobile application experiences by examining which parts of our website you visit, which aspect of our mobile applications you find most useful, and to improve existing or develop new products and services
   * to comply with federal, state or local laws; civil, criminal or regulatory investigations; or other legal requirements
-  * to share with companies within the Capital One family, and with trusted third parties who are contractually obligated to keep such information confidential and to use it only to provide the services we have asked them to perform (For a description of how Capital One may share information collected from consumers who have applied for or obtained a product or service from us, please refer to the [Privacy & Opt-Out Notice](https://content.sharebuilder.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).)
+  * to share with companies within the Capital One family, and with trusted third parties who are contractually obligated to keep such information confidential and to use it only to provide the services we have asked them to perform (For a description of how Capital One may share information collected from consumers who have applied for or obtained a product or service from us, please refer to the [Privacy & Opt-Out Notice](https://content.capitaloneinvesting.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).)
 
 
 
-**Adobe Analytics** is a company we use to track and analyze the use of our site. ShareBuilder and Adobe record user sessions and store aggregated technical and navigational data. The recorded sessions are used to service and maintain accounts, and respond to customer inquiries. ShareBuilder owns this recorded and aggregated data and will not share personal non-public information with third parties. The aggregated data is analyzed by ShareBuilder and the results are used to improve web site design and functionality in order to deliver better products and services.
+**Adobe Analytics** is a company we use to track and analyze the use of our site. Capital One Investing℠ and Adobe record user sessions and store aggregated technical and navigational data. The recorded sessions are used to service and maintain accounts, and respond to customer inquiries. We own this recorded and aggregated data and will not share personal non-public information with third parties. The aggregated data is analyzed by Capital One Investing and the results are used to improve web site design and functionality in order to deliver better products and services.
 
-Although ShareBuilder doesn’t allow Adobe Analytics to capture or transmit any detailed transactional information, banking information, credit card information or other personal financial information, the data collected does include the nature of the service used (for example, whether you placed a trade, but not details about the trade), your email address and a unique customer identifier that ShareBuilder (not Adobe Analytics) can use to associate the data collected with individual customers.
+Although we don't allow Adobe Analytics to capture or transmit any detailed transactional information, banking information, credit card information or other personal financial information, the data collected does include the nature of the service used (for example, whether you placed a trade, but not details about the trade), your email address and a unique customer identifier that Capital One Investing (not Adobe Analytics) can use to associate the data collected with individual customers.
 
 ## Managing Your Online & Mobile Preferences
 
-You provide Personal Information to us on a voluntary basis and are not required to provide it in order to browse our websites. If you provide us with Personal Information to obtain a product or service, our [Privacy & Opt-Out Notice](https://content.sharebuilder.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf) will govern how we share your Personal Information with our affiliates and third parties and will enable you to opt out of certain types of sharing.
+You provide Personal Information to us on a voluntary basis and are not required to provide it in order to browse our websites. If you provide us with Personal Information to obtain a product or service, our [Privacy & Opt-Out Notice](https://content.capitaloneinvesting.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf) will govern how we share your Personal Information with our affiliates and third parties and will enable you to opt out of certain types of sharing.
 
 ### Online Tracking & Advertising on our Sites or Apps
 
-As you access our online services over time, cookies and similar technologies such as web beacons allow us to collect information such as browser type, pages visited, preferences, and your relationship with us. Capital One may customize content and advertisements for our products and services on the websites or mobile apps we own. In order to make the content and advertising as informative and useful as possible, we may use information about your relationship with us (such as types of accounts, transactional information, or the state in which you bank). Currently, our website does not respond to browser “do not track” signals. However, if you choose, you can set your website browser to inform you when cookies are sent or you may choose not to accept cookies. Your decision not to accept cookies would limit access to some of the services and offers that are available on our website. For example, your device may not be recognized when you visit our website and, if you are an online banking customer, you may need to answer challenge questions each time you log on. You also may not receive advertising or other offers from us that may be of interest to you.
+As you access our online services over time, cookies and similar technologies such as web beacons allow us to collect information such as browser type, pages visited, preferences, and your relationship with us. Capital One may customize content and advertisements for our products and services on the websites or mobile apps we own. In order to make the content and advertising as informative and useful as possible, we may use information about your relationship with us (such as types of accounts, transactional information, or the state in which you bank). Currently, for online advertising purposes, our website does not respond to browser "do not track" signals, but these signals may be used for fraud prevention. However, if you choose, you can set your website browser to inform you when cookies are sent or you may choose not to accept cookies. Your decision not to accept cookies would limit access to some of the services and offers that are available on our website. For example, your device may not be recognized when you visit our website and, if you are an online banking customer, you may need to answer challenge questions each time you log on. You also may not receive advertising or other offers from us that may be of interest to you.
 
 ### Mobile Devices
 
@@ -93,11 +95,11 @@ Certain Capital One partners may use unique cookies to collect Mobile/Online Act
 
 Please note that you may still receive general online advertising from Capital One even after you adjust your ad preferences with certain web search engines or opt out of online advertising through AdChoices or the NAI tool. However, such advertising will not be based on Online/Mobile Activity Data or search term information.
 
-You can [deactivate](http://data.sharebuilder.com/optout.html) our ability to analyze your browsing behavior through the use of Adobe Analytics' web analytics services.
+You can [deactivate](http://data.capitaloneinvesting.com/optout.html) our ability to analyze your browsing behavior through the use of Adobe Analytics' web analytics services.
 
 ### Email
 
-If we send you an email advertisement, it will include instructions on how to opt out of receiving such emails in the future. If you are a Customer and you elect to opt out of receiving email advertisements, we may still send you emails about your account relationships with us. To opt out of receiving email advertisements, you may submit your request at our [Profile & Settings](https://www.sharebuilder.com/sharebuilder/account/profile/personalinfo.aspx) page. If your name was previously selected for any of our upcoming email offers, it is possible for you to receive information from us up to 10 business days after your request has been submitted.
+If we send you an email advertisement, it will include instructions on how to opt out of receiving such emails in the future. If you are a Customer and you elect to opt out of receiving email advertisements, we may still send you emails about your account relationships with us. To opt out of receiving email advertisements, you may submit your request at our [Profile & Settings](https://www.capitaloneinvesting.com/main/account/profile/personalinfo.aspx) page. If your name was previously selected for any of our upcoming email offers, it is possible for you to receive information from us up to 10 business days after your request has been submitted.
 
 If you receive an email that claims to be from us but you are not sure, or if you think it is suspicious, do not click on any of the links in the email. Instead, forward it to us at [abuse@capitalone.com](mailto:abuse@capitalone.com) then delete it. For more email security tips, see the [Capital One Fraud and Identity Theft page](http://www.capitalone.com/identity-protection/security/)
 
@@ -111,10 +113,10 @@ Our websites may include links to third-party websites. These third parties are 
 
 ## Security
 
-ShareBuilder takes the security of information very seriously and has established security standards and procedures to prevent unauthorized access to customer information. We use industry standard means such as physical, electronic and procedural safeguards, including data encryption and secure socket layer technology. We update and test our technology regularly to maintain and improve the protection of our customers' information. We restrict access to personal information to employees and service providers for legitimate business purposes to assist in providing services to you. Employees who violate our privacy policy are subject to disciplinary action.
+Capital One Investing takes the security of information very seriously and has established security standards and procedures to prevent unauthorized access to customer information. We use industry standard means such as physical, electronic and procedural safeguards, including data encryption and secure socket layer technology. We update and test our technology regularly to maintain and improve the protection of our customers' information. We restrict access to personal information to employees and service providers for legitimate business purposes to assist in providing services to you. Employees who violate our privacy policy are subject to disciplinary action.
 
-We maintain Customer authentication procedures to protect your personal information and account from identity theft. These procedures are for your protection. If you suspect a website is pretending to be a Capital One website (also known as "spoofing"), don't enter personal information, just [contact us](https://www.sharebuilder.com/sharebuilder/help/contactus.aspx) or email [abuse@capitalone.com](mailto:abuse@capitalone.com).
+We maintain Customer authentication procedures to protect your personal information and account from identity theft. These procedures are for your protection. If you suspect a website is pretending to be a Capital One website (also known as "spoofing"), don't enter personal information, just [contact us](https://www.capitaloneinvesting.com/main/help/contactus.aspx) or email [abuse@capitalone.com](mailto:abuse@capitalone.com).
 
 ### Changes to this Statement
 
-This Statement describes Capital One and ShareBuilder's current online privacy practices. These privacy practices are subject to change at any time. This Statement is effective as of October 14, 2014.
+This Statement describes Capital One's current online privacy practices. These privacy practices are subject to change at any time. This Statement is effective as of June 5, 2015.
