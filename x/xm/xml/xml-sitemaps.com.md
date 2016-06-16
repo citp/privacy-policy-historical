@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml-sitemaps.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051116id_/https%3A//www.xml-sitemaps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml-sitemaps.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051744id_/https%3A//www.xml-sitemaps.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - XML Sitemaps Generator
 
@@ -16,7 +16,7 @@ Every time you log on to our forums, your IP (Internet Protocol) address registe
 
 #### Cookies
 
-XML Sitemaps may send "cookies" to your computer. Cookies are fragments of data sent through the web server and stored in your hard drive. Cookies can't not read the files stored in your computer, nor can they gather information. The purpose of cookies is just to monitor the traffic on the site, so we know which pages you have visited or customized, making it easier for you to download the information the next time you look at our pages. 
+XML Sitemaps may send "cookies" to your computer. Cookies are fragments of data sent through the web server and stored in your hard drive. Cookies can not read the files stored in your computer, nor can they gather information. The purpose of cookies is just to monitor the traffic on the site, so we know which pages you have visited or customized, making it easier for you to download the information the next time you look at our pages. 
 
 XML Sitemaps does not sell the information to advertisers, not does it change your computer settings. You can also reset your browser to refuse cookies or to notify you when a cookie is sent, although doing this may interfere with the quality and speed of your browsing experience since some features won't work as they were meant to. 
 
