@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094207id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616024619id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
 
 # Immunization Action Coalition Privacy Policy
 
@@ -14,7 +14,7 @@ IAC has taken steps to make information received from online visitors as secure 
 This site contains many links to other websites not under the control of IAC. IAC accepts no responsibility for the privacy practices or failures of those websites.  
 The Immunization Action Coalition may update this Privacy Policy at any time by posting revisions and you agree that it is your responsibility to review the Privacy Policy in effect at the time of your access to this website.  
 If you have any questions or comments about this policy or our website, you may contact us by email at [admin@immunize.org](mailto:admin@immunize.org) or by writing to us at the address on the bottom of this page.  
-_This page was reviewed on August 1, 2013_  
+_This page was reviewed on February 17, 2016_  
   
 ---  
   
@@ -27,7 +27,7 @@ tel 651-647-9009  •  fax 651-647-9131
   
    
   
-|  | This website is supported in part by a cooperative agreement from the National Center for Immunization and Respiratory Diseases (Grant No. 5U38IP000290) at the Centers for Disease Control and Prevention (CDC) in Atlanta, GA. The website content is the sole responsibility of IAC and does not necessarily represent the official views of CDC. |   
+|  | This website is supported in part by a cooperative agreement from the National Center for Immunization and Respiratory Diseases (Grant No. 5U38IP000589) at the Centers for Disease Control and Prevention (CDC) in Atlanta, GA. The website content is the sole responsibility of IAC and does not necessarily represent the official views of CDC. |   
 ---|---|---  
    
  
