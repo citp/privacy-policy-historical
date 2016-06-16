@@ -1,33 +1,65 @@
-> *The following text is extracted and transformed from the buzztheme.net privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228200338id_/http%3A//buzzgfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztheme.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070926id_/http%3A//buzztheme.net/page/privacy-policy) for the most accurate reproduction.*
 
-# BuzzGFX Privacy Policy - BuzzGFX
+# Privacy Policy
 
-### Privacy Policy
+We commit ourselves to protecting and respecting your privacy when visiting our website.
 
-Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. A recent law change requires us (along with banks, brokerage houses, and other financial institutions) to disclose our Privacy Policy to you – which we are more than happy to do. We hope that by taking a few minutes to read it, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. 
+This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting [BUZZTHEME].  Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@buzztheme.net.
+[For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon inquiry by email.]
 
-At www.buzztheme.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.buzztheme.net and how it is used. 
+INFORMATION WE MAY COLLECT FROM YOU
 
-**A.Log Files**
+We may collect and process the following data about you:
 
-Like many other Web sites, www.buzztheme.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Any information that you provide by filling in forms on our site.  This includes provided information at the time of registering to use our site, posting material, requesting further services or subscribing to any service offered by us on the site.  We might also request further information and if you should report a problem with our site. 
 
-**B.Cookies and Web Beacons**
+We may keep a record of any correspondence if you should contact us.
 
-www.buzztheme.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Details of the resources you access and of your visits to our site
 
-**C.DoubleClick DART Cookie**
+Details of transactions you may carry out through our site and of the completion of your orders.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.buzztheme.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+IP ADDRESSES AND COOKIES
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+We may collect information about your computer; this is statistical data concerning your browsing actions and does not identify you individually.  This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers. 
 
-www.buzztheme.net has no access to or control over these cookies that are used by third-party advertisers. 
+We may also collect information about your general internet usage using cookie files stored on the hard drive of all computers.  The cookies contain valuable information that is transferred to your computers hard drive.  In collecting this information we are able to improve our site and deliver a better and more personalised service.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.buzztheme.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You can refuse to accept cookies but note that in doing this you may be unable to access certain parts of our site.  You can do this by activating the setting on your browser which allows you to refuse the setting.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+[Our advertisers may also use cookies but please note that we have no control over this]
 
-**Network Advertising Initiative opt-out website at** [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+WHERE WE STORE YOUR PERSONAL DATA
+
+Any data that we collect from you may be stored at, and transferred to, a destination outside the European Economic Area (EEA).  This data may also be processed by staff that operates outside the EEA working us or one of our suppliers.  In submitting your personal data, you agree to such a transfer and the storing and processing of this data.  To ensure that your data is treated securely and in accordance with this privacy policy we will endeavor to take all reasonable necessary steps in protecting your privacy.
+
+We will do our best to protect your personal data, unfortunately, the transmission of information over the internet is not entirely secure and we cannot guarantee the security of data transmitted to our sites.  Any transmission of data is at your own risk.
+
+USES MADE OF THE INFORMATION
+
+We use the information held about you in the following ways:
+
+To notify you of any changes to our service.
+
+To ensure that the content of our site is presented in the most effective manner for you and your computer.
+
+Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you.
+
+To allow you to participate in interactive features of our service, should you choose to do so.
+
+In allowing ourselves to carry out our obligations concerning any contracts entered into between you and us.
+
+We may also use your data to inform you and provide information on goods and services that may be of interest to you.  [We may also permit selected third parties to use your data for the same reason.]
+
+If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data.
+
+[We do not disclose information which will identify individuals to our advertisers.  We may however provide them with collective information about our users.  We may also use collective data to help our advertisers reach their target audience.  The data collected may also be used by us in order to comply with our advertiser’s wishes in displaying their advertisement to their target audience.
+
+DISCLOSURE OF YOUR INFORMATION
+
+[As defined in section 736 of the UK Companies Act 1985 we may disclose your personal information to any member of our group.  These include our subsidiaries, our ultimate holding company and its subsidiaries.
+
+THIRD PARTY WEBSITES
+
+From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data.  We cannot accept any responsibility or liability for these policies.
