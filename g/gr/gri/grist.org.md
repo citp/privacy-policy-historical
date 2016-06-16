@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016005353id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616212256id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy | Grist
+# Privacy Policy | Grist
 
 Privacy Policy   |   [Terms of Use](https://web.archive.org/about/terms)   |   [Trademarks](https://web.archive.org/about/trademarks)
 
-**Last Updated: October 21, 2014**
+**Last Updated: February 25, 2016**
 
 Grist Magazine, Inc. (“Grist,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website about visitors (“you”) is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [grist.org](http://grist.org/) (“website”). Use of this website is also subject to our [Terms of Use](https://web.archive.org/about/terms).
 
@@ -123,7 +123,7 @@ This website is published in the United States. Information collected on this we
 **Back to Top**
 
 **7\. Contact Information**  
-If you have questions or concerns regarding this Policy, please [contact us](https://web.archive.org/contact/) or send Postal mail to Webmaster, Grist, 710 Second Avenue, Suite 860, Seattle, WA 98104.
+If you have questions or concerns regarding this Policy, please [contact us](https://web.archive.org/contact/) or send them to Webmaster c/o Grist, 1201 Western Ave Suite 410, Seattle, WA 98101 USA.
 
 **Back to Top**
 
