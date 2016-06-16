@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitanarticle.info privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217131158id_/http%3A//www.submitanarticle.info/page/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitanarticle.info privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616134645id_/http%3A//www.submitanarticle.info/page/1/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Submit An Article - Submit Your Article | Free Article Submission | Submit An Article
 
