@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217202428id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616203138id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spy Dialer
 
 Privacy Policy Statement 
 
-Effective Date: August 6, 2014 
+Effective Date: June 2, 2016. 
 
 1\. INTRODUCTION 
 
 1.1. PURPOSE OF POLICY. SpyDialer.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of users of http://www.spydialer.com (the “Site”). We created this Privacy Policy (this “Policy”) so you can understand our information collection, storage and use policies. 
 
-1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](https://web.archive.org/web/20151217202428id_/http%3A//www.spydialer.com/OptOut.aspx). 
+1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](https://web.archive.org/web/20160616203138id_/http%3A//www.spydialer.com/OptOut.aspx). 
 
 1.3. NOTICE CONCERNING CHILDREN. This Site is not targeted towards children under the age of 13 nor intended to be used by them in any manner whatsoever. Should you be aware of any child under 13 using the Site, please contact us so that we may terminate their account. 
 
@@ -61,11 +61,11 @@ We also store email messages you send to us. This information may not be edited 
 
 B. Credit Card Information. We do not store credit card information you provide with orders. However, our credit card processing company authorize.net does. Their privacy policy can be seen at <http://www.authorize.net/company/privacy/>
 
-C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](https://web.archive.org/web/20151217202428id_/http%3A//www.spydialer.com/OptOut.aspx). 
+C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](https://web.archive.org/web/20160616203138id_/http%3A//www.spydialer.com/OptOut.aspx). 
 
 D. Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will notify you by posting a notice on the Site for 30 days. 
 
-E. Effective Date: The effective date of this Policy shall be August 6, 2014. 
+E. Effective Date: The effective date of this Policy shall be June 2, 2016. 
 
 F. Browser Do Not Track Signals: California law requires that we disclose whether we acknowledge do not track signals issued by browsers should you designate such a choice with said browsers. We do not do so. 
 
@@ -98,6 +98,8 @@ D. ADDRESS BOOK INFORMATION. When a user submits their address book, we add the 
 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL 
 
 5.1. THIRD PARTY WEBSITES. The Site contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before providing personal information to said sites. 
+
+5.2. ADVERTISERS. Advertisers and advertising networks like Adsense and Sovrn may use tracking code or pixels on our site pages to be able to serve ads and measure site traffic. As such, your I.P. address, pages viewed and device information may be shared with them. 
 
 6\. CONTACT INFORMATION 
 
