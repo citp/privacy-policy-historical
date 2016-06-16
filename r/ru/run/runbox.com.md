@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101075116id_/https%3A//runbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616155139id_/https%3A//runbox.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Runbox
 
@@ -16,11 +16,11 @@ Runbox Solutions may change the Privacy Policy at any time with 30 days prior no
 
 When registering an account with the Service you are asked to provide certain information, such as your name and contact information. Some information is required in order for us to deliver the Service and fulfill our obligations to you, while other information may be given at your discretion and is marked as optional.
 
-The information will also be used to customize the Service for you, to maintain the quality of the Service, for anonymous, statistical purposes, and to provide us with an alternate means of contacting you if necessary,.
+The information will also be used to customize the Service for you, to maintain the quality of the Service, for anonymous, statistical purposes, and to provide us with an alternate means of contacting you if necessary.
 
 ###  Legal basis
 
-The Service is subject to and compliant with the laws and regulations of the Kingdom of Norway, the [Personal Data Act](http://www.datatilsynet.no/Global/english/Personal_Data_Act_20120420.pdf), and [Regulations on the Processing of Personal Data](http://www.datatilsynet.no/English/Regulations/Personal-Data-Act1/).
+The Service is subject to and compliant with the laws and regulations of the Kingdom of Norway, the [Personal Data Act](https://www.datatilsynet.no/English/Regulations/Personal-Data-Act-/), and [Personal Data Regulations](https://www.datatilsynet.no/English/Regulations/Personal-Data-Regulations/).
 
 You can find more information about Norway’s privacy regulations at [The Norwegian Data Protection Authority (DPA)](http://www.datatilsynet.no/English/). None of the data collected through the Service is sensitive by the definition of the law, and therefore not subject to notification to the DPA.
 
@@ -30,7 +30,7 @@ Runbox Solutions, by the managing director, is responsible for the personal data
 
 ###  Data Protection Officer
 
-In accordance with the recommendations from the DPA, Runbox Solutions has appointed an internal Data Protection Officer (DPO), whose main responsibility is to ensure that the company follows the privacy regulations specified in <http://www.datatilsynet.no/Global/english/Personal_Data_Act_20120420.pdf>, Section 11.
+In accordance with the recommendations from the DPA, Runbox Solutions has appointed an internal Data Protection Officer (DPO), whose main responsibility is to ensure that the company follows the privacy regulations specified in the Personal Data Act, Section 11.
 
 The DPO also serves as liaison between Runbox Solutions and the DPA. Runbox Solutions’ DPO is authorized by the DPA, which allows Runbox Solutions to use the official Data Protection Officer logo.
 
@@ -123,7 +123,7 @@ We do not use web beacons. Web beacons are transparent pixel images that are use
 
 ###  **No tracking**
 
-We do not utilze any tracking facility such as Google Analytics. That means that we do not share your usage patterns with anyone and that you will not receive any advertisements based on your usage of the Service.
+We do not utilize any tracking facility such as Google Analytics. That means that we do not share your usage patterns with anyone and that you will not receive any advertisements based on your usage of the Service.
 
 ###  **No advertisements**
 
@@ -153,6 +153,6 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 ###  **Safe Harbor Principles**
 
-[Safe Harbor](http://en.wikipedia.org/wiki/International_Safe_Harbor_Privacy_Principles) is the name of a policy agreement established between the United States Department of Commerce and the European Union (E.U.) in November 2000 to regulate the way that U.S. companies export and handle the personal data (such as names and addresses) of European citizens.
+[Safe Harbor](http://en.wikipedia.org/wiki/International_Safe_Harbor_Privacy_Principles) is the name of a policy agreement established between the United States Department of Commerce and the European Union (E.U.) in November 2000 to regulate the way that U.S. companies handle the personal data (such as names and addresses) that is transmitted from Europe.
 
 As a Norwegian company, Runbox Solutions is not subject to the principles included in the agreement. However, Runbox Solutions fulfills the requirements stated in those principles.
