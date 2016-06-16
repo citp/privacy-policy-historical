@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nosgoth.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231123933id_/http%3A//eu.square-enix.com/en/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nosgoth.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/privacy) for the most accurate reproduction.*
 
 # SQUARE ENIX
 
@@ -8,39 +8,28 @@ We, Square Enix Limited, are committed to protecting and respecting your privacy
 
 This Privacy Policy relates to our website at [eu.square-enix.com](http://eu.square-enix.com/), the European parts of the website at [www.playonline.com](http://www.playonline.com/), our mobile applications and any of our other online or mobile products, content and services (collectively, the “ **Service** ”).
 
-This Privacy Policy explains how we use any personal information that we collect about you when you use the Service. Further details of how we use your information is set out in our [_Cookies Policy_](https://web.archive.org/en/documents/cookies) and in the _[Square Enix Online Services Privacy Policy](https://web.archive.org/en/documents/onlineprivacy)_ , each of which forms part of this Privacy Policy.
+This Privacy Policy explains how we use any personal information that we collect about you when you use the Service. Further details of how we use your information is set out in our [Cookies Policy](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/cookies) and in the [Square Enix Online Services Privacy Policy](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/onlineprivacy), each of which forms part of this Privacy Policy. 
 
 By using the Service, you consent to the collection, storage and use of your personal information as described below. If you do not agree to this Privacy Policy, please do not use the Service and (if relevant) please uninstall the related application.
 
 **Topics:**
 
-_Data protection compliance_
+  * Data protection compliance
+  * The information we collect from you
+  * An important note to parents or guardians
+  * How we use personal information
+  * Disclosure of your personal information
+  * Tracking, Ad Technology and Serving, IP addresses and other Data
+  * Cookie technology
+  * Where we store your personal information
+  * Information security
+  * Other services
+  * Opting out
+  * Access to your information
+  * How to contact us
+  * Changes to this Privacy Policy
 
-_The information we collect from you_
 
-_An important note to parents or guardians_
-
-_How we use personal information_
-
-_Disclosure of your personal information_
-
-_Tracking technology and IP addresses_
-
-_Cookie technology_
-
-_Where we store your personal information_
-
-_Information security_
-
-_Other services_
-
-_Opting out_
-
-_Access to your information_
-
-_How to contact us_
-
-_Changes to this Privacy Policy_
 
 **Data protection compliance**
 
@@ -54,7 +43,9 @@ When you use the Service (such as when registering as a member and/or using our 
 
 Whenever you provide such personal information (whether to us direct or to others collecting it on our behalf) or we receive it with your permission from third parties (such as social network operators), we will treat that information in accordance with this Privacy Policy.
 
-You may decide to make certain information available for other users of the Service to see (for example, in the course of playing an online or mobile game). In this context, you should only provide information that you are entirely comfortable with providing, and we strongly recommend that you do not provide any details that could be used to make personal contact with you. We may also collect certain anonymous usage data, such as pages visited and services used within the Service. This information is not personally identifiable information and generally is not aggregated with your personal information. If it is aggregated with personal information in a way that makes you personally identifiable, we will treat the aggregated information as personal information under this Privacy Policy. We generally use usage data to improve our services to you and to customise and enhance your experience of the Service.
+You may decide to make certain information available for other users of the Service to see (for example, in the course of playing an online or mobile game). In this context, you should only provide information that you are entirely comfortable with providing, and we strongly recommend that you do not provide any details that could be used to make personal contact with you.
+
+We may also collect certain usage data, such as pages visited and services used within the Service. This information is generally not personally identifiable information, and generally is not aggregated with your other personal information. If it is personally identifiable, or aggregated with personal information in a way that makes you personally identifiable, we will treat the aggregated information as personal information under this Privacy Policy. We generally use usage data to improve our services to you and to customise and enhance your experience of the Service.
 
 **An important note to parents or guardians**
 
@@ -73,21 +64,13 @@ We will not use your personal information for marketing or promotional purposes 
 We may also use your personal information for the purposes of:
 
   * processing and administering your registration as a member and/or use of paid-for products, content or services;
-
-  * performing any contracts concluded between you and us (including our Terms of Use and any relevant end-user licence agreement), including providing you with the part(s) of the Service that you have requested, along with any support services and any related information and communications;
-
+  * performing any contracts concluded between you and us (including our [Terms of Use](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/tnc) and any relevant end-user licence agreement), including providing you with the part(s) of the Service that you have requested, along with any support services and any related information and communications;
   * running competitions and other promotional events;
-
   * conducting surveys as to the quality of the Service or of parts of it;
-
   * miscellaneous customer service correspondence (such as notifying you of changes to our products, content or services);
-
   * processing details of your personal interests and preferences submitted to us via the Service;
-
   * processing details of your use of the Service (including traffic data, location data and other communication data) and your online or wireless activity on the Service (including information on your game usage, such as your scores and rankings); and
-
   * any other general or special use that you may permit under any particular request for permission that we may make from to time.
-
 
 
 
@@ -100,13 +83,9 @@ We may disclose your personal information to any member of our group of companie
 We may disclose your personal information to third parties where:
 
   * they provide products, content or services to us in connection with your use of the Service;
-
   * we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
-
   * our company or substantially all of our assets are to be acquired by a third party, in which case we may disclose your personal information to the prospective acquirer and personal data held by us about users of the Service will be one of the transferred assets; and/or
-
-  * we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b) to comply with any legal obligation, (c) to enforce or apply our Terms of Use or other contracts and/or (d) to protect our, our customers’ or any other third parties’ rights, property or safety (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
-
+  * we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b) to comply with any legal obligation, (c) to enforce or apply our [Terms of Use](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/tnc) or other contracts and/or (d) to protect our, our customers’ or any other third parties’ rights, property or safety (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
 
 
 
@@ -116,19 +95,25 @@ Certain parts of the Service may allow you to post personal information alongsid
 
 Except as required or allowed by law or as set out in this Privacy Policy, we will not disclose or dispose of your personal information to any third party without your permission.
 
-**Tracking technology and IP addresses**
+**Tracking, Ad Technology and Serving, IP addresses and other Data**
 
-We may collect and process certain information about your device and your use of the Service for system administration and/or to provide certain parts of the Service, including (where available) your IP address, geolocation information, mobile network information, hardware model, device serial number, unique device identifier, operating system and browser type, as well as details of how and when you access and use the Service. This comprises statistical data about our users' browsing actions and patterns, and does not, in itself, identify any individual.
+We may collect and process, and our third-party partners and advertisers may directly collect and process, certain information about your device(s) and your use of the Service for system administration, to provide certain parts of the Service, and/to share with third party ad partners (as described below) including (where available) your IP address, geolocation information, mobile network information, hardware information, device serial number, unique device identifier, device 'Advertiser ID', operating system and browser type, Internet connection information, as well as details of how and when you access and use the Service including the pages visited, services used within the Service, any visits to any in-Service stores, and your interactions with advertisements.
 
-We may, however, link IP addresses and other unique identifiers to personal data (such as a user’s country or a user ID) and/or non-personal data (such as a user’s access location or usage record) in order to provide certain parts of the Service and/or to enforce our Terms of Use or other user contracts, and we may block certain IP addresses from accessing all or any part of the Service in the event of a user abuse. In particular, our Japanese affiliate may use automated tracking tools to prevent or stop users from engaging in fraudulent activities or unauthorised uses of the Service (such as unauthorised commercial use of items obtained via game play).
+We may also link IP addresses and other unique identifiers to personal data (such as a user’s country or a user ID) and/or non-personal data (such as a user’s access location or usage record) in order to provide certain parts of the Service, to enforce our [Terms of Use](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/tnc) or other user contracts and/to share with third party ad partners (as described below), and we may block certain IP addresses from accessing all or any part of the Service in the event of a user abuse. In particular, our Japanese affiliate may use automated tracking tools to prevent or stop users from engaging in fraudulent activities or unauthorised uses of the Service (such as unauthorised commercial use of items obtained via game play). 
 
-Certain parts of the Service may give you the option to manage location tracking (such as turning it on or off, except for the essential location purposes noted above). If you wish to terminate our tracking, please uninstall or cease using the relevant parts of the Service.
+If we collect this information and data we may share it with third party ad partners in order that they can use it to assist them with the management and/or placing of ads and offers that you may see served within the Service, or ads served on other third party services that you may use. In some cases other third parties may also collect some or all of this information and data using their own technology(ies) (including cookies) and use it for the same or similar purposes – where they do so, their collection, use and protection of that data is governed by those third parties' privacy policies and practices, and not this Privacy Policy. We may also share this information and data with third party analytics and tracking companies in order that they can use it to assist them in providing services to us or to our third party ad partners.
+
+Your device and/or browser settings may allow you to manage aspects of the placement of ads that you see within the Service. To learn how to do this we recommend that you consult your device manual, or the the "Help" function of your browser,
+
+In some cases you may also be able to opt-out of third party advertising technologies (including cookies) which remember your browsing habits and try and display relevant advertising when you use the Service by visiting <http://www.youronlinechoices.com/uk/your-ad-choices>. If you choose to turn off these technologies you may see advertising on the Service but it may not be tailored to your interests. It does not mean that you won't be served any advertisements. And while many third parties involved in using advertising technology(ies) and serving online advertising appear at the above link, not all do. Therefore, even if you choose to turn off the technology(ies) used by all of the third parties listed, you may still receive some tailored advertisements from other third parties on the Service.
+
+Certain parts of the Service may also give you the option to manage location tracking (such as turning it on or off, except for the essential location purposes noted above). If you wish to terminate our tracking, please uninstall or cease using the relevant parts of the Service.
 
 **Cookie technology**
 
 A "cookie" is a small text file deposited on your device when you access an online or mobile site. We may use cookies to monitor your use of the Service and to customise your experience of it.
 
-For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20151231123933id_/http%3A//eu.square-enix.com/en/documents/cookies).
+For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20160616093028id_/https%3A//eu.square-enix.com/en/documents/cookies).
 
 **Where we store your personal information**
 
@@ -136,7 +121,7 @@ All information you provide to us is stored on secure servers hosted by us or th
 
 The information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "), including any destination where the privacy laws of the country concerned may be different and less protective than those of EEA countries. It may also be processed by personnel operating outside the EEA who work for us or for one of our suppliers. Such personnel may be engaged in, among other things, the processing of your payment details (where applicable) and the provision of support services.
 
-By submitting your personal information, you agree to this transfer, storing and processing.
+By submitting your personal information, you agree to this transfer, storing and processing. 
 
 **Information security**
 
@@ -146,7 +131,7 @@ Unfortunately, the transmission of information via the internet, mobile networks
 
 One easy and important way to protect your personal information is to keep your account password confidential and to close your browser when you are away from your device.
 
-You can check and edit the personal information we hold about you at any time via the Service or by contacting us by email or post (details _below_ ).
+You can check and edit the personal information we hold about you at any time via the Service or by contacting us by email or post (details below).
 
 **Other services**
 
@@ -156,21 +141,18 @@ We may provide some of your personal information to (or receive it from) the op
 
 **Opting out**
 
-If, at any time, you wish us to stop using your personal information or to correct any factual inaccuracies, just contact us by email or post (details _below_ ). Be sure to state "opt-out" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. We will try to make the requested changes in our active databases as soon as reasonably practical. Please note that residual data may be retained on back-up media or for other technical or administrative reasons.
+If, at any time, you wish us to stop using your personal information or to correct any factual inaccuracies, just contact us by email or post (details below). Be sure to state "opt-out" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. We will try to make the requested changes in our active databases as soon as reasonably practical. Please note that residual data may be retained on back-up media or for other technical or administrative reasons.
 
 **Access to your information**
 
-If you would like a copy of the personal information that we hold about you, just contact us by email or post (details _below_ ). Be sure to state "Copy personal information" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. If requested, we will use reasonable efforts to supply, correct or (as appropriate) delete information about you on our files.
+If you would like a copy of the personal information that we hold about you, just contact us by email or post (details below). Be sure to state "Copy personal information" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. If requested, we will use reasonable efforts to supply, correct or (as appropriate) delete information about you on our files.
 
 **How to contact us**
 
-If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [eu.privacypolicy@square-enix.com ](mailto:eu.privacypolicy@square-enix.com)or write to us at Square Enix Limited, 240 Blackfriars Road, London, SE1 8NW marking any correspondence for the attention of the Legal and Business Affairs Department.
+If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [eu.privacypolicy@square-enix.com ](mailto:eu.privacypolicy@square-enix.com) or write to us at Square Enix Limited, 240 Blackfriars Road, London SE1 8NW, marking any correspondence for the attention of the Legal and Business Affairs Department.
 
 **Changes to this Privacy Policy**
 
 We keep our Privacy Policy under regular review, and we may at any time update or otherwise modify this Privacy Policy. We will notify you of any changes to our Privacy Policy by posting the modified Privacy Policy on the Service. By then continuing to use the Service, you will be bound by the modified Privacy Policy. You are encouraged to check the terms of our Privacy Policy whenever you access the Service.
 
-**Last modified: 13 February 2014**
-
-  
-
+**Last modified: 8 April 2016**
