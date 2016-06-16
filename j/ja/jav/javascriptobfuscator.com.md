@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javascriptobfuscator.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208174138id_/http%3A//javascriptobfuscator.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascriptobfuscator.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616193015id_/http%3A//javascriptobfuscator.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Javascript Obfuscator
 
