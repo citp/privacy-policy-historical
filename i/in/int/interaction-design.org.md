@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226023632id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235709id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.*
 
-# Personal Data Use and Privacy Policy » Interaction Design Foundation
+# Personal Data Use and Privacy Policy | Interaction Design Foundation
 
 The Interaction Design Foundation (“IDF”), a non-governmental, privately held organization located at Chr. Molbechs Vej 4, DK-8000, Aarhus C, Denmark, during the normal course of its activities, collects personal data about you and other users, for the purposes set forth in this Personal Data Use and Privacy Policy (hereinafter referred to as the “Privacy Policy”), by means of the website located at https://www.interaction-design.org (hereinafter, the “Site”) and/or other websites used and/or controlled by IDF from time to time. IDF does not collect more data than such personal data collected by analogous websites. Personal data collected by IDF is processed for specified, explicit and legitimate purposes, in accordance with applicable laws in Denmark. 
 
@@ -119,4 +119,4 @@ IDF recommends its users to be careful and responsible on the personal informati
 
 IDF reserves the right to modify, at any moment, the terms of this Privacy Policy. Any change made to the Privacy Notice will be notified to users through the Site. Once a new version of the Privacy Policy is published, it will automatically be in force. 
 
-Date of last revision is XXX, 2015 
+Date of last revision is March 26th, 2016. 
