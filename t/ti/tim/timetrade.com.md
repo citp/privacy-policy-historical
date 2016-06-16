@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231100446id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616071008id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TimeTrade
 
@@ -10,9 +10,9 @@ TimeTrade Systems, Inc. respects your privacy and values our clients’ trust. W
 
 “PII” or “Personally Identifiable Information” is defined under MA 201 CMR 17.00 Standards for the Protection of Personal Information of Residents of the Commonwealth of Massachusetts (i.e. social security, financial or credit account number, etc.).
 
-“PPWE” refers to TimeTrade’s Personal, Professional or Workgroup Edition SaaS offerings. These offerings are for individuals and small to medium businesses or groups that require basic appointment scheduling functions. The PPWE service is owned and operated by TimeTrade and sold on a per Subscriber basis. Terms of use for the PPWE SaaS offering are detailed here: [http://www.timetrade.com/TTPW-termsofservice](https://web.archive.org/TTPW-termsofservice)
+“SMB” refers to TimeTrade’s Personal, Professional, Workgroup, Individual, or Business Edition SaaS offerings. These offerings are for individuals and businesses or groups that require one-to-one appointment scheduling functionality or appointment routing. The SMB service is owned and operated by TimeTrade and sold on a per Subscriber basis. Terms of use for the SMB SaaS offering are detailed here: [http://www.timetrade.com/SMB-termsofservice](https://web.archive.org/SMB-termsofservice)
 
-“PurchasePath™” refers to TimeTrade’s SaaS product offering for larger businesses or enterprises that require high volume scheduling, configurable interfaces and complex business rules.  PurchasePath is licensed under a Subscriber specific licensing agreement. Terms of use for the PurchasePath product are defined in the Subscriber’s Software as a Services Agreement with TimeTrade.
+“Enterprise” refers to TimeTrade’s SaaS product offering for larger businesses or organizations that require high volume scheduling, configurable interfaces and complex business rules.  Enterprise is licensed under a Subscriber specific licensing agreement. Terms of use for the Enterprise product are defined in the Subscriber’s Software as a Services Agreement with TimeTrade.
 
 “SaaS” or Software as a Service, is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software” and delivered via a web browser
 
@@ -34,11 +34,11 @@ Unless permission is provided through our Opt-in process, we will not sell, shar
 
 **4.  ** **Sharing of Collected Information, “Opt-in”**
 
-The PPWE product offering provides an “opt-in” option for Subscribers and their associated Users to receive further information from TimeTrade and third parties. If the User or Subscriber opts-in, TimeTrade may share names and email addresses with selected partners so that such partners may contact them with offers that may be of interest to them. Users and Subscribers can opt-out of receiving such information at any time by unsubscribing to the marketing emails via the unsubscribe links presented in the email. PurchasePath Subscriber data is not used or included in any TimeTrade or third party marketing programs.
+The SMB product offering provides an “opt-in” option for Subscribers and their associated Users to receive further information from TimeTrade and third parties. If the User or Subscriber opts-in, TimeTrade may share names and email addresses with selected partners so that such partners may contact them with offers that may be of interest to them. Users and Subscribers can opt-out of receiving such information at any time by unsubscribing to the marketing emails via the unsubscribe links presented in the email. Enterprise Subscriber data is not used or included in any TimeTrade or third party marketing programs.
 
 **5.  ** **Credit Card Transactions**
 
-Online credit card payments related to PPWE subscriptions are processed by a PCI certified payment processing vendor utilizing secure, encrypted payment card processing methods. Financial information will not be shared with any party not directly involved with billing of the services.
+Online credit card payments related to SMB subscriptions are processed by a PCI certified payment processing vendor utilizing secure, encrypted payment card processing methods. Financial information will not be shared with any party not directly involved with billing of the services.
 
 **6.  ** **Use of Information by Subscribers**
 
@@ -56,7 +56,7 @@ The functionality of the TimeTrade services allows Subscribers to collect inform
 
 **8\. Scheduling & Appointment Confidentiality**
 
-TimeTrade internally classifies all scheduling and appointment information as confidential and proprietary to the Subscriber. TimeTrade will never share a Subscriber’s schedule or appointment data with any third party outside the scope of TimeTrade’s services. For Users scheduling appointments with a Subscriber, TimeTrade will not share their scheduling information with anyone except the Subscriber with whom they are making an appointment. A Subscriber can only view information relating to their instance of services.
+TimeTrade internally classifies all scheduling and appointment information as confidential and proprietary to the Subscriber. TimeTrade will never share a Subscriber’s schedule or appointment data with any third party outside the scope of TimeTrade’s services. For user experience, analytical and support purposes TimeTrade may record Subscriber User session-specific information, such as source IP, accessing browser and which pages or functions within application were accessed.  For Users scheduling appointments with a Subscriber, TimeTrade will not share their scheduling information with anyone except the Subscriber with whom they are making an appointment. A Subscriber can only view information relating to their instance of services.
 
 **9.  ** **Links To Other Websites**
 
@@ -88,4 +88,4 @@ TimeTrade voluntarily complies with the U.S.-EU Safe Harbor Framework as set for
 
 Please direct any questions regarding our Privacy Statement to our privacy coordinator at privacytimetrade.com.
 
-This document was last updated on 7/22/2015
+This document was last updated on 3/30/2016
