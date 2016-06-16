@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clutchprep.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325194709id_/https%3A//www.clutchprep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchprep.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616181947id_/https%3A//www.clutchprep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clutch Prep
 
@@ -32,7 +32,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -77,8 +77,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 https://www.clutchprep.com  
-8500 SW 8 ST  
-Miami, Florida 33144  
+2125 Biscayne Blvd STE 375  
+Miami, FL 33137  
 USA  
 help@clutchprep.com  
 
