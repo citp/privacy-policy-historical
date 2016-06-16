@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219165623id_/https%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052523id_/https%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
@@ -102,7 +102,7 @@ WizIQ Inc.
 1101 Pemberton Hill Rd, Suite 101  
 Apex, NC 27502   
 U.S.A.  
-Phone: +1-919-647-4727â”‚Fax: +91-988-299-17  
+Phone: +1-919-647-4727│Fax: +91-988-299-17  
 1-800-567-8059 (Toll Free) **Registered Office:**  
 authorGEN Technologies Pvt. Ltd.   
 C-133, Fourth Floor   
