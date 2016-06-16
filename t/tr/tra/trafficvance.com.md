@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the trafficvance.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175018id_/https%3A//www.trafficvance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficvance.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051307id_/https%3A//www.propelmedia.com/advertisers/privacy-policy) for the most accurate reproduction.*
 
-# Trafficvance - Contextual Display & Textlink Traffic
+# Propel Media - Contextual Display & Textlink Traffic
 
-Trafficvance.com PRIVACY POLICY
+PROPELMEDIA.COM/ADVERTISERS PRIVACY POLICY
 
-This Privacy Policy ("Policy") explains what information Trafficvance, which is owned by Future Ads LLC, (referred to herein as "Future Ads", "we", “us”, or “our”) collects from individuals who access the [www.trafficvance.com](https://www.trafficvance.com/) website (the "Site"). This Policy also explains how we use and maintain that information.
+This Privacy Policy ("Policy") explains what information Propel Media LLC (referred to herein as "Propel Media", "we", “us”, or “our”) collects from individuals who access the [www.propelmedia.com/advertisers](http://www.propelmedia.com/advertisers) website (the "Site"). This Policy also explains how we use and maintain that information.
 
 Please note this Policy applies only to information collected on the Site and does not apply to (and we are not responsible for) the practices of companies that we do not own or control or to individuals we do not employ or manage. If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
 
 **1\. Changes to this Privacy Policy**
 
-Please know that we may amend this Policy at any time and from time to time in our sole discretion. The updated Policy that includes amendments will be posted [here](https://www.trafficvance.com/privacy-policy). If you access and use the Site after an amendment is posted, you are agreeing to be bound by the terms of that amendment. You should periodically visit the link above to review the current Policy.
+Please know that we may amend this Policy at any time and from time to time in our sole discretion. You can tell the last date this Policy was updated by checking the “Last Updated” date on the bottom of this Policy. If you access and use the Site after an amendment is posted, you are agreeing to be bound by the terms of that amendment. You should periodically visit the link above to review the current Policy.
 
 **2\. What we collect**
 
 We collect two kinds of information through the Site. The first kind is information that can identify you as a specific individual, such as your name and email address (personally identifiable information” or "PII"). The second kind of information is the kind of non-personally identifiable information ("NPII") collected and stored automatically by many websites. It includes, for example, information about your Internet service provider, IP address, operating system, type of browser, geographic location, and pages viewed on the Site. Although this information is related to you, it is not associated with your PII and cannot be linked to you personally. In addition, we have broken down this section into two categories to better explain how the Site collects your information:
 
-**a.     ****Direct Advertisers, Agencies and/or Independent Media Buyers (collectively, “Advertisers”) who create an account on the Site to utilize the Trafficvance Online Advertising Program (“Program”)**
+**a.** **Advertisers, including but not limited to, direct advertisers, agencies and independent media buyers, who create an account on the Site (collectively, “Advertisers”) to utilize the Propel Media Online Advertising Program (“Program”)**
 
 If you are an Advertiser utilizing the Program and have created an account with us, we collect the following types of information:
 
-**Account Information.** We collect and maintain all information that you provide to us in connection with the account registration process in order to help us manage your account and communicate with you as part of the Program. PII that is collected includes your name, email, phone number, address, instant messenger name, payment information, alternative contact information and any other PII you may provide us as part of the Program.
+**Account Information.** We collect and maintain all information that you provide to us in connection with the account registration process in order to help us manage your account and communicate with you as part of the Program. PII that is collected may include your name, email, phone number, address, instant messenger name, payment information, alternative contact information and any other PII you may provide us as part of the Program.
 
 **Account Access.**   We collect and maintain your login information when you access your account in order to help us manage your account.
 
 **Reporting Information.**  We collect certain types of statistical and analytics information regarding the number of served advertisements and the performance of our overall Program, in order to help us optimize that performance.
 
-**b.     ****Visitors to the Site**
+**b.** **Visitors to the Site**
 
 If you are a visitor to the Site and are not utilizing the Program, we collect the following kinds of information:
 
@@ -38,9 +38,9 @@ If you are a visitor to the Site and are not utilizing the Program, we collect t
 
 **3\. Use and Sharing of Information**
 
-We reserve the right to use your information: (1) for the specific purpose for which such information was provided as stated above; (2) for general Site administration purposes; (3) for the purposes disclosed at the time such information is provided; and (4) as otherwise stated  in this Policy.
+We reserve the right to use your information: (1) for the specific purpose for which such information was provided as stated above; (2) for general Site administration purposes; (3) for the purposes disclosed at the time such information is provided; and (4) as otherwise stated in this Policy.
 
-We do not share, sell or trade any of your information with any third parties other than described herein. We may share your information with our principals, employees, consultants, officers, directors, members, agents, subsidiaries, or affiliates (collectively "Related Entities"). Neither we nor our Related Entities contribute to or participate in cooperative databases, which give other companies access to your information.
+We do not share, sell or trade any of your information with any third parties other than described herein. We may share your information with our parent company, principals, employees, consultants, officers, directors, members, agents, subsidiaries, or affiliates (collectively "Related Entities"). Neither we nor our Related Entities contribute to or participate in cooperative databases, which give other companies access to your information.
 
 We and/or our Related Entities may also disclose your information to outside companies that help bring you the services we offer. For example, we and our Related Entities may work with outside companies to: (a) manage a database of user information; (b) assist in distributing e-mails; (c) assist with data collection; (d) provide data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone; and/or (g) provide other services designed to assist us in maximizing our business potential and maintaining our Site and the Program. We and our Related Entities require that these outside companies agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
 
@@ -52,14 +52,14 @@ We do not knowingly collect PII from anyone under 13 years of age. We cannot and
 
 **5\. Security**
 
-We have implemented technical, administrative and physical security measures to protect information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to authorized employees of Future Ads and the Related Entities. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
+We have implemented technical, administrative and physical security measures to protect information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to authorized employees of Propel Media and the Related Entities. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
 
 **6\. Your California Privacy Rights**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of PII we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [legal@futureads.com](mailto:legal@futureads.com). Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of PII we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [legal@propelmedia.com](mailto:legal@propelmedia.com). Please allow 30 days for a response.
 
 **QUESTIONS AND CONCERNS**
 
-If you have any questions or concerns about this Policy or any general questions about Trafficvance, please contact us [here](https://www.trafficvance.com/contact).
+If you have any questions or concerns about this Policy or any general questions about the Program, please contact us [here](https://www.propelmedia.com/advertisers/contact).
 
-Last Updated: November 4, 2013
+Updated: January 3, 2016
