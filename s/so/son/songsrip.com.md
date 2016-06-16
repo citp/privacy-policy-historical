@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the songsrip.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131100id_/http%3A//songspk.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songsrip.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055944id_/http%3A//songspk.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Songspk.Co – Download Mp3 Songs
+# Privacy Policy | SongPK.co
 
 **Privacy Policy for www.SongsPk.Co**
 
