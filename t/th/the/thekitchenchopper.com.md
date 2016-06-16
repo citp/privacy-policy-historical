@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekitchenchopper.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025621id_/http%3A//thekitchenchopper.com/indexBlog.php/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekitchenchopper.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171016id_/http%3A//thekitchenchopper.com/indexBlog.php/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Kitchen ChopperThe Kitchen Chopper
 
