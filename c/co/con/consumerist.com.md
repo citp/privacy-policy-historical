@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003212id_/http%3A//consumerist.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052737id_/https%3A//consumerist.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – Consumerist
 
@@ -12,7 +12,7 @@ This Privacy Policy applies to the Consumerist web site, Tipster application and
 
 **YOUR CONSENT TO THIS PRIVACY POLICY**
 
-This Privacy Policy is part of the Consumer Media User Agreement [(http://consumerist.com/user-agreement/)](http://consumerist.com/user-agreement/). Please read this Privacy Policy and our User Agreement before using our Sites and apps.  By using any of Consumer Media’s Sites or apps that link to this Privacy Policy, you consent to the terms of this updated Privacy Policy and our User Agreement.
+This Privacy Policy is part of the Consumer Media User Agreement [(https://consumerist.com/user-agreement/)](https://consumerist.com/user-agreement/). Please read this Privacy Policy and our User Agreement before using our Sites and apps.  By using any of Consumer Media’s Sites or apps that link to this Privacy Policy, you consent to the terms of this updated Privacy Policy and our User Agreement.
 
 **INFORMATION WE COLLECT, HOW WE COLLECT IT AND HOW WE USE IT**
 
@@ -94,7 +94,7 @@ We may purchase or establish a business or sell one or more of our businesses an
 
 We reserve the right to share your personal information with legal authorities if required by law, for example, to comply with a court order or subpoena, or if we determine in our sole discretion that it is necessary to investigate, prevent or take action regarding suspected illegal activities, any violations of our User Agreement, or in connection with any safety or security concerns.
 
-Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (<http://consumerist.com/user-agreement/>)(e.g., libels them or infringes their intellectual property rights), then in accordance with our User Agreement(<http://consumerist.com/user-agreement/>), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
+Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (<https://consumerist.com/user-agreement/>)(e.g., libels them or infringes their intellectual property rights), then in accordance with our User Agreement(<https://consumerist.com/user-agreement/>), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
 
 **Mandatory Disclosure for Certain Promotional Offers, Sweepstakes or Contests**
 
