@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230130329id_/http%3A//www.bbcgoodfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616224507id_/http%3A//www.bbcgoodfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BBC Good Food
 
 Last updated: 7th March 2014
-
-This policy has recently been updated. What’s new?
-
-  * We’ve created an plain English summary of our privacy approach: “Our Promise”.
-  * We’ve provided more detail about what we do with your information and when we may share it between our group of companies.
-  * We’ve implemented the same policy across all our services and group companies.
-
-
 
 BBC Worldwide Limited (“BBCW”) is the main commercial arm and a wholly owned subsidiary of the British Broadcasting Corporation (“BBC”). It is a UK based company operating in countries around the world through its subsidiaries (“BBCW Group”). The information in these pages relates to the privacy practices of the companies in the BBCW Group (herein referred to as “BBCW”, “we”, “our” or “us”).
 
@@ -27,7 +19,7 @@ We operate a variety of BBC-branded commercial services, such as TV channels, on
   1. We will comply with applicable privacy and data protection laws and regulatory frameworks.
   2. We will only use your personal information to supply, improve and manage our services. Any additional or unusual uses of your information will be explained at the point of collection.
   3. We will only send you marketing emails if you have permitted us to (and you will be given the opportunity to unsubscribe in each of our emails).
-  4. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but, if you prefer, you may opt-out [here](https://web.archive.org/cookies-policy).
+  4. We will enable you to opt-out of usage tracking where possible; we track your use of our services to help us to tailor our content and advertising and to improve our services. We will not use information that identifies you personally but, if you prefer, you may opt-out [here](http://www.bbcgoodfood.com/cookies-policy).
   5. We will not share personally identifiable information with unrelated third parties for their own use without your consent. We may share your information within our group of companies so that we can provide you with the best customer experience across our brands.
   6. We will take appropriate steps to safeguard your information in accordance with industry standards but please keep in mind that no system can be guaranteed as 100% secure.
   7. We will only keep your information for as long as we need it: (i) to provide you with a product/service; (ii) to improve our services; and (iii) for legal and audit purposes.
@@ -52,8 +44,8 @@ In the course of providing you with our services and through your interactions w
   7. Children using our services
   8. How we secure your information
   9. Your rights and choices
-  10. [Changes to this policy](https://web.archive.org/web/20141230130329id_/http%3A//www.bbcgoodfood.com/changes)
-  11. [Contact Us](https://web.archive.org/web/20141230130329id_/http%3A//www.bbcgoodfood.com/contactus)
+  10. [Changes to this policy](http://www.bbcgoodfood.com/changes)
+  11. [Contact Us](http://www.bbcgoodfood.com/contactus)
 
 
 
@@ -61,7 +53,7 @@ If you have any questions or comments about this policy or our approach to priva
 
 ### 1\. SCOPE OF THIS POLICY AND YOUR CONSENT
 
-This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of [Cookies](https://web.archive.org/cookies-policy) (Tracking Technologies) and the provision of our services via [Mobile Applications](http://www.bbcworldwide.com/privacy/mobile-apps.aspx) (“Mobile Apps”). The practices set out in those policies are governed by this overarching policy.
+This policy governs our processing of your information in relation to the products and services we supply to you. In addition to this policy, we operate policies relating to our use of [Cookies](http://www.bbcgoodfood.com/cookies-policy) (Tracking Technologies) and the provision of our services via [Mobile Applications](http://www.bbcworldwide.com/privacy/mobile-apps.aspx) (“Mobile Apps”). The practices set out in those policies are governed by this overarching policy.
 
 Please be aware that we also license our brands and content to other companies who may produce their own websites, events and digital content. We take reasonable steps to ensure that these companies clearly identify themselves and handle your information appropriately. However, when you use any service which is operated by a third party, the use of your information will be subject to their privacy policy and not ours. If you have any concerns, please contact us at: [dataprotection@bbc.com](mailto:dataprotection@bbc.com?subject=Privacy%20Policy).
 
@@ -83,7 +75,7 @@ When you use our services we automatically record information about your usage o
 
  _Log data:_ When you use our services, certain information gets recorded in our log files such as your device’s Internet Protocol (IP) address, its unique ID, its operating system and location, and your browser type, the pages you viewed, cookie information and referral links (the link that sent you to a particular page).
 
- _Tracking technologies (cookies):_ In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as “cookies”). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our [Cookies Policy](https://web.archive.org/cookies-policy) for more information.
+ _Tracking technologies (cookies):_ In conjunction with our log data we may use tracking technologies such as tags on our web pages and small data files which we store on your device (known as “cookies”). These technologies enable us to recognise your device and to track your interaction with our services, emails and adverts. We do not use these technologies to identify you and we do not intentionally collect or record personally identifiable information through these technologies. See our [Cookies Policy](http://www.bbcgoodfood.com/cookies-policy) for more information.
 
 #### Information collected via social media and other third parties:
 
@@ -91,7 +83,7 @@ When you choose to participate in or receive a service from us via social media,
 
 #### Information collected via specialist data companies:
 
-We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate “market segments”. This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our [Cookies Policy](https://web.archive.org/cookies-policy) for more information.
+We sometimes use specialist data companies to provide us with information they hold about you to enable us to better tailor our advertising. For example, we might use anonymous information about your browsing on other sites to enable us to infer your interests and to put you into appropriate “market segments”. This information is not used to identify you as a person and we do not attempt to combine it with personally identifying information that we may hold. See our [Cookies Policy](http://www.bbcgoodfood.com/cookies-policy) for more information.
 
 ### 3\. HOW WE USE YOUR INFORMATION
 
@@ -105,7 +97,7 @@ We will use your information: (i) to deliver, improve and personalise our servic
   * contact you about a submission you have made to our online services (refer to our [Code of Conduct](http://www.bbcworldwide.com/bbcworldwideandmagswebsites-codeofconduct.aspx "Code of Conduct")).
   * analyse and/or improve our services.
   * personalise the way BBCW content is presented to you online.
-  * deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out [here](https://web.archive.org/cookies-policy))
+  * deliver interest-based advertising based upon your browsing of our websites and others (find out more about our advertising and how to opt-out [here](http://www.bbcgoodfood.com/cookies-policy))
   * prevent fraud or other potentially illegal activities (including copyright infringement).
   * filter spam and other inappropriate content from our services.
   * block disruptive users and protect the safety of users of our services.
@@ -204,8 +196,8 @@ We will treat your requests or complaints confidentially and we will aim to ensu
 #### Data Protection Officer
 
 BBC Worldwide Ltd  
-MC2 A6, Media Centre  
-201 Wood Lane  
+Television Centre  
+101 Wood Lane  
 London  
-W12 7TQ  
+W12 7FA  
 Email: [dataprotection@bbc.com](mailto:dataprotection@bbc.com)
