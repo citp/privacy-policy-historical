@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225012412id_/http%3A//www.idiva.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052556id_/http%3A//www.idiva.com/privacypolicy) for the most accurate reproduction.*
 
-# Women's Beauty, Style, Fitness, Entertainment, Lifestyle, Relationships, Careers | iDiva.com
+# Women's Beauty, Style, Fitness, Entertainment, Lifestyle, Relationships, Careers | iDiva
 
 This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Times Internet Limited. and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the Company), which operates various websites and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the "Services"). This Privacy Policy forms part and parcel of the Terms of Use for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
 
@@ -74,12 +74,12 @@ The internet is an ever evolving medium. We may alter our privacy policy from ti
 
 In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [grievance.idiva@indiatimes.co.in](mailto:grievance.idiva@indiatimes.co.in) or write at the following address:
 
-**Ms. Shwetha Nair**  
+**Ms. Lisabelle Gonsalves**  
 Grievance Redressal Officer  
 Times Internet Limited.  
-4th Floor, MPD World Tower,  
-DLF City Phase V, Opposite DLF Golf Course  
-Gurgaon, Haryana 122002, India
+Plot No. 391, Udyog Vihar, Phase – III,  
+Gurgaon – 122016, Haryana, India.  
+Ph : + 91-124-4187000/4518550.
 
 **We request you to please provide the following information in your complaint:-**
 
