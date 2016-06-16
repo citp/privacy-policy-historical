@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207002651id_/http%3A//premium.wpmudev.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054342id_/https%3A//premium.wpmudev.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPMU DEV - The WordPress Experts
 
@@ -6,7 +6,7 @@ Effective Date: 07/16/2015
 
 This is the Privacy Policy for WPMU DEV
 
-The privacy of our visitors to WPMU DEV is important to us. This privacy policy applies to [http://premium.wpmudev.org](http://premium.wpmudev.org/), owned and operated by WPMU DEV.
+The privacy of our visitors to WPMU DEV is important to us. This privacy policy applies to [https://premium.wpmudev.org](https://premium.wpmudev.org/), owned and operated by WPMU DEV.
 
 Here is information on what types of personal information we receive and collect when you use and visit WPMU DEV, and how we safeguard your information. We never sell your personal information to third parties.
 
