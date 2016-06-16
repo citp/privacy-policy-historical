@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mummypages.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217164839id_/http%3A//www.mummypages.co.uk/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mummypages.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616074131id_/http%3A//www.mummypages.co.uk/privacy-cookies) for the most accurate reproduction.*
 
-# MummyPages® is Britain's chirpiest website for mums and...
+# MummyPages® is Britain's chirpiest website for mums and mums-to-be!
 
 We will keep your personal information secure and safe and undetake not to provide it to third parties unless it is necessary for us to do so to perform our service to you, e.g. if you enquire about a product and we need to send your details to the seller in order for them to respond. We use email addresses for functional purposes only, such as to send registration information, receipts, reminders, etc, for offers related to the nature of our website and for services which you have opted into. If we conduct market research for third parties, we only provide aggregate results to such parties and promise never to release any personal details about users or individual responses unless we are compelled to by law.
 
