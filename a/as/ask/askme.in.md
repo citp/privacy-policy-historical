@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askme.in privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231161936id_/http%3A//www.askme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askme.in privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052105id_/https%3A//www.askme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Askme.com
 
