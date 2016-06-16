@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annals.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214233216id_/http%3A//annals.org/SS/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annals.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616030436id_/http%3A//annals.org/SS/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Annals of Internal Medicine | PrivacyPolicy
 
