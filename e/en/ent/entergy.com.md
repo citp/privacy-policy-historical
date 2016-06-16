@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906115051id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180702id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
 
 # Entergy - Legal
 
 ## Privacy Policy
 
-_Last Updated:  May 13, 2014_
+_Last Updated:  September 29, 2015_
 
 Entergy Corporation is a holding company for individual public utility companies, among other affiliates. Each of these public utility companies and other affiliates is a separate and distinct legal entity. Each public utility subsidiary of Entergy Corporation has its own service territory, federal and/or state utility regulatory regime(s), rate structure(s), and customers. Neither Entergy Corporation nor any subsidiary or other affiliate of Entergy Corporation shall be liable for the obligations, or entitled to the benefits of, any other subsidiary or affiliate of Entergy Corporation, except as may be expressly provided by a duly authorized and executed, legally enforceable written agreement. The public utility subsidiaries of Entergy Corporation that provide retail electric and/or gas utility services are the following:
 
 • Entergy Arkansas, Inc.  
-• Entergy Gulf States Louisiana, L.L.C.  
 • Entergy Louisiana, LLC  
 • Entergy Mississippi, Inc.  
 • Entergy New Orleans, Inc.  
@@ -20,7 +19,7 @@ Solely for reasons of convenience, the term "Entergy" is used herein to refer in
 Entergy's postal address is:
 
 P.O. Box 61000  
-L-ENT-8B  
+L-ENT-6H  
 New Orleans, LA 70161  
 Attention: Web Communications Manager
 
