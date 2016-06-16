@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popwrapped.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208050238id_/http%3A//popwrapped.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popwrapped.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616162400id_/http%3A//popwrapped.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PopWrapped
 
@@ -75,4 +75,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on March 12, 2015.
 
-##### Breaking news
+##### Trending news
