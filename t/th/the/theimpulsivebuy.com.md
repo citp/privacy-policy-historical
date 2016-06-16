@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theimpulsivebuy.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208210556id_/http%3A//www.theimpulsivebuy.com/wordpress/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimpulsivebuy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225836id_/http%3A//www.theimpulsivebuy.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Impulsive Buy
+# Privacy Policy – The Impulsive Buy
 
 At Theimpulsivebuy.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Theimpulsivebuy.com, and how we safeguard your information. **We never rent, sell or otherwise share your personal information to third parties.**
 
