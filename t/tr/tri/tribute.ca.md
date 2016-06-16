@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribute.ca privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018021538id_/http%3A//www.tribute.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribute.ca privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616113437id_/http%3A//www.tribute.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tribute.ca
 
