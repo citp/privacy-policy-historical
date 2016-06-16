@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the litmusapp.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222054804id_/http%3A//litmus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmusapp.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063437id_/http%3A//litmus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Litmus
 
-## Privacy Policy
+  *   * [Pricing](https://web.archive.org/pricing)
+  * [Resources](https://web.archive.org/resources)
+  * [Enterprise](https://web.archive.org/enterprise)
+  * [API](https://web.archive.org/api)
+  * [Blog](https://web.archive.org/blog)
+
+* * *
+
+  * [Login](https://litmus.com/sessions/new)
+  * [Try Litmus free](https://litmus.com/hello)
+
+
 
 We at Litmus Software, Inc. (“Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personally identifiable information (“Personal Information”) is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Company Terms of Service. 
 
