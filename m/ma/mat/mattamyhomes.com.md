@@ -1,145 +1,111 @@
-> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009040510id_/http%3A//www.mattamyhomes.com/Privacy-Policy%3FCountry%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616205559id_/http%3A//mattamyhomes.com/help/privacy.aspx) for the most accurate reproduction.*
 
-# Mattamy Homes Privacy Policy
+# Privacy Policy | Mattamy Homes
 
-Introduction 
+This Privacy Policy has been prepared by Mattamy Homes (" **Mattamy** ", " **we** ", " **us** ", " **our** ") and sets out the manner in which Mattamy collects, uses, discloses and otherwise manages personal information.  The Privacy Policy also describes the privacy practices on the Mattamy website (the "Website") and through other interactions with consumers. 
 
-The following Privacy Policy outlines the privacy rules to which Mattamy Homes and its employees are subject.
+## Collection and Use of Personal Information
 
-Part (A) sets out Mattamy Homes’ policy for the treatment of the personal information of its customers and potential customers. Mattamy employees are expected to follow the rules contained within the Code. Questions of specific application may be addressed to an employee’s immediate supervisor. Part (B) describes Mattamy Homes policy for the treatment of the personal information of its employees, including what employee information is used for and how employee’s may access their personal information. 
+**Guest Registry** : When you visit one of our sales centres and complete a Guest Registry form, we collect contact information such as your first and last name, mailing address, email address and mobile, work or home phone numbers. You may also choose to provide optional information such as your current housing situation, reason for moving, desired housing characteristics, family status, number of adults and children, age group and annual household income. We use the information provided on the Guest Registry form to better understand your needs, assist you in finding a suitable home and to send you tailored communications about Mattamy homes, products and services. We also use this information on an aggregate basis to better understand our customers and to improve our product and service offerings. 
 
-Part (A) Customer Personal Information 
+**Buying a Home** :  When you complete an Agreement of Purchase and Sale for a residential property through Mattamy, we collect the information you provide on the Agreement including the first and last name and contact information (such as mailing address and telephone numbers) for each purchaser, real property description, and purchase amount.  We use this information for the purposes of facilitating the residential property transaction. We also collect information necessary to verify the identity of purchasers (such as a valid government-issued identification) as well as a personal cheque for deposit purposes.
 
-i) General Overview 
+**Requests for Mortgage Information** :  If you request information regarding the availability of home mortgage programs offered by Mattamy Home Funding in the United States, we collect your, and any co-borrower’s, personal information, including name, email address, employment and income, assets and liabilities, Social Security number and credit history.  Any information you provide in connection with your request for mortgage information will be forwarded directly to the appropriate Mattamy Home Funding affiliate, which will respond to your request or have a representative of Mattamy Home Funding contact you.  For additional information, please refer to the separate Privacy Policy for Mattamy Home Funding. 
 
-Mattamy Homes is subject to Canada’s privacy legislation, the Personal Information Protection and Electronic Documents Act (“PIPEDA”). The Act imposes rules on how Mattamy Homes may collect, use and disclose the personal information of its customers and potential customers. It also imposes rules governing the security, retention, accuracy and access to customer personal information. 
+**Warranty Registration and Requests** :  We collect certain personal information, including your name, email address, mailing address, telephone number and property closing date when you register for a new home warranty plan or when you make a warranty customer care request.  This information is used to complete the warranty registration and to fulfill your request for warranty-related services.  
 
-ii) What Is Personal Information? 
+**Website Registration** :  In order to access information, products, and services on a password-protected area of our Website, we may request certain personal information such as your name, mailing address, telephone number, email address and password that you select.  We use this registration information to provide and otherwise administer your online account or service you request. 
 
-Personal Information is information that identifies an individual and relates specifically to that individual. It can include a (potential) customer’s home address, telephone number, or simply information regarding their interest in or purchase of aMattamy home. 
+**Marketing Communications** :  When you complete a Guest Registry form or otherwise sign-up to receive information regarding Mattamy communities, homes, financial services and related products and services, we collect your contact information such as your name, mailing address, mobile, work or home telephone numbers and email address. We use the information you send you communications based on your interests by mail, email or telephone. You can opt-out of receiving future marketing and promotional communications at any time by clicking on the unsubscribe link included in our email communications or by contacting us as set out under “Contact Us” below.
 
-Personal information does not include the name, business telephone number or business address of an employee of another organization (ie “business card information”). This information may be used or disclosed without consent. 
+**Referral Services/Tell-a-Friend** : If you choose to use one of our referral services to tell a friend about our Website or an employment opportunity, we will ask you for your friend’s name and email address.  We will send your friend a one-¬time email on your behalf inviting him or her to visit the site.  We store this information for the sole purposes of sending this one¬time email and tracking the success of our referral program, and we do not use the names or email addresses submitted in these circumstances for any other purpose without consent to do so. You are responsible for ensuring that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message.
 
-iii) What Restrictions Are Placed on the Collection, Use and Disclosure of Personal Information? 
+**Survey and Customer Research** :  From time to time, we may offer you the opportunity to participate in one of our surveys or other customer research. We may collect certain personal information such as your name and email address.  The information obtained through our surveys and customer research is used in an aggregated, non-personally identifiable form to help us understand our customers and to enhance our product and service offerings. 
 
-Generally speaking Mattamy Homes may only collect, use or disclose a customer’s or prospective customer’s personal information if the (prospective) customer has consented to the particular purpose for its use or disclosure (there are some limited exceptions that are normally not applicable to day-to-day business operations). Consent will normally be required to be express from the (potential) customer. However in appropriate circumstances involving less sensitive information, consent may be implied. 
+**Customer Service** :  When you contact us with a comment, question or complaint, you may be asked for information that identifies you (such as your name, address and a telephone number) along with additional information we need to help us promptly answer your question or respond to your comment or complaint (for example, lot number, warranty enrollment number, etc.).  We may retain this information to assist you in the future and to improve our customer service and product and service offerings. We also use personal information to establish and manage our relationship with you and provide quality customer service. 
 
-Mattamy Homes generally obtains consent by printing a notice on our data collection forms and website identifying the purposes for which personal information gathered from the (potential) customer will be used or disclosed. Through the filling out of the data collection form, Mattamy Homes obtains the consent of the (potential) customer to use or disclose the personal information for the stated purpose on the form. 
+**Employment** :  In connection with a job application or related inquiry, you may provide us with certain personal information about yourself (such as that contained in a resume, cover letter, or similar employment-related materials).  This information will be used for the purpose of processing and responding to your application for current and future career opportunities.
 
-An example might be a web page that indicates that information supplied by a potential customer will be used to provide the individual with information about Mattamy Homes property developments.
+##  Disclosure and Sharing of Personal Information
 
-If information is to be used or disclosed for a purpose not identified to the (potential) customer, Mattamy Homes is normally obligated to communicate that additional purpose and obtain additional consent. The law restricts Mattamy Homes to collecting only personal information necessary to comply with the stated purposes (ie facilitating the transaction with a customer or potential customer including a sale of business or communication of products and services or satisfaction surveys).
+We will not disclose, trade, rent, sell or otherwise transfer your personal information, without your consent, except as otherwise set out herein. 
 
-Rule #1 Subject to a few exceptions, the personal information of customers and prospective customers should not be used by employees or disclosed outside the company unless consistent with the purposes to which the customer has consented. Where it is unclear if consent is present for a particular use or disclosure, employess shall seek clarification from their manager. 
+**Service Providers** :  Your personal information may be transferred (or otherwise made available) to our affiliates and other third parties who provide services on our behalf.  For example, we use service providers to provide services such as maintaining our Website, hosting our job application form, providing services related to our Website, sending electronic mail or other functions related to our business and services.  Our service providers are given the information they need to perform their designated functions, and are not authorized to use or disclose personal information for their own marketing or other purposes.
 
-Rule #2 Employees are expected to notify their Manager immediately of any unauthorized use or disclosure of personal information of which they become aware.
+Your personal information may be maintained and processed by us, our affiliates and other third party service providers in Canada, the US or other jurisdictions.  In the event personal information is transferred to the US or other foreign jurisdiction, it will be subject to the laws of that jurisdiction and may be disclosed to or accessed by the courts (or related parties), law enforcement and governmental authorities in accordance with those laws. 
 
-iv) What Are the Rules Governing Security of Personal Information? 
+**Legal/Compliance** :  Mattamy, its affiliates and its Canadian, US and other foreign service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to another organization for the purposes of investigating a breach of an agreement or contravention of law or detecting, suppressing or preventing fraud, or as otherwise required or permitted by applicable Canadian, US or other law.  Your personal information may also be disclosed where necessary for the establishment, exercise or defence of legal claims and to investigate or prevent actual or suspect loss or harm to persons or property.
 
-According to PIPEDA Mattamy Homes is required to implement security measures appropriate to the sensitivity of the personal information. Customer and prospective customer personal information is kept in a secure area in Mattamy Homes offices. Access to such information is restricted to those employees authorized to use the information. 
+**Sale of Business** :  Personal information may be provided to third parties in connection with a prospective or completed business transaction, including a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Mattamy or as part of a corporate reorganization or stock sale or other change in corporate control.
 
-Rule #3 Employees must not access customer/ prospective customer files without appropriate authorization from their supervisor/manager. 
+##  Cookies, Interest-Based Advertising, and Additional Information about our Website 
 
-Rule #4 Information properly accessed for authorized purposes should be immediately returned to its secured storage area after its use and not left unattended in a non-secure area. Employees should immediately report any loss, theft, unauthorized use, disclosure, copying or destruction of customer/prospective customer personal information to their supervisor.
+### **Visiting our Website**
 
-v) What Are the Rules Governing Accuracy of Personal Information? 
+We and/or our service providers collect IP (Internet protocol) addresses from all visitors to the Website and other related information such as page requests, browser type, operating system and average time spent on our Website.  This information is used to help us understand our Website activity, and to monitor and improve the Website. 
 
-Under the law, Mattamy Homes must keep personal information as accurate and up to date as is necessary for the purposes for which it has been collected. Any inaccuracies discovered should be corrected promptly. Notice must also be given to any person or organization holding the information on Mattamy Homes’ behalf to ensure correction. 
+###  Cookies, Tracer Tags & Web Beacons
 
-Rule #5 Where employees become aware that (prospective customer) personal information maintained in Mattamy Homes’ is inaccurate, notice should be provided to their supervisor/manager in order that the information may be corrected.
+Our Website uses a technology called “cookies”.  A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return.  We use cookies on the pages on our Website where you are prompted to log in or that are customizable.  If you have registered with our Website, these cookies may let us know who you are and identify your browser as one that has visited the Website before, and may be necessary to access your account information (stored on our computers) in order to deliver products and personalized services. We also use cookies to provide us and our service providers with information about your use of the Website (such as web pages visited) that we will use to personalize our Website in accordance with your interests and assumed preferences. 
 
-vi) What are the Rules Governing Retention of Personal Information?
+You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies.  However, if you decide not to accept cookies from our Website, you may not be able to take advantage of all of the features of our Website. 
 
-Under the law, Mattamy Homes is obliged to retain personal information about its customers or prospective customers only as is long as is necessary to meet the purposes for which it was collected. 
+Our Website may also use a technology called “tracer tags” or “Web Beacons”.  This technology allows us to understand which pages you visit on our Website.  These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website.   
+Our Website is not designed to respond to “do not track” signals received from browsers.
 
-In addition Mattamy Homes may not destroy personal information if a (potential) customer has requested access to it until after the access process (and any right of appeal regarding an access decision) has been completed. 
+###  Analytics
 
-Rule #6 Employees who are aware that information is subject to an access request shall not alter, amend or destroy such information until authorization is received from their supervisor/manager.
+We may use a third party such as Google Analytics to help us gather and analyze information about the areas that you visit on our Website. Such third parties may use technologies such as cookies, web server logs and web beacons. We use this information to evaluate and improve the customer experience and the convenience of our Website, and to help us evaluate some of the specific information related to your Website visits. For more information, see "[How Google uses data when you use our partners' sites or apps](http://www.google.com/policies/privacy/partners)".
 
-vii) Challenging Compliance
+###  Interest-Based Advertising
 
-Under the law, members of the public may raise concerns or complaints about Mattamy Homes’ privacy practices. The company is obliged to respond to such complaints in a timely fashion. 
+We may use third parties to serve our advertisements on other websites.  These companies may use cookies, tracer tags or web beacons to report certain information about your visits to our Website and other websites (such as web pages you visit and your response to ads) in order to measure the effectiveness of our marketing campaigns and to deliver ads that are more relevant to you, both on and off our Website. 
 
-Rule #7 Any inquiries about Mattamy Homes’ privacy practices that cannot be answered by reference to our privacy policy should be referred to the Chief Privacy Officer. Similarly, all complaints about Mattamy Homes’ privacy practices should be forwarded to the Chief Privacy Officer.
+To find out more about the collection and use of information by third parties for behavioral advertising purposes, or if you would like to opt-out of certain third-party cookies and make selections about what online advertisement you choose to receive, you can visit the Digital Advertising Alliance website at <http://www.digitaladvertisingalliance.org/> or <http://www.aboutads.info/choices/> or the Digital Advertising Alliance of Canada website at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices). You can opt-out of interest-based ads from Google by visiting <http://www.google.com/settings/ads>.  
 
-viii) Access
+### Third Party Links
 
-The law normally permits customers or potential customers to access their own personal information in the custody or control of Mattamy Homes. Normally, Mattamy Homes is required to respond to such requests (either denying or granting access) within 30 days of receiving the request. In appropriate circumstances Mattamy Homes may charge a reasonable fee for responding to the request.
+Our Website may contain links to other sites that we do not own or operate, including social media websites.  Also, links to our Website may be featured on third party websites on which we advertise.  Except as provided herein, we will not provide any of your personal information to these third parties without your consent.  We provide links to third party websites as a convenience to the user.  These links are not intended as an endorsement of or referral to the linked websites.  The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully.  We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. 
 
-Rule #8 Any requests to access personal information in the custody or control of Mattamy Homes by a member of the public should be immediately referred to the Chief Privacy Officer for response.
+###  Social Media
 
-Summary of Rules 
+We may offer you the opportunity to engage with our content on or through third-party social networking websites, plug-ins and applications. When you engage with our content on or through third-party social networking websites, plug-ins and applications, you may allow us to have access to certain information associated with your social media account (e.g., name, username, email address, profile picture, gender) to deliver the content or as part of the operation of the website, plug-in or application. When you provide information from your social media account, we may use this information to personalize your experience on the Website and on the third-party social networking websites, plug-ins and applications, and to provide you with other products or services you may request.
 
-All Mattamy employees are expected to comply with the eight rules set out above. 
+###  Safeguards and Retention 
 
-Breaches of the policy may lead to corrective or disciplinary action. Employees with questions regarding the application of the policy should contact their immediate supervisor.
+We have implemented reasonable administrative, technical and physical measures in an effort to safeguard the personal information in our custody and control against theft, loss and unauthorized access, use, modification and disclosure.  We restrict access to your personal information on a need-to-know basis to employees and authorized service providers who require access to fulfil their job requirements. 
 
-PART (B) Employee Personal Information 
+Your online access to certain of your personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
 
-The second portion of Mattamy Homes’ privacy policy deals with personal information collected by Mattamy Homes about its staff in order to administer the employment relationship. Though PIPEDA doesn’t strictly apply to personal information used in the employment context, Mattamy Homes believes it appropriate to treat employment records confidentially. The company’s privacy practices reflect PIPEDA principals and are described below.
+We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
 
-Obtaining and Verifying Your Personal Information 
+###  Access to Your Personal Information
 
-Mattamy obtains personal information about its employees primarily for administration of the employment relationship including the following purposes:
+You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. 
 
-  * to make informed decisions on hiring, transfers or promotions
-  * benefits administration including establishment of the employee and other beneficiaries under group benefits as well as claims management
-  * service recognition
-  * performance evaluation, incident investigation, attendance management workplace accommodation ,scheduling, counseling and corrective action
-  * pension administration
-  * payroll administration
+You may request access, updating and corrections of inaccuracies in personal information we have in our custody or control by emailing or writing to us at the contact information set out below.  We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
 
+###  Changes to the Privacy Policy
 
+This Privacy Policy may be updated periodically to reflect changes to our personal information practices.  We will post the updated Privacy Policy on our Website.  Your personal information will be treated in accordance with the Privacy Policy in place at the time your personal information was collected, unless you otherwise consent. 
 
-From time to time information necessary to perform employment contract administration may be disclosed to an authorized third-party service provider (i.e., group benefits insurer or payroll administrator). If employees have any questions with respect to use or disclosure of their personal information, they should notify Human Resources. 
+###  Contact Us
 
-Accessing Personal Information 
+Please contact our Privacy Officer if:
 
-If employees want to review or verify their personal information or find out to whom the company has disclosed it, they should contact Human Resources.
+  * you have any questions or comments about this Privacy Policy,
 
-At that time, specific information will be required to enable the provision of the personal information. Normally requests will be responded to within 30 days, depending on the nature and complexity of the request.
+  * you wish to access, update, and/or correct inaccuracies in your personal information, or
 
-There may be instances where the company is not able to provide the personal information held about an employee.  
-Some of these instances include when the information:
+  * you otherwise have a question or complaint about the manner in which we or our service providers treat your personal information.
 
-  * contains references to the personal information of others;
-  * is subject to a legal privilege;
-  * contains proprietary information that is confidential to Mattamy Homes;
-  * has already been destroyed due to legal requirements or because it was no longer needed for the purposes for which it was initially collected; or
-  * cannot be disclosed for legal reasons.
 
 
 
-If employee personal information cannot be accessed, the company will always explain the reasons why.
+You may contact our Chief Privacy Officer by email at steve.kahansky@mattamycorp.com or by mail at the following address:
 
-Keeping Employees’ Personal Information Accurate 
+Mattamy Homes  
+2360 Bristol Circle  
+Oakville, ON  L6H 6M5
 
-Mattamy is committed to maintaining the accuracy of employee personal information for as long as it is being used for the purposes it was collected. Employees play an important role in keeping this information current. Should it be discovered that amendments to employee personal information are required, please advise Human Resources immediately. The company will endeavor to advise others of any important amendments to employee information which we may have released to them. 
-
-If the company does not agree to make the amendments that have been requested, employees may challenge the decision. The company will make a record of this challenge and, if necessary, disclose the challenge to third parties who also possess the personal information.
-
-Controls on Releasing Employee Personal Information
-
-Mattamy has a strict policy of not releasing personal information about its employees without their consent other than:
-
-  * Information necessary for authorized service providers to perform employment-related tasks (such as payroll and benefits administration).
-  * Information the company is required to disclose by law (e.g. a subpoena or court order).
-
-
-
-Safeguarding Employee Personal Information 
-
-Employees’ personal information is secure within the Payroll and Human Resources Departments. The company has comprehensive security controls to protect against unauthorized use, alteration, duplication, destruction, disclosure, loss or theft of, or unauthorized access to, employee personal information.
-
-Options Available to Employees Regarding Their Personal Information 
-
-Employees’ may choose not to provide the company with some or all of their personal information. Employees may also withdraw their consent to the company’s use of their personal information. Where legal requirements permit, the company will cease the use or disclosure of employee personal information. However, depending on the circumstances this may lead to an inability to provide the employee with an employment-related service or to continue with the employment relationship.
-
-In Summary 
-
-Mattamy takes its responsibility to protect the confidentiality of its employees’ personal information very seriously. 
-
-For more information about our commitment to protect the privacy and confidentiality of your personal information, please contact Human Resources through [ privacy@mattamycorp.com ](mailto:privacy@mattamycorp.com) or by telephone at (905) 829-2424.
-
-  
-
+Attention:  Steve Kahansky
