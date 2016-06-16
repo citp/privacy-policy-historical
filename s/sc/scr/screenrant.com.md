@@ -1,47 +1,33 @@
-> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229041837id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070935id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of _Screen Rant_.
+We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
 
-Our postal address is:
+## Log Files
 
-Ogden, UT 84404
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-We can be reached via e-mail at vic[at]screenrant.com.
+## Cookies
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site does not use cookies. However, some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and is not shared with other organizations for commercial purposes.
+## Links
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+This Website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
 
-Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Our advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
+## Advertisers
 
-We are participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising ([Ad Choices](http://www.aboutads.info/choices/)).
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, we do not have access to this information. We work with the ad companies: Google Adsense. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/ "Google ad and content network privacy policy").
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+## Legal Disclaimer
 
-For further information, consult the privacy policies of:
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of our sites.
 
-http://www.indieclick.com/  
-<http://www.google.com/adsense/>  
-<http://viacommedianetworks.com/>  
-<http://www.tribalfusion.com/>  
-<http://www.techmedianetwork.com/>
+## Notification of Changes
 
-We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors’ browser type or other information that the visitor sends. If you wish to opt-out of cookie placement you can visit the following site:
+Whenever we change our privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-<http://www.networkadvertising.org/managing/opt_out.asp>
+## Contact Information
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-
-Consumers can access this information by e-mail us at the above address.
-
-Consumers can have this information corrected by sending us e-mail at the above address.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:legal@valnetinc.com).
