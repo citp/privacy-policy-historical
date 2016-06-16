@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927023907id_/http%3A//www.omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616193646id_/http%3A//www.omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Tech Support | IT Support | Online IT Support - Omnitechsupport.com
 
