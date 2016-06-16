@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231131455id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617004103id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -8,11 +8,13 @@ This Privacy Policy does not apply to residents of Australia and New Zealand. To
 
 ### Introduction
 
-Betfair wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information"). In this respect we have invested heavily in providing a world class Information Security Management System, which has been accredited with ISO 27001 certification.
+Betfair Limited (“Betfair”) wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information"). In this respect we have invested heavily in providing a world class Information Security Management System, which has been accredited with ISO 27001 certification.
 
 Personal Information is any information about you and may include your name and address, date of birth, payment card details, details of betting transactions and account transfers and any other information you may wish to provide. Betfair is endeavouring to ensure that our business practices that involve the use of your Personal Information are compliant with privacy regulations in the countries where we operate. Accordingly, in this policy document (the "Privacy Policy"), Betfair wants not only to advise you of your privacy rights but also explain how we intend to respect them.
 
-Any reference to "Betfair" or the "Group" within this Privacy Policy includes Betfair Group Plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+Any reference to "Betfair" or the "Group" within this Privacy Policy includes Paddy Power Betfair plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+
+For the purposes of the Data Protection Act 1998, the data controller is Betfair Limited of Waterfront, Hammersmith Embankment, London W6 9HP.
 
 ### How is your Personal Information collected by our website?
 
@@ -306,4 +308,4 @@ Please include a cheque for £10 made payable to Betfair Limited with your reque
 
 Subject access requests may take up to 40 days to be processed from the date of receipt by Betfair.
 
-V 01/15 19/08/15
+V 01/16 02/02/16
