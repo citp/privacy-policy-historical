@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chitramala.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162219id_/http%3A//www.chitramala.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chitramala.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204143id_/http%3A//www.chitramala.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,3 +66,5 @@ Chitramala may amend this Privacy Policy from time to time and we will post the 
 
  ** **Acceptance of Privacy Policy**  **  
 Your right to access this website is conditional upon your full acceptance of this Privacy Policy and by accessing the Sites you you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
+
+Thursday, November 14th, 2013 6:44 am
