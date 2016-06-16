@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likes.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127165542id_/http%3A//likes.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180447id_/http%3A//likes.com/content/privacy) for the most accurate reproduction.*
 
 # Likes.com
 
