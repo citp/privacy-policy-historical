@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cocoafab.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229045934id_/http%3A//cocoafab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocoafab.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053259id_/http%3A//cocoafab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cocoa Media Group, LLC | CocoaFab
+# Privacy Policy - CocoaFabCocoaFab
 
 **Privacy Policy**
 
