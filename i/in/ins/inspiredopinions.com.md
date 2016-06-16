@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915034737id_/https%3A//www.inspiredopinions.com/page/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163359id_/https%3A//www.inspiredopinions.com/page/5) for the most accurate reproduction.*
 
 # Privacy Policy
 
