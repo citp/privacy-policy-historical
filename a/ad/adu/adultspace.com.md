@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208051807id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616195056id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Adult Friend Finder | Adult Sex | Sex Dating | Adultspace.com
-
-* * *
+# Adultspace - Privacy Policy
 
 We at Adultspace take very seriously the private nature of your personal information. This Privacy Policy explains how we handle the information we collect when you visit our site and/or become a member. Please read this notice carefully.
 
