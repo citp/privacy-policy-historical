@@ -1,139 +1,131 @@
-> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127172330id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052455id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sharecare
 
-Updated: Oct 9th, 2015 
+**Summary**
 
-## Company Practices
+This Privacy Policy describes how Sharecare treats personal information when you use [our products and services](https://web.archive.org/static/services) ("Services"). Additional terms will be available with the relevant Services, and those additional terms become part of your agreement with us if you use those Services. Please visit our [Terms](https://web.archive.org/static/terms) page for additional terms and conditions applicable to the Sharecare platform. Your personal health information is governed by the [Health Info Policy](https://web.archive.org/static/healthinfo).
 
-The following policy describes the overall company practices of QualityHealth (a doing-business-as designation of Marketing Technology Solutions, Inc., a Delaware corporation), along with its other affiliate and subsidiary companies (collectively "QualityHealth"), including advertising on its own network of websites as well as products and services offered by QualityHealth. This policy does not apply to the practices of companies that QualityHealth does not own or control, or to people that QualityHealth does not employ. 
+Our Privacy Policy explains:
 
-QualityHealth is very aware of the need to respect and protect the privacy of its visitors. This privacy policy ("Policy") discloses the data collection methods and data usage practices of QualityHealth [(www.qualityhealth.com)](http://www.qualityhealth.com/). 
-
-Because this Policy pertains to information collected only directly through or from the QualityHealth network of sites, this Policy does not apply to personal information collected from offline resources and communications (for instance, if you send us a postal letter or give us a phone call). This Policy also does not apply to third party online resources to which the QualityHealth network of websites may link, where QualityHealth does not control the content, nor the privacy practices. 
-
-Quality Health has been awarded TRUSTe's Privacy Seal, signifying that these privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.qualityhealth.com](http://www.qualityhealth.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com "Compose a new mail to CustomerService@QualityHealth.com"). If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
-
-Please read this Policy carefully. Should any questions arise about this Policy or our data collection, use, or disclosure practices, please contact us in any of the ways listed at the end of this Policy. Please also be sure to read our complete Terms of Use, of which this Privacy Policy is a part. 
-
-##  What Is Non-Personally Identifiable Data? 
-
-With respect to individuals who visit the QualityHealth network of sites, we, and/or one or more of our third party advertising technology vendors, may collect what is known as "Click Stream Data" and store it in log files. Click Stream Data is anonymous, and includes information such as a visitor's IP address, web pages which have been viewed by a visitor, date and time, domain type, and responses by a visitor to an advertisement and content delivered by us or a third party advertising technology vendor. We, and/or a third party advertising technology vendor, may use different types of technologies to collect this type of information, including cookies and web beacons (1x1 pixels). As a part of the registration process at QualityHealth properties, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and geographic location. None of the aforementioned information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual. 
-
-##  What Is Personally Identifiable Information? 
-
-The term "personally identifiable information" as used in this Policy means any information or set of information that identifies a specific individual. QualityHealth is committed to making sure that clear notice and choice is provided to all consumers before the personally identifiable data is collected, and that they have opted in to our use of their data. Examples of personally identifiable data that may be requested include name, address, phone number, and email address. Additionally, visitors may volunteer sensitive health information such as conditions, medication(s) used and other sensitive information about themselves and/or family members. Visitors who have provided personally identifiable information and sensitive health information may elect to have their data deactivated from our files, or kept from being used for purposes other than for the service requested, by following the instructions described in the "Contact Us" section of this Policy. Should you elect to have your data deactivated from our files, please note that you will also compromise your future ability to log into QualityHealth sites. 
-
-##  How Is Information Used? 
-
-When you volunteer information on QualityHealth sites, personal information including name, email, birth date and gender is used to create your account profile. This is in addition to a few other basic health questions, which are optional. Once registered, you have the option to create a profile with more detailed information. 
-
-When you select to email, or tell a friend about QualityHealth sites, we request their email address to send them a one-time email inviting them to QualityHealth sites. We store your friend's information. Your friend may contact us at [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com "Compose a new mail to CustomerService@QualityHealth.com") to request that we remove their information from our database. This information is not used for any purposes beyond that for which it has been provided. 
-
-In addition, declared visitor information may also be appended with additional information from external sources -- this is done to enrich your personalized experience while visiting our sites (for example, providing better newsletter content, advertising, or special offers that may interest you). QualityHealth may also compare its own visitor list to lists received from third party companies, in an effort to provide better service. 
-
-We may use information collected in numerous ways, including but not limited to: 
-
-  * Providing personalized information via electronic delivery and/or direct mail; 
-  * Targeted advertising via electronic delivery and/or direct mail, including serving ads on this site based on your usage information from your activities on this site; 
-  * Contacting visitors for feedback and surveys via electronic delivery and/or postal mail; 
-  * Providing general and administrative information about membership via electronic delivery and/or postal mail; 
-  * Feedback on product development; 
-  * Feedback on editorial, marketing and promotional purposes; 
-  * Improving the content and layout of QualityHealth sites; 
-  * Statistical analysis of visitor behavior; 
-  * Targeting advertising messages to visitors using QualityHealth third party technology partners once visitors leave the QualityHealth network of sites; 
-  * Contacting visitors regarding account status and changes to the Terms and Conditions, Privacy Policy, Terms of Use and other policies and agreements; 
-  * Providing contact information to QualityHealth marketing partners you have explicitly authorized us to share your information with, and whose offers you have elected to receive via electronic delivery, telemarketing and direct mail; and 
-  * Disclosing personal information to QualityHealth service providers who provide support for QualityHealth ongoing operations (e.g., to provide email newsletters). Please note that these providers will be instructed to contact you only if you request them to do so. 
+  * What information we collect and why we collect it.
+  * How we use that information.
+  * The choices we offer related to your information.
 
 
 
-QualityHealth does not send or support the delivery of unsolicited bulk email (a.k.a. "spam"). 
+**Information we collect**
 
-QualityHealth may undertake efforts to see that any third party with whom QualityHealth shares personal information is under contractual obligation to use the personal information solely for the purposes for which the information was disclosed. We will share your personal information with third parties only in the ways that are described in this privacy policy. We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. Such third parties are independent third parties over which QualityHealth exercises no control. QualityHealth is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
+We collect information in the following ways:
 
-##  Market Research 
+  * **Information you give us.** For example, many of our Services require you to sign up for a Sharecare Account. When you do, we’ll ask for personal information, like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Sharecare Profile, which may include your name and photo.
+  * Information we get from your use of our Services. We may collect information about the Services that you use and how you use them. This information includes: 
+    * **Device information**  
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Sharecare may associate your device identifiers or phone number with your Sharecare Account.
+    * **Log information**  
+When you use our Services or view content provided by Sharecare, we may automatically collect and store certain information in server logs. This may include: 
+      * details of how you used our service.
+      * Internet protocol address.
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
+      * cookies that may uniquely identify your browser or your Sharecare Account.
+    * **Location information**  
+When you use a location-enabled Sharecare service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
+    * **Unique application numbers**  
+Certain Services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Sharecare when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
+    * **Local storage**  
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+    * **Cookies and anonymous identifiers**  
+We and our partners use various technologies to collect and store information when you visit a Sharecare service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with Services we offer to our partners, such as Sharecare features that may appear on other sites.
 
-You may choose to participate in market research activities through QualityHealth, including health panels and surveys. When participating in such activities, we may ask you to submit personal information such as health and lifestyle information about you and your family, including, but not limited to, marital status and household information (spouse, children, pets, etc.); ethnicity; education; income; occupation; purchasing habits; reading habits; insurance; height; weight; physical and mental health conditions and diseases; symptoms; treatments; medications; medical devices; vitamins; health habits and participation in research surveys and clinical trials. We may combine the personal information you provide to us with research tools and information from other sources, including prescription information. We use this information to perform research, and to prepare reports and analyses for our clients. Any market research data that is released to our clients is anonymized and presented in aggregate fashion—that is, our clients will not be able to personally identify visitors. Our clients never see any single individual's personal information and we will not use the personal information you provided during market research activities to advertise, promote, or market goods or services to you. 
 
-##  Third Party Advertising 
 
-QualityHealth uses third-party advertising companies to serve ads when you visit our websites. Third party advertising companies may also be utilized by QualityHealth to target display advertising to you once you leave the QualityHealth network of sites. These companies may use non-personally identifiable information about your visits to the site and other sites in order to provide advertisements about goods and services that may be of interest to you. It is solely the visitors' obligation to review and understand the privacy practices and policies of these advertisers and their associated third parties. These advertisers and their associated third parties are independent entities over which QualityHealth exercises no control. QualityHealth is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
+**How we use information we collect**
 
-Third party advertising companies may also be utilized by QualityHealth to target display advertising to you once you leave the QualityHealth network of sites. These companies may use non-personally identifiable information to provide relevant advertisements about goods and services that may be of interest to you. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+We use the information we collect from all of our Services to provide, maintain, protect and improve them, to develop new ones, and to protect Sharecare and our users. We also use this information to offer you tailored content.
 
-To learn more about these practices, as well as your choices regarding the practices of these third-party advertising companies, you may wish to visit [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) and/or [ http://www.aboutads.info/choices/#completed](http://www.aboutads.info/choices/#completed). Both the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA") websites provide information regarding their respective members practices and your choices regarding having your information used by these companies, including the opt out procedures. Opting out of one or more NAI or DAA members only means that those NAI or DAA members no longer will be allowed under their own rules to deliver advertisements to you based on your visits to this site and other sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt out page, or you subsequently erase your cookies, use a different device or change web browsers, your NAI or DAA opt out may not, or may no longer, be effective. We are not responsible for effectiveness of or compliance with any third parties' opt out options or programs. 
+We may use the name you provide for your Sharecare Profile across all of the Services we offer that require a Sharecare Account. In addition, we may replace past names associated with your Sharecare Account so that you are represented consistently across all our Services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Sharecare Profile information, such as your name and photo.
 
-Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked. "Tracking" refers to collecting information from consumers as they move across different websites over time. This site is not yet set up to look for or respond to Do Not Track signals communicated by your browser. For a description of Do Not Track protocols for browsers and mobile devices, or simply to learn more about the choices available to you, you can visit the All About Do Not Track website: [http://allaboutdnt.com](http://allaboutdnt.com/). 
+When you contact Sharecare, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our Services, such as letting you know about upcoming changes or improvements.
 
-##  Cookies 
+We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our Services. For example, by saving your location preferences, we’ll be able to have our Services appear for the locations you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, or sexual orientation.
 
-QualityHealth may place "cookies" on a visitor's computer. Cookies are small text files that save anonymized data about individual visitors, allowing QualityHealth to recognize a visitor (thereby foregoing the mandatory step of having to re-enter your password each time you visit QualityHealth sites), and help QualityHealth deliver personalized content and other services. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting QualityHealth sites may result in certain parts of the sites not operating correctly or as efficiently as if they were allowed access to cookies. For example, if you are a QualityHealth member, you may need to enter your username and password each time you visit the website. 
+We may combine personal information from one service with information, including personal information, from other Sharecare Services – for example to make it easier to share things with people you know.
 
-Third party advertising companies that QualityHealth may partner with, as referenced above, may also employ cookies (including Flash cookies) and web beacons (also known as 1x1 GIFs) to measure advertising effectiveness, delivery and targeting of messages. Please note that these companies are independent third parties over which QualityHealth exercises no control. QualityHealth is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. The section on Third Party Advertising above describes how you may request to opt-out from the practices of some of these third party advertising companies. 
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
 
-##  Legal Disclosure 
+Sharecare processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
 
-QualityHealth may disclose information about you and your use of the QualityHealth sites and services if QualityHealth believes that such disclosure is reasonably necessary to: 
+**Transparency and choice**
 
-(i) Comply with the law and/or legal process where a formal request has been made (e.g. request from an administrative oversight agency, civil suit, subpoena, court order or judicial or administrative proceeding);   
-(ii) Protect or defend the rights and/or property of QualityHealth or others;   
-(iii) Enforce the QualityHealth Terms and Conditions and/or this Privacy Policy;   
-(iv) Respond to claims that the content(s) of a communication violates the rights of another. 
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
-Also, circumstances may arise where, for business reasons, QualityHealth may decide to reorganize, or divest all or part of its business through sale, assignment, merger or acquisition. In these circumstances, personal information may be shared with the actual or prospective purchasers or assignees. In such an event, we shall provide notice of any material change to this Privacy Policy, or our services, in the manner described in the Updates section of this Privacy Policy below. 
+  * Manage your email preferences in your Notifications settings.
+  * Control who you share information with through your Privacy settings.
+  * Take information out of many of our Services by contacting Sharecare Customer Support
 
-##  Reports 
 
-We periodically prepare analyses and reports reflecting visitor and member use of the QualityHealth sites and services. In preparing these reports, we may combine and analyze the personal information you provide to us with information from other sources, including prescription information. However, these reports will only include aggregate information about QualityHealth visitors and members. The information in these reports will not identify individuals. Any QualityHealth business partner with whom such reports may be shared will also not be able to contact you from the information contained in the reports. 
 
-##  Giveaways and Contests 
+You may also set your browser to block all cookies, including cookies associated with our Services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our Services may not function properly if your cookies are disabled. For example, we may not remember your location preferences. For more information on how Sharecare uses cookies and other tracking technologies, please read the [Cookie Policy.](https://web.archive.org/static/cookie-policy)
 
-We may conduct giveaways, contests and other promotions on the QualityHealth network of sites in which we may ask you for additional information. We use and treat this information in accordance with the terms of this Policy. Participation in such giveaways and contents is not necessary to use the QualityHealth network of sites, and you may choose whether you wish to participate in any particular giveaway or contest, without affecting your general use of the site. 
+We also personalize your experience on our sites and mobile Services by showing you advertisements from Sharecare or our advertising partners that are tailored to your interests. [Learn more about interest-based advertising, including how to opt out](https://web.archive.org/static/ad-policy).
 
-##  Security 
+**Information you share**
 
-QualityHealth has implemented extensive security measures intended to prevent the loss, misuse or alteration of the information under its control. Our hardware infrastructure is housed in a controlled access facility that restricts access to authorized individuals with positive identification. Our network access to the infrastructure is protected by a firewall protection system. Member information is backed up on a regular basis to protect against accidental loss. When you enter personally identifiable information (e.g. registration, health profile questions, surveys), we use Secure Sockets Layer (SSL) encryption to protect your information during its transmission across the Internet. We use VeriSign digital ID to confirm that you're actually using the QualityHealth network of sites, and have not been diverted to a fake site by hackers. We restrict the access our staff has to your information. Third party marketing partners receive your information only under substantial restrictions, imposed by you and/or us, described elsewhere in this Policy. Our offices are protected with a key-card entry system, security guards, and other measures. 
+Many of our Services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines. Our Services provide you with different options on sharing and removing your content.
 
-However, we cannot guarantee that communications between you and QualityHealth will not be intercepted by others, and that information stored on our servers will be free from unauthorized access. While we have taken reasonable precautions to protect this information, you should always use discretion in what information you send to us and not expect that such information will be absolutely free from intrusion. The confidentiality of any communication or material transmitted to or from QualityHealth via this website, or via email cannot be and is not guaranteed. Accordingly, QualityHealth is not responsible for the security of information transmitted via the Internet. 
+**Accessing and updating your personal information**
 
-If you prefer not to communicate with us via email, or the Internet, QualityHealth can be contacted by regular mail at 101 Hudson Street, 37th Floor, Jersey City, NJ 07302, USA. 
+Whenever you use our Services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
-Please note that QualityHealth will never request your personal information by sending emails. We only collect such information on our website. If you receive an email solicitation purporting to be from us, please do not respond to it. Instead, please contact us immediately. 
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
 
-##  Children 
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our Services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our Services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-QualityHealth services and websites are not directed at children and are designed for individuals who are 18 years of age or older. We will not request or knowingly collect information from an individual under 13 years of age. 
+**Access, correction, or deletion requests can be made by contacting[Sharecare Customer Support](https://web.archive.org/static/help)**
 
-##  Links 
+**Information we share**
 
-The QualityHealth network of sites, as well as the electronic messages sent as part of our services, may contain links to other sites or services. QualityHealth is not responsible for the privacy practices or the content of such third party sites. If you have a question about the privacy policy of those other sites, please contact them directly. 
+We do not share personal information with companies, organizations and individuals outside of Sharecare unless one of the following circumstances applies:
 
-Our website includes social media features, such as the Facebook button and widgets, and interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it. 
+  * **With your consent**  
+We will share personal information with companies, organizations or individuals outside of Sharecare when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information.
+  * **For external processing**  
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+  * **For legal reasons**  
+We will share personal information with companies, organizations or individuals outside of Sharecare if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+    * meet any applicable law, regulation, legal process or enforceable governmental request.
+    * enforce applicable Terms of Use, including investigation of potential violations.
+    * detect, prevent, or otherwise address fraud, security or technical issues.
+    * protect against harm to the rights, property or safety of Sharecare, our users or the public as required or permitted by law.
 
-##  Changing Your Status 
 
-As a convenience to our members, we provide a number of different opportunities to review and change information in your profile and to unsubscribe from our services. For example, you can go to the website and log into your profile page to make desired changes. Similarly, each email message you receive from us will contain one or more links to the website that allow you to conveniently access this information. Alternatively, you can unsubscribe at any time by clicking [here](https://web.archive.org/unsubscribe). 
 
-To request that information which had previously been voluntarily provided be removed from our database, send an email request to [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com). We will attempt to delete such information, where feasible, after we receive a request from you to delete information. At the current time, we are not able to offer users the ability to delete all information from our database. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from our services. 
+We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our Services.
 
-We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If Sharecare is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
-##  Updates 
+**Information security**
 
-QualityHealth reserves the right, at any time and without notice, to add to, update, change, modify or revise this Policy or our services by posting such change, update or modification on the website. Any such addition, update, change, modification or revision will be effective immediately upon posting on the website. Upon any material change to this Policy, or our services, we will also notify you via email or by prominent notice on the site prior to the change becoming effective. 
+We work hard to protect Sharecare and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
-If you do not accept the terms of this Policy, we ask that you do not register with us, or alternatively, [click here](https://web.archive.org/unsubscribe) to unsubscribe. 
+  * We encrypt many of our Services using SSL.
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+  * We restrict access to personal information to Sharecare employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
-##  Contact Us 
 
-If you have any questions about this privacy policy, the practices of this website, or your dealings with this website, you can contact: 
 
-QualityHealth   
-101 Hudson Street, 37th Floor   
-Jersey City, NJ 07302 USA   
-Email: [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com)   
-Unsubscribe: [Click here](https://web.archive.org/unsubscribe) to unsubscribe 
+**When this Privacy Policy applies**
 
-In the event your inquiry isn't acknowledged within a reasonable time frame, or has not been addressed to your satisfaction, please contact TRUSTe by clicking on the link below. TRUSTe shall then serve as a liaison with us to resolve your concerns. [ https://feedback-form.truste.com/watchdog/request. ](https://feedback-form.truste.com/watchdog/request)
+Our Privacy Policy applies to all of the Services offered by Sharecare Inc. and its affiliates, including Services offered on other sites, but excludes Services that have separate privacy policies that do not incorporate this Privacy Policy.
+
+Our Privacy Policy does not apply to Services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Sharecare Services, or other sites linked from our Services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our Services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+
+**Compliance and cooperation with regulatory authorities**
+
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+
+**Changes**
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain Services, email notification of privacy policy changes).
+
+Last modified: March 31, 2016
