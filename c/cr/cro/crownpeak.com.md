@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708233936id_/http%3A//www.crownpeak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616084423id_/http%3A//www.crownpeak.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -28,19 +28,17 @@ In compliance with the Principles, we commit to resolve complaints about your pr
 
 ### TRUSTe Dispute Resolution
 
-As part of our participation in the Safe Harbor Frameworks, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Frameworks. If you have questions or concerns regarding this Policy, you should first contact [**privacy@crownpeak.com**](mailto:privacy@crownpeak.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [**clicking here**](https://feedback-form.truste.com/watchdog/request) , or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [**click for mailing address**](http://www.truste.com/about-TRUSTe/contact-us).
-
-If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [**here**](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+Please click [here](https://www.truste.com/about-TRUSTe/contact-us/) for fax and postal information. TRUSTe’s Dispute Resolution process is only available in English. 
 
 ### TRUSTe Privacy Seal
 
-In addition, CrownPeak has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe Cloud Privacy program requirements**](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers the collection, use and disclosure of information we collect through our website and our CMS Platform. The use of information collected through these services shall be limited either by the terms agreed to in contract between CrownPeak and its customers or as directly described in this privacy policy.
+The TRUSTe program covers only our collection, use and disclosure of information we collect through our website, www.crownpeak.com and our CMS Platform. The use of information collected through these services shall be limited to the purpose of providing the service for which the Client has engaged CrownPeak. The TRUSTe program does not cover information that may be collected through software downloaded from the website.
+
+ In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
 ### The Information We Collect
 
-Our website does not automatically collect personal information from your computer without you voluntarily providing this information. This notice applies to all information collected or submitted on our website.
-
-We also collect non-personal information, that is, data in a form that does not permit direct association with any specific individual. We may use non-personal information to compile and analyze website usage trends, effectiveness of marketing content or other marketing-related analysis.
+Our website does collect non-personal information, that is, data in a form that does not permit direct association with any specific individual. We may use non-personal information to compile and analyze website usage trends, effectiveness of marketing content or other marketing-related analysis.
 
 For users of the CrownPeak CMS Platform, we collect personal information about you when you set up your account profile to access the service. This information includes details such as your full name, your eMail address, your phone number etc.
 
@@ -116,15 +114,9 @@ As is true of most web sites, we gather certain information automatically and st
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve and enable services we offer you, marketing, analytics, product functionality, and website functionality. ****
 
-### Flash LSOs
-
-Third parties with whom we partner to provide certain features on our site to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here:
-
-_[**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)_
-
 ### Local Storage Objects (HTML5)
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. ****
+We use Local Storage Objects such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 ### Behavioral Targeting / Re-Targeting
 
@@ -154,7 +146,7 @@ United States of America
 
 We will respond to your questions or complaints within 30 days of our receipt. If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Effective December 19, 2014
+Effective January 6, 2016
 
 * * *
 
