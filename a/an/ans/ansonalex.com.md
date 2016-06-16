@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansonalex.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100904id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansonalex.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054938id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AnsonAlex | AnsonAlex
 
@@ -15,6 +15,13 @@ All web servers track basic information about their visitors. This information i
 Where necessary, this site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+
+**Google Analytics Data Collection**
+
+This site uses Google Analytic to track visitor data. Google and AnsonAlex.com utilize the data collected to track and examine the use of AnsonAlex.com, to prepare reports on its activities, to enhance the visitor experience and share them with other Google services.  
+Google may use the data collected to customize, contextualize and personalize the ads of its own advertising network.
+
+Personal data collected: Cookie and Usage Data. Place of processing: USA. Find [Google’s privacy policy here](http://www.google.com/intl/en/policies/privacy/).
 
 **Controlling Your Privacy**
 
