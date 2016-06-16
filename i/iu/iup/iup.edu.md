@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214174508id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210946id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy - Indiana University of Pennsylvania
 
@@ -14,7 +14,7 @@ The [About Cookies website](http://www.aboutcookies.org/ "About Cookies website"
 
 ### Disabling and Enabling Cookies
 
-You have the ability to accept or decline cookies by modifying the settings on your browser. The About Cookies site explains [how to remove cookies from your browser](http://www.aboutcookies.org/Default.aspx?page=2 "how to remove cookies from your browser").
+You have the ability to accept or decline cookies by modifying the settings on your browser. The About Cookies site explains [how to remove cookies from your browser](http://www.aboutcookies.org/how-to-delete-cookies/ "how to remove cookies from your browser").
 
 ## Using our Search Engine
 
