@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the youlikehits.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225235611id_/http%3A//www.youlikehits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlikehits.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052643id_/http%3A//www.youlikehits.com/privacy.php) for the most accurate reproduction.*
 
-# Free Twitter Followers, YouTube Views, Likes, Subscribers, Pinterest Followers, Vine Followers - YouLikeHits
+# Privacy Policy - YouLikeHits
 
+| YouLikeHits Privacy Policy  
+---  
 YouLikeHits.com and it's owner, PorcelainSky LLC, are commited to safegaurding your privacy online. Please read the following policy to understand how your information will be treated as you make use of our web site. This policy may change from time to time so please check back periodically.
 
 **Information Collection and Use** :  
