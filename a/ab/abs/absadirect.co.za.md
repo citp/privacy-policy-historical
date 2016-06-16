@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absadirect.co.za privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225074507id_/http%3A//www.absa.co.za/Absacoza/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absadirect.co.za privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070916id_/http%3A//www.absa.co.za/Absacoza/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Absa Bank | Website Privacy Policy
 
