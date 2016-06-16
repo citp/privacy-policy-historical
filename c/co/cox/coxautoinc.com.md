@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coxautoinc.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906122854id_/http%3A//www.coxautoinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxautoinc.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616223827id_/http%3A//www.coxautoinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cox Automotive
+# Privacy Policy – Cox Automotive Inc
 
 Last Updated: September 18, 2014
 
@@ -78,5 +78,4 @@ We may update this Privacy Statement to provide clarification or notice of chang
 
 ## How to Contact Us
 
-If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@autotrader.com](mailto:privacy@autotrader.com).  
-
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@autotrader.com](mailto:privacy@autotrader.com).
