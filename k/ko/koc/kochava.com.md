@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kochava.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214201606id_/https%3A//www.kochava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kochava.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616092231id_/https%3A//www.kochava.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kochava
 
@@ -11,6 +11,8 @@ We Self-Certify Compliance With:
 [](http://www.export.gov/safeharbor/)
 
 Kochava complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Kochava has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Kochava’s certification, please visit: <http://www.export.gov/safeharbor/>.
+
+The EU Safe Harbor program is due to be superseded by the [EU Privacy Shield](http://www.privacytrust.com/privacyshield/) later this year. Until such time any data collected will be in compliance with Safe Harbor.
 
 Definitions
 
