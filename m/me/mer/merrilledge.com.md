@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227153517id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616104551id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -12,14 +12,14 @@ This Notice describes how Sites may collect, use and share information from or a
 
 
 **  
-Privacy  Notice for U.S. Consumer Customers**
+U.S. Consumer Privacy  Notice**
 
 The Bank of America U.S. Consumer Privacy Notice explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it.
 
 **  
-Privacy  Notice for Non-U.S. Consumer Customers**
+Privacy Notice for Clients of Non-U.S. Bank of America Companies**
 
-The Bank of America Corporation Privacy Notice for Non-U.S. Consumers explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it. View a listing of our [affiliate companies](https://web.archive.org/privacy-and-security-center/non-us-consumer-customers.html) that may receive or share customer information.
+The Bank of America Privacy Notice for Clients of Non-U.S. Bank of America Companies explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it. View a listing of our [affiliate companies](https://web.archive.org/privacy-and-security-center/non-us-consumer-customers.html) that may receive or share customer information.
 
 **  
 Cookie Guide:**
