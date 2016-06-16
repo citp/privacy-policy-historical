@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solmar.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207025027id_/http%3A//www.solmar.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solmar.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616185008id_/http%3A//www.solmar.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head id="www-sitename-com" data-template-set="html5-reset">
 
@@ -86,6 +86,7 @@
                 	<ul class="submenurp">
                     	<li><a target="_blank" href="http://www.solmarweddings.com/" class="h_38">WEDDINGS</a></li>
                         <li><a target="_blank" href="http://store.solmar.com/home/17-wedding-deposit.html" class="h_38">WEDDING DEPOSIT</a></li>
+                        <li><a target="_blank" href="https://solmar.honeymoonwishes.com" class="h_38">WEDDING REGISTRY</a></li>
                         <li><a target="_blank" href="http://store.solmar.com/home/18-groups-deposit.html" class="h_38">GROUPS DEPOSIT</a></li>
                     </ul>
                 </li>
@@ -141,12 +142,10 @@
   <area shape="rect" coords="289,194,355,227" href="http://playagranderesort.com/live-cam" target="_blank">
 </map></div></div></li>
             	<li class="btn_1800">
-                	<span style="color:#feeb13; font-size:24px; font-family:Verdana, Geneva, sans-serif;">1866 978 2578</span> <br>MEMBERS / OWNERS RESERVATIONS 
-                </li>
+                	<span style="color:#feeb13; font-size:24px; font-family:Verdana, Geneva, sans-serif;">1800 344 3349</span> <br>ROOM ONLY</li>
                 
                 <li class="btn_1866">
-                	<span style="color:#feeb13; font-size:24px; font-family:Verdana, Geneva, sans-serif;">1800 344 3349</span> <br>HOTEL RESERVATIONS
-                </li>
+                	<span style="color:#feeb13; font-size:24px; font-family:Verdana, Geneva, sans-serif;">1844 413 2654</span> <br>ROOM + AIR</li>
                 <li>
                 	<a class="lang" id="mx" data-lang="mx" href="http://www.solmar.com.mx">MX</a>
                 </li>
@@ -193,9 +192,10 @@
                 <li class="item"><a href="http://solmarspacollection.com/" target="_blank">SPA</a></li>
                 <li class="item"><a href="http://www.solmar.com/dining">DINING</a></li>
                 <li class="item"><a href="http://www.solmar.com/meetings-and-events">MEETINGS &amp; EVENTS</a>
-                	<ul class="submenu">
+                	<ul class="submenu" style="width:135px; margin-left: -8px;">
                     	<li><a target="_blank" href="http://www.solmarweddings.com/" class="h_38">WEDDINGS</a></li>
                         <li><a target="_blank" href="http://store.solmar.com/home/17-wedding-deposit.html" class="h_38">WEDDING DEPOSIT</a></li>
+                        <li><a target="_blank" href="https://solmar.honeymoonwishes.com" class="h_38">WEDDING REGISTRY</a></li>
                         <li><a target="_blank" href="http://store.solmar.com/home/18-groups-deposit.html" class="h_38">GROUPS DEPOSIT</a></li>
                     </ul>
                 </li>
@@ -269,13 +269,9 @@
 			
             <select class="forms" hidden="true" id="showcalendar" name="showcalendar">
                     <option value="Y" selected="">Select Resort</option>
-                   
-                </select>
+            </select>
             
-			
-       
-            
-          <div class="b_fl">
+          	<div class="b_fl">
                 <label for="aDate">Arrival</label><br>
                 <input class="forms2" type="text" id="aDate" name="aDate" style="width:70px;">
             </div>
@@ -285,8 +281,6 @@
             	<input class="forms2" type="text" id="dDate" name="dDate" style="width:70px;">
             </div>
             
-
-
             <div class="b_fl" style="margin-left:40px;">
                 <label id="adults">Adults</label><br>
                 <select class="forms2" id="adults" name="adults" onchange="document.getElementById('adults2').selectedIndex=this.selectedIndex" style="width:45px;">
@@ -322,43 +316,49 @@
                 </select>
             </div>
             
-            
-            
-                <div class="demo b_fl" align="center" style="margin:0px 0px 0px 20px;">
+            <div class="demo b_fl" align="center" style="margin:0px 0px 0px 20px;">
                 	<a href="javascript:void(0);" class="btn_send" onclick="HOTELONLY = false;gotoReservHotel();">Book Now</a>
-                </div>
+            </div>
 			</form>
         </div>
         
         
 			<div id="content_2" class="content">
-            <form target="_blank" action="" method="post">
+            <form target="_blank" name="myform2" id="myform2" onsubmit="_gaq.push(['_linkByPost', this, true]); gotoReservHotel2();" action="https://www.reservhotel.com/win/owa/ibe4.main">
+            
             <div class="b_fl">
-                <input type="hidden" name="PortalSymbol" value="sog">
-                <label for="HotelID">Resort:</label><br>
-                <select class="forms" id="HotelID" name="HotelID">
+                <label for="hotel">Resort:</label><br>
+                <select class="forms" id="hotel" name="hotel">
                     <option value="">Select Resort</option>
-                    <option value="74910">Grand Solmar</option>
-                    <option value="11393">Playa Grande</option>
-                    <option value="73714">The Ridge</option>
-                    <option value="11392">Solmar Resort</option>
-                    <option value="72999">Quinta del Sol</option>
+                    <option value="34004">Grand Solmar</option>
+                    <option value="34003">Playa Grande</option>
+                    <option value="34006">The Ridge</option>
+                    <option value="34005">Solmar Resort</option>
+                    <option value="34007">Quinta del Sol</option>
                 </select>
             </div>
-                
-		<div class="b_fl">
+            
+            <select class="forms" hidden="true" id="showcalendar" name="showcalendar">
+                    <option value="Y" selected="">Select Resort</option>
+            </select>
+            
+            <select class="forms" hidden="true" id="showHotel" name="showHotel">
+                    <option value="Y" selected="">Select Resort</option>
+            </select>
+            
+          	<div class="b_fl">
                 <label for="aDate2">Arrival</label><br>
-                <input name="DateIn" class="forms2" type="text" id="aDate2" style="width:70px;">
-			</div>
-		   
-            <div class="b_fl" style="margin-left:18px;">
-                <label for="dDate2">Depart</label><br>
-                <input name="DateOut" class="forms2" type="text" id="dDate2" style="width:70px;">
+                <input class="forms2" type="text" id="aDate2" name="aDate" style="width:70px;">
             </div>
-              
-              <div class="b_fl" style="margin-left:40px;">
-                  <label for="adults2">Adults</label><br>
-                  <select class="forms2" name="adults2" id="adults2" onchange="document.getElementById('adults').selectedIndex=this.selectedIndex" style="width:45px;">
+            
+            <div class="b_fl" style="margin-left:18px;">
+            	<label for="dDate2">Depart</label><br>
+            	<input class="forms2" type="text" id="dDate2" name="dDate" style="width:70px;">
+            </div>
+            
+            <div class="b_fl" style="margin-left:40px;">
+                <label id="adults">Adults</label><br>
+                <select class="forms2" id="adults" name="adults" onchange="document.getElementById('adults2').selectedIndex=this.selectedIndex" style="width:45px;">
                     <option value="1">1</option>
                     <option value="2" selected="">2</option>
                     <option value="3">3</option>
@@ -367,12 +367,12 @@
                     <option value="6">6</option>
                     <option value="7">7</option>
                     <option value="8">8</option>
-                  </select>
-              </div>
-			
+                </select>
+            </div>
+            
             <div class="b_fl">
-                <label for="child2">Children</label><br>
-                <select class="forms2" id="child2" onchange="document.getElementById('child').selectedIndex=this.selectedIndex" style="width:45px;">
+                <label>Children</label><br>
+                <select class="forms2" id="child" name="child" onchange="document.getElementById('child2').selectedIndex=this.selectedIndex" style="width:45px;">
                     <option value="0">0</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
@@ -381,20 +381,20 @@
                     <option value="5">5</option>
                 </select>
             </div>
-		   
-           <div class="b_fl">
-               <label for="rooms2">Rooms</label><br>
-                <select class="forms2" id="rooms2" onchange="document.getElementById('rooms').selectedIndex=this.selectedIndex" style="width:45px;">
+            
+            <div class="b_fl">
+                <label for="rooms">Rooms</label><br>
+                <select class="forms2" id="rooms" name="rooms" onchange="document.getElementById('rooms2').selectedIndex=this.selectedIndex" style="width:45px;">
                     <option value="1" selected="">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
                 </select>
             </div>
-		   
+            
             <div class="demo b_fl" align="center" style="margin:0px 0px 0px 20px;">
-            	<a id="formulario2" class="btn_send" href="#Book Now">Book Now</a>
+                	<a href="javascript:void(0);" class="btn_send" onclick="HOTELONLY = true;gotoReservHotel2();">Book Now</a>
             </div>
-           </form>
+			</form>
         </div>
         
     </div>
@@ -419,7 +419,7 @@
                     <img src="http://www.solmar.com/assets/uploads/183x102/10.png">
 				</a>
             </li>
-        <li><a target="_blank" href="http://solmarpromotions.com/christmas/"><img src="http://www.solmar.com/assets/uploads/183x102/13.png"></a></li>
+        <li><a target="_blank" href="http://solmarpromotions.com/"><img src="http://www.solmar.com/assets/uploads/183x102/15.png"></a></li>
         
         <div class="clearfix"></div>
                             	<a style="display:none;" class="fancybox" data-fancybox-group="fp_brochure" href="http://www.solmar.com/assets/uploads/e-brochure/2.jpg"></a>
@@ -573,6 +573,14 @@
 <div id="dialog_trans"></div>
  
 
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nup8k', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nup8k&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nup8k&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End Twitter universal website tag code -->
 
 
   
