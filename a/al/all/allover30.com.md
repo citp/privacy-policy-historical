@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allover30.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209074005id_/http%3A//tour.allover30.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allover30.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616205432id_/http%3A//tour.allover30.com/Privacy_Policy) for the most accurate reproduction.*
 
 # All Over 30
 
