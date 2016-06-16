@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115000636id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053233id_/https%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
 # Barclaycard Privacy and Cookie Policy | Barclaycard
 
 Please read our privacy policy carefully before using this website ("the Site"). In this policy "we", "us", "our" and “ours” means Barclays Bank PLC and "you" means the person using the Site.
+
+View our [ guide to cookies ](http://www.barclaycard.co.uk/privacy-policy/cookies/index.html "Barclaycard guide to cookies")  for further information.
+
+View the full [ UK Cards Privacy Policy ](https://web.archive.org/files/Privacy_Policy_terms.pdf) PDF (476KB) (this is the Privacy Policy for your card product)
 
 * * *
 
@@ -24,7 +28,7 @@ If we transfer your information to a service provider in another country, we'll 
 
 We won't keep your information for longer than necessary and will take steps to ensure that it's kept up to date. You have a right, under the Data Protection Act 1998, to ask what information we hold about you.
 
-You can do this by writing to us at:  
+You can do this by writing to us at: 
 
 Barclaycard  
 1234 Pavilion Drive  
@@ -52,10 +56,11 @@ You can learn about the cookies we use and how to manage them below.
 
 ##  Managing cookies on this website
 
-We use cookies on our website to make your browsing experience better. By using this website you accept our use of cookies.  
+We use cookies on our website to make your browsing experience better. By using this website you accept our use of cookies.
+
 You can control how cookies are placed on your device and remove existing cookies; all you have to do is change your web browser settings.
 
-Please be aware that restricting cookies may affect the functionality of this website. For example, you would not be able to log into your Barclaycard account if you disable cookies on your browser.    
+Please be aware that restricting cookies may affect the functionality of this website. For example, you would not be able to log into your Barclaycard account if you disable cookies on your browser.  
 
 ##  What types of cookies do we use?
 
@@ -87,4 +92,4 @@ Without these cookies, online advertisements you encounter will be less relevant
 
 ##  What happens to cookies that have been downloaded in the past?
 
-Cookies set prior to you changing your settings may still be on your computer. You can remove them using your browser settings.
+Cookies set prior to you changing your settings may still be on your computer. You can remove them using your browser settings. 
