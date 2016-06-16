@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the k12.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231084249id_/http%3A//www.k12.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the k12.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616144958id_/http%3A//www.k12.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ctag="http://commontag.org/ns#" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#" dir="ltr" itemscope="" itemtype="http://schema.org/Article" lang="en"><head>
     <title>Privacy Policy | K12</title>
@@ -262,7 +262,7 @@
 
                 <li class="nav-top__secondary__contact">
 
-                    <a href="/content/k12/en/contact-us" title="Contact Us" class="mod-contact-menu-target">Contact Us
+                    <a href="/contact-us.html" title="Contact Us" class="mod-contact-menu-target">Contact Us
                         <span class="glyphicon glyphicon-chevron-down"></span>
                     </a>
 
@@ -375,17 +375,19 @@
             <p>Find the online public or private school that will fit your needs.</p>
         </div>
         <div id="mod-school-finder-right">
-            <form accept-charset="utf-8" method="post" action="" id="mod-school-finder-form">
-                <label id="zip-input" for="mod-sf-input">Your Zip Code</label>
-                <input type="text" value="" spellcheck="false" dir="ltr" autocomplete="off" name="sf-input" id="mod-sf-input">
-                <button title="Find Schools" type="submit" name="sf-submit-btn" d="mod-sf-btn">GO</button>
-                <div class="error invalid-zip" aria-invalid="false" role="alert">Zip code</div>
+            <form accept-charset="utf-8" method="post" action="" id="mod-school-finder-form" onsubmit="validateZipCodeOnFormSubmit(this)">
+                <div class="input-group" role="presentation">
+				<input type="text" class="form-control" id="header-zip" name="header-zip" maxlength="128" pattern="[0-9]{5}" title="Enter Zip Code" oninput="validateZipCode(this)">
+        			<label class="locationSearch__placeholder" for="header-zip">Your Zip Code</label>
+        			<span class="input-group-btn">
+                        <input class="btn" id="edit-submit-zip" name="submit_zip_search" type="submit" value="GO" title="GO">
+        			</span>
+        		</div>
             </form>
         </div>
         <a title="Outside the U.S.?" target="_self" class="outside-us" href="/schoolfinder.international-options.html">
             Outside the U.S.?
         </a>
-        <a id="close-sf" href="#" title="Close Find a School" class="icon-close">Close</a>
     </div>
 </div>
 <script type="text/javascript">
@@ -433,7 +435,7 @@
 			<a href="/contact-us.html" target="_self" title="Contact Us">Contact Us <span class="glyphicon glyphicon-chevron-right"></span></a>
 		</li>
 	</ul>
-	<ul id="js_main-nav" class="nav-bottom__main sm sm-simple" data-smartmenus-id="5358250a-515e-4e53-8d38-31ac9cae1cac">
+	<ul id="js_main-nav" class="nav-bottom__main sm sm-simple" data-smartmenus-id="a311f304-c1a2-40e8-ba5a-9870c30304b2">
 		
 		
 			
@@ -456,9 +458,9 @@
 
 
 <li>
-    <a href="/what-is-k12.html" id="what-is-k12-" target="_self" class="has-submenu" title="WHAT IS K12?">
+    <a href="/k12-education.html" id="a-k12-education" target="_self" class="has-submenu" title="A K12 Education">
        <span>
-            WHAT IS K<sup>12</sup>?
+            A K12 Education
             <span class="glyphicon glyphicon-chevron-down"></span> 
         </span>
     </a>
@@ -489,9 +491,9 @@
 
 
 <li>
-    <a href="/what-is-k12/how-k12-education-works.html" id="how-a-k12-educationworks" target="_self" title="How a K12 Education Works">
+    <a href="/k12-education/how-online-learning-works.html" id="how-online-learningworks" target="_self" title="How Online Learning Works">
        <span>
-            How a K<sup>12</sup> Education Works
+            How Online Learning Works
              
         </span>
     </a>
@@ -519,9 +521,9 @@
 
 
 <li>
-    <a href="/what-is-k12/results.html" id="k12-produces-results" target="_self" title="K12 Produces Results">
+    <a href="http://dil.k12.com" id="day-in-the-life-ofak12student" target="_blank" title="Day in the Life of a K12 Student" rel="external" class="cn-external2">
        <span>
-            K<sup>12</sup> Produces Results
+            Day in the Life of a K12 Student
              
         </span>
     </a>
@@ -549,9 +551,9 @@
 
 
 <li>
-    <a href="/what-is-k12/kudos-honors.html" id="kudos-and-honors" target="_self" title="Kudos and Honors">
+    <a href="/k12-education/learning-coach.html" id="the-role-of-the-learningcoach" target="_self" title="The Role of the Learning Coach">
        <span>
-            Kudos and Honors
+            The Role of the Learning Coach
              
         </span>
     </a>
@@ -579,7 +581,127 @@
 
 
 <li>
-    <a href="/what-is-k12/accreditation.html" id="accreditation" target="_self" title="Accreditation">
+    <a href="/k12-education/teachers.html" id="teachers" target="_self" title="Teachers">
+       <span>
+            Teachers
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/k12-education/academic-results.html" id="academic-results" target="_self" title="Academic Results">
+       <span>
+            Academic Results
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/k12-education/student-success.html" id="student-success" target="_self" title="Student Success">
+       <span>
+            Student Success
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/k12-education/testimonials.html" id="testimonials" target="_self" title="Testimonials">
+       <span>
+            Testimonials
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/k12-education/accreditation.html" id="accreditation" target="_self" title="Accreditation">
        <span>
             Accreditation
              
@@ -589,66 +711,6 @@
 </li>
 
                     
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/what-is-k12/memberships.html" id="memberships" target="_self" title="Memberships">
-       <span>
-            Memberships
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/careers.html" id="career-opportunities" target="_self" title="Career Opportunities">
-       <span>
-            Career Opportunities
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
                 
             
         </ul>
@@ -676,9 +738,9 @@
 
 
 <li>
-    <a href="/who-we-help.html" id="who-we-help" target="_self" class="has-submenu" title="Who We Help">
+    <a href="/curriculum.html" id="curriculum" target="_self" class="has-submenu" title="Curriculum">
        <span>
-            Who We Help
+            Curriculum
             <span class="glyphicon glyphicon-chevron-down"></span> 
         </span>
     </a>
@@ -709,9 +771,9 @@
 
 
 <li>
-    <a href="/who-we-help/advanced-learners-gifted-talented.html" id="advanced-learners" target="_self" class="has-submenu" title="Advanced Learners">
+    <a href="/curriculum/k-8-program-courses.html" id="k-8-program-and-courses" target="_self" class="has-submenu" title="K–8 Program and Courses">
        <span>
-            Advanced Learners
+            K–8 Program and Courses
             <span class="glyphicon glyphicon-chevron-down"></span> 
         </span>
     </a>
@@ -742,9 +804,9 @@
 
 
 <li>
-    <a href="/who-we-help/advanced-learners-gifted-talented/k-8-advanced-learner-program.html" id="k-8-advanced-learnerprogramalp" target="_self" title="K-8 Advanced Learner Program (ALP)">
+    <a href="/curriculum/k-8-program-courses/k-8-course-list.html" id="k-8-course-list" target="_self" title="K–8 Course List">
        <span>
-            K-8 Advanced Learner Program (ALP)
+            K–8 Course List
              
         </span>
     </a>
@@ -772,9 +834,39 @@
 
 
 <li>
-    <a href="/who-we-help/advanced-learners-gifted-talented/characteristics.html" id="characteristics-ofadvancedlearners" target="_self" title="Characteristics of Advanced Learners">
+    <a href="/curriculum/k-8-program-courses/sample-lessons.html" id="k-8-sample-lessons" target="_self" title="K–8 Sample Lessons">
        <span>
-            Characteristics of Advanced Learners
+            K–8 Sample Lessons
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/k-8-program-courses/k-8-advanced-learner-program.html" id="k-8-advanced-learnerprogramalp" target="_self" title="K–8 Advanced Learner Program (ALP)">
+       <span>
+            K–8 Advanced Learner Program (ALP)
              
         </span>
     </a>
@@ -809,226 +901,9 @@
 
 
 <li>
-    <a href="/who-we-help/college-career-minded.html" id="college-and-careermindedstudents" target="_self" title="College and Career-Minded Students">
+    <a href="/curriculum/high-school-program-courses.html" id="high-school-programandcourses" target="_self" class="has-submenu" title="High School Program and Courses">
        <span>
-            College and Career-Minded Students
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/who-we-help/homeschoolers.html" id="homeschoolers" target="_self" title="Homeschoolers">
-       <span>
-            Homeschoolers
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/who-we-help/military-families.html" id="military-families" target="_self" title="Military Families">
-       <span>
-            Military Families
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/who-we-help/athletes-performers.html" id="athletes-and-performers" target="_self" title="Athletes and Performers">
-       <span>
-            Athletes and Performers
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/who-we-help/expat-foreign-service-overseas-families.html" id="expat-foreign-serviceoverseas" target="_self" title="Expat, Foreign Service, Overseas">
-       <span>
-            Expat, Foreign Service, Overseas
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/who-we-help/homebound.html" id="homebound" target="_self" title="Homebound">
-       <span>
-            Homebound
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/who-we-help/struggling-students.html" id="struggling-students" target="_self" title="Struggling Students">
-       <span>
-            Struggling Students
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                
-            
-        </ul>
-    
-</li>
-
-		
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/courses.html" id="courses" target="_self" class="has-submenu" title="Courses">
-       <span>
-            Courses
+            High School Program and Courses
             <span class="glyphicon glyphicon-chevron-down"></span> 
         </span>
     </a>
@@ -1059,70 +934,7 @@
 
 
 <li>
-    <a href="/courses/k-8-courses.html" id="k-8-courses" target="_self" title="K-8 Courses">
-       <span>
-            K-8 Courses
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/courses/high-school-courses.html" id="high-school-courses" target="_self" class="has-submenu" title="High School Courses">
-       <span>
-            High School Courses
-            <span class="glyphicon glyphicon-chevron-down"></span> 
-        </span>
-    </a>
-    
-        <ul class="sm-nowrap">
-            
-                
-                
-                    
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/courses/high-school-courses/high-school-course-list.html" id="high-school-courselist" target="_self" title="High School Course List">
+    <a href="/curriculum/high-school-program-courses/high-school-course-list.html" id="high-school-courselist" target="_self" title="High School Course List">
        <span>
             High School Course List
              
@@ -1132,13 +944,6 @@
 </li>
 
                     
-                
-            
-        </ul>
-    
-</li>
-
-                    
                         
                         
 
@@ -1159,9 +964,9 @@
 
 
 <li>
-    <a href="/courses/summer-school-courses.html" id="summer-school-courses" target="_self" title="Summer School Courses">
+    <a href="/curriculum/high-school-program-courses/sample-lessons.html" id="high-school-samplelessons" target="_self" title="High School Sample Lessons">
        <span>
-            Summer School Courses
+            High School Sample Lessons
              
         </span>
     </a>
@@ -1189,9 +994,326 @@
 
 
 <li>
-    <a href="/courses/textbooks-products.html" id="textbooks-and-otherproducts" target="_self" title="Textbooks and Other Products">
+    <a href="/curriculum/high-school-program-courses/ap-honors-course-list.html" id="ap-and-honors-courses" target="_self" title="AP and Honors Courses">
        <span>
-            Textbooks and Other Products
+            AP and Honors Courses
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/high-school-program-courses/career-focused-electives-list.html" id="career-focused-electives" target="_self" title="Career-Focused Electives">
+       <span>
+            Career-Focused Electives
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/high-school-program-courses/early-college-credit.html" id="dual-credit-options" target="_self" title="Dual Credit Options">
+       <span>
+            Dual Credit Options
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/high-school-program-courses/credit-recovery.html" id="credit-recovery" target="_self" title="Credit Recovery">
+       <span>
+            Credit Recovery
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/high-school-program-courses/college-acceptances.html" id="college-acceptances" target="_self" title="College Acceptances">
+       <span>
+            College Acceptances
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                
+            
+        </ul>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/learnbop.html" id="learnbop-online-mathhelp" target="_self" title="LearnBop: Online Math Help">
+       <span>
+            LearnBop: Online Math Help
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/early-learning.html" id="early-learning" target="_self" class="has-submenu" title="Early Learning">
+       <span>
+            Early Learning
+            <span class="glyphicon glyphicon-chevron-down"></span> 
+        </span>
+    </a>
+    
+        <ul class="sm-nowrap">
+            
+                
+                
+                    
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/early-learning/embark.html" id="embark-for-pre-school" target="_self" title="Embark for Pre-School">
+       <span>
+            Embark for Pre-School
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/early-learning/noodleverse-language-arts.html" id="noodleverse-languagearts" target="_self" title="Noodleverse Language Arts">
+       <span>
+            Noodleverse Language Arts
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                
+            
+        </ul>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/how-curriculum-is-developed.html" id="how-curriculum-isdeveloped" target="_self" title="How Curriculum Is Developed">
+       <span>
+            How Curriculum Is Developed
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/curriculum/honors-awards.html" id="honors-and-awards" target="_self" title="Honors and Awards">
+       <span>
+            Honors and Awards
              
         </span>
     </a>
@@ -1226,9 +1348,9 @@
 
 
 <li>
-    <a href="/schools-programs.html" id="schools-programs" target="_self" class="has-submenu" title="Schools &amp; Programs">
+    <a href="/k12-schools.html" id="schools" target="_self" class="has-submenu" title="Schools">
        <span>
-            Schools &amp; Programs
+            Schools
             <span class="glyphicon glyphicon-chevron-down"></span> 
         </span>
     </a>
@@ -1259,9 +1381,9 @@
 
 
 <li>
-    <a href="/schools-programs/k-8-program.html" id="k-8-program" target="_self" title="K-8 Program">
+    <a href="/k12-schools/free-online-public-schools.html" id="free-online-publicschools" target="_self" title="Free Online Public Schools">
        <span>
-            K-8 Program
+            Free Online Public Schools
              
         </span>
     </a>
@@ -1289,167 +1411,7 @@
 
 
 <li>
-    <a href="/schools-programs/high-school-program.html" id="high-school-program" target="_self" title="High School Program">
-       <span>
-            High School Program
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/early-learning-programs.html" id="early-learning-programs" target="_self" class="has-submenu" title="Early Learning Programs">
-       <span>
-            Early Learning Programs
-            <span class="glyphicon glyphicon-chevron-down"></span> 
-        </span>
-    </a>
-    
-        <ul class="sm-nowrap">
-            
-                
-                
-                    
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/embark.html" id="embark12-for-preschoollearners" target="_self" title="EmbarK12 for Preschool Learners">
-       <span>
-            EmbarK<sup>12</sup> for Preschool Learners
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/early-learning-programs/noodleverse-language-arts.html" id="noodleversetm-languagearts" target="_self" title="NoodleverseTM Language Arts">
-       <span>
-            Noodleverse<sup>TM</sup> Language Arts
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                
-            
-        </ul>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/schools-programs/online-public-schools.html" id="online-public-schools" target="_self" title="Online Public Schools">
-       <span>
-            Online Public Schools
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/schools-programs/online-private-school.html" id="online-private-schools" target="_self" title="Online Private Schools">
+    <a href="/k12-schools/online-private-schools.html" id="online-private-schools" target="_self" title="Online Private Schools">
        <span>
             Online Private Schools
              
@@ -1459,46 +1421,6 @@
 </li>
 
                     
-                
-            
-        </ul>
-    
-</li>
-
-		
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek.html" id="take-a-peek" target="_self" class="has-submenu" title="Take a Peek">
-       <span>
-            Take a Peek
-            <span class="glyphicon glyphicon-chevron-down"></span> 
-        </span>
-    </a>
-    
-        <ul class="sm-nowrap">
-            
-                
-                
-                    
-                    
                         
                         
 
@@ -1519,42 +1441,9 @@
 
 
 <li>
-    <a href="/take-a-peek/sample-lessons.html" id="sample-lessons" target="_self" class="has-submenu" title="Sample Lessons">
+    <a href="/k12-schools/summer-school-courses.html" id="summer-school-programandcourses" target="_self" title="Summer School Program and Courses">
        <span>
-            Sample Lessons
-            <span class="glyphicon glyphicon-chevron-down"></span> 
-        </span>
-    </a>
-    
-        <ul class="sm-nowrap">
-            
-                
-                
-                    
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/sample-lessons-k-8.html" id="k-8-lessons" target="_self" title="K-8 Lessons">
-       <span>
-            K-8 Lessons
+            Summer School Program and Courses
              
         </span>
     </a>
@@ -1582,139 +1471,9 @@
 
 
 <li>
-    <a href="/take-a-peek/sample-lessons-high-school.html" id="high-school-lessons" target="_self" title="High School Lessons">
-       <span>
-            High School Lessons
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/sample-activities.html" id="interactive-activities" target="_self" title="Interactive Activities">
-       <span>
-            Interactive Activities
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                
-            
-        </ul>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/behind-the-scenes.html" id="video-behind-thescenes" target="_self" title="Video: Behind the Scenes">
-       <span>
-            Video: Behind the Scenes
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/student-activities-support.html" id="student-activitiesandsupport" target="_self" class="has-submenu" title="Student Activities and Support">
+    <a href="/k12-schools/student-activities-support.html" id="student-activitiesandsupport" target="_self" title="Student Activities and Support">
        <span>
             Student Activities and Support
-            <span class="glyphicon glyphicon-chevron-down"></span> 
-        </span>
-    </a>
-    
-        <ul class="sm-nowrap">
-            
-                
-                
-                    
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/student-activities-support/clubs.html" id="k12-national-studentclubs" target="_self" title="K12 National Student Clubs">
-       <span>
-            K<sup>12</sup> National Student Clubs
              
         </span>
     </a>
@@ -1742,326 +1501,9 @@
 
 
 <li>
-    <a href="/take-a-peek/student-activities-support/contests-competitions.html" id="student-competitionsandshowcases" target="_self" title="Student Competitions and Showcases">
+    <a href="/k12-schools/parent-activities-support.html" id="parent-activitiesandsupport" target="_self" title="Parent Activities and Support">
        <span>
-            Student Competitions and Showcases
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/student-activities-support/college-career-workshops.html" id="college-and-careerworkshops" target="_self" title="College and Career Workshops">
-       <span>
-            College and Career Workshops
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                
-            
-        </ul>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/national-parent-network.html" id="the-k12-nationalparentnetwork" target="_self" class="has-submenu" title="The K12 National Parent Network">
-       <span>
-            The K<sup>12</sup> National Parent Network
-            <span class="glyphicon glyphicon-chevron-down"></span> 
-        </span>
-    </a>
-    
-        <ul class="sm-nowrap">
-            
-                
-                
-                    
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/national-parent-network/parent-workshops.html" id="parent-workshops" target="_self" title="Parent Workshops">
-       <span>
-            Parent Workshops
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/national-parent-network/clubs-communities.html" id="parent-clubs-andcommunities" target="_self" title="Parent Clubs and Communities">
-       <span>
-            Parent Clubs and Communities
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/national-parent-network/school-programs.html" id="school-programs-aroundthecountry" target="_self" title="School Programs Around the Country">
-       <span>
-            School Programs Around the Country
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                
-            
-        </ul>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/day-in-the-life.html" id="a-day-in-the-life" target="_self" title="A Day in the Life">
-       <span>
-            A Day in the Life
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/family-student-spotlights.html" id="family-and-studentspotlights" target="_self" title="Family and Student Spotlights">
-       <span>
-            Family and Student Spotlights
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/take-a-peek/what-people-say.html" id="what-people-say-aboutk12" target="_self" title="What People Say About K12">
-       <span>
-            What People Say About K<sup>12</sup>
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/events-by-state.html" id="information-eventslearnaboutk12" target="_self" title="Information Events: Learn About K12">
-       <span>
-            Information Events: Learn About K<span class="sup">12</span>
-             
-        </span>
-    </a>
-    
-</li>
-
-                    
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-    <a href="/mobile-apps.html" id="mobile-applications" target="_self" title="Mobile Applications">
-       <span>
-            Mobile Applications
+            Parent Activities and Support
              
         </span>
     </a>
@@ -2096,12 +1538,12 @@
 
 
 <li>
-    <a href="/enroll-or-buy.html" id="enroll-or-buy" target="_self" class="has-submenu" title="Enroll or Buy">
+    <a href="/enroll.html" id="enroll-in-a-school" target="_self" class="has-submenu" title="Enroll in a School">
        <span>
-            Enroll or Buy<span class="parent">
+            Enroll in a School
             <span class="glyphicon glyphicon-chevron-down"></span> 
         </span>
-    </span></a>
+    </a>
     
         <ul class="sm-nowrap">
             
@@ -2129,9 +1571,9 @@
 
 
 <li>
-    <a href="https://k12parentportal.force.com" id="enroll-in-a-school" target="_blank" title="Enroll in a School" rel="external" class="cn-external2">
+    <a href="/schoolfinder.html" id="find-a-school" target="_self" title="Find a School">
        <span>
-            Enroll in a School
+            Find a School
              
         </span>
     </a>
@@ -2159,9 +1601,9 @@
 
 
 <li>
-    <a href="https://buy.k12.com/ecommerce/public/index.xhtml" id="buy-a-course" target="_blank" title="Buy a Course" rel="external" class="cn-external2">
+    <a href="https://k12parentportal.force.com/portal_createaccount" id="enroll" target="_blank" title="Enroll" rel="external" class="cn-external2">
        <span>
-            Buy a Course
+            Enroll
              
         </span>
     </a>
@@ -2172,6 +1614,296 @@
                 
             
         </ul>
+    
+</li>
+
+		
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course.html" id="buy-a-course" target="_self" class="has-submenu" title="Buy a Course">
+       <span>
+            Buy a Course
+            <span class="glyphicon glyphicon-chevron-down"></span> 
+        </span>
+    </a>
+    
+        <ul class="sm-nowrap">
+            
+                
+                
+                    
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="http://www.k12courses.com" id="buy-courses-and-textbooks" target="_self" title="Buy Courses and Textbooks">
+       <span>
+            Buy Courses and Textbooks
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course/mobile-apps.html" id="mobile-apps" target="_self" class="has-submenu" title="Mobile Apps">
+       <span>
+            Mobile Apps
+            <span class="glyphicon glyphicon-chevron-down"></span> 
+        </span>
+    </a>
+    
+        <ul class="sm-nowrap">
+            
+                
+                
+                    
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course/mobile-apps/pre-k.html" id="mobile-apps-for-prek" target="_self" title="Mobile Apps for Pre-K">
+       <span>
+            Mobile Apps for Pre-K
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course/mobile-apps/k-8.html" id="mobile-apps-for-k8" target="_self" title="Mobile Apps for K–8">
+       <span>
+            Mobile Apps for K–8
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course/mobile-apps/high-school.html" id="mobile-apps-for-highschool" target="_self" title="Mobile Apps for High School">
+       <span>
+            Mobile Apps for High School
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course/mobile-apps/ap-exam-review-prep.html" id="mobile-apps-for-apexamreviewandprep" target="_self" title="Mobile Apps for AP Exam Review and Prep">
+       <span>
+            Mobile Apps for AP Exam Review and Prep
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/buy-a-course/mobile-apps/online-school.html" id="mobile-apps-for-theonlineschool" target="_self" title="Mobile Apps for the Online School">
+       <span>
+            Mobile Apps for the Online School
+             
+        </span>
+    </a>
+    
+</li>
+
+                    
+                
+            
+        </ul>
+    
+</li>
+
+                    
+                
+            
+        </ul>
+    
+</li>
+
+		
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a href="/events-by-state.html" id="attend-an-event" target="_self" title="Attend an Event">
+       <span>
+            Attend an Event
+             
+        </span>
+    </a>
     
 </li>
 
@@ -2282,7 +2014,7 @@
 
 
 
-<div id="58b561aa-7414-4b15-a910-874f87981a22">
+<div id="56691217-fdfd-4ca5-b281-75f7e96eaf3a">
 	
 		<div class="share-button share-facebook">
 			<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.k12.com/privacy-policy.html&amp;t=Privacy+Policy" title="Share this page via Facebook" target="_blank">
@@ -2696,12 +2428,12 @@ Herndon, VA 20171</p>
 
 
 <div id="marketo-form">
-    <h2 data-toggle="collapse" data-target="#692459b4-9603-487f-9174-d8d79b53b14b-collapseRequestMoreInfo" aria-expanded="false" aria-controls="692459b4-9603-487f-9174-d8d79b53b14b-collapseRequestMoreInfo" class="collapsed">Request More Information</h2>
-    <div class="collapse collapse--requestMoreInfo" id="692459b4-9603-487f-9174-d8d79b53b14b-collapseRequestMoreInfo">
+    <h2 data-toggle="collapse" data-target="#fae988ed-800e-447e-afba-6e8449647744-collapseRequestMoreInfo" aria-expanded="false" aria-controls="fae988ed-800e-447e-afba-6e8449647744-collapseRequestMoreInfo" class="collapsed">Request More Information</h2>
+    <div class="collapse collapse--requestMoreInfo" id="fae988ed-800e-447e-afba-6e8449647744-collapseRequestMoreInfo">
         <p>One of our knowledgeable enrollment consultants will call you within 48 hours.</p>
         <form method="post" enctype="application/x-www-form-urlencoded" action="/api/darkstar/json" id="k12ComLeadForm" name="mktForm_1028">
-            <textarea title="Comment Section" placeholder="Type your question or comment here (optional)" name="Web_Form_Comments__c" id="comments" data-toggle="collapse" data-target="#692459b4-9603-487f-9174-d8d79b53b14b-collapseForm" aria-expanded="false" aria-controls="692459b4-9603-487f-9174-d8d79b53b14b-collapseForm" class="collapsed"></textarea>
-            <div class="collapse collapse--form" id="692459b4-9603-487f-9174-d8d79b53b14b-collapseForm">
+            <textarea title="Comment Section" placeholder="Type your question or comment here (optional)" name="Web_Form_Comments__c" id="comments" data-toggle="collapse" data-target="#fae988ed-800e-447e-afba-6e8449647744-collapseForm" aria-expanded="false" aria-controls="fae988ed-800e-447e-afba-6e8449647744-collapseForm" class="collapsed"></textarea>
+            <div class="collapse collapse--form" id="fae988ed-800e-447e-afba-6e8449647744-collapseForm">
                 <ul id="formMore">
                     <li id="mf-country" class="formElement formDropDown">
                         <select title="Please select a country." class="required formSelect" name="country" id="country" data-parsley-errors-container="#mf-country" data-parsley-error-message="Please select a country." required="">
@@ -2786,7 +2518,7 @@ Herndon, VA 20171</p>
                 <input name="Product_Type__c" id="Product_Type__c" type="hidden" value="gen">
 
                 <!-- Form submission timestamp-->
-                <input type="hidden" name="form_submit_time_stamp" value="2015-12-31EST01:00:33">
+                <input type="hidden" name="form_submit_time_stamp" value="2016-06-16UTC02:49:57">
 
                 <!-- Change value if necessary.  1028 is main page - 1031 is secondary page -->
                 <input type="hidden" name="formid" value="1028">
@@ -2831,8 +2563,8 @@ Herndon, VA 20171</p>
 <!-- optional additional resources -->
 
 	
-		<div class="additional-resources collapsed" title="Additional Resources" data-toggle="collapse" data-target="#d45dd10d-60c6-4e31-bf78-4c29e492621d-collapse" aria-expanded="false" aria-controls="d45dd10d-60c6-4e31-bf78-4c29e492621d-collapse">
-		<div id="d45dd10d-60c6-4e31-bf78-4c29e492621d-collapse" class="collapse collapse--additional-resources">
+		<div class="additional-resources collapsed" title="Additional Resources" data-toggle="collapse" data-target="#560504f9-2992-477b-be17-aebaccb89701-collapse" aria-expanded="false" aria-controls="560504f9-2992-477b-be17-aebaccb89701-collapse">
+		<div id="560504f9-2992-477b-be17-aebaccb89701-collapse" class="collapse collapse--additional-resources">
 	
 	
 	
@@ -2882,11 +2614,11 @@ Herndon, VA 20171</p>
 	
 		</div>
 		<script type="text/javascript">
-			jQuery('#d45dd10d-60c6-4e31-bf78-4c29e492621d-collapse.collapse--additional-resources li:first-child').click(function(event){
+			jQuery('#560504f9-2992-477b-be17-aebaccb89701-collapse.collapse--additional-resources li:first-child').click(function(event){
 				event.stopImmediatePropagation();
 			});
-			jQuery('#d45dd10d-60c6-4e31-bf78-4c29e492621d-collapse.collapse--additional-resources li:first-child + li > a').on('focus',function(){
-				jQuery('#d45dd10d-60c6-4e31-bf78-4c29e492621d-collapse').collapse('show');
+			jQuery('#560504f9-2992-477b-be17-aebaccb89701-collapse.collapse--additional-resources li:first-child + li > a').on('focus',function(){
+				jQuery('#560504f9-2992-477b-be17-aebaccb89701-collapse').collapse('show');
 			});
 		</script>
 	
@@ -3076,7 +2808,7 @@ Herndon, VA 20171</p>
 	
 		
 			<h3 class="footerlist">
-				<a data-toggle="collapse" data-parent="#60ae2278-72e3-4bbe-bed0-425ee08ca900" href="#60ae2278-72e3-4bbe-bed0-425ee08ca900-collapse">
+				<a data-toggle="collapse" data-parent="#05b5f5ed-e683-4890-9ff5-60f727a57e6e" href="#05b5f5ed-e683-4890-9ff5-60f727a57e6e-collapse">
 					K12 Corporate
 					<span class="accordion-arrow"></span>
 				</a>
@@ -3093,7 +2825,7 @@ Herndon, VA 20171</p>
 	
 	
 	
-		<div id="60ae2278-72e3-4bbe-bed0-425ee08ca900-collapse" class="collapse in">
+		<div id="05b5f5ed-e683-4890-9ff5-60f727a57e6e-collapse" class="collapse in">
 	
 
 <!-- additional resources ends -->
@@ -3204,7 +2936,7 @@ Herndon, VA 20171</p>
 	
 		
 			<h3 class="footerlist">
-				<a data-toggle="collapse" data-parent="#50799929-b802-42bf-9d70-1dc9869115f3" href="#50799929-b802-42bf-9d70-1dc9869115f3-collapse">
+				<a data-toggle="collapse" data-parent="#10be8b50-9230-4d84-8bbf-4030ef531a5c" href="#10be8b50-9230-4d84-8bbf-4030ef531a5c-collapse">
 					Helpful Links
 					<span class="accordion-arrow"></span>
 				</a>
@@ -3221,7 +2953,7 @@ Herndon, VA 20171</p>
 	
 	
 	
-		<div id="50799929-b802-42bf-9d70-1dc9869115f3-collapse" class="collapse in">
+		<div id="10be8b50-9230-4d84-8bbf-4030ef531a5c-collapse" class="collapse in">
 	
 
 <!-- additional resources ends -->
@@ -3265,6 +2997,13 @@ Herndon, VA 20171</p>
 			<li>
 				
 				<a href="http://help.k12.com/" title="" target="_blank" rel="external" class="cn-external2"> Get Customer Support
+				</a>
+				
+			</li>
+		
+			<li>
+				
+				<a href="/careers.html" title=""> Career Opportunities
 				</a>
 				
 			</li>
@@ -3320,13 +3059,13 @@ Herndon, VA 20171</p>
 <div class="mod-footer-nav-col">
 
   <h3>
-    <a data-toggle="collapse" data-parent="#d1e88f27-c196-41ef-b3be-463bcad8d6ad" href="#d1e88f27-c196-41ef-b3be-463bcad8d6ad-collapse">
+    <a data-toggle="collapse" data-parent="#39d71f55-44c0-4111-9701-adf23983d805" href="#39d71f55-44c0-4111-9701-adf23983d805-collapse">
       Enrollment Help
       <span class="accordion-arrow"></span>
     </a>
   </h3>
 
-  <div id="d1e88f27-c196-41ef-b3be-463bcad8d6ad-collapse" class="collapse in">
+  <div id="39d71f55-44c0-4111-9701-adf23983d805-collapse" class="collapse in">
     <ul id="mod-footer-nav-help">
         
         <li id="chatOnlineEnrollmentHelpFooter" class="click-to-chat">
@@ -3383,10 +3122,10 @@ Herndon, VA 20171</p>
 
 
 <h3>
-    <a data-parent="#ca6b666d-df99-4e70-8ef7-11754bc5f2bd" data-toggle="collapse" href="#ca6b666d-df99-4e70-8ef7-11754bc5f2bd-collapse">Call Us</a>
+    <a data-parent="#3bfdcba0-ba45-48db-a16c-cdbab80cb51f" data-toggle="collapse" href="#3bfdcba0-ba45-48db-a16c-cdbab80cb51f-collapse">Call Us</a>
 </h3>
 
-<div id="ca6b666d-df99-4e70-8ef7-11754bc5f2bd-collapse" class="collapse in">
+<div id="3bfdcba0-ba45-48db-a16c-cdbab80cb51f-collapse" class="collapse in">
     <ul id="mod-footer-nav-call">
 		
 	        <li><span class="phone-type">Enrollment in Public &amp; <br>Private Schools</span>
@@ -3614,7 +3353,7 @@ Herndon, VA 20171</p>
 </div>
 </div>
 
-    <p>Copyright © 2015 K12 Inc. All rights reserved. K12 is a registered trademark of K12 Inc. The K12 logo and other marks referenced herein are trademarks of K12 Inc. and its subsidiaries, and other marks are owned by third parties.</p>
+    <p>Copyright © 2016 K12 Inc. All rights reserved. K12 is a registered trademark of K12 Inc. The K12 logo and other marks referenced herein are trademarks of K12 Inc. and its subsidiaries, and other marks are owned by third parties.</p>
 </div>
 </div>
 <div class="text parbase RichText section">
@@ -3656,8 +3395,7 @@ Herndon, VA 20171</p>
 
 
 
-<script type="text/javascript" src="https://c.la8cs.salesforceliveagent.com/content/g/js/30.0/deployment.js"></script>
-<script type="text/javascript" src="https://c.la1w1.salesforceliveagent.com/content/g/deployment.js"></script>
+<script type="text/javascript" src="https://c.la1w1.salesforceliveagent.com/content/g/js/35.0/deployment.js"></script>
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript">
     var isEditMode = false;
@@ -3717,13 +3455,13 @@ Herndon, VA 20171</p>
             jQuery('#k12ComLeadForm').initializeRMI({
                 resourcePath: '/content/k12/assets/en/menu-blocks/jcr:content/assets-par/requestmoreinfo',
             });
-            var $collapseForm = jQuery('#692459b4-9603-487f-9174-d8d79b53b14b-collapseForm');
+            var $collapseForm = jQuery('#fae988ed-800e-447e-afba-6e8449647744-collapseForm');
             $collapseForm.on('hide.bs.collapse',function(event){
                 event.preventDefault();
             });
             var $collapseToggle = jQuery('#comments');
             jQuery('#comments').on('focus',function(){
-                jQuery('#692459b4-9603-487f-9174-d8d79b53b14b-collapseRequestMoreInfo, #692459b4-9603-487f-9174-d8d79b53b14b-collapseForm').collapse('show');
+                jQuery('#fae988ed-800e-447e-afba-6e8449647744-collapseRequestMoreInfo, #fae988ed-800e-447e-afba-6e8449647744-collapseForm').collapse('show');
             });
             jQuery('.collapse--form__cancel').on('click',function(event){
                 event.preventDefault();
