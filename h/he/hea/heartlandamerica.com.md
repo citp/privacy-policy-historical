@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the heartlandamerica.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208213020id_/http%3A//www.heartlandamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartlandamerica.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617002303id_/http%3A//www.heartlandamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Heartland America: Privacy Policy
 
-Heartland America® knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Heartland America® you are accepting the practices described in this Privacy Statement
+Heartland America® knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Heartland America® you are accepting the practices described in this Privacy Statement.
 
 ## Registration
 
-To use our web site, you must first complete the registration form. During registration you will be asked to provide contact information including your name and your email address. This information is used to contact the user about the services on our site for which they have expressed interest.
+If you choose to register with our website you will be asked to provide contact information including your name and your email address. This information is used to contact the user about the services on our site for which they have expressed interest.
+
+By providing your cellular phone number, you agree to receive non-telemarketing calls or text messages to that number, including calls or texts delivering messages related to your account and purchases. For efficiency, we may at times contact you using autodialed or pre-recorded calls or messages. Where we are required to obtain your consent for such calls or messages, you may opt out at any time.
 
 ## Merchandise
 
@@ -14,7 +16,7 @@ In order for Heartland to ship merchandise to you, you will need to provide Hear
 
 ## Cookies
 
-A cookie is a piece of data stored on your computer's hard drive that identifies you as a Heartland America® user, which means you are automatically logged in when you visit our web site. This cookie does not contain any personal information about you.
+A cookie is a piece of data stored on your computer's hard drive that identifies you as a Heartland America® user. This cookie does not contain any personal information about you.
 
 ## Credit Card Processing
 
@@ -51,7 +53,7 @@ While Heartland makes every effort to review and screen all content submitted by
 
 ## Correcting/Updating Personal Information
 
-If you need to change any of the personal information that you have previously provided us, please go to the checkout page or send an email to our Customer Support department.
+If you need to change any of the personal information that you have previously provided us, please go to [My Account](https://www.heartlandamerica.com/customer/account/) or send an email to our Customer Support department.
 
 ## Mailing list preference
 
