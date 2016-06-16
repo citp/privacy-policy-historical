@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225193143id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053316id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # Brad's Deals Privacy Policy
 
@@ -52,9 +52,11 @@ Employee Access, Training and Expectations. Our corporate values, ethical standa
 
 ## Communication Opt Out
 
-If you wish to opt out of receiving offers directly from Shop Smart LLC network or business partners, you can [unsubscribe](https://web.archive.org/me/unsubscribe) or follow the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 640 N LaSalle Suite 460 Chicago, IL 60654, or by phone at 877.970.0707. You can email us at suggestions@bradsdeals.com with questions, comments or suggestions. 
+If you wish to opt out of receiving offers directly from Brad's Deals LLC network or business partners, you can [unsubscribe](https://web.archive.org/me/unsubscribe) or follow the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 6115 Estate Smith Bay Suite 315 St. Thomas, VI 00802, or by phone at 877.970.0707. You can email us at suggestions@bradsdeals.com with questions, comments or suggestions. 
 
 ## Do We Disclose Information to Outside Parties?
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
 
 We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy. 
 
@@ -66,4 +68,4 @@ We may disclose information when legally compelled to do so, in other words, whe
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. 
 
-Shop Smart LLC has financial relationships with some of the merchants included on our site. Shop Smart LLC may be compensated if consumers choose to apply for or purchase products or services via the links on our site. 
+Brad's Deals LLC has financial relationships with some of the merchants included on our site. Brad's Deals LLC may be compensated if consumers choose to apply for or purchase products or services via the links on our site. 
