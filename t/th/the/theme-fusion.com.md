@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theme-fusion.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225191000id_/https%3A//theme-fusion.com/knowledgebase/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-fusion.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051455id_/http%3A//theme-fusion.com/knowledgebase/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Fusion
 
@@ -11,7 +11,7 @@ _**Last Modified: November 14th, 2014**_
 
 ##### 1\. Introduction
 
-Thank you for visiting ThemeFusion. Please read our [Terms of Service](https://theme-fusion.com/knowledgebase/terms-conditions/) and this [Privacy Policy](https://theme-fusion.com/knowledgebase/privacy-policy/) as you must agree to both documents in order to have permission to use our Service.
+Thank you for visiting ThemeFusion. Please read our [Terms of Service](http://theme-fusion.com/knowledgebase/terms-conditions/) and this [Privacy Policy](http://theme-fusion.com/knowledgebase/privacy-policy/) as you must agree to both documents in order to have permission to use our Service.
 
 ##### 2\. Definitions
 
@@ -19,7 +19,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 
 “Service” refers to the services that we provide, including our WordPress themes (whether obtained from us via Themeforest.net, our Site, directly via e-mail, or otherwise) and our Site itself;
 
-“Site” refers to our website, [www.theme-fusion.com](https://theme-fusion.com/);
+“Site” refers to our website, [www.theme-fusion.com](http://theme-fusion.com/);
 
 “ThemeFusion” refers to our company, known as “ThemeFusion Inc FZE”; our Site; our Service; or a combination of all or some of the preceding definitions, depending on the context in which the word is used;
 
