@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themastercleanse.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218141117id_/http%3A//themastercleanse.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themastercleanse.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616215552id_/http%3A//themastercleanse.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Master Cleanse
 
