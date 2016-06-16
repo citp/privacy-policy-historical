@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216051106id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616124744id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # EzyDVD - Australia's first and largest online DVD and Blu-ray store
 
@@ -96,7 +96,7 @@ If you share a computer with someone or are using a computer in a public place l
 
 
 
-If you need more assistance please contact our Customer Support team by email at enquiriesdesk@ezydvd.com.au. Normal business hours are from 9.00am to 5.00pm Monday to Friday (AEST).
+If you need more assistance please contact our Customer Support fateam by email at enquiriesdesk@ezydvd.com.au. Normal business hours are from 9.00am to 5.00pm Monday to Friday (AEST).
 
 Should you wish to complain about our use of your personal information please contact:
 
@@ -104,8 +104,6 @@ Should you wish to complain about our use of your personal information please co
 
     EzyDVD
 
-    PO Box 3531
+    PO Box 517
 
-    Rhodes Shopping Centre
-
-    RHODES NSW 2138
+    Shepparton VIC 3632
