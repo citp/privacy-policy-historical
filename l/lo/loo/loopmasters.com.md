@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopmasters.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212180517id_/http%3A//www.loopmasters.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopmasters.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616025227id_/http%3A//www.loopmasters.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – Customer Feedback for Loopmasters
 
@@ -125,10 +125,10 @@ The website does not store your credit card and payment details on our server. T
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@loopmasters.com or by post to:
 
 > Loopmasters Ltd.  
-> The Ironworks  
-> Blackman Street  
-> Brighton  
-> BN1 4GD  
+> 1 Regency Mews  
+> Silverdale Road  
+> Eastbourne  
+> BN20 7AB  
 > UK  
 > e-mail: support@loopmasters.com  
-> Tel/Fax: +44 (0)1273 692 313
+> Tel/Fax: +44 (0)1323 411353
