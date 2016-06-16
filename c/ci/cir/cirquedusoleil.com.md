@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115074153id_/https%3A//www.cirquedusoleil.com/en/legal/corporate/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616194851id_/https%3A//www.cirquedusoleil.com/Home/legal/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Cirque du Soleil
+# 
 
-Thank you for visiting the _Cirque du Soleil_ website. We take your privacy seriously. Please take the time to read and understand _Cirque du Soleil_ 's policy on the protection of personal information to learn more about our information practices, including the type of information we gather, how and for what purposes such information is used, to whom the information is disclosed, how it is safeguarded and how you can access your personal information in our possession ("Privacy Policy"). Moreover, when you use our website, you also have responsibilities which are outlined in our [Terms and Conditions](https://web.archive.org/en/legal/corporate/terms-and-conditions.aspx) section of our website.  We recommend that you consult these Terms and Conditions prior to using our website in order to inform yourself of your obligations. 
+Thank you for visiting the _Cirque du Soleil_ website. We take your privacy seriously. Please take the time to read and understand _Cirque du Soleil_ 's policy on the protection of personal information to learn more about our information practices, including the type of information we gather, how and for what purposes such information is used, to whom the information is disclosed, how it is safeguarded and how you can access your personal information in our possession ("Privacy Policy"). Moreover, when you use our website, you also have responsibilities which are outlined in our [Terms and Conditions](https://web.archive.org/legal/corporate/terms-conditions) section of our website.  We recommend that you consult these Terms and Conditions prior to using our website in order to inform yourself of your obligations. 
 
 _Cirque du Soleil_ reserves the right to modify this Privacy Policy to adapt it to any technological or legal change, or simply to adjust it to reflect changes made to our website. All updates of our Privacy Policy will be posted on this page. By continuing to use this website after we post any changes, you are consenting to our use of your information as provided in the modified Privacy Policy. 
 
@@ -53,7 +53,7 @@ We may use your IP address and your e-mail address for a variety of purposes, in
 
 
 
-Your personal information will not be shared with anyone without your consent, except in the event your behaviour on our website violates our [Terms and Conditions](https://web.archive.org/en/legal/corporate/terms-and-conditions.aspx) and for the following exceptions: 
+Your personal information will not be shared with anyone without your consent, except in the event your behaviour on our website violates our [Terms and Conditions](https://web.archive.org/legal/corporate/terms-conditions) and for the following exceptions: 
 
   * To related corporate entities of _Cirque du Soleil_ ; 
   * To Apple Corps Limited and its affiliates and other related entities, if you have requested information about The Beatles; 
@@ -90,7 +90,7 @@ If you submit personal information, including your résumé, through the _Cirque
 
 **Cirque Club Subscription**
 
-We wish to remind you that the personal information you provide us with is on a voluntary basis and is only used in accordance with the consent we receive from you when subscribing to Cirque Club. To cancel your membership, just [log in to Cirque Club](http://www.cirquedusoleil.com/en/cirque-club/default.aspx), click ‘Update My Profile,’ and then click ‘unsubscribe’ at the bottom of the page.
+We wish to remind you that the personal information you provide us with is on a voluntary basis and is only used in accordance with the consent we receive from you when subscribing to Cirque Club. To cancel your membership, just [log in to Cirque Club](https://www.cirquedusoleil.com/en/cirque-club/form/login), click ‘Update My Profile,’ and then click ‘unsubscribe’ at the bottom of the page.
 
 **Contact information**
 
@@ -100,4 +100,4 @@ _Cirque du Soleil_
 Montreal, Quebec   
 H1Z 4M6  
 CANADA  
-[Contact us](http://www.cirquedusoleil.com/en/help/shows.aspx)
+[Contact us](https://web.archive.org/faq)
