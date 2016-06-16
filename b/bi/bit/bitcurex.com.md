@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcurex.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316153101id_/https%3A//bitcurex.com/page/1487682-prywatnosc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcurex.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616185254id_/https%3A//bitcurex.com/page/1487682-prywatnosc) for the most accurate reproduction.*
 
 # Bitcurex
 
