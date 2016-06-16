@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugbuyers.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225010312id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugbuyers.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054927id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
@@ -57,9 +57,9 @@ These technologies are used in analyzing trends, administering the site, trackin
 
 We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If You reject cookies, You may still use our site, but Your ability to use some features or areas of Our site may be limited.
 
-We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom We partner to provide certain features on Our site or to display advertising based upon Your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom We partner to provide certain features on Our site or to display advertising based upon Your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-We partner with third parties to either display advertising on Our Web site or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about Your activities on this site and other sites in order to provide You advertising based upon Your browsing activities and interests. If You wish to not have this information used for the purpose of serving You interest-based ads, You may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt You out of being served ads. You will continue to receive generic ads.
+We partner with third parties to either display advertising on Our Web site or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about Your activities on this site and other sites in order to provide You advertising based upon Your browsing activities and interests. If You wish to not have this information used for the purpose of serving You interest-based ads, You may opt-out by [clicking here](https://preferences-mgr.truste.com/). Please note this does not opt You out of being served ads. You will continue to receive generic ads.
 
 ## Personally Identifiable Information (PII)
 
@@ -109,23 +109,23 @@ Our Web site includes social media features, such as the Facebook like button an
 
 ### Opting Out
 
-We provide You the opportunity to ’opt-out’ of having personally identifiable information used for certain purposes, when We ask for this information. For example, if You set up an account but do not wish to receive any additional marketing material from Us, You can indicate Your preference during signup. If You no longer wish to receive Our newsletters, You may opt-out of receiving them by following the instructions included in each newsletter or by signing into Your account or by [emailing us](http://www.drugs.com/support/contact.html).
+We provide You the opportunity to ’opt-out’ of having personally identifiable information used for certain purposes, when We ask for this information. For example, if You set up an account but do not wish to receive any additional marketing material from Us, You can indicate Your preference during signup. If You no longer wish to receive Our newsletters, You may opt-out of receiving them by following the instructions included in each newsletter or by signing into Your account or by [emailing us](https://www.drugs.com/support/contact.html).
 
 For advertising opt-out options please [click here](https://web.archive.org/support/privacy/advertising.html).
 
 ### Removal
 
-To request the removal of publicly displayed personally identifiable information published on the Drugs.com web site, You may contact Us through Our [support system](http://www.drugs.com/support/contact.html). In order for Us to consider Your request, You are required to include links to any page(s) where You believe any such personally identifiable information exists. For each instance, You must also provide clear instructions describing the exact position/location of the personally identifiable information on any page and how it relates to You. 
+To request the removal of publicly displayed personally identifiable information published on the Drugs.com web site, You may contact Us through Our [support system](https://www.drugs.com/support/contact.html). In order for Us to consider Your request, You are required to include links to any page(s) where You believe any such personally identifiable information exists. For each instance, You must also provide clear instructions describing the exact position/location of the personally identifiable information on any page and how it relates to You. 
 
 ### Updating and Closing Your Account
 
-If Your personally identifiable information changes, or if You no longer desire Our service, You may update, delete, or deactivate Your information by signing into Your account or by emailing Our [Customer Support](http://www.drugs.com/support/contact.html) or by contacting Us by telephone or via courier at the contact information listed above. We will respond to Your request within a reasonable timeframe.
+If Your personally identifiable information changes, or if You no longer desire Our service, You may update, delete, or deactivate Your information by signing into Your account or by emailing Our [Customer Support](https://www.drugs.com/support/contact.html) or by contacting Us by telephone or via courier at the contact information listed above. We will respond to Your request within a reasonable timeframe.
 
 You may update or close/delete Your account at any time. When a member is signed in, a prominent link is provided to comprehensive account settings including options to permanently delete their account and to opt in or out of email newsletters. Deleting Your account will also remove any personally identifiable information connected with this account.
 
 ## Collection and Use of 3rd Party Personally identifiable information
 
-You may also provide personally identifiable information about other people, such as their name and email address. This information is only used for the sole purpose of completing Your request or for whatever reason it may have been provided. This information may be stored in log files. To request removal please contact [Customer Support](http://www.drugs.com/support/contact.html).
+You may also provide personally identifiable information about other people, such as their name and email address. This information is only used for the sole purpose of completing Your request or for whatever reason it may have been provided. This information may be stored in log files. To request removal please contact [Customer Support](https://www.drugs.com/support/contact.html).
 
 ## Email Disclosure
 
@@ -145,7 +145,7 @@ When You build a medication list on Drugs.com, We do not share any personal info
 
 ## Security
 
-Drugs.com follows generally accepted industry standards to protect the personally identifiable information submitted to Us, both during transmission and once We receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while We strive to use commercially acceptable means to protect all personally identifiable information, We cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect Your sensitive information (if any) on Our site. If You have any questions about security on Our web site, You can send an [email](http://www.drugs.com/support/contact.html) using Our contact form.
+Drugs.com follows generally accepted industry standards to protect the personally identifiable information submitted to Us, both during transmission and once We receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while We strive to use commercially acceptable means to protect all personally identifiable information, We cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect Your sensitive information (if any) on Our site. If You have any questions about security on Our web site, You can send an [email](https://www.drugs.com/support/contact.html) using Our contact form.
 
 ## Data Retention
 
