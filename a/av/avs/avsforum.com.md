@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avsforum.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231124131id_/http%3A//www.avsforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avsforum.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616143438id_/http%3A//www.avsforum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AVSForum.com
 
