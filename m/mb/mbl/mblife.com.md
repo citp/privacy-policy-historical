@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mblife.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118184504id_/http%3A//www.mblife.com/support/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mblife.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616115139id_/http%3A//www.mblife.com/support/en/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MBLife.com - Personalized Diamond Gifts
 
 ### 
 
-We, Dorical Limited (“MBLife.com”), and/or our subsidiaries and affiliates operating under the Lee Heng Jewellery Group of Companies Limited (together the “Affiliates”) value you and your personal data privacy. 
+We, MaBelle International Limited (“MBLife.com”), and/or our subsidiaries and affiliates operating under the Lee Heng Jewellery Group of Companies Limited (together the “Affiliates”) value you and your personal data privacy. 
 
 Please note that the terms of this Statement may update from time to time as we deem necessary. If there is any inconsistency or conflict between the English and Chinese versions of this Statement, the English version shall prevail. 
 
