@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagjag.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218042426id_/http%3A//metroland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagjag.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616201050id_/http%3A//metroland.com/privacy-policy) for the most accurate reproduction.*
 
 # Metroland Media | Privacy Policy
 
