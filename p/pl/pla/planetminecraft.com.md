@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetminecraft.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528093733id_/http%3A//www.planetminecraft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetminecraft.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053516id_/http%3A//www.planetminecraft.com/privacy_policy) for the most accurate reproduction.*
 
 # Planet Minecraft : Texture Packs, Skins, Projects, Servers & Blogs!
 
@@ -20,13 +20,17 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 This web site contains links to other sites. Please be aware that Planet Minecraft is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
+## Advertising
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/ "Network Advertising"). 
+
 ## Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on the news so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 ## Final Notes
 
-Planet Minecraft will never, under any circumstances give away or display your IP address. Additionally, Planet Minecraft will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties.
+Planet Minecraft will never, under any circumstances give away or display your IP address to third parties. Additionally, Planet Minecraft will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties.
 
   
 If you have any questions regarding our privacy policy, please do not hesitate to [Contact Us](https://web.archive.org/contact/ "Contact Us!")! Thank you for your cooperation.
