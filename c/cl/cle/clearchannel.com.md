@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearchannel.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009171311id_/http%3A//www.iheartmedia.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearchannel.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616144459id_/http%3A//www.iheartmedia.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
