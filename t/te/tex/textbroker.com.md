@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230133231id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616101816id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
 
 # Privacy policy | Textbroker
 
@@ -20,6 +20,10 @@ Textbroker.com does not collect any personally identifiable information about yo
 
 Textbroker.com also may automatically collect aggregate information about the use of our website, including, but not limited to, which pages are most frequently visited, how many visitors we receive daily, how long visitors stay on each page, how often the individual user visits our website, how many visitors click on each individual webpage on our website, etc. 
 
+### Cookies and related technologies
+
+The Textbroker website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
+
 ###  How Do We Use the Information?
 
 The personally identifiable information we collect from and about you may be used to provide e-mail-based newsletters and other information to you and to notify you from time to time about services offered by Textbroker.com or other entities associated with Textbroker.com. 
@@ -39,7 +43,7 @@ Textbroker.com may revise and update its Privacy Policy at any time without noti
 
 ### Terms of Service
 
-The Textbroker.com Terms of Service for customers are available at http://www.textbroker.com/us/client-tos.php. The Textbroker.com Terms of Service for authors are available at http://www.textbroker.com/us/author-tos.php. Please read the Terms of Service Section carefully before using Textbroker.com. 
+The Textbroker.com Terms of Service for customers are available at <https://www.textbroker.com/terms-condition>. The Textbroker.com Terms of Service for authors are available at <https://www.textbroker.com/terms-condition#tos-authors>. Please read the Terms of Service Section carefully before using Textbroker.com. 
 
 ### Contact us
 
