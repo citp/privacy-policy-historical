@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225004554id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053734id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
 
 # Quantcast Privacy Policy | Quantcast
 
@@ -10,7 +10,7 @@ We care about your privacy and want you to be informed about what we do. This Pr
 
 ### What We Do
 
-We have two main products: (1) Quantcast Measure and (2) Quantcast Advertise. Our Measure product is free, and it helps websites owners to understand the characteristics and demographics of the people who visit their sites. (Here’s an [example](https://www.quantcast.com/goodreads.com).) Our Advertise product allows businesses to deliver relevant online advertising to individual consumers. For companies that want to advertise online, our Advertise product helps get their ads in front of the people that are most likely to find them interesting. For consumers, we provide ads that are most useful and relevant to their interests. And for websites, our Advertise product helps drive advertising revenue, without which the free Web we all use every day would not exist. In short, we try to make online advertising more efficient and pleasant for everyone. In order to do all this, we collect and analyze anonymous information about individual consumer interests.
+We have two main products: (1) Quantcast Measure and (2) Quantcast Advertise. Our Measure product is free, and it helps websites owners to understand the characteristics and demographics of the people who visit their sites. (Here’s an [example](https://www.quantcast.com/goodreads.com).) Our Advertise product allows businesses to deliver relevant online advertising to individual consumers. For companies that want to advertise online, our Advertise product helps get their ads in front of the people that are most likely to find them interesting. For consumers, we provide ads that are most useful and relevant to their interests. And for websites, our Advertise product helps drive advertising revenue, without which the free Web we all use every day would not exist. In short, we try to make online advertising more efficient and pleasant for everyone. In order to do all this, we collect and analyze information about individual consumer interests.
 
 ### Scope of this Privacy Policy
 
@@ -60,7 +60,7 @@ If you contact us by email, we may keep a record of your contact information and
 
 #### Information Collected through our Services
 
-When you visit a site or app operated by a Quantcast Partner, the Partner permits us to collect Log Data (defined above). The Log Data we store is not PII. We only know you as an anonymous unique identifier, and we associate information about your site visits or app usage with that identifier, not with your name or email address or any other PII. We use this information to help improve the accuracy of our Measure product (discussed above) and to determine what advertisements might be interesting to you.  For example, if you were recently searching for plane tickets to San Francisco, we might predict that you would be interested in purchasing a nice warm sweater, and then show you an ad from one of our Advertising clients that sells sweaters.  (Technically, to be more precise, we would predict that your _identifier_ might belong to a person interested in sweaters, because we don’t know who _you_ are.)
+When you visit a site or app operated by a Quantcast Partner, the Partner permits us to collect Log Data (defined above). We associate that information about your site visits or app usage with a unique random identifier (your cookie ID), not with your name, email, address, or phone number. We use this information to help improve the accuracy of our Measure product (discussed above) and to determine what advertisements might be interesting to you.  For example, if you were recently searching for plane tickets to San Francisco, we might predict that you would be interested in purchasing a nice warm sweater, and then show you an ad from one of our Advertising clients that sells sweaters.  (Technically, to be more precise, we would predict that your _identifier_ might belong to a person interested in sweaters, because we don’t know who _you_ are.)
 
 ### Information Sharing and Disclosure
 
@@ -88,7 +88,7 @@ Quantcast may sell, transfer, or otherwise share some or all of its assets, incl
 
 ### Data Combination
 
-We do not link Log Data to any PII we might have about you or otherwise attempt to discover your identity. We employ appropriate organizational and technical security safeguards to keep your Log Data secure and to prevent it from being related to your PII.
+We do not link Log Data to your name, address, email, or phone number, or otherwise attempt to discover your identity. We employ appropriate organizational and technical security safeguards to keep your Log Data secure and to prevent it from being related to your PII.
 
 ### Cross-Platform Associations
 
