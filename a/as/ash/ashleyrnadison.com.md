@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023212id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051216id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
 
-# Ashley Madison® | Privacy Policy | Life is Short. Have an Affair.®
+# Ashley Madison® | Privacy Policy | Life is Short. Have an Affair.® - Official Ashley Madison website
 
 Avid Dating Life Inc. ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 22, 2011.
 
