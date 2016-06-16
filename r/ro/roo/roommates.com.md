@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roommates.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015000413id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roommates.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616221153id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.*
 
 # Roommates.com - Privacy Statement
 
@@ -40,7 +40,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an email to [Customer Service](https://web.archive.org/web/20151015000413id_/http%3A//www.roommates.com/contact.rs). 
+If you have any questions about the security at our website, you can send an email to [Customer Service](https://web.archive.org/web/20160616221153id_/http%3A//www.roommates.com/contact.rs). 
 
 SITE AND SERVICE UPDATES 
 
@@ -48,7 +48,7 @@ We also send the user site and service announcement updates. Members are not abl
 
 CORRECTION / UPDATING PERSONAL INFORMATION
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing [Customer Service](https://web.archive.org/web/20151015000413id_/http%3A//www.roommates.com/contact.rs). 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing [Customer Service](https://web.archive.org/web/20160616221153id_/http%3A//www.roommates.com/contact.rs). 
 
 NOTIFICATION OF CHANGES 
 
