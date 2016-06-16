@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attackofthefanboy.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217151139id_/http%3A//attackofthefanboy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attackofthefanboy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180100id_/http%3A//attackofthefanboy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Attack of the Fanboy
 
@@ -16,5 +16,3 @@ When we display an advertisement on your computer, we do not collect any persona
 Hackers, and Scam Artists are constantly on the lookout for easy prey. The best protection is to use common sense in all of your on-line activities.  Third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail, which is better known as SPAM.  Make sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information.
 
 Ok, that about covers it.  Take Care.
-
-Say Something
