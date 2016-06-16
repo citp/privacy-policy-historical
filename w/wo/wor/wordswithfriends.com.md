@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wordswithfriends.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225071646id_/https%3A//zynga.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordswithfriends.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616062616id_/https%3A//www.zynga.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
-This Privacy Policy will be effective from May 10, 2015. To review a copy the Privacy Policy effective prior to May 10, 2015, [click here](http://company.zynga.com/privacy/policy/01).
+This Privacy Policy will be effective from February 1, 2016. To review a copy the Privacy Policy effective prior to February 1, 2016, [click here](http://company.zynga.com/privacy/policy/01).
 
 Please read Zynga’s Privacy Policy before using Zynga’s services because it will tell you how we collect, store, use and disclose your personal information when providing these services to you. 
 
@@ -50,28 +50,29 @@ back to top
 
 ## Information We Collect and How We Collect It
 
-**Information About You That We Get From Social Networks (like Facebook)**
+**Information About You That We Get From Connected Third-Party Applications, Including Social Networks (like Facebook)**
 
-If you play Zynga’s games or access any of our other Services on a social network like Facebook, Zynga receives certain information about you from the social network automatically. The information we receive depends on the Zynga game you’re playing, the social network, and your privacy settings and your friends’ privacy settings on that social network. 
+If you play Zynga’s games or access any of our other Services on connected third-party applications or connect our Services to any third-party applications, including social networks like Facebook, Zynga may receive certain information about you from the provider of the third-party application. The information we receive depends on the Zynga game you’re playing, the third-party application, your privacy settings and, if applicable, your friends’ privacy settings on that third-party application.
 
-For example, Zynga may collect and store some or all of the following information provided by the social network: 
+For example, Zynga may collect and store some or all of the following information provided by the provider of the connected third-party application:
 
   * your first and last name; 
   * your profile picture or its URL; 
-  * your social network ID number (like your Facebook ID number), which is linked to publicly-available information like your name and profile photo; 
-  * the social network ID numbers and other public data for your friends; 
-  * the login e-mail you provided to that social network when you registered with it; 
+  * your user ID number (like your Facebook ID number), which may be linked to publicly-available information like your name and profile photo; 
+  * the user ID numbers and other public data for your friends; 
+  * the login e-mail you provided to that third-party application when you registered with it; 
   * your physical location and that of the devices you use to access our Services; 
   * your gender; 
   * your birthday and/or age range; 
-  * other publicly-available information on the social network; and/or 
-  * any other information that you or the social networks share with Zynga. 
+  * information about your activities on or through the connected third-party application; 
+  * other publicly-available information on the third-party application; and/or 
+  * any other information that you or the provider of the third-party application share with Zynga. 
 
 
 
-If you access our Services from a social network, you should also read that social network’s Terms of Service and Privacy Policy. 
+If you access our Services from a third-party application or connect our Services to a third-party application, you should also read that third-party application’s Terms of Service and Privacy Policy.
 
-If you are unclear about what information a social network is sharing with us, please go to the social networks where you play our games to find out more about their privacy settings.
+If you are unclear about what information a third-party application is sharing with us, please go to the third-party application to find out more about their privacy practices.
 
 **Cookies and Automated Information Collection**  
 We and service providers acting on our behalf, like Google Analytics, store log files and use tracking technologies such as: 
@@ -178,7 +179,7 @@ You acknowledge and expressly agree that we may access in real-time, record and/
 If you purchase a license to use in-game virtual currency or virtual items in a game you play on Zynga.com, our third party payment processor will collect the billing and financial information it needs to process your charges. This may include your postal address, e-mail address and financial information. Zynga does not collect or store your financial information, like credit card numbers. However, Zynga’s payment processors may share non-financial information with us related to your purchases, like your name, billing address and the items purchased in order to fulfill your order. Zynga may also obtain the billing and payment information that you provide when your purchase is processed by someone else (like Facebook, Apple or Google) such as when you purchase something in a game you play on a social network or that you downloaded on your mobile device. Our [Terms of Service](http://company.zynga.com/legal/terms-of-service) explain our policies and terms relevant to our charges, billing practices, third party credits and virtual currencies. Please note that purchases of third party credits or currencies may also be subject to those parties’ policies.
 
 **Customer Support Correspondence**  
-When you ask for help from our [Customer Support](http://support.zynga.com/) team, we will collect and store the contact information you give them (generally, your name and e-mail address), information about your game play or activity on our Services, and your Zynga player and/or social network ID number. We will also store the communications you have with the Customer Service team and any information in those communications in order to provide support.
+When you ask for help from our [Customer Support](https://zyngasupport.helpshift.com/a/castleville-legends/?l=en) team, we will collect and store the contact information you give them (generally, your name and e-mail address), information about your game play or activity on our Services, and your Zynga player and/or social network ID number. We will also store the communications you have with the Customer Service team and any information in those communications in order to provide support.
 
 **Information You Give Us For Text Messaging Services**  
 We receive and store the information you provide, including your mobile telephone number, when you choose to sign up to receive SMS messages. 
@@ -186,7 +187,7 @@ We receive and store the information you provide, including your mobile telephon
 **Game Toolbars or Game Bars**  
 You may have installed a Zynga-branded toolbar (the "Toolbar") when playing various games. The Toolbar is based on technology provided by Conduit, a third party, whose privacy policy is available [here](http://www.conduit.com/privacy). 
 
-The Toolbar will automatically update on your browser with improvements. The Toolbar itself may collect information like your social network ID. Some Toolbar features may let you provide personal information (for example, Contact form, Tell-a-friend). We may also keep statistics regarding how players use the toolbar on an aggregated basis. For more info on the Toolbar and instructions for uninstalling it go [here](https://support.zynga.com/article/all/Uninstalling-Game-Bar-en_US). 
+The Toolbar will automatically update on your browser with improvements. The Toolbar itself may collect information like your social network ID. Some Toolbar features may let you provide personal information (for example, Contact form, Tell-a-friend). We may also keep statistics regarding how players use the toolbar on an aggregated basis. For more info on the Toolbar and instructions for uninstalling it go [here](https://zyngasupport.helpshift.com/a/zyngagames-com/?s=account-settings&f=how-do-i-uninstall-the-zynga-game-bar). 
 
 **Other Sources**  
 We may collect or receive information about you from other sources like third party information providers. We use this information along with information you provide us directly, for example, to help you and your friends connect or to serve you advertising more tailored to your interests.
@@ -285,10 +286,11 @@ back to top
 
 ## How to Access, Update and Manage Your Information
 
-**Information We Receive From a Social Network Where You Play Our Games or From Your Mobile Device**  
-To manage the information Zynga receives about you from a social network, like Facebook, where you play our games, you will need to follow the instructions at that site for updating your information and changing your privacy settings. The privacy management tools for applications on Facebook can be found [here](https://www.facebook.com/settings/?tab=applications). To review and update information associated with your Zynga game profile in certain games, visit the “settings” page in that game. You also can manage some aspects of information collection and use by visiting the “settings” page of your mobile device and reviewing the permissions of each application or “app.”
+**Information We Receive From a Third-Party Application Where You Play Our Games or From Your Mobile Device**
 
-Once Zynga receives your information from a social network or your mobile device, that information is stored and used by Zynga in accordance with this Privacy Policy. You may access and update that information as described below.
+To manage the information Zynga receives about you from a third-party application where you play our games, like Facebook, you will need to follow the instructions for the third-party application for updating your information and changing your privacy settings. The privacy management tools for applications on Facebook can be found [here](https://www.facebook.com/settings/?tab=applications). To review and update information associated with your Zynga game profile in certain games, visit the “settings” page in that game. You also can manage some aspects of information collection and use by visiting the “settings” page of your mobile device and reviewing the permissions of each application or “app.”
+
+Once Zynga receives your information from a third-party application or your mobile device, that information is stored and used by Zynga in accordance with this Privacy Policy. You may access and update that information as described below.
 
 **Accessing and Updating Your Information Held by Zynga**  
 If you want to review, delete, or change the information Zynga has about you or have additional questions, e-mail us at [privacy@zynga.com](mailto:privacy@zynga.com), or for Black Diamond Slots [support@risingtidegames.com](mailto:support@risingtidegames.com). For requests to review, delete or change the information obtained in connection with NaturalMotion games, email us at [contact@naturalmotion.com](mailto:contact@naturalmotion.com). We will respond to your request within thirty days.
@@ -364,7 +366,7 @@ back to top
 
 **IMPORTANT: When you use Our Services, your data may be sent to the United States and possibly other countries.**
 
-If you don’t live in the United States, Zynga Game Ireland Ltd. and Zynga Luxembourg S.a.r.l. jointly control your personal data through December 31, 2014 and Zynga Game Ireland Ltd. alone will control your personal data from January 1, 2015 onwards.
+If you don’t live in the United States, Zynga Game Ireland Ltd. will control your personal data.
 
 As part of our international operations, we may transfer data to our Affiliates (which means subsidiaries, parent companies, joint ventures and other corporate entities under common ownership with Zynga Inc.) from time to time for our legitimate business purposes. For example, Zynga Inc. provides certain services to its Affiliates.
 
@@ -403,7 +405,7 @@ back to top
 
 ## Contact Us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). All other inquiries should be directed to [Zynga's Support Page](https://support.zynga.com/), for Black Diamond Slots please send an email to [support@risingtidegames.com](mailto:support@risingtidegames.com), or if your inquiry relates to certain Natural Motion games, you may submit an inquiry by clicking on the “Support” link on that game’s page found on NaturalMotion’s website and using the “Submit a Request” form. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). All other inquiries should be directed to [Zynga's Support Page](https://zyngasupport.helpshift.com/a/castleville-legends/?l=en), for Black Diamond Slots please send an email to [support@risingtidegames.com](mailto:support@risingtidegames.com), or if your inquiry relates to certain Natural Motion games, you may submit an inquiry by clicking on the “Support” link on that game’s page found on NaturalMotion’s website and using the “Submit a Request” form. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 When submitting a watchdog complaint, please put [www.zynga.com](http://www.zynga.com/) as the website and note the game and/or feature within the details.  
 The TRUSTe program only covers information that is collected through Zynga websites and applications (games), and does not cover information that may be collected through any software downloaded from Zynga websites.
