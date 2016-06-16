@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206171854id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616212215id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Globat's Privacy Policy
 
@@ -48,7 +48,7 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on April 30, 2015.**
+**This file was last modified on May 29, 2015.**
 
  ****  
 ---|---
