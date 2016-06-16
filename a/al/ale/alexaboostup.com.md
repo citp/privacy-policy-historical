@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the alexaboostup.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227032700id_/http%3A//www.alexaboostup.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexaboostup.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091300id_/http%3A//www.rankboostup.com/privacy-policy) for the most accurate reproduction.*
 
-# Boost your Alexa Rank | AlexaBoostup.com
+# RankBoostup Traffic Exchange | Free Website Traffic
 
-This Privacy Policy governs the manner in which AlexaBoostup.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.alexaboostup.com](http://www.alexaboostup.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by AlexaBoostup.com.
+## RankBoostup Traffic Exchange Privacy Policy
+
+This Privacy Policy governs the manner in which RankBoostup.com collects, uses, maintains and discloses information collected from users
+
+This Privacy Policy governs the manner in which RankBoostup.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://rankboostup.com](http://rankboostup.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by AlexaBoostup.com.
 
 **Personal identification information**
 
@@ -18,7 +22,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-AlexaBoostup.com may collect and use Users personal information for the following purposes:
+RankBoostup.com may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -65,17 +69,16 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-AlexaBoostup.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+RankBoostup.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.alexaboostup.com/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[AlexaBoostup.com](http://www.alexaboostup.com/)  
-[http://www.alexaboostup.com](http://www.alexaboostup.com/)  
-support@alexaboostup.com
-
-This document was last updated on March 31, 2013
+[RankBoostup.com](http://rankboostup.com/)  
+[http://rankboostup.com](http://rankboostup.com/)  
+[support@rankboostup.com](mailto:support@rankboostup.com)   
+This document was last updated on August 3, 2015
