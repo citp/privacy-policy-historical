@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropdead.co privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908112309id_/http%3A//www.dropdead.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropdead.co privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616221942id_/http%3A//www.dropdead.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – DROP DEAD
 
@@ -21,7 +21,7 @@
 
 In order to process credit/debit card transactions, the bank or card processing agency may require to verify your personal details for authorisation outside the EEA (European Economic Area). Your information will not be transferred outside the EEA for any other purpose.
 
-If you have any questions about privacy please contact us by email at **info@dropdead.co** or call 0845 468 2033 us between 10:00 and 16:00 GMT.
+If you have any questions about privacy please contact us by email at **help** **@dropdead.co** or call 0845 468 2033 us between 10:00 and 16:00 GMT.
 
 Drop Dead Clothing Ltd  
 Unit 4a Rutland Way  
