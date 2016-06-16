@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the merrilledge.com privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227153517id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the merrilledge.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616104551id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -34,12 +34,72 @@
 
 
     <link rel="canonical" href="https://www.ml.com/privacy-and-security-center/privacy-and-security.html">
-    <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KFTCR6"></script><script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KFTCR6"></script><script>
+
+	function planBgetCookie(cname) {
+	    var name = cname + '=';
+	    var ca = document.cookie.split(';');
+	    for(var i=0; i<ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0)==' ') c = c.substring(1);
+	        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+	    }
+	    return '';
+	}
+
+	function planBsetCookie(cname, cvalue, exdays) {
+	    var d = new Date();
+	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	    var expires = 'expires='+d.toUTCString();
+	    document.cookie = cname + '=' + cvalue + '; ' + expires;
+	}
+
+	function planBsetQueryString(exp){
+		var search = window.location.search;
+		var hash = window.location.hash;
+		var experience = 'experience='+exp;
+		var newString = hash == '' ? search+'#'+experience : hash.indexOf('experience='+exp) > 0 ? search + hash : search+hash+'&'+experience;
+		window.history.replaceState(null,null,newString);
+	}
+
+	function planBsetExperience() {
+		var n = planBgetRandomNumber();
+		if(n <= 50){
+			return 'static';
+		}else{
+			return 'slider';
+		}
+	}
+
+	function planBgetRandomNumber() {
+		return Math.floor((Math.random() * 100) + 1);
+	}
+
+	(function checkCookie() {
+		setTimeout(function() {
+		    var exp = planBgetCookie('ios_experience');
+		    console.log('cookie: '+exp);
+		    // cookie not set
+		    if (exp === '' || exp === null || exp === 'undefined' || exp === undefined) {
+		    	console.log('exp is undefined');
+		    	exp = planBsetExperience();
+		    	planBsetQueryString(exp);
+		    	planBsetCookie('ios_experience', exp, 365);
+		    }else{
+		    	// append experience
+		    	planBsetQueryString(exp);
+		    }
+		}, 1000);
+	})();
+
+</script>
+    <script>
     var APP = window.APP = window.APP || {};
     APP.isEdit = false;
     APP.isDesign = false;
     APP.sliderSettings = {};
-    APP.interstitialWhitelist = 'bankofamerica.com,cybergrants.com,bankofamericastore.com,www.bettermoneyhabits.com,media.corporate-ir.net,www.chicagomarathon.com,.ml.com,www.ustrust.com,shamrockshuffle.com,www.merrilledge.com,mymerrill.com'.split(',');
+    APP.faBioUrlParam = null;
+    APP.interstitialWhitelist = 'bankofamerica.com,cybergrants.com,bankofamericastore.com,www.bettermoneyhabits.com,media.corporate-ir.net,www.chicagomarathon.com,.ml.com,www.ustrust.com,shamrockshuffle.com,www.merrilledge.com,mymerrill.com,merrilledge.com,maps.google.com,bofaml.com,baml.com'.split(',');
     APP.loginPartnerId = '0A612B23FE02400791EE7ED0A397CC7D';
     APP.loginWidgetDomain = 'olui2.fs.ml.com';
     APP.loginWidgetJs = '/publish/mlwm/EdgeLoginWidget/OnlineLoginFrame_min_092015.js';
@@ -47,7 +107,7 @@
 
     </script>
     <!-- client libs -->
-    <link rel="stylesheet" href="//static-ml.akamai-cdn.com/etc/designs/ml/styles/all.min.0a1b10f83457c64939dc3a9a8f8cf150.css" type="text/css">
+    <link rel="stylesheet" href="//www.ml.bac-assets.com/etc/designs/ml/styles/all.min.e2277bdd6434e544b0da119bacf71068.css" type="text/css">
 
     
     <!-- css for IE8 and below removes media queries -->
@@ -55,8 +115,10 @@
     <link rel="stylesheet" href="/etc/designs/ml/styles/legacy.css" />
     <![endif]-->
     
-    <script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/designs/ml/scripts/vendor/modernizr.min.d689a0adf80921af448e0db8bca7ed36.js"></script>
-<script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/clientlibs/granite/jquery.min.8449879e68d64f217e527ab5387bf65e.js"></script>
+    <script type="text/javascript" src="//www.ml.bac-assets.com/etc/designs/ml/scripts/vendor/modernizr.min.d689a0adf80921af448e0db8bca7ed36.js"></script>
+<script type="text/javascript" src="//www.ml.bac-assets.com/etc/clientlibs/granite/jquery.min.8449879e68d64f217e527ab5387bf65e.js"></script>
+
+    <script type="text/javascript" src="//www.ml.bac-assets.com/etc/designs/ml/scripts/utility.min.7d93758bb52861ab466b7334483c98f8.js"></script>
 
     <script type="text/javascript">
         if ( !window.CQ_Analytics ) {
@@ -67,9 +129,9 @@
         }
         CQ_Analytics.TestTarget.clientCode = 'bankofamerica';
     </script>
-    <link rel="stylesheet" href="//static-ml.akamai-cdn.com/etc/clientlibs/foundation/testandtarget/testandtarget.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
-<script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/clientlibs/foundation/testandtarget/testandtarget.min.f47f25072b6a5859e5df54a424741f4e.js"></script>
-<script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/clientlibs/foundation/testandtarget/init.min.39d4e72a0860bf570742093e197a1609.js"></script>
+    <link rel="stylesheet" href="//www.ml.bac-assets.com/etc/clientlibs/foundation/testandtarget/testandtarget.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<script type="text/javascript" src="//www.ml.bac-assets.com/etc/clientlibs/foundation/testandtarget/testandtarget.min.f47f25072b6a5859e5df54a424741f4e.js"></script>
+<script type="text/javascript" src="//www.ml.bac-assets.com/etc/clientlibs/foundation/testandtarget/init.min.39d4e72a0860bf570742093e197a1609.js"></script>
 
                     
 
@@ -85,7 +147,7 @@
 
 
 
-    <link rel="shortcut icon" href="//static-ml.akamai-cdn.com/etc/designs/ml/images/favicon.ico">
+    <link rel="shortcut icon" href="//www.ml.bac-assets.com/etc/designs/ml/images/favicon.ico">
 </head>
 
 
@@ -93,10 +155,12 @@
 
 <body class="default watermark">
 
-    <!-- 1.4.2 -->
+    <!-- 1.7.2 -->
     <a id="skip-to-content" href="#skip-to-content">Skip To Content</a>
-    <div class="parbase clientcontext"><link rel="stylesheet" href="//static-ml.akamai-cdn.com/etc/designs/ml/styles/personalization.min.689f5668047e4d1d79bb232b2f84d378.css" type="text/css">
-<script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/designs/ml/scripts/personalization.min.484ab3cc64d9348ac47b2670bd7a9753.js"></script>
+    <div class="parbase clientcontext"><link rel="stylesheet" href="//www.ml.bac-assets.com/etc/designs/ml/styles/personalization.min.689f5668047e4d1d79bb232b2f84d378.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/me/styles/personalization.min.689f5668047e4d1d79bb232b2f84d378.css" type="text/css">
+<script type="text/javascript" src="//www.ml.bac-assets.com/etc/designs/ml/scripts/personalization.min.194002509f3990986f874dca1926f842.js"></script>
+<script type="text/javascript" src="/etc/designs/me/scripts/personalization.min.194002509f3990986f874dca1926f842.js"></script>
 <script type="text/javascript">
     $CQ(function() {
         CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
@@ -104,14 +168,17 @@
 
         
     });
-</script>
+</script> 
 </div>
 
     
 
 
+    
+    
+        <div class="wrapper">
+    
 
-<div class="wrapper">
     
 <div class="masthead">
 <div id="masthead" class="cf">
@@ -120,7 +187,7 @@
 		
 		    
 		    
-		<div class="logo logo--navless icon-bull icon-before"></div>
+		<div class="logo icon-bull icon-before"></div>
 		    
 		
         </a>
@@ -531,7 +598,8 @@
         </li>
     </ul>
     <a tabindex="-1" title="Merrill Lynch Logo" href="/" class="home-link"></a>
-</div></div>
+</div>
+</div>
 
     <div class="utilitynavigation">
 <div class="nav">
@@ -585,7 +653,7 @@
 </tr></tbody></table>
 
 <p><b><br>
-Privacy&nbsp;Notice for U.S. Consumer Customers</b></p>
+U.S. Consumer Privacy&nbsp;Notice</b></p>
 
 <p>The Bank of America&nbsp;U.S. Consumer Privacy Notice explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it.</p>
 
@@ -595,10 +663,10 @@ Privacy&nbsp;Notice for U.S. Consumer Customers</b></p>
 </tr></tbody></table>
 
 <p><b><br>
-Privacy&nbsp;Notice for Non-U.S. Consumer Customers</b></p>
+Privacy Notice for Clients of Non-U.S. Bank of America Companies</b></p>
 
 
-<p>The&nbsp;Bank of America Corporation Privacy&nbsp;Notice for Non-U.S. Consumers explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it. View a listing of our <a href="/privacy-and-security-center/non-us-consumer-customers.html">affiliate companies</a> that may receive or share customer information.</p>
+<p>The&nbsp;Bank of America Privacy&nbsp;Notice for Clients of Non-U.S. Bank of America Companies explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it. View a listing of our <a href="/privacy-and-security-center/non-us-consumer-customers.html">affiliate companies</a> that may receive or share customer information.</p>
 
 <table border="0" cellpadding="0" cellspacing="2" width="100%">
 <tbody><tr><td valign="top"><img src="/content/dam/ML/Articles/images/pdf.gif">&nbsp;<a href="/content/dam/ML/privacy-and-security/ML_US-Consumer-Privacy-Notice-English.pdf" target="_blank">English<span class="hidden">Link opens a PDF file</span></a></td>
@@ -920,7 +988,7 @@ We or our advertising service providers may use certain information about your a
 <h3><span class="border--bottom">Related information:</span></h3>
 
 <ul>
-<li><a href="/anti-money-laundering.html" target="_blank">Anti-Money-Laundering</a></li>
+<li><a href="http://investor.bankofamerica.com/phoenix.zhtml?c=71595&amp;p=irol-antimoneylaundering" target="_blank">Anti-Money-Laundering</a></li>
 <li><a href="/privacy-and-security-center/business-continuity-planning.html">Business Continuity Statement</a></li>
 <li><a href="/content/dam/ML/privacy-and-security/Social%20Security%20Number%20Policy.pdf">Social Security Number Policy</a></li>
 </ul>
@@ -997,7 +1065,8 @@ We or our advertising service providers may use certain information about your a
     <div class="blue-bar cf">
         <div class="footer-links">
             <div class="footerlinkspar parsys iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="footerlinkspar parsys iparsys"><div class="parbase list section">
+</div><div class="iparys_inherited"><div class="footerlinkspar parsys iparsys"><div class="parbase section text-broker">
+<div><div class="list section">
 
 <ol id="footernav" class="default "><li class="first">
     <p>
@@ -1011,11 +1080,17 @@ We or our advertising service providers may use certain information about your a
     <p>
         <a href="/legal.html" title="Legal Information" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/ml/en/legal' }, collect:  false, options: { obj: this }, componentPath: 'ml/components/content/utils/list'})">Legal Information<span class="arrow"></span></a>
     </p>
-</li><li class="last">
+</li><li class="item">
     <p>
         <a href="/mlpfs-financial-information.html" title="MLPF&amp;S Financial" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/ml/en/mlpfs-financial-information' }, collect:  false, options: { obj: this }, componentPath: 'ml/components/content/utils/list'})">MLPF&amp;S Financial<span class="arrow"></span></a>
     </p>
+</li>
+<li class="last">
+    <p>
+        <a href="http://brokercheck.finra.org/" class="interstitial" title="Broker Check" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: 'http://brokercheck.finra.org/' }, collect:  false, options: { obj: this }, componentPath: ''})">BrokerCheck<span class="arrow"></span></a>
+    </p>
 </li></ol>
+</div></div>
 </div>
 
 </div>
@@ -1113,9 +1188,9 @@ We or our advertising service providers may use certain information about your a
         var _apiToken = 't-uFQu_hTU68gV51MAKJRq0wmhs_sStfk6K6FPU14M0.';
         var _playerKey = 'AQ~~,AAAAAGp_KJU~,ro5jtaeQ_NOo-rUSUsBSttYG5orBBzoJ';
     </script>
-    <script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/designs/ml/scripts/all.min.235cd45958a73d12cadd85db5ac40d0f.js"></script>
+    <script type="text/javascript" src="//www.ml.bac-assets.com/etc/designs/ml/scripts/all.min.efe98c1ebcbe82d30d05040a4edc14df.js"></script>
 
-    <script type="text/javascript" src="//static-ml.akamai-cdn.com/etc/designs/ml/scripts/enterprise.js"></script>
+    <script type="text/javascript" src="//www.ml.bac-assets.com/etc/designs/ml/scripts/enterprise.js"></script>
     
 </div>
     <div class="parsys iparsys hiddenContent"><div class="section"><div class="new"></div>
@@ -1129,10 +1204,7 @@ We or our advertising service providers may use certain information about your a
 
 <p>By clicking continue, you will be taken to a website that is not affiliated with Merrill Lynch and may offer a different privacy policy and level of security. Merrill Lynch is not responsible for and does not endorse, guarantee or monitor content, availability, viewpoints, products or services that are offered or expressed on other websites.</p>
 
-<p>You can click the "Return to Merrill Lynch button now to return to the previous page, or you can close the new window after you leave.</p>
-
-
-</div>
+<p>You can click the "Return to Merrill Lynch" button now to return to the previous page, or you can close the new window after you leave.</p></div>
 </div>
 <div class="ctabutton section">
 
@@ -1281,28 +1353,9 @@ We or our advertising service providers may use certain information about your a
 
 
 
-<script type="text/javascript">
-    _bizo_data_partner_id = "1769";
-</script>
-<script type="text/javascript">
-(function() {
-    var s = document.getElementsByTagName("script")[0];
-    var b = document.createElement("script");
-    b.type = "text/javascript";
-    b.async = true;
-    b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
-    s.parentNode.insertBefore(b, s);
-})();
-</script>
-<noscript>
-    <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=1769&fmt=gif"/>
-</noscript>
 
 
-
-
-
-
+ 
     
 
 <!-- start number replacer -->
