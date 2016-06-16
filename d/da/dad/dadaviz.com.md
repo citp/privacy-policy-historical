@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dadaviz.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210081608id_/http%3A//dadaviz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dadaviz.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616023802id_/http%3A//dadaviz.com/pages/privacy) for the most accurate reproduction.*
 
 # None
 
