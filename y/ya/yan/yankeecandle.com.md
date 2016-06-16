@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212043113id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616221058id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security | Yankee Candle
+
+By continuing to use our site you agree to us using cookies in accordance with our COOKIE POLICY ACCEPT & CLOSE
 
 [](https://web.archive.org/customer-service/shipping-information)
 
 [](https://web.archive.org/ "Yankee Candle")
 
   * [Shop By Fragrance](https://web.archive.org/includes/browse/shopByFragrance.jsp "Shop By Fragrance")
-  * [Large Jar Candles](https://web.archive.org/browse/candles/jar-candles/large-jar-candles/_/N-8ce "Large Jar Candles")
-  * [NEW Arrivals](https://web.archive.org/browse/new-arrivals/_/N-8hj "NEW Arrivals")
-  * [Online Exclusives](https://web.archive.org/browse/online-exclusives/_/N-8ex "Online Exclusives")
+  * [Shop by Color](https://web.archive.org/browse/candles/shop-by-color/_/N-9z3 "Shop by Color")
+  * [Large Candles](https://web.archive.org/browse/large-candles/_/N-9zn "Large Candles")
+  * [New](https://web.archive.org/browse/new-arrivals/_/N-a0g "New")
   * [Personalized Photo Candles](https://web.archive.org/customer-service/customized-candles "Personalized Photo Candles")
-  * [Sale Scenter](https://web.archive.org/browse/sale-scenter/_/N-8i0 "Sale Scenter")
+  * [Get the Look](https://web.archive.org/browse/get-the-look-home-dcor/_/N-a2m "Get the Look")
 
 
 
