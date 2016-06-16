@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the hentaidream.tv privacy policy that was archived on 2015-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150719211420id_/http%3A//hentaidream.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaidream.tv privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616092551id_/http%3A//hentaidream.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HentaiDream
+
+* Issue: *  
+
+* Your Name: *   
+
+* Your Email: *   
+
+
+* Details: *   
+
 
 **What information do we collect?**  
 We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
