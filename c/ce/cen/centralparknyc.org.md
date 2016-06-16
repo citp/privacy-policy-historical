@@ -1,113 +1,102 @@
-> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929145930id_/http%3A//www.centralparknyc.org/about/about-cpc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171306id_/http%3A//www.centralparknyc.org/about/about-cpc/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Official Website of Central Park NYC
 
 * * *
 
-The Central Park Conservancy, Inc. (CPC) cares about the privacy of our members, online users, donors, and visitors. CPC operates this Web site in accordance with the following privacy policy. By using CPC's Web site or communicating with CPC by e-mail, you consent to the terms of this privacy policy.
+The Central Park Conservancy, Inc. (CPC) is committed to the privacy of our online and offline supporters, including members, online users, donors, retail consumers, event attendees and visitors. CPC operates in accordance with the following privacy policy. By providing CPC with your information online or offline, you consent to the terms of this privacy policy. 
 
 **Data Collection**
 
-**When You Register Online with CPC**
+**When You Register Online with CPC**   
+When you register with CPC online, you will be asked to provide personally identifiable information including an e-mail address, your name, zip code, username and password. You may also provide us with your telephone number and postal address. However, this information is not required. 
 
-When you register with CPC online, you will be asked to provide personally identifiable information including a user name, password, your name, zip code, and e-mail address. You may also provide us with your telephone number and postal address. However, this information is not required.
+As a registered user, you may review, correct, update, or change your profile, including personally identifiable information, at any time by clicking on the 'login' button located at the top of CPC's website and following the guided instructions, e-mailing us at [membership@centralparknyc.org](mailto:membership@centralparknyc.org) or calling 212-310-6600. 
 
-As a registered user, you may review, correct, update, or change your profile, including personally identifiable information, at any time by clicking on the 'login' button located at the top of CPC's Web site and following the guided instructions, e-mailing us at [membership@centralparknyc.org](mailto:membership@centralparknyc.org) or calling 212-310-6600.
+Please note that it is not necessary to register or submit any personally identifiable information in order to access CPC's website. 
 
-Please note that it is not necessary to register or submit any personally identifiable information in order to use CPC's Web site.
+**When You Shop Online at the Central Park Store**   
+CPC will ask you to provide personally identifiable information necessary to fulfill your order request. This may include your name, billing and shipping postal addresses, telephone number, e-mail address, and credit card number. Once you complete your purchase order online, you will receive a confirmation e-mail from CPC. Your credit card information will be temporarily stored on a secured server only for as long as necessary to process your payment. 
 
-**When You Shop Online at the Central Park Store**
+**When You Shop at the Dairy Visitor Center and Gift Shop**   
+The CPC will ask you to provide personally identifiable information necessary to fulfill your order request. This may include your name, billing and shipping postal addresses, telephone number, e-mail address, and credit card number. 
 
-CPC will ask you to provide personally identifiable information necessary to fulfill your order request. This may include your name, billing and shipping postal addresses, telephone number, e-mail address, and credit card number. Once you complete your purchase order online, you will receive a confirmation e-mail from CPC. Your credit card information will be temporarily stored on a secured server only for as long as necessary to process your payment.
+**When You Make a Donation or Purchase a Membership or Event Ticket/Table Online or Offline**   
+When making a donation and or purchasing a membership, you will be asked to provide personally identifiable information necessary to process and service your request. This may include your name, billing and shipping postal addresses, membership number, telephone number, e-mail address, and credit card number. Your credit card information will be temporarily stored on a secured server only for as long as necessary to process your payment. 
 
-**When You Shop at the Dairy Visitor Center and Gift Shop**
+**When You Send CPC an E-mail**   
+CPC is pleased to receive e-mails from you. Should you choose to send an e-mail to CPC, your message and e-mail address will be forwarded to the appropriate department within CPC and we will save your e-mail as part of our permanent records. Please be aware that any message, material, ideas, concepts, or other information sent to CPC by e-mail will be treated as non-confidential and non-proprietary.
 
-The CPC will ask you to provide personally identifiable information necessary to fulfill your order request. This may include your name, billing and shipping postal addresses, telephone number, e-mail address, and credit card number.
-
-**When You Make a Donation or Purchase a Membership or Event Ticket/Table**
-
-When making a donation and or purchasing a membership, you will be asked to provide personally identifiable information necessary to process and service your request. This may include your name, billing and shipping postal addresses, membership number, telephone number, e-mail address, and credit card number. Your credit card information will be temporarily stored on a secured server only for as long as necessary to process your payment.
-
-**When You Send CPC an E-mail**  CPC is pleased to receive e-mails from you. Should you choose to send an e-mail to CPC, your message and e-mail address will be forwarded to the appropriate department within CPC and we will save your e-mail as part of our permanent records. Please be aware that any message, material, ideas, concepts, or other information sent to CPC by e-mail will be treated as non-confidential and non-proprietary.
-
-**When You Sign Up for a Volunteer Activity**
-
-When you register to be a volunteer by sending an email to CPC's volunteer department, we will request your phone number in order to contact you for a phone interview. Should you participate further in the volunteer recruitment process, CPC will request that you appear in person for an additional interview and you will be required to complete an application, including your name, postal address, telephone number, e-mail address, and photo ID.
+**When You Sign Up for a Volunteer Activity**   
+When you register to be a CPC volunteer, we will request your phone number in order to contact you for a phone interview. Should you participate further in the volunteer recruitment process, CPC will request that you appear in person for an additional interview and you will be required to complete an application, including your name, postal address, telephone number, e-mail address, and photo ID. 
 
 **Use of Information**
 
-**Internal Use**
+**Internal Use**   
+We will use your personally identifiable information in order to respond to your request, process your contribution or fulfill your online order. Your credit card information will be temporarily stored on a secured server only for as long as necessary to process your payment. 
 
-We will use your personally identifiable information in order to respond to your request, process your contribution or fulfill your online order. Your credit card information will be temporarily stored on a secured server only for as long as necessary to process your payment.
+We may use your information to inform you of events, send you CPC newsletters, request monetary contributions and send you promotions and updates about the Park. Out of respect for your privacy, e-mail recipients may opt out of receiving e-mails by following the unsubscribe instructions included in the e-mail message, changing your user profile, e-mailing [membership@centralparknyc.org](mailto:membership@centralparknyc.org), or calling 212-310-6600. 
 
-We may use your information to inform you of events, send you CPC newsletters, request monetary contributions and send you promotions and updates about the Park. E-mail recipients may opt out of receiving e-mails by following the unsubscribe instructions included in the e-mail message, changing your user profile, e-mailing [membership@centralparknyc.org](mailto:membership@centralparknyc.org), or calling 212-310-6600.
+From time to time, CPC will provide you with the opportunity to participate in surveys. Unless we inform you otherwise, your voluntary participation in these surveys is completely anonymous. We use the information gathered from the surveys to improve the experience of visitors to Central Park and CPC’s website. 
 
-From time to time, CPC will send out surveys. Unless we inform you otherwise, your voluntary participation in these surveys is completely anonymous. We use the information gathered from the surveys to better understand our users, donors, members and friends and determine how best to serve them.
+CPC may combine the information you provide us online with other personally identifiable information, such as geographical information and purchase history, in order to better serve our visitors. 
 
-CPC may combine the information you provide us online with other personally identifiable information, such as geographical information and purchase history, in order to better serve our visitors.
-
-CPC Web site automatically collects some anonymous "non-personally identifiable" aggregate information, which may include visitors' browsers (e.g., Internet Explorer or Firefox), operating systems (e.g., Windows or Macintosh), Internet Service Providers, and other similar information. The information collected is used for statistical purposes to monitor how CPC's online visitors navigate our site, allowing us to tailor our Web site to better accommodate our visitors.
+CPC’S website automatically collects some anonymous "non-personally identifiable" aggregate information, which may include visitors' browsers (e.g., Internet Explorer or Firefox), operating systems (e.g., Windows or Macintosh), Internet Service Providers, and other similar information. The information collected is used for statistical purposes to monitor how CPC's online visitors navigate our website, allowing us to tailor our website to better accommodate our visitors. 
 
 **External Use**
 
-**Third Party Vendors**
+**Third Party Vendors**   
+CPC may engage third-party vendors in order to help us better service our visitors and customers. CPC requires its vendors by contract to maintain the confidentiality and security of CPC information to which they are provided access and restricts the vendors from using the information in any way not expressly authorized by CPC. In cases when users leave CPC’s website to visit one of its vendors websites, users are encouraged to become familiar with the privacy statement of each website they visit. 
 
-CPC may engage third-party vendors in order to help us better service our visitors and customers. CPC requires its vendors by contract to maintain the confidentiality and security of CPC information to which they are provided access and restricts the vendors from using the information in any way not expressly authorized by CPC.
+**Sharing CPC's List of Supporters**   
+CPC may, on occasion, share the name and the address of online and offline inactive members and supporters with other like-minded organizations. Exchanging our list with other reputable charitable organizations is the most cost effective way to find new supporters. As part of CPC's exchange policy, other organizations will have access to a shared list for a limited time and will not have continued access to CPC's list unless an individual voluntarily chooses to respond to their initial mailing. If you prefer not to have your name and address shared in this way, you may request to have your information removed from a shared list at any time by contacting [website@centralparknyc.org](mailto:website@centralparknyc.org), or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions located on solicitation materials. CPC will not intentionally disclose any personal information about you (such as your name, street address, telephone number, credit card number, or e-mail address) to any third party if you elect to opt out. 
 
-**Sharing CPC's List of Supporters**
+Please note: CPC does not rent or sell donor lists. CPC never shares the information we receive from customers making online purchases from the Central Park Store. 
 
-CPC may, on occasion, share the name and the address of inactive members and supporters with other like-minded organizations. Exchanging our list with other reputable charitable organizations is the most cost effective way to find new supporters. As part of CPC's exchange policy, other organizations will have access to a shared list for a limited time and will not have continued access to CPC's list unless an individual voluntarily chooses to respond to their initial mailing. If you prefer not to have your name and address shared in this way, you may request to have your information removed from a shared list at any time by contacting [website@centralparknyc.org](mailto:website@centralparknyc.org), or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions located on solicitation materials.
+**Links to Other Websites**
 
-Please note: CPC does not rent or sell donor lists. Active members/donors are always deleted from all shared lists. CPC never shares the information we receive from customers making online purchases from the Central Park Store.
-
-**Marketing**
-
-We have relationships with companies that conduct charitable sales promotions and commercial co-ventures that support us in our mission and activities. If you provide us with your mailing address and or e-mail address, you may receive promotional mailings regarding these co ventures. Your choice to participate in these special promotions will benefit us. You are under no obligation to respond and you may opt-out of receiving promotional mailings and e-mails at any time by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), changing your user profile online, or calling 212-310-6600. E-mail recipients will also have regular opportunities to opt-out by following the unsubscribe instructions included in the e-mail message.
+Users may find content on CPC’s website that links to the websites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects, or are established with persons or entities that have a significant connection to or relationship with our website. Although every effort is made to ensure that website referrals are to reputable and relevant sources, CPC does not control the content or links that appear on these websites. In addition, these websites or services, including their content and links, may change. These websites and services may have their own privacy policies and customer service policies, or no policy at all. CPC maintains a policy against the non-consensual collection or sharing of personal information and encourages visitors to review the privacy policies of any websites they visit to ensure their personal information is being protected. 
 
 **Your Options**
 
-We recognize that you may wish to limit the ways in which we contact you and use your information. CPC offers the following options:
+We recognize that you may wish to limit the ways in which we contact you and use your information. CPC offers the following options: 
 
-**Opt out of receiving e-mails**    
-If you are a registered user, you may review, correct, update, or change your profile including personally identifiable information at any time by clicking on the 'login' button located at the top of CPC's Web site and following the guided instructions. In addition, you may opt-out by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), calling 212-310-6600 or following the unsubscribe instructions included in the e-mail message.
+**Opt out of receiving e-mails**   
+If you are a registered user, you may review, correct, update, or change your profile including personally identifiable information at any time by clicking on the 'login' button located at the top of CPC's website and following the guided instructions. In addition, you may opt-out by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), calling 212-310-6600 or following the unsubscribe instructions included in the e-mail message. 
 
-**Opt out of receiving telephone calls or postal mailings from CPC**    
-You may contact us at anytime by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), or calling 212-310-6600 and letting us know that you would not like to be contacted by telephone or mail.
+**Opt out of receiving telephone calls or postal mailings from CPC**   
+You may contact us at anytime by e-mailing [website@centralparknyc.org](mailto:website@centralparknyc.org), or calling 212-310-6600 and letting us know that you would not like to be contacted by telephone or mail. 
 
-**Opt out of having your name and postal address shared with other organizations**    
-You may request to have your information removed from a shared list at any time by contacting [membership@centralparknyc.org](mailto:membership@centralparknyc.org) , or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions listed on CPC's solicitation materials.
+**Opt out of having your name and postal address shared with other organizations**   
+You may request to have your information removed from a shared list at any time by contacting [membership@centralparknyc.org](mailto:membership@centralparknyc.org) , or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions listed on CPC's solicitation materials. 
 
-**Data Security**    
-CPC receives your personal and credit card information using secure socket layering (SSL) technology which prevents disclosure of your information to third parties. SSL is the standard for most browsers and servers and encrypts all of your personal information, including credit card number, name and address so that it cannot be read as the information travels over the Internet.  To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and administrative procedures to safeguard and secure the information we collect online.
+**Data Security**   
+CPC processes credit card information using secure socket layering (SSL) encryption technology, which protects against interception of your information by third parties. SSL is the standard for most browsers and servers and encrypts all of your personal information, including credit card number, name and address so that it cannot be read as the information travels over the Internet. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and administrative procedures to safeguard and secure the information we collect online. 
 
 **Children**
 
-CPC does not knowingly collect personal data from children under the age of 13. If you are under the age of 13, please do not submit any personal data to CPC. CPC encourages parents and legal guardians to monitor their children’s internet usage and help enforce this privacy policy by instructing children to never provide personal data to CPC without their permission. In the event CPC learns they have inadvertently  gathered personal information from children under the age of 13, CPC will take reasonable measures to promptly erase such information from CPC records.
+CPC takes special care to protect the safety and privacy of children, and does not knowingly collect personal data from children under the age of 13. If you are under the age of 13, please do not submit any personal data to CPC. CPC encourages parents and legal guardians to monitor their children’s internet usage and help enforce this privacy policy by instructing children to never provide personal data to CPC without their permission. In the event CPC learns they have inadvertently gathered personal information from children under the age of 13, CPC will take reasonable measures to promptly erase such information from CPC records. 
 
 **Cookies**
 
-The CPC Web site uses cookies (small files that store information on your computer's web browser) to enhance user experience on the site. Cookies are used to perform certain functions such as saving passwords, personal interests and preferences; delivering content specific to these interests and preferences; and tracking activity on the website. You may set your browser to notify you when you receive a cookie and delete any cookies you receive.
-
-**Links to Other Sites**
-
-CPC is not responsible for the privacy practices or the content of any other Web sites to which it provides links.
+The CPC website uses cookies (small files that store information on your computer's web browser) to enhance user experience on the website. Cookies are used to perform certain functions such as saving passwords, personal interests and preferences; delivering content specific to these interests and preferences; and analyzing website activity and user behavior on the website. You may set your browser to notify you when you receive a cookie and delete any cookies you receive. 
 
 **Changes to Privacy Policy**
 
-CPC reserves the right to modify our policy as needed. A revised policy will apply only to information collected after the date that the new policy is posted.
+CPC reserves the right to modify our policy as needed. A revised policy will apply only to information collected after the date that the new policy is posted. 
 
 **California Privacy Rights**
 
-Under California Civil Code Section 1798.83, if you are a California resident and your relationship with CPC is primarily for personal, family, or household purposes, you may request certain data regarding CPC’s disclosure, if any, of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message to [website@centralparknyc.org](mailto:website@centralparknyc.org) with “Request for California Privacy Information” in the subject line.
+Under California Civil Code Section 1798.83, if you are a California resident and your relationship with CPC is primarily for personal, family, or household purposes, you may request certain data regarding CPC’s disclosure, if any, of your personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message to [website@centralparknyc.org](mailto:website@centralparknyc.org) with "Request for California Privacy Information" in the subject line. 
 
 **Contact Information**
 
-If you have any questions or comments about this privacy policy, please contact:
+If you have any questions or comments about this privacy policy, please contact: 
 
-**Central Park Conservancy**    
-14 East 60th Street  
-New York, New York 10022  
-E-mail: [website@centralparknyc.org ](mailto:website@centralparknyc.org)  
+**Central Park Conservancy**   
+14 East 60th Street   
+New York, New York 10022   
+E-mail: [website@centralparknyc.org](mailto:website@centralparknyc.org)   
 Telephone: 212-310-6600
 
-Last updated April 10, 2013
+Last updated October 16, 2015 
