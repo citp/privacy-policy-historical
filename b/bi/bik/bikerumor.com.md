@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikerumor.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020648id_/http%3A//www.bikerumor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikerumor.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163739id_/http%3A//www.bikerumor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Bikerumor
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. This privacy policy is applicable to www.bikerumor.com, triathlonrumor.com, bikerumortechshop.com and any other website owned or operated by BikeBoardMedia, Inc. (hereafter BBM).
 
