@@ -1,34 +1,33 @@
-> *The following text is extracted and transformed from the intellicontact.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195153id_/http%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicontact.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070300id_/https%3A//www.icontact.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - iContact
+# Privacy Policy | iContact
 
-**Effective Date: May 1, 2015**
+**Effective Date: June  1, 2016**
 
-This “Privacy Policy” is incorporated by reference in iContact LLC’s End User Service Agreement (“EUSA”) and its Terms of Use, posted at [www.icontact.com](https://www.icontact.com/ "Email Marketing Software - iContact"). We have created this Privacy Policy to reflect our firm commitment to your privacy and the protection of your personal data. This Privacy Policy applies to information that we collect and maintain about you when you visit [www.icontact.com](https://www.icontact.com/ "Email Marketing Software - iContact") (“Site”) and when you use our services, as well as information collected from other sources, such as information you provide at tradeshows or seminars or to our business partners.
+This “Privacy Policy” is incorporated by reference in iContact LLC’s End User Service Agreement (“EUSA”) and its Terms of Use, posted at [www.icontact.com](https://www.icontact.com/ "iContact"). We have created this Privacy Policy to reflect our firm commitment to your privacy and the protection of your personal data. This Privacy Policy applies to information that we collect and maintain about you when you visit [www.icontact.com](https://www.icontact.com/ "iContact"). (“Site”) and when you use our services, as well as information collected from other sources, such as information you provide at tradeshows or seminars or to our business partners. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
 #### What Type of Data Do We Collect?
 
 Generally, we collect or maintain the following categories of data:
 
   *  **Customer Registration Data** : when a customer, whether an individual or an entity, activates our services, creates an account at the Site or registers at an event we collect account information from that customer, which we refer to in this Policy as “Customer Registration Data.” The Customer Registration Data we collect includes individual or contact name, company name, e-mail address, phone number and other contact information, as well as information about services requested and payment information, such as credit card number, expiration date and billing address. We also assign customers a unique username and password to access their account information through the Site;
-  *  **Customer Message Recipient Data** : we also maintain data that has been provided to us or uploaded to the Site by our customers, which we refer to in this Policy as “Customer Message Recipient Data.” Typically, Customer Message Recipient Data relates to individuals or entities who have opted in to receive email messages or other types of communications from our customers, and may include name, e-mail address, contact information, and other information. Under our [Anti-Spam Policy](https://web.archive.org/legal/anti-spam-policy "Anti-Spam"), customers must obtain a recipient’s consent prior to sending the recipient an e-mail through our service. For more information, please see the section below entitled “Why Do You Receive Marketing Communications.” We only use Customer Message Recipient Data on behalf of and under the instructions of our Customers. We do not use Customer Message Recipient Data for our own marketing purposes;
-  *  **Site Data** : we use cookies, web beacons, and other automated devices to automatically collect information about visitors to our Site and users of our services, which we refer to in this Policy as “Site Data.” The Site Data we collect includes browser type, operating system and IP address, as well as information of the web pages viewed and links clicked by visitors and/or customers. We may combine Site Data with other data we have collected from users, such as Customer Registration Data; and
-  *  **Other Data** : We may also collect information about customers or potential customers from our affiliates, from third parties, such as business partners, from our social media pages, during promotional events or from users who submit their information to iContact in order to subscribe to our mailing lists or receive information about iContact products and services.
+  *  **Customer Message Recipient Data** : we also maintain data that has been provided to us or uploaded to the Site by our customers, which we refer to in this Policy as “Customer Message Recipient Data.” Typically, Customer Message Recipient Data relates to individuals or entities who have opted in to receive email messages or other types of communications from our customers, and may include name, e-mail address, contact information, and other information. Under our [Anti-Spam Policy](https://www.icontact.com/legal/anti-spam-policy), customers must obtain a recipient’s consent prior to sending the recipient an e-mail through our service. For more information, please see the section below entitled “Why Do You Receive Marketing Communications.” We only use Customer Message Recipient Data on behalf of and under the instructions of our Customers. We do not use Customer Message Recipient Data for our own marketing purposes;
+  *  **Site Data** : we use cookies, web beacons, and other automated devices to automatically collect information about visitors to our Site and users of our services, which we refer to in this Policy as “Site Data.” The Site Data we collect includes browser type, operating system and IP address, as well as information of the web pages viewed and links clicked by visitors and/or customers. We may combine Site Data with other data we have collected from users, such as Customer Registration Data; and
+  *  **Other Data** : We may also collect information about customers or potential customers from our affiliates, from third parties, such as business partners, from our social media pages, during promotional events or from users who submit their information to iContact in order to subscribe to our mailing lists or receive information about iContact products and services.
+  * Although the majority of our customers are businesses, some of the Customer Registration Data submitted or maintained by us may identify or relate to an individual (“ **personal data** “), rather than a business. We will use such data in accordance with this Privacy Policy.
 
 
-
-Although the majority of our customers are businesses, some of the Customer Registration Data submitted or maintained by us may identify or relate to an individual (“ **personal data** “), rather than a business. We will use such data in accordance with this Privacy Policy.
 
 #### How Do We Use the Data We Collect?
 
 We may use the information we collect and maintain, including any personal data, for the following purposes:
 
-  * If you have provided your contact information to us, we may use such information to contact you for marketing and promotional purposes by various means, including regular mail, email or telephone. To learn how to opt out of receiving marketing communications from us, please go to the section below entitled "How Can You Stop Receiving Marketing Communications?"
+  * If you have provided your contact information to us, we may use such information to contact you for marketing and promotional purposes by various means, including regular mail, email or telephone. To learn how to opt out of receiving marketing communications from us, please go to the section below entitled “How Can You Stop Receiving Marketing Communications?“
   * To process orders, requests and payments, and to communicate with our customers about their accounts or any requests, orders or payments;
   * To provide requested services to our customers, including sending or facilitating the delivery of emails on behalf of and at the request of our customers. (In such cases, our customers are responsible for the content and delivery of such communications.)
   * To respond to any inquiries submitted to us and to provide technical support to customers and Site visitors.
   * To tailor the content and information that we may send or display to customers or Site visitors, and to otherwise personalize experiences at the Site;
-  * To tailor the content and information and offers that we may send or display to customers, prospects or Site visitors on a third-party sites.
+  * To tailor the content and information and offers that we may send or display to customers, prospects or Site visitors on third-party sites.
   * To better understand how users access and use our Site and services, both on an aggregate and individualized basis, for the purposes of improving our Site and services and responding to customer and visitor desires and preferences; and
   * To detect violations of applicable policies. For example, we may use automated filters to screen the content of e-mails sent by or on behalf of our customers in order to restrict the sending of pornography or other prohibited content. We may also track or screen certain e-mail activities, such as the importation of large e-mail lists or the receipt of returned e-mails, to detect and prevent illegal spamming activities.
 
@@ -42,7 +41,7 @@ We may share your personal data with third parties; but only in the ways that ar
   *  **Service Providers**. We may disclose the information we collect from you to third-party vendors, service providers, contractors or agents who perform the following functions on our behalf: such as credit card processing to bill you for goods and services and a live chat vendor to assist us with customer service marketing analysis services to help manage our online advertising, customer relationship management services, and internal system monitoring and performance services. These third parties are required to maintain the confidentiality, security and integrity of personal data and to use such information only as directed by us.
   *  **Business Transfers**. If we are acquired by or merged with another company, if part or of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the personal data we have collected to the acquiring company or entity.
   *  **In Response to Legal Process**. We may also disclose the information we collect in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a subpoena.
-  *  **To Protect iContact and Others**. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of this Policy, our [Terms & Conditions](https://web.archive.org/legal/terms-conditions "Terms & Conditions"), our [Anti-Spam Policy](https://web.archive.org/legal/anti-spam-policy "Anti-Spam Policy"), or our [End User Service Agreement](https://web.archive.org/legal/terms-conditions#endUser "End User Service Agreement").
+  *  **To Protect iContact and Others**. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of this Policy, our [Terms & Conditions](https://www.icontact.com/legal/terms-conditions "Terms & Conditions"), our [Anti-Spam Policy](https://www.icontact.com/legal/anti-spam-policy "Anti-Spam Policy"), or our [End User Service Agreement](https://www.icontact.com/legal/terms-conditions#endUser "End User Service Agreement").
   *  **Aggregate and De-identified Information**. We may share aggregate, anonymous, or de-identified information, such as Site Data, with third parties for marketing, advertising, research or similar purposes; however, we do not disclose personal data to such third parties.
 
 
@@ -51,7 +50,7 @@ We may share your personal data with third parties; but only in the ways that ar
 
 If you received one or more marketing or promotional e-mails, such as a newsletter (“commercial e-mails”) from us, it means that (a) your email address is on our list of customers, trial users, or prospective customers; or (b) you have provided us your email address so that we could contact you. If you believe you received an email from us in error, please contact us immediately at [customercare@icontact.com](mailto:customercare@icontact.com "customercare@icontact.com").
 
-Our customers also use iContact’s service to send commercial e-mails to users who have opted-in to receive such e-mails. According to iContact’s [Anti-Spam Policy](https://web.archive.org/legal/anti-spam-policy "Anti-Spam"), our customers are not permitted to send unsolicited marketing or promotional e-mails, and are required to obtain opt-in consent from a recipient, prior to sending a commercial e-mail to the recipient’s e-mail address. While we have a strict Anti-Spam Policy, we cannot guarantee that our customers will always honor such policy. If you believe you have received an e-mail from one of our customers in error or in violation of our Anti-Spam Policy, please contact us immediately at [abuse@icontact.com](mailto:abuse@icontact.com "abuse@icontact.com").
+Our customers also use iContact’s service to send commercial e-mails to users who have opted-in to receive such e-mails. According to iContact’s [Anti-Spam Policy](https://www.icontact.com/legal/anti-spam-policy "Anti-Spam"), our customers are not permitted to send unsolicited marketing or promotional e-mails, and are required to obtain opt-in consent from a recipient, prior to sending a commercial e-mail to the recipient’s e-mail address. While we have a strict Anti-Spam Policy, we cannot guarantee that our customers will always honor such policy. If you believe you have received an e-mail from one of our customers in error or in violation of our Anti-Spam Policy, please contact us immediately at [abuse@icontact.com](mailto:abuse@icontact.com "abuse@icontact.com").
 
 #### How Can You Stop Receiving Marketing Communications?
 
@@ -59,7 +58,7 @@ Each commercial email iContact sends contains an unsubscribe link through which 
 
 Similarly, each commercial e-mail sent by one of our customers through iContact’s service contains an unsubscribe link. Simply click on that link and follow the instructions to unsubscribe your e-mail address.
 
-If you have unsubscribed but continue to receive e-mail from us or from one of our customers, you may report this to [abuse@icontact.com](mailto:abuse@icontact.com "abuse@icontact.com"). Please note that unsubscribe requests may take up to 7 – 10 days to process. If you receive any other types of marketing communication from iContact and no longer wish to receive it, you may report this to [abuse@icontact.com](mailto:abuse@icontact.com "abuse@icontact.com").
+If you have unsubscribed but continue to receive e-mail from us or from one of our customers, you may report this to [abuse@icontact.com](mailto:abuse@icontact.com "abuse@icontact.com"). Please note that unsubscribe requests may take up to 7 — 10 days to process. If you receive any other types of marketing communication from iContact and no longer wish to receive it, you may report this to [abuse@icontact.com](mailto:abuse@icontact.com "abuse@icontact.com").
 
 #### What About Public Forums?
 
@@ -79,18 +78,17 @@ The Site contains links to third party websites. We are not responsible for the 
 
 #### How Do We Use Cookies & Other Tracking Technologies?
 
-Technologies such as: cookies, beacons, tags and scripts are used by iContact and our partners, such as marketing service providers, partners, vendors, affiliates, or analytics or service providers. These technologies are used to tailoring offers, promotions and content and in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+iContact and our partners, such as marketing service providers, partners, vendors, affiliates, or analytics or service providers use cookies and similar tracking technologies. These technologies are used to tailoring offers, promotions and content and in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-When you interact with the Site, we strive to make your experience easy and meaningful. We may use or engage others to use cookies, clear gifs and Flash LSOs to track user activity and collect Site Data. In addition, we may combine the Site Data we collect with the other data we collect.
+When you interact with the Site, we strive to make your experience easy and meaningful. We may use or engage others to use cookies clear gifs and Flash LSOs to track user activity and collect Site Data. In addition, we may combine the Site Data we collect with the other data we collect.
 
  **Cookies** : When you come to the Site, our web server sends a cookie to your computer. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. There are two types of cookies: session-based and persistent-based cookies. In addition, we may permit certain third parties to place cookies through our website.
 
   *  **Session Cookies**. Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. iContact uses session cookies to allow the system to uniquely identify you while you are logged in to the Site. This allows us to process your online transactions and requests, and to verify your identity, after you have logged in, as you move through our Site.
   *  **Persistent cookies**. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. iContact uses persistent cookies to track aggregate and statistical information about user activity, to identify the fact that you are an iContact customer or prior Site visitor, and to display advertising, both on our Site and on third-party sites.
+  *  **Disabling Cookies** : Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Site visitors who disable their web browsers’ ability to accept cookies will be able to browse the Site; however, you must enable cookies in order to use our services.
 
 
-
-**Disabling Cookies** : Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Site visitors who disable their web browsers’ ability to accept cookies will be able to browse the Site; however, you must enable cookies in order to use our services.
 
  **Flash LSOs** : We may use local shared objects, such as HTML5 or Flash also known as Flash cookies, to store your Site preferences, to personalize your visit, or to display content based upon what you view on our Site. Third Parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity, may use Flash cookies to collect and store information. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties’ use of data. Flash LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot typically control, delete, or disable the acceptance of Flash cookies through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel.” Various browsers may offer their own management tools for removing HTML5 LSOs.
 
@@ -110,7 +108,7 @@ We will retain your information for as long as your account is active or as need
 
 **Referrals.** If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. iContact does store this referral email address for the sole purpose of sending this one-time email, and we may use a third party to track the success of our referral program. Your friend may contact us at [customercare@icontact.com](mailto:customercare@icontact.com) to request that we remove this information from our database.
 
- **Import Contacts.** iContact offers a variety of means to import contacts. One-at-a-time import provides the user with the ability to add a single contact and to fill out that contact’s information, one field at a time. A user also is able to upload a single contact in the form of a .vcf ( VCard) file, which can be retrieved from an email client, such as Microsoft Outlook. Bulk contact upload can be done in two different ways. If a user is simply adding email addresses, they can copy and paste them from a program, such as Notepad. Alternatively, if a user wants to upload many contacts with various amounts of subscriber data, iContact supports the upload of both .xls and .csv files.
+ **Import Contacts.** iContact offers a variety of means to import contacts. One-at-a-time import provides the user with the ability to add a single contact and to fill out that contact’s information, one field at a time. A user also is able to upload a single contact in the form of a .vcf ( VCard) file, which can be retrieved from an email client, such as Microsoft Outlook. Bulk contact upload can be done in two different ways. If a user is simply adding email addresses, they can copy and paste them from a program, such as Notepad. Alternatively, if a user wants to upload many contacts with various amounts of subscriber data, iContact supports the upload of both .xls and .csv files. The imported contact information will only be used for the sole purpose of utilizing the iContact services.
 
  **Single Sign-On.** With certain social media sites, You can choose to log in to our site using single sign-on. These services will authenticate your identity and provide you the option to share certain personal data with us such as your name and email address to pre-populate our sign up form. These services may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
@@ -122,7 +120,7 @@ The majority of our customers are businesses; however, some the information we c
 
 We may also receive personal data about individual Customer Message Recipients (defined above), from or on behalf of iContact’s customers. We process personal data about Customer Message Recipients only on behalf of and under the direction of our customers, and the collection, use and disclosure of such data is subject to the customer’s privacy policy, not this one.
 
-For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). For complaints, please see the section below entitled "How Do You Submit a Question or Complaint?"
+For questions about our Safe Harbor certification, please contact us at [vocus@safeharbor.com](mailto:vocus@safeharbor.com). For complaints, please see the section below entitled “How Do You Submit a Question or Complaint?“
 
 #### What About Children Under 13?
 
@@ -144,11 +142,11 @@ We may update this privacy policy to reflect changes to our information practice
 
 **Effective date: October 17, 2011**
 
-**Updated March 14, 2013**
+**Updated June  1, 2016**
 
 iContact LLC (“iContact”) understands and values the importance of individual privacy. This Privacy Policy (“Policy”) is designed to inform our European Customers of: (1) how we collect, use and disclose Personal Data that is transferred to iContact in the United States; (2) individuals’ choices with regard to how such Personal Data will be used or disclosed by iContact; and (3) individuals’ other rights with regard to that Personal Data.
 
-This Policy complies with the Safe Harbor Principles as agreed upon by the U.S. Department of Commerce with the European Commission, as well as those agreed upon with the Federal Data Protection and Information Commissioner of Switzerland (collectively, “Safe Harbor Principles”), which can be found at <http://www.export.gov/safeharbor/>.
+This Policy complies with the Safe Harbor Principles as agreed upon by the U.S. Department of Commerce with the European Commission, as well as those agreed upon with the Federal Data Protection and Information Commissioner of Switzerland (collectively, “Safe Harbor Principles”), which can be found at <http://www.export.gov/safeharbor/>.
 
 This Policy applies only to the processing of Personal Data (defined below) that iContact receives in the United States from its European Customers (defined below). Most iContact Customers are businesses, not individuals. However, iContact may also receive Personal Data about individual Message Recipients (defined below) on a Customer’s e-mail marketing or contact lists. We process the Personal Data of a Customer’s Message Recipients only on behalf of and under the direction of the Customer, and the collection, use and disclosure of such data is subject to the Customer’s privacy policy.
 
@@ -194,8 +192,8 @@ You may contact iContact with questions or complaints concerning this Policy at 
 
 Consumer Advocate  
 iContact, LLC  
-2450 Perimeter Park Drive  
-Suite 105  
+2121 RDU Center Drive  
+Suite 400  
 Morrisville, NC 27560  
 E-Mail: [customercare@icontact.com](mailto:customercare@icontact.com "customercare@icontact.com")
 
