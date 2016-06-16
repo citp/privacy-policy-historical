@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtalkradio.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005316id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtalkradio.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053218id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.*
 
 # Blogtalkradio Terms of Use and Privacy Policy
 
@@ -129,7 +129,7 @@ You need to sign up with the Revenue Engine if you want to make money from your 
 
 ##### 11\. Contacting Us 
 
-If you need to write to us, use this address: BlogTalkRadio, Inc., 1072 Madison Ave, Lakewood, NJ 08701. 
+If you need to write to us, use this address: BlogTalkRadio, Inc., 25 Broadway, 9th Floor New York, New York 10004. 
 
 ##### 12\. Responsible Disclosures
 
@@ -192,11 +192,7 @@ We are not liable if something goes really wrong. Always have a backup of your c
 
 ### Effective Date: April 22, 2015
 
-[ ](https://privacy.truste.com/privacy-seal/BlogTalkRadio-Inc-/validation?rid=2cfaa686-d495-46a3-9a21-9bc2ca61ed57 "TRUSTe online privacy certification")
-
 BlogTalkRadio Inc. is committed to protecting the privacy of individuals that interact with our websites. This policy discloses the Company's practices governing the gathering and use of information submitted to the Company through [www.blogtalkradio.com](http://www.blogtalkradio.com/) (“Site”) which is owned and operated by BlogTalkRadio Inc. (“BlogTalkRadio”). Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, to the extent permitted hereunder, shall be considered a "User" under this privacy policy. All Users are bound by the terms of this privacy policy. This privacy policy does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from this site.
-
-BlogTalkRadio Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@BlogTalkRadio.com](mailto:privacy@BlogTalkRadio.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site. The TRUSTe program covers only information that is collected through this Web site: [www.blogtalkradio.com](http://www.blogtalkradio.com/). 
 
 ##### 1\. General
 
@@ -334,4 +330,4 @@ We partner with a third party to either display advertising on our Web site or t
 
 ##### 22\. Contact Us
 
-If you have any questions or concerns regarding this privacy policy your may contact us at privacy@BlogTalkRadio.com or Blogtalkradio Inc. 1072 Madison Ave Lakewood NJ 08701.
+If you have any questions or concerns regarding this privacy policy your may contact us at privacy@BlogTalkRadio.com or Blogtalkradio Inc. 25 Broadway, 9th Floor New York, New York 10004.
