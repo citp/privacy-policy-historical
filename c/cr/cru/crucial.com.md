@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204051934id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616184004id_/http%3A//www.crucial.com/usa/en/company-privacy) for the most accurate reproduction.*
 
-# Crucial.com - Crucial's privacy policy
+# Privacy Policy | Crucial.com
 
 Micron is committed to protecting your right to privacy when visiting our websites. We recognize that when you share your personal information with us, you expect us to treat that information in a serious and responsible manner. This Privacy Policy discloses what information we gather, how we use that information, and how you can correct or change that information. In summary, you should know that: 
 
