@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the likes.com privacy policy that was archived on 2015-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127165542id_/http%3A//likes.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the likes.com privacy policy that was archived on 2016-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616180447id_/http%3A//likes.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class=""><head>
 <script>window._t={start:(new Date).getTime()};</script>
 
 <base href="//likes.com">
+
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="google" value="notranslate">
@@ -15,7 +16,7 @@
 <title>
  Likes.com
 </title>
-<link type="text/css" rel="stylesheet" href="//c.likes-media.com/s/511332da172140ef09773311a7a6d5ca/static_new.css">
+<link type="text/css" rel="stylesheet" href="//o.mlv-cdn.com/s/87a967b9ee9b30518537589dc16dd6a5/static_new.css">
 
 
 
@@ -47,10 +48,12 @@ var _gaq_var_index = 1;
                     if (supports_localstorage()) {
                         localStorage.setItem('back_info_time', "" + Math.round((new Date()).getTime() / 1000));
                         localStorage.setItem('back_info_pid', "" + this.getAttribute('prid'));
+                        localStorage.setItem('back_info_prh', "" + this.getAttribute('prh'));
                         localStorage.setItem('back_info_slot', "" + this.getAttribute('slot_id'));
                         if (window.likes_tracking) {
                             localStorage.setItem('back_info_cid', "" + window.likes_tracking.pv_params.click_id);
                             localStorage.setItem('back_info_p', "" + window.likes_tracking.pv_params.page_type);
+                            localStorage.setItem('back_info_h', "" + window.likes_tracking.pv_params.location);
                         }
                     }
                 });
@@ -194,7 +197,7 @@ var likes_tracking_create = function() {
                     tracking_infos = event['tracking_infos'];
                     house_ads += ',{';
                     if (tracking_infos[0] && tracking_infos[0]['base_slot_name']){
-                        if (js_bundle && js_bundle.ad_page_slots.indexOf(tracking_infos[0]['base_slot_name']) == -1) {
+                        if (js_bundle && js_bundle.ad_page_slots && js_bundle.ad_page_slots.indexOf(tracking_infos[0]['base_slot_name']) == -1) {
                             process_redis_imp = obj.track_redis_imps;
                             process_house_ad = !obj.skip_house_ad;
                         }
@@ -242,7 +245,7 @@ var likes_tracking_create = function() {
                     }
                     house_ads += '}';
                 } else {
-                    if (js_bundle && js_bundle.ad_page_slots.indexOf(event['slot_name']) == -1) {
+                    if (js_bundle && js_bundle.ad_page_slots && js_bundle.ad_page_slots.indexOf(event['slot_name']) == -1) {
                         process_redis_imp = obj.track_redis_imps;
                         process_house_ad = !obj.skip_house_ad;
                     }
@@ -300,7 +303,7 @@ var likes_tracking_create = function() {
                 var position = event_log[i]['position'];
                 var network = event_log[i]['network'];
                 js_bundle = window.pass_to_js || window.PageData;
-                if (network in js_bundle.net_names && js_bundle.experiment_config.shorten_net_names) {
+                if (js_bundle && js_bundle.net_names && network in js_bundle.net_names && js_bundle.experiment_config.shorten_net_names) {
                     network = js_bundle.net_names[network];
                 }
                 var cpm = event_log[i]['cpm'];
@@ -550,7 +553,7 @@ try {
                 }
             }
             if (document.getElementById("bottom_mobile_ad") && document.getElementById("bottom_mobile_ad").classList)
-                document.getElementById("bottom_mobile_ad").parentNode.classList.remove("dummy_ad_wrapper");
+                document.getElementById("bottom_mobile_ad").classList.remove("dummy_ad_wrapper");
         }
         return ad_div;
     };
@@ -580,14 +583,14 @@ try {
                 };
             }
             if (dummy_ad && ad_div_id == "bottom_mobile_ad") {
-                ad_div.parentNode.classList.add("dummy_ad_wrapper");
+                ad_div.classList.add("dummy_ad_wrapper");
             }
             if (ad_src) {
                 ifrm.src = ad_src;
             } else {
                 ifrm.src = 'javascript:document.write(unescape("' + escape(ad_script) + '"));document.close();';
             }
-
+            window.likes_ad_server.position_rendered[position] = true;
             return true;
         }
         return false;
@@ -600,6 +603,7 @@ try {
         if (network == "criteo" && position == "top"){
             window.likes_ad_passbacks.criteo_top_reload = true;
         }
+        window.likes_ad_server.position_rendered[position] = false;
 
         if (((network == "openx_lowval") || (network == "fedmedia_passback")) && position == "right") {
             clearTimeout(window._defered_size_timeout);
@@ -742,7 +746,7 @@ San Francisco, CA<br>
 </div>
 
 <div class="footer_col floatright textright">
-<p>Copyright © 2015 Likes.com, <br>
+<p>Copyright © 2016 Likes.com, <br>
 All rights reserved.</p>
 </div>
 <div class="clear"></div>
@@ -755,8 +759,8 @@ All rights reserved.</p>
 <a class="parent_tab active " href="/content/privacy">privacy</a>
 
 
-<a class="parent_tab " href="/content/contact">contact</a>
 
+<a class="parent_tab " href="mailto:help@mylikes.com">Contact</a>
 
 </div>
 
@@ -765,6 +769,6 @@ All rights reserved.</p>
 </div> <!-- close the page opened in header -->
 
 
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
