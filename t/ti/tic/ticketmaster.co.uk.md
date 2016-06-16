@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231085408id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055253id_/http%3A//www.ticketmaster.co.uk/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster - Legal Guide
 
@@ -96,8 +96,6 @@ In addition to contacting us, you can **opt out** in the following ways:
   
 **Within the Ticketmaster family of companies.** We may share any or all of your information with our group companies for any of the purposes referred to in this Policy.
 
-**Our Affiliates.** We may share any of your information with our Affiliates so that they can run the event for which tickets have been purchased, where necessary to fulfil the order, analyse customer behaviour, provide a better service and support to customers, and for any other purpose described in our Affiliates privacy policies (including marketing). You should read those policies to learn how they treat your information.
-
 **Our Commercial Partners:** If you purchase tickets to an event through a promotion or rewards programme provided by another company, we may receive and/or share your personal information with that company. You should read their privacy policy to learn how they treat your information.
 
 **Selected third parties.** If you consented to be contacted by email or other means by selected third parties, we may provide your information to the third parties we select, and these third parties may use this information for their marketing or advertising purposes.
@@ -108,7 +106,7 @@ In addition to contacting us, you can **opt out** in the following ways:
 
 **Third parties who provide goods and services purchased by you.** Your information may also be shared with relevant third parties offering goods and services you have purchased through our website (e.g. ticket insurance or merchandise) so that they can process and fulfil your orders (including by contacting you). If you buy or sell tickets via our resale platform, we may disclose your information to the buyer or seller (as applicable) for order fulfilment purposes.
 
-**If we think we have to in order to comply with legal or regulatory requirements or to protect ourselves, our Affiliates or third parties.** Where permitted or required by law, we may also share information requested by a government agency or other authorised body or organisation, to protect or enforce our rights or the rights of our Affiliates or third party, or in the detection and prevention of fraud (including credit card fraud and fraud we think has happened during a sweepstakes or promotion or at an event) and other crimes.
+**If we think we have to in order to comply with legal or regulatory requirements or to protect ourselves, our Event Partners or third parties.** Where permitted or required by law, we may also share information requested by a government agency or other authorised body or organisation, to protect or enforce our rights or the rights of our Event Partners or third parties, or in the detection and prevention of fraud (including credit card fraud and fraud we think has happened during a sweepstakes or promotion or at an event) and other crimes.
 
 **Any successor to all or part of our business.** Where permitted by law, we may give a successor your information to use for the purposes set out in this Policy - and we may also give a potential successor this information - but only where we have taken reasonable steps to ensure the security and confidentiality of that information.
 
