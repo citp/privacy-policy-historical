@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatacommunications.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201002133id_/http%3A//www.tatacommunications.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatacommunications.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616231140id_/http%3A//www.tatacommunications.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tata Communications
 
@@ -6,7 +6,7 @@ At Tata Communications, we value your privacy. Regardless of whether you are our
 
 In this Privacy Policy (the “Policy”), we describe how we collect, use, and disclose information that we obtain and what your rights are in this regard. This Policy applies to the Tata Communications Group of Companies, which includes Tata Communications Ltd. and all its wholly-owned subsidiaries. For the purposes of this Policy, any reference to “Services” is a reference to all the products and services offered by Tata Communications, whether available online or offline, and any reference to “Sites” is a reference to any of the Tata Communications websites (including any mobile version of such websites), whether operated under the banner of Tata Communications or a brand name that we wholly own. 
 
-By using our Sites or our Services, or otherwise providing information to us, you agree that your personal information will be handled as described in this Policy. You also agree to the terms for accessing and correcting data as described in this Policy. Your use of our Sites or Services, and any dispute over privacy, is subject to this Policy and our [Terms of Service](http://www.tatacommunications.com/policies/terms-service)  (which are incorporated by reference into this Policy). Depending upon your interactions with Tata Communications, other terms may also be applicable to you.
+By using our Sites or our Services, or otherwise providing information to us, you agree that your personal information will be handled as described in this Policy. You also agree to the terms for accessing and correcting data as described in this Policy. Your use of our Sites or Services, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/policies/terms-service)  (which are incorporated by reference into this Policy). Depending upon your interactions with Tata Communications, other terms may also be applicable to you.
 
 **_THE INFORMATION WE COLLECT_**
 
@@ -38,7 +38,7 @@ We use the information that we gather about you for the following purposes:
 
 We may share your information as follows: 
 
-  * **_Affiliates_**. We may disclose the information we collect from you to our [subsidiaries](http://www.tatacommunications.com/sites/default/files/ListofDataControllersforEPP.pdf). Our subsidiaries may use your information for the purposes indicated in this document, including, to market their products and services to you, to the extent permitted by law.  
+  * **_Affiliates_**. We may disclose the information we collect from you to our [subsidiaries](https://web.archive.org/sites/default/files/ListofDataControllersforEPP.pdf). Our subsidiaries may use your information for the purposes indicated in this document, including, to market their products and services to you, to the extent permitted by law.  
   * **_Marketing Partners_**. We may jointly offer a product or service, such as voice, data and internet communications products and services, with third parties who are system integrators, resellers, solution partners, network partners and affinity organizations. If we do so, we may share your information, such as your email address, phone number, or mailing address, with these third parties to assist in providing and marketing that product or service to you,  as well as to enable the third parties to market their own products and services to you. We also may share your information with companies that are system integrators, resellers, solution partners, network partners and affinity organizations, and whom we believe might offer products and services of interest to you; these companies may market to you, and may share information with you about their voice, data, and internet communications products and services.
   * **_Service Providers_**. We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. We take steps to ensure that third party contracts contain appropriate data protection and security language. These third parties include other carriers or providers where necessary to provide our Services or fulfill your requests or orders, as well as entities that provide website hosting, service/order fulfillment, customer service, and credit card processing, among others.
 
@@ -60,9 +60,9 @@ If you submit your resume or otherwise apply for a job with Tata Communications,
 
 **_Our Use of Cookies AND OTHER TRACKING MECHANISMS  _**
 
-On our Site, we and our third party service providers use cookies, including third party analytics services (such as Google Analytics), as well as other tracking mechanisms such as clear GIFs or pixel tags, to track information about your use of our Sites or Services, to facilitate your use of our Site and Services, to improve our Site and Services, for advertising purposes (including to evaluate the success of our advertisements), and as otherwise described in this Privacy Policy and our [Cookie Policy](http://www.tatacommunications.com/policies/cookies). We may combine this information with other personal information we collect from you. In addition, we and our service providers may use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.  For information on the specific tracking mechanisms that we use on our Sites and the purposes for which we use such tracking mechanisms and how to disable them, please see our [Cookie Policy](http://www.tatacommunications.com/policies/cookies).
+On our Site, we and our third party service providers use cookies, including third party analytics services (such as Google Analytics), as well as other tracking mechanisms such as clear GIFs or pixel tags, to track information about your use of our Sites or Services, to facilitate your use of our Site and Services, to improve our Site and Services, for advertising purposes (including to evaluate the success of our advertisements), and as otherwise described in this Privacy Policy and our [Cookie Policy](https://web.archive.org/policies/cookies). We may combine this information with other personal information we collect from you. In addition, we and our service providers may use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.  For information on the specific tracking mechanisms that we use on our Sites and the purposes for which we use such tracking mechanisms and how to disable them, please see our [Cookie Policy](https://web.archive.org/policies/cookies).
 
-Currently, our Sites do not recognize browser requests not to be tracked. As set forth in our [Cookie Policy](http://www.tatacommunications.com/policies/cookies), however, you may disable cookies yourself through your browser settings. You also may opt-out of targeted advertising, as mentioned below.
+Currently, our Sites do not recognize browser requests not to be tracked. As set forth in our [Cookie Policy](https://web.archive.org/policies/cookies), however, you may disable cookies yourself through your browser settings. You also may opt-out of targeted advertising, as mentioned below.
 
 **_Third-Party Ad Networks_**
 
@@ -94,11 +94,11 @@ You should therefore take steps to protect against unauthorized access to your p
 
 **_Special Information for Consumers  in California, U.S.A._**
 
-If you are a resident of California, U.S.A, you may request a list of certain third parties to whom we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response.  You may request this information in writing by contacting us at: [L](mailto:legalcompliance@tatacommunications.com)[egal Compliance](http://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/).  Please allow up to thirty (30) days for a response.
+If you are a resident of California, U.S.A, you may request a list of certain third parties to whom we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response.  You may request this information in writing by contacting us at:[ ](https://web.archive.org/legal-compliance)[L](mailto:legalcompliance@tatacommunications.com)[egal Compliance](https://web.archive.org/legal-compliance).  Please allow up to thirty (30) days for a response.
 
 **_HOW TO ACCESS, CORRECT, AMEND OR DELETE YOUR INFORMATION_**
 
-To access, correct, amend, or delete your account information and other personal information that the Company may be storing about you (for example, your name, address, or billing information), you may contact your customer service representative or send an email to the following address: [L](mailto:legalcompliance@tatacommunications.com)[egal Compliance](http://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/). To protect your privacy and security, we will also take reasonable steps to verify your identity.
+To access, correct, amend, or delete your account information and other personal information that the Company may be storing about you (for example, your name, address, or billing information), you may contact your customer service representative or send an email to the following address: [Legal Compliance](https://web.archive.org/legal-compliance). To protect your privacy and security, we will also take reasonable steps to verify your identity.
 
 **_TRANSFER OF PERSONAL INFORMATION BETWEEN COUNTRIES_**
 
@@ -108,7 +108,7 @@ Such other Tata Communications entities and third parties may be located outside
 
 Any such transfer will occur either on the basis of any consent you have provided or on the basis of EU Commission-approved model clauses (which seek to ensure an equivalent level of protection for your personal information as provided by your country of residence). As a result of such transfers, your information may be subject to access by law enforcement and government entities in countries other than your country of residence, including courts and tribunals in accordance with laws applicable in those jurisdictions.
 
-Tata Communications takes steps to ensure that your personal information is protected when transferred to and processed by these Tata Communications and other entities, and to ensure that such processing complies with applicable laws. If you have questions about the third parties to whom we have transferred your information, you may email us at [L](mailto:legalcompliance@tatacommunications.com)[egal Compliance](http://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/).
+Tata Communications takes steps to ensure that your personal information is protected when transferred to and processed by these Tata Communications and other entities, and to ensure that such processing complies with applicable laws. If you have questions about the third parties to whom we have transferred your information, you may email us at [Legal Compliance](https://web.archive.org/legal-compliance).
 
 **_CHANGES TO THIS POLICY_**
 
@@ -116,16 +116,18 @@ This Policy is subject to change, and any changes to this Policy will be posted 
 
 **_HOW TO CONTACT US_**
 
-If you have any questions, or if you believe there has been a violation of this Policy, you may contact us at [L](mailto:legalcompliance@tatacommunications.com)[egal Compliance](http://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/) or in writing at:
+If you have any questions, or if you believe there has been a violation of this Policy, you may contact us at [Legal Compliance](https://web.archive.org/legal-compliance) or in writing at:
 
 Legal Compliance
 
-Tata Communications International Pte. Ltd.
+Tata Communications (America) Inc.
 
-Tata Communications Exchange
+2355 Dulles Corner Boulevard
 
-35 Tai Seng St. #06-01
+Suite 700
 
-Singapore 534103
+Herndon, VA 20171
 
-Click [here](http://www.tatacommunications.com/sites/default/files/ListofDataControllersforEPP.pdf) for details on the data controller for our Sites. 
+USA
+
+Click [here](https://web.archive.org/sites/default/files/ListofDataControllersforEPP.pdf) for details on the data controller for our Sites. 
