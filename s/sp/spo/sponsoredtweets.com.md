@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the sponsoredtweets.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175214id_/https%3A//sponsoredtweets.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsoredtweets.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051526id_/https%3A//sponsoredtweets.com/privacy_policy) for the most accurate reproduction.*
 
 # SponsoredTweets : Native Ad Exchange
 
-Updated **February 19, 2014**
+Updated **January 26, 2016**
+
+ContentMarketing.com, IZEA.com, and corp.izea.com (the “Sites”) are owned and operated by IZEA, Inc. Access to the Sites and any features is made available under IZEA's Terms & Conditions and Privacy Policy.
 
 IZEA, Inc is a member of the IZEA Exchange and licenses this platform under IZEA's Terms of Service and Privacy Policy.
 
-The following details our Privacy Policy (the “Policy") for this site and describes the types of information we gather from those persons visiting the Internet websites http://sponsoredtweets.com, (the “Site(s)”) and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA, Inc and IZEA (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. Each time you use the Sites, the current version of the Privacy Policy will apply. Accordingly, when you use the Sites, you should check the date of this Policy (which appears at the top) and review any changes since the last version.
+The following details our Privacy Policy (the “Policy") for the Sites and describes the types of information we gather from those persons visiting the Sites and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by IZEA, Inc. and its subsidiaries and affiliates (the “services”) on the Sites. By accessing the Sites, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. Each time you use the Sites, the current version of the Privacy Policy will apply. Accordingly, when you use the Sites, you should check the date of this Policy (which appears at the top) and review any changes since the last version.
 
 ## Use of Information Collected by Us
 
@@ -14,7 +16,7 @@ IZEA may collect two types of information from users of our Sites: “personal i
 
 ## Collecting and Using Your Personal Information
 
-IZEA only collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our marketplace - the “Native Ad Exchange” (NAX), we ask you for personal information such as your name, address, social service connectors, email address, and social security number. (Please note that we require social security numbers for income tax reporting purposes.) We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
+IZEA only collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Creator Marketplace - the “IZEA Exchange” (IZEAx), we ask you for personal information such as your name, address, social service connectors, email address, and social security number. (Please note that we require social security numbers for income tax reporting purposes.) We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
 
 ## Collecting and Using Your Aggregate Information
 
@@ -30,7 +32,9 @@ It should be noted that on some portions of the Sites, users can choose to have 
 
 ## Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties
 
-We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. As stated earlier, such information does not identify you individually. Contests/Sweepstakes
+We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. As stated earlier, such information does not identify you individually.
+
+## Contests/Sweepstakes
 
 From time-to-time, we may request information from users of our Sites in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use the contact information to notify winners. We may publish winners’ first name, last initial and city of residence on the Sites and in order to comply with state law, we may be required to share: (i) winners’ first name, last name and address with state agencies and (ii) winners’ first name and last name with persons requesting such information via the mail.
 
@@ -42,17 +46,33 @@ When you post messages to the message boards, certain information, such as your 
 
 ## Cookies
 
-Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. When you visit the Sites, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people blog. We store minimal personal information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. You may chose to set your computer to not accept cookies, but some features and services on the Sites may not function properly if your cookies are disabled.
+Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. When you visit the Sites, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people blog. We store minimal personal information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. You may choose to set your computer to not accept cookies, but some features and services on the Sites may not function properly if your cookies are disabled.
+
+## Cross-Border Transfer
+
+Your personal information may be processed, used, stored, or accessed in the United States or other countries where we have operations, and may be subject to the laws of those countries including requirements to disclose information to government authorities, courts or law enforcement agencies.
+
+## Notice to Canadian Residents
+
+We collect, use and disclose your personal information with your consent, which may be express or implied.  **You may withdraw your consent to the use and disclosure of your personal information by us or by third parties for marketing purposes at any time by contacting us as specified below under “Contact Us.”** If you would like to access, update, or ask us to delete your preferences or the personal information that we have collected about you, please contact us, and we will respond to your request within 30 days. 
+
+## Notice to California Residents
+
+Subject to certain limits under California Civil Code §1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the "Contact Us" section below.
+
+## Do Not Track Policy
+
+Our Sites are not designed to respond to "do not track" signals received from browsers.
 
 ## Use of Pixel Tags/Clear GIFs/Web Beacons
 
-A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Sites but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
+A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Sites but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies, the pixel tag will simply detect an anonymous website visit.
 
 ## Security Pertaining to Your Information
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage, and processing practices, and introducing security measures, including physical security measures, to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to IZEA employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL IZEA OR ITS SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITES, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITES). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF IZEA OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+We restrict access to personal information to IZEA employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to your credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL IZEA OR ITS SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITES, OR IN CONNECTION WITH ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITES). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF IZEA OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ## Integrity of Your Data
 
@@ -74,7 +94,7 @@ If you are a copyright owner or an agent thereof and believe that any submission
 
 (vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-IZEA’s designated copyright agent to receive notifications of claimed infringement is: Copyright Agent, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or copyrightagent@izea.com. Only DMCA notices should go to the designated copyright agent; any other comments, requests, or other communications should be directed to info@izea.com. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
+IZEA’s designated agent to receive notifications of claimed infringement is: Copyright Agent, 480 N. Orlando Ave., Suite #200, Winter Park, FL 32789 USA or copyrightagent@izea.com. Only DMCA notices should go to the designated copyright agent; any other comments, requests, or other communications should be directed to info@izea.com. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.
 
 ## Children and Privacy
 
