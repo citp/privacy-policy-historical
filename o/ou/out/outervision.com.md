@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113515id_/http%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616181717id_/http%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
 
 # eXtreme Outer Vision Privacy Policy
 
@@ -9,7 +9,7 @@ At eXtreme Outer Vision we recognize that privacy is important. This Policy appl
 **Non-US Visitors**  
 Our privacy policy is intended to meet the laws and requirements of the United States. If you are visiting from outside the United States any information you provide will be treated in accordance with the laws of the United States. 
 
-If you have any questions about this Policy or you feel that eXtreme Outer Vision is not abiding by our posted Privacy Policy, you should [contact us](http://outervision.com/contact.jsp) through our website.
+If you have any questions about this Policy or you feel that eXtreme Outer Vision is not abiding by our posted Privacy Policy, you should [contact us](https://web.archive.org/contact-us) through our website.
 
 **Information we collect and how we use it:**
 
@@ -49,13 +49,13 @@ You can decline to submit Personally Identifying Information to any of our servi
 We sometimes share aggregated demographic information with our partners. This aggregated information is not linked to any information that can identify an individual person. eXtreme Outer Vision only shares Personally Identifying Information with other companies or individuals outside of eXtreme Outer Vision in the following limited circumstances: 
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive Personally Identifying Information. 
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms and Conditions](http://outervision.com/tos.jsp), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of eXtreme Outer Vision, its users or the public as required or permitted by law. 
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms and Conditions](https://web.archive.org/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of eXtreme Outer Vision, its users or the public as required or permitted by law. 
 
 
 
 If eXtreme Outer Vision becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before Personally Identifying Information is transferred and becomes subject to a different privacy policy. 
 
-Please [contact us](http://outervision.com/contact.jsp) for any additional questions about the management or use of personal data. 
+Please [contact us](https://web.archive.org/contact-us) for any additional questions about the management or use of personal data. 
 
 **Special Offers**
 
@@ -75,10 +75,10 @@ When you use eXtreme Outer Vision services, we make good faith efforts to provid
 
 **Enforcement**
 
-eXtreme Outer Vision regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or eXtreme Outer Vision's treatment of Personally Identifying Information by [contacting us](http://outervision.com/contact.jsp) through this web site. When we receive formal written complaints, it is eXtreme Outer Vision's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between eXtreme Outer Vision and an individual. 
+eXtreme Outer Vision regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or eXtreme Outer Vision's treatment of Personally Identifying Information by [contacting us](https://web.archive.org/contact-us) through this web site. When we receive formal written complaints, it is eXtreme Outer Vision's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between eXtreme Outer Vision and an individual. 
 
 **Changes to this policy**
 
 Please note that this Privacy Policy may change from time to time. It is your responsibility to refer to this Privacy Policy. Continued use of this site after such changes to Privacy Policy constitutes acceptance of those posted changes. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date. 
 
-If you have any additional questions or concerns about this Policy, please feel free to [contact us](http://outervision.com/contact.jsp) any time through this web site. 
+If you have any additional questions or concerns about this Policy, please feel free to [contact us](https://web.archive.org/contact-us) any time through this web site. 
