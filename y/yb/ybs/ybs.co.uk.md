@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145339id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616113342id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy and Cookies - Yorkshire Building Society
 
@@ -9,10 +9,10 @@ By using this site you are consenting to the use of cookies. [Find out more](htt
 [ ](https://web.archive.org/index.html "Yorkshire Building Society")
 
   * [](https://web.archive.org/index.html "Homepage")
-  * [Savings](https://web.archive.org/savings/index.html "Savings")
   * [Mortgages](https://web.archive.org/mortgages/index.html "Mortgages")
-  * [Investments](https://web.archive.org/investments/index.html "Investments")
+  * [Savings](https://web.archive.org/savings/index.html "Savings")
   * [Insurance](https://web.archive.org/insurance/index.html "Insurance")
+  * [Investments](https://web.archive.org/investments/index.html "Investments")
   * Help & Support
   * 
 
@@ -129,6 +129,7 @@ Find out how you can do this by visiting [www.allaboutcookies.org/manage-cookie
 
 ###  Call us
 
-  * 9am - 5pm: Mon to Fri
+  * 8am - 8pm: Mon to Fri
+  * 9am - 1pm: Sat
 
 
