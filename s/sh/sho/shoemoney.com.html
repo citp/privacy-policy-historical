@@ -1,31 +1,33 @@
-<!--The following is the downloaded HTML source of the shoemoney.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906052725id_/http%3A//www.shoemoney.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoemoney.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617103314id_/http%3A//www.shoemoney.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8"> 
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<!--[if IE ]>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIBUl9SGwEHUlNVAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<![endif]-->
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<title>Privacy Policy - ShoeMoney</title>
-	<link rel="icon" href="http://www.shoemoney.com/wp-content/uploads/2015/05/favicon.png" type="image/x-icon">
+	<link rel="icon" href="http://www.shoemoney.com/wp-content/uploads/2016/05/favicon.png" type="image/x-icon">
 <!--iOS/android/handheld specific -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="prefetch" href="http://www.shoemoney.com">
+    <link rel="prerender" href="http://www.shoemoney.com">
     <meta itemprop="name" content="ShoeMoney">
     <meta itemprop="url" content="http://www.shoemoney.com">
         <meta itemprop="creator accountablePerson" content="Jeremy Schoemaker">
-    	<link rel="pingback" href="http://www.shoemoney.com/xmlrpc.php">
+    	<link rel="pingback" href="http://www.shoemoney.com/xmlrpc.php&#9;">
 	<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
-	<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
-<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.shoemoney.com/privacy-policy">
+	<title>Privacy Policy - ShoeMoney</title>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
+<!-- This site is optimized with the Yoast SEO plugin v3.3.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.shoemoney.com/privacy-policy/">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="ShoeMoney » Feed" href="http://www.shoemoney.com/feed">
-<link rel="alternate" type="application/rss+xml" title="ShoeMoney » Comments Feed" href="http://www.shoemoney.com/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="ShoeMoney » Feed" href="http://www.shoemoney.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="ShoeMoney » Comments Feed" href="http://www.shoemoney.com/comments/feed/">
 
 <script>
 var MP3jPLAYLISTS = [];
@@ -34,88 +36,132 @@ var MP3jPLAYERS = [];
 <meta property="fb:admins" content="1275865646">        
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="">
-<meta property="og:url" content="http://www.shoemoney.com/privacy-policy">
+<meta property="og:url" content="http://www.shoemoney.com/privacy-policy/">
 <meta property="og:image" content="http://www.shoemoney.com/images/shoemoney-logo-sm.png">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="ShoeMoney">
 
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.shoemoney.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.shoemoney.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
 <link rel="stylesheet" id="fontawesome-css" href="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/css/font-awesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="wpmm-css" href="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/css/wpmm.css?ver=1.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="shoemoney-marketplace-css-css" href="http://www.shoemoney.com/wp-content/plugins/smmarketplace/css/shoemoney-marketplace.css?ver=4.3" type="text/css" media="all">
-<link rel="stylesheet" id="google-jqueryui-flick-css-css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/flick/jquery-ui.css?ver=4.3" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-plugin-css" href="http://www.shoemoney.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=4.3" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-css" href="//vjs.zencdn.net/4.5/video-js.css?ver=4.3" type="text/css" media="all">
-<link rel="stylesheet" id="wp-syntax-css-css" href="http://www.shoemoney.com/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="stylesheet-css" href="http://www.shoemoney.com/wp-content/themes/magazine_child/style.css?ver=4.3" type="text/css" media="all">
-<style id="stylesheet-inline-css" type="text/css">
+<link rel="stylesheet" id="wpmm-css" href="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/css/wpmm.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.shoemoney.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="post-views-counter-frontend-css" href="http://www.shoemoney.com/wp-content/plugins/post-views-counter/css/frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="videojs-plugin-css" href="http://www.shoemoney.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="videojs-css" href="//vjs.zencdn.net/4.5/video-js.css" type="text/css" media="all">
+<link rel="stylesheet" id="NextGEN-css" href="http://www.shoemoney.com/wp-content/plugins/nextcellent-gallery-nextgen-legacy/css/nggallery.css" type="text/css" media="screen">
+<link rel="stylesheet" id="NextCellent-Framework-css" href="http://www.shoemoney.com/wp-content/plugins/nextcellent-gallery-nextgen-legacy/css/framework-min.css" type="text/css" media="screen">
+<link rel="stylesheet" id="wp-syntax-css-css" href="http://www.shoemoney.com/wp-content/plugins/wp-syntax/css/wp-syntax.css" type="text/css" media="all">
+<link rel="stylesheet" id="tipsy-css" href="http://www.shoemoney.com/wp-content/plugins/wp-shortcode/css/tipsy.css" type="text/css" media="all">
+<link rel="stylesheet" id="mts_wpshortcodes-css" href="http://www.shoemoney.com/wp-content/plugins/wp-shortcode/css/wp-shortcode.css" type="text/css" media="all">
+<link rel="stylesheet" id="steadyincome-stylesheet-css" href="http://www.shoemoney.com/wp-content/themes/mts_steadyincome/style.css" type="text/css" media="all">
+<style id="steadyincome-stylesheet-inline-css" type="text/css">
 
-		body {background-color:#cecece; }
-		body {background-image: url( http://www.shoemoney.com/wp-content/uploads/2015/05/shoemoneyhulk1.png );}
-        /*body {}*/
-        
-        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover { background: #2ea2cc; }
-		.postauthor h5, .copyrights a, .single_post a, .textwidget a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, .title a:hover, .comm, #tabber .inside li a:hover, .readMore a:hover, .fn a, .comment-meta a, .widget .wpt_widget_content .wpt-pagination a, .latest-post .latestPost .title a:hover, .latestPost.latestBig:hover .title, a, a:hover, #wpmm-megamenu .wpmm-post .wp-review-show-total { color:#2ea2cc; }	
-        a#pull, #commentform input#submit, .contactform #submit, #navigation ul .current-menu-item a, #navigation ul li:hover, .pagination a, #tabber ul.tabs li a.selected, .tagcloud a, #navigation ul .sfHover a, .wp_review_tab_widget_content .tab_title.selected a, #footer-to-top, .owl-prev:hover, .menu li.current-menu-item a, .primary-navigation ul li a:hover, #navigation ul ul li, .latest-post .grid-1 .thecategory a, .widget .wpt_widget_content .tab_title.selected a, .widget .wp_review_tab_widget_content .tab_title.selected a, .single_post header .thecategory, .tags a, #move-to-top, .latest-post .grid-2 .thecategory, .slide-caption .thecategory, .owl-next:hover, .gform_wrapper .gform_footer input#gform_submit_button_1, .form_submit { background-color:#2ea2cc; color: #fff; }
-        #wpmm-megamenu.wpmm-light-scheme .wpmm-posts .wpmm-entry-title a:hover { color:#2ea2cc!important; }
-		
-		
-		
-		.commentlist li.bypostauthor { background: #F2F2F2; }
-		.bypostauthor:after { content: "Author"; position: absolute; right: 0; top: 0; padding: 1px 10px; background: #818181; color: #FFF; }
-		
-		.main-header { background-size: contain; }
-			
+        body {background-color:#ffffff;background-image:url(http://www.shoemoney.com/wp-content/themes/mts_steadyincome/images/nobg.png);}
+        a, a:hover, .single_post a, .textwidget a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, #primary-navigation .navigation ul li a:hover, .title a:hover, .post-info a:hover, .blog_second .b_right .b_readings ul li:last-child a:hover, .reply a:hover, .blog_second .b_readings .fa, .comm, .fn a, .blog_second .social-icons ul li a:hover span, #primary-navigation .navigation ul .current-menu-item > a, #primary-navigation .navigation ul .current-menu-item > a:after, #primary-navigation .navigation a:hover:after, #primary-navigation .navigation li:hover > a, #primary-navigation .navigation li:hover > a:after, .related-posts .excerpt header h3 a:hover, .widget .review-result-wrapper i, .latestpost_wrap .front-view-title a:hover, .latestPost .post-info a:hover, .latestPost .post-info a:hover span { color:#0071bd; }
 
-		body {background-color:#cecece; }
-		body {background-image: url( http://www.shoemoney.com/wp-content/uploads/2015/05/shoemoneyhulk1.png );}
-        /*body {}*/
+        .pace .pace-progress, #load-posts a, .widget_tag_cloud .tagcloud a:hover, .customNavigation a:hover { background-color:#0071bd!important; }
+        .blog_second .social-icons ul li a:hover { border: 2px solid #0071bd; }
+        .customNavigation a:hover, .widget_product_search input[type='submit'] { border: 1px solid #0071bd; }
+        .blog_first { background-image:url(http://www.shoemoney.com/wp-content/uploads/2016/05/shoemoney.jpg); }
+
+        #commentform input#submit, .contact-form input[type='submit'], .widget_product_search input[type='submit'], #move-to-top:hover, #tabber ul.tabs li a.selected, .tagcloud a:hover, #searchsubmit, .search-style-one a:hover, .pagination ul li a:hover, .page-numbers.current, .currenttext, .single .pagination a:hover .currenttext, #move-to-top, .latestPost .readMore a, .thecontent .latestPost .postauthor .readMore a, .latestPost .wp-review-show-total, .featured-thumbnail .wp-review-on-thumbnail, a#pull, .pagination a:hover, .latestPost .review-type-circle.review-total-only, .latestPost .review-type-circle.wp-review-show-total, #site-header #wpmm-megamenu .review-total-only, #site-header #wpmm-megamenu .wpmm-posts .wpmm-pagination a, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce .bypostauthor:after, #searchsubmit, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, #primary-navigation .navigation.mobile-menu-wrapper { background-color:#0071bd; color: #fff!important; }
+
+        #primary-navigation .navigation ul ul { border-top: 1px solid #0071bd; }
+        .search-row { border-bottom: 1px solid #0071bd; }
+
         
-        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover { background: #2ea2cc; }
-		.postauthor h5, .copyrights a, .single_post a, .textwidget a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, .title a:hover, .comm, #tabber .inside li a:hover, .readMore a:hover, .fn a, .comment-meta a, .widget .wpt_widget_content .wpt-pagination a, .latest-post .latestPost .title a:hover, .latestPost.latestBig:hover .title, a, a:hover, #wpmm-megamenu .wpmm-post .wp-review-show-total { color:#2ea2cc; }	
-        a#pull, #commentform input#submit, .contactform #submit, #navigation ul .current-menu-item a, #navigation ul li:hover, .pagination a, #tabber ul.tabs li a.selected, .tagcloud a, #navigation ul .sfHover a, .wp_review_tab_widget_content .tab_title.selected a, #footer-to-top, .owl-prev:hover, .menu li.current-menu-item a, .primary-navigation ul li a:hover, #navigation ul ul li, .latest-post .grid-1 .thecategory a, .widget .wpt_widget_content .tab_title.selected a, .widget .wp_review_tab_widget_content .tab_title.selected a, .single_post header .thecategory, .tags a, #move-to-top, .latest-post .grid-2 .thecategory, .slide-caption .thecategory, .owl-next:hover { background-color:#2ea2cc; color: #fff; }
-        #wpmm-megamenu.wpmm-light-scheme .wpmm-posts .wpmm-entry-title a:hover { color:#2ea2cc!important; }
-		
-		
-		
-		.bypostauthor { background: #FAFAFA; }
-		.bypostauthor:after { content: "Author"; position: absolute; right: -1px; top: -1px; padding: 1px 10px; background: #818181; color: #FFF; }
-		
-		.main-header { background-size: contain; }
-			
+        @media screen and (min-width:1400px) { .thecontent .shareit { top: 282px; left: auto; margin: 0 0 0 -123px; width: 90px; position: fixed; padding: 5px; border:none; border-right: 0;}
+        .share-item {margin: 2px;} }
+        
+        .bypostauthor { background: #FAFAFA; padding: 15px!important; box-sizing: border-box; }
+        .bypostauthor:after { content: "Author"; position: absolute; right: 0; top: -1px; padding: 1px 10px; background: #818181; color: #FFF; }
+        
+        
+        
+        .logo-wrap {
+padding-top: 10px;
+padding-bottom: 10px
+}
+#logo img {
+    max-height: 60px;
+    width: auto;
+}
+.blog_first_alternative {
+    margin-bottom: 64px;
+}
+.form_wrap_right .textwidget {
+    padding: 0;
+}
+#blogs #wp-subscribe input.email-field, #blogs #wp-subscribe input.name-field {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 13px;
+}
+#blogs #wp-subscribe input.submit {
+    width: 100%;
+}
+.blog_second .b_right .b_readings ul li img {
+    max-width: 133px;
+}
+.more-books {
+    display: none!important;
+}
+.sticky-widgets {
+    clear: both;
+    float: left;
+    width: 100%;
+}
+a#move-to-top {
+    display: none;
+}
+.page-template-default #comments { display: none; }
+@media screen and (max-width: 800px) {
+    .sidebar > div:last-child,.sidebar > div > div {
+        position: relative!important;
+        top: 0!Important;
+    }
+    .sidebar.sidebar {
+        height: 100%!important;
+    }
+}
+@media screen and (max-width:480px) {
+.mts-floating-popup {
+    width: 295px!Important;
+    left: 8px!important;
+}
+.mts-floating-popup img {
+    width: 55px!important;
+}
+}
+            
 </style>
-<link rel="stylesheet" id="owl-carousel-css" href="http://www.shoemoney.com/wp-content/themes/magazine/css/owl.carousel.css" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-css" href="http://www.shoemoney.com/wp-content/themes/magazine_child/css/responsive.css?ver=4.3" type="text/css" media="all">
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-content/themes/magazine_child/js/customscript2.js?ver=4.3"></script>
+<link rel="stylesheet" id="owl-carousel-css" href="http://www.shoemoney.com/wp-content/themes/mts_steadyincome/css/owl.carousel.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="http://www.shoemoney.com/wp-content/themes/mts_steadyincome/css/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="mp3-jplayer-css" href="http://www.shoemoney.com/wp-content/plugins/mp3-jplayer/css/v1-skins/v1-silver.css" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.shoemoney.com/wp-content/plugins/jetpack/css/jetpack.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mts_customscript = {"responsive":"1","nav_menu":"primary"};
+var pvcArgsFrontend = {"ajaxURL":"http:\/\/www.shoemoney.com\/wp-admin\/admin-ajax.php","postID":"12435","nonce":"c3103fbefd","postType":"page"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-content/themes/magazine/js/customscript.js?ver=4.3"></script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/post-views-counter/js/frontend.js"></script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/nextcellent-gallery-nextgen-legacy/js/owl.carousel.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"primary-menu"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="http://www.shoemoney.com/wp-content/themes/mts_steadyincome/js/customscript.js"></script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/wp-shortcode/js/jquery.tipsy.js"></script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/wp-shortcode/js/wp-shortcode.js"></script>
+<link rel="https://api.w.org/" href="http://www.shoemoney.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.shoemoney.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.shoemoney.com/wp-includes/wlwmanifest.xml"> 
 <!--Theme by MyThemeShop.com-->
-<link rel="shortlink" href="http://www.shoemoney.com/?p=12435">
+<link rel="shortlink" href="http://wp.me/P7wzmF-3ez">
+<link rel="alternate" type="application/json+oembed" href="http://www.shoemoney.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.shoemoney.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.shoemoney.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.shoemoney.com%2Fprivacy-policy%2F&amp;format=xml">
 
 <script type="text/javascript">
 var g_hanaFlash = false;
@@ -128,86 +174,140 @@ try {
 function hanaTrackEvents(arg1,arg2,arg3,arg4) { if ( typeof( pageTracker ) !=='undefined') { pageTracker._trackEvent(arg1, arg2, arg3, arg4);} else if ( typeof(_gaq) !=='undefined'){  _gaq.push(['_trackEvent', arg1, arg2, arg3, arg4]);}}
 function hana_check_mobile_device(){ if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/iPad/i)  || navigator.userAgent.match(/Android/i)) { return true; }else return false; }
 </script>
-<!-- <meta name="NextGEN" version="2.1.9" /> -->
+<!-- <meta name="NextGEN" version="1.9.31" /> -->
 
 		<script type="text/javascript"> document.createElement("video");document.createElement("audio");document.createElement("track"); </script>
-		<link href="//fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" rel="stylesheet" type="text/css">
+		<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.shoemoney.com/?wordfence_logHuman=1&hid=AAD06544F22F0B076CC3FFAF853A9F8F');
+</script>
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style><link href="//fonts.googleapis.com/css?family=Roboto:500|Roboto:normal|Open+Sans:500|Open+Sans:normal&amp;subset=latin" rel="stylesheet" type="text/css">
 <style type="text/css">
-#logo a { font-family: 'Open Sans'; font-weight: ; font-size: 48px; color: #444444; }
-.menu li, .menu li a { font-family: 'Open Sans'; font-weight: ; font-size: 20px; color: #ffffff; }
-.single-title { font-family: 'Open Sans'; font-weight: ; font-size: 30px; color: #444444; }
-body { font-family: 'Open Sans'; font-weight: ; font-size: 16px; color: #37384c; }
-#sidebars .widget { font-family: 'Open Sans'; font-weight: ; font-size: 16px; color: #37384c; }
-.footer-widgets { font-family: 'Open Sans'; font-weight: ; font-size: 16px; color: #37384c; }
-h1 { font-family: 'Open Sans'; font-weight: ; font-size: 26px; color: #37384c; }
-h2 { font-family: 'Open Sans'; font-weight: ; font-size: 24px; color: #37384c; }
-h3 { font-family: 'Open Sans'; font-weight: ; font-size: 22px; color: #37384c; }
-h4 { font-family: 'Open Sans'; font-weight: ; font-size: 20px; color: #37384c; }
-h5 { font-family: 'Open Sans'; font-weight: ; font-size: 18px; color: #37384c; }
-h6 { font-family: 'Open Sans'; font-weight: ; font-size: 16px; color: #37384c; }
+.menu li, .menu li a { font-family: 'Roboto'; font-weight: 500; font-size: 16px; color: #6b6f6e;text-transform: uppercase; }
+.latestpost_wrap .front-view-title a { font-family: 'Roboto'; font-weight: 500; font-size: 28px; color: #2a2f2d;text-transform: initial }
+.single-title { font-family: 'Roboto'; font-weight: 500; font-size: 36px; color: #2A2F2D;text-transform: initial }
+body { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #444b49; }
+#sidebars .widget { font-family: 'Open Sans'; font-weight: 500; font-size: 15px; color: #9C9C9C; }
+.footer-widgets { font-family: 'Open Sans'; font-weight: normal; font-size: 14px; color: #888888; }
+h1 { font-family: 'Roboto'; font-weight: 500; font-size: 28px; color: #2A2F2D;text-transform: uppercase; }
+h2 { font-family: 'Roboto'; font-weight: 500; font-size: 24px; color: #2A2F2D;text-transform: uppercase; }
+h3 { font-family: 'Roboto'; font-weight: 500; font-size: 22px; color: #2A2F2D;text-transform: uppercase; }
+h4 { font-family: 'Roboto'; font-weight: 500; font-size: 20px; color: #2A2F2D;text-transform: uppercase; }
+h5 { font-family: 'Roboto'; font-weight: 500; font-size: 18px; color: #2A2F2D;text-transform: uppercase; }
+h6 { font-family: 'Roboto'; font-weight: 500; font-size: 16px; color: #2A2F2D;text-transform: uppercase; }
 </style>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><style type="text/css" id="syntaxhighlighteranchor"></style>
-<script type="text/javascript" charset="utf-8" async="" defer="" src="//app.wishloop.com/bjs/1909"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body id="blog" class="page page-id-12435 page-template-default main" itemscope="" itemtype="http://schema.org/WebPage">       
-	<div class="main-container">
-		<header class="main-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
-			<div class="container">
-				<div id="header">
-					                 
 
-					<div class="logo-wrap">
-																					  <h2 id="logo" class="image-logo" itemprop="headline">
-										<a href="http://www.shoemoney.com"><img src="http://www.shoemoney.com/wp-content/uploads/2015/05/logo.png" alt="ShoeMoney"></a>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.shoemoney.com/privacy-policy/">
+<meta property="og:description" content="SHOEMONEY.COM PRIVACY POLICY (UPDATED 8/2011) PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE. I. OVERVIEW ShoeMoney Media Group (“ShoeMoney”…">
+<meta property="article:published_time" content="2011-10-14T15:50:41+00:00">
+<meta property="article:modified_time" content="2016-05-24T16:10:54+00:00">
+<meta property="og:site_name" content="ShoeMoney">
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary">
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body id="blogs" class="page page-id-12435 page-template-default main" itemscope="" itemtype="http://schema.org/WebPage">
+	<div class="header-wrapper">
+		<header id="site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+			<div class="main-container">
+							<div class="nav_wrap sticky-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+								<div class="container">
+						<div class="logo-wrap">
+																								<h2 id="logo" class="image-logo" itemprop="headline">
+										<a href="http://www.shoemoney.com"><img src="http://www.shoemoney.com/wp-content/uploads/2016/05/logo-1.png" alt="ShoeMoney" width="265" height="103"></a>
 									</h2><!-- END #logo -->
-																		</div>
-					
-										            
-				</div><!--#header-->
-			</div><!--.container-->        	
-							<div id="sticky" class="primary-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-				  <div class="container">
-				    <a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
-				    <nav id="navigation" class="clearfix mobile-menu-wrapper">
-													<ul id="menu-main" class="menu clearfix"><li id="menu-item-132713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132713"><a title="" target="" rel="" href="http://www.shoemoney.com/" style=""><i class="fa fa-home wpmm-menu-icon"></i> Home</a><style type="text/css">
+																					</div>
+													<div id="primary-navigation" class="primary-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+								<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+																	<nav class="navigation clearfix mobile-menu-wrapper">
+																					<ul id="menu-main" class="menu clearfix"><li id="menu-item-132713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132713"><a title="" target="" rel="" href="http://www.shoemoney.com/" style=""><i class="fa fa-home wpmm-menu-icon"></i> Home</a><style type="text/css">
 </style></li>
-<li id="menu-item-9104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9104"><a title="" target="" rel="" href="http://www.shoemoney.com/shoemoney-biography" style=""><i class="fa fa-question-circle wpmm-menu-icon"></i> About</a><style type="text/css">
+<li id="menu-item-138984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138984"><a title="" target="" rel="" href="http://www.shoemoney.com/blog/" style=""><i class="fa fa-bars wpmm-menu-icon"></i> Blog</a><style type="text/css">
 </style></li>
-<li id="menu-item-9094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9094"><a title="" target="" rel="" href="http://www.shoemoney.com/photos" style=""><i class="fa fa-camera wpmm-menu-icon"></i> Photos</a><style type="text/css">
+<li id="menu-item-9104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9104"><a title="" target="" rel="" href="http://www.shoemoney.com/shoemoney-biography/" style=""><i class="fa fa-question-circle wpmm-menu-icon"></i> About</a><style type="text/css">
 </style></li>
-<li id="menu-item-134072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134072 wpmm-dark-scheme menu-item-wpmm-megamenu menu-item-wpmm-taxonomy wpmm-category"><a title="" target="" rel="" href="http://www.shoemoney.com/category/guides" style="" data-menu_item="134072" data-object="category" data-object_id="16103" data-show="posts" data-pagination="1" data-excerpts="0" data-subcategories="" data-authors="0" data-thumbnails="1" data-dates="0" data-colorscheme="wpmm-dark-scheme"><i class="fa fa-book wpmm-menu-icon"></i> Resources <i class="fa fa-caret-down wpmm-megamenu-indicator"></i> </a><style type="text/css">
-#wpmm-megamenu.menu-item-134072-megamenu {  } 
-.menu-item-134072-megamenu.wpmm-visible { -webkit-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; -moz-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; -o-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; animation: 0.5s ease 0s normal none 1 wpmm_fadeIn;  } 
-.menu-item-134072-megamenu.wpmm-hidden { -webkit-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; -moz-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; -o-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; animation: 0.5s ease 0s normal none 1 wpmm_fadeOut;  } 
+<li id="menu-item-134957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134957"><a title="" target="" rel="" href="http://www.shoemoney.com/advertising-on-shoemoney/" style=""><i class="fa fa-building wpmm-menu-icon"></i> Advertising</a><style type="text/css">
 </style></li>
-<li id="menu-item-134096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134096 wpmm-dark-scheme menu-item-wpmm-megamenu menu-item-wpmm-taxonomy wpmm-category"><a title="" target="" rel="" href="http://www.shoemoney.com/category/interviews" style="" data-menu_item="134096" data-object="category" data-object_id="16104" data-show="posts" data-pagination="0" data-excerpts="0" data-subcategories="" data-authors="0" data-thumbnails="1" data-dates="0" data-colorscheme="wpmm-dark-scheme"><i class="fa fa-video-camera wpmm-menu-icon"></i> Interviews <i class="fa fa-caret-down wpmm-megamenu-indicator"></i> </a><style type="text/css">
-#wpmm-megamenu.menu-item-134096-megamenu {  } 
-.menu-item-134096-megamenu.wpmm-visible { -webkit-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; -moz-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; -o-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; animation: 0.5s ease 0s normal none 1 wpmm_fadeIn;  } 
-.menu-item-134096-megamenu.wpmm-hidden { -webkit-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; -moz-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; -o-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; animation: 0.5s ease 0s normal none 1 wpmm_fadeOut;  } 
+<li id="menu-item-134958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134958"><a title="" target="" rel="" href="http://www.shoemoney.com/radio/" style=""><i class="fa fa-music wpmm-menu-icon"></i> Video Casts</a><style type="text/css">
 </style></li>
-<li id="menu-item-134103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134103 wpmm-dark-scheme menu-item-wpmm-megamenu menu-item-wpmm-taxonomy wpmm-category"><a title="" target="" rel="" href="http://www.shoemoney.com/category/speaking" style="" data-menu_item="134103" data-object="category" data-object_id="16105" data-show="posts" data-pagination="0" data-excerpts="0" data-subcategories="" data-authors="0" data-thumbnails="1" data-dates="0" data-colorscheme="wpmm-dark-scheme"><i class="fa fa-film wpmm-menu-icon"></i> My Talks <i class="fa fa-caret-down wpmm-megamenu-indicator"></i> </a><style type="text/css">
-#wpmm-megamenu.menu-item-134103-megamenu {  } 
-.menu-item-134103-megamenu.wpmm-visible { -webkit-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; -moz-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; -o-animation: 0.5s ease 0s normal none 1 wpmm_fadeIn; animation: 0.5s ease 0s normal none 1 wpmm_fadeIn;  } 
-.menu-item-134103-megamenu.wpmm-hidden { -webkit-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; -moz-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; -o-animation: 0.5s ease 0s normal none 1 wpmm_fadeOut; animation: 0.5s ease 0s normal none 1 wpmm_fadeOut;  } 
+<li id="menu-item-132715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132715"><a title="Contact Us" target="" rel="" href="http://www.shoemoney.com/contact/" style=""><i class="fa fa-bullhorn wpmm-menu-icon"></i> Contact Us</a><style type="text/css">
 </style></li>
-<li id="menu-item-132715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132715"><a title="Contact Us" target="" rel="" href="http://www.shoemoney.com/contact" style=""><i class="fa fa-bullhorn wpmm-menu-icon"></i> Contact Us</a><style type="text/css">
-</style></li>
-</ul>											</nav>
-				   </div> 
+</ul>																			</nav>
+																<div class="search-style-one">
+									<a id="trigger-overlay">
+										<i class="fa fa-search"></i>
+									</a>
+									<div class="overlay overlay-slideleft">
+										<div class="search-row">
+											<form method="get" id="searchform" class="search-form" action="http://www.shoemoney.com" _lpchecked="1">
+												<button type="button" class="overlay-close">Close</button>
+												<input type="text" name="s" id="s" value="" placeholder="Search Keyword ...">
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
+											</div>
 				</div>
-				<div id="catcher"></div>
-					
+			</div>
 		</header>
-		<div class="clear"></div><div id="page" class="single">
-		<article class="article">
-		<div id="content_box">
-							<div id="post-12435" class="g post post-12435 page type-page status-publish hentry">
-					<div class="single_page">
-													<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><div><i class="fa fa-home"></i></div> <div typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="http://www.shoemoney.com">Home</a></div><div class="icon-font"><i class="fa fa-caret-right"></i></div><div typeof="v:Breadcrumb"><span property="v:title">Privacy Policy</span></div></div>
-												<header>
-							<h1 class="title entry-title">Privacy Policy</h1>
-						</header>
-						<div class="post-content box mark-links entry-content">
-							<p align="center"><strong>SHOEMONEY.COM PRIVACY POLICY (UPDATED 8/2011)</strong></p>
+	</div>
+				<div class="breadcrumb_wrap">
+				<div class="main-container">
+											<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+							<div><i class="fa fa-home"></i></div> <div typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="http://www.shoemoney.com">Home</a></div><div><i class="fa fa-caret-right"></i></div><div><span>Privacy Policy</span></div>						</div>
+														</div>
+			</div>
+	<div class="main-container">
+	<div id="page">
+		<div class="article">
+			<div id="content_box">
+				<div id="post-12435" class="g post post-12435 page type-page status-publish hentry">
+					<div class="single_page single_post">
+						<div class="post-single-content box mark-links entry-content">
+							<div class="thecontent">
+																								<article class="latestPost latestarticle excerpt">
+									<!--article-1, first content-->
+																			<header>
+											<h1 class="title front-view-title">
+												Privacy Policy											</h1>
+										</header>
+										<div class="post-content box mark-links entry-content">
+											<p align="center"><strong>SHOEMONEY.COM PRIVACY POLICY (UPDATED 8/2011)</strong></p>
 <p><strong>PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE.</strong></p>
 <p><strong>I. OVERVIEW</strong></p>
 <p>ShoeMoney Media Group (“ShoeMoney”) recognizes and respects the privacy of users of ShoeMoney.com (the “Website”). The following privacy policy, as modified from time to time by us as described below (the “Policy”), tells you about the information that ShoeMoney collects through the Website and how we use the information we may collect. If you access the Website, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us.</p>
@@ -235,271 +335,216 @@ h6 { font-family: 'Open Sans'; font-weight: ; font-size: 16px; color: #37384c; }
 <p><strong>VIII. CONTACT</strong></p>
 <p>If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please email info@ShoeMoney.com.</p>
 <p>Our address is 1316 N. Street, Lincoln, NE&nbsp; 68508, Attention: ShoeMoney Counsel.</p>
-													</div><!--.post-content box mark-links-->
+																					</div>
+										<!-- You can start editing here. -->
+
+																	</article>
+							</div>
+						</div>
 					</div>
 				</div>
-					</div>
-	</article>
-	<aside class="sidebar c-4-12" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
-	<div id="sidebars" class="g">
-		<div class="sidebar">
-			<div id="search-5" class="widget widget_search"><form method="get" id="searchform" class="search-form" action="http://www.shoemoney.com" _lpchecked="1">
-	<fieldset>
-		<input type="text" name="s" id="s" value="" placeholder="Search the site">
-		<input id="search-image" class="sbutton" type="submit" value="">
-		<i class="fa fa-search"></i>
-	</fieldset>
-</form>
-</div><div id="facebook-like-widget-2" class="widget facebook_like"><h3 class="widget-title">Stay Connected</h3>			<div class="fb-page" data-href="http://www.facebook.com/shoemoney" data-width="300" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
-		</div><div id="text-5" class="widget widget_text"><h3 class="widget-title">Most Viewed Photo</h3>			<div class="textwidget"><a href="http://www.shoemoney.com/photos/gallery/shoemoney/checks" title="Adsense check for 132994.97"><img class="sidebarimage" src="http://www.shoemoney.com/images/adsensecheck.jpg" alt="Adsense check for 132994.97"></a>
+			</div>
+		</div>
+			<aside class="sidebar c-4-12" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+		<div id="sidebars" class="g">
+			<div class="sidebar sidebar">
+				<div id="social-profile-icons-2" class="widget social-profile-icons"><h3 class="widget-title">Connect with Me</h3><div class="social-profile-icons"><ul class=""><li class="social-facebook"><a title="Facebook" href="https://www.facebook.com/shoemoney/"><i class="fa fa-facebook"></i></a></li><li class="social-gplus"><a title="Google+" href="https://plus.google.com/115832841787952710331"><i class="fa fa-google-plus"></i></a></li><li class="social-twitter"><a title="Twitter" href="https://twitter.com/shoemoney"><i class="fa fa-twitter"></i></a></li><li class="social-youtube"><a title="YouTube" href="https://www.youtube.com/user/shoemoney"><i class="fa fa-youtube"></i></a></li><li class="social-rss"><a title="RSS" href="http://shoemoney.com/feed"><i class="fa fa-rss"></i></a></li></ul></div></div><div id="facebook-like-widget-3" class="widget facebook_like"><h3 class="widget-title">Stay Connected</h3>			<div class="fb-page" data-href="http://www.facebook.com/shoemoney" data-width="320" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
+		</div><div id="text-10" class="widget widget_text"><h3 class="widget-title">Most Viewed Photo</h3>			<div class="textwidget"><a href="http://www.shoemoney.com/2016/02/27/the-iconic-google-adsense-check-and-my-10-year-journey-after/" title="Adsense check for 132994.97"><img class="sidebarimage" src="http://www.shoemoney.com/images/adsensecheck.jpg" alt="Adsense check for 132994.97" width="320"></a>
 </div>
-		</div><div id="archives-7" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-7">Archives</label>
-		<select id="archives-dropdown-7" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
-			
-			<option value="">Select Month</option>
-				<option value="http://www.shoemoney.com/2015/09"> September 2015 </option>
-	<option value="http://www.shoemoney.com/2015/08"> August 2015 </option>
-	<option value="http://www.shoemoney.com/2015/07"> July 2015 </option>
-	<option value="http://www.shoemoney.com/2015/06"> June 2015 </option>
-	<option value="http://www.shoemoney.com/2015/05"> May 2015 </option>
-	<option value="http://www.shoemoney.com/2015/04"> April 2015 </option>
-	<option value="http://www.shoemoney.com/2015/03"> March 2015 </option>
-	<option value="http://www.shoemoney.com/2015/02"> February 2015 </option>
-	<option value="http://www.shoemoney.com/2015/01"> January 2015 </option>
-	<option value="http://www.shoemoney.com/2014/12"> December 2014 </option>
-	<option value="http://www.shoemoney.com/2014/11"> November 2014 </option>
-	<option value="http://www.shoemoney.com/2014/10"> October 2014 </option>
-	<option value="http://www.shoemoney.com/2014/09"> September 2014 </option>
-	<option value="http://www.shoemoney.com/2014/08"> August 2014 </option>
-	<option value="http://www.shoemoney.com/2014/07"> July 2014 </option>
-	<option value="http://www.shoemoney.com/2014/06"> June 2014 </option>
-	<option value="http://www.shoemoney.com/2014/05"> May 2014 </option>
-	<option value="http://www.shoemoney.com/2014/04"> April 2014 </option>
-	<option value="http://www.shoemoney.com/2014/03"> March 2014 </option>
-	<option value="http://www.shoemoney.com/2014/02"> February 2014 </option>
-	<option value="http://www.shoemoney.com/2014/01"> January 2014 </option>
-	<option value="http://www.shoemoney.com/2013/12"> December 2013 </option>
-	<option value="http://www.shoemoney.com/2013/11"> November 2013 </option>
-	<option value="http://www.shoemoney.com/2013/10"> October 2013 </option>
-	<option value="http://www.shoemoney.com/2013/09"> September 2013 </option>
-	<option value="http://www.shoemoney.com/2013/08"> August 2013 </option>
-	<option value="http://www.shoemoney.com/2013/07"> July 2013 </option>
-	<option value="http://www.shoemoney.com/2013/06"> June 2013 </option>
-	<option value="http://www.shoemoney.com/2013/05"> May 2013 </option>
-	<option value="http://www.shoemoney.com/2013/04"> April 2013 </option>
-	<option value="http://www.shoemoney.com/2013/03"> March 2013 </option>
-	<option value="http://www.shoemoney.com/2013/02"> February 2013 </option>
-	<option value="http://www.shoemoney.com/2013/01"> January 2013 </option>
-	<option value="http://www.shoemoney.com/2012/12"> December 2012 </option>
-	<option value="http://www.shoemoney.com/2012/11"> November 2012 </option>
-	<option value="http://www.shoemoney.com/2012/10"> October 2012 </option>
-	<option value="http://www.shoemoney.com/2012/09"> September 2012 </option>
-	<option value="http://www.shoemoney.com/2012/08"> August 2012 </option>
-	<option value="http://www.shoemoney.com/2012/07"> July 2012 </option>
-	<option value="http://www.shoemoney.com/2012/06"> June 2012 </option>
-	<option value="http://www.shoemoney.com/2012/05"> May 2012 </option>
-	<option value="http://www.shoemoney.com/2012/04"> April 2012 </option>
-	<option value="http://www.shoemoney.com/2012/03"> March 2012 </option>
-	<option value="http://www.shoemoney.com/2012/02"> February 2012 </option>
-	<option value="http://www.shoemoney.com/2012/01"> January 2012 </option>
-	<option value="http://www.shoemoney.com/2011/12"> December 2011 </option>
-	<option value="http://www.shoemoney.com/2011/11"> November 2011 </option>
-	<option value="http://www.shoemoney.com/2011/10"> October 2011 </option>
-	<option value="http://www.shoemoney.com/2011/09"> September 2011 </option>
-	<option value="http://www.shoemoney.com/2011/08"> August 2011 </option>
-	<option value="http://www.shoemoney.com/2011/07"> July 2011 </option>
-	<option value="http://www.shoemoney.com/2011/06"> June 2011 </option>
-	<option value="http://www.shoemoney.com/2011/05"> May 2011 </option>
-	<option value="http://www.shoemoney.com/2011/04"> April 2011 </option>
-	<option value="http://www.shoemoney.com/2011/03"> March 2011 </option>
-	<option value="http://www.shoemoney.com/2011/02"> February 2011 </option>
-	<option value="http://www.shoemoney.com/2011/01"> January 2011 </option>
-	<option value="http://www.shoemoney.com/2010/12"> December 2010 </option>
-	<option value="http://www.shoemoney.com/2010/11"> November 2010 </option>
-	<option value="http://www.shoemoney.com/2010/10"> October 2010 </option>
-	<option value="http://www.shoemoney.com/2010/09"> September 2010 </option>
-	<option value="http://www.shoemoney.com/2010/08"> August 2010 </option>
-	<option value="http://www.shoemoney.com/2010/07"> July 2010 </option>
-	<option value="http://www.shoemoney.com/2010/06"> June 2010 </option>
-	<option value="http://www.shoemoney.com/2010/05"> May 2010 </option>
-	<option value="http://www.shoemoney.com/2010/04"> April 2010 </option>
-	<option value="http://www.shoemoney.com/2010/03"> March 2010 </option>
-	<option value="http://www.shoemoney.com/2010/02"> February 2010 </option>
-	<option value="http://www.shoemoney.com/2010/01"> January 2010 </option>
-	<option value="http://www.shoemoney.com/2009/12"> December 2009 </option>
-	<option value="http://www.shoemoney.com/2009/11"> November 2009 </option>
-	<option value="http://www.shoemoney.com/2009/10"> October 2009 </option>
-	<option value="http://www.shoemoney.com/2009/09"> September 2009 </option>
-	<option value="http://www.shoemoney.com/2009/08"> August 2009 </option>
-	<option value="http://www.shoemoney.com/2009/07"> July 2009 </option>
-	<option value="http://www.shoemoney.com/2009/06"> June 2009 </option>
-	<option value="http://www.shoemoney.com/2009/05"> May 2009 </option>
-	<option value="http://www.shoemoney.com/2009/04"> April 2009 </option>
-	<option value="http://www.shoemoney.com/2009/03"> March 2009 </option>
-	<option value="http://www.shoemoney.com/2009/02"> February 2009 </option>
-	<option value="http://www.shoemoney.com/2009/01"> January 2009 </option>
-	<option value="http://www.shoemoney.com/2008/12"> December 2008 </option>
-	<option value="http://www.shoemoney.com/2008/11"> November 2008 </option>
-	<option value="http://www.shoemoney.com/2008/10"> October 2008 </option>
-	<option value="http://www.shoemoney.com/2008/09"> September 2008 </option>
-	<option value="http://www.shoemoney.com/2008/08"> August 2008 </option>
-	<option value="http://www.shoemoney.com/2008/07"> July 2008 </option>
-	<option value="http://www.shoemoney.com/2008/06"> June 2008 </option>
-	<option value="http://www.shoemoney.com/2008/05"> May 2008 </option>
-	<option value="http://www.shoemoney.com/2008/04"> April 2008 </option>
-	<option value="http://www.shoemoney.com/2008/03"> March 2008 </option>
-	<option value="http://www.shoemoney.com/2008/02"> February 2008 </option>
-	<option value="http://www.shoemoney.com/2008/01"> January 2008 </option>
-	<option value="http://www.shoemoney.com/2007/12"> December 2007 </option>
-	<option value="http://www.shoemoney.com/2007/11"> November 2007 </option>
-	<option value="http://www.shoemoney.com/2007/10"> October 2007 </option>
-	<option value="http://www.shoemoney.com/2007/09"> September 2007 </option>
-	<option value="http://www.shoemoney.com/2007/08"> August 2007 </option>
-	<option value="http://www.shoemoney.com/2007/07"> July 2007 </option>
-	<option value="http://www.shoemoney.com/2007/06"> June 2007 </option>
-	<option value="http://www.shoemoney.com/2007/05"> May 2007 </option>
-	<option value="http://www.shoemoney.com/2007/04"> April 2007 </option>
-	<option value="http://www.shoemoney.com/2007/03"> March 2007 </option>
-	<option value="http://www.shoemoney.com/2007/02"> February 2007 </option>
-	<option value="http://www.shoemoney.com/2007/01"> January 2007 </option>
-	<option value="http://www.shoemoney.com/2006/12"> December 2006 </option>
-	<option value="http://www.shoemoney.com/2006/11"> November 2006 </option>
-	<option value="http://www.shoemoney.com/2006/10"> October 2006 </option>
-	<option value="http://www.shoemoney.com/2006/09"> September 2006 </option>
-	<option value="http://www.shoemoney.com/2006/08"> August 2006 </option>
-	<option value="http://www.shoemoney.com/2006/07"> July 2006 </option>
-	<option value="http://www.shoemoney.com/2006/06"> June 2006 </option>
-	<option value="http://www.shoemoney.com/2006/05"> May 2006 </option>
-	<option value="http://www.shoemoney.com/2006/04"> April 2006 </option>
-	<option value="http://www.shoemoney.com/2006/03"> March 2006 </option>
-	<option value="http://www.shoemoney.com/2006/02"> February 2006 </option>
-	<option value="http://www.shoemoney.com/2006/01"> January 2006 </option>
-	<option value="http://www.shoemoney.com/2005/12"> December 2005 </option>
-	<option value="http://www.shoemoney.com/2005/11"> November 2005 </option>
-	<option value="http://www.shoemoney.com/2005/10"> October 2005 </option>
-	<option value="http://www.shoemoney.com/2005/09"> September 2005 </option>
-	<option value="http://www.shoemoney.com/2005/08"> August 2005 </option>
-	<option value="http://www.shoemoney.com/2005/05"> May 2005 </option>
-	<option value="http://www.shoemoney.com/2004/07"> July 2004 </option>
+		</div><div id="text-11" class="widget widget_text">			<div class="textwidget"><a href="http://track.glhf.us/aff_c?offer_id=2&amp;aff_id=2&amp;aff_sub=blogsidebar"><img src="http://www.shoemoney.com/wp-content/uploads/2015/05/300x250-Banner-1-Shoemoney-Network.jpg" width="320"></a></div>
+		</div>			</div>
+		</div><!--sidebars-->
+	</aside>
+	</div>
+</div>
+<!--#page-->
+	<footer id="site-footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+		<div class="main-container">
+                            <div class="footer-widgets first-footer-widgets widgets-num-4">
+                                            <div class="f-widget f-widget-1">
+                            <div id="text-13" class="widget widget_text"><h3 class="widget-title">About ShoeMoney</h3>			<div class="textwidget">Jeremy "ShoeMoney" Schoemaker is an Husband, Father, Entrepreneur, blogger and internationally best selling author.  To date Jeremy has sold 6 companies, 2 for over 10 million, and has sold over 50 million dollars of his own and other companies products.</div>
+		</div>                        </div>
+                                                <div class="f-widget f-widget-2">
+                            <div id="mts_popular_posts_widget-2" class="widget widget_mts_popular_posts_widget horizontal-small"><h3 class="widget-title">Popular Posts</h3><ul class="popular-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="http://www.shoemoney.com/2016/05/09/maropost-marketing-cloud-almost-put-business/" title="How MaroPost Cost Me Tens Of Thousands Of Dollars">
+													<img width="70" height="70" src="http://www.shoemoney.com/wp-content/uploads/2016/05/maxresdefault-70x70.jpg" class="attachment-steadyincome-widgetthumb size-steadyincome-widgetthumb wp-post-image" alt="maxresdefault" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="http://www.shoemoney.com/2016/05/09/maropost-marketing-cloud-almost-put-business/" title="How MaroPost Cost Me Tens Of Thousands Of Dollars">How MaroPost Cost Me Tens Of Thousands Of Dollars</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="http://www.shoemoney.com/2016/03/28/affiliate-networks-screwing/" title="How Affiliate Networks Are Screwing You">
+													<img width="70" height="70" src="http://www.shoemoney.com/wp-content/uploads/2016/03/affiliate-marketing-with-shoemoney-ipad-screenshot-1-70x70.jpg" class="attachment-steadyincome-widgetthumb size-steadyincome-widgetthumb wp-post-image" alt="affiliate-marketing-with-shoemoney-ipad-screenshot-1" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="http://www.shoemoney.com/2016/03/28/affiliate-networks-screwing/" title="How Affiliate Networks Are Screwing You">How Affiliate Networks Are Screwing You</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>		</ul>
+</div>                        </div>
+                                                <div class="f-widget f-widget-3">
+                            <div id="mts_recent_posts_widget-2" class="widget widget_mts_recent_posts_widget horizontal-small"><h3 class="widget-title">Recent Posts</h3><ul class="advanced-recent-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="http://www.shoemoney.com/2016/02/27/the-iconic-google-adsense-check-and-my-10-year-journey-after/" title="The Iconic Google AdSense Check and My 10 Year Journey After">
+													<img width="70" height="70" src="http://www.shoemoney.com/wp-content/uploads/2016/02/Google-adsense-check-70x70.jpg" class="attachment-steadyincome-widgetthumb size-steadyincome-widgetthumb wp-post-image" alt="Google adsense check" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="http://www.shoemoney.com/2016/02/27/the-iconic-google-adsense-check-and-my-10-year-journey-after/" title="The Iconic Google AdSense Check and My 10 Year Journey After">The Iconic Google AdSense Check and My 10 Year Journey&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="http://www.shoemoney.com/2016/06/14/shoemoney-show-live-stephan-spencer-come-join-us/" title="ShoeMoney Show LIVE With Stephan Spencer (Come Join Us!)">
+													<img width="70" height="70" src="http://www.shoemoney.com/wp-content/uploads/2016/06/stephanspencer-headshot-70x70.jpg" class="attachment-steadyincome-widgetthumb size-steadyincome-widgetthumb wp-post-image" alt="stephanspencer headshot" title="" srcset="http://www.shoemoney.com/wp-content/uploads/2016/06/stephanspencer-headshot-70x70.jpg 70w, http://www.shoemoney.com/wp-content/uploads/2016/06/stephanspencer-headshot-150x150.jpg 150w, http://www.shoemoney.com/wp-content/uploads/2016/06/stephanspencer-headshot-224x224.jpg 224w, http://www.shoemoney.com/wp-content/uploads/2016/06/stephanspencer-headshot.jpg 512w" sizes="(max-width: 70px) 100vw, 70px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="http://www.shoemoney.com/2016/06/14/shoemoney-show-live-stephan-spencer-come-join-us/" title="ShoeMoney Show LIVE With Stephan Spencer (Come Join Us!)">ShoeMoney Show LIVE With Stephan Spencer (Come Join Us!)</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="http://www.shoemoney.com/2016/06/08/udemy-employee-hacked-users-fall-phishing/" title="Udemy Hacked Usernames &amp; Passwords Captured (Irresponsible Response)">
+													<img width="70" height="70" src="http://www.shoemoney.com/wp-content/uploads/2016/06/udemy-free-online-courses-70x70.jpg" class="attachment-steadyincome-widgetthumb size-steadyincome-widgetthumb wp-post-image" alt="udemy-free-online-courses" title="" srcset="http://www.shoemoney.com/wp-content/uploads/2016/06/udemy-free-online-courses-70x70.jpg 70w, http://www.shoemoney.com/wp-content/uploads/2016/06/udemy-free-online-courses-224x224.jpg 224w" sizes="(max-width: 70px) 100vw, 70px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="http://www.shoemoney.com/2016/06/08/udemy-employee-hacked-users-fall-phishing/" title="Udemy Hacked Usernames &amp; Passwords Captured (Irresponsible Response)">Udemy Hacked Usernames &amp; Passwords Captured (Irresponsible Response)</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>		</ul>
+</div>                        </div>
+                                                <div class="f-widget last f-widget-4">
+                            <div id="text-14" class="widget widget_text">			<div class="textwidget"><div class="wp-subscribe has-name-field" id="wp-subscribe">
+                <h4 class="title">Create your account</h4>
+                <p class="text"></p>
 
-		</select>
-</div><div id="text-9" class="widget widget_text">			<div class="textwidget"><a href="http://track.glhf.us/aff_c?offer_id=2&amp;aff_id=2&amp;aff_sub=blogsidebar"><img src="http://www.shoemoney.com/wp-content/uploads/2015/05/300x250-Banner-1-Shoemoney-Network.jpg"></a></div>
-		</div>		</div>
-	</div><!--sidebars-->
-</aside>
-	</div><!--#page-->
-	<footer class="footer clearfix" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
-        <div class="container">
-                        
-            
-            <div class="copyrights">
-				<!--start copyrights-->
-
-        <div class="container">       
-                <div class="row" id="copyright-note">
-                       <span>2015 © copyright&nbsp;<a href="http://www.shoemoney.com/" title="Skills to Pay the Bills" rel="nofollow">ShoeMoney</a></span>
-                       <div class="to-top"> <a href="/privacy-policy/">Privacy Policy</a>&nbsp; &nbsp; &nbsp;
-<a href="/terms-of-service/">Terms of Service</a> &nbsp; &nbsp; &nbsp;
-<a href="http://www.shoemoney.com/dmca-information/" title="DMCA Information">DMCA</a> &nbsp; &nbsp; &nbsp;
-<a href="http://www.shoemoney.com/contact/">Contact</a> &nbsp; &nbsp; &nbsp; Magazine Theme by <a href="http://mythemeshop.com/" rel="nofollow">MyThemeShop</a>&nbsp; <a href="#blog" id="footer-to-top" class="to-top"><i class="fa fa-angle-double-up"></i></a></div>
-                    </div> 
+                                
+                                        <form action="http://shoemoney.net/createaccount.php" method="post">
+                                                <input class="name-field placeholder" type="text" value="" placeholder="Name" name="name">
+                                                <input class="email-field placeholder" type="email" value="" placeholder="Email" name="email">
+<input type="hidden" id="t" name="t" value="">
+                        <input type="hidden" value="1" name="bninja_letterpg">
+                        <input type="hidden" name="h1" value="2">
+                        <input type="hidden" name="h2" value="">
+                        <input type="hidden" name="h3" value="blog22">
+                        <input class="submit" name="submit" type="submit" style="border-color:#FFA054;" value="Lets Get Started!">
+                        <input type="hidden" name="widget_id" value="wp_subscribe-5">
+                    </form>
+                                    <div class="clear"></div>
+                
+                <p class="footer-text">100% Privacy. No Spam.</p>
+                
+            </div></div>
+		</div>                        </div>
+                                        </div><!--.first-footer-widgets-->
+             
+		</div><!--.container-->
+        <div class="copyrights">
+            <div class="main-container">
+                <!--start copyrights-->
+<div class="row" id="copyright-note">
+    <span>Copyright © 2016. Theme by <a href="https://mythemeshop.com/?ref=shoemoney" rel="nofollow">MyThemeShop</a>
+<div id="move-to-top" style="position: fixed;bottom: 20px;right: 20px;background: #2BB0E8;padding: 15px;border-radius: 5px;max-width: 350px;width: 350px;height: auto;z-index: 1000;" class="mts-floating-popup animate floating-popup">
+    <div style=" max-width: 230px; float: left; color: #fff; margin-bottom: 5px;">Ready to get started? Signup for my <strong>FREE</strong> step by step training program.</div>
+    <img src="http://www.shoemoney.com/wp-content/uploads/2016/05/shoemoney-1.jpg" width="110" height="100" style="float: right;border-radius: 5px;" scale="0">
+    <form action="http://shoemoney.net/createaccount.php" method="post" style="float: none;display: inline-block;margin: 0 auto;max-width: 225px;text-align: center;" _lpchecked="1">
+        <input class="email-field placeholder" type="email" value="" placeholder="Email" name="email" style="width: 100%;box-sizing: border-box;margin-bottom: 5px;border-color: #fff;border-radius: 3px;padding: 4px 12px;text-align: center;">
+        <input type="hidden" id="t" name="t" value="">
+        <input type="hidden" value="1" name="bninja_letterpg">
+        <input type="hidden" name="h1" value="2">
+        <input type="hidden" name="h2" value="">
+        <input type="hidden" name="h3" value="blogsubmit">
+        <input class="submit" name="submit" type="submit" style="width: 100%;background: #F2EB92;border-color: #F2EB92;border-radius: 3px;padding: 4px 12px;" value="Lets Get Started!">
+        <input type="hidden" name="widget_id" value="wp_subscribe-5">
+    </form>
+    <div class="popup-close" style="position: absolute; top: -10px; right: -10px; text-align: center; width: 20px; line-height: 20px; background: #fff; color: #2bb0e8; border: 3px solid #2bb0e8; border-radius: 50%;">x</div>
+</div>
+<script>
+// floating popup
+jQuery(window).scroll(function () {
+	if (jQuery(this).scrollTop() > 260) {
+		jQuery('.mts-floating-popup').addClass('filling').removeClass('hiding');
+	} else {
+		jQuery('.mts-floating-popup').removeClass('filling').addClass('hiding');
+	}
+});
+// hide floating popup
+jQuery(".popup-close").click(function(){
+    jQuery(".floating-popup").hide();
+});
+(function(){var k,e;k=this.jQuery||window.jQuery;e=k(window);k.fn.stick_in_parent=function(d){var v,y,n,p,h,C,s,G,q,H;null==d&&(d={});s=d.sticky_class;y=d.inner_scrolling;C=d.recalc_every;h=d.parent;p=d.offset_top;n=d.spacer;v=d.bottoming;null==p&&(p=0);null==h&&(h=void 0);null==y&&(y=!0);null==s&&(s="is_stuck");null==v&&(v=!0);G=function(a,d,q,z,D,t,r,E){var u,F,m,A,c,f,B,w,x,g,b;if(!a.data("sticky_kit")){a.data("sticky_kit",!0);f=a.parent();null!=h&&(f=f.closest(h));if(!f.length)throw"failed to find stick parent";
+u=m=!1;(g=null!=n?n&&a.closest(n):k("<div />"))&&g.css("position",a.css("position"));B=function(){var c,e,l;if(!E&&(c=parseInt(f.css("border-top-width"),10),e=parseInt(f.css("padding-top"),10),d=parseInt(f.css("padding-bottom"),10),q=f.offset().top+c+e,z=f.height(),m&&(u=m=!1,null==n&&(a.insertAfter(g),g.detach()),a.css({position:"",top:"",width:"",bottom:""}).removeClass(s),l=!0),D=a.offset().top-parseInt(a.css("margin-top"),10)-p,t=a.outerHeight(!0),r=a.css("float"),g&&g.css({width:a.outerWidth(!0),
+height:t,display:a.css("display"),"vertical-align":a.css("vertical-align"),"float":r}),l))return b()};B();if(t!==z)return A=void 0,c=p,x=C,b=function(){var b,k,l,h;if(!E&&(null!=x&&(--x,0>=x&&(x=C,B())),l=e.scrollTop(),null!=A&&(k=l-A),A=l,m?(v&&(h=l+t+c>z+q,u&&!h&&(u=!1,a.css({position:"fixed",bottom:"",top:c}).trigger("sticky_kit:unbottom"))),l<D&&(m=!1,c=p,null==n&&("left"!==r&&"right"!==r||a.insertAfter(g),g.detach()),b={position:"",width:"",top:""},a.css(b).removeClass(s).trigger("sticky_kit:unstick")),
+y&&(b=e.height(),t+p>b&&!u&&(c-=k,c=Math.max(b-t,c),c=Math.min(p,c),m&&a.css({top:c+"px"})))):l>D&&(m=!0,b={position:"fixed",top:c},b.width="border-box"===a.css("box-sizing")?a.outerWidth()+"px":a.width()+"px",a.css(b).addClass(s),null==n&&(a.after(g),"left"!==r&&"right"!==r||g.append(a)),a.trigger("sticky_kit:stick")),m&&v&&(null==h&&(h=l+t+c>z+q),!u&&h)))return u=!0,"static"===f.css("position")&&f.css({position:"relative"}),a.css({position:"absolute",bottom:d,top:"auto"}).trigger("sticky_kit:bottom")},
+w=function(){B();return b()},F=function(){E=!0;e.off("touchmove",b);e.off("scroll",b);e.off("resize",w);k(document.body).off("sticky_kit:recalc",w);a.off("sticky_kit:detach",F);a.removeData("sticky_kit");a.css({position:"",bottom:"",top:"",width:""});f.position("position","");if(m)return null==n&&("left"!==r&&"right"!==r||a.insertAfter(g),g.remove()),a.removeClass(s)},e.on("touchmove",b),e.on("scroll",b),e.on("resize",w),k(document.body).on("sticky_kit:recalc",w),a.on("sticky_kit:detach",F),setTimeout(b,
+0)}};q=0;for(H=this.length;q<H;q++)d=this[q],G(k(d));return this}}).call(this);
+jQuery(window).load(function() {
+    jQuery('#sidebars .sidebar').height(parseInt(jQuery('#content_box').innerHeight())-50);
+    var $sticky_widgets = jQuery('.sidebar > .widget').slice(-1).wrapAll('<div class="sticky-widgets"></div>');
+    setTimeout(function() {
+        jQuery('.sticky-widgets').stick_in_parent({offset_top: 115});
+    }, 1000);
+});</script></span>
+    	    <div class="top">
+	        <div class="footer-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+	            <nav class="clearfix">
+						                    <ul id="menu-footer" class="menu clearfix"><li id="menu-item-138979" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12435 current_page_item menu-item-138979"><a title="" target="" rel="" href="http://www.shoemoney.com/privacy-policy/" style="">Privacy Policy</a><style type="text/css">
+</style></li>
+<li id="menu-item-138980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138980"><a title="" target="" rel="" href="http://www.shoemoney.com/terms-of-service/" style="">Terms Of Service</a><style type="text/css">
+</style></li>
+<li id="menu-item-138981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138981"><a title="" target="" rel="" href="http://www.shoemoney.com/dmca-information/" style="">DMCA</a><style type="text/css">
+</style></li>
+<li id="menu-item-138983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138983"><a title="" target="" rel="" href="http://www.shoemoney.com/contact/" style="">Contact Us</a><style type="text/css">
+</style></li>
+</ul>	                	            </nav>
+	        </div>
+	    </div>
+	</div>
 <!--end copyrights-->
             </div>
-        
-			</div> 
-		</div><!--.container-->
+        </div>
 	</footer><!--footer-->
-</div><!--.main-container-->
-<!--start footer code-->
-<!-- Google Analytics for ShoeMoney Blog -->
-
-<script type="text/javascript">
-                        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-                        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-                </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-                <script type="text/javascript">
-                        try {
-                                var pageTracker = _gat._getTracker("UA-191351-2");
-                                pageTracker._trackPageview();
-                        } catch(err) {}
-                </script>
-<script type="text/javascript">
-  var _sf_async_config = { uid: 3102, domain: 'shoemoney.com', useCanonical: true };
-  (function() {
-    function loadChartbeat() {
-      window._sf_endpt = (new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-      document.body.appendChild(e);
-    };
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-      loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
-</script>
-<script type="text/javascript">
-adroll_adv_id = "OA7ZFI5C35ESFI7GXSQEHO";
-adroll_pix_id = "2EMJQ4WSUZA3ROHRPHUDWS";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-<!--end footer code-->
-<!-- ngg_resource_manager_marker --><script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<!--.main-container-->
+	<div style="display:none">
+	</div>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpmm = {"ajaxurl":"http:\/\/www.shoemoney.com\/wp-admin\/admin-ajax.php","container_selector":"","css_class":"wpmm"};
+var wpmm = {"ajaxurl":"http:\/\/www.shoemoney.com\/wp-admin\/admin-ajax.php","container_selector":".nav_wrap","css_class":"wpmm"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/js/wpmm.js?ver=1.1.3"></script>
-<script type="text/javascript" src="http://www.shoemoney.com/wp-content/themes/magazine/js/sticky.js?ver=4.3"></script>
-		<script type="text/javascript">
-			(function(d, a) {
-				var h = d.getElementsByTagName("head")[0], p = d.location.protocol, s;
-				s = d.createElement("script");
-				s.type = "text/javascript";
-				s.charset = "utf-8";
-				s.async = true;
-				s.defer = true;
-				s.src = "//app.wishloop.com/bjs/" + a;
-				h.appendChild(s);
-			})(document, '1909');
-		</script>
-	<div class="wpmm-preload wpmm-preload-megamenu-134072"><div class="wpmm-posts wpmm-4-posts "><div class="loaderblock"><div class="loader"><div class="dot1"></div><div class="dot2"></div></div></div><div class="wpmm-post post-134073"><div class="wpmm-thumbnail"><a title="Weapons Of Marketing" href="http://www.shoemoney.com/2015/01/07/weapons-of-marketing"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/05/content.shoemoney.com_.s3.amazonaws.com_blog_shoe-marketingweapons.pdf-1-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="Weapons Of Marketing" href="http://www.shoemoney.com/2015/01/07/weapons-of-marketing">Weapons Of Marketing</a></div></div><div class="wpmm-post post-134041"><div class="wpmm-thumbnail"><a title="My Legal Issues &amp; Downloadable Resources" href="http://www.shoemoney.com/2015/01/07/affiliate-legal-issues"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/01/Legal-Issues-And-Advice-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="My Legal Issues &amp; Downloadable Resources" href="http://www.shoemoney.com/2015/01/07/affiliate-legal-issues">My Legal Issues &amp; Downloadable Resources</a></div></div><div class="wpmm-post post-134039"><div class="wpmm-thumbnail"><a title="ACT Affiliate Marketing Method &amp; Download" href="http://www.shoemoney.com/2015/01/07/the-affiliate-cash-tree-affiliate-marketing-method"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/01/content.affiliatecashtree.com_.s3.amazonaws.com_affiliatecashtreenosale.mp4-1-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="ACT Affiliate Marketing Method &amp; Download" href="http://www.shoemoney.com/2015/01/07/the-affiliate-cash-tree-affiliate-marketing-method">ACT Affiliate Marketing Method &amp; Download</a></div></div><div class="wpmm-post post-134063"><div class="wpmm-thumbnail"><a title="FaceBook Ninja Marketing Presentation" href="http://www.shoemoney.com/2012/01/07/facebook-ninja-marketing-presentation"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/01/4898790606_ed69cd38a6_o-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="FaceBook Ninja Marketing Presentation" href="http://www.shoemoney.com/2012/01/07/facebook-ninja-marketing-presentation">FaceBook Ninja Marketing Presentation</a></div></div></div></div><div class="wpmm-preload wpmm-preload-megamenu-134096"><div class="wpmm-posts wpmm-4-posts "><div class="loaderblock"><div class="loader"><div class="dot1"></div><div class="dot2"></div></div></div><div class="wpmm-post post-134097"><div class="wpmm-thumbnail"><a title="Interviewing Darren Rowse Of Problogger" href="http://www.shoemoney.com/2015/01/08/interviewing-darren-rowse-of-problogger"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-08-at-9.32.56-AM-1-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="Interviewing Darren Rowse Of Problogger" href="http://www.shoemoney.com/2015/01/08/interviewing-darren-rowse-of-problogger">Interviewing Darren Rowse Of Problogger</a></div></div><div class="wpmm-post post-134092"><div class="wpmm-thumbnail"><a title="Sarah East From PopCrunch – *NSFW* – Most Awkward Interview Ever" href="http://www.shoemoney.com/2015/01/08/sarah-east-from-popcrunch-nsfw-most-awkward-interview-ever"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/01/Screen-Shot-2015-05-08-at-9.09.16-AM-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="Sarah East From PopCrunch – *NSFW* – Most Awkward Interview Ever" href="http://www.shoemoney.com/2015/01/08/sarah-east-from-popcrunch-nsfw-most-awkward-interview-ever">Sarah East From PopCrunch – *NSFW* – Most Awkward Interview Ever</a></div></div><div class="wpmm-post post-111677"><div class="wpmm-thumbnail"><a title="I Spill it All To Andrew Warner" href="http://www.shoemoney.com/2013/01/09/interview-with-mixergy-andrew-warner-is-up"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2013/01/ShoeMoney-Internet-Marketing-Blog-–-Skills-to-Pay-the-Bills-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="I Spill it All To Andrew Warner" href="http://www.shoemoney.com/2013/01/09/interview-with-mixergy-andrew-warner-is-up">I Spill it All To Andrew Warner</a></div></div><div class="wpmm-post post-5328"><div class="wpmm-thumbnail"><a title="Interviewing Penn Jillette @ TC 50" href="http://www.shoemoney.com/2009/09/16/meeting-penn-jillette"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2009/09/Screen-Shot-2015-05-08-at-8.52.20-AM-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="Interviewing Penn Jillette @ TC 50" href="http://www.shoemoney.com/2009/09/16/meeting-penn-jillette">Interviewing Penn Jillette @ TC 50</a></div></div></div></div><div class="wpmm-preload wpmm-preload-megamenu-134103"><div class="wpmm-posts wpmm-4-posts "><div class="loaderblock"><div class="loader"><div class="dot1"></div><div class="dot2"></div></div></div><div class="wpmm-post post-134110"><div class="wpmm-thumbnail"><a title="How To Be Successful Making Money Online (keynote)" href="http://www.shoemoney.com/2014/05/01/making-money-online-for-newbies"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2011/05/Screen-Shot-2015-05-08-at-11.57.30-AM-300x200.png" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="How To Be Successful Making Money Online (keynote)" href="http://www.shoemoney.com/2014/05/01/making-money-online-for-newbies">How To Be Successful Making Money Online (keynote)</a></div></div><div class="wpmm-post post-134107"><div class="wpmm-thumbnail"><a title="NamesCon Keynote Talk (Domain Name Focused)" href="http://www.shoemoney.com/2012/05/08/namescon-keynote-talk-domain-name-focused"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2012/05/Screen-Shot-2015-05-08-at-11.24.12-AM-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="NamesCon Keynote Talk (Domain Name Focused)" href="http://www.shoemoney.com/2012/05/08/namescon-keynote-talk-domain-name-focused">NamesCon Keynote Talk (Domain Name Focused)</a></div></div><div class="wpmm-post post-13608"><div class="wpmm-thumbnail"><a title="Affiliate Summit 2012 Closing Keynote With Slides" href="http://www.shoemoney.com/2012/01/24/affiliate-summit-2012-closing-keynote-with-slides"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2012/01/asw-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="Affiliate Summit 2012 Closing Keynote With Slides" href="http://www.shoemoney.com/2012/01/24/affiliate-summit-2012-closing-keynote-with-slides">Affiliate Summit 2012 Closing Keynote With Slides</a></div></div><div class="wpmm-post post-134063"><div class="wpmm-thumbnail"><a title="FaceBook Ninja Marketing Presentation" href="http://www.shoemoney.com/2012/01/07/facebook-ninja-marketing-presentation"><img src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/images/thumb.png" data-src="http://www.shoemoney.com/wp-content/uploads/2015/01/4898790606_ed69cd38a6_o-300x200.jpg" class="wp-post-image"></a></div><div class="wpmm-entry-title"><a title="FaceBook Ninja Marketing Presentation" href="http://www.shoemoney.com/2012/01/07/facebook-ninja-marketing-presentation">FaceBook Ninja Marketing Presentation</a></div></div></div></div>
-<style type="text/css">
-.innertab				{ background-color:rgba(167,167,167,0.35); } 
-.playlist-colour		{ background:rgb(241,241,241); } 
-.interface-mjp			{ color:#525252; } 
-.loadMI_mp3j, .loadB_mp3j, .load_mp3j { background:rgba(52,162,217,0.7); } 
-.poscolMI_mp3j, .MIsliderVolume .ui-widget-header, .vol_mp3t .ui-widget-header, .vol_mp3j .ui-widget-header { background-color:rgba(92,201,255,0.8); } 
-.mp3-tint, .Smp3-tint	{ background-color:rgba(92,201,255,0.8); } 
-.player-track-title	{ font-size:16px; } 
-.a-mjp					{ color:#525252; } 
-.a-mjp:hover			{ color:#768D99 !important; background:transparent !important; } 
-.a-mjp.mp3j_A_current	{ color:#47ACDE !important; background:transparent !important; } 
-.a-mjp					{ font-size:12px; } 
-.transport-MI div, .transport-MI div:hover, span.textbutton_mp3j { color:#47ACDE; } 
-</style>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/wp-mega-menu/js/wpmm.js"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-content/plugins/jetpack/modules/wpgroho.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var slideropts = {"rtl_support":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="http://www.shoemoney.com/wp-content/themes/mts_steadyincome/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="http://www.shoemoney.com/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201624.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'111196793',post:'12435',tz:'-5',srv:'www.shoemoney.com'} ]);
+	_stq.push([ 'clickTrackerInit', '111196793', '12435' ]);
+</script>
 
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3d432d008b","applicationID":"2762766","transactionName":"bldaMBFTWEYAV0YIDlcdeQcXW1lbTkRTBgQ=","queueTime":0,"applicationTime":714,"atts":"QhBZRllJS0g=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
-<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
