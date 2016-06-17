@@ -1,865 +1,340 @@
-<!--The following is the downloaded HTML source of the webmaker.org privacy policy that was archived on 2014-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140508062113id_/https%3A//webmaker.org/en-US/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webmaker.org privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617203404id_/https%3A//www.mozilla.org/en-US/privacy/websites) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" dir="ltr"><head>
-  <meta charset="utf-8">
-  <script type="text/javascript" async="" src="https://web.archive.org/web/20140401184433/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"agent":"js-agent.newrelic.com/nr-411.min.js","beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"8159d9620e","applicationID":"2843226","applicationTime":3.018843,"transactionName":"IU9EEQEXRVkXGiR3NUsYRBENEldQHQ==","queueTime":0,"agentToken":null,"ttGuid":""}; (window.NREUM||(NREUM={})).loader_config={xpid:"VgMCV15aGwEIUFJQBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="csrf-token" content="6p25xM8ZQXluu6H+NzWQ2zJhHUPdpv9dyG854=">
-  <meta name="persona-email" content="">
-  <meta name="maker-id" content="">
-  <meta name="make-endpoint" content="https://makeapi.webmaker.org">
-  <link rel="login" content="https://login.webmaker.org">
+<!DOCTYPE html><html class="linux x86 js x64 loaded" lang="en" dir="ltr" data-latest-firefox="47.0" data-esr-versions="45.2.0"><head>
+    <meta charset="utf-8">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&amp;l=dataLayer"></script><script type="text/javascript" src="/media/js/site-bundle.be10cd843ea5.js" charset="utf-8"></script>              
+<!--
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
 
-  <title>Privacy Policy - Mozilla Webmaker</title>
-  
-  <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.ltr.css">
+Hi there, nice to meet you!
 
-  <!--[if lte IE 9]><link rel="stylesheet" href="/css/warning.css"><![endif]-->
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
 
-  <link rel="icon" type="image/png" href="/img/favicon.ico">
-  <!-- For JS error tracking purposes -->
-  <script src="/js/lib/error-track.js" async=""></script>
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/js/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/bower/jquery/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/cta" src="/js/base/cta.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/marquee" src="/js/base/marquee.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/email-signup" src="/js/base/email-signup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="base/anchor-slide" src="/js/base/anchor-slide.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.powertip" src="/js/lib/jquery.powertip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="tabzilla" src="https://web.archive.org/web/20130911010605/https://www.mozilla.org/tabzilla/media/js/tabzilla.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sso-ux" src="/js/undefined/js/sso-ux.js"></script></head>
+Visit https://careers.mozilla.org to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.-->
 
-<body id="privacy" data-endpoint="https://makeapi.webmaker.org" style="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Websites, Communications &amp; Cookies Privacy Notice — Mozilla</title>
+    <meta name="description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mozilla">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.mozilla.org/en-US/privacy/websites/">
+    <meta property="og:image" content="https://www.mozilla.org/media/img/mozorg/mozilla-256.c29a8b01d659.jpg">
+    <meta property="og:title" content="Websites, Communications &amp; Cookies Privacy Notice">
+    <meta property="og:description" content="">
+    <meta property="fb:page_id" content="262134952380">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@mozilla">
+    <meta name="twitter:domain" content="mozilla.org">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="author" type="text/plain" href="/humans.txt">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/media/img/favicon/apple-touch-icon-180x180.00050c5b754e.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="/media/img/favicon/favicon-196x196.cb79ae3b6daf.png">
+    <link rel="shortcut icon" href="/media/img/favicon.52506929be4c.ico">
+        <link rel="canonical" hreflang="en" href="https://www.mozilla.org/en-US/privacy/websites/">
+    <link rel="alternate" hreflang="x-default" href="https://www.mozilla.org/privacy/websites/">
+    <link rel="alternate" hreflang="ar" href="https://www.mozilla.org/ar/privacy/websites/" title="عربي">
+    <link rel="alternate" hreflang="bn-BD" href="https://www.mozilla.org/bn-BD/privacy/websites/" title="বাংলা (বাংলাদেশ)">
+    <link rel="alternate" hreflang="bn-IN" href="https://www.mozilla.org/bn-IN/privacy/websites/" title="বাংলা (ভারত)">
+    <link rel="alternate" hreflang="cs" href="https://www.mozilla.org/cs/privacy/websites/" title="Čeština">
+    <link rel="alternate" hreflang="de" href="https://www.mozilla.org/de/privacy/websites/" title="Deutsch">
+    <link rel="alternate" hreflang="el" href="https://www.mozilla.org/el/privacy/websites/" title="Ελληνικά">
+    <link rel="alternate" hreflang="en" href="https://www.mozilla.org/en-US/privacy/websites/" title="English">
+    <link rel="alternate" hreflang="en-CA" href="https://www.mozilla.org/en-US/privacy/websites/" title="English (Canada)">
+    <link rel="alternate" hreflang="es-ES" href="https://www.mozilla.org/es-ES/privacy/websites/" title="Español (de España)">
+    <link rel="alternate" hreflang="fr" href="https://www.mozilla.org/fr/privacy/websites/" title="Français">
+    <link rel="alternate" hreflang="hi" href="https://www.mozilla.org/hi/privacy/websites/" title="हिन्दी">
+    <link rel="alternate" hreflang="hr" href="https://www.mozilla.org/hr/privacy/websites/" title="Hrvatski">
+    <link rel="alternate" hreflang="hu" href="https://www.mozilla.org/hu/privacy/websites/" title="magyar">
+    <link rel="alternate" hreflang="id" href="https://www.mozilla.org/id/privacy/websites/" title="Bahasa Indonesia">
+    <link rel="alternate" hreflang="it" href="https://www.mozilla.org/it/privacy/websites/" title="Italiano">
+    <link rel="alternate" hreflang="ja" href="https://www.mozilla.org/ja/privacy/websites/" title="日本語">
+    <link rel="alternate" hreflang="mk" href="https://www.mozilla.org/mk/privacy/websites/" title="Македонски">
+    <link rel="alternate" hreflang="pl" href="https://www.mozilla.org/pl/privacy/websites/" title="Polski">
+    <link rel="alternate" hreflang="pt-BR" href="https://www.mozilla.org/pt-BR/privacy/websites/" title="Português (do&nbsp;Brasil)">
+    <link rel="alternate" hreflang="ro" href="https://www.mozilla.org/ro/privacy/websites/" title="Română">
+    <link rel="alternate" hreflang="ru" href="https://www.mozilla.org/ru/privacy/websites/" title="Русский">
+    <link rel="alternate" hreflang="sr" href="https://www.mozilla.org/sr/privacy/websites/" title="Српски">
+    <link rel="alternate" hreflang="sw" href="https://www.mozilla.org/sw/privacy/websites/" title="Kiswahili">
+    <link rel="alternate" hreflang="ta" href="https://www.mozilla.org/ta/privacy/websites/" title="தமிழ்">
+        
+    
 
-<div id="browser-warning">
-  <p>Your browser may lack functionality needed by Webmaker to function properly. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> for an improved experience.</p>
-</div>
+    <!--[if lte IE 8]>
+            <script src="/media/js/libs/html5shiv.d580a4cd1cb4.js"></script>
 
-<div class="modal fade" id="webmaker-login-new-user" tabindex="-1" role="dialog" aria-labelledby="createNewWebmakerUser" aria-hidden="true">
+            <link href="/media/css/oldIE-bundle.beaa1f180a47.css" rel="stylesheet" type="text/css" />    <![endif]-->
 
-  <div class="modal-backdrop"></div>
+    <!--[if !lte IE 8]><!-->
+              <link href="/media/css/responsive-bundle.1f5e31e07e5c.css" rel="stylesheet" type="text/css">    
+          <link href="/media/css/privacy-bundle.448429ca63c9.css" rel="stylesheet" type="text/css">    <!--<![endif]-->
 
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 class="modal-title">Welcome to Webmaker!</h3>
-      </div>
-      <div class="modal-body">
-        <form class="form">
-          <div class="form-group username-group">
-            <div class="row">
-              <div class="col-sm-6">
-                <label for="username">Choose a username</label>
-              </div>
-              <div class="col-sm-6">
-                <input name="username" class="form-control" required="">
-                <span class="help-block username-taken-error hidden">That username is taken</span>
-                <span class="help-block username-required-error hidden">You must choose a username</span>
-                <span class="help-block username-invalid-error hidden">Invalid username. All usernames must be between 1-20 characters, and only include "-", "_" and alphanumeric characters</span>
-              </div>
-            </div>
+              
+    
+              <!-- Google Tag Manager -->
+<!-- Customized for Mozilla.org-->
+<!-- Region Container: NONE -->
+<!-- Rollup Container: System Filtered -->
+<!-- Site Container: NONE -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    //core dataLayer object goes here
+  });
+</script>
+
+<script>
+// If doNotTrack is not enabled, it is ok to add GTM
+// @see https://bugzilla.mozilla.org/show_bug.cgi?id=1217896 for more details
+if (!_dntEnabled()) {
+  (function(w,d,s,l,i,j,f,dl,k,q){
+    w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});f=d.getElementsByTagName(s)[0];
+    k=i.length;q='//www.googletagmanager.com/gtm.js?id=@&l='+(l||'dataLayer');
+    while(k--){j=d.createElement(s);j.async=!0;j.src=q.replace('@',i[k]);f.parentNode.insertBefore(j,f);}
+  }(window,document,'script','dataLayer',['GTM-MW3R8V']));
+}
+</script>
+<!-- End Google Tag Manager -->      <style type="text/css"></style></head>
+
+  <body id="websites-notice" class="html-ltr sand">
+    <div id="strings" data-global-close="Close" data-global-next="Next" data-global-previous="Previous" data-global-update-firefox="Update your Firefox" data-tabpanel-open-text="Learn More" data-tabpanel-close-text="Show Less"></div>
+    <div id="outer-wrapper">
+
+        
+      <div id="wrapper">
+
+              <header id="masthead">
+
+                  <div id="tabzilla">
+            <a href="/en-US/" data-link-type="nav" data-link-name="tabzilla">Mozilla</a>
           </div>
-          <div class="checkbox">
-            <label>
-              <input name="mailingList" type="checkbox"> Send me email updates about Mozilla Webmaker and other projects
-            </label>
-          </div>
-          <div class="checkbox form-group agree-group">
-            <label>
-              <input name="agreeToTerms" type="checkbox"> I agree to your <a href="https://webmaker.org/en-US/terms">terms</a> and <a href="https://webmaker.org/en-US/privacy">conditions</a>
-            </label>
-            <span class="help-block agree-error hidden">
-              You must agree to our terms and conditions.
-            </span>
-          </div>
-          <label>Language Preference</label>
-          
-          <select name="supportedLocales" id="supportedLocales">
-  <option value="bn-BD">Bengali (Bangladesh) - বাংলা(বাংলাদেশ)</option><option value="bn-IN">Bengali (India) - বাংলা (ভারত)</option><option value="de">German - Deutsch</option><option value="en-CA">English (Canada) - English (Canada)</option><option value="en-US" selected="selected">English (US) - English (US)</option><option value="es">Spanish - Español</option><option value="es-CL">Spanish (Chile) - Español (Chile)</option><option value="es-MX">Spanish (Mexico) - Español (México)</option><option value="fr">French - Français</option><option value="hi-IN">Hindi - हिन्दी</option><option value="id">Indonesian - Bahasa Indonesia</option><option value="km">Khmer - ភាសាខ្មែរ</option><option value="nl">Dutch - Nederlands</option><option value="pt">Portuguese - Português</option><option value="pt-BR">Portuguese (Brazil) - Português (Brasil)</option><option value="ru">Russian - Русский</option><option value="sl">Slovenian - Slovenščina</option><option value="th-TH">Thai (Thailand) - ภาษาไทย (ประเทศไทย)</option><option value="zh-CN">Simplified Chinese (China) - 中文(简体)</option><option value="zh-TW">Traditional Chinese (Taiwan) - 中文(台灣)</option>
- </select>
+        
+                  <nav id="nav-main" role="navigation">
+            <span class="toggle" role="button" aria-controls="nav-main-menu" aria-expanded="false" tabindex="0">Menu</span>
+            <ul id="nav-main-menu">
+              <li class="first about-item">
+                <a href="/en-US/about/" data-link-type="nav" data-link-name="About">About</a>
+              </li>
+              <li class="contribute-item">
+                <a href="/en-US/contribute/" data-link-type="nav" data-link-name="Participate">Participate</a>
+              </li>
+              <li class="products-item">
+                <a href="/en-US/firefox/products/" data-link-type="nav" data-link-name="Firefox">Firefox</a>
+              </li>
+              <li class="last donate-item">
+                <a href="https://donate.mozilla.org/en-US/?presets=100,50,25,15&amp;amount=50&amp;ref=EOYFR2015&amp;utm_campaign=EOYFR2015&amp;utm_source=mozilla.org&amp;utm_medium=referral&amp;utm_content=header&amp;currency=usd" data-link-type="nav" data-link-name="Donate">Donate</a>
+              </li>
+            </ul>
+          </nav>
+        
+                  <h2><a href="/en-US/"><img class="" src="/media/img/sandstone/header-mozilla-stone.5a157cb2c70c.png" srcset="/media/img/sandstone/header-mozilla-stone-high-res.e61d5c2e5341.png 1.5x" width="170" alt="Mozilla" height="45"></a></h2>
+        
+        
+        
+          <nav class="breadcrumbs">
+    <a href="/en-US/">Home</a> &gt;
+    <a href="/en-US/privacy/">Mozilla Privacy</a> &gt;
+  </nav>
 
-        </form>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-        <button class="create-user btn btn-primary" type="button">Create Account</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="webmaker-outer-wrapper">
-
-  
-
-  
-  <header id="webmaker-nav">
-    <nav class="webmaker-nav-container">
-      <div class="ui-grid-wrapper">
-        <div class="user-nav-container">
-          <a id="logo" href="/en-US/"><img src="/img/logo.png" alt="Mozilla Webmaker"></a>
-          <ul class="webmaker-nav user-info">
-
-            <li class="new-user">
-              <div class="ui-append ui-select ui-select-hover user">
-                <span class="ui-selected">
-                  Hi <span id="identity" class="user-name-container"></span>
-                  <a class="icon icon-caret-down"></a>
-                </span>
-                <div class="ui-select-menu">
-                  <ul>
-                    <li class="makes"><a href="/en-US/me"><span class="icon icon-th-large"></span> My makes</a></li>
-                    <li><a href="https://login.webmaker.org/en-US/account" id="loginURL"><span class="icon icon-gear"></span> My Settings</a></li>
+        
+        </header>
+      
+      
                     
-                  </ul>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="webmaker-login persona-button" style="display: none;">
-                <span dir="ltr" class="text">Sign in</span><span dir="ltr" class="tip"></span>
-              </div>
-              <span class="webmaker-logout" style="display: none;">Sign out</span>
-            </li>
-            <li class="more-btn"><a href="#" class="navigation-more"><span class="icon-reorder"></span></a></li>
-          </ul>
-        </div>
-        <a href="http://www.mozilla.org/" id="tabzilla" aria-label="Mozilla links">mozilla</a>
-      </div>
-    </nav>
+            <main id="main-content">
+    <div class="main-column">
+        <article class="section-content" itemscope="" itemtype="http://schema.org/Article">
+    <header>
+      <h1 itemprop="name" class="title-shadow-box">Websites, Communications &amp; Cookies Privacy Notice</h1>
+              <p class="meta"><time datetime="2016-03-14" itemprop="dateModified">March 14, 2016</time></p>
+        <p>We care about your privacy. When Mozilla (that's us) collects information about you, our <a href="/privacy/">Mozilla Privacy Policy</a> describes how we handle that information.</p><p>This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozillians.org, mozilla.org, firefox.com, and webmaker.org, among others. This includes, for example, bugzilla.mozilla.org, reps.mozilla.org, careers.mozilla.org, developers.mozilla.org, support.mozilla.org, addons.mozilla.org, and wiki.mozilla.org.</p>
+          </header>
+    <div itemprop="articleBody">
+      <section class="highlight accordion" id="things-you-should-know" role="tablist" aria-multiselectable="true"><header><h2>Things you should know</h2></header><div><p id="personal-info" role="tab" tabindex="-1" aria-controls="personal-info-tabpanel" aria-expaned="false">We may receive personal information from you based on your interaction with us on social media platforms; if you submit a job, intern or fellow application; if you volunteer as a Mozilla community member; if you submit user feedback or a request to us; if you sign-up for an account; or if you engage with a product or policy campaign. <a href="#" role="button">Learn More</a></p><ul role="tabpanel" id="personal-info-tabpanel" tabindex="-1" aria-hidden="true">
+<li>
+<p><strong>Social Media</strong>: If you engage with our social media accounts, such as Twitter and Facebook, we may receive personal information about you. If you use these networks, their privacy policies apply, and you are encouraged to read them.</p>
+</li>
+<li>
+<p><strong>Job, Intern &amp; Fellow Applicants</strong>: Applicants for employment, internship or fellowship opportunities with Mozilla are required to give us a name, street address, telephone number, email address, and resume. We use this information to process and evaluate applications and to communicate with applicants about opportunities. We use a third party vendor to assist us with employment applications. For more information on our data practices with third party vendors, see our <a href="/privacy/">Mozilla Privacy Policy</a>.</p>
+</li>
+<li>
+<p><strong>Contributors</strong>: Volunteering for Mozilla as a community contributor may require Mozilla and others to communicate with you at the email address that you provide in connection to your contribution and to recognize your efforts. If you contribute to Bugzilla, Mozilla Reps, or our code base, then your email address and possibly your name will be publicly available to all internet users. If you create a profile at Mozillians.org, it will be accessible to Mozilla employees and Mozilla contributors. You can edit your profile data at <a href="https://mozillians.org/user/edit">Profile Settings</a>. We sometimes use contributor information from sources (such as Bugzilla) in dashboards to visually share aggregated data on the Mozilla community. An example is <a href="https://wiki.mozilla.org/Contribute/Dashboards">https://wiki.mozilla.org/Contribute/Dashboards</a>. If possible, we try to minimize contact information that is publicly displayed.</p>
+</li>
+<li>
+<p><strong>User Feedback</strong>:  You can provide feedback to us on our products and services on webpages like <a href="https://input.mozilla.org/">input.mozilla.org</a>, through an in-product experience, or through channels such as email, Bugzilla, IRC, a social media account, our Get Involved page, or through a group like Student Ambassadors. Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.</p>
+</li>
+<li>
+<p><strong>Accounts</strong>: Some websites, for example Marketplace, AMO, MDN, and Webmaker, require account creation to submit developer content; submit user reviews or comments; or install certain types of apps.  You may periodically receive emails in connection with your account. </p>
+</li>
+<li>
+<p id="campaigns"><strong>Product &amp; Policy Campaigns</strong>:  Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We use third parties to manage these campaigns and handle any data that you choose to submit.<br></p>
+</li>
+</ul><hr><p id="data-tools" role="tab" tabindex="-1" aria-controls="data-tools-tabpanel" aria-expaned="false">We may use cookies, clear GIFs, third party web analytics, device information, and IP addresses for functionality and to better understand user interaction with our products, services, and communications. <a href="#" role="button">Learn More</a></p><ul role="tabpanel" id="data-tools-tabpanel" tabindex="-1" aria-hidden="true">
+<li>
+<p><strong>Functionality</strong>: We may use cookies, device information and IP addresses to enhance functionality of certain products, services, and communications. For example:</p>
+<ul>
+<li>Cookies are used to remember your Firefox language preference and Firefox add-ons. They also assist with user sign-in and authentication so you can bypass entering your passwords on certain Mozilla websites.  </li>
+<li>IP addresses are used to customize communications by language and country.  </li>
+<li>Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.</li>
+</ul>
+</li>
+<li>
+<p><strong>Metrics</strong>: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:</p>
+<ul>
+<li>Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  </li>
+<li>Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.</li>
+<li>Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.</li>
+</ul>
+</li>
+</ul><hr><p id="user-choices" role="tab" tabindex="-1" aria-controls="user-choices-tabpanel" aria-expaned="false">You can control individual cookie preferences, indicate your cookie preferences to others, select text only emails, and opt-out of web analytics and optimization tools. <a href="#" role="button">Learn More</a></p><ul role="tabpanel" id="user-choices-tabpanel" tabindex="-1" aria-hidden="true">
+<li>
+<p id="cookies"><strong>Cookie History</strong>: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.</p>
+</li>
+<li>
+<p><strong>Do Not Track</strong>: Mozilla does not track users across third party websites to provide targeted advertising.  You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.</p>
+</li>
+<li>
+<p><strong>Email</strong>: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your <a href="/newsletter/recovery/">Mozilla email preferences</a>. You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.</p>
+</li>
+<li>
+<p><strong>Analytics &amp; Optimization</strong>: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out Browser Add-on</a>. The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
+If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can <a href="/?optimizely_opt_out=true">opt-out on www.mozilla.org</a> or visit <a href="https://www.optimizely.com/opt_out">Optimizely's opt-out website</a> for more information. If you do not want data about your visits to Mozilla websites to be collected by ShareProgress, you can <a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature">turn on Do Not Track in your browser</a>. Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns.  You can opt-out by going to the “Your Choices” section of <a href="http://www.flashtalking.com/us/privacypolicy">Flashtalking’s Privacy Policy</a> and selecting “Click here to opt-out”.</p>
+</li>
+<li>
+<p><strong>Social Media</strong>: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.</p>
+</li>
+</ul><hr><p id="donations" role="tab" tabindex="-1" aria-controls="donations-tabpanel" aria-expaned="false">Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. <a href="#" role="button">Learn More</a></p><ul role="tabpanel" id="donations-tabpanel" tabindex="-1" aria-hidden="true">
+<li><strong>Payment Processing</strong>:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.  For more information on our data practices with third party vendors, see our <a href="/privacy/">Mozilla Privacy Policy</a>.</li>
+</ul></div>
 
-    
 
-<section id="main-navigation-container" data-current-section="" data-current-page="privacy">
 
-  <nav id="navigation-primary" class="navigation-container">
-      <ul class="navigation-list navigation-wrapper">
-        
-          <li><a href="/en-US/" data-section="explore">
-            <span class="icon icon-random"></span> Explore</a>
-          </li>
-        
-          <li><a href="/en-US/resources" data-section="make">
-            <span class="icon icon-hand-up"></span> Make</a>
-          </li>
-        
-          <li><a href="/en-US/teach" data-section="teach">
-            <span class="icon icon-book"></span> Teach</a>
-          </li>
-        
-          <li><a href="https://events.webmaker.org" data-section="events">
-            <span class="icon icon-map-marker"></span> Events</a>
-          </li>
-        
-          <li><a href="/en-US/about" data-section="info">
-            <span class="icon icon-info"></span> Info</a>
-          </li>
-        
-        <li><a href="#" class="navigation-more"><span class="icon-reorder"></span></a></li>
-        <li>
-          <span id="nav-search">
-            <input id="nav-search-input" type="search" placeholder="Search">
-            <button id="nav-search-trigger"><span class="icon-search"></span></button>
-          </span>
-        </li>
-      </ul>
-  </nav>
 
-  <nav id="navigation-secondary" class="navigation-container">
-    
-      <ul data-section="explore" class="navigation-list navigation-wrapper">
-        
-        
-        <li>
 
-            <a data-page="teachtheweb" href="/en-US/">
-              
-              Home
-            </a>
-        </li>
-        
-        
-        
-        <li>
 
-            <a data-page="index" href="/en-US/gallery">
-              
-              Gallery
-            </a>
-        </li>
-        
-        
-        
-        <li>
 
-            <a data-page="tools" href="/en-US/tools">
-              
-              Tools
-            </a>
-        </li>
-        
-        
-        
-        
-        
-        <li>
 
-            <a data-page="search" href="/en-US/search">
-              
-              Search
-            </a>
-        </li>
-        
-        
-      </ul>
-    
-      <ul data-section="make" class="navigation-list navigation-wrapper">
-        
-        
-        <li>
 
-            <a data-page="starterMakes" href="/en-US/resources">
-              
-              Resources
-            </a>
-        </li>
-        
-        
-        
-        <li class="nav-item-with-icon">
 
-            <a data-page="popcorn" href="https://popcorn.webmaker.org/en-US" target="_blank">
-              
-              <img src="/img/empty.png" class="popcorn-icon">
-              
-              Multimedia with Popcorn
-            </a>
-        </li>
-        
-        
-        
-        <li class="nav-item-with-icon">
-
-            <a data-page="thimble" href="https://thimble.webmaker.org/en-US" target="_blank">
-              
-              <img src="/img/empty.png" class="thimble-icon">
-              
-              Webpages with Thimble
-            </a>
-        </li>
-        
-        
-        
-        <li class="nav-item-with-icon">
-
-            <a data-page="xray" href="https://goggles.webmaker.org/en-US" target="_blank">
-              
-              <img src="/img/empty.png" class="xray-icon">
-              
-              Remixes with X-Ray Goggles
-            </a>
-        </li>
-        
-        
-      </ul>
-    
-      <ul data-section="teach" class="navigation-list navigation-wrapper">
-        
-        
-        <li>
-
-            <a data-page="teach" href="/en-US/teach">
-              
-              Resources
-            </a>
-        </li>
-        
-        
-        
-        <li>
-
-            <a data-page="teach-templates" href="/en-US/teach-templates">
-              
-              Resource Templates
-            </a>
-        </li>
-        
-        
-        
-        <li>
-
-            <a data-page="literacy" href="/en-US/literacy">
-              
-              Web Literacy Map
-            </a>
-        </li>
-        
-        
-      </ul>
-    
-      <ul data-section="events" class="navigation-list navigation-wrapper">
-        
-      </ul>
-    
-      <ul data-section="info" class="navigation-list navigation-wrapper">
-        
-        
-        <li>
-
-            <a data-page="blog" href="https://blog.webmaker.org" target="_blank">
-              
-              Blog
-            </a>
-        </li>
-        
-        
-        
-        <li>
-
-            <a data-page="about" href="/en-US/about">
-              
-              About Us
-            </a>
-        </li>
-        
-        
-        
-        <li>
-
-            <a data-page="getinvolved" href="/en-US/getinvolved">
-              
-              Get Involved
-            </a>
-        </li>
-        
-        
-        
-        <li>
-
-            <a data-page="help" href="https://support.mozilla.org/en-US/products/webmaker" target="_blank">
-              
-              Help
-            </a>
-        </li>
-        
-        
-      </ul>
-    
-  </nav>
-
-  <nav id="expanded-navigation">
-    <div class="navigation-wrapper">
-    
-      <ul class="navigation-list">
-        <li><a><span class="icon icon-random"></span> Explore</a></li>
-        
-          <li>
-            <a href="/en-US/">
-              Home
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/gallery">
-              Gallery
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/tools">
-              Tools
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/badges/webmaker-super-mentor">
-              Badges
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/search">
-              Search
-            </a>
-          </li>
-        
-      </ul>
-    
-      <ul class="navigation-list">
-        <li><a><span class="icon icon-hand-up"></span> Make</a></li>
-        
-          <li>
-            <a href="/en-US/resources">
-              Resources
-            </a>
-          </li>
-        
-          <li>
-            <a href="https://popcorn.webmaker.org/en-US" target="_blank">
-              Multimedia with Popcorn
-            </a>
-          </li>
-        
-          <li>
-            <a href="https://thimble.webmaker.org/en-US" target="_blank">
-              Webpages with Thimble
-            </a>
-          </li>
-        
-          <li>
-            <a href="https://goggles.webmaker.org/en-US" target="_blank">
-              Remixes with X-Ray Goggles
-            </a>
-          </li>
-        
-      </ul>
-    
-      <ul class="navigation-list">
-        <li><a><span class="icon icon-book"></span> Teach</a></li>
-        
-          <li>
-            <a href="/en-US/teach">
-              Resources
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/teach-templates">
-              Resource Templates
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/literacy">
-              Web Literacy Map
-            </a>
-          </li>
-        
-      </ul>
-    
-      <ul class="navigation-list">
-        <li><a><span class="icon icon-map-marker"></span> Events</a></li>
-        
-      </ul>
-    
-      <ul class="navigation-list">
-        <li><a><span class="icon icon-info"></span> Info</a></li>
-        
-          <li>
-            <a href="https://blog.webmaker.org" target="_blank">
-              Blog
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/about">
-              About Us
-            </a>
-          </li>
-        
-          <li>
-            <a href="/en-US/getinvolved">
-              Get Involved
-            </a>
-          </li>
-        
-          <li>
-            <a href="https://support.mozilla.org/en-US/products/webmaker" target="_blank">
-              Help
-            </a>
-          </li>
-        
-      </ul>
-    
-    </div>
-  </nav>
 
 </section>
-
-
-  </header>
-  
-  <div id="midbar"></div>
-
-  <main id="content" class="content  clearfix ">
-<div class="ui-wrapper ui-body">
-
-  <div class="ui-section">
-
-    <div class="ui-row">
-      <h1>Webmaker Privacy</h1>
-      <h3>June 15, 2013</h3>
-      <p>We care about your privacy. When Mozilla (that’s us) collects information 
-        about you from Webmaker, our privacy policy describes how we handle that information.</p>
-
-      <h2>Things you should know</h2>
-
-      <ul>
-        <li>This site and the ones linked to it or embedded in it uses web 
-          technologies that may store data in your browser, including “cookies”, 
-          which are small pieces of data stored in your browser.
-          <ul>
-            <li>Webmaker uses cookies to provide its functionality 
-              (such as remembering you between sessions) and to help us understand 
-              how users use the service through aggregate analytics.</li>
-            <li>Other users may embed content from other online services which 
-              may include cookies and other web technologies. You should check the 
-              privacy policies of those services to understand their privacy practices.</li>
-          </ul>
-        </li>
-        <li>You may elect to receive email from us and can unsubscribe from any 
-          email marketing communications you elected to receive.</li>
-        <li>You must create an account to publish content. All the content you 
-          publish will be accessible publicly. Profile information you choose to 
-          place on public portions of Webmaker (like your username) may be viewed 
-          by others.</li>
-        <li>Webmaker may allow you to schedule a time and place for events 
-          (such as hackathons) or find out where these types of events are 
-          occurring. Mozilla does not have any control over events organized 
-          by users so please take care if you attend an event.</li>
-      </ul>
-
-      <hr>
-
-      <h2>Mozilla Privacy Policy</h2>
-
-      <p>Your privacy is an important factor that Mozilla (that's us) considers 
-        in the development of each of our products and services. We are committed 
-        to being transparent and open and want you to know how we receive information 
-        about you, and what we do with that information once we have it.</p>
-
-      <h2>What do we mean by "personal information?"</h2>
-
-      <p>For us, "personal information" means information which identifies you, 
-        like your name or email address.</p>
-      <p>Any information that falls outside of this is "non-personal information."</p>
-      <p>If we store your personal information with information that is non-personal, 
-        we will consider the combination as personal information. If we remove 
-        all personal information from a set of data then the remaining is 
-        non-personal information.</p>
-
-      <h2>How do we learn information about you?</h2>
-      <p>We learn information about you when:</p>
-
-      <ul>
-        <li>you give it to us directly;</li>
-        <li>we collect it automatically through our products and services;</li>
-        <li>someone else tells us information about you; or</li>
-        <li>when we try and understand more about you based on information you've given to us.</li>
-      </ul>
-
-      <h2>What do we do with your information once we have it?</h2>
-      <p>When you give us personal information, we will use it in the ways for 
-        which you've given us permission. Generally, we use your information to 
-        help us provide and improve our products and services for you.</p>
-
-      <h2>When do we share your information with others?</h2>
-
-      <ul>
-        <li>When we have gotten your permission to share it.</li>
-        <li>For processing or providing products and services to you, but only 
-          if those entities receiving your information are contractually obligated 
-          to handle the data in ways that are approved by Mozilla.</li>
-        <li>When we are fulfilling our 
-          <a href="http://www.mozilla.org/en-GB/about/manifesto/">mission of being open</a>. 
-          We sometimes release information to make our products better and 
-          foster an open web, but when we do so, we will remove your personal 
-          information and try to disclose it in a way that minimizes the risk 
-          of you being re-identified.</li>
-        <li>When the law requires it. We follow the law whenever we receive 
-          requests about you from a government or related to a lawsuit. We'll 
-          notify you when we're asked to hand over your personal information in 
-          this way unless we're legally prohibited from doing so. When we receive 
-          requests like this, we'll only release your personal information if we 
-          have a good faith belief that the law requires us to do so. Nothing in 
-          this policy is intended to limit any legal defenses or objections that 
-          you may have to a third party's request to disclose your information.</li>
-        <li>When we believe it is necessary to prevent harm to you or someone else. 
-          We will only share your information in this way if we have a good faith 
-          belief that it is reasonably necessary to protect the rights, property 
-          or safety of you, our other users, Mozilla or the public.</li>
-        <li>If our organizational structure or status changes (if we undergo a 
-          restructuring, are acquired, or go bankrupt) we may pass your 
-          information to a successor or affiliate.</li>
-      </ul>
-
-      <h2>How do we store and protect your personal information?</h2>
-      <p>We are committed to protecting your personal information once we have 
-        it. We implement physical, business and technical security measures. 
-        Despite our efforts, if we learn of a security breach, we'll notify 
-        you so that you can take appropriate protective steps.</p>
-
-      <p>We also don't want your personal information for any longer than we 
-        need it, so we only keep it long enough to do what we collected it for. 
-        Once we don't need it, we take steps to destroy it unless we are 
-        required by law to keep it longer.</p>
-
-      <h2>What else do we want you know?</h2>
-      <p>We're a global organization and our computers are in several different 
-        places around the world. We also use service providers whose computers 
-        may also be in various countries. This means that your information might 
-        end up on one of those computers in another country, and that country 
-        may have a different level of data protection regulation than yours. 
-        By giving us information, you consent to this kind of transfer of your 
-        information. No matter what country your information is in, we comply 
-        with applicable law and will also abide by the commitments we make 
-        in this privacy policy.</p>
-
-      <p>If you are under 13, we don't want your personal information, and you 
-        must not provide it to us. If you are a parent and believe that your 
-        child who is under 13 has provided us with personal information, please 
-        <a href="https://www.mozilla.org/en-US/privacy/policies/firefox-os/#top">contact us</a> 
-        to have your child's information removed.</p>
-
-      <h2>What if we change this policy?</h2>
-      <p>We may need to change this policy and when we do, we'll notify you.</p>
-
     </div>
-  </div>
-</div>
+  </article>
+    </div>
+          <aside class="sidebar">
+                  <nav>
+            <h2><a href="/en-US/privacy/">Back to Mozilla Privacy Policy</a></h2>
+          </nav>
+                      </aside>
+      </main>
 
-</main>
-
-  <footer class="footer">
-
-    
-    <div id="footer-actions">
       
-      <a class="back-to-top anchor-slide" href="#">Back to top <span class="icon-angle-up"></span></a>
-    </div>
-    <section class="make-footer">
-        <div class="make-wrapper"></div>
-    </section>
-    
+      </div><!-- close #wrapper -->
 
-    <div class="partnerWrapper">
-      <section class="partners">
-        <header class="partners-header">
-          With support from our wonderful partners and Mozillians like you!
-        </header>
+            
+                    <footer id="colophon" class="">
+        <nav class="row">
+          <div class="col col-1">
+            <h1 class="logo"><a href="/en-US/" data-link-type="footer" data-link-name="Mozilla">Mozilla</a></h1>
+            <p class="license">Portions of this content are ©1998–2016 by individual mozilla.org contributors. Content available under a <a href="/en-US/foundation/licensing/website-content/">Creative Commons license</a>.</p>
+          </div>
+          <div class="col col-2">
+            <ul class="links-join">
+              <li><a href="/en-US/contact/" data-link-type="footer" data-link-name="Contact Us">Contact Us</a></li>
+              <li class="wrap"><a href="https://donate.mozilla.org/en-US/?presets=100,50,25,15&amp;amount=50&amp;ref=EOYFR2015&amp;utm_campaign=EOYFR2015&amp;utm_source=mozilla.org&amp;utm_medium=referral&amp;utm_content=footer&amp;currency=usd" class="donate" data-link-type="footer" data-link-name="Donate">Donate</a></li>
+              <li class="clear"><a href="https://wiki.mozilla.org/Webdev/GetInvolved/mozilla.org" data-link-type="footer" data-link-name="Contribute to this site">Contribute to this site</a></li>
+            </ul>
 
-        <ul class="sponsors">
-          <li>Chicago Community Trust</li>
-          <li>Chicago Instructional Technology Foundation</li>
-          <li>City of Chicago</li>
-          <li>Corporation for Public Broadcasting</li>
-          <li>U.S. Department of Energy</li>
-          <li>Ford Foundation</li>
-          <li>Google</li>
-          <li>Intel</li>
-          <li>Knight Foundation</li>
-          <li>MacArthur Foundation</li>
-          <li>National Endowment for the Arts</li>
-          <li>NESTA</li>
-          <li>The Nominet Trust</li>
-          <li>National Science Foundation</li>
-          <li>Ontario Trillium Foundation</li>
-          <li>Social Science Research Council</li>
-          <li>Alfred P. Sloan Foundation</li>
-          <li>Telefonica</li>
-          <li>ZeroDivide</li>
-        </ul>
-
-        <div class="footerHr"></div>
-
-        <ul class="social">
-          <li><a href="//twitter.com/mozilla"><i class="footer-social icon-twitter"></i> @mozilla</a></li>
-          <li><a href="//twitter.com/webmaker"><i class="footer-social icon-twitter"></i> @webmaker</a></li>
-          <li><a href="//plus.google.com/u/2/communities/106022863174952221205"><i class="footer-social icon-google-plus"></i> google+</a></li>
-          <li><a href="http://mozillawebmaker.tumblr.com/"><i class="footer-social icon-tumblr"></i> tumblr</a></li>
-
-          <li id="email-li">
-            <div class="newsletter">
-              <form id="privacy-form" action="https://sendto.mozilla.org/page/s/webmaker" method="post" novalidate="">
-                <input type="email" id="email-updates" name="email" autocomplete="off" placeholder="Sign up for email updates" required="" data-powertip="
-                  <div class=&quot;privacy-desc&quot;>
-                    <div><input type=&quot;checkbox&quot; id=&quot;newsletter-signup-checkbox-proxy&quot; /></div>
-                    <label for=&quot;newsletter-signup-checkbox-proxy&quot;>I'm okay with you handling this info as you explain in your <a href=&quot;/en-US/privacy&quot; target=&quot;_blank&quot;>privacy policy</a>.</label>
-                  </div>">
-
-                <button id="email-submit" type="submit">
-                  <i class="icon-chevron-right"></i>
-                </button>
-
-                <input id="newsletter-signup-checkbox" name="custom-1216" type="checkbox" required="">
-              </form>
+            
+            <ul class="links-legal">
+              <li><a href="/en-US/privacy/" data-link-type="footer" data-link-name="Privacy">Privacy</a></li>
+              <li class="wrap"><a href="/en-US/privacy/websites/#cookies" data-link-type="footer" data-link-name="Cookies">Cookies</a></li>
+              <li class="wrap"><a href="/en-US/about/legal/" data-link-type="footer" data-link-name="Legal">Legal</a></li>
+              <li class="clear"><a href="/en-US/about/legal/fraud-report/" data-link-type="footer" data-link-name="Report Trademark Abuse">Report Trademark Abuse</a></li>
+            </ul>
+          </div>
+          <div class="col col-3">
+            <ul class="links-social">
+              <li>
+                Mozilla:
+                <ul>
+                  <li><a href="https://twitter.com/mozilla" data-link-type="footer" data-link-name="Twitter (@mozilla)">Twitter<span> (@mozilla)</span></a></li>
+                  <li><a href="https://www.facebook.com/mozilla" data-link-type="footer" data-link-name="Facebook (Mozilla)">Facebook<span> (Mozilla)</span></a></li>
+                </ul>
+              </li>
+              <li>
+                Firefox:
+                <ul>
+                  <li><a href="https://twitter.com/firefox" data-link-type="footer" data-link-name="Twitter (@firefox)">Twitter<span> (@firefox)</span></a></li>
+                  <li><a href="https://www.facebook.com/Firefox" data-link-type="footer" data-link-name="Facebook (Firefox)">Facebook<span> (Firefox)</span></a></li>
+                  <li><a href="https://www.youtube.com/firefoxchannel" data-link-type="footer" data-link-name="YouTube (firefoxchannel)">YouTube<span> (firefoxchannel)</span></a></li>
+                </ul>
+              </li>
+            </ul>
+            <div class="lang-switcher">
+              <form id="lang_form" method="get" action="#">
+  <label for="page-language-select">Other languages:</label>
+  <select id="page-language-select" name="lang" dir="ltr">
+          <option lang="ar" value="ar">عربي</option>
+          <option lang="bn-BD" value="bn-BD">বাংলা (বাংলাদেশ)</option>
+          <option lang="bn-IN" value="bn-IN">বাংলা (ভারত)</option>
+          <option lang="cs" value="cs">Čeština</option>
+          <option lang="de" value="de">Deutsch</option>
+          <option lang="el" value="el">Ελληνικά</option>
+          <option lang="en-US" value="en-US" selected="">English</option>
+          <option lang="es-ES" value="es-ES">Español (de España)</option>
+          <option lang="fr" value="fr">Français</option>
+          <option lang="hi" value="hi">हिन्दी</option>
+          <option lang="hr" value="hr">Hrvatski</option>
+          <option lang="hu" value="hu">magyar</option>
+          <option lang="id" value="id">Bahasa Indonesia</option>
+          <option lang="it" value="it">Italiano</option>
+          <option lang="ja" value="ja">日本語</option>
+          <option lang="mk" value="mk">Македонски</option>
+          <option lang="pl" value="pl">Polski</option>
+          <option lang="pt-BR" value="pt-BR">Português (do&nbsp;Brasil)</option>
+          <option lang="ro" value="ro">Română</option>
+          <option lang="ru" value="ru">Русский</option>
+          <option lang="sr" value="sr">Српски</option>
+          <option lang="sw" value="sw">Kiswahili</option>
+          <option lang="ta" value="ta">தமிழ்</option>
+      </select>
+  <noscript>
+    <button type="submit">Go</button>
+  </noscript>
+</form>
             </div>
-          </li>
-        </ul>
-        <ul class="links">
-          <li>
-            <span class="language-picker">
-  <a href="/en-US/languages?page=/privacy" id="current-language" class="selected">
-    <i class="icon-globe"></i>
-    English (US)
-  </a>
-  <div id="list-of-languages" class="language-picker-box" dir="ltr">
+          </div>
+        </nav>
+      </footer>      
+    </div><!-- close #outer-wrapper -->
 
-    <div>Webmaker.org is offered in <strong>20</strong> languages.</div>
+    <!--[if IE 9]>
+      <script src="/media/js/libs/matchMedia.3fd01d1af18b.js"></script>
+    <![endif]-->
 
-    <div class="input-wrapper">
-      <label for="language-search"><i class="icon-search"></i></label>
-      <input id="language-search" class="language-search">
-    </div>
-    <ul class="list col col-spacing" data-supported="bn-BD,bn-IN,de,en-CA,en-US,es,es-CL,es-MX,fr,hi-IN,id,km,nl,pt,pt-BR,ru,sl,th-TH,zh-CN,zh-TW">
-    
-    <li data-value="bn-BD" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Bengali (Bangladesh)">বাংলা(বাংলাদেশ)</span>
-      <span class="english-name">Bengali (Bangladesh)</span>
-    </a></li>
-    
-    <li data-value="bn-IN" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Bengali (India)">বাংলা (ভারত)</span>
-      <span class="english-name">Bengali (India)</span>
-    </a></li>
-    
-    <li data-value="de" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="German">Deutsch</span>
-      <span class="english-name">German</span>
-    </a></li>
-    
-    <li data-value="en-CA" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="English (Canada)">English (Canada)</span>
-      <span class="english-name">English (Canada)</span>
-    </a></li>
-    
-    <li data-value="en-US" class="langList clearfix"><a class="selected" target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="English (US)">English (US)</span>
-      <span class="english-name">English (US)</span>
-    </a></li>
-    
-    <li data-value="es" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Spanish">Español</span>
-      <span class="english-name">Spanish</span>
-    </a></li>
-    
-    <li data-value="es-CL" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Spanish (Chile)">Español (Chile)</span>
-      <span class="english-name">Spanish (Chile)</span>
-    </a></li>
-    
-    <li data-value="es-MX" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Spanish (Mexico)">Español (México)</span>
-      <span class="english-name">Spanish (Mexico)</span>
-    </a></li>
-    
-    <li data-value="fr" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="French">Français</span>
-      <span class="english-name">French</span>
-    </a></li>
-    
-    <li data-value="hi-IN" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Hindi">हिन्दी</span>
-      <span class="english-name">Hindi</span>
-    </a></li>
-    
-    <li data-value="id" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Indonesian">Bahasa Indonesia</span>
-      <span class="english-name">Indonesian</span>
-    </a></li>
-    
-    <li data-value="km" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Khmer">ភាសាខ្មែរ</span>
-      <span class="english-name">Khmer</span>
-    </a></li>
-    
-    <li data-value="nl" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Dutch">Nederlands</span>
-      <span class="english-name">Dutch</span>
-    </a></li>
-    
-    <li data-value="pt" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Portuguese">Português</span>
-      <span class="english-name">Portuguese</span>
-    </a></li>
-    
-    <li data-value="pt-BR" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Portuguese (Brazil)">Português (Brasil)</span>
-      <span class="english-name">Portuguese (Brazil)</span>
-    </a></li>
-    
-    <li data-value="ru" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Russian">Русский</span>
-      <span class="english-name">Russian</span>
-    </a></li>
-    
-    <li data-value="sl" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Slovenian">Slovenščina</span>
-      <span class="english-name">Slovenian</span>
-    </a></li>
-    
-    <li data-value="th-TH" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Thai (Thailand)">ภาษาไทย (ประเทศไทย)</span>
-      <span class="english-name">Thai (Thailand)</span>
-    </a></li>
-    
-    <li data-value="zh-CN" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Simplified Chinese (China)">中文(简体)</span>
-      <span class="english-name">Simplified Chinese (China)</span>
-    </a></li>
-    
-    <li data-value="zh-TW" class="langList clearfix"><a target="_self">
-      <span class="localized-name hint--bottom hint--inline" data-hint="Traditional Chinese (Taiwan)">中文(台灣)</span>
-      <span class="english-name">Traditional Chinese (Taiwan)</span>
-    </a></li>
-    
-    </ul>
-    <p>Don't see your language? <a href="https://support.mozilla.org/en-US/kb/translate-webmaker" target="_blank">Click here to contribute.</a></p>
-  </div>
-</span>
-
-          </li>
-          <li><a href="http://blog.webmaker.org">Blog</a></li>
-          <li><a href="/en-US/about">About Us</a></li>
-          <li><a href="/en-US/getinvolved">Get Involved</a></li>
-          <li><a href="https://sendto.mozilla.org/page/contribute/join-mozilla?source=join_link">Donate</a></li>
-          <li><a href="mailto:help@webmaker.org">Contact</a></li>
-          <li><a href="/en-US/privacy">Privacy</a></li>
-          <li><a href="/en-US/terms">Legal</a></li>
-          <li><a href="/en-US/feedback">Feedback</a></li>
-          <li><a href="https://support.mozilla.org/products/webmaker">Help</a></li>
-        </ul>
-      </section>
-    </div>
-  </footer>
-
-  <div class="mobile"></div>
-</div>
-
-<script type="application/json" id="block-cta">
-  
-    [{
-      "title": "Tools",
-      "desc": "Create an original or a remix using Popcorn Maker and Thimble.",
-      "image": "/img/cta-Tools.jpg",
-      "url": "/en-US/tools"
-    },
-    {
-      "title": "Teach",
-      "desc": "Teach the world web literacy and webmaking.",
-      "image": "/img/cta-Teach.jpg",
-      "url": "/en-US/teach"
-    },
-    {
-      "title": "Maker Party",
-      "desc": "Save the date! Maker Party 2014 is July 15 to September 15",
-      "image": "/img/cta-Party.jpg",
-      "url": "/en-US/party"
-    },
-    {
-      "title": "About Us",
-      "desc": "Learn more about who we are and what makes us tick.",
-      "image": "/img/cta-About-us.jpg",
-      "url": "/en-US/about"
-    }]
-  
-</script>
-<script id="require-js" src="/bower_components/requirejs/require.js" data-main="/js/main.js" data-page="pages/verify">
-</script>
-
-
-
-<script id="google-analytics-js" src="/js/lib/google-analytics.js" data-ga-account="UA-35433268-12" data-ga-domain="webmaker.org" async="">
-</script>
-
-<script src="https://login.persona.org/include.js"></script>
-<script src="https://cdn.optimizely.com/js/206878104.js"></script>
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><div id="powerTip"></div></body></html>
+          <script type="text/javascript" src="/media/js/common-bundle.a9729a3f3b41.js" charset="utf-8"></script>          <script type="text/javascript" src="/media/js/privacy-bundle.e837686d8aee.js" charset="utf-8"></script>      
+</body></html>
