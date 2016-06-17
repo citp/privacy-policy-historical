@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214213059id_/http%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617211926id_/http%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WorldLifestyle
 
@@ -17,7 +17,7 @@ This Privacy Policy applies to our Use of Your Information as a result of you us
 
 In addition to this Privacy Policy, our Services are also governed by our Terms of Use, and any other documents referred to in this Privacy Policy and our Terms of Use. Please read this Privacy Policy and the Terms of Use carefully.
 
-**Information We Collect and Receive About You**
+ **Information We Collect and Receive About You**
 
 We might receive or collect several types of information about you, such as the information described below.
 
@@ -81,26 +81,26 @@ Business Transfers
 
 We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer Your Information collected through our Services, and any of our databases, together with any personally identifiable information contained in such databases, to third parties in connection with a Business Transfer. A “Business Transfer” means a sale, acquisition, merger, consolidation, reorganization, bankruptcy or other corporate change involving us and/or our affiliates, even if the Business Transfer is only being contemplated and regardless of whether the Business Transfer relates to a part or a whole of our business. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity, and/or assets (including our Services) to an affiliate or independent third party at any time, for any lawful purpose, without notice or compensation to you.
 
-**Children’s Information**
+ **Children’s Information**
 
 Our Services are intended to be accessed and used only by adults and are not directed to minors. We do not knowingly collect personally identifiable information by anyone under the age of 13 and you should not provide us with any information regarding any individual under the age of 13.
 
-**Network Advertising**
+ **Network Advertising**
 
 From time to time, we may participate in or use advertising networks, such as third-party advertising servers, advertising agencies, technology vendors and research firms. We may use these third-party advertising networks for marketing, advertising and promotional purposes, as well as to serve advertisements to you. Advertising networks often gather data about consumers who view advertisements to make inferences about a consumer’s interests and preferences, which enables their computers to deliver advertisements directly targeted to the consumer’s specific interests. This practice is often referred to as “online behavioral advertising.” For example, a third-party advertising network might collect the type of Internet browser you use, the type of computer operating system you use, the domain name of a website you visit, whether or not you visit specific pages of a website, the location of your Internet service provider’s presence, the date and time of a visit to a website and other interactions between you and website. Please see the “Online Behavioral Advertising” subsection of [Choices About How We Use and Collect Your Information](http://www.worldlifestyle.com/privacy-policy#choices) below to read about how you can prevent certain third-party advertising networks from collecting information about you.
 
-**User Generated Content**
+ **User Generated Content**
 
 You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted“) on our Services, or that you transmit to other users of our Services (collectively, “User Generated Content“). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our [Terms of Use](http://www.worldlifestyle.com/terms-use).
 
-**Social Media Widgets**
+ **Social Media Widgets**
 
 Our Services may include social media features, such as the Facebook Like button or interactive mini-programs that run on our Services. These features may collect your IP address, which page you are visiting, and may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the third party providing it.
 
 Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [www.worldlifestyle.com](http://www.worldlifestyle.com/), to prepare reports on its activities and share them with other Google services.  
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
-**Choices About How We Use and Disclose Your Information**
+ **Choices About How We Use and Disclose Your Information**
 
 We strive to provide you with choices regarding the personal information you provide to us. Below are some mechanisms that provide you with control over certain information:
 
@@ -111,27 +111,27 @@ We strive to provide you with choices regarding the personal information you pro
 
 
 
-**Information You Disclose to Third Parties**
+ **Information You Disclose to Third Parties**
 
 You may be presented with an opportunity to receive information and/or marketing offers from third parties in connection with our Services. All information you disclose to such third parties will be subject to the privacy policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to disclosing information to them. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly.
 
-**Links to Third-Party Websites**
+ **Links to Third-Party Websites**
 
 Our Services, as well as the email messages sent with respect to our Services, may contain links or access to websites operated by third parties that are beyond our control. Links or access to third parties from our Services are not an endorsement by us of such third parties, or their websites, applications, products, services, or practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties. These third-parties may send their own cookies to you and independently collect data. If you visit or access a third-party website, application or other property that is linked or accessed from our Services, we encourage you to read any privacy statements and terms and conditions of that third party before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party, please contact the third party directly.
 
-**Operation of our Services in the United States**
+ **Operation of our Services in the United States**
 
 Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with Your Information, you consent to this transfer.
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion and without notice. Updates to this Privacy Policy will be posted here. Amendments will take effect immediately upon us posting the updated Privacy Policy on our Services. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy. Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
 
-**Contacting Us**
+ **Contacting Us**
 
 If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at any of the following:[legal@worldlifestyle.com](mailto:legal@worldlifestyle.com).
 
-**SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
+ **SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at: [legal@worldlifestyle.com](mailto:legal@worldlifestyle.com)
 
