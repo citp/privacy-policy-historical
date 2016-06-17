@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113223343id_/http%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617182544id_/http%3A//longwoodgardens.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Longwood Gardens
 
@@ -39,7 +39,7 @@ c. If you use our tell a friend (optional), the email address(es) you provide w
 Be advised that we use third-party vendors to provide services on this site and in our offline business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our database, sending email messages, facilitating our online activities and campaigns, or processing credit card transactions) on our behalf.
 
 From time to time, we partner with other carefully selected cultural organizations in the Philadelphia and Delaware Valley area, so that these organizations may advise you of their events. This gives you the fullest knowledge of cultural happenings in our area. If for any reason you would like to be removed from this partnership list, please email or write to us at the address below and we will take your name off of the list immediately.  
-Email:  [listremoval@longwoodgardens.org](mailto:listremoval@longwoodgardens.org)
+Email:  [questions@longwoodgardens.org](mailto:questions@longwoodgardens.org)
 
 ## Cookies
 
