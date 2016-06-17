@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediacurrent.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225182650id_/http%3A//www.mediacurrent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacurrent.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617021256id_/https%3A//www.mediacurrent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mediacurrent
+# Privacy Policy
 
 Visitor Notice  
 We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register before participating on the message boards or subscribing to our e-newsletter.
