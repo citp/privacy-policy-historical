@@ -1,150 +1,162 @@
-> *The following text is extracted and transformed from the etro.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028144528id_/http%3A//www.etro.com/en_it/legal-area) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etro.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617181828id_/http%3A//www.etro.com/en_us/legal-area) for the most accurate reproduction.*
 
-# Legal Area
+# Legal Area | Etro
 
-Etro S.p.A. (hereafter referred to as Etro), with legal headquarters in Milan, Via Spartaco, 3, and controller of this website, welcomes you and hopes you enjoy the website and find it useful. By choosing to browse through the pages of this site and to stay here, you totally and unconditionally agree to the terms and conditions hereafter, which Etro reserves the right to modify at any time and without prior notice. Therefore, each subsequent time you access this website, you unconditionally accept the modifications and changes of the terms and conditions.
+Etro ("Etro", "us", "our" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-## Intellectual Property
+This policy describes the types of information we may collect from you or that you may provide when you visit the website or mobile site at www.etro.com (including sub-domains, web pages within this site or any equivalent mirror, replacement, substitute or backup website) or any website, mobile site or application that links to this privacy policy, accessed via any device (our "website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-COPYRIGHT The entire website, texts, images, logos, videos and sounds are subject to copyright held by Etro as a single and/or composite and/or collective work according to copyright laws. Any unauthorised use of this material such as, for example, copying, modification, publication, distribution, translation, transposition, transmission, and total or partial reproduction of the website or parts thereof, of texts, images, logos and sounds, is prohibited, save for prior and specific written authorisation granted singularly by Etro.
+This policy applies to information we collect on or through this website.
 
-TRADEMARKS The trademarks used by ETRO such as, but not limited to, ETRO, ETRA, PAISLEY, E stylized, SHAAL NUR ETRO, ETRA ETRO, ETRO CON DISEGNO DI PEGASO, LEMON SORBET, DIANTHUS, GREEN STREET, MESSE DE MINUIT, MAGOT, NEW TRADITION, VICOLO FIORI, PALAIS JAMAIS, ROYAL PAVILLON, PEGASO, RAVING, RELENT e RESORT, PAISLEY, ESSERE O NON ESSERE, ETRO FAITHFUL TO LOVE AND BEAUTY ,ETRO HOME COLLECTION, ETROPICALIA, FOOTBAG, LAPAISLEY, MAHOGANY, MARQUETRY, NON ETRO, SHAHTOUSH, SKIBAG, SPORTS & COUNTRY ETRO, TEXMEXBAG, T-SHIRT DELLA SALUTE, VIA VERRI (hereafter referred to as “Trademarks”) are registered and unregistered trademarks for which Etro holds industrial property rights. The fact that these trademarks are published on this website cannot be considered explicit or implicit authorisation or license to use these trademarks for any reason whatsoever. Any use of the trademarks or similar or confusingly similar names is therefore prohibited and, in the absence of appropriate authorisation, will be prosecuted by law.
+  * a) through mobile and desktop applications that you download from this website, which provide dedicated non-browser-based interaction between you and this website or that link to this privacy policy; or
+  * b) when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
-## Material Sent to the Website
 
-By sending any material, design or idea to this website, you assume full responsibility for the content of such materials, if you authorise Etro to use the material freely and undertake to hold Etro and its employees and administrators harmless from any injury, cost or loss suffered by said subjects, as well as from any request for damages made against Etro, its employees and administrators, for any reason, cause or ground, whatever the connection with the possible use of said materials. Sending any material, design or idea to this website will automatically entail acquisition, free of change and definitively, by Etro of full entitlement to intellectual property with the result that Etro may use and exploit said materials, designs or ideas, also economically, and modify them as it pleases.
 
-## Website Access
+It does not apply to information collected by:
 
-This website was created for personal and non-commercial use by users only. Any and all use of the website and all contents of the same for purposes that are not strictly personal is prohibited, save for prior and specific written authorisation granted singularly by Etro. As controller of the website, Etro has the right to modify, suspend or permanently eliminate the website and all of its contents, at any time and without prior notification. Etro is entitled to prohibit all or some users from gaining access to the website or portions of it.
+  * a) us offline or through any other means, including on any other website operated by us or any third party except to the extent described above; or
+  * b) any third party, including through any application or content (including advertising) that may link to or be accessible from or on the website. When you access a third party website (such as a social networking website), we are not responsible for the privacy practices of that site or the relevant third party. You should review the privacy policies of each website you visit and each social networking service you use (including understanding how you can change your privacy settings with those services).
 
-## Links
 
-Links to other websites may be present on the Etro site. The presence of such links does not involve or imply any invitation or recommendation on Etro’s part to visit the linked sites nor any guarantee regarding their contents or any services or goods provided and sold by them, but is merely intended as a facilitation for users. Etro does not perform any verification and monitoring operations on such websites and their contents. Etro cannot be held responsible for the contents of these sites or of the practices adopted by them.
 
-## Disclaimer of Liabilities and Guarantees
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our website and close your account with us (if any). By accessing or using this website, you agree to this privacy policy.  
+This policy may change from time to time. Your continued use of this website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.  For your convenience, the date of the last update to this Privacy Policy appears at the top of this document.
 
-This website is made available to the user according to the current conditions with no explicit or implicit guarantee, including for example, guarantees of accuracy, reliability, propriety, non-violation, and appropriateness for specific purposes, or any other guarantee, condition, assurance or declaration. Products showed in the e-commerce section of this website are not a public offer to purchase, and are subject to the terms of sale showed, inter alia, when finalizing the purchase. Etro does not guarantee in any way that access to the website will not be interrupted or that it is devoid of malfunctioning, errors, omissions or loss of transmitted data. The user is solely responsible for accessing, browsing and using the website. Etro, its directors, managers, agents and associates, and all subjects involved in the concept, creation, production and distribution of the website shall not be considered responsible for any damage of any entity or nature, direct or indirect, that may derive from the use of this website.
+CHILDREN UNDER THE AGE OF 13
 
-## Etro e-boutique
+We do not knowingly collect personal information from children under 13 or knowingly allow such persons to log in the website. If you are under 13, do not use or provide any information on this website or on or through any of its features/log into the website, use any of the interactive or public comment features of this website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information as soon as practicable. If you believe we might have any information from or about a child under 13, please contact us at [privacy@etro.com](mailto:privacy@etro.com).
 
-The website allows you to shop online Etro’s products. Visit the Etro E-Boutique to discover all the available Etro’s products on sale. Please note that Etro may vary the prices of products listed on the Website at any time; we recommend that you carefully check the actual selling price indicated on the order form, together with other relevant information regarding the products to buy. Every purchase is subject to Etro’s general terms and conditions of sale; we recommend that you read them carefully and print out a copy and keep a copy of them for your future reference. All information provided will be treated in compliance with current privacy laws. For more information on E-Boutique Etro you can contact the Customer Care Etro E-Boutique at customercare@etro.com, or write to Etro SpA, Customer Care E-Commerce, Via Spartaco 3, 20135, Milan, Italy.
+## INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
-## Applicable Law and Competent Court
+We collect several types of information from and about users of our website, including information:
 
-The user hereby agrees that only Italian law shall be applied for anything that is not expressly provided for in this legal disclaimer and for any controversy connected with its interpretation. Any dispute which may arise with reference to this legal notice or to the use of the www.etro.com website shall be deferred to the exclusive jurisdiction of the Courts of Milan.
+  * a) by which you may be personally identified, such as name, e-mail address or telephone number ("personal information");
+  * b) that is about you but individually does not identify you, such as your IP address and content that you post on the website; or
+  * c) about your internet connection, the equipment you use to access our website and usage details.
 
-1\. that the Court of Milan shall have final and exlcusive jurisdiction on any dispute directly or indirectly connected with these legal terms and/or the use of this website;  
-2\. to keep Etro harmful and indemnified from any damage sent to Etro or the website;   
-3\. that Etro disclaims any liability and does not provide any warranty.
 
-## Privacy Notice
 
-This privacy notice is made in accordance with Section 13 of Legislative Decree No. 196/2003, the Italian Personal Data Protection Code, to those who interact with the Web services telematically accessible via the address http://www.etro.com. The notice is made only for the site in question and not for any other websites visited by the user through links.
+We collect this information
 
-## Data Controller
+  * a) directly from you when you provide it to us or on the website;
+  * b) automatically as you navigate through the website. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other analytics technologies; or
+  * c) from third parties, for example, our business partners.
 
-Consultation of the www.etro.com site may involve the processing of data relating to identified or identifiable persons. The Data Controller of the processing of such data is ETRO S.p.A., Via Spartaco 3, 20135 Milan (MI), Italy, who, at its discretion, will process it directly or with the support of third-party technical partners. For further information please contact Etro at privacy@etro.com. Etro reserves the right not to process any request that is unlawful or not based on rights granted by Italian privacy law.
 
-## Data processing location
 
-The processing connected with the Web services of this site take place at the headquarters of Etro S.p.A. and is administered solely by the technical personnel charged with the processing, or by technical partners appointed for such purpose. No data deriving from the Web service is disseminated. The personal data communicated by the users who forward requests for sending information material or for registration of CVs in the database is used solely for the purpose of providing the requested service or performance.
+## INFORMATION YOU PROVIDE TO US
 
-## The types of data processed
+The information we collect on or through our website may include:
 
-Some personal data, the transmission of which is implicit in the use of internet communication protocols, are transmitted to software and IT system operating of this website. Such data are not collected to be associated with specific subjects, but such data could nonetheless identify users through processing and connection with information already held by third parties. For example the data may be: the addresses provided by the Internet provider, the domain names of computer connected to website and used by users, the URI addresses (Uniform Resource Identifier) of required resources, the time of request, the method used to submit the request to the server, the size of the file obtained in response, the numerical code indicating the response from the server (done, error, etc.) and other parameters regarding the user’s operating system. The use of the aforesaid data has the sole purpose of obtaining anonymous statistics regarding the usage of this website and to control its correct functioning; such is immediately deleted after processing. The data could be used to ascertain responsibility in any case of alleged crimes against the site: except for this case, the data of users are deleted within six months.
+  * a) information that you provide when you log into your account on the website (if any);
+  * b) information on your account on the website (if any);
+  * c) information that you provide when you contact us through the website;
+  * d) information that you provide when you purchase an item through the website;
+  * e) information when you enter a contest or promotion sponsored by us;
+  * f) information that you provide when you report a problem with our website;
+  * g) any Information that you provide at a physical retail store
+  * h) records and copies of your correspondence (including e-mail addresses), if you contact us; or
+  * i) your responses to surveys that we might ask you to complete for research purposes.
 
-## Data provided voluntarily by users
 
-Email sent by users to the addresses indicated on this site involves the subsequent acquisition of the sender’s address, necessary in order to respond to requests, as well as any other personal data present in the message. Users are free whether or not to provide the personal data contained in forms for the registration of CVs in the database or sending information material or other communications. Failure to provide such data may make it impossible to comply with the user’s request.
 
-## Newsletter
+## ANALYTICS DATA, COOKIES AND OTHER TECHNOLOGIES
 
-Unless elsewhere indicated, if you have registered to receive the Etro newsletter, (by entering your email in the field and giving the command to send) your request includes your consent to Etro and its technical partners to process the data provided (email, gender and birthdate). If you have registered to receive the Etro newsletters, and you no longer wish to receive these, you can unsubscribe by following the simple instructions at the foot of every newsletter.
+As you navigate through and interact with our website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
 
-## Cookie Policy
+  * a) details of your visits to our website, including traffic data, location data, logs and other communication data and the resources that you access and use on the website;
+  * b) information about your computer and internet connection, including your IP address, operating system and browser type; and
+  * c) other information obtained through third party analytics tools.
 
-The purpose of this Cookie Policy is to illustrate the types and categories of cookies, the purpose of cookies and how they are used by Etro S.p.A., Data Controller, with registered office in Milan, Via Spartaco, 3, and to provide useful information on how to delete or refuse cookies on the site. As Data Controller of personal data, Etro S.p.A. reserves the right to change this Policy at any time: any changes will take effect on the date of their publication on the Site.
 
-What are cookies?
 
-Cookies are small text files sent by a server to the internet browser on the user's computer. They are automatically saved on your computer when you visit certain websites, and are automatically sent back to the server whenever necessary and on each subsequent visit.   
-We use cookies for the etro.com website and its subdomains and request user consent where required by law or envisaged by applicable regulations to facilitate browsing and personalise information directed at the user. We also use similar systems to collect user data, such as IP address, type of browser and operating system and/or the web pages visited by a user, for statistical or security purposes. Cookies are useful as they allow our website to recognise the user's device and have various purposes, such as allowing efficient browsing between pages, remembering favourite pages and, basically improving the browsing experience. They also ensure that online advertising content is better suited to a user and his/her interests.  
-If you decide to disable or refuse cookies, some parts of the etro.com website and its subdomains may not be accessible or may not function correctly.  
-Therefore, for easy and full use of this site, you should configure your browser to accept these cookies. Therefore, for easy and full use of this site, you should configure your browser to accept these cookies.  
-The etro.com website and its subdomains use the following cookies:
+The information we collect automatically is statistical data. It helps us to improve our website and to deliver a better and more personalized service by enabling us to:
 
-Session cookies  
-These cookies are essential for browsing the site and using site functionality. Without cookies, some functionality may not be available or may not function correctly. We use only those cookies that are strictly necessary to save an identifier allowing the user to be uniquely identified with respect to other users, in order to provide the user with a consistent and accurate service.
+  * a) estimate our user size and usage patterns;
+  * b) store information about your preferences, allowing us to customize our website according to your individual interests;
+  * c) speed up your access to our website; and
+  * d) recognize you when you return to our website.
 
-Performance cookies
 
-These cookies may be our own or from our partners, and may be session cookies or persistent cookies. Their use is limited to site performance and improvement. These cookies do not collect any data identifying the user. All of the data collected by these cookies is aggregated in anonymous form and used only to improve site functionality.
 
-Functional cookies  
-These cookies are usually sent following a user action, but may also be used to provide a service that is not specifically requested, but offered, to the user. They may also be used to avoid offering a service to a user a second time. These cookies also allow the site to keep track of user choices. The data collected by these cookies is anonymous and cannot track user behaviour on other sites.
+The technologies we use for this automatic data collection may include:
 
-Third-party cookies for marketing/retargeting  
-These cookies are used by partners of the etro.com website in order to propose our advertising messages when you visit other sites, displaying, for example, the most recent products you viewed on our site. These cookies may also be used to display products that may be of interest to you or that are similar to products you viewed in the past. These cookies do not entail any personal data processing, but may allow connection to the browser installed on your computer or other devices used during browsing.
+  * a) Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. You may refuse to accept browser cookies by activating the appropriate setting or feature on your browser, such as any “ _Do Not Track_ ” feature on your browser. Unless you have adjusted your browser setting or enabled the appropriate feature so that it will refuse cookies and inform web services that you do not want to be tracked, our system may issue cookies when you direct your browser to our website to help us provide a personalized service to you and we may analyze data gathered via cookies in aggregate (but not at the individual customer level). We otherwise do not track your behavior on any other sites or follow you once you've left this website.
+  * b) Flash Cookies. Certain features of our website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our website. Flash cookies are not managed by the same browser settings as are used for browser cookies. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. 
+  * c) Web Beacons. Pages of the website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
 
-How to disable cookies  
-Personal data protection laws provide users with the option of disabling cookies already installed on their device ("opt out"). Opting out is permitted for "technical cookies" (Art. 122 of the Privacy Code) as well as for other types of cookies previously accepted by the user ("opt in"). By virtue of this distinction, users may disable and/or delete cookies ("opt out") using the browser settings by clicking on the relevant links:
 
-Microsoft Internet Explorer https://support.microsoft.com/en-us/kb/278835/it 
 
-Google Chrome https://support.google.com/accounts/answer/32050?hl=it 
+When you use the mobile versions of our website, we may collect the unique device identifier assigned to your mobile device by phone makers, carriers, or makers of the operating system (the "Device ID"). Device IDs allow app developers, advertisers, and others to uniquely identify your device for purposes of storing application preferences and other data. We may use your Device ID for security purposes.
 
-Mozilla Firefox https://support.mozilla.org/it/kb/Eliminare%20i%20cookie 
+## HOW WE USE YOUR INFORMATION
 
-Safari https://support.apple.com/it-it/HT201265 
+We use information that we collect about you or that you provide to us, including any personal information for the purpose of: (i) taking action further to your requests to purchase Etro items, and (ii) complying with administrative, accounting and fiscal obligations connected with the sale of Etro items, and, in general, to comply with legal or contractual obligations that affect you.  
+We may also use your personal information to send you promotional materials and newsletters about items we offer and our latest products, news and special offers from time to time, via post, courier, fax, email, text message, multimedia message or other remote communications methods (“Marketing Purposes”). You will also be given the opportunity to receive such communications from us when you sign up to our newsletters or create an account with us via the website. As described below, you may opt out of receiving these communications.  
+Your email address may be used for the purpose of direct sales of Etro products or services that are similar to those you have previously purchased. Finally, we may also contact you via social networks in order to share data, information and material about the World of Etro with you.
 
-Opera http://help.opera.com/Windows/12.10/it/cookies.html   
-Users may also disable and/or delete individual non-"technical" cookies installed by third parties via the European Interactive Digital Advertising Alliance (EDAA) website at www.youronlinechoices.eu.
+You will be able to cancel your subscription to our newsletters at any time, simply by clicking on the Unsubscribe button that is found at the bottom of each newsletter.
 
-Technical/analytical cookies: 
+## DISCLOSURE OF YOUR INFORMATION
 
-\- Technical cookies  
-We use these cookies to guarantee efficient browsing, session stability, the contents of the shopping cart and login permanence for the entire session, as well as the country selected for browsing. We also use them to save user choices regarding the display of certain page elements, such as information and communication banners. Lastly, a cookie with duration not in excess of 12 months is installed to track user consent and prevent consent from being re-requested through the banners.   
-\- Analytical cookies  
-Third parties use these cookies in aggregate and disaggregate form, to manage statistics. These cookies collect data on the use of our site to help us improve the user browsing and purchasing experience. All data is collected in anonymous form. For example, these cookies collect the following data: Third parties use these cookies in aggregate and disaggregate form, to manage statistics. These cookies collect data on the use of our site to help us improve the user browsing and purchasing experience. All data is collected in anonymous form. For example, these cookies collect the following data:Third parties use these cookies in aggregate and disaggregate form, to manage statistics. These cookies collect data on the use of our site to help us improve the user browsing and purchasing experience. All data is collected in anonymous form. For example, these cookies collect the following data:  
-\- number of visitors, page views and browsing within the site;  
-\- efficacy of purchasing campaigns based on the web traffic source;  
-\- details on the products viewed and/or purchased;
+We may disclose aggregated information about our users (including statistical data), and information that does not identify any individual, without restriction.
 
-Third-party cookies:
+Except as described below, we will not sell, rent, license or transfer your personal information to any third party.
 
-• Google Analytics
+Processing of your information is undertaken using IT supports, electronic instruments and secure channels, and with prior implementation of suitable security measures, in compliance with the aforesaid standard. If you give your consent, your information may be used for processing, comparisons, selections, statistical reports or market research.  
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-• Google Ads
+  * a) to our subsidiaries and affiliates;
+  * b) to contractors, service providers and other third parties we use to support our business, who will be given access as is reasonably necessary, such as providers that perform the following services: data processing, marketing services (including our third party service provider ContactLab who helps us fulfil the Marketing Purposes), execution of customer orders, payment and credit card processing services, transport and delivery of the products to the declared addresses, customer assistance and other service providers shippers, warehouse operators, customer service providers, credit card issuers, or others involved in fulfilling orders you place on the website, or in responding to inquiries you make through the website;
+  * c) to any buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our website users is among the assets transferred;
+  * d) to fulfill the purpose for which you provide it. For example, certain personal information that you incorporate into your account on this website may be used to process orders made through that account;
+  * e) for any other purpose disclosed by us when you provide the information; and
+  * f) with your consent.
 
-• Facebook
 
-• Twitter
 
-• Instagram
+We may also disclose your personal information:
 
-• Pinterest 
+  * a) to comply with any court order, law or legal process, including to respond to any government or regulatory request;
+  * b) to enforce or apply our Terms of Use and other agreements; 
+  * c) if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of others. This includes exchanging information with other companies and organizations for the purposes of fraud protection; or 
+  * d) for the permitted purposes set out in this Privacy Policy, to banks, for the management of payments and transactions concerning online purchases, to third parties that support, depending on the case, the companies of the Etro Group or single boutiques in the management of transactions (such as couriers and haulers) if this is necessary in order to comply with contractual obligations that affect you.
 
-## Data processing mechanisms
 
-Personal data and any other data connected with browsing on this website are processed with automated equipment for the time strictly necessary to achieve the purposes for which they were collected, except in the event that a longer preservation period is required or permitted by law. Etro reserves the right to access or divulge information on the user, including the content of any communications sent to Etro, while maintaining a copy in its own archives, for one or more of the following purposes: (i) to fulfil a duty imposed by law; (ii) to ensure compliance with the law; (iii) to protect its or third parties rights; (iv) any other purpose authorized by the Italian privacy law. For the purposes of managing requests by users or customers, Etro might share personal data with companies that provide services, such as data processing, execution of customer orders, transport and delivery of the products to the declared addresses, and customer assistance.
 
-## Purposes
+## HOW WE STORE YOUR INFORMATION
 
-The data are processed and used for purposes functional to carrying out the activity of ETRO S.p.A. and of the activity of its subsidiary and/or affiliated companies in accordance with Article 2359 of the Civil Code, possibly even abroad, and data are also processed and used for:
+The information that we collect from you may be stored and processed in the United States, the European Union or any other place or country in which we maintain facilities (or in which our service providers maintain facilities on our behalf).
 
-  * 1) the provision of Web interface based services (user master data registration)
-  * 2) inclusion in the CV database
-  * 3) provision of commercial information regarding the activity of ETRO S.p.A.
-  * 4) for statistical research and market reports
-  * 5) for internal purposes, for verifications, analysis – also statistical – of data and searches to improve products, services and customer communications
+We may transfer information that we collect from you from your country to other countries. By using our website you consent to the transfer of information to the U.S. or to any other country in which we maintain facilities (or in which our service providers maintain facilities on our behalf).
 
+## **ACCESSING, CORRECTING AND DELETING YOUR INFORMATION**
 
+You can change your access, modify or correct, your personal information controlled by you at any time by editing your account. You can delete and also access or modify your personal information that you have provided to us by emailing us at: [privacy@etro.com](mailto:privacy@etro.com).
 
-## Rights under Section 7 of Legislative Decree 196/2003
+We may keep your account information after you disable your account, in case you wish to make your account active again or as reasonably necessary to comply with our legal obligations.
 
-The persons to whom the personal data refer have the right at any time to obtain confirmation of the existence or not of the data and to know their content and origin, verify their correctness, and request that they be supplemented, updated or rectified (Section 7, Legislative Decree No. 196/2003). Pursuant to the same section the Data Subject has the right to obtain the erasure, anonymisation or blocking of data that have been processed unlawfully, as well as to object, on legitimate grounds, to their processing. Such requests should be addressed to the Data Controller, who is: Etro S.p.A., Via Spartaco 3, 20135 Milan (MI), Italy, tel. Telefono. +39 02 550201 Fax +39 02550208000 [etro@etro.com](mailto:etro@etro.com)
+We may not accommodate a request to change information if we believe the change would violate any law or legal requirement, cause the information to be incorrect or we are unable to verify your identity. 
 
-## Privacy Notice updates
+## **DATA SECURITY**
 
-This Privacy Notice may be modified over time in order to reflect changes that have taken place in the law in such regard or for reasons of business convenience. All substantive changes will be posted at this address, and the user is responsible for periodically monitoring this website in order to stay informed regarding the validity or modification of these conditions.
+We have implemented appropriate measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
+
+The safety and security of your information also depends on you. If you have created an account with the website, we ask you not to share your password with anyone. You should also use a strong password. We urge you to be careful about giving out information on or through the website.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website.
+
+## **YOUR CALIFORNIA PRIVACY RIGHTS**
+
+Third Party Marketing Information Requests
+
+California Civil Code Section § 1798.83 permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@etro.com. Under Section § 1798.83, we currently do not share any personal information with third parties for their own direct marketing purposes.
+
+Do Not Track
+
+We do not track our visitors over time and across third party websites to provide targeted advertising and we therefore do not respond to Do Not Track (DNT) signals.  We do not authorize the collection of personally identifiable information from visitors through our website.
+
+## **CONTACT INFORMATION**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@etro.com](mailto:privacy@etro.com).
