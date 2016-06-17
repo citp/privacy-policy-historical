@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottbuehler.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209093720id_/http%3A//www.scottbuehler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottbuehler.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617090427id_/http%3A//www.scottbuehler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
