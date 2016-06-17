@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chartbeat.com privacy policy that was archived on 2015-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151202191204id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chartbeat.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617125834id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   
@@ -14,6 +14,8 @@
   <title>Privacy | Chartbeat</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  
   <link rel="shortcut icon" href="/favicon.ico">
   <link rel="apple-touch-icon" href="https://static2.chartbeat.com/images/apple-touch-icon.png">
   
@@ -153,7 +155,7 @@
               </svg>
             </a>
           </span>
-        
+
         <nav class="group">
             <ul>
               <li class="header-nav cb">
@@ -170,7 +172,7 @@
                     <ul>
                       <li><a href="http://chartbeat.com/personal/">Overview</a></li>
                       <li><a href="http://chartbeat.com/signup/" class="primary-cta"><span></span>Sign Up</a></li>
-                      <li><a href="http://chartbeat.com/demo/">Chartbeat Demo</a></li>
+                      <li><a href="http://chartbeat.com/personal/test-drive/">Chartbeat Demo</a></li>
                     </ul>
                   </div>
                 </div><!-- /end sub-nav -->
@@ -189,7 +191,7 @@
                     <h3>Learn more about Chartbeat Publishing</h3>
                     <ul>
                       <li><a href="http://chartbeat.com/publishing/">Overview</a></li>
-                      <li><a href="http://chartbeat.com/publishing/demo/">Editorial Dashboard Demo</a></li>
+                      <li><a href="http://chartbeat.com/demo/">Editorial Dashboard Demo</a></li>
                       <li><a href="http://chartbeat.com/publishing/video-dashboard/overview/">Video Dashboard</a></li>
                       <li><a href="http://chartbeat.com/home">Pricing &amp; FAQ's</a></li>
                       <li><a href="http://chartbeat.com/publishing/multi-platform-tracking/">Heads Up Display</a></li>
@@ -701,6 +703,13 @@ ga('create', 'UA-68302509-1', 'auto');
   ga('set', 'dimension3', 'No');
 
 
+var _bwidth = window.innerWidth || document.body.clientWidth;
+var _bheight = window.innerHeight || document.body.clientHeight;
+_bwidth  = Math.round(_bwidth/10)*10;
+_bheight = Math.round(_bheight/10)*10; //Using a 10 pixel granularity
+ga('set', 'dimension6', String(_bwidth));
+ga('set', 'dimension7', String(_bheight));
+
 
   
   
@@ -779,10 +788,20 @@ var google_remarketing_only = true;
 
     
     
+
+    
     
 
     
     
+
+
+    
+    
+
+    
+    
+
     <script type="text/javascript">
   (function(win) {
     var config = win._sf_async_config || {};
