@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218233000id_/http%3A//www.verint.com/about/legal/privacy-policy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193548id_/http%3A//www.verint.com/about/legal/privacy-policy/index) for the most accurate reproduction.*
 
 # Verint Privacy Policy | Verint Systems
 
-**LAST UPDATED:** MAY 2015
+**LAST UPDATED:** MAY 2016
 
  **Verint ® Systems Inc. and its subsidiaries** (“Verint”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “ **Site** ”), as well as certain information we collect from offline sources, as explained in more detail below. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
 If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click [http://www.verint.com/about/careers/](https://web.archive.org/about/careers/index.html "Careers") to review our privacy policy for job seekers who apply for jobs through the Site.
-
-Verint complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Information regarding the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. A copy of Verint’s Safe Harbor policy can be found at [http://www.verint.com/about/legal/verints-safe-harbor-policy/](https://web.archive.org/about/legal/verints-safe-harbor-policy/index "Verint's Safe Harbor Policy").
 
 ### Personal Information
 
