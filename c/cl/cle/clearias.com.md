@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223032959id_/http%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617091534id_/http%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClearIAS.com
 
@@ -14,7 +14,7 @@ We are committed to take steps to protect the personal information we hold from 
 
 ### **Collection and Use of Personal Information**
 
-We don’t normally collect any personally identifiable information from our visitors. But if you subscribe by email, obviously your email id will be there is our database, which we don’t share with anyone else. Your personal information is used to provide the services you request and to enhance this web site.
+We don’t normally collect any personally identifiable information from our visitors. But if you subscribe by email, obviously your email id will be there is our database. Your personal information is used to provide the services you request and to enhance this web site. We may share customer information with third parties to perform services on your behalf (Eg: Google, Facebook etc), but ensure that any personally identifiable information are not misused.
 
 At times other companies may be hired to provide limited services on our behalf, such as handling the processing and delivery of mailings. We will only provide those companies with the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
