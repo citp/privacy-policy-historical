@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216062712id_/http%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617153516id_/https%3A//www.smugmug.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SmugMug
 
@@ -10,7 +10,7 @@ This Privacy Policy ( ** _"Privacy Policy"_** ) explains how information about y
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-For information about how to change your privacy preferences for your photo galleries, please see: <http://help.smugmug.com/customer/portal/articles/1229910>.
+For information about how to change your privacy preferences for your photo galleries, please see: [http://help.smugmug.com/customer/portal/articles/1229910](https://help.smugmug.com/customer/portal/articles/1229910).
 
 ## Collection of Information
 
@@ -35,10 +35,10 @@ You have the option of telling us how you wish to be identified in connection wi
 
 When you access or use our Services, we automatically collect information about you, including:
 
-  * Log Information: We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-  * Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, unique device identifiers and mobile network information.
-  * Location Information: We may collect information about the location of your device each time you access or use one of our mobile applications or otherwise consent to the collection of this information. For more details, please see "Your Choices" below.
-  * Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
+  * **Log Information** : We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information** : We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, screen resolution, color and depth, unique device identifiers and mobile network information.
+  * **Location Information** : We may collect information about the location of your device each time you access or use one of our mobile applications or otherwise consent to the collection of this information. For more details, please see "Your Choices" below.
+  * **Information Collected by Cookies and Other Tracking Technologies** : We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
 
 
@@ -87,7 +87,7 @@ The Services may offer social sharing features and other integrated tools which 
 
 ### Advertising and Analytics Services Provided by Others
 
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by SmugMug and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by SmugMug and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](https://www.aboutads.info/choices).
 
 ### Security
 
@@ -105,7 +105,7 @@ When you first launch any of our mobile applications that collect location infor
 
 #### Cookies
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](https://www.adobe.com/products/flashplayer/security) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
 #### Promotional Communications
 
