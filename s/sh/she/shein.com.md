@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the shein.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226121750id_/http%3A//www.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shein.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617202133id_/http%3A//www.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
-# Privacy&Security Policy
-
-Subscribe and Get   
-35% off
-
-  * Receive SheIn latest trends and updates
-  * Enjoy exclusive offers and special promotions
-
-
-
-Be the first to know
-
-Thanks   
-for joining!
-
-You are on the list!
-
-Please check your email for 35% OFF coupon code.
+# Privacy&Security Policy | SHEIN
 
 [Home](http://www.shein.com/) »  Privacy&Security Policy
 
