@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826021742id_/https%3A//www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617100724id_/https%3A//www.hertz.co.uk/rentacar/privacypolicy/index.jsp%3FtargetPage%3DprivacyPolicyView.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
-
-|    
-  
-
+# 
 
 **Privacy Policy**
 
  **YOUR PRIVACY:**  We respect your privacy and are committed to protecting the personal data we hold about you. This policy explains what data we collect about you, how we collect it, the measures we take to keep your data secure and the uses and disclosures we make of it.  We also explain the options you have regarding your personal data. When you request services from us, access our websites, utilize our mobile “apps” or otherwise interact with us, for example, but without limitation, through our kiosks, our in-vehicle or in-equipment technology, our official corporate pages on third party social networks (such as Facebook) or the “apps” on those pages, you consent to our collection, retention and use of your personal data in the manner described in this policy and accept the risks outlined in the Security section. You can quickly review the key topics by reading the following overview or you may continue to scroll down to read more about an issue or to read the full policy.
 
  **Overview**
-
-| 
 
 [ **Scope**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Scope "Scope") ** **
 
@@ -38,7 +32,7 @@
   
  
 
-[**Retention**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#RETENTION "Retention") ** **
+[ **Retention**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#RETENTION "Retention") ** **
 
 [ **Storage:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#storage)  We generally retain personal data about our customers for as long as we believe appropriate for the purposes for which it was collected.
 
@@ -48,7 +42,7 @@
 
 |  
 
-_**Uses and Disclosures** ** **_
+ _ **Uses and Disclosures**_
 
 [ **Operational Uses:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#operational_uses)  By providing your personal data to us, you consent to our use and disclosure of your data for the operational purposes listed in this policy.
 
@@ -66,20 +60,20 @@ When you request services from us, operate a vehicle or equipment with in-vehic
 
  **SCOPE**
 
- _This policy covers the personal data we collect about you in connection with our vehicle and equipment rental business which identifies you as an individual.   It does not apply to data that does not personally identify you as an individual, for example, but without limitation, aggregated anonymous data, IP addresses,_  _computer operating systems,_  _personal preferences, vehicle identification numbers, etc.   We are free to use data that does not identify you as an individual as we wish.  This policy does not apply to data collected by third party social networks (such as Facebook), mobile device manufacturers, third party “mobile apps”, wireless service providers, internet service providers or the operators of any networks through which you may interact with us and we expressly disclaim any responsibility for the data collection, privacy or data security practices of those entities.  With regard to pages on third party social networks, this policy only applies to personal data we collect through our pages (those with a direct link to this policy) and does not apply to any “unofficial” pages or pages of our affiliates or licensees.  Our websites are not directed to individuals under the age of 13, and we do not knowingly obtain personal data from such individuals._
+ _This policy covers the personal data we collect about you in connection with our vehicle and equipment rental business which identifies you as an individual.   It does not apply to data that does not personally identify you as an individual, for example, but without limitation, aggregated anonymous data, IP addresses,_  _computer operating systems,_   _personal preferences, vehicle identification numbers, etc.   We are free to use data that does not identify you as an individual as we wish.  This policy does not apply to data collected by third party social networks (such as Facebook), mobile device manufacturers, third party “mobile apps”, wireless service providers, internet service providers or the operators of any networks through which you may interact with us and we expressly disclaim any responsibility for the data collection, privacy or data security practices of those entities.  With regard to pages on third party social networks, this policy only applies to personal data we collect through our pages (those with a direct link to this policy) and does not apply to any “unofficial” pages or pages of our affiliates or licensees.  Our websites are not directed to individuals under the age of 13, and we do not knowingly obtain personal data from such individuals._
 
  **Who We Are** **   
 ** \--------------------------------------------------------
 
-We are The Hertz Corporation, a U.S. company, which, together with our subsidiary companies, provides and supports vehicle and equipment rental services worldwide.  All references in this policy to “we”, “us” and “our” are to us and our [subsidiaries](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#subsidiaries "subsidiaries").  Our businesses generally operate under a “Hertz” mark, including Hertz Rent A Car, Hertz Local Edition, Hertz 24/7 (formerly known as either "Connect by Hertz" or "Hertz on Demand"), Hertz Claims Management, and Hertz Equipment Rental Corporation.  In addition, our subsidiary Navigation Solutions, LLC, which provides the Hertz NeverLost service, is also covered by this policy.  However, neither our Dollar Rent A Car or Thrifty Rent A Car businesses operated by Dollar Thrifty Automotive Group, Inc., a Hertz subsidiary, our Firefly Rent A Car business, nor our Donlen Corporation subsidiary are covered by this policy because each of those entities/operations has its own privacy policy that is applicable to its operations. We also operate equipment rental businesses and, to a lesser extent, vehicle and equipment sales, and claims administration businesses.
+We are The Hertz Corporation, a U.S. company, which, together with our subsidiary companies, provides and supports vehicle and equipment rental services worldwide.  All references in this policy to “we”, “us” and “our” are to us and our [subsidiaries](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#subsidiaries "subsidiaries").  Our businesses generally operate under a “Hertz” mark, including Hertz Rent A Car, Hertz Local Edition, Hertz 24/7 (formerly known as either "Connect by Hertz" or "Hertz on Demand"), Hertz Claims Management, and Hertz Equipment Rental Corporation.  In addition, our subsidiary Navigation Solutions, LLC, which provides the Hertz NeverLost service, is also covered by this policy.  However, neither our Dollar Rent A Car or Thrifty Rent A Car businesses operated by Dollar Thrifty Automotive Group, Inc., a Hertz subsidiary, our Firefly Rent A Car business, nor our Donlen Corporation subsidiary are covered by this policy because each of those entities/operations has its own privacy policy that is applicable to its operations. We also operate equipment rental businesses and, to a lesser extent, vehicle and equipment sales, and claims administration businesses.
 
-We operate a network of licensees in provision of our services worldwide and are affiliated to many other companies through ownership. As our [licensees](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#licensees "licensees") and [affiliates](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#affiliates "affiliates") are independent companies, they are not owned or controlled by us and are not covered by this policy, although they may have their own privacy policies to govern the personal data they collect. We are not responsible for the privacy practices of our licensees and affiliates.
+We operate a network of licensees in provision of our services worldwide and are affiliated to many other companies through ownership. As our [licensees](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#licensees "licensees") and [affiliates](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#affiliates "affiliates") are independent companies, they are not owned or controlled by us and are not covered by this policy, although they may have their own privacy policies to govern the personal data they collect. We are not responsible for the privacy practices of our licensees and affiliates.
 
  ** _More about subsidiaries, licensees and affiliates_** _…_
 
  ** _Subsidiaries:_** _These companies are owned by The Hertz Corporation and are covered by this policy. The expressions “we”, “us” and “our” apply to them, except for_   _Dollar Thrifty Automotive Group, Inc._ _which operates the_   _Dollar_ _Rent A Car_   _and Thrifty Rent A Car businesses, Firefly Rent A Car, LLC,_ _and Donlen Corporation which operates a fleet leasing and fleet management business._
 
- ** _Licensees:_** _We have a network of independent companies licensed to operate vehicle_ _or equipment_ _rental businesses using the “Hertz” name and business system.  These companies may describe themselves as “Hertz System Licensees” or “Hertz Franchisees” to indicate that they are not our subsidiaries._
+ ** _Licensees:_** _  We have a network of independent companies licensed to operate vehicle_ _or equipment_ _rental businesses using the “Hertz” name and business system.  These companies may describe themselves as “Hertz System Licensees” or “Hertz Franchisees” to indicate that they are not our subsidiaries._
 
  ** _Affiliates:_** _These companies either control us (through ownership) or are controlled by the companies that control us. They cover a range of businesses but are generally not involved in provision of our services to you._ _ _   
 
@@ -88,7 +82,7 @@ We operate a network of licensees in provision of our services worldwide and are
 
 We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
 
-The Hertz Corporation and those of its subsidiaries operating within the United States of America, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  You can visit <http://www.export.gov/safeharbor/> to learn more about the U.S.-E.U. and U.S.-Swiss Safe Harbor programs.
+The Hertz Corporation and those of its subsidiaries operating within the United States of America, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  You can visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/) to learn more about the U.S.-E.U. and U.S.-Swiss Safe Harbor programs.
 
  **Changes**   **  
 **\--------------------------------------------------------
@@ -97,7 +91,7 @@ We may change this policy from time to time.  If we do so, the amended policy w
 
 If any change makes the policy less protective of your personal data, such change will not apply to data we collected about you before the change was made.  The only exception to this is, unless legally prohibited, where we have provided you with notice about the changes and given you the opportunity to tell us not to apply them to your personal data.
 
- **COLLECTION**  
+ **COLLECTION**
 
  _We collect a range of data about you from a variety of sources for the purposes of our business. The examples we provide here are illustrative rather than a complete list of our practices._
 
@@ -114,7 +108,7 @@ We collect the personal data and the non-personal data we need to process your r
   * Frequent flyer and other membership reward or loyalty program information;
   * Affiliations with or sponsorships by companies, associations, colleges or cities;
   * Location data such as geographic location of electronic devices used to contact us or to access our mobile “apps” or of the vehicle or equipment you have rented;
-  * Information regarding the vehicle or equipment rented and its operation during your rental;
+  * Information regarding the vehicle or equipment rented and its operation during your rental;
   * Rental charges you incur and other information relating to your transactions; 
 
 
@@ -128,7 +122,7 @@ We collect the personal data and the non-personal data we need to process your r
 
 We may collect certain personal data that constitutes [sensitive data](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#sensitive_data "sensitive data") in some countries, such as data about health conditions or membership of a trade union. Depending upon applicable local law, we may be unable to process such sensitive data without your consent.
 
- ** _More aboutsensitive data…_**
+ ** _More about  sensitive data…_**
 
  _Data about your **health conditions** is regarded as sensitive in many countries. If you ask us to accommodate a disability, such as by provision of hand controls, or if there is an accident and we need to work with insurance and claims management companies relating to any injury you may incur, we may need to process data about your health conditions.  Similarly, in the EU, at least, your **membership of a trade union** or similar organization is regarded as sensitive and we may need to process this information if you use a CDP Number that only members of that union or organization can use._
 
@@ -138,7 +132,7 @@ We may collect certain personal data that constitutes [sensitive data](https://
  **Sources  **  **  
 **\--------------------------------------------------------
 
-We collect personal data directly **from you** in connection with a reservation (even an abandoned or interrupted reservation), a rental of a vehicle or equipment, or your membership in any of our membership programs, including information you provide:    
+We collect personal data directly **from you** in connection with a reservation (even an abandoned or interrupted reservation), a rental of a vehicle or equipment, or your membership in any of our membership programs, including information you provide:    
 
   * When you call our reservation, customer service, emergency road-side assistance, customer contact or member care centers; 
   * On our websites; 
@@ -366,7 +360,7 @@ You may quote a special discount code, called a “ **CDP number** ”, when you
 
  _•_   _Administer and evaluate the program;_ __
 
- _ _•__  _Confirm your eligibility to rent using that CDP number;_ _  
+ _ _•__   _Confirm your eligibility to rent using that CDP number;_ _  
 • Determine our compliance with the terms of the program;  
 • Establish your compliance with the sponsor’s rental policies;  
 • Enable the sponsor’s payment of your rental costs (if applicable); or  
@@ -431,7 +425,7 @@ We aim to comply with your local law regarding our use of your personal data for
 
  **Members of Our  membership programs**
 
-If you are a member of one of our membership programs, such as Hertz Gold Plus Rewards, Hertz 24/7 or a similar membership program, you will have made marketing choices when you enrolled or at such other time(s) as you may have chosen to do so.  These choices are now recorded in your Profile. You can review and amend your selections by accessing your Profile at the Hertz Gold Plus Rewards section on [www.hertz.com](http://www.hertz.com/ "www.hertz.com").  You can review and amend your Hertz 24/7 selections by accessing your Profile on the Log In section on [www.hertz247.com](http://www.hertz247.com/ "www.hertzondemand.com"). You can review and amend your Hertz NeverLost selections by accessing your Profile on the My Account section on www.neverlost.com.
+If you are a member of one of our membership programs, such as Hertz Gold Plus Rewards, Hertz 24/7 or a similar membership program, you will have made marketing choices when you enrolled or at such other time(s) as you may have chosen to do so.  These choices are now recorded in your Profile. You can review and amend your selections by accessing your Profile at the Hertz Gold Plus Rewards section on [www.hertz.com](http://www.hertz.com/ "www.hertz.com").  You can review and amend your Hertz 24/7 selections by accessing your Profile on the Log In section on [www.hertz247.com](http://www.hertz247.com/ "www.hertzondemand.com"). You can review and amend your Hertz NeverLost selections by accessing your Profile on the My Account section on www.neverlost.com.
 
 Alternatively, please complete the _My Privacy Choices_ form at the end of this policy and mail it to us, following the instructions at  [Contact Us](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Contact_Us "Contact Us") below.
 
@@ -474,7 +468,7 @@ We hope this policy answers your questions about our collection, use and discl
 
  ** _Marketing:_** Send a completed _My Privacy Choices_ form (at the end of the policy) to the most convenient contact address below.  We aim to process your choices promptly on receipt, but you should please allow a number of days for your choices to become effective.
 
- ** _Security:_** If you have reason to believe that the personal data we hold about you, such as your Hertz Gold Plus Rewards member number, other program Profile, or Hertz 24/7 membership information is no longer secure, you must immediately notify us of the problem by either clicking **“Contact Us”**  on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), [www.hertzequip.com](http://www.hertzequip.com/); initiating a Live Chat session via www.neverlost.com; or calling as follows:
+ ** _Security:_** If you have reason to believe that the personal data we hold about you, such as your Hertz Gold Plus Rewards member number, other program Profile, or Hertz 24/7 membership information is no longer secure, you must immediately notify us of the problem by either clicking **“Contact Us”**  on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), [www.hertzequip.com](http://www.hertzequip.com/); initiating a Live Chat session via www.neverlost.com; or calling as follows:
 
 ·         Customers in the United States: (800) 654-4173 
 
@@ -484,7 +478,7 @@ We hope this policy answers your questions about our collection, use and discl
 
 ·         For Hertz NeverLost customers, you may call (800) 823-2547 in the United States
 
- ** _US-EU and US-Swiss Safe Harbor Enforcement:_**  Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), or [www.hertzequip.com](http://www.hertzequip.com/);  for Hertz NeverLost customers, by initiating a Live Chat session via [www.neverlost.com](http://www.neverlost.com/); or writing to us at any of the addresses below.  We have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+ ** _US-EU and US-Swiss Safe Harbor Enforcement:_**  Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), or [www.hertzequip.com](http://www.hertzequip.com/);  for Hertz NeverLost customers, by initiating a Live Chat session via [www.neverlost.com](http://www.neverlost.com/); or writing to us at any of the addresses below.  We have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
  ** _Contact addresses:_**
 
@@ -492,7 +486,7 @@ We hope this policy answers your questions about our collection, use and discl
 
 • Director, Privacy Services, Hertz Europe Service Centre, Swords Business Park, Swords, Co. Dublin, Republic of Ireland
 
-• Privacy Compliance Officer, Hertz Australia Pty Limited, Level 15, 636 St.Kilda Road, Melbourne VIC 3004, Australia
+• Privacy Compliance Officer, Hertz Australia Pty Limited, Level 6, 10 Dorcas Street, South Melbourne VIC 3205, Australia
 
 • Director, Privacy Services, Hertz New Zealand Ltd., Private Bag 4716, Christchurch, New Zealand 8020
 
@@ -527,7 +521,7 @@ Email Address: ....................................................
 
 | 
 
-Hertz Gold Plus Rewards Member Number:.....................................................  
+Hertz Gold Plus Rewards Member Number:.....................................................  
   
 Hertz 24/7  Membership #
 
