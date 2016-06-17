@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the liveinstyle.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029051521id_/http%3A//www.liveinstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinstyle.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617180406id_/http%3A//www.liveinstyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LiveInStyle
+# Privacy Policy
 
 Privacy Policy
 
   * Introduction
 
     * This privacy policy (“Privacy Policy”) sets out the manner in which United Spirits Limited, a company incorporated under the Companies Act, 1956 and with its registered office at Level 6-10, UB Tower, UB City, 24 Vittal Mallya Road, Bangalore – 560001 (“USL", “we”, “our”, “us”) collects, uses, maintains and shares information about you (“User” or “you”) through online interfaces (e.g. - websites and mobile applications) owned and controlled by us, including www.liveinstyle.com (collectively referred to herein as the “Site”).
-    * Capitalised terms not defined herein shall have the same meaning as those ascribed to them in the Terms of Use of the Site published on [Terms of Use](http://www.liveinstyle.com/terms-of-use-v2-1).
+    * Capitalised terms not defined herein shall have the same meaning as those ascribed to them in the Terms of Use of the Site published on [Terms of Use](http://www.liveinstyle.com/terms-service).
     * Please read this Privacy Policy carefully to understand what we do with your information. Your use of our Site is also governed by our Terms of Use and our Cookie Policy. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at [admin@liveinstyle.com](mailto:admin@liveinstyle.com). You are free to use the Site only if you agree with our policies and practices encapsulated in this Privacy Policy, the Cookie Policy and the Terms of Use.
   * APPLICABILITY OF THE POLICY
 
@@ -18,7 +18,7 @@ Privacy Policy
     * In the use of the Site, as you navigate through the Site, USL may collect different types of information. USL may collect information when you register for an account on the Site, use services offered by the Site, participate in promotional features and sweepstakes available on the Site from time to time. USL may also collect information about searches you have done on the Site, advertisements or third party links that you have visited, any emails or other correspondence you have exchanged on the Site or with USL.
     * This information collected by USL could be either “Personal Information” (that is, information that could be used to identify you such as, your name, email address etc.) or “Non-Personal Information” (that is, information that cannot be used to identify you such as the webpages that you have viewed and your usage patterns). Please do not include any Personal Information unless specifically requested by USL as part of the registration or other applicable processes. You may choose not to provide any Personal Information to USL, in which case you will not be able to use all the functionalities of the Site or receive certain services rendered pursuant to the Site.
     * You are responsible for ensuring the accuracy of the Personal Information you submit to USL. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
-    * You understand that the information collected by USL, may be collected directly or through tracking of your usage of the Site. The usage details may include IP addresses, details of your computer equipment, browser, location, connections, any information that USL may collect through the use of cookies and other tracking technologies. The collection of data may in most cases be automatic. The manner in which your information is collected, used, stored or transmitted to the extent that any of the foregoing involves use of cookies is governed by our Cookie Policy available at [cookie policy](http://www.liveinstyle.com/cookie-policy-v1-1).
+    * You understand that the information collected by USL, may be collected directly or through tracking of your usage of the Site. The usage details may include IP addresses, details of your computer equipment, browser, location, connections, any information that USL may collect through the use of cookies and other tracking technologies. The collection of data may in most cases be automatic. The manner in which your information is collected, used, stored or transmitted to the extent that any of the foregoing involves use of cookies is governed by our Cookie Policy available at [cookie policy](http://www.liveinstyle.com/cookie-policy).
     * You may also provide information to be published or displayed or posted on the Site, or transmitted to other users of the Site or third parties. Any such information is posted or transmitted to other parties at your own risk and will not be monitored by USL to ensure that they are compliant with applicable law. Please be aware that USL cannot control the actions of other users of the Site with whom you may choose to share information with.
   * USER GENERATED DATA
 
@@ -27,7 +27,7 @@ Privacy Policy
 
     * The information that we collect on the Site will be used for the purposes of operating the Site, facilitating your use of the Site, studying user behaviour and for other business purposes of USL.
     * Except as otherwise provided herein, no Personal Information will be disclosed or shared with any third party without your express consent. USL will not sell or rent your Personal Information to any third party.
-    * USL may use your Personal Information for the following purposes: 
+    * USL may use your Personal Information for the following purposes:
       * Marketing Communications: We may use your Personal Information to communicate with you about our content and services, and those of our subsidiaries, affiliates, and parent companies, and any of their related businesses based on trends amongst our consumers;
       * Marketing analysis: We may use your Personal Information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites; or
     * You agree that your Personal Information may be used to contact you and deliver information or targeted advertisements, administrative notices and any other communication relevant to your use of the Site. USL uses your information to customise the advertising and content accessible to you, to fulfil your requests regarding certain services, and to contact you about our special offers, events and services you may be interested in. USL may also use the information for analytical purposes, including but not limited to assessing usage data, usage patterns, estimate audience sizes and other similar activities.
@@ -36,7 +36,7 @@ Privacy Policy
     * When you provide us with information regarding another individual, such as when you request that we send someone information from one of our websites, we will send that individual only the information you specifically requested that we send. We will not send them additional information other than as directed by you. You must ensure that such other individual is above twenty five (25) years of age.
   * Disclosure of Your information
 
-    * We may disclose any information provided by you or collected by us including your Personal Information to our agents, employees, third party advertisers, subsidiaries and affiliates, or to other third parties in the following circumstances or for the following purposes: 
+    * We may disclose any information provided by you or collected by us including your Personal Information to our agents, employees, third party advertisers, subsidiaries and affiliates, or to other third parties in the following circumstances or for the following purposes:
       * We need to share your information in order to provide the information or service you have requested us;
       * We need to share your information with certain service providers in order to attend to a grievance, resolve issues or respond to your comments, only the purposes of operating and maintaining the Site and for facilitating your use or access of our Site;
       * We find that you are in breach of our Terms of Use, Privacy Policy or Cookie Policy;
@@ -45,7 +45,7 @@ Privacy Policy
       * Carefully selected third parties, including our affiliates, to send you third party marketing and promotional information that may be of interest to you, if you have authorized us to send such communication to you. In such circumstances these organizations may be bound by confidentiality obligations and restrictions on the use of your personal information, such obligations or restrictions being no less onerous than the ones imposed on us by way of this Privacy Policy or Cookie Policy; or
       * A person or entity, including our affiliates, in the event of a sale, merger, consolidation, change in control, transfer of substantial assets, financing, reorganization, or liquidation whereby we transfer, sell, or assign to such third party information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
     * By agreeing to this Privacy Policy you acknowledge that you provide us consent to share your information including any Personal Information in the manner and for the purposes as described in the foregoing paragraphs of this Privacy Policy.
-    * We may disclose your information including your Personal Information without your prior consent: 
+    * We may disclose your information including your Personal Information without your prior consent:
       * to government agencies mandated under the law to obtain information including your Personal Information
       * to a third party if we are ordered to do so under law for the time being in force, by a competent court having jurisdiction over us.
   * INTERNATIONAL PRIVACY RIGHTS
@@ -72,8 +72,14 @@ Privacy Policy
     * If you have any issue or grievance with respect to our Privacy Policy or with the manner in which we collect or store your information, or in any respect related to your personal information provided to us, please contact admin of Liveinstyle.com at admin@liveinstyle.com, or write to him/her at Level 8, UB Tower, UB City, 24 Vittal Mallya Road, Bangalore – 560001, or phone him/her at 080-39856908, who shall redress your grievance. We will do everything we reasonably can to ensure that your grievance is attended to and addressed within a period of 30 days from the date of receipt of your grievance.
   * Amendments to the Privacy Policy
 
-    * This Privacy Policy is subject to change at USL’s sole discretion.The amended Privacy Policy shall be available at [Privacy Policy](http://www.liveinstyle.com/privacy-policy-v1-1).
+    * This Privacy Policy is subject to change at USL’s sole discretion.The amended Privacy Policy shall be available at [Privacy Policy](http://www.liveinstyle.com/privacy-policy).
 
 
 
-## RC_048_K_Silver_Push_Expando_banner_300X250
+  * Sorry there are no events available
+
+
+
+[](https://web.archive.org/cocktails/scotch-and-whisky-cocktails/prince-charming)
+
+## Cocktails
