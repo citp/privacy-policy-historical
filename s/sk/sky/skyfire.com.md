@@ -1,105 +1,109 @@
-> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2015-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150125054529id_/http%3A//www.skyfire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617183341id_/https%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement | Opera
 
-### **Our Commitment to Your Privacy:**
+_Updated May 6, 2016_
 
-  * Skyfire maintains strict privacy policies. The Skyfire application does NOT collect nor store Personal Information such as name, address, telephone number, or email address. We will not sell or transfer any personal information.
-  * Videos via Skyfire's toolbar are mobile-optimized on your behalf, in order to provide you smoother play and faster starts, while still making video as crisp as your wireless connection allows. Skyfire processes these videos on its servers into optimal formats for your screen and bandwidth conditions. 
-    * As a side benefit, adapting videos for mobile use helps you save battery, and if you are on a limited or capped data plan, this will save you money too!
-    * In order to identify if there is a video where Skyfire can help, the application transmits URL information as you browse to Skyfire servers. The process is anonymous.
-  * The SkyBar™ toolbar allows you a variety of social sharing and discovery features. If you log into the Facebook button, for instance, the toolbar will automatically give you a 'Popular' button that will suggest pages on any website that your friends have liked. Skyfire does not require that a user login to Facebook, nor any other social network to enjoy browsing. 
-    * In order to process your requests, the application communicates webpage URLs and searches as you browse to our cloud service. This information is not stored in any way that connects to a named individual, only by an anonymous random ID number. The application learns your interests in an anonymous way, which can be used to enhance automated content recommendations, and serve relevant advertising. You will not see more ads because of this relevance technology.
-  * For more information, please see the full Terms of Use and Privacy Policy below.
+### Summary
 
+We at Opera Software AS ("Opera") take your privacy seriously. This privacy statement explains what data we collect, how we store and transfer it and how we use it. The exact set of the data we collect, its purpose and your opt-out choices depend on the product or service you use. Please refer to the relevant product or service sections of this privacy statement to learn more specific details.
 
+Some of the data we collect, either individually or aggregated, may be considered personal. We treat this data in a special way, as required by law.
 
-### Privacy Policy  
-Effective April 6, 2011
+We'll always honor your decisions for how your data is used. We have safeguards in place to protect your data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.
 
-Your privacy is extremely important to us at Skyfire Labs, Inc. ("Skyfire", "we", or "us"). We respect the privacy of our users and seek to meet or exceed industry-best practices to protect your privacy, including supporting the Internet Advertising Bureau and Better Business Bureau joint self-regulatory principles. Accordingly, we have prepared this Privacy Policy for the Skyfire mobile browser, the SkyBar toolbar, our website, or other products and services we offer (collectively, our "Sites and Services"). **By using any of our Sites and Services, you consent to the terms of this Privacy Policy.**
+When we post changes to this privacy statement, we will include the date when the statement was last updated. If we significantly change this statement or how we use your personal information, we will notify you either by prominently posting a notice prior to implementing the change or by sending you a notification directly. We encourage you to respect review this statement periodically.
 
-### 1\. What Information Does Skyfire Collect and for What Purposes?
+### Why we collect data?
 
-**The Skyfire Browser and other Skyfire mobile apps do NOT collect or store information that can be used to identify you personally such as your name, address, telephone number, or email address ("Personal Information"). Skyfire will not collect Personal Information without your consent.** If you sign up for our optional free email newsletter via our Website, we do retain your email and other information you provide, but that is not linked in any way to your use of the Skyfire browser or other products.
+We only process your data for purposes that are objectively justified by our products and services. We process this data with respect to your fundamental right to privacy, including the need to protect personal integrity and private life and to ensure that your personal data is of adequate quality. Unless otherwise stated, we determine the purposes for and manners in which your data is collected (in legalese, we act as a "data controller" regarding personal data).
 
-Skyfire uses a completely anonymous user ID to identify specific Skyfire mobile browsers, which is not linked to any Personal Information. To the extent that our Sites and Services access your Device ID, Skyfire uses this Device ID to create **a proprietary anonymous ID number that cannot be traced nor reverse-engineered to your particular Device ID or your identity.**
+We collect data to:
 
-In order to process browsing and video requests, Skyfire has to collect certain basic browsing information, limited to Non-Personal Information, including the following:
-
-  * When using the Skyfire mobile browser and the SkyBar toolbar, Skyfire automatically records certain information, such as website pages visited, searches made, phone model, and operating system version. This information is required to identify when there is a video for optimization via Skyfire's servers, and is used for studying aggregate user behavior, and to improve our Sites and Services.
-  * A key feature of Skyfire's browser is its ability to optimize videos for viewing on your mobile device. When you visit a web page that includes videos, and play videos via the Video button on the SkyBar, Skyfire's servers will intercept and transcode those videos on your behalf. This process is anonymous and not tied to any Personal Information. Skyfire's mobile browser records usage data, including your web request, web response, IP address, the date and time of your request, size of the communication, and cookies, as well as client-side data such as connect times, connect failures and video playback quality.
-  * **Note that no data is ever transmitted to our servers when users access secure (HTTPS) sites, such as commonly used in online banking or ecommerce checkout pages.**
+  * Improve, debug, and maintain Opera products and services
+  * Study and personalize user experiences
+  * Fulfill legal requirements
+  * Conduct business analysis and research, and marketing campaigns
+  * Ensure better security and fraud protection
 
 
 
-When using the SkyBar toolbar, you may choose to login to third-party services using the shortcut toolbar buttons provided, such as Facebook, Twitter, or other third-party services. **You may use the SkyBar toolbar without logging in to those services, and you may log out at any time.** Skyfire does not collect or store your account information for third-party services. Skyfire maintains only an encrypted token ("OAuth," in technical speak) to indicate to these third parties that you are logged in to your account with their services.
+We may also use your data to send personalized information regarding updates, upgrades, enhancements, surveys, recommendations and/or advertisements, if we believe these are relevant for you.
 
-When you visit and browse our website, Skyfire may set and access one or more cookies (which are text files containing alphanumeric identifiers that we send to your browser and are stored on your computer). We use cookies to store limited session-related information to improve our website experience and understand repeat visitor trends. If you would like, you may be able to change your browser settings to limit our use of cookies (however, some features of our Sites and Services may not function normally if you do so). Please review your web browser's "Help" file to learn the proper way to modify these settings. In addition, as with most websites, Skyfire automatically receives and logs information from your computer that your browser sends, such as IP address, browser type, and Skyfire cookie information, referring/exit pages and URLs, platform type, number of clicks, landing pages, and pages viewed.
+### What data we collect?
 
-Skyfire may display advertisements and offers in its Sites and Services, including in the SkyBar toolbar. Skyfire serves relevant ads using a completely automated and anonymous process that enables Skyfire to target ads based on interests and topics that surface in keyword analysis of browsed pages. No human will read the browser session in order to target such advertisements, and no personally identifiable information will be collected nor provided to advertisers as part of this Service. We may also contract with trusted partners to perform anonymous reporting and analytics to refine user interest profiles creates with this information. However, Skyfire stores and uses this data in a form that does not permit direct association with any specific individual or device.
+The information we collect may include: personal data, for example your name, email, IP-address, location; and non-personal technical data, for example who manufactured your device, your screen's resolution, your mobile operator's region and code. A complete list of the data we collect and purpose of collection may vary between our products and services. You can find detailed descriptions in the product/service-related sections below.
 
-We may in the future introduce new Sites or Services that require a separate registration and may ask you to provide Personal Information when using those distinct products. Please keep in mind that standards for what constitutes Personal Information may differ in other jurisdictions.
+### How we collect data?
 
-**Skyfire may use, disclose, reproduce, license and distribute any comments, suggestions and feedback to Skyfire regarding the use of our Sites and Services.**
+Generally, we collect data:
 
-### 2\. What Does This Privacy Policy Cover, and What Doesn’t It Cover?
-
-This Privacy Policy covers our treatment of information that we gather when you access or use our Sites and Services. This Privacy Policy does not apply: (a) to the practices of third party companies that we do not own or control, or to third party individuals that we do not employ or manage; and (b) to any information you provide to use when you call us, write to us, or communicate with us in any manner other than through our Sites and Services.
-
-Please note that end user license agreements ("EULAs") governing the use of certain Sites or Services may contain provisions that pertain to the collection and use of your information and which supplement or vary from this Privacy Policy. If there is a conflict between a EULA and this Privacy Policy, the terms of such EULA shall apply.
+  * When you provide it explicitly to us; for example, when you submit a form on our websites
+  * When you use our products and services, or visit our websites
+  * When third parties share information with us
 
 
 
+Some products may require your personal data to function properly. Wherever technically possible, we'll ask for your consent to collect your personal data and offer you the choice to opt-out. Please read product-specific information to learn how to opt-out.
 
-### 3\. Can Minors Use the Sites and Services?
+When we collect your data, we associate it with a unique ID and a unique device ID that are generated when you install an Opera product or begin using one of our services. These identifiers are anonymized and cannot be linked to you as an individual person. We also take measures to remove any possible connections between these IDs and other types of personal data.
 
-Skyfire does not knowingly collect or solicit information from anyone under the age of 18, and requires that users to be of age 18 or older to use our Sites and Services. If you do not meet these age requirements, please do not attempt to register for or use any of the Sites and Services, and do not send any information about yourself to us, including your name, address, telephone number, or email address. If we learn that we have collected personal information from anyone under the age of 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 18, please contact us at [privacy@skyfire.com](mailto:privacy@skyfire.com) and we will promptly delete such information.
+To collect information automatically, we may use [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), [web beacons](https://en.wikipedia.org/wiki/Web_beacon), our own data-collection tools or various third-party services.
 
-### 4\. How Does Skyfire Share Information?
+Some third-party sites may monitor data traffic from our products and services, such as numbers of hits and the search terms used. We do not make available any personally identifiable information to these services.
 
-Skyfire does not sell, rent or share your Personal Information with other companies as a matter of policy. However, we may disclose Personal Information and non-Personal Information under the following limited circumstances:
+This privacy statement does not cover third-party apps you access and use through our products and services, nor does it cover links to other websites. We do not control the privacy and security practices and policies of these third parties and their sites. We encourage you to read the privacy statements of the third-party apps and websites you use.
 
-  * Skyfire may disclose any information necessary to court orders, subpoenas, or legal process, or enforceable governmental request, or to establish or defend against legal claims, or exercise our legal rights.
-  * Skyfire may access, use, preserve or disclose information to detect, investigate, prevent, or address illegal activities, fraud, security or technical issues, or potential threats to the safety of any person, or violations of Skyfire terms of use, or to protect rights, property, or safety of Skyfire as required or permitted by law.
-  * To provide information to our subsidiaries, affiliated companies or other trusted businesses or persons who work on behalf or with Skyfire under confidentiality agreements and in compliance with this Privacy Policy.
-  * Skyfire may choose to buy or sell assets, and in these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if all or substantially all of Skyfire's assets were acquired, or in the event that Skyfire goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. Skyfire may disclose your information in connection any of the foregoing.  However, keep in mind that our strict privacy policies with regard to the way user information is collected would inherently limit disclosure, since much of the information we collect is not tied to a particular user or device.
-  * We notify you and obtain your consent in advance.
+### How we protect your data?
+
+We treat your personal data as required by law. We are a Norwegian company and we follow Norwegian data-security laws as well as other national legislation, as needed. We require that our suppliers successfully pass security assessments and prove their compliance with applicable laws and industry standards.
+
+Only a limited number of Opera employees have access to the data we collect. We review and update our working procedures regularly to improve your privacy and ensure that our internal policies are followed. We immediately correct any non-conformance regarding these policies.
+
+Our commitment to your privacy does not extend to third-party products and services you may access from Opera products and services. We encourage you to read the privacy statements of the third-party products and services you use.
+
+### How we share your data?
+
+We may share your data:
+
+  * To government bodies and law enforcement agencies to comply with the law, for example in judicial proceedings, by court order or other legal process
+  * To third parties (including professional advisors) to enforce or defend our legal rights, including our terms and conditions
+  * To a third-party purchaser or seller (including professional advisors) in connection with a corporate event such as a merger, business acquisition or insolvency situation
+  * As described elsewhere in this statement
 
 
 
-Skyfire discloses aggregate, anonymous log file and usage information in reports to third parties to assist those parties in understanding the usage patterns and performance results of certain advertisements, content, services, promotions, or features. For example, we may provide aggregate-level reports to an advertising partner for the purpose of showing delivery and performance statistics of a specific advertising campaign.
+Some of our products and services include third-party technology or code that may use the collected data. We may share anonymized and/or aggregated sets of data with our partners and other trusted third parties.
 
-Skyfire utilizes certain third party services, such as Flurry Analytics, as a reporting tool in order to study aggregate usage patterns and improve our Sites and Services. Skyfire does not share Personal Information with such third parties.
+Because we are an international company with data-centers around the world, your data may be transferred to countries which do not have the same level of data protection laws as those in the country where you are located. We will ensure that your data is protected to a strict standard.
 
-If you have any questions regarding the management and use of personal information, please contact us at the address in the "Enforcement and Contact Information" section of this Privacy Policy.
+### What else should I know?
 
-### 5\. How Does Skyfire Protect Your Information?
+We aim to be transparent as to what data we collect and how we use it. Your rights are not limited to consent and opt-out choices only. If you've provided personal information to us, you may change or modify this information at any time.
 
-Skyfire uses commercially-reasonable safeguards to protect the privacy of information collected under this Privacy Policy. Although we can not guarantee that such information may not be accessed or disclosed by breach of our safeguards, we seek to exceed industry privacy norms by not storing sensitive information and limiting the Personal Information we collect in the first place.
+We retain personal data only as long as necessary for processing it in accordance with the purposes described in this statement, or as otherwise necessary to comply with applicable laws. When your data is no longer necessary or relevant for our purposes, or required by applicable laws, we take steps to have it deleted, aggregated or made anonymous.
 
-We limit access to information about Browser activity to Skyfire employees, contractors and agents who need to come into contact with that information to operate, develop or improve our products and services. These individuals are under confidentiality agreements and may face disciplinary charges, termination and/or criminal prosecution if they fail to meet their agreements. We review our data collection and use practices to ensure that we collect and use only necessary amount of personal information needed to operate, develop or improve our Sites and Services.
+You can find out if we hold any personal data about you by contacting us. You may be asked to prove your identification so that we can verify who is making the request. If we hold information about you, you can ask us to correct any mistakes and delete any excessive information.
 
-We endeavor to protect the privacy of any information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information. If Skyfire learns of a security breach, then we may attempt to notify you so that you can take appropriate protective steps. Skyfire also may post a notice on applicable portions of its Sites and Services if a security breach occurs.
+### Contact information
 
-The Skyfire website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site's privacy policy.
+If you have any questions about this statement or any privacy issues regarding Opera and our products or services, we can be reached by email [privacy@opera.com](mailto:privacy@opera.com) or by post at:
 
-In addition, please note that information that we collect or that you submit may be transferred to, processed in, or held in countries (including the United States) other than the one in which you reside.
+Opera Software AS  
+P.O. Box 4214 Nydalen  
+NO-0401 OSLO  
+Norway
 
-### 6\. What If We Change This Privacy Policy?
+For privacy policies and questions specifically related to the Opera products and services, please see the appropriate section below:
 
-Skyfire may update this policy from time to time. We will post any Privacy Policy changes on this page. Each version of this Privacy Policy is identified by its effective date at the top of this document.
+  * [Opera for computers](https://web.archive.org/privacy/computers)
+  * [Opera for Android](https://web.archive.org/privacy/operaforandroid)
+  * [Opera Coast](https://web.archive.org/privacy/coast)
+  * [Opera Mini](https://web.archive.org/privacy/mini)
+  * [Opera Mini for Android](https://web.archive.org/privacy/mini/android)
+  * [Opera Mini for iOS](https://web.archive.org/privacy/mini/ios)
+  * [Opera Max](https://web.archive.org/privacy/max)
+  * [Opera websites](https://web.archive.org/privacy/websites)
+  * [Opera services](https://web.archive.org/privacy/services)
 
-If we make a material change to this Privacy Policy that affects users of the Skyfire browser or other apps, we will post prominent notice within the applications and request new acceptance of the updated Privacy Policy before it applies to you.
 
-### 7\. Who Can I Contact With Concerns Or Questions?
-
-Skyfire regularly reviews its compliance with this Privacy Policy. If you have questions, concerns or suggestions regarding this policy, please contact us at:
-
-Skyfire Labs, Inc.  
-Customer Care – Privacy Matters  
-779 East Evelyn Ave  
-Mountain View, CA 94041  
-[privacy@skyfire.com](mailto:privacy@skyfire.com)
-
-Note:  Some users may have more restrictive privacy policies based on specific country or wireless operator.  Please review the privacy policy available in the Skyfire application on your device if you are concerned.  The privacy policy can be found in the "settings" area in the Skyfire application.
