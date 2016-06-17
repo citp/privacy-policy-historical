@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the psionline.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218085028id_/http%3A//corporate.psionline.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psionline.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617134758id_/http%3A//corporate.psionline.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSI Services LLC
 
-PSI Services LLC (“PSI”) recognizes that its customers, exam candidates, and PSI website (the “Site”) users value their privacy. PSI strives to protect personal information collected through its business or generated through the Site, and maintained in PSI’s business files, records, databases, or the Site (the “Files”). 
+PSI Services LLC (“PSI”) recognizes that its customers, exam candidates, and PSI website (the “Site”) users value their privacy. PSI strives to protect personal information collected through its business or generated through the Site, and maintained in PSI’s business files, records, databases, or the Site (the “Files”).
 
 **Information Collected, Generated and Maintained**
 
 _Licensure Testing Candidates:_
 
-Whether a candidate registers and completes an exam in person, or online using the ATLAS platform, each candidate may be required to furnish some or all of the following personal information: first and last name, address, phone numbers, date of birth, email address, state identification number, social security number and credit card information, and at some testing locations digital photographs, fingerprints and/or signatures (collectively the “Personal Information”). All Personal Information is maintained in PSI’s Files. Once a candidate has completed an exam, testing content and results (collectively, the “Exam Information”) will be maintained in PSI’s Files. 
+Whether a candidate registers and completes an exam in person, or online using the ATLAS® platform, each candidate may be required to furnish some or all of the following personal information: first and last name, address, phone numbers, date of birth, email address, state identification number, social security number and credit card information, and at some testing locations digital photographs, fingerprints and/or signatures (collectively the “Personal Information”). All Personal Information is maintained in PSI’s Files. Once a candidate has completed an exam, testing content and results (collectively, the “Exam Information”) will be maintained in PSI’s Files.
 
 _License Processing:_
 
@@ -16,7 +16,7 @@ Information related to any licensed candidates, such as license application info
 
 _Corporate Talent Assessment:_
 
-Many of PSI’s clients are corporations (“Corporate Clients”) that use PSI’s system to deliver exams to their job candidates. As such, PSI collects and maintains the Personal Information and Exam Information of such job candidates, as well as job applicant demographics (collectively the “Job Demographics”) in PSI’s Files. 
+Many of PSI’s clients are corporations (“Corporate Clients”) that use PSI’s system to deliver exams to their job candidates. As such, PSI collects and maintains the Personal Information and Exam Information of such job candidates, as well as job applicant demographics (collectively the “Job Demographics”) in PSI’s Files.
 
 **_Parties To Whom Information May Be Disclosed & How Information Is Used_**
 
@@ -34,7 +34,7 @@ PSI uses the Exam Information and Job Demographics on an aggregate anonymous bas
 
 _Marketing_
 
-PSI and its third party affiliates may communicate with registered users and customers through email and other methods from time to time. PSI and its third party affiliates will use their best efforts to only communicate with persons who “opt in” to such communications or with persons whose information is already deemed public information by their licensing authorities, and will cease communicating with any customers who “opt out” of such communications. 
+PSI and its third party affiliates may communicate with registered users and customers through email and other methods from time to time. PSI and its third party affiliates will use their best efforts to only communicate with persons who “opt in” to such communications or with persons whose information is already deemed public information by their licensing authorities, and will cease communicating with any customers who “opt out” of such communications.
 
 **_Confidentiality and Security_**
 
@@ -60,7 +60,7 @@ This Site is not designed to attract anyone under the age of 13 and children und
 
 **_Privacy Policy Updates and Acceptance_**
 
-PSI may update its Privacy Policy from time to time as conditions dictate. Customers, exam candidates, clients, and Site users are responsible for periodically checking for any updates. By using this Site, users signify their assent to this Policy as it is in effect at the time of such use. A users’ continued use of this Site following the posting of any changes to this Policy will mean that such user has accepted and agrees to be bound by those changes. 
+PSI may update its Privacy Policy from time to time as conditions dictate. Customers, exam candidates, clients, and Site users are responsible for periodically checking for any updates. By using this Site, users signify their assent to this Policy as it is in effect at the time of such use. A users’ continued use of this Site following the posting of any changes to this Policy will mean that such user has accepted and agrees to be bound by those changes.
 
 **_Questions or Problems_**
 
