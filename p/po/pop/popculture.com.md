@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the popculture.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206153700id_/http%3A//entertainment.ha.com/c/privacy.zx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popculture.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618015046id_/http%3A//entertainment.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
-
-Heritage Privacy Policy
-
-At Heritage Auctions, the privacy of our clients and other website visitors is of the utmost importance. Heritage strives to gain and maintain the trust of our consigners, sellers, bidders and buyers by continually protecting identities and holding information in confidence. All information that you provide us when using Heritage websites is held in confidence, except as herein noted.
-
-As we update and expand our services, this privacy policy may change to better serve everyone. Heritage does not typically send notifications of changes to our privacy policy so please check back periodically for updates and feel free to contact us at any time with questions or suggestions regarding this policy.
-
-If you do have questions or concerns regarding this policy, please contact Heritage either by email at [Webmaster@HA.com](mailto:Webmaster@HA.com) or by writing us at the following address:
-
-Heritage Auctions  
-3500 Maple Avenue, 17th Floor  
-Dallas, TX 75219-3941
 
   1. What personal information do we collect and why?  
 
@@ -32,7 +20,7 @@ Dallas, TX 75219-3941
 
 
 **What personal information do we collect and why?**  
-We collect any and/or all of the following, depending on what particular form you fill out. Our surveys and contests collect your name, email address, address, telephone number, and information about your collecting and selling habits and interests. Our free email notices require only an email address. Our registration for participating in online auctions collects your name, email address, address, telephone number, and a valid credit card, eCheck or other validation method.
+We collect any and/or all of the following, depending on what particular form you fill out, and store the data at our operations centers, including but not limited to those in the United States. Our surveys and contests collect your name, email address, address, telephone number, and information about your collecting and selling habits and interests. Our free email notices require only an email address. Our registration for participating in online auctions collects your name, email address, address, telephone number, and a valid credit card, eCheck or other validation method.
 
 We automatically record your IP address, session duration, transaction data, the order and addresses of the pages you visit, and in most cases the data that you enter on those pages. We use all of this information to improve the navigation, functionality, and general service that our website provides.
 
@@ -61,9 +49,9 @@ Heritage limits access to personal information about you to those employees who 
 In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity. Heritage takes reasonable precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
 **Reviewing and changing your information**  
-Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/c/my/profile/) page. 
+Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [My Profile](https://web.archive.org/c/my/profile/) page. 
 
-For any personally identifiable information that cannot be updated via your [MyProfile](https://web.archive.org/c/my/profile/) page, please make a request to have it changed, if needed, using the contact information listed above.
+For any personally identifiable information that cannot be updated via your [My Profile](https://web.archive.org/c/my/profile/) page, please make a request to have it changed, if needed, using the contact information listed above.
 
 **Do Not Track notice and disclosure**  
 Heritage does not currently respond to Web browser “do not track” signals and similar signals as providers of these signals do not currently operate according to common, industry-accepted standards. However, as stated earlier in this policy, your browser provides tools to allow you to change your privacy and security settings. For instructions, consult your browser’s Help menu. 
