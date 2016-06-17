@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the sabreakingnews.co.za privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205234223id_/http%3A//www.sabreakingnews.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreakingnews.co.za privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617075056id_/http%3A//www.sabreakingnews.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SA Breaking News
 
-Last updated: 14 November 2012
+Last updated: 28 April 2016
 
 **1\. GENERAL**
 
-1.1.Incredibility (PTY) LTD (“we” or “us” or “our”) are committed to protecting and respecting your privacy.
+1.1.Ole!Media (“we” or “us” or “our”) are committed to protecting and respecting your privacy.
 
 1.2.This privacy policy (together with our terms and conditions) sets out the basis on which any personal information we collect from you, or that you provide to us, will be used, stored and processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
 
 **2\. INFORMATION WE MAY COLLECT FROM YOU**
 
-****2.1.We may collect and process the following information about you:
+2.1.We may collect and process the following information about you:
 
 2.1.1. Information that you provide by filling in forms on our website located at www.sabreakingnews.com or www.sabreakingnews.co.za (“Website”). This includes information provided at the time of registering to use our Website (where relevant), subscribing to our service, posting material or requesting further services and/or information. We may also ask you for information when you enter a competition or promotion and when you report a problem with the Website.
 
@@ -68,9 +68,7 @@ We may collect information about your computer, including where available your I
 
 6.1.6. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
 
-6.1.7. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers
-
-reach the kind of audience they want to target. We may make use of the personal information we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+6.1.7. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal information we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
 
 **7\. DISCLOSURE OF YOUR INFORMATION**
 
@@ -80,7 +78,7 @@ reach the kind of audience they want to target. We may make use of the personal 
 
 7.2.1. in the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.
 
-7.2.2. if Incredibility (PTY) LTD or substantially all of its users and/or assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets; and
+7.2.2. if Ole!Media or substantially all of its users and/or assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets; and
 
 7.2.3. if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions
 
