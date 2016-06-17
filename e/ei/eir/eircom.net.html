@@ -1,675 +1,425 @@
-<!--The following is the downloaded HTML source of the eircom.net privacy policy that was archived on 2009-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091102064546id_/http%3A//www.eircom.ie/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eircom.net privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617083225id_/https%3A//www.eir.ie/privacystatement) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-//==================================================================
-//Function	: getBrowserCompatibility
-//
-//Description	: Retrieves the compatibility version number
-//
-//Parameters	: 
-//
-//Returns	: version number
-//
-//==================================================================
-function getBrowserCompatibility() {
-	var compatibilityVersion = parseInt(navigator.appVersion);
-return compatibilityVersion;
-}
-
-//==================================================================
-//Function	: getBrowserName
-//
-//Description	: Retrieves the browser name
-//
-//Parameters	: 
-//
-//Returns	: browser name
-//
-//==================================================================
-function getBrowserName() {
-	var browsername = navigator.appName;
-return browsername;
-}
-
-//==================================================================
-//Function	: getBrowserVersionMajor
-//
-//Description	: gets the browser major version number
-//
-//Parameters	: 
-//
-//Returns	: major version
-//
-//==================================================================
-function getBrowserVersionMajor() {
-	var browser = getBrowserName();
-	var browserVersion = navigator.appVersion;
-	if (browser == "Microsoft Internet Explorer") {
-		string = browserVersion.match(/MSIE\s\d+.\d+/g).join();
-		string = string.match(/\d+/g);
-		string = string[0];
-	}
-	else
-	{
-		string = browserVersion.match(/\d+.\d+/g).join();
-		string = string.match(/\d+/g);
-		string = string[0];
-	}
-browserVersionMajor = string;
-return browserVersionMajor;
-}
-
-//==================================================================
-//Function	: getBrowserVersionMinor
-//
-//Description	: gets the browser minor version number
-//
-//Parameters	: 
-//
-//Returns	: minor version
-//
-//==================================================================
-
-function getBrowserVersionMinor() {
-	var browser = getBrowserName();
-	var browserVersion = navigator.appVersion;
-	if (browser == "Microsoft Internet Explorer") {
-		string = browserVersion.match(/MSIE\s\d+.\d+/g).join();
-		string = string.match(/\.\d+/g).join();
-	}
-	else
-	{
-		string = browserVersion.match(/\d+.\d+/g).join();
-		string = string.match(/\.\d+/g).join();
-	}
-browserVersionMinor = string;
-return browserVersionMinor;
-}
-
-//==================================================================
-//Function	: getBrowserVersionFull
-//
-//Description	: gets the browser full version number
-//
-//Parameters	: 
-//
-//Returns	: full version number
-//
-//==================================================================
-
-function getBrowserVersionFull() {
-	var browser = getBrowserName();
-	var browserVersion = navigator.appVersion;
-	if (browser == "Microsoft Internet Explorer") {
-		string = browserVersion.match(/MSIE\s\d+.\d+/g).join();
-		string = string.match(/\d+\.\d+/g).join();
-	}
-	else
-	{
-		string = browserVersion.match(/\d+.\d+/g).join();
-	}
-browserVersionMinor = string;
-return browserVersionMinor;
-}
-</script>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
 
 
-<script language="JavaScript">
-
-// Declare all local variables
-var isNav = "";			// True if browser is netscape navogator
-var isIE = "";			// true if browser is internet explorer
-var versionNumberMajor = 0;	// Holds the major version number
-var versionNumberMinor = 0;	// Holds the minor version number
-var showMessage = false;	// Holds true if user is using incompatible browser version
-
-// Set the browser name
-var browser = getBrowserName();	// Get the browser name
-
-// Set the isNav and isIE values
-browser == "Netscape"? isNav = true: isIE = true;
-
-// Set the major verison number
-versionNumberMajor = getBrowserVersionMajor();
-
-// Set the minor version number
-versionNumberMinor = getBrowserVersionMinor();
-
-if(isNav == true)
-{
-	if (versionNumberMajor <= '4')
-	{
-		showMessage = true;
-	}
-}
-else if (isIE == true)
-{
-	if (versionNumberMajor < '5')
-	{
-		showMessage = true;
-	}
-}
-
-if (showMessage == true)
-{
-	alert('In order to best view the eircom.ie site you must upgrade your browser \nto Netscape Navigator 6.0, Internet Explorer 5.0, 5.5 or 6.0.');
-}
-	
-</script>
-
-
-
-
-
-
-
-  
-    	
-    	
-  	
-
-
-
-
-
-<link rel="StyleSheet" href="/bveircom/stylesheets/res_ie.css" type="text/css">
-
-  	
-  	
-  	<title>Legal</title>
-  
-  	
-
-  	
-
-  </head>
-
-   <body bgcolor="#ffffff">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<title>eir Privacy Statement</title>
+<meta name="description" content="We have developed this privacy statement because we want you to feel confident about the privacy and security of your personal details when you visit or use the eir.ie website.">
+<meta name="keywords" content="">
+<meta name="google-site-verification" content="iT81WNcYXfA_VGrTBJhr2bj1flmeN_OrOz1PXUKPYPg">
+<!-- Google Authorship  -->
+<link href="https://plus.google.com/+eirieIreland" rel="publisher">
  
-	
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="eir Broadband, Phone, TV and Mobile ">
+<meta itemprop="description" content="Ireland's leading telecoms provider bringing you the fastest, most convenient form of connectivity nationwide via eir Fibre Broadband, Phone, TV and Mobile ">
+<meta itemprop="image" content="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/icons/fbog2.png">
+ 
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@eir">
+<meta name="twitter:title" content="eir Broadband, Phone, TV and Mobile">
+<meta name="twitter:description" content="Ireland's leading telecoms provider bringing you the fastest, most convenient form of connectivity nationwide via eir Fibre Broadband, Phone, TV and Mobile">
+<meta name="twitter:creator" content="@eir">
+<meta name="twitter:image" content="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/icons/fbog2.png"> 
+ 
+<!-- Open Graph data -->
+<meta property="og:title" content="eir Broadband, Phone, TV and Mobile">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.eir.ie">
+<meta property="og:image" content="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/icons/fbog2.png">
+<meta property="og:description" content="Ireland's leading telecoms provider bringing you the fastest, most convenient form of connectivity nationwide via eir Fibre Broadband, Phone, TV and Mobile"> 
+<meta property="og:site_name" content="eir">
+<meta property="fb:app_id" content="981645238539867">
 
 
 
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-<script language="javascript">
-	
-	function goHeader(element)
-	{
-		
-	}
-	
-	function goGateway(element)
-	{
-		
-	}
-	
-	function goUseful(element)
-	{
-	
-	}
-	
-	function goUsefulDropDown(elementTo)
-	{
-	
-	}
-	
-	
-
-
-		
-</script>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table cellspacing="0" cellpadding="0" width="720" background="/bveircom/images/resHeader.gif">
-	<tbody><tr height="68">
-		<td width="144">
-			<table width="144">
-				<tbody><tr>
-					<td align="center" valign="middle" width="144%">
-						
-							 <a href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0"><img border="1" src="/bveircom/images/resEircomLogo.gif"></a>
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		
-		<td width="4">
-			&nbsp;
-		</td>
-		
-		<td valign="bottom" align="right" width="100%">
-			
-	 		
-	 		
-	 		
-	 		
-	 		
-	 		
-			
-			<table>
-				<tbody><tr width="100%">
-					<td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm1" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Business"><a class="headerLinks" id="1" name="/bveircom/mainPage.jsp?site=Bus&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Bus&amp;chanId=0&amp;clickIdAction=addClickID_header&amp;clickIdTo=/bveircom/mainPage.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="">Business</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm2" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Contact Us"><a class="headerLinks" id="2" name="/bveircom/bladerunner/showContent.jsp?cid=ContactUsRes2&amp;site=Res&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=ContactUsRes2&amp;site=Res&amp;chanId=0&amp;clickIdAction=addClickID_header&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="">Contact Us</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm3" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="PhoneBook (NB:This link will open in a new window)"><a class="headerLinks" id="3" name="http://www.eircomphonebook.ie" href="http://www.eircomphonebook.ie?clickIdAction=addClickID_header&amp;clickIdTo=http://www.eircomphonebook.ie&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="_newPage">PhoneBook</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm4" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Broadband Extras (NB:This link will open in a new window)"><a class="headerLinks" id="4" name="http://home.eircom.net/broadbandservices/" href="http://home.eircom.net/broadbandservices/?clickIdAction=addClickID_header&amp;clickIdTo=http://home.eircom.net/broadbandservices/&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="_newPage">Broadband Extras</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm5" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Pricing"><a class="headerLinks" id="5" name="/bveircom/bladerunner/showContent.jsp?store=Res&amp;site=Res&amp;cid=EircomPricing&amp;chanId=-536882377&amp;storeChanId=-536883513" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;store=Res&amp;site=Res&amp;cid=EircomPricing&amp;chanId=-536882377&amp;storeChanId=-536883513&amp;clickIdAction=addClickID_header&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="">Pricing</a></td><td>&nbsp;</td><form name="searchForm" action="/cgi-bin/bvsm/bveircom/search/eircom_search_results.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0" method="POST"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
-<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
-<td title="Search"><input type="hidden" name="chanId" value="0"><input type="hidden" name="search" value="true"><input type="hidden" name="clickIdAction" value="addClickID_header"><input type="hidden" name="clickIdToSearch" value="/bveircom/search/eircom_search_results.jsp"><input type="hidden" name="clickFrom" value="/bveircom/bladerunner/showContent.jsp"><input type="hidden" name="clickFromCID" value="Legal"></td><td><input type="text" style="width:100" class="inputBox" name="words" size="10" maxlength="30" tabindex="1" onfocus="clearSearchBox()" value="Search..."></td><input type="hidden" name="searchText" value="Search..."><td><input type="image" name="Submit" src="/bveircom/images/resGoButton.gif" width="28" height="20"></td><td>&nbsp;</td>
-				</tr>
-				<tr height="5">
-					<td>
-					</td>
-				</tr>
-			</tbody></table>
-					
-		</td>
-	</tr>
-</tbody></table>
-
-
-<table cellspacing="0" cellpadding="0" width="720">
-	<tbody><tr height="8" width="100%" class="headerGradient">
-		<td>
-		</td>
-	</tr><tr>
-</tr></tbody></table>
-
-
-
-<script language="JavaScript">
-
-	function clearSearchBox()
-	{
-		ns4 = (document.layers) ? true : false;
-		
-		if(ns4)
-		{
-	    	if (window.document.Layer1.document.searchForm.words.value==document.searchForm.searchText.value)
-	    	{
-				window.document.Layer1.document.searchForm.words.value='';
-			}
-	    }
-	    else
-		{
-			if (document.searchForm.words.value==document.searchForm.searchText.value)
-			{
-				document.searchForm.words.value='';
-			}
-		}
-	}
-	
-</script>
-
-	
-	
-
-	<table cellpadding="0" cellspacing="0" width="720" border="0">
-		<tbody><tr>
-			<td valign="top" align="left" width="144"> 
-				
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-<script language="javascript">
-
-var arrowWhiteImage = new Image(18,7);
-arrowWhiteImage.src= "/bveircom/images/arrowWhite.gif";
-var arrowImage = new Image(18,7);
-arrowImage.src= "/bveircom/images/menuArrow.gif";
-
+<!-- Google Knowledge Graph -->
+<link rel="stylesheet" href="/opencms/export/system/modules/net.eircom.opencms/resources/css/external/icons.data.svg.css" media="all"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NXLZBV"></script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.eir.ie",
+  "logo": "https://www.eir.ie/opencms/export/sites/default/.galleries/eir/icons/fbog2.png"
+}
 </script>
 
 
+<meta name="author" content="">
+<meta name="robots" content="index,follow">
 
 
+<link rel="shortcut icon" href="/opencms/export/sites/default/.galleries/eircom/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/opencms/export/sites/default/.galleries/eircom/apple-touch-icon-152x152.png">
+<link rel="stylesheet" type="text/css" href="/opencms/export/system/modules/net.eircom.opencms/resources/css/global.min.css">
 
 
-<table width="144" border="0" cellpadding="2" cellspacing="0" style="">
-	<form method="post" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Legal&amp;site=Res&amp;chanId=0&amp;store=Res" name="gatewayForm"></form>
-		<input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
-<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+  <script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/homepage/jquery.json-2.4.min.js" type="text/javascript"></script>
 
-		<input type="hidden" name="clickIdAction" value="">
-		<input type="hidden" name="gateway_clickIdTo" value="">
+  
+  <script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/homepage/shared.js" type="text/javascript"></script> 
+<!--[if lte IE 9]>
+  <link rel="stylesheet" type="text/css" href="/opencms/export/system/modules/net.eircom.opencms/resources/css/external/ie8-and-down.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+<![endif]-->
+<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.1/modernizr.min.js"></script>
 
-		<input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0">
-    	
-    	<tbody><tr height="20"><td id="menu1" onmouseover="hover(1)" onmouseout="hover_off(1)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu1" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName1" align="left" class="menuRes" title="About Us"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">About Us</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu2" onmouseover="hover(2)" onmouseout="hover_off(2)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu2" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName2" align="left" class="menuRes" title="Products &amp; Services"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Products &amp; Services</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu3" onmouseover="hover(3)" onmouseout="hover_off(3)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu3" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName3" align="left" class="menuRes" title="Your Bill"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Your Bill</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu4" onmouseover="hover(4)" onmouseout="hover_off(4)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu4" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName4" align="left" class="menuRes" title="Customer Services"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Customer Services</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu5" onmouseover="hover(5)" onmouseout="hover_off(5)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu5" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName5" align="left" class="menuRes" title="Switch to eircom"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Switch to eircom</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu6" onmouseover="hover(6)" onmouseout="hover_off(6)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu6" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName6" align="left" class="menuRes" title="eircom mobile for business"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">eircom mobile for business</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu7" onmouseover="hover(7)" onmouseout="hover_off(7)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu7" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName7" align="left" class="menuRes" title="Disability Services"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Disability Services</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu8" onmouseover="hover(8)" onmouseout="hover_off(8)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="" href="http://government.eircom.netclickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage"><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu8" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName8" align="left" class="menuRes" title="Government Site (NB:This link will open in a new window)"><a style="width:100%" class="leftNavGeneral" name="" href="http://government.eircom.net?clickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage">Government Site</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu9" onmouseover="hover(9)" onmouseout="hover_off(9)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="" href="http://enterprise.eircom.netclickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage"><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu9" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName9" align="left" class="menuRes" title="Enterprise Site (NB:This link will open in a new window)"><a style="width:100%" class="leftNavGeneral" name="" href="http://enterprise.eircom.net?clickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage">Enterprise Site</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr>
-    	
-</tbody></table>
+<script src="//cdn.optimizely.com/js/2117510572.js"></script>
 
-<table width="144" border="0" cellpadding="2" cellspacing="0" style="">
-     	<form name="usefulForm1" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" method="POST"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
-<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
-<input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><tbody><tr height="20"><td class="otherSiteBar"><a class="otherSiteLink"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Business Site"><a class="otherSiteLink" id="1" name="/bveircom/mainPage.jsp?site=Bus&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Bus&amp;chanId=0&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/bveircom/mainPage.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Business Site</a></td></tr></tbody></table></a></td></tr><tr height="3"><td></td></tr><form name="loginForm" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" method="POST" onsubmit="return false;"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
-<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
-<input type="hidden" name="action" value="MemberLogin"><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><input type="hidden" name="justLoggedIn" value="true"><tr height="137"><td class="greybackground" align="left" valign="middle"><table cellpadding="0" cellspacing="0"><tbody><tr><td class="labelText">username</td></tr><tr><td><input type="text" name="username" value="" onfocus="clearEmail()" style="width:135" class="inputBox"><input type="hidden" name="usernameText" value="enter email address"><input type="hidden" name="sessionUsername" value="null"></td></tr><tr><td class="labelText">password</td></tr><tr><td><input type="password" name="password" style="width:135" class="inputBox"></td></tr><tr><td align="right" title="Login"><input onclick="javascript:go(&quot;MemberLogin&quot;)" type="image" name="Submit" src="/bveircom/images/loginButton.gif" width="52" height="20"></td></tr><input type="hidden" name="action" value="ForgottenUsername"><tr height="20"><td><a class="generalLinksBold" href="/cgi-bin/bvsm/bveircom/register/UsernameReminder.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;undefined"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Forgotten Username?"><a class="generalLinksBold" href="/cgi-bin/bvsm/bveircom/register/UsernameReminder.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;undefined">Forgotten Username?</a></td></tr></tbody></table></a></td></tr><input type="hidden" name="action" value="ForgottenPassword"><tr height="20"><td><a class="generalLinksBold" href="javascript:forgottenPasswordSelected();"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Forgotten Password?"><a class="generalLinksBold" href="javascript:forgottenPasswordSelected();">Forgotten Password?</a></td></tr></tbody></table></a></td></tr><form name="usefulForm5" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" method="POST"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
-<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
-<input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><tr height="20"><td><a class="generalLinksBold" href="/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0&amp;"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Register Now"><a class="generalLinksBold" id="5" name="/bveircom/register/registerLogin.jsp?site=Res&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/bveircom/register/registerLogin.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Register Now</a></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><form name="quickFind" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><tr height="20"><td valign="bottom" class="darkGreyBar">&nbsp;&nbsp; Quick Find</td></tr><tr height="40"><td align="center" valign="top" class="darkGreyBar"><select class="quickfind" name="dropdown" onchange="return quickFindSelected()"><option value="invalid">One click away</option><option value="/cgi-bin/bvsm/bveircom/acctmgt/viewbill.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=viewBill&amp;site=Res&amp;chanId=Res_aa:View Your Bill&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/acctmgt/viewbill.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">View Bill Summary</option><option value="/cgi-bin/bvsm/bveircom/acc-details.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=viewBill&amp;site=Res&amp;chanId=Res_ab:View Your Account Summary&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/acc-details.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">View Account Summary</option><option value="/cgi-bin/bvsm/bveircom/payBill/laserPayment.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=Res_c:Pay your bill&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/payBill/laserPayment.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Pay Your Bill</option><option value="/cgi-bin/bvsm/bveircom/store/entrance.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;store=Res&amp;site=Res&amp;storeChanId=c:Online Store&amp;chanId=c:Online Store&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/store/entrance.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Online Store</option><option value="/cgi-bin/bvsm/bveircom/fault/fault-track.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=Res_b:Fault Status Checker&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/fault/fault-track.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Fault Status Checker</option><option value="http://www.eircom.ie/broadband?clickIdAction=addClickID_useful&amp;clickIdTo=http://www.eircom.ie/broadband&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Buy Broadband</option><option value="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=NewPstnFaultForm2008&amp;site=Res&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Log A Fault</option></select></td></tr><tr height="3"><td></td></tr>
-	 		<script src="/bveircom/javascript/RelatedSitesMenu.js"></script>
+      
+  <script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/validation/jquery.validate.min.js" type="text/javascript"></script>
+  <script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/validation/additional-methods.js" type="text/javascript"></script>
 
-	 		<script language="JavaScript1.2">
+<!-- BEGIN LivePerson code -->
 
-				relSitesMenu = new RelatedSitesMenu();
+  
+  <script type="text/javascript">
 
-				// Defines the size of the main menu items, width and height
-				relSitesMenu.mainmenuitemsize(142,25);
+    // ########################################################################
+    // ================== 1: VARIABLE DEFINITION =============================
+    // ########################################################################
+    // Variables are JavaScript objects that are passed in an array
+    // Each object must contain: scope, name, value
+    // Names and values should be strings
+    // A LivePerson variable can be defined in one of three different scopes:
+    //   'page' - exists on the current page only
+    //   'session' - exists for the current visitor session
+    //   'visitor' - persists between browser sessions
 
-				// Defines the size of the sub menu items, width and height
-				relSitesMenu.submenuitemsize(-1, 24);
+    // Not all variables will be required by the LP Mobile deployment, use the mobile:true/false flag to specificy this
+    var arrLPvars = [
+      { scope:'page', name:'unit', value:'eircom-sales', mobile:true },
+      // Other possible value for unit : meteor-service / eircom-sme-sales / eircom-sales / Eircom-Service-TechnicalSupport
+      { scope:'session', name:'language', value:'english', mobile:true },
 
-				// Defines the position of the sub menus in relation to the parent
-				relSitesMenu.submenuplacing(0,1);
-				
-				// Images that make up the border of the main menu. Optional.
-				relSitesMenu.mainborderimages("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
+      // eircom-sales unit variables :
 
-				// Corners of the images that make up the main menu border.
-				relSitesMenu.mainbordercorners("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
+      { scope:'page', name:'Section', value:'Broadband', mobile:true }
+    ];
 
-				// Left width, right width and height of the top and bottom of the border
-				relSitesMenu.mainborderdimensions(1,1,1);
-				
-				// These lines are for the sub menu borders
-				relSitesMenu.subborderimages("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
-				relSitesMenu.subbordercorners("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
-				relSitesMenu.subborderdimensions(1,1,1);
+    // ########################################################################
+    // ==================== 2: LP MOBILE CONFIG ===============================
+    // ########################################################################
+    var _LP_CFG_ = {
+      app_id : "36014936",  
+      options: {
+        skill: "eircom-sales-mobile", 
 
-				// Main menu cell color
-				relSitesMenu.mainmenucolor("#ECECEC");
-				
-				// Sub menu cell color
-				relSitesMenu.submenucolor("#ECECEC");
-				
-				// Arrow gif
-				relSitesMenu.mainpreimage("/bveircom/images/menuArrowWide.gif","",22,7);
-				
-				// pop out graphic
-				relSitesMenu.subpreimage("/bveircom/images/menuArrow.gif","",18,7);
+        // the following function is for sending custom variables + values to the LivePerson Servers when the chat begins
+        extras: function() { // A static dictionary or a function that returns a dictionary of custom variables 
 
-				// Graphical "join" between a menu and its sub menu. Optional
-				relSitesMenu.definejoin("/bveircom/images/newBorderSpacer.gif",0);
+          var extras = {};
+          var i, varsCount = arrLPvars.length;
 
-				// Centers text for Netscape 4.7
-				relSitesMenu.netscapeadjust(3,3);
-
-				// The image that is show between the main menu items
-				relSitesMenu.definemainspacer("/bveircom/images/newBorderSpacer.gif",1);
-				
-				// The image that is shown between the sub menu items
-				relSitesMenu.definesubspacer("/bveircom/images/newBorderSpacer.gif",1);
-
-				// This line is required here
-				relSitesMenu.startMenu();
-
-				// Define the main menu.
-				relSitesMenu.addMenu("frontpage","<a class=otherEircomSitesLink href=\"#\">Other eircom sites</a>", "");
-
-			</script>
-
-			
-</tbody></table>
-
-
-<div id="vrsub2" style="position: absolute; visibility: visible;"></div><table width="144" border="0" cellpadding="2" cellspacing="0" style="">
-     	<form name="relatedSites" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" id="relatedSites"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
-<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
-<input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><script language="JavaScript1.2">relSitesMenu.showMainMenu(); </script></table><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="25"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="center" width="142" height="25" bgcolor="#ECECEC"><div class="menu" id="noimx2" onmouseover="a4(2)" onmouseout="a7(2)" style="position:relative; visibility: visible"><img name="imx2" align="absmiddle" border="0" src="/bveircom/images/menuArrowWide.gif" width="22" height="7"><a class="otherEircomSitesLink" href="#">Other eircom sites</a></div></td></tr></tbody></table></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="25"></td></tr><tr><td colspan="3"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="142" height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td></tr></tbody></table><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom.net", "http://www.eircom.net"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "Investor relations", "http://investorrelations.eircom.net"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom business extranet", "http://www.eircom.ie/extnet"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom pricelist", "http://www.eircom.ie/pricing"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom wholesale", "http://www.eircomwholesale.ie"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom phonewatch", "http://www.phonewatch.ie"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom business systems", "http://www.eircombusinesssystems.ie"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "Email", "https://secure.eircom.net/email/"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom NI", "http://www.eircom.co.uk/niinfo/"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "Broadband A to Z", "http://www.broadbandatoz.ie"); </script><script language="JavaScript1.2">relSitesMenu.showMenu(); </script><div class="menu" id="vrsub3" onmouseover="a6(3)" onmouseout="c2[c3[3].d4].b4=0;a5(3)" style="position:absolute; z-index:2; top:-400;left:-400;visibility: hidden;"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td><td height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="100%" height="1"></td><td height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td></tr><tr><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="249"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx3" onmouseover="a4(3)" onmouseout="a7(3)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.net" target="blank">eircom.net</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx4" onmouseover="a4(4)" onmouseout="a7(4)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://investorrelations.eircom.net" target="blank">Investor relations</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx5" onmouseover="a4(5)" onmouseout="a7(5)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.ie/extnet" target="blank">eircom business extranet</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx6" onmouseover="a4(6)" onmouseout="a7(6)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.ie/pricing" target="blank">eircom pricelist</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx7" onmouseover="a4(7)" onmouseout="a7(7)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircomwholesale.ie" target="blank">eircom wholesale</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx8" onmouseover="a4(8)" onmouseout="a7(8)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.phonewatch.ie" target="blank">eircom phonewatch</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx9" onmouseover="a4(9)" onmouseout="a7(9)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircombusinesssystems.ie" target="blank">eircom business systems</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx10" onmouseover="a4(10)" onmouseout="a7(10)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="https://secure.eircom.net/email/">Email</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx11" onmouseover="a4(11)" onmouseout="a7(11)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.co.uk/niinfo/" target="blank">eircom NI</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx12" onmouseover="a4(12)" onmouseout="a7(12)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.broadbandatoz.ie" target="blank">Broadband A to Z</a>&nbsp;&nbsp;</div></td></tr></tbody></table></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="249"></td></tr><tr><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="100%" height="1"></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td></tr><tr height="3"><td></td></tr>
-</tbody></table>
-
-
-<script language="javascript">
-
-function hover(elementNumber)
-{
-	document.getElementById("menu" + elementNumber).className = "menuHover";
-	document.getElementById("menuItemName" + elementNumber).className = "menuHover";
-	document.getElementById("imgmenu" + elementNumber).src = arrowWhiteImage.src;
-}
-
-function hover_off(elementNumber)
-{
-	document.getElementById("menu" + elementNumber).className = "menuRes";
-	document.getElementById("menuItemName" + elementNumber).className = "menuRes";
-	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
-}
-
-function hover_offSecondary(elementNumber)
-{
-	document.getElementById("menu" + elementNumber).className = "menuResSecondary";
-	document.getElementById("menuItemName" + elementNumber).className = "menuResSecondary";
-	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
-}
-
-function hover_offTertiary(elementNumber)
-{
-	document.getElementById("menu" + elementNumber).className = "menuResTertiary";
-	document.getElementById("menuItemName" + elementNumber).className = "menuResTertiary";
-	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
-}
-
-//====================================================
-// ECHS3341
-// New function added for 4th display level
-//====================================================
-function hover_offFour(elementNumber)
-{
-	document.getElementById("menu" + elementNumber).className = "menuResFour";
-	document.getElementById("menuItemName" + elementNumber).className = "menuResFour";
-	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
-}
-
-function forgottenPasswordSelected()
-{
-    ns4 = (document.layers)? true:false;
-	if(ns4)
-	{
-            	window.document.Layer1.document.loginForm.username.value = window.document.Layer1.document.loginForm.username.value.toLowerCase();
-	}
-	else
-	{
-            	document.loginForm.username.value = document.loginForm.username.value.toLowerCase();
+          // This will run through the array of variables and add those flagged with mobile:true to the dictionary
+          if (arrLPvars) {
+            for (i = 0; i < varsCount; i++) {
+              if (arrLPvars[i].mobile) {
+                extras[arrLPvars[i].name] = arrLPvars[i].value;
+              }
+            };
+          }
+          return extras;
+        },
+        onChatDisabled: function(els) {
+          $(".lp-ribbon-click").hide();           
+        },
+        onChatEnabled: function(els) {
+          $(".lp-ribbon-click").show();
         }
+      }
+    };
 
-       go("ForgottenPassword");
-}
+    // ########################################################################
+    // ==================== 2: LP DESKTOP SETUP ===============================
+    // ########################################################################
+    // Start by defining the required objects
+    var lpTag = lpTag || {}, lpMTagConfig = lpMTagConfig || {}; lpTag.vars = lpTag.vars  || []; lpTag.dbs = lpTag.dbs || [];
+    lpTag.section = 'eircom-sales';
+    // the section value have to match the unit value.
 
-function refreshPage()
-{
-	window.history.go(0);
-}
+    // ---------- i: Sending variable array when the page loads --------------
+    lpTag.vars.push(arrLPvars);
 
+  </script>
+  
+  
+  
+  <style>
+    
+    .lpButton {display:none}
+    @media only screen and (min-width:640px) {
+      .lpButton {position: fixed;right: 0;top: 210px;z-index: 10000;display:block}
+      
+    }
+  </style>  
+  
+  <!--[if lte IE 9]>
+    <style>.lpButton {position: fixed;right: 0;top: 210px;z-index: 10000;display:block}</style>
+  <![endif]-->
+  
+<!-- BEGIN LivePerson Monitor -->
+    <script type="text/javascript" src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/le-mtagconfig.js"></script>
+<!-- END LivePerson code -->
 
-function go(action_value)
-{
-	ns4 = (document.layers)? true:false
-	ie4 = (document.all)? true:false
-
-	if(ns4)
-	{
-    		window.document.Layer1.document.loginForm.action.value=action_value;
-    		window.document.Layer1.document.loginForm.submit();
-    	}
-    	else
-	{
-		document.loginForm.action.value=action_value;
-		document.loginForm.submit();
-	}
-
-	var username = document.loginForm.username.value;
-	// Now check if we need to set the username cookie
-	setUsernameCookie(username);
-}
-
-// Funciton that sets the username cookie if the username is different for this session
-function setUsernameCookie(username)
-{
-	if (username != null && username != ""  && username != "enter email address")
-	{
-		// Set the cookie if different from the 1 already stored
-		var cookie_name = "EIRCOM_USERNAME";
-
-		if(document.cookie != document.cookie)
-		{
-			index 	= document.cookie.indexOf(cookie_name);
-		}
-		else
-		{
-			index 	= -1;
-		}
-
-		if (index == -1)
-		{
-			document.cookie = cookie_name + "=" + username + "; path=/; expires=Monday, 04-Apr-2010 05:00:00 GMT";
-		}
-	}
-}
-
-
-function clearEmail()
-{
-	ns4 = (document.layers)? true:false;
-	if(ns4)
-	{
-    		if (window.document.Layer1.document.loginForm.username.value==document.loginForm.usernameText.value)
-    		{
-			window.document.Layer1.document.loginForm.username.value='';
-		}
-    	}
-    	else
-	{
-		if (document.loginForm.username.value==document.loginForm.usernameText.value)
-		{
-			document.loginForm.username.value='';
-		}
-	}
-}
-
-//==============================================================================
-// EWEB3807 
-// Function for quick find drop down list
-//==============================================================================
-function quickFindSelected() 
-{
-	var chosenListOption = document.quickFind.dropdown.options[document.quickFind.dropdown.selectedIndex].value;
-	
-	if("invalid" != chosenListOption)
-	{
-		location.href = document.quickFind.dropdown.options[document.quickFind.dropdown.selectedIndex].value;
-	}
-}
-
-
-</script>
-
-			</div></td>
-
-			<td width="4">
-				&nbsp;
-			</td>
-
-			<td valign="top" width="100%">
-				<table cellpadding="0" cellspacing="0">
-					
-					
-					<tbody><tr>
-						<td width="572" valign="top" align="left">
-
-
-
-
-
-
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" valign="top" height="25" width="100%">
-
-<tbody><tr>
-<td valign="top">
-	<table border="0" cellpadding="0" cellspacing="0" valign="top">
-		<tbody><tr>
-			<td valign="top">
-				</td><td valign="top"><a class="generalLinksNoUL" href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0"><script src="/bveircom/images/eircomnet_redirect.js"></script>You are here :</a></td>
-			
-		
-			
-			<td class="content" valign="top">&nbsp;</td><td class="breadCrumbEnd" valign="top">Legal</td>
-		</tr>
-	</tbody></table>
-	
-</td>
-</tr>
-</tbody></table>
-
-
+	<!-- Maxymiser script start -->
+	<script type="text/javascript" src="https://service.maxymiser.net/cdn/ie.eir/js/mmapi.js"></script>
+	<!-- Maxymiser script end -->
 
   
-<table border="0" cellpadding="0" cellspacing="4" width="100%" valign="top">
-          
-        <tbody><tr valign="top">
-          	<td align="left" valign="top" width="100%">
-          
-          		<!--PageContent-->
-<eircomgenericitem></eircomgenericitem>     <h3>eircom privacy statement:</h3>    <p>We have developed this privacy statement because we want you to feel confident about the privacy and security of your personal details when you visit or use the eircom.ie website. We operate a strict opt-in policy for residential customers. We will not send you any information unless you have requested it, or unless someone, who we will identify, has requested that we pass that information on to you. We will not pass on your details to any&nbsp;third party for email or marketing purposes.</p>    <p>eircom Limited is registered with the Data Protection Commissioner as a Data Controller and all handling and processing of your personal data is strictly in accordance with the data protection principles contained in the Data Protection Acts, 1988-2003.</p>    <p>The eircom.ie servers are located in a secure facility and any access to your personal data is strictly controlled and limited only to persons who are authorised and have appropriate security clearance to access the servers.</p>    <p>Credit card and Laser card details are stored by eircom in an encrypted form to provide extra security for your online transactions.</p>    <h4>How we collect information:</h4>    <p>You have the option to register on the eircom.ie website where you will need to provide us with some personal details to complete registration such as a username, password, telephone number and account number. This will allow us to provide you with value add services such as viewing and paying your bill online, ability to order products and services and log and track a fault when you fully register with the site. You can also provide us with additional information, which will allow us to provide you with a more personalised experience whenever you visit our website.</p>    <p>Customers should note that, while eircom makes all commercial efforts to protect our customers’ privacy, customers should be aware that information disclosed while connected to the Internet is transferred to the eircom servers over a publicly available telecommunications network.&nbsp;eircom cannot be held responsible, and accept no liability, for unauthorised access to the public network beyond its reasonable control and all information provided by customers is done entirely at the customers’ own risk.</p>    <h4>How we use your information:</h4>    <p>We use your information provided to offer you a more personalised online experience and to inform you of products and services relevant to your needs. Registration also allows you access to value-add services such as e-billing, fault logging and ordering products in the online store. Your personal information may also be used to verify your identity, to protect against fraud, and to send you relevant updates e.g. notification of your bill. eircom does not share your information with any&nbsp;third party.</p>    <h4>Opt-in / Opt-out:</h4>    <p>We operate a strict&nbsp;opt-in policy for our residential customers. That means we will not send you any information unless you have requested to receive email updates from us.&nbsp; For business customers, we operate, in compliance with the relevant legislation, an opt-out policy.</p>    <p>If you (whether a residential or business customer) wish to be removed from our list, at any time, (opt-out) you can do so by clicking on the link at the bottom of each email communication you receive from us, and if it is to do with billing notification you can turn this option off by selecting email notifications in the&nbsp;<a href="/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?site=Res&amp;cid=viewBill&amp;BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0">View Your Bill</a> &nbsp;section.</p>    <h4>Use of cookie technology:</h4>    <p>The eircom website creates a "cookie" when you first register online. A cookie is a piece of information, like a tag, which some websites create against your profile. Our cookie will store some basic information, which helps us to identify if you have visited the site before. This will allow us provide you with personalised content or present you with product and service information based on your previous behaviour on the site.</p>    <h4>How to disable cookies:</h4>    <p>If you do not want a cookie to be created on your PC, web browsers such as Netscape and Internet Explorer provide the option to disable them. Please bear in mind that some personalised services on eircom.ie, or from other non-eircom websites, may not be available if you choose to disable cookies. You can find out more about cookies on&nbsp;<a title="" target="_blank" href="http://www.cookiecentral.com/">www.cookiecentral.com</a>.</p>    <h4>Contact us:</h4>    <p>If you have any additional questions about our privacy policy or how we collect and use your personal data, please contact webmaster@eircom.ie or visit our <a target="" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=OurServicesRes&amp;store=Res&amp;chanId=-536882381" type="hyperlink">Contact Us</a> section.</p>    <h4>Update information:</h4>    <p>If you would like to update your registration profile at any stage you can do so by logging into to the website with your username and password and select "Your registration details" link on the left-hand navigation to update your personal details or to register a new account number.</p>    &nbsp; &nbsp; &nbsp; &nbsp;			 
-      			
-            		<p></p>
-           		<!--End PageContent-->
-            	</td>
-        </tr>
-            
-        <tr>
-        	<td align="right" class="content">
-        		
-			 Last updated: Dec 09, 2008<br>
-			
-        	</td>
-        </tr>
-            
-</tbody></table>
-  
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=36014936"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head> 
+<body style="">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXLZBV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXLZBV');</script>
+<!-- End Google Tag Manager -->
 
 
 
+<!-- Cookies notification scripts -->
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/cookies/cookies.js"></script>
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/prequalWidget/jquery.cookie1.4.1.js"></script>
+<!-- End of cookie notification script -->
 
+
+
+<!-- Site Header --> 
+<div class="wrapper eir-nav__wrapper eir-nav__wholesale-home">
+    <div class="row">
+        <a href="https://www.eir.ie" title="eir home"><div class="eir-nav__logo"></div></a>
+    </div>
+    <div class="wrapper eir-nav__stickynav-wrapper">
+        <div class="row eir-nav__stickynav-row">
+            <div class="eir-nav__stickynav large-12 columns">
+                <ul>
+                    <li class="eir-nav__left" style="padding-right:30px;margin-left:0;"><a id="topnav-home-track" href="/">eir home</a></li>
+                    <li class="eir-nav__left"><a id="topnav-business-track" href="http://business.eir.ie/">eir business</a></li>
+                    <li><a id="topnav-myeir-track" href="https://my.eir.ie/eir/transactional/login">my eir</a></li>
+                    <li><a id="topnav-webmail-track" href="/email/">webmail</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    
+    
+    
+    
+       
+    <div class="wrapper eir-nav__midnav-wrapper">
+        <div class="row">
+            <div class="eir-nav__midnav large-12 columns">
+                <ul class="eir-nav-links">
+                    <li><a id="mainnav-bundles-track" href="/bundles/" class="eir-mob-toggle-slide">Bundles</a></li>
+                    <li class=" ">
+                        <a id="mainnav-broadband-track" href="/broadband/" class="eir-mob-toggle-slide">Broadband</a>
+                        <div class="eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="/broadband/" class="active nav__link nav--main__link">Broadband Bundles</a></li>
+                                        <!--<li class="nav__item nav--main__item"><a href="/broadband/productDetails?id=1&newCust=true" class="active nav__link nav--main__link">for New Customers</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/broadband/productDetails?id=1&upgrade=true" class="active nav__link nav--main__link">Upgrade to eirFibre</a></li>-->
+										<li class="nav__item nav--main__item"><a href="/broadband-only/" class="active nav__link nav--main__link">Broadband only</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/eirfibreinfo/map/" class="active nav__link nav--main__link">eir Fibre coverage map</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/broadbandspeed/" class="active nav__link nav--main__link">Broadband speeds</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/switchbroadband/" class="active nav__link nav--main__link">How to switch</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class=" ">
+                        <a id="mainnav-tv-track" href="/tv/" class="eir-mob-toggle-slide">TV</a>
+                        <div class="row eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="/tv/" class="active nav__link nav--main__link">TV Bundles</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/channels" class="active nav__link nav--main__link">Channels &amp; Add ons</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/multiroom" class="active nav__link nav--main__link">Multiroom</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/equipment-features" class="active nav__link nav--main__link">eir Vision Features</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/eirvisiongo" class="active nav__link nav--main__link">TV on the Go</a></li>
+										<li class="nav__item nav--main__item"><a href="/tv/ondemand" class="active nav__link nav--main__link">Movies on demand</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/switching" class="active nav__link nav--main__link">How to switch</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                    <li class=" ">
+                        <a id="mainnav-mobile-track" href="/mobilebundles/" class="eir-mob-toggle-slide">Mobile</a>
+                        <div class="row eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="/mobilebundles/" class="active nav__link nav--main__link">Mobile Bundles</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/abouteirmobile" class="active nav__link nav--main__link">About eir Mobile</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/mobilespeed/" class="active nav__link nav--main__link">About Mobile Speeds</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/broadbandspeed/?sec=mobile" class="active nav__link nav--main__link">About Broadband Speed</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/switchmobile/" class="active nav__link nav--main__link">How to switch</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/ourmobilenetwork/" class="active nav__link nav--main__link">Our Mobile Network</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a id="mainnav-phone-track" href="/phone/" class="eir-mob-toggle-slide">Phone</a></li>
+                    <li class=" ">
+                        <a id="mainnav-support-track" href="http://support.eir.ie" class=" eir-mob-toggle-slide">Support</a>
+                        <div class="row eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/" class="active nav__link nav--main__link">Support home</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/bb" class="active nav__link nav--main__link">Broadband</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/phone" class="active nav__link nav--main__link">Phone</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/tv" class="active nav__link nav--main__link">TV</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/mobile" class="active nav__link nav--main__link">Mobile</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/bill" class="active nav__link nav--main__link">Billing</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/myeirandwebmail" class="active nav__link nav--main__link">my eir</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://community.eir.ie" class="active nav__link nav--main__link">Community</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="eir-nav__mob-links">
+                    <li>
+                        <a href="javascript:;" class="eir-nav__menu-btn show"><img src="/opencms/export/sites/default/.galleries/eircom/eir-branding/icons/mob-menu-open.png" class="eir-nav__mob-menu-img"></a>
+                        <a href="javascript:;" class="eir-nav__menu-btn close" style="display: none;"><img src="/opencms/export/sites/default/.galleries/eircom/eir-branding/icons/mob-menu-close.png" class="eir-nav__mob-menu-img"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="eir-nav__mobile nav" id="nav" role="navigation">
+                <div class="eir-nav__nav-main nav--main">
+                    <!-- mobile menu goes here - check global.js -->
+                <ul class="eir-nav-links eir-nav__list nav__list">
+                    <li class="nav__item nav--main__item"><a id="mainnav-bundles-track" href="/bundles/" class="eir-mob-toggle-slide nav__link nav--main__link" style="padding: 15px 20px;">Bundles</a></li>
+                    <li class="nav__item nav--main__item">
+                        <a id="mainnav-broadband-track" href="/broadband/" class="eir-mob-toggle-slide nav__link nav--main__link" style="padding: 15px 20px;">Broadband<div class="icon-arrow_down_white nav__arrow"></div><div class="icon-arrow_up_white nav__arrow"></div></a>
+                        <div class="eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="/broadband/" class="active nav__link nav--main__link">Broadband Bundles</a></li>
+                                        <!--<li class="nav__item nav--main__item"><a href="/broadband/productDetails?id=1&newCust=true" class="active nav__link nav--main__link">for New Customers</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/broadband/productDetails?id=1&upgrade=true" class="active nav__link nav--main__link">Upgrade to eirFibre</a></li>-->
+										<li class="nav__item nav--main__item"><a href="/broadband-only/" class="active nav__link nav--main__link">Broadband only</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/eirfibreinfo/map/" class="active nav__link nav--main__link">eir Fibre coverage map</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/broadbandspeed/" class="active nav__link nav--main__link">Broadband speeds</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/switchbroadband/" class="active nav__link nav--main__link">How to switch</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav__item nav--main__item">
+                        <a id="mainnav-tv-track" href="/tv/" class="eir-mob-toggle-slide nav__link nav--main__link" style="padding: 15px 20px;">TV<div class="icon-arrow_down_white nav__arrow"></div><div class="icon-arrow_up_white nav__arrow"></div></a>
+                        <div class="row eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="/tv/" class="active nav__link nav--main__link">TV Bundles</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/channels" class="active nav__link nav--main__link">Channels &amp; Add ons</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/multiroom" class="active nav__link nav--main__link">Multiroom</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/equipment-features" class="active nav__link nav--main__link">eir Vision Features</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/eirvisiongo" class="active nav__link nav--main__link">TV on the Go</a></li>
+										<li class="nav__item nav--main__item"><a href="/tv/ondemand" class="active nav__link nav--main__link">Movies on demand</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/tv/switching" class="active nav__link nav--main__link">How to switch</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav__item nav--main__item">
+                        <a id="mainnav-mobile-track" href="/mobilebundles/" class="eir-mob-toggle-slide nav__link nav--main__link" style="padding: 15px 20px;">Mobile<div class="icon-arrow_down_white nav__arrow"></div><div class="icon-arrow_up_white nav__arrow"></div></a>
+                        <div class="row eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="/mobilebundles/" class="active nav__link nav--main__link">Mobile Bundles</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/abouteirmobile" class="active nav__link nav--main__link">About eir Mobile</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/mobilespeed/" class="active nav__link nav--main__link">About Mobile Speeds</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/broadbandspeed/?sec=mobile" class="active nav__link nav--main__link">About Broadband Speed</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/switchmobile/" class="active nav__link nav--main__link">How to switch</a></li>
+                                        <li class="nav__item nav--main__item"><a href="/ourmobilenetwork/" class="active nav__link nav--main__link">Our Mobile Network</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav__item nav--main__item"><a id="mainnav-phone-track" href="/phone/" class="eir-mob-toggle-slide nav__link nav--main__link" style="padding: 15px 20px;">Phone</a></li>
+                    <li class="nav__item nav--main__item">
+                        <a id="mainnav-support-track" href="http://support.eir.ie" class="eir-mob-toggle-slide nav__link nav--main__link" style="padding: 15px 20px;">Support<div class="icon-arrow_down_white nav__arrow"></div><div class="icon-arrow_up_white nav__arrow"></div></a>
+                        <div class="row eir-mob-toggle-slide__content">
+                            <div class="eir-nav__mobile nav" role="navigation">
+                                <div class="eir-nav__nav-main eir-nav-subnav-mobile">
+                                    <ul>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/" class="active nav__link nav--main__link">Support home</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/bb" class="active nav__link nav--main__link">Broadband</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/phone" class="active nav__link nav--main__link">Phone</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/tv" class="active nav__link nav--main__link">TV</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/mobile" class="active nav__link nav--main__link">Mobile</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/bill" class="active nav__link nav--main__link">Billing</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://support.eir.ie/myeirandwebmail" class="active nav__link nav--main__link">my eir</a></li>
+                                        <li class="nav__item nav--main__item"><a href="http://community.eir.ie" class="active nav__link nav--main__link">Community</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul><ul class="eir-nav__stickynav-mobile">
+                    <li class="" style="margin-left: 0px; padding-right: 10px;"><a id="topnav-home-track" href="/">eir home</a></li>
+                    <li class="" style="padding-right: 10px;"><a id="topnav-business-track" href="http://business.eir.ie/">eir business</a></li>
+                    <li style="padding-right: 10px;"><a id="topnav-myeir-track" href="https://my.eir.ie/eir/transactional/login">my eir</a></li>
+                    <li style="padding-right: 10px;"><a id="topnav-webmail-track" href="/email/">webmail</a></li>
+                </ul></div>
+            </div>
+        </div>
+    </div>
+    
+ 
+
+
+    
+    
+    
+    
+    
+
+    
+
+
+</div>
+
+<div id="lpButton-broadband" class="lpButton"></div>
+
+
+
+<!-- Main Content -->
+<div>
+
+
+<div id="container1">
 	
 
 
@@ -678,147 +428,238 @@ function quickFindSelected()
 
 
 
+<!-- Main Content -->
+<div>
+
+		<div><div class="wrapper wrapper--main-content">
+<div class="row content-block">
+<div class="large-12 columns">
+<h1 class="brand-broadband">eir privacy statement:</h1>
+<p>We have developed this privacy statement because we want you to feel confident about the privacy and security of your personal details when you visit or use the eir.ie website. We operate a strict opt-in policy for residential customers. We will not send you any information unless you have requested it, or unless someone, who we will identify, has requested that we pass that information on to you. We will not pass on your details to any&nbsp;third party for email or marketing purposes.</p>
+<p>eircom Limited is registered with the Data Protection Commissioner as a Data Controller and all handling and processing of your personal data is strictly in accordance with the data protection principles contained in the Data Protection Acts, 1988-2003.</p>
+<p>The eir.ie servers are located in a secure facility and any access to your personal data is strictly controlled and limited only to persons who are authorised and have appropriate security clearance to access the servers.</p>
+<p>Credit card details are transmitted&nbsp;by eir in an encrypted form to provide extra security for your online transactions.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">How we collect information:</h3>
+<p>You have the option to register on the eir.ie website where you will need to provide us with some personal details to complete registration such as an email address, password, telephone number and account number. This will allow us to provide you with value add services such as viewing and paying your bill online. You can also provide us with additional information, which will allow us to provide you with a more personalised experience whenever you visit our website.</p>
+<p>Customers should note that, while eir makes all commercial efforts to protect our customers’ privacy, customers should be aware that information disclosed while connected to the Internet is transferred to the eir servers over a publicly available telecommunications network.&nbsp;eir cannot be held responsible, and accept no liability, for unauthorised access to the public network beyond its reasonable control and all information provided by customers is done entirely at the customers’ own risk.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">How we use your information:</h3>
+<p>We use your information provided to offer you a more personalised online experience and to inform you of products and services relevant to your needs. Registration also allows you access to value-add services such as e-billing, fault logging and ordering products in the online store. Your personal information may also be used to verify your identity, to protect against fraud, and to send you relevant updates e.g. notification of your bill. eir does not share your information with any&nbsp;third party.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">Opt-in / Opt-out:</h3>
+<p>We operate a strict&nbsp;opt-in policy for our residential customers. That means we will not send you any information unless you have requested to receive email updates from us.&nbsp; For business customers, we operate, in compliance with the relevant legislation, an opt-out policy.</p>
+<p>If you (whether a residential or business customer) wish to be removed from our list, at any time, (opt-out) you can do so by clicking on the link at the bottom of each email communication you receive from us.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">Use of cookie technology:</h3>
+<p>The eir website creates a "cookie" when you first register online. A cookie is a piece of information, like a tag, which some websites create against your profile. Our cookie will store some basic information, which helps us to identify if you have visited the site before. This will allow us provide you with personalised content or present you with product and service information based on your previous behaviour on the site.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">How to disable cookies:</h3>
+<p>If you do not want a cookie to be created on your PC, web browsers such as Netscape and Internet Explorer provide the option to disable them. Please bear in mind that some personalised services on eir.ie, or from other non-eir websites, may not be available if you choose to disable cookies. You can find out more about cookies on&nbsp;<a title="" href="http://www.cookiecentral.com/" target="_blank">www.cookiecentral.com</a>.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">Contact us:</h3>
+<p>If you have any additional questions about our privacy policy or how we collect and use your personal data, please&nbsp;<a href="http://www.eir.ie/group/contactus/" target="" type="hyperlink">Contact Us</a>.</p>
+</div>
+</div>
+<div class="row content-block">
+<div class="large-12 columns col-single col-single--last col-single--bt">
+<h3 class="brand-broadband">Update information:</h3>
+<p>If you would like to update your registration profile at any stage you can do so by logging into to the website with your email address&nbsp;and visit the 'My eir settings' area.</p>
+</div>
+</div>
+</div>
+			
+		</div>
+
+</div>
 
 
 
-<script language="javascript">
+</div>
 
-	var  BUS_ACC_DOESNT_MATCH_G = 	"The account number you have chosen is a business account.\n\n" +
-					"To be re-directed to the correct order page for your chosen account click 'ok'. To cancel and choose another account click 'cancel'.";
+<div id="container2"></div>
 
-	var RES_ACC_DOESNT_MATCH_G = 	"The account number you have chosen is a residential account.\n\n" +
-					"To be re-directed to the correct order page for your chosen account click 'ok'. To cancel and choose another account click 'cancel'.";
+<div id="container3"></div>
 
-	var NO_ALTERNATIVE_RES_PRODUCT_G ="You must have a business account to avail of this product. " +
-					  "\n\nTo be re-directed to register a business account click 'ok'. To cancel and choose another account click 'cancel'.";
-
-	var NO_ALTERNATIVE_BUS_PRODUCT_G ="You must have a residential account to avail of this product. " +
-					  "\n\nTo be re-directed to register a residential account click 'ok'. To cancel and choose another account click 'cancel'.";
-
-	var ACCOUNT_INACTIVE_PENDING_G = "Your account must be fully active to order this product. \n\nTo be re-directed to register another account click 'ok'. " +
-					 "To cancel and choose another account click 'cancel'.";
-
-	var NO_PSTN_OR_ISDN_LINES_G =   "Apologies, but we are currently upgrading this section, if you wish to order this product at this time please freefone 1901.";
-
-</script>
-
-<script language="javascript">
-	var MSG_ISDN_NOT_AVAIL_G = 	"Unfortunately eircom ISDN is not available in your area currently.\n\n" +
-							"Please phone 1901 who will record your interest in this product.";
-
-	var MSG_NO_PSTN_ON_ACC_G = 	"There are no PSTN lines associated with this account number.\n\n" +
-							"Please select another account number.";
-
-	var MSG_RES_CANT_SELECT_MAILBOX_GOTO_BASKET_G = 	"Family mailbox cannot be selected while call answering (1 mailbox) / internet divert is selected." +
-								"\n\nCall answering (1 mailbox) / internet divert must be removed from the shopping basket before you can continue. ";
-
-	var MSG_RES_CANT_SELECT_CALL_ANSWERING_GOTO_BASKET_G = 	"Call answering (1 mailbox)/ internet divert cannot be selected while family mailbox is selected." +
-								"\n\nFamily mailbox must be removed from the shopping basket before you can continue. ";
-
-	var MSG_BUS_CANT_SELECT_MAILBOX_GOTO_BASKET_G = 	"Call answering (up to 4 mailboxes) cannot be selected while call answering (1 mailbox)/ internet divert is selected." +
-								"\n\nCall answering (1 mailbox)/ internet divert must be removed from the shopping basket before you can continue. ";
-
-	var MSG_BUS_CANT_SELECT_CALL_ANSWERING_GOTO_BASKET_G = 	"Call answering (1 mailbox)/ internet divert cannot be selected while call answering (up to 4 mailboxes) is selected." +
-								"\n\nCall answering (up to 4 mailboxes) must be removed from the shopping basket before you can continue. ";
-
-	var MSG_NO_NONADSL_PSTN_ON_ACC_G			= " Broadband has been detected on all PSTN lines on this account. \n\n"+
-								" Please select another account number or call 1800 503 303.";
-
-
-	var MSG_NO_VALID_PSTN_ON_ACC_G			= " There are no PSTN lines associated with this account number. \n\n"+
-							" Please select another account number or call 1800 503 303.";
-
-	var MAX_PSTN_LINES_FOR_ADSL_G			= "There are too many PSTN lines associated with this account number. \n\n"+
-							" Please select another account number or call 1800 503 303.";
-
-
-</script>
-
-
-<script language="JavaScript">
-//----------------------------------------------------------------------
-//
-//  Function Name   -   opens a blade runner link
-//
-//----------------------------------------------------------------------
-function openBladeRunnerDocs(urlLink)
-{
-	window.open(urlLink);
-}
-
-// If there is a login form then set the username using the appropriate information.
-if (document.loginForm)
-{
-	var eircomUsername 	= "";
-	var formUsername 	= document.loginForm.username.value;
-	var loginUsername	= document.loginForm.usernameText.value;
-	var sessionUsername	= document.loginForm.sessionUsername.value;
-	var cookieUsername	= "";
-
-	if(document.cookie)
-	{
-		index = document.cookie.indexOf("EIRCOM_USERNAME");
-		if (index != -1)
-		{
-			namestart 	= (document.cookie.indexOf("=", index) + 1);
-			nameend 	= document.cookie.indexOf(";", index);
-
-			if (nameend == -1)
-			{
-				nameend = document.cookie.length;
-			}
-
-			cookieUsername = document.cookie.substring(namestart, nameend);
-		}
-	}
-
-	// Set the username value to be displayed on page load
-	if (formUsername != null && formUsername != "" && formUsername != "null" && formUsername != loginUsername)
-	{
-		eircomUsername = formUsername;
-
-	}
-	else if (sessionUsername != null && sessionUsername != "" && sessionUsername != "null" && sessionUsername != loginUsername)
-	{
-		eircomUsername = sessionUsername;
-	}
-	else if (cookieUsername != null && cookieUsername != "" && cookieUsername != "null")
-	{
-		eircomUsername = cookieUsername;
-	}
-	else
-	{
-		eircomUsername = loginUsername;
-	}
-
-	// Set the username value
-	document.loginForm.username.value = eircomUsername;
-}
-
-</script>
+<div id="container4"></div>
 
 
 
-</td>
+</div>
 
 
 
-</tr>
-
-</tbody></table><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr height="4"><td>&nbsp;</td></tr><tr><td width="100%" align="center"><a href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Legal" class="generalLinks">Privacy Statement</a></td></tr><tr><td width="100%" align="center"><a href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=DisabilityServicesInfo " class="generalLinks">Disability Services</a><br>
-<font size="1">eircom Limited. Private Company Limited by Shares. Registered in Dublin. Registration Number 98789.Registered Office - 1 Heuston South Quarter, St. John's Road, Dublin 8.  </font><br><a href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Legal" class="generalLinks">©  2009 eircom All rights reserved</a>
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
+<div class="eir-footer__container">
+  <div class="eir-footer__background">
+    <div class="eir-footer__content">
+      <p class="eir-footer__content--toTop"><a id="BackToTopEir" class="footer__anchor__btn eir-footer__anchor__btn" title="Back to top"><img class="eir-footer__content--toTop__img" src="/opencms/export/sites/default/.galleries/eircom/eir-branding/icons/back_to_top_icon.png" alt="Arrow up icon">Back to top</a></p>
+      <div class="eir-footer__content--block">
+        <ul class="eir-footer__content--block__list">
+          <li class="eir-footer__content--block__title">Our Products</li>
+          <li><a href="https://www.eir.ie/bundles/" id="footer-products-bundles-track">Bundles</a></li>
+          <li><a href="https://www.eir.ie/broadband/" id="footer-products-broadband-track">Broadband</a></li>
+          <li><a href="https://www.eir.ie/tv/" id="footer-products-tv-track">TV</a></li>
+          <li><a href="https://www.eir.ie/mobilebundles/" id="footer-products-mobile-track">Mobile</a></li>
+          <li><a href="https://www.eir.ie/phone/" id="footer-products-phone-track">Phone</a></li>
+          <li><a href="https://www.eir.ie/accessories/" id="footer-products-accessories-track">Accessories</a></li>
+          <li><a href="https://www.eir.ie/vas/eirsecurity/" id="footer-products-esecurity-track">eir Security</a></li>
+        </ul>
+      </div> 
+      <div class="eir-footer__content--block">
+        <ul class="eir-footer__content--block__list">
+          <li class="eir-footer__content--block__title">Support</li>
+          <li><a href="http://support.eir.ie/bb/" id="footer-customercare-broadband-track">Broadband Support</a></li>
+          <li><a href="http://support.eir.ie/phone/" id="footer-customercare-homephone-track">Home phone Support</a></li>
+          <li><a href="http://support.eir.ie/tv/" id="footer-customercare-tv-track">TV Support</a></li>
+          <li><a href="http://support.eir.ie/mobile/" id="footer-customercare-mobile-track">Mobile Support</a></li>
+          <li><a href="http://support.eir.ie/bill/" id="footer-customercare-billing-track">Billing</a></li>
+          <li><a href="https://my.eir.ie/eir/transactional/login" id="footer-customercare-myeir-track">My eir</a></li>
+          <li><a href="http://support.eir.ie/logafault/" id="footer-customercare-report-a-fault-track">Report a Fault</a></li>
+          <li><a href="http://support.eir.ie/movinghouse/" id="footer-customercare-moving-house-track">Moving House</a></li>
+        </ul>
+      </div>
+      <div class="eir-footer__content--block">
+        <ul class="eir-footer__content--block__list">
+          <li class="eir-footer__content--block__title">Our websites</li>
+          <li><a href="https://www.eir.ie" id="footer-websites-at-home-track">eir at Home</a></li>
+          <li><a href="https://www.eirmobile.ie" id="footer-websites-mobile-track">eir Mobile</a></li>
+          <li><a href="https://business.eir.ie/" id="footer-websites-business-track">eir Business</a></li>
+          <li><a href="http://www.openeir.ie/" id="footer-websites-open-eir-track">Open eir</a></li>
+          <li><a href="https://www.meteor.ie/" id="footer-websites-meteor-track">Meteor</a></li>
+          <li><a href="http://support.eir.ie/" id="footer-websites-support-track">eir Support</a></li>
+          <li><a href="https://www.eir.ie/studyhub/" id="footer-websites-studyhub-track">eir StudyHub</a></li>
+          <li><a href="http://broadbandsupport.eir.ie/speedtest/" id="footer-websites-speedtest-track">Broadband Speed Test</a></li>
+        </ul>
+      </div>
+      <div class="eir-footer__content--block">
+        <ul class="eir-footer__content--block__list">
+          <li class="eir-footer__content--block__title">eir Group</li>
+          <li><a href="https://www.eir.ie/pressroom/" id="footer-group-news-and-press-track">News &amp; Press</a></li>
+          <li><a href="https://www.eir.ie/about-us/" id="footer-group-about-us-track">About Us</a></li>
+          <li><a href="https://www.eir.ie/investorrelations/" id="footer-group-investor-relations-track">Investor Relations</a></li>
+          <li><a href="https://www.eir.ie/group/pricing/" id="footer-group-pricing-track">Pricing</a></li>
+          <li><a href="http://jobs.eir.ie/" id="footer-group-careers-track">Careers</a></li>
+          <li><a href="http://www.eirphonebook.ie/" id="footer-group-directory-enquiries-track">Directory Enquiries</a></li>
+          <li><a href="https://www.eir.ie/regulatoryinformation/">Regulatory Information</a></li>
+        </ul>
+      </div>
+      <div class="eir-footer__content--block">
+        <ul class="eir-footer__content--block__list">
+          <li class="eir-footer__content--block__title">Join the conversation</li>
+          <li><a href="https://community.eir.ie/" id="footer-conversation-community-track">eir Community</a></li>
+          <li><a href="https://blog.eir.ie/" id="footer-conversation-community-track">Blog</a></li>
+          <li><a href="https://www.eir.ie/about/contact/" id="footer-conversation-contact-us-track">Contact Us</a></li>
+          <li><a href="https://www.eir.ie/stores/" id="footer-conversation-find-a-store-track">Find a Store</a></li>
+        </ul>
+      </div>
+      <div class="eir-footer-content--bottom">
+        <ul class="eir-footer-content--bottom__social--list">
+          <li><a href="https://www.facebook.com/eir" id=""><img alt="facebook icon" title="facebook link" src="/opencms/export/sites/default/.galleries/eircom/eir-branding/social-icons/facebook_icon.png"></a></li>
+          <li><a href="https://twitter.com/eir" id=""><img alt="twitter icon" title="twitter link" src="/opencms/export/sites/default/.galleries/eircom/eir-branding/social-icons/twitter_icon.png"></a></li>
+          <li><a href="https://www.google.com/+eirieIreland" id=""><img alt="google pluse icon" title="google plus link" src="/opencms/export/sites/default/.galleries/eircom/eir-branding/social-icons/google_plus_icon.png"></a></li>
+        </ul>
+        <ul class="eir-footer-content--bottom__usefulLinks--list">
+          <li><a href="https://www.eir.ie/group/pricing/">Pricing</a></li>
+          <li><a href="https://www.eir.ie/termsandconditions/">Terms &amp; Conditions</a></li>
+          <li><a href="https://www.eir.ie/about/legal/">Legal Disclaimer</a></li>
+          <li><a href="https://www.eir.ie/accessibility/">Accessibility</a></li>
+          <li><a href="https://www.eir.ie/childsafety/">Child Safety</a></li>
+          <li><a href="https://www.eir.ie/privacystatement/">Privacy</a></li>
+          <li><a href="https://www.eir.ie/about/contact/">Contact Us</a></li>
+          <li><a href="https://www.eir.ie/cookies">Cookies</a></li>
+        </ul>
+        <div class="eir-footer-content--bottom__disclaimer" itemscope="" itemtype="http://schema.org/Corporation">
+          <p><span itemprop="name">eir and open eir are trading names of eircom Limited</span>, Registered as a Branch in Ireland Number 907674, Incorporated in Jersey Number 116389. <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">Branch Address:<span itemprop="streetAddress"> 1 Heuston South Quarter, St. John's Road</span>, <span itemprop="postalCode">Dublin 8</span>, <span itemprop="addressCountry">Ireland</span>. </span> <br>
+            © 2015 eir. All rights reserved. </p>
+        </div>
+        <div> </div>
+      </div>
+    </div>
+  </div>
+</div> 
 
 
 
 
+<script>window.jQuery || document.write('<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/jquery-1.11.0.min.js"><\/script>')</script><script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/jquery-1.11.0.min.js"></script> 
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/global.min.js"></script>
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/grunticon.loader.js"></script>
+
+<!-- countdown timer -->
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/countdown/countdown.js"></script>
+<!--script>
+    //instantiate countdown clock object
+    var clock1 = new countdown.clock(
+        //element
+        '#clock1',
+
+        //colour 
+        'yellow',
+
+        //placement 
+        'carousel', 
+
+        //year
+        2016, 
+
+        //month
+        2, 
+
+        //date
+        29, 
+
+        //hour
+        11, 
+
+        //minute
+        0, 
+
+        //OPTIONAL ARGUMENTS
+            //content 1
+            '<strong>Limited Time Offer!</strong>', 
+
+            //content 2
+            '<strong>Online Exclusive</strong> &ndash; Offer ends <strong>29/02/16</strong>'
+      );
+
+    //start clock
+    clock1.start()
+</script-->
 
 
+    
+    
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/owl-carousel/owl.carousel.min.js"></script>
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/eir/eir-carousel-banner.js"></script>
+    
 
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/eir/eir-carousel-customers.js"></script>
 
+<!--[if lte IE 9]>
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/ie8_fix_maxwidth.js"></script> 
+<script src="/opencms/export/system/modules/net.eircom.opencms/resources/js/external/ie8/ie8_fix.js"></script> 
+<![endif]-->
 
-
+<noscript>
+<link href="/opencms/export/system/modules/net.eircom.opencms/resources/css/external/icons.fallback.css" rel="stylesheet">
+</noscript>
 
 </body></html>
