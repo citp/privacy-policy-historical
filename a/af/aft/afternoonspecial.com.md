@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afternoonspecial.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230170134id_/http%3A//www.afternoonspecial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternoonspecial.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617123820id_/http%3A//www.afternoonspecial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AfternoonSpecial
 
@@ -6,7 +6,7 @@ Below you will find the privacy policy for AfternoonSpecial.com (the “website�
 
 Privacy policy of AfternoonSpecial.com was last updated: June 5th, 2015
 
-**What does this privacy policy cover?**
+ **What does this privacy policy cover?**
 
 You will find a whole range of information within this privacy policy, surrounding the collection, usage and disclosure of your information. We will detail our treatment of any personally identifiable information (personal information) and of non-personally identifiable information. We will also detail our treatment of any other information gathered when you our using our services. Any personal information shared by or with our business partners will also be covered within this privacy policy.
 
@@ -14,7 +14,7 @@ What this privacy policy does not cover are any third party applications or thir
 
 After reading through this privacy policy please ensure you become accustomed with our terms of use and DMCA policy also.
 
-**What information do we collect?**
+ **What information do we collect?**
 
 In order to improve and personalize your experience of the website we do collect some information from our users. We may request or collect the following information from our users at any time:
 
@@ -22,7 +22,7 @@ Personally Identifiable Information (Personal Information) – The only personal
 
 Non-Personally Identifiable Information – When you interact with the website and use our services, we may collect non-personally identifiable information from you automatically. This information is not able to identify you or any personal information about you. Data may include browser type, screen resolution, etc. This information is purely used for analytical and aggregation purposes, to help us further improve the website and the services we provide.
 
-**How is collected information used?**
+ **How is collected information used?**
 
 The first and most important point to stress is that AfternoonSpecial.com will never sell or rent the information collected to any third parties. Below is a detailed explanation of how any collected information may be used (both personally identifiable and non-personally identifiable).
 
@@ -42,7 +42,7 @@ Protection – We reserve the right to disclose any information we feel necessar
 
 This may include exchanging information with third party companies in order to address any safety or technical issues or to prevent spyware and malware.
 
-**What are your privacy choices?**
+ **What are your privacy choices?**
 
 Using this website safely and securely is of paramount importance. Therefore it is important that you understand your privacy choices and what how you can decide what happens to your information. Below are the choices you have in regards to your privacy:
 
@@ -53,7 +53,7 @@ Using this website safely and securely is of paramount importance. Therefore it 
 
 
 
-**Information on cookies**
+ **Information on cookies**
 
 We rely on the use of cookies in order to enhance the website and our services for our users. A cookie is a tiny piece of data that any website can store on the device you use to access it, including mobile phones, tablets and computers. This cookie is then used in order to recognize you when you return. Cookies can keep a note of your likes, dislikes, browsing preferences and choices for their return. In order to personalize and enhance your experience we may use cookies in the following ways:
 
@@ -65,7 +65,7 @@ We rely on the use of cookies in order to enhance the website and our services f
 
 Cookies do not provide us with any personally identifiable information and can be declined at any time. If you wish to turn off cookies then please refer to your browser’s instructions. Please note that disabling cookies may impact the experience you have on our website.
 
-**Third Parties**
+ **Third Parties**
 
 There may be times in which we allow third party vendors to access the cookies provided by you, the user. This is in order to personalize your experience on the website. Third party vendors, such as Google, may use this information gathered in order to tailor your experience on other websites and on this website; this includes displaying relevant content and advertisements. Google uses the DoubleClick cookie, which will allow it to present users with advertisements based on the visits to our site and/or other websites that you may have visited elsewhere online. Advertisements provided are based on your interests and preferences, your likes, dislikes and other information picked up from the cookies. The same also applies to partners of Google. As a user of the website you are able to opt out of DoubleClick cookies, and any relevant advertising, at any time by visiting one of the following:
 
@@ -77,6 +77,6 @@ We do allow third party vendors to use cookies, web beacons, and other reasonabl
 
 As well as third party vendors we may also contain links to third party websites in order to provide you with even more content that we think you may enjoy. We do not own or control these third party websites and so our privacy policy does not govern the content on these sites. Please ensure you read through any third party website’s own privacy policy and terms before accessing their content. We cannot be held responsible for any content or policies of third party websites.
 
-**Questions or concerns?**
+ **Questions or concerns?**
 
 If you are confused about anything found within this privacy policy then please feel free to drop us an email at info@afternoonspecial.com . Please include the details of any of your concerns and we will get back to you with a detailed response.
