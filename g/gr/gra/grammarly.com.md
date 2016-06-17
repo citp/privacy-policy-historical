@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230131306id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarly.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618010202id_/https%3A//www.grammarly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grammarly
 
@@ -6,7 +6,7 @@ Grammarly values the privacy of your personal information and User Content. Thi
 
 ### What Is The Scope Of This Privacy Policy?
 
-This Policy is incorporated into Grammarly’s Terms of Service and License Agreement located at <https://grammarly.com/terms> (the “Terms of Service”), and applies to the information obtained by us through your use of the Site, the Services, the Software (together, “Products”) and other Grammarly products and services. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
+This Policy is incorporated into Grammarly’s Terms of Service and License Agreement located at [grammarly.com/terms](https://web.archive.org/terms) (the “Terms of Service”), and applies to the information obtained by us through your use of the Site, the Services, the Software (together, “Products”) and other Grammarly products and services. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 
 ### Will This Privacy Policy Ever Change?
 
@@ -121,7 +121,7 @@ If Grammarly closes your account due to your violation of the Terms of Servi
 
 ### How Can I Contact Grammarly?
 
-You may contact us with any questions relating to this Privacy Policy by email at [support@grammarly.com](mailto:support@grammarly.com) or by postal mail at:
+You may contact us with any questions relating to this Privacy Policy by email at [support@grammarly.com](mailto:support%40grammarly.com) or by postal mail at:
 
 Grammarly, Inc.  
 548 Market Street, #35410  
