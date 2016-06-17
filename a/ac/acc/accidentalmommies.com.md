@@ -1,23 +1,35 @@
-> *The following text is extracted and transformed from the accidentalmommies.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072422id_/http%3A//theysmell.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accidentalmommies.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617233039id_/http%3A//theysmell.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Privacy
+# Privacy Policy
 
-DISCLAIMER: All images on www.TheySmell.com and/or www.AccidentalMommies.com are licensed or readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.) If you believe that any content appearing on www.TheySmell.com and/or www.AccidentalMommies.com infringes on your copyright, please let us know by using our [contact form](https://web.archive.org/web/20150607072422id_/http://theysmell.com/about/contact-us/) and send a DCMA take down request.
+This is the web site What’s That Smell? (http://theysmell.com).
+
+Our postal address is:  **P.O. Box 401; Lowell, IN 46356**
+
+We can be reached via e-mail at: [kim@theysmell.com](mailto:kim@theysmell.com)
+
+For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name, IP and e-mail address (if entered).
+
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who comment on the blog, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+
+The information we collect is used to improve the content of our Web page, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+
+With respect to cookies: As most blogs do, we use cookies to store visitors preferences, record user-specific information on what pages users access or visit and stats. We currently rely on the stats of Statcounter and Sitemeter, and occasionally Woopra. We may change which counter we use, but all collect cookies.
+
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. **We will only email you let you know about upcoming promotions and to email you back when you leave a comment on our blog in response.**
+
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. You will need to check their sites for their privacy information. We use Google Adsense.
+
+F **rom time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.** If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+
+Upon request we provide site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries).
+
+Consumers can access this information by e-mail us at the above address.
+
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them.
 
 This site frequently posts promotional content or affiliate links.  This content may have been sponsored and compensated in some form.  Opinions expressed are that of the site owner.
 
-**HOW WE USE THIRD-PARTY ONLINE ADVERTISING?**
-
-  1. Some of the advertisements you see on our Website or on emails we deliver to you are delivered by Advertisers who collect non-personally identifiable information about your online activities with the emails we send and/or our Website through the use of cookies, web beacons, and other technologies, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These Advertisers may include, but are not limited to, Adaptive Media, Google, Yahoo and Microsoft. The use of cookies, web beacons, and other technologies by these companies is subject to the privacy policies of those third parties. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find out more information by clicking on the company names listed above and following the links to each company’s website.
-  2. In addition, some of these companies are members of the Network Advertising Initiative (“NAI”), which offers a single location to opt out of receiving tailored ads from its member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page located at: http://www.networkadvertising.org/managing/opt_out.asp. To opt out of information collected by Quantcast, or to obtain information about the technologies they use or their own privacy policies, please visit the Quantcast consumer opt out page located at: https://www.quantcast.com/opt-out.
-  3. Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests or demographic, you will continue to see advertisements on our Website, but these advertisements may not be as relevant to you.
-  4. We do not have access to the information that Advertisers may collect, and the information practices of our Advertisers are not covered by this Privacy Policy.
-
-
-
-Below are our terms of use.
-
-Click the image/text for a clearer version.
-
-Adapted from:  
-http://gdisauro.com/2008/05/writing-blog-disclaimer-1/
+If you feel that this site is not following its stated information policy, you may contact us at the above email address.
