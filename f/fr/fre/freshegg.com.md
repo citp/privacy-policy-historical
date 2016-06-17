@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshegg.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908045058id_/http%3A//www.freshegg.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshegg.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617044637id_/http%3A//www.freshegg.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Fresh Egg Digital Marketing Cookie & Privacy Policy
 
