@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213142347id_/http%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617154247id_/http%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HHMI.org
 
@@ -58,7 +58,7 @@ We will only intentionally share your Personal Information with third parties un
 
 **5\. Your Choices and Retention of Personal Information**
 
-You can review and update your account information by logging into your account at any time, and may close your HHMI account by submitting your request to the [HHMI Webmaster](https://web.archive.org/contact-us/). You may unsubscribe to e-mail news alerts at any time by clicking the unsubscribe link at the bottom of the emails, logging into your account and changing your e-mail alerts setting, or submitting your request to the [HHMI Webmaster](https://web.archive.org/contact-us/). We retain Personal Information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. Our third-party order fulfillment company also maintains a copy of contact information relating to _HHMI Bulletin_ requests they have processed for us. If you have any questions about what Personal Information about you HHMI retains or would like to request that HHMI not share your information as explained in this Privacy Policy, please contact the [HHMI Webmaster](https://web.archive.org/contact-us/).
+You can review and update your account information by logging into your account at any time, and may close your HHMI account by submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). You may unsubscribe to e-mail news alerts at any time by clicking the unsubscribe link at the bottom of the emails, logging into your account and changing your e-mail alerts setting, or submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). We retain Personal Information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. Our third-party order fulfillment company also maintains a copy of contact information relating to _HHMI Bulletin_ requests they have processed for us. If you have any questions about what Personal Information about you HHMI retains or would like to request that HHMI not share your information as explained in this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
 
 **6\. Information Security**
 
@@ -82,6 +82,6 @@ Although no changes in this policy are currently contemplated, the policy may ch
 
 **11\. Contact Us**
 
-If you have questions about this Privacy Policy, please contact the [HHMI Webmaster](https://web.archive.org/contact-us/).
+If you have questions about this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
 
 This policy was last updated on July 23, 2014.
