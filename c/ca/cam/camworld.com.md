@@ -1,101 +1,119 @@
-> *The following text is extracted and transformed from the camworld.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109172042id_/http%3A//www.camworldvip.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camworld.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617181900id_/http%3A//camworld.com/privacy) for the most accurate reproduction.*
 
-# Live Adult Webcams - Free Memberships
+# Privacy Policy - CamWorld.com
 
-  
-|   
----  
-  
-  
+Effective Date: March 4, 2014
 
+Last Modified: March 4, 2014
 
-## for camworldvip.com Network of Websites
+This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“CamWorld.com,” “we,” “our”). By using our Services and/or registering with CamWorld.com, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as CamWorld.com adheres to the standards set forth more clearly below.
 
-## Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus
+We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the CamWorld.com website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-## +1.888.649.9178
+If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
 
-  
+**Information Collected**
 
+In order to provide our full range of Services, we may collect the following types of information:
 
-## Effective Date: January 1st 2005
+Information you provide. When you register for a username, we ask you for personal information (such as your email address, username, and an account password). In order to improve the quality of our Services and to provide you with a better user experience, we may combine the information you submit with information provided by third parties.
 
-## Last Updated: January 14th 2013
+Financial Data. Some portions of the CamWorld.com website are provided as paid services. Accordingly, our payment processor may collect billing information from you to facilitate your purchase of Services from us. Such information may include a credit card number, the associated card’s expiration date, and a billing address. WE DO NOT HAVE ACCESS TO YOUR FINANCIAL DATA, WHICH IS COLLECTED BY OUR PAYMENT PROCESSOR. Financial data that is collected by our payment processor will only be used as necessary to initiate and complete any orders placed by your account. Credit card purchases for the pay services offered on the CamWorld.com site are processed via industry standard encryption through third-party processors, which processors only use your information the purpose of processing order placed by your account. Financial Data is considered private information and will not be shared with us, or with third parties, except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third parties. Financial or other data provided by you to any companies or websites advertising on our website are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy.
 
-  1. General
-    1. The operative parties referred to in this policy are camworldvip.com (hereinafter referred to as "COMPANY"), and you, the user of this site.
+Demographic Information. Each time you access our Services, our servers may automatically record in their server logs information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol or “IP” address, the date and time of your request, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser. Additionally, we may collect other available demographic information, such as zip code, search history, browsing history, and user history. Aggregate, non-individual membership demographic information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
 
-      1. COMPANY, is the publisher and operator of the web sites [www.camworldvip.com](http://www.camworldvip.com/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to camworldvip.com d/b/a [www.camworldvip.com](http://www.camworldvip.com/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [www.camworldvip.com](http://www.camworldvip.com/).
+Links. We may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of our advertising and customized content, as well as the organization and layout of our website.
 
-      2. You, the User - As the user of these Websites, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Websites shall be referred to in applicable second-person pronouns.
+Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service. CamWorld.com uses what are known as "evercookies" which may appear on your system despite certain settings and software to block standard cookies. Therefore, the evercookie works to ensure that you do not inadvertently clear your cookies and lose your preferences and ability to use CamWorld.com as you have selected and to ensure that we keep people who breach our rules off of CamWorld.com for the well-being of the CamWorld.com community.
 
-    2. This Privacy Policy describes how we use information received about you when you visit our Websites or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the Websites.
+User communications. We may retain communications that you send to CamWorld.com by email or otherwise, in order to process your inquiries, respond to your requests, and improve our Services.
 
-  2. Revisions to this Policy
+Affiliated CamWorld.com Services on other sites. From time to time, we may offer some of our Services on or through other websites. In the event that we do offer such services, it is possible that personal information you provide to those sites may be sent to CamWorld.com to facilitate delivery of those services. We will process such information under this Privacy Policy as if the information had been submitted directly from you to CamWorld.com. Any affiliated site through which our Services are offered will likely have its own privacy policy, which may be very different from ours. It is very important for you to review the privacy policies for such affiliated sites before submitting personal information to them.
 
-We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after you have clicked the "refresh" button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed "last modified" dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+Other sites. This Privacy Policy only applies to Services offered by CamWorld.com. We are not able to exercise control over sites that are linked to from within our various Services. These other sites may collect data, set their own cookies in your browser, or ask you to provide personal information.
 
-  3. Personal information that we collect
+**Use of Personal Information**
 
-Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
+CamWorld.com processes personal information only for the purposes described in this Privacy Policy. In addition to the reasons set forth above, such purposes also include:
 
-    1. Members - Members are those users who subscribe to our services will be prompted to provide their name, their address, their phone number, their e-mail address, their credit card number, and any other necessary billing information.
+Providing our Services (which includes displaying customized advertising and other content);
 
-    2. Posters - Posters are visitors to our Website who choose to register to post information in our public forums. Minimal information is sought from Posters, and no actual personally identifying information must be submitted in order to become a Poster. Nevertheless, any information entered voluntarily by the Poster should be considered to be considered public information or information that is publicly available. If you do not wish for information to be made public, you should not enter it into your user profile when registering as a Poster.
+Auditing, research, and analysis (to maintain, protect, and improve our Services);
 
-    3. Browsers - Browsers are visitors to the site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Posters and Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below).
+Technical diagnostics (to ensure our network is functioning as expected);
 
-  4. How we collect information from you
-    1. Passive Collection - We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, in order to determine the User’s geographic location as a means of fraud prevention.
+Protecting the rights or property of CamWorld.com or our users, or third parties;
 
-    2. Active Collection - we collect information from you when you complete registration forms to sign up for your membership on our Website. Locations for such collection are registration pages, such as <http://www.camworldvip.com/register.php> but we reserve the right to add additional information collection portals.
+To comply with applicable law, to cooperate with law enforcement and the court system;
 
-  5. How we use your information
+Creating new Services; and
 
-The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally will use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.
+Marketing and sales of advertising.
 
-We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for market research purposes - in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
+We process personal information on our servers, which are located in the United States of America and in other countries. As a result, there exists the possibility that we may process your personal information on a server that is not located in your home country. In some cases, we may process personal information at the request of third parties and according to their instructions, such as our advertising partners. We will treat all personal information processed at the request of a third party exactly as if we had collected the processed personal information ourselves.
 
-  6. Special Cases.
+**Information Communicated via Video Chat**
 
-It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
+As the CamWorld.com website features interactive video chat services, it is possible for you to communicate identifying information about yourself to other users who are viewing a live video stream from your computer. You should be aware that any such communication is made directly to those users viewing the live video stream, and not to CamWorld.com. We are not responsible for the privacy of personal identifying information that you communicate via video chat to users who are viewing a live video stream from your computer. Accordingly, you should refrain from sharing personal information via live video stream to other users of CamWorld.com services.
 
-    1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
+**California Residents**
 
-    2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies;
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support@chaturbate.com](mailto:%20support@chaturbate.com).
 
-    3. To operate our Services properly;
+**Privacy Principle: Choice**
 
-    4. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+Use of our Services requires registering for a username. When you sign up for our Services, we ask you to provide personal information, such as your email address. We will ask for your consent prior to using any provided personal information in any way that is different from the stated purpose for which that information was collected.
 
-    5. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+In the event that we develop a new use for personal information that is not described in this Privacy Policy, you will be given the opportunity to opt out of such use. We will not collect or use sensitive information, such as racial or ethnic origins, sexuality, politics, religion, or medical information, for any purpose not described herein.
 
-  7. Transmittals from Us
+Use of our Service may require you to configure your browser settings to allow cookies to be stored on your computer or other browsing device. You should be aware that the Services might not function properly without cookies enabled.
 
-We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [support@webcamclub.com](mailto:support@webcamclub.com), or by clicking the opt-out link at the bottom of these communications. If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [support@webcamclub.com](mailto:support@webcamclub.com). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
+**Privacy Principle: Onward Transfer**
 
-  8. Public Forums, Member Directories, and Internal Messaging:
-    1. Public Forums - at the time of the instatement of this Policy, we offer public forums, which provide services that allow members to post messages to the public and the membership at large. In order to participate in a public forum, we may require information from our users such as a user name and password. Any information posted to a Forum should immediately be considered to be public information.
+CamWorld.com may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of CamWorld.com, we will only do so in the following circumstances:
 
-    2. Member Directories - Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that you provide in any such forum or medium.
-
-    3. Internal Messaging - We provide an internal messaging system for use between members of our Website. Any information that you send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
-
-  9. Our Commitment to Data Security.
-
-We take measures, including data encryption, firewall, and the use of other in-house technologies to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
-
-  10. How to Access or Modify Your Information.
-
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [support@webcamclub.com](mailto:support@webcamclub.com).
-
-  11. Where to Direct Questions About Our Privacy Policy.
-
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [support@webcamclub.com](mailto:support@webcamclub.com).
-
-  12. E-Mail Removal
-
-If you wish to opt-out of receiving all e-mail correspondence from us, you can enter your e-mail address below.
+  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so.
+  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith.
+  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of CamWorld.com, its users, or the public.
 
 
 
+This Privacy Policy may be superseded by an acquiring party’s policies in the event that CamWorld.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets.
+
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who viewed a certain page in our website, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+**Privacy Principle: Security**
+
+Appropriate security measures are taken to protect your personal information against unauthorized access to or unauthorized alteration, disclosure, or destruction. These measures include internal reviews of our data collection, storage, and processing practices. Physical security measures are also taken to prevent unauthorized access to systems where your personal information is stored.
+
+Your personal information is revealed to our employees, contractors, and agents on a need-to-know basis in operating, developing, or improving our Services. As a condition of their employment or association with CamWorld.com, these individuals are bound by confidentiality obligations. If they fail to maintain the confidentiality of your personal information, they may be subject to discipline, including termination and criminal prosecution.
+
+**Privacy Principle: Data Integrity**
+
+CamWorld.com processes personal information only for the purposes described in this Privacy Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process only that personal information which is needed to provide or improve our Services or as otherwise permitted hereunder. Although we depend on our users to keep their own personal information up to date, we also perform reasonable actions to ensure that the personal information we process is accurate, complete, and current.
+
+**Privacy Principle: Access**
+
+We make good-faith efforts to provide you with access to your personal information that we have collected. In the event that such information is inaccurate, we will endeavor to provide facilities that allow you to either correct this data or to delete it, provided we are not otherwise required to retain such data by law or for legitimate business purposes. Before processing requests to access, delete, or alter such data, we ask individual users to identify themselves and the information requested to be accessed, deleted, or corrected. We may refuse to process requests: (i) that require disproportionate technical effort; (ii) that are unreasonably repetitive or systematic; (iii) that would be extremely impractical (for instance, requests concerning information residing on backup tapes); (iv) that jeopardize the privacy of others; or (v) for which access is not otherwise required. Unless providing access and correction service would involve a disproportionate effort, we will perform it free of charge.
+
+**Privacy Principle: Enforcement**
+
+We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [support@chaturbate.com](mailto:%20support@chaturbate.com).
+
+It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between CamWorld.com and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
+
+**Email Communications**
+
+By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+
+While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
+
+From the "MY PROFILE" page, click on the "Settings & Privacy" tab.
+
+Delete your email address from the "E-mail address" input box under the "Personal Data" heading
+
+Click on the "Update Settings" button link near the bottom of the "MY PROFILE" page.
+
+After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
