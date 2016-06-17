@@ -1,205 +1,137 @@
-> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812222235id_/http%3A//store.sony.ca/helpdeskarticle/-/-template_sny_helpdesk_safety_security-component_sny_helpdesk_safety_security_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194529id_/http%3A//www.sony.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Sony CA
+# Sony Corporation of America
 
-The effective date of this Privacy Policy is April, 2015.
+Last Updated and Effective: January 15, 2015
 
-At Sony of Canada Ltd. (“Sony Canada”), we are committed to respecting and protecting your right to privacy. This Privacy Policy covers all data collection, use and sharing by Sony Canada in any medium, online, mobile, or offline. These channels are referred to in this Policy as the “Sony Canada Properties.” The Sony Canada Properties offer different features and functionality, and some of the data collection, use, and sharing practices described below may not be applicable for certain Sony Canada Properties. By using the Sony Canada Properties, you consent to the terms of this Privacy Policy. If you do not agree with any terms of this Privacy Policy, please do not use the Sony Canada Properties or submit any personal information. 
+This privacy policy (" **Privacy Policy** ") applies to the information collected by **Sony Corporation of America** (“ **SCA** ”), both offline and online, including through [**www.sony.com**](http://www.sony.com/) and through any interactive features, applications, widgets, blogs, social networks and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, “ **SCA Websites** ” or “ **Websites** ”).  Please note that when you enter any subsites accessible through www.sony.com, such subsites may have their own specific privacy policies.  Additionally, the websites of affiliated Sony companies, including some that are linked to/from the SCA Websites,  and internet domains that are linked to/from the SCA Websites, may have different policies; therefore, please review the privacy policy notices on those websites if you visit them.
 
-Table of Contents: 
+This Privacy Policy explains the information that SCA may collect when you interact with us and our practices with respect to that information.  Please read this Privacy Policy carefully. In addition, please review our Terms & Conditions, which govern your use of the SCA Websites.
 
-  * Information That We Collect or Receive
-    * Information You Provide to Us
-    * Information You Provide to Us via Social Features
-    * Information We Automatically Collect
-    * Information We Receive From Third Parties
-  * Information Use
-  * Information Sharing and Disclosures
-    * Information We Share
-    * Information You Share
-  * Advertising, Analytics and Similar Third Party Services and Your Choices
-  * Your Choices and Controls
-  * Children
-  * Consent to Transfer Information
-  * Third Party Links; Sony Content Found Outside the Sony Properties
-  * Security and Retention
-  * Changes to this Policy
-  * How to Contact Us About this Policy
-  * Additional Information About Certain Sony Properties
+###  TABLE OF CONTENTS
 
+1\. Collection of Information
 
+  * Information You Provide To SCA
+  * Information SCA Collects Automatically
+  * Cookies and Other Tracking Technologies.
+  * Information SCA Receives From Third Parties
+  * Social Media Applications
 
-###  Information That We Collect or Receive
 
-We collect or receive information from and about you in various ways, as described below.
 
-**Information You Provide to Us**
+2\. Uses of the Personal Information SCA Collects
 
-We collect the information that you provide to us, such as when you enter it through the features of a Sony Property or sign up for a Sony promotion or contest. Depending on the transaction or Sony Property you are using, such information might include information that could reasonably be used to identify you personally, alone or in combination with other information. (“Personal Information”). Personal Information includes but is not limited to your name, contact information and billing information. We will treat information as Personal Information where required by applicable law. 
+3\. When and With Whom SCA May Share Information Collected
 
-We collect information directly from you through our business processes, such as: 
+4\. Links To and SCA Content On Other Websites
 
-  * Registration or account creation, where we ask you to provide information, such as: 
-    * Contact info (e.g., name, email or mailing address, or phone number);
-    * Account administration info (e.g., user name, password, or security questions and answers);
-    * Billing info (e.g., credit card or other payment number, billing address);
-    * Demographic and location information, such as your gender, age, date of birth or postal code;
-    * Information about your past purchases or other transactions;
-    * Preference information such as saved settings, entertainment and marketing preferences.
-  * Employment applications, where you submit information, such as your gender, date of birth, education, occupation or work history.
-  * Purchase processes, where we may ask you to provide your name and billing info; 
-  * Technical and customer support processes, where we may ask you to provide contact info and information related to the issue about which you are contacting us, such as customer support contact history and unique hardware or software identifiers; 
-  * Providing you services at our retail stores;
-  * Creation of products and services that you request, where we may ask for your photos and related information or in connection with various Social Features, where you may provide your photos, videos, and related information, as described more fully below;
-  * Providing you with financing for Sony products, where, in addition to the other kinds of information described above, we may ask you for financial information; and
-  * Offering you the opportunity to submit product reviews, service feedback surveys or contest entries, where we may ask you for your name, voice and/or likeness, among other information.
+5\. Notice to California Residents
 
+6\. Security
 
+7\. Consent to Processing
 
-**Information You Provide To Us via Social Features**
+8\. Policy Governs Use: Changes to Privacy Policy
 
-Some of the Sony Canada Properties offer community forums or other interactive features, including social gaming and social media applications, where you can communicate with others or the public (“Social Features”). We may collect the information you enter when you use these Social Features, including Personal Information, your posts or communications, and your friend lists. 
+9\. Questions
 
-Functionality on the Sony Canada Properties may also permit a variety of interactions with third party websites, features or applications. For example, you may be able to “like” a product or “share” content on or to other websites or use your account with a third party to login to a Sony Property. When you choose to participate in a third party application or feature, you may be linking your activity on the Sony Canada Properties with that third party service and you may be authorizing us to collect (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third party website or interactive service. 
+###  Collection of Information
 
-If you post information on a third party platform that refers to Sony Canada or the Sony Canada Properties (e.g., by using a Twitter hashtag associated with Sony Canada in your tweet), your post, user name and/or profile picture associated with the applicable social media account may be published on the Sony Canada Properties in accordance with the terms of that third party.
+###  Information You Provide To SCA
 
-**Information We Automatically Collect**
+**In General.** While SCA does not generally require that you provide us with personally identifiable information in order to visit and use the SCA Websites, please note that in order to participate in some activities, such as sweepstakes, contests and other promotions (collectively, “ **Promotions** ”) and chat rooms or bulletin boards, we may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as first and last name, e-mail address, mailing address, telephone number or possibly, a picture) (" **Personal Information** "). We may also ask you to provide other information about yourself, such as demographic information (such as gender, geographic region, age, etc.) or certain information about your preferences and interests.  If you choose not to provide such Personal Information or other information to us, you may not be able to participate in certain activities we offer. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information.
 
-We, and any applicable third party analytics, content, advertising or other service providers may automatically or passively collect information about your use of the Sony Canada Properties. Data and metadata collected in this manner may include:
+**Individuals Under 13.** The SCA Websites are open to all individuals, though some Promotions may have age restrictions. We do not knowingly collect or permit the collection, storage or use of any Personal Information from anyone under 13. If you are a parent or guardian who knows or has discovered that your child under the age of 13 has submitted his or her Personal Information or other information without your consent, permission or authorization, upon request, we will promptly: (a) provide direct notice to you indicating what, if any, Personal Information of your child has been collected and how it has been used and/or disclosed; (b) remove your child’s Personal Information or other information from our database, cease the use of such information and direct any other party with access to such information to do the same; and (c) by notice to you, confirm compliance with the foregoing.
 
-  * Your browsing and other activity on or across the Sony Canada Properties, as well as third party websites and apps, and usage data. This may include, among other things, your Internet Protocol (IP) address or other device identifier, browser and operating system information, internet service provider (ISP), referring/exit web pages and clickstream data, including all of the pages and places you visit within a Sony Canada Property and any actions you take while using a Sony Canada Property;
-  * Your network connected hardware (e.g., computer, television or mobile device) or software data, such as a unique device identifier, model, version, MAC address, device or session ID, error related data and configuration, functionality, and performance data;
-  * Your physical or geographic location data, ranging from country or region, to latitude and longitude, to city (based on IP address), to GPS coordinates, depending upon the situation;
-  * Advertising data, such as display frequency, duration, location, viewing software, or identifier, and information relating to your preferences and advertisements you act upon;
-  * Your email address, email metadata, and information regarding your actions taken in connection with emails from Sony Canada (such as whether you open the email or click a link in the email); and
-  * Your username, user ID and/or account identifier.
+**For Promotions.** We may offer opportunities to enter into Promotions that we offer, on our own or jointly with a third party. Such Promotions may require registration and the disclosure of both Personal Information and non-Personal Information. In the event that a Promotion is offered jointly with a third party, as a result of your participation in such Promotion, your Personal Information and non-Personal Information may be shared with such third party, which sharing we will disclose to you at the time you provide your information.  By entering into a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other third parties connected to the Promotion to use your name, voice and/or likeness in advertising and marketing materials. Therefore, always carefully read the rules of the Promotion before entering.
 
+###  Information SCA Collects Automatically
 
+In addition to any Personal Information or other information that you choose to provide to us via the SCA Websites, whenever you visit or interact with the SCA Websites, SCA automatically collects certain information such as your IP address and/or another unique identifier (" **Device Identifier** ") for the computer, mobile device, technology or other device (" **Device** ") you use to access the SCA Websites and any referring website. (A Device Identifier is a number that is automatically assigned to your Device when you access a website or its servers. Our computers identify your Device by its Device Identifier.) Some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the Device used to access the Websites.
 
-We may use technologies, currently existing or developed in the future, to collect such information, and we may use third parties to perform these services on our behalf. Those technologies may include the following:
+In addition, SCA, as well as certain third-party analytics and other service providers, may use a variety of technologies that automatically or passively collect information about how you use the SCA Websites (" **Usage Information** "). Usage Information may include, in part, browser type, operating system, the page served, the time at which a page was accessed and/or the time spent on a page, and the preceding pages views. Usage Information is generally non-identifying, but if SCA associates it with you as a specific and identifiable person, we will treat it as Personal Information.
 
-  * Cookies. A cookie is a data file placed on a device when it is used to visit the Sony Canada Properties or otherwise access Sony Canada content online. Cookies may be used for many purposes, including, but not limited to, remembering you and your preferences, tracking your visits to our web pages, identifying and providing updates for software on your device, monitoring content that you are downloading, streaming, or otherwise accessing, and for displaying offers related to your prior activity on a Sony Canada Property. A Flash cookie is a data file placed on a device via the Adobe Flash plug-in that may be built into or downloaded by you onto your device. Flash cookies may be used for various purposes, including, but not limited to, enabling a Flash feature and remembering your preferences. For more information about the privacy choices Adobe offers, see Your Choices and Controls.
-  * Web Beacons. Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our web pages and email messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or email can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including but not limited to, count visitors to a Sony Canada Property, to monitor how users navigate the Sony Canada Properties, to count how many of our emails were actually opened, or to count how many particular links were actually viewed. 
-  * Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Sony Canada Properties, such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third-party service provider, is active only while you are connected to the Sony Canada Properties, and is deactivated or deleted thereafter. 
+###  Cookies and Other Tracking Technologies.
 
+The technologies used on the SCA Websites to collect Usage Information, including Device Identifiers, may include:
 
+**Cookies.** "Cookies" (which may be html files, Flash files or other technology) are small text files that help store user preferences and activity.  A Cookie is placed on a Device when it is used to visit the SCA Websites or otherwise access our online offerings. Cookies may be used for many purposes, such as remembering you and your preferences, tracking your visits to our web pages and customizing your SCA Website experience. If you choose to disable cookies on your Device, some features of our Websites and our online offerings may not function properly.
 
-**Information We Receive From Third Parties**
+**Web Beacons.** “Web beacons” (also known as image tags, pixel tags, GIFS or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the SCA Websites, to monitor how users navigate the SCA Websites, to count how many sent e-mails were actually opened or to determine whether content sent was actually viewed.
 
-We may supplement and/or combine the information that we collect with information that we obtain from third parties. For example:
+**Embedded Scripts**. An embedded script is programming code that is designed to collect information about your interactions with the SCA Websites, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third party service provider, is active only while you are connected to the Websites, and is deactivated or deleted thereafter.
 
-  * If you link your Sony Canada account to your social media accounts, accounts with other Sony-branded entities, or otherwise provide us with access to your account on a third-party service, we may receive data from the providers of those accounts;
-  * Some third parties may provide us or our third party service providers with information regarding the physical location of the device used to access the Sony Canada Properties;
-  * If you are on another website and you opt-in to receive information from us, that website may forward to us your e-mail address and other information about you so that we may contact you as requested;
-  * If other users give us access to their profiles on a third party website or application, we may receive information about you if you are one of their connections or information about you is otherwise accessible through their profile;
-  * If you apply for or are issued a SonyCard or other branded Sony Canada payment card, the bank that manages our co-brand card program may provide us with information about you.
+###  Information SCA Receives From Third Parties
 
+SCA may receive information about you from third parties. In addition, if you are on another website and you opt-in to receive information from us, that website will forward to us your e-mail address and other information about you so that we may contact you as requested. We may also supplement the information we collect about you with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. When we obtain Personal Information from third parties, we will apply this Privacy Policy to the Personal Information received, unless we have disclosed otherwise.
 
+###  Social Media Applications
 
-###  Information Use
+Functionality on the SCA Websites may permit interactions between such SCA Websites and a third-party website, such as enabling you to “like” a product or “share” content to third-party websites.  If you choose to “like” or “share” content or to otherwise post information from or via the SCA Websites to a third-party website, feature or application, that information may become public and the third-party web site may have access to information about you and your use of the SCA Websites.
 
-We use non-Personal Information without restriction.
+You may also choose to participate in a third party application or feature (such as one of our Facebook applications or a similar application or feature on a third-party website) through which you allow us to collect and share (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their “connections,” or if information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third-party website or interactive service.
 
-We use your Personal Information in a number of ways, as described in this section and elsewhere in this Policy. We use the information we collect, including your Personal Information, for the purpose for which it was collected. For example, we use your information to operate and deliver products, services, and content; perform administrative functions; complete business processes (including technical requests and customer service inquiries); and notify you as may be necessary. In addition, we may use your Personal Information and other information: 
+###  Uses of the Personal Information SCA Collects
 
-  * To send you product, service or warranty information;
-  * To better understand our customers and the users of the Sony Canada Properties and to understand and improve our operations and performance;
-  * With your consent, to send you marketing communications from us or others;
-  * To provide you with targeted and contextual advertising and offers both within Sony Canada Properties and elsewhere online;
-  * To perform analytics, research, surveys, and product analysis and development, including demographic studies for marketing, sales, or product development; 
-  * To enable us to link your accounts and usage information between and amongst Sony Canada and various Sony entities; 
-  * To tailor the Sony Canada Properties, advertising, promotions and communications to deliver a better or new experience to you;
-  * For security and fraud detection purposes; and
-  * As disclosed at the time you provide your information, for purposes described elsewhere in this Privacy Policy, and for purposes for which we have obtained your consent.
+SCA will use the information it collects, including your Personal Information:
 
+  * to tailor your experience on the SCA Websites;
+  * to determine which products and services we offer may be of interest to you;
+  * to provide you with information about Promotions or other offerings that may be of interest to you;
+  * to provide you with support and answer questions or other requests; and
+  * for other purposes disclosed to you at the time you provide the Personal Information.
 
 
-###  Information Sharing and Disclosures
 
-**Information We Share**
+We may also use the information we collect to improve the SCA Websites and our products and services, for internal business purposes, and to contact you with regard to your use of the SCA Websites and, in our discretion, changes to any of our policies.
 
-We may share your information, including your Personal Information, with our affiliated companies and third parties as disclosed at the time you provide your information, with your consent, as otherwisedescribed in this Privacy Policy, and as follows:
+###  When and With Whom SCA May Share Information Collected
 
-  * Service Providers to Sony Canada. With persons or companies we retain to carry out services for us or to provide support to us. 
-  * Law Enforcement, Judicial, Administrative, or Regulatory Disclosures. To comply with a legal obligation, at the request of a government entity conducting an investigation, or when we believe that the law requires disclosure or that disclosure is appropriate to protect or enforce the rights, property, safety, or security of ourselves or others.
-  * Business Transfers. In connection with the sale of the applicable business, a portion of the business, or certain stock and/or assets, or a corporate merger, consolidation, restructuring, or other corporate change including but not limited to, during the course of any due diligence process.
-  * Sony. With our Sony affiliated companies for any purpose, including but not limited to providing you with content, products, or services; business development; community administration or development; to support various business processes; security; research and development; to enable us to link your accounts and usage information between and amongst certain Sony Canada Properties; and to contact you about products, services or other offerings that may be of interest to you. Sony affiliates will handle your information in accordance with their own privacy policies, the terms of which may be different than this Privacy Policy.
-  * Other Third Parties. With your consent, with other non-affiliated third parties for various purposes, such as: 
-    * Third parties with whom we are jointly delivering services or features, such as a contest, promotion or advertising (each a “Promotion”). Sony Canada may offer a Promotion that requires registration and if you choose to enter, your Personal Information may be disclosed to third parties in connection with the administration of the contest, such as in connection with winner selection or prize fulfillment. Sony Canada will obtain your separate opt-in consent to receive commercial electronic messages when we administer a Promotion; or
-    * Third parties who may contact you about products, services or other offerings that may be of interest to you.
+**Non-Personal Information.** We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties for a variety of purposes, including tailoring promotions, advertising and communications we present to you.
 
+**Personal Information.** We may also share your Personal Information, as specifically disclosed at the time you provide your Personal Information and in the following circumstances:
 
+###  To Affiliates, Other Sony Companies and Third-Parties.
 
-**Information You Share**
+**To Affiliates and Other Sony Companies.** SCA may share your Personal Information with companies affiliated with SCA (“Affiliates"), so that those Affiliates can (i) assist us with fulfilling your requests or improving our products, content, services or advertising; and/or (ii) contact you about products, content, services or other offerings that may be of interest to you.  For purposes of this Privacy Policy, Affiliates means Sony Corporation of America, any company with respect to which SCA owns, directly or indirectly, 50% or more of its outstanding shares, and any company with the name "SONY" as a part of its trade name.
 
-When you use the Social Features, certain elements of your Personal Information and certain information about your use of the Sony Canada Properties may be accessible to other users of the Sony Canada Properties and to the public. For example: when you post a product review, your username, your hometown, and any photos or videos you elect to submit as part of the review will be visible to the public. We may also publicly display information derived from your activity on the Sony Canada Properties.
+**To Third-Party Service Providers Providing Services On SCA’s Behalf.** We may from time to time employ third parties to perform functions on our behalf, and thus, we may also share your Personal Information with third party service providers that assist us with providing content, fulfilling your requests, improving our products, content, services or advertising, or otherwise performing services for SCA. As one example, if you access content or services that are published, developed or supported by an Affiliate or third party, your Personal Information may be shared with that Affiliate or third party for purposes related to that content or those services, including service administration and/or development. Additionally, we may share your information in order to host or operate the SCA Websites, for data analysis purposes, and for the administration of Promotions, such as in connection with winner selection and prize fulfillment.
 
-If you choose to “share” content or to otherwise post information from or via a Sony Canada Property to a third party website, feature or application, that information will become public and the third party website may have access to information about you and your use of the Sony Canada Property. Likewise, other users may use these same features to share information about you.
+**When You Consent To Have Your Personal Information Shared or Otherwise Request That We Share Your Information.** We may offer you the opportunity to consent to the sharing of your information with third parties. Such reasons include, without limitation, so that you are able to receive information and/or marketing offers from third parties. Additionally, you may request, sometimes through your use of an interactive feature or third- party application, that we share Personal Information about you with a third party, and we will typically do so in those circumstances. If you agree or request to have your Personal Information shared (either by opting in, choosing not to opt-out or using a specific feature of the SCA Websites), your Personal Information will be disclosed to the applicable third party(s) and the Personal Information you disclose will be subject to the privacy policy and business practices of such third party(s); therefore, please consult the respective privacy policies of each third party.  If you consent or request to receive communications from third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications.
 
-We are not responsible for how you use or publish personal data through these or similar features, or how third parties use the features to share information. 
+The provisions above apply to our sharing of Personal Information with Affiliates and third-party service providers.  They do not cover use of Personal Information that those Affiliates and third-party service providers collect directly from you.  Such use of Personal Information is covered by the relevant Affiliate’s and/or third party’s privacy policy and not this Privacy Policy.
 
-###  Advertising, Analytics and Similar Third Party Services
+**Business Transactions.** We may share your Personal Information with other entities affiliated with us for internal reasons, primarily for business and operational purposes including any corporate reorganization, restructuring or other corporate change. In addition, SCA or any of its assets, including the SCA Websites, may be sold, or other transactions may occur in which your Personal Information is one of the key business assets in the transaction. In such a case, your Personal Information may be one of the business assets we transfer. Hence, SCA reserves the right to disclose and transfer user information, including Personal Information, in connection with any activity and/or transaction described above.
 
-We may use third party analytics service providers to evaluate and provide us with information about the use of the Sony Canada Properties and viewing of our content. Ad network providers, advertisers, sponsors, analytics service providers and/or similar third parties may set and access their own cookies, web beacons and embedded scripts on your device, may collect, set and use unique or non-unique identifiers, and they may otherwise collect or have access to information about you. 
+**Legal Protections and Law Enforcement.** We may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier (including IP address), to third parties: (i) to comply with legal obligations; (ii) when we believe in good faith that the law requires it; (iii) at the request of governmental authorities conducting an investigation; (iv) to verify or enforce our Terms & Conditions or other applicable policies; (v) to respond to an emergency; or (vi) to otherwise protect the rights, property, safety or security of third parties, visitors to the SCA Websites or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.
 
-We and our network advertisers may target advertisements and offers to you, both on the Sony Canada Properties and elsewhere online, based on your visits to the Sony Canada Properties and other websites and online services. Cookies, web beacons, and other technologies, including those set by third party network advertisers, may be used to, among other things, target advertisements, limit the number of times you see the same advertisements, conduct research regarding the usefulness of certain advertisements to you, track how our users interact with the Sony Canada Properties, link various devices you may use, and learn more about users. We may share information about visitors to the Sony Canada Properties with third party companies for the same purposes. We may use a variety of companies to serve advertisements. Some of these third parties may collect personal information from you over time when you visit the Sony Canada Properties or other websites and services. This Privacy Policy does not cover any use of information that such third parties may have collected themselves from you. 
+###  Links To and SCA Content On Other Websites
 
-###  Your Choices and Controls
+The SCA Websites may contain links to other websites that are operated and controlled by third parties that we do not control. This includes links of advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. In addition, SCA content or widgets may be included on web pages and websites that are not associated with us and over which we have no control. These other websites may send their own cookies to your Device, and they may independently collect data or solicit Personal Information. A link from any SCA Website to any other website does not mean that Sony approves of, endorses, or recommends that website. SCA provides such links for your convenience and is not responsible for the content of any website linked to or from any SCA Website. Moreover, SCA is not responsible for the privacy practices of any third party, and it disclaims all warranties, express or implied, as to the accuracy, legality, reliability, or validity of any content on any other website.
 
-You have certain choices about how your Personal Information is collected and used. Where required by applicable law, you can access, amend or have your Personal Information deleted from our active database(s) by contacting us as described in the “How to Contact Us About this Privacy Policy” section below. In some cases, your choices to change or delete information you provide may affect our ability to deliver our products, services or the Sony Canada Properties.
+###  Notice to California Residents
 
-**You can choose whether or not to receive certain communications from us, through the following mechanisms:**
+**Your California Privacy Rights** : If you are a California resident, you have the right to receive: (a) information identifying any third party(ies) to whom SCA may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com). SCA will respond to these requests within thirty (30) days. Requests that come to SCA by other means may result in a delayed response.
 
-  * Commercial Electronic Messages: Sony Canada complies with the Canada Anti-Spam Legislation and will only send commercial electronic messages to you with your consent (express or implied). You may unsubscribe from receiving commercial electronic messages at any time by clicking on the unsubscribe link included in an e-mail message. Please note that we reserve the right to send you certain communications relating to your account or your use of the Sony Canada Properties or as otherwise permitted by applicable law, and these transactional account messages and other non-commercial messages may not be affected by your choice to unsubscribe from commercial communications.
-  * Customer Preferences: In some cases, you can manage communication preferences for certain Sony Canada Properties in your account settings or preferences page.
-
-
-
-**You also have the following choices:**
-
-You may be able to disable cookies or to adjust your Flash privacy settings by visiting Adobe’s website privacy settings page at [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html). If you choose to disable cookies or to adjust your Flash privacy settings on your device, some features of our Sony Canada Properties may not function properly.
-
-Some Sony Canada Properties may use Omniture, a web analysis service provided by Adobe that includes session cookies and beacons. If you do not wish to allow your session visit information on the relevant Sony Canada Property to be aggregated and analyzed by us, you may visit [www.adobe.com/privacy/opt out.html](http://www.adobe.com/privacy/opt%20out.html)
-
-Some Sony Canada Properties may use Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses cookies to analyze your use of the relevant Sony Canada Property, to create reports about the relevant Sony Canada Property activities for us and to provide further services associated with the use of the relevant Sony Canada Property and the Internet. Furthermore, Google may transfer such non-personally identifiable information to third parties. You can opt out of interest-based ads by Google at [www.google.com/settings/ad](http://www.google.com/settings/ad)
-
-You may also be able to opt out of certain targeted advertising by visiting the TRUSTe advertising choices page at [www.preferences-mgr.truste.com](http://preferences-mgr.truste.com/) and the Digital Advertising Alliance of Canada’s consumer opt-out page for behavioural advertising at [www.youradchoices.ca/choices](http://youradchoices.ca/choices)
-
-Your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. However, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, the Sony Canada Properties currently do not alter their practices when they receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com](http://www.allaboutdnt.com/)
-
-These opt-outs may be device specific and may not work on all devices. Please be aware that if you choose to block cookies, some advertising preferences that are dependent on cookies may not be able to be respected. Also, know that even if you opt out of targeted online advertising, you will continue to receive generic ads online.
-
-###  Children
-
-This Privacy Policy does not apply to the collection of Personal Information from visitors to Sony Canada Properties who are under the age of 13 (“Child” or “Children”). Sony Canada does not knowinglycollect Personal Information from children under the age of 13. If we are notified that a Child has submitted Personal Information to us through any Sony Canada Property, we will delete that Child's Personal Information. 
-
-###  Consent to Cross-Border Transfer of Information 
-
-Please be aware that information we collect, including but not limited to Personal Information, may be transferred to, processed and stored in the United States, Japan and other countries around the world and, as such, courts, law enforcement, and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. Any such transfers will be to Sony Canada affiliates and to contractors that agree to substantially the same terms to protect Personal Information. By using the Sony Canada Properties or providing us with any information through the Sony Canada Properties, you consent to the transfer, processing and storage of your information in the United States, Japan and in other countries around the world, jurisdictions in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
-
-###  Third Party Links; Sony Content Found Outside the Sony Canada Properties
-
-The Sony Canada Properties may contain links to websites, features and functionality controlled by third parties, including but not limited to those operated by other Sony Affiliates and social-networking services. In addition, Sony Canada widgets or other Sony Canada content may be included on web pages and websites that are not associated with a Sony Canada Property. We have no control over the privacy practices of the third party websites or services to which we link or that include our widgets or other content. Those websites and services may automatically collect information about your visit to their sites and may use their own tracking technologies, including but not limited to, cookies. Those websites and services are subject to the privacy policies of the third parties that control those websites, and not this Privacy Policy. We encourage you to check the privacy policies of such third party websites and services before using them or disclosing any Personal Information to them.
+**California Online Privacy Protection Act Notice** : Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform. For this reason, our Websites do not currently interpret, respond to or alter their practices when they receive Do Not Track signals. Please note that third parties may collect personal information about your online activities over time and across different websites when you visit our website or other online websites and services. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 ###  Security and Retention
 
-Unless otherwise required by law, we are not responsible for monitoring or recording any activity on the Sony Canada Properties, including communications, although we reserve the right to do so.
+SCA uses commercially reasonable safeguards to help protect and secure your Personal Information, and we use reasonable efforts to obtain the agreement of our Affiliates and third-party service providers to take steps to protect the confidentiality, security, and integrity of Personal Information we share with them. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure. Please be careful to avoid ‘phishing’ scams, where someone may send you an e-mail that looks like it is from SCA asking for your Personal Information. SCA will never request your Personal Information through e-mail.
 
-To help protect you and others, we monitor the use of the Sony Canada Properties, and we use the Personal Information and other information we collect, in order to: identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Sony Canada Properties; investigate violations of or enforce the applicable Sony Canada Properties’ Terms of Use and/or this Privacy Policy; and otherwise to protect the rights and property of Sony, its affiliates, partners, and customers. Monitoring may result in the collection and analysis of online activity or communications through the Sony Canada Properties. If you do not consent to these conditions, you must discontinue your use of the Sony Canada Properties.
+To help protect you and others, we monitor use of the SCA Websites, and we use the information we collect, including Personal Information, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the SCA Websites; ensure compliance with the applicable terms of service and this Privacy Policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of SCA, its affiliates, partners and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through the SCA Websites. If you do not consent to these conditions, you must discontinue your use of the SCA Websites.
 
-We seek to maintain reasonable security measures designed to help protect your information (including Personal Information) against unauthorized or accidental disclosure, access, misuse, loss, or alteration. There is no such thing as perfect security. Although we strive to protect your information, we cannot ensure or warrant the security of such information.
+You understand that any message or information you send to a SCA Website may be read or intercepted by others. SCA does not ensure or warrant the security of any information you transmit to us, and you use the SCA Websites and provide us with your information at your own risk.
 
-We may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this Policy. In addition, we may retain your information for an additional period as is permitted or required to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Where and when required by applicable law, we shall delete your information. Even if we delete your information from active databases, the information may remain on backup or storage media.
+###  Consent to Processing
 
-###  Changes to this Policy
+The SCA Websites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the SCA Websites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
 
-We may revise this Privacy Policy at any time. We will post any revisions to this Policy on the Sony Canada Properties, and the changes are effective when we post them (or on such date as indicated in the updated policy). By continuing to access or use the Sony Canada Properties after those changes become effective, you agree to be bound by the revised Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting a notice of the change on the Sony Canada Properties, as relevant, and we may, in our discretion, contact you through the Sony Canada Properties or via any of your contact information we have on file. Please check this Privacy Policy from time to time to ensure that you are aware of any changes. However, we will not make material changes to how we use your previously collected Personal Information unless you consent to the new or revised Policy or generally to such uses.
+###  Policy Governs Use: Changes to Privacy Policy
 
-###  How to Contact Us about this Privacy Policy
+The terms of this Privacy Policy will govern the use of any information collected while it is in place. SCA reserves the right to change this Privacy Policy at any time, without prior notice to you, and any changes will become effective immediately upon posting. Your continued use of the SCA Websites after posting of any changes to this Privacy Policy will constitute acceptance of, and agreement to be bound by, those changes. Thus, please review this Privacy Policy periodically.
 
-For further information on our Privacy Policy, including inquiries, complaints, or disputes related to the collection and use of your information; please write to us at Sony of Canada Ltd., Attn: Privacy Officer, Law Department, 115 Gordon Baker Road, Toronto, Ontario M2H 3R6 or call our dedicated privacy line toll-free (within Canada): 1-888-494-7669
+###  Questions
 
-###  Additional Information About Certain Sony Canada Properties
-
-When you use certain Sony Canada Properties, you may be subject to additional privacy notices that are provided to you at that time. In the event of a conflict between the terms of this Policy and the terms of any additional privacy notices provided, the terms of the additional privacy notices will control unless they expressly state otherwise.
+If you have any questions or comments about our practices regarding Personal Information or about this Privacy Policy, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com).
