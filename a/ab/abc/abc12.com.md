@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abc12.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104150341id_/http%3A//www.abc12.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc12.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617040645id_/http%3A//www.abc12.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-**This Privacy Policy does not cover the “My Capture” service for user generated content that may be offered on our Web Channels. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
+**In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
 Effective Date: May 11 2012.
 
