@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010240id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617232418id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
 # Boing Boing Privacy Policy / Boing Boing
 
@@ -108,7 +108,7 @@ Our content is syndicated and distributed through Feedburner, owned by Google. W
 
 5\. Affiliate Programs
 
-Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com, Etsy.com ([privacy policy](https://www.etsy.com/legal/privacy/)) (Etsy uses Tiddly, a URL shortener) or Thinkgeek.com ([privacy policy](http://www.thinkgeek.com/help/privacy.shtml)) after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Advertising**
 
