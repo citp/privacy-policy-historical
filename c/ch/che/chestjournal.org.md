@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chestjournal.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215015703id_/http%3A//publications.chestnet.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestjournal.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617143216id_/http%3A//publications.chestnet.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CHEST Publications | Privacy Policy
 
