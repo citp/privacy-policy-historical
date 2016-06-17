@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cvshealth.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210135551id_/http%3A//www.cvshealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvshealth.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617104806id_/http%3A//cvshealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CVSHealth.com
+# Privacy Policy | CVS Health
 
 ### CVS Health’s Privacy Commitments
 
@@ -27,7 +27,7 @@ ___________________________
 
 #### The Scope of this Privacy Policy
 
-CVS Health Sites and Mobile Apps, including those for CVS/pharmacy, Caremark, and MinuteClinic, are owned and operated by CVS Pharmacy, Inc.
+CVS Health Sites and Mobile Apps, including those for CVS Pharmacy, Caremark, and MinuteClinic, are owned and operated by CVS Pharmacy, Inc.
 
 This Privacy Policy describes the choices you can make about the way your information is collected and used. Our Privacy Policy applies to the information collected on Our Sites and to any other information that CVS Health collects about you.
 
