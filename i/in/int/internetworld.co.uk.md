@@ -1,113 +1,144 @@
-> *The following text is extracted and transformed from the internetworld.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229194748id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetworld.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617085018id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# UBM - UBM LLC Privacy Policy
 
- 
+Effective: August 27, 2014 
 
-This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of UBM (UK) Ltd by the company and its affiliates within the UBM group of companies. For more information about UBM please see: [www.ubm.com](http://www.ubm.com/)
+**UPDATE**
 
-UBM (UK) Ltd is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled. 
+## Scope
 
-For the purpose of the Data Protection Act 1998, the data controller is UBM (UK) Ltd of 240 Blackfriars Road, London SE1 8BF 
+This Privacy Policy covers information which you give us, UBM LLC ("UBM Tech" or "we"), about yourself and your professional background as you register for or attend our face-to-face events around the world, visit or participate in any of our web sites or online venues hosted on servers in the United States or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
 
-By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer Privacy Policy.
+Our business includes creating opportunities for you to connect with other companies either by accessing information and resources online or at face to face events. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to the other company's Privacy Policy if possible. Our Policy will govern our collection and use of information about you. In any case. we recommend that you find and read the other company's policy as well to learn how that company will treat the information about you.
 
-##  **COLLECTION AND USE OF PERSONAL INFORMATION**
+## Information That Identifies You
 
-We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your enquiries for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available.  
-If you chose to activate an app available at many of our events, please be sure to also read the app provider's privacy policy and take a moment to understand how the app works and what controls you have. If you allow the collection of location data by the app, including through such technologies as iBeacons, we may then use that data in the aggregate to assess how people have moved through an event. 
+We rely on the information you provide to us as you register, contact us, participate in surveys, post comments to public areas of and interact with our web sites, respond to our email campaigns, and participate in webinars or online events. We may also add data from external sources including your professional interests on web sites other than ours. We will add information about how you interact with our offerings, your subscriptions, the events you attend, the content you download or read, and the like.
 
-## **WEBSITE USAGE &   
-COOKIES**
+We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
 
-If you are using our web sites, we will use your personal information to help you to log on to your account and into restricted areas of our web sites and to permit future use of the web sites. We may use your IP address to help diagnose problems with our server, or to administer our web sites. We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. We may also use cookies to enable the signing in process after you have registered with us and to provide you with more tailored information when you return to our web sites. A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you reject the use of cookies please note that the efficient operation of the web site that you are using may be affected. Most of the advertisements that you see on the web sites are generated by third parties who may use cookies to track viewing of their advertisements and for other purposes specified in their own privacy policies. We have no access to or control over these cookies (although we may use statistical information provided to us – not containing personal information – arising from these third party cookies to improve the targeting of advertisements to you and other users of the web sites). You can obtain further information about third party privacy policies or disable their cookies by visiting their web sites.
+## Automatic Data Collection Technologies
 
-## COOKIES POLICY
+We also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis.
 
-Your use of our web site indicates your consent to the cookies described in this policy.
+Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the [Adobe Flash Player Help](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) page for additional information about controlling the settings of the Adobe Flash Player on your computer.
 
-### WHAT ARE COOKIES?
+We gather date, time, certain information about a user's browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
 
-A web cookie, a commonly used data collection technology, is simply a piece of text which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a web site.  A cookie may be a session cookie, that is, a cookie that remains on your browser while you are logged on to a particular web site and then disappears when you close your browser, or it may be a persistent cookie, a cookie that remains on your browser over a period of time.  Information from a cookie may be collected and used in aggregate form.  Or data may be collected into an individual profile or record.  That individual record may either be unique but anonymous, or the profile can be linked with information that identifies you as an individual.    
-You can learn more about cookies, generally, at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+Please see [More Information About Cookies](https://web.archive.org/privacy-policy/#More_info), for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for targeted advertising or marketing.
 
-### HOW DO WE USE COOKIES?
+## How We Use Information That Identifies You
 
-We may use cookies for a number of purposes:
+We use information about you: 
 
-  1. We may use a limited number of cookies essential to particular services you have requested or for security purposes. A few of our sites use a cookie for a shopping cart function when you purchase services or offerings. In particular, if you have registered for a site or use a customer portal we may use a cookie to authenticate the pc or mobile device that you are using.
-  2. We allow third parties to set analytics, or performance, cookies to collect and report aggregate information. These cookies provide reporting to us on an aggregate basis and so, do not identify you at all. We use the aggregate reports to understand how our web sites are used and improve their usefulness to our audiences.
-  3. A number of cookies also support how our web sites function, identifying your pc or end device on a unique but anonymous basis. These cookies may, for example, remember your language preferences or recognize an individual’s activity within a single session.
-  4. If you register for a site, we use a cookie to associate your presence with a specific user name and password or account. We may use a persistent cookie to recognize you automatically each time you return, but only if you ask us to do so. We may also use cookies to prepopulate your login or forms you fill out on the site with information you have already provided. Finally, we may use certain demographic information to enable third party ad servers (see below) to show you ads based on information about you in your business capacity, for example, your title within a company or the size of that company.
-  5. Some of sites may also allow third party ad servers to serve their own cookies to display advertising on our web sites. We do not determine, control or have access to their cookies.  In addition, some of the ads they serve may generate their own cookies.  For more information on our cookie policy, please visit: [ http://privacypolicy.ubm.com/cookiepolicy/](http://privacypolicy.ubm.com/cookiepolicy/)
+  * to provide the services, publications, and information you request and to manage your account with us.
+  * to deliver or display content that matches your professional interests and responsibilities. 
+  * to contact you with information about and invitations for products and services - ours and other companies - directed to your professional interests and responsibilities. 
+  * to contact you, advertise to you or invite you to join us on social media platforms on which you participate.
+  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
+  * for any other purpose that we tell you about when you give us the information. 
 
 
 
-### HOW YOU CAN CONTROL COOKIES
+## Your Choices
 
-The cookies we us are an accepted part of ecommerce and important to your use of our websites. Performance cookies allow us to understand our audiences as a whole and improve how our sites meet your needs and expectations. Many the functional cookies are basic to how our sites and services work. The cookies we use for registration allow us to conduct our business online. Our sites and services, or parts of them, may not work properly without these cookies. 
+You have a choice about and control over:
 
-Your use of our websites indicates your consent to the cookies we have described in this Policy.  
-But if you should wish to revoke that consent, or any part of it, at any time you may control cookies and third party ad targeting in the following ways.
+**Connecting directly with other companies for marketing purposes.** In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company or companies. We will put you in direct contact when you choose to: 
 
-#### BROWSER CONTROLS
+  * Access a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company. If you have enabled our automatic recognition cookie, as described below, you need only click to download or register for the asset or opportunity. 
+  * Register for one of our virtual events with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor. 
+  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor. Badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
 
-Most modern browsers offer you ways to control or block cookies.  These browser controls will usually be found in the “options’ or “preferences” menu.  For more help, you may take a look at the “Help” settings or review these website for more details \- <http://www.aboutcookies.org/Default.aspx?page=1>
 
-#### THIRD PARTY ADVERTISING AND TARGETING
 
-Some of our sites use third party advertising and ad targeting. For ways to turn off third party ad targeting you may want to visit The Internet Advertising Bureau UK - <http://www.iabuk.net/>.
+## Making information you provide public.
 
-You can find more information or turn off targeting by member companies at YourOnlineChoices UK, <http://www.youronlinechoices.com/uk>. 
+  * We offer web sites that allow you to publish content. Many of these blog sites require that you have registered if you wish to comment. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well. 
+  * Our online event venues also require that you be registered with UBM Tech and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices. 
+  * Increasingly, we offer apps at our face to face events, allowing you to communicate and publish to others who have also downloaded the app. 
+  * These apps and online communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
 
-### THIS PRIVACY POLICY
 
-If our use of cookies changes, we will post the changes to this policy.  Please check frequently as online data collection practices and our use of them continue to evolve.  To contact us about this policy, you may email [ubmidpa@ubm.com](mailto:ubmidpa@ubm.com). When emailing please indicate which of our sites you question relates to.
 
-##  **THIRD PARTY**
+## Receiving email marketing messages from us.
 
-We will only disclose personal information about you internally and to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Where you have agreed that we may do so, we may lease or rent your personal information to selected third parties for their postal or telephone marketing use.
+  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all UBM Tech email marketing you may click on this [UBM Tech-wide opt out link](https://web.archive.org/opt-out/), or you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
+  * Please note that you may receive email marketing messages from us about other companies' offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
 
-##  **TRANSFER OF DATA**
 
-Third party data processors, advertisers, exhibitors and other such business relationships outside of the EEA, are required to take adequate technical and organisational safeguards to protect personal information. We also take measures to ensure that personal information transferred by us outside of the EEA is adequately protected. 
 
-## **VIRTUAL PRODUCTS**
+**Whether your account information is up to date.** Please help us keep your account information up to date. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
 
-In the case of your use of one of our virtual products, e.g. Virtual Exhibitions, Directory Sites, Webinars etc, we may pass the information you provide to third parties. Generally this will be via a process whereby you, as the user, visit or interact with a third party eg: visit a stand at an online exhibition or click on an asset branded and provided by a third party. In some instances, for example, a products listing site, you may reach out directly to a supplier or exhibitor who may contact you in return. In other instances our virtual products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally, we will let you kow at the time of collection if a product is sponsored. 
+## More Information About Cookies
 
-If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details.  Unsubscribing to the UBM (UK) Ltd will stop UBM (UK) Ltd from contacting you in the future, but not the individual 3rd parties whom you have interacted with. 
+**You also have choices about cookies:**
 
-We take your contact preferences very seriously. If you would prefer for your details not to be passed to any 3rd parties as laid out in this section, you are advised not to register for the virtual product. 
+Our cookies. We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
 
-## **EMAIL CAPTURE**
+  * to recognize you automatically when you return to any of our web sites or online offerings or registration pages. 
+  * to understand your interests in content, both our own content and that of other companies, on or across our web sites. 
+  * to control access to gated online events including webinars and virtual events. 
+  * to make an automated record of your interests within a virtual event. 
+  * to manage and follow up on email campaigns. 
+  * You may use the tools in your browser to decline, disable, or delete any cookies. 
 
-UBM (UK) Ltd may from time to time send updates about this product and other relevant UBM (UK) Ltd products and services.  Your email will not be given to 3rd parties. By providing your email address you consent to being contacted by email for direct marketing purposes by UBM (UK) Ltd. 
 
-## **MOBILE PHONE CAPTURE**
 
-UBM (UK) Ltd may from time to time contact you about this product and other relevant UBM (UK) Ltd products and services.  By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by UBM (UK) Ltd. 
+You may choose to be recognized automatically when you visit any UBM Tech online property or access any co-branded or sponsored content or opportunity, for example, a webinar. We hope this capability makes your experience with us easier. If you do not enable the automatic recognition cookie, or block it after you have allowed it, you will simply be asked to log in or register on every site and as you access or register to attend any co-branded or sponsored offering.
 
-## **SECURITY OF PERSONAL INFORMATION**
+We use two separate cookies to record your professional interests on our properties. The first records your behavior on our sites and any online offerings, primarily what content you read or download. The second allows us to manage email campaigns and to record your interests in email content. We use these two tracking cookies to tailor the marketing messages we send to you and to begin to personalize what you see when you visit our web sites. If you use your browser tools to block or disable either cookie then we will not be able to tailor your experience to your interests.
 
-We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised  uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else.   
-Payments made via our web sites are processed in a secure environment using software provided by Verifone or other third party providers.   
-We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means. 
+You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
 
-## **MAKING AUTOMATED DECISIONS**
+**Third party advertising cookies**. We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
-We do not ordinarily use personal information for the purposes of automated decision making. However, may do so in order to fulfill compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object. 
+## Third party advertising cookies.
 
-## **ACCESS TO PERSONAL INFORMATION**
+UBM LLC currently allows the following third party ad servers to serve ads on our web pages: AdRoll, ; [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy), and [Google AdSense](http://www.google.com/intl/en/privacy/ads/). Some companies, such as Bizo, Inc. and Google AdSense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
 
-You may renew and update personal information that we hold about you by contacting us as detailed below. 
+We also use data supplied by a third party server, Madison Logic, to send marketing emails tailored to the interests of our registered users in content on websites other than our own. You may opt out of the Madison Logic cookie by using the [mechanism](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) it provides. Your continued use of our web sites will indicate your consent for our use of data collected by Madison Logic for email marketing purposes. 
 
-## **CONTACTING US**
+Each of the third parties that serve ads to or advertising cookies on our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/).
 
-If you have any questions about this privacy policy, you can email at [ubmidpa@ubm.com](mailto:ubmidpa@ubm.com) or write to the Data Protection Co-ordinator, Audience & Data Group, UBM (UK) Ltd, FREEPOST LON 15637, Tonbridge TN9 1BR. Freephone 0800 279 0357. Please note that calls to this number may be recorded and monitored to maintain customer service standards and to assist staff training. 
+We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
 
-## **CHANGES TO PRIVACY POLICY**
+## Disclosure of Information About You
 
-We reserve the right to add to or amend this privacy policy at our sole discretion, without prior notice to you. Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes. 
+We reserve the right to disclose information about you to third parties in certain circumstances: to vendors that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
 
-  **This version of the privacy policy is effective as of 8 th December 2014**
+## Important Information
+
+UBM LLC is a subsidiary of UBM plc.
+
+We collect and process information on servers around the world.
+
+We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
+
+This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
+
+Please note that virtual events may mimic face-to-face events by automatically displaying information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what choices you have within the environment.
+
+Our products, services, events and offerings are directed to professionals. If we create a special offering for children under the age of thirteen, we will also create privacy practices and policies appropriate for that age group.
+
+## Changes
+
+We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
+
+## How to Contact Us
+
+For questions about this Privacy Policy, please contact:
+
+[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com), or
+
+**UBM LLC**   
+Attn: UBM Legal  
+240 West 35th Street, 8th Floor   
+New York, New York, 10001
+
+  * [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
+  * [Contact Us](http://legal.us.ubm.com/contact-us/)
+  * [WebMaster](mailto:webmaster@ubm-us.com)
+
+
