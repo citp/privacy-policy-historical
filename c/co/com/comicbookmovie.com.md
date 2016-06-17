@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231232520id_/http%3A//www.comicbookmovie.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617192331id_/http%3A//www.comicbookmovie.com/about/privacy) for the most accurate reproduction.*
 
 # Comic Book Movie Privacy Policy
 
@@ -48,12 +48,12 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
 
-Consumers can access this information by visiting us at [www.comicbookmovie.com/about-us/contact/](http://www.comicbookmovie.com/about-us/contact/).
+Consumers can access this information by visiting us at [www.comicbookmovie.com/about/contact/](http://www.comicbookmovie.com/about/contact/).
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers.
 
 Consumers can have this information corrected by visiting us at [www.comicbookmovie.com/members/](http://www.comicbookmovie.com/members/).
 
-If you feel that this site is not following its stated information policy, you may contact or Us by visiting our contact page at [www.comicbookmovie.com/about-us/contact/.](http://www.comicbookmovie.com/about-us/contact/)
+If you feel that this site is not following its stated information policy, you may contact or Us by visiting our contact page at [www.comicbookmovie.com/about/contact/.](http://www.comicbookmovie.com/about/contact/)
 
 **We appreciate your trust and readership and thank you for this opportunity to communicate with like-minded fans. Excelsior!**
