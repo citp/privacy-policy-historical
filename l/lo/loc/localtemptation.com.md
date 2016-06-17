@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localtemptation.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926163542id_/http%3A//www.localtemptation.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localtemptation.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617071348id_/http%3A//www.localtemptation.com/site/privacy) for the most accurate reproduction.*
 
 # LocalTemptation - Spice up your life with a discreet encounter!
 
