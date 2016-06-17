@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the particle.io privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222171421id_/https%3A//www.particle.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the particle.io privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617141034id_/https%3A//www.particle.io/privacy) for the most accurate reproduction.*
 
-# Particle (formerly Spark) | Build your Internet of Things
+# Particle | Build your Internet of Things
 
 This privacy policy covers Particle’s collection and treatment of information and data collected when you visit Particle’s Websites or use Particle Services.
 
