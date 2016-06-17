@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airtasker.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005227id_/https%3A//www.airtasker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtasker.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617031958id_/https%3A//www.airtasker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Airtasker.com
+# Privacy Policy | Airtasker
 
 Airtasker Pty Ltd ACN 149 850 457 (“Airtasker” or “We”) manages the information that We collect from you in accordance with all applicable privacy legislation in Australia.
 
@@ -33,8 +33,10 @@ Airtasker may use the information collected by it to provide the Airtasker Servi
 
   * identification and authentication;
   * to protect Airtasker and the users of the Site;
-  * toli customise the content and any advertising displayed on the Site;
+  * to customise the content and any advertising displayed on the Site;
   * to provide, maintain, protect and improve our services;
+  * providing your information to a user with whom you have or had a contract facilitated by Airtasker;
+  * as required by law, order of a court, tribunal or regulator or if Airtasker reasonably believes that the use or disclosure of the information is reasonably necessary for enforcement related activities;
   * to develop new service features;
   * to ensure that Airtasker receives payment of the fees due to it;
   * to contact you (for example, to inform you about upcoming changes or improvements to our services);
@@ -113,4 +115,4 @@ If you have concerns about how We handle your personal information or require fu
 
 Airtasker may, from time to time, modify this Privacy Policy (and update the web page on which it is displayed). Airtasker will send notification of any such modification to your Airtasker account and/or your registered email address. You should check that account regularly.
 
-Airtasker.com ACN 149 850 457. © 2014 All rights reserved.
+Airtasker.com ACN 149 850 457. © 2016 All rights reserved.
