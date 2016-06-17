@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926112811id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617123306id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TermPaperWarehouse.com
 
@@ -90,7 +90,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@termpaperwarehouse.com.
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacyTerm Paper Warehousetermpaperwarehouse.com.
 
 #### Changes
 
