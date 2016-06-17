@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the the-best-apps.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215045306id_/http%3A//www.mobusi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-best-apps.net privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618005945id_/http%3A//www.mobusi.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy for mobusi mobile advertising, SL
+# mobusi - Privacy policy
+
+[](http://www.mobusi.com/)
 
 ## User provided information
 
@@ -8,16 +10,17 @@ When registering for the use of our services you might have to provide us “per
 
 ## Cookies information
 
-Mobusi uses cookies to improve the experience of the users of our site and to provide better services to our advertisers. These may or may not be (depending on the case) persistent cookies. Persistent cookies are those that are still usable once the browser is closed. These cookies are, however, erasable. The instructions to do so differ depending on your browser and operating system. Among the information that can be tracked in our cookies are the ads that have been shown and clicked as well as unique click IDs. Our cookies store information that will never identify any of the user’s personal information or will allow anyone the possibility of accessing that information. More information about cookies ([Spanish](https://web.archive.org/cookies.html))
+Mobusi uses cookies to improve the experience of the users of our site and to provide better services to our advertisers. These may or may not be (depending on the case) persistent cookies. Persistent cookies are those that are still usable once the browser is closed. These cookies are, however, erasable. The instructions to do so differ depending on your browser and operating system. Among the information that can be tracked in our cookies are the ads that have been shown and clicked as well as unique click IDs. Our cookies store information that will never identify any of the user’s personal information or will allow anyone the possibility of accessing that information. More information about cookies ([Spanish](http://www.mobusi.com/cookies.html))
 
 ## Automatic information collection
 
-Mobusi will record some information from your web browser such as your IP (Internet Protocol address), web browser type, Operating System, Language of your Operating system and hour and date among others. To record this information we might use different technologies such as clear gifs or web beacons. This information will only be used to show the user ads that are more relevant to them.     
+Mobusi will record some information from your web browser such as your IP (Internet Protocol address), web browser type, Operating System, Language of your Operating system and hour and date among others. To record this information we might use different technologies such as clear gifs or web beacons. This information will only be used to show the user ads that are more relevant to them. 
 
 ## Domains and services
 
 The above information is relevant to all domains mobusi uses for its operations. Currently that includes the following domains:
 
-     -     Mobusi.com
+  * [mobusi.com](http://www.mobusi.com/)
+  * [leadzu.com](http://www.mobusi.com/)
 
-     -     Leadzu.com
+
