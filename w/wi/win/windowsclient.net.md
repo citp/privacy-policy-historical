@@ -1,113 +1,206 @@
-> *The following text is extracted and transformed from the windowsclient.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624080615id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D248681) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsclient.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617073404id_/https%3A//msdn.microsoft.com/dn529288) for the most accurate reproduction.*
 
-# Microsoft.com Privacy Statement
+# Microsoft Developer Services Privacy Statement
 
-Microsoft.com Privacy Statement 
+Last updated: October 2013
 
-This privacy statement applies to Microsoft.com and Microsoft websites, services and products that collect data and display these terms, as well as their offline product support services. It does not apply to Microsoft sites, services and products that do not display or link to this statement or that have their own privacy statements. 
+Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected through Microsoft Developer Services (the “Services”); it does not apply to other online or offline Microsoft sites, products, or services.
 
-Please read the summaries below and click on "Learn More" for more details on a particular topic. You may also select from the products listed above to view that product's privacy statement. Some products, services or features mentioned in this statement may not be available in all markets. You can find more information on Microsoft's commitment to protecting your privacy at <http://www.microsoft.com/privacy>. 
+## Customer Data
 
-Cookies & Similar TechnologiesCookies
+We will use Customer Data (as defined in your agreement(s) with Microsoft) only to provide you the Services. This may include troubleshooting aimed at preventing, detecting or repairing problems affecting the operation of the Services. It may also include the improvement of features that involve the detection of, and protection against, emerging and evolving threats to users (such as malware or spam).
 
-Most Microsoft websites use "cookies," which are small text files stored on your device, to help operate the sites and collect information about online activity. For instance, we use cookies to store your preferences and settings; help with sign-in; provide targeted ads; combat fraud; and analyze site operations. 
+## Team Members
 
-We also use web beacons to help deliver cookies and compile analytics. These may include web beacons from third-party service providers.
+You may invite others to use the Services (“Team Members”). When Team Members are invited to use the Services, they will be required to accept the applicable Service agreement(s) in order to access and use the Services. This Privacy Statement applies to all who access the Services, including Team Members. You may share information, including Customer Data, with the Team Members. Inviting Team Members is solely at your discretion. You are solely responsible for managing Team Members’ access to Customer Data.
 
-You have a variety of tools to control cookies and similar technologies, including:
+## Account Data
 
-  * Browser controls to block and delete cookies; 
-  * Advertising controls, including Microsoft's controls at <http://choice.live.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads; and 
-  * Controls from some analytics service providers to opt out of data collection through web beacons. 
+Account Data is the contact information you provide as part of signing-up or administrating the Services. For example, Account Data includes name, address, phone, whether collected at sign-up or later during administration of the Services.
 
+We may contact you to provide information for billing and important updates about the Services, including information about security or other technical issues regarding the Services. We may also contact you regarding a third-party inquiry we receive regarding use of the Services. You will not be able to unsubscribe from these communications, as they are considered an essential part of the Services.
 
+With your permission, we may occasionally send you product surveys or promotional mailings to inform you of other products or services available from Microsoft and its affiliates. You can opt-out from receiving newsletters or promotional e-mail anytime by following the steps as described in the respective newsletter or promotional e-mail.
 
-Information We CollectCollecting Your Information
+## Sharing Your Information
 
-Microsoft collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can.
+In addition to any sharing by Microsoft set forth in your agreement(s) with Microsoft, or in this Privacy Statement, Microsoft may share or disclose your information:
 
-We collect information when you register, sign in and use our sites and services. We also may get information from other companies.
-
-We collect this information in a variety of ways, including from web forms, technologies like [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description "cookies"), web logging and software on your computer or other device. 
-
-How We Use Your Personal InformationUsing Your Information
-
-Microsoft uses the information we collect to operate, improve and personalize the products and services we offer.
-
-We also may use the information to communicate with you, for example, informing you about your account and security updates.
-
-And we may use the information to help make the ads you see on our ad-supported services more relevant.
-
-Reasons We Share Your Personal InformationSharing Your Information
-
-We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
-
-Accessing Your Personal InformationAccessing Your Information
-
-Some Microsoft services give you the ability to view or edit your personal information online. To help prevent others from viewing your personal information, you first will be required to sign in. How you can access your personal information will depend on which sites or services you have used.
-
-ChildrenChildren
-
-When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
-
-When consent is granted, the child's account is treated much like any other account, including letting the account holder communicate with other users.
-
-Parents can change or revoke consent as described in this privacy statement.
-
-Display of AdvertisingAdvertising
-
-Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description) in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
-
-**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our**[ **opt-out page**](http://go.microsoft.com/fwlink/?LinkID=286759) **.**
-
-Communication PreferencesCommunications
-
-You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive. Depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional email, telephone calls, and postal mail for particular Microsoft sites or services.
-
-Location Based ServicesLocation Based Services
-
-Certain services or features can use information about your location to provide services you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.  For more information about location based services, please click on “Learn More.”
-
-Support DataSupport Data
-
-Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application from when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files. We use Support Data as described in this privacy statement, and additionally use it to resolve your support incident and for training purposes.
-
-Payment DataPayment Data
-
-Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
-
-Microsoft accountMicrosoft account
-
-Microsoft account is a service that lets you sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service.  We also send some of this information to sites and services that you sign in to with your Microsoft account.
-
-We use demographic information – gender, country, age and postal code but not your name or contact information – from your Microsoft account to provide personalized ads to you. **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **[ **opt-out page**](https://choice.live.com/AdvertisementChoice/). **
-
-To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
-
-Other Important Privacy InformationOther Information
-
- **Learn more about**
-
-  * Protecting the security of personal information 
-  * Where we store and process information 
-  * Changes to our privacy statements 
+    * With your permission or with permission from your Team Members.
+    * With other Microsoft controlled subsidiaries and affiliates, or as part of a corporate transaction such as a merger or sale of assets.
+    * With vendors or agents. Specifically, we may share it with companies we've hired to provide services on our behalf. When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential.
+    * To comply with the law. We will not disclose Customer Data to a third party (including law enforcement, other government entity or civil litigant) except as you direct or required by law. Should a third party contact us with a demand for Customer Data, we will attempt to redirect the third party to request it directly from you. As part of that, we may provide your basic contact information to the third party. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to notify you in advance of a disclosure unless legally prohibited from doing so.
+    * To protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the services.
+    * Act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public.
 
 
 
-**How to Contact Us**
+Please note the Services may include links to third-party services whose privacy practices may differ from those of Microsoft. Your use of such services, and any information you provide to a third party, is governed by their privacy statements. We encourage you to review these third-party privacy statements.
 
-  * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
-  * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
-  * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
-    * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
-    * By Phone: 425-882-8080
-  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+## Security
 
-> Microsoft Ireland Operations, Ltd.  
->  Attn: Data Protection  
->  Carmenhall Road  
->  Sandyford, Dublin 18, Ireland
+Microsoft is committed to helping protect the security of your information. We use a variety of security technologies and procedures to help protect your information from unauthorized access, use, or disclosure. For example, we store the information you provide on computer systems with limited access, which are located in controlled facilities.
 
-  * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
+## Other Information
+
+### Data Location
+
+Except as otherwise specified in this privacy statement, data may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit [ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+
+### Usage Data and Analytics
+
+We may use aggregated statistical data, trends and usage information derived from your use of the Services for the purpose of providing, operating, maintaining or improving the Services as well as any Microsoft products and services.
+
+### Authentication Services
+
+In order to access the Services, you or your end users may be required to sign in using a Microsoft Account. Use of Microsoft Account is subject to the privacy statement set forth at [ http://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspMicrosoftAccountModule&amp;View=description](https://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspMicrosoftAccountModule&View=description).
+
+### Changes to this Privacy Statement
+
+We will occasionally update our privacy statements to reflect customer feedback and changes in our Services. When we post changes to a statement, we will revise the "last updated" date at the top of the statement. If there are material changes to the statement or in how Microsoft will use your personal information, we will notify you either by posting a notice of such changes before they take effect or by directly sending you a notification. We encourage you to periodically review the privacy statements for the products and services you use to learn how Microsoft is protecting your information.
+
+### How to Contact Us
+
+Microsoft welcomes your comments. If you believe that Microsoft is not adhering to its privacy or security commitments, please contact us at vspriv@microsoft.com.
+
+Visual Studio Privacy   
+Microsoft Corporation   
+Microsoft Way   
+Redmond, Washington, 98052-6399 USA
+
+## Cookies
+
+Most Microsoft web sites use "cookies," which are small text files placed on a device’s hard disk by a web server. We may use cookies for:
+
+  * Storing your Preferences and Settings. When a user enters a city or postal code to get local news or weather information on a Microsoft site, we may store that city or postal code in a cookie. This can save time by eliminating the need to repeatedly enter the same information.
+  * Sign-in, Authentication, and Fraud Detection. When a user signs in to a site or service using a Microsoft or organizational account, we store the user’s unique ID number and sign-in time, in an encrypted cookie on the user’s hard disk. This cookie allows the user to move from page to page at the site without having to sign in again on each page. When the user signs out, these cookies are deleted from the user’s computer. We also use cookies to improve the sign-in experience. For example, a user’s email address may be stored in a cookie that will remain on his or her computer after sign out. This cookie allows the user’s email address to be pre-populated, so that the user will only need to type the password at the next sign in. Users who do not want this information to be stored can select the appropriate radio button on the sign-in page.
+  * Site Analytics. We may use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our sites and services. These analytics help us operate and improve the performance and usability of these sites and services.
+  * Advertising. Most of the online advertisements on Microsoft sites are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own websites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you.
+
+
+
+Some of the cookies we commonly use are listed in the following chart. This list is not exhaustive, but it is intended to illustrate some of the reasons we set cookies. If you visit one of our web sites, the site may set some or all of the following cookies:
+
+* * *
+
+Cookie name
+
+|  | 
+
+* * *
+
+Description  
+  
+---|---|---  
+  
+* * *
+
+MUID
+
+|  | 
+
+* * *
+
+Identifies unique browsers to Microsoft sites. It is used for site analytics and other operational purposes.  
+  
+* * *
+
+TenantId
+
+|  | 
+
+* * *
+
+Cookie for Storing the Tenant ID  
+  
+* * *
+
+SessID
+
+|  | 
+
+* * *
+
+Sets a unique ID identifying the user session. . It is used for site analytics and other operational purposes.  
+  
+* * *
+
+CC
+
+|  | 
+
+* * *
+
+Contains a country code as determined by reverse IP address lookup.  
+  
+* * *
+
+Microsoft account authentication
+
+|  | 
+
+* * *
+
+Authentication cookies (e.g., IntuneID, wsresult, ) used when a user signs in with an organizational account.  
+  
+* * *
+
+RedirectToFullSite
+
+|  | 
+
+* * *
+
+Cookie that stores if the user would like to view the full site instead of the mobile site  
+  
+In addition to the cookies Microsoft may set when you users visit our web sites, third parties may also set certain cookies on your hard drive when users you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics.
+
+### How to Control Cookies
+
+Browser Controls to Block Cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.
+
+For example, in Internet Explorer 9, you may block cookies by taking the following steps:
+
+  1. Click "Tools" and then select "Internet Options"
+  2. Click the "Privacy" tab at the top of the window
+  3. Move the slider up or down to select the types of cookies you wish to block
+
+
+
+Instructions for blocking cookies in other browsers are available at [ http://www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).
+
+Please be aware that users who choose to block cookies may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies.
+
+Browser Controls to Delete Cookies. If you accept cookies, you can delete them later.
+
+For example, in Internet Explorer 9, you may delete cookies by taking the following steps:
+
+  1. Click "Tools" and then select "Internet Options"
+  2. On the "General" tab, under "Browsing History," click the "Delete" button
+  3. On the pop-up, select the box next to “Cookies”
+  4. Click the "Delete" button
+
+
+
+Instructions for deleting cookies in other browsers are available at [ http://www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).
+
+Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
+
+Browser Controls for “Do Not Track” and Tracking Protection. Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
+
+Internet Explorer 9 and later has a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit. For more information about Tracking Protection Lists and how to find them, please see the Internet Explorer privacy statement or Internet Explorer Help.
+
+Our Use of Web Beacons
+
+Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used for fraud detection, to help deliver cookies on our sites, let us count users who have visited those pages and deliver co-branded services. We may include web beacons in our promotional email messages or newsletters to determine whether messages have been opened and acted upon.
+
+Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics. These web beacons may allow the third parties to set or read a cookie on your computer. We prohibit third parties from using web beacons on our sites to collect or access your personal information. Nevertheless, users may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:
+
+  * KISSMetrics: [ http://www.kissmetrics.com/user-privacy](http://www.kissmetrics.com/user-privacy)
+  * Omniture (Adobe): [ http://www.d1.sc.omtrdc.net/optout.html](http://www.d1.sc.omtrdc.net/optout.html)
+  * Nielsen: [ http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices)
+  * Coremetrics: [ http://www.coremetrics.com/company/privacy.php#optout](http://www.coremetrics.com/company/privacy.php#optout)
+  * Visible Measures: [ http://corp.visiblemeasures.com/viewer-settings](http://corp.visiblemeasures.com/viewer-settings)
+  * Google Analytics: [ http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout) (requires you to install a browser add-on)
 
 
