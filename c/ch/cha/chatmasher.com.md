@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatmasher.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217035222id_/http%3A//chatmasher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatmasher.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617054507id_/http%3A//chatmasher.com/privacy) for the most accurate reproduction.*
 
 # ChatMasher - Privacy Policy
 
@@ -90,4 +90,4 @@ We may occasionally update this Privacy Policy. When we do, we will indicate the
 
 11.Contacting ChatMasher.
 
-If you have any questions regarding this Privacy Policy, please [contact us by clicking here](http://chatmasher.com/contactus/)
+If you have any questions regarding this Privacy Policy, please [contact us by clicking here](http://chatmasher.com/contact/)
