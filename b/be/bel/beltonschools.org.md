@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beltonschools.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226073742id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beltonschools.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617054119id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy / Privacy policy
 
