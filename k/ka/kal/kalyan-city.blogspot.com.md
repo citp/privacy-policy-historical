@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the kalyan-city.blogspot.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207095026id_/http%3A//kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html%23Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalyan-city.blogspot.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617164428id_/http%3A//kalyan-city.blogspot.com/2012/09/disclaimer-and-privacy-policy-of-kalyan.html%23Privacy_policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy of Kalyan City Life Blog
+
+  
+
 
 ##  **Disclaimer of blog**
 
