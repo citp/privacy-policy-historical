@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wishpond.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619060955id_/http%3A//corp.wishpond.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishpond.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617144923id_/https%3A//www.wishpond.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wishpond
 
 ### Our Commitment to Privacy
 
@@ -8,9 +8,12 @@ At Wishpond, we heavily respect and protect your privacy. This policy explains o
 
 ### What information do we collect?
 
-We collect information from you when you register on our site or subscribe to our newsletter. When registering on our site, you may be asked to enter your e-mail address. However, you may visit our site anonymously.  
-In addition, we use your public IP address to detect your location.  
-When a customer enters a promotion or interacts with a social application and agrees to allow Wishpond to access their Facebook information, Wishpond collects this data.  
+We collect information from you when you register on our site or subscribe to our newsletter. When registering on our site, you may be asked to enter your e-mail address. However, you may visit our site anonymously.
+
+In addition, we use your public IP address to detect your location.
+
+When a customer enters a promotion or interacts with a social application and agrees to allow Wishpond to access their Facebook information, Wishpond collects this data.
+
 Additionally, when an Account Holder uploads products or contest data to use in Wishpond Services, Wishpond retains this data.
 
 ### What do we use your information for?
@@ -50,7 +53,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contact Us
 
-If there are any questions regarding this privacy policy you may contact us at [info@wishpond.com](mailto:info@wishpond.com)
+If there are any questions regarding this privacy policy you may contact us at [info@wishpond.com](mailto:support@wishpond.com)
 
 ### Last Updated
 
