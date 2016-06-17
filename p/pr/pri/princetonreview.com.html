@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the princetonreview.com privacy policy that was archived on 2015-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114152307id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the princetonreview.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617173811id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" style=""><head>
 	<title>The Princeton Review Privacy Policy | The Princeton Review</title>
+
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7656474/727928/css/fonts.css">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="The Princeton Review Privacy Policy">
@@ -15,11 +17,11 @@
 	<link rel="canonical" href="http://www.princetonreview.com/privacy">
 
 	
-	<link href="/bundles/third-party.css?v=uEyNPQCU06QzuLrQvEZEZIJqwZo13G62sgs7wTbrQ0g1" rel="stylesheet">
+	<link href="/bundles/third-party.css?v=LQAtTazchfTv5BAcATWmcBjFxp5sCxPPS02FqshvdN41" rel="stylesheet">
 	
-	<link href="/bundles/base.css?v=ZtgATqLWaXvRcJHWBUTKWxHdkNiYOx03IBG73q4yJ5E1" rel="stylesheet">
+	<link href="/bundles/base.css?v=GRBeV4oPswSrOKSxJ_GqRExIM5p3F1bfcb7W095gxHU1" rel="stylesheet">
 
-	<link href="/bundles/www.css?v=38ZFA9FNDeNG-DrTeiXpqY19x2Zz6gYFmZaWQwEfM2M1" rel="stylesheet">
+	<link href="/bundles/www.css?v=5P2DM0rZkPHMmJ_QmxSdfH5JvA8NiJW_FJ7EmngdkOo1" rel="stylesheet">
 
 	
 	
@@ -45,7 +47,7 @@
 	<!--<![endif]-->
 
 	
-	<script src="/bundles/misc.js?v=SCJHlH2pxL-4WufrldvnQ-95o6xSihTOhFvvBtHYe4k1"></script>
+	<script src="/bundles/misc.js?v=HaZdDsdixLhpEcmA8VYmeqvZbKwTwsivE52Ha6t_-CI1"></script>
 
 	<script type="text/javascript">
 		$.cookie.defaults = {
@@ -56,16 +58,18 @@
 		
 		$.tpr.logging.init({
 			apiUrl: 'http://tpr-api.princetonreview.com',
-			server: 'DALPRDWEB03',
+			server: 'DALPRDWEB02',
 			application: 'IacEdu.TPR.WWW',
 			protocol: 'http',
 			pageId: '177',
-			pageVersion: '4',
-			ceId: ''
+			pageVersion: '7',
+			ceId: '',
+			application: 'IacEdu.TPR.WWW'
 		});
 
 		$.tpr.global.init({
-			wwwUrl: 'http://www.princetonreview.com'
+			wwwUrl: 'http://www.princetonreview.com',
+			secureUrl: 'https://secure.princetonreview.com'
 		});
 
 		$.tpr.abTest.init({
@@ -116,7 +120,7 @@
 	<div class="navbar-top">
 		<div class="container">
 			<a class="navbar-brand" href="http://www.princetonreview.com"></a>
-			<span class="hidden-xs" style="margin-left:157px;">1-800-2REVIEW <span class="hidden-sm">(800-273-8439)</span></span>
+			<span class="hidden-xs text-primary" style="margin-left:147px; font-size:14px;"><span class="hidden-sm">Questions? Call </span><b><a href="tel:1-800-273-8439"><span class="hidden-sm">1-</span>800-273-8439</a></b></span>
 			<ul class="list-inline pull-right hidden-print">
 				
 				<li class="hidden-xs">
@@ -127,20 +131,23 @@
 								<input id="searchSiteButton" type="button" value="Search" class="btn btn-default">
 							</span>
 						</div>
-						<a href="#" id="searchSiteHref">Search Site <i class="fa fa-search"></i></a>
+						<a href="#" id="searchSiteHref"><i class="fa fa-search"></i> Search Site</a>
 					</div>
 				</li>
-				<li class="separator">&nbsp;</li>
+				<li id="registerSeparator" class="separator">&nbsp;</li>
 
 				
-				<li id="studentToolsItem" class="hidden-xs">
-					<a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/signin/?modal=1&amp;go=https%3a%2f%2fsecure.princetonreview.com%2faccount">Student Tools</a>
+				<li class="hidden-sm hidden-md hidden-lg">
+					<a href="tel:18775327630"><i class="fa fa-phone"></i></a>
 				</li>
+				<li class="separator hidden-sm hidden-md hidden-lg">&nbsp;</li>
 
 				
 				<li id="registerItem" class="hidden-xs">
 					<a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/register/?modal=1" data-height="630" data-register="1">Register</a>
 				</li>
+
+				<li class="separator hidden-xs">&nbsp;</li>
 
 				
 				<li id="signInItem">
@@ -166,8 +173,22 @@
 
 				
 				<li>
-					<a href="https://secure.princetonreview.com/purchase/cart"><i class="fa fa-shopping-cart"></i><span class="hidden-xs">&nbsp;Cart</span><span id="cartItemsCount"></span></a>
+					<a href="https://secure.princetonreview.com/purchase/cart"><i class="fa fa-shopping-cart"></i><span class="hidden-xs">&nbsp;Cart</span><span id="cartItemsCount" class="hidden-xs"></span></a>
 				</li>
+
+				<li class="separator hidden-xs">&nbsp;</li>
+
+				
+				<li class="hidden-xs">
+					<a href="http://www.princetonreview.com/promo" style="color:red;"><b>SALE</b></a>
+				</li>
+
+				
+				<li class="separator hidden-xs">&nbsp;</li>
+				<li id="studentToolsItem" class="hidden-xs bold">
+					<a class="btn btn-default" style="padding:4px 8px" id="studentToolsItemHref" href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/signin/?modal=1&amp;go=https%3a%2f%2fsecure.princetonreview.com%2faccount">Student Tools</a>
+				</li>
+
 
 				
 				<li class="separator hidden-sm hidden-md hidden-lg">&nbsp;</li>
@@ -187,7 +208,7 @@
 				<ul class="nav navbar-nav row" id="siteHeaderNav" style="visibility: visible;">
 					
 					
-					<li class="dropdown col-sm-4 padding-none" id="testPrepNav">
+					<li class="dropdown padding-none col-md-3" id="testPrepNav">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Test Prep &nbsp;<img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown"></a>
 						<ul class="dropdown-menu test-nav" role="menu">
 							<li class="section">
@@ -199,7 +220,7 @@
 							</li>
 							<li>
 								<div class="test-row">
-									<div class="col-xs-4"><a id="satHeaderHref" href="http://www.princetonreview.com/college/sat-test-prep">SAT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/sat-test-prep">SAT</a></div>
 									<div class="col-xs-4"><a href="http://www.princetonreview.com/grad/gre-test-prep">GRE</a></div>
 									<div class="col-xs-4"><a href="http://www.princetonreview.com/k12/ssat-test-prep">SSAT</a></div>
 								</div>
@@ -255,17 +276,98 @@
 							//-->
 						</ul>
 					</li>
-					<li class="dropdown col-sm-4 padding-none" id="collegeAdmissionsNav">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-xs hidden-sm hidden-md">College &amp; Grad</span> Admissions &nbsp; <img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown"></a>
-						<ul class="dropdown-menu" role="menu">
-							<li><a href="http://www.princetonreview.com/college-education">Find a College</a></li>
-							<li><a href="http://www.princetonreview.com/grad-school">Find a Grad School</a></li>
-							<li><a href="http://www.princetonreview.com/college-admissions/get-accepted">College Admissions Counseling</a></li>
-							<li style="display:none;" id="collegeAdviceItem"><a href="http://www.princetonreview.com/college-advice">College Advice</a></li>
-							<li><a href="http://www.princetonreview.com/college-major-search">Search Majors<span class="hidden-sm">, Grad Programs</span> &amp; Careers</a></li>
+					<li class="dropdown padding-none private-tutoring-navigation-show col-md-3" style="">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-xs hidden-sm hidden-md">Private</span> Tutoring <img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown"></a>
+						<ul class="dropdown-menu test-nav" role="menu">
+							<li class="section">
+								<div class="row">
+									<div class="col-xs-4">College</div>
+									<div class="col-xs-4">Graduate</div>
+									<div class="col-xs-4">K-12</div>
+								</div>
+							</li>
+							<li>
+								<div class="test-row">
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/sat-tutoring">SAT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/grad/gre-tutoring">GRE</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/k12/ssat-tutoring">SSAT</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="test-row">
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/act-tutoring">ACT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/business/gmat-tutoring">GMAT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/k12/shsat-tutoring">SHSAT</a></div>									
+								</div>
+							</li>
+							<li>
+								<div class="test-row">
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/ap-tutoring" class="long-text">AP Exams</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/law/lsat-tutoring">LSAT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/k12/isee-tutoring">ISEE</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="test-row">
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/sat_subject-tutoring" class="long-text">SAT Subjects</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/medical/mcat-tutoring">MCAT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/k12/toefl-test-prep">TOEFL</a></div>
+								</div>
+							</li>
+							<li>
+								<div class="test-row">
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/college/psat-tutoring">PSAT</a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/medical/dat-tutoring">DAT</a></div>
+									<div class="col-xs-4"><a class="cart"></a></div>
+								</div>
+							</li>
+							<li>
+								<div class="test-row">
+									<div class="col-xs-4"><a class="cart"></a></div>
+									<div class="col-xs-4"><a href="http://www.princetonreview.com/medical/oat-tutoring">OAT</a></div>
+									<div class="col-xs-4"><a class="cart"></a></div>
+								</div>
+							</li>
+							<li id="privateTutoringTestPrepDropdown" style="display:none;">
+								<div class="test-row" style="border-top: solid 1px #ccc;text-align: center;">
+									<a href="http://www.princetonreview.com/test-prep-tutors">Private Tutoring</a>
+								</div>
+							</li>
+							<!--
+							<li>
+								<div class="row test-row">
+									<div class="col-sm-4"></div>
+									<div class="col-sm-4"></div>
+									<div class="col-sm-4"></div>
+								</div>
+							</li>
+							//-->
 						</ul>
 					</li>
-				<li class="dropdown col-sm-4 padding-none" id="academicTutoringNav" style="display: none;">
+					<li class="dropdown padding-none col-md-3" id="collegeAdmissionsNav">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="hidden-xs hidden-sm hidden-md private-tutoring-navigation-hide" style="display: none;">College &amp; Grad</span> Admissions &nbsp;<img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown"></a>
+						<ul class="dropdown-menu test-nav" role="menu">
+							<li><a href="http://www.princetonreview.com/college-education">Find a College</a></li>
+							<li><a href="http://www.princetonreview.com/grad-school">Find a Grad School</a></li>
+							<li><a href="http://www.princetonreview.com/college-admissions/college-counseling">College Admissions Counseling</a></li>
+							
+							<li><a href="http://www.princetonreview.com/college-major-search">Search Majors<span class="hidden-sm">, Grad Programs</span> &amp; Careers</a></li>
+                            <li><a href="http://www.princetonreview.com/college-advice">College Advice</a></li>
+						</ul>
+					</li>
+					<li class="dropdown padding-none private-tutoring-navigation-show col-md-3" style="">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<span>Homework Help</span>
+							&nbsp;<img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown">
+						</a>
+						<ul class="dropdown-menu test-nav" role="menu">
+							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Find a Tutor <span class="hidden-md hidden-sm hidden-xs"> - <b style="color:#8bc440;font-weight:500;">Try a Free Session!</b></span></a></li>
+							<li><a href="http://www.princetonreview.com/academic-tutoring/pricing" class="dropdown-toggle academic-tutoring-launcher">Pricing</a></li>
+							<li><a href="http://www.princetonreview.com/academic-tutoring/subjects" class="dropdown-toggle">Subjects</a></li>
+							<li><a href="http://www.princetonreview.com/academic-tutoring/how-it-works" class="dropdown-toggle">How it Works</a></li>
+						</ul>
+					</li>
+				<li class="dropdown padding-none col-md-3" id="academicTutoringNav" style="display: none;">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 							<span id="academicTutoringNavText0" class="atNavItem"><span class="hidden-xs hidden-sm">Academic</span> Tutoring</span>
 							<span id="academicTutoringNavText1" class="atNavItem" style="display:none;">Homework Help</span>
@@ -276,14 +378,14 @@
 							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Homework Help Right Now</a></li>
 							<li><a href="http://www.princetonreview.com/academic-tutoring/tutor-search" class="dropdown-toggle academic-tutoring-launcher">Find a Tutor</a></li>
 						</ul>
-					</li><li class="dropdown col-sm-4 padding-none" id="academicTutoringNav2" style="">
+					</li><li class="dropdown padding-none private-tutoring-navigation-hide col-md-3" id="academicTutoringNav2" style="display: none;">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 							<span>Tutoring</span>
 							&nbsp;<img src="/Content/Images/Icons/arrowdown.png" class="nav-arrowdown">
 						</a>
 						<ul class="dropdown-menu" role="menu">
 							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">All Subjects</a></li>
-							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Online Tutoring - <b style="color:#8bc440;font-weight:700;">Try a Free Homework Session!</b></a></li>
+							<li><a href="http://www.princetonreview.com/academic-tutoring" class="dropdown-toggle academic-tutoring-launcher">Online Tutoring</a></li>
 							<li><a href="http://www.princetonreview.com/test-prep-tutors" class="dropdown-toggle">Test Prep</a></li>
 						</ul>
 					</li></ul>
@@ -307,19 +409,13 @@
 
 	$('#siteHeaderNav').css('visibility', 'visible');
 
-	/* 17008 A/B Split Test: Determining ideal Rate Card destination for SAT from top nav or index hero section- Control: SAT v T1: New SAT */
-	$.tpr.abTest.getSplit({
-		testName: 'RateCardDestinationSATOrNewSAT',
-		versionFunc: function (result) {
-			if (result == '1') {
-				var h = $('#satHeaderHref').attr('href');
-
-				$('#satHeaderHref').attr('href', h.replace('sat-test-prep', 'sat_2016-test-prep'));
-			}
-		}
-	});
-
+	/* WAS 17008 A/B Split Test: Determining ideal Rate Card destination for SAT from top nav or index hero section- Control: SAT v T1: New SAT */
 	
+	/* WAS 19170 AB Split Test: Navigation with Private Tutoring section */
+	$('ul.navbar-nav > li').removeClass('col-sm-4');
+	$('ul.navbar-nav > li').addClass('col-md-3');
+	$('.private-tutoring-navigation-show').show();
+	$('.private-tutoring-navigation-hide').hide();
 </script>
 <!-- validation -->
 
@@ -338,7 +434,7 @@
 <!--
 Content Item Id: 160 
 Content Item Description: Legal - Privacy 
-Content Item Version : 4
+Content Item Version : 7
 BEGIN-->
 <p></p>
 <h3>The Princeton Review Privacy Policy</h3>
@@ -361,7 +457,7 @@ BEGIN-->
 <h4>For Parents of children under the age of 13:</h4>
 <p>For any user under the age of 13, we must have permission from such user’s parent or legal guardian before we collect or use any Personal Information of such user. You are welcome to call us at (800) 411-1970 to review any Personal Information we have collected about your child. You may request that we delete this information and/or specify that we collect no more of your child’s information. We will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child’s parent or legal guardian.</p>
 <h3>Right to Opt In and Opt Out</h3>
-<p>You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information. For example, you may elect not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes. You may make this request by at “My Communication Preference “ and indicating which correspondence you would like to receive. If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the <a href="http://www.princetonreview.com/registration/#/profile">My Communication Preferences </a>.</p>
+<p>You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information. For example, you may elect not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes. You may make this request by visiting "Account Settings" and indicating which correspondence you would like to receive. If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the <a href="https://secure.princetonreview.com/account/logininfo">Account Settings </a>.</p>
 <p>You can also send an e-mail to <a href="mailto:prep@review.com"> prep@review.com </a>. In this e-mail, please say whether: (i) you would like to opt-out of receiving all e-mail promotional correspondence from The Princeton Review in general or (ii) if you would only like to opt-out of certain of The Princeton Review's e-newsletters or correspondence and if so which ones or (iii) you would like to opt-out of having your Personal Information shared with third parties or (iv) you would like to opt-out of receiving SMS or text messages. You may also opt-out of The Princeton Review's promotional e-mails by clicking on an opt-out link within the e-mail you receive.</p>
 <p>Please understand that if you opt-out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.</p>
 <p>We may allow third-parties, including other companies owned by our parent company IAC/InterActiveCorp, advertising companies and ad networks, to display advertisements on our Site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. These third parties may collect information about whether you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ( <a href="http://www.networkadvertising.org"> www.networkadvertising.org </a>). You may opt out of our collection of data for use by third party ad companies to provide targeted advertising to you of our products as you visit other sites. Cookies are unique to each computer. Therefore, you must opt out separately on all computers you use. If you delete all of your cookies (specifically, the “Out-Out” cookie), you will have to go through the opt-out process again to reactivate your opted-out status.</p>
@@ -389,10 +485,11 @@ BEGIN-->
 <li>perform functions as otherwise described to you at the time of collection, and</li>
 <li>register you with and display your profile on other education sites owned by our parent company, IAC/InterActiveCorp.</li>
 </ul>
+<p>Please note that if you save a school into your “school planner,” then we may share your contact information with that particular school and other schools that are interested in you to enable them to contact you.</p>
 <h4>Schools and Tutors</h4>
 <p>The Princeton Review works with schools and institutions to provide programs such as tutoring, test preparation and college counseling. Your school, district or state may arrange for your participation in these programs and may purchase (or subsidize) products on your behalf. We may share the Personal Information that you provide to us through your participation in these school programs with your school, district and your parents. In addition, your school may require us to share your information with others legally entitled to access your academic records, such as your state department of education. This may include the content of on-demand tutoring sessions as well as comments you leave in post-session surveys.</p>
 <h4>Service Providers</h4>
-<p>We may share your Personal Information with vendors and other third parties who help deliver our products and services. These third parties are not authorized by us to use your Personal Information in any other way.</p>
+<p>We may share your Personal Information with vendors and other third parties who help deliver our products and services. These third parties are not authorized by us to use your Personal Information in any other way. However, as noted above, if you save a specific school into your “school planner,” then we may share your contact information with that school and other schools that are interested in you to enable them to contact you.</p>
 <h4>Aggregated and non-Personal Information.</h4>
 <p>We may share non-Personal Information we collect under any of the above circumstances. We may also share it with other IAC companies and third parties to develop and deliver targeted advertising on our websites and on websites of third parties, and to analyze and report on advertising you see. We may combine Site usage information we collect with other non-Personal Information we obtain from other sources. We also may share aggregated, non-Personal Information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis.</p>
 <h4>Your Access Rights</h4>
@@ -412,8 +509,8 @@ BEGIN-->
 <p>If you have any questions or comments regarding our privacy practices, you may use our feedback form or at the following address:</p>
 <p>TPR Education, LLC d/b/a The Princeton Review <br> 24 Prime Parkway, Suite 201 <br> Natick, MA 01760</p>
 <h3>Addendum for Users Outside of the United States and Canada:</h3>
-<p>You may request that we delete personal information collected from you at the Site by sending an email to <a href="mailto:prep@review.com">prep@review.com</a> requesting such deletion.&nbsp; Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.</p>
-<p class="strong"><i>Effective Date: October 9, 2015 </i></p>
+<p>You may request that we delete personal information collected from you at the Site by sending an email to <a href="mailto:prep@review.com">prep@review.com </a> requesting such deletion.&nbsp; Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.</p>
+<p class="strong"><i>Effective Date: June 10, 2016 </i></p>
 <!--END Content Item Id: 160 -->
 
 </div>
@@ -423,39 +520,116 @@ BEGIN-->
 
 
 
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12">
+			<p class="disclaimer-copy"></p>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+	//short-circuit for items containing "sat"
+	if (window.location.href.indexOf('psat-') > -1) {
+		$('.disclaimer-copy').append('PSAT/NMSQT is a registered trademark of the College Board and the National Merit Scholarship Corporation. ');
+	}
+	else if (window.location.href.indexOf('lsat-') > -1) {
+		$('.disclaimer-copy').append('LSAT is a registered trademark of the Law School Admission Council (LSAC), which is not affiliated with The Princeton Review. ');
+	}
+	else if (window.location.href.indexOf('ssat-') > -1) {
+		$('.disclaimer-copy').append('SSAT is a registered trademark of Secondary School Admissions Test Board, Inc., which is not affiliated with The Princeton Review. ');
+	}
+	else if (window.location.href.indexOf('sat-') > -1) {
+		$('.disclaimer-copy').append('SAT is a registered trademark of the College Board, which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('sat_subject') > -1) {
+		$('.disclaimer-copy').append('SAT Subject Tests&trade; is a trademark of the College Board, which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('isee-') > -1) {
+		$('.disclaimer-copy').append('ISEE is a registered trademark of Educational Records Bureau Corporation, which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('toefl-') > -1) {
+		$('.disclaimer-copy').append('TOEFL is a registered trademark of Educational Testing Services, which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('act-') > -1) {
+		$('.disclaimer-copy').append('ACT is a registered trademark of ACT, Inc., which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('mcat-') > -1) {
+		$('.disclaimer-copy').append('MCAT is a registered trademark of the Association of American Medical Colleges (AAMC), which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('gmat-') > -1) {
+		$('.disclaimer-copy').append('GMAT is a registered trademark of the Graduate Management Admission Council (GMAC), which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('gre-') > -1) {
+		$('.disclaimer-copy').append('GRE is a registered trademark of the Educational Testing Service (ETS), which is not affiliated with The Princeton Review. ');
+	}
+
+	if (window.location.href.indexOf('ap-') > -1) {
+		$('.disclaimer-copy').append('AP and Advanced Placement Program are registered trademarks of the College Board, which is not affiliated with The Princeton Review. ');
+	}
+});
+</script>
 
 <!-- footer -->
 <div class="footer">
 	<div class="container-fluid footer-top">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-1 footer-brand hidden-print hidden-xs"></div>
-				<div class="col-sm-11 col-xs-12">
-					<div class="footer-item-container">
-						<div class="footer-item">
-							<p class="category">Call Us at</p>
-							<p class="tel hidden-xs">1-800-2REVIEW<span class="hidden-sm"> (800-273-8439)</span></p>
-							<p class="tel hidden-sm hidden-md hidden-lg"><a href="tel:8775327630">1-877-LEARN-30</a></p>
-						</div>
-						<div class="footer-item">
-							<p class="category">Talk to an Advisor</p>
-							<p>Mon-Fri 9AM-10PM EST | Sat-Sun 10AM-6PM EST</p>
-						</div>
-						<div class="footer-item">
-							<p class="category">Local Offices</p>
-							<p>Mon-Fri 9AM-6PM</p>
-						</div>
-						<div class="footer-item hidden-print">
-							<p class="category">Help</p>
-							<p>
-								<span class="hidden-xs"><a href="javascript:void(0);" class="show-chat">Live Chat</a> |</span> <a href="http://www.princetonreview.com/help/online-help">FAQ</a>
-							</p>
-						</div>
-						<div class="footer-item hidden-print">
-							<p class="category">Register Book</p>
-							<p>
-								<a id="registerBook" href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/Util/RegisterBook/?modal=1">Enter ISBN #</a>
-							</p>
+				<div class="footer-item-container">
+					<div class="col-md-2 hidden-sm hidden-xs">
+						<div class="footer-brand"></div>
+					</div>
+					<div class="col-md-10 col-sm-12">
+						<div class="row">
+							<div class="col-sm-3">
+								<div class="footer-item">
+									<p class="category">Talk to an Advisor</p>
+									<p class="hidden-xs">1-800-2REVIEW<span class="hidden-sm"> (800-273-8439)</span></p>
+									<p class="hidden-sm hidden-md hidden-lg"><a href="tel:8775327630">1-877-LEARN-30</a></p>
+									<p><a href="javascript:void(0);" class="show-chat">Live Chat</a></p>
+									<p><a href="http://www.princetonreview.com/help/online-help">FAQ</a></p>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="footer-item">
+									<p class="category">Hours</p>
+									<p>Phone: Mon-Fri 8AM-11PM EST</p>
+									<p>Sat-Sun 9AM-8PM EST</p>
+									<br class="hidden-xs">
+									<p><a href="http://www.princetonreview.com/locations">Local Offices:</a> Mon-Fri 9AM-6PM</p>
+								</div>
+							</div>
+							<div class="col-sm-2">
+								<div class="footer-item">
+									<p class="category">Partnerships</p>
+									<p><a href="http://www.princetonreview.com/college-readiness">College Readiness</a></p>
+									<p><a href="http://www.princetonreview.com/international/locations">International</a></p>
+									<p><a href="http://www.princetonreview.com/corporate/advertise-with-us">Advertising</a></p>
+									<p><a href="http://www.princetonreview.com/corporate/partnerships">Affiliate/Other</a></p>
+								</div>
+							</div>
+							<div class="col-sm-4 col-lg-3">
+								<div class="footer-item hidden-print">
+									<p class="category">Register Book</p>
+									<form id="registerBookForm" novalidate="novalidate">
+									<div class="input-group">
+										<input type="text" class="form-control" placeholder="Enter ISBN #" id="txtISBN13" name="txtISBN13" data-val-required="ISBN # is required" data-val="true" data-msg-maxlength="Please specify valid ISBN#" data-rule-maxlength="13" data-msg-minlength="Please specify valid ISBN#" data-rule-minlength="13">
+										<span class="input-group-btn">
+											<button class="btn btn-default btn-primary" id="registerBookButton" type="button">Go</button>
+										</span>
+									</div>
+									<span data-valmsg-replace="true" data-valmsg-for="txtISBN13" class="text-left help-block field-validation-valid"></span>
+									</form>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -565,8 +739,17 @@ BEGIN-->
 					<p class="footer-privacy"><a href="http://www.princetonreview.com/privacy">Privacy</a> | <a href="http://www.princetonreview.com/terms">Terms of Use</a> | <a href="http://www.princetonreview.com/site-map">Site Map</a></p>
 				</div>
 				<div class="col-md-12 text-center">
-					<p class="footer-copy">©2015 TPR Education IP Holdings, LLC. All Rights Reserved. The Princeton Review is not affiliated with Princeton University</p>
+					<p class="footer-copy">©2016 TPR Education IP Holdings, LLC. All Rights Reserved. The Princeton Review is not affiliated with Princeton University</p>
 				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="phone-footer-container hidden-lg hidden-md hidden-sm">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<a class="btn btn-primary btn-block btn-yellow" href="tel:1-877-53276-30"><i class="fa fa-phone"></i>&nbsp;Call Now for More Info!</a>
 			</div>
 		</div>
 	</div>
@@ -597,16 +780,16 @@ BEGIN-->
 	
 	<script src="/bundles/jquery-validate.js?v=UP89ylIjlxdqligtAuAkIAKVErH8TPQ-a5eYwvuE_z01"></script>
 
-	<script src="/bundles/jquery-validate-unobtrusive.js?v=nmopKmVWA_k-qs4lDOouCNWZ87TKrbYD-ZQIF5NM_Tw1"></script>
+	<script src="/bundles/jquery-validate-unobtrusive.js?v=v7DMA0Fvk-DnIEBHcRYFCwjTY5P4CBlMGylnCqIpx4Q1"></script>
 
-	<script src="/bundles/bootstrap.js?v=z7zbC2bs4Toua1VFjxpxKBKHKQ2z0L0eo0hfYW8qPGc1"></script>
+	<script src="/bundles/bootstrap.js?v=rXI9fKdCvY293ZJSjkd8MiE1B-JPCqVcNiuY9r9mSTI1"></script>
 
 	<script src="/bundles/newsbox.js?v=0v37ZrSWjPABvjmRTXDlo_avckp6CfcMdL8MmszGF2o1"></script>
 
 
 	<script type="text/javascript">
+		
 		$.tpr.logging.logCurrentPageView();
-
 		
 		$.tpr.geo.init({
 			getGeoInfoUrl: 'http://tpr-api.princetonreview.com/geo/GetGeoInfo',
