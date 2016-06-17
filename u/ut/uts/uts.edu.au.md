@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217115417id_/http%3A//www.uts.edu.au/node/4989) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617175959id_/http%3A//www.uts.edu.au/about/utsweb-statements/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | University of Technology, Sydney
+# Privacy statement | University of Technology Sydney
 
-The purpose of the UTS Privacy Statement is to let visitors to the UTSWeb know what information is collected about them when they visit, how the information is used, and whether or not it is disclosed.
+The purpose of this privacy notice is to let visitors to the UTS Web know what information is collected about them when they visit UTS webpages, how the information is used and whether or not it is disclosed. This does not cover non-UTS webpages.
 
-When you visit the UTSWeb, UTS makes a record of your visit and logs the following information for statistical purposes:
+UTS does not collect or solicit any personal information via the UTS Web which might be unlawful, unnecessary, excessive or unrelated to the functions or activities of the university.
+
+### 1\. Record of your visit
+
+When you visit the UTS Web, a record is generated about your visit which will be used for statistical purposes. Information collected includes:
 
   * your server address
   * your top-level domain name (for example, .com, .gov, .au, .uk, etc.)
@@ -15,16 +19,43 @@ When you visit the UTSWeb, UTS makes a record of your visit and logs the followi
 
 
 
-No attempt is made to identify individual visitors or their browsing activities, except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the University's logs.
+### 2\. Use of cookies
 
-Some sites on the World Wide Web use 'cookies' to track visitors' access to the site. UTS does not use cookies to gather personal information about visitors, except when they are used within a specific web-based application for session-management purposes.
+UTS may also collect personal information and other data from you through the use of a cookie or other automated means (such as server logs or proxy logs). A cookie is a packet of data that a website stores on your computer to identify you as a visitor to that website. You can choose to disallow cookies by changing settings on your web browser.
 
-Your email address is only recorded by UTS when you send the University a message, and it will only be used for the purpose for which you provided it. UTS will not use your email address for any other purpose, and will not disclose it or add it to a mailing list without your consent.
+Examples of the type of information that might be collected by UTS through cookies include:
 
-Some parts of the UTSWeb provide electronic forms that allow you to request particular information from the University. Personal information is only requested in order for UTS to respond to your inquiry.
+  * your computer’s IP (Internet Protocol) address
 
-UTS does not collect or solicit any personal information via the UTSWeb which might be unlawful, unnecessary or unrelated to the functions or activities of the University, or unfair or unreasonably intrusive.
+  * the date, time and duration of each interaction on our website(s), using, for instance, a numbered key (a unique server-generated number used to identify the current session)
 
-UTS will only publish personal information on the UTSWeb if it has been collected for this purpose with your knowledge, or if you have consented to the disclosure. When giving such consent you should be aware that information published on the UTSWeb is accessible to millions of users world-wide, that it will be indexed by search engines, and that it may be copied and used by any web user. This means that once information is published on the UTSWeb, UTS has no control over its subsequent use and disclosure.
+  * the pages you view, the online tools you use and the documents you download, and
 
-See [Privacy ](https://web.archive.org/node/711)for further information about privacy at UTS.
+  * the previous site visited and the type of browser used.
+
+
+
+
+Unique identifiers are also used to store information about users’ preferences and enable the dynamic display of the site according to your preferences when you return.
+
+### 3\. Online request forms
+
+Where the UTS Web provides electronic forms that allow you to request particular information from the university, personal information is only requested in order for UTS to respond to your inquiry.
+
+Where your contact details are being specifically collected for marketing purposes and to recruit students, see the [student marketing and recruitment privacy notice](https://web.archive.org/about/utsweb-statements/privacy-statement/student-marketing-and-recruitment-privacy-notice).
+
+### 4\. Accessing IT systems, portals, and online forms
+
+Any interaction you have through the UTS Web, through the use of IT systems, portals or online forms, will also be covered by a separate privacy notice dealing with the particular activity (eg enrolment or marketing).
+
+Personal information collected as a result of your visit to the UTS Web, through an online request form or emailed inquiry, will only be used for the purposes it was collected for as defined above, including statistical analysis. Information may also be used where required as part of an investigation into alleged breaches of UTS rules, policies or where required or permitted by law.
+
+Information will only be disclosed where required or permitted by law.
+
+UTS will only publish personal information on the UTS Web if it has been collected for this purpose with your knowledge or if you have consented to the disclosure. When giving such consent you should be aware that information published on the UTS Web is accessible to millions of users world-wide, that it will be indexed by search engines and that it may be copied and used by any web user. This means that once information is published on the UTS Web, UTS has no control over its subsequent use and disclosure.
+
+Information collected via the UTS Web will be stored securely and will only be retained for the purposes for which it was collected, and in line with legal retention requirements.
+
+You have a right to access personal information or amend inaccurate information held about you. Further information can be found at [Your privacy at UTS](https://web.archive.org/about-uts/uts-governance/privacy/your-privacy-uts).
+
+For further information about privacy, see [Privacy at UTS.](https://web.archive.org/about-uts/uts-governance/privacy)
