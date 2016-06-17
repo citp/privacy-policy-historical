@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysystem.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919201010id_/http%3A//www.surveysystem.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysystem.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617044458id_/http%3A//www.surveysystem.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Survey System, Web Survey Hosting, Survey Software, Voice Capture, & More - Creative Research Systems
 
@@ -29,7 +29,7 @@ If problems arise, users may contact Creative Research Systems by contacting our
 ## Address
 
 Creative Research Systems   
-15 Lone Oak, Suite 2  
-Petaluma CA 94952   
+1709 Schaeffer Road  
+Sebastopol, CA 95472   
 **Tel:** (707) 765-1001  
 Skype: "surveysystem"
