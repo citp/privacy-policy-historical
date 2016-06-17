@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801211440id_/https%3A//www.rangde.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617021139id_/https%3A//www.rangde.org/privacy) for the most accurate reproduction.*
 
 # Rang De - Privacy Policy
 
