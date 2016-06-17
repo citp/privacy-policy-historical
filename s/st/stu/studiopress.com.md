@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the studiopress.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624034726id_/http%3A//www.studiopress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiopress.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184901id_/http%3A//www.studiopress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - StudioPress
 
-The StudioPress.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. StudioPress is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
+The StudioPress.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. StudioPress is a service offering of Rainmaker Digital, LLC (“Rainmaker Digital”), and references in this document to “us,” “our,” and “we” refer to Rainmaker Digital.
 
 #### What Information Do We Collect?
 
