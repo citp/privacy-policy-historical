@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051457id_/https%3A//www.udemy.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617040114id_/https%3A//www.udemy.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
@@ -48,7 +48,7 @@ By mail:
 
 **Udemy, Inc.**   
 Attn: Privacy Policy   
-360 3rd St. Suite 400   
+600 Harrison Street, 3rd Floor   
 San Francisco, CA 94107 
 
 From time to time, we may send you emails about Course or new or modified Services that we believe might interest you. If you wish to opt-out of receiving these materials, you may follow the unsubscribe procedure provided in the email. 
