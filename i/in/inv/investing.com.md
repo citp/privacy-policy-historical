@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investing.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225010751id_/http%3A//www.investing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investing.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193200id_/http%3A//www.investing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Investing.com
 
@@ -7,6 +7,13 @@
 ### **General**
 
 Fusion Media Limited (" **the Company** " or " **Fusion Media** " or " **we** ") is the owner of the website www.Investing.com (" **the Website** ") and the Investing.com mobile application (" **the App** "; collectively and separately known as " **the Service** "). Fusion Media is committed to protecting your privacy and we understand you want to keep your information private, safe and discrete. This Privacy Policy is designed to help you decide whether to use the Service and in what manner, and it describes how we collect, store and use information on individuals who use the Service.
+
+The Services hereunder are offered by Fusion Media Limited, registered at:  
+OMC Chambers  
+Wickhams Cay 1  
+Road Town,  
+Tortola,  
+British Virgin Islands
 
 ### **Consent to use Information**
 
@@ -56,7 +63,7 @@ We may also share your Personal Information and other information in special cas
 
 ### **Direct Marketing**
 
-We may share your full name, email address and phone number with certain broker(s) (the "Broker") in the event that you have granted permission to receive promotional materials from such Broker at the time of registration. The Broker may periodically use your full name, email address and phone number for the purpose of providing you with promotional materials if your permission was granted at the time of registration and you have not unsubscribed at a later time in accordance with the provisions hereof. At any time, you may request to discontinue receiving these offers by following the on-page instructions at <http://www.investing.com/unsubscribe> . If you unsubscribe we will remove your full name, email address and phone number from our marketing distribution lists and from any future lists we may share with the Broker. However, you may need to also separately unsubscribe from marketing offers sent by the Broker.Please note that in order to send you promotional materials, the Broker may assign you with a username and password which will allow you access to the Broker's site through an account. You may contact the Broker at any time to remove the account.
+We may share your full name, email address and phone number with certain broker(s) (the "Broker") in the event that you have granted permission to receive promotional materials from such Broker at the time of registration. The Broker may periodically use your full name, email address and phone number for the purpose of providing you with promotional materials if your permission was granted at the time of registration and you have not unsubscribed at a later time in accordance with the provisions hereof. At any time, you may request to discontinue receiving these offers or Investing.com's marketing emails by clicking on the unsubscribe link in the email's footer or by following the on-page instructions at <http://www.investing.com/unsubscribe> . If you unsubscribe we will remove your full name, email address and phone number from our marketing distribution lists and from any future lists we may share with the Broker. However, you may need to also separately unsubscribe from marketing offers sent by the Broker.Please note that in order to send you promotional materials, the Broker may assign you with a username and password which will allow you access to the Broker's site through an account. You may contact the Broker at any time to remove the account.
 
 ### **Use of Information**
 
