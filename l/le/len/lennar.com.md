@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lennar.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214135116id_/http%3A//www.lennar.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lennar.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618001914id_/http%3A//www.lennar.com/privacypolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -89,6 +89,8 @@ We may disclose nonpublic personal information about you to nonaffiliated third 
 
 If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties to market their products and services to you, you may opt out of those disclosures, that is, you may direct us not to make those disclosures. If you wish to opt out of disclosures to nonaffiliated third parties to market their products and services to you, you may contact us on the web as described below.
 
+We may use cookies and other tracking devices on our Websites. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information between visits. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other tracking devices may be used to tell us the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider. We may use third parties to serve our advertisements on other websites. In serving our advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you. You may elect to refuse cookies.  In serving our advertisements, these companies may use cookies and other technologies to collect certain information about your visits to our Websites and other unrelated websites (such as browser type, IP address, which page was visited, and time of day). This information collected by third-party vendors, along with information that we disclose to them, may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to users across the Internet including you. Your browser may allow you to elect to refuse cookies.  Please refer to your browser Help instructions to learn more about cookies and how to manage their use.  You can also opt out of the use of cookies for interest-based advertising purposes by companies that participate in industry self-regulation, by visiting the Digital Advertising Alliance at http://www.aboutads.info/choices or the Network Advertising Initiative http://www.networkadvertising.org/choices/.
+
  ** _Information Sharing with Affiliates_**
 
 Except as provided below, we may disclose nonpublic personal information about you to our affiliates, including Universal American Mortgage Company, LLC and Universal American Mortgage Company of California (UAMC), as permitted by law. 
@@ -107,6 +109,8 @@ Your choice to limit marketing offers from our affiliates will apply until you t
 
 To limit the information sharing described above, contact us by clicking this link [**Opt Out Form**](https://web.archive.org/legal/informationsharing).
 
+You may have rights, under applicable data privacy laws, to request information about or access to the personal information that we hold about you, to require that information to be corrected it is inaccurate or, in some circumstances, to object to our processing of your personal information. If you wish to exercise those rights, please contact [webmaster@lennar.com](mailto:webmaster@lennar.com?subject=Privacy%20Policy%20Rights).
+
  ** _Your California Privacy Rights_**
 
 You may request certain information from Lennar concerning the customer information that we have shared with third parties for their direct marketing purposes. The information, which we will provide free of charge once per calendar year upon request, includes a list of the types of customer information that we have provided to third parties for their direct marketing purposes and the names and addresses of all third parties with which we have shared such information during the past calendar year. We will provide the information to you within 30 days of your request.
@@ -115,12 +119,10 @@ To request that we provide you with such information, please send a written requ
 
 Our mortgage company, Universal American Mortgage Company of California, may collect and maintain a range of customer and former customer information so that it may offer you our products and services, fund and service your loan, comply with federal regulations, and work to meet your financial needs. Please visit www.uamc.com to learn more about Universal American Mortgage Company’s privacy policy.
 
-We may use cookies and other tracking devices on our Websites. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information between visits. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other tracking devices may be used to tell us the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider. We may use third parties to serve our advertisements on other websites. In serving our advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you. You may elect to refuse cookies. Please refer to your browser Help instructions to learn more about cookies and how to manage their use.
-
 Our privacy policy for sharing nonpublic personal information about former customers is the same as our policy for current customers.
 
 Lennar may at any time revise the Website [Legal Disclaimers](https://web.archive.org/legal), Privacy Policy or [Terms and Conditions](https://web.archive.org/termsandconditions) by updating the Website posting. You are bound by any such revision and should therefore periodically visit the Website to review the then current terms and conditions, privacy policy and legal disclaimers to which you are bound.
 
 Thank you for taking the time to read all of this important information
 
-This privacy policy is effective as of August 7, 2015 is incorporated into and subject to the Terms and Conditions for use of this Website. 
+This privacy policy is effective as of February 2, 2016 is incorporated into and subject to the Terms and Conditions for use of this Website. 
