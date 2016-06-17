@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gvodatacenter.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229190732id_/http%3A//www.gogvo.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvodatacenter.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617053600id_/http%3A//www.gogvo.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Forward Looking Earnings Statement
 
