@@ -1,35 +1,36 @@
-> *The following text is extracted and transformed from the miamioh.edu privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029180033id_/http%3A//miamioh.edu/about-miami/pubs-policies/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamioh.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617130747id_/http%3A//miamioh.edu/about-miami/pubs-policies/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - Miami University
 
 ## Miami Cares About Your Privacy
 
-We know that many people are concerned about threats to their personal privacy, from receiving junk mail to being the victim of identity theft. At Miami, protecting personal privacy is a priority, and we are taking a proactive approach to enhancing protection for visitors to our site. This site has been created to provide useful information regarding privacy and to help you determine where to get assistance. Students, faculty, staff, and other users in our community are directed to the Policy on Responsible Computing.
+We know that many people are concerned about threats to their personal privacy, from receiving junk mail to being the victim of identity theft. At Miami, protecting personal privacy is a priority, and we are taking a proactive approach to enhancing protection for visitors to our site. This site has been created to provide useful information regarding privacy and to help you determine where to get assistance. Students, faculty, staff, and other users in our community are directed to the [Policy on Responsible Computing](http://blogs.miamioh.edu/miamipolicies/?p=379).
 
 ### Web Privacy Policy
 
 Miami University is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because Miami is a public institution, some information collected from the university website, including information from our server logs, e-mails delivered to the university, and information collected from Web-based forms, may be subject to the Ohio Public Records Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
-Miami University also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records except in limited circumstances (i.e., with the student's permission, to parents of dependent students, and in response to a valid court order). For more details on FERPA, see Part I, Chapter 12 of [The Student Handbook](http://miamioh.edu/documents/secretary/Student_Handbook.pdf) (PDF 922KB). Although FERPA regulations apply only to students, Miami University is equally committed to protecting the privacy of all visitors to our website. Miami also complies with the applicable provisions of the Gramm-Leach-Bliley Act (GLBA) and the Health Insurance Portability and Accountability Act (HIPAA).
+Miami University also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records except in limited circumstances (i.e., with the student's permission, to parents of dependent students, and in response to a valid court order). For more details on FERPA, see Part I, Chapter 12 of [The Student Handbook](http://blogs.miamioh.edu/miamipolicies/?p=2053). Although FERPA regulations apply only to students, Miami University is equally committed to protecting the privacy of all visitors to our website. Miami also complies with the applicable provisions of the Gramm-Leach-Bliley Act (GLBA) and the Health Insurance Portability and Accountability Act (HIPAA).
 
 ### Sharing of Information
 
-Unless required by the Ohio Public Records Act, it is against university policy to release information gathered through the Web, such as pages visited or personalized preferences.  
+Unless required by the Ohio Public Records Act, it is against university policy to release information gathered through the Web, such as pages visited or personalized preferences.
+
 Miami University does, however, share information with other parties at the request of users (persons to whom the information applies). For example, the university receives test scores from testing agencies and will send transcripts to other schools at the student’s request.
 
 Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we have legal authorization to do so. Student directory information may be released without the student's written consent. Directory information includes: name, local and home address, e-mail address, userid, photo, telephone number, name and address of parent(s) or guardian(s), date and place of birth, major field of study, participation in Miami activities and sports, weight and height of members of athletic teams, dates of attendance at Miami, degrees, certificates and awards received, student classification, and the most recent previous educational institution attended. If a student does not want their directory information released, the student may request in writing that it not be released and file the request with the Office of the Registrar.
 
-You can read more about directory information and Miami's student records policy in Part I, Chapter 12 of [The Student Handbook](http://miamioh.edu/documents/secretary/Student_Handbook.pdf) (PDF 922KB).
+You can read more about directory information and Miami's student records policy in Part I, Chapter 12 of [The Student Handbook](http://blogs.miamioh.edu/miamipolicies/?p=379).
 
 ### Privacy and Public Records Requests
 
 Miami complies with all laws that prohibit the release of information. This includes student education records protected by FERPA, financial information, including credit card information protected by GLBA, and personal health information protected by HIPAA.
 
-However other information collected from the Miami website, including server log information, e-mails delivered to the university, and information collected from Web-based forms, may be subject to the Ohio Public Records Act.
+However other information collected from the Miami website, including server log information, emails delivered to the university, and information collected from Web-based forms, may be subject to the Ohio Public Records Act.
 
 ### If You Send Us Personal Information
 
-Miami's website will only collect personal information that you knowingly and voluntarily provide by, for example, sending e-mails, completing membership forms, registering for classes or other programs, responding to surveys, or ordering merchandise. If you provide us with personal information, we will normally respond to your inquiry, request, or order; we may also contact you to provide information about college activities, programs, membership and development opportunities, and special events that may interest you. It is university policy that confidential information you enter is used only for the purposes described in that transaction, unless an additional use is specifically stated on that site.
+Miami's website will only collect personal information that you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for classes or other programs, responding to surveys, or ordering merchandise. If you provide us with personal information, we will normally respond to your inquiry, request, or order; we may also contact you to provide information about college activities, programs, membership and development opportunities, and special events that may interest you. It is university policy that confidential information you enter is used only for the purposes described in that transaction, unless an additional use is specifically stated on that site.
 
 Miami University will only share information about you to other parties when one or more of the following conditions apply:
 
@@ -44,7 +45,7 @@ Miami University will only share information about you to other parties when one
 
 ### Encryption
 
-Miami uses encryption to prevent third parties from accessing sensitive data, such as passwords, e-commerce information, etc. You are normally required to enter a Miami uniqueID and password when you request data about yourself or to ensure that you are a member of the university community. For example, students who want to check their grades or staff members who complete time sheets must enter their Miami UniqueID and password so the system knows who is requesting the data. This login process uses Secure Sockets Layer (SSL) so the user name and password are encrypted between the Web browser and our Web server.
+Miami uses encryption to prevent third parties from accessing sensitive data, such as passwords, e-commerce information, etc. You are normally required to enter a Miami UniqueID and password when you request data about yourself or to ensure that you are a member of the university community. For example, students who want to check their grades or staff members who complete time sheets must enter their Miami UniqueID and password so the system knows who is requesting the data. This login process uses Secure Sockets Layer (SSL) so the user name and password are encrypted between the Web browser and our Web server.
 
 Several sites within Miami University enable you to pay for products or services online with a credit card. These transactions are encrypted. Questions about security concerns involving credit card transactions may be directed to [infoprivacy@miamioh.edu](mailto:infoprivacy@miamioh.edu).
 
