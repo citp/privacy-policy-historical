@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the feedingamerica.org privacy policy that was archived on 2015-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151223051124id_/http%3A//www.feedingamerica.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedingamerica.org privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617093304id_/http%3A//www.feedingamerica.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1691:0';
-CONVIO.pageSessionID = 'FAFB3B0FF65928ACDF2A5BC64624208B.app220b';
+CONVIO.pageSessionID = '3A989D741554B39AB148CF5ACE6D7936.app220b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1450847483867"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1466155985183"></script>
 <script type="text/javascript">
 
 
@@ -63,7 +63,7 @@ deleteCookie("CONVIO.referrer");
   
 
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6244492/752884/css/fonts.css">
-  <link rel="canonical" href="http://www.feedingamerica.org/privacy-policy/">
+<!--  <link rel="canonical" href="http://www.feedingamerica.org/privacy-policy/" /> -->
 
 <!--[if IE]>
 <style>
@@ -74,9 +74,9 @@ deleteCookie("CONVIO.referrer");
   <!-- <link rel="stylesheet" type="text/css" href="/assets/webfonts/176374/c0ac71de07afe1eb1.css" /> -->
 
 
-  <link rel="stylesheet" href="http://www.feedingamerica.org/assets/css/styles.css?t=11" type="text/css">
+  <link rel="stylesheet" href="http://www.feedingamerica.org/assets/css/styles.css?t=15" type="text/css">
 
-  <link rel="stylesheet" href="http://www.feedingamerica.org/assets/css/cms-styles.css?t=6" type="text/css">
+  <link rel="stylesheet" href="http://www.feedingamerica.org/assets/css/cms-styles.css?t=7" type="text/css">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -117,6 +117,101 @@ deleteCookie("CONVIO.referrer");
   }
 }
 </style>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+		var systemUrl = 'http://www.feedingamerica.org/privacy-policy/';
+		console.log('systemUrl ' + systemUrl);
+		var page;
+		var url;
+		var fullUrl = window.location.href;
+		if (fullUrl.indexOf('?referrer') > -1) {
+			fullUrl = fullUrl.split('?referrer')[0];
+		}
+		if (fullUrl.indexOf('index.jsp') > -1){
+			if (fullUrl.indexOf('page=') > -1) {
+				page = fullUrl.split('page=')[1];
+				if (page.indexOf('&') > -1){
+					page = page.split('&')[0];
+				}
+				console.log('page ' + page);
+				if (page === '1') {
+					url = systemUrl;
+				}
+				else {
+					if (fullUrl.indexOf('mlpage') > -1) {
+						url = systemUrl + 'index.jsp?mlpage='+page;
+					}
+					else {
+						url = systemUrl + 'index.jsp?page=' + page;
+					}
+				}
+			}
+			else {
+				url = systemUrl;
+			}
+		}
+		else {
+			url = systemUrl;
+		}
+
+		$('head title').after('<link rel="canonical" href="'+url+'">');
+
+		if (jQuery('table.paginator').length > 0){
+			var prev = jQuery('.paginator').children().children().children('.pg-prev').children('a').attr('href');
+			var next = jQuery('.paginator').children().children().children('.pg-next').children('a').attr('href');
+			console.log('prev ' + prev);
+			console.log("next " + next);
+
+			var pageNum;
+
+			if (prev) {
+				if (prev.indexOf('page=') > -1) {
+					prevPage = prev.split('page=')[1];
+					if (prevPage.indexOf('&') > -1){
+						prevPage = prevPage.split('&')[0];
+					}
+					console.log('prevPage ' + prevPage);
+					if (prevPage === '1') {
+						prev = systemUrl;
+					}
+					else {
+						if (prev.indexOf('mlpage') > -1) {
+							prev = systemUrl + 'index.jsp?mlpage='+prevPage;
+						}
+						else {
+							prev = systemUrl + 'index.jsp?page=' + prevPage;
+						}
+					}
+				}
+				else {
+					prev = systemUrl;
+				}
+				$("head link[rel='canonical']").after('<link rel="prev" href="'+prev+'">');
+			}
+
+			if (next) {
+				if (next.indexOf('page=') > -1) {
+					nextPage = next.split('page=')[1];
+					if (nextPage.indexOf('&') > -1){
+						nextPage = nextPage.split('&')[0];
+					}
+					console.log('nextPage ' + nextPage);
+					if (next.indexOf('mlpage') > -1) {
+						next = systemUrl + 'index.jsp?mlpage='+nextPage;
+					}
+					else {
+						next = systemUrl + 'index.jsp?page=' + nextPage;
+					}
+				}
+				else {
+					next = systemUrl;
+				}
+				$("head link[rel='canonical']").after('<link rel="next" href="'+next+'">');
+			}
+		}
+	});
+  </script>
 
   <script src="http://www.feedingamerica.org/assets/js/modernizr.js"></script>
 <!-- <script src="http://www.feedingamerica.org/assets/js/cookie.js"></script> -->
@@ -184,7 +279,7 @@ if (!Y) {
 <!-- Begin Organic Source Code Setup - Written by Beaconfire added June 2013 - dynamically adds source codes to URLs from organic traffic -->
 
 <!-- Organic Source Code Setup Updated 3/5/2015 10:20 AM-->
-
+<!-- Organic Source Code Setup Updated 1/20/2016 12:04 AM-->
 
 <!-- debug: 
 BEGIN debug ////////////////////////////////////////////////////////////////////////////
@@ -223,6 +318,7 @@ function generateSourceCodes_convio() {
     var referrer = '';
     var keyword = '';
 
+	console.log('update 12:04');
     // If there is no source code, try to determine the referrer
     if (s_src == '') {
         // Determine Referrer: Check session tag, then browser
@@ -237,16 +333,27 @@ function generateSourceCodes_convio() {
             if (CONVIO.referrer.length != 0) {
                 // Note: CONVIO.referrer is inconsistent
                 console.log('check CONVIO.referrer: ' + CONVIO.referrer);
-                referrer = CONVIO.referrer;
+				var convioRef = CONVIO.referrer;
+				var refCheck = convioRef.indexOf('www.feedingamerica.org');
+				console.log('refCheck ' + refCheck);
+				if (refCheck === -1 || refCheck > 7) {
+					referrer = CONVIO.referrer;
+				}
+				else {
+					referrer = '';
+				}
             }
         }
         // Catch browser referrer if CONVIO referrer is missing
         if (referrer == '') {
             // Also, skip certain domains
             console.log('Catch browser referrer if CONVIO referrer is missing');
-            
                     console.log('check document.referrer: ' + document.referrer);
-                    if(document.referrer != "http://www.feedingamerica.org/"){
+					var docRef = document.referrer;
+					var docRefCheck = docRef.indexOf('www.feedingamerica.org');
+					console.log('docRefCheck ' + docRefCheck);
+//                    if(document.referrer != "http://www.feedingamerica.org/"){
+                    if(document.referrer != "http://www.feedingamerica.org/" && docRefCheck === -1 || docRefCheck > 7){
                         referrer = document.referrer;
                     }else{
                         referrer = '';
@@ -1126,8 +1233,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div><!--/#util_sign_up-->
 
 
-          <div id="util_donate">
+          <div id="util_donate" class="donate_giving_pref">
+          <ul>
+          <li id="util_donate_button">
             <a href="http://help.feedingamerica.org/site/Donation2?df_id=15040&amp;15040.donation=form1&amp;s_onsite_promo=MainNav_Donate">Donate</a>
+            <ul class="util_donate_dropdown">
+            <li><a href="http://help.feedingamerica.org/site/Donation2?df_id=15040&amp;15040.donation=form1&amp;s_onsite_promo=MainNav_Today" id="targetLink1">Give Today</a></li>
+            <li><a href="http://help.feedingamerica.org/site/Donation2?df_id=21800&amp;21800.donation=form1&amp;s_onsite_promo=MainNav_Monthly" id="targetLink2">Give Monthly</a></li>
+            </ul>
+            </li>
+            </ul>
           </div><!--/#util_donate-->
 
         </div><!--/.container-->
@@ -1168,8 +1283,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="container">
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.feedingamerica.org/about-us/about-feeding-america/">About Feeding America</a></li>
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.feedingamerica.org/about-us/how-we-work/">How We Work</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.feedingamerica.org/about-us/we-feed-families/">Helping Families in Need</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.feedingamerica.org/about-us/we-feed-children/">Helping Hungry Children</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.feedingamerica.org/about-us/helping-families-in-need/">Helping Families in Need</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.feedingamerica.org/about-us/helping-hungry-children/">Helping Hungry Children</a></li>
                   </div>
                 </ul>
               </li>
@@ -1262,7 +1377,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
       <div id="body-content">
         
-        <p><em>Updated October 28th, 2015 </em></p>
+        <p><em>Updated February 24, 2016<br></em></p>
 <p>Feeding America strongly believes in protecting the integrity and privacy of personal information gathered from our supporters through all of our communication channels, as well as from visitors to our Website. The protection of your privacy is of great importance to us, we have created this privacy policy to communicate our practices regarding the collection and dissemination of personal information that you provide to us and that can be linked to a specific individual, such as a name, postal address, telephone number(s), email address, or any other information, provided to us by our supporters and Website visitors (hereinafter “Personal Information”), as well as certain non-personally identifiable information collected when you visit many of our web pages such as the type of browser you are using (e.g. Internet Explorer or Firefox), the type of operating system you are using (e.g., Windows XP or Mac OS), the domain name of your internet service provider (e.g., AT&amp;T or Verizon), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited (hereinafter “Aggregate Data”).</p>
 <p>This policy also applies when you use social media that overlaps Feeding America’s social media and/or website.&nbsp; This policy does not apply to information or data Feeding America purchases from other sources.&nbsp; Feeding America uses its best efforts to not share information it collects from those persons it provides services to (commonly referred to as “clients”).&nbsp; See our <a href="http://www.feedingamerica.org/privacy-policy/donor-privacy-policy.html" title="Donor Privacy Policy">donor privacy policy</a>.&nbsp; for how we use information we collect through social media fundraising efforts, including, but not limited to MGive and similar mobile text to give programs.</p>
 <p>This policy will be updated periodically, so please be sure to reread it from time to time. The most recent date the privacy policy was updated is provided at the top of the page. By submitting your personal information to us, you are agreeing that Feeding America may use the information in accordance with this privacy policy.</p>
@@ -1288,7 +1403,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>As a user of this site, you are responsible for your own communications and are responsible for the consequences of their posting.&nbsp; Therefore, do not impersonate another person and not transmit material to us that is copyrighted, unless you are the copyright owner of have the permission of the copyright owner to post it; do not send material that reveals trade secrets, unless you won them or have the permission of the owner; do not send material that infringes on any other intellectual property rights of others or on the privacy or publicity rights of others; do not send material that is obscene, defamatory, threatening, harassing, abusive, hateful, or embarrassing to another user or any other person or entity; and do not send sexually explicit images, advertising or solicitations of business, or chain letters.</p>
 <p>You represent and warrant that any information and/or material you post or provide to Feeding America through any medium is truthful, accurate, not misleading, not confidential property of others, and not in violation of any other third party’s rights.&nbsp; Furthermore, you acknowledge and agree that all submissions will become the property of Feeding America and that Feeding America has the right to publish or republish the submission for any type of use including for promotional and advertising purposes without compensation to you of any kind.&nbsp; Should your submission include third party materials, you grant, represent and warrant that you, as well as the owner of such content, have expressly granted Feeding America a royalty-free, perpetual, irreovocable, world-wide exclusive license to use the submission in any manner, media or form now known or hereafter developed.&nbsp; Feeding America shall have the right to sublicense its rights.</p>
 <p><strong>Use of "Cookies":</strong></p>
-<p><strong></strong>The Feeding America Website may use "cookies" and similar means to collect aggregate statistical information. Aggregate information does not identify any individual person. We may use or disclose aggregate information for any purpose. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies are uniquely assigned to you, and are designed to be read only by a Web server in the domain that issued the cookie to you. Cookies are also used to recognize visitor preferences, temporarily store session information and past activity at our site in order to provide better service and easier access when individuals return to our site. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Websites you visit. We use third-party advertising companies to create and distribute advertising on our behalf. These companies may also employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information these third parties collect via cookies and action tags is anonymous. Feeding America may use cookies to remarket to you across the internet. The use of cookies allows Feeding America to inform, optimize, and serve ads based on someone’s past vists to our website. To specifically opt-out of display remarketing ads click on the blue triangle called ‘AdChoices’ in the right hand corner of the ad and follow the instructions. Please note if you delete your cookies or switch devices this exclusion won’t carry over. You can also visit the Network Advertising Opt Out page <a href="#_msocom_7">[AL7]</a>&nbsp;to more broadly opt out of remarketing.</p>
+<p><strong></strong>The Feeding America Website may use "cookies" and similar means to collect aggregate statistical information. Aggregate information does not identify any individual person. We may use or disclose aggregate information for any purpose. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies are uniquely assigned to you, and are designed to be read only by a Web server in the domain that issued the cookie to you. Cookies are also used to recognize visitor preferences, temporarily store session information and past activity at our site in order to provide better service and easier access when individuals return to our site. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Websites you visit. We use third-party advertising companies to create and distribute advertising on our behalf. These companies may also employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Specifically, Feeding America uses an Atlas Universal tag to collect anonymous cookie-based data about users who perform certain actions on a website. This data is used for measurement purposes to gauge the effectiveness of media across browsers and devices. Data collected with Atlas Universal Tags is reported on in aggregate, or via anonymous cookie-level log files. For more information on Atlas, you can view their privacy policy on <a href="http://atlassolutions.com/privacy-policy/">their website.</a> Any information these third parties collect via cookies and action tags is anonymous. Feeding America may use cookies to remarket to you across the internet. The use of cookies allows Feeding America to inform, optimize, and serve ads based on someone’s past vists to our website. To specifically opt-out of display remarketing ads click on the blue triangle called ‘AdChoices’ in the right hand corner of the ad and follow the instructions. Please note if you delete your cookies or switch devices this exclusion won’t carry over. You can also visit the <a href="http://www.networkadvertising.org/choices/">Network Advertising Opt Out page</a> to more broadly opt out of remarketing.</p>
 <p><strong>Disabling Cookies:</strong></p>
 <p>To remove cookies from your computer, visit your Internet browser's "Help" section for information on how to delete cookies. In addition, there are many Websites that provide browser and operating system specific information on how to delete cookies. When thinking about whether you want to delete cookies, you should be aware that some sites require cookies to function properly. After you delete cookies, you may have to re-register with some sites or you may notice difficulty in browsing some sites.</p>
 <p><strong>Security:</strong><br> This Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. The security measures used on this site include, but are not limited to, industry-standard Secure Socket Layer (SSL) technology, firewalls, and internal policies to maintain the security of stored data. While we follow generally accepted industry standards to protect the personal information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.<strong> <br></strong></p>
@@ -1341,7 +1456,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
 
 <div class="promo">
-        <ul class="social_icons addthis_toolbox" addthis:url="" addthis:title="Privacy Policy">
+        
+      
+     <ul class="social_icons addthis_toolbox" addthis:url="" addthis:title="Privacy Policy">
         <li class="fbk"><a class="addthis_button_facebook" title="Facebook">facebook</a></li>
 	<li class="twt"><a class="addthis_button_twitter" title="Twitter">twitter</a></li>
 	<li class="more"><a class="addthis_button_compact" title="More">more</a></li>
@@ -3133,9 +3250,9 @@ CONVIO.user.isAnonymous = true;
             </div><!--/#footer_logo-->
 
             <ul id="footer_nav">
-                <li><a href="http://www.feedingamerica.org/our-response/about-us/">About Us ›</a></li>
+                <li><a href="http://www.feedingamerica.org/about-us/">About Us ›</a></li>
                 <li><a href="http://www.feedingamerica.org/hunger-in-america/news-and-updates/press-room/">Press Room ›</a></li>
-                <li><a href="http://www.feedingamerica.org/our-response/about-us/job-opportunities/">Careers ›</a></li>
+                <li><a href="http://www.feedingamerica.org/about-us/about-feeding-america/job-opportunities/">Careers ›</a></li>
                 <li><a href="http://help.feedingamerica.org/site/SPageServer/PageServer?pagename=profile">Account Center ›</a></li>
                 <li><a href="http://www.feedingamerica.org/en-espanol/">En Español ›</a></li>
             </ul><!--/#footer_nav-->
@@ -3176,8 +3293,8 @@ CONVIO.user.isAnonymous = true;
 
         <div id="footer_text">
             <div id="footer_copyright">
-                <p>Copyright © 2015
- Feeding America. All Rights Reserved. Feeding America is a 501 (c)(3) non-profit recognized by the IRS. Tax ID Number: 36-3673599</p>
+                <p>Copyright © 2016
+ Feeding America. All Rights Reserved. Feeding America is a 501 (c)(3) non-profit recognized by the IRS. <br>Tax ID Number: 36-3673599</p>
             </div><!--/#footer_copyright-->
             <div id="footer_disclaimer">
                 <p>Photos associated with client stories feature the actual person referenced. Other images are for illustrative purposes only.</p>
@@ -3255,6 +3372,273 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
 <!-- Gift Center -->
+       <style>
+        #recurring-div-content, #recurring-div-content p, #recurring-div-content li, #recurring-div-content ol, #recurring-div-content ul,
+        #recurring-div-content table, #recurring-div-content tr, #recurring-div-content td, #recurring-div-content th, #recurring-div-content .explicit,
+        #recurring-div-content textarea, #recurring-div-content input, #recurring-div-content select, #recurring-div-content option {
+            font-size: 13px;
+            font-family: 'Gotham A', 'Gotham B', Arial, sans-serif;;
+        }
+        #profile-wrapper-block {
+            display: none;
+            padding-left: 5px;
+            margin-bottom: 10px;
+        }
+        #recurring-div-content .bordered {
+            border: 1px solid #D8D8D8;
+        }
+        #sustainer-gift-main > .header-block,
+        #sustainer-gift-edit > .header-block {
+            border-bottom: 1px solid #D8D8D8;
+        }
+        #sustainer-gift-main > .header-block .banner-header,
+        #sustainer-gift-edit > .header-block .banner-header {
+            border-top-left-radius: .5em;
+            border-top-right-radius: .5em;
+            padding-left: 13px;
+            height: auto;
+        }
+        #sustainer-gift-main > .header-block .banner-header-separation,
+        #sustainer-gift-edit > .header-block .banner-header-separation {
+            display: none;
+        }
+        #msg_cat_main_recurring_giving,
+        #msg_cat_edit_gift_processing_label {
+            display: inline-block;
+            margin-bottom: 12px;
+        }
+        label.bold.header-field,
+        label.left-label,
+        label.gray-text {
+            margin-top: 0px;
+        }
+        .small-text > span.green-text,
+        .small-text > span.red-text {
+            display: inline-block;
+            margin-bottom: 12px;
+            font-size: 13px;
+        }
+        #recurring-div-header-content {
+            padding: 10px 0px 15px 5px;
+        }
+        #sustainer-gift-edit > .footer-block {
+            border-bottom-left-radius: .5em;
+            border-bottom-right-radius: .5em;
+        }
+
+        /* Links */
+        #recurring-div-content a,
+        #billing-history-display-block .active-link {
+            color: #E98300;
+        }
+
+        /* Edit boxes */
+        #recurring-div-content .edit-left-content-block ul li {
+            height: auto;
+        }
+        #edit-amount-field {
+            width: 152px;
+            vertical-align: middle;
+        }
+        #recurring-div-content .edit-block {
+            background-color: #fff;
+        }
+
+        /* Buttons */
+        #recurring-div-content input.uc-button {
+            display: inline-block;
+            margin: 0px;
+            border: none;
+            border-radius: 0px;
+            outline: none;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: 200;
+            padding: 0px 20px;
+            height: 40px;
+            line-height: 40px;
+            cursor: pointer;
+            text-transform: uppercase;
+            background: #e98300;
+            width: auto;
+        }
+        #recurring-div-content input.uc-button:hover {
+            color: #333333 !important;
+            background: #bfd730 !important;
+        }
+        #edit_next_payment_help_text {
+            display: none;
+        }
+
+        /* Menu */
+        .etabs {
+            margin: 0;
+            padding: 0;
+            border-bottom: 7px solid  #e98300;
+            width: 100%;
+        }
+        #profile-wrapper-block .tab {
+            display: inline-block;
+            zoom:1;
+            *display:inline;
+        }
+        #profile-wrapper-block .tab a {
+            font-size: 13px;
+            line-height: 2.5em;
+            display: block;
+            padding: 0 16px;
+            margin: 0 12px 0 0;
+            background: none repeat scroll 0 0 #ccc;
+            display: inline-block;
+            text-decoration:none;
+            color:#666;
+            font-weight:bold;
+            -webkit-border-top-left-radius: 4px;
+            -webkit-border-top-right-radius: 4px;
+            -moz-border-radius-topleft: 4px;
+            -moz-border-radius-topright: 4px;
+            border-top-left-radius: 4px;
+            border-top-right-radius: 4px;
+        }
+        #profile-wrapper-block li.my-advocacy a {
+            /* margin: 0 0 0 0; */
+        }
+        #profile-wrapper-block .tab.active li {
+            background: none repeat scroll 0 0 #e98300;
+            position: relative;
+            -webkit-border-top-left-radius: 4px;
+            -webkit-border-top-right-radius: 4px;
+            -moz-border-radius-topleft: 4px;
+            -moz-border-radius-topright: 4px;
+            border-top-left-radius: 4px;
+            border-top-right-radius: 4px;
+            margin: 0 10px 0 0;
+        }
+        #profile-wrapper-block .tab a.active {
+            background: none repeat scroll 0 0 #e98300;
+            font-weight: bold;
+            color:#fff;
+            border:none;
+        }
+
+
+        /* Media queries
+        @media screen and (max-width: 1023px) {
+            #main-body,
+            #appAreaNoWidthClearFix,
+            #recurring-div-content .left-block,
+            #recurring-div-content .right-block {
+                width: 100%;
+                float: none;
+            }
+        } */
+
+#appAreaNoWidthClearFix {
+   width:100%;
+}
+
+@media only screen and (max-width: 767px) {
+#profile-wrapper-block ul.etabs > li > a {
+   display: block;
+   margin-right: 0px;
+   border-radius: 0px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+
+}
+
+#profile-wrapper-block .tab a {
+    background: #ccc none repeat scroll 0 0;
+    color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 2.5em;
+    text-decoration: none;
+}
+
+#profile-wrapper-block .tab a.active {
+    background: #e98300 none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-weight: bold;
+}
+
+#profile-wrapper-block ul.etabs > li {
+    border-bottom: 1px solid #ffffff;
+    display: block;
+    position: relative;
+}
+
+#profile-wrapper-block ul.etabs {
+    border-bottom: medium none;
+    list-style: outside none none;
+}
+
+#profile-wrapper-block ul.etabs > li.active::after {
+    color: #ffffff;
+    content: "\25c0";
+    font-size: 120%;
+    position: absolute;
+    right: 15px;
+    top: 13px;
+}
+
+#recurring-div-content .edit-left-content-block {
+    width: 100%;
+}
+
+#recurring-div-content .edit-right-content-block {
+    width: 100%;
+}
+
+#recurring-div-content .edit-left-content-block ul li.small-width {
+    width: 0;
+}
+
+label[id="msg_cat_edit_next_payment_date_label"],label[id="msg_cat_edit_amount_label"]{
+    margin-left:15px;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], input[type="password"] {
+    width: 100%;
+}
+
+#recurring-div-content .edit-block {
+    padding: 5px;
+}
+
+#billing-history-display-block {
+    width: 310px !important;
+}
+
+#billing-history-table-content table {
+    width: 300px;
+}
+
+
+}
+    </style>
+
+
+    <script>
+        Y.use('jquery-noconflict', function () {
+            function buildTabMenu() {
+                var html = [
+                    '<h1>Service Center</h1>',
+                    '<ul class="etabs">',
+                    '<li class="tab overview"><a href="http://help.feedingamerica.org/site/SPageServer/PageServer?pagename=profile#overview">My Profile</a></li>',
+                    '<li class="tab email-settings"><a href="http://help.feedingamerica.org/site/SPageServer/PageServer?pagename=profile#email-settings">Email Settings</a></li>',
+                    '<li class="tab my-giving"><a href="http://help.feedingamerica.org/site/SPageServer/PageServer?pagename=profile#my-giving">Giving</a></li>',
+                    '<li class="tab my-advocacy"><a href="http://help.feedingamerica.org/site/SPageServer/PageServer?pagename=profile#my-advocacy">Advocacy</a></li>',
+                    '<li class="tab my-giftcenter active"><a href="#" class="active">Gift Center</a></li>',
+                    '</ul>'
+                ];
+                jQuery('#profile-wrapper-block').html(html.join('')).show();
+            }
+            buildTabMenu();
+        });
+    </script>
+
 
 
 
@@ -3289,8 +3673,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   
 
 <!-- debug: sourceCode: 
-cookieValue: JSESSIONIDabcH46uJnrsqk-s7zmnhv; BALANCEROUTE.app914b; NSC_dnt_900_qvcffffffff09041e2f45525d5f4f58455e445a4a4214f4;
-referrer:  -->
+cookieValue: 
+referrer: http://www.feedingamerica.org/ -->
 
   
   
@@ -3407,6 +3791,6 @@ referrer:  -->
 
 
 
-<!-- 10.12.0.44:8901 -->
+<!-- 10.12.0.44:8900 -->
 
 </body></html>
