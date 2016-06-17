@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115703id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194414id_/https%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Colorlabs & Company
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to us](https://web.archive.org/web/20151225115703id_/http://privacy-policy/# "Privacy Policy").
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to us](https://web.archive.org/web/20160617194414id_/https://privacy-policy/# "Privacy Policy").
 
 
 
@@ -65,12 +65,12 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 Colorlabs & Company is a group of WordPress-infused people who have been juggling codes and scripts to make WordPress better and more beautiful since 2008.
 
-We have a collection of 22+ premium WordPress themes covering all types of websites for all kinds of publishers. We always keep everything up to date and follow the latest web design trends.
+We have a collection of 13+ premium WordPress themes covering all types of websites for all kinds of publishers. We always keep everything up to date and follow the latest web design trends.
 
 #### Collaborate with Us
 
 Are you passionate about WordPress design and always caught doing creative experiments? If you are, we want you!
 
-#### Become an Affiliate
+#### Need Some Help?
 
-You can earn 50% on all sales generated through your affiliate links. Sign up as an affiliate and start making money now!
+Either with the basics or complicated technical stuff, our support agents will ensure your problems get solved.
