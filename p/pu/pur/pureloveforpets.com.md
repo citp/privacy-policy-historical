@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureloveforpets.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026161210id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureloveforpets.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617034155id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purina®
 
@@ -152,8 +152,8 @@ You can also write to us at:
 
 **Nestlé Purina PetCare Company  
 Attn: Privacy Question   
-PO Box 1326  
-Wilkes-Barre PA 18703**
+PO Box 2530  
+Largo, FL 33779**
 
 * * *
 
@@ -161,6 +161,4 @@ Wilkes-Barre PA 18703**
 
 **From time to time we may change our privacy policies.** We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-_Effective: February 13, 2013_
-
-_Last revised: October 30, 2014_
+_Last revised: May 9, 2016_
