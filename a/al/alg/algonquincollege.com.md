@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013084720id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617152617id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
 
-# Corporate Directives » Algonquin College Privacy Statement
+# Algonquin College Privacy Statement - Corporate Policies
 
 Algonquin College (the “College”) is committed to protecting the privacy of your personal information. The College at all times collects, uses and discloses personal information in accordance with the _Freedom of Information and Personal Privacy Act_ , R.S.O. 1990, c. F.31 (“ _FIPPA”_ ), and under authority of the _Ontario Colleges of Applied Arts and Technology Act, 2002_ , S.O. 2002, c. 8, Sched. F, and other relevant legislation. The College’s personal information handling practices are set out in more detail in its Policy AD02: Freedom of Information and Protection of Privacy.
+
+The College is required to disclose personal information such as Ontario Education Numbers, student characteristics and educational outcomes to the Minister of Training, Colleges and Universities under s. 15 of the _Ministry of Training, Colleges and Universities Act, R.S.O. 1990_ , Chapter M. 19, as amended. The ministry collects this data for purposes such as planning, allocating and administering public funding to colleges, universities and other post-secondary educational and training institutions and to conduct research and analysis, including longitudinal studies, and statistical activities conducted by or on behalf of the ministry for purposes that related to post-secondary education and training. Further information on how the Minister of Training, Colleges and Universities uses this personal information is available on the ministry’s website.
+
+Further information on the collection and use of student-level enrolment-related data can be obtained from the Government of Ontario or Ministry of Training Colleges and Universities website <http://www.tcu.gov.on.ca/> (English) or <http://www.tcu.gov.on.ca/fre/> (French) or by writing to the Director, Postsecondary Finance Branch, Postsecondary Education Division, 7th Floor, Mowat Block, 900 Bay Street, Toronto, ON M7A 1L2
 
 The College collects personal information at several points of contact. It collects personal information from prospective students during marketing and recruitment campaigns, and during the application process. It collects personal information from current students at various times and in various ways throughout their tenure with the College. It may collect personal information from alumni after their tenure at the College. It collects personal information from staff at various times and in various ways in the course of the employment relationship.
 
@@ -19,9 +23,9 @@ The College will take all reasonable measures to safeguard personal information 
 You have a right of access to your personal information in the control of the College, subject to the terms of FIPPA and its regulations. To make such a request, or if you have Questions about this Statement or about the College’s personal information practices please contact:
 
 Freedom of Information Coordinator  
-1385 Woodroffe Avenue, Room C548  
+1385 Woodroffe Avenue, Room C548,  
 Ottawa, Ontario, K2G 1V8.  
-[FOIcoordinator@algonquincollege.com](mailto:FOIcoordinator@algonquincollege.com)  
-Telephone 613-727-4723 Ext. 6407
+[FOIcoordinator@algonquincollege.com  
+](mailto:FOIcoordinator@algonquincollege.com)Telephone 613-727-4723 Ext. 6407
 
-If you have a complaint about the College’s handling of your personal information, please contact the FOI Coordinator. If your complaint is not resolved to your satisfaction, FIPPA provides a mechanism for independent review by contacting the Information and Privacy Commissioner of Ontario.  For more information, please review the College’s Policy AD02:[ Freedom of Information and Protection of Privacy](http://www2.algonquincollege.com/directives/policy/compliance-with-ontario%e2%80%99s-freedom-of-information-and-protection-of-privacy-act/)
+If you have a complaint about the College’s handling of your personal information, please contact the FOI Coordinator. If your complaint is not resolved to your satisfaction, FIPPA provides a mechanism for independent review by contacting the Information and Privacy Commissioner of Ontario.
