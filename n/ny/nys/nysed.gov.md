@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New York State Education Department
 
 ## **Privacy of your online information on NYSED.gov**
 
-[NYSED Internet Privacy Policy](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#PRIVACY) | [Online Information Practices](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#ONLINE) | [General Information about Internet Privacy](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#GENERAL) | [Cookies and Clear GIFs](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#COOKIES) | [General Information About Children's Online Privacy](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#CHILD) | [NYSED Contact Information](https://web.archive.org/web/20151223215456id_/http%3A//www.nysed.gov/privacy-policy#CONTACT)
+[NYSED Internet Privacy Policy](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy#PRIVACY) | [Online Information Practices](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy#ONLINE) | [General Information about Internet Privacy](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy#GENERAL) | [Cookies and Clear GIFs](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy#COOKIES) | [General Information About Children's Online Privacy](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy#CHILD) | [NYSED Contact Information](https://web.archive.org/web/20160617162837id_/http%3A//www.nysed.gov/privacy-policy#CONTACT)
 
 ## Internet Privacy and Security Policy
 
