@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231073150id_/http%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617100636id_/http%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
 
 # CSIRO and the Australian Privacy Principles - Privacy Policy - CSIRO
 
@@ -117,8 +117,6 @@ When visiting [www.csiro.au](http://www.csiro.au/), a record of your visit is lo
   * type of browser used.
 
 
-
-Note: CSIRO does not use “persistent cookies”. 
 
 No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation required by law where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's logs.
 
