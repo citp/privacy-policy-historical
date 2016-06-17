@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229233722id_/http%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617210151id_/http%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | CarTrade.com
+# Privacy Policy | CarTrade
 
-## _COMPANY PRIVACY POLICY AND OPT-OUT_    (Effective from 22nd August, 2013)
+(Effective from 22nd August, 2013)
 
 During your use of CarTrade.com, we will collect certain information about you (in the following, 'You' refers to any visitor using the website CarTrade.com, in general or in the use of specific functions). We highly value your privacy and the Privacy Policy that follows explains exactly what data we collect and how it will be used.
 
@@ -10,7 +10,7 @@ _**Use of Site Browsing History**_
 
 By using CarTrade.com, You consent to the collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show your marketing communications of interest. While no Personally Identifiable Information is shared, we respect your right to privacy and hence provide this transparent disclosure. In addition, selected 3rd parties also provide You the right to opt out. To opt out from all 3rd parties that make use of Adobe technology, please click on the link below and select the appropriate option on the destination page.
 
-Click [here](http://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out) to opt out of Adobe programmes.
+Click [here](https://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out) to opt out of Adobe programmes.
 
 _**Opt Out Page**_
 
