@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fieldofbitcoin.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225075617id_/http%3A//fieldofbitcoin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldofbitcoin.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617030820id_/http%3A//fieldofbitcoin.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy | FieldOfBitcoins - chance to take up to MILLION SATOSHI every 10 minutes!
+
+You need to sign in or sign up before continuing.
 
 FieldOfBitcoins.com Privacy Policy 
 
