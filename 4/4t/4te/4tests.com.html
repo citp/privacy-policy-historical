@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the 4tests.com privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908012040id_/https%3A//www.4tests.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4tests.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618004038id_/https%3A//www.4tests.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><title>4tests.com - Privacy Policy</title>
+<meta name="description" content="4Tests Privacy Policy">
 <meta charset="utf-8">
 
 
 
 <!-- Google Universal Analytics Tag -->
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -17,6 +18,20 @@
   ga('require', 'displayfeatures');
   ga('send', 'pageview');
 
+</script>
+<script>
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+     document.location = url;
+     }
+   });
+}
 </script>
 <!-- End Google Universal Analytics Tag -->
 
@@ -46,21 +61,41 @@
 
 <!--Google DFP Header-->
 
+    <!--Async Mode-->
     <script type="text/javascript">
-        (function() {
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
             var useSSL = 'https:' == document.location.protocol;
-            var src = (useSSL ? 'https:' : 'http:') +
+            gads.src = (useSSL ? 'https:' : 'http:') +
             '//www.googletagservices.com/tag/js/gpt.js';
-            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
         })();
-    </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    </script>
+
+   
+    <!--Header Bidding Script-->
+        
+<!--Begin HB Script Here-->
+<!--OpenX-->
+<script type="text/javascript" src="//fourtests-d.openx.net/w/1.0/jstag?nc=24138414-4tests"></script>
+<!--End HB Script Here-->
+
+    <!--End Header Bidding Script-->
+      
 
     <script type="text/javascript">
-        googletag.defineSlot('/24138414/box_ROS_exam', [[300, 250], [336, 280]], 'div-gpt-ad-1427860674492-1').addService(googletag.pubads());
-googletag.defineSlot('/24138414/lb_ROS_exam', [728, 90], 'div-gpt-ad-1427860674492-2').addService(googletag.pubads());
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/24138414/box_ros_async', [[300, 250], [336, 280]], 'div-gpt-ad-1427860674492-1').addService(googletag.pubads());
+googletag.defineSlot('/24138414/lb_ros_async', [728, 90], 'div-gpt-ad-1427860674492-2').addService(googletag.pubads());
 googletag.defineSlot('/24138414/ss_ROS_exam', [[160, 600]], 'div-gpt-ad-1427860674492-4').addService(googletag.pubads());
 googletag.defineSlot('/24138414/ss_right_bar', [[160, 600]], 'div-gpt-ad-1427860674492-5').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();googletag.enableServices();
+googletag.enableServices();
+            });
     </script>
 
 <!--End Google DFP Header-->
