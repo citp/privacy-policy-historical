@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naturebox.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910050928id_/https%3A//naturebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturebox.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617023602id_/https%3A//naturebox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NatureBox
 
-NatureBox, Inc. (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [www.naturebox.com](https://web.archive.org/web/20150910050928id_/https%3A//), (“ **Site** ”) and Services (as defined in the Terms of Use).  Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at [www.naturebox.com/privacy-policy](https://web.archive.org/web/20150910050928id_/https%3A//privacy-policy).
+NatureBox, Inc. (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [www.naturebox.com](https://web.archive.org/web/20160617023602id_/https%3A//), (“ **Site** ”) and Services (as defined in the Terms of Use).  Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at [www.naturebox.com/privacy-policy](https://web.archive.org/web/20160617023602id_/https%3A//privacy-policy).
 
 **1.  ** **User Consent.   **By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
 
@@ -88,10 +88,10 @@ NatureBox, Inc. (“ **Company** ”) is committed to protecting your privacy. 
 
 NatureBox, Inc.
 
-1052 Commercial Street
+100 Redwood Shores Pkwy, 2nd Floor
 
-San Carlos, CA 94070
+Redwood City, CA 94065
 
-(415) 967-0036
+1-888-613-6998
 
 **11.  ** **Changes to This Privacy Policy.   **This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site.  Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site.  These changes will be effective immediately for new users of our Service.  Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address.  In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.  In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes.  If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us.  Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
