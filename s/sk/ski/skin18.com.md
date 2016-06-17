@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skin18.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115005014id_/http%3A//skin18.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skin18.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617225645id_/http%3A//skin18.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – skin18com
 
