@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callingcards.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223021956id_/http%3A//www.callingcards.com/help/help_a23.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callingcards.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617162452id_/http%3A//www.callingcards.com/help/help_a23.asp) for the most accurate reproduction.*
 
 # CallingCards.com - Home of Online Calling Cards and Phone Cards
 
