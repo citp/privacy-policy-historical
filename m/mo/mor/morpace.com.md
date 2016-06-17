@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morpace.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230094614id_/http%3A//morpace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morpace.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617125632id_/https%3A//www.morpace.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
