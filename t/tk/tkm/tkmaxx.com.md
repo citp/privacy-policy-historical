@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024091741id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617222850id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - TK Maxx
 
@@ -27,7 +27,9 @@ If you have any questions or concerns about the Policy or about the security of 
 
 
 **Note**  
-If you are 16 or under you may browse our website but you may not register with us. We do not knowingly collect personal information from any person under the age of 16 and all our promotions have a minimum age of at least 16. Our stores may ask for proof of age if an item with an age restriction is purchased and it is unclear to the associate that you are over the applicable age. 
+If you are 16 or under you may browse our website but you may not register with us. We do not knowingly collect personal information from any person under the age of 16 and all our promotions have a minimum age of at least 16. Our stores may ask for proof of age if an item with an age restriction is purchased and it is unclear to the associate that you are over the applicable age.  
+You confirm that you are the owner of all details provided when you registered your account, including the email address.   
+
 
 ## What information do we collect about you and how do we use it? __
 
