@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320143143id_/http%3A//www.deepdiscount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617151231id_/http%3A//www.deepdiscount.com/privacy-policy) for the most accurate reproduction.*
 
-# Help Policies Privacy Policy on DeepDiscount
+# Help Policies - Privacy Policy on DeepDiscount
 
 **COMMITMENT TO YOUR PRIVACY**  
 At deepdiscount.com, your privacy is important to us. We understand that you entrust us with the management of your data. Please know that we protect your privacy. Under no circumstances will deepdiscount.com sell or share any personal information about you to or with any person or organization except as provided in this Privacy Policy or as may be required by law or court order. This Privacy Policy describes the standards that we adhere to in handling information about you.
