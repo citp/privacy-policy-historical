@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905142105id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163738id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
-# eSchool News | Privacy Policy | eSchool News
-
-### Privacy Policy
+# Privacy Policy | eSchool News
 
 Reasons
 
@@ -31,8 +29,7 @@ At eSchool News Online we collect different types of information about our users
 1\. To help us improve the services we offer.
 
 2\. To provide personalized services unique to individual users.  
-Top of Page  
-
+Top of Page
 
 #### Our principles:
 
@@ -65,8 +62,7 @@ For certain optional services, eSchool News Online requires that you supply a un
 
 
 
-Top of Page  
-
+Top of Page
 
 #### What does eSchool News do with the information it gathers/tracks?
 
@@ -74,33 +70,29 @@ Top of Page
 eMail: Using the eMail addresses provided at registration, eSchool News Online periodically sends promotional eMail to its subscribers about services offered by eSchool News Online and its advertisers. eSchool News Online may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. To manage your eSchool News Online eMail profile, please go to our [eMail management page](http://www.eschoolnews.com/memberprofile/)).
 
 Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, eSchool News Online has put in place appropriate physical, electronic, and managerial procedures to protect the information it collects online. These security measures are reviewed and updated as necessary to provide a secure data environment.  
-Top of Page  
-
+Top of Page
 
 #### With whom does eSchool News Online share the information it gathers and tracks?
 
 eSchool News Online uses the information it gathers to promote special pricing and discount offers for our newspaper, newsletters, directories, and conferences. The information gathered may also be shared with advertisers and other partners. eSchool News Online will provide registered users with all personal information collected at the time of registration upon request. This information will be sent only to the eMail address on file for the unique subscriber ID associated with it.
 
 During the registration process, new users may select to register for various eMail publications. If you select this option, eSchool News Online will use the information collected on the registration form to send targeted eMails to you on behalf of advertisers. eSchool News Online subscribers may opt-out of this service at any time.  
-Top of Page  
+Top of Page
 
-
-####  Blogs and RSS feeds:
+#### Blogs and RSS feeds:
 
 eSchool News Online offers optional resources for communications. Any information you disclose when posting a message in these tools becomes public. Moreover, subscribers who post a message in our communications make their eMail address available to others through a feature of our communications software, which could result in unsolicited eMail from other subscribers or parties.  
-
+Top of Page
 
 #### Children’s Guidelines:
 
 No section of eSchool News Online is directed at children 12 and under. We collect no personally identifiable information from visitors known to be children.  
-Top of Page  
-
+Top of Page
 
 #### Opting-Out, Corrections, and Cancellations:
 
 Upon request, eSchool News Online will a) Remove you and your personal information from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to “opt out” of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [Customer Service](mailto:custserv@eschoolnews.com). To manage your eSchool News Online eMail profile, please go to our [eMail management page](http://www.eschoolnews.com/memberprofile/).  
-Top of Page  
-
+Top of Page
 
 #### Additional Information Or to Report a Problem:
 
