@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217081624id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617114805id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
 THE Hard Rock and AOR Reference on the Internet!
 
-Bands: 6707     CDS: 16243     Songs: 193723
+Bands: 6905     CDS: 16779     Songs: 200133
 
 [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258665)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258601)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9257845)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258002)    [ ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&&no_note=0&hosted_button_id=9258128)     
 Your ongoing support of Heavy Harmonies is appreciated! 
