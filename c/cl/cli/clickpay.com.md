@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915183528id_/http%3A//site.clickpay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617122508id_/https%3A//site.clickpay.com/privacy-policy) for the most accurate reproduction.*
 
-# ClickPay | Privacy Policy
+# Privacy Policy - ClickPay
 
 #### Privacy Policy
 
 **Overview**  
-At ClickPay, A Division of NovelPay LLC, protecting our users’ privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it. [Click to download and read the Privacy Notice](https://web.archive.org/web/20150915183528id_/http%3A//site.clickpay.com/PrivacyDisclosure.pdf).
+At ClickPay, A Division of NovelPay LLC, protecting our users’ privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it. [Click to download and read the Privacy Notice](https://site.clickpay.com/PrivacyDisclosure.pdf).
 
 **Scope of Policy**  
 This Policy applies to ClickPay. It does not apply to other companies’ or organizations’ web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.
@@ -21,3 +21,6 @@ We collect and analyze traffic on our web site by keeping track of the IP addres
 
 **Mandatory Communications**  
 ClickPay reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our End-user License Agreement. These communications are mandatory.
+
+  
+
