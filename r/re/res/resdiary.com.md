@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resdiary.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018095452id_/https%3A//restaurateurs.resdiary.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resdiary.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617134354id_/https%3A//restaurateurs.resdiary.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Restaurant Diary Reservation System | ResDiary
 
