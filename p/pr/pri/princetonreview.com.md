@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114152307id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617173811id_/http%3A//www.princetonreview.com/privacy) for the most accurate reproduction.*
 
 # The Princeton Review Privacy Policy | The Princeton Review
 
@@ -33,7 +33,7 @@ For any user under the age of 13, we must have permission from such user’s par
 
 ### Right to Opt In and Opt Out
 
-You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information. For example, you may elect not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes. You may make this request by at “My Communication Preference “ and indicating which correspondence you would like to receive. If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the [My Communication Preferences ](http://www.princetonreview.com/registration/#/profile).
+You have the right to “opt-in” and “opt-out” of certain of our uses of your Personal Information. For example, you may elect not to receive correspondence from us or have your Personal Information shared with other entities for their marketing purposes. You may make this request by visiting "Account Settings" and indicating which correspondence you would like to receive. If you do not want to receive any promotional correspondence, simply uncheck all of the boxes of the [Account Settings ](https://secure.princetonreview.com/account/logininfo).
 
 You can also send an e-mail to [ prep@review.com ](mailto:prep@review.com). In this e-mail, please say whether: (i) you would like to opt-out of receiving all e-mail promotional correspondence from The Princeton Review in general or (ii) if you would only like to opt-out of certain of The Princeton Review's e-newsletters or correspondence and if so which ones or (iii) you would like to opt-out of having your Personal Information shared with third parties or (iv) you would like to opt-out of receiving SMS or text messages. You may also opt-out of The Princeton Review's promotional e-mails by clicking on an opt-out link within the e-mail you receive.
 
@@ -73,13 +73,15 @@ We may use your Personal Information to
 
 
 
+Please note that if you save a school into your “school planner,” then we may share your contact information with that particular school and other schools that are interested in you to enable them to contact you.
+
 #### Schools and Tutors
 
 The Princeton Review works with schools and institutions to provide programs such as tutoring, test preparation and college counseling. Your school, district or state may arrange for your participation in these programs and may purchase (or subsidize) products on your behalf. We may share the Personal Information that you provide to us through your participation in these school programs with your school, district and your parents. In addition, your school may require us to share your information with others legally entitled to access your academic records, such as your state department of education. This may include the content of on-demand tutoring sessions as well as comments you leave in post-session surveys.
 
 #### Service Providers
 
-We may share your Personal Information with vendors and other third parties who help deliver our products and services. These third parties are not authorized by us to use your Personal Information in any other way.
+We may share your Personal Information with vendors and other third parties who help deliver our products and services. These third parties are not authorized by us to use your Personal Information in any other way. However, as noted above, if you save a specific school into your “school planner,” then we may share your contact information with that school and other schools that are interested in you to enable them to contact you.
 
 #### Aggregated and non-Personal Information.
 
@@ -121,6 +123,6 @@ Natick, MA 01760
 
 ### Addendum for Users Outside of the United States and Canada:
 
-You may request that we delete personal information collected from you at the Site by sending an email to [prep@review.com](mailto:prep@review.com) requesting such deletion.  Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.
+You may request that we delete personal information collected from you at the Site by sending an email to [prep@review.com ](mailto:prep@review.com) requesting such deletion.  Please note that if you are receiving services from us, we will need to keep such information during the course of providing those services to you to communicate with you about them.
 
-_Effective Date: October 9, 2015_
+_Effective Date: June 10, 2016_
