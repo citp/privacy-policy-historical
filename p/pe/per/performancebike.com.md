@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the performancebike.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215001831id_/http%3A//www.performancebike.com/webapp/wcs/stores/servlet/Content_10052_10551_-1_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancebike.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617155603id_/http%3A//www.performancebike.com/webapp/wcs/stores/servlet/Content_10052_10551_-1_PrivacyPolicy) for the most accurate reproduction.*
 
-# Performance Bicycle Privacy Policy
+# PrivacyPolicy - Performance Bike
 
-|  Performance, Inc. which operates PerformanceBike.com ("Performance Bicycle") is committed to respecting your privacy and protection. The purpose of this Privacy Policy is to inform you of what personal information we may collect from you, how we use it and the choices you have regarding our use of it. Performance Bicycle is the sole owner of the information collected on [www.performancebike.com](http://www.performancebike.com/). 
+Performance, Inc. which operates PerformanceBike.com ("Performance Bicycle") is committed to respecting your privacy and protection. The purpose of this Privacy Policy is to inform you of what personal information we may collect from you, how we use it and the choices you have regarding our use of it. Performance Bicycle is the sole owner of the information collected on [www.performancebike.com](http://www.performancebike.com/). 
 
 ### A Note to Non-US Users 
 
@@ -119,5 +119,3 @@ Performance, Inc.
 
 Copyright © 2009 Performance Bicycle. All rights reserved.  
 
-
-|  | 
