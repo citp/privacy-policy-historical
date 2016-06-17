@@ -1,63 +1,107 @@
-<!--The following is the downloaded HTML source of the moneymappress.com privacy policy that was archived on 2015-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151130174947id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moneymappress.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618014623id_/http%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0013/7439.js?438997" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://engine.adzerk.net/ados.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ8PVVNVGwQHV1ZRAgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<!DOCTYPE html><html lang="en-US"><head><script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0013/7439.js?438997" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://engine.adzerk.net/ados.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKVM49"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ8PVVNVGwQHV1ZRAgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta charset="UTF-8">
 <title>Privacy Policy</title><meta name="robots" content="noodp,noydir">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="alternate" type="application/rss+xml" title="Money Map Press » Feed" href="http://moneymappress.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Money Map Press » Comments Feed" href="http://moneymappress.com/comments/feed/">
 <link rel="canonical" href="http://moneymappress.com/privacy-policy/">
-<link rel="stylesheet" id="mmp_theme-css" href="http://moneymappress.com/wp-content/themes/mmp/style.css?592bd6" type="text/css" media="all">
-<link rel="stylesheet" id="style-dataTable-css" href="http://moneymappress.com/wp-content/plugins/Tradestops-API/css/jquery.dataTables.css?592bd6" type="text/css" media="all">
-<link rel="stylesheet" id="style-custom-css" href="http://moneymappress.com/wp-content/themes/mmp/custom.dataTables.css?592bd6" type="text/css" media="all">
-<link rel="stylesheet" id="wp-pagenavi-css" href="http://moneymappress.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?592bd6" type="text/css" media="all">
-<link rel="stylesheet" id="print-css" href="http://moneymappress.com/wp-content/themes/mmp/inc/css/print.css?592bd6" type="text/css" media="print">
-<link rel="stylesheet" id="joyride-css" href="http://moneymappress.com/wp-content/themes/mmp/inc/css/joyride-2.1.css?592bd6" type="text/css" media="all">
-<link rel="stylesheet" id="agora-mmp-widgets-css" href="http://moneymappress.com/wp-content/plugins/agora-mmp-plugins/css/style.css?592bd6" type="text/css" media="all">
-<script type="text/javascript" src="http://moneymappress.com/wp-includes/js/jquery/jquery.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-includes/js/jquery/jquery-migrate.min.js?592bd6"></script>
+<link rel="stylesheet" id="mmp_theme-css" href="http://moneymappress.com/wp-content/themes/mmp/style.css?6b22b2" type="text/css" media="all">
+<link rel="stylesheet" id="style-dataTable-css" href="http://moneymappress.com/wp-content/plugins/Tradestops-API/css/jquery.dataTables.css?6b22b2" type="text/css" media="all">
+<link rel="stylesheet" id="style-custom-css" href="http://moneymappress.com/wp-content/themes/mmp/custom.dataTables.css?6b22b2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://moneymappress.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?6b22b2" type="text/css" media="all">
+<link rel="stylesheet" id="print-css" href="http://moneymappress.com/wp-content/themes/mmp/inc/css/print.css?6b22b2" type="text/css" media="print">
+<link rel="stylesheet" id="joyride-css" href="http://moneymappress.com/wp-content/themes/mmp/inc/css/joyride-2.1.css?6b22b2" type="text/css" media="all">
+<link rel="stylesheet" id="agora-mmp-widgets-css" href="http://moneymappress.com/wp-content/plugins/agora-mmp-plugins/css/style.css?6b22b2" type="text/css" media="all">
+<script type="text/javascript" src="http://moneymappress.com/wp-includes/js/jquery/jquery.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-includes/js/jquery/jquery-migrate.min.js?6b22b2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajax_object = {"ajaxurl":"http:\/\/moneymappress.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/tfs_read_later/readlater_js.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/retinamatic/script.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/behaviors.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/single-sub.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/guru-carousel.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/jquery-ui-1.11.2.custom/jquery-ui.min.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/jquery.joyride-2.1.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/jquery.cookie.js?592bd6"></script>
-<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/validate.min.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/sticky-kit.min.js?592bd6"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/tfs_read_later/readlater_js.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/retinamatic/script.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/fastselect.standalone.min.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/fastselect.min.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/behaviors.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/single-sub.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/guru-carousel.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/jquery-ui-1.11.2.custom/jquery-ui.min.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/jquery.joyride-2.1.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/jquery.cookie.js?6b22b2"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/validate.min.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/sticky-kit.min.js?6b22b2"></script>
+<link rel="https://api.w.org/" href="http://moneymappress.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://moneymappress.com/xmlrpc.php?rsd">
+<link rel="alternate" type="application/json+oembed" href="http://moneymappress.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmoneymappress.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://moneymappress.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmoneymappress.com%2Fprivacy-policy%2F&amp;format=xml">
 	<script type="text/javascript">
 	var ajaxurl = 'http://moneymappress.com/wp-admin/admin-ajax.php';
 	</script>
-	<link rel="Shortcut Icon" href="http://moneymappress.com/wp-content/themes/mmp/img/favicon.ico?592bd6" type="image/x-icon">
+	<!-- BEGIN wp-parsely Plugin Version 1.7 -->
+<meta name="wp-parsely_version" id="wp-parsely_version" content="1.7">
+   <script type="application/ld+json">
+   {"@context":"http:\/\/schema.org","@type":"WebPage","headline":"Privacy Policy","url":"http:\/\/moneymappress.com\/privacy-policy\/"}   </script>
+<!-- END wp-parsely Plugin Version 1.7 -->
+<link rel="Shortcut Icon" href="http://moneymappress.com/wp-content/themes/mmp/img/favicon.ico?6b22b2" type="image/x-icon">
 <!-- Broadstreet ad initialization script -->
 <script type="text/javascript" src="http://cdn.broadstreetads.com/init.js"></script>
 
-<meta name="description" content="Money Map Press, led by veteran publisher Mike Ward, has one goal: to make investing profitable."><!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js?592bd6"></script><![endif]-->
+<meta name="description" content="Money Map Press, led by veteran publisher Mike Ward, has one goal: to make investing profitable.">
+
+<!-- Hotjar Tracking Code for http://moneymappress.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:173752,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-173752.js?sv=5"></script><!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js?6b22b2"></script><![endif]-->
 <script>
 		var loggedIn, notFound;
-	loggedIn = false;notFound = false;</script></head>
-<body class="page page-id-9890 page-template page-template-template-no-nav page-template-template-no-nav-php header-full-width content-sidebar privacy-policy" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap">    <style>
+	loggedIn = false;notFound = false;</script>    <script type="application/ld+json">
+        {"@context": "http://schema.org",
+            "@type": "NewsArticle",
+            "headline": "Privacy Policy",
+            "url": "http://moneymappress.com/privacy-policy/",
+            "thumbnailUrl": "",
+            "dateCreated": "April 22, 2014",
+            "articleSection": "page",
+            "creator": [],
+            "keywords": ["logged_out"]
+    }
+    </script>
+    </head>
+<body class="page page-id-9890 page-template page-template-template-no-nav page-template-template-no-nav-php header-full-width content-sidebar privacy-policy" itemscope="itemscope" itemtype="http://schema.org/WebPage"><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MKVM49"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MKVM49');</script>
+<!-- End Google Tag Manager --><div class="site-container"><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap">    <style>
         li.concierge {
             display: none;
         }
     </style>
+
 <meta http-equiv="content-type" content="text/html; charset=UTF8">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?592bd6">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?6b22b2">
 
 <div class="inner clearfix">
-            <h1 id="not_logged_in_logo"><a href="http://moneymappress.com"><img src="http://moneymappress.com/wp-content/themes/mmp/img/mmp-logo.png?592bd6" class="placeholder" alt="Money Map Press"></a></h1>
+            <h1 id="not_logged_in_logo"><a href="http://moneymappress.com"><img src="http://moneymappress.com/wp-content/themes/mmp/img/mmp-logo.png?6b22b2" class="placeholder" alt="Money Map Press"></a></h1>
         <div class="header-wrap nologin mobile-hide">
             <div class="header-login nologin">
-                <p class="login_label">LOG IN</p>
-                
+                <div id="login-container-remember">
+                    <p class="login_label">LOG IN</p>
+                    
 		<form name="loginform" id="loginform" action="http://moneymappress.com/wp-login.php" method="post">
 			
 			<p class="login-username">
@@ -68,14 +112,17 @@ var ajax_object = {"ajaxurl":"http:\/\/moneymappress.com\/wp-admin\/admin-ajax.p
 				<label for="user_pass"></label>
 				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20">
 			</p>
-			<p class="login-assistance"><a href="/wp-login.php?action=lostpassword">Forget your password?</a><br><a href="http://moneymappress.com/need-assistance">Need assistance? Click HERE.</a></p>
-			
+			<p class="login-assistance"><a href="/wp-login.php?action=lostpassword">Forgot Password?</a></p>
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="header_remember" value="forever" checked="checked"> Remember Me</label></p>
 			<p class="login-submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Submit">
 				<input type="hidden" name="redirect_to" value="http://moneymappress.com/privacy-policy/">
 			</p>
 			
 		</form>
+                    <p class="login_helper_links"><a href="http://moneymappress.com/reset-password">Forgot Password?</a></p>
+                </div>
+
                 <div class="helpsearch nologin">
 
 
@@ -109,15 +156,10 @@ var ajax_object = {"ajaxurl":"http:\/\/moneymappress.com\/wp-admin\/admin-ajax.p
                                             </ul>
 
 
-                    <!--          <p class="search_switch"><a href="#" id="search_switch"><img src="http://moneymappress.com/wp-content/themes/mmp/img/maglens-large.png?592bd6" class="search-icon search-icon-large" alt="Search" /></a></p>
-                <p class="search_switch helper_icon"><a id="helper_icon" href="#"><img src="http://moneymappress.com/wp-content/themes/mmp/img/question_mark_large.png?592bd6" class="search-icon search-icon-large" alt="Search" /></a></p>
+                    <!--          <p class="search_switch"><a href="#" id="search_switch"><img src="http://moneymappress.com/wp-content/themes/mmp/img/maglens-large.png?6b22b2" class="search-icon search-icon-large" alt="Search" /></a></p>
+                <p class="search_switch helper_icon"><a id="helper_icon" href="#"><img src="http://moneymappress.com/wp-content/themes/mmp/img/question_mark_large.png?6b22b2" class="search-icon search-icon-large" alt="Search" /></a></p>
            -->
                 </div>
-
-                <p class="login_helper_links"><a href="http://moneymappress.com/reset-password">Forgot your
-                        password?</a> <a href="javascript:void(0);" class="need_assistance">Need assistance? Click HERE</a></p>
-
-
             </div>
             <div class="hidden" id="searchform"><form method="get" class="search-form" action="http://moneymappress.com/" role="search"><input type="search" name="s" placeholder="Search this website…"><input type="submit" value="Search"></form></div>
         </div>
@@ -145,15 +187,14 @@ var ajax_object = {"ajaxurl":"http:\/\/moneymappress.com\/wp-admin\/admin-ajax.p
 				<label for="user_pass"></label>
 				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20">
 			</p>
-			<p class="login-assistance"><a href="/wp-login.php?action=lostpassword">Forget your password?</a><br><a href="http://moneymappress.com/need-assistance">Need assistance? Click HERE.</a></p>
-			
+			<p class="login-assistance"><a href="/wp-login.php?action=lostpassword">Forgot Password?</a></p>
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="main_remember" value="forever" checked="checked"> Remember Me</label></p>
 			<p class="login-submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Submit">
 				<input type="hidden" name="redirect_to" value="http://moneymappress.com/privacy-policy/">
 			</p>
 			
-		</form>                <p class="login_helper_links"><a href="http://moneymappress.com/reset-password">Forgot your
-                        password?</a> <a href="javascript:void(0);" class="need_assistance">Need assistance? Click HERE</a></p>
+		</form>                <p class="login_helper_links"><a href="http://moneymappress.com/reset-password">Forgot Password?</a></p>
 
             </div>
 
@@ -242,6 +283,18 @@ If you subscribe to Money Map Press, your name and e-mail address will be placed
 </ul></div></div></section>
 <section id="mmp_testimonials-8" class="widget widget_mmp_testimonials"><div class="widget-wrap">            <div class="subscription_testimonials">
                 <h4 class="widget-title widgettitle">Recent Reviews</h4>
+                                                                                                    <a href="http://moneymappress.com/guru/mike-ward/testimonials"> Mike Ward, Money Map Passport Select</a><br>
+                                        <article class="post-54372 testimonial type-testimonial status-publish entry">
+                        A great lineup of profitable traders. Timely information and education.  <span> — Virginia W.</span>
+                    </article>
+                                                                                                    <a href="http://moneymappress.com/guru/shah-gilani/testimonials"> Shah Gilani, Short-Side Fortunes</a><br>
+                                        <article class="post-53596 testimonial type-testimonial status-publish entry">
+                        I gained $5,000 on a $5,000 investment in a week on AIZ, and $3,900 on a $4,500 investment on GS in a week. Shah's timing was super. It is a great service for times like now.<span> — Mitch Randall</span>
+                    </article>
+                                                                                                    <a href="http://moneymappress.com/guru/shah-gilani/testimonials"> Shah Gilani, Short-Side Fortunes</a><br>
+                                        <article class="post-53134 testimonial type-testimonial status-publish entry">
+                        GREAT JOB! After losing  lots of money with my 401K I converted it to self-directed and signed up for  your service. In the last week I am up over $13000. This seems modest until you  know my account was only $110,000 two weeks ago and now is over $125,000<span> — Fred Trundle</span>
+                    </article>
                                                                                                     <a href="http://moneymappress.com/guru/tom-gentile/testimonials"> Tom Gentile, Money Calendar Alert</a><br>
                                         <article class="post-51177 testimonial type-testimonial status-publish entry">
                         Here are the 1st 4 trades with your Money Calendar: IBM +$285; AAPL +$764; GS -$179; and PCLN +$894. Thanks!!!! This will make my retirement easier. I am going to plow most of the gains back in to grow the "bank." This is a Godsend.<span> — George Gault</span>
@@ -250,24 +303,12 @@ If you subscribe to Money Map Press, your name and e-mail address will be placed
                                         <article class="post-51175 testimonial type-testimonial status-publish entry">
                         Tom I am new at trading options but now have 3 trades with your advice and they are all making money. Your explanation of options is the best I have ever seen. This Money Calendar is so powerful I have never seen anything even close to it.<span> — Asher Rooney</span>
                     </article>
-                                                                                                    <a href="http://moneymappress.com/guru/tom-gentile/testimonials"> Tom Gentile, Money Calendar Alert</a><br>
-                                        <article class="post-51173 testimonial type-testimonial status-publish entry">
-                        As a new investor, I was thrilled that my first two option trades using your system netted me half my subscription price in the first week!!<span> — Jessie Horn</span>
-                    </article>
-                                                                                                    <a href="http://moneymappress.com/guru/tom-gentile/testimonials"> Tom Gentile, Money Calendar Alert</a><br>
-                                        <article class="post-51156 testimonial type-testimonial status-publish entry">
-                        The BAX trades were a dream. And it proved to me that his system does work extremely well.<span> — Pen Easton</span>
-                    </article>
-                                                                                                    <a href="http://moneymappress.com/guru/tom-gentile/testimonials"> Tom Gentile, Money Calendar Alert</a><br>
-                                        <article class="post-51154 testimonial type-testimonial status-publish entry">
-                        I sold to close and took my double bagger. If I  can do this regularly by following your recommendations, I will be a happy  camper!<span> — Clem Robertson</span>
-                    </article>
                                 
             </div>
         </div></section>
 </aside></div></div><div id="footer_subs_list">
 	<div class="wrap">
-        <div class="footerfeedback"><a href="#">Feedback? Submit questions and comments here.</a></div>	<div class="all_subs">
+        	<div class="all_subs">
 		<h2 class="newsletters">Newsletters</h2>
 		<ul>
 														<li class="post-53 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-newsletter entry"><a href="http://moneymappress.com/subscription/private-briefing/">Private Briefing</a> <a href="javascript:void(0);" title="Private Briefing" class="mail-icon"><span></span></a></li>
@@ -284,12 +325,13 @@ If you subscribe to Money Map Press, your name and e-mail address will be placed
 	<div class="all_subs trading">
 		<h2 class="trading">Trading Services</h2>
 		<ul>
-							<li class="post-34895 subscription type-subscription status-publish has-post-thumbnail topic-finance publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/stealth-profits-trader/">Stealth Profits Trader</a> <a href="javascript:void(0);" title="Stealth Profits Trader" class="mail-icon"><span></span></a></li>
+							<li class="post-54470 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/weekly-cash-clock/">Weekly Cash Clock</a> <a href="javascript:void(0);" title="Weekly Cash Clock" class="mail-icon"><span></span></a></li>
+											<li class="post-34895 subscription type-subscription status-publish has-post-thumbnail topic-finance publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/stealth-profits-trader/">Stealth Profits Trader</a> <a href="javascript:void(0);" title="Stealth Profits Trader" class="mail-icon"><span></span></a></li>
 											<li class="post-172 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/small-cap-rocket-alert/">Small-Cap Rocket Alert</a> <a href="javascript:void(0);" title="Small-Cap Rocket Alert" class="mail-icon"><span></span></a></li>
 											<li class="post-171 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/short-side-fortunes/">Short-Side Fortunes</a> <a href="javascript:void(0);" title="Short-Side Fortunes" class="mail-icon"><span></span></a></li>
 											<li class="post-169 subscription type-subscription status-publish has-post-thumbnail topic-technology publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/radical-technology-profits/">Radical Technology Profits</a> <a href="javascript:void(0);" title="Radical Technology Profits" class="mail-icon"><span></span></a></li>
-											<li class="post-49950 subscription type-subscription status-publish has-post-thumbnail topic-finance publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/money-calendar-alert/">Money Calendar Alert</a> <a href="javascript:void(0);" title="Money Calendar Alert" class="mail-icon"><span></span></a></li>
 									</ul><ul class="last">
+											<li class="post-49950 subscription type-subscription status-publish has-post-thumbnail topic-finance publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/money-calendar-alert/">Money Calendar Alert</a> <a href="javascript:void(0);" title="Money Calendar Alert" class="mail-icon"><span></span></a></li>
 											<li class="post-46954 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/high-velocity-profits/">High Velocity Profits</a> <a href="javascript:void(0);" title="High Velocity Profits" class="mail-icon"><span></span></a></li>
 											<li class="post-49 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/energy-inner-circle/">Energy Inner Circle</a> <a href="javascript:void(0);" title="Energy Inner Circle" class="mail-icon"><span></span></a></li>
 											<li class="post-12 subscription type-subscription status-publish has-post-thumbnail topic-trading publication-status-active sub-type-trading-service entry"><a href="http://moneymappress.com/subscription/capital-wave-forecast/">Capital Wave Forecast</a> <a href="javascript:void(0);" title="Capital Wave Forecast" class="mail-icon"><span></span></a></li>
@@ -365,10 +407,10 @@ If you subscribe to Money Map Press, your name and e-mail address will be placed
 
     
 <div class="footer_logo">
-	<a href="http://moneymappress.com"><img src="http://moneymappress.com/wp-content/themes/mmp/img/mmp-logo-light.png?592bd6" class="placeholder" alt="logo (light)"></a>
+	<a href="http://moneymappress.com"><img src="http://moneymappress.com/wp-content/themes/mmp/img/mmp-logo-light.png?6b22b2" class="placeholder" alt="logo (light)"></a>
 </div>
 <div class="company_info">
-	<p>© 2015 – Money Map Press</p>
+	<p>© 2016 – Money Map Press</p>
 	<p>16 W. Madison St. | Baltimore, MD, 21201</p>
 	<p>Toll-free 1.888.384.8339 | International +1.443.353.4519 | Fax 1.410.622.3050</p>
 		<p><a href="/site-map/">Site Map</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/disclaimer/">Disclaimer</a> | <a id="footer-contact-us" href="javascript:void(0);">Contact Us</a></p>
@@ -384,49 +426,106 @@ If you subscribe to Money Map Press, your name and e-mail address will be placed
 
     <div id="contact-customer-service" class="mmp_shadowbox-content">
         <span id="custsrv_content">
-			<h1>Contact Customer Service </h1>
-<p>Please fill out the form below and one of our customer service representatives will be in touch shortly.</p>        </span>
+            <div class="popup-content">
+                <h1>Contact Customer Service </h1>
+<p>Please fill out the form below and one of our customer service representatives will be in touch shortly.</p>            </div>
+            <div class="quick-links">
+                <h3>Helpful Links</h3>
+<ul>
+<li><a href="http://moneymappress.com/faq/#deeplink1">Update Username / Password</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink2">Special Reports</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink3">How to download Special Reports</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink4">Update Contact Information</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink5">Subscription Status</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink6">Subscription Expiration</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink7">Tips to receive our emails</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink8">Question for Editors</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink9">Find Broker</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink10">Investing Tips</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink11">Options Trading</a></li>
+</ul>
+
+<p style="font-size:14px; text-align:left;padding:5px;"><u>Customer Service</u><br>
+Toll-free: 1.888.384.8339<br>
+Intl:  +1.443.353.4519<br>
+Fax: 1.410.622.3050<br></p>            </div>
+
+        </span>
 
         <span id="salesteam_content">
-			<h2>Contact Our VIP Services Team</h2>
+            <div class="popup-content"><h2>Contact Our VIP Services Team</h2>
 
 <p>The Money Map Press VIP services team is available Monday - Friday between 8:00 AM and 11:00 PM ET, and Saturday between 10:00 AM and 8:00 PM ET by phone. </p>
 
 <p><strong>By Phone:</strong><br>
 Toll-Free: 1.888.384.8339 <br>
-Local/International: 1.443.353.4519</p>        </span>
+Local/International: 1.443.353.4519</p></div>
+            <div class="quick-links">
+                <h3>Helpful Links</h3>
+<ul>
+<li><a href="http://moneymappress.com/faq/#deeplink1">Update Username / Password</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink2">Special Reports</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink3">How to download Special Reports</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink4">Update Contact Information</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink5">Subscription Status</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink6">Subscription Expiration</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink7">Tips to receive our emails</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink8">Question for Editors</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink9">Find Broker</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink10">Investing Tips</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink11">Options Trading</a></li>
+</ul>
+
+<p style="font-size:14px; text-align:left;padding:5px;"><u>Customer Service</u><br>
+Toll-free: 1.888.384.8339<br>
+Intl:  +1.443.353.4519<br>
+Fax: 1.410.622.3050<br></p>            </div>
+
+        </span>
 
         <span id="guru_content">
-			<h2>Ask <strong></strong> a question.</h2>
+            <div class="popup-content"><h2>Ask <strong></strong> a question.</h2></div>
+			<div class="quick-links">
+                <h3>Helpful Links</h3>
+<ul>
+<li><a href="http://moneymappress.com/faq/#deeplink1">Update Username / Password</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink2">Special Reports</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink3">How to download Special Reports</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink4">Update Contact Information</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink5">Subscription Status</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink6">Subscription Expiration</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink7">Tips to receive our emails</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink8">Question for Editors</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink9">Find Broker</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink10">Investing Tips</a></li>
+<li><a href="http://moneymappress.com/faq/#deeplink11">Options Trading</a></li>
+</ul>
+
+<p style="font-size:14px; text-align:left;padding:5px;"><u>Customer Service</u><br>
+Toll-free: 1.888.384.8339<br>
+Intl:  +1.443.353.4519<br>
+Fax: 1.410.622.3050<br></p>            </div>
         </span>
 
         <div class="theReturnedMessage"></div>
 <div id="the-cs-form">
+    <div class="form-faq">To get immediate answers to commonly asked questions, <a href="http://moneymappress.com/faq/">click here</a>.</div>
 
     <form action="http://moneymappress.com/wp-content/themes/mmp/cs-form-submit.php" method="post" name="csform" id="csform">
         <table align="center" border="0" cellpadding="5">
             <tbody>
             <tr>
-                <td><label for="first_name">First Name:</label></td>
-                <td style="text-align: left;"><input maxlength="50" name="first_name" size="30" type="text" pattern="^[A-z .]{2,}$" value="" required=""><span style="color:red;"> *</span></td>
-            </tr>
-            <tr>
-                <td><label for="last_name">Last Name:</label></td>
-                <td style="text-align: left;"><input maxlength="50" name="last_name" size="30" type="text" pattern="^[A-z .]{2,}$" value="" required=""><span style="color:red;"> *</span></td>
+                <td><label for="full_name">Full Name:</label></td>
+                <td style="text-align: left;"><input maxlength="50" name="full_name" size="30" type="text" pattern="^[A-z .]{2,}$" value="" placeholder="Full Name" required=""><span style="color:red;"> *</span></td>
             </tr>
             <tr>
                 <td><label for="email">Email Address:</label></td>
-                <td style="text-align: left;"><input maxlength="80" name="email" size="30" type="email" value="" required=""><span style="color:red;"> *</span></td>
-            </tr>
-            <tr>
-                <td><label for="zipcode">Zip Code:</label></td>
-                <td style="text-align: left;"><input type="zip" maxlength="10" id="zipcode" name="zipcode" size="10" value="" required=""><span style="color:red;"> *</span></td>
+                <td style="text-align: left;"><input maxlength="80" name="email" size="30" type="email" value="" placeholder="Email Address" required=""><span style="color:red;"> *</span></td>
             </tr>
             <tr>
                 <td>Select a Publication:</td>
                 <td style="text-align: left;">
-                    <select id="pubselect" name="publication" class="req_input" style="background-color: #F8F8F8; height: 30px; padding:3px;" required="">
-                        <option value="" selected="">Select One</option>
+                    <select id="pubselect" name="publication[]" multiple="" class="req_input multipleSelect" style="background-color: #F8F8F8; height: 30px; padding:3px;">
                         <option value="ern">Biotech Insider Alert</option>
                         <option value="edi">Capital Wave Forecast</option>
                         <option value="ead">Energy Advantage</option>
@@ -437,43 +536,52 @@ Local/International: 1.443.353.4519</p>        </span>
                         <option value="mml">Money Map Passport Club</option>
                         <option value="flx">Money Map Passport Select</option>
                         <option value="mmr">Money Map Report</option>
+                        <option value="mm">Money Morning</option>
                         <option value="nvx">Nova-X Report</option>
+                        <option value="oei">Oil &amp; Energy Investor</option>
                         <option value="mpf">Passport Fellowship</option>
+                        <option value="ppt">Power Profit Trades</option>
                         <option value="mmp">Private Briefing</option>
                         <option value="tim">Radical Technology Profits</option>
                         <option value="spn">Short-Side Fortunes</option>
                         <option value="sra">Small-Cap Rocket Alert</option>
+                        <option value="sti">Strategic Tech Investor</option>
                         <option value="spf">Stealth Profits Trader</option>
+                        <option value="smi">Sure Money Investor</option>
                         <option value="rgd">The Money Map Project</option>
-                    </select> <span style="color:red;"> *</span>
+                        <option value="twr">Total Wealth</option>
+                        <option value="wsii">Wall Street Insights &amp; Indictments</option>
+                        <option value="wck">Weekly Cash Clock</option>
+                    </select>
                 </td>
             </tr>
             <tr>
                 <td>Select a Topic:</td>
                 <td style="text-align: left;">
-                    <select id="reason_primary" name="reason_primary" style="background-color: #F8F8F8; height: 30px; padding:3px;" required="">
+                    <select id="reason_primary" class="singleInputDynamic" name="reason_primary" style="background-color: #F8F8F8; height: 30px; padding:3px;" required="">
                         <option value="" selected="">Select One</option>
-                        <option value="Cancel Auto-Renew">Automatic Renewal Status</option>
-                        <option value="Cancel Subscription">Cancel Subscription</option>
+                        <option value="Interested In Product">Product Inquiry</option>
                         <option value="Editorial Feedback">Editorial Feedback</option>
                         <option value="General Feedback">General Feedback</option>
-                        <option value="Ask a Question">Ask a Question</option>
+                        <option class="cs-question" value="Ask a Question">Ask a Question</option>
                         <option value="Email Problem">Email Problem</option>
-                        <option value="Forgot Password">Forgot Password</option>
-                        <option value="Need Help Logging in">Need Help Logging in</option>
-                        <option value="Website">Website Issue</option>
+                        <option value="Website">Website Feedback</option>
                         <option value="Order Status">Order Status</option>
                         <option value="Portfolio Question">Portfolio Question</option>
-                        <option value="Refund Status">Refund Status</option>
                         <option value="Subscription Status">Subscription Status</option>
-                        <option value="Customer Maintenance">Update Contact Information</option>
+                        <option value="Change Username">Update Username</option>
                         <option value="Welcome Package">Welcome Package Status</option>
                         <option value="Other">Other</option>
                     </select> <span style="color:red;"> *</span>
                 </td>
             </tr>
+
+            <tr style="display: none;"><td><label for="zipcode">Zip Code:</label></td>
+                <td style="text-align: left;"><input type="zip" maxlength="10" id="zipcode" name="zipcode" size="10" value=""><span style="color:red;"> *</span></td>
+            </tr>
+            
             <tr><td class="add_comments">Comments:</td>
-                <td class="add_comments" style="text-align:left;"><textarea name="comments" rows="5" cols="40" required=""></textarea><span style="color:red;"> *</span></td>
+                <td class="add_comments" style="text-align:left;"><textarea name="comments" rows="5" cols="40" placeholder="Provide additional details to expedite your request"></textarea></td>
             </tr>
             <tr class="hp">
                 <td><label for="email_validate">Honey:</label></td>
@@ -494,7 +602,7 @@ Local/International: 1.443.353.4519</p>        </span>
             </tr>
             </tbody>
         </table>
-        <input type="hidden" name="browserinfo" value="Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)"> <!-- filled in by Elliot -->
+        <input type="hidden" name="browserinfo" value="ia_archiver"> <!-- filled in by Elliot -->
         <input type="hidden" name="currenturl" value="http://moneymappress.com/privacy-policy/">
         <input type="hidden" name="g-recaptcha-response_s" value="">
     </form>
@@ -502,37 +610,40 @@ Local/International: 1.443.353.4519</p>        </span>
 
 
 
+
+
 <div class="forgot-password-form">
 
     <div id="mw_login">
-        <h1>Forgot Your Password?</h1>
-        <div class="">
-            Enter your email address to retrieve a lost password.        </div>
+        <h1></h1>
 
-        <div class="theFPMessage"></div>
-
-        <form name="password_reset_forms" id="password_reset_forms" action="/reset-password/" method="post">
-            <p class="reset-email">
-                <input type="email" name="user_email" id="user_email" size="20" value="" required=""><span style="color:red;"> *</span><br>
-            </p>
-
-            <p class="reset-submit" style="clear: both;">
-                <input type="submit" name="wp-submit" id="wp-submit" class="fp-submit button-primary" value="Send">
-                </p><div class="cs-spinner" style="text-align: center; display: none;"><i class="fa fa-spinner fa-spin"></i></div>
-            <p></p>
-
-            <input type="hidden" id="forgot_password_nonce" name="forgot_password_nonce" value="01cfc6ce64"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">        </form>
+        <a class="cs-form-password" href="http://moneymappress.com/reset-password/">Click here to visit Reset Password Page</a>
+<!--        <div class="--><!--">-->
+<!--            --><!--        </div>-->
+<!---->
+<!--        <div class="theFPMessage"></div>-->
+<!---->
+<!--        <form name="password_reset_form" id="password_reset_form" action="/reset-password/" method="post">-->
+<!--            <p class="reset-email">-->
+<!--                <input type="email" name="user_email" id="user_email" size="20" value="--><!--" required /><span style="color:red;"> *</span><br />-->
+<!--            </p>-->
+<!---->
+<!--            <p class="reset-submit" style="clear: both;">-->
+<!--                <input type="submit" name="wp-submit" id="wp-submit" class="fp-submit button-primary" value="--><!--">-->
+<!--                <div class="cs-spinner" style="text-align: center; display: none;"><i class="fa fa-spinner fa-spin"></i></div>-->
+<!--            </p>-->
+<!---->
+<!--            --><!--        </form>-->
 
     </div>
 
 </div>    </div>
 
 	<div id="passport-club-concierge" class="mmp_shadowbox-content">
-        <h2>Contact The Passport Club Concierge</h2>
-<p>The numbers below allow you to  contact the Concierge Team directly - this is exclusively for Passport Club  members. Just another benefit of being a loyal member of our Passport Club.</p>
-
-<p>Toll-Free: (800)-682-1359<br>
-Local: (443)-353-4743</p>    </div>
+        <h2>Contact Concierge</h2>
+<p>The Money Map Press' Concierge is available Monday - Friday between 8:00 AM and  11:00 PM ET, and Saturday between 10:00 AM and 8:00 PM ET by phone.</p>
+<p>Toll-Free: 1.800.682.1359<br>
+Local/International: 1.443.353.4743</p>    </div>
 
     <div id="sales-copy" class="mmp_shadowbox-content">
         Sales Copy    </div>
@@ -591,21 +702,22 @@ Local: (443)-353-4743</p>    </div>
 		<li data-class="helper_icon" data-button="OK" data-options="tipLocation:left"><p>You may access this helper at any time by clicking the "?" help icon top right.</p></li>
 	</ol>
 
-
-
         
+        <ol id="loginFailAjax">
+            <li class="invalidLogin" data-id="loginform" data-button="OK" data-options="tipLocation:bottom"><p>Invalid Username or Password</p></li>
+        </ol>
 
 	<ol id="joyride_existing_subs">
 		<li data-id="customer_login-2" data-options="tipLocation:left"><p onclick="ga('send', 'event', 'joyride_existing_subs', 'customer-login-2', 'Welcome Tour', 2)">You are now at the logged-out home page. To access your subscription content, simply enter your username and passwrod and click SUBMIT</p></li>
-		<li data-class="login_helper_links"><p onclick="ga('send', 'event', 'joyride_existing_subs', 'login_helper_links', 'Welcome Tour', 2)">If you ever forget your password select the "Forgot Password" link in the top menu.</p></li>
-		<li data-class="custsvc"><p>If you need help, please <a href="#" class="show_cs_box" onclick="showCustomerServiceBox();">Contact Customer Service</a></p></li>
+		<li data-class="login_helper_links"><p onclick="ga('send', 'event', 'joyride_existing_subs', 'login_helper_links', 'Welcome Tour', 2)">If you ever forget your password select the "Forgot Password?" link in the top menu.</p></li>
+		<li data-class="custsvc"><p>If you need help, please <a href="#" class="show_cs_box" onclick="showCustomerServiceBox();" title="Contact Customer Service">Contact Customer Service</a></p></li>
 		<li data-button="OK"><p>Why not log in now and allow us to show you around the new Member Dashboard?</p></li>
 	</ol>
 
 	<ol id="joyride_li_homepage">
 		<li data-button="Yes"><p>Welcome to the new Money Map Press Member website. Would you like a quick tour of the new layout?</p><a href="#" class="joyride-button" onclick="noTourButton();ga('send', 'event', 'joyride_li_homepage', 'noTourButton', 'Welcome Tour', 1);">No</a>&nbsp;</li>
 		<li data-class="active_subscriptions" data-options="tipLocation:right"><p>You are now at the logged-in Member home page. To access your subscription content, simply hold your mouse over the name of a publication here. and then select which section to access... Main Page, Portfolio, Updates, etc.</p></li>
-		<li data-class="active_subscriptions" data-options="tipLocation:right"><p>Any publication you are subscribed to will have a gold check mark <img src="/wp-content/themes/mmp/img/checkmark.png?592bd6" width="14" height="12" alt="Gold Check Mark"> next to it.</p></li>
+		<li data-class="active_subscriptions" data-options="tipLocation:right"><p>Any publication you are subscribed to will have a gold check mark <img src="/wp-content/themes/mmp/img/checkmark.png?6b22b2" width="14" height="12" alt="Gold Check Mark"> next to it.</p></li>
 		<li data-id="subscriptions_switch"><p>You may also select publications you are subscribed to at any time by selecting them from the Subscriptions menu at the top of your screen.</p></li>
 		<li data-id="my_team_switch"><p>You may learn more about any of your investment experts by selecting the My Team menu</p></li>
 		<li data-id="search_switch" data-button="OK"><p>To search for any content, alerts, or updates, use the Search feature.</p></li>
@@ -640,13 +752,31 @@ Local: (443)-353-4743</p>    </div>
         var currUrl = 'http://moneymappress.com/privacy-policy/';
         jQuery(function($)
         {
-            
-        })
+                });
     </script>
 
 <!--MMP-adzerk shortcode to load scripts for "stickyfooter" popunder-->
 
-<script type="text/javascript">jQuery( document ).ready(function() {});</script></div></footer></div><!-- ADZERK SCRIPT -->
+<!--MMP-adzerk shortcode to load scripts for dashboard and alerts-->
+
+<script type="text/javascript">jQuery( document ).ready(function() {});</script></div></footer></div>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="moneymappress.com"></div>
+<script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+<!-- ADZERK SCRIPT -->
 <script type="text/javascript">
 var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
         <script type="text/javascript">
@@ -661,6 +791,8 @@ ados_add_placement(9794, 307050, "azk81523", 16).setZone(136157);
 ados_add_placement(9794, 307050, "azk63478", 16).setZone(136155);
 ados_add_placement(9794, 307050, "azk32362", 16).setZone(136153);
 ados_add_placement(9794, 307050, "azk71764", 77).setZone(136977);
+ados_add_placement(9794, 307050, "azk95542", 4).setZone(155349);
+ados_add_placement(9794, 307050, "azk43654", 5).setZone(155263);
 ados_setDomain("engine.moneymappress.com");
 ados_load();});
 </script>
@@ -670,25 +802,32 @@ setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0013/7439.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script><script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/Tradestops-API/js/jquery.dataTables.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/custom.dataTables.js?592bd6"></script>
+</script><script type="text/javascript">
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"http:\/\/moneymappress.com\/wp-admin\/admin-ajax.php","wploginurl":"http:\/\/moneymappress.com\/wp-login.php","redirecturl":"http:\/\/moneymappress.com","loadingmessage":"Sending user info, please wait..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/ajax-login-script.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/Tradestops-API/js/jquery.dataTables.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/custom.dataTables.js?6b22b2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var hlso_offset = "250";
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/hash-link-scroll-offset/assets/js/hash-link-scroll-offset.min.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/mmp-adzerk/assets/js/mmp-adzerk.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/footer.js?592bd6"></script>
-<script type="text/javascript" src="http://static.adzerk.net/ados.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/jquery.bxslider.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/newrelic.js?592bd6"></script>
-<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/events.js?592bd6"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2af4fc030e","applicationID":"7737354","transactionName":"MVQENRRQCkdRU0MMCQgeJwISWAtaH0RSCBYKUBIES18LGV5RQQ==","queueTime":0,"applicationTime":720,"atts":"HRMHQ1xKGUk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/hash-link-scroll-offset/assets/js/hash-link-scroll-offset.min.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/plugins/mmp-adzerk/assets/js/mmp-adzerk.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/footer.js?6b22b2"></script>
+<script type="text/javascript" src="http://static.adzerk.net/ados.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/jquery.bxslider.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/newrelic.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-content/themes/mmp/js/events.js?6b22b2"></script>
+<script type="text/javascript" src="http://moneymappress.com/wp-includes/js/wp-embed.min.js?6b22b2"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2af4fc030e","applicationID":"7737354","transactionName":"MVQENRRQCkdRU0MMCQgeJwISWAtaH0RSCBYKUBIES18LGV5RQQ==","queueTime":0,"applicationTime":1085,"atts":"HRMHQ1xKGUk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Application Monitoring using New Relic
 
- Served from: moneymappress.com @ 2015-11-30 12:49:05 by W3 Total Cache --></body></html>
+ Served from: moneymappress.com @ 2016-06-17 21:46:23 by W3 Total Cache --></body></html>
