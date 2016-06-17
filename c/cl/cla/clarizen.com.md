@@ -1,55 +1,121 @@
-> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126195547id_/http%3A//www.clarizen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617023306id_/http%3A//www.clarizen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Clarizen Privacy Policy | Online Project Management Software
 
-Your privacy is of great importance to us. This Privacy Policy is to inform you what kind of information we may gather while you visit our website and how we may use such information. We do not collect any personally identifiable information about individuals, except when such information is voluntarily submitted by the visitor through forms and some other information is collected automatically.
+Effective date: 3/6/2016
 
-## Personal information you choose to provide
+This privacy policy has been created to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used by Clarizen’s services, which include its site at [www.clarizen.com](http://www.clarizen.com/) as well as its applications for mobile devices and social networks (collectively, the “Site” or “Services”). PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
-In order to enable visitors of our website to see certain pages, when specifically requested by them, we require some contact information, (such as name, and e-mail address). The information collected shall be used for the purposes providing you with email support and in order to allow Clarizen to contact you, from time to time, via email communication, with news and updates about services, products and offers (such as: a newsletter, new releases, new features, special offers etc.).
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information that is voluntarily submitted or collected automatically when accessing the Services.
 
-If you wish, at any time, to remove your email address from any of the above mentioned email mailing lists and stop receiving future email communications from Us, other than the emails directly related to the Service functionality/Software, you may unsubscribe by an email to: [info@clarizen.com](mailto:info@clarizen.com). For your convenience, email communication from Us contains instructions regarding how to unsubscribe from Our e-mail mailing lists.
+This Privacy Policy was last updated on the “Effective date” noted above. Clarizen reserves the right to change, modify or amend this Privacy Policy from time to time to reflect changes in our privacy practices. You are encouraged to review this Privacy Policy periodically and to check the “Effective date” at the top of this Privacy Policy for the most recent version, to inform yourself about how your PII is collected, used and shared when you use the Services.
 
-Contact information is information such as your name or mailing address that can be used to uniquely identify you. In order to get the Services/Software and/or receiving newsletters or commercial offers, You must provide contact information.
+If you do not agree with these terms, please do not access or use the Services.
 
-All your contact information, including, but not limited to, your name, address, telephone number, email address, is held in strict confidence. This information is collected for the primarily purposes of enabling you to receive the Services requested by you, but may also be used, from time to time, to provide you with newsletters or commercial offers. Clarizen does not sell or share contact information in a form that can identify you with any other party.
+## What personal information do we collect?
 
-Any information given to us shall be stored and managed with our best possible care, and will not be used in ways to which you have not consented. We will not sell rent, or exchange such personally identifiable information to any other organization or entity unless the user is first notified and expressly agreed to it. Notwithstanding the above, we may indeed disclose personal information if required to do so by subpoenas, court orders or legal process or when such disclosure is made for establishment or exercise of legal rights or in defending against legal claim, or as otherwise required by law.
+In order to enable visitors of our Services to see certain pages, when specifically requested by such visitors, we may require the user to provide contact information, (including but not limited to name and e-mail address). The information collected shall be used for the purposes providing you with email support and in order to allow Clarizen to contact you, from time to time, via email communication, with news and updates about services, products and offerings (such as: a newsletter, new releases, new features, special offers etc.).
 
-If you decide you no longer wish to receive postal mailings and/or e-mails from us, please let us know by sending an e-mail or writing to us and telling us you no longer wish to receive postal mail and/or e-mail. Please provide us with your exact name, postal address, and/or e-mail address. We will be sure your name is removed from our mailing list.
+If you wish, at any time, to remove your email address from any of the above mentioned email mailing lists and stop receiving future email communications from us, other than the emails directly related to the Service functionality, you may unsubscribe by sending an email to: [info@clarizen.com](mailto:info@clarizen.com). For your convenience, email communication from us contains instructions regarding how to unsubscribe from our e-mail mailing lists.
 
-## Information automatically collected and stored
+Contact information is information such as your name or mailing address that can be used to uniquely identify you. In order to use certain Services and/or receive newsletters or commercial offers, you must provide contact information.
 
-In common with many websites, we also measure the performance of our website in order to improve and customize it in favor of our visitors. During your visit, we may automatically collect and temporarily store certain usage information about visits to our websites. This information may include information such as your web request, Internet Protocol ("IP") address, browser type, referring/ existing pages and URLs, domain names, pages viewed and the date and time of your request and other such information that uniquely identify your browser. Such information is used for system administration and for producing usage statistics. We may entrust third parties with the described performance measurement. Such third parties will be required to use appropriate confidential and security measures.
+## When do we collect information?
 
-Our website may deposit certain bits of information called "cookies" in a visitor's computer. Generally, a cookie assigns a unique number to the visitor that has no meaning outside the assigning site. Cookies can tell us how and when pages in a website are visited and by how many people. This technology does not collect an individual visitor's identifying information; rather, this information is also in an aggregate form. The purpose of this technology and the information it provides is again to help us improve our website. Most web browsers allow the user to deny or accept the cookie feature. However, please note that cookies may be necessary to provide you with certain features (e.g. customized delivery of information) available on our website. Further information about cookies can be found at <http://www.microsoft.com/info/cookies.mspx>.
+We collect information from you when you register on our site, access our services, subscribe to a newsletter, fill out a form, or enter information on our site.
 
-## Safe Harbor / PIPEDA
+## How do we use your information?
 
-Clarizen complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, satisfying its obligations under the EU Directive on Data Protection, Swiss data protection law, and PIPEDA. Clarizen has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the U.S. Department of Commerce Safe Harbor program, and to view Clarizen's certification, please visit <http://export.gov/safeharbor/>. In so doing, Clarizen adopts the following principles from the Safe Harbor program:
+We may use the information we collect from you when you register, sign up for newsletters, respond to surveys or marketing communications, or use certain other site features, in the following ways:
 
-  * Clarizen may collect certain Sensitive Personal Information from and about individuals which can be identified with such specific individual, including without limitation, the contact and financial information mentioned above. You understand and agree that Clarizen may forward such information on as appropriate and permitted by law. If you provide such Sensitive Personal Information, you cannot opt out of any lawful request for said information from law enforcement agencies or prevent Communispace from providing such information as otherwise required by law. Further, in certain rare instances, we may disclose your Sensitive Personal Information as deemed necessary to identify, contact or bring legal action against those who may be causing you harm, or to Clarizen or others.
-  * Anyone who submits Sensitive Personal Information to Clarizen may choose to not have any of their Sensitive Personal Information submitted or transferred to third parties in accordance with the terms of this Policy. If you do not wish for your Sensitive Personal Information to be disclosed, please let us know by contacting us at [info@clarizen.com](mailto:info@clarizen.com) and we will cease any distribution of your Sensitive Personal Information within a reasonable time after receiving your request.
-  * Clarizen will only collect Sensitive Personal Information if you submit such Sensitive Personal Information. Such Sensitive Personal Information will only be used by Clarizen as appropriate. If you do not want us to collect and use Sensitive Personal Information, please do not submit such type of Sensitive Personal Information to us.
-  * By submitting Sensitive Personal Information and checking the appropriate box consenting to the use and transfer of Sensitive Personal Information in accordance with this Policy, you authorize certain Sensitive Personal Information data transfer to others ("Transfer Recipients") for use by Transfer Recipients. Transfer Recipients may not necessarily be in the European Union, Canada or countries which have been deemed by the European Union and/or Canada to have "adequate" data protection laws, and may be in territories like the United States where an equivalent level of data protection is not granted. Clarizen will contract with Transfer Recipients to abide by privacy terms for otherwise noncompliant entities.
-  * Clarizen has implemented security measures to ensure the privacy of your Sensitive Personal Information, and believes that such security measures provide reasonable precautions against the unauthorized access, disclosure, alteration or destruction of Sensitive Personal Information Clarizen collects.
-  * Clarizen believes that it collects only such Sensitive Personal Information which is required for Clarizen to provide services for or fulfill its contractual obligations, and therefore only collects or processes Sensitive Personal Information which is required for Clarizen to provide services for or to fulfill its contractual obligations.
-  * Clarizen will make a good faith attempt to allow you to view your Sensitive Personal Information to the extent required by applicable regulations. Clarizen may make certain Sensitive Personal Information available on-line for inspection by the individual associated with such Sensitive Personal Information, including containing information about how to request any corrections or deletions of any erroneous Sensitive Personal Information. You can also review your Sensitive Personal Information by contacting us at [info@clarizen.com](mailto:info@clarizen.com) and we will make all corrections and/or deletions of erroneous Sensitive Personal Information brought to its attention within a reasonable time period and as required by applicable data privacy regulations.
-  * Clarizen will regularly review its policies and practices to determine its continued compliance with the requirements of the Safe Harbor program, PIPEDA and the terms of this privacy policy. Clarizen designates the European Data Protection Authorities and JAMS to refer unresolved Safe Harbor-related privacy complaints.
+  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested or have directly requested from us.
+  * To improve our Services in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer surveys or other site features.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your products and services.
 
 
 
-## Linked sites
+## How do we protect visitor information?
 
-Links on this Site to websites are provided as a convenience to you. Such linked sites are outside our control and responsibility and are not covered by this policy. If you use any such linked sites, you should consult the privacy policies posted on those websites.
+Clarizen employs a dedicated security team that utilizes industry best practices and best of breed technology to manage security of our infrastructure and your data.
 
-## User's data
+All your contact information, including, but not limited to, your name, address, telephone number, email address, is held in strict confidence. This information is collected for the primarily purposes of enabling you to receive the Services requested by you.
 
-Upon a user's request, we shall remove all the user's data from the website. All removed user's data shall be kept for three additional months (offline) before deletion.
+## Security scanning
 
-## Security
+Your personal information is encrypted and stored behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted "in transit," and "at rest."
 
-Although we take necessary measures in order to provide a secure website we cannot fully control and therefore cannot be liable for all interruptions, intrusions, errors, loss of data or any other interferences with the use of this website caused by a breach of security.
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+
+Although we take every possible measure to provide secure Services we cannot fully control and therefore cannot be liable for service interruptions, intrusions, errors, loss of data, or any other interference with the use of the Services as a result of security related incidents.
+
+## Do we use cookies?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (with your permission) that enables the site's or service provider's systems to recognize your browser and remember certain information. Cookies are also used to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about Site traffic and Site interaction so that we can better tailor your site experience while improving functionality in the future.
+
+### We use cookies to:
+
+  * Understand and save user's preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies, you will still be able to access our site, but some features may be disabled and some of our services may not function properly.
+
+## Third party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information (PII) unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our Services, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to protect ourselves from liability, or to comply with law, enforce our site policies, or protect ours or others' rights, property, or safety. We may also disclose your personal information to the extent necessary in connection with a merger, acquisition, liquidation or bankruptcy of the company.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+Links to third party websites are provided as a convenience to you. Such linked sites are outside of our control and responsibility and are not covered by this policy. If you use any such linked sites, you should consult the privacy policies posted on those websites.
+
+## Do-Not-Track signals
+
+Because there is not yet a consensus on how companies should respond to web browser-based or other “Do Not Track” (“DNT”) mechanisms, we currently do not respond to web browser DNT signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services. We may revisit our policy on responding to these signals, in which case we will post a revised privacy policy on this site.
+
+## California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites or mobile applications collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.
+
+See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+According to CalOPPA we agree to the following:
+
+Users can visit our site anonymously, but this will limit our ability to deliver the type of content and product offerings in which you are most interested, or for which you have paid and subscribed to.
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+  * On our Privacy Policy page
+
+
+
+Users are able to change their personal information:
+
+  * By emailing us
+  * By calling us
+  * By contacting their account representatives
+
+
+
+## Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify the users via email, or preferred method of communication.  
+We will notify the users via in-site notification.
 
 ## Limitation of liability
 
@@ -57,10 +123,27 @@ Under no circumstances, including but not limited to negligence, shall we be lia
 
 Without derogating the aforementioned, in no event shall our total liability exceed the amount paid by you, if any, for accessing the site.
 
-## Contact information
+## Notice to California residents re: direct marketing
 
-For any question or to request modification or deletion of your personal information, please e-mail [info@clarizen.com](mailto:info@clarizen.com)
+Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information regarding disclosure within the immediately preceding calendar year of that California resident’s personal information to third parties (and in some cases affiliates) for their direct marketing purposes. Alternatively, the law provides that a company may comply, as Clarizen does, by disclosing in its privacy policy that it provides consumers with a choice (opt-out or opt-in) regarding sharing personal information with third parties and affiliates for those third parties’ and affiliates’ direct marketing purposes, and information on how to exercise that choice. At this time, we do not share personally identifiable information with third parties or affiliates for those third parties’ or affiliates’ direct marketing purposes. If we do so in the future, Clarizen will provide you with a choice prior to sharing your personally identifiable information with third parties and affiliates for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Clarizen offers that choice, we will not share your information with that identified third party or affiliate for its direct marketing purposes.
 
-## Changes and updates to this Policy
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: [info@clarizen.com](mailto:info@clarizen.com) or write to us at the following mailing address. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. Please note that we are only required to respond to one request per customer each year.
 
-We reserve the right to amend this Privacy Policy from time to time. We will provide notification of the change on our website. The Privacy Policy does not create any contractual or other legal right in or on behalf of any party.
+Clarizen  
+2755 Campus Drive, Suite 300  
+San Mateo, CA 94403  
+USA
+
+## Children
+
+We do not knowingly collect personal information from children under 13. No-one under age 13 may provide any information to or on the Site. If you are under the age of 13, do not register on the Site or use or provide any personal information on or through the Site, including your name, email address or any screen name or user name you may use.
+
+## Contact us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Clarizen  
+2755 Campus Drive, Suite 300  
+San Mateo, CA 94403  
+USA  
+[info@clarizen.com](mailto:info@clarizen.com)
