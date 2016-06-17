@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the attackmagazine.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010113152id_/http%3A//www.attackmagazine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attackmagazine.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617215159id_/https%3A//www.attackmagazine.com/about/%23privacy) for the most accurate reproduction.*
 
-# Privacy - Attack Magazine
+# About us - Attack Magazine
+
+Attack is an electronic music magazine dedicated to impartial, independent insight, news and reviews on technology, technique and creativity.
+
+Our London-based editorial team is drawn from a multi-faceted background, bringing together a group with extensive experience of club promotion, pro audio, DJing, music publishing and the record industry.
+
+Most importantly, we’re all here because we’re passionate about music. Everything we do is driven by that love.
+
+To get in touch, send us a message via the contact form.
+
+## Privacy
 
 This privacy policy sets out how we use and protects any information that you give us when you use this website.
 
