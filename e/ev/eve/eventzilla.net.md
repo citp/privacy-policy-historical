@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229055058id_/http%3A//eventzilla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617043650id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
 
 # Online Event Registration, Management and Planning Software | Eventzilla
 
-This Privacy Policy governs the manner in which Eventzilla Corporation collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.eventzilla.net](https://web.archive.org/web/20151229055058id_/http%3A//eventzilla.net/index.html) website ("Site"). This privacy policy applies to the Site and all products and services offered by Eventzilla Corporation.
+This Privacy Policy governs the manner in which Eventzilla Corporation collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.eventzilla.net](https://web.archive.org/web/20160617043650id_/http%3A//www.eventzilla.net/index.html) website ("Site"). This privacy policy applies to the Site and all products and services offered by Eventzilla Corporation.
 
 Personal identification information
 
