@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shapeways.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110051828id_/http%3A//www.shapeways.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapeways.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617131645id_/http%3A//www.shapeways.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Shapeways | privacy statement
 
-Last updated November 3, 2015.
+Last updated March 16, 2016.
 
 Click [here](https://www.shapeways.com/legal/privacy-statement/archive) for archived versions
 
@@ -11,11 +11,11 @@ Click [here](https://www.shapeways.com/legal/privacy-statement/archive) for arch
 
 ### Information We Collect
 
-Shapeways, Inc. and its affiliates collects and uses your personal data such as your name, e-mail address and your place of residence in order to provide you with the Shapeways services. When you register on the Website, we ask for your name and email address in order to create an account for you. When you send an order to us, we ask for your delivery address to be able to fulfill your orders. Your email address or avatar will be used or to enable you to communicate with other users of the Website.
+Shapeways, Inc. and its affiliates collects and uses your personal data such as your name, e-mail address and your place of residence in order to provide you with the Shapeways services. When you register on the Website, we ask for your name and email address in order to create an account for you. When you send an order to us, we ask for your delivery address to be able to fulfill your orders. Your name, email address, and avatar will be used to enable you to communicate with other users of the Website.
 
 We also use your information to communicate with you about our services. You can always indicate and change your choice whether you want to receive such communication from us in your user profile page. We also may use your personal data for our internal purposes such as administration of our Website, improving our services, and compliance with our legal obligations.
 
-In your profile, you can also upload your picture. Please be informed that if you do so, your picture will be visible to the other users on our Website.
+Your profile can include your name, an image, username, and short bio if you choose to share that information with us. By default that information is public. You can opt to keep your name private on your profile page [here](https://www.shapeways.com/settings/profile). 
 
 ### How We Protect Your Data
 
@@ -31,7 +31,7 @@ We retain data for purposes described in this policy for as long as your account
 
 ### Information You Make Available
 
-You may choose to make certain details about yourself, such as your avatar, nickname visible on the online community of the website. We are not responsible for any personal data you choose to share on the online community since any personal data you share can be read, collected or used by other individuals in ways we are unable to control or predict, such as to send you unsolicited emails.
+You may choose to make certain details about yourself, such as your avatar, name, short bio, and username visible on the online community of the website. We are not responsible for any personal data you choose to share on the online community since any personal data you share can be read, collected or used by other individuals in ways we are unable to control or predict, such as to send you unsolicited emails.
 
 ###  Information We Share
 
