@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229043145id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelyplanet.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617165444id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
@@ -99,7 +99,7 @@ Back to top
 
 You want to sign up to a newsletter but you're worried it'll open the floodgates of spam. Here's what we will and won't do if you sign up with us.
 
-Lonely Planet collects your email address so we can send you the newsletters you've subscribed to. You will always have the option to unsubscribe. Sleep easy, we will not sell your email address to marketing companies for spamming. But we may need to disclose your email address to contractors who help us provide the newsletter service, and amongst companies in the Lonely Planet family including entities located in a different country to you.
+Lonely Planet collects your email address so we can send you the newsletters you've subscribed to. **By registering for the newsletters, you are also signing up to receive emails from Lonely Planet for all your travel inspiration, tips and exclusive offers. You can unsubscribe at any time by clicking on the "unsubscribe" link in the footer of the emails.** Sleep easy, we will not sell your email address to marketing companies for spamming. But we may need to disclose your email address to contractors who help us provide the newsletter service, and amongst companies in the Lonely Planet family including entities located in a different country to you.
 
 You can manage your subscriptions and update your email address through our newsletters page at any time. If you'd like to find out more or if you have any questions about how we handle personal information generally, please read our full [privacy policy](http://www.lonelyplanet.com/legal/privacy-policy).
 
