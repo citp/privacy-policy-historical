@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cdjapan.co.jp privacy policy that was archived on 2015-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220111728id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdjapan.co.jp privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617151045id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
   <meta charset="UTF-8">
@@ -16,7 +16,7 @@
     <link href="http://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="http://st.cdjapan.co.jp/assets/css/cdj.css?v=1036">
+    <link rel="stylesheet" type="text/css" href="http://st.cdjapan.co.jp/assets/css/cdj.css?v=1037">
     <link rel="stylesheet" href="http://st.cdjapan.co.jp/assets/lib/nw-icon/style.css">
     <link rel="stylesheet" href="http://st.cdjapan.co.jp/assets/lib/bxslider/jquery.bxslider.css?v=140731">
 
@@ -50,8 +50,13 @@
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/jquery.dotdotdot.min.js"></script>
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/jquery.scrolldepth.min.js"></script>
 
-    <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/main.20140319.js?v=15062201"></script>
+    <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/main.20140319.js?v=16061601"></script>
     <script type="text/javascript" src="http://st.cdjapan.co.jp/assets/js/api.js?v=2013110802"></script>
+    <script src="//www.c-rings.net/crj/cr_web_access.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      PAC_CR_WEBACCESS.GetPACId();
+      PAC_CR_WEBACCESS.SendId("b023bbac919c35dd0807fa97c5c8a5c2dc010492fee4d18a8325fa8b308f73dc");
+    </script>
 
     <!--[if lt IE 9]>
     <link rel="stylesheet" type="text/css" href="http://st.cdjapan.co.jp/assets/css/ie.css" />
@@ -94,7 +99,6 @@
                 $('#header .top-menu-cust>a, #header .top-menu-cust>div').append(
                     '<div class="menu-badge"><i class="fa fa-check" style="color:#FFF;font-size:0.8em;"></i></div>'
                 );
-
                 $('#cust-info-name').text(
                     data.name1 + ' ' + data.name2
                 );
@@ -106,11 +110,46 @@
               }
            });
            $('.js-service-name').text('Account');
+        } else {
+          if ($.cookie('__stid')) {
+            $.removeCookie('__stid');
+          }
         }
         $('.js-cart-count').text(nwapi.countCart());
          nwapi.transCurrency('.price-jp-yen', '.price-exchange');
          var nwshr = new neowing_share_button({ hashtags: 'cdjapan' });
       });
+    </script>
+
+    <script src="//media.richrelevance.com/rrserver/js/1.1/p13n.js"></script>
+    <script charset="utf-8" type="text/javascript">
+      var ck = GetCookies();
+      var R3_COMMON = new r3_common();
+      R3_COMMON.setApiKey('7acb638e84ceb389');
+      R3_COMMON.setBaseUrl(window.location.protocol+'//recs.richrelevance.com/rrserver/');
+      R3_COMMON.setClickthruServer(window.location.protocol+"//"+window.location.host);
+      R3_COMMON.setSessionId(ck['cdj_spid'] || '1');
+      R3_COMMON.setUserId( (nw_cust_info && nw_cust_info.id) ? nw_cust_info.id : (ck['__stid'] || '') );
+      rr_flush_onload();
+      r3();
+
+      function GetCookies() {
+        var result = new Array();
+        var ck = document.cookie;
+        if ( ck != '' ) {
+          var cookies = ck.split( '; ' );
+          for ( var i = 0; i < cookies.length; i++ ) {
+            var cookie = cookies[ i ].split( '=' );
+            result[ cookie[ 0 ] ] = decodeURIComponent( cookie[ 1 ] );
+          }
+        }
+        return result;
+      }
+      var rr = rr || {};
+      rr.log_click = function (url) {
+        var img = new Image();
+        img.src = url;
+      };
     </script>
 
     <script type="text/javascript">
@@ -295,7 +334,7 @@
 
         <form action="https://www.cdjapan.co.jp/z/logout" method="post" class="customer-service-logout">
           <input type="hidden" name="next" value="/guide/help/privacy_policy/privacy_policy">
-          <button type="submit" class="btn blue small" onclick="$.cookie('__stid','');return true;">Sign Out</button>
+          <button type="submit" class="btn blue small">Sign Out</button>
         </form>
       </div>
       <a href="#" class="wc-close"></a>
@@ -361,7 +400,7 @@
 <div id="container">
   <section id="content">
     <div style="width:100%;background-color:#fcfcd5;padding:0;margin:0 auto;text-align:center;">
-      <a href="/stationery/calendar/" style="display:block;line-height:0;text-decoration: none;background-color: #ffffe7;"><img src="http://st.cdjapan.co.jp/pictures/cms/b/calendar2016_header.png" alt="Great Variety of 2016 Calendars!"></a>
+      <a href="/products?term.list_id=clearancesale_160617&amp;opt.in_stock=1&amp;opt.on_discount=1&amp;order=popular&amp;page=1" style="display:block;line-height:0;text-decoration: none;background-color: #f3f893;"><img src="http://st.cdjapan.co.jp/pictures/cms/b/clearance_cdj_header.png" alt="CDJapan Summer Clearance Sale"></a>
     </div>
 <div class="row sdw">
   <ul class="small-breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
@@ -467,7 +506,6 @@ President, Neo Wing Co.</p>
 
 <ul>
      <li><a href="http://www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy">Privacy Policy</a></li>
-     <li><a href="http://www.cdjapan.co.jp/guide/help/privacy_policy/conditions_of_use">Conditions of Use</a></li>
 </ul>
 
 </div>
@@ -586,12 +624,12 @@ President, Neo Wing Co.</p>
         </a>
       </li>
       <li>
-        <a href="http://www.cdjapan.co.jp/guide/help/privacy_policy/conditions_of_use">
+        <a href="http://www.cdjapan.co.jp/guide/help/about_cdjapan/conditions_of_use">
           Conditions of Use
         </a>
       </li>
       <li>
-        <a href="http://www.cdjapan.co.jp/guide/intro/">
+        <a href="http://www.cdjapan.co.jp/guide/help/about_cdjapan/about">
           About CD JAPAN
         </a>
       </li>
@@ -601,7 +639,7 @@ President, Neo Wing Co.</p>
         </a>
       </li>
       <li>
-        <a href="http://www.cdjapan.co.jp/guide/help/#Returns">
+        <a href="http://www.cdjapan.co.jp/guide/help/ordering/general_returns">
           Returns Policy
         </a>
       </li>
@@ -640,7 +678,7 @@ President, Neo Wing Co.</p>
     </div>
 
   </div>
-  <div class="copyright">© 2003-2015 Neowing. All Rights Reserved.</div>
+  <div class="copyright">© 2003-2016 Neowing. All Rights Reserved.</div>
 </footer>
   
 
