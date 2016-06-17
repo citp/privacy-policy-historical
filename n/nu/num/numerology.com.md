@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numerology.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191317id_/http%3A//www.numerology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerology.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617035154id_/http%3A//numerology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Numerology.com
 
