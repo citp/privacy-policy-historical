@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yidio.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225043928id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yidio.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617021939id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
 <title>Yidio Privacy Policy</title>
@@ -45,13 +45,19 @@
 	window['optimizely'] = window['optimizely'] || [];
 </script>
 	
-<link rel="stylesheet" type="text/css" href="http://cfm.yidio.com/css/header_footer.css">
+
 	<link rel="stylesheet" type="text/css" href="http://cfm.yidio.com/css/all.css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8" crossorigin="anonymous"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js" type="text/javascript" charset="utf-8" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="http://cfm.yidio.com/css/new-header-footer.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
+
 	
 <script type="text/javascript"> 
 	var globals={}; 
 	globals.page = 'static_page';
+	var fbAppId = '54975784392';
+	var fbAppPerms = 'email,user_birthday,user_location,user_interests,user_likes,public_profile';
 						globals.media_js_link = '';
 				globals.custom_js_link = '';
 				globals.user_name = '';
@@ -63,12 +69,12 @@
 	globals.utm_campaign = '';
 	globals.utm_term = '';
 	globals.utm_content = '';
-	var $j = jQuery.noConflict();
+	var $ = $j = jQuery.noConflict();
 							globals.big_rebel_ad = "0";
 	globals.is_country_check_uk_gb = "0";
 	globals.site_device_type  = "0";
 
-	var MAIN_RANDOM_VARIABLE = "94";
+	var MAIN_RANDOM_VARIABLE = "36";
 	var overlay_timer = 1000;	
 	var overlay_position = 200;
 	var slide_ad_on = 0;
@@ -91,6 +97,7 @@
 globals.show_is_prime="0";
 </script>
 <script type="text/javascript" src="http://cfm.yidio.com/js/jquery.main.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://cfm.yidio.com/js/new-header-js.js" crossorigin="anonymous"></script>
 <!--[if lt IE 8]>
 	<script type="text/javascript" src="http://js.yidio.com/js/ie-hover.js"></script>
 	<link rel="stylesheet" type="text/css" href="http://cfm.yidio.com/css/lt7.css" />
@@ -141,40 +148,65 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 var clickonfav_usernull = false;
 </script>
 
+	
+<div class="main-wrapper"> 
 <div id="login_overlay_div"></div>
+
+<header>
  
-<div class="header_wrapper">
-<div id="header">
-	                      <span class="logo"><a href="http://www.yidio.com/"><img src="http://cf.yidio.com/logos/yidio_logo_shadow.png" alt="Yidio" width="100" height="39"></a></span>
-          	       
-	  
-    <form method="get" id="search-top-form" action="/search/entertainment/" class="search-form frame inbtn rlarge" onsubmit="return false;">
-    
-            <input autocomplete="OFF" type="text" class="search-input dosearch" name="find" id="search" value="What do you want to watch?" onkeyup="ajax_showOptions(this,'getCountriesByLetters',event);return fixEnter(this,event,2,'all','search-top-form');" onfocus="this.value='';">
-           
-            <input class="search-btn" type="submit" value="Go" onclick="search_track_go();">      
-            
-             
-        </form>
-    
-    
-      <ul class="menu right_border_nav">        
-        <li><a href="http://www.yidio.com/tv-shows" class="shows_nav">TV Shows</a></li>        
-        <li><a href="http://www.yidio.com/movies" class="movies_nav">Movies</a></li>
-        <li><a href="http://www.yidio.com/tv-schedule" class="schedule_nav">TV Schedule</a></li>
-		<li><div class="more_nav">More</div>
-              <ul>
-                <li><a href="http://www.yidio.com/trends" class="trends_nav">Trends</a></li>
-                <li><a href="http://www.yidio.com/combine_activity_all.php" class="pulse_nav">Pulse</a></li>
-                <li><a href="http://www.yidio.com/news" class="news_nav">News</a></li>
-              </ul>           
-        </li>       
-           
-        <li><a href="javascript:void(0);" onclick="show_login_overlay(3); return false;" id="menu_login" class="login_nav">Login</a></li>
-        <li><a href="http://www.yidio.com/signup.php" class="signup_nav">Signup</a></li>     
-            </ul>      
-</div>
-</div>
+ 			<nav>
+					<ul class="main">
+						<li class="logo">
+							<a href="http://www.yidio.com/">
+								<img src="http://www.yidio.com/redesign/img/logo-topnav-2x.png" width="90" height="32" alt="Yidio">
+							</a>
+						</li>
+						<li class="search">
+							<div class="icon"></div>
+							<div class="default">What do you want to watch?</div>
+							<input type="text" autocomplete="off" vk_197c6="subscribed">
+						</li>
+						<li class="tv-shows has-subnav">
+							<div class="highlight"></div>
+							<a href="http://www.yidio.com/tv-shows">TV Shows</a>
+							<ul class="subnav">
+								<li><a href="http://www.yidio.com/tv-shows">Browse TV Shows</a></li>
+								<li><a href="http://www.yidio.com/filter/free">Free TV Shows</a></li>
+								<li><a href="http://www.yidio.com/tv-schedule">Live TV Schedule</a></li>
+								<li><a href="http://www.yidio.com/trends">Trending</a></li>
+							</ul>
+						</li>
+						<li class="movies has-subnav">
+							<div class="highlight"></div>
+							<a href="http://www.yidio.com/movies">Movies</a>
+							<ul class="subnav">
+								<li><a href="http://www.yidio.com/movies">Browse Movies</a></li>
+								<li><a href="http://www.yidio.com/movies/filter/free">Free Movies</a></li>
+							</ul>
+						</li>
+						<li class="more has-subnav">
+							<div class="highlight"></div>
+							<a href="http://www.yidio.com/news">More</a>
+							<ul class="subnav">
+								<li><a href="http://www.yidio.com/news">News</a></li>
+								<li><a href="http://www.yidio.com/games">Games</a></li>
+							</ul>
+						</li>
+					</ul>
+					<ul class="account">
+                   						<li class="sign-in">
+							<a href="http://www.yidio.com/login.php">Sign In</a>
+						</li>
+						<li class="sign-up">
+							<a class="border" href="http://www.yidio.com/signup.php">
+								<div class="border">Sign Up</div>
+							</a>
+						</li>
+                                             
+					</ul>
+				</nav>
+			<div class="gradient"></div>
+		</header>
 			<div class="page">
 			<div class="page-holder">	
 			<div id="main">				
@@ -360,7 +392,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
       If you have any questions or concerns about Yidio's Privacy Policy or its
       implementation, you may contact us by going to the following link:
       <a href="http://www.yidio.com/contact" id="xk7571" title="Contact Us">http://www.yidio.com/contact</a>.<br id="xk7572">
-      You may opt out of Yidio Emails here:: <a href="http://www.yidio.com/user_alerts.php">http://www.yidio.com/user_alerts.php</a>.<br id="xk7572">
+      You may opt out of Yidio Emails here:: <a href="http://www.yidio.com/user_alerts.php" onclick="show_login_overlay(); return false;">http://www.yidio.com/user_alerts.php</a>.<br id="xk7572">
       <br id="xk7573">
       <b id="xk7574">Changes to this Privacy Policy and Additional Information</b><br id="xk7575">
 
@@ -503,65 +535,45 @@ globals.utm_source_taboola="";
 <script type="text/javascript" src="http://cfm.yidio.com/js/common_header_code_fbconnect.js" async=""></script>
 
 
-	<div>  
-				<div id="footer">
-					<div class="footer-inner clearfix">
-			<div class="discover">			  
-				<span class="ttl">Discover</span>
-				<ul>
-					<li><a href="http://www.yidio.com/tv-shows">TV Shows</a></li>
-					<li><a href="http://www.yidio.com/movies">Movies</a></li>
-					<li><a href="http://www.yidio.com/">Home</a></li>		
-				</ul>
-				<ul>
-				  <li><a href="http://www.yidio.com/tv-schedule">TV Schedule</a></li>
-					<li><a href="http://www.yidio.com/trends">Top TV Shows</a></li>	
-				</ul>
-				<ul>
-					<li><a href="http://www.yidio.com/app/">Yidio App</a></li>
-										<li><a href="http://bit.ly/1kLUhbt" rel="nofollow">Yidio Android App</a></li>
-										<li><a href="http://www.yidio.com/outgoing/yidio?type=overlay&amp;device=ios" rel="nofollow">Yidio iPhone &amp; iPad App</a></li>
-				
-				</ul>
-				
-				<ul>		
-					<li><a href="http://www.yidio.com/jobs">Yidio Jobs</a></li>
-					<li class="footer_biz_solutions"><a href="http://www.yidio.com/business-solutions">Business Solutions</a></li>
-				</ul>
-				<ul>
-					<li><a href="http://twitter.com/yidio" target="_blank" rel="nofollow">Follow us</a></li>
-					<li><a target="_blank" href="http://www.facebook.com/Yidio" rel="nofollow">Become a Fan</a></li>
-          <li><a href="https://plus.google.com/113128165474016553755?rel=author" rel="nofollow">Find us on Google+</a></li>				
-				</ul>
-			</div>
-			<div class="support">				
-				<span class="ttl">Support</span>
-				<ul>
-					<li><a href="http://www.yidio.com/signup.php">Register</a></li>
-										<li><a href="javascript:void(0)" onclick="show_login_overlay(); return false;">Login</a></li>
-										<li><a href="http://www.yidio.com/aboutus">About Us</a></li>
-				</ul>
-				<ul>
-          <li><a href="http://www.yidio.com/help.php">Help/FAQ</a></li>
-					<li><a href="http://www.yidio.com/help_contact.php">Contact / Feedback</a></li>	
-				</ul>
-				<ul> 
-					<li><a href="http://www.yidio.com/tos">Terms of Use</a></li>
-					<li><a href="http://www.yidio.com/privacy">Privacy Policy</a></li>
-					<li><a href="http://www.yidio.com/tos#copyright">DMCA</a></li>
-					<li><a href="http://blog.yidio.com" rel="nofollow">Blog</a></li>
-				</ul>				
-			</div>
-            <div class="copyright">
-            	Copyright © 2015 Yidio LLC
-            </div>
-		
-		</div>
+
 	
+			
+	 </div></div>
+		
+		
+	<footer>												<a class="get-app" href="http://www.yidio.com/app/" title="">
+											
+					<h2>Get the app now. It's free on iOS, Android and Kindle!</h2>
+					<div class="button app">Get the App</div>
+					<img data-src="http://cfm.yidio.com/redesign/img/iphone-angled.jpg" width="762" height="196" alt="" src="http://cfm.yidio.com/redesign/img/iphone-angled.jpg" class="lazy-loaded">
+				</a>				<div class="links">
+					<nav class="main">
+			      <ul class="first-line">
+			        <li><a href="http://www.yidio.com/aboutus/">About</a></li>
+			        <li><a href="http://www.yidio.com/help.php">Help</a></li>
+			        <li><a href="http://www.yidio.com/jobs/">Careers</a></li>
+			        <li><a href="http://blog.yidio.com/" rel="nofollow">Blog</a></li>
+			      </ul>
+			      <ul class="second-line">
+			        <li><span>© 2008-2016 Yidio LLC</span></li>
+			        <li><a href="http://www.yidio.com/privacy/">Privacy Policy</a></li>
+			        <li><a href="http://www.yidio.com/tos/">Terms of Use</a></li>
+			        <li><a href="http://www.yidio.com/tos#copyright">DMCA</a></li>
+			      </ul>
+			    </nav>
+					<nav class="social">
+						<ul>
+							<li><a class="facebook" href="https://www.facebook.com/Yidio/" title=""></a></li>
+							<li><a class="twitter" href="https://twitter.com/yidio/" title=""></a></li>
+							<li><a class="gplus" href="https://plus.google.com/+yidio/" title=""></a></li>
+						</ul>
+					</nav>
+				</div>
+			</footer>
+
+
 </div>
 
-</div></div>
-</div>
 
 
 
