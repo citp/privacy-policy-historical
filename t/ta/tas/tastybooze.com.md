@@ -1,100 +1,117 @@
-> *The following text is extracted and transformed from the tastybooze.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastybooze.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617105733id_/https%3A//www.hover.com/privacy%3Fsource%3Dforsale) for the most accurate reproduction.*
 
-# Legal Agreement
+# Domains and domain email made simple - Hover
 
-**Go Daddy Respects Your Privacy**
+## Our Privacy and Data Collection Practices
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-**Information Collection and Use**
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Account Information
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Account data includes:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+• the name of the account holder;
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+• the mailing address of the account holder;
 
-**Security**
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+• a credit card number, expiry and verification code;
 
-**Updating Your Information**
+Registration contact data includes:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+• the name of the owner and administrative contact(s)
 
-      iii.      You may call us at: (480) 505-8800
+• the address of the owner and administrative contact(s)
 
-       iv.      You may fax us at: (480) 505-8844
+• the phone number of the owner and administrative contact(s)
 
-**Sending Emails**
+• the email address for the owner and administrative contact(s)
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Our use of your account data
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
 
-**Compliance with Laws and Law Enforcement**
+We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
 
-**Third Party Service Providers**
+Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
 
-**Supplementation of Information**
+Hover does not share your account data with any other parties for any other reasons.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Our use of your registration data
 
-**Contests/Surveys**
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
 
-**Tell-A-Friend**
+We never sell this information.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## WHOIS
 
-**What Happens to my Personal Information if I Opt Out?**
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
 
-**Transfer of Data Abroad**
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
 
-**Changes in Our Practices**
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+## Domain Search Information
 
-**Contacting Our Site**
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We never sell the search information you provide to us.
 
-* * *
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
