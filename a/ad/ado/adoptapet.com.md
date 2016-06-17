@@ -1,61 +1,164 @@
-> *The following text is extracted and transformed from the adoptapet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124746id_/http%3A//www.adoptapet.com/public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoptapet.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617034155id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policies :: Adopt-a-Pet.com
+# Privacy Policy - Purina®
 
-Adopt-a-Pet.com Terms of Use and Privacy Policies
+### 
 
-**So, what are the rules?**  
-Adopt-a-Pet.com is a free service where your local animal shelters and rescue groups lists their pets available for adoption. It is free for you to use and free for the animal shelters and rescue groups as well. We simply provide a way for you to see homeless pets that animal shelters and rescue groups are advertising for adoption. The adoption fees and adoption guidelines for each pet vary with the different shelters so to find out about a particular pet, please contact the organization directly who has the pet. We do not house, make any guarantees or have any contact with any of the pets listed on our website. Information regarding pets posted on Adopt-a-Pet.com is provided by the posting organization and is not checked for accuracy nor guaranteed to be accurate or complete. We are not therefore responsible for any issues that may arise out of contact you have with any pets listed on our site. We are also not responsible for any issues that arise regarding any of the organizations or individuals that post pets on our site. We do our best to make sure that animal shelters and rescue groups keep their listings on our website up to date, and that these groups are reputable and responsive to the public, but we assume no responsibility for any actions any of these organizations may or may not take. By using the Adopt-a-Pet.com website, you releases Adopt-a-Pet.com and it's parent foundation as well as all sponsors from any and all liability arising out of or in any way connected with the use of this website or the adoption of a pet listed on the this website. 
+### This Privacy Policy applies to our sites, apps AND OFFLINE ACTIVITIES.
 
-All images and text on Adopt-a-Pet.com, whether accessed on this website or via tools that access the data from this website, and whether originating from our approved animal shelters/rescues or from Adopt-a-Pet.com itself, is for the sole use of our website and search-tool audience or for our partners as agreed to in advance. The text and images on this website as accessed on this website or in any other way may not be used by any third party whether for-profit or non-profit without the express and prior consent of Adopt-a-Pet.com.
+### **We collect information from and about you.**
 
-**We hate spam too, grrr... hsss...**  
-We will not give your e-mail, or any personal information you give us to evil forces who send out annoying spam! We hope they get barked at, hissed at, and step in poop. By opting in to any e-mail communication of ours, you are also opting into e-mails from our non-profit sponsor North Shore Animal League America (NSALA), and also from our sponsor Nestle Purina PetCare Company, who produces pet care products. Any e-mail you get from us or our sponsors will be one you asked for. You will always have the choice never to hear from any of us again.
+### **We collect information in different ways.**
 
-**Like a loyal pooch, we protect your privacy...**  
-If you make a donation to our non-profit organization, no one but the computers at the processing company will see your credit card number, not even us! Online donations with us are secure.
+### **We use information as disclosed and described here.**
 
-**What info we sniff out and how we use it...**  
-If you make a donation or sign up to volunteer,we'll ask your name, e-mail address, e-mail format preference (HTML vs. text), address, phone, and interests and that's it.
+### **We may share information with third parties.**
 
-**Use of "Cookies", yum...**  
-Oh, not that kind of cookie. Cookies are pieces of information that many websites transfer to a computer browsing that website. We use them for record-keeping purposes and to customize your experience. Your browser is probably set to accept cookies. But, if you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function properly when you view them.
+### **You have certain choices about sharing and marketing practices.**
 
-**Tell a friend there's something to bark about...**  
-If you use our "tell a friend" feature and type in an e-mail, we'll automatically send the friend a one-time e-mail inviting them to visit the site. We store this information for the sole purpose of sending this one-time e-mail.
+### ****These sites and children.****
 
-**Leaving our back yard—other web sites...**  
-Our site contains links to other web sites (shelters, pet rescue groups, etc.).When you click on one of these links, you are entering another web site for which Adopt-a-Pet.com has no responsibility. It's like going off-leash at the dog park. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
+### **We use standard security measures.**
 
-**Nerdy computer stuff...**  
-We collect an IP address from all visitors to our site. An IP address is an anonymous number that is automatically assigned to your computer when you use the Internet. We use IP addresses to diagnose problems with our system, administer our site, analyze trends, track users' movement, gather broad demographic information to improve the site, and deliver customized, personalized content.
+### **We may link to other sites or have third party services on our site we don’t control.**
 
-**Security...**  
-We protect account information by placing it on a secure portion of our site that is only accessible by certain qualified employees. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
+### **Feel free to contact us if you have more questions.**
 
-**Donor Privacy Policy...  **  
-Although Adopt-a-Pet.com is a non-profit charitable organization, we encourage supporters to donate money directly to animal shelters who are caring for animals. However, since our free service is highly valued by the public and by the thousands of animal shelters we serve, occasionally people do wish to donate directly to Adopt-a-Pet.com to support our work and our mission, and we welcome this support.
+### **We may update this Policy.**
 
-Adopt-a-Pet.com respects the privacy of our users and supporters, and this Privacy Policy is in place to protect them.
+### This Privacy Policy applies to our sites and apps and offline activities.
 
-**Collection and Use of Donor Personal Information...**  
-Adopt-a-Pet.com collects and at times uses personal information such as name, address, phone number, and e-mail address when voluntarily provided to our organization.
+This Policy describes how we treat U.S. consumer personal information on our US websites and how we treat US consumer personal information that we may get through online and offline activities in the US where this policy is provided to you. This includes our brand websites like [www.purina.com](http://www.purina.com/ "Home"). It applies to our mobile and social media applications. It also applies to information we collect through offline events and programs where this policy is provided. Throughout this policy, the terms "we", "us", "our", and "Purina" refer to Nestlé Purina PetCare Company, a U.S. corporation, and any of its direct and indirect subsidiaries. “You” refers to any person accessing and/or using this website.
 
-Adopt-a-Pet.com does not sell, trade, or share its donor list with any other organization or entity.
+This policy does not apply to business to business interactions or Purina business customers (for example, distributors, retailers, etc.). It does not apply to information collected throughout the application, hiring, or employment process. It does not apply to information collected by our parent company or affiliate companies.
 
-Adopt-a-Pet.com will never share donor information for any use other than processing and acknowledging donations. Adopt-a-Pet.com keeps a record of each donor's giving history. This information is kept on file for IRS purposes and for our own internal reporting.
+By using our web sites or applications you agree to this policy. You also agree to this policy if you otherwise give us your information. If you do not agree, please do not use our websites, applications or give us your information.
 
-Adopt-a-Pet.com stores donor information for record keeping purposes and in order to contact past donors via our monthly e-newsletter, "The Scoop". Donors may opt out of receiving email from Adopt-a-Pet.com at any time.
+* * *
 
-**Donor Information Security...**  
-Donor past giving information is kept in a separate password-protected database that is not accessible by the public, nor by Adopt-a-Pet.com staff beyond the staff directly involved with processing of donations. Donor contact information (without any giving history) is included in our password-protected newsletter database, and is accessible only by Adopt-a-Pet.com staff directly involved with delivering the e-newsletter.
+### We collect information from and about you
 
-If you have any questions or concerns please contact:
+**Contact information.** For example, we might collect your name and postal address. We might also collect your phone number or email address.
 
-Adopt-a-Pet.com  
-310 N. Indian Hill Blvd., #800  
-Claremont, CA 91711  
-You can also send an e-mail to: [info@adoptapet.com](mailto:info@adoptapet.com)  
+**Account Log-In Information.** For example,we collect information used to set up an account with us.  We also collect information needed to give you access to your account, such as your login ID/email address, screen name or password.
 
+**Information you share, submit or post.** We collect the information you post publicly and information you provide through a survey. For example, we might ask what kind of pet you have or the type of pet food you prefer. We collect information about you on social media platforms (like Facebook).that you allow them to share with others. This may include your account and profile information, platform activities, and/or other information. Please visit the website of the relevant social platform to learn more about the information they share.  We also collect content you create and share with our site or applications. This includes our social media sites like our Facebook pages. To learn more about our terms for User Generated Content Terms and Conditions, [click here.](http://www.purina.com/terms-and-conditions#UserGeneratedContent "Terms and Conditions")
 
-Adopt-a-Pet.com reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our site. Any such change will be effective immediately upon posting.
+**Payment information.** If you make online purchases, we collect your credit card information and account information.
+
+**Demographic information.** We may collect information like your gender and age if you fill out an online form or survey. We may collect your zip code.
+
+**We collect information about your computer or device, and your Internet usage.** For example,if you download our application, we may collect information from your phone. We may work with third parties who collect information about you when you use our websites or apps. For example, we may collect information about the browser you’re using. We may also collect your IP address and/or device identifier.
+
+**Other information.** We might look at what site you came from, or what site you visit when you leave us, what links you click on, or what pages you view. In a mobile environment, we might collect your location.
+
+* * *
+
+### We collect information in different ways.
+
+**We collect information directly from you.** For example, if you sign up for newsletters, make an online purchase, request a coupon, or enter a promotion. We also collect information if you fill out an online form.
+
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
+
+**We get information about you from third parties.** For example, social media platforms may give us information about you. We may get information when you interact with one of our social platform web applications. We may also get information when you use a social networking feature on one of our sites (such as Facebook Connect). We may also obtain information from other third party sources.
+
+* * *
+
+### We use information as disclosed and described here.
+
+**We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback. We may also use your information to maintain your accounts with us or notify you if you win a sweepstakes. We may use your friend’s email address if you use our Tell-A-Friend feature.
+
+**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. We may use content you post or share, to get you to more actively engage with us.
+
+**We combine information.**  For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from third parties with information we already have.
+
+**We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
+
+**We use information for marketing purposes.** For example, we might send you information about new products and special offers we think you might like. We might tell you about new features, updates, or offers we think you might find interesting. If you register with us, we’ll enroll you in our email newsletter.  We may also send you SMS text messages and postal mailings. We may also use your information to identify you as a customer. Once we do this, we may tailor ads for you on other websites and social platforms by matching your activities or information collected with those collected on third party sites. We do this by sharing information like your email address with third parties. We may also use push notifications on our mobile apps. For example, we may send you offers based on your location. To manage this, read the Choices section below.
+
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or purchases. We might also contact you about this Policy or our website Terms.
+
+**We use information as otherwise disclosed to you or as otherwise permitted by law.**
+
+* * *
+
+### We may share information with third parties.
+
+**We will share information with other Nestlé companies.** Other Nestlé companies include Nestlé USA, Nestlé Nutrition and Nestlé Waters.
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us. We may also share information with companies that operate our websites or run a promotion. These parties are bound to keep your information secure.
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
+
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.
+
+**We may share information for other reasons we may describe to you.**
+
+* * *
+
+### You have certain choices about sharing and marketing practices.
+
+**You can opt out of receiving our marketing emails or text messages.** To stop receiving our promotional messages, follow the instructions in any promotional message you get from us or contact our [Office of Consumer Affairs](http://signin.purina.com/contact). Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions or information about your account, purchases, and other important announcements.
+
+**You can edit information we maintain.** To update or correct information we have about you, please contact our [Office of Consumer Affairs](http://signin.purina.com/contact). Some of our sites may also let you modify your account profile.
+
+**You can control cookies and tracking tools.** To learn how to manage cookies and other tracking tools and information about our ads, please [click here](http://www.purina.com/about-our-ads "About Our Ads").
+
+**If you opt-out of tracking or turn off cookies, you may still see our ads on other websites.** This includes social media platforms. You can visit social media platform sites where you are a member and other third party sites to explore opt-out options they may provide for targeted advertising. To learn more about your choices for behavioral ads and tracking, [click here](http://www.purina.com/about-our-ads "About Our Ads").
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone for some of our mobile apps that might have such notifications.
+
+**You can learn how to control the information shared by social platforms by visiting the website of the relevant social platform.**
+
+* * *
+
+### ** **
+
+### **These sites and children.**
+
+**Our sites and apps are meant for adults and we believe are appealing to an adult market.** We do not knowingly collect personally identifiable information from children under 18 without permission from a parent or guardian. If you are a parent or legal guardian and think your child has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+
+Parents, you can learn more about how to protect children's privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+* * *
+
+### We use standard security measures.
+
+**We use standard security measures on our sites and apps.** However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+**We keep personal information as long as it is necessary or relevant for the practices described in this Policy.** We also keep information as otherwise required by law.
+
+* * *
+
+### ** **
+
+### **We store information in the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+* * *
+
+### We may link to other sites or have third party services on our site we don’t control.
+
+**If you click on a link to a third party site, you will be taken to websites we do not control.** This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites carefully. We are not responsible for these third party practices. Our site may also serve third party ads or other content that contains their own cookies or tracking technologies. To learn more, [click here](http://www.purina.com/about-our-ads "About Our Ads"). We do not control the use of those technologies.
+
+* * *
+
+### Feel free to contact us if you have more questions.
+
+**If you have any questions about this Policy,** please contact our [Office of Consumer Affairs](http://signin.purina.com/contact).
+
+You can also write to us at:
+
+**Nestlé Purina PetCare Company  
+Attn: Privacy Question   
+PO Box 2530  
+Largo, FL 33779**
+
+* * *
+
+### We may update this Policy.
+
+**From time to time we may change our privacy policies.** We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+_Last revised: May 9, 2016_
