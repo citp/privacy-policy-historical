@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climatespectator.com.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628055017id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatespectator.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618015902id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp Australia
 
