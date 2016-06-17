@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sendgrid.org privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430094448id_/https%3A//sendgrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendgrid.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617133657id_/https%3A//sendgrid.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Transactional Email and SMTP Service
+# Privacy Policy | SendGrid
 
-**Policy Version Date: August 2, 2011**
+##  Policy Version Date: August 2, 2011 
 
 SendGrid, Inc. ( **“SendGrid,” “Us,” or “We”** ) is committed to protecting the privacy of the users of the http://www.sendgrid.com web site (the “ **Site** ”) and the services offered through the Site, including by way of example the email and other communications sent through those services (the “ **Services** ”). Additionally, SendGrid adheres to the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union (“ **EU** ”). This privacy policy (the “ **Policy** ”)) discloses SendGrid’s information privacy practices for the Site and Services. This policy is intended to inform users of our Services and other visitors to the Site of the information collection and use practices of the Site and Services.
 
@@ -56,7 +56,7 @@ We may also share certain personally identifiable information we collect through
 
 ###  USE OF PERSONAL INFORMATION RECEIVED FROM THE EU. 
 
-**When SendGrid is a data controller**. SendGrid adheres to the Safe Harbor Principles as described in this Policy with respect to the personal data we collect from EU data subjects, which includes data used to establish accounts, process orders, process payments and otherwise provide the Services. We have certified our compliance with the Safe Harbor Principles to the United States Department of Commerce, and our certification can be found at [export.gov/safeharbor](http://www.export.gov/safeharbor "export.gov/safeharbor").
+**When SendGrid is a data controller**. SendGrid adheres to the Safe Harbor Principles as described in this Policy with respect to the personal data we collect from EU data subjects, which includes data used to establish accounts, process orders, process payments and otherwise provide the Services. We have certified our compliance with the Safe Harbor Principles to the United States Department of Commerce, and our certification can be found at <http://www.export.gov/safeharbor>.
 
 **When SendGrid is a data processor**. SendGrid’s obligations with respect to personal data for which we are solely a data processor, such as personal data received from our customers or from other third parties that we use to generate and transmit email and other communications through the Services, are defined in our agreements with those customers and are not included in this Policy. In those circumstances, we receive personal data from the EU as an agent for the customer or other third party merely for processing and are not required to apply the Safe Harbor principles to that information. In those circumstances, our customers or those other third parties will remain responsible for personal data that they collect and for compliance with the applicable data protection laws.
 
@@ -155,11 +155,11 @@ SendGrid utilizes a self-assessment approach to ensure its compliance with this 
 
 ###  ENFORCEMENT. 
 
-SendGrid encourages individuals covered by this Policy to raise any concerns about our processing of personally information by contacting SendGrid as set forth below. SendGrid will seek to resolve any concerns. If your inquiry has not been satisfactorily addressed and you are located in the EU, you may contact the Direct Marketing Association, elected for Dispute Resolution pursuant to our Safe Harbor self-certification, at Direct Marketing Association, Attn: Safe Harbor Line, 1615 L Street NW, Suite 1100, Washington, D.C. 20036 [orsafeharbor@the-dma.org](http://orsafeharbor@the-dma.org/ "orsafeharbor@the-dma.org").
+SendGrid encourages individuals covered by this Policy to raise any concerns about our processing of personally information by contacting SendGrid as set forth below. SendGrid will seek to resolve any concerns. If your inquiry has not been satisfactorily addressed and you are located in the EU, you may contact the Direct Marketing Association, elected for Dispute Resolution pursuant to our Safe Harbor self-certification, at Direct Marketing Association, Attn: Safe Harbor Line, 1615 L Street NW, Suite 1100, Washington, D.C. 20036 [orsafeharbor@the-dma.org](mailto:orsafeharbor@the-dma.org).
 
 ###  CONTACT INFORMATION. 
 
-All inquiries concerning this Policy and the Site or Services in general may be sent to [legal@sendgrid.com.](http://legal@sendgrid.com/ "legal@sendgrid.com.").
+All inquiries concerning this Policy and the Site or Services in general may be sent to [legal@sendgrid.com](mailto:legal@sendgrid.com "legal@sendgrid.com.").
 
 ###  TRANSFER OF INFORMATION. 
 
