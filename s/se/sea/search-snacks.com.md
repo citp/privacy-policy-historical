@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search-snacks.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101052845id_/http%3A//www.search-snacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search-snacks.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617074806id_/http%3A//www.search-snacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Home - Search Snacks
 
