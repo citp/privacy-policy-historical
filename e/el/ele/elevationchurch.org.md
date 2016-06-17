@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elevationchurch.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230100324id_/http%3A//elevationchurch.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevationchurch.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617124845id_/http%3A//elevationchurch.org/legal) for the most accurate reproduction.*
 
 # Legal - Elevation Church
 
-## Privacy Policy
+## PRIVACY POLICY
 
 At Elevation Church, we are committed to protecting your privacy.
 
