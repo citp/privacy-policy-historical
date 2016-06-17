@@ -1,159 +1,164 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229040548id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163459id_/http%3A//www.intellicast.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Intellicast - Privacy Policy
 
-EFFECTIVE AS OF December 19, 2013 
+Thank you for using our services. This privacy policy went into effect on May 20, 2016.
 
-We are strongly committed to protecting your privacy. This Privacy Policy discloses how we collect, use and share information we gather about you on the Services and the choices you have regarding our use of and your ability to correct the information. "Services" include the intellicast.com website (the "Site"), and other Internet enabled or wireless means by which we provide content to you or receive content from you, including, without limitation, software applications such as Intellicast, mobile web sites, mobile applications, content and blog submission services, chat rooms, message boards, push notifications, SMS messaging, and delivery of content to you at your request. "Services" also includes alert products. "Services" do not include, however, websites of affiliates that primarily serve international markets or any other products or services. We hope that this disclosure will enhance your experience and reinforce the trust that you place in our products and services. 
+The WSI Corporation, an IBM business, (sometimes, "we" or "us") is committed to protecting your privacy. This Privacy Policy is important and we encourage you to carefully read it.
 
-Information Collected by us within the Service
+This Privacy Policy discloses how we collect, use and share information that we gather about you on the intellicast.com website (the " **Site** ") and our software applications, mobile applications and other websites and services that reference or link to this Privacy Policy (together, the " **Services** "). This Privacy Policy also describes the choices you have regarding our use of and your ability to correct the information. The Services do not include websites, mobile applications or other services that link to another privacy policy.
 
-Most of the information provided by WSI is offered without our collecting any personally identifiable information from you. For instance, you can view weather conditions in your hometown or anywhere in the world without giving out any personally identifiable information. In order to maximize your experience and to provide you with enhanced products and services, however, WSI collects personally identifiable information (e.g., name, e-mail address, etc.) and demographic data (e.g., zip code, gender, birth date, interests, etc.) that you voluntarily supply to us. When you make a purchase or sign up for one of our premium services, we will also collect your billing address, phone number, and credit card information. Some examples of instances when we collect personally identifiable information include when you: 
-
-  * Complete a survey
-  * Register for a promotion, contest or sweepstakes
-  * Make a purchase from our online store
-  * Send us an e-mail message or complete an inquiry form 
-  * Submit a photo or video
-  * Report your weather conditions
-  * Participate in an online forum or community, or
-  * Customize or sign up for Services or products.
-
+  1. How We Collect and Use Personal Data and Other Information
+  2. Data Collection Technologies and Consumer Choice
+  3. How We Share or Disclose Your Information
+  4. Other Limitations on Privacy
+  5. Opting-Out, Access, Corrections and Cancellations
+  6. Minors' Privacy and Submissions
+  7. International Transfer
+  8. Our Commitment to Security
+  9. Changes to the Privacy Policy
 
 
-We also may collect certain information through automated means, such as: 
 
-  * Specific geographic location where you are currently located
+#### 1\. How We Collect and Use Personal Data and Other Information
+
+In order to operate the Services, maximize your experience, and provide you with enhanced Services, we may collect and use information, some of which may be considered personal data. If we can use information, alone or in combination, to reasonably identify you as an individual, we treat the information as personal data. We collect information from and about you in the following ways:
+
+A. _Information Provided By You_. You may also choose to provide us with information, some of which may be personal data, when you interact with the Services in the following ways:
+
+  * Register a user account—you may register a user account using your e-mail address, which we will use to provide you personalized services and track your preferences.
+  * Complete a survey—for example, you may choose to provide us an e‑mail address so that we can contact you about your survey response;
+  * Register for a contest, sweepstakes or other promotion —for example, you may provide your telephone and home address and we may be legally obligated to disclose this information if you win;
+  * Send us an e-mail message or complete an inquiry form to receive additional information–for example, you might e‑mail us with a question and we will use your e‑mail address to respond to your inquiry;
+  * Submit a comment, leave feedback, or send us a photo or video—for example, you might submit a cool photo of a weather event you experienced that we may post on the Services so others can enjoy it;
+  * Report weather or other conditions — for example, you might tell us that the weather in your area is cold or rainy and we may associate that information with your account; and
+  * Customize the Services — for example, you might set a "home" location so that every time you visit the Services, you are automatically displayed the weather for that home location.
+
+
+
+B. _Automatic Collection_. We also collect certain information through automated means. Some of the information we collect through automated means may, whether alone or combined with other data, be personal data. For example, we automatically collect
+
   * Information about your device and device capabilities
   * Information about your device operating system
-  * Information about the applications on your device
+  * Information about your browser
   * Information about how you use the Services
   * Your activities on the Services
-  * IP addresses
-  * Cookies
-  * Web beacons 
-  * Device identifier
-  * Carrier
+  * IP address
+  * Advertising identifiers
+  * Mobile or Internet Carrier
   * Browser type
   * Browser identifier
   * Referring URL
 
 
 
-**Chat Sessions, Blogs, and Submissions**  
-In the case of participation in a chat session, we require you to select a user name. Please be aware that chat sessions are monitored and transcripts are posted on the Site for access by other users. Any information, including PII, that you submit during a chat session, in blog comments, in community discussions, in any other user comment field, or in connection with your content submissions, including photo and video submissions, can be read, collected, or used by others who access them, and could be used by other users to send you unsolicited messages. We are not responsible for the information, including PII, you choose to submit in these forums. 
+This information helps us to understand, analyze and measure how users use the Services; manage Services' operations; deliver and measure the effectiveness of advertisements; help diagnose problems; recognize repeat visitors; and facilitate your access to and use of the Services.
 
-**Content Submissions**  
-If you upload, rate or share videos or photos, you may have to be registered and logged into this feature, and you may be required to provide us information such as a user name, date of birth, age range, gender and/or email address or you can log in through your social media or other provider. If you provide us with content, including, without limitation, submissions and user comments, any metadata, including, without limitation, geo-location and tags, in that content may become publicly available. 
+C. _Location Information_. We also collect location information through the Services so that we can offer you certain location-based services (such as severe weather alerts through our mobile applications), provide advertisements that are relevant to your geographic location, and conduct analytics to improve the Services. The way in which we collect location information is different depending on whether you are accessing the Services through a website or a mobile application.
 
-**Location Information**  
-In certain instances in our Services, you will be able to input specific location information in order for us to bring up the weather for that location. For that Service, we will ask you to input specific location such as address, city and state or zip code.
+If you are accessing the Services through the Site, we use various technologies, including HTML5, to detect your location so that we can automatically show you the weather for your area, rather than some random location. Depending on browser type, your browser may inform you that the Site would like to collect your location and request your permission to do so. If you allow it, location information is then collected and may be stored locally on your device. If you decline the collection of location information, your location is not collected and you must manually enter your location.
 
-To offer you certain Services, provide advertisements based on your physical geographic location, and engage in the other uses described below, on some devices we provide you the option to opt-in to allow us to use your physical geographic location using GPS, cellular network location based services on your device, or browser services. You may at any time opt-out from these geo-location services by going to the settings on your device.
+If you are accessing the Services through one of our mobile applications, the way we collect location information will differ depending on your mobile device's operating system. If you decline to allow location information collection, your location is not collected and you must type in a location or zip code to see the weather for that location or zip code.
 
-If you have our mobile application installed on your Microsoft Windows 7 device, you may also opt-out from geo-location by going to the "Settings" menu in the application and toggling location services off. Toggling location services off will also disable certain services in the application, including severe alerts. 
+In the event you allow location information collection through your mobile device, we may collect precise geographic location information. Whether we can collect precise location information is controlled by your device's operating system. Our collection methods include GPS, cellular network location and other location-based services. Depending on your mobile device's operating system, we typically receive the latitude and longitude of your mobile device, as well as date and time, but the precision of latitude and longitude varies greatly and is determined by various factors controlled by your device or mobile service provider.
 
-**Alerts and notifications.**  
-In certain of our Services, you have the ability to receive push notifications for weather related updates. To provide these services, we may need to collect your email address, phone number, device information, and mobile carrier information, in addition to the zip code or geographic area to which the alert, update or notification pertains. If you no longer wish to receive these types of notifications, you may opt-out by turning them off within the settings of your mobile device or the particular Service for which you registered. 
+Turning off location-based services in the Intellicast mobile application also will disable certain other aspects of the Services, such as location-based severe alerts. However, you may still receive alerts for any location that you entered into one of our mobile applications.
 
-**SessionM.**  
-When you log in to Session M's mPOINTS in our mobile applications that contain mPOINTS, Session M will provide us with your email address. You can review Session M’s Privacy Policy located at http://brands.sessionm.com/privacy.html. 
+D. _Alerts and Notifications_. Certain Services offer you the ability to receive push notifications for weather-related updates. To provide these Services, we may need to collect your e-mail address, phone number, device information, and mobile carrier information, in addition to the postal code or geographic area to which the alert, update or notification pertains. If you no longer wish to receive these types of notifications, you may opt-out by turning them off within the settings of your mobile device or the particular Service for which you registered.
 
-How We Use and Share Your Information
+E. _Other Types of Information We Collect_. Certain of our mobile applications interface with Session M. If you have an account with Session M and choose to log into Session M's mPOINTS through one of our mobile applications to earn mPOINTS, Session M will provide us with your e-mail address. We do not use the e-mail address provided by Session M for any other purpose than to fulfill the Session M service.
 
-One of the most valuable assets of our business is you. Except as described below, we do not rent, sell or share PII about you with other people or nonaffiliated companies. 
+F. _Special Note about Content Submissions_. The Services may from time to time offer areas where you and other users can post or otherwise submit information, photos, videos, graphics, creative suggestions, ideas, notes, concepts, information, ratings or other materials on or to the Services (collectively, " **Submissions** "). Any geo-location, tags or other metadata in Submissions may become publicly available. Any information, including personal data, in your Submissions can be read, collected, or used by others. We are not responsible for the information, including personal data, included in your Submissions.
 
-**How We and Our Affiliates Use Your Information**  
-We use information collected on the Services, and disclose information to third parties, including your physical geographic location, to help fulfill your requests or in connection with the operation of the Services, for example to service your account, conduct a transaction or provide a service that you have requested, display information and advertisements that we believe match your interests and profile, facilitate updates to the Services, provide support, notify you if you've won a contest or sweepstakes, improve the working of the Services, and compile statistics about our users and your use of the Services. We and such third parties may on occasion combine information about you with information obtained from other parties to market to you products or services that may be of interest to you.
+#### 2\. Data Collection Technologies and Consumer Choice
 
-At various points, we may provide you with the opportunity to opt-in to receive special offers from us and our affiliates. If you choose to opt in, we and our affiliates will use your PII to inform you of other products or services available from us and our affiliates. 
+A. _Our Use of Cookies, Web Beacons, Single-pixel Gifs, and Information Saved by Other Technologies_
 
-**Companies Offering Promotions, Products, or Services**  
-At times we will provide you with the opportunity to opt-in to receive promotions, products or services from third party sponsors. With your permission, we will periodically send to you, via e-mail, offers and promotions from our third party sponsors which we select based upon your interests or user profile. In this case, we do not share your information with the third party sponsors--we do the mailing for them. You will always have the opportunity, to opt-out of receiving future offers by following the unsubscribe link included with each email. In other instances, we provide you with the opportunity to receive products and services directly from specifically identified third parties through the Services. In these instances, you must explicitly consent to receive each offer. When you explicitly agree to receive offers from specific third parties, your information is shared with the specific third party to enable them to provide you with the offer you have requested. We are not responsible for the information collection practices of these third parties, and all information provided is governed by the privacy policies of these third parties. You should review the privacy policies of these parties before supplying PII to them. 
+We and third parties acting on our behalf use various technologies that help us to manage the operations of our Services and track usage behavior so that we can tailor information and advertisements to make your visits more enjoyable and meaningful. These data collection technologies include:
 
-**Third-Party Processors**  
-When your information is collected on the Services, it may be collected directly by or shared with selected third parties in connection with the operation of the Services or the provision of services to you ("Third Party Processors"). These Third Party Processors may include, for example, companies that operate our online store, that process credit card information or handle shipping for us, that deliver materials to you via e-mail or postal service, that organize, administer, process, or provide advertising services, and/or that analyze data on our behalf to help us provide more relevant offers to you and to eliminate the delivery of duplicate offers as well as correcting and/or updating users' data based on information we provide them. We also provide your information to third party mapping service providers to provide you map content for the Services. Third party processors are authorized to use your information that we provide to them only to carry out the service they are providing for us. We require that the third party processors securely store the PII we provide to them and maintain it so that it can be accessed when needed for future purposes, and all such Third Party Processors are contractually bound by us to keep the personally identifiable information confidential. 
+  * **Cookies** : Cookies are text files containing small amounts of information that are downloaded to your computer or mobile device when you visit a website and stored within your browser. Cookies are then sent back to the originating website on each subsequent visit to that website or to another website that recognizes those cookies. Some cookies on our Services collect IP and Mac addresses, which may be considered personal data in some jurisdictions. Cookies are useful because they allow a website to recognize a user's device. If you have registered for a user account on the Site, these cookies may let us know who you are, may be necessary to access your account information, and may provide us and our service providers with information that we will use to personalize the Services in accordance with your preferences. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * **Web beacons and GIFs** : Certain pages on the Services contain web beacons (also known as web bugs, pixel tags and clear GIFs). A pixel tag is an electronic image, often a single pixel (1x1), which is ordinarily not visible to users and may be associated with cookies on users' hard drives. A pixel tag allows us to understand which pages you visit on the Services and are used to help us optimize and tailor the Services for you and other future visitors to the website. Web beacons allow third parties to obtain information, such as the IP address of the computer that downloaded the page on which the web beacon appears, the URL of the page on which the web beacon appears, the time the page containing the web beacon was viewed, the type of browser used to view the page, and the information in cookies sent by the third party.
+  * **Local Storage** : We use local storage, such as HTML5 Local Storage, to enhance user experience by, for example, storing your user preferences and settings (e.g., volume/mute) in connection with animated content on the Services. Local storage is similar to browser cookies but can store data more complex than simple text. By itself, local storage cannot do anything to or with the data stored on your device. Like cookies, local storage can only access personal data that you have provided on the Services.
 
-**Other Web Sites, Other Services, and Links**  
-Like many Web sites on the Internet and other Internet-based services, many of our Services link to pages located on Web sites or services maintained by various other entities. In some cases you may link to pages of other Web sites that are framed with elements of our Services such as in the header or footer. In that case the URL will identify the site you are visiting. In other cases, such as advertisements, you will be connecting to another site or service when you click on or otherwise activate those opportunities, including click-to-call, click-to-text, and click-to-email opportunities. These other sites and services are not bound by our privacy policy, and we are not responsible for their information collection practices. The privacy policies of other organizations may differ from ours, for example, with respect to the level of security, use of cookies, and collection, use and disclosure of PII.
 
-Some of our Services allow users to interface with other sites or services, including Facebook, Twitter, and SessionM's mPOINTS. You will remain logged in to those other sites and services until you log off those sites and services. By proceeding with these interfaces, you are allowing our Services to access your information on those other sites and services, and you are agreeing to those other sites' and services' Terms of Use. Once you log into those other sites and services, the content you post on those other sites and services may also post to our Services. Your use of those other sites and services is subject to the privacy policies of those sites and services, and not this Privacy Policy.
 
-Some of our Services use third party operating systems, platforms, communication services, devices, and software elements (such as mobile device operating systems, wireless services, mobile phone and tablet devices), and some of our Services are provided by third party distributors, device makers, device operators, platform operators, and communication services. We do not control these third party entities, products and services, and they may collect, use, process, transmit and disclose your information. For example, these third party elements may gather information from our Services, including our applications, in a manner that overrides your settings and preferences in our Services. As we do not control or have knowledge of their data handling practices, we recommend that you review their privacy notices, terms of use and license agreements. 
+Information that we collect via the data collection technologies described in this section may be linked to other information about you and may be personal data. We use the technologies described in this section, alone or in combination, to provide, manage and administer the Services, understand user behavior, target and measure the effectiveness of advertisements, help diagnose problems, recognize repeat visitors, track and analyze usage behavior and, facilitate your access to and use of the Services.
 
-**Use by Us of IP Addresses, Cookies, Web Beacons, Single-pixel Gifs, and Information Saved by Other Technologies**  
-We and Third Party Processors acting on our behalf use various Internet technologies which help us to manage the operations of our Services and track usage behavior so that we can tailor information and advertisements to make your visits more enjoyable and meaningful. These Internet technologies include:
+Your browser, such as Internet Explorer, Chrome, Firefox and Safari, may allow you to manage your cookies and local storage. Because each browser is a little different, we encourage you to check your browsers' "Help" feature to learn how to block cookies, how to receive notification of new cookies, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all the Services and some parts of the Services may not function properly. For more information about cookies, please visit www.allaboutcookies.org/manage-cookies/.
 
-IP Addresses: numbers assigned to individual computers which accompany every packet of information across the Internet.  
-Cookies: small electronic files transferred from our services to your electronic device.  
-Beacons and single-pixel Gifs: electronic tags.  
-HTML5 LocalStorage: storage within your browser on your electronic device.
+B. _Use of Cookies, Web Beacons, and Other Technologies by Advertisers, Ad Networks, and Ad Servers_
 
-Information that we collect via the technologies described in this section may be linked to other information about you. We use the technologies described in this section, alone or in combination, to provide and administer our services, understand user behavior, manage services operations, measure the effectiveness of advertisements and our service operations, target advertising, help diagnose problems, recognize repeat visitors, track and analyze usage behavior, facilitate your access to and use of our services, serve, target, control, and measure advertisements on our Services, count users who have visited certain areas of our Services we wish to track, and help determine the effectiveness of advertising campaigns on our services. In addition, we may share demographic information, location data, IP address, aggregate (not individual) usage statistics for our Services, other identifiers and information with advertisers and other third parties. For example, we may share IP address, random or anonymous device identifier, city and state, ZIP code, and specific geo-location as described below.
+We adhere to the self-regulatory principles of the Digital Advertising Alliance (" **DAA** "). We work with a variety of advertisers, advertising networks, advertising servers, and analytics companies (" **Ad Partners** ") that use various technologies to collect data about your use of the Services (such as pages visited, ads viewed or clicked on) in order to send (or serve) relevant ads.
 
-Your browser may allow you to manage your cookies and HTLM5 LocalStorage. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies and HTML5 LocalStorage. If you turn Cookies or HTML5 Local Storage off, however, you won't have access to many of the features which make your experience more efficient and some of our Services will not function properly. 
+Ad Partners may place cookies, web beacons and/or other data collection technologies on the Services to (among other purposes): track how the Services are used, where users go and what they do after they leave the Services; link users' devices; and serve more relevant ads on the Services or other websites that you visit. More information about this type of advertising is available from the Network Advertising Initiative [here](http://www.networkadvertising.org/understanding-online-advertising).
 
-We contract with certain Third Party Processors to track, analyze and report data about the usage of our Services using these Internet technologies. These Third Party Processors include Adobe and its Omniture product. To obtain information about the privacy and security practices of Adobe's Omniture Product, use the following link: http://www.adobe.com/privacy.html. 
+This Privacy Policy does not cover the practices of our Ad Partners. While we work with Ad Partners to improve user experience, we do not control Ad Partners' technologies. For more information about technologies and how they use the information collected by the technologies on the Services and your options not to accept cookies placed by some of Ad Partners on the Services, please visit the DAA's [opt-out page](http://www.aboutads.info/choices/)
 
-**Use of Cookies, Web Beacons, and Other Technologies by Advertisers, Ad Networks, Ad Servers, and Analytics Companies**  
-We work with a variety of advertisers, advertising networks, advertising servers, and analytics companies. These advertisers, advertising networks, advertising servers, and analytics companies use various technologies, and technologies from third party companies, to collect data in order to send (or serve) relevant ads to users. These technologies may include the placement of cookies or web beacons, the use of HTML5 LocalStorage, the use of unique or non-unique non-personal identifiers, or the use of other technologies on our Services, and these technologies may be used to track user behavior, to track how our Services are being used, to link various devices you may use and possibly to serve you more relevant ads. These targeted advertisements may appear on our Services or other services that you visit. This Privacy Policy does not cover the use of various technologies by advertisers, advertising networks, advertising servers, and analytics companies. These companies may also obtain information from services you use from or with other companies, including without limitation, other websites, mobile websites, mobile applications, downloadable applications, and other devices, and combine that information with information they obtain through these third party technologies on our Services. You should be aware that we do not have control over these third party technologies or the information contained in them. For more information about how DoubleClick, and some of the other ad networks, ad servers, analytics companies, and third party companies use the information collected by the technologies on our services and about your option not to accept cookies placed by some of these companies on our Services, please visit the following sites:
+In addition, you can find the links to our Ad Partners that may use data collection technologies on the Services [here](https://web.archive.org/web/20160617163459id_/http%3A//www.intellicast.com/About/AdPartners.aspx).
 
-DoubleClick: <http://www.google.com/doubleclick>  
-Nielsen: <http://www.nielsen-netratings.com/privacy/sitecensus.htm>  
-comScore and its affiliate, Scorecard Research: <http://www.scorecardresearch.com/Privacy.aspx>  
-Lotame: <http://www.lotame.com/opt-out-preference-manager>  
-<http://networkadvertising.org/managing/opt_out.asp>, and  
-<http://www.aboutads.info/choices>.
+You may also opt-out of additional third-party advertising networks by going to the Network Advertising Initiative's [website](http://www.networkadvertising.org/managing/opt_out.asp) at www.networkadvertising.org and following the directions.
 
-These opt-outs are device specific and may not work on all devices. You should be aware that if you choose to opt out through any of these sites, this does not opt you out of being served advertising. The ads will just not be targeted to you by any party from which you have opted out.
+The DAA offers AppChoices, a separate choice tool for users to exercise control over the collection and use of data through mobile applications for interest-based advertising and other related uses. To exercise choice for participating companies, you can install the DAA's AppChoices application on your mobile device. Visit [here](http://www.aboutads.info/appchoices) for more information on DAA's AppChoices tool.
 
-You can also opt out of future information collection from our Services by ceasing use of the Service or in the case of an application, uninstalling the application. 
+The opt-outs described above are device- or browser-specific and may not work on all devices. If you choose to opt-out through any of our Ad Partners' sites, you still may see advertisements but the advertisements will not be based on your interests.
 
-**Purchase or Sale of Businesses**  
-We continually look for ways to improve our business, including purchasing or selling all or part of a business or company. If we buy or sell a business, personally identifiable information and non-personal information will likely be transferred as part of the sale. If we buy a business, we will honor the requests of that business' former customers regarding their personally identifiable information. If in connection with a sale there will be material changes to the way personally identifiable information is being used, affected consumers who have provided us with an email address will be notified via e-mail and will be given the opportunity to opt-out. 
+You can also opt-out of future information collection from the Services by ceasing use of the Service or uninstalling the relevant mobile application.
 
-**Other Limitations on Privacy**  
-We may provide personally identifiable information without your permission (i) pursuant to judicial or other government subpoenas, warrants, or orders or otherwise to comply with law; (ii) where we believe the rights, property or an individual's safety or security is at risk; (iii) if we find that your actions violate our Terms of Use; or (iv) where otherwise required by law. 
+C. _Use of Cookies by Third Parties for Analytics_
 
-E-mail a Friend
+We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available [here](https://web.archive.org/web/20160617163459id_/http%3A//www.intellicast.com/About/AnalyticsPartners.aspx).
 
-If you choose to use a feature that allows you to e-mail parts of the Services to a friend, in most circumstances we need to have access to your and your friend's e-mail addresses temporarily to send the e-mail due to technical requirements. This information is not used for any other purpose. 
+#### 3\. How We Share or Disclose Your Information
 
-Mobile Device Contacts
+One of the most valuable assets of our business is you. As part of the Services, we will prepare and maintain aggregated information collected from the Services and use it for our business purposes. This aggregated information will not contain identifiers that identify you or other individuals.
 
-Some mobile products allow you to view weather conditions for people in your phone's contact list. If you agree to use this feature, your contact list will be accessed in order for us to provide weather information for your contacts who already have their address, city, state, or zip code available. We do not store this information or use it for any other purpose. 
+Except as described below, we do not rent or sell personal data about you with other people or non-affiliated companies.
 
-Opting-Out, Corrections and Cancellations
+A. _Third-Party Processors_. When your personal data is collected on the Services, it may be shared with selected third parties who assist us with our business operations, with the provision of the Services, with our marketing or advertising campaigns, or in delivering you the features and functionality that you have requested (" **Third-Party Processors** "). These Third-Party Processors include companies that process credit card information, handle shipping for us, and deliver materials to you via e-mail or postal service, for example. We also may provide personal data to third-party mapping service providers to provide you with map content for the Services. Third-Party Processors are authorized to use the personal data that we provide to them only to carry out the service they are providing for us. We require the Third-Party Processors by contract to secure your personal data and maintain it so that it can be accessed when needed for future purposes. All such Third-Party Processors are contractually bound by us to keep the personal data confidential.
 
-If you receive an offer or promotion from us or a third party related to us, you must have opted in. To ensure we have your consent, we make sure that each marketing e-mail sent to you by us presents the additional opportunity to opt-out of receiving future e-mails.
+B. _Companies Offering Promotions, Products, or Services_. We may share demographic information, location data, advertising identifiers, truncated IP address and aggregate (not individual) usage statistics for the Services with advertisers and other third parties.
 
-If you have registered with us and have obtained a password, you may reset your password, update your PII, correct information, make changes to your preferences, unsubscribe to any e-mail subscriptions or opt-out of certain services, by accessing your profile online or you may contact us directly at the link at the bottom of the page. 
+At times, we also will provide you with the opportunity to opt-in to receive promotions, products or services from third-party sponsors. With your permission, we will periodically send to you, via e-mail, offers and promotions from our third-party sponsors which we select based upon your interests or user account. In this case, we do not share your information with the third-party sponsors - we do the e-mailing for them. You will always have the opportunity to opt-out of receiving future offers by following the unsubscribe link included with each of our e-mails. In other instances, we provide you with the opportunity to receive products and services directly from specifically-identified third parties through the Services. In these instances, you must explicitly consent to receive each offer. When you explicitly agree to receive offers from specific third parties, your information is shared with those specific third parties to enable them to provide you with the offer you have requested. We are not responsible for the information collection practices of these third parties, and all information provided is governed by the privacy policies of these third parties. You should review the privacy policies of these third parties before supplying personal data to them.
 
-Data Retention of Account Information
+C. _Other Websites, Other Services, Plug-Ins and Links_. Like many websites on the Internet and other Internet-based services, the Services may link to webpages located on websites or services maintained by various other entities. In some cases, you may navigate to pages of other websites that are framed with elements of the Services such as in the header or footer. In that case, the URL will identify the site you are visiting. In other cases, such as advertisements, you will be connecting to another site or service when you click on or otherwise activate those opportunities, including click-to-call, click-to-text, and click-to-e-mail opportunities. These other sites and services are not bound by our privacy policy, and we are not responsible for their information collection practices. The privacy policies of other organizations may differ from ours, for example, with respect to the level of security, use of cookies, and collection, use and disclosure of personal data.
 
-If you wish to cancel your account or request that we delete or no longer use your account information to provide you Services, contact us at the link at the bottom of the page. Subject to applicable law, we will retain and use your account information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you receive an offer or promotion from us or a third party related to us, you must have opted in. To ensure we have your consent, we make sure that each marketing e-mail sent to you by us presents the additional opportunity to opt-out of receiving future e-mails.
+Some of the Services allow users to interface with other websites or services, including Facebook, Twitter, Google+, Pinterest, Gigya, and SessionM's mPOINTS. For example, plug-ins, such as Facebook's "Like" button, "Comments" and "Facebook Connect" can connect Facebook, Twitter or other third party services identifiable by their respective logos to the Services. You will remain logged in to those other sites and services until you log off. By proceeding with these interfaces, you allow the Services to access your information on those other sites and services, and you are agreeing to those other sites' and services' terms of use and privacy policies. Once you log into those other sites and services, the content you post on those other sites and services may also post to the Services. Your use of those other sites and services is subject to the privacy policies of those sites and services, and not this Privacy Policy.
 
-If you have registered with us and have obtained a password, you may reset your password, update your PII, correct information, make changes to your preferences, unsubscribe to any e-mail subscriptions or opt-out of certain services, by accessing your profile online, the feedback section or you may contact us directly through the link at the bottom of the page. 
+Some of the Services use third-party operating systems, platforms, communication services, devices, and software elements (such as mobile device operating systems, wireless services, mobile phone and tablet devices), and some of the Services are provided by third-party distributors, device makers, device operators, platform operators, and communication services. We do not control these third-party entities, products and services, and they may collect, use, process, transmit and disclose your information. For example, these third-party entities, products and services may gather information from the Services in a manner that overrides your settings and preferences in the Services. As we do not control of these third-parties' data handling practices, we recommend that you review their privacy policies, terms of use and license agreements (if any).
 
-Children's Privacy
+D. _Purchase or Sale of Businesses_. We continually look for ways to improve our business, including purchasing a business or selling all or part of our business. If we buy, merge, reorganize or sell any business, personal data and non-personal information will likely be disclosed or transferred as part of the transaction. If, in connection with a purchase, sale, merger or reorganization your personal data will be processed in a materially different way, our practice is to notify users who have provided us with an e-mail address via e-mail.
 
-We are committed to protecting the safety and privacy of young people using the Internet. We do not knowingly collect PII from children under the age of 13 and believe that children should get their parents' or guardians' consent before giving out any PII.
+#### 4\. Other Limitations on Privacy
 
-The Services may contain links to third party web sites and other services geared to children. The linked sites and services are not under our control. We are not responsible for the contents of any linked site or service or any link contained in a linked site or service, nor are we responsible for the privacy practices of the operators of those sites or services with respect to children. We strongly encourage parents and guardians to review the privacy policies of all linked sites and services. 
+We, our affiliates, or our Third-Party Processors may disclose your personal data without your permission (i) pursuant to judicial or other government subpoenas, warrants, or orders or otherwise to comply with law; (ii) where we believe the rights, property or an individual's safety or security is at risk; (iii) if we find that your actions violate our [Terms of Use](https://web.archive.org/web/20160617163459id_/http%3A//www.intellicast.com/About/Terms.aspx) or any of our other legal rights; or (iv) where otherwise required or permitted by applicable law (which may include a lawful access request by US or foreign courts, governments or law enforcement agencies).
 
-International Transfer
+#### 5\. Opting-Out, Access, Corrections and Cancellations
 
-Our company and websites, and all associated Services and systems, including registration, is housed on servers operated inside and outside the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that information we collect (including cookies) will be processed and stored in the United States, a jurisdiction in which the data protection and privacy laws may not offer the same level of protection as those in the country where you reside or are a citizen. By using our Services and providing information to use, you consent to the transfer to and processing of the information in the United States. 
+If you have registered a user account with us, you may reset your password, update your personal data, correct information, delete your account or opt-out of certain Services, by accessing your account or you may contact us directly by sending us a letter to the address listed below, subject to certain exceptions prescribed by law.
 
-Our Commitment to Security
+You may have the right to access, update, and correct inaccuracies in certain of your personal data in our custody and control, subject to certain exceptions prescribed by law. You may request to access, update and correct inaccuracies in personal data we have in our custody or control by writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his or her personal information records.
 
-Keeping the information you provide to us secure is important to us. We have put in place appropriate physical, electronic and managerial procedures designed to protect and safeguard your data. Of course, although we use standard industry practices to protect your PII, we cannot guarantee that your communications with the Services will never be unlawfully intercepted, or that your PII will never be unlawfully accessed by third parties. 
+#### 6\. Minors' Privacy and Submissions
 
-Changes to the Privacy Policy
+We are committed to protecting the safety and privacy of young people using the Internet. We do not knowingly collect personal data from children under age 13. We believe that children should get their parents or guardians consent before giving out any personal data. If you become aware that we have collected personal data from a child without parental consent, please notify us promptly by sending us a letter to the address listed below. If we become aware that a child under age 13 has provided us with personal data without parental consent, we will take steps to remove such personal data.
 
-We reserve the right to alter our Privacy Policy as business needs require. If we decide to change our Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. All changes to this Privacy Policy will be posted on this site prior to the time they take effect. If we make material changes to the way we use PII, affected consumers who have provided us with an e-mail address will be notified via e-mail and will be given the opportunity to opt-out. 
+If you are a California resident under age 18 and are a registered user of any of the Services, then you may request that we remove any Submissions that you publicly posted on or in the Services. To request removal of a Submission, please contact us by sending us a letter to the address listed below with a detailed description of the specific Submission. We reserve the right to request that you provide information that will enable us to confirm that the Submission that you want removed was created and posted by you.
 
-WSI Corporation  
+We will make a good faith effort to delete or remove your Submission from public view as soon as reasonably practicable. Please note, however, that your request that we delete your Submission does not ensure complete or comprehensive removal of your Submission. Your Submission may remain on backup media, cached or otherwise retained by us for administrative or legal purposes or your Submission may remain publicly available if you or someone else has forwarded or re-posted your Submission on another website or service prior to its deletion. We may be required by law to not remove or allow removal of your Submission.
+
+#### 7\. International Transfer
+
+The Services are intended for users located in the United States. The Services are hosted on servers inside and outside the United States. If you are located in the European Union or elsewhere outside of the United States, information that we collect (including through cookies) will be processed and stored in the United States, a jurisdiction in which the data protection and privacy laws may not offer the same level of protection as those in the country where you reside or are a citizen. By using our Services and providing information to use, you consent to the transfer to and processing of information in the United States.
+
+#### 8\. Our Commitment to Security
+
+We have put in place physical, electronic and managerial procedures intended to protect your data. Of course, we cannot guarantee that your communications with the Services will never be unlawfully intercepted or that your personal data will never be unlawfully accessed by third parties. Any transmission of information is at your own risk.
+
+#### 9\. Changes to the Privacy Policy
+
+We reserve the right to change our Privacy Policy as business needs require. If we decide to change our Privacy Policy, we will post those changes here prior to the time they take effect. If we make material changes to the way we use personal data, affected users who have provided us with an e-mail address will be notified via e-mail.
+
+Intellicast Customer Care/Privacy Office  
 400 Minuteman Road  
 Andover, MA 01810  
 
