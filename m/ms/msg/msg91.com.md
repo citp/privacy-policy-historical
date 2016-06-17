@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msg91.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919150823id_/https%3A//msg91.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msg91.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617175201id_/https%3A//msg91.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Msg91.com
 
