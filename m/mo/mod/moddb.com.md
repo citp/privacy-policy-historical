@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227001237id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617213436id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mod DB - Mod DB
 
@@ -44,4 +44,4 @@ You can [contact us](http://www.moddb.com/contact) if you would like your accoun
 
 If you have any questions about this privacy policy or your personal data, please [contact us](http://www.moddb.com/contact).
 
-Last Updated: July 16, 2015, our [terms of use](https://web.archive.org/terms-of-use) can be found here.
+Last Updated: January 21, 2016, our [terms of use](https://web.archive.org/terms-of-use) can be found here.
