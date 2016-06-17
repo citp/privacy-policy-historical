@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memedroid.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209081833id_/http%3A//www.memedroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memedroid.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617111247id_/http%3A//www.memedroid.com/privacy) for the most accurate reproduction.*
 
 # Memedroid - Privacy policy
 
@@ -24,7 +24,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 #### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information). We use cookies to understand and save your preferences for future visits.
+Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information). We use cookies to understand and save your preferences for future visits, to get anonymous usage statistics and for advertising purposes.
 
 #### Do we disclose any information to outside parties?
 
