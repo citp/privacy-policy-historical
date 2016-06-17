@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the netnaija.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224151730id_/http%3A//www.netnaija.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnaija.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617220248id_/http%3A//www.netnaija.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NetNaija
+
+Join our BBM Channel:  [C00125ADB](http://www.netnaija.com/forum/phone-computer/mobile/5658-subscribe-blackberry-messenger)
+
+Email  contact@netnaija.com
 
 _If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info(at)netnaija(.)com._
 
