@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywot.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070044id_/https%3A//www.mywot.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywot.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617192923id_/https%3A//www.mywot.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WOT (Web of Trust)
 
