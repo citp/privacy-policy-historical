@@ -1,740 +1,992 @@
-<!--The following is the downloaded HTML source of the weeklystandard.com privacy policy that was archived on 2014-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021052504id_/http%3A//www.weeklystandard.com/misc/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weeklystandard.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617185447id_/http%3A//www.weeklystandard.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=389dbedc-a215-4fee-8eda-9df27d7d991e" id="infinity" data-guid="389dbedc-a215-4fee-8eda-9df27d7d991e" data-version="async"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcOVFBVGwIEUVBWAAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-  <title>Privacy Policy | The Weekly Standard</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/sites/all/themes/ws/favicon.ico" type="image/x-icon">
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/files/advagg_css/css_792b558e7e1b80b4738d26a5d2a3acb9_118.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/all/files/advagg_css/css_1ad3144dbfa81d20cd5173b5b81f5bf3_9498.css">
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?U" />
-<![endif]-->
-  <script type="text/javascript" src="/sites/all/files/advagg_js/js_34e096deaaac40fa71c78b971494d60c_665.js"></script>
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<title>Privacy Policy | The Weekly Standard</title>
+<meta name="viewport" content="width=device-width,user-scalable=0">
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//www.weeklystandard.com/s3/tws15/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="//www.weeklystandard.com/s3/tws15/datepicker/css/bootstrap-datepicker3.min.css">
+<link rel="stylesheet" media="all" href="//www.weeklystandard.com/s3/tws15/css/site.css?v=2016.06.15.03" id="siteCSS">
+<link type="text/css" rel="stylesheet" media="all and (max-width: 1099px)" href="//www.weeklystandard.com/s3/tws15/css/tablet.css?v=2016.06.15.03" id="tabletCSS">
+<link type="text/css" rel="stylesheet" media="all and (max-width: 767px)" href="//www.weeklystandard.com/s3/tws15/css/mobile.css?v=2016.06.15.03" id="mobileCSS">
+<link type="text/css" rel="stylesheet" media="print" href="//www.weeklystandard.com/s3/tws15/css/print.css?v=2016.06.15.03" id="printCSS">
+<meta name="description" content="">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JYzDyKA-"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//www.weeklystandard.com/s3/tws15/js/js.cookie.js?v=2016.06.15.03"></script>
+
 <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","entitlement":{"types":{"product":["blog","article","archives","trial","print_sub","digital_sub","premium"],"site_region":["daily\/daily.asp","section\/todays-standard","author\/.*"],"geoip":[]}},"ab":{"page_weights":{"product__article":{"title":"News article","default_weight":1,"drupal_key":"tws_weight__product__article","weight":"1"},"product__blog":{"title":"Blog article","default_weight":0.25,"drupal_key":"tws_weight__product__blog","weight":".25"},"site_region__daily\/daily.asp":{"title":"Blogs list","default_weight":1,"drupal_key":"tws_weight__site_region__daily\/daily_asp","weight":"1"},"site_region__section\/todays-standard":{"title":"Blogs list (mobile theme)","default_weight":1,"drupal_key":"tws_weight__site_region__section\/todays-standard","weight":"1"},"site_region__author\/.*":{"title":"Author page","default_weight":1,"drupal_key":"tws_weight__site_region__author\/_*","weight":"1"}}},"score_lifetime":"2592000","q":"node\/121","node":{"type":"page","title":"Privacy Policy","nid":"121","uid":"1","status":"1","path":"misc\/privacy.asp"},"tws_slider_showing_period":"365","tws_slider_apply_date":1409112000,"tws_mobile_slider_showing_period":"365","tws_mobile_slider_apply_date":1405137600,"tws_mobile_slider_delay":"3000"});
-//--><!]]>
-</script>
-  <script type="text/javascript">var ord = Math.random()*10000000000000000;</script>  
-  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+var file_version = "2016.06.15.03";
+var editLink = "http://admin.weeklystandard.com/region2/tws/land-privacy";
+var tws_access = {"subaccess":{"active":1},"meter":{"active":1,"whitelist":1,"score":{"article":2,"blog":1},"groups":{"0616_print":{"percentage":40,"thresholds":{"2":{"name":"0616_print_alert","trigger":"modal","className":"","html":"","creative":"\/s3\/tws15\/meter\/modal\/0216_alert\/modal.html"},"4":{"name":"0616_print_expire_soon","trigger":"modal","className":"","html":"","creative":"\/s3\/tws15\/meter\/modal\/0216_expire_soon\/modal.html"},"6":{"name":"0616_print_access_expired","trigger":"modal","className":"","html":"","creative":"\/s3\/tws15\/meter\/modal\/0216_access_expired\/modal.html"}}},"0616_digital":{"percentage":60,"thresholds":{"2":{"name":"0616_digital_alert","trigger":"modal","className":"","html":"","creative":"\/s3\/tws15\/meter\/modal\/0316_999_alert\/modal.html"},"4":{"name":"0616_digital_expire_soon","trigger":"modal","className":"","html":"","creative":"\/s3\/tws15\/meter\/modal\/0316_999_expire_soon\/modal.html"},"6":{"name":"0616_digital_access_expired","trigger":"modal","className":"","html":"","creative":"\/s3\/tws15\/meter\/modal\/0316_999_access_expired\/modal.html"}}}}}};
 
-    <script type="text/javascript"> 
-     google.load("jqueryui", "1.6");
-  </script>
+var dimensions = new Array();
+var contentGroups = new Array();
+
+contentGroups[2] = "Landing";
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+var addthis_config = {'data_use_flash': false, 'data_track_clickback':true, 'services_compact':'reddit,blogger,stumbleupon,linkedin,pinterest_share,tumblr,digg'};
+var addthis_pub = "ra-52e95ba363f0b4c1";
+var addthis_share = addthis_share || {}
+addthis_share = { 
+	
+	passthrough : { 
+		twitter: { 
+			via: "WeeklyStandard",
+					} 
+	},
+	url_transforms : {
+          shorten: {
+               twitter: 'bitly'
+          }
+     },
+	 shorteners : {
+          bitly : {} 
+     }
+}
+
+
+var requirejs = {
+	urlArgs : "v=2016.06.15.03"
+};
+</script>
+
+<script src="https://use.typekit.net/cdb0tsc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "The Weekly Standard",
+	"url": "http://www.weeklystandard.com",
+	"logo": "//www.weeklystandard.com/s3/tws15/images/logo-large.png"
+}
+</script>
+
+<script data-main="//www.weeklystandard.com/s3/tws15/js/tws" src="//www.weeklystandard.com/s3/tws15/js/requirejs/require.min.js"></script>
+
+
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
+<!-- Facebook/Open Graph Tags & Twitter Cards Tags -->
+
+<meta property="fb:admins" content="1285945407">
+<meta property="og:site_name" content="Weekly Standard">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.weeklystandard.com/privacy">
+<meta property="og:title" content="Privacy Policy | The Weekly Standard">
+<meta property="og:description" content="">
+<meta name="twitter:widgets:csp" content="on">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@weeklystandard">
+<meta name="twitter:title" content="Privacy Policy | The Weekly Standard">
+<meta name="twitter:description" content="">
+<link rel="canonical" href="http://www.weeklystandard.com/privacy">
+
+<script type="text/javascript" src="//mediadc-d.openx.net/w/1.0/jstag?nc=5578-weeklystandard"></script>
+<script type="text/javascript">var sliderIteration=0;</script>
+<meta name="google-site-verification" content="QxcYUvYDy42iu46zPMF2vwdQlMXsJP74MqOgujGnpaQ">
+
+
+
+
+
+<!-- BEGIN Krux Control Tag for "Weekly Standard" -->
+    <!-- Source: /snippet/controltag?confid=JYzDyKA-&site=Weekly%20Standard&edit=1 -->
+    <script class="kxct" data-id="JYzDyKA-" data-timing="async" data-version="1.9" type="text/javascript">
+      window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+      (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+        k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+          (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JYzDyKA-"
+      ;
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+      }());
+      
+</script>
+<!-- END Krux Controltag -->
+
+
+
+<script type="text/javascript">
+     var _sf_async_config = _sf_async_config || {};
+     /** CONFIGURATION START **/
+     _sf_async_config.uid = 28208;
+     _sf_async_config.domain = "weeklystandard.com";
+    _sf_async_config.useCanonical = true;
+     /** CONFIGURATION END **/
+     var _sf_startpt = (new Date()).getTime();
+</script>
+
+
+<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js"></script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1594448940865152');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1594448940865152&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+
+<body id="page-land-privacy" class="landing   subaccess-on meter-on whitelist-on">
+    <div id="queryly_mobile_container"><div class="queryly_mobile_div"><input class="queryly" id="queryly_mobile" type="textbox" placeholder="Search Weekly Standard"></div></div>
     
-  <!-- chartbeat.com -->
-  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-  
-  <!-- Begin comScore Tag -->
+	<div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '535398453300873',
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+    
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+	<div class="desktop-res"></div>
+	<div class="tablet-res"></div>
+	<div class="mobile-res"></div>
+    <div id="supernav">
+    <div class="menu">
+               <ul class="left">
+		  <li class="login"><a href="javascript:;" class="event-tracking" data-action="loginForm" data-label="open">Login</a></li>
+          <li class="logout"><a href="javascript:;" class="event-tracking" data-action="logout" data-label="logout">Logout</a></li>
+            
+			</ul>
+        
+		<!-- 
+        <ul class="right">
+            <li class="social"><a href="https://www.facebook.com/weeklystandard" target="_blank" data-action="supernav" data-label="facebook"><span class="fa fa-facebook"></span></a></li>
+            <li class="social"><a href="https://twitter.com/weeklystandard" target="_blank" data-action="supernav" data-label="twitter"><span class="fa fa-twitter"></span></a></li>
+            <li class="social"><a href="/rss-feeds" target="_blank" data-action="supernav" data-label="rss"><span class="fa fa-rss"></span></a></li>
+            <li class="search"><gcse:searchbox-only></gcse:searchbox-only></li>
+        </ul>
+		
+		-->
+		<!-- 
+        <ul class="center">
+            <li>Friday, June 17, 2016</li>
+        </ul>
+		-->
+        <div class="clear"></div>
+    </div>
+</div>
+    <div id="ad-skin"><div id="ad_background" class="ad page-load ad-block" data-filled="false" data-desktop-placement="cdg.ws/TWS_Skin" data-desktop-sizes="[1920,1200]" data-position="999" data-targeting="section:privacy"></div></div>
+    <div id="header">
+	<div id="background-line"></div>
+    <div id="masthead">
+		<div class="left large-logo"><a href="/"><img src="/media/images/logo.png" alt="The Weekly Standard"></a></div>
+		<div class="left mobile-logo"><a href="/"><img src="/media/images/logo-mobile.png" alt="The Weekly Standard"></a></div>
+        
+        <div class="social-links">
+            <a class="social-button event-tracking" href="https://www.facebook.com/weeklystandard" target="_blank" data-action="social" data-label="facebook"><span class="fa fa-facebook"></span></a>
+            <a class="social-button event-tracking" href="https://twitter.com/weeklystandard" target="_blank" data-action="social" data-label="twitter"><span class="fa fa-twitter"></span></a>
+            <a class="social-button event-tracking" href="/rss-feeds" target="_blank" data-action="social" data-label="rss"><span class="fa fa-rss"></span></a>
+            <a class="social-button search-icon event-tracking" href="javascript:;" data-action="social" data-label="search"><span class="fa fa-search"></span></a>
+        </div>
+        
+		<div class="subscription-promo">
+            <div class="header-sub-promo">
+
+<div class="links">
+<h2><a href="https://subservices.weeklystandard.com/ITPS2.cgi?&#10;ordertype=reply+only&amp;itemcode=wstd&amp;iresponse=wstd.tws_site_landing&amp;KeyCode=O24&amp;uKey=O48&amp;ut&#10;m_source=home&amp;utm_medium=navlink&amp;utm_campaign=sub_header_link" target="_blank" class="event-
+tracking" data-action="sub_promo" data-label="header_sub_link">Subscribe Now</a></h2>
+<ul>
+<li><a href="https://subservices.weeklystandard.com/ITPS2.cgi?&#10;ordertype=reply+only&amp;itemcode=wstd&amp;iresponse=wstd.tws_site_landing&amp;KeyCode=O24&amp;uKey=O48&amp;ut&#10;m_source=home&amp;utm_medium=navlink&amp;utm_campaign=sub_header_link" target="_blank" class="event-
+tracking" data-action="sub_promo" data-label="header_sub_link">Print</a><span class="bullet">•</span></li>
+<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=010&amp;cds_page_id=201405&amp;ut&#10;m_source=home&amp;utm_medium=navlink&amp;utm_campaign=sub_header_link" target="_blank" class="event-
+tracking" data-action="sub_promo" data-label="header_sub_link">Digital</a><span class="bullet">•</span></li>
+<li><a href="https://renew.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.RENEW.WEEKLYSTANDARD_INDEX&amp;eff=R&amp;ut&#10;m_source=home&amp;utm_medium=navlink&amp;utm_campaign=sub_header_link" target="_blank" class="event-
+tracking" data-action="sub_promo" data-label="header_sub_link">Renew</a><span class="bullet">•</span></li>
+<li><a href="https://subservices.weeklystandard.com/ITPS2.cgi?&#10;ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.GIFT&amp;KeyCode=H24&amp;uKey=H48&amp;utm_s&#10;ource=home&amp;utm_medium=navlink&amp;utm_campaign=sub_gift_header" target="_blank" class="event-
+tracking" data-action="sub_promo" data-label="header_gift">Give A Gift</a>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+            <div class="header-custserv">
+    <h1><a href="https://subservices.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.INDEX" target="_blank">Customer Service</a></h1>
+    <ul>
+        <li><a href="https://subservices.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.INDEX" target="_blank">Online Access</a></li>
+        <li><a href="https://subservices.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.INDEX" target="_blank">Renew</a></li>
+        <li><a href="https://subservices.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.INDEX" target="_blank">Make A Payment</a></li>
+        <li><a href="https://subservices.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&amp;OrderType=Reply+Only&amp;iResponse=WSTD.INDEX" target="_blank">Give A Gift</a></li>
+    </ul>
+</div>
+        </div>
+        <div class="tablet-view" data-action="switch_view" data-label="desktop">Desktop View</div>
+		<div class="clear"></div>
+    </div>
+</div>
+    
+<div id="navigation">
+	<div class="navigation-wrap">
+				<div class="login-trigger">
+			<div class="new-login"><a href="javascript:;" class="event-tracking" data-action="loginForm" data-label="open">Login</a></div>
+			<div class="new-logout"><a href="javascript:;" class="event-tracking" data-action="logout" data-label="logout">Logout</a></div>
+        </div>
+        		<div class="menu-trigger">Sections <span class="menu-arrow-up">▼ </span><span class="menu-arrow-down">▲ </span></div>
+	</div>
+        <ul class="menu">
+                <li id="nav-today" class=" ">
+            <a class="event-tracking" href="/today" target="" data-action="menu" data-label="header-today"><span>Today</span></a>
+        </li>
+                <li id="nav-magazine" class=" ">
+            <a class="event-tracking" href="/issue" target="" data-action="menu" data-label="header-magazine"><span>Magazine</span></a>
+        </li>
+                <li id="nav-writers" class=" ">
+            <a class="event-tracking" href="/authors" target="" data-action="menu" data-label="header-writers"><span>Writers</span></a>
+        </li>
+                <li id="nav-podcasts" class=" ">
+            <a class="event-tracking" href="/podcasts" target="" data-action="menu" data-label="header-podcasts"><span>Podcasts</span></a>
+        </li>
+                <li id="nav-books-arts" class=" ">
+            <a class="event-tracking" href="/books-arts" target="" data-action="menu" data-label="header-books-arts"><span>Books &amp; Arts</span></a>
+        </li>
+                <li id="nav-newsletters" class=" ">
+            <a class="event-tracking" href="http://newsletters.weeklystandard.com" target="_blank" data-action="menu" data-label="header-newsletters"><span>Newsletters</span></a>
+        </li>
+                <li id="nav-events" class=" ">
+            <a class="event-tracking" href="http://events.weeklystandard.com" target="_blank" data-action="menu" data-label="header-events"><span>Events</span></a>
+        </li>
+                <li id="nav-store" class=" ">
+            <a class="event-tracking" href="http://www.weeklystandardstore.com" target="_blank" data-action="menu" data-label="header-store"><span>Store</span></a>
+        </li>
+                <li>
+        	<div class="cover"><a href="https://subservices.weeklystandard.com/ITPS2.cgi?ordertype=reply+only&amp;itemcode=wstd&amp;iresponse=wstd.tws_site_landing&amp;KeyCode=O24&amp;uKey=O48&amp;utm_source=home&amp;utm_medium=navlink&amp;utm_campaign=sub_header_cover" target="_blank" class="event-tracking" data-action="sub_promo" data-label="header_sub_cover"><img class="image dynamic-load" data-image="e9391e06e791162f396f1ab82249cfd4" data-preset-lg="145x220" data-preset-md="145x220" src="http://cdn.weeklystandard.biz/cache/145x220-e9391e06e791162f396f1ab82249cfd4.jpg"></a>
+            </div>
+        </li>
+        <div class="clear"></div>
+    </ul>
+        
+</div>
+
+<div id="new-search" class="search">
+	<div id="queryly_desktop">
+   		<input type="text" class="queryly" placeholder="Search Weekly Standard" autocomplete="off">
+        <button type="submit" id="submit-search" class="search-icon event-tracking" data-action="search" data-label="search_icon">
+        	<i class="fa fa-search"></i>
+       	</button>
+ 	</div>
+    <div id="advanced-search">
+    	<a class="event-tracking" href="/search" data-action="search" data-label="advanced_search"><p>Advanced Search</p></a>
+    </div>
+</div>
+
+
+<table class="menu-magazine">
+<tbody><tr>
+  <td class="column-one">
+      <div class="magazine-cover"><a href="/issue"><img class="image dynamic-load" data-image="e9391e06e791162f396f1ab82249cfd4" data-preset-lg="145x220"></a></div>
+    <p class="date">June 27, 2016</p>
+    <p class="date">Vol. 21, No. 40</p>
+    <p class="archives-button"><a href="/archive" target="blank">ARCHIVES</a></p>
+    <p class="archives-button download-button"><a href="http://s3.amazonaws.com/assets.weeklystandard.com/WStandard.v21-40.2016-06-27.pdf" target="blank">DOWNLOAD</a></p>
+    </td>
+
+<td class="magazine-article-list">
+    <h3>Editorial</h3>
+    <ul>
+        <li><a href="/the-presidents-confusion/article/2002891">The President’s Confusion</a></li>
+    </ul>
+    <ul>
+        <li><a href="/cut-the-thread/article/2002878">Cut the Thread</a></li>
+    </ul>
+    <ul>
+        <li><a href="/obamas-go-to-diversion/article/2002877">Obama's Go-to Diversion</a></li>
+    </ul>
+       <br>
+       <br>
+    <h3>Articles</h3>
+    <ul>
+        <li><a href="/pondering-harambe/article/2002885">Pondering Harambe</a></li>
+    </ul>
+    <ul>
+        <li><a href="/jihadists-under-investigation/article/2002889">Jihadists Under Investigation</a></li>
+    </ul>
+    <ul>
+        <li><a href="/down-ballot-blues/article/2002888">Down-Ballot Blues</a></li>
+    </ul>
+    <ul>
+        <li><a href="/lets-talk-about-something-else/article/2002887">Let's Talk About Something Else</a></li>
+    </ul>
+    <ul>
+        <li><a href="/listening-to-victims/article/2002886">Listening to Victims</a></li>
+    </ul>
+       <br>
+       <br>
+    <h3>Features</h3>
+    <ul>
+        <li><a href="/under-russias-shadow/article/2002876">Under Russia's Shadow</a></li>
+    </ul>
+    <ul>
+        <li><a href="/our-voracious-executive-branch/article/2002875">Our Voracious Executive Branch</a></li>
+    </ul>
+    <ul>
+        <li><a href="/mountains-alive/article/2002869">Mountains Alive</a></li>
+    </ul>
+</td>		
+<td class="magazine-article-list">
+    <h3 class="magazine-article-list">Scrapbook</h3>
+    <ul>
+        <li><a href="/the-zika-olympics/article/2002883">The Zika Olympics</a></li>
+    </ul>
+    <ul>
+        <li><a href="/college-for-convicts/article/2002882">College for Convicts</a></li>
+    </ul>
+    <ul>
+        <li><a href="/redrawing-the-map/article/2002881">Redrawing the Map</a></li>
+    </ul>
+    <ul>
+        <li><a href="/must-reading/article/2002880">Must Reading</a></li>
+    </ul>
+    <ul>
+        <li><a href="/sentences-we-didnt-finish/article/2002879">Sentences We Didn't Finish</a></li>
+    </ul>
+       <br>
+       <br>
+    <h3 class="magazine-article-list">Books &amp; Arts</h3>
+    <ul>
+        <li><a href="/expressions-of-joy/article/2002874">Expressions of Joy</a></li>
+    </ul>
+    <ul>
+        <li><a href="/beautiful-losers/article/2002873">Beautiful Losers</a></li>
+    </ul>
+    <ul>
+        <li><a href="/slough-saga/article/2002872">Slough Saga</a></li>
+    </ul>
+    <ul>
+        <li><a href="/philosopher-and-king/article/2002870">Philosopher and King</a></li>
+    </ul>
+    <ul>
+        <li><a href="/casinos-royale/article/2002868">Casinos Royale</a></li>
+    </ul>
+    <ul>
+        <li><a href="/richard-for-laughs/article/2002867">Richard for Laughs</a></li>
+    </ul>
+       <br>
+       <br>
+    <h3 class="magazine-article-list">Casual</h3>
+    <ul>
+        <li><a href="/the-end-of-times/article/2002865">The End of Times</a></li>
+    </ul>
+       <br>
+       <br>
+    <h3 class="magazine-article-list">Parody</h3>
+    <ul>
+        <li><a href="/the-gop-goes-ape-in-2020/article/2002884">The GOP Goes Ape in 2020</a></li>
+    </ul>
+</td>
+</tr>
+</tbody></table>
+
+<div class="menu-writers">
+	        <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/william-kristol"><img class="image animated fadeIn" src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/kristol-small.png"><h1>William Kristol</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/fred-barnes"><img class="image animated fadeIn" src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/barnes-small.png"><h1>Fred Barnes</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/claudia-anderson"><img class="image animated fadeIn" src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/anderson-small.png"><h1>Claudia Anderson</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/christopher-caldwell"><img class="image animated fadeIn" src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/caldwell-small.png"><h1>Christopher Caldwell</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/matthew-continetti"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/continetti-small.png"><h1>Matthew Continetti</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/jay-cost"><img class="image animated fadeIn" src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/cost-small.png"><h1>Jay Cost</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/terry-eastland"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/eastland-small.png"><h1>Terry Eastland</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/ethan-epstein"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/epstein-small.png"><h1>Ethan Epstein</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/andrew-ferguson"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/ferguson-small.png"><h1>Andrew Ferguson</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/daniel-halper"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/halper-small.png"><h1>Daniel Halper</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/stephen-f.-hayes"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/hayes-small.png"><h1>Stephen F. Hayes</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/mark-hemingway"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/hemingway-small.png"><h1>Mark Hemingway</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/jonathan-v.-last"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/last-small.png"><h1>Jonathan V. Last</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/matt-labash"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/labash-small.png"><h1>Matt Labash</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/victorino-matus"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/matus-small.png"><h1>Victorino Matus</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/john-mccormack"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/mccormack-small.png"><h1>John McCormack</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/lee-smith"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/smith-small.png"><h1>Lee Smith</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/richard-starr"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/starr-small.png"><h1>Richard Starr</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/jim-swift"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/swift-small.png"><h1>Jim Swift</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/philip-terzian"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/terzian-small.png"><h1>Philip Terzian</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/kelly-jane-torrance"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/torrance-small.png"><h1>Kelly Jane Torrance</h1></a>
+        </div>
+            <div class="author-info">
+            <a href="http://www.weeklystandard.com/author/michael-warren"><img class="image animated fadeIn" src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/warren-small.png"><h1>Michael Warren</h1></a>
+        </div>
+    </div>
+    
+	
+    <div id="site">
+		<div id="body" class="landing">
+							<section class="content regions">
+	<div class="region col1 col2">
+		<div id="billboard_1" class="ad dynamic-load billboard" data-filled="false" data-desktop-placement="cdg.ws/TWS_Billboard" data-desktop-sizes="[[970,250],[970,90],[728,90],[1,1]]" data-tablet-placement="cdg.ws/TWS_Tablet" data-tablet-sizes="[[728,90]]" data-mobile-placement="cdg.ws/mobileros" data-mobile-sizes="[[320,50]]" data-position="1" data-targeting=""></div>
+
+        
+	</div>
+			<div id="region_2" class="region col1">
+					<header class="widget-title"><h2>The Weekly Standard Online Privacy Policy</h2><hr></header>
+
+<h4>GENERAL OVERVIEW OF THIS PRIVACY POLICY</h4> 
+
+<p>This site or mobile application is one of several sites and mobile applications operated by The Washington Newspaper Publishing Co. LLC d/b/a MediaDC, its subsidiaries, affiliates and related companies ("MediaDC" or "we"). The purpose of this privacy policy ("Privacy Policy") is to disclose what information we may collect from you, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.</p>
+
+<p>We may collect such information through our sites (including washingtonexaminer.com, weeklystandard.com, redalertpolitics.com, other sites accessible via subdomains, and mobile versions of any of these sites) (collectively, the "Sites") or our mobile applications (including the Washington Examiner, Red Alert Politics, and the Weekly Standard) (collectively, the "Mobile Applications"). The Mobile Applications and Sites are defined collectively as our "Digital Services." Terms not otherwise defined here will have the same definitions as set forth in our <a href="/terms" title="Terms of Use" target="_blank">Terms of Use</a>.</p>
+
+<p>We use the information we collect about you to provide information you request, to process and complete the commercial transactions you request, and to provide you with a more personalized experience when using our Digital Services. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our subscribers, customers, and other visitors.</p>
+
+<p>Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you through our Digital Services. For some services, we may collect and transfer personal information to a service provider, or you may visit other merchants or service providers through third-party links in our Digital Services, who may collect and use your personal information for other purposes. We encourage you to review the privacy policies of these third-party sites before you disclose your personal information to others.</p>
+
+<p>Please read the following to learn more about our data collection policies and practices:</p>
+
+<ul>
+<li><a href="/privacy#_Types_of_information">Types of information that may be collected</a></li>
+<li><a href="/privacy#_How_is_information">How information is collected.</a></li>
+<li><a href="/privacy#_How_do_we">How we use the information we collect.</a></li>
+<li><a href="/privacy#_To_whom_may">With whom the information may be shared.</a></li>
+<li><a href="/privacy#_What_choices_do">The choices you have about the collection and use of your information.</a></li>
+<li><a href="/privacy#_What_security_precautions">The security precautions are in place to protect against the loss, misuse, or alteration of your information.</a></li>
+<li><a href="/privacy#_Forums,_Webcasts_and">Chat Rooms, Forums, and Message Boards.</a></li>
+<li><a href="http://washingtonexaminer.com/terms" target="_blank">http://washingtonexaminer.com/terms</a></li>
+<li><a href="/privacy#_Links_to_other">Links to other Websites.</a></li>
+<li><a href="/privacy#_A_special_note">A special note for parents concerning privacy.</a></li>
+<li><a href="/privacy#_International_Users.">International Users.</a></li>
+<li><a href="/privacy#_Limitation_of_Liability.">Limitation of Liability.</a></li>
+<li><a href="/privacy#_Notification_of_changes">Notification of changes and acceptance of the Privacy Policy.</a></li>
+<li><a href="/privacy#_Correcting_and_updating">Correcting and updating personal information.</a></li>
+<li><a href="/privacy#_Whom_do_I">Contact information for questions or concerns about this Privacy Policy.</a></li>
+</ul>
+					<h4><a name="_Types_of_information"></a>Types of information that may be collected</h4>
+
+<p>The personally-identifiable information we collect through our Digital Services is used to facilitate the purchase and/or delivery of products, services, or information you may request. In the process of providing these products and/or services, we may ask our users to complete a form which will require the submission of certain personally-identifiable information.  The information required may vary depending on the products or services you request, and the information collected may be subject to change, but may include the following personally-identifiable information (as well as other non-personally identifiable information described further below):</p>
+
+<ul>
+<li>In the case of subscriptions to one of our email newsletters, you will be required to submit your email address, and other information included on the subscription form.  If you are subscribing to one of our print publications, we will also require your name, mailing address, telephone number, and if the subscription is a paid product, you will be required to provide the payment information required to complete the purchase transaction, as described below. </li>
+<li>The personally-identifiable information that may be collected by our Digital Services (such as if you register to use a Digital Service, in an entry to a sweepstakes or promotion, or otherwise) includes, but may not be limited to: your first name, last name, zip code, phone number, age and email address.  Some additional information, such as your IP address or zip code, may be automatically collected by our Digital Services from your device or otherwise (subject to the settings on your device, and as further described below) in order to better tailor the Digital Services to you.. If the information collected or how it is used may vary for a particular sweepstakes, promotion, or feature, that information will be disclosed in the sweepstakes or promotion rules or feature's terms of use.</li>
+<li>In the case of a paid transaction which is completed through our Digital Services,  an online credit card transaction is required in order to complete the purchase. During this process we (or our third party services providers) may collect certain personally-identifiable information including but not limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address.</li>
+<li>We may provide subscribers or other users with the option of creating your own personal profile which may include information regarding your interests as well as certain other information about you.  Providing that information is optional.  However, if you create a profile, we may supplement your profile based on other information we may collect about you both online and off- line.</li>
+</ul>
+					<h4><a name="_How_is_information"></a>How is information collected?</h4>
+
+<p>We may collect information from you in various ways when you use our Digital Services, including but not limited to those described below:</p>
+
+<p><strong><u>Registration &amp; Subscriptions</u></strong>.<br>
+
+If you register for a specific feature or service offered within one of our Digital Services, you may be asked to complete a registration form and provide personally-identifiable information. You may also be asked to choose a user ID and password in order to take advantage of certain features the Digital Service may offer, including, but not limited to, newsletters, contests, forums, webcasts or other subscription-based services.  For some features within our Digital Services, you may be able to log in using a third-party social media account rather than completing a separate registration.  If you agree to provide us with optional profile information, this information will typically be collected through a registration form. <br>When you use a Mobile Application to subscribe to a digital edition (such as the iOS edition) of one of our publications, you may provide us your name, email, zip code or other information as part of the subscription purchase.  For example, iTunes, when fulfilling an in-app subscription (whether free or paid), gives you the option to provide us with your email address, name, and zip code. Any information you provide us through iTunes or iOS will be used in accordance with this Privacy Policy.</p>
+
+<p><strong><u>Newsletters, Emails and Mobile Offers</u></strong>.<br>
+
+We may offer newsletters and/or other communications in order to share information with you about the Digital Services, about us and our related entities, about our advertisers, sponsors, or other business partners, or relating to topics we believe would be of interest to our readers.  You may receive a newsletter either by registering for a particular newsletter, or in conjunction with a special feature or subscription for which you have registered using our Digital Services. Each of our Digital Services or newsletters may in some cases require separate registrations.  You may cancel your email subscription by following the instructions provided by the Digital Service, in the designated area of the newsletters or emails, or as specified in a communication.  Some of our Digital Services include a preference menu or page where you can manage all of your email registrations for that Digital Service (for example see weeklystandard.com/email/preferences).  Remember, if you consent to receive texts from us, your wireless carrier may impose a charge on incoming texts.  Please check with your wireless carrier for details.</p>
+
+<p><strong><u>Paid Transactions</u></strong>.<br>
+
+Certain transactions within our Digital Services, such as purchasing  a paid subscription for The Weekly Standard (print and/or digital editions), making an in-app purchase in a Mobile Application, or purchasing products in our online stores, may require that you enter your name, email, address, payment information, and other details.  Our magazine subscription services and store transactions are managed by third party service providers, and the information you provide during these paid transactions is submitted directly to the applicable provider, which in turn may share limited information (such as your name and email address, but not payment account details) with MediaDC.</p>
+
+<p><strong><u>Contests or Sweepstakes</u></strong>.<br>
+
+We may operate contests and sweepstakes through our Digital Services, which may require registration in order to enter. Your personally-identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing/texting lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on the Site, such as on a winner's page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on the Digital Service, and collect your information. In those cases, where we are not the sponsor, operator or host of the contest or sweepstakes, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.</p>
+
+<p><strong><u>Surveys or Voting</u></strong>.<br>
+
+From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register if you wish to vote or to take part in a survey.</p>
+
+<p><strong><u>Location; IP Addresses; and Click-stream Data</u></strong>.<br>
+
+We may collect your mailing address (based on information you enter when you subscribe to some of our print publications or paid Digital Services, or your approximate one-time location (based on the zip code you have defined in your mobile device settings, your IP address, or information you provide to us when you subscribe to our Digital Services), in order to better target our content to your interests, or to serve ads to you which we believe would be of interest based on your location.  We may also collect your IP address and/or click-stream data for purposes of system administration, to improve the Sites and to report aggregate information to our advertisers and sponsors and/or other internal uses related to the Sites. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from a Site, our computers log your IP address.</p>
+
+<p>Click-stream data is information collected by our computers when you request Web pages from a Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. This data helps us analyze how visitors arrive at our Sites, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.</p>
+
+<p><strong><u>Cookies</u></strong>.<br>
+
+As with many Websites and applications, our Sites use standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies (or we may use similar technologies). Cookies automatically identify your Web browser to the Site whenever you visit the Sites, and make using the Sites easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Sites are based on data obtained from cookies. Accepting cookies may allow you, among other things, to personalize your experience on the Sites. Cookies may also allow the Sites to display advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Sites may not provide you with a personalized experience if you have disabled the use of cookies.  Our Sites do not currently respond to web browser do-not-track signals.  Our third party advertising networks may issue different cookies, including cookies that may track users across third party sites.  If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance's opt-out page at <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a> or the Network Advertising Initiative at <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">www.networkadvertising.org/optout_nonppii.asp</a>.
+
+</p><p><strong><u>Digital Service Analytics</u></strong>.<br>
+
+We may use third party analytics tools (such as Google Analytics or others) to collect information about use of our Sites and Mobile Applications. These analytics programs may collect information such as how often users visit our Digital Services, what pages they visit when they do so, and what other sites they used prior to coming to our Sites. We use the information we get from analytics providers primarily to improve our Sites and Mobile Applications, and to better understand our audience. The analytics providers typically collect only the IP address assigned to you on the date you visit our Digital Services, rather than your name or other identifying information.  Although some analytics providers may plant a permanent cookie on your web browser to identify you as a unique user the next time you visit a particular Digital Service, the cookie cannot be used by anyone but that provider. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the <a href="http://www.google.com/analytics/tos.html" target="_blank">Google Analytics Terms of Use</a>  and the <a href="http://www.google.com/privacypolicy.html" target="_blank">Google Privacy Policy</a>. Other analytics providers will have their own terms and policies.  You can prevent analytics providers from recognizing you on return visits to this Site by disabling cookies on your browser.</p>
+
+					<h4><a name="_How_do_we"></a>How do we use the information we collect?</h4>
+
+<p>We internally use personally-identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze Digital Service usage, to improve our content and product offerings and to customize each Digital Service's content and layout. We believe these uses allow us to improve our Digital Services and provide better service to our visitors. We may use a customer's email address, mailing address or phone number to contact a customer regarding administrative matters or notices, issues with a transaction, satisfaction with the Digital Services and/or our products and services, and to provide further information regarding additional events, products and/or services we believe the customer would be interested in.  We may use actual or approximate location information such as your zip code to select and display advertisements we believe would be of interest based on your location.  We may also use information we maintain about a subscriber or other customer to resolve disputes and troubleshoot problems.</p>
+
+					<h4>With whom may the information be shared?</h4>
+
+<p>Information we collect may be shared with a variety of parties, depending upon the purpose for which the information was provided and the context in which the information was provided.</p>
+
+<p>If you register with or subscribe to a Digital Service, your information may be aggregated and maintained as part of your profile and may be accessed or used by us, including our current or future affiliated and related companies, to provide you with information or marketing communications regarding products or services we think you will be interested in, whether offered by MediaDC, our affiliated entities, or third parties. In addition, we may occasionally share your information with carefully selected third parties if we believe their information or offers would be of interest to you. Paid subscribers to the print edition of the Weekly Standard should be aware that we may occasionally rent our lists of physical mailing addresses to third parties. You may opt-out of having your information shared with any third parties described in this paragraph by following the instructions below under "What choices do I have about collecting, using, and disclosing my information?"</p>
+
+<p>In order to process your requests, we may provide your personally-identifiable information to service providers or other companies who work on our behalf. In addition, if you enter into a paid transaction on one of our Digital Services (such as subscribing to the Weekly Standard, making a purchase in our online store on in a Mobile Application), you will be providing your payment information and other details to the third party service providers who handle those transactions on our behalf. We use reasonable efforts to require that these third party providers comply with reasonable information security practices, our privacy policy, and applicable laws and regulations. </p>
+
+<p>In the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, personal information collected through our Digital Services will, in most instances, be part of the assets transferred during the negotiations of such transaction or after the closing thereof.</p>
+
+<p>We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or as we believe in good faith may be reasonably necessary to comply with any law, regulation, rule or court order; pursuant to supoenas or other requests from governmental, regulatory or administrative agencies or law enforcement authorities; to respond to any claims, or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property of our users, MediaDC, or others, if we believe that your information in any way relates to that threat.</p>
+					<h4><a name="_What_choices_do"></a>What choices do I have about collecting, using, and disclosing my information?</h4>
+
+<p>It is possible for you to use most of our Digital Services without giving us any personally-identifiable information. When you do register with us or give us personally-identifiable information, on some of our Digital Services, you may have an opportunity at the time we collect your information to limit e-mail communications from us or opt-out of receiving emails from third parties.  You can unsubscribe from email newsletters or similar communications by clicking on the unsubscribe link in every email. </p><p>You may opt-out of all information sharing with third parties for marketing purposes by emailing us at<a href="mailto:privacy@mediadc.com?subject=Please%20Opt%20Me%20Out%20of%20Third-Party%20information%20sharing">privacy@mediadc.com</a> (or to opt out of only one or more of our Sites, please email the following:  for WashingtonExaminer.com, please email <a href="mailto:privacy@washingtonexaminer.com">privacy@washingtonexaminer.com</a>; for WeeklyStandard.com, please email <a href="mailto:webmaster@weeklystandard.com">webmaster@weeklystandard.com</a>; and for RedAlertPolitics.com, please email <a href="mailto:policy@mediadc.com">policy@mediadc.com</a>).  Subscribers to the print edition of The Weekly Standard can opt out of having their postal mail address shared with third parties by sending an email to <a href="mailto:webmaster@weeklystandard.com">webmaster@weeklystandard.com</a>, or by writing to Circulation Manager, The Weekly Standard, 1150 17th St., NW Suite 505, Washington, DC 20036.</p>
+
+<p>To obtain a list of the kinds of personal information that MediaDC has disclosed to third parties for direct marketing purposes during the preceding calendar year, and the names and addresses of all third parties that received personal information from MediaDC for direct marketing purposes during the preceding calendar year, please write to: MediaDC, Attn:  Webmaster, 1015 15th St. NW, Suite 500, Washington, DC, 20005.</p>
+					<h4><a name="_What_security_precautions"></a>What security precautions are in place to protect against the loss, misuse, or alteration of your information?</h4>
+
+<p>We have implemented reasonable security measures to safeguard the personally-identifiable information you provide us. However, please keep in mind that "perfect security" does not exist on the Internet and mobile environments, and we cannot make any guarantees regarding the security of your information.</p>
+					<h4><a name="_Forums,_Webcasts_and"></a>Forums, Webcasts and Message Boards.</h4>
+
+<p>Our Sites may feature forums, webcasts and message boards for our users. You are not required to provide any personal information when using these areas, but you may choose to do so. We strongly recommend that you DO NOT use your personal information for any publicly available identifier such as your user name, and that you DO NOT post any personally-identifiable information online, since such information will be publicly available.  We cannot ensure the security of any information you choose to make public in a chat room, forum, webcast, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.  Please exercise caution when deciding to disclose personal information in these areas.</p>
+					<h4><a name="_Links_to_other"></a>Links to other Websites.</h4>
+
+<p>You should be aware that when you use our Digital Services, you could be directed to other sites beyond our control. For example, if you "click" on an advertisement, you will likely leave the Site or Mobile Application and move to a different website that is not operated by us. This includes links from advertisers, sponsors and partners that may use one of our trademarks or brands as part of a co-branding agreement. These other websites may install their own cookies, independently collect data or solicit personal information, and may or may not have their own published privacy policies. If you are linked to a third-party website through one of our Digital Services, you should carefully review that third-party site's privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party websites, including, without limitation, any websites that may be connected to a Digital Service by hypertext link or otherwise.</p>
+					<h4><a name="_A_special_note"></a>A special note for parents concerning privacy.</h4>
+
+<p>Our Digital Services are not intended for use by children under the age of 13.  We do not knowingly collect personally-identifiable information from children under the age of 13.  If we learn that a child has provided us with personal information, we will delete the child's personal information (except as may be necessary for legal compliance) and remove the child from any mailing lists.</p>
+					<h4><a name="_International_Users."></a>International Users.</h4>
+
+<p>If you are accessing this Digital Service from outside of the United States, you consent to the transfer of your information to the United States, and the processing, use, and sharing of your information in accordance with this Privacy Policy. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy.</p>
+					<h4><a name="_Limitation_of_Liability."></a>Limitation of Liability.</h4>
+
+<p>By providing us with any personally-identifiable information, you expressly and unconditionally release and hold harmless MediaDC, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the "Releasees") from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information. In addition, while we take reasonable steps to prevent third party companies from making unauthorized use of your personal information, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information by those third parties.</p>
+					<h4><a name="_Notification_of_changes"></a>Notification of changes and acceptance of the Privacy Policy.</h4>
+
+<p>By using any of our Digital Services, you signify your agreement to the terms of our Privacy Policy. We may change this Privacy Policy from time to time. If so, any such changes will be posted on this page, so that the we may keep users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of any Digital Service shall constitute your acceptance of such revised Privacy Policy.</p>
+					<h4><a name="_Correcting_and_updating"></a>Correcting and updating personal information.</h4>
+
+<p>If your personally-identifiable information changes (such as your zip code), some of our Digital Services may allow you to log-in and make changes to your profile on line, or you may contact us at the address or email below. </p>
+					<h4><a name="_Whom_do_I"></a>Whom do I contact with questions or concerns about this Privacy Policy?</h4>
+
+<p>If you have any questions about this Privacy Policy, the practices of this Digital Service, your experience with this Digital Service, or if you wish to make changes or delete the personal information we have on file for you, please contact:  MediaDC, Attn:  Webmaster, 1152 15th Street, NW, Suite 200, Washington, DC, 20005 or email at<a href="mailto:legal@mediadc.com">legal@mediadc.com</a>. </p>
+
+<p><strong>Effective Date of this Privacy Policy:  July 12, 2014</strong>.</p>
+			</div>
+			<div id="region_3" class="region col2">
+					<div id="ad_61" class="widget ad dynamic-load " data-filled="false" data-desktop-placement="okp.newsok" data-desktop-sizes="[[300,1050],[300,600],[300,250]]" data-tablet-placement="" data-tablet-sizes="[[300,600],[300,250]]" data-mobile-placement="" data-mobile-sizes="[300,250]" data-position="2" data-targeting=",section:,subsection:"></div>
+					<div class="widget author-gallery">
+	<div class="gallery-title"><h1>OUR WRITERS</h1></div>
+    <a class="left-arrow event-tracking" data-action="author_gallery" data-label="left_arrow"><span class="fa fa-caret-left"></span></a>
+    	<div class="author-blocks">
+            <div class="author-content">
+            	                <div class="author">
+                    <a class="event-tracking" href="/author/william-kristol" data-action="author_gallery" data-label="image"><img src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/kristol-small.png"></a>
+                    <a class="event-tracking" href="/author/william-kristol" data-action="author_gallery" data-label="author_name"><h1>William Kristol</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/fred-barnes" data-action="author_gallery" data-label="image"><img src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/barnes-small.png"></a>
+                    <a class="event-tracking" href="/author/fred-barnes" data-action="author_gallery" data-label="author_name"><h1>Fred Barnes</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/claudia-anderson" data-action="author_gallery" data-label="image"><img src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/anderson-small.png"></a>
+                    <a class="event-tracking" href="/author/claudia-anderson" data-action="author_gallery" data-label="author_name"><h1>Claudia Anderson</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/christopher-caldwell" data-action="author_gallery" data-label="image"><img src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/caldwell-small.png"></a>
+                    <a class="event-tracking" href="/author/christopher-caldwell" data-action="author_gallery" data-label="author_name"><h1>Christopher Caldwell</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/matthew-continetti" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/continetti-small.png"></a>
+                    <a class="event-tracking" href="/author/matthew-continetti" data-action="author_gallery" data-label="author_name"><h1>Matthew Continetti</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/jay-cost" data-action="author_gallery" data-label="image"><img src="http://s3.amazonaws.com/assets.weeklystandard.com/authors/cost-small.png"></a>
+                    <a class="event-tracking" href="/author/jay-cost" data-action="author_gallery" data-label="author_name"><h1>Jay Cost</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/terry-eastland" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/eastland-small.png"></a>
+                    <a class="event-tracking" href="/author/terry-eastland" data-action="author_gallery" data-label="author_name"><h1>Terry Eastland</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/ethan-epstein" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/epstein-small.png"></a>
+                    <a class="event-tracking" href="/author/ethan-epstein" data-action="author_gallery" data-label="author_name"><h1>Ethan Epstein</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/andrew-ferguson" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/ferguson-small.png"></a>
+                    <a class="event-tracking" href="/author/andrew-ferguson" data-action="author_gallery" data-label="author_name"><h1>Andrew Ferguson</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/daniel-halper" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/halper-small.png"></a>
+                    <a class="event-tracking" href="/author/daniel-halper" data-action="author_gallery" data-label="author_name"><h1>Daniel Halper</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/stephen-f.-hayes" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/hayes-small.png"></a>
+                    <a class="event-tracking" href="/author/stephen-f.-hayes" data-action="author_gallery" data-label="author_name"><h1>Stephen F. Hayes</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/mark-hemingway" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/hemingway-small.png"></a>
+                    <a class="event-tracking" href="/author/mark-hemingway" data-action="author_gallery" data-label="author_name"><h1>Mark Hemingway</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/jonathan-v.-last" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/last-small.png"></a>
+                    <a class="event-tracking" href="/author/jonathan-v.-last" data-action="author_gallery" data-label="author_name"><h1>Jonathan V. Last</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/matt-labash" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/labash-small.png"></a>
+                    <a class="event-tracking" href="/author/matt-labash" data-action="author_gallery" data-label="author_name"><h1>Matt Labash</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/victorino-matus" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/matus-small.png"></a>
+                    <a class="event-tracking" href="/author/victorino-matus" data-action="author_gallery" data-label="author_name"><h1>Victorino Matus</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/john-mccormack" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/mccormack-small.png"></a>
+                    <a class="event-tracking" href="/author/john-mccormack" data-action="author_gallery" data-label="author_name"><h1>John McCormack</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/lee-smith" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/smith-small.png"></a>
+                    <a class="event-tracking" href="/author/lee-smith" data-action="author_gallery" data-label="author_name"><h1>Lee Smith</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/richard-starr" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/starr-small.png"></a>
+                    <a class="event-tracking" href="/author/richard-starr" data-action="author_gallery" data-label="author_name"><h1>Richard Starr</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/jim-swift" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/swift-small.png"></a>
+                    <a class="event-tracking" href="/author/jim-swift" data-action="author_gallery" data-label="author_name"><h1>Jim Swift</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/philip-terzian" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/terzian-small.png"></a>
+                    <a class="event-tracking" href="/author/philip-terzian" data-action="author_gallery" data-label="author_name"><h1>Philip Terzian</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/kelly-jane-torrance" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/torrance-small.png"></a>
+                    <a class="event-tracking" href="/author/kelly-jane-torrance" data-action="author_gallery" data-label="author_name"><h1>Kelly Jane Torrance</h1></a>
+                </div>
+                                <div class="author">
+                    <a class="event-tracking" href="/author/michael-warren" data-action="author_gallery" data-label="image"><img src="http://assets.weeklystandard.com.s3.amazonaws.com/authors/warren-small.png"></a>
+                    <a class="event-tracking" href="/author/michael-warren" data-action="author_gallery" data-label="author_name"><h1>Michael Warren</h1></a>
+                </div>
+                            </div>
+        </div>          
+    <a class="right-arrow event-tracking" data-action="author_gallery" data-label="right_arrow"><span class="fa fa-caret-right"></span></a>
+</div>
+			</div>
+												    <div class="region col1 col2">
+		<div id="billboard_2" class="ad dynamic-load billboard" data-filled="false" data-desktop-placement="cdg.ws/TWS_Billboard" data-desktop-sizes="[[970,250],[970,90],[728,90],[1,1]]" data-tablet-placement="cdg.ws/TWS_Tablet" data-tablet-sizes="[[728,90]]" data-mobile-placement="cdg.ws/mobileros" data-mobile-sizes="[[320,50]]" data-position="1" data-targeting=""></div>
+
+	</div>
+    <div class="clear"></div>
+</section>
+						<div class="clear"></div>
+		</div>
+	</div>
+    <div id="footer">
+    <ul class="menu">
+	<div id="footer-supernav">
+    <div class="menu">
+               <ul class="left">
+		  <li class="login"><a href="javascript:;" class="event-tracking" data-action="loginForm" data-label="open">Login</a></li>
+          <li class="logout"><a href="javascript:;" class="event-tracking" data-action="logout" data-label="logout">Logout</a></li>
+            
+			</ul>
+            	        <li id="nav-home" class=" ">
+        	<a class="event-tracking" href="/" target="" data-action="menu" data-label="footer-home"><span>Home</span></a>
+                    </li>
+                <li id="nav-site" class="has-sub ">
+        	<a class="event-tracking" href="#site" target="" data-action="menu" data-label="footer-site"><span>Site<span class="arrow-up">▲</span></span></a>
+                        	<ul class="submenu">
+            	                	<li><a class="event-tracking" href="/issue" data-action="menu" data-label="footer-site-magazine" target="">Magazine</a></li>
+                                	<li><a class="event-tracking" href="/today" data-action="menu" data-label="footer-site-today" target="">Today</a></li>
+                                	<li><a class="event-tracking" href="/podcasts" data-action="menu" data-label="footer-site-podcasts" target="">Podcasts</a></li>
+                                	<li><a class="event-tracking" href="/books-arts" data-action="menu" data-label="footer-site-books-arts" target="">Books &amp; Arts</a></li>
+                                	<li><a class="event-tracking" href="/newsletter" data-action="menu" data-label="footer-site-" target="">Newsletter</a></li>
+                                	<li><a class="event-tracking" href="http://events.weeklystandard.com/" data-action="menu" data-label="footer-site-events" target="_blank">Events</a></li>
+                                	<li><a class="event-tracking" href="http://www.weeklystandardstore.com/" data-action="menu" data-label="footer-site-store" target="_blank">Store</a></li>
+                                	<li><a class="event-tracking" href="/search" data-action="menu" data-label="footer-site-search" target="_blank">Search</a></li>
+                                </ul>
+                    </li>
+                <li id="nav-magazine" class="has-sub ">
+        	<a class="event-tracking" href="/issue" target="" data-action="menu" data-label="footer-magazine"><span>Magazine<span class="arrow-up">▲</span></span></a>
+                        	<ul class="submenu">
+            	                	<li><a class="event-tracking" href="/authors" data-action="menu" data-label="footer-magazine-staff" target="">Staff</a></li>
+                                	<li><a class="event-tracking" href="/editions" data-action="menu" data-label="footer-magazine-issues" target="">All Issues</a></li>
+                                	<li><a class="event-tracking" href="/archive/editorial" data-action="menu" data-label="footer-magazine-editorials" target="">Editorials</a></li>
+                                	<li><a class="event-tracking" href="/archive/features" data-action="menu" data-label="footer-magazine-features" target="">Features</a></li>
+                                	<li><a class="event-tracking" href="/archive/articles" data-action="menu" data-label="footer-magazine-articles" target="">Articles</a></li>
+                                	<li><a class="event-tracking" href="/archive/books-and-arts" data-action="menu" data-label="footer-magazine-books-arts" target="">Books &amp; Arts</a></li>
+                                	<li><a class="event-tracking" href="/archive/scrapbook" data-action="menu" data-label="footer-magazine-scrapbook" target="">Scrapbook</a></li>
+                                	<li><a class="event-tracking" href="/archive/casual" data-action="menu" data-label="footer-magazine-casual" target="">Casual</a></li>
+                                	<li><a class="event-tracking" href="/archive/parody" data-action="menu" data-label="footer-magazine-parody" target="">Parody</a></li>
+                                </ul>
+                    </li>
+                <li id="nav-writers" class="has-sub ">
+        	<a class="event-tracking" href="/authors" target="" data-action="menu" data-label="footer-writers"><span>Writers<span class="arrow-up">▲</span></span></a>
+                        	<ul class="submenu">
+            	                	<li><a class="event-tracking" href="/author/william-kristol" data-action="menu" data-label="footer-william-kristol" target="">William Kristol</a></li>
+                                	<li><a class="event-tracking" href="/author/fred-barnes" data-action="menu" data-label="footer-fred-barnes" target="">Fred Barnes</a></li>
+                                	<li><a class="event-tracking" href="/author/claudia-anderson" data-action="menu" data-label="footer-claudia-anderson" target="">Claudia Anderson</a></li>
+                                	<li><a class="event-tracking" href="/author/jeffrey-h.-anderson" data-action="menu" data-label="footer-jeffrey-anderson" target="">Jeffrey H. Anderson</a></li>
+                                	<li><a class="event-tracking" href="/author/max-boot" data-action="menu" data-label="footer-max-boot" target="">Max Boot</a></li>
+                                	<li><a class="event-tracking" href="/author/joseph-bottum" data-action="menu" data-label="footer-joseph-bottum" target="">Joseph Bottum</a></li>
+                                	<li><a class="event-tracking" href="/author/christopher-caldwell" data-action="menu" data-label="footer-christopher-caldwell" target="">Christopher Caldwell</a></li>
+                                	<li><a class="event-tracking" href="/author/tucker-carlson" data-action="menu" data-label="footer-tucker-carlson" target="">Tucker Carlson</a></li>
+                                	<li><a class="event-tracking" href="/author/matthew-continetti" data-action="menu" data-label="footer-matthew-continetti" target="">Matthew Continetti</a></li>
+                                	<li><a class="event-tracking" href="/author/jay-cost" data-action="menu" data-label="footer-jay-cost" target="">Jay Cost</a></li>
+                                	<li><a class="event-tracking" href="/author/terry-eastland" data-action="menu" data-label="footer-terry-eastland" target="">Terry Eastland</a></li>
+                                	<li><a class="event-tracking" href="/author/noemie-emery" data-action="menu" data-label="footer-noemie-emery" target="">Noemie Emery</a></li>
+                                	<li><a class="event-tracking" href="/author/ethan-epstein" data-action="menu" data-label="footer-ethan-epstein" target="">Ethan Epstein</a></li>
+                                	<li><a class="event-tracking" href="/author/joseph-epstein" data-action="menu" data-label="footer-joseph-epstein" target="">Joseph Epstein</a></li>
+                                	<li><a class="event-tracking" href="/author/andrew-ferguson" data-action="menu" data-label="footer-andrew-ferguson" target="">Andrew Ferguson</a></li>
+                                	<li><a class="event-tracking" href="/author/david-frum" data-action="menu" data-label="footer-david-frum" target="">David Frum</a></li>
+                                	<li><a class="event-tracking" href="/author/david-gelernter" data-action="menu" data-label="footer-david-gelernter" target="">David Gelernter</a></li>
+                                	<li><a class="event-tracking" href="/author/reuel-marc-gerecht" data-action="menu" data-label="footer-reuel-marc-gerecht" target="">Reuel Marc Gerecht</a></li>
+                                	<li><a class="event-tracking" href="/author/michael-goldfarb" data-action="menu" data-label="footer-michael-goldfarb" target="">Michael Goldfarb</a></li>
+                                	<li><a class="event-tracking" href="/author/daniel-halper" data-action="menu" data-label="footer-daniel-halper" target="">Daniel Halper</a></li>
+                                	<li><a class="event-tracking" href="/author/mary-katharine-ham" data-action="menu" data-label="footer-mary-katharine-ham" target="">Mary Katharine Ham</a></li>
+                                	<li><a class="event-tracking" href="/author/stephen-f.-hayes" data-action="menu" data-label="footer-stephen-f.-hayes" target="">Stephen F. Hayes</a></li>
+                                	<li><a class="event-tracking" href="/author/mark-hemingway" data-action="menu" data-label="footer-mark-hemingway" target="">Mark Hemingway</a></li>
+                                	<li><a class="event-tracking" href="/author/brit-hume" data-action="menu" data-label="footer-brit-hume" target="">Brit Hume</a></li>
+                                	<li><a class="event-tracking" href="/author/thomas-joscelyn" data-action="menu" data-label="footer-thomas-joscelyn" target="">Thomas Joscelyn</a></li>
+                                	<li><a class="event-tracking" href="/author/frederick-w.-kagan" data-action="menu" data-label="footer-frederick-w.-kagan" target="">Frederick W. Kagan</a></li>
+                                	<li><a class="event-tracking" href="/author/charles-krauthammer" data-action="menu" data-label="footer-charles-krauthammer" target="">Charles Krauthammer</a></li>
+                                	<li><a class="event-tracking" href="/author/matt-labash" data-action="menu" data-label="footer-matt-labash" target="">Matt Labash</a></li>
+                                	<li><a class="event-tracking" href="/author/jonathan-v.-last" data-action="menu" data-label="footer-jonathan-v.-last" target="">Jonathan V. Last</a></li>
+                                	<li><a class="event-tracking" href="/author/yuval-levin" data-action="menu" data-label="footer-yuval-levin" target="">Yuval Levin</a></li>
+                                	<li><a class="event-tracking" href="/author/tod-lindberg" data-action="menu" data-label="footer-tod-lindberg" target="">Tod Lindberg</a></li>
+                                	<li><a class="event-tracking" href="/author/victorino-matus" data-action="menu" data-label="footer-victorino-matus" target="">Victorino Matus</a></li>
+                                	<li><a class="event-tracking" href="/author/john-mccormack" data-action="menu" data-label="footer-john-mccormack" target="">John McCormack</a></li>
+                                	<li><a class="event-tracking" href="/author/geoffrey-norman" data-action="menu" data-label="footer-geoffrey-norman" target="">Geoffrey Norman</a></li>
+                                	<li><a class="event-tracking" href="/author/p.p.-orourke" data-action="menu" data-label="footer-p.p.-orourke" target="">P.J. O'Rourke</a></li>
+                                	<li><a class="event-tracking" href="/author/john-podhoretz" data-action="menu" data-label="footer-john-podhoretz" target="">John Podhoretz</a></li>
+                                	<li><a class="event-tracking" href="/author/bill-roggio" data-action="menu" data-label="footer-bill-roggio" target="">Bill Roggio</a></li>
+                                	<li><a class="event-tracking" href="/author/gary-schmitt" data-action="menu" data-label="footer-gary-schmitt" target="">Gary Schmitt</a></li>
+                                	<li><a class="event-tracking" href="/author/stephen-schwartz" data-action="menu" data-label="footer-stephen-schwartz" target="">Stephen Schwartz</a></li>
+                                	<li><a class="event-tracking" href="/author/lee-smith" data-action="menu" data-label="footer-lee-smith" target="">Lee Smith</a></li>
+                                	<li><a class="event-tracking" href="/author/richard-starr" data-action="menu" data-label="footer-richard-starr" target="">Richard Starr</a></li>
+                                	<li><a class="event-tracking" href="/author/irwin-m.-stelzer" data-action="menu" data-label="footer-irwin-m.-stelzer" target="">Irwin M. Stelzer</a></li>
+                                	<li><a class="event-tracking" href="/author/jim-swift" data-action="menu" data-label="footer-jim-swift" target="">Jim Swift</a></li>
+                                	<li><a class="event-tracking" href="/author/philip-terzian" data-action="menu" data-label="footer-philip-terzian" target="">Philip Terzian</a></li>
+                                	<li><a class="event-tracking" href="/author/kelly-jane-torrance" data-action="menu" data-label="footer-kelly-jane-torrance" target="">Kelly Jane Torrance</a></li>
+                                	<li><a class="event-tracking" href="/author/michael-warren" data-action="menu" data-label="footer-michael-warren" target="">Michael Warren</a></li>
+                                </ul>
+                    </li>
+                <li id="nav-advertise" class=" ">
+        	<a class="event-tracking" href="http://influence.mediadc.com/weekly-standard/" target="_blank" data-action="menu" data-label="footer-advertise"><span>Advertise</span></a>
+                    </li>
+                <li id="nav-about-us" class=" ">
+        	<a class="event-tracking" href="/about" target="" data-action="menu" data-label="footer-about-us"><span>About Us</span></a>
+                    </li>
+                <li id="nav-contact-us" class=" ">
+        	<a class="event-tracking" href="/contact" target="" data-action="menu" data-label="footer-contact-us"><span>Contact Us</span></a>
+                    </li>
+                <li id="nav-subscribe" class=" ">
+        	<a class="event-tracking" href="https://subservices.weeklystandard.com/ITPS2.cgi?ordertype=reply+only&amp;itemcode=wstd&amp;iresponse=wstd.tws_site_landing&amp;KeyCode=E24&amp;uKey=E48&amp;utm_source=home&amp;utm_medium=navlink&amp;utm_campaign=sub_bottomnav" target="_blank" data-action="menu" data-label="footer-subscribe"><span>Subscribe</span></a>
+                    </li>
+                <div class="clear"></div>
+    </div></div></ul>
+    <div class="links">
+        <div class="left">
+            <p class="copyright">© Copyright 2016 The Weekly Standard LLC - A Weekly Conservative Magazine &amp; Blog. All Rights Reserved.</p>
+            <p class="privacy-terms"><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use</a></p>
+        </div>
+        <div class="right">
+            <a href="https://itunes.apple.com/us/app/the-weekly-standard/id566417957?mt=8" target="_blank" class="app apple"><img src="http://s3.amazonaws.com/content.washingtonexaminer.biz/tws/images/apple-button.png"></a>
+            <a href="https://play.google.com/store/search?q=weekly%20standard&amp;c=magazines" target="_blank" class="app google"><img src="http://s3.amazonaws.com/content.washingtonexaminer.biz/tws/images/google-button.png"></a>
+            <a href="http://www.amazon.com/The-Weekly-Standard/dp/B008ELIFPY/ref=sr_1_1?ie=UTF8&amp;qid=1402588435&amp;sr=8-1&amp;keywords=weekly+standard" target="_blank" class="app kindle"><img src="http://s3.amazonaws.com/content.washingtonexaminer.biz/tws/images/amazon-button.png"></a>
+        </div>
+        <div class="clear"></div>
+     </div>
+     <div class="clear"></div>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title" id="myModalLabel"><a href="javascript:;" class="login">Login</a></h4>
+                <h4 class="modal-title"><a href="/contact" target="_blank">Contact Us</a></h4>
+            </div>
+            <div class="modal-body">
+                Loading ...
+            </div>
+            <div class="modal-footer">
+                <h4 class="sub-activate"><a href="https://secure.weeklystandard.com/activate" target="_blank" class="event-tracking" data-action="meter_sub_activate" data-label="meter_modal">Print subscribers, if you don't already have a WeeklyStandard.com account, click here to activate.</a></h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="meterSlider" class="slider">
+    <button type="button" class="close" aria-label="Close"><span aria-hidden="true">×</span></button>
+    <div class="slider-body">...</div>
+</div>
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" data-name"modal_login"="">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a type="button" class="close event-tracking" data-dismiss="modal" aria-label="Close" data-action="loginForm" data-label="close"><span aria-hidden="true">×</span></a>
+                <h4 class="modal-title" id="loginModalLabel">Login to your account</h4>
+            </div>
+            <div class="modal-body">
+                <div class="loginPending"><img src="/media/images/ajax-loader.gif"></div>
+                <div class="loginFailed">Sorry, your email/password combination was incorrect. Please correct and try again.</div>
+                <div class="loginSuccess">You have successfully logged in.  Please wait...</div>
+                <form name="loginForm" id="userLogin" method="post" action="" enctype="multipart/form-data" class="loginForm">
+                    <label for="loginEmail">Email</label>
+                    <input type="email" placeholder="Your Email" name="email" id="loginEmail" class="input-field">
+                    <label for="loginPassword">Password</label>
+                    <input type="password" placeholder="Password" name="password" id="loginPassword" class="input-field">
+                    <input type="submit" value="Login" class="submit">
+                    <a href="javascript:;" class="forgotPW">Forgot your password?</a>
+                    <div class="clear"></div>
+                </form> 
+                <div class="pwFailed">Sorry, we couldn't find your email. Please correct and try again.</div>
+                <div class="pwSuccess">
+                    You have successfully reset your password.  Please check your email for further instructions.<br>
+                    <br>
+                    <a href="javascript:;" class="loginReturn">Return to Login</a>
+                    </div>
+                <form name="pwForm" id="userPW" method="post" action="" enctype="multipart/form-data" class="pwForm">
+                    <label for="loginEmail">Email</label>
+                    <input type="email" placeholder="Your Email" name="email" id="pwEmail" class="input-field">
+                    <input type="submit" value="Reset Password" class="submit">
+                    <div class="clear"></div>
+                </form> 
+                
+            </div>
+            <div class="modal-footer">
+                <h4 class="sub-activate"><a href="https://secure.weeklystandard.com/activate" target="_blank" class="event-tracking" data-action="meter_sub_activate" data-label="login_form">Print subscribers, if you don't already have a WeeklyStandard.com account, click here to activate.</a></h4>
+            </div>
+        </div>
+    </div>
+</div>
+    
+	<div id="ad_slider" class="ad page-load" data-filled="false" data-desktop-placement="cdg.ws/tws_slider" data-desktop-sizes="[1,1]" data-tablet-placement="cdg.ws/tws_slider" data-tablet-sizes="[1,1]" data-mobile-placement="" data-mobile-sizes="" data-position="112" data-targeting=""></div>
+
+<div id="ad_pagegrabber" class="ad page-load" data-filled="false" data-desktop-placement="TWS_PageGrabber" data-desktop-sizes="[1,1]" data-tablet-placement="TWS_PageGrabber" data-tablet-sizes="[1,1]" data-mobile-placement="TWS_PageGrabber" data-mobile-sizes="[1,1]" data-position="111" data-targeting=""></div>
+
+
+<script type="text/javascript">
+   try {
+       if (/mobile/i.test(navigator.userAgent) || /mobi/i.test(navigator.userAgent) || /ipad/i.test(navigator.userAgent) || /android/i.test(navigator.userAgent) || /tablet/i.test(navigator.userAgent) || /mini/i.test(navigator.userAgent) || /MSIE/i.test(navigator.userAgent) || /trident/i.test(navigator.userAgent) || /edge/i.test(navigator.userAgent)) {      
+        }else{
+        var script = document.createElement('script');
+	script.type  = "text/javascript";
+        script.src = "http://interyield.td573.com/InterYield/bindevent.do?e=click&affiliate=MediaDC&subid=weeklystandard&snoozeMinutes=1&adCountIntervalHours=24&maxAdCountsPerInterval=1&chromeoption=flash&macoption=switch&pop=under&customfilter=1&eventObjectAllowTypes=HTTP,HTTPS&disableBackButton=true&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td573.com";
+        document.getElementsByTagName('body')[0].appendChild(script);    
+        } 
+       }   
+   catch (e) {}
+</script><script type="text/javascript" src="http://interyield.td573.com/InterYield/bindevent.do?e=click&amp;affiliate=MediaDC&amp;subid=weeklystandard&amp;snoozeMinutes=1&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=1&amp;chromeoption=flash&amp;macoption=switch&amp;pop=under&amp;customfilter=1&amp;eventObjectAllowTypes=HTTP,HTTPS&amp;disableBackButton=true&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td573.com"></script>
+
+
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1058867948;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058867948/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+
+
+<!-- Begin comScore Tag -->
   <script>
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "8428426" });
     (function() {
-      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; 
+s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + 
+".scorecardresearch.com/beacon.js";
       el.parentNode.insertBefore(s, el);
     })();
   </script>
   <noscript>
-    <img src="http://b.scorecardresearch.com/p?c1=2&c2=8428426&cv=2.0&cj=1" />
+    <img src="https://b.scorecardresearch.com/p?c1=2&c2=8428426&cv=2.0&cj=1" />
   </noscript>
   <!-- End comScore Tag -->
-  <!-- Google Code for Main List -->
-    <script type="text/javascript">
-    /* <![CDATA[ /
-    var google_conversion_id = 1058867948;
-    var google_conversion_label = "9OkWCLjMsgQQ7JX0-AM";
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    / ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-      </script>
-    <noscript>
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058867948/?value=0&label=9OkWCLjMsgQQ7JX0-AM&guid=ON&script=0"/>
-
-    </noscript>  <!-- AdSupply Popunder tag -->
-	<script type="text/javascript">
-	(function(s,o,l,v,e,d) {if(s[o]==null&&s[l+e]) {s[o]="loading"; s[l+e](d,l=function(){s[o]="complete"; s[v+e](d,l,!1)},!1)}}) (document, "readyState", "add", "remove", "EventListener", "DOMContentLoaded");
-	(function() {
-	var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-	s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=389dbedc-a215-4fee-8eda-9df27d7d991e";
-	s.id = "infinity"; s.setAttribute("data-guid", "389dbedc-a215-4fee-8eda-9df27d7d991e"); s.setAttribute("data-version", "async");
-	var e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(s, e);
-	})();
-	</script>	<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52e95ba363f0b4c1"></script>
-	<script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
-</head>
-
-<body class="not-front not-logged-in node-type-page no-sidebars page-misc-privacy-asp section-misc ">
-        
-
-<div id="header">
-	<div class="centered-header-footer-content clearfix">
-		<div id="utility-nav">
-		<!-- User Specific -->
-							<ul id="user-nav">
-          <li id="mobile-theme-switcher" style="display:none;"><a href="/themes/switch?dst=home">Mobile version</a></li>
-          <li id="trigger-login"><a href="/user/login">Login</a></li>
-                      <li class="seperate"><a href="/user/register">Register</a></li>
-          				</ul>
-				<div id="login-dropdown">
-					<span class="login-arrow"></span>
-					<form action="/misc/privacy.asp?destination=node%2F121" accept-charset="UTF-8" method="post" id="user-login-form">
-<div><div class="login-form-row clearfix"><div class="form-item" id="edit-name-wrapper">
- <label for="edit-name">Log-In Email: <span class="form-required" title="This field is required.">*</span></label>
- <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" tabindex="1" class="form-text required">
-</div>
-</div><input type="hidden" name="form_build_id" id="form-f65da3e791b71ed885f1483ba61df420" value="form-f65da3e791b71ed885f1483ba61df420">
-<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
-<div class="login-form-row clearfix"><div class="form-item" id="edit-pass-wrapper">
- <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
- <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" tabindex="1" class="form-text required">
-</div>
-</div><div class="clearfix"><label></label><div class="form-item" id="edit-remember-me-wrapper">
- <input type="checkbox" name="remember_me" id="edit-remember-me" value="1" checked="checked" class="form-checkbox check">
-</div>
-<div class="check-label">Remember me</div></div><label></label><input type="image" name="submit" id="edit-submit" class="form-submit locked-login" data-role="none" src="/sites/all/themes/ws/images/login-button.gif">
-
-</div></form>
-				</div>
-				
-		<!-- Todays Date -->
-		<div id="utility-date">
-							Tuesday, October 21, 2014					</div>
-		
-		<!-- About Us -->
-		<div id="utility-about">
-				
-			<ul><li><a id="about-us-btn">About Us</a></li></ul>
-			
-			<div id="utility-about-urls">
-				<span class="login-arrow"></span>
-				<ul>
-					<li><a href="/tws/aboutus/default.asp">About</a></li>
-	        <li><a href="/misc/faq.asp">FAQs</a></li>
-	        <li><a href="/SubscribersOnly.asp">Subscribers Only</a></li>
-	        <li><a href="/contact">Contact Us</a></li>
-	        <li><a href="/feeds" class="rss">RSS</a></li>
-	        <li><a href="http://www.facebook.com/weeklystandard" class="img"><img src="/sites/all/themes/ws/images/facebook-icon.gif" alt="Follow us on Facebook" width="16" height="16">Facebook</a></li>
-	        <li class="last"><a href="http://twitter.com/weeklystandard" class="img"><img src="/sites/all/themes/ws/images/twitter-icon.gif" alt="Follow us on Twitter" width="16" height="16">Twitter</a></li>
-				</ul>
-			</div>
-		</div>
-		
-		<!-- Search Box -->
-		<div id="navbar-google-search">
-			<div id="cse-search-form" style="width: 100%;">Loading</div>
-      <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-      <script type="text/javascript">
-      google.load('search', '1', {language : 'en'});
-      google.setOnLoadCallback(function() {
-        var customSearchControl = new google.search.CustomSearchControl('000332875241126066113:hiwy7r1u9ss');
-        customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-        var options = new google.search.DrawOptions();
-        options.enableSearchboxOnly("http://www.weeklystandard.com/search/google/results", "r");
-        customSearchControl.draw('cse-search-form', options);
-        google_help_text();
-      }, true);
-      </script>
-      <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css">
-      <style type="text/css">
-      input.gsc-input {
-        border-color: #BCCDF0;
-      }
-      input.gsc-search-button {
-        border-color: #666666;
-        background-color: #CECECE;
-      }
-      #navbar-google-search input.gsc-search-button {
-        display: none;
-        border-color: #666666;
-        background-color: #CECECE;
-      }
-      </style>
-    </div>
-        	<div id="advanced-search-box"><a href="/find">Advanced Search</a></div>
-		</div>
-		
-		
-		</div> <!-- /#utility-nav -->
-	</div> <!--- /.centered-header-footer-content -->
- <!--- /#header -->
-
-
-        <div id="container">
-          
-
-    <div id="masthead" class="clearfix">
-        <div id="logo"><a href="/"><img src="/sites/all/themes/tws_sub_web/images/the-weekly-standard.png" alt="The Weekly Standard" width="242"></a></div>
-            <!-- end logo -->
-        <div id="masthead-left">
-
-        <div id="ad-space"><script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=1;section=home;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=1;section=home;tile=1;dcopt=ist;sz=728x90;ord=927561967159640.2?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/cdg.ws/home;pos=1;section=home;tile=1;dcopt=ist;sz=728x90;ord=123456789?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/cdg.ws/home;pos=1;section=home;tile=1;dcopt=ist;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript></div><!-- end ad space -->
-      </div><!-- end masthead-left -->
-    </div>  <!-- end masthead -->
-    <ul id="main-nav">
-      <li><a href="/" id="home">home</a></li>
-      <li class="drop"><a href="/issue/current" id="magazine">magazine</a>
-              <!-- BEGIN MAGAZINE SUB MENU -->
-          <div class="sub">
-            <div id="menu-cover"><a href="/issue/current"><img src="/sites/all/files/imagecache/cover-small/magazines/coverimages/WStandard.v20-07.2014-10-27.Cover_.jpg" alt="Cover" width="131" height="172"></a><br>
-              <span class="mag-title">October 27, 2014<br>
-                Vol. 020, No. 07</span> 
-              <a href="/archive"><img src="/sites/all/themes/ws/images/archives-button.gif" alt="Archives" width="121" height="25"></a><br>
-              <a href="/subscribe/allinone" target="_blank">
-              	<img src="/sites/all/themes/ws/images/subscribe-button.gif" width="121" height="25" alt="">
-              </a><br>
-              ( <a href="/download/pdf/WStandard.v20-07.2014-10-27.pdf">Download Digital Edition</a> ) 
-            </div><!-- end menu cover -->
-            <div class="menu-list">
-              <h3 class="header"><a href="/issue/current#editorial">Editorial</a></h3>              
-              <ul>
-                <li><a href="/articles/six-reasons-panic_816387.html">Six Reasons to Panic</a></li><li><a href="/articles/protocols-elders-liberalism_816389.html">The Protocols of the Elders of Liberalism</a></li>              </ul>
-              <h3 class="header"><a href="/issue/current#features">Features</a></h3>
-              <ul>
-                <li><a href="/articles/constitutional-congress_816392.html">A Constitutional Congress? </a></li>              </ul>
-              <h3 class="header"><a href="/issue/current#articles">Articles</a></h3>
-              <ul>
-                <li><a href="/articles/second-obamacare-election_816401.html">The Second Obamacare Election </a></li><li><a href="/articles/will-supremes-finally-rule_816402.html">Will the Supremes Finally Rule?</a></li><li><a href="/articles/high-tech-chutzpah_816405.html">High-Tech Chutzpah </a></li><li><a href="/articles/cruel-and-unusual_816406.html">Cruel and Unusual </a></li><li><a href="/articles/obama-s-synthesis_816407.html">Obama’s Synthesis</a></li><li><a href="/articles/upside-lower-oil-prices_816408.html">The Upside  of Lower Oil Prices </a></li>              </ul>
-            </div><!-- end menu list -->
-            <div class="menu-list">
-              <h3 class="header"><a href="/issue/current#books-and-arts">Books &amp; Arts</a></h3>
-              <ul>
-                <li><a href="/articles/our-endangered-species_816382.html">Our Endangered Species</a></li><li><a href="/articles/laugh-clown-laugh_816383.html">Laugh, Clown, Laugh    </a></li><li><a href="/articles/inner-light_816384.html">The Inner Light   </a></li><li><a href="/articles/lafayette-squared_816385.html">Lafayette Squared   </a></li><li><a href="/articles/eye-beholder_816386.html">Eye of the Beholder  </a></li><li><a href="/articles/bird-lives-again_816390.html">Bird Lives Again </a></li>              </ul>
-              <h3 class="header"><a href="/issue/current#scrapbook">Scrapbook</a></h3>
-              <ul>
-                <li><a href="/articles/blame-deflection-game_816394.html">The Blame-Deflection Game</a></li><li><a href="/articles/warning-system_816396.html">Warning System</a></li><li><a href="/articles/broken-man_816397.html">A Broken Man?</a></li><li><a href="/articles/old-olbermann_816398.html">The Old Olbermann</a></li>              </ul>
-              <h3 class="header"><a href="/issue/current#casual">Casual</a></h3>
-              <ul>
-                <li><a href="/articles/wheels-fortune_816381.html">Wheels of Fortune</a></li>              </ul>
-              <h3 class="header"><a href="/issue/current#parody">Parody</a></h3>
-              <ul>
-                <li><a href="/articles/sadly-it-wont-be-invisible-man_816400.html">Sadly, It Won't Be 'Invisible Man'</a></li>              </ul>
-            </div><!-- end menu list -->
-          </div>
-        <!-- END MAGAZINE SUB MENU -->      </li>
-      <li><a href="/daily/daily.asp" id="blog">blog</a></li>
-      <li><a href="/newsletter/kristol/sign_up?utm_source=content&amp;utm_medium=navlink&amp;utm_campaign=leads" id="newsletter">newsletter</a></li>
-      <li><a href="/politics-and-government" id="politics" class="two-lines">politics &amp;<br>
-        government</a></li>
-      <li><a href="/foreign-policy-and-national-security" id="policy" class="two-lines">Foreign policy &amp;<br>
-        national security</a></li>
-      <li><a href="/books-arts-and-society" id="books" class="two-lines">books, arts <br>
-        &amp; society</a></li>
-      <li><a href="http://events.weeklystandard.com" id="events" target="_blank">events</a></li>
-      <li><a href="http://twscruise.com" id="cruise" target="_blank">cruise</a></li>
-      <li><a href="http://www.weeklystandardstore.com" id="store" target="_blank">store</a></li>
-      	 <li class="menu_last_item"><a href="http://subscribe.weeklystandard.com/0812voucher/landing.cfm?utm_source=content&amp;utm_medium=navlink&amp;utm_campaign=sub" target="_blank" id="subscribe" class="last">Subscribe</a></li>
-    </ul>
-
-<!--
-      <div style="clear:both;">
-				<a href="https://subservices.weeklystandard.com/ITPS2.cgi?ItemCode=WSTD&OrderType=Reply+Only&iResponse=WSTD.GIFT&utm_source=tws&utm_medium=lgbanner&utm_campaign=xmas">
-					<img src="/sites/all/themes/ws/images/TWS-holiday-undernav.jpg" />
-				</a>      
-      </div>
--->
-      <div id="breadcrumbs" class="uppercase">
-        You are here: Privacy Policy      </div>
-
-          <div class="clearfix"></div>
-      <!-- end main-nav -->
-        
-            
-     
-    
-    <!--[if !IE]>using conditional comments since IE6 duplicates content in here<![endif]--> 
-    <table class="main-content">
-      <tbody><tr>
-      <td id="center">
-        <!-- ALL CENTERE CONTENT GOES HERE -->
-        
-                             
-        
-        <div id="node-121" class="node node-type-page"><div class="node-inner">
-
-  
-  
-  
-  
-  <div class="content">
-    <p><span style="text-decoration: underline;">THE WEEKLY STANDARD ONLINE PRIVACY POLICY</span></p> <p><span style="font-weight: bold;">GENERAL OVERVIEW OF THIS PRIVACY POLICY</span></p> <p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">This site or mobile application is one of several sites and mobile applications operated by The Washington Newspaper Publishing Co. LLC d/b/a&nbsp;MediaDC, its subsidiaries, affiliates and related companies (“MediaDC” or “we”). The purpose of this privacy policy (“Privacy Policy”) is to disclose what information we may collect from you, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">We may collect such information through our sites (including washingtonexaminer.com, weeklystandard.com, redalertpolitics.com, other sites accessible via subdomains, and mobile versions of any of these sites) (collectively, the “Sites”) or our mobile applications (including the Washington Examiner, Red Alert Politics, and the Weekly Standard) (collectively, the “Mobile Applications”). The Mobile Applications and Sites are defined collectively as our “Digital Services.” Terms not otherwise defined here will have the same definitions as set forth in our&nbsp;<a style="color: #0f5b8a;" title="Terms of Use" href="http://www.weeklystandard.com/misc/terms.asp" target="_blank">Terms of Use.</a></p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">We use the information we collect about you to provide information you request, to process and complete the commercial transactions you request, and to provide you with a more personalized experience when using our Digital Services. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our subscribers, customers, and other visitors.</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you through our Digital Services. For some services, we may collect and transfer personal information to a service provider, or you may visit other merchants or service providers through third-party links in our Digital Services, who may collect and use your personal information for other purposes. We encourage you to review the privacy policies of these third-party sites before you disclose your personal information to others.</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">Please read the following to learn more about our data collection policies and practices:</p><ul style="padding: 0px; margin-top: 0px; margin-bottom: 10px; margin-left: 25px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14.399999618530273px;"><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Types_of_information" rel="nofollow">Types of information that may be collected</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_How_is_information" rel="nofollow">How information is collected.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_How_do_we" rel="nofollow">How we use the information we collect.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_To_whom_may" rel="nofollow">With whom the information may be shared.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_What_choices_do" rel="nofollow">The choices you have about the collection and use of your information.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_What_security_precautions" rel="nofollow">The security precautions are in place to protect against the loss, misuse, or alteration of your information.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Forums,_Webcasts_and" rel="nofollow">Chat Rooms, Forums, and Message Boards.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/terms" rel="nofollow">http://washingtonexaminer.com/terms</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Links_to_other" rel="nofollow">Links to other Websites.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_A_special_note" rel="nofollow">A special note for parents concerning privacy.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_International_Users." rel="nofollow">International Users.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Limitation_of_Liability." rel="nofollow">Limitation of Liability.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Notification_of_changes" rel="nofollow">Notification of changes and acceptance of the Privacy Policy.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Correcting_and_updating" rel="nofollow">Correcting and updating personal information.</a></li><br><li style="line-height: inherit;"><a style="color: #0f5b8a;" href="http://washingtonexaminer.com/privacy-policy#_Whom_do_I" rel="nofollow">Contact information for questions or concerns about this Privacy Policy.</a></li></ul><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Types_of_information"></a>Types of information that may be collected</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">The personally-identifiable information we collect through our Digital Services is used to facilitate the purchase and/or delivery of products, services, or information you may request. In the process of providing these products and/or services, we may ask our users to complete a form which will require the submission of certain personally-identifiable information.&nbsp; The information required may vary depending on the products or services you request, and the information collected may be subject to change, but may include the following personally-identifiable information (as well as other non-personally identifiable information described further below):</p><ul style="padding: 0px; margin-top: 0px; margin-bottom: 10px; margin-left: 25px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14.399999618530273px;"><li style="line-height: inherit;">In the case of subscriptions to one of our email newsletters, you will be required to submit your email address, and other information included on the subscription form.&nbsp; If you are subscribing to one of our print publications, we will also require your name, mailing address, telephone number, and if the subscription is a paid product, you will be required to provide the payment information required to complete the purchase transaction, as described below.&nbsp;</li></ul><ul style="padding: 0px; margin-top: 0px; margin-bottom: 10px; margin-left: 25px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14.399999618530273px;"><li style="line-height: inherit;">The personally-identifiable information that may be collected by our Digital Services (such as if you register to use a Digital Service, in an entry to a sweepstakes or promotion, or otherwise) includes, but may not be limited to: your first name, last name, zip code, phone number, age and email address.&nbsp; Some additional information, such as your IP address or zip code, may be automatically collected by our Digital Services from your device or otherwise (subject to the settings on your device, and as further described below) in order to better tailor the Digital Services to you.. If the information collected or how it is used may vary for a particular sweepstakes, promotion, or feature, that information will be disclosed in the sweepstakes or promotion rules or feature’s terms of use.</li></ul><ul style="padding: 0px; margin-top: 0px; margin-bottom: 10px; margin-left: 25px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14.399999618530273px;"><li style="line-height: inherit;">In the case of a paid transaction which is completed through our Digital Services,&nbsp; an online credit card transaction is required in order to complete the purchase. During this process we (or our third party services providers) may collect certain personally-identifiable information including but not limited to: customer’s first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer’s shipping address, phone number, and email address.</li></ul><ul style="padding: 0px; margin-top: 0px; margin-bottom: 10px; margin-left: 25px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 14.399999618530273px;"><li style="line-height: inherit;">We may provide subscribers or other users with the option of creating your own personal profile which may include information regarding your interests as well as certain other information about you.&nbsp; Providing that information is optional.&nbsp; However, if you create a profile, we may supplement your profile based on other information we may collect about you both online and off- line.</li></ul><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_How_is_information"></a><a style="color: #222222;" href="http://www.farmersfield.com/privacy-policy" rel="nofollow">How is information collected?</a></span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">We may collect information from you in various ways when you use our Digital Services, including but not limited to those described below:<br><br><strong><span style="text-decoration: underline;">Registration &amp; Subscriptions</span></strong>.&nbsp;<br>If you register for a specific feature or service offered within one of our Digital Services, you may be asked to complete a registration form and provide personally-identifiable information. You may also be asked to choose a user ID and password in order to take advantage of certain features the Digital Service may offer, including, but not limited to, newsletters, contests, forums, webcasts or other subscription-based services.&nbsp; For some features within our Digital Services, you may be able to log in using a third-party social media account rather than completing a separate registration.&nbsp; If you agree to provide us with optional profile information, this information will typically be collected through a registration form.&nbsp;<br>When you use a Mobile Application to subscribe to a digital edition (such as the iOS edition) of one of our publications, you may provide us your name, email, zip code or other information as part of the subscription purchase.&nbsp; For example, iTunes, when fulfilling an in-app subscription (whether free or paid), gives you the option to provide us with your email address, name, and zip code. Any information you provide us through iTunes or iOS will be used in accordance with this Privacy Policy.<br><br><strong><span style="text-decoration: underline;">Newsletters, Emails and Mobile Offers</span></strong><strong><span style="text-decoration: underline;">.</span></strong><br>We may offer newsletters and/or other communications in order to share information with you about the Digital Services, about us and our related entities, about our advertisers, sponsors, or other business partners, or relating to topics we believe would be of interest to our readers.&nbsp; You may receive a newsletter either by registering for a particular newsletter, or in conjunction with a special feature or subscription for which you have registered using our Digital Services. Each of our Digital Services or newsletters may in some cases require separate registrations.&nbsp; You may cancel your email subscription by following the instructions provided by the Digital Service, in the designated area of the newsletters or emails, or as specified in a communication.&nbsp; Some of our Digital Services include a preference menu or page where you can manage all of your email registrations for that Digital Service (for example see weeklystandard.com/email/preferences).&nbsp; Remember, if you consent to receive texts from us, your wireless carrier may impose a charge on incoming texts.&nbsp; Please check with your wireless carrier for details.<br><br><strong><span style="text-decoration: underline;">Paid Transactions.</span></strong><br>Certain transactions within our Digital Services, such as purchasing&nbsp; a paid subscription for The Weekly Standard (print and/or digital editions), making an in-app purchase in a Mobile Application, or purchasing products in our online stores, may require that you enter your name, email, address, payment information, and other details.&nbsp; Our magazine subscription services and store transactions are managed by third party service providers, and the information you provide during these paid transactions is submitted directly to the applicable provider, which in turn may share limited information (such as your name and email address, but not payment account details) with MediaDC.&nbsp;&nbsp;<br><br><strong><span style="text-decoration: underline;">Contests or Sweepstakes</span></strong>&nbsp;<br>We may operate contests and sweepstakes through our Digital Services, which may require registration in order to enter. Your personally-identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing/texting lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on the Site, such as on a winner’s page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on the Digital Service, and collect your information. In those cases, where we are not the sponsor, operator or host of the contest or sweepstakes, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser’s or sponsor’s privacy policy applicable to the contest or sweepstakes before participating.<br><br><strong><span style="text-decoration: underline;">Surveys or Voting</span></strong><strong>.</strong>&nbsp;<br>From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register if you wish to vote or to take part in a survey.<br><br><strong><span style="text-decoration: underline;">Location; IP Addresses; and Click-stream Data.</span></strong><strong><span style="text-decoration: underline;">&nbsp;</span></strong><br>We may collect your mailing address (based on information you enter when you subscribe to some of our print publications or paid Digital Services, or your approximate one-time location (based on the zip code you have defined in your mobile device settings, your IP address, or information you provide to us when you subscribe to our Digital Services), in order to better target our content to your interests, or to serve ads to you which we believe would be of interest based on your location.&nbsp; We may also collect your IP address and/or click-stream data for purposes of system administration, to improve the Sites and to report aggregate information to our advertisers and sponsors and/or other internal uses related to the Sites. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from a Site, our computers log your IP address.<br><br>Click-stream data is information collected by our computers when you request Web pages from a Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. This data helps us analyze how visitors arrive at our Sites, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.<br><br><strong><span style="text-decoration: underline;">Cookies</span></strong><strong>.</strong>&nbsp;<br>As with many Websites and applications, our Sites use standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies (or we may use similar technologies). Cookies automatically identify your Web browser to the Site whenever you visit the Sites, and make using the Sites easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Sites, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Sites are based on data obtained from cookies. Accepting cookies may allow you, among other things, to personalize your experience on the Sites. Cookies may also allow the Sites to display advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Sites may not provide you with a personalized experience if you have disabled the use of cookies.&nbsp; Our Sites do not currently respond to web browser do-not-track signals.&nbsp; Our third party advertising networks may issue different cookies, including cookies that may track users across third party sites.&nbsp; If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance’s opt-out page at<a style="color: #0f5b8a;" href="http://www.aboutads.info/choices" rel="nofollow">http://www.aboutads.info/choices</a>&nbsp;or the Network Advertising Initiative at<a style="color: #0f5b8a;" href="http://www.networkadvertising.org/optout_nonppii.asp" rel="nofollow">www.networkadvertising.org/optout_nonppii.asp</a>.<br><br><strong><span style="text-decoration: underline;">Digital Service Analytics.</span>.</strong><br>We may use third party analytics tools (such as Google Analytics or others) to collect information about use of our Sites and Mobile Applications. These analytics programs may collect information such as how often users visit our Digital Services, what pages they visit when they do so, and what other sites they used prior to coming to our Sites. We use the information we get from analytics providers primarily to improve our Sites and Mobile Applications, and to better understand our audience. The analytics providers typically collect only the IP address assigned to you on the date you visit our Digital Services, rather than your name or other identifying information.&nbsp; Although some analytics providers may plant a permanent cookie on your web browser to identify you as a unique user the next time you visit a particular Digital Service, the cookie cannot be used by anyone but that provider. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the&nbsp;<a style="color: #0f5b8a;" href="http://www.google.com/analytics/tos.html" rel="nofollow">Google Analytics Terms of Use</a>&nbsp; and the&nbsp;<a style="color: #0f5b8a;" href="http://www.google.com/privacypolicy.html" rel="nofollow">Google Privacy Policy</a>. Other analytics providers will have their own terms and policies.&nbsp; You can prevent analytics providers from recognizing you on return visits to this Site by disabling cookies on your browser.</p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_How_do_we"></a>How do we use the information we collect?</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">We internally use personally-identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze Digital Service usage, to improve our content and product offerings and to customize each Digital Service’s content and layout. We believe these uses allow us to improve our Digital Services and provide better service to our visitors. We may use a customer’s email address, mailing address or phone number to contact a customer regarding administrative matters or notices, issues with a transaction, satisfaction with the Digital Services and/or our products and services, and to provide further information regarding additional events, products and/or services we believe the customer would be interested in.&nbsp; We may use actual or approximate location information such as your zip code to select and display advertisements we believe would be of interest based on your location.&nbsp; We may also use information we maintain about a subscriber or other customer to resolve disputes and troubleshoot problems.</p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;">With whom may the information be shared?</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">Information we collect may be shared with a variety of parties, depending upon the purpose for which the information was provided and the context in which the information was provided.</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">If you register with or subscribe to a Digital Service, your information may be aggregated and maintained as part of your profile and may be accessed or used by us, including our current or future affiliated and related companies, to provide you with information or marketing communications regarding products or services we think you will be interested in, whether offered by MediaDC, our affiliated entities, or third parties.&nbsp;In addition, we may occasionally share your information with carefully selected third parties if we believe their information or offers would be of interest to you.&nbsp;Paid subscribers to the print edition of the Weekly Standard should be aware that we may occasionally rent our lists of physical mailing addresses to third parties.&nbsp;You may opt-out of having your information shared with any third parties described in this paragraph by following the instructions below under “What choices do I have about collecting, using, and disclosing my information?”</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">In order to process your requests, we may provide your personally-identifiable information to service providers or other companies who work on our behalf.&nbsp;In addition, if you enter into a paid transaction on one of our Digital Services (such as subscribing to the Weekly Standard, making a purchase in our online store on in a Mobile Application), you will be providing your payment information and other details to the third party service providers who handle those transactions on our behalf.&nbsp;We use reasonable efforts to require that these third party providers comply with reasonable information security practices, our privacy policy, and applicable laws and regulations.&nbsp;</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">In the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, personal information collected through our Digital Services will, in most instances, be part of the assets transferred during the negotiations of such transaction or after the closing thereof.</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or as we believe in good faith may be reasonably necessary to comply with any law, regulation, rule or court order; pursuant to supoenas or other requests from governmental, regulatory or administrative agencies or law enforcement authorities; to respond to any claims, or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property of our users, MediaDC, or others, if we believe that your information in any way relates to that threat.</p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_What_choices_do"></a>What choices do I have about collecting, using, and disclosing my information?</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">It is possible for you to use most of our Digital Services without giving us any personally-identifiable information. When you do register with us or give us personally-identifiable information, on some of our Digital Services, you may have an opportunity at the time we collect your information to limit e-mail communications from us or opt-out of receiving emails from third parties.&nbsp; You can unsubscribe from email newsletters or similar communications by clicking on the unsubscribe link in every email.&nbsp;</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">You may opt-out of all information sharing with third parties for marketing purposes by emailing us at<a style="color: #0f5b8a;" href="mailto:privacy@mediadc.com?subject=Please%20Opt%20Me%20Out%20of%20Third-Party%20information%20sharing">privacy@mediadc.com</a>&nbsp;(or to opt out of only one or more of our Sites, please email the following:&nbsp; for WashingtonExaminer.com, please email&nbsp;<a style="color: #0f5b8a;" href="mailto:privacy@washingtonexaminer.com">privacy@washingtonexaminer.com</a>; for WeeklyStandard.com, please email&nbsp;<a style="color: #0f5b8a;" href="mailto:webmaster@weeklystandard.com">webmaster@weeklystandard.com</a>; and for RedAlertPolitics.com, please email&nbsp;<a style="color: #0f5b8a;" href="mailto:policy@mediadc.com">policy@mediadc.com</a>).&nbsp; Subscribers to the print edition of The Weekly Standard can opt out of having their postal mail address shared with third parties by sending an email to&nbsp;<a style="color: #0f5b8a;" href="mailto:webmaster@weeklystandard.com">webmaster@weeklystandard.com</a>, or by writing to Circulation Manager, The Weekly Standard, 1150 17th St., NW Suite 505, Washington, DC 20036.</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">To obtain a list of the kinds of personal information that MediaDC has disclosed to third parties for direct marketing purposes during the preceding calendar year, and the names and addresses of all third parties that received personal information from MediaDC for direct marketing purposes during the preceding calendar year, please write to: MediaDC, Attn:&nbsp; Webmaster, 1015 15th St. NW, Suite 500, Washington, DC, 20005.</p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_What_security_precautions"></a>What security precautions are in place to protect against the loss, misuse, or alteration of your information?</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">We have implemented reasonable security measures to safeguard the personally-identifiable information you provide us. However, please keep in mind that “perfect security” does not exist on the Internet and mobile environments, and we cannot make any guarantees regarding the security of your information.<span style="text-decoration: underline;"></span></p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Forums,_Webcasts_and"></a>Forums, Webcasts and Message Boards.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">Our Sites may feature forums, webcasts and message boards for our users. You are not required to provide any personal information when using these areas, but you may choose to do so. We strongly recommend that you DO NOT use your personal information for any publicly available identifier such as your user name, and that you DO NOT post any personally-identifiable information online, since such information will be publicly available.&nbsp; We cannot ensure the security of any information you choose to make public in a chat room, forum, webcast, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.&nbsp; Please exercise caution when deciding to disclose personal information in these areas.<span style="text-decoration: underline;"></span></p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Links_to_other"></a>Links to other Websites.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">You should be aware that when you use our Digital Services, you could be directed to other sites beyond our control. For example, if you “click” on an advertisement, you will likely leave the Site or Mobile Application and move to a different website that is not operated by us. This includes links from advertisers, sponsors and partners that may use one of our trademarks or brands as part of a co-branding agreement. These other websites may install their own cookies, independently collect data or solicit personal information, and may or may not have their own published privacy policies. If you are linked to a third-party website through one of our Digital Services, you should carefully review that third-party site’s privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party websites, including, without limitation, any websites that may be connected to a Digital Service by hypertext link or otherwise.<span style="text-decoration: underline;"></span></p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_A_special_note"></a>A special note for parents concerning privacy.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">Our Digital Services are not intended for use by children under the age of 13.&nbsp; We do not knowingly collect personally-identifiable information from children under the age of 13.&nbsp; If we learn that a child has provided us with personal information, we will delete the child’s personal information (except as may be necessary for legal compliance) and remove the child from any mailing lists.</p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_International_Users."></a>International Users.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">If you are accessing this Digital Service from outside of the United States, you consent to the transfer of your information to the United States, and the processing, use, and sharing of your information in accordance with this Privacy Policy. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy.<span style="text-decoration: underline;"></span></p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Limitation_of_Liability."></a>Limitation of Liability.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">By providing us with any personally-identifiable information, you expressly and unconditionally release and hold harmless MediaDC, its parents, subsidiaries, affiliates, related companies and their respective shareholders, owners, members, directors, officers, employees and agents (collectively, the “Releasees”) from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information. In addition, while we take reasonable steps to prevent third party companies from making unauthorized use of your personal information, we cannot be held liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information by those third parties.<span style="text-decoration: underline;"></span></p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Notification_of_changes"></a>Notification of changes and acceptance of the Privacy Policy.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">By using any of our Digital Services, you signify your agreement to the terms of our Privacy Policy. We may change this Privacy Policy from time to time. If so, any such changes will be posted on this page, so that the we may keep users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of any Digital Service shall constitute your acceptance of such revised Privacy Policy.<span style="text-decoration: underline;"></span></p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Correcting_and_updating"></a>Correcting and updating personal information.</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">If your personally-identifiable information changes (such as your zip code), some of our Digital Services may allow you to log-in and make changes to your profile on line, or you may contact us at the address or email below.&nbsp;</p><h4 style="margin: 10px 0px; line-height: 1.2; color: #333333; text-rendering: optimizelegibility;"><span style="font-size: medium;"><a name="_Whom_do_I"></a>Whom do I contact with questions or concerns about this Privacy Policy?</span></h4><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;">If you have any questions about this Privacy Policy, the practices of this Digital Service, your experience with this Digital Service, or if you wish to make changes or delete the personal information we have on file for you, please contact:&nbsp; MediaDC, Attn:&nbsp; Webmaster, 1015 15th St. NW, Suite 500, Washington, DC, 20005 or email at<a style="color: #0f5b8a;" href="mailto:legal@mediadc.com">legal@mediadc.com</a>.&nbsp;</p><p style="margin-top: 0px; margin-bottom: 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 14.399999618530273px;"><strong>Effective Date of this Privacy Policy:&nbsp; July 12, 2014</strong>.</p>  </div>
-
-  
-</div></div> <!-- /node-inner, /node -->
-              </td>
-      <!--[if !IE]>end center<![endif]--> 
-      <td id="right" style="padding-top: 4px;">
-        <!-- ALL RIGHT COLUMN CONTENT GOES HERE -->
-        <div class="right-sidebar">
-		            
-
-<a class="addthis_button_facebook_like" fb:like:layout="standard" fb:like:href="http://www.facebook.com/weeklystandard" fb:like:width="280" style="margin-left: 6px;"></a>
-
-
-			<div class="barker-top"></div>
-					<div class="barker-content">
-						<div class="featured-cover">
-							<a href="/issue/current"><img src="/sites/all/files/imagecache/cover-small/magazines/coverimages/WStandard.v20-07.2014-10-27.Cover_.jpg" alt="Cover" width="131" height="172"></a>
-              <a target="_blank" href="http://subscribe.weeklystandard.com/0812voucher/landing.cfm?utm_source=content&amp;utm_medium=redlink&amp;utm_campaign=sub">
-                <img src="/sites/all/themes/ws/images/subscribe-button-feature.gif" alt="Subscribe" class="subscribe">
-              </a>
-						</div>
-						<div class="featured-teasers">
-							<h2 class="header">Subscribe <br>&amp; Save</h2>
-							<ul>
-								<li>Conservative Intelligence</li>
-								<li>Satirical Wit</li>
-								<li>Foreign Policy Insight</li>
-								<li>Sophisticated Perspective</li>
-							</ul>
-							<div class="featured-teaser-links">
-								<ul>
-									<li>Subscribers <a href="/user">Log-in</a></li>
-									<li><a href="/download/pdf/WStandard.v20-07.2014-10-27.pdf">Get the Digital Edition »</a></li>
-								</ul>
-							</div>
-						</div>
-					</div><!--[if !IE]>end barker content<![endif]--> 
-
-
-<div class="advertisement"><div class="ad-holder"><script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=2;section=home;tile=2;sz=300x250,300x600,300x1050;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=2;section=home;tile=2;sz=300x250,300x600,300x1050;ord=927561967159640.2?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/cdg.ws/home;pos=2;section=home;tile=2;sz=300x250,300x600,300x1050;ord=123456789?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/cdg.ws/home;pos=2;section=home;tile=2;sz=300x250,300x600,300x1050;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript></div></div><!--[if !IE]>end right column advertisement<![endif]-->
-
-
-<div class="barker-right">
-        <div class="barker-top"></div>
-        <div class="barker-content">
-            <!--
-            <h3 class="uppercase header"><a href="http://subscribe.weeklystandard.com/0712newsletterE/landing.cfm?utm_source=content&utm_medium=barker&utm_campaign=leads">Newsletter Sign-Up</a></h3>
-            -->
-            <div class="rns_container">
-              <div class="rns_internal">
-                <p class="rns_p">Type in your email<br>address to get started:</p>
-                <form action="/" id="rns_sign_up">
-                  <input class="rns_mail" type="text" name="email" id="email">
-                  <input type="image" class="rns_submit" src="/sites/all/modules/tws/tws_stormpost/theme/images/btn_signup.png">
-                </form>
-              </div>
-            </div>
-        </div>
-        <div class="barker-bottom"></div>
-    </div><!--[if !IE]>end barker right<![endif]-->
-
-
-<div class="barker-right">
-  <div class="barker-top"></div>
-  <div class="barker-content">
-    <div id="wex-rss">
-      <div id="wex-banner">
-        <a href="http://www.washingtonexaminer.com?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank"><img src="/sites/all/modules/tws/theme/images/wex_block_header.png" width="300px"></a>
-      </div>
-      <div id="wex-inner-border">
-        <div class="wex-section-title"><a href="http://washingtonexaminer.com/politics?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">Politics</a></div>
-                  <div class="wex-feed-item"><a href="http://www.washingtonexaminer.com/government-has-paid-millions-for-workers-to-stay-home/article/2555047?custom_click=rss&amp;utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">Government has paid millions for workers to stay home</a></div>
-                  <div class="wex-feed-item"><a href="http://www.washingtonexaminer.com/white-house-denies-plan-to-work-around-congress-on-iran-deal/article/2555046?custom_click=rss&amp;utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">White House denies plan to work around Congress on Iran deal</a></div>
-                  <div class="wex-feed-item"><a href="http://www.washingtonexaminer.com/rubio-announces-ebola-related-travel-ban-plan/article/2555045?custom_click=rss&amp;utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">Rubio announces Ebola-related travel ban plan</a></div>
-              
-        <div class="wex-section-title"><a href="http://washingtonexaminer.com/opinion?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">Opinion</a></div>
-                  <div class="wex-feed-item"><a href="http://www.washingtonexaminer.com/the-flawed-logic-of-embarrassing-economists/article/2555054?custom_click=rss&amp;utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">The flawed logic of embarrassing economists</a></div>
-                  <div class="wex-feed-item"><a href="http://www.washingtonexaminer.com/leading-dem-pollster-hagan-holds-on-to-her-lead-in-north-carolina-senate-battle/article/2555052?custom_click=rss&amp;utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">Leading Dem pollster: Hagan holds on to her lead in North Carolina Senate battle</a></div>
-                  <div class="wex-feed-item"><a href="http://www.washingtonexaminer.com/criminalizing-innocent-christian-behavior/article/2555051?custom_click=rss&amp;utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank">Criminalizing innocent Christian behavior</a></div>
-              
-        <div class="wex-section-title">Featured Writers</div>
-        <div id="wex-writers">
-          <div class="wex-writer-image">
-            <a href="http://washingtonexaminer.com/author/byron-york?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank"><img src="/sites/all/modules/tws/theme/images/york-s.jpg"></a>
-            <div>Byron York</div>
-          </div>
-          <div class="wex-writer-image">
-            <a href="http://washingtonexaminer.com/author/michael-barone?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank"><img src="/sites/all/modules/tws/theme/images/barone-s.jpg"></a>
-            <div>Michael Barone</div>
-          </div>
-          <div class="wex-writer-image-last">
-            <a href="http://washingtonexaminer.com/politics/washington-secrets?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank"><img src="/sites/all/modules/tws/theme/images/Bedard-thumb.jpg"></a>
-            <div>Paul Bedard</div>
-          </div>
-          <div style="clear: both;"></div>
-        </div>
-      </div>
-      <div>
-        <a href="http://www.washingtonexaminer.com?utm_campaign=Weekly+Standard+Story+Box&amp;utm_source=weeklystandard.com&amp;utm_medium=referral" target="_blank"><img src="/sites/all/modules/tws/theme/images/wex_block_footer.png" width="300px"></a>
-      </div>
-    </div>
-  </div>
-  <div class="barker-bottom"></div>
-</div>
-
-
-<div class="barker-right"><div class="barker-top"></div><div class="barker-content full-width"><a href="https://www.weeklystandardstore.com" rel="nofollow"><img src="/sites/all/themes/ws/images/obama-head.jpg" alt="The Official Obama Head - Get One!" title="" width="308" height="71"></a></div><div class="barker-bottom"></div></div><!--[if !IE]>end barker right<![endif]-->
-
-
-				<div class="barker-right">
-					<div class="barker-top"></div>
-					<div class="barker-content">
-						<div id="barker-our-writers">
-							<h3 class="uppercase header"><span style="background:#fff; padding:5px 5px 5px 0px; margin-left: -10px;">Our Writers</span></h3>
-							 <ul id="barker-writers-widget" class="jcarousel-skin-tws">
-		                        <!-- note: span is only for SEO, is hidden by css. -->
-<li style="background-image:url(/sites/all/themes/ws/images/c-william-kristol.gif);"><a href="/author/william-kristol"><span>William Kristol</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-fred-barnes.gif);"><a href="/author/fred-barnes"><span>Fred Barnes</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-stephen-f-hayes.gif);"><a href="/author/stephen-f.-hayes"><span>Stephen F. Hayes</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-jonathan-v-last.gif);"><a href="/author/jonathan-v.-last"><span>Jonathan V. Last</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-jay-cost.gif);"><a href="/author/jay-cost"><span>Jay Cost</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-john-mccormack.gif);"><a href="/author/john-mccormack"><span>John McCormack</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-daniel-halper.gif);"><a href="/author/daniel-halper"><span>Daniel Halper</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-andrew-ferguson.gif);"><a href="/author/andrew-ferguson"><span>Andrew Ferguson</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-victorino-matus.gif);"><a href="/author/victorino-matus"><span>Victorino Matus</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-matt-labash.gif);"><a href="/author/matt-labash"><span>Matt Labash</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-ethan-epstein.gif);"><a href="/author/ethan-epstein"><span>Ethan Epstein</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-torrance.gif);"><a href="/author/kelly-jane-torrance"><span>Kelly Jane Torrance</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-hemingway.gif);"><a href="/author/mark-hemingway"><span>Mark Hemingway</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-michael-warren.gif);"><a href="/author/michael-warren"><span>Michael Warren</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-christopher-caldwell.gif);"><a href="/author/christopher-caldwell"><span>Christopher Caldwell</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-lee-smith.gif);"><a href="/author/lee-smith"><span>Lee Smith</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-philip-terzian.gif);"><a href="/author/philip-terzian"><span>Philip Terzian</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-terry-eastland.gif);"><a href="/author/terry-eastland"><span>Terry Eastland</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-claudia-anderson.gif);"><a href="/author/claudia-anderson"><span>Claudia Anderson</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/c-richard-starr.gif);"><a href="/author/richard-starr"><span>Richard Starr</span></a></li>
-<!--
-<li style="background-image:url(/sites/all/themes/ws/images/c-havard.gif);"><a href="/author/kate-havard"><span>Kate Havard</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/kari-barbic.gif);"><a href="/author/kari-barbic"><span>Kari Barbic</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/emily-schultheis.gif);"><a href="/author/emily-schultheis"><span>Emily Schultheis</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/michael-warren.gif);"><a href="/author/michael-warren"><span>Michael Warren</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/.gif);"><a href="/author/robert-messenger"><span>Robert Messenger</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/.gif);"><a href="/author/philip-chalk"><span>Philip Chalk</span></a></li>
-<li style="background-image:url(/sites/all/themes/ws/images/.gif);"><a href="/author/barbara-kyttle"><span>Barbara Kyttle</span></a></li>
--->
-		                     </ul>
-						</div>					
-					</div>
-					<div class="barker-bottom"></div>
-				</div>
-
-
-<div class="barker-right first">
-  <div class="barker-top"></div>
-  <div class="barker-content">
-    <h3 class="uppercase header"><span style="background:#fff; padding:5px 0px 5px 5px; margin-left: -10px;"><a href="/books-arts-and-society">Books, Arts and Society</a></span></h3>
-                  <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/imagecache/teaser-small/images/teasers/CASUAL.v20-06.Oct20.Terzian.jpg" alt="Smokes" width="68" height="53">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/blogs/casual-podcast-i-d-walk-mile_816485.html">Casual Podcast: I’d Walk a Mile</a></h4>
-            <p></p>
-            <p><a rel="nofollow" href="/blogs/casual-podcast-i-d-walk-mile_816485.html">Read more...</a></p>
-          </div>
-        </div>
-                </div>
-  <div class="barker-bottom"></div>  
-</div>
-
-
-<div class="barker-right"><div class="barker-content"><div class="advertisement"><div class="ad-holder"><script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=7;section=home;tile=7;sz=120x90;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=7;section=home;tile=7;sz=120x90;ord=927561967159640.2?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/cdg.ws/home;pos=7;section=home;tile=7;sz=120x90;ord=123456789?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/cdg.ws/home;pos=7;section=home;tile=7;sz=120x90;ord=123456789?" width="120" height="90" border="0" alt=""></a></noscript></div></div><!--[if !IE]>end right column advertisement<![endif]--></div><div class="barker-bottom"></div></div>
-
-
-<div class="barker-right">
-  <div class="barker-top"></div>
-  <div class="barker-content">
-    <h3 class="uppercase header"><span style="background:#fff; padding:5px 0px 5px 5px; margin-left: -10px;"><a href="/archive/parody">Parody</a></span></h3>
-                  <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/images/PARODY.v20-07.2014-10-27.writer.jpg" alt="Sadly, It Won't Be 'Invisible Man'" width="64" height="70">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/articles/sadly-it-wont-be-invisible-man_816400.html">Sadly, It Won't Be 'Invisible Man'</a></h4>
-            <p>A Parody.</p>
-            <p><a rel="nofollow" href="/articles/sadly-it-wont-be-invisible-man_816400.html">Read more...</a></p>
-          </div>
-        </div>
-              <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/images/PARODY.v20-06.2014-10-20.writer.jpg" alt="An Inconvenient Truth" width="64" height="70">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/articles/inconvenient-truth_810883.html">An Inconvenient Truth</a></h4>
-            <p>A Parody.</p>
-            <p><a rel="nofollow" href="/articles/inconvenient-truth_810883.html">Read more...</a></p>
-          </div>
-        </div>
-              <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/images/PARODY.v20-05.2014-10-13.writer.jpg" alt="Scotland and Ireland Argue Over International Whisk(e)y Day" width="64" height="70">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/articles/scotland-and-ireland-argue-over-international-whiskey-day_808494.html">Scotland and Ireland Argue Over International Whisk(e)y Day</a></h4>
-            <p>A Parody.</p>
-            <p><a rel="nofollow" href="/articles/scotland-and-ireland-argue-over-international-whiskey-day_808494.html">Read more...</a></p>
-          </div>
-        </div>
-                    <div class="barker-more">
-        <p><a href="#">View more [+]</a></p>
-      </div>
-      </div>
-  <div class="barker-bottom"></div>  
-</div>
-
-
-<div class="barker-right">
-  <div class="barker-top"></div>
-  <div class="barker-content">
-    <h3 class="uppercase header"><span style="background:#fff; padding:5px 0px 5px 5px; margin-left: -10px;"><a href="/archive/scrapbook">Scrapbook</a></span></h3>
-                  <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/imagecache/teaser-small/images/teasers/SCRAPBOOK-2.v20-07.2014-10-27.jpg" alt="J. Robert Oppenheimer" width="68" height="53">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/articles/broken-man_816397.html">A Broken Man?</a></h4>
-            <p></p>
-            <p><a rel="nofollow" href="/articles/broken-man_816397.html">Read more...</a></p>
-          </div>
-        </div>
-              <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/imagecache/teaser-small/images/teasers/SCRAPBOOK-3.v20-07.2014-10-27.newscom.jpg" alt="Keith Olbermann" width="68" height="53">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/articles/old-olbermann_816398.html">The Old Olbermann</a></h4>
-            <p></p>
-            <p><a rel="nofollow" href="/articles/old-olbermann_816398.html">Read more...</a></p>
-          </div>
-        </div>
-              <div class="teaser">
-                      <div class="left image">
-              <img src="/sites/all/files/imagecache/teaser-small/images/teasers/SCRAPBOOK-1.v20-07.2014-10-27.newscom.jpg" alt="CDC" width="68" height="53">
-            </div>
-                    <div class="left text">
-            <h4 class="header"><a href="/articles/blame-deflection-game_816394.html">The Blame-Deflection Game</a></h4>
-            <p></p>
-            <p><a rel="nofollow" href="/articles/blame-deflection-game_816394.html">Read more...</a></p>
-          </div>
-        </div>
-                    <div class="barker-more">
-        <p><a href="#">View more [+]</a></p>
-      </div>
-      </div>
-  <div class="barker-bottom"></div>  
-</div>
-
-
-        <div class="barker-right">
-          <div class="barker-top"></div>
-          <div class="barker-content">
-            <h3 class="uppercase header"><span style="background:#fff; padding:5px; margin-left: -10px;">What Did You Miss?</span></h3>
-            <ul class="teaser">
-                            <li class="first">
-              	                <img src="/sites/all/files/imagecache/teaser-small/images/teasers/WELL.v20-06.2014-10-20.Mac_D.ThosFluharty.jpg" alt="Thomas Fluharty" width="43" height="34">
-                                <h4 class="header"><a href="/articles/neo-victorianism-campus_810871.html">Neo-Victorianism on Campus </a></h4>
-                <p>Is this the end of the collegiate bacchanal?</p>
-              </li>
-                            <li>
-              	                <img src="/sites/all/files/imagecache/teaser-small/images/teasers/WELL.v20-05.2014-10-13.Gerecht.DavidPalumbo.jpg" alt="David Palumbo" width="43" height="34">
-                                <h4 class="header"><a href="/articles/sandstorm_808491.html">Sandstorm </a></h4>
-                <p>The Middle East in chaos  </p>
-              </li>
-                          </ul>                   
-            <div class="barker-more">
-              <p><a href="#">View more [+]</a></p>
-            </div>
-          </div>  
-          <div class="barker-bottom"></div>       
-        </div><!--[if !IE]>end barker right<![endif]-->
-
-
-				<div class="barker-right">
-					<div class="barker-top"></div>
-					<div class="barker-content">
-						<h3 class="uppercase header"><span style="background:#fff; padding:5px; margin-left: -10px;">Features</span>
-                     	</h3>
-						<ul class="teaser">
-							<liclass="first"><img src="/sites/all/files/imagecache/teaser-small/images/teasers/491px-Ed_Gillespie_by_Gage_Skidmore.jpg" alt="Gage Skidmore " width="43" height="34"><h4 class="header"><a href="/blogs/obamacare-debate-heats-virginia_816473.html">The Obamacare Debate Heats Up in Virginia</a></h4><p></p><li><img src="/sites/all/files/imagecache/teaser-small/images/teasers/EDIT.v20-07.2014-10-27.Last_.newscom.jpg" alt="CDC director Thomas Frieden and colleagues" width="43" height="34"><h4 class="header"><a href="/articles/six-reasons-panic_816387.html">Six Reasons to Panic</a></h4><p></p></li><li><img src="/sites/all/files/imagecache/teaser-small/images/teasers/EDIT.v20-07.2014-10-27.Kristol.newscom.jpg" alt="The country’s in the very best of hands." width="43" height="34"><h4 class="header"><a href="/articles/protocols-elders-liberalism_816389.html">The Protocols of the Elders of Liberalism</a></h4><p></p></li><li><img src="/sites/all/files/imagecache/teaser-small/images/teasers/LOG.v20-07.2014-10-27.Takeyh.ThosFluharty.jpg" alt="Obama contemplating a bust  of Jimmy Carter" width="43" height="34"><h4 class="header"><a href="/articles/obama-s-synthesis_816407.html">Obama’s Synthesis</a></h4><p>McGovern plus Kissinger.</p></li><li><img src="/sites/all/files/imagecache/teaser-small/images/teasers/800px-Baseball_diamond_marines.jpg" alt="October Baseball Notebook: The War for Ninety Feet" width="43" height="34"><h4 class="header"><a href="/blogs/october-baseball-notebook-war-ninety-feet_816445.html">October Baseball Notebook: The War for Ninety Feet</a></h4><p></p></li>													
-						</liclass="first"></ul>
-					</div>	
-					<div class="barker-bottom"></div>				
-				</div><!--[if !IE]>end barker right<![endif]--> 
-
-
-<div class="advertisement"><div class="ad-holder"><script language="JavaScript" type="text/javascript">document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=5;section=home;tile=5;sz=300x250,300x600;ord=' + ord + '?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/cdg.ws/home;pos=5;section=home;tile=5;sz=300x250,300x600;ord=927561967159640.2?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/cdg.ws/home;pos=5;section=home;tile=5;sz=300x250,300x600;ord=123456789?" target="_blank" rel="nofollow"><img src="http://ad.doubleclick.net/ad/cdg.ws/home;pos=5;section=home;tile=5;sz=300x250,300x600;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript></div></div><!--[if !IE]>end right column advertisement<![endif]-->
-                    <div class="clear"></div>
-        </div>
-      </td>
-      <!--[if !IE]>end right<![endif]--> 
-      </tr>
-    </tbody></table>
-    <!--[if !IE]>end main content<![endif]--> 
-  </div>
-  <!-- end container -->
-  
-  <div id="footer-wrapper" class="clearfix"> 
-    <div id="footer">
-      <div class="centered-header-footer-content">
-        <!-- FOOTER CONTENT GOES HERE -->
-                
-
-<div class="advertisement">
-	<div class="ad-holder">
-		<!-- Weekly Standard/marketing_pos --><script src="http://ad.doubleclick.net/N5578/adj/cdg.ws/marketing_pos;sz=900x120;ord=[timestamp]?" type="text/javascript"></script> <noscript>
-		<a href="http://ad.doubleclick.net/N5578/jump/cdg.ws/marketing_pos;sz=900x120;ord=[timestamp]?">
-		<img src="http://ad.doubleclick.net/N5578/ad/cdg.ws/marketing_pos;sz=900x120;ord=[timestamp]?" width="900" height="120" />
-		</a>
-		</noscript>
-	</div>
-</div>
-
-
-<!-- FOOTER CONTENT -->
-<div id="footer-nav">
-          <div class="nav-site">
-            <h5>The Site</h5>
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/issue/current">Magazine</a></li>
-              <li><a href="/daily/daily.asp">Blog</a></li>
-              <li><a href="/politics-and-government">Politics &amp; Government</a></li>
-              <li><a href="/foreign-policy-and-national-security">Foreign Policy &amp; National Security</a></li>
-              <li><a href="/books-arts-and-society">Books, Art &amp; Society</a></li>
-              <li><a href="http://www.weeklystandardstore.com" target="_blank">Store</a></li>
-              <li><a href="https://w1.buysub.com/pubs/10/010/PremiDigiAccess.jsp?cds_page_id=124153&amp;cds_mag_code=010&amp;id=1402671439554&amp;lsid=41640957195013746&amp;vid=1" target="_blank">Premium Digital</a></li>
-              <li><a href="http://www.weeklystandard.com/author/tws-podcast">TWS Podcasts</a></li>
-              <li><a href="/newsletter/kristol/sign_up?utm_source=content&amp;utm_medium=footer&amp;utm_campaign=leads">Newsletter</a></li>
-              <li><a href="/advertising">Advertise</a></li>
-              <li><a href="/misc/sitemap.asp">Site Map</a></li>
-              <li><a href="/find">Search</a></li>
-            </ul>
-          </div>
-          <div class="nav-mag">
-            <h5>The Magazine</h5>
-            <ul>
-              <li><a href="http://subscribe.weeklystandard.com/0812voucher/landing.cfm?utm_source=content&amp;utm_medium=footer&amp;utm_campaign=sub">Subscribe/Renew</a></li>
-              <li><a href="/tws/aboutus/default.asp#Masthead">Staff</a></li>
-              <li><a href="/advertising">Advertise</a></li>
-              <li><a href="/tws/Search/SearchIssues.asp">Cover Gallery</a></li>
-              <li><a href="/archive/editorial">Editorial</a></li>
-              <li><a href="/archive/features">Features</a></li>
-              <li><a href="/archive/articles">Articles</a></li>
-              <li><a href="/archive/books-and-arts">Books &amp; Arts</a></li>
-              <li><a href="/archive/scrapbook">Scrapbook</a></li>
-              <li><a href="/archive/casual">Casual</a></li>
-              <li><a href="/archive/parody">Parody</a></li>
-              <li><a href="/archive">Archives</a></li>
-            </ul>
-          </div>
-          <div class="nav-writers">
-            <h5>Writers</h5>
-            <ul class="one">
-							<li><a href="/author/william-kristol">William Kristol</a></li>
-              <li><a href="/author/fred-barnes">Fred Barnes</a></li>
-              <li style="visibility:hidden;"></li>
-              <li><a href="/author/claudia-anderson">Claudia Anderson</a></li>
-              <li><a href="/author/jeffrey-h.-anderson">Jeffrey H. Anderson</a></li>
-              <li><a href="/author/max-boot">Max Boot</a></li>
-              <li><a href="/author/joseph-bottum">Joseph Bottum</a></li>
-              <li><a href="/author/christopher-caldwell">Christopher Caldwell</a></li>
-              <li><a href="/author/tucker-carlson">Tucker Carlson</a></li>
-              <li><a href="/author/matthew-continetti">Matthew Continetti</a></li>
-              <li><a href="/author/jay-cost">Jay Cost</a></li>
-							<li><a href="/author/terry-eastland">Terry Eastland</a></li>
-							<li><a href="/author/noemie-emery">Noemie Emery</a></li>
-						  <li><a href="/author/ethan-epstein">Ethan Epstein</a></li>
-              <li><a href="/author/joseph-epstein">Joseph Epstein</a></li>
-              <li><a href="/author/andrew-ferguson">Andrew Ferguson</a></li>
-             </ul>
-            <ul class="two">
-							 <li><a href="/author/david-frum">David Frum</a></li>
-							<li><a href="/author/david-gelernter">David Gelernter</a></li>
-							<li><a href="/author/reuel-marc-gerecht">Reuel Marc Gerecht</a></li>
-							<li><a href="/author/michael-goldfarb">Michael Goldfarb</a></li>
-							<li><a href="/author/daniel-halper">Daniel Halper</a></li>
-							<li><a href="/author/mary-katharine-ham">Mary Katharine Ham</a></li>
-              <li><a href="/author/stephen-f.-hayes">Stephen F. Hayes</a></li>
-              <li><a href="/author/mark-hemingway">Mark Hemingway</a></li>
-              <li><a href="/author/brit-hume">Brit Hume</a></li>
-              <li><a href="/author/thomas-joscelyn">Thomas Joscelyn</a></li>
-              <li><a href="/author/frederick-w.-kagan">Frederick W. Kagan</a></li>
-              <li><a href="/author/charles-krauthammer">Charles Krauthammer</a></li>
-              <li><a href="/author/matt-labash">Matt Labash</a></li>
-              <li><a href="/author/jonathan-v.-last">Jonathan V. Last</a></li>
-              <li><a href="/author/yuval-levin">Yuval Levin</a></li>
-              <li><a href="/author/tod-lindberg">Tod Lindberg</a></li>
-            </ul>
-            <ul class="three">
-              
-              <li><a href="/author/victorino-matus">Victorino Matus</a></li>
-              <li><a href="/author/john-mccormack">John McCormack</a></li>
-              <li><a href="/author/geoffrey-norman">Geoffrey Norman</a></li>
-              <li><a href="/author/p.j.-o'rourke">P.J. O'Rourke</a></li>
-              <li><a href="/author/john-podhoretz">John Podhoretz</a></li>
-              <li><a href="/author/bill-roggio">Bill Roggio</a></li>
-              <li><a href="/author/gary-schmitt">Gary Schmitt</a></li>
-              <li><a href="/author/stephen-schwartz">Stephen Schwartz</a></li>
-              <li><a href="/author/lee-smith">Lee Smith</a></li>
-              <li><a href="/author/richard-starr">Richard Starr</a></li>
-              <li><a href="/author/irwin-m.-stelzer">Irwin M. Stelzer</a></li>              
-              <li><a href="/author/jim-swift">Jim Swift</a></li>
-              <li><a href="/author/philip-terzian">Philip Terzian</a></li>
-              <li><a href="/author/kelly-jane-torrance">Kelly Jane Torrance</a></li>
-              <li><a href="/author/michael-warren">Michael Warren</a></li>
-            </ul>
-          </div>
-		
-		<div class="newsstand-links">
-			<a href="https://itunes.apple.com/us/app/the-weekly-standard/id566417957?mt=8" target="_blank"><img src="/sites/all/themes/ws/images/apple_sm.png" alt="Weekly Standard on the App Store"></a>
-			<a href="http://www.amazon.com/The-Weekly-Standard/dp/B008ELIFPY/ref=sr_1_1?ie=UTF8&amp;qid=1402588435&amp;sr=8-1&amp;keywords=weekly+standard" target="_blank"><img src="/sites/all/themes/ws/images/kindle_sm.png" alt="Weekly Standard on Kindle"></a>
-			<a href="https://play.google.com/store/search?q=weekly%20standard&amp;c=magazines" target="_blank"><img src="/sites/all/themes/ws/images/google_sm.png" alt="Weekly Standard on Google Play"></a>
-		</div>
-		
-          <div class="go_to_examiner">
-              <a href="http://washingtonexaminer.com" target="_blank">For breaking politics news visit WashingtonExaminer.com</a>
-          </div>
-        </div>
-        <div id="footer-copyright">
-          <div class="social addthis_toolbox">
-            <img src="/sites/all/themes/ws/images/footer-logo.gif" alt="The Weekly Standard">
-            <p><a class="addthis_button_facebook_follow" addthis:userid="weeklystandard">Become a Fan on Facebook</a>
-              <a class="addthis_button_twitter_follow" addthis:userid="weeklystandard">Follow us on Twitter</a>
-              <a class="addthis_counter addthis_pill_style" addthis:url="http://weeklystandard.com"></a></p>
-          </div>
-          <div class="rights">
-            <p>© Copyright 2014 The Weekly Standard LLC - A Weekly Conservative Magazine &amp; Blog. All Rights Reserved.<br>
-            <!-- <a href="#">Terms of Use</a> | --> <a href="/misc/privacy.asp">Privacy Policy</a> | <a href="/misc/terms.asp">Terms of Use</a></p>
-          </div>
-        </div>
-
-
-
-<!-- Google Code for TWS Home Page Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1058867948;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "rC6TCIjb1gEQ7JX0-AM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1058867948/?label=rC6TCIjb1gEQ7JX0-AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-        
-      </div>
-    </div> <!-- end footer -->
-  </div> <!-- end footer wrapper -->
-    <script type="text/javascript" src="/sites/all/modules/google_cse/google_cse.js?U"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
-//--><!]]>
-</script>
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -766,47 +1018,31 @@ jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
 </noscript>
 <!-- End Quantcast tag -->
 
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		
-		ga('create', 'UA-3611530-1', 'weeklystandard.com');
-		var dimensionValue = 'No';
-		ga('set', 'dimension1', dimensionValue);
-		ga('require', 'displayfeatures');
-		ga('send', 'pageview');
-	</script>
-  
-  
-  	<script type="text/javascript">
-	    var _sf_async_config={};
-	    /** CONFIGURATION START **/
-	    _sf_async_config.uid = 28208;
-	    _sf_async_config.domain = 'weeklystandard.com';
-	    _sf_async_config.useCanonical = true;
-	    _sf_async_config.sections = '';
-	    _sf_async_config.authors = '';
-	    /** CONFIGURATION END **/
-	    (function(){
-		 function loadChartbeat() {
-		   window._sf_endpt=(new Date()).getTime();
-		   var e = document.createElement('script');
-		   e.setAttribute('language', 'javascript');
-		   e.setAttribute('type', 'text/javascript');
-		   e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-		   document.body.appendChild(e);
-		 }
-		 var oldonload = window.onload;
-		 window.onload = (typeof window.onload != 'function') ?
-		    loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	    })();
-	</script>  
-  <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
-<!-- Send to Kindle button script -->
-  <script type="text/javascript" src="http://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
-  <script type="text/javascript">(function k(){window.$SendToKindle&&window.$SendToKindle.Widget?$SendToKindle.Widget.init({"content":".all_article","exclude":".article-break","pagination":".kindle-nav a.next","title":".header h1","author":".article-rss-left a","published":".date","asin":"B008ELIFPY"}):setTimeout(k,500);})();</script>
-<!-- End Send ot Kindle script -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"5afce1eb9b","applicationID":"1451472","transactionName":"ZVRbZUFVWkICVUJZXFweeFJHXVtfTFhZVFZtQVhWVmtCWAZB","queueTime":0,"applicationTime":316,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script> 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+<img id="ad-block" src="//www.weeklystandard.com/s3/tws15/images/ad-block.png">
+    <!-- Chartbeat -->
+    <script type="text/javascript">
+    
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.sections = '';
+        _sf_async_config.authors = '';
+        /** CONFIGURATION END **/
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    
+    </script>
+	<div id="editAdminLink"></div>
+
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
