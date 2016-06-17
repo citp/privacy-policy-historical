@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teespy.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901043227id_/https%3A//teespy.com/teespy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespy.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617102659id_/https%3A//teespy.com/teespy-privacy-policy) for the most accurate reproduction.*
 
 # TeeSpy Privacy Policy
 
