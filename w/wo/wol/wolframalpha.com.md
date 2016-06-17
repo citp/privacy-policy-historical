@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215183813id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617035339id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wolfram|Alpha Privacy Policy
 
@@ -54,7 +54,7 @@ From time to time, Wolfram|Alpha may contain links to other websites. We do not 
 
 ## Accessing Wolfram|Alpha from Third-Party Sources
 
-Wolfram|Alpha may additionally be accessed through web widgets or gadgets that are embedded on third-party sites, such as iGoogle. If you choose to access Wolfram|Alpha via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party's servers prior to being processed on the Wolfram|Alpha website.
+Wolfram|Alpha may additionally be accessed through web widgets or gadgets that are embedded on third-party sites. If you choose to access Wolfram|Alpha via such tools, then depending on the third-party widget technology, your personal information and queries may be passed on to the third party's servers prior to being processed on the Wolfram|Alpha website.
 
 ## Security
 
