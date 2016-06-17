@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232500id_/http%3A//www.researchgate.net/application.PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchgate.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617213839id_/https%3A//www.researchgate.net/application.PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ResearchGate
 
 ## SECTION I: General
 
-This Statement is an addition to the [Terms and Conditions](http://www.researchgate.net/application.TermsAndConditions.html). Therefore, the general definitions and provisions of the Terms and Conditions apply. 
+This Statement is an addition to the [Terms and Conditions](https://www.researchgate.net/application.TermsAndConditions.html). Therefore, the general definitions and provisions of the Terms and Conditions apply. 
 
 The Provider operates the Service in full compliance with the Directive 95/46/EC and the German laws on privacy and data protection. The Provider respects your privacy and therefore protects your personal data. ResearchGate is not one a Web service that exists primarily in order to collect personal data. 
 
