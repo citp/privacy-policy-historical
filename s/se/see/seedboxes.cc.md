@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedboxes.cc privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828193735id_/https%3A//support.seedboxes.cc/Pre-sales/128142-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedboxes.cc privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617203314id_/https%3A//support.seedboxes.cc/Pre-sales/128142-privacy-policy) for the most accurate reproduction.*
 
 # Seedboxes.cc — Privacy Policy
 
