@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dinnerthendessert.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216071534id_/http%3A//dinnerthendessert.com/privacy-and-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinnerthendessert.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617130031id_/http%3A//dinnerthendessert.com/privacy-and-copyright) for the most accurate reproduction.*
 
-# Privacy and Copyright | Dinner, then Dessert
+# Privacy and Copyright - Dinner, then Dessert
 
 * * *
 
 [](http://dinnerthendessert.com/wp-content/uploads/2015/05/1.png)
 
-This privacy policy sets out how Dinner, then Dessert uses and protects any information that you give while using dinnerthendessert.com.
+This privacy policy sets out how Dinner, then Dessert uses and protects any information that you and your browser provide while using dinnerthendessert.com.
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -50,7 +50,7 @@ Some of our advertisers occasionally serve you cookies as well. We do not have c
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Links to other websites**
 
@@ -67,15 +67,11 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**Opt Out**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
 —–
 
-This privacy policy is subject to change without notice and was last updated on July 31, 2015. If you have any questions feel free to email me at contact@dinnerthendessert.com.
+This privacy policy is subject to change without notice and was last updated on January 15, 2016. If you have any questions feel free to email me at contact@dinnerthendessert.com.
 
 * * *
 
@@ -91,10 +87,22 @@ I am more than happy to answer any questions about this if you e-mail me at cont
 
 [](http://dinnerthendessert.com/wp-content/uploads/2015/05/3.png)
 
-This website and its contents are the copyright of Dinner, then Dessert – © 2015.  All rights reserved.
+This website and its contents are the copyright of Dinner, then Dessert – © 2015-2016.  All rights reserved.
 
 Dinner, then Dessert does not allow for its original recipes and pictures to be reproduced anywhere other than at this site unless authorization is given at the time of sharing (such as on sites like [foodgawker](http://foodgawker.com/post/archive/dinnerthendessert/)) and on social media platforms (like [Facebook ](https://www.facebook.com/DinnerthenDessert)and [Twitter](https://twitter.com/EatsnSweets)).
 
 If you have an interest in posting one of my photos, text from my post or my recipes on another site, you must first contact me for and obtain permission.
 
-If my recipe inspired you to make your own version, please reference my recipe and provide a link to it in your post. I would love for you to share if one of my recipes has inspired you, but if you do that I expect proper credit be sent back to me.  Some of my favorite recipes are inspired by other blogs, but I am always thorough in referencing them to show my love. Thanks for doing the same 
+If my recipe inspired you to make your own version, please reference my recipe and provide a link to it in your post. I would love for you to share if one of my recipes has inspired you, but if you do that I expect proper credit be sent back to me.  Some of my favorite recipes are inspired by other blogs, but I am always thorough in referencing them to show my love. Thanks for doing the same 🙂
+
+### Sign up for daily recipes and receive a free e-cookbook!
+
+You'll get my 5-10-30 e-cookbook -
+
+  * 5 cuisines
+  * 10 full meals
+  * 30 total ingredients
+
+
+
+complete with two-week shopping guide!
