@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetop10sites.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141055id_/http%3A//www.thetop10sites.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetop10sites.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617043842id_/http%3A//www.thetop10sites.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ In an attempt to ensure that the services we provide continue to fit all of your
 
 We greatly appreciate your thoughts and ideas. Feel free to contact us via the feedback button or via email: Support at thetoptensites.com
 
- **When will be contact you?**
+ **When will we contact you?**
 
 By using our services, you agree that we are entitled to send you information via email. Information may include products, services and offers we think may interest you.
 
