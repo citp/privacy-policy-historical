@@ -1,230 +1,95 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208134101id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617045138id_/http%3A//leisure.com/privacy) for the most accurate reproduction.*
 
-# Leisure Travel: Cheap Airline Tickets, Hotels, Car Rentals, Vacations
+# Terms | Leisure.com
 
-[Home](http://leisure.com/)Privacy Policy
+Last updated: Jan 1st, 2016
 
-**THE FOLLOWING PRIVACY STATEMENT DETAILS THE Leisure.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE.**  Any questions in regards to Leisure.com privacy practices should be sent via email to [info@Leisure.com](mailto:info@leisure.com).
+Leisure ("us", "we", or "our") operates the www.leisure.com website (the "Service").
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-### What type of information does Leisure.com collect?
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Leisure.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.leisure.com
 
-Your IP address helps Leisure.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Leisure.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+**Information Collection And Use**
 
-### What does Leisure.com do with my data?
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information").
 
-Leisure.com only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
+**Log Data**
 
-IP addresses help us diagnose server issues and help us administer Leisure.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Every email sent to Leisure.com users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply click on the link provided to opt out.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-Also note that your email address helps Leisure.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
+**Cookies**
 
-### Who else gets to see my personal information?
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-When you request services from our business partners Leisure.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a Leisure.com business partner, you may contact them directly. Leisure.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Leisure.com owned businesses.
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it. It is our obligation to protect any rights or property of Leisure.com and others associated with our company and website.
+**Do Not Track Disclosure**
 
-Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-Leisure shares user information to the following partners. Please visit each company's privacy policy to better understand the controls available to you.
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-  * Accuen Media 
-  * Acxiom 
-  * Ad Gear 
-  * Ad Ready 
-  * Adap.TV 
-  * AdConion 
-  * AddThis 
-  * AdExpert (Microsoft) 
-  * Adform 
-  * AdJuggler, Inc. 
-  * AdKeeper 
-  * AdMedia 
-  * Admotion S.R.L. 
-  * Adobe 
-  * Adometry 
-  * AdRoll 
-  * AdShuffle 
-  * AdTech Inc. 
-  * Advanse 
-  * Advertising.com, Inc. (an AOL company) 
-  * Aggregate Knowledge 
-  * AKQA 
-  * Alena/Performance Marketing Group (Intermix) 
-  * Altitude Digital 
-  * American Express (uses Omniture services) 
-  * AppNexus 
-  * Aranet Online 
-  * Atlas DMT 
-  * Bloomreach 
-  * Blue Kai 
-  * Brand.net 
-  * Bridgetrack 
-  * Brightroll 
-  * BuySight 
-  * C3 Metrics 
-  * Caraytech S.A. (aka E-Planning) 
-  * Casale 
-  * Celtra 
-  * Chango 
-  * Cnet 
-  * Cognitive Match 
-  * Collective Media 
-  * Comcast 
-  * Compete 
-  * comScore 
-  * Connexity 
-  * Convertro 
-  * Conviva 
-  * Coremetrics, Inc. 
-  * Cossette Media 
-  * Cox Digital Solutions (formerly Adify) 
-  * Cox Enterprises 
-  * Crisp Wireless 
-  * Criteo Media 
-  * Crowd Science 
-  * DataXu 
-  * Datran 
-  * Diligant 
-  * Dotomi 
-  * DoubleClick, Inc. 
-  * Dynamic Logic 
-  * Epsilon 
-  * Evidon 
-  * Experian 
-  * eyeReturn Marketing 
-  * EyeView Digital 
-  * EyeWonder, Inc. 
-  * Facilitate 
-  * Fastclick (Valueclick) 
-  * FatText 
-  * Flash Talking 
-  * Flite 
-  * Forbes 
-  * Foresee 
-  * FreeWheel Media, Inc. 
-  * GFK 
-  * GoldSpot Media 
-  * Google AdSense 
-  * HipCricket 
-  * Hotwire 
-  * Innovation Interactive (NetMining) 
-  * Innovid 
-  * InsightExpress 
-  * Intermix (Demand Media) 
-  * Interpolls 
-  * Invite Media 
-  * Jivox 
-  * Korrelate 
-  * Legolas Media 
-  * LinkStorm 
-  * Liquidus Marketing 
-  * Locked On Media 
-  * Lucid Media 
-  * Markit On Demand 
-  * Media6Degrees 
-  * Mediaglu (formerly known as MLN Advertising) 
-  * Mediamath 
-  * Mediamind 
-  * Mediaplex 
-  * Microsoft 
-  * Mixpo 
-  * Moat 
-  * MobileFuse 
-  * Mochila 
-  * Music Interactive 
-  * myThings 
-  * Netseer 
-  * NewsRight, LLC 
-  * NexTag 
-  * Nielsen 
-  * Optaros, Inc 
-  * OsAdsPro (GroovingAds) 
-  * PaperG, Inc. 
-  * PayPal 
-  * Phluant 
-  * Pictela 
-  * Planning Group International 
-  * Pointdexter Systems 
-  * PointRoll 
-  * Predicta 
-  * Pricegrabber (pgcdn.com) 
-  * Procter&Gamble 
-  * Pulse 360 
-  * Quinstreet 
-  * RadiumOne 
-  * Real Media Group 
-  * Rich Relevance 
-  * Rocket Fuel Inc. 
-  * Rovion 
-  * Safecount 
-  * Simpli.fi 
-  * SiteScout Inc. 
-  * Skenzo (Media.net) 
-  * Snap 
-  * Specific Media 
-  * SpeedShift Media 
-  * Sponge Cell 
-  * Symphony Advanced Media (formerly Factor TG) 
-  * Tag-Man 
-  * TapAd 
-  * Telemetry 
-  * Teracent 
-  * The Trade Desk 
-  * Tidal TV/Videology 
-  * TNS Customer Research Inc. 
-  * TradeDoubler 
-  * Tribal Fusion 
-  * TruEffect 
-  * TRUSTe 
-  * TubeMogul 
-  * Tumri 
-  * Turn Inc. 
-  * Undertone 
-  * Unicast (Viewpoint) 
-  * ValueClick Media 
-  * VideoHub 
-  * Vindico 
-  * Visible Measures 
-  * Vizu 
-  * Webapps LLC dba Hitpath 
-  * WebTrends 
-  * Widgetbox d/b/a ClickTurn 
-  * X+1 Technologies 
-  * Xaxis (Media Innovation Group - mookie) 
-  * Yabuka 
-  * Ybrant Digital 
-  * YuMe 
-  * Zedo 
+**Service Providers**
 
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-### How do I delete my information from Leisure.com?
+**Communications**
 
-At this current time it is not possible to completely delete your user information from the Leisure.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-### Will I be notified of a security breach?
+**Compliance With Laws**
 
-Leisure.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-### Do linked sites honor your policy?
+**Security**
 
-Linked sites are not run or controlled by Leisure.com. The website does contain many linked sites, so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. Leisure.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-### Will your policy always remain intact?
+**International Transfer**
 
-We cannot guarantee that this policy will always be honored. In the event that Leisure.com is bought, or our assets are acquired by another company, user information may be transferred to new ownership. Leisure.com will suggest this policy be adapted, but we cannot guarantee it.
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-### Leisure.com will notify you of changes
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and processes it there.
 
-Leisure.com is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with Leisure.com policies, so check this site often for information on your privacy.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-### Contacting Leisure.com
+**Links To Other Sites**
 
-In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [info@Leisure.com](mailto:info@accoona.com).
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children's Privacy**
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Notice Regarding Online Behavioral Advertising**  
+We allow third party companies to serve ads and/or collect certain anonymous information  
+when you visit our Web site. These companies may use non-personally identifiable information  
+(e.g. click stream information, browser type, time and date, subject of advertisements clicked  
+or scrolled over) during your visits to this and other Web sites in order to provide  
+advertisements about goods and services likely to be of greater interest to you. These  
+companies typically use a cookie or third party web beacon to collect this information. To learn  
+more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To  
+opt-out of this type of advertising, you can visit http://www.aboutads.info/choices.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
+
+*"We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit* * http://www.networkadvertising.org/managing/opt_out.asp."*
