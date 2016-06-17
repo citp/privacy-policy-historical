@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamer.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053544id_/http%3A//www.videogamer.com/legal.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamer.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617074529id_/http%3A//www.videogamer.com/legal.html%23privacy) for the most accurate reproduction.*
 
 # VideoGamer.com Legal Notices
 
@@ -15,6 +15,12 @@ Use of this web site constitutes acceptance of the Terms of Use set forth below.
 Pro-G Media Ltd reserves the right not to be responsible for the topicality, correctness, completeness or quality of any information or software provided on this website. Liability claims regarding damage caused by the use of any information or software provided, including any kind of information or software which is incomplete or incorrect, will therefore be rejected.
 
 Pro-G Media Ltd does not hold responsibility for the content of advertisements and promotional creative produced externally that appear on VideoGamer.
+
+* * *
+
+Unless otherwise clearly marked as 'sponsored', the content that Pro-G Media staff produce on VideoGamer.com is never influenced by advertising or commercial partnerships.
+
+We sometimes post links to online retailers (like Amazon) on VideoGamer.com and the site's social media channels such as Twitter. We receive a small commission from any purchases made via these links. These links do not influence editorial decisions or review scores in any way.
 
 * * *
 
