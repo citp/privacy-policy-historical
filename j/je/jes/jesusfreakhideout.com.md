@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesusfreakhideout.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101124828id_/http%3A//www.jesusfreakhideout.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesusfreakhideout.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193912id_/http%3A//www.jesusfreakhideout.com/privacy.asp) for the most accurate reproduction.*
 
 # About JesusfreakHideout.com
 
@@ -72,10 +72,7 @@ This policy was last modified on **November 18, 2009**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.jesusfreakhideout.com  
-PO Box 559  
-Bethlehem, PA 18016  
-USA
+[http://www.jesusfreakhideout.com](http://www.jesusfreakhideout.com/staff/emailstaff.asp) (Email Form)
 
  **Privacy Policy Customer Pledge**
 
