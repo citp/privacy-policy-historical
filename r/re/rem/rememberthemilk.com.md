@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the rememberthemilk.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202075828id_/http%3A//www.rememberthemilk.com/help/privacy.rtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rememberthemilk.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193622id_/https%3A//www.rememberthemilk.com/help/privacy.rtm) for the most accurate reproduction.*
 
-# Remember The Milk - Privacy Policy
+# Remember The Milk - Policies / Privacy Policy
 
-Remember The Milk is a free, task management service. This policy describes the types of personal information we may collect and how we use it to provide the Remember The Milk service.
+## Please read me, it's important.
+
+_clear_
+
+  * Policies
+  * [Terms of Use](https://web.archive.org/help/terms.rtm)
+  * [Privacy Policy](https://web.archive.org/help/privacy.rtm)
+  * [Program Policies](https://web.archive.org/help/program.rtm)
+  * [Additional Terms of Use](https://web.archive.org/help/proterms.rtm)
+  * [Security Practices](https://web.archive.org/help/security.rtm)
+  * [API Terms of Use](https://web.archive.org/services/api/terms.rtm)
+  * [Branding Guidelines](https://web.archive.org/services/api/branding.rtm)
+
+
+
+Remember The Milk is a task management service. This policy describes the types of personal information we may collect and how we use it to provide the Remember The Milk service.
 
 By using Remember The Milk, you agree to the collection and use of your personal information as described in this policy. You should know:
 
@@ -50,6 +65,6 @@ We reserve the right to transfer your personal information in the event of a tra
 
 You can change your Remember The Milk account settings at any time in the "Settings" section of your account.
 
-You can terminate your account at any time, by going to the [Delete Account](https://www.rememberthemilk.com/login/delete.rtm) page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
+You can terminate your account at any time, by going to the [Delete Account](https://web.archive.org/login/delete.rtm) page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
 
 We hope you will enjoy using Remember The Milk.
