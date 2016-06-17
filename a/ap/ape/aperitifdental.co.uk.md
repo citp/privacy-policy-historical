@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aperitifdental.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030171642id_/http%3A//legal.hibustudio.com/client-site-terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aperitifdental.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617024547id_/http%3A//legal.hibustudio.com/client-site-terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are committed to protecting and respecting your privacy. This Privacy Policy and the [Conditions of Use](https://web.archive.org/web/20151030171642id_/http%3A//legal.hibustudio.com/client-site-terms-and-conditions/conditions-of-use.html) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+We are committed to protecting and respecting your privacy. This Privacy Policy and the [Conditions of Use](https://web.archive.org/web/20160617024547id_/http%3A//legal.hibustudio.com/client-site-terms-and-conditions/conditions-of-use.html) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of European Union Data Protection legislation, We (as defined and detailed in this website (our Site)) are the data controller.
 
@@ -24,7 +24,7 @@ We may collect information about your computer, including where available your I
 
 ## Cookies
 
-Our Site uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/web/20151030171642id_/http%3A//legal.hibustudio.com/client-site-terms-and-conditions/cookie-policy.html).
+Our Site uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/web/20160617024547id_/http%3A//legal.hibustudio.com/client-site-terms-and-conditions/cookie-policy.html).
 
 ## Where we store your personal data
 
