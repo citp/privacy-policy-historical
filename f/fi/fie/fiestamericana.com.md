@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiestamericana.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119231304id_/http%3A//www.fiestamericana.com/en/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiestamericana.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617025300id_/http%3A//www.fiestamericana.com/en/security-and-privacy) for the most accurate reproduction.*
 
-# Fiesta Americana - Security Content
+# Security Content
 
 **PRIVACY NOTICE**
 
@@ -12,10 +12,14 @@ The privacy policy outlined here applies to the following Posadas websites.
 
 -[posadas.com ](http://www.posadas.com/ "Posadas.com") -[favc.com](http://www.favc.com/ "FAVC.com")
 
--[liveaqua.com](http://www.liveaqua.com/ "LiveAqua.com") -[kivak.com.mx](http://www.kivak.com.mx/ "Kivak")  
--[fiestamericanagrand.com](http://www.fiestamericanagrand.com/ "Fiesta Americana Grand") -[the-frontdoor.com](http://www.the-frontdoor.com/ "The Front Door")  
--[fiestamericana.com](http://www.fiestamericana.com/ "Fiesta Americana") -[globogo.com](http://www.globogo.com/ "Globogo")  
--[fiestainn.com](http://www.fiestainn.com/ "Fiesta Inn") -[fiestarewards.com](http://www.fiestarewards.com/ "Fiesta Rewards")  
+-[liveaqua.com](http://www.liveaqua.com/ "LiveAqua.com") -[kivak.com.mx](http://www.kivak.com.mx/ "Kivak")
+
+-[grandfiestamericana.com](http://www.grandfiestamericana.com/ "Grand Fiesta Americana") -[the-frontdoor.com](http://www.the-frontdoor.com/ "The Front Door")
+
+-[fiestamericana.com](http://www.fiestamericana.com/ "Fiesta Americana") -[globogo.com](http://www.globogo.com/ "Globogo")
+
+-[fiestainn.com](http://www.fiestainn.com/ "Fiesta Inn") -[fiestarewards.com](http://www.fiestarewards.com/ "Fiesta Rewards")
+
 -[gammahoteles.com](http://www.gammahoteles.com/ "Gamma Hoteles") -[apreciare.com](http://www.apreciare.com/ "Apreciare")
 
  **B. ****Personal Data**
