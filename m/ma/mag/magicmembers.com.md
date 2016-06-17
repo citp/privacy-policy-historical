@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011172230id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617165947id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic Members WordPress Membership Site Plugin Wordpress Membership Plugin
 
@@ -83,11 +83,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.magicmembers.com
-
+http://www.magicmembers.com  
 5842 Phillips Ave.  
 Pittsburgh, PA 15217  
 USA  
 info@magicmembers.com
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.magicmembers.com%2Fprivacy-policy%2F&media=)
