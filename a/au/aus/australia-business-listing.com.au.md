@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australia-business-listing.com.au privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216081629id_/http%3A//www.australia-business-listing.com.au/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia-business-listing.com.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617052716id_/http%3A//www.australia-business-listing.com.au/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Free business listings directories for Australian businesses
 
