@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127055936id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinfowler.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617100330id_/http%3A//www.thoughtworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThoughtWorks
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=4ed72623-6278-4b71-b59f-1c3be3fba16d "TRUSTe Privacy Certification")
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=1c317047-03ab-4316-8af0-1033a418bc23 "TRUSTe Privacy Certification")
 
-**Last updated on 17 November 2015**
+**Last updated on 30 May 2016**
 
 ## A) ThoughtWorks' commitment to privacy
 
-This website is administered by ThoughtWorks, Inc. ("ThoughtWorks US") and its affiliated companies (collectively “ThoughtWorks” or “we”). ThoughtWorks wants you to feel secure when visiting our website or using our services, and is committed to maintaining your privacy. This Privacy Policy applies to data collected by ThoughtWorks through its website [www.thoughtworks.com](http://www.thoughtworks.com/) or by other means during the course of its business. Please read this ThoughtWorks Privacy Policy very carefully.
+This website is administered by ThoughtWorks, Inc. ("ThoughtWorks" or “we”). ThoughtWorks wants you to feel secure when visiting our website or using our services, and is committed to maintaining your privacy. This Privacy Policy applies to data collected by ThoughtWorks through its website [www.thoughtworks.com](http://www.thoughtworks.com/) or by other means during the course of its business. Please read this ThoughtWorks Privacy Policy very carefully.
 
 ## B) Why ThoughtWorks collects personal information
 
@@ -149,19 +149,11 @@ As is true of most websites, we gather certain information automatically and sto
 
 We do not link this automatically collected data to other information we collect about you. 
 
-We and our partners (e.g., marketing partners, affiliates, or analytics providers) use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+We and our partners (e.g., marketing partners, affiliates, or analytics providers) use cookies or similar tracking technologies to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
 Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-We use local storage objects (LSOs), such as HTML5, to store content information and preferences.
-
-Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, also may use Flash cookies or HTML5 to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: 
-
-[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
-
-The use of cookies by our partners, tracking utility company, or service providers (if any) is not covered by our privacy policy. For example, when we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics -http://www.google.com/policies/privacy/ or Marketo (Marketo munckin cookie is utilized on our site) - http://eu.marketo.com/trust/privacy.php.
+The use of cookies by our partners, tracking utility company, or service providers (if any) is not covered by our privacy policy. For example, when we include content from other sites (e.g., Google Analytics, Marketo, etc.) these sites may also set their own cookies and we do not have access or control over these cookies. We suggest you go to the relevant third party’s website to find out more information about their cookie use. Google Analytics -http://www.google.com/policies/privacy/ or Marketo (Marketo munckin cookie is utilized on our site) - <http://legal.marketo.com/privacy>.
 
 ### Analytics - Display Advertising
 
@@ -171,7 +163,7 @@ If you would like to opt-out of Google Analytics for display advertising you may
 
 There is also a Google Analytics opt-out browser add on that you can download at <https://tools.google.com/dlpage/gaoptout/>.
 
-#### We may partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here - [http://preferences-mgr.truste.com/](https://web.archive.org/web/20151127055936id_/http%3A//www.thoughtworks.com/We%20may%20partner%20with%20a%20third%20party%20to%20either%20display%20advertising%20on%20our%20website%20or%20to%20manage%20our%20advertising%20on%20other%20sites.%20Our%20third%20party%20partner%20may%20use%20technologies%20such%20as%20cookies%20to%20gather%20information%20about%20your%20activities%20on%20this%20website%20and%20other%20sites%20in%20order%20to%20provide%20you%20advertising%20based%20upon%20your%20browsing%20activities%20and%20interests.%20If%20you%20wish%20to%20not%20have%20this%20information%20used%20for%20the%20purpose%20of%20serving%20you%20interest-based%20ads,%20you%20may%20opt-out%20by%20clicking%20here%20-%20http://preferences-mgr.truste.com/%20\(or%20if%20located%20in%20the%20European%20Union%20click%20here%20-%20http://www.youronlinechoices.eu/) (or if located in the European Union click here - [http://www.youronlinechoices.eu/](https://web.archive.org/web/20151127055936id_/http%3A//www.thoughtworks.com/We%20may%20partner%20with%20a%20third%20party%20to%20either%20display%20advertising%20on%20our%20website%20or%20to%20manage%20our%20advertising%20on%20other%20sites.%20Our%20third%20party%20partner%20may%20use%20technologies%20such%20as%20cookies%20to%20gather%20information%20about%20your%20activities%20on%20this%20website%20and%20other%20sites%20in%20order%20to%20provide%20you%20advertising%20based%20upon%20your%20browsing%20activities%20and%20interests.%20If%20you%20wish%20to%20not%20have%20this%20information%20used%20for%20the%20purpose%20of%20serving%20you%20interest-based%20ads,%20you%20may%20opt-out%20by%20clicking%20here%20-%20http://preferences-mgr.truste.com/%20\(or%20if%20located%20in%20the%20European%20Union%20click%20here%20-%20http://www.youronlinechoices.eu/) 
+#### We may partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here - <http://preferences-mgr.truste.com/> (or if located in the European Union click here - <http://www.youronlinechoices.eu/> 
 
 ## K) Web beacons
 
@@ -225,7 +217,7 @@ Email: [privacyofficer@thoughtworks.com](mailto:privacyofficer@thoughtworks.com
 
 If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-ThoughtWorks Inc. complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ThoughtWorks US has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ThoughtWorks US’ certification, please visit <http://www.export.gov/safeharbor/>.
+ThoughtWorks complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ThoughtWorks has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ThoughtWorks’ certification, please visit <http://www.export.gov/safeharbor/>. The Department of Commerce continues to administer the Safe Harbor Framework despite recent developments in European data protection law; however, ThoughWorks also maintains standard contractual model clauses approved by the European Commission between ThoughtWorks and its business units based in the European Union.
 
 ## N) Notification of privacy policy changes
 
