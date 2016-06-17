@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929225725id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618000954id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
-(Last Updated: September 09, 2015)
+(Last Updated: April 14, 2016)
 
 [](https://privacy.truste.com/privacy-seal/Ebooks-com-Pty-Limited/validation?rid=d4c0906c-5618-4e62-9f3c-8a4fcb313dff "TRUSTe online privacy certification")
 
