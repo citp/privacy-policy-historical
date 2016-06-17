@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225005132id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617034338id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
