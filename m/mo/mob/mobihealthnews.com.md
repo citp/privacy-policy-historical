@@ -1,29 +1,58 @@
-> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120061355id_/http%3A//mobihealthnews.com/%3Fpage_id%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617161211id_/http%3A//mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Chester Street Publishing, Inc. – Privacy Policy | mobihealthnews
+# Privacy Policy for MobiHealthNews and HIMSS Media | MobiHealthNews
 
-By visiting any of the websites owned and operated by Chester Street Publishing, Inc. (“Chester Street” or “the Company”), submitting information or using any of Chester Street’s services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy covers Chester Street’s treatment of personally identifiable information (“Personal Information”) that Chester Street gathers when you access any of Chester Street’s Sites and when you use Chester Street services or register for events provided by Chester Street. This Privacy Policy also covers Chester Street’s treatment of any Personal Information that Chester Street’s business partners share with Chester Street.
+To receive the MobiHealthNews  email newsletters, or to access downloadable content such as white papers or register for online events such as webinars, you must first complete a registration form. During registration for newsletters and print issues, you may be required to give contact information such as name, email address and telephone number. We use this information to contact you about the services and newsletters on our site in which you have expressed interest.
 
-The types of Personal Information collected by Chester Street may include, but are not limited to: your full name; website URL; e-mail address; blog or other personal website URL; your nickname or screenname, and any other information that would allow Chester Street to identify you or contact you if needed. In addition we may ask you to provide certain other information such as general demographic information, including, but not limited to: age; gender; ZIP code; preferences; and interests. We may receive and store any information you enter on Chester Street’s Sites or provide to us in any other way. Chester Street will use the Personal Information you provide to operate the Company’s sites and deliver services, as well as for attribution purposes.
+The information helps us provide you with access to a wide variety of content on our site and better serve you through customized newsletters and other products. We disclose website usage information to third parties only in aggregate.
 
-Except as described in this Privacy Policy, your personal information will be used only by Chester Street. Your personal information will not be disclosed to any other third party without your consent. We share your Personal Information only with your consent or as described below:
+We may make email and mailing addresses of registrants available to carefully screened businesses that provide products or services that we think may be of interest.
 
-1\. Business Transfers: Chester Street may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. If Chester Street, or substantially all of its assets, were acquired, user information would be one of the assets that transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Chester Street may continue to use your Personal Information as set forth in this policy.
+_MobiHealthNews  _and HIMSS Media will NEVER share your phone or fax number with ANY third party. You may receive email, telephone or fax communications from _  MobiHealthNews or _HIMSS Media regarding your subscription or for research purposes.  
+All email sent by MobiHealthNews and HIMSS Media includes a clear opt-out button in the footer of the email. If you want to opt-out of receiving email from MobiHelthNews or HIMSS Media, please click that link and complete the process.
 
-2\. Chester Street may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Chester Street’s agents do not have any right to use Personal Information shared with them beyond what is necessary to assist us. You hereby consent to share your personally identifiable information as described herein.
+HIMSS Media assign a cookie to each site visitor so we can identify users who return to the website. This cookie is used only to track unique visitors to the site and to assist in making more accurate content recommendations.
 
-3\. Protection of Chester Street and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with any law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of Chester Street, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**Third Party Advertising**
 
-4\. MobiHealthNews Resource Center and White Papers: MobiHealthNews (Chester Street Publishing) promotes content developed by Third Party Content providers typically in the form of “white papers” hosted in its “Resource Center”. This information is either hosted on a Chester Street Publishing website or on a Third Party content provider’s website. The third party partners provide this content through Chester Street Publishing in return for receiving the personally identifiable contact information of users who view their content. If you choose to view third party content, Chester Street Publishing may disclose your personal data to the third parties. If you do not want this information disclosed to a Content Provider, do not view the Third Party Content. The third party’s use of that personal information is governed by the partner’s privacy policy, and not by this Privacy Policy.
+The ads appearing on this site are delivered to you by 24/7 RealMedia's Open AdStream, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique
 
-5\. MobiHealthNews Webinars: Chester Street Publishing and the vendors it hires for its online events will collect personally identifiable information during the registration process that may be shared with the sponsors of the webinar. Chester Street Publishing suggests webinar attendees read the sponsors’ own privacy policies and become aware of the sponsors’ own privacy practices before registering for the event.
+**Commenting Policy**
 
-Chester Street may choose to automatically receive and record information on its server logs from your browser including your IP address, Chester Street cookie information, and the page you request. Chester Street may uses “cookies” to collect non-personal data and information. In addition, Chester Street’s third-party partners or advertisers may also use “cookies.” Chester Street cannot control the use of cookies (or the resulting information) by Chester Street’s third-party partners or advertisers. You have the ability to accept or decline cookies, by changing the settings in your Internet browser.
+Site users are encouraged to post comments on MobiHealthNews content. Our site uses the popular commenting service Disqus.  This service allows users to post comments by signing in using an existing Facebook, Twitter, LinkedIn, Google Plus or Disqus account. We do not obtain any information about or access to your accounts with these services.  For more information about Disqus' privacy policy, please [click here](http://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
-Chester Street retains the discretion to amend or modify this Privacy Policy at any time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. When the Company makes changes to the way we use Personal Information, we will notify you by posting an announcement on the Chester Street Site, and such changes shall be effective immediately upon posting. You agree to review this Privacy Policy periodically to ensure that you are aware of any changes. Your continued access or use of the website and/or the services shall be deemed your conclusive acceptance of any amendments and/or modifications.
+Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or websites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
 
-_Important:_ _While Chester Street maintains reasonable standards of security and confidentiality and stores Personal Information collected in a protected database, we cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to Chester Street over the Internet._
+Comments may not:
 
-Please send any questions or comments regarding this Privacy Policy to [Joe Maillie, Publisher & Co-founder](mailto:joe.maillie@mobihealthnews.com "joe.maillie@mobihealthnews.com").
+  * Insult, antagonize or otherwise offend other site users or editors
+  * Contain obscene, racist, sexist, defamatory, hateful, distasteful or otherwise inappropriate language
+  * Contain libelous statements
+  * Contain promotional materials, advertisements or press announcements
+  * Contain any other material that inhibits the ability of other users to enjoy our site.
 
-This Privacy Policy is effective as of January 15, 2009. 
+
+
+Provided that all efforts are made by site users to self-edit and employ respectful language that does not antagonize other site users, comments may:
+
+  * Actively engage other readers and our editors in thoughtful discussion
+  * Give constructive feedback on article accuracy or informed commentary on article content
+  * Ask questions of other readers and editors.
+
+
+
+Site administrators reserve the right to delete comments and permanently block users who fail to adhere to the commenting policy, even upon a first offense.
+
+**Promotions**
+
+We will occasionally send you information on products, services, special deals, and white papers. We allow you to opt-out of these types of communications.
+
+**Webinars and White Papers**
+
+By accessing a webinar or white paper content asset, you agree to your contact information being supplied to the sponsor of that content asset. Only the information that you have supplied will be sent to the sponsor. Once you provide your contact information through our form, your information will be supplied to that sponsor even if you have previously opted out of receiving information from MobiHealthNews or HIMSS Media sponsors.
+
+**Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. Your use of our website indicates to us that you have read and accepted our privacy policy. This policy is subject to change. We will change the date on this page noting when the policy was last updated. If you have questions or comments on this privacy policy, we would like to hear them. Please email us at [news@mobihealthnews.com](mailto:news@mobihealthnews.com)
+
+Updated: January 7, 2016
