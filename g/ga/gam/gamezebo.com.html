@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the gamezebo.com privacy policy that was archived on 2015-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151110172642id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamezebo.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617185814id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=" wf-loading"><!--<![endif]--><head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="shortcut icon" href="http://www.gamezebo.com/wp-content/themes/gamezebo/favicon.ico">
+	<link rel="shortcut icon" href="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/favicon.ico">
 	<link rel="publisher" href="https://plus.google.com/s/gamezebo">
   <meta name="apple-itunes-app" content="app-id=942509900">
 			<meta name="twitter:card" content="summary_large_image">
@@ -25,7 +25,10 @@ Like most website operators, Gamezebo collects non-personally-identifying inform
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);
 </script>
-<!-- google ad publish -->
+
+
+
+
 <script type="text/javascript">
 	var googletag = googletag || {};
 	googletag.cmd = googletag.cmd || [];
@@ -33,61 +36,60 @@ Like most website operators, Gamezebo collects non-personally-identifying inform
 		var gads = document.createElement('script');
 		gads.async = true;
 		gads.type = 'text/javascript';
-		var useSSL = 'https:' == document.location.protocol;
+		var useSSL = 'https:' === document.location.protocol;
 		gads.src = (useSSL ? 'https:' : 'http:') +
-		'//www.googletagservices.com/tag/js/gpt.js';
+			'//www.googletagservices.com/tag/js/gpt.js';
 		var node = document.getElementsByTagName('script')[0];
 		node.parentNode.insertBefore(gads, node);
 	})();
-</script>
-<script type="text/javascript">
-googletag.cmd.push(function() {
-	var mapLeaderboard = googletag.sizeMapping().
-		addSize([320, 400], [320, 50]).
-		addSize([480, 200], [468, 60]).
-		addSize([768, 200], [728, 90]).
-		addSize([1000, 200], [728, 90]).
-		// addSize([1000, 200], [970,90]).
-		build();
-	
-	var headerLeaderboard = googletag.defineSlot('/3955269/gz-leaderboard-top-responsive', [[320, 50], [468, 60], [728, 90], [970, 90]], 'div-gpt-ad-1402003346233-0')
-		.defineSizeMapping(mapLeaderboard)
-		.addService(googletag.pubads());
-	var footerLeaderboard = googletag.defineSlot('/3955269/gz-leaderboard-bottom-responsive', [[320, 50], [468, 60], [728, 90], [970, 90]], 'div-gpt-ad-1402003814959-0')
-		.defineSizeMapping(mapLeaderboard)
-		.addService(googletag.pubads());
-	
-	googletag.defineSlot('/3955269/gz-middle-halfpage', [300, 600], 'div-gpt-ad-1402070721811-0').addService(googletag.pubads());
-	googletag.defineSlot('/3955269/gz-inline-rectangle', [300, 250], 'div-gpt-ad-1402071052388-0').addService(googletag.pubads());
-	googletag.defineSlot('/3955269/gz-sidebar-bottom', [300, 250], 'div-gpt-ad-1403707080579-0').addService(googletag.pubads());	
-	googletag.pubads().enableSingleRequest();
-	googletag.enableServices();
 
-
-	var resizeAdsTimer;
-	function resizeAds() {
-		googletag.pubads().refresh([ headerLeaderboard, footerLeaderboard ]);
-	}
-	window.addEventListener("resize", function(){
-		clearTimeout(resizeAdsTimer);
-		resizeAdsTimer = setTimeout(resizeAds, 250);
+	googletag.cmd.push(function() {
+		var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+	    if ( width >= 970 ) {
+			googletag.defineSlot('/49790083/GZB_Banner_Header_DSP', [[970,90],[728,90],[468,60],[320,50]], 'div-gpt-ad-1464081424256-0').addService(googletag.pubads());
+			googletag.defineSlot('/49790083/GZB_Banner_Footer_DSP', [[970,90],[728,90],[468,60],[320,50]], 'div-gpt-ad-1464081424256-2').addService(googletag.pubads());
+	    }
+	    else if ( width >= 728 ) {
+			googletag.defineSlot('/49790083/GZB_Banner_Header_DSP', [[728,90],[468,60],[320,50]], 'div-gpt-ad-1464081424256-0').addService(googletag.pubads());
+			googletag.defineSlot('/49790083/GZB_Banner_Footer_DSP', [[728,90],[468,60],[320,50]], 'div-gpt-ad-1464081424256-2').addService(googletag.pubads());
+		}
+	    else if ( width >= 468 ) {
+			googletag.defineSlot('/49790083/GZB_Banner_Header_DSP', [[468,60],[320,50]], 'div-gpt-ad-1464081424256-0').addService(googletag.pubads());
+			googletag.defineSlot('/49790083/GZB_Banner_Footer_DSP', [[468,60],[320,50]], 'div-gpt-ad-1464081424256-2').addService(googletag.pubads());
+	    }
+	    else
+	    {
+			googletag.defineSlot('/49790083/GZB_Banner_Header_DSP', [320,50], 'div-gpt-ad-1464081424256-0').addService(googletag.pubads());
+			googletag.defineSlot('/49790083/GZB_Banner_Footer_DSP', [320,50], 'div-gpt-ad-1464081424256-2').addService(googletag.pubads());
+	    }
+		googletag.defineSlot('/49790083/GZB_Vertical_Rectangle_DSP', [300,600], 'div-gpt-ad-1464081424256-1').addService(googletag.pubads());
+		googletag.defineSlot('/49790083/GZB_Takeover_DSP', [1680,900], 'div-gpt-ad-1464081424256-3').addService(googletag.pubads());
+		googletag.defineSlot('/49790083/GZB_Medium_Rectangle_DSP', [[336,280],[320,250]], 'div-gpt-ad-1464086636106-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableVideoAds();
+		googletag.companionAds().setRefreshUnfilledSlots(true);
+		googletag.enableServices();
 	});
-});
 </script>
-	
-<!-- Push notifications for this website enabled by Roost. Support for Chrome, Safari, and Firefox. (v 2.3.6) - https://goroost.com/ -->
 
-<!-- This site is optimized with the Yoast SEO Premium plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.css">
+
+<!--script type="text/javascript" src="http://imasdk.googleapis.com/js/sdkloader/ima3.js"></script-->
+	
+<!-- Push notifications for this website enabled by Roost. Support for Chrome, Safari, and Firefox. (v 2.3.9) - https://goroost.com/ -->
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.gamezebo.com/privacy/">
 <link rel="publisher" href="https://plus.google.com/+gamezebo/">
+<meta property="DC.date.issued" content="2014-04-29T16:00:57+00:00">
 <!-- / Yoast SEO Premium plugin. -->
 
 <link rel="dns-prefetch" href="//connect.facebook.net">
 <link rel="alternate" type="application/rss+xml" title="Gamezebo » Privacy Comments Feed" href="http://www.gamezebo.com/privacy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.gamezebo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.gamezebo.com/wp-includes/js/wp-emoji-release.min.js?ver=45dca13761d3df80ea75ef79d91aa34d" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.gamezebo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.gamezebo.com/wp-includes/js/wp-emoji-release.min.js?ver=c178fd99ab8e335a8911f9691a8049ab" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -102,14 +104,18 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.gamezebo.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=45dca13761d3df80ea75ef79d91aa34d" type="text/css" media="all">
-<link rel="stylesheet" id="main-css" href="http://www.gamezebo.com/wp-content/themes/gamezebo/style.css?ver=45dca13761d3df80ea75ef79d91aa34d" type="text/css" media="all">
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/modernizr.custom.19527.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
+<link rel="stylesheet" id="contact-form-7-css" href="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=c178fd99ab8e335a8911f9691a8049ab" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/styles.min.css?ver=c178fd99ab8e335a8911f9691a8049ab" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/plugins/jetpack/css/jetpack.css?ver=c178fd99ab8e335a8911f9691a8049ab" type="text/css" media="all">
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/modernizr.custom.19527.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<link rel="https://api.w.org/" href="http://www.gamezebo.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gamezebo.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gamezebo.com/wp-includes/wlwmanifest.xml"> 
 
 <link rel="shortlink" href="http://www.gamezebo.com/?p=145155">
-<meta property="og:site_name" content="Gamezebo">
+<link rel="alternate" type="application/json+oembed" href="http://www.gamezebo.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gamezebo.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.gamezebo.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gamezebo.com%2Fprivacy%2F&amp;format=xml">
+<style type="text/css">img#wpstats{display:none}</style><meta property="og:site_name" content="Gamezebo">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="660842277304929">
@@ -147,9 +153,9 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.gamezebo.com/?wordfence_logHuman=1&hid=E47F49D00A34B0728255B729F950B63C');
+})('//www.gamezebo.com/?wordfence_logHuman=1&hid=C94CC80606EE03BB7FBF76E87DB617C1');
 </script>
-<!-- BEGIN GADWP v4.8.3 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<!-- BEGIN GADWP v4.9.3.1 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -158,12 +164,22 @@ img.emoji {
   ga('create', 'UA-1163195-1', 'auto');
   ga('send', 'pageview');
 </script>
+
 <!-- END GADWP Universal Tracking -->
 
 <meta name="google-site-verification" content="tqGJWE2FksWlmBghWtkO0eUWbpSPhuv83_oEkV6pzM4">
+
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="page page-id-145155 page-template-default">
-		<nav id="main-menu">
+
+
+
+
+
+
+
+<nav id="main-menu" style="display: none;">
 	<div class="inner-container">
 		<div class="menu-container">
 		 	<a class="close-menu menu-button" title="Close Menu"><span class="text">Close</span> <i class="gz-cancel-circled"></i></a>
@@ -185,66 +201,173 @@ img.emoji {
 </ul>		</div>
 			</div>
 </nav>
-	<div class="site-outer-container"><!-- only necessary for FF bug: https://bugzilla.mozilla.org/show_bug.cgi?id=625289 -->
-		<div class="site-container">
-			<header class="site">
-				<div id="topbar">
-					<div class="container">
-						<div class="row">
-							<div class="col-xs-2 col-sm-1">
-								<div id="logo" class="logo">
-<!-- 									<a href="" class="menu-button" title="Gamezebo">
-										<img width="1" height="1" src="http://www.gamezebo.com/wp-content/uploads/2014/05/logo-header.svg" class="attachment-medium" alt="logo-header" />									</a> -->
-									<a href="" class="menu-button three-d-link">
-										<span data-hover="Menu">
-											<span class="image"><img width="1" height="1" src="http://www.gamezebo.com/wp-content/uploads/2014/05/logo-header.svg" class="attachment-medium" alt="logo-header"></span>
-										</span>
-									</a>
-								</div>
-							</div>
-							<div class="col-xs-10 col-sm-6">
-								<div class="top-nav">
-									<div class="container">
-										<ul id="menu-header-menu" class="menu"><li id="menu-item-145180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145180"><a href="http://www.gamezebo.com/">Home</a></li>
-<li id="menu-item-145182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145182"><a href="http://www.gamezebo.com/home/best-games/">The Best</a></li>
-<li id="menu-item-145183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145183"><a href="http://www.gamezebo.com/top-game-reviews/">Top Reviews</a></li>
-</ul>									</div>
-								</div>
-							</div>
-							<div class="hidden-xs col-xs-6 col-sm-1 col-md-2">
-								<ul class="social-links hidden-sm">
-																	<li><a href="https://www.facebook.com/Gamezebo" title="Facebook" target="_blank"><i class="gz-facebook"></i></a></li>
-																	<li><a href="https://twitter.com/gamezebo" title="Twitter" target="_blank"><i class="gz-twitter"></i></a></li>
-																	<li><a href="https://plus.google.com/+gamezebo/" title="Google+" target="_blank"><i class="gz-gplus"></i></a></li>
-																	<li><a href="http://www.reddit.com/domain/gamezebo.com/" title="Reddit" target="_blank"><i class="gz-social-reddit"></i></a></li>
-																</ul>
-							</div>
-							<div class="hidden-xs col-xs-6 col-sm-4 col-md-3">
-								<form role="search" method="get" id="search-form" action="http://www.gamezebo.com/">
-									<div class="search-input-container">
-										<input type="text" value="" name="s" class="search-input" placeholder="Search Gamezebo">
-									</div>
-									<div class="search-icon"><i class="gz-search"></i></div>
-									<input type="submit" class="search-submit" value="Search">
-								</form>
-							</div>
-						</div>
-					</div>
-				</div>
-			</header>
-									<div id="content" class="no-takeover">
-								<div class="header-ad-container">
-					<div class="container inline-ad">
-						<div class="ad full-width">
-				<!-- GZ Responsive top leaderboard -->
-			<div id="div-gpt-ad-1402003346233-0">
-			<script type="text/javascript">
-			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1402003346233-0'); });
-			</script>
+
+<div id="mailFormPopup" class="overflow" style="display: none;">
+    <div class="outerVertBlockCentr">
+        <div class="middleVertBlockCentr">
+            <div class="innerVertBlockCentr">
+                <div class="new-mail-form">
+	<a href="javascript:hideSignUpForm();" class="closeButton" style="display: none;"><i class="fa fa-times"></i></a>
+	<div class="blockHeader">Subscribe to GameZebo</div>
+			<!--h3 class="subtitle">Get stories delivered to your inbox on the daily yo.Love Gaming? Never miss a story!</h3-->
+		<div class="form-container">
+		<div class="blockSubHeader">
+			Love Gaming? <br>Never miss a story!
+		</div>
+		<form action="http://gamezebo.us7.list-manage.com/subscribe/post?u=8015b46865671f181c2a1bbe1&amp;id=41fd084e36" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+			<div class="field field-email">
+				<input name="EMAIL" placeholder="Enter your email">
 			</div>
-			<span class="ad-label">Advertisement</span>
-</div>					</div>
-				</div>
+			<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			<div style="position: absolute; left: -5000px;"><input type="text" name="b_8015b46865671f181c2a1bbe1_41fd084e36" tabindex="-1" value=""></div>
+			<div class="clear mce-responses">
+				<div class="response mce-error-response" style="display:none"></div>
+				<div class="response mce-success-response" style="display:none"></div>
+			</div>
+			<div class="field field-submit">
+				<input type="submit" value="Subscribe" name="subscribe">
+			</div>
+		</form>
+	</div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-outer-container">
+    <div class="site-container">
+        <header>
+
+            <div class="container">
+
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4 headerLogoWrapper">
+                        <a href="/" class="headeLogo">
+                            <img src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/images/new/gamezebo-logo.png" alt="">
+                            <span class="tagLine">#1 in Game Reviews, Walkthroughs and Tips</span>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-4">
+                        <ul class="mainMenu  with-online-games ">
+                            <li class="sub_menu_wrapper">
+                                <a href="javascript:void(0)" style="cursor: default;">
+                                    <i class="fa fa-apple fa-2x"></i>
+                                    <div>iOS</div>
+                                </a>
+                                <div class="submenu clearfix">
+                                    <div class="submenu1">
+                                        <strong>Browse By Content:</strong>
+                                        <a href="/platform/ios/">All content</a>
+                                        <a href="/platform/ios/?filter=reviews">Reviews</a>
+                                        <a href="/platform/ios/?filter=walkthroughs">Walkthroughs, Cheats &amp; Tips </a>
+                                        <a href="/platform/ios/?filter=the-best">The Best</a>
+                                        <a href="/platform/ios/?filter=upcoming">Upcoming Releases</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="sub_menu_wrapper">
+                                <a href="javascript:void(0)" style="cursor: default;">
+                                    <i class="fa fa-android fa-2x"></i>
+                                    <div>Android</div>
+                                </a>
+                                <div class="submenu clearfix">
+                                    <div class="submenu1">
+                                        <strong>Browse By Content:</strong>
+                                        <a href="/platform/android/">All content</a>
+                                        <a href="/platform/android/?filter=reviews">Reviews</a>
+                                        <a href="/platform/android/?filter=walkthroughs">Walkthroughs, Cheats &amp; Tips </a>
+                                        <a href="/platform/android/?filter=the-best">The Best</a>
+                                        <a href="/platform/android/?filter=upcoming">Upcoming Releases</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="sub_menu_wrapper">
+                                <a href="javascript:void(0)" style="cursor: default;">
+                                    <i class="fa fa-windows fa-2x"></i>
+                                    <div>PC</div>
+                                </a>
+                                <div class="submenu clearfix">
+                                    <div class="submenu1">
+                                        <strong>Browse By Content:</strong>
+                                        <a href="/platform/pc/">All content</a>
+                                        <a href="/platform/pc/?filter=reviews">Reviews</a>
+                                        <a href="/platform/pc/?filter=walkthroughs">Walkthroughs, Cheats &amp; Tips </a>
+                                        <a href="/platform/pc/?filter=the-best">The Best</a>
+                                        <a href="/platform/pc/?filter=upcoming">Upcoming Releases</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="sub_menu_wrapper online-games">
+                                <a href="//play.gamezebo.com/">
+                                    <i class="fa fa-play-circle-o fa-2x"></i>
+                                    <div>Online</div>
+                                </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <script>
+                        function showSignUpForm(){
+                            jQuery('#mailFormPopup').show();
+                            return false;
+                        }
+                        function hideSignUpForm(){
+                            jQuery('#mailFormPopup').hide();
+                            return false;
+                        }
+                    </script>
+                    <div class="col-xs-12 col-sm-4">
+                        <div class="hidden-xs headerLinks">
+                            <a href="javascript:showSignUpForm();">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                            <a href="https://itunes.apple.com/us/app/gamezebo-best-new-games-here/id942509900?mt=8">
+                                <i class="fa fa-mobile"></i>
+                            </a>
+                            <a href="https://www.facebook.com/Gamezebo">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                            <a href="https://twitter.com/gamezebo">
+                                <i class="fa fa-twitter"></i>
+                            </a>
+                            <a href="https://plus.google.com/+gamezebo/">
+                                <i class="fa fa-google-plus"></i>
+                            </a>
+                            <a href="http://www.reddit.com/domain/gamezebo.com/">
+                                <i class="fa fa-reddit-alien"></i>
+                            </a>
+                        </div>
+
+                        <div style="position: relative;">
+                            <form role="search" method="get" id="search-form" action="http://www.gamezebo.com/">
+                                <div class="search-input-container">
+                                    <input type="text" value="" name="s" class="search-input" placeholder="Search Gamezebo">
+                                </div>
+                                <div class="search-icon"><i class="fa fa-search"></i></div>
+                                <input type="submit" class="search-submit" value="Search">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        
+            <div style="width: auto; text-align: center; padding: 5px 0; z-index: 3; position: relative;">
+                <!-- /49790083/GZB_Banner_Header_DSP -->
+                <div id="div-gpt-ad-1464081424256-0">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464081424256-0'); });
+                    </script>
+                </div>
+            </div>
+
+
+        <div id="content" class="no-takeover">
 <div class="page-content post-145155 page type-page status-publish hentry">
 		<div class="container">
 		<article>
@@ -262,7 +385,7 @@ img.emoji {
 <h2>Protection of Certain Personally-Identifying Information</h2>
 <p>Gamezebo discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Gamezebo’s behalf or to provide services available at Gamezebo’s websites, and (ii) that have agreed not to disclose it to others. &nbsp;Other than to its employees, contractors and affiliated organizations, as described above, Gamezebo discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Gamezebo believes in good faith that disclosure is reasonably necessary to protect the property or rights of Gamezebo, third parties or the public at large. Gamezebo takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
 <h2>Cookies</h2>
-<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gamezebo uses cookies to help Gamezebo identify and track visitors, their usage of Gamezebo website, and their website access preferences. Gamezebo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gamezebo’s websites, with the drawback that certain features of Gamezebo’s websites may not function properly without the aid of cookies. &nbsp;The National Advertising initiative has more information and an opt-out site at: <a href="http://www.gamezebo.com/wp-content/uploads/2014/04/choices">http://www.networkingadvertising.org/choices/</a></p>
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gamezebo uses cookies to help Gamezebo identify and track visitors, their usage of Gamezebo website, and their website access preferences. Gamezebo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gamezebo’s websites, with the drawback that certain features of Gamezebo’s websites may not function properly without the aid of cookies. &nbsp;The National Advertising initiative has more information and an opt-out site at: <a href="http://www.networkadvertising.org/choices/">networkingadvertising.org/choices/</a></p>
 <h2>Business Transfers</h2>
 <p>If Gamezebo, or substantially all of its assets, were acquired, or in the unlikely event that Gamezebo goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Gamezebo may continue to use your personal information as set forth in this policy.</p>
 <h2>Ads</h2>
@@ -281,68 +404,51 @@ img.emoji {
 			<div class="footer-ad-container">
 				<div class="container">
 					<div class="ad full-width">
-			<!-- GZ Responsive bottom leaderboard -->
-		<div id="div-gpt-ad-1402003814959-0">
-			<script type="text/javascript">
-				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1402003814959-0'); });
-			</script>
-		</div>
+				<!-- /49790083/GZB_Banner_Footer_DSP -->
+			<div id="div-gpt-ad-1464081424256-2">
+				<script type="text/javascript">
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464081424256-2'); });
+				</script>
+			</div>
+
 			<span class="ad-label">Advertisement</span>
 </div>				</div>
 			</div>
-						<footer class="site">
-				<div class="mail-form">
-	<div class="container">		<h2 class="title">Love Gaming? Never miss a story!</h2>
-					<h3 class="subtitle">Get stories delivered to your inbox on the daily yo.</h3>
-				<div class="form-container">
-			<form action="http://gamezebo.us7.list-manage.com/subscribe/post?u=8015b46865671f181c2a1bbe1&amp;id=41fd084e36" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-				<div class="field field-email">
-					<input name="EMAIL" placeholder="Enter your email">
-				</div>
-			 	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_8015b46865671f181c2a1bbe1_41fd084e36" tabindex="-1" value=""></div>
-				<div class="clear mce-responses">
-					<div class="response mce-error-response" style="display:none"></div>
-					<div class="response mce-success-response" style="display:none"></div>
-				</div>
-				<div class="field field-submit">
-					<input type="submit" value="Subscribe" name="subscribe">
-					<i class="gz-rounded-big-circle-2-01"></i>
-				</div>
-			</form>
-		</div>
-	</div></div>				<div class="social-icons-container cf">
+
+			<footer class="site">
+				<div class="container">
+								<!--div class="social-icons-container cf">
 					<ul class="social-links number-links-4">
 											<li><a href="https://www.facebook.com/Gamezebo" title="Facebook" target="_blank">
-							<i class="gz-facebook"></i>
+							<i class="gz-facebook" ></i>
 							<span class="label">Facebook</span>
 							</a>
 						</li>
 											<li><a href="https://twitter.com/gamezebo" title="Twitter" target="_blank">
-							<i class="gz-twitter"></i>
+							<i class="gz-twitter" ></i>
 							<span class="label">Twitter</span>
 							</a>
 						</li>
 											<li><a href="https://plus.google.com/+gamezebo/" title="Google+" target="_blank">
-							<i class="gz-gplus"></i>
+							<i class="gz-gplus" ></i>
 							<span class="label">Google+</span>
 							</a>
 						</li>
-											<li><a href="http://www.reddit.com/domain/gamezebo.com/" title="Reddit" target="_blank">
-							<i class="gz-social-reddit"></i>
+											<li><a href="http://www.reddit.com/domain/www.gamezebo.com/" title="Reddit" target="_blank">
+							<i class="gz-social-reddit" ></i>
 							<span class="label">Reddit</span>
 							</a>
 						</li>
 										</ul>
-				</div>
+				</div-->
 				<div class="info-container cf">
 					<div class="row">
 						<div class="col-sm-4 col-md-3">
-														<div class="logo"><img width="1" height="1" src="http://www.gamezebo.com/wp-content/uploads/2014/05/logo-footer-text.svg" class="attachment-medium" alt="logo-footer-text"></div>
-													</div>
-						<div class="col-sm-4 col-md-6 text-align-center">
+							<img src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/images/new/gamezebo-logo.png" alt="">
+						</div>
+						<div class="col-sm-8 col-md-9 footerLinks">
 							<div class="copyright">
-								© 2015 Gamezebo, Inc.							</div>
+								© 2016 Gamezebo, Inc.							</div>
 							<div class="footer-menu">
 								<ul id="menu-footer-menu" class="menu"><li id="menu-item-145172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145172"><a rel="nofollow" href="http://www.gamezebo.com/about/">About</a></li>
 <li id="menu-item-145171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145171"><a rel="nofollow" href="http://www.gamezebo.com/advertising/">Advertise</a></li>
@@ -350,12 +456,8 @@ img.emoji {
 <li id="menu-item-145168" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-145155 current_page_item menu-item-145168"><a rel="nofollow" href="http://www.gamezebo.com/privacy/">Privacy</a></li>
 </ul>							</div>
 						</div>
-						<div class="col-sm-4 col-md-3">
-							<div class="attribution">
-								Crafted by <a href="http://couleecreative.com" target="_blank" title="Coulee Creative Web Design">Coulee Creative</a>
-							</div>
-						</div>
 					</div>
+				</div>
 				</div>
 			</footer>
 			
@@ -367,35 +469,42 @@ img.emoji {
             }
         </script>
                 <script src="//cdn.goroost.com/roostjs/3da17efffb384b07a3519ddf51340b90" async=""></script>
-        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=45dca13761d3df80ea75ef79d91aa34d-2014.06.20"></script>
+        <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=c178fd99ab8e335a8911f9691a8049ab-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.gamezebo.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"http:\/\/www.gamezebo.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/jquery.ba-throttle-debounce.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/jquery.scrollTo.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/jquery.resizedEvent.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/jquery.fauxTable.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/jquery.placeholder.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/sharrre/jquery.sharrre.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/_inc/imagesloaded.pkgd.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-includes/js/underscore.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/js/ajax.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/jquery.ba-throttle-debounce.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/jquery.scrollTo.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/jquery.resizedEvent.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/jquery.fauxTable.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/jquery.placeholder.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/sharrre/jquery.sharrre.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/_inc/imagesloaded.pkgd.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-includes/js/underscore.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpVars = {"theme_dir":"http:\/\/www.gamezebo.com\/wp-content\/themes\/gamezebo\/","abs":"\/var\/www\/html\/wp-content\/themes\/gamezebo\/","url":"http:\/\/www.gamezebo.com","ajax_url":"http:\/\/www.gamezebo.com\/wp-admin\/admin-ajax.php"};
+var wpVars = {"theme_dir":"http:\/\/www.gamezebo.com\/wp-content\/themes\/gamezebo\/","abs":"\/www\/wp-content\/themes\/gamezebo\/","url":"http:\/\/www.gamezebo.com","ajax_url":"http:\/\/www.gamezebo.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.gamezebo.com/wp-content/themes/gamezebo/js/main.min.js?ver=45dca13761d3df80ea75ef79d91aa34d"></script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-content/themes/gamezebo/js/main.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"660842277304929"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
 /* ]]> */
 </script>
 <script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type="text/javascript" src="http://uvchg3mslx-flywheel.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=c178fd99ab8e335a8911f9691a8049ab"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201624.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'109035556',post:'145155',tz:'-4',srv:'www.gamezebo.com'} ]);
+	_stq.push([ 'clickTrackerInit', '109035556', '145155' ]);
+</script>
 <div id="fb-root"></div>		<script type="text/javascript">
 		adroll_adv_id = "K7EFDOWYZNGWDHJGEIKJG2";
 		adroll_pix_id = "O5AIIUCXJJGUNLGSDYKRI5";
@@ -413,10 +522,9 @@ var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_W
 			if(oldonload){oldonload()}};
 		}());
 	</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
+
+
+
+
 
 </body></html>
