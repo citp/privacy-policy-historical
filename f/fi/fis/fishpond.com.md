@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishpond.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208013156id_/http%3A//www.fishpond.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishpond.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617073729id_/http%3A//www.fishpond.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,14 @@
   2. **1.2 Application of this Privacy Policy:**
     1. Personal information submitted on this website ("Site") (e.g. where you make a purchase); and
     2. Any information automatically retrieved during visits to this Site.
-By visiting the Site, you consent to us collecting such information and using it, in accordance with this Privacy Policy. 
-  3. **1.3 Changes to Privacy Policy:** Fishpond may modify, alter or otherwise change this Privacy Policy from time to time, with or without notice to you. All such changes will be effective immediately upon the updating of the page on this Site at which the Privacy Policy is contained. You agree to check the Privacy Policy and be bound by the Privacy Policy that is in effect at the time at which you access this Site. 
-  4. **1.4 Contact:** If you have any further questions relating to this Privacy Policy, please contact us at 
+By visiting the Site, you consent to us collecting such information and using it, in accordance with this Privacy Policy.
+  3. **1.3 Changes to Privacy Policy:** Fishpond may modify, alter or otherwise change this Privacy Policy from time to time, with or without notice to you. All such changes will be effective immediately upon the updating of the page on this Site at which the Privacy Policy is contained. You agree to check the Privacy Policy and be bound by the Privacy Policy that is in effect at the time at which you access this Site.
+  4. **1.4 Contact:** If you have any further questions relating to this Privacy Policy, please contact us at
 
 P O Box 97736  
 SAMC  
 Auckland  
-New Zealand 
+New Zealand
 
 
 
