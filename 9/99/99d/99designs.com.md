@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071845id_/http%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617192925id_/http%3A//99designs.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
 [](https://privacy.truste.com/privacy-seal/99designs/validation?rid=2a20c3eb-0bfe-4271-b42b-0a7299b726c6 "TRUSTe Privacy Certification")
 
-**Last revised on:** 27th of August 2015
+**Last revised on:** 10th of May 2016
 
 99designs Pty Ltd, Australian Company Number 121 195 248 (“ **99designs** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.99designs.com and Services (as defined in the Terms of Use). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <http://99designs.com/legal/terms-of-use>.
 
-99designs, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site, www.99designs.com and its sub-domains. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTE here](https://feedback-form.truste.com/watchdog/request).
+The TRUSTe program covers only information that is collected through this Site, 99designs.com and its sub-domains.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 99designs, Inc. (our U.S. Affiliate) complies with the U.S.—E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from the European Union member countries. 99designs, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more details regarding 99designs, Inc.'s compliance with the Safe Harbor Privacy Principles, please contact us at support@99designs.com. To learn more about the Safe Harbor program, and to view 99designs, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -39,16 +41,16 @@ Our Service is not offered to persons under the age of 13. Thus, we do not inten
 
 ### b. Tracking Technologies / Cookies.
 
-  * Technologies such as: cookies, beacons, tags and scripts are used by 99designs and our [specify type e.g. marketing partners] partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+  * Technologies such as: cookies, beacons, tags and scripts are used by 99designs and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
   * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you automatically and store it in log files. The information may include your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, internet service provider (ISP), referring/exit pages, clickstream data and/or a date/time stamp for your visit. We may link this automatically-collected data to Personal Information for the purposes of security and to detect fraudulent activity.
-  * We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.]. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
+  * We use Local Storage Objects (LSOs) such as HTML5 to store content information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
   * We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 
 
 ### c. Google Analytics.
 
-We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20151226071845id_/http%3A//99designs.com/legal/www.google.com/ads/preferences/).
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information anonymously and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics: <http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://web.archive.org/web/20160617192925id_/http%3A//99designs.com/legal/www.google.com/ads/preferences/).
 
 ### d. ThreatMetrix.
 
@@ -70,7 +72,7 @@ We disclose your Personal Information as described below and as described elsewh
 
 ### a. Profile Information.
 
-The profile you create on our Site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. You may delete your profile by requesting to delete your account by contacting us via phone or by email at support@99designs.com. The information collected during the registration process by 99designs may be used by 99designs to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit. If you believe that an unauthorized profile has been created about you, please contact us support@99designs.com to request removal.
+The profile you create on our Site will be publically accessible unless otherwise indicated. You may delete your profile by requesting to delete your account by contacting us via phone or by email at support@99designs.com. The information collected during the registration process by 99designs may be used by 99designs to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit. If you believe that an unauthorized profile has been created about you, please contact us support@99designs.com to request removal.
 
 ### b. Public Member Directory
 
@@ -90,7 +92,7 @@ Some of our pages utilize framing techniques to serve content to from our partne
 
 ### f. Other Disclosures.
 
-Regardless of any choices you make regarding your Personal Information (as described below), 99designs may disclose Personal Information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on 99designs; (c) to protect or defend the rights or property of 99designs or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or the Terms of Use.
+Regardless of any choices you make regarding your Personal Information (as described below), 99designs may disclose Personal Information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on 99designs, bankruptcy proceedings, or similar legal process; (c) to protect or defend the rights or property of 99designs or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or the Terms of Use.
 
 ## 6\. Third Party Websites.
 
@@ -98,11 +100,7 @@ Regardless of any choices you make regarding your Personal Information (as descr
 
 When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Information or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
-### b. Social Networking Sites.
-
-If you (i) log on to the Service with your login credentials from a social networking site (such as Facebook, Twitter, or LinkedIn) (“ **Social Networking Site** ”) or (ii) associate your Account with your account at a Social Networking Site, we may receive information about you from such Social Networking Site, in accordance with such Social Networking Site’s terms of use and privacy policy (“ **SNS Terms** ”). We may add this information to the information we have already collected from you via the Service. If you elect to share your information with these Social Networking Site, we will share information with them in accordance with your election. The SNS Terms will apply to the information we disclose to them.
-
-### c. Other Social Media Features.
+### b. Other Social Media Features.
 
 Our Site includes social media features (“ **Features** ”) such as the Facebook Like button, Tweet button and other widgets or interactive mini-programs that run on our Site. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. These Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the terms of use and privacy policy of the company providing them (e.g., Facebook or Twitter).
 
@@ -138,7 +136,15 @@ If you choose to use our referral service to tell a friend about our Site, we wi
 
 99designs welcomes your comments or questions regarding this Privacy Policy. Please contact us at the following:
 
-99designs Inc, 2201 Broadway, Suite 815 Oakland, CA 94612 USA
+99designs Inc
+
+2201 Broadway, Suite 815
+
+Oakland, CA 94612
+
+USA
+
+or at support@99designs.com
 
 ## 13\. Changes to This Privacy Policy.
 
