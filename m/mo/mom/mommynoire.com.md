@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommynoire.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808031227id_/http%3A//mommynoire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommynoire.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617151508id_/http%3A//madamenoire.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MommyNoire
+# Privacy Policy | MadameNoire
 
 Revised as of May 27, 2015
 
@@ -42,7 +42,7 @@ A. Personally Identifiable Information That You Provide To Us. You may provide c
 
 (v) by submitting request for information forms;
 
-(vi) by providing user generated content, such as user comments, blog posts, "hashtags" and other social media type communications; and
+(vi) by providing user generated content, such as user comments, blog posts, “hashtags” and other social media type communications; and
 
 (vii) by reporting a problem to us on our Sites.
 
@@ -86,11 +86,11 @@ E. Location Data **.** When you access our Sites, and with your express prior op
 
 F. Pixel Tags. We may also use ‘pixel tags,’ also known as ‘web beacons,’ which are small graphic files that allow us to monitor the use of our websites.  Pixel tags are a type of technology placed on a website or within the body of an email for the purpose of tracking activity on our Sites, or to confirm when emails are opened or accessed, and are often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears, the URL of the page on which the pixel tag appears, the time the page containing the pixel tag was viewed, the type of browser that fetched the pixel tag, and the identification number of any cookie on the computer previously placed by that server. Typically, pixel tags are used to count users who have visited certain pages of our Sites, who have opened an email from us, and to collect other website statistics such as popularity of certain content found on our Sites and to verify system and server integrity.
 
-G. Log File Information. Log file information is automatically reported by your browser each time you access a web page. When you use our Sites, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, data about how you interact with links on our Sites, and other such information.
+G. Log File Information. Log file information is automatically reported by your browser each time you access a web page. When you use our Sites, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, data about how you interact with links on our Sites, and other such information.
 
 H. Passive Browser Information **.** We collect passive browser information through our web servers. We use this information to help us understand how many visitors come to our Sites and where they come from.
 
-I. Scripts.  A script is a short segment of computer code included in a web page or other content that can be used to set and access a cookie on your computer's hard drive and to record your activity on a website. Moguldom may use scripts on our Sites, on third-party websites, or in our emails and newsletters
+I. Scripts.  A script is a short segment of computer code included in a web page or other content that can be used to set and access a cookie on your computer’s hard drive and to record your activity on a website. Moguldom may use scripts on our Sites, on third-party websites, or in our emails and newsletters
 
   
 **3\. HOW WE USE AND SHARE YOUR INFORMATION**
