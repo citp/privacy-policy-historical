@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322032107id_/https%3A//www.innotas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617022304id_/https%3A//www.innotas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Innotas
+# Privacy Policy | Innotas: Project Portfolio & Resource Management Software
 
 ## Innotas Privacy Policy and Safe Harbor Compliance
 
- _Last Updated: September 26, 2014_
+ _Last Updated: August 25, 2015_
 
 Innotas, Inc. (" **Innotas** " or " **we** " or " **us** ") respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you, and how we use and disclose that information.
 
@@ -78,7 +78,7 @@ We offer you choices regarding the collection, use, and sharing of your personal
 
 Despite your indicated e-mail preferences, from time to time we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with us, you may not opt out of receiving these communications.
 
-You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe\\\\\'s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe\\\\\\\'s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
 
 **Accessing and Correcting Your Information**
 
