@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926061941id_/http%3A//www.activerideshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617142513id_/http%3A//www.activerideshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | activerideshop.com
+# Privacy Policy
 
 Active Ride Shop would like to thank you for your support and wants you to know that your privacy is very important to us. This privacy policy is provided to explain how information is collected on our website and how that information is handled once it has been collected. Please note that this privacy policy may change at any time. While using the ActiveRideShop.com website you accept the terms and conditions described in this privacy policy. For the latest changes to our privacy policy click the privacy link on our website at any time.
 
@@ -19,6 +19,10 @@ The information collected during registration is used to primarily to process an
 Active Ride Shop will disclose any information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
 Remember, Active Ride Shop will not use or transfer the personal information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+
+### PROMOTIONAL OFFERS, CONTESTS, & SWEEPSTAKES
+
+Active reserves the right to cancel any transaction due to unauthorized, altered, fraudulent, or ineligible use of discount and to modify or cancel this promotion due to system error or unforeseen problems at any time. Please read the official rules that may accompany each promotion, offer, coupon, discount, contest and/or sweepstakes. Promotional offers and discounts do not apply to gift cards, shipping and handling, or taxes. Discounts will appear upon checkout and may or may not be eligible to be combined with any other offers or discounts. Special offers, coupons, or discounts cannot be used in conjunction with other offers unless specifically stated in offer official rules.
 
 ### Cookies
 
