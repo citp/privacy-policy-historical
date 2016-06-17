@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131736id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617053150id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy policy & Disclosure - All The Best Fights.com
 
