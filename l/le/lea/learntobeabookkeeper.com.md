@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learntobeabookkeeper.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217164849id_/http%3A//learntobeabookkeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntobeabookkeeper.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617145056id_/http%3A//www.learntobeabookkeeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn to be a Bookkeeper
 
@@ -46,4 +46,4 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us via phone at 1-800-616-1790  or via email ben@learntobeabookkeeper.com.**
+**If you feel that we are not abiding by this privacy policy, you should contact us via phone at 1-800-616-1790  or via email success@learntobeabookkeeper.com.**
