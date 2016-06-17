@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207024405id_/https%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617100427id_/https%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Statement - Minecraft-server-list.com | Minecraft Server List Minelog
 
