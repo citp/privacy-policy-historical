@@ -1,116 +1,144 @@
-> *The following text is extracted and transformed from the suse.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630103215id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suse.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617054539id_/https%3A//www.suse.com/company/policies/privacy) for the most accurate reproduction.*
 
-# Novell's Privacy Statement
+# Privacy Policy | SUSE
 
-Your privacy is important to Novell. This statement describes the information practices for Novell web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. As described below, this statement also applies to your offline interactions with Novell, such as when you purchase products under a Novell licensing program, or provide information to Novell at a trade show or other event. Novell is a global corporation, and has developed global data practices designed to assure your personal information is appropriately protected. Novell self-certifies its adherence to the European Union's Safe Harbor Principles with the United States Department of Commerce. More information about the U.S. Department of Commerce Safe Harbor Program can be found at: <http://www.export.gov/safeharbor/>.
+##### 1\. Privacy Policy
 
-#### What Information We Collect
+This privacy policy describes how Micro Focus International plc and its group companies including Attachmate®, Borland®, NetIQ®, Novell® and SUSE (" **Micro Focus** ") use your personal information. Your right to privacy is very important to Micro Focus®. At Micro Focus, we believe that the personal information you provide to us must be kept confidential and used in a responsible fashion. We consistently strive to put our best efforts towards achieving both of these objectives.
 
-This Privacy Statement applies to all information collected by or submitted to Novell (or carefully selected third parties acting on Novell's behalf), including personal information. "Personal information" is data that reasonably can be used to identify or describe an individual. You do not need to provide us personal information to simply browse our site.
+**What information do we collect?**
 
-Novell collects personal information when:
+When you use this website, please bear in mind that we may record:
 
-  * you make purchases of products or services;
-  * you register products online;
-  * you request support for a Novell product;
-  * you request free software downloads;
-  * you create a user account (login user name and password) at Novell's Customer Care Center;
-  * you register for webcasts, seminars and roundtables;
-  * you request information or materials (e.g., whitepapers or newsletters);
-  * you participate in surveys and evaluations;
-  * you participate in promotions, contests or giveaways;
-  * you apply for a job, submit your resume, or create a candidate profile via Novell's standard, electronic process;
-  * you submit questions or comments to us.
+  * the areas of the website that you visit; and
+  * information about your computer, such as which browser you are using, your network location, the type of connection you are using (e.g. broadband, ADSL etc.) and your IP address.
 
 
 
-For quality control and training purposes, we may monitor and/or record your communications with us.
+We do this by using cookies (although the information we gather through our cookies is protected and remains anonymous so we cannot tell who you are). See our Cookie Policy below.
 
-Novell also collects personal information from individuals (with their consent) at conventions, trade shows and expositions.
+Once you register for membership, log in, or submit information through our website we will know who you are and your activities on this website and information about you and/or your company may be recorded on our systems. For example, we may ask for the following information when you sign up for membership of our specialist software support services or email news services, or when you buy products from us or register your products online:
 
-The types of personal information collected may include (but are not limited to):
-
-  * your first and last name;
-  * your title and your company's name;
-  * your home, billing, or other physical address (including street name, name of a city or town, state/province, postal code);
-  * your e-mail address;
-  * your telephone number;
-  * (for job applicants submitting electronic information) your educational background, employment experience, and job interest;
-  * any other identifier that permits Novell to make physical or online contact with you;
-  * any information that Novell collects online from you and maintains in association with your account, such as: (a) your Novell username, (b) your Novell password, and/or (c) your credit card account information.
-
-
-
-#### Use of Your Personal Information
-
-Novell collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.
-
-We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some Novell services may send periodic member letters that are considered part of the service. We may also contact you to inform you of other products or services available from Novell and its affiliates.
-
-Personal information collected on Novell sites and services may be stored and processed in the United States or any other country in which Novell or its affiliates, subsidiaries or agents maintain facilities, and by using a Novell site or service, you consent to any such transfer of information outside of your country.
-
-#### Sharing of Your Personal Information
-
-Novell will not sell, rent or lease your personal information to others. Novell shares personal information with companies working on our behalf and Novell-owned business entities. Except as described in this statement, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
-
-Some Novell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Novell and the other company may receive information collected as part of the co-branded services.
-
-In some cases Novell uses contractors to collect, use, analyze and otherwise process information on its behalf. It is Novell's practice to require such suppliers to handle information in a manner consistent with Novell's policies. Novell may also allow carefully selected Novell partners to participate in limited marketing campaigns solely to promote Novell's products and services to you.
-
-If you request something from a Novell web site (for example, a product or service, a callback, or specific marketing materials), we will use the information you provide to fulfill your request. To help us do this, we may share information with others, such as Novell's business partners, financial institutions, shipping companies, and postal or government authorities (e.g., Customs authorities) involved in fulfillment. As part of a transaction, we may also contact you as part of our customer satisfaction surveys or for market research purposes.
-
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
-
-We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on Novell; (b) protect and defend the rights or property of Novell (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of Novell services or members of the public.
-
-#### Your Choices
-
-Novell provides a number of ways for you to 'opt-out' of receiving additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information. For specific choices as to the type of Novell communications or offers that interest you, see: [http://www.novell.com/company/subscribe/](https://web.archive.org/company/subscribe/).
-
-If you do not wish to continue receiving certain marketing materials (e.g., e-mail messages), you can opt-out of receiving these materials by following the unsubscribe instructions provided in the materials, or visit: [http://www.novell.com/company/subscribe/remove.html](https://web.archive.org/company/subscribe/remove.html). This option does not apply to communications primarily for the purpose of administering orders, contracts, support, product safety warnings, software updates, or other administrative and transactional notices.
-
-#### How to Update Your Information
-
-Here are some ways you can modify the contact information that you have provided to us:
-
-  * **Email Newsletters:** Should your email address change, you may manage your subscription by unsubscribing to our newsletter and resubscribing with your new email address.
-  * **Specialized Areas:** Specialized areas of our web site that require you to register may identify, at the point of collection, the ways available for you to update your information.
-  * **Novell Login:** Many of our online offerings take advantage of your Novell Login account, a centralized Novell identity which can simplify data entry on some of our online forms. You may access the Novell Login web page and update your contact information any time by clicking [here](https://secure-www.novell.com/selfreg/jsp/protected/manageAccount.jsp).
+  * your name;
+  * company name;
+  * email address;
+  * postal address;
+  * job function;
+  * country where you are based or purchasing/registering our products from;
+  * telephone number;
+  * your comments/questions; and
+  * the products/services you are interested in.
 
 
 
-#### Safeguarding Your Personal Information
+We may also collect personal information from you at trade shows/events, from telephone calls, surveys and/or other correspondence with you.
 
-We recognize industry standards and employ security safeguards to protect information from unauthorized access and misuse. We use the most accurate and current information you provide in order to process your request. Furthermore, whenever you transmit sensitive information, such as credit card information, to us through our web site, we provide you access to our secure server that allows encryption across the Internet. Browsers offer varying degrees of security, particularly in regard to encryption. Even the same version of a browser can come with different levels of encryption. For your protection, make sure your browser is set and configured to support Secure Socket Layer (SSL) 2.0/3.0 and employs 128-bit encryption. All acceptable browsers do provide detailed information on security levels in "Properties" or "Document Information" from the browser's menu bar. See your browser's "Help" tab or documentation for more information.
+If you make a purchase from us we may also ask for payment information such as the details of the payment card you are using to pay for any products/services.
 
-If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone, you should always log out before leaving a site or service to protect access to your information from subsequent users.
+**What do we do with the information we collect?**
 
-#### Enforcement
+We use this information for a variety of reasons. The main reason we use this information is to provide you with the website and our products and services (whether available via the website or offline). We also use the information for:
 
-Novell regularly reviews its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this statement or Novell's treatment of personal information by contacting us at the link or address indicated below. When we receive formal written complaints at this address, it is Novell's policy to contact the complaining user regarding his or her concerns. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
+  * internal record keeping;
+  * product and service development;
+  * developing our website;
+  * answering your queries or complaints;
+  * delivery of products or services and/or order fulfillment including through our resellers, distributors and other agents;
+  * market research; and
+  * marketing our own products and services (including special offers and upgrades) to you.
 
-Any complaint that cannot be resolved through our internal processes will be settled by arbitration administered by the American Arbitration Association (AAA) in accordance with its applicable commercial rules as well as the Safe Harbor Principles. In addition, the exclusive location for such arbitration shall be Salt Lake City, Utah. All decisions of the arbitration panel will be final and binding on the parties, which waive any right to further appeal the arbitration award, to the extent an appeal may be lawfully waived.
 
-#### Discussion Forums and Chat Rooms
 
-If you participate in a Novell discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Novell, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Novell. Novell reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is vulgar or inappropriate.
+**Marketing**
 
-#### Cookies and Browser Information
+We may send you information about Micro Focus’ products and services or related data by post or email or telephone, unless you have asked us not to do so.
 
-Novell.com uses cookies for a variety of purposes. A "cookie" is a name for tokens of information that our web site may provide to your browser, which are used only by our web sites while you are at those sites. We use cookies to help us keep track of the items that you place in your shopping cart or to better understand web site usage in the aggregate so that we know what areas of our site users prefer. We use cookies when you register or become a member of one of our online groups to authenticate you and provide you access to those areas of the web site. We also use cookies to simplify your data entry for some of our online forms. If you simply want to browse, you do not have to accept cookies from our site. Should you decide, however, that you would like to register and login to special areas of a web site and you have modified your browser settings not to accept cookies, you will need to re-set your browser to accept the cookies that we send it. Otherwise, you may not be able to participate in certain areas of the web sites. Most browsers are defaulted to accept and maintain cookies. These cookies are not tied to your personally identifiable information.
+If you are a customer of ours or you have previously asked us for information on our products and services, such as subscribing to our email news service, then we may send you information by email. However, in every marketing email message we send you we will give you the opportunity to unsubscribe from our mailings altogether.
 
-With or without cookies, our web site keeps track of usage data, such as the source address from which a page request originates (i.e., your IP address, domain name), date and time of the page request, the referring web site (if any), and other parameters in the URL (e.g., search criteria). We use this data to better understand web site usage in the aggregate so that we know what areas of our web site users prefer (e.g., based on the number of visits to those areas). This information is stored in log files and is used for aggregated and statistical reporting. It is not attributed to you as an individual.
+We do not provide your personal information to external organizations (i.e. outside of Micro Focus) for their own marketing purposes without your explicit consent.
 
-#### Links to Other Sites
+If at any time you do not want your information used for direct marketing purposes please contact us at [compliance@microfocus.com](mailto:compliance@microfocus.com) and if you decide that you no longer wish to receive marketing emails from us, please follow the unsubscribe link in one of our marketing email messages.
 
-Our web sites often provide links to third-party web sites, such as those of our business partners and online advertisers. You should review their privacy policies to learn more about what, why, and how they collect and use personally identifiable information.
+However, please note that we may send out periodic emails, including to inform you of a technical service or security issues relating to a product or service you have requested or purchased, or confirming your request or purchase of a product or service. You will not be able to choose to unsubscribe from these communications, as they are considered an essential part of the service you have chosen.
 
-#### For Questions or Concerns
+You can also easily manage and update your membership information at any time by logging onto your Micro Focus profile on our website, including controlling whether you wish to receive marketing emails from us.
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@novell.com](mailto:privacy@novell.com). Novell corporate headquarters are located at 404 Wyman Street, Suite 500, Waltham, MA 02451.
+**Who do we share this information with?**
 
-#### Changes to the Novell Privacy Statement
+Your personal information may be shared across the Micro Focus Group of companies. For example, your personal information may be processed by the relevant Micro Focus group company situated in the country in which you are accessing our website from and the country in which you are purchasing our products/services, if different. Please bear in mind that the countries to which your personal information is sent/accessed from may have a different standard of data protection than the country in which you are situated. However, we have put in place protections to ensure that your information is safeguarded. To find out more information about the companies within the Micro Focus Group that may handle your personal information please visit www.microfocus.com.
 
-Novell reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site. A notice will be posted on our homepage for 30 days whenever this Privacy Statement is changed in a material way.
+We may share your personal information with organizations acting on our behalf and with our manufacturers, agents, distributors or resellers, but they will only use the information to provide our products or services. However, any third party that we may share your information with must act in accordance with our instructions. We may also share your personal information with a purchaser or potential purchaser of our business.
 
-_This Privacy Statement was last amended on February 1, 2008._
+In some circumstances, we may have to disclose your personal information to comply with the law/other regulatory purposes, or because we are required to do so by a court, the police, or other regulatory body.
+
+**How to get copies of or amend the information we have collected**
+
+You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please write to us at [compliance@microfocus.com](mailto:compliance@microfocus.com).
+
+If you think any information we have about you is incorrect or incomplete, please email us as soon as possible. We will correct or update any information as soon as we can.
+
+**Security**
+
+Micro Focus takes security of your personal data seriously and in order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online, including policies on access to information and firewalls. However, despite the measures we take, we cannot guarantee the security of any personal information from third party 'hackers' illegally obtaining this information.
+
+If at any point you suspect or become aware of a security incident (i.e. your password is stolen or you receive a suspicious communication from someone holding themselves out to be a Micro Focus employee or from a dupe website claiming to be affiliated with Micro Focus), please forward the communication to us or report the incident by email to [compliance@microfocus.com](mailto:compliance@microfocus.com) or in writing to Group Compliance Officer, Micro Focus, The Lawn, 22-30 Old Bath Road, Newbury, Berkshire, RG14 1QN, United Kingdom as soon as possible.
+
+**Linking to other websites**
+
+Our website or marketing email messages sometimes include links to other websites which are not within our control. Once you have left our website/marketing email message, we cannot be held responsible for the content of other websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Safe Harbor Framework**
+
+Micro Focus complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Micro Focus certifies that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Micro Focus's certification, please visit <http://www.export.gov/safeharbor/>.
+
+##### 2\. Cookie Policy
+
+This Cookie Policy applies to all of our websites ("websites").
+
+By accessing any of our websites, you agree that this Cookie Policy will apply whenever you access the websites on any device.
+
+Any changes to this policy will be posted here and we reserve the right to vary this policy from time to time and your continued use of our websites after any such change has been posted will constitute your agreement to any such changes.
+
+**Our Use of Cookies**
+
+Like many companies, some or all of our websites may use "cookies". A Cookie is a small file of letters and numbers that is placed on your computer's hard drive when you visit certain websites. We may use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. For more information on cookies, please see [www.whatarecookies.com](http://www.whatarecookies.com/).
+
+Most of the cookies we use are "personalization cookies" which are used to recognize repeat visitors to the websites and "analytics cookies" which monitor how visitors use our websites and give us a better understanding of what content visitors are spending most time reading. The types of cookies used on our websites are as follows:
+
+We have listed in the table below the specific cookies that we use and the purposes for which we use them. You will see that we have also identified whether they are session cookies or persistent cookies. 'Session cookie' is a commonly used description for a cookie which stores information about user page activities to allow users to be recognized within a website so any page changes or item or data selection is remembered from page to page; whilst 'persistent cookie’ is a commonly used description for a cookie which helps websites remember your information and settings when you visit them in the future.
+
+All information collected through the use of cookies is encrypted and we do not use cookies to collect information such as credit card numbers.
+
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features. For example, we use a cookie to remember your cookie preferences and so:
+
+  * If you delete all of your cookies you will have to update your preferences with us again.
+  * If you use a different device, computer profile or browser you will have to tell us your preferences again.
+
+
+
+**Web Beacons**
+
+Certain pages on our websites may contain "web beacons" (also known as Internet tags, pixel tags or clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the third party.
+
+**IP Addresses**
+
+An IP address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our websites, we may view the IP address of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what geographic regions our website visitors come. We also may use this information to enhance our websites.
+
+##### 3\. Further Information and Complaints
+
+Micro Focus takes its users' concerns seriously. If you believe that Micro Focus has not complied with this Privacy and Cookie Policy, or if you have any questions about our privacy practices in general, you may write to the Micro Focus Group Compliance Officer at the address provided below, or by email at: [compliance@microfocus.com](mailto:compliance@microfocus.com).
+
+Micro Focus  
+The Lawn  
+22-30 Old Bath Road  
+Newbury  
+Berkshire, RG14 1QN  
+United Kingdom 
+
+If you have a complaint, please describe in as much detail as possible the ways in which you believe that this Privacy and Cookie Policy has not been complied with. We will investigate your complaint promptly.
+
+If you provide Micro Focus with inconsistent preferences (for example, by indicating on one occasion that you consent to our use of cookies and on another by declining cookies), Micro Focus will endeavor to update your privacy preferences in a timely and accurate manner.
+
+In accordance with the Data Protection Act 1998, Micro Focus International plc and certain of its other UK group companies are individually registered as a 'Data Controller' on the public Register of Data Controllers as maintained by the UK’s Information Commissioner. Micro Focus' overseas group companies process your personal data in accordance with data protection laws in the countries in which they operate. To find out more information about the companies within the Micro Focus group that may handle your personal information, please visit www.microfocus.com.
+
+We may change this Privacy and Cookie Policy from time to time by updating this page. Check this page from time to time to learn about any changes.
