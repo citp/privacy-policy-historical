@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229221347id_/http%3A//www.stylecraze.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecraze.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617191157id_/http%3A//www.stylecraze.com/privacy-policy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,7 +82,7 @@ Google AdSense is used on StyleCraze.com.  Adsense serves ads based on the cont
 
  **Opting out of interest-based advertising :** If you prefer not to receive interest-based advertising, you can click on the “Opt out” button on the Google Ads Preferences Manager Page. Google also offers a number of options to permanently save your opt-out settings in your browser. After you opt out, Google will not collect interest category information and you will not receive interest-based ads.
 
-DoubleClick DART Cookie Google, as a third party vendor, uses cookies to serve ads on StyleCraze.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to StyleCraze.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%20)
+DoubleClick DART Cookie Google, as a third party vendor, uses cookies to serve ads on StyleCraze.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to StyleCraze.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>[ ](http://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include :
 
