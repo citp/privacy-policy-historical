@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyola.edu privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915061024id_/http%3A//www.loyola.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyola.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163938id_/http%3A//www.loyola.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loyola University Maryland
 
@@ -22,11 +22,7 @@ Loyola University Maryland uses common administrative, technical, and physical c
 
 ### Family Education Rights and Privacy Act (FERPA) 
 
-Undergraduate and graduate students who enroll at Loyola University Maryland have certain rights under the federal Family Education Rights and Privacy Act (Act). More information is available at the following web pages. 
-
-<http://www.catalogue.loyola.edu/catalogues/current/undergraduate/general/studentlife.html#PageLink1> 
-
-<http://www.catalogue.loyola.edu/catalogues/current/graduate/general/acadregs.html#PageLink4> 
+Undergraduate and graduate students who enroll at Loyola University Maryland have certain rights under the federal Family Education Rights and Privacy Act (Act). More information is available in the [Academic Catalogue](http://catalogue.loyola.edu/).
 
 ### Consent
 
