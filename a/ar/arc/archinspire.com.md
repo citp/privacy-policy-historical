@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212031019id_/http%3A//archinspire.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archinspire.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163017id_/http%3A//archinspire.pro/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ArchInspire
+# Privacy Policy - Home Inspiration
 
 1\. ArchInspire respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of ArchInspire and are only used for troubleshooting purposes.
 
@@ -46,4 +46,4 @@
 
 **Contacting Us**
 
-14\. This is the website of ArchInspire. We can be reached via [contact us page](http://archinspire.org/contact-us). If you feel that this site is not following its stated information policy, you may [send message to us](http://archinspire.org/contact-us).
+14\. This is the website of ArchInspire. We can be reached via [contact us page](http://archinspire.pro/contact-us). If you feel that this site is not following its stated information policy, you may [send message to us](http://archinspire.pro/contact-us).
