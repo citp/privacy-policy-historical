@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vemma.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210165733id_/https%3A//www.vemma.com/pdf/vemma_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vemma.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617043419id_/https%3A//www.vemma.com/pdf/vemma_privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
