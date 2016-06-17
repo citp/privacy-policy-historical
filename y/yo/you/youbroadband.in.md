@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508065934id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618005713id_/https%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
 
-# YOU Broadband India Pvt. Ltd., High speed broadband plans 1Mbps to 12Mbps
+# YOU Broadband India Limited., High speed broadband plans 1Mbps to 12Mbps
 
 | Privacy  
 ---  
 What This Privacy Policy Covers  
   
-  * This policy covers how YOU Broadband & Cable India Limited ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
+  * This policy covers how YOU Broadband India Limited ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
 
 
