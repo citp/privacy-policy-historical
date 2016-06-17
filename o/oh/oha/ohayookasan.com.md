@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohayookasan.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220213048id_/http%3A//www.ohayookasan.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohayookasan.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617072349id_/http%3A//www.ohayookasan.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure + Privacy Policy
 
