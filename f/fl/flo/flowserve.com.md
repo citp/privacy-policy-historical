@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210045133id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617053718id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.*
 
 # Privacy - Flowserve Corporation
 
