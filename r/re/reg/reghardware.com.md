@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154121id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617164545id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -69,9 +69,9 @@ When using comments through The Register mobile apps, login details that are ent
 
 We reserve the right to publish emails and letters sent to The Register. If the sender asks that that we don't reveal his or her identity, that information won't be published. We never publish a private email address unless specifically asked to do so by its owner.
 
-### Rackspace
+### Our servers
 
-Peer 1 hosts The Register's websites. It outlines its [regulatory responsibilities here.](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
+Peer 1 hosts The Register's websites.
 
 ### Data Protection
 
