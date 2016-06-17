@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentinople.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218194136id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentinople.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617085018id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
@@ -64,7 +64,7 @@ You have a choice about and control over:
 
 ## Receiving email marketing messages from us.
 
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all UBM Tech email marketing you may click on this [UBM Tech-wide opt out link](http://reg.techweb.com/forms/GlobalOptOut), or you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
+  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all UBM Tech email marketing you may click on this [UBM Tech-wide opt out link](https://web.archive.org/opt-out/), or you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
   * Please note that you may receive email marketing messages from us about other companies' offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
 
 
