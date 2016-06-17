@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyoump3.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218183656id_/http%3A//theyoump3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyoump3.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617035648id_/http%3A//www.theyoump3.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - TheYouMp3
 
@@ -61,11 +61,3 @@ Website:  www.theyoump3.com
 Email: webmaster@theyoump3.com 
 
 Effective as of August 05, 2014
-
-### We are the fastest online YouTube Converter
-
-Enter the URL or link of the video that you wish to convert.
-
-Click the "Convert" button to begin the conversion process.
-
-Upon successful completion of the conversion, you will receive a download link for the converted file.
