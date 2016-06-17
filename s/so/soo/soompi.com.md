@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229215604id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184100id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Soompi
 
@@ -49,7 +49,7 @@ This Privacy Policy governs each website (the “Sites”), mobile site, applica
   * We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Services and for the technical administration of the Services, to increase the functionality and user-friendliness of the Services, to better tailor both to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors and users to and of the Services meet the criteria required to process their requests.
 
 
-  * Email \- By registering with one of our Services, you consent to receiving periodic notifications including:  updates and newsletters, relevant account notifications, group/buddy invitations, order/download confirmations and private message notifications. In addition to these, you may opt-in to notifications including: media subscriptions and group updates. We will provide means to opt-out of any email notifications from us and will include links to opt-out in every email.
+  * Email – By registering with one of our Services, you consent to receiving periodic notifications including:  updates and newsletters, relevant account notifications, group/buddy invitations, order/download confirmations and private message notifications. In addition to these, you may opt-in to notifications including: media subscriptions and group updates. We will provide means to opt-out of any email notifications from us and will include links to opt-out in every email.
 
 
 
