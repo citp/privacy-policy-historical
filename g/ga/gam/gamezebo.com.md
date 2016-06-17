@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezebo.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110172642id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezebo.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617185814id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Gamezebo
 
@@ -22,7 +22,7 @@ Gamezebo discloses potentially personally-identifying and personally-identifying
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gamezebo uses cookies to help Gamezebo identify and track visitors, their usage of Gamezebo website, and their website access preferences. Gamezebo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gamezebo’s websites, with the drawback that certain features of Gamezebo’s websites may not function properly without the aid of cookies.  The National Advertising initiative has more information and an opt-out site at: [http://www.networkingadvertising.org/choices/](http://www.gamezebo.com/wp-content/uploads/2014/04/choices)
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gamezebo uses cookies to help Gamezebo identify and track visitors, their usage of Gamezebo website, and their website access preferences. Gamezebo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gamezebo’s websites, with the drawback that certain features of Gamezebo’s websites may not function properly without the aid of cookies.  The National Advertising initiative has more information and an opt-out site at: [networkingadvertising.org/choices/](http://www.networkadvertising.org/choices/)
 
 ## Business Transfers
 
