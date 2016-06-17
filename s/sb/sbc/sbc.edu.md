@@ -1,33 +1,49 @@
-> *The following text is extracted and transformed from the sbc.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085341id_/https%3A//www.sbc.edu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbc.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617051647id_/http%3A//sbc.edu/privacy-policy) for the most accurate reproduction.*
 
-# Sweet Briar College { Privacy Policy }
+# Sweet Briar College | Privacy Policy
 
 ## Privacy Policy
 
-### Privacy Policy Statement
+Sweet Briar College operates [http://sbc.edu](http://sbc.edu/) and [http://discover.sbc.edu](http://discover.sbc.edu/). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-The following information outlines the internet privacy policy that Sweet Briar College has adopted for information related to the collection and storing of information via its Web site ([www.sbc.edu](http://www.sbc.edu/ "www.sbc.edu")). The following is intended to explain our current practices. We reserve the right to amend our policy and practice at any point without notice.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-If you have questions or concerns about our privacy policy or current practices, please contact [info@sbc.edu](mailto:info@sbc.edu).
+### Information Collection And Use
 
-### Information Collected
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name, address, email address, and telephone number.
 
-Information about your Web browser, proxy and firewall servers, and other things relevant to your browsing our site, is collected automatically by our servers so we might best understand our Web browsing audience. However, unless required by appropriate legal authorities, Sweet Briar College will not use this information to specifically identify you in any way.
+### Log Data
 
-### Personal Information
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
 
-If you choose to provide us with any personal information via this Web site (complete an online form, register for an event, request additional information, sign up for a mailing list, etc.), be assured that information will be used only for the purpose indicated. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except as required by law. We will not keep the information longer than necessary for normal operations.
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-### Cookies
-
-Cookies are pieces of information stored by your Web browser. Portions of our site may use cookies to carry data from one Web page to the next. We do not forward cookies to any external parties. If you prefer not to allow our site to use cookies, consult the documentation provided with your Web browser to turn off the appropriate "accept cookies" feature in your browser. The settings on cookies contained in your browser constitute a grant of permission (or lack thereof) for us to store information on your computer.
-
-We follow all industry standards in constructing and storing cookies with your browser. Thus, it is your browser vendor's responsibility to provide for secure and appropriate cookie storage mechanisms.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze data.
 
 ### Communications
 
-If you have provided Sweet Briar College with your physical mailing address and/or e-mail address, we reserve the right to send you appropriate marketing information or other College communications. If you request to be removed from our contact list, we will honor that request and will discontinue the sending of mass marketing and promotional messages.
+We may use your Personal Information to contact you with newsletters, marketing materials and other information.
 
-### External Links
+### Cookies
 
-Our Web site may contain links to Web sites or resources that are external to the Sweet Briar College domain. Since we may not maintain an ongoing relationship with all of those sites, we cannot guarantee the availability of those resources, their content, or the delivery of those services. We also cannot guarantee the same level of privacy and security maintained by those external sites; external sites are not bound by Sweet Briar's privacy policy. As a result, we encourage you to read others' privacy policies, which may differ from ours.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+
+### Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+### Changes To This Privacy Policy
+
+This Privacy Policy is effective as of Jan. 7, 2016, and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [web@sbc.edu](mailto:web@sbc.edu).
+
+_Last updated January 7, 2016._
