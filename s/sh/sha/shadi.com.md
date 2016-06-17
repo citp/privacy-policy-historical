@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209155437id_/http%3A//www.shadi.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617084246id_/http%3A//www.shadi.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Shadi.com - Privacy Policy Statement
 
