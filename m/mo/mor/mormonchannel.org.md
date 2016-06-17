@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormonchannel.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124223234id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonchannel.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617220309id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,4 +86,4 @@ _14\. Future Changes to Privacy Policy_. We regularly review this Privacy Policy
 
 **Effective Date**
 
-This version of the Privacy Policy became effective on March 18, 2014.
+This version of the Privacy Policy became effective on March 18, 2014. a
