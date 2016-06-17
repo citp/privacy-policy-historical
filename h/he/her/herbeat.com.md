@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbeat.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107204937id_/http%3A//herbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbeat.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617195037id_/http%3A//herbeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
