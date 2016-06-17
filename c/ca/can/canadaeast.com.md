@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203173415id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617160940id_/http%3A//canadaeast.com/policy.html) for the most accurate reproduction.*
 
 # canadaeast.com - Privacy Policy - Breaking News, New Brunswick, Canada
 
@@ -6,7 +6,7 @@
 
 Welcome to our site. CanadaEast Interactive has created this Privacy Policy in order to document and communicate our commitment to doing business with the highest ethical standards and appropriate internal controls.
 
-Our Privacy Policy is designed to give you, the user, more information on how information is collected, used and disclosed through this site. This document, together with our [Terms of Use](https://web.archive.org/onsite.php?page=legal) and [Copyright Information](https://web.archive.org/onsite.php?page=copyright) govern our affiliates, partners, advertisers and CanadaEast Interactive's relationship with you in relation to this website. Please read them carefully.
+Our Privacy Policy is designed to give you, the user, more information on how information is collected, used and disclosed through this site. This document, together with our [Terms of Use](http://www.canadaeast.com/onsite.php?page=legal) and [Copyright Information](http://www.canadaeast.com/onsite.php?page=copyright) govern our affiliates, partners, advertisers and CanadaEast Interactive's relationship with you in relation to this website. Please read them carefully.
 
 The term "CanadaEast" or "us" or "we" refers to the owner of the web site, CanadaEast Interactive, whose registered office is 939 Main Street, Moncton, New Brunswick E1C 8P3. CanadaEast is a division of Brunswick News Inc. of the same address.
 
