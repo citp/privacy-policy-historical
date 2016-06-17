@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petrolicious.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005102228id_/http%3A//www.petrolicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrolicious.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617095800id_/http%3A//petrolicious.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Petrolicious
 
   
 At Petrolicious.com we appreciate your readership and value your personal privacy. In adopting this privacy policy, our intent is to balance our legitimate interests in improving our service by collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
@@ -23,3 +23,5 @@ Third party vendors, including Google, use cookies, including first-party (such 
 **Is there anything else I should know about my privacy and Petrolicious.com?**
 
 Any information you disclose voluntarily through submissions or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
+
+Petrolicious / May Moon Media 2015. All Rights.
