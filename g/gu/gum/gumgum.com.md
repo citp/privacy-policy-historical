@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208013156id_/http%3A//gumgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617020510id_/http%3A//gumgum.com/privacy-policy) for the most accurate reproduction.*
 
 # GumGum - The Premium In-Image Advertising Platform | Privacy
 
@@ -23,6 +23,7 @@ Personally Identifiable Information means information about you that can be used
   * We also collect Log Data each time you visit third-party websites serving content that has been tagged by Publishers or Contributors with GumGum Code. We analyze such Log Data and combine it between sites and with other data and information to produce the Reports that are made available on the GumGum Site, and to enable GumGum's usage based licensing models. This combined data is also used by us and our partners to serve you content, advertisements, and other information tailored to your interests.
   * We do not link Log Data to any other Personally Identifiable Information about you or otherwise attempt to discover your identity. We make efforts to require our Publishers and Contributors to ensure that any such third party website post adequate privacy policies and otherwise protect the privacy rights of their visitors. Check the privacy policies of websites tagged with GumGum Code for information regarding the applicable privacy practices.
   * GumGum may retain user-level data for up to 1 year for internet based advertising and ad targeting purposes after which time this data is deleted.
+  * We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by GumGum.
   * Some of the advertisements that appear on Licensed Content may be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-personally identifiable information about your visit to or use of GumGum Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
@@ -67,4 +68,4 @@ The GumGum Site, including, but not limited to, the section where Reports are di
 
 #### Contacting Us
 
-Questions? Suggestions? Concerns? Email us at [contact@gumgum.com](mailto:contact@gumgum.com).
+Questions? Suggestions? Concerns? Email us at [privacy@gumgum.com](mailto:privacy@gumgum.com).
