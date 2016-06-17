@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2015-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222020903id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2016-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617064542id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Article"><head>
 		<title>MusixLib -  Albums And More</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		 <meta name="description" content="Play albums from your favorites artists and improve YouTube music experience
@@ -24,6 +24,20 @@ MusixLib give you better YouTube music experience.
 		<meta name="copyright" content="MusixLib">
 		<meta name="application-name" content="MusixLib -  Albums And More">
 
+			<!-- Update your html tag to include the itemscope and itemtype attributes. -->
+			<!-- for Google Plus -->
+		<!-- Add the following three tags inside head. -->
+		<meta itemprop="name" content="MusixLib -  Albums And More">
+		<meta itemprop="description" content="Play albums from your favorites artists and improve YouTube music experience
+MusixLib is a music network that gives you easy and unlimited access to music, for free.
+You can find all your favorites artists and albums.
+MusixLib give you better YouTube music experience.
+ The extension - Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.">
+		<meta itemprop="image" content="http://www.musixlib.com/images/logo_fb_share.jpg">
+
+
+
+
 		<!-- for Facebook -->
 		<meta property="og:title" content="MusixLib -  Albums And More" id="fb_title_id">
 		<meta property="og:type" content="article">
@@ -45,7 +59,7 @@ You can find all your favorites artists and albums.
 MusixLib give you better YouTube music experience.
  The extension - Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.">
 		<meta name="twitter:image" content="http://www.musixlib.com/images/logo_fb_share.jpg">
-
+		<meta name="twitter:url" content="http://www.musixlib.com/privacy.php?lnk=share">
 		<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ifhnjalcekbmmeknpgnkpghldbbhanen">
 
 
@@ -354,7 +368,11 @@ function playAlbum(index)
 {
 
 	var album = albumsList[index];
-
+	try{
+		if(album.tag){
+			ga('send', 'event', 'Tests', album.tag, 'Click');
+		}
+	}catch (e){}
 	if(album.type != "it")
 		location.href="details.php?t=a&a="+album.artist+"&at="+album.name;
 	else
@@ -1085,14 +1103,19 @@ function loginStatusUpdated()
 	
     });
   }
-  function logOut()
-  {
-	FB.logout(function(response) {
-		$.removeCookie('userId'); 
-	 	$.cookie('msg', "LogOut successfully");
- 		location.reload();
-    });
-  }
+ function logOut() {
+   FB.getLoginStatus(function(response) {
+     if (response && response.status === 'connected') {
+       FB.logout(function(response) {
+         $.removeCookie("fblo_"+"1583817998516079",{  path: '/',domain: '.www.musixlib.com' });
+         $.removeCookie("userId",{  path: '/',domain: 'musixlib.com' });
+         $.removeCookie("userId");
+         $.cookie("msg", "LogOut successfully");
+         location.reload();
+       });
+     }
+   });
+ }
 </script>
  
 <style>
@@ -1110,7 +1133,6 @@ function loginStatusUpdated()
 			    <!-- <li class="logo"><a href="index.php"><img style="margin-top: -5px;" src="images/logo.png" alt="" title="logo"></a></li> -->
 			   <!-- <li style="border-left: 1px ridge rgb(68, 68, 68);" ><a href="index.php">Home</a></li> -->
 			   	<li><a id="_mz_mylibrary_lnk" href="javascript:needLoginPop();">My Library</a></li>
-			   	<li><a id="_mz_mylibrary_lnk" href="wiki.php">Wiki</a></li>
 			   <li><a href="artists.php">Artists</a></li>
 				<li><a href="javascript:void(0)" onclick="chrome.webstore.install()">Extension</a></li>
 			   <li><a href="contact.php">Contact</a></li>
@@ -1284,5 +1306,88 @@ That's Christmas To Me by Pentatonix 2014-10-17</a></p>
 
 </script>
 
+<!--   <script>-->
+<!--	   var _vsPubId = 92;-->
+<!---->
+<!--	   (function() {-->
+<!--		   var scriptLoaded = false;-->
+<!--		   var windowLoaded = false;-->
+<!--		   var script = document.createElement('script');-->
+<!--		   script.type = 'text/javascript';-->
+<!--           script.src = 'https://visualsearchcdn.imagesense.me/api.js';-->
+<!--		   self = this;-->
+<!--		   script.onload = function() {-->
+<!--			   scriptLoaded = true;-->
+<!--			   if (windowLoaded) {-->
+<!--				   showButton();-->
+<!--			   }-->
+<!--		   };-->
+<!--		   window.onload = function() {-->
+<!--			   windowLoaded = true;-->
+<!--			   if (scriptLoaded) {-->
+<!--				   showButton();-->
+<!--			   }-->
+<!--		   };-->
+<!--		   if (document.body) {-->
+<!--			   document.body.appendChild(script);-->
+<!--		   } else {-->
+<!--			   document.addEventListener('DOMContentLoaded', function (event) {-->
+<!--				   document.body.appendChild(self.script);-->
+<!---->
+<!--			   });-->
+<!--		   }-->
+<!--	   })();-->
+<!---->
+<!--	   function getImageUrls(elements) {-->
+<!--		   var urls = [];-->
+<!--		   elements.each(function (i) {-->
+<!--			   var url = $(this).attr('src');-->
+<!--			   var title = $(this).parent().parent().parent().attr('title');-->
+<!--			   urls.push({imageUrl: url, imageText: title});-->
+<!--		   });-->
+<!--//           for (i = 0; i < elements.length; i++) {-->
+<!--//               var url = elements[i].attr('src');-->
+<!--//               var title = elements[i].parent().parent().parent().attr('title');-->
+<!--//               urls.push({imageUrl: url, imageText: title});-->
+<!--//           }-->
+<!--//		   console.log(urls);-->
+<!--		   return urls;-->
+<!--	   }-->
+<!---->
+<!--       function getElements() {-->
+<!--           return $(".divTmbImg");-->
+<!--       }-->
+<!---->
+<!--	   function sendImages(){-->
+<!--           apiV2S.vsGetImageKeywords(getImageUrls(), function (response) {-->
+<!--			   console.log(response);-->
+<!--		   });-->
+<!--	   }-->
+<!---->
+<!--       function monetize(){-->
+<!--           var elements = getElements();-->
+<!--           apiV2S.vsGetImageKeywords(getImageUrls(elements), function (response) {-->
+<!--               response = JSON.parse(response);-->
+<!--//               console.log(response.images);-->
+<!--               for (i = 0; i < response.images.length; i++) {-->
+<!--                   var keyword = response.images[i].keyword;-->
+<!--                   apiV2S.vsGetMonetization(elements[i], keyword, function(result){-->
+<!--                       console.log(result);-->
+<!--                   });-->
+<!--               }-->
+<!--           });-->
+<!--       }-->
+<!---->
+<!--       function showButton() {-->
+<!--           var button = '<div style="position: fixed; left: 50px; right: 50px; z-index: 900;">' +-->
+<!--               '<input type="button" value="monetize" id="monetize"></input>' +-->
+<!--               '</div>';-->
+<!--           $(".menu-bg").append(button);-->
+<!--           $("#monetize").click(function(){-->
+<!--                monetize();-->
+<!--           });-->
+<!--       }-->
+<!---->
+<!--   </script>-->
 
-<div><div class="sweet-overlay" tabindex="-1"></div><div class="sweet-alert" tabindex="-1"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p>Text</p><button class="cancel" tabindex="2">Cancel</button><button class="confirm" tabindex="1">OK</button></div></div></body></html>
+</body></html>
