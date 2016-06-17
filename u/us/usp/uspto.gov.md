@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225111708id_/http%3A//www.uspto.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617172825id_/http%3A//www.uspto.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USPTO
 
 Thank you for visiting the United States Patent and Trademark Office website and reviewing our privacy policy. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
-Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act. Except for the purposes described below, no other attempts are made to identify individual users while on the USPTO websites. Here is how we handle information about your visit to our website:
+Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See the [Privacy Act of 1974 (P.L. 93-579)](https://www.gpo.gov/fdsys/) for more information on your rights under the Privacy Act. Except for the purposes described below, no other attempts are made to identify individual users while on the USPTO websites. Here is how we handle information about your visit to our website:
 
 ## Information Collected and Stored Automatically
 
@@ -16,15 +16,15 @@ For site security purposes and to ensure that USPTO Web services remain availabl
 
 ## Use of Cookies and Tracking Technology
 
-The Office of Management and Budget Memorandum [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) defines conditions under which Federal agencies may use session and persistent cookies, and categorizes them in "tiers" to identify their characteristics. You may control permissions for cookies on this or any other website by adjusting your individual browser settings for customized privacy protection - see [_http://www.usa.gov/optout_instructions.shtml_](http://www.usa.gov/optout_instructions.shtml) for helpful guidance.
+The Office of Management and Budget Memorandum [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) defines conditions under which Federal agencies may use session and persistent cookies, and categorizes them in "tiers" to identify their characteristics. You may control permissions for cookies on this or any other website by adjusting your individual browser settings for customized privacy protection - see <http://www.usa.gov/optout_instructions.shtml> for helpful guidance.
 
-_Session cookies_
+Session cookies
 
 Session cookies are also known as memory-resident cookies. These cookies are not stored on your computer's hard drive, and are removed when you complete your session or exit the site. We use session cookies for some applications to improve their usability and ensure session integrity. No personal information is gathered.
 
 USPTO sites and applications that use "Tier 1" session cookies include the subscription center and the customer satisfaction survey. Our site-wide search is conducted through USA.gov, an external site, which also uses a session cookie.
 
-_Persistent cookies_
+Persistent cookies
 
 Persistent cookies remain on your computer's hard drive after you complete an activity. On [www.uspto.gov](https://web.archive.org/), we use "Tier 2" persistent cookies to help us recognize new and returning visitors, but no personally-identifiable information is gathered. If you block a persistent cookie, you are not prevented from using the USPTO website in any way.
 
@@ -44,7 +44,7 @@ If you choose to submit a blog comment, only personal information that you volun
 
 ## Surveys
 
-While visiting [www.uspto.gov](https://web.archive.org/), you may be asked to participate in a survey conducted by an authorized third party, [ForeSee Results](http://www.foreseeresults.com/privacy-policy.shtml)TM. This randomized survey is based on the American Customer Satisfaction Index (ACSI) and your participation is voluntary. No personal information is collected unless you choose to provide it as part of a comment or to complete the survey. Survey data is retained as long as needed to permit accurate analysis, produce summary reports, and monitor overall trends. If you choose not to participate in the survey, you are not prevented from using the USPTO website in any other way. If you wish to provide feedback without taking the survey, you may send e-mail directly to [webmaster@uspto.gov](mailto:webmaster@uspto.gov?subject=non-survey%20feedback). If you have an immediate concern, please refer to the [Contact Us](https://web.archive.org/about/contacts/index.jsp) page on the USPTO website. See additional notes under " _Use of Cookies and Tracking Technologies_ ", above.
+While visiting [www.uspto.gov](https://web.archive.org/), you may be asked to participate in a survey conducted by an authorized third party, [ForeSee Results](http://www.foreseeresults.com/privacy-policy.shtml)TM. This randomized survey is based on the American Customer Satisfaction Index (ACSI) and your participation is voluntary. No personal information is collected unless you choose to provide it as part of a comment or to complete the survey. Survey data is retained as long as needed to permit accurate analysis, produce summary reports, and monitor overall trends. If you choose not to participate in the survey, you are not prevented from using the USPTO website in any other way. If you wish to provide feedback without taking the survey, you may send e-mail directly to [webmaster@uspto.gov](mailto:webmaster@uspto.gov?subject=non-survey%20feedback). If you have an immediate concern, please refer to the [Contact Us](https://web.archive.org/about/contacts/index.jsp) page on the USPTO website. See additional notes under "Use of Cookies and Tracking Technologies", above.
 
 ## Kids Pages
 
