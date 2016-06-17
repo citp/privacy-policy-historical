@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binarytides.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916214126id_/http%3A//www.binarytides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binarytides.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617050035id_/http%3A//www.binarytides.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,10 +120,10 @@ Whenever this site changes its privacy policy, we will post those changes to thi
 
 #### How to Contact Us
 
-BinaryTides welcomes any questions or comments you may have regarding this **Privacy Policy** or its implementation. Any such questions or comments should be submitted via email to [admin@binarytides.com](mailto:admin@binarytides.com). We will undertake reasonable efforts to resolve or address your concern.
+BinaryTides welcomes any questions or comments you may have regarding this **Privacy Policy** or its implementation. Any such questions or comments should be submitted via email to [binarytides@gmail.com](mailto:binarytides@gmail.com). We will undertake reasonable efforts to resolve or address your concern.
 
 #### Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of Dec 7, 2013.
 
-Last Updated On : 7th February 2015
+Last Updated On : 8th February 2016
