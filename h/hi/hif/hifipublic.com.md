@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifipublic.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216185054id_/http%3A//hifipublic.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifipublic.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617024834id_/http%3A//hifipublic.com/terms-of-use) for the most accurate reproduction.*
 
 # Privacy & Terms | HiFi Public
 
