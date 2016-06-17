@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130732id_/http%3A//www.birds.cornell.edu/Page.aspx%3Fpid%3D1635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617151607id_/http%3A//www.birds.cornell.edu/Page.aspx%3Fpid%3D1635) for the most accurate reproduction.*
 
 # Privacy Policy
 
