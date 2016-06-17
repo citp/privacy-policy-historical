@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020124id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617185011id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — High Country News
 
@@ -10,10 +10,10 @@ We use your computer's IP address to help diagnose problems with our site and to
 
 ### Subscriber Privacy
 
-If you subscribe to the paper, you should know that we periodically exchange subscriber lists (physical mailing address only) with other like-minded non-profit groups. List exchanges are one of our most useful tools in spreading the word about  _HCN_ and boosting our circulation. However, you have the option at any time to ask that your name not be traded. [Contact circulation](http://www.hcn.org/subscriber-services/contact-circulation "Contact Circulation") with your full name and address to be removed from list exchanges.
+If you subscribe to the paper, you should know that we periodically exchange subscriber lists (physical mailing address only) with other like-minded non-profit groups. List exchanges are one of our most useful tools in spreading the word about  _HCN_ and boosting our circulation. However, you have the option at any time to ask that your name not be traded. [Contact circulation](https://www.hcn.org/feedback/contact-us "Contact Circulation") with your full name and address to be removed from list exchanges.
 
 ### Donor Privacy
 
-We NEVER sell, rent or trade donors' personal or contact information with other organizations.
+We NEVER sell, rent or trade donor information with other organizations.
 
-If you have any questions about this privacy statement or the website in general, contact Web/IT Manager, High Country News, P.O. Box 1090, Paonia, CO 81428, [use the feedback form](http://www.hcn.org/feedback "Help and Feedback"), or call 970/527-4898.
+If you have any questions about this privacy statement or the website in general, contact Web/IT Manager, High Country News, P.O. Box 1090, Paonia, CO 81428, [use the feedback form](http://www.hcn.org/feedback "Help and Feedback"), or call 970-527-4898.
