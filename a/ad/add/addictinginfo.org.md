@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225132343id_/http%3A//www.addictinginfo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinginfo.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193336id_/http%3A//www.addictinginfo.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy «
+# Privacy Policy | Addicting Info | The Knowledge You Crave
 
 This Privacy Policy governs the manner in which Addicting Info Enterprises LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the Addictinginfo.org website (“Site”). This privacy policy applies to the Site and all products and services offered by Addicting Info Enterprises LLC.
 
@@ -23,6 +23,7 @@ Addicting Info Enterprises LLC may collect and use Users personal information fo
   * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _– To improve our Site_ We may use feedback you provide to improve our products and services.
+  * _– To help push grassroots movement issues with like minded organizations. Your personally identifiable information would only be shard with organizations on campaigns that you opted in for via a petition on the site._
 
 
 
@@ -34,7 +35,7 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identification information to others except where the user has opted in via a petition on the site. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 **Advertising**
 
@@ -60,3 +61,5 @@ Addictinginfo.org
 1007 W. College Ave. #433 Santa Rosa, CA 95403  
 (707) 774-2888  
 addictinginfo@rocketmail.com
+
+Last updated 3/29/2016
