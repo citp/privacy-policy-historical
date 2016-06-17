@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aria.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145949id_/http%3A//www.mgmresorts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aria.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617172637id_/http%3A//www.mgmresorts.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM Resorts International Privacy Statement
 
@@ -15,7 +15,6 @@ Delano in Las Vegas, Nevada
 Excalibur in Las Vegas, Nevada  
 Gold Strike Resort in Tunica, Mississippi  
 Hotel 32 Monte Carlo in Las Vegas, Nevada  
-Las Vegas Arena in Las Vegas, Nevada  
 Luxor in Las Vegas, Nevada  
 Mandalay Bay in Las Vegas, Nevada  
 MGM Grand in Las Vegas, Nevada  
@@ -25,10 +24,10 @@ MGM Springfield in Springfield, Massachusetts
 Monte Carlo in Las Vegas, Nevada  
 New York-New York in Las Vegas, Nevada  
 Skylofts at MGM Grand in Las Vegas, Nevada  
-The Crystals at CityCenter in Las Vegas, Nevada  
 The Mirage in Las Vegas, Nevada  
 The Residences Mandarin Oriental in Las Vegas, Nevada  
 The Signature at MGM Grand in Las Vegas, Nevada  
+T-Mobile Arena in Las Vegas, Nevada  
 Vdara Hotel & Spa in Las Vegas, Nevada
 
 MGM Resorts International is a corporation subject to the laws of the United States. This Policy describes our information collection, use, protection, and sharing practices in the United States. The United States may not offer a level of privacy protection as great as that offered in other jurisdictions. In jurisdictions outside of the United States where we are subject to different or more restrictive local laws, we may adjust our practices in those jurisdictions to comply with local laws. Otherwise, we make no representation that the practices described in this Policy are compliant with laws outside of the United States that apply to the collection, security, use and disclosure of information. Information that is collected or stored in jurisdictions outside of the United States may, subject to applicable law, be disclosed or transferred to the United States or other locations. When information is transferred to the United States, it will be handled in accordance with the laws of the United States.
