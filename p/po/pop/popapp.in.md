@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popapp.in privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910043930id_/https%3A//popapp.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popapp.in privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617133104id_/https%3A//popapp.in/privacy) for the most accurate reproduction.*
 
 # POP Privacy Policy
 
