@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225051500id_/http%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617211053id_/http%3A//www.evite.com/content/privacy_policy) for the most accurate reproduction.*
 
 # Evite Privacy Policy
 
@@ -121,7 +121,7 @@ legal@evite.com
 Attn: Privacy Officer  
 
 
-©Evite, Inc. 2015. All rights reserved.
+©Evite, Inc. 2016. All rights reserved.
 
 Evite® is a registered trademark of Evite, Inc. in the United States and other countries. Please use this mark only to refer to our services.
 
