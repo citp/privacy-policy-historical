@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229215301id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphacoders.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617183551id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.*
 
 # Alpha Coders - Privacy Policy
+
+  
+
+
+#### Submit Things, Earn Points, Have Fun.
+
+  * [Wallpapers](http://alphacoders.com/site/submit/wallpaper)
+  * [Art](http://alphacoders.com/site/submit/art)
+  * [Photography](http://alphacoders.com/site/submit/photo)
+  * [Images](http://alphacoders.com/site/submit/pic)
+  * [Avatars](http://alphacoders.com/site/submit/avatar)
+  * [Gifs](http://alphacoders.com/site/submit/gif)
+
+  
+
 
 ##  Alpha Coders Privacy Policy 
 
