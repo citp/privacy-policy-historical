@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071653id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617195001id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CVS pharmacy
 
-Effective Date: December 10, 2015
+Effective Date: January 13, 2016
 
 This Privacy Policy describes the practices of CVS Pharmacy, Inc. (“CVS,” “we” or “us”) in connection with information collected through CVS.com and other websites and mobile applications operated by us and from which you are accessing this Privacy Policy (collectively, the “Services”). By using the Services, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287.
 
@@ -11,7 +11,7 @@ CVS/pharmacy** [Notice of Privacy Practices](http://www.cvshealth.com/patient-pr
 
 We may change this Privacy Policy. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy. 
 
-In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS Caremark's HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to [Contact Us](https://web.archive.org/help/help_contact_us.jsp), or call us toll-free at (888) 607-4287. 
+In some circumstances, CVS/pharmacy use of your information will also be subject to the requirements of the Health Information Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting information for prescription refills we are subject to the requirements of HIPAA. In those circumstances, the terms of CVS/pharmacy HIPAA Notice of Privacy Practices will apply. If you have questions about which policy applies to information you have submitted, please do not hesitate to [Contact Us](https://web.archive.org/help/help_contact_us.jsp), or call us toll-free at (888) 607-4287. 
 
 Any changes in our Privacy Policy will appear on this page so that you are aware of the data we collect and how we use it. If you register and provide us with a valid email address, we will notify you by email of any significant changes to this Privacy Policy. You will be given the opportunity to opt in to any significant new uses of personal information if that information was collected prior to the change in this policy. If you do not opt in to any significant new uses of your personal information, that information will continue to be governed by the policy in effect at the time your information was collected. If you do not register, we will not have your email address and cannot provide you with any notifications of Privacy Policy changes.
 
