@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reiwa.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035656id_/http%3A//reiwa.com.au/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiwa.com.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617105819id_/http%3A//reiwa.com.au/Privacy-Statement) for the most accurate reproduction.*
 
 # REIWA's Privacy Policy And Internet Collection Notice - reiwa.com
 
