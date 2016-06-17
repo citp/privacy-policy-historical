@@ -1,75 +1,117 @@
-> *The following text is extracted and transformed from the twip.org privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920030320id_/http%3A//www.twip.org/wiki-en-privacy-policy-p13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twip.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617105733id_/https%3A//www.hover.com/privacy%3Fsource%3Dforsale) for the most accurate reproduction.*
 
-# Privacy Policy - The World In Photos: Wiki
+# Domains and domain email made simple - Hover
 
-## Privacy Policy
+## Our Privacy and Data Collection Practices
 
-[Back home](http://wiki.twip.org/) :: last edited by [sim100](https://web.archive.org/album:sim100) (April 30, 2009, 17:58:24)
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-**Overall privacy statement**  
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site and its properties and services that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate. Please note that by using the services or web site, you agree that any information you provide to us will be stored in the United States in accordance with this Privacy Policy and United States law.
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-**1\. What information does TWIP collect?**  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post pictures, participation in sweepstakes or contests and subscriptions to email newsletters.
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-We collect personally identifiable information, such as your username, password, email address, country of residence, gender and date of birth when you provide it to us.
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-Once you register with TWIP you are less anonymous to us.
+## Account Information
 
-**2\. What is TWIP practice regarding cookies?**  
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+Account data includes:
 
-Note: about Google Advertising on this website: Google use cookies for its Adsense program and to publish ads on TWIP. The Dart cookies used by Google allow them to adapt the ad publishing based on internet users behavior. Internet users have the possibility to desactivate Dart cookies. More info here: <http://www.google.com/privacy_ads>
-
-**3\. How does TWIP use the information?**  
-We use the information we gather for four general purposes:
-
-  1. customize the advertising and the content you see;
-  2. To enhance the user experience in our network of sites and software applications; We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
-  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;
-  4. To send you information you agreed to receive about topics we think will be of interest to you.
+  
 
 
+• the name of the account holder;
 
-**4\. How does TWIP share the information?**  
-_Personally identifiable information_  
-We will make your personally identifiable information available to other companies or people when:
+• the mailing address of the account holder;
 
-  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website(s) or software applications.
-  2. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
-  3. When required by law, such as when we respond to subpoenas, court orders, or legal process.
-  4. We believe that your actions violate applicable laws, TWIP’s Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
 
+• a credit card number, expiry and verification code;
 
+Registration contact data includes:
 
-_Aggregate information_  
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
-
-_Business transfers_  
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
-
-**5\. What are my options?**  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
-
-We also give users the following options:
-
-  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages, my account pages, or by following the instructions at the end of the e-mail they received from us. Please note, however, that we reserve the right to send you email about the administration of your account, policy changes, legal, billing, and other matters that will affect your use of the web site. These communications are mandatory.
-  2. Opting not to provide certain personal information when registering for a site or software application, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
+  
 
 
+• the name of the owner and administrative contact(s)
 
-**6\. How can I review and update my personally identifiable information?**  
-You can review, correct, or change the information collected during registration for TWIP here: [http://www.twip.org/my_account.php](https://web.archive.org/my_account.php)  
-The instructions for doing this can be found in our member-services areas or in the footer links available on all sites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
+• the address of the owner and administrative contact(s)
 
-**7\. How will I know if the privacy policy is changed?**  
-Any modifications to our privacy practices will be reflected first in this Privacy Policy. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+• the phone number of the owner and administrative contact(s)
 
-**Questions, Comments**  
-Questions regarding this privacy statement or any other aspects of our website should be sent by email to info at twip dot org. 
+• the email address for the owner and administrative contact(s)
 
-* * *
+## Our use of your account data
 
-**You like this post? Share it!**
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+
+We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
+
+Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
+
+Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
+
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+
+Hover does not share your account data with any other parties for any other reasons.
+
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## WHOIS
+
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+
+## Domain Search Information
+
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+
+We never sell the search information you provide to us.
+
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
