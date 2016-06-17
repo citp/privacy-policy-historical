@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celinedionforum.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912164035id_/http%3A//www.celinedionforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celinedionforum.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617083409id_/http%3A//www.celinedionforum.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Celine Dion Forum
 
-[ ](http://www.bestofvegas.com/Shows-Tickets/Celine-Dion/ "BestofVegas.com") 
+[ ](http://www.bestofvegas.com/Shows-Tickets/ "BestofVegas.com")  [ ](http://lasvegas.showtickets.com/celine-dion/ "ShowTickets.com")
 
   
 
