@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amailsender.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217172924id_/http%3A//www.amailsender.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amailsender.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618014456id_/http%3A//www.amailsender.com/pp.htm) for the most accurate reproduction.*
 
 # AtomPark Software Inc. Privacy Policy
 
@@ -20,7 +20,7 @@ Upon reading this Privacy Policy statement, you will know:
 
 
 
-Questions regarding this statement should be directed to the AtomPark Software Inc. Website coordinator by emailing: medik@atompark.com or writing to us at the following address: 901 N. Pitt str, Suite 325, Alexandria, VA 22314, USA.
+Questions regarding this statement should be directed to the AtomPark Software Inc. Website coordinator by emailing: medik@atompark.com.
 
 If you feel that AtomPark Software Inc. has not complied with the policies outlined in this privacy statement please submit a report at: medik@atompark.com 
 
