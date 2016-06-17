@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama-assn.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013846id_/http%3A//www.ama-assn.org/go/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama-assn.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617075918id_/http%3A//www.ama-assn.org/go/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,9 +65,9 @@ Cookies are required for the Members-Only and e-commerce sections of the website
 
 #### Site security features
 
-**SSL technology and how you benefit from it** \-- AMA realizes the importance of security, so we've taken a number of steps to enhance the protection of personal information sent to or from AMA over the Internet. First, we require that a "secure session" be established, using Secure Socket Layer (SSL) technology. This is done any time you supply or access information in one of our secure online areas.
+**TLS technology and how you benefit from it** \-- AMA realizes the importance of security, so we've taken a number of steps to enhance the protection of personal information sent to or from AMA over the Internet. First, we require that a "secure session" be established, using Transport Layer Security (TSL) technology. This is done any time you supply or access information in one of our secure online areas.
 
-SSL technology creates a private conversation that only your computer and AMA systems can understand. The SSL technology encodes information as it is being sent over the Internet between your computer and AMA systems, helping to ensure that the transmitted information remains confidential.
+TSL technology creates a private conversation that only your computer and AMA systems can understand. The TSL technology encodes information as it is being sent over the Internet between your computer and AMA systems, helping to ensure that the transmitted information remains confidential.
 
 **User ID and password** \-- Many areas of the site require the use of a user ID and password as an additional security measure that helps protect your information. This allows AMA to verify who you are, thereby allowing you access to your account information and preventing unauthorized access. When you have finished using a secure area of AMA’s website, make sure you always click on the "Log Out" link which appears on every secure page. When you click on the "Log Out" link, you will be given the option to end your secure session. No further secure transactions can be conducted without re-entering your user ID and password. You should be aware that browser software often "caches" a page as you look at it, meaning that some pages are saved in your computer's temporary memory. Therefore, you may find that clicking on your "Back" button shows you a saved version of a previously viewed page. Caching in no way affects the security of your confidential user ID or password.
 
@@ -83,4 +83,4 @@ If you are a registered user of an AMA website, subscriber to AMA publications, 
 
 Physicians and medical students may [update or correct any information the AMA may have on file by going online](http://www.ama-assn.org/go/oldcc) or calling (800) 621-8335. Updates or corrections to certain types of information (e.g., physician licensure, medical education or training, etc.) will require independent verification prior to effectuating any (permanent) change to our files.
 
-Last Updated: December 19, 2013
+Last Updated: December 10, 2015
