@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053129id_/http%3A//www.coffeebean.com/store/privacy_policy-cfbn.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617030513id_/http%3A//www.coffeebean.com/store/privacy_policy-cfbn.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coffee Bean & Tea Leaf
 
