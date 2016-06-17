@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triumph.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915080134id_/http%3A//us.triumph.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumph.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194453id_/http%3A//us.triumph.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Triumph Official Store
 
