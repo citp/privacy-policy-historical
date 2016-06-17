@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231010531id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readitlaterlist.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617232848id_/https%3A//getpocket.com/privacy) for the most accurate reproduction.*
 
 # Pocket: Privacy Policy
 
-#### _Posted May 6, 2015_
+#### _Posted May 20, 2016_
 
 This notice describes the Privacy Policy that applies to all information collected or submitted when you install or use the Pocket™ application or any of the other proprietary software applications or services we provide, and when you visit our website (all of which are referred to collectively herein as the "Pocket Technologies"). The Pocket Technologies are owned and operated by Read It Later, Inc. (referred to herein as "we," "us," "our," "Read It Later" or "Pocket"), which has developed applications and services for use in connection with a variety of devices and platforms, including without limitation, Windows, Mac, iPhone, iPad, Kindle Fire, Android, BlackBerry, Windows phone, Chrome, Safari, Firefox and other mobile devices and computers. 
 
@@ -12,8 +12,8 @@ Our Privacy Policy includes the following provisions, and you can jump to each b
 
 If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@getpocket.com](mailto:privacy@getpocket.com). Alternatively, you may contact us at:  
 **Read It Later, Inc.  
-731 Market Street, Suite 410   
-San Francisco, CA 94103   
+233 Sansome, Suite 1200   
+San Francisco, CA 94104   
 **
 
 #### USER ACCOUNTS AND COLLECTION OF INFORMATION
@@ -30,7 +30,7 @@ In addition to the information that you provide to us when you register for a us
 
 In addition to the methods described above, we may also collect information using cookies or other technologies. You may decline our cookies if your browser permits, although in that case you may not be able to use certain features, you may be required to enter your password more frequently during a session, and you may be unable to install or use certain Pocket Technologies. Cookies and other technologies make our Pocket Technologies easier to use and help us customize and personalize the services we provide based on your interests and activities. 
 
-We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually or collectively "Pixel Tags") in connection with emails that we send to our users in order to collect usage data. Our use of Pixel Tags allows us to count users who have visited certain pages on our Website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns. 
+We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually or collectively "Pixel Tags") in connection with emails that we send to our users in order to collect usage data. We use Pixel Tags, other technologies and the information we collect to count users who have visited certain pages on our Website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns. 
 
 #### COLLECTION OF INFORMATION FROM CHILDREN
 
@@ -40,7 +40,7 @@ We comply with the Children's Online Privacy Protection Act, which requires us t
 
 We use the information we collect to operate and improve our services, such as saving videos, articles or other content to Pocket and making such content available to you at a later time on any device that you use to access the Pocket Technologies. For example, we may use your contact information to respond to your inquiries, to provide customer support and to supply any products or services you have requested. In addition, if you choose to use the Pocket Technologies to share content with another person, we will use the recipient's email address or user account information to provide that service, but we will not use that email address for any other purpose. 
 
-We use non-identifying, aggregated information to analyze the manner in which the Pocket Technologies are used. Such aggregated information includes the manner in which videos, articles or content has been accessed, saved and shared. We may use aggregated information to offer a list of top sites or content, or to make suggestions to our users or to report on usage and trends. We may also analyze and use aggregated information to improve the products and services that we offer, and to develop new products and services. 
+We use non-identifying, aggregated information to analyze the manner in which the Pocket Technologies are used. Such aggregated information includes the manner in which videos, articles or content has been accessed, saved and shared. We may use aggregated information to offer a list of top sites or content, to make recommendations to our users, to report on usage and trends, to improve the products and services that we offer, or to develop new products and services. We may also use non-identifying, non-aggregated information to deliver tailored advertisements to you. 
 
 #### SHARING OF INFORMATION
 
@@ -50,7 +50,7 @@ If you choose to make the content you save publicly available, we may share that
 
 If you choose to, you may connect your Pocket account to third-party applications to enable additional features like saving from your favorite apps or other unique features third-party developers have created. We have set up controls in the Pocket application so that you can control the information that is shared with third-party providers of products and services. For example, you may be informed that another app that you use wants to connect to your Pocket account. In some cases, such apps will request access to certain data in your Pocket account, such as your Pocket list or your preferred topics, sites and authors (which we have developed based on the content you have saved to Pocket), so that they can customize their services. Before such access is provided, however, you will be asked to authorize the sharing of any such information. Although the Pocket Technologies may be used in conjunction with third-party products and services, we are not affiliated with, and have no control over, such third parties. Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you and we encourage you to check the privacy policy of each third-party provider of products or services that you choose to connect your Pocket account to. 
 
-We may work with trusted third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the products and services that we provide to you, and we may provide some of your personal information directly to these internal service providers. For example, as discussed above, we may use a third party payment processor to process payments for our paid subscription service. The internal service providers are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose except to facilitate the specific outsourced operation, unless you have explicitly agreed or given your prior permission to them for additional uses. 
+We may work with trusted third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the products and services that we provide to you, and we may provide some of your personal information directly to these internal service providers. For example, as discussed above, we may use a third party payment processor to process payments for our paid subscription service and we may work with third parties who assist us in delivering advertisements to you. The internal service providers are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose except to facilitate the specific outsourced operation, unless you have explicitly agreed or given your prior permission to them for additional uses. 
 
 In the event that we or certain of our assets are acquired, user information may be included among the transferred assets. 
 
