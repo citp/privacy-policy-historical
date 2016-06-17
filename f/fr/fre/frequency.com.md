@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the frequency.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213174452id_/http%3A//www.frequency.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frequency.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617183702id_/http%3A//www.frequency.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Frequency Privacy Policy
+# Frequency - Privacy Policy
 
-When accessing our Website, Frequency Networks, Inc. will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+When you access our website, applications, or services, Frequency Networks, Inc. will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
-  1. The name of the domain from which you access the Internet.
-
-  2. The date and time you access our site.
-
-  3. The Internet address of the website you used to link directly to our site.
-
-  4. Email address.
-
+  * The name of the domain from which you access the Internet.
+  * The date and time you access our site.
+  * The Internet address of the website you used to link directly to our site.
+  * Email address.
 
 
 
