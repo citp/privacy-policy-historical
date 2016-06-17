@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083637id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193002id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubergizmo
 
@@ -22,7 +22,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 ### Third Party Advertising
 
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.
+The ads appearing on this Web site are delivered to users by [Google](http://www.ubergizmo.com/what-is/google-company-quick-facts/), among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.
 
 ### Log Files
 
@@ -56,4 +56,4 @@ Whenever Ubergizmo changes our privacy policy, we will post those changes to thi
 
 If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.ubergizmo.com/contact/).
 
-Filed in .. 
+Filed in ..
