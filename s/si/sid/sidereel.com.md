@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231011054id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617233358id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SideReel
 
-Review RhythmOne's ("1R") legal and privacy notices for details on how we collect, use and protect your personal information on the website.
+Review RhythmOne, LLC's ("1R") legal and privacy notices for details on how we collect, use and protect your personal information on the website.
 
 Your use of and access to any website or software application owned by 1R ('1R Property(ies)') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it. 
 
@@ -24,9 +24,9 @@ Your rights
 
 **_ABOUT US AND THIS POLICY_**
 
-All references to "we", "us" or "our" refer to RhythmOne and/or one or more of its affiliates.
+All references to "we", "us" or "our" refer to RhythmOne, LLC and/or one or more of its affiliates.
 
-All Media Network, LLC is incorporated in the State of Delaware and its principal office is 564 Market Street, Suite 416, San Francisco, CA 94104. 
+SideReel is a member of the RhythmOne group and our office is located at 251 Kearny Street, 2nd Floor, San Francisco, CA 94108.
 
 This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use 1R Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information. 
 
@@ -142,7 +142,7 @@ If you are located in Europe, some of the data that we process may be protected 
 **Your California Privacy Rights**  
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@sidereel.com](mailto:privacy@sidereel.com) or by postal mail to RhythmOne, One Market Plaza, Spear Tower, Suite 1810 San Francisco, CA 94105, Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information. 
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@sidereel.com](mailto:privacy@sidereel.com) or by postal mail to RhythmOne, LLC, 251 Kearny St., 2nd Floor, San Francisco, CA 94108, Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information. 
 
 Back to top
 
