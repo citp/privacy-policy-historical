@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230110822id_/http%3A//www.amnestyusa.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617173534id_/http%3A//www.amnestyusa.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International USA
 
@@ -32,7 +32,7 @@ The AIUSA Web site will not post personal contact information for volunteers, in
 
 ###  Opting Out
 
-All persons who join or donate to Amnesty International, whether via regular postal mail, over the phone or through the Web site, will receive periodic updates from Amnesty International by these same methods (regular mail, phone or e-mail). You may request limited mail updates or request no phone calls by contacting Member Services. Further, we may occasionally exchange or rent the names and postal addresses of our members with other organizations in exchange for access to their member or supporter lists, so that we can invite others to join Amnesty International. If you prefer to opt out having your name/address exchanged in this manner, please contact Member Services.
+All persons who join or donate to Amnesty International, whether via regular postal mail, over the phone or through the Web site, will receive periodic updates from Amnesty International by these same methods (regular mail, phone or e-mail). You may request limited mail updates or request no phone calls by contacting Member Services. Further, we may occasionally exchange or rent the names and postal addresses of our members with other organizations in exchange for access to their member or supporter lists, so that we can invite others to join Amnesty International. If you prefer to opt out having your name, address, email or phone number exchanged in this manner, please contact Member Services.
 
 You can reach Member Services by sending an e-mail to [aimember@aiusa.org](mailto:aimember@aiusa.org), by phone at 1-212-633-4254 (M-F, 9a-5pm EST) or by writing to:
 
