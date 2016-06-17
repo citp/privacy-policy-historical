@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anivide.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207154032id_/http%3A//www.anispace.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anivide.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617091146id_/http%3A//www.anispace.net/privacy_policy) for the most accurate reproduction.*
 
 # AniSpace.net - Privacy Policy
 
@@ -24,5 +24,5 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 This site contains links to other sites. Anispace.net is not responsible for the privacy practices or the content of such Web sites. 
 
 [Privacy Policy](https://web.archive.org/privacy_policy) • [Contact Us](https://web.archive.org/contact)   
-© 2008-2014 by AniSpace.net. Alright reserved.   
+© 2008-2016 by AniSpace.net. Alright reserved.   
 
