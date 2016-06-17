@@ -1,158 +1,111 @@
-> *The following text is extracted and transformed from the sportssignupapp.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182200id_/http%3A//www.sportssignup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignupapp.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193628id_/https%3A//subscription.timeinc.com/storefront/privacy/siplay/generic_privacy_new.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# SI Play Privacy Policy for the US
 
-League Sports Services, LLC (d.b.a. SportsSignup®) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your Personal Information.  The TRUSTe program does not cover information that may be collected through downloadable software and behind the login. The TRUSTe program covers only information that is collected through these Web sites, http://www.sportssignup.com and http://sportssignup.com  
+## PRIVACY POLICY
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@sportssignup.com](mailto:privacy@sportssignup.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+### Table of Contents
 
-**  
-Introduction**
+  * Scope of the Privacy Policy
+  * Information We Collect
+  * How We Use your Information 
+  * Collection of Information by Third-Party Sites and Sponsors
+  * Cookies
+  * Your California Privacy Rights: Notice to California Customers
+  * Our Commitment to Security
+  * Accessing, Correcting, and Deleting Your Personal Information
+  * Retention of Personal Information
+  * Changes to this Privacy Policy
+  * How to Contact Us
 
-SportsSignup takes privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personal information collected from participants who register for services and submit information to SportsSignup through the Internet.
 
-As the SportsSignup services evolve, we may revise this policy, so please check back frequently. If you have questions about SportsSignup’s privacy practices please contact us at [privacy@sportssignup.com](mailto:privacy@sportssignup.com).
 
-SportsSignup is committed to safeguarding your privacy online. Our Privacy Policy is posted below to help you understand the care with which Personal Information is treated whenever you use our web site.
+#### Scope of the Privacy Policy
 
-**  
-Scope of this Privacy Policy**
+Thank you for visiting SI Play! Your privacy is very important to us. To better protect your privacy, SI Play LLC and its affiliates (collectively, “SI Play”, “we” or “us”) provide this Privacy Policy explaining our information practices and how we use the information you provide to us. This Privacy Policy governs how we use and collect your data through our websites, mobile device applications and other services (collectively, the “Services”), including the services provided through leaguetoolbox.com; leagueathletics.com; sportssignup.com; iscore.com; and www.siplay.com. If you were a previous user of the services offered by iScore, SportsSignup, League ToolBox or League Athletics, your personal information is now governed by the this Privacy Policy.
 
-This Privacy Policy covers SportsSignup’s treatment of personal information collected from individuals, families and teams (hereafter “Registrant” or “Registrants”) who use the SportsSignup services, as well as consumer information that we acquire in the course of our business. All users of SportsSignup are adults over the age of 18, who are either completing a registration to participate themselves or are completing registration(s) for their minor children. Therefore, any references to a “Registrant” in this Privacy Policy could refer to a minor child or to an adult, with the assumption that all data for any minor child is entered by the adult parent/guardian of that child. Please refer to the section of this Privacy Policy entitled “Policy for Minors” for more information.    
+All users of SI Play are adults over the age of 18 who are either completing a registration to participate themselves or are completing registrations for their minor children. We do not knowingly collect information from children under the age of 13. If we learn that we have received any information directly from a child under age 13 without first receiving his or her parent's verified consent, we will delete that information.
 
-This Policy does not apply to the practices of companies that SportsSignup does not own or control, or to people that SportsSignup does not employ or manage.
+#### Information We Collect
 
-**  
-Personal Information**
+**Volunteered Information** : This category of information includes, but is not limited to: (i) information that you voluntarily provide to SI Play upon your use of, and registration for, the Service or for a sports program that uses our Service, including information such as your name, email address, and other contact information; (ii) if you are a participant in a sports program, the information that you provide to that program at the time of enrollment and thereafter through the Service by you directly inputting the information into the Service; and (iii) information that you provide as a result of your purchase of any goods or services offered through the Service (e.g., financial information, billing and shipping addresses. Additionally, through some Services, you may be able to submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
 
-The SportsSignup system collects information about Registrants on behalf of the organization (“Customer”) in which a Registrant is participating, for use by the Customer. SportsSignup acts as an agent in collecting information from Registrant for the Customer and produces a variety of reports and notification for the Customer about Registrants. The Personal Information we collect on the site includes first name, last name, email address, mailing address, birthdate, grade, medical information (e.g. allergies, doctor name, etc.), and any information the Customer may choose to collect.
+**Background Checks** : SI Play provides a service, called KidSafePlus®, to help manage the background check process for individuals you designate. While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records, to acquire a list of possible aliases used, and to provide additional information reduce the number of false positives resulting from “common name” matches. Social Security numbers are captured as part of a your profile for the designated, and passed on to our background check partner (via secure communications), who performs the background check. The specific background check provider used is fully disclosed during the background check registration process. The whole Social Security numbers are deleted from our system once the results are returned (often minutes after the user supplies the information).
 
-Personal Information is protected by a password that Registrant chooses.  Users should assure that the password selection is not obvious (name, address, etc.) and should change it periodically. Personal Information is stored in Microsoft's SQL Server Database, which supports industry standard security.  The Database is hosted by Amazon Web Services(AWS), a top-grade hosting company and Microsoft Certified Partner.
+**Other Non-Personally Identifiable Data** : We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information.
 
-Registrants can add their photograph, primarily for Customer administrators and/or coaches to identify participants, or to facilitate the printing of a photo-based identification card. If a Registrant is uncomfortable with a photograph as part of their account information, they should delete it (or not add one). 
+back to top
 
-**  
-Teams**
+#### How We Use Your Information
 
-Customer administrators have the ability to create and manage “Teams”. A Team is defined as a group of Registrants, typically referred to as a “Team Roster” or “Roster”, that are co-participants during a sport season. For example, a soccer Team might consist of 15 players and 3 coaches/assistant coaches, who are all considered “Team Members”. 
+Except as set forth in this section, your personal information will not be shared or transferred to third parties. 
 
-**  
-Teams: Public Information**
+**General Use** : The information you provide to us will be used (i) to operate the Service; (ii) to fulfill any requests you make to us, e.g., your requests for a particular product or service; and (iii) by SI Play to send you information about SI Play, marketing information about SI Play products and services, and other services in which we think you might be interested.
 
-The Personal Information that may be shared publicly for the purpose of generating a Team Roster is last name, first initial, Team name and jersey number.  Besides the basic Team Roster information, unless otherwise specified herein, other Personal Information collected is not shared with any party other than the authorized representatives of the Customer, unless we are required to do so to complete a requirement for a Customer. For example, Registrant information may be sent as part of a Team Roster submission process from the Customer to Customer’s parent organization(s). Registrants are advised to check with their organization regarding the use and privacy of Personal Information collected on behalf of the Customer.
+**Third Party Fulfillment** : In order to fulfill a request you may make or for us to otherwise operate the Service, it may be necessary for SI Play to share your information with a vendor or other third party. In those instances, any third party that has access to your information will be required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for SI Play.
 
-**  
-Teams: Personal Information Sharing**
+**Customize and Improve the Services** : We may use the non-personally identifiable information that we collect to improve the design, features and content of our Services, to analyze Service usage, and to enable us to customize your experience while using the Services.
 
-The Registrant’s “Contact Information”, consisting of first name, last name, parent/guardian name(s), parent/guardian mailing address, parent/guardian phone number(s), parent/guardian email address(es) and are available as “view only” fields by other Team Members, and are only accessible if a) the Registrant has been placed on a Team Roster by a Customer administrator; b) the Team Roster has been made accessible by a Customer administrator; c) the Registrant (other Team Member) viewing the information has logged in using their unique username and password; and d) the Registrant has not disabled the sharing function for any of the fields mentioned above.
+**Required by Law or to Otherwise Protect our Rights** : We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. Further, to the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of SI Play, our agents, affiliates, parent company, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
 
-The Registrant’s Contact Information as described above, including any emergency contact information and medical information (e.g. allergies to be aware of, Registrant’s doctor, etc.) as specified by the Registrant, is always shared with Team Members identified as “Privileged Helpers”. A Privileged Helper is typically someone designated by a Customer administrator as a coach, assistant coach, or manager, or similar roles that require access to such information to communicate with Team Members or to contact someone in the case of an emergency. Conversely, Contact Information about Privileged Helpers is always shared with other Team Members, so Team Members have a way to contact their coach, etc. Please contact the organization you are participating with if you have questions about what roles are considered Privileged Helpers.
+**In Connection with a Merger or Sale of Assets** : Additionally, please note that if SI Play or any of our subsidiaries or lines of business are merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
-Team information sharing is strictly limited to Personal Information of adults. Personal Information about children on Team Rosters, with the exception of their first and last name, are never shared with other Team Members. At any time, Registrants can modify their sharing settings such that no additional Personal Information (with the exception of first and last name) will be shared with Team Members.
+#### Collection of Information by Third-Party Sites and Sponsors
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+**Information Collected by Third Parties** : Our Services may contain links to other sites whose information practices may be different than ours. SI Play also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information. Any information that you provide to a third party through the Service, e.g., if you make a payment for a service through Apple’s app store, that third party’s use of your information is not covered by this privacy policy. Further, any technologies, e.g., cookies that are placed or used by third parties on the Services are also outside the scope of this Privacy Policy. Such information and practices will be subject to the privacy policies and practices of the applicable third party.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary_   _to provide_ these services to us.
+**Sponsored Pages or Promotions** : SI Play may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the SI Play and the third parties. SI Play has no control over the third parties' use of this information.
 
-  
-**Policy for Minors**
+**Advertisements** : SI Play may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
 
-SportsSignup’s services are not directed to children under the age of 13, SportsSignup does not knowingly collect personal information from children under 13, as accounts are created and owned by adults over the age of 18, and any required information regarding children is entered by the adult account owner. This policy is reinforced by [SportsSignup’s Terms of Use](https://web.archive.org/terms-of-use) and to by all Registrants during account creation. Children should always ask parents for permission before providing any Personal Information online. No information should be submitted to or posted on this site by any minor (a user under 18 years of age) without the consent of a parent or guardian. If you are aware that your child has provided us Personal Information without your consent, please contact us at [support@sportssignup.com](mailto:support@sportssignup.com).
+#### Our Commitment to Security
 
-**  
-Updating/Correcting Personal Information**
+We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
 
-For SportsSignup account holders and end users, Personal Information collected (e.g. name, address, phone numbers, etc.) can be updated, deleted or modified by logging into your SportsSignup account and clicking on “Contact Info” at the top of the page. At any time, Registrants can modify their Team Sharing settings such that no additional Personal Information (with the exception of first and last name) will be shared with Team Members.
+#### Cookies
 
-**  
-Cookies and Tracking Technologies**
+**Generally** : We (or our analytic or service partners) may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
 
-Technologies such as: cookies, beacons, tags and scripts are used by League Sports Service LLC, affiliates, or analytic or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
 
-We use cookies for authentication _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions.
 
-**  
-Analytics / Log Files**
+_Local Shared Objects_ : Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically collected data to other information we collect about you.
+_HTML 5_ : HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
 
-**  
-Behavioral Targeting/ Re- Targeting**  
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other websites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).
+_Cache Cookies_ : Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
 
-**  
-Local Storage Objects (LSOs) HTML5**
+_Web Beacons_ : Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
 
-We use Local Storage Objects (LSOs) such as HTML5. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs **.**
+These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
 
-**  
-Credit Card Information**
+back to top
 
-When Registrants use the SportsSignup system to make payment via credit card, the payment information is entered on a secure web page, using SSL encryption and processed via a merchant account. Only the last 4 digits of the credit card number are stored in the SportsSignup system. The Customer name (e.g. Springfield Soccer League) will appear on the Registrant’s credit card statement.
+#### Your California Privacy Rights: Notice to California Customers
 
-SportsSignup is enrolled in Trustwave's Trusted Commerce program, a third party service provider, to validate compliance with the Payment Card Industry Data Security Standard (PCI DSS) mandated by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard Worldwide, Visa, Inc. and Visa Europe.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. Note: SI Play sites do not recognize the “do not track signals” that some browsers may employ. To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [Support@SportsSignup.com](mailto:Support@SportsSignup.com)
+#### Accessing, Correcting, and Deleting Your Personal Information
 
-**  
-User Data Supplementation**
+**Managing your Information** : We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates. We encourage you to review, update, and correct the personal information that we maintain about you, and you may make modifications to certain personal information through the Services themselves or you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
 
-SportsSignup provides a service, called [ **KidSafe** _Plus_ ®](https://web.archive.org/background-checks), to help manage the background check process for individuals designated by our Customer.  While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records, to acquire a list of possible aliases used, and to provide additional information reduce the number of false positives resulting from “common name” matches.  Social Security numbers are captured as part of a Registrant’s profile, and passed on to our background check partner (via secure communications), who performs the background check. The specific background check provider used is fully disclosed during the background check registration process. The Social Security numbers are deleted from the SportsSignup system once the results are returned (often minutes after the user supplies the information).
+**Retention of Personal Information** : We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in accordance with the **"Managing Your Information"** section above.
 
-**  
-Testimonials**
+**Opt-out** : If you receive an email from SI Play, you may choose to stop receiving further emails from SI Play by following the unsubscribe instructions included in the email, accessing the email preferences in your account settings, or by sending a request to privacy@siplay.com.
 
-We post customer testimonials on our website, which may contain personal information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [privacy@sportssignup.com](mailto:privacy@sportssignup.com).
+#### Changes to this Privacy Policy
 
-**  
-Mailing Lists**
+This Privacy Policy may be changed by SI Play. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
-E-mailing Registrants is the primary method by which Customers communicate with Registrants - and a vital component of the SportsSignup system. Therefore, Registrants can expect to receive periodic e-mails from the Customer regarding sign-up deadlines, meeting notices, and other timely notifications.
+#### How to Contact Us
 
-E-mail information collected is not shared with any other party, unless authorization is granted and explicitly defined in SportsSignup’s Service Agreement with Customer. Registrants are advised to check with their organization regarding the use and privacy of Personal Information collected on behalf of the Customer.
+If you have any questions or concerns about the Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@siplay.com) or by writing to:
 
-**  
-Opt out Preferences**
+Sports Illustrated Play  
+18 Division St. Suite 414  
+Saratoga Springs, NY, 12866
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [Marketing@SportsSignup.com](mailto:Marketing@SportsSignup.com)
+back to top
 
-**  
-Legal Disclaimer**
-
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our web site.
-
-If SportsSignup is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership. Further, SportsSignup may transfer, or otherwise provide access to, your personal information to such acquirer or buyer involved in the merger, acquisition or sale. 
-
-**  
-Blogs**
-
-If you use a bulletin board, blog, or chat room on this website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [privacy@sportssignup.com](mailto:privacy@sportssignup.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-**  
-Links to 3rd Party Sites**
-
-Our website includes links to other websites whose privacy practices may differ from those of SportsSignup. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
-
-**  
-Social Media Widgets**
-
-Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-**  
-Data Retention**
-
-Unless otherwise specified herein, we will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@sportssignup.com](mailto:support@sportssignup.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**  
-Changes to this Privacy Policy**
-
-_SportsSignup reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this policy or in how SportsSignup will use personal information, SportsSignup will post a prominent notice on the SportsSignup homepage at_ _ _[ _www.SportsSignup.com_](https://web.archive.org/) _ _ _or we will notify you by email (sent to the email address specified in your account) prior to implementing the change. The amended Terms shall automatically become effective immediately after they are posted. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the site or SportsSignup services after the posting of the amended Terms on the Site constitutes your affirmative: (a) acknowledgement of the terms and its modifications; and (b) agreement to abide and be bound by the terms, as amended. If you have additional questions about this Policy, please contact_ _ _[ _privacy@sportssignup.com_](mailto:privacy@sportssignup.com) _._
-
-League Sports Services, LLC (dba SportsSignup)  
-18 Division Street, Suite 414  
-Saratoga Springs, NY 12866  
-1-866-975-8600
-
-This Privacy Policy was last updated on  **June 23, 2015**
-
-## What are you waiting for? Try the all-in-one SportsSignup system for free!   [Get Started Today](https://web.archive.org/free-trial)
+This Privacy Policy was revised April 7, 2016.
