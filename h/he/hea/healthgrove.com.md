@@ -1,100 +1,50 @@
-> *The following text is extracted and transformed from the healthgrove.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthgrove.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617055928id_/https%3A//www.graphiq.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Graphiq | Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Graphiq is a technology company focused on delivering knowledge through vivid, contextually-rich presentations, called Graphiq Visualizations. These Graphiq Visualizations put data into context for researchers, journalists and enterprise. This Privacy Policy exists to explain how this data and your information may be collected, used, and protected. This Privacy Policy may be updated by us from time to time in which case we will provide notice of material changes to this Privacy Policy by posting a notification on the Graphiq website.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Notice and Choice**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We collect Personal Information, Non-Personal Information, and Public Information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We collect Personal Information when you provide it to us, for example by creating an account. We may ask for your email address if you wish to be notified when listings have changed, for confirmation emails, authenticating your account, accounting notices and other reasons including instances in which you have requested specific information or updates.
 
-**Information Collection and Use**
+If you use Facebook or Google to create an account on any of our network sites, we will receive information such as your name and email address, as well as other information you may provide to us through those services. These companies may also receive certain data as described in their privacy policies.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We do not share the Personal Information you provide to us with third parties. However we do provide Personal Information to our vendors or others who are acting to fulfill the services we provide. For example, servers we use to host our website and store information may be managed by other vendors in order to make our site more reliable.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect Public Information when you provide it to us for public display or when we assemble information from publicly accessible databases in order to help you find services or conduct research. For example, some listings ask for, require or include names, phone numbers, email addresses, and other personally identifiable information. This information is optional and is intended to benefit you, your business, or the item listed to assist with promotion or display. If you post information in reviews, or make edits to a listing, please be aware that you have made this information public.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Please do not post any Personal Information on listings that you wish to keep private. If you have provided us with information that you wish to remove you may edit that listing or contact us directly to remove that information. Please be aware that if the information has originated in a public database you will need to contact the source of this information to ensure this information does not continue to be displayed in the future. You may find the source of such information on the bottom of the listing page or by contacting us directly.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We collect Non-Personal Information such as web-logs to help us to diagnose problems with our system and to provide better services to our customers. These logs are deleted on a regular basis.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We and our vendors use cookies, web beacons, advertising identifiers, and other tracking technologies to understand site usage and to manage our advertising and affiliate relationships. Furthermore, emails we send may contain a web beacon that allows us to understand the time and date of when a user has opened an email and when he or she has used a link within an email to visit a website. We use third-party vendors, including Google, for analytics and to serve advertisements and collect non-personally identifiable information when you visit one of our websites. These companies may use non-personally identifiable information (not including your name, address, human-readable email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our sites, other websites, and other forms of media, including emails, about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/choices/).To opt out of interest based ads served by Google, you can visit the [Google advertising opt-out page.](http://www.google.com/settings/ads)See our detailed cookie policy for further details about our use of cookies for analytics and advertising and for your opt-out choices. Email users wishing to disable our email web beacons should do so by turning images "off" in their email client (e.g., Outlook, Gmail). Please see your email client for more information.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We do not presently respond to Do Not Track browser settings. See All About Do Not Track for more information.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+If you click on an advertisement or a link to purchase or learn more about a listing you may be directed to a contact form, website or phone number of a third party. Any information you may provide to such third parties will be subject to their Privacy Policy.
 
-**Security**
+We do not knowingly collect any information from persons under the age of 13. If we learn that we have inadvertently received personal information from a person under the age of 13, we will make every attempt to remove that data.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+ **Access**
 
-**Updating Your Information**
+Registered users can access and update their account information via links accessible on the site homepage. If you have created an account with us and wish to remove it you may do so by selecting the Delete Account option at the bottom of your account settings page.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ **Third Parties**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may disclose information about our users if required to do so by law or when such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may also disclose information about our users when we have a good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use Agreement; respond to claims that any Listing or other content violates the rights of third-parties; or protect the rights, property, or personal safety of us, our users, or the general public at large.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ **Security**
 
-      iii.      You may call us at: (480) 505-8800
+For visitors outside the European Economic Area (EEA) and Switzerland, by visiting our web site and providing us with data, you acknowledge and consent that due to the international scope of Graphiq we may use the data collected in the course of our relationship for the reasons outlined in this policy or in our other communications with you, including the transmission of information outside of your resident jurisdiction. Such information may be stored on servers located in the United States. By providing us with your information, you acknowledge and consent to the transfer of such data under the terms herein and to this locale.
 
-       iv.      You may fax us at: (480) 505-8844
+For visitors within the European Economic Area (EEA) and Switzerland, Graphiq complies with the US-EU and US-Swiss Safe Harbor Principles as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland governed under this privacy policy. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor>.  
+In compliance with US-EU and US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Graphiq by clicking [here.](http://support.graphiq.com/hc/en-us/requests/new)
 
-**Sending Emails**
+Graphiq has further committed to refer unresolved privacy complaints under the US-EU and US- Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the [BBB EU SAFE HARBOR website](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) for more information or to file a complaint.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+  
+ **Contact Us**  
+We welcome your questions and feedback on our Privacy Policy. To contact us, click [here.](http://support.graphiq.com/hc/en-us/requests/new)
