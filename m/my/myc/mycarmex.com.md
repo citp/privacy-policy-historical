@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycarmex.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913133600id_/https%3A//www.mycarmex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarmex.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617234649id_/https%3A//www.mycarmex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Carmex : My Carmex
+# Privacy Policy | Carmex
 
 We at Carma Laboratories, Inc. (“Carma”) care about your privacy. We want to explain in detail our policies and procedures which we have adopted in order to protect your privacy while using our site, mycarmex.com. We want you to feel confident about how we handle personal information (your name, address, telephone number, credit card number, and email address), which you may have shared with us and to understand that this information is used to offer you the best possible products, services, and experiences to provide you with requested information, to enter contests/sweepstakes, and participate in promotions/postings or receive samples.
 
