@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128163333id_/http%3A//marketing.platts.com/forms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618213750id_/http%3A//marketing.platts.com/forms/privacy) for the most accurate reproduction.*
 
 # Platts Privacy
 
@@ -8,7 +8,7 @@ What personally identifiable information (“PII”) does Platts collect about y
 
   * Contact information that you provide to us, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
   * Contact information obtained via other companies’ marketing lists.
-  * Payment information you provide through [platts-billing.force.com/](http://platts-billing.force.com/?elqaid=2786&elqat=2&elqTrackId=148494e5138647c6b689f0b04d60a391).
+  * Payment information you provide through [platts-billing.force.com/](http://platts-billing.force.com/?amp;elqat=2&elqTrackId=148494e5138647c6b689f0b04d60a391&elqaid=2786&elqat=2).
 
 
 
@@ -73,11 +73,11 @@ Platts or our third-party service providers may use cookies (or other anonymous 
 
 You can change your web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below: 
 
-[Internet Explorer](http://support.microsoft.com/kb/196955?elqaid=2786&elqat=2&elqTrackId=6f050670d8854f92a28865909f23bd23)   
-[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies&elqaid=2786&elqat=2&elqTrackId=a8bcb730b99d4bbf9715162e68675335)   
-[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&elqaid=2786&elqat=2&elqTrackId=1843088fd02b4e15ae810940733d9c6f)   
-[Safari](http://support.apple.com/kb/PH5042?elqaid=2786&elqat=2&elqTrackId=f7a1b34868fe4385a3c7a8eb980fd6d1)   
-[Opera](http://www.opera.com/browser/tutorials/security/privacy/?elqaid=2786&elqat=2&elqTrackId=e77ea069a007433e88e14b8b23ec68fa)
+[Internet Explorer](http://support.microsoft.com/kb/196955?elqTrackId=6f050670d8854f92a28865909f23bd23&elqaid=2786&elqat=2)   
+[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies&elqTrackId=a8bcb730b99d4bbf9715162e68675335&elqaid=2786&elqat=2)   
+[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&elqTrackId=1843088fd02b4e15ae810940733d9c6f&elqaid=2786&elqat=2)   
+[Safari](http://support.apple.com/kb/PH5042?elqTrackId=f7a1b34868fe4385a3c7a8eb980fd6d1&elqaid=2786&elqat=2)   
+[Opera](http://www.opera.com/browser/tutorials/security/privacy/?elqTrackId=e77ea069a007433e88e14b8b23ec68fa&elqaid=2786&elqat=2)
 
 If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer’s instructions on how to manage cookies.
 
@@ -93,6 +93,6 @@ Platts
 1111 Bagby #2200  
 Houston, TX 77002.
 
-[Click here](http://www.mhfi.com/privacy?elqaid=2786&elqat=2&elqTrackId=dba8b1713be94d36b19b3e61a9fcd738) for more information about McGraw Hill Financial’s Customer Privacy Policy.
+[Click here](http://www.mhfi.com/privacy?amp;elqat=2&elqTrackId=dba8b1713be94d36b19b3e61a9fcd738&elqaid=2786&elqat=2) for more information about McGraw Hill Financial’s Customer Privacy Policy.
 
 Last updated: April 2015 **.** Future revisions to this Privacy and Cookie Notice will be posted at this location.
