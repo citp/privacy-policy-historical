@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231072129id_/http%3A//www.peopleofwalmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618095743id_/http%3A//www.peopleofwalmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - People Of Walmart : People Of Walmart
+
+## Privacy Policy
 
 **PRIVACY STATEMENT**
 
@@ -108,6 +110,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 15.1        This Website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States.  ALA makes no representation that this Website is governed by or operated in accordance with the laws of other nations.  By using this Website and submitting any personal information, visitors from outside of the United States acknowledge the this Website is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
 
-Rating: 3.3/ **10** (3 votes cast)
+Rating: 4.3/ **10** (4 votes cast)
 
-Privacy Policy, 3.3 out of 10 based on 3 ratings 
+Privacy Policy, 4.3 out of 10 based on 4 ratings 
