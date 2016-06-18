@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kyazoonga.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025041628id_/http%3A//www.kyazoonga.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyazoonga.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618185105id_/https%3A//www.kyazoonga.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# KyaZoonga - Privacy Policy
+# Kyazoonga - Buy Tickets for Concerts, Cricket, Events, Movies, Theatre, Sports, Amusement Parks, more.
 
 This privacy policy ("Policy") only applies to transactions made, and data gathered, on the KyaZoonga.com or mobile phone applications (SMS and GPRS) (collectively, the "Site"). Please review this Policy periodically as we may update it from time to time. This Policy was last revised on March 25, 2007. If there are significant changes to the Site's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Site as well as for special features and services not described in this Policy that may be introduced in the future. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this Policy.
 
