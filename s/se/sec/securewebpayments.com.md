@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the securewebpayments.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228070105id_/http%3A//securewebpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securewebpayments.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618233542id_/http%3A//securewebpayments.com/privacy) for the most accurate reproduction.*
 
 # Secure Web Payments – Privacy Policy
 
 **PRIVACY POLICY**
 
- Last Updated Date: **July 26, 2012**
+ Last Updated Date: **April 20, 2014**
 
 383Media, Inc., (“ **Securewebpayments** , **“SWP”,** or “ **we** ”) has developed various software and e-commerce solutions, including payment processing services (collectively, the “ **Service** ”) to enable marketing affiliates and retail partners (collectively, “ **Affiliates** ”) to sell their digital products and services to end-users (“ **End-Users** ”). We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information through our Service, including through the Affiliates’ websites where the Service is available (each an “ **Affiliate Site** ”), and our website at [www.securewebpayments.com](http://www.securewebpayments.com/) (the “ **SWP Site** ”). This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the SWP Site.
 
 As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
-383Media, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at **privacy@securewebpayments.com**.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+383Media, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Website, [ www.securewebpayments.com﻿﻿ ](https://web.archive.org/web/20160618233542id_/http%3A//securewebpayments.com/www.securewebpayments.com). TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at **privacy@securewebpayments.com**. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Information Collection and Use**
 
@@ -100,5 +100,5 @@ We may update this privacy statement to reflect changes to our information pract
 If you have any questions about this Privacy Policy, please contact us at **privacy@securewebpayments.com**  or at:
 
 383 Media, Inc.  
-4683 Chabot Drive, Suite 220  
-Pleasanton, CA 94588
+7600 Dublin Boulevard, Suite 210  
+Dublin, CA, 94568
