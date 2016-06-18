@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122411id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618180915id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -36,7 +36,7 @@ This policy contains fifteen sections. You can view each section by selecting th
 
 ### 1 Introduction
 
-**1.1** Crowdfunder.co.uk, including the services we offer through it, (“Crowdfunder.co.uk”) is owned and operated by KEO PF.it Ltd (“KEO”, “we”, “us” or “our” as appropriate). For the purpose of the Data Protection Act 1998, the data controller is KEO PF.it Ltd.
+**1.1** Crowdfunder.co.uk, including the services we offer through it, (“Crowdfunder.co.uk”) is owned and operated by Crowdfunder Ltd. (formerly KEO PF.it Ltd) (“Crowdfunder”, “we”, “us” or “our” as appropriate). For the purpose of the Data Protection Act 1998, the data controller is Crowdfunder Ltd.
 
 **1.2** We are committed to safeguarding the privacy of users of Crowdfunder.co.uk. Please read the following Privacy Policy to understand how the information you provide is used and protected. If you have any queries or concerns regarding these practices, please contact us by emailing [support@Crowdfunder.co.uk](mailto:support@Crowdfunder.co.uk).
 
@@ -124,7 +124,7 @@ _If you post content:_
 
 _Transfer of business:_
 
-  * If there is a change (or prospective change) in the ownership of KEO PF.it Ltd or any of its assets, we may have to disclose personal information to the new (or prospective) owner. If we do so, we will require them to keep it confidential and use it in accordance with the terms of our Privacy Policy.
+  * If there is a change (or prospective change) in the ownership of Crowdfunder Ltd. or any of its assets, we may have to disclose personal information to the new (or prospective) owner. If we do so, we will require them to keep it confidential and use it in accordance with the terms of our Privacy Policy.
 
 
 
@@ -222,7 +222,7 @@ _Your right to see your personal information_
 
 ### 15 Contact us
 
-**15.1** Crowdfunder Ltd is a company incorporated in England and Wales, whose registered office address is:
+**15.1** Crowdfunder Ltd (formerly KEO PF.it Ltd)is a company incorporated in England and Wales, whose registered office address is:
 
 11 Cliff Road, Newquay, Cornwall, TR7 2NE
 
