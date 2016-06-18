@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209045409id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618234714id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
 
 # Digital Playground :: Privacy Policy
 
@@ -73,7 +73,7 @@ Each subscriber should carefully read each of the terms and conditions of member
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/webbeacons/). 
 
 Digitalplayground.com  
-©Copyright 2015  
+©Copyright 2016  
 MG Content DP Limited  
 Trademarks  
 Licensing IP International S.à.r.l 
