@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myreviews411.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215122125id_/http%3A//poshmomma.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myreviews411.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618175823id_/http%3A//poshmomma.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ Posh MommaPosh Momma
+# Privacy Policy ⋆ Aria Styles
 
 **What information do we collect?**
 
@@ -75,7 +75,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://poshmomma.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://ariastyles.us/terms>
 
 **Your Consent**
 
@@ -91,11 +91,11 @@ This policy was last modified on 12/22/2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://poshmomma.com  
+http://ariastyles.us  
 P.O. Box 4014  
 Spring Hill, Florida 34611  
 United States  
-andrea@myreviews411.com  
+ariastylesblog@gmail.com  
 3527772623
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
