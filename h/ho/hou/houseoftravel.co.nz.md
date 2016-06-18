@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoftravel.co.nz privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114003336id_/http%3A//www.houseoftravel.co.nz/hot-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoftravel.co.nz privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618172922id_/http%3A//www.houseoftravel.co.nz/hot-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
