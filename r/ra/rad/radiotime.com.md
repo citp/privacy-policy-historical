@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235203id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiotime.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618120310id_/http%3A//tunein.com/policies/privacy) for the most accurate reproduction.*
 
 # TuneIn Radio Privacy
 
@@ -70,7 +70,9 @@ Facilitate and Improve the Service. We use information that we collect on the Se
 
 Communications. We may send email to an email address you provide to us (i) for customer-service or technical-support purposes, or (ii) to send you (a) information about topics or content that we think may interest you, or (b) updates about the latest developments or features on the Service. We also may send push notifications and a newsletter to the email address you provide to us in the event that you subscribe to receive the newsletter.
 
-Advertising. We may use your information, including Personal Information, to facilitate the delivery of advertisements on the Service. Aggregate Data. We may de-identify and aggregate information collected through the Service and use it for any lawful purpose, including marketing purposes.
+Advertising. Advertising. We may use your information, including Personal Information, to facilitate the delivery of advertisements on the Service. 
+
+Aggregate Data. We may de-identify and aggregate information collected through the Service and use it for any lawful purpose, including marketing purposes.
 
 ### TUNEIN MAY DISCLOSE YOUR INFORMATION
 
