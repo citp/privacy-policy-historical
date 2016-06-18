@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216154234id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618211604id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,9 +29,3 @@ We also use some other third party ads which also use cookies similar to Google.
 If you wish to disable cookies, you can do it from your browser options. More information about the cookie management with specific browser can be found on the browser’s websites.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-###  [Deepanker Verma](http://techlomedia.in/author/admin/)
-
-Deepanker Verma is a computer geek, web programmer and entrepreneur. He likes to write about technology gadgets and web security. 
-
-__[http://techlomedia.in](http://techlomedia.in/)
