@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsmakemoney.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218153636id_/http%3A//www.tipsmakemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsmakemoney.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618161609id_/http%3A//www.tipsmakemoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,18 +24,18 @@ Our site may use “cookies” to enhance user experience. User’s web browser 
 
 Tips Make Money may collect and use user’s personal information for the following purposes:
 
-  * _– To improve customer service_  
+  *  _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
+  *  _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our site_  
+  *  _– To improve our site_  
 We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_  
+  *  _– To send periodic emails_  
 We may use the email address to send them information and updates pertaining to their order. If a user decides to opt-in to our mailing list, they will receive emails that may include site news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our site.
 
 
 
-## **How we Protect Your Information**
+##  **How we Protect Your Information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our site.  
 
