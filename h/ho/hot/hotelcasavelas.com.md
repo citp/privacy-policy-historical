@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100220id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619003652id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,21 +7,21 @@
   * Virtual Tour
   * [Contact us](http://www.hotelcasavelas.com/contact-us.aspx "Contact us")
   * [Blog](http://www.vallartatravelblog.com/ "Blog")
-  * [Media Gallery](http://www.hotelcasavelas.com/media-gallery.aspx "Media Gallery")
+  * [Media Gallery](http://www.hotelcasavelas.com/media-gallery "Media Gallery")
   * [Golf](http://www.hotelcasavelas.com/golf.aspx "Golf")
   * [Meetings](http://www.hotelcasavelas.com/meetings/meetings.aspx "Meetings")
   * [Weddings](http://www.hotelcasavelas.com/weddings/weddings.aspx "Weddings")
   * [Spa](http://www.hotelcasavelas.com/spa/spa.aspx "Spa")
-  * [Summer](http://www.hotelcasavelas.com/summer-vacation-in-mexico "Summer")
+  * [Summer](http://www.hotelcasavelas.com/promotions.aspx#summersale2016 "Summer")
 
 
 
   * [ Dining ](http://www.hotelcasavelas.com/dining/dining.aspx "Dining")
-  * [ Promotions ](http://www.hotelcasavelas.com/promotions.aspx "Promotions")
   * [ things to do ](http://www.hotelcasavelas.com/things-to-do/puerto-vallarta-attractions.aspx "Things to Do")
   * [ Services ](http://www.hotelcasavelas.com/services.aspx "Services")
   * [ Accommodations ](http://www.hotelcasavelas.com/suites/rooms.aspx "Accommodations")
   * [ Location ](http://www.hotelcasavelas.com/location.aspx "Location")
+  * [ Promotions ](http://www.hotelcasavelas.com/promotions.aspx "Promotions")
   * [ Home ](http://www.hotelcasavelas.com/ "Home")
 
 
