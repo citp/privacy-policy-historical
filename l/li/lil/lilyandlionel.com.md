@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilyandlionel.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126144047id_/http%3A//lilyandlionel.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilyandlionel.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618085616id_/http%3A//lilyandlionel.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy · Lily and Lionel
 
