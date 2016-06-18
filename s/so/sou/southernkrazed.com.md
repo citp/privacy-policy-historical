@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernkrazed.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123006id_/http%3A//southernkrazed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernkrazed.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618201916id_/http%3A//southernkrazed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Southern Krazed
 
@@ -79,7 +79,7 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 01/07/2011
+This policy was last modified on 04/11/2016.
 
 **Third Party Advertising**
 
@@ -92,4 +92,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://southernkrazed.com  
-diane@southernkrazed.com
+bbenrobinson@gmail.com
