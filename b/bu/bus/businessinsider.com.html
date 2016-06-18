@@ -1,25 +1,22 @@
-<!--The following is the downloaded HTML source of the businessinsider.com privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212041839id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the businessinsider.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618070030id_/http%3A//businessinsider.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-type" content="text/html;charset=utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=I2I9M2yx"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NS64GV"></script><script async="" src="http://cdn.taboola.com/libtrc/businessinsider/loader.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ8EUVRACgUEUlVRBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NS64GV"></script><script async="" src="http://cdn.taboola.com/libtrc/businessinsider/loader.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ8EUVRACQAFVVdbAQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
     <title>Privacy Policy - Business Insider</title>
     <meta name="date" content="2007-10-02">
 <meta name="sailthru.date" content="2007-10-02">
-<meta name="news_keywords" content="Business Insider">
-<meta name="sailthru.tags" content="Business Insider">
-<meta name="description" content="Effective Date: June 26, 2014.
- 1....">
-<meta name="sailthru.description" content="Effective Date: June 26, 2014.
- 1....">
+<meta name="news_keywords" content="privacy policy, Business Insider">
+<meta name="sailthru.tags" content="privacy policy, Business Insider">
+<meta name="description" content="Effective Date: June 26, 2014. 1....">
+<meta name="sailthru.description" content="Effective Date: June 26, 2014. 1....">
 <meta name="title" content="Privacy Policy">
 <meta name="sailthru.verticals" content="none">
 <meta name="sailthru.title" content="Privacy Policy">
 <meta name="sailthru.author" content="Business Insider">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Effective Date: June 26, 2014.
- 1....">
+<meta property="og:description" content="Effective Date: June 26, 2014. 1....">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.businessinsider.com/privacy-policy">
 <meta property="og:site_name" content="Business Insider">
@@ -28,27 +25,31 @@
 <meta property="author" content="Business Insider">
 <meta name="twitter:url" content="http://www.businessinsider.com/privacy-policy">
 <meta name="twitter:title" content="Privacy Policy">
-<meta name="twitter:description" content="Effective Date: June 26, 2014.
- 1....">
+<meta name="twitter:description" content="Effective Date: June 26, 2014. 1....">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="businessinsider">
 <meta property="article:author" content="http://www.businessinsider.com/author/business-insider">    
 <link rel="canonical" href="http://www.businessinsider.com/privacy-policy">
 <link rel="alternate" href="http://www.businessinsider.com/privacy-policy" hreflang="x-default">
-    <link href="http://static1.businessinsider.com/assets/css/min-base-us.css?1449782710" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static2.businessinsider.com/assets/css/min-post-us.css?1449782710" media="screen" rel="stylesheet" type="text/css">
-<link href="" rel="syndication-source">    <link type="text/css" rel="stylesheet" media="print" href="http://static3.businessinsider.com/assets/css/print.css?1449782710">
-    
+<link rel="alternate" href="http://www.thisisinsider.com/" hreflang="en-GB">
+    <link href="http://static1.businessinsider.com/assets/css/min-base-us.css?1466185851" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static2.businessinsider.com/assets/css/min-post-us.css?1466185851" media="screen" rel="stylesheet" type="text/css">
+<link href="" rel="syndication-source">    <link type="text/css" rel="stylesheet" media="print" href="http://static3.businessinsider.com/assets/css/print.css?1466185851">
+
+    <!-- Index Exchange - start -->
+                <script type="text/javascript" src="http://js.indexww.com/ht/ls-business-insider.js" async=""></script>
+        <!-- Index Exchange - end -->
+
     <script type="text/javascript">
         //this should be refactored to the BI.Google_Plus object, however the BI core library will need to be moved to above the headScript call
-        window.gPlusConfigs = {client_id : '551214076990-h27puiaonnlg9a9772gq3qbe9nk6qnno.apps.googleusercontent.com', base_domain: 'businessinsider.com'}; 
+        window.gPlusConfigs = {client_id : '551214076990-h27puiaonnlg9a9772gq3qbe9nk6qnno.apps.googleusercontent.com', base_domain: 'businessinsider.com'};
     </script>
 
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="http://static3.businessinsider.com/assets/js/min2.js?1449782710"></script>
+<script type="text/javascript" src="http://static3.businessinsider.com/assets/js/min2.js?1466185851"></script>
 <script type="application/ld+json">
     //<![CDATA[
-    {"@context":"http:\/\/schema.org","@type":"NewsArticle","headline":"Privacy Policy","url":"http:\/\/www.businessinsider.com\/privacy-policy","thumbnailUrl":null,"dateCreated":"2007-10-02T21:27:00Z","articleSection":null,"creator":"Business Insider","keywords":[]}    //]]>
+    {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http://www.businessinsider.com/privacy-policy"},"headline":"Privacy Policy","thumbnailUrl":null,"image":{"@type":"ImageObject","url":null,"height":null,"width":null},"datePublished":"2007-10-02T21:27:00Z","dateModified":"2016-05-25T02:39:19Z","dateCreated":"2007-10-02T21:27:00Z","keywords":["privacy policy"],"author":{"@type":"Person","name":"Business Insider"},"name":"privacy-policy","publisher":{"@type":"Organization","name":"Business Insider","logo":{"@type":"ImageObject","url":"http://static1.businessinsider.com/assets/images/us/logos/og-image-logo.png"}},"description":"Effective Date: June 26, 2014.\n1...."}    //]]>
 </script>
 <script type="text/javascript">
     //<![CDATA[
@@ -62,7 +63,7 @@
     //<![CDATA[
     
         Author = "Business Insider";
-        Category = "";
+        Category = "privacy policy";
         AuthorType = "Staff";
         Editor = "Business Insider";
         BIISub = "none"
@@ -80,7 +81,15 @@
         BI.comments.filterPundits = 1;
         BI.comments.getAllComments = 1;
             //]]>
-</script>    <!-- optimizely desktop -->
+</script>    <!-- Ooyala Head -->
+            <script src="http://static3.businessinsider.com/assets/js/app/partners/ooyala/core.min.js"></script>
+        <script src="http://static3.businessinsider.com/assets/js/app/partners/ooyala/main_html5.min.js"></script>
+        <script src="http://static1.businessinsider.com/assets/js/app/partners/ooyala/html5-skin.min.js"></script>
+        <script src="http://static1.businessinsider.com/assets/js/app/partners/ooyala/discovery_api.min.js"></script>
+        <script src="http://static3.businessinsider.com/assets/js/app/partners/ooyala/google_ima.min.js"></script>
+        <link rel="stylesheet" href="//player.ooyala.com/static/v4/stable/4.2.9/skin-plugin/html5-skin.min.css">
+        <!-- /Ooyala Head -->
+    <!-- optimizely desktop -->
         <!-- End optimizely desktop -->
 
     <!--Tech Insider Pinterest-->
@@ -138,28 +147,30 @@
     <!-- Kissmetrics -->
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds2.feedburner.com/businessinsider">
-    
-    <link rel="apple-touch-icon" sizes="57x57" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-57x57.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="60x60" href="http://static3.businessinsider.com/assets/images/us/favicons/apple-touch-icon-60x60.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="72x72" href="http://static3.businessinsider.com/assets/images/us/favicons/apple-touch-icon-72x72.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="76x76" href="http://static4.businessinsider.com/assets/images/us/favicons/apple-touch-icon-76x76.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="114x114" href="http://static2.businessinsider.com/assets/images/us/favicons/apple-touch-icon-114x114.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="120x120" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-120x120.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="144x144" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-144x144.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="152x152" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-152x152.png?v=zXXjpe0lwg">
-<link rel="apple-touch-icon" sizes="180x180" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-180x180.png?v=zXXjpe0lwg">
-<link rel="icon" type="image/png" href="http://static3.businessinsider.com/assets/images/us/favicons/favicon-32x32.png?v=zXXjpe0lwg" sizes="32x32">
-<link rel="icon" type="image/png" href="http://static1.businessinsider.com/assets/images/us/favicons/android-chrome-192x192.png?v=zXXjpe0lwg" sizes="192x192">
-<link rel="icon" type="image/png" href="http://static1.businessinsider.com/assets/images/us/favicons/favicon-96x96.png?v=zXXjpe0lwg" sizes="96x96">
-<link rel="icon" type="image/png" href="http://static3.businessinsider.com/assets/images/us/favicons/favicon-16x16.png?v=zXXjpe0lwg" sizes="16x16">
-<link rel="manifest" href="http://static1.businessinsider.com/assets/images/us/favicons/manifest.json?v=zXXjpe0lwg">
-<link rel="shortcut icon" href="http://static3.businessinsider.com/assets/images/us/favicons/favicon.ico?v=zXXjpe0lwg">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="http://static3.businessinsider.com/assets/images/us/favicons/apple-touch-icon-57x57.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="60x60" href="http://static2.businessinsider.com/assets/images/us/favicons/apple-touch-icon-60x60.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="72x72" href="http://static3.businessinsider.com/assets/images/us/favicons/apple-touch-icon-72x72.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="76x76" href="http://static6.businessinsider.com/assets/images/us/favicons/apple-touch-icon-76x76.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="114x114" href="http://static2.businessinsider.com/assets/images/us/favicons/apple-touch-icon-114x114.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="120x120" href="http://static5.businessinsider.com/assets/images/us/favicons/apple-touch-icon-120x120.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="144x144" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-144x144.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="152x152" href="http://static1.businessinsider.com/assets/images/us/favicons/apple-touch-icon-152x152.png?v=BI-US-2016-03-31">
+<link rel="apple-touch-icon" sizes="180x180" href="http://static3.businessinsider.com/assets/images/us/favicons/apple-touch-icon-180x180.png?v=BI-US-2016-03-31">
+<link rel="icon" type="image/png" href="http://static1.businessinsider.com/assets/images/us/favicons/favicon-32x32.png?v=BI-US-2016-03-31" sizes="32x32">
+<link rel="icon" type="image/png" href="http://static1.businessinsider.com/assets/images/us/favicons/android-chrome-192x192.png?v=BI-US-2016-03-31" sizes="192x192">
+<link rel="icon" type="image/png" href="http://static2.businessinsider.com/assets/images/us/favicons/favicon-96x96.png?v=BI-US-2016-03-31" sizes="96x96">
+<link rel="icon" type="image/png" href="http://static5.businessinsider.com/assets/images/us/favicons/favicon-16x16.png?v=BI-US-2016-03-31" sizes="16x16">
+<link rel="manifest" href="http://static5.businessinsider.com/assets/images/us/favicons/manifest.json?v=BI-US-2016-03-31">
+<link rel="mask-icon" href="http://static6.businessinsider.com/assets/images/us/favicons/safari-pinned-tab.svg?v=BI-US-2016-03-31" color="#185f7c">
+<link rel="shortcut icon" href="http://static3.businessinsider.com/assets/images/us/favicons/favicon.ico?v=BI-US-2016-03-31">
 <meta name="apple-mobile-web-app-title" content="Business Insider">
 <meta name="application-name" content="Business Insider">
-<meta name="msapplication-TileColor" content="#1d5f7b">
-<meta name="msapplication-TileImage" content="http://static6.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=zXXjpe0lwg">
-<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-TileColor" content="#185f7c">
+<meta name="msapplication-TileImage" content="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31">
+<meta name="theme-color" content="#185f7c">
 <meta name="linkedin:owner" content="mid:1d5f7b">
+
     <!--[if gte IE 9]>
         <meta name="application-name" content="Business Insider - Home"/>
         <meta name="msapplication-tooltip" content="Start the page in Site Mode"/>
@@ -174,6 +185,7 @@
         <meta name="msapplication-task" content="name=Strategy;action-uri=http://www.businessinsider.com/warroom;icon-uri=http://www.businessinsider.com/favicon.ico"/>
     <![endif]-->
 
+    <script type="text/javascript">BI.site = 'US';</script>
     <script type="text/javascript">BI.siteURI = 'http://www.businessinsider.com';</script>
     <script type="text/javascript">BI.secureURI = 'https://www.businessinsider.com';</script>
     <script type="text/javascript">BI.staticURI = 'http://static1.businessinsider.com';</script>
@@ -181,8 +193,8 @@
     <script type="text/javascript">BI.sailthruHorizonURI = 'horizon.businessinsider.com';</script>
         <script type="text/javascript">BI.vertical='Business Insider';</script>
 
-    <script type="text/javascript">BI.configs.ads.post_load_ad_buffer= 100;</script>
-    <script type="text/javascript">BI.configs.ads.subnav_sticky_ad_buffer = 0;</script>
+    <script type="text/javascript">BI.configs.ads.post_load_ad_buffer= 50;</script>
+    <script type="text/javascript">BI.configs.ads.subnav_sticky_ad_buffer = 250;</script>
 
     
     <script type="text/javascript" src="//platform.linkedin.com/in.js">
@@ -193,7 +205,7 @@
 
 <!-- Taboola head -->
 
-            <!-- Standard Taboola Script -->
+        <!-- Standard Taboola Script -->
         <script type="text/javascript">
             window._taboola = window._taboola || [];
             _taboola.push({article:'auto'});
@@ -207,7 +219,9 @@
                 'http://cdn.taboola.com/libtrc/businessinsider/loader.js'
             );
         </script>
-    <!-- / Taboola head -->
+<!-- / Taboola head -->
+
+
 </head>
 
 
@@ -215,7 +229,7 @@
 
 <div data-cookie-notice-container=""></div>
 <!-- print only -->
-<img class="print" src="http://static1.businessinsider.com/assets/images/us/logos/logo-print.png">
+<img class="print" src="http://static2.businessinsider.com/assets/images/us/logos/logo-print-v1.png">
 
 <!-- FB Connect -->
 <div id="fb-root" data-bi-facebook-root="155043519637"></div>
@@ -244,7 +258,8 @@
                         <span></span>
                     </div>
                 </div>
-                <a href="/" class="sprites logo"></a>
+                                    <a href="/" class="sprites logo"></a>
+                
             </div>
             <div class="span6 span6-mh">
                                                                 </div>
@@ -275,7 +290,7 @@
         <a href="//www.linkedin.com/company/business-insider" title="Connect with us on LinkedIn" aria-label="Connect with us on LinkedIn" target="_blank"><i class="fa fa-linkedin ks-header-linkedin"></i></a>
     </li>
                         
-                                                    <li class=""><a href="http://intelligence.businessinsider.com">BI Intelligence</a></li>
+                                                    <li class=""><a href="http://intelligence.businessinsider.com/?utm_source=businessinsider&amp;utm_medium=site_header&amp;utm_term=bi_site_header&amp;utm_content=bi_site_header&amp;utm_campaign=bi_site_header">BI Intelligence</a></li>
                         
                                                     <li class="login"><a href="/events">Events</a></li>
                                             </ul>
@@ -284,7 +299,7 @@
                         
                         
                         
-                                                <span data-bi-ajax-route="/esi/user_menubar?0=json%3A%5B%5D"></span>                </ul></div>
+                                                                        <span data-bi-ajax-route="/esi/user_menubar?0=json%3A%5B%5D"></span>                </ul></div>
             </div>
         </div>
     </div>
@@ -348,8 +363,8 @@
                                         <div class="ad-subnav-container">
                     <div class="subnav-content leaderboard" data-sticky="leaderboard">
                         
-
-	<div data-bi-ad="" class="ad dfp rubicon" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-pos="atf" data-region="Subnav" data-responsive="null" data-rubicon_zone_id="" data-sizes="728x90,970x250,970x90" data-tag="" data-url="/privacy-policy" data-views="10001-500000"></div>
+	<div data-bi-ad="" class="ad dfp" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-pos="atf" data-region="Subnav" data-responsive="null" data-sizes="728x90,970x250,970x90" data-tag="privacy-policy" data-url="/privacy-policy" data-views="10001-500000">
+			</div>
 
 	<script type="text/javascript">
 		(function() {
@@ -420,12 +435,29 @@
 </div>
 
 
+<div id="share-embed-tmpl">
+    <div id="shareEmbedModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="shareEmbedModalLabel" aria-hidden="true">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="shareEmbedModalLabel"></h3>
+      </div>
+      <div class="modal-body">
 
-<div class="content post">
+     
+<textarea rows="10" class="embed-textarea">     
+
+</textarea>
+
+
+      </div>
+   </div>
+</div>
+
+<div class="content post js-post">
     <div class="sl-layout-post">
         
 <!-- Sponsored Post Tag -->
-
+    
 <h1>Privacy Policy</h1>
 
 <div id="content" class="content">
@@ -434,7 +466,7 @@
         <div class="flex byline">
 			<div class="flex-auto byline-icon">
 							<a class="author-photo author-photo-square" href="http://www.businessinsider.com/author/business-insider">
-                    <img class="author" src="http://static4.businessinsider.com/image/4b633fd90000000000c0c52a-50-50/business-insider.jpg">
+                    <img class="author" src="http://static1.businessinsider.com/image/56d60191918a0f8c507893ef-100-100/business-insider.jpg">
                 </a>
 					</div>
 	    
@@ -455,10 +487,10 @@
 </li>		        			
 		    				<li class="pageviews">
 					<span class="svg sprites very-hot views"></span>
-					<span class="very-hot" title="views">61,046</span>
+					<span class="very-hot" title="views">73,750</span>
 				</li>
 		    
-		    
+		    			    			
 			</ul>
 
 		</div>
@@ -477,13 +509,13 @@
             </a>
         </li>
         <li class="linkedin ks-byline-linkedin">
-            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.businessinsider.com/privacy-policy&amp;title=Privacy Policy&amp;summary=Effective Date: June 26, 2014.&#10; 1...." title="linkedin" class="popup">
+            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.businessinsider.com/privacy-policy&amp;title=Privacy Policy&amp;summary=Effective Date: June 26, 2014. 1...." title="linkedin" class="popup">
                 <i class="fa fa-linkedin"></i>
                 <span class="text">linkedin</span>
             </a>
         </li>
         <li class="twitter ks-byline-tweet">
-            <a href="http://twitter.com/share?url=http://bit.ly/b5kdLx&amp;via=businessinsider&amp;text=Privacy Policy" title="twitter" class="popup">
+            <a href="http://twitter.com/share?url=http://read.bi/b5kdLx&amp;via=businessinsider&amp;text=Privacy Policy" title="twitter" class="popup">
                 <i class="fa fa-twitter"></i>
                 <span class="text">twitter</span>
             </a>
@@ -513,146 +545,331 @@
     <div class="clear-both">
 		<div class="KonaBody post-content">
 			
-            
-<p>Effective Date: June 26, 2014.</p>
-<p><strong>1. Overview</strong></p>
-<p>Welcome to the websites, applications and services provided by Business Insider, Inc. (“Business Insider”), which include without limitation <a href="http://www.businessinsider.com">www.businessinsider.com</a>, www.techinsider.io and <a href="http://www.intelligence.businessinsider.com">www.intelligence.businessinsider.com</a> (the “Sites”). This Privacy Policy, together with any documents it expressly incorporates by reference, governs your access to and use of the Sites on all platforms, whether accessed via web browser, mobile device, non-browser application, or e-mail, and to our paid subscription service. It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Sites. In this Privacy Policy, “you” and “your” refer to you as the user of the Sites. “Business Insider,” “we,” “us” and “our” refer to Business Insider, Inc. and our successors, partners, affiliates, subsidiaries and assigns.</p>
-<p>Business Insider takes privacy concerns seriously. This Privacy Policy outlines what information is collected when you visit the Sites. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.</p>
-<p>The Sites contain links to websites hosted by third parties. We are not responsible for the privacy practices or content of such third-party websites. We encourage you to be aware when you leave the Sites and to read the privacy statements of each and every website that collects Personally Identifiable Information (“PII”) about you.</p>
-<p>By using the Sites, you expressly accept and agree to be bound and abide by this Privacy Policy and our&nbsp;<a href="http://www.businessinsider.com/terms">Terms of Use</a>, incorporated herein by reference. If you do not agree to be bound by this Privacy Policy, you may not access or use the Sites.</p>
-<p><strong>2. Changes to This Policy</strong></p>
-<p>Business Insider may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy. Your continued use of Business Insider after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates.</p>
-<p><strong>3. Information We Collect About You</strong></p>
-<p>Business Insider gathers information about its users mainly to enhance their experience on the Sites. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider, along with our advertising partners, collects information about you anonymously to provide you with targeted advertising messages that are catered to your location, interests, and the Sites behaviors. You can opt out of information gathering for advertising purposes with certain of our third-party partners below. This collected information includes 1) personal information you provide to us and 2) non-personal information we automatically collect through technology.</p>
-<p>&nbsp; &nbsp; &nbsp;a. Personal Information You Provide To Business Insider</p>
-<p>When using the Sites, you may provide Business Insider with PII, including but not limited to:</p>
-<ul>
-<li>Personal contact information (name, zip code, e-mail address, and phone numbers)</li>
-<li>User names (including social media user names)</li>
-<li>Correspondence with Business Insider staff</li>
-<li>Billing Information (for paid Business Insider products)</li>
-<li>Contact information for Business Insider event tickets</li>
-</ul>
-<p>You may also provide information to be published or displayed on public areas of the Sites (“User Contributions”). Your User Contributions are posted on the Sites at your own risk. We cannot control the actions of other users of the Sites who view your User Contributions or with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
-<p>If you are a Registered User and under the age of 18 years old, Business Insider allows you to request removal of your User Contributions. For more information on the removal of User Contributions, see our&nbsp;<a href="http://www.businessinsider.com/terms">Terms of Use</a>.</p>
-<p>You are not required to provide Business Insider with any PII in order to use the Sites. Certain PII you provide to us can be updated through the account settings of registered users. PII that is collected is the sole property of Business Insider, and that information is not distributed to third parties unless required by law.</p>
-<p>&nbsp; &nbsp; &nbsp;b. Non-Personal Information We Automatically Collect About You</p>
-<p>This type of information is collected anonymously through the use of technology, such as third-party cookies, web beacons, and other similar methods. No PII is collected through these methods. Non-personal information we automatically collect may include, but is not limited to:</p>
-<ul>
-<li>Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)</li>
-<li>Analytics information (time spent on the Sites, number of pages viewed, referring web page, browsing information, social sharing, etc.)</li>
-<li>Advertising information (type of ads seen, number of times ads were served, pages where the ads were served, etc.)&nbsp;</li>
-<li>Information collected through cookies, web beacons, and similar technologies.</li>
-</ul>
-<p>Some of the technology used includes but is not limited to:</p>
-<p>Cookies: A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of the Sites. Unless you have adjusted your browser setting so that it will refuse cookies, the Sites will issue cookies when you direct your browser to the Sites.</p>
-<p>Web beacons: The Sites content may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Business Insider, for example, to count users who have accessed the Sites and for other related statistics, for example, recording the popularity of certain Sites’s content and verifying system and server integrity.</p>
-<p>For more information on cookies, web beacons, and other similar technologies, please visit the&nbsp;<a href="http://www.iab.net/research/1494">Internet Advertising Bureau’s Interactive Glossary</a>.</p>
-<p>&nbsp; &nbsp; &nbsp;c. Information Third-Parties Collect About You</p>
-<p>This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. Information third parties collect about you includes but is not limited to:</p>
-<ul>
-<li>Demographic information (gender, age, HHI, job title, interests, etc.)</li>
-<li>Advertising information (clicks, interactions, post-impression performance data)</li>
-<li>Social networking information (Facebook, Twitter, LinkedIn, etc.)</li>
-<li>Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)</li>
-</ul>
-<p><strong>4. What Is Done With The Collected Information?</strong></p>
-<p>Sites Content: Business Insider partners with Sailthru to provide you with content that is relevant and personalized to your reading interests. You can read&nbsp;<a href="http://www.sailthru.com/legal/#privacy">Sailthru's privacy policy here</a>.</p>
-<p>Email Communications: Business Insider may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the Sites, alerts, and promotional messages from advertising partners.</p>
-<p>Sites Analysis: Business Insider uses the information collected through third-party sources to learn and analyze how the Sites are used. We use this information to enhance the Sites by making improvements based on the data collected.</p>
-<p>Advertising: Display Ads are delivered from our adserver Google's DoubleClick. We may use third-party advertising companies to collect data and/or serve ads when you visit our Sites. These companies may use information (not including your name, address, email address, telephone number, or any PII) about your visits to this and other Web sites in order to&nbsp;deliver targeted ads to you, your location, and your interests.&nbsp;If you would like more information about this practice and to know your choices about not having this information used by these companies, visit&nbsp;<a href="http://networkadvertising.org/">http://networkadvertising.org</a>.&nbsp;We also use third-party ad platforms (such as Google AdSense, Google Ad Exchange, and The Rubicon Project) to deliver ads on our Sites and in our mobile apps. No PII is exchanged with any type of advertising message on Business Insider. We also use a Data Management Platform (DMP) from Krux to store our anonymous data. To learn moure about Krux's privacy policy please visit&nbsp;http://www.krux.com/krux_privacy/.</p>
-<p><strong>5. How We Share Information Collected</strong></p>
-<p>There are very few specific circumstances when your information is shared outside of the company. These circumstances include but are not limited to:</p>
-<ul>
-<li>If you post User Contributions or use social media applications in conjunction with the Sites, the information you submit (including your social media user name) is viewable to the public.</li>
-<li>Business Insider may need to disclose PII to comply with a judicial proceeding, a court order, or any other legal process.</li>
-<li>We employ third-party services to distribute email newsletters, and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.</li>
-<li>In the event Business Insider goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ PII will, in most instances, be part of the assets transferred.&nbsp;</li>
-</ul>
-<p><strong>6. Email Policy</strong></p>
-<p>Business Insider is committed to complying with all U.S. privacy laws, such as the CAN-SPAM Act, and all&nbsp;other applicable privacy laws, such as Canada’s Anti-Spam Legislation, and it is our intention that our&nbsp;email communications be pursuant to such laws.</p>
-<p>With the exceptions noted above, Business Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please login to your profile to change your newsletter settings.</p>
-<p><strong>7. Children Under 13</strong></p>
-<p>Business Insider is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Business Insider. Business Insider does not knowingly target advertising to, or collect information from, children under the age of 13. If you are under 13, do not use or provide any information on the Sites or on or through any of its features, register on the Sites, use any of the interactive or public comment features on the Sites, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at feedback@businessinsider.com.</p>
-<p><strong>8. Data Retention</strong></p>
-<p>Your personal information is retained for as long as necessary to fulfill the purposes outlined in this Privacy Policy.</p>
-<p><strong>9. Security</strong></p>
-<p>Business Insider uses commercially reasonable controls to safeguard data against unauthorized use and theft.</p>
-<p><strong>10. Third-Party Privacy and Opt-Out Information</strong></p>
-<p>Business Insider supports Do Not Track (“DNT”). If you enable DNT in your web browser, we stop collecting information about you consistent with the DNT setting. Below are links to the privacy policies of some of our partners and links to advertising opt outs to help you to further manage your online privacy. Google's Doubleclick technology powers the adserving on Business Insider. For more information about Google and DoubleClick’s privacy policy, go to&nbsp;<a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads</a>. To opt-out from our DMP, please visit this link,&nbsp;http://www.krux.com/krux_privacy/consumer_choice/.</p>
-<p>Google's Ad Exchange and The Rubicon Project help deliver ads on Business Insider and its mobile apps. If you want to opt-out of receiving targeted ads from Rubicon,&nbsp;<a href="http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/">visit this link</a>. Opting out does not mean you will not get ads from Rubicon; it means they will not collect non-personal information about you, nor will they serve ads targeted to your interests. For more information about Rubicon's privacy policy, go to&nbsp;<a href="http://www.rubiconproject.com/privacy/">http://www.rubiconproject.com/privacy</a>.</p>
-<p>Network Advertising Initiative (NAI) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' non-personal information tracking, visit the NAI opt-out section. Opting out does not mean you will not receive advertising on Business Insider. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.</p>
-<p><strong>11. Contact Us</strong></p>
-<p>If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at&nbsp;150 Fifth Avenue, 8th Floor, New York, NY 10011.</p>
-<!--
+            <!--?xml version="1.0" encoding="UTF-8"?-->
+<p>
+  Effective Date: June 26, 2014.
+</p><p>
+  <strong>1. Overview</strong>
+</p><p>
+  Welcome to the websites, applications and services provided by
+  Business Insider, Inc. ("Business Insider"), which include
+  without limitation <a href="http://www.businessinsider.com">www.businessinsider.com</a>,
+  <a href="http://www.techinsider.io">www.techinsider.io</a>,
+  <a href="http://www.thisisinsider.com">www.thisisinsider.com</a>,
+  and <a href="http://www.intelligence.businessinsider.com">www.intelligence.businessinsider.com</a>
+  (the "Sites"). This Privacy Policy, together with any documents
+  it expressly incorporates by reference, governs your access to
+  and use of the Sites on all platforms, whether accessed via web
+  browser, mobile device, non-browser application, or e-mail, and
+  to our paid subscription service. It does not apply to
+  information collected by any third party, including through any
+  application or content (including advertising) that may link to
+  or be accessible from or on the Sites. In this Privacy Policy,
+  "you" and "your" refer to you as the user of the Sites. "Business
+  Insider," "we," "us" and "our" refer to Business Insider, Inc.
+  and our successors, partners, affiliates, subsidiaries and
+  assigns.
+</p><p>
+  Business Insider takes privacy concerns seriously. This Privacy
+  Policy outlines what information is collected when you visit the
+  Sites. Please read this policy carefully to understand our
+  policies and practices regarding your information and how we will
+  treat it.
+</p><p>
+  The Sites contain links to websites hosted by third parties. We
+  are not responsible for the privacy practices or content of such
+  third-party websites. We encourage you to be aware when you leave
+  the Sites and to read the privacy statements of each and every
+  website that collects Personally Identifiable Information ("PII")
+  about you.
+</p><p>
+  By using the Sites, you expressly accept and agree to be bound
+  and abide by this Privacy Policy and our <a href="http://www.businessinsider.com/terms">Terms of Use</a>,
+  incorporated herein by reference. If you do not agree to be bound
+  by this Privacy Policy, you may not access or use the Sites.
+</p>
+	<div data-bi-ad="" class="ad dfp" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Desktop In Post Ad" data-responsive="[[[1240,0],[[728,90],[800,100],[550,300]]],[[0,0],[[300,250],[600,100],[550,300]]]]" data-sizes="728x90,800x100,300x250,600x100,550x300" data-tag="privacy-policy" data-url="/privacy-policy" data-views="10001-500000">
+			</div>
 
-<p>Effective Date: This policy was last updated on 6/4/2012.</p>
-<p><strong><strong>Overview</strong></strong></p>
-<p>This privacy policy applies to Business Insider (<a href="http://www.businessinsider.com">www.businessinsider.com</a>) on all platforms (web, mobile web, apps, emails).</p>
-<p>Business Insider contains links to other sites and we are not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects Personally Identifiable Information (PII).</p>
-<p>Business Insider takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site.&nbsp;</p>
-<p>Business Insider gathers information about its users mainly to enhance their experience on the site and on email newsletters. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider, along with our advertising partners, gather information about you anonymously to provide you with more targeted advertising messages that are catered to your location and interests. You can opt out of information gathering for <span>advertising purposes below</span>.</p>
-<p><strong>Information Collected</strong></p>
-<p><em><strong>Personal Information/ Information You Directly Provide To Business Insider (BI):</strong></em></p>
-<p>When registering, commenting, or signing up for newsletters, you may provide Business Insider with personal information, including but not limited to:</p>
-<ul>
-<li>Personal contact information (name, zip code, e-mail address, phone numbers)</li>
-<li>Comments</li>
-<li>User names (including social media user names)</li>
-<li>Correspondence with <span>Business Insider</span>&nbsp;staff</li>
-<li>Billing Information (for paid <span>Business Insider</span>&nbsp;products)</li>
-</ul>
-<p>You are not required to provide Business Insider with any personal information in order to use the site. All information that is collected is the sole property of the site, and that information is not distributed outside of the site unless required by law.</p>
-<p><strong><em>Non-Personal Information Automatically Collected</em> </strong></p>
-<p>This type of information is collected anonymously through the use of tracking technology using third-party cookies, web beacons, and other similar methods. No Personally Identifiable Information (PII) is collected through this methodology. &nbsp;This information may include, but is not limited to:</p>
-<ul>
-<li>Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)</li>
-<li>Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, etc.)</li>
-<li>Advertising information (type of ads seen, number of times ads were served, pages where the ads were served)</li>
-<li>Information collected through HTML cookies, web beacons, and similar technologies.</li>
-</ul>
-<p><em><strong>Information Collected Through Third-Party Sources</strong></em></p>
-<p>This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. This type of information includes but is not limited to:</p>
-<ul>
-<li>Demographic information (gender, age, HHI, job title, interests, etc.)</li>
-<li>Advertising information (clicks, interactions, post-impression performance data)</li>
-<li>Social networking information (Facebook, Twitter, LinkedIn, etc.)</li>
-<li>Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)</li>
-</ul>
-<p><strong>What Is Done With The Collected Information?</strong></p>
-<p><em>Site Content</em>: Business Insider partners with Sailthru to provide you with content that is relevant and personalized to your reading interests. You can read <a href="https://www.sailthru.com/legal#privacy">Sailthru's privacy policy here</a>.</p>
-<p><em>Email Communications</em>: Business Insider may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.</p>
-<p><em>Site Analysis</em>: Business Insider uses the information collected through third-party sources to learn and analyze how the site is used. We use this information to enhance the site by making improvements based on the data collected.</p>
-<p><em>Advertising</em>: Display Ads are delivered from our adserver, Open AdSream, powered by WPP&rsquo;s Real Media Group. &nbsp;At times third-party information is used to deliver targeted ads to you, your location, and your interests. We also use Third-Party Ad Platforms (such as Google AdSense and Pubmatic) to deliver ads on our site. No PII is exchanged with any type of advertising message on Business Insider.</p>
-<p><strong>How We Share Information Collected</strong></p>
-<p>There are very few specific circumstances when your information is shared outside of the company, these circumstances include but are not limited to:</p>
-<ul>
-<li>If you comment or use the Facebook app on Business Insider, the information you submit (including your social media user name, etc) is viewable to the public.&nbsp;</li>
-<li>
-<p>Business Insider may need to disclose personal information to comply with a judicial proceeding, a court order, or any other legal process.</p>
-</li>
-<li>We employ third-party services to distribute email newsletters and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.<br />&nbsp;</li>
-<li><span>In the event&nbsp;</span>Business<span>&nbsp;Insider</span><span>&nbsp;goes through a business transition, such as a merger, acquisition by another&nbsp;</span>company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</li>
-</ul>
-<p><strong>Email Policy</strong></p>
-<p>Business Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please <a href="https://www.businessinsider.com/login">login</a> to your profile to change your newsletter settings.</p>
-<p><strong>Notices</strong></p>
-<p><em>Children Under 13</em>: Business Insider does not knowingly target adverting to, or collect information from children under the age of 13.</p>
-<p><em>Data Retention</em>: Your personal information is retained for as long as necessary to fulfill the purposes outlined in this privacy policy.&nbsp;</p>
-<p><em>Security</em>: Business Insider uses all reasonable means to safeguard data against unauthorized use and theft.</p>
-<p><em>Changes To This Policy</em>: Business Insider may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy.</p>
-<p><em>Questions/Suggestions</em>: If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to <a href="mailto:feedback@businessinsider.com">feedback@businessinsider.com</a>. You can also reach us by mail at 257 Park Avenue South, 13<sup>th</sup> Floor, New York, NY, 10010</p>
-<p><strong>Cookies</strong></p>
-<p>A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user&rsquo;s web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit the <a href="http://www.iab.net/insights_research/1494">IAB&rsquo;s web site</a>.</p>
-<p><strong>For More Information</strong></p>
-<p>Below are links to the privacy policies of some of our partners and links to advertising opt outs.</p>
-<p><a href="http://www.realmedia.com/en-us/pages/privacy_policy.html">Real Media</a>&rsquo;s Open AdStream technology powers the adserving on Business Insider.</p>
-<p><a href="http://www.pubmatic.com/privacy-policy">Pubmatic</a>&nbsp;helps deliver ads on Business Insider.&nbsp;If you want to opt-out of receiving <span>targeted&nbsp;</span>ads from Pubmatic, <a href="http://www.pubmatic.com/opt-out">visit this link</a>. Opting out does not mean you will not get ads from Pubmatic; it means <span>Pubmatic</span>&nbsp;will not collected non-personal information about you, nor will it serve ads targeted to your interests.</p>
-<p><a href="http://www.networkadvertising.org/managing/learn_more.asp">Network Advertising Initiative (NAI)</a> is part of the industry&rsquo;s self-regulatory initiative.&nbsp;If you would like to opt out of third-party partners' non-personal information tracking, visit the <a href="http://www.networkadvertising.org/managing/opt_out.asp">NAI opt-out</a> section. Opting out does not mean you will not receive advertising on Business Insider. It ensure that your non-personal information will not be automatically tracked by the sites you have opted out of.</p>
-<p><strong>Contact Us</strong></p>
-<p>If you have questions about privacy please contact us at <a href="mailto:feedback@businessinsider.com">feedback@businessinsider.com</a>.</p>
-
--->
+	<script type="text/javascript">
+		(function() {
+			'use strict';
+			// Notify the DFP code that a new ad has just been rendered
+			amplify.publish('adRender');
+		}());
+	</script>
+<p></p><p>
+  <strong>2. Changes to This Policy</strong>
+</p><p>
+  Business Insider may at any time change this Privacy Policy to
+  reflect any changes in our practices, service offerings, or
+  market regulations. If the policy is updated, we will update the
+  Effective Date at the top of the policy. Your continued use of
+  Business Insider after we make changes is deemed to be acceptance
+  of those changes, so please check this Privacy Policy
+  periodically for updates.
+</p><p>
+  <strong>3. Information We Collect About You</strong>
+</p><p>
+  Business Insider gathers information about its users mainly to
+  enhance their experience on the Sites. This information is used
+  to bring you content that is relevant to your interests.
+  Additionally, Business Insider, along with our advertising
+  partners, collects information about you anonymously to provide
+  you with targeted advertising messages that are catered to your
+  location, interests, and the Sites behaviors. You can opt out of
+  information gathering for advertising purposes with certain of
+  our third-party partners below. This collected information
+  includes 1) personal information you provide to us and 2)
+  non-personal information we automatically collect through
+  technology.
+</p><p>
+       a. Personal Information You Provide To Business Insider
+</p><p>
+  When using the Sites, you may provide Business Insider with PII,
+  including but not limited to:
+</p><ul>
+  <li>Personal contact information (name, zip code, e-mail address,
+  and phone numbers)
+  </li>
+  <li>User names (including social media user names)
+  </li>
+  <li>Correspondence with Business Insider staff
+  </li>
+  <li>Billing Information (for paid Business Insider products)
+  </li>
+  <li>Contact information for Business Insider event tickets
+  </li>
+</ul><p>
+  You may also provide information to be published or displayed on
+  public areas of the Sites ("User Contributions"). Your User
+  Contributions are posted on the Sites at your own risk. We cannot
+  control the actions of other users of the Sites who view your
+  User Contributions or with whom you may choose to share your User
+  Contributions. Therefore, we cannot and do not guarantee that
+  your User Contributions will not be viewed by unauthorized
+  persons.
+</p><p>
+  If you are a Registered User and under the age of 18 years old,
+  Business Insider allows you to request removal of your User
+  Contributions. For more information on the removal of User
+  Contributions, see our <a href="http://www.businessinsider.com/terms">Terms of Use</a>.
+</p><p>
+  You are not required to provide Business Insider with any PII in
+  order to use the Sites. Certain PII you provide to us can be
+  updated through the account settings of registered users. PII
+  that is collected is the sole property of Business Insider, and
+  that information is not distributed to third parties unless
+  required by law.
+</p><p>
+       b. Non-Personal Information We Automatically Collect About
+  You
+</p><p>
+  This type of information is collected anonymously through the use
+  of technology, such as third-party cookies, web beacons, and
+  other similar methods. No PII is collected through these methods.
+  Non-personal information we automatically collect may include,
+  but is not limited to:
+</p><ul>
+  <li>Hardware/software information (geographic location, IP
+  address, browser type, device type, operating system, bandwidth,
+  etc.)
+  </li>
+  <li>Analytics information (time spent on the Sites, number of
+  pages viewed, referring web page, browsing information, social
+  sharing, etc.)
+  </li>
+  <li>Advertising information (type of ads seen, number of times
+  ads were served, pages where the ads were served, etc.) 
+  </li>
+  <li>Information collected through cookies, web beacons, and
+  similar technologies.
+  </li>
+</ul><p>
+  Some of the technology used includes but is not limited to:
+</p><p>
+  Cookies: A cookie is a small file placed on the hard drive of
+  your computer. You may refuse to accept browser cookies by
+  activating the appropriate setting on your browser. However, if
+  you select this setting, you may be unable to access certain
+  parts of the Sites. Unless you have adjusted your browser setting
+  so that it will refuse cookies, the Sites will issue cookies when
+  you direct your browser to the Sites.
+</p><p>
+  Web beacons: The Sites content may contain small electronic files
+  known as web beacons (also referred to as clear gifs, pixel tags
+  and single-pixel gifs) that permit Business Insider, for example,
+  to count users who have accessed the Sites and for other related
+  statistics, for example, recording the popularity of certain
+  Sites's content and verifying system and server integrity.
+</p><p>
+  For more information on cookies, web beacons, and other similar
+  technologies, please visit the <a href="http://www.iab.net/research/1494">Internet Advertising Bureau's
+  Interactive Glossary</a>.
+</p><p>
+       c. Information Third-Parties Collect About You
+</p><p>
+  This type of information is collected anonymously by approved
+  third-party partners (such as online marketing firms, research
+  companies, social media companies, ad targeting firms, and other
+  partners). None of the information collected by these sources
+  contains any PII. Information third parties collect about you
+  includes but is not limited to:
+</p><ul>
+  <li>Demographic information (gender, age, HHI, job title,
+  interests, etc.)
+  </li>
+  <li>Advertising information (clicks, interactions,
+  post-impression performance data)
+  </li>
+  <li>Social networking information (Facebook, Twitter, LinkedIn,
+  etc.)
+  </li>
+  <li>Research information (data collected from partners such as
+  Nielsen, Comscore, Quantcast, etc.)
+  </li>
+</ul><p>
+  <strong>4. What Is Done With The Collected Information?</strong>
+</p><p>
+  Sites Content: Business Insider partners with Sailthru to provide
+  you with content that is relevant and personalized to your
+  reading interests. You can read <a href="http://www.sailthru.com/legal/#privacy">Sailthru's privacy
+  policy here</a>.
+</p><p>
+  Email Communications: Business Insider may use the information
+  that you submit to send you email communications, such as
+  newsletters, breaking news, information about the Sites, alerts,
+  and promotional messages from advertising partners.
+</p><p>
+  Sites Analysis: Business Insider uses the information collected
+  through third-party sources to learn and analyze how the Sites
+  are used. We use this information to enhance the Sites by making
+  improvements based on the data collected.
+</p><p>
+  Advertising: Display Ads are delivered from our adserver Google's
+  DoubleClick. We may use third-party advertising companies to
+  collect data and/or serve ads when you visit our Sites. These
+  companies may use information (not including your name, address,
+  email address, telephone number, or any PII) about your visits to
+  this and other Web sites in order to deliver targeted ads to you,
+  your location, and your interests. If you would like more
+  information about this practice and to know your choices about
+  not having this information used by these companies, visit
+  <a href="http://networkadvertising.org/">http://networkadvertising.org</a>.
+  We also use third-party ad platforms (such as Google AdSense,
+  Google Ad Exchange, and The Rubicon Project) to deliver ads on
+  our Sites and in our mobile apps. No PII is exchanged with any
+  type of advertising message on Business Insider. We also use a
+  Data Management Platform (DMP) from Krux to store our anonymous
+  data. To learn moure about Krux's privacy policy please visit
+  http://www.krux.com/krux_privacy/.
+</p><p>
+  <strong>5. How We Share Information Collected</strong>
+</p><p>
+  There are very few specific circumstances when your information
+  is shared outside of the company. These circumstances include but
+  are not limited to:
+</p><ul>
+  <li>If you post User Contributions or use social media
+  applications in conjunction with the Sites, the information you
+  submit (including your social media user name) is viewable to the
+  public.
+  </li>
+  <li>Business Insider may need to disclose PII to comply with a
+  judicial proceeding, a court order, or any other legal process.
+  </li>
+  <li>We employ third-party services to distribute email
+  newsletters, and these third-parties have access to specific
+  information only for the purposes of fulfilling contracts on our
+  behalf.
+  </li>
+  <li>In the event Business Insider goes through a business
+  transition, such as a merger, acquisition by another company, or
+  sale of a portion of its assets, users' PII will, in most
+  instances, be part of the assets transferred. 
+  </li>
+</ul><p>
+  <strong>6. Email Policy</strong>
+</p><p>
+  Business Insider is committed to complying with all U.S. privacy
+  laws, such as the CAN-SPAM Act, and all other applicable privacy
+  laws, such as Canada's Anti-Spam Legislation, and it is our
+  intention that our email communications be pursuant to such laws.
+</p><p>
+  With the exceptions noted above, Business Insider does not allow
+  any third-party company to use your email address for commercial
+  purposes without your expressed permission. We will send you
+  newsletter communications, partner sponsorship messages, account
+  alerts, and any other emails you have requested to receive. If
+  you would like to opt-out of any specific newsletters or
+  mailings, please login to your profile to change your newsletter
+  settings.
+</p><p>
+  <strong>7. Children Under 13</strong>
+</p><p>
+  Business Insider is not intended for children under 13 years of
+  age. No one under age 13 may provide any information to or on
+  Business Insider. Business Insider does not knowingly target
+  advertising to, or collect information from, children under the
+  age of 13. If you are under 13, do not use or provide any
+  information on the Sites or on or through any of its features,
+  register on the Sites, use any of the interactive or public
+  comment features on the Sites, or provide any information about
+  yourself to us, including your name, telephone number, email
+  address or any screen name or user name you may use. If we learn
+  we have collected or received personal information from a child
+  under 13 without verification of parental consent, we will delete
+  that information. If you believe we might have any information
+  from or about a child under 13, please contact us at
+  feedback@businessinsider.com.
+</p><p>
+  <strong>8. Data Retention</strong>
+</p><p>
+  Your personal information is retained for as long as necessary to
+  fulfill the purposes outlined in this Privacy Policy.
+</p><p>
+  <strong>9. Security</strong>
+</p><p>
+  Business Insider uses commercially reasonable controls to
+  safeguard data against unauthorized use and theft.
+</p><p>
+  <strong>10. Third-Party Privacy and Opt-Out Information</strong>
+</p><p>
+  Business Insider supports Do Not Track ("DNT"). If you enable DNT
+  in your web browser, we stop collecting information about you
+  consistent with the DNT setting. Below are links to the privacy
+  policies of some of our partners and links to advertising opt
+  outs to help you to further manage your online privacy. Google's
+  Doubleclick technology powers the adserving on Business Insider.
+  For more information about Google and DoubleClick's privacy
+  policy, go to <a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads</a>.
+  To opt-out from our DMP, please visit this link,
+  http://www.krux.com/krux_privacy/consumer_choice/.
+</p><p>
+  Google's Ad Exchange and The Rubicon Project help deliver ads on
+  Business Insider and its mobile apps. If you want to opt-out of
+  receiving targeted ads from Rubicon, <a href="http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/">
+  visit this link</a>. Opting out does not mean you will not get
+  ads from Rubicon; it means they will not collect non-personal
+  information about you, nor will they serve ads targeted to your
+  interests. For more information about Rubicon's privacy policy,
+  go to <a href="http://www.rubiconproject.com/privacy/">http://www.rubiconproject.com/privacy</a>.
+</p><p>
+  Network Advertising Initiative (NAI) is part of the industry's
+  self-regulatory initiative. If you would like to opt out of
+  third-party partners' non-personal information tracking, <a href="http://networkadvertising.org/managing/opt_out.asp">visit the
+  NAI opt-out section</a>. Opting out does not mean you will not
+  receive advertising on Business Insider. It ensures that your
+  non-personal information will not be automatically tracked by the
+  sites you have opted out of.
+</p><p>
+  <strong>11. Contact Us</strong>
+</p><p>
+  If you have any questions or suggestions for this Privacy Policy,
+  please contact the editor of Business Insider or email questions
+  to feedback@businessinsider.com. You can also reach us by mail at
+  150 Fifth Avenue, 8th Floor, New York, NY 10011.
+</p>
                                     
                                     	
 
@@ -663,7 +880,17 @@
 
         
         <!-- Post category tags -->
-		    </div>
+		    <div class="category-wrapper" data-category-wrapper="">
+
+        <div class="tags-top align-right">
+            More:
+
+                                                        <a href="/category/privacy-policy">privacy policy</a>
+            
+                    </div>
+    </div>
+
+    </div>
 </div>
 
         <div id="social-reader-notification" class="alert clear-both" style="display:none;"></div>
@@ -672,7 +899,7 @@
 
             </div>
 
-        
+    
         <div class="bottom-share-module clearfix clear-both">
             <!-- RRSSB BOTTOM POST CALL -->
             
@@ -687,13 +914,13 @@
             </a>
         </li>
         <li class="linkedin ks-sharemodule-linkedin">
-            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.businessinsider.com/privacy-policy&amp;title=Privacy Policy&amp;summary=Effective Date: June 26, 2014.&#10; 1...." title="linkedin" class="popup">
+            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.businessinsider.com/privacy-policy&amp;title=Privacy Policy&amp;summary=Effective Date: June 26, 2014. 1...." title="linkedin" class="popup">
                 <i class="fa fa-linkedin"></i>
                 <span class="text">linkedin</span>
             </a>
         </li>
         <li class="twitter ks-sharemodule-tweet">
-            <a href="http://twitter.com/share?url=http://bit.ly/b5kdLx&amp;via=businessinsider&amp;text=Privacy Policy" title="twitter" class="popup">
+            <a href="http://twitter.com/share?url=http://read.bi/b5kdLx&amp;via=businessinsider&amp;text=Privacy Policy" title="twitter" class="popup">
                 <i class="fa fa-twitter"></i>
                 <span class="text">twitter</span>
             </a>
@@ -719,18 +946,18 @@
 <div id="bottom-share-links"></div>
         </div>
 
-                                                    <!-- Standard Taboola Script -->
-                    <div id="taboola-below-main-column" class="ks-taboola"></div>
-                    <script type="text/javascript">
-                        window._taboola = window._taboola || [];
-                                                _taboola.push({mode:'thumbs-1r', container:'taboola-below-main-column', placement:'below-main-column'});
-                                            </script>
-                                        <div class="clearfix"></div>
+                    <!-- Standard Taboola Script -->
+                            <div id="taboola-below-main-column"></div>
+                <script type="text/javascript">
+                    window._taboola = window._taboola || [];
+                                            _taboola.push({mode:'thumbs-1r', container:'taboola-below-main-column', placement:'below-main-column'});
+                                    </script>
+                        <div class="clearfix"></div>
         
                     
 <div class="bottom-recommended clear-fix pull-left ks-recommended">
-    <h3 class="underlined thin">Recommended For You</h3>
-    <!-- Concierge posts -->
+            <h3 class="underlined thin">Recommended For You</h3>
+        <!-- Concierge posts -->
     <ul class="media-list pull-left ">
         <li class="media concierge-post">
             <a href=""><div class="seealso-image"><img src="http://static4.businessinsider.com/assets/images/transparent.gif" alt=""></div></a>
@@ -756,21 +983,15 @@
 </div>
             <div class="clearfix"></div>
         
+        
+        
+        
                 
-        
-        
-        	<div class="footer-ad">
-					<div class="dianomi-ad"></div>
-
-		  <script>
-		      BI.dianomi.init('US', "postBottom");
-		  </script>
-			</div>
-        
 <!-- Comments -->
 <div id="comments" class="">
     </div>
 <!-- / Comments -->
+
 
         <!-- Schema.org/Article metadata -->
 <div style="display:none;" itemscope="" itemtype="http://schema.org/Article">
@@ -806,9 +1027,13 @@
 			<!-- Recommended For You  -->
                             <!-- editorial sidebar -->
 <div class="clear-fix ks-recommended rail-recommended">
-    <h3 class="underlined thin">Recommended For You</h3>
-    <!-- Concierge posts -->
+            <h3 class="underlined thin">Recommended For You</h3>
+        <!-- Concierge posts -->
     <ul class="media-list">
+        <li class="media concierge-post">
+            <a class="pull-left" href=""><div class="seealso-image"><img src="http://static4.businessinsider.com/assets/images/transparent.gif" width="60" alt=""></div></a>
+            <div class="media-body"><p><a class="title-link" href=""></a></p></div>
+        </li>
         <li class="media concierge-post">
             <a class="pull-left" href=""><div class="seealso-image"><img src="http://static4.businessinsider.com/assets/images/transparent.gif" width="60" alt=""></div></a>
             <div class="media-body"><p><a class="title-link" href=""></a></p></div>
@@ -820,8 +1045,8 @@
 												<div class="right-ad">
 						<div class="min-height-250">
 							
-
-	<div data-bi-ad="" class="ad dfp rubicon" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Upper 300" data-responsive="null" data-rubicon_zone_id="" data-sizes="300x250,300x600,300x400,300x1050" data-tag="" data-url="/privacy-policy" data-views="10001-500000"></div>
+	<div data-bi-ad="" class="ad dfp" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Upper 300" data-responsive="null" data-sizes="300x250,300x600,300x400,300x1050" data-tag="privacy-policy" data-url="/privacy-policy" data-views="10001-500000">
+			</div>
 
 	<script type="text/javascript">
 		(function() {
@@ -834,17 +1059,13 @@
 					</div>
 		        		    
 		    <!-- taboola videos -->
-				<!-- Standard Taboola Script -->
-	<div id="taboola-right-rail-thumbnails" class="ks-rr-taboola-video"></div>
-	<script type="text/javascript">
-	  window._taboola = window._taboola || [];
-	  _taboola.push({
-	    mode: 'organic-thumbnails-e',
-	    container: 'taboola-right-rail-thumbnails',
-	    placement: 'Right Rail Thumbnails',
-	    target_type: 'video'
-	  });
-	</script>
+			    <!-- Standard Taboola Script -->
+    <div id="taboola-right-rail-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({mode: 'organic-thumbnails-e', container: 'taboola-right-rail-thumbnails', placement: 'Right Rail Thumbnails', target_type: 'video'});
+    </script>
+
 
 			<!-- Finance widget - Main -->
 			<div id="finanzen_right_rail_anchor"></div>
@@ -852,8 +1073,8 @@
 							<div class="right-ad">
 					<div>
 						
-
-	<div data-bi-ad="" class="ad dfp position-load rubicon" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Middle 300" data-responsive="null" data-rubicon_zone_id="" data-sizes="300x250" data-tag="" data-url="/privacy-policy" data-views="10001-500000"></div>
+	<div data-bi-ad="" class="ad dfp position-load" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Middle 300" data-responsive="null" data-sizes="300x250" data-tag="privacy-policy" data-url="/privacy-policy" data-views="10001-500000">
+			</div>
 
 	<script type="text/javascript">
 		(function() {
@@ -866,18 +1087,14 @@
 				</div>
 			
 			<!-- taboola 'from the web' - needs correct condition -->
-			<!-- Standard Taboola Script -->
-<div id="taboola-right-rail-thumbnails-2" class="ks-rr-taboola-from-the-web"></div>
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({
-    mode: 'ab_thumbnails-a_2x1',
-    container: 'taboola-right-rail-thumbnails-2',
-    placement: 'Right Rail Thumbnails 2nd',
-    target_type: 'video'
-  });
-</script>
-			
+			    <!-- Standard Taboola Script -->
+    <div id="taboola-right-rail-thumbnails-2"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({mode: 'ab_thumbnails-a_2x1', container: 'taboola-right-rail-thumbnails-2', placement: 'Right Rail Thumbnails 2nd', target_type: 'video'});
+    </script>
+
+
       <!-- Dianomi Ad -->
       
 <div class="right-ad">
@@ -893,57 +1110,46 @@
                     <div>
                         
 <div class="sponsored-content-widget ks-rr-sponsored-content-widget">
-    <h3 class="underlined thin">Featured</h3>
-    <ul class="media-list">
-                <li id="id-564a4f0d2491f90d248b57b3" class="media">
-                        <a class="pull-left" href="http://www.businessinsider.com/how-data-is-saving-the-retail-industry-2015-11">
-                                    <img src="http://static2.businessinsider.com/image/564ce3fc2491f90d248b635f-60/how-data-is-saving-the-retail-industry.jpg" alt="How data is saving the retail industry">
+            <h3 class="underlined thin">Featured</h3>
+        <ul class="media-list">
+                <li id="id-572ccc67dd08959c648b4823" class="media">
+                        <a class="pull-left" href="http://www.businessinsider.com/makerspaces-diy-schools-2016-5">
+                                    <img src="http://static4.businessinsider.com/image/572ce16bdd08953c188b4762-60/these-high-tech-classes-are-the-coolest-thing-happening-in-schools-today.jpg" alt="These high-tech classes are the coolest thing happening in schools today">
                             </a>
             <div class="media-body">
-                <p><a class="title" href="http://www.businessinsider.com/how-data-is-saving-the-retail-industry-2015-11">How data is saving the retail industry</a></p>
+                <p><a class="title" href="http://www.businessinsider.com/makerspaces-diy-schools-2016-5">These high-tech classes are the coolest thing happening in schools today</a></p>
             </div>
             <p class="align-right">
-                <a href="http://www.businessinsider.com/digital-business-decoded">More "Digital Business Decoded"&nbsp;»</a>            </p>
+                <a href="http://www.techinsider.io/future-now">More "Future Now"&nbsp;»</a>            </p>
         </li>
-                <li id="id-5638cbd9bd86efa15c8bbb1d" class="media">
-                        <a class="pull-left" href="http://www.businessinsider.com/insurance-policies-for-families-2015-11">
-                                    <img src="http://static6.businessinsider.com/image/5638cc79bd86ef1d5d8bb9f4-60/3-types-of-insurance-that-can-protect-your-family-for-years-to-come.jpg" alt="3 types of insurance that can protect your family for years to come">
+                <li id="id-570bae49dd0895bd2e8b4a7c" class="media">
+                        <a class="pull-left" href="http://www.businessinsider.com/neil-degrasse-tyson-interviews-al-gore-innovators-2016-4">
+                                    <img src="http://static3.businessinsider.com/image/570bae48dd0895bd2e8b4a79-60/neil-degrasse-tyson-and-al-gore-on-the-future-of-our-planet--and-everything-else.jpg" alt="Neil deGrasse Tyson and Al Gore on the future of our planet — and everything else">
                             </a>
             <div class="media-body">
-                <p><a class="title" href="http://www.businessinsider.com/insurance-policies-for-families-2015-11">3 types of insurance that can protect your family for years to come</a></p>
+                <p><a class="title" href="http://www.businessinsider.com/neil-degrasse-tyson-interviews-al-gore-innovators-2016-4">Neil deGrasse Tyson and Al Gore on the future of our planet — and everything else</a></p>
             </div>
             <p class="align-right">
-                <a href="http://www.businessinsider.com/world-2-0">More "World 2.0"&nbsp;»</a>            </p>
+                <a href="http://www.techinsider.io/innovators">More "Innovators"&nbsp;»</a>            </p>
         </li>
                 <li class="featured-300-ad">
-            
-
-	<div data-bi-ad="" class="ad dfp" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Featured 300" data-responsive="null" data-rubicon_zone_id="" data-sizes="300x120" data-tag="" data-url="/privacy-policy" data-views="10001-500000"></div>
-
-	<script type="text/javascript">
-		(function() {
-			'use strict';
-			// Notify the DFP code that a new ad has just been rendered
-			amplify.publish('adRender');
-		}());
-	</script>
-        </li>
+                    </li>
     </ul>
 </div>                    </div>
                 </div>
             
 			<!-- Newsletters -->
-			
+							
 <div class="right-subscribe">
 	<div class="right-news">
-		<h3 class="underlined thin">Get <span class="news-vert">Business Insider</span> Emails &amp; Alerts</h3>
-		<div class="alert" id="news-alert"></div>
+    	            <h3 class="underlined thin">Get <span class="news-vert">Business Insider</span> Emails &amp; Alerts</h3>
+        		<div class="alert" id="news-alert"></div>
 		<form class="form" action="/newsletter?source=sidebar" method="post">
 			<div class="input-append">
 				<input id="news-email" name="email" type="text" placeholder="Email Address" data-email="">
 				<button class="btn submit" id="news-signup" type="submit">Sign-Up</button>
 			</div>
-			<a href="/newsletter">Learn More »</a>
+			<a href="/newsletter" class="learn-more-link">Learn More »</a>
 
 			<div id="newsletter-expand" class="newsletter-preview-links margin-top" style="display:none">
 				<ul>
@@ -1054,8 +1260,13 @@
 											</li>
 																																																						<li>
 												<label class="checkbox">
-													<input type="checkbox" name="newsletters[]" value="Prime Finance">
-													Prime Finance												</label>
+													<input type="checkbox" name="newsletters[]" value="Finance Insider">
+													Finance Insider												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="Wealth Advisor Select">
+													Wealth Advisor Select												</label>
 											</li>
 																			</ul>
 								</div>
@@ -1093,7 +1304,7 @@
 																																																						<li>
 												<label class="checkbox">
 													<input type="checkbox" name="newsletters[]" value="10 Things You Need To Know In Advertising">
-													null												</label>
+													10 Things You Need To Know In Advertising												</label>
 											</li>
 																			</ul>
 								</div>
@@ -1154,7 +1365,7 @@
 																																																						<li>
 												<label class="checkbox">
 													<input type="checkbox" name="newsletters[]" value="Breaking News">
-													null												</label>
+													Breaking News												</label>
 											</li>
 																			</ul>
 								</div>
@@ -1203,6 +1414,11 @@
 												<label class="checkbox">
 													<input type="checkbox" name="newsletters[]" value="IoT Chart of the Day">
 													IoT Chart of the Day												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="Fintech Briefing">
+													Fintech Briefing												</label>
 											</li>
 																			</ul>
 								</div>
@@ -1272,43 +1488,31 @@
 		</form>
 	</div>
 </div>
-
-
+			
 			<!-- Editorial Sidebar -->
 							<span data-bi-ajax-route="/esi/ed_sidebar"></span>			
 			<!-- Editorial Sidebar 2 -->
 							<!-- editorial sidebar 2 -->
 <div id="editorial2" class="ks-rr-editorial-2" data-bi-heatmap="editorial">
-	<h3 class="underlined thin">Latest Deals</h3>
-	<div>
-		<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 10px 2% 0;"><a href="http://www.amazon.com/b/ref=as_li_ss_tl?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;linkId=ALE2HQMFFTHY7RQQ&amp;node=10161501011&amp;tag=bi_rightrail_promo_trendsetter_gift_guide-20&amp;linkId=O2DSMRD62IEXW36C"><img src="http://static5.businessinsider.com/image/564118326da8110b44efa57d-150-113/trendsetter-man-in-kitchen.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
-<div style="height: 80px !important;"><a href="http://www.amazon.com/b/ref=as_li_ss_tl?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;linkId=ALE2HQMFFTHY7RQQ&amp;node=10161501011&amp;tag=bi_rightrail_promo_trendsetter_gift_guide-20&amp;linkId=O2DSMRD62IEXW36C"><span style="color: #000000;">The Trendsetter Gift Guide</span></a></div>
+            <h3 class="underlined thin">Latest Research</h3>
+    	<div>
+		<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 10px 2% 0;"><a href="http://www.businessinsider.com/intelligence/25-big-tech-predictions-for-2016?IR=T&amp;utm_source=businessinsider&amp;utm_medium=banner&amp;utm_term=RR&amp;utm_content=Predictions_Free_Report&amp;utm_campaign=Predictions_Free_Report_RR"><img src="http://static-bii.businessinsider.com/image/5695398976c7d1bb49d873ec-150/bigtechrr.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
+<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/25-big-tech-predictions-for-2016?IR=T&amp;utm_source=businessinsider&amp;utm_medium=banner&amp;utm_term=RR&amp;utm_content=Predictions_Free_Report&amp;utm_campaign=Predictions_Free_Report_RR"><span style="color: #000000;">Our 25 Top Tech Predictions</span></a></div>
 </div>
-<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 0 20px 0;"><a href="https://assets.stacksocial.com/collections/holiday-gifts-for-everyone?aid=a-z1t0qb6k"><img src="http://static4.businessinsider.com/image/5641188d6da811ba38efa568-150-109/gift-in-womans-hands.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
-<div style="height: 80px !important;"><a href="https://assets.stacksocial.com/collections/holiday-gifts-for-everyone?aid=a-z1t0qb6k"><span style="color: #000000;">Holiday Central</span></a></div>
+<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 0 2% 0;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-Payments&amp;utm_campaign=RR#!/The-Payments-Ecosystem/p/46301492"><img src="http://static-bii.businessinsider.com/image/56f15ebb771aea585be3d7f7-150/paymentsecorr.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
+<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-Payments&amp;utm_campaign=RR#!/The-Payments-Ecosystem/p/46301492"><span style="color: #000000;">The Payments Ecosystem Report</span></a></div>
 </div>
-<div style="clear: both;">
-<div style="margin: 10px 0 0px;">
-<h3 class="underlined thin">Latest Research</h3>
+<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 10px 2% 0;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-Fintech&amp;utm_campaign=RR#!/The-Fintech-Ecosystem-Report/p/58319011/category=11987295"><img src="http://static-bii.businessinsider.com/image/5695398076c7d1ca49d873ea-150/fintechrr.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
+<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-Fintech&amp;utm_campaign=RR#!/The-Fintech-Ecosystem-Report/p/58319011/category=11987295"><span style="color: #000000;">The Fintech Ecosystem Report</span></a></div>
 </div>
-<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 10px 2% 0;"><a href="http://www.businessinsider.com/intelligence/mobile-payments-free-report?IR=T&amp;utm_source=businessinsider&amp;utm_medium=banner&amp;utm_term=RR&amp;utm_content=Mobile_Free_Report&amp;utm_campaign=Mobile_Free_Report_RR"><img src="http://static2.businessinsider.com/image/55e878a26bb3f7a435ef5403-150/mobilepaymentsfreerr.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
-<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/mobile-payments-free-report?IR=T&amp;utm_source=businessinsider&amp;utm_medium=banner&amp;utm_term=RR&amp;utm_content=Mobile_Free_Report&amp;utm_campaign=Mobile_Free_Report_RR"><span style="color: #000000;">FREE: Mobile Payments - Everything You Need to Know</span></a></div>
-</div>
-<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 0 2% 0;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-MessagingApp&amp;utm_campaign=RR#!/THE-MESSAGING-APP-REPORT/p/56901061/category=11987293"><img src="http://static-bii.businessinsider.com/image/564e3a7a771aeaf539462120-150/messagingappcover.jpg" border="0" style="width: 100%; margin-bottom: 5px;"></a>
-<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-MessagingApp&amp;utm_campaign=RR#!/THE-MESSAGING-APP-REPORT/p/56901061/category=11987293"><span style="color: #000000;">The Messaging App Report</span></a></div>
-</div>
-<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 10px 2% 0;"><a href="https://attendee.gotowebinar.com/register/3470891398333559298?source=BIRightRail"><img src="http://static-bii.businessinsider.com/image/5661d8c5771aeab47414a554-150/iotwebinarfreerr-1.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
-<div style="height: 80px !important;"><a href="https://attendee.gotowebinar.com/register/3470891398333559298?source=BIRightRail"><span style="color: #000000;">WEBINAR: The Internet Of Things 2015</span></a></div>
-</div>
-<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 0 20px 0;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-AheadoftheCurve&amp;utm_campaign=RR#!/Ahead-of-the-Curve-The-Digital-Disruption-of-Retail-Banking-Slide-Deck-&amp;-Report-Bundle/p/56722344/category=11987295"><img src="http://static-bii.businessinsider.com/image/564e36e0771aea9933462125-150/aheadofthecurvebundleimage.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
-<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-AheadoftheCurve&amp;utm_campaign=RR#!/Ahead-of-the-Curve-The-Digital-Disruption-of-Retail-Banking-Slide-Deck-&amp;-Report-Bundle/p/56722344/category=11987295"><span style="color: #000000;">The Digital Disruption of Retail Banking</span></a></div>
+<div style="width: 47.995%; display: block; position: relative; float: left; margin: 0 0 20px 0;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-IoT&amp;utm_campaign=RR#!/The-Internet-of-Things-Report/p/59665942"><img src="http://static-bii.businessinsider.com/image/5638cbd2771aeab0427cbae7-150/iot2015_cover.png" border="0" style="width: 100%; margin-bottom: 5px;"></a>
+<div style="height: 80px !important;"><a href="http://www.businessinsider.com/intelligence/research-store?IR=T&amp;utm_source=House&amp;utm_term=RR-IoT&amp;utm_campaign=RR#!/The-Internet-of-Things-Report/p/59665942"><span style="color: #000000;">The Internet of Things Report</span></a></div>
 </div>
 <div style="clear: both;">
 <div style="margin: 10px 0 0px;">
 <h3 class="underlined thin">Read Business Insider On The Go</h3>
 </div>
 <div style="text-align: center !important; width: 100%; display: block;"><a href="https://itunes.apple.com/app/apple-store/id554260576?pt=385758&amp;ct=right-rail&amp;mt=8"><img src="http://static2.businessinsider.com/image/51e9584f69beddbb1d000003-208/appstorebadgeen.png" border="0" style="margin: 0px 0px 10px 0px;"></a> <br><a href="http://www.businessinsider.com/about/mobile">Available for iPhone, iPad, and Android</a> <br> <a href="http://www.businessinsider.com/about/mobile"><img src="http://static1.businessinsider.com/image/51e95c6aeab8ea3845000009/appleicon.png" border="0" style="margin: 10px 5px;"></a> <a href="http://www.businessinsider.com/about/mobile"><img src="http://static4.businessinsider.com/image/51e95c6aeab8eab74700000b/androidicon.png" border="0" style="margin: 10px 5px;"></a></div>
-</div>
 </div>	</div>
 </div>
 <script>amplify.publish('editorial-sidebar-loaded', 'editorial2');</script>
@@ -1318,7 +1522,7 @@
 						
 <!-- Jobs Module -->
 <div class="jobs ks-rr-jobs hide-uk">
-	<h5 class="text-ad pull-right"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&amp;qb=1&amp;s_rawwords=&amp;s_freeloc=&amp;s_jobtypes=ALL&amp;lr=cbpar_busiin&amp;siteid=cbpar_busiin026&amp;utm_source=businessinsider&amp;utm_medium=partner&amp;utm_campaign=businessinsider-all-jobs-applys" title="Visit Career Builder"><img src="http://static3.businessinsider.com/assets/images/careerbuilder.png" alt="Career Builder"></a></h5>
+	<h5 class="text-ad pull-right"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&amp;qb=1&amp;s_rawwords=&amp;s_freeloc=&amp;s_jobtypes=ALL&amp;lr=cbpar_busiin&amp;siteid=cbpar_busiin026&amp;utm_source=businessinsider&amp;utm_medium=partner&amp;utm_campaign=businessinsider-all-jobs-applys" title="Visit Career Builder"><img src="http://static3.businessinsider.com/assets/images/careerbuilder.png" alt="Career Builder" width="175"></a></h5>
 	<h3>Find A Job</h3>
 
 	<!-- <div class="row-fluid"> -->
@@ -1361,8 +1565,9 @@
 			<!-- Partners -->
 						<div class="right-ad">
 				<div class="partner-thanks clearfix">
-					<h3 class="underlined thin">Thanks to our partners</h3>
-					<ul>
+
+                                    <h3 class="underlined thin">Thanks to our partners</h3>
+                					<ul>
 						<li>
 							<a class="sprites catchpoint" href="http://www.catchpoint.com/" title="Visit Catchpoint" target="_blank"></a>
 						</li>
@@ -1381,8 +1586,8 @@
 							<div class="right-ad lower300" data-sticky="lower300">
 					<div>
 						
-
-	<div data-bi-ad="" class="ad dfp position-load rubicon" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Lower 300" data-responsive="null" data-rubicon_zone_id="" data-sizes="300x250,300x600" data-tag="" data-url="/privacy-policy" data-views="10001-500000"></div>
+	<div data-bi-ad="" class="ad dfp position-load" data-adunit="desktop/home/home/post" data-authors="business-insider" data-pagetype="post" data-region="Lower 300" data-responsive="null" data-sizes="300x250,300x600" data-tag="privacy-policy" data-url="/privacy-policy" data-views="10001-500000">
+			</div>
 
 	<script type="text/javascript">
 		(function() {
@@ -1404,21 +1609,16 @@
 
             
             </div>
-        </div>
-    
+            <div class="footer" data-bi-footer="">
 
+                <div class="container">
 
-
-<div class="footer" data-bi-footer="">
-
-    <div class="container">
-
-        <section class="top">
-            <a href="/" class="sprites logo"></a>
-            <section class="social-icons">
-                <ul class="links-user">
-                                            
-                        
+                    <section class="top">
+                        <a href="/" class="sprites logo"></a>
+                        <section class="social-icons">
+                            <ul class="links-user">
+                                                        
+                                    
 
     <li class="social">
         <a href="//www.facebook.com/businessinsider" title="Like us on Facebook" aria-label="Like us on Facebook" target="_blank"><i class="fa fa-facebook ks-header-facebook"></i></a>
@@ -1431,39 +1631,49 @@
     <li class="social">
         <a href="//www.linkedin.com/company/business-insider" title="Connect with us on LinkedIn" aria-label="Connect with us on LinkedIn" target="_blank"><i class="fa fa-linkedin ks-header-linkedin"></i></a>
     </li>
-                    
-                    
-                                </ul></section>
-            <a href="//www.techinsider.io" class="partner-logo"></a>
-        </section>
+                                
+                                
+                                                        </ul></section>
+                        <div class="sister-sites-container">
+                            <a href="//www.techinsider.io" class="sister-sites sister-one"></a>
+                            <a href="//www.thisisinsider.com" class="sister-sites sister-two"></a>
+                        </div>
 
-        <div class="list-pipes">
-            <ul>
-            <li>* Copyright © 2015 Business Insider Inc. All rights reserved. <span class="nowrap">Registration on or use of this site constitutes acceptance of our
-                                        <a href="/terms">Terms of Service</a>                    and
-                                                            <a href="/privacy-policy">Privacy Policy</a>.</span>
-                </li>
-                <li><a href="/disclaimer">Disclaimer</a></li>
-                                    <li><a href="/commerce-on-business-insider">Commerce Policy</a></li>
-                            </ul>
-        </div>
-        <div class="list-pipes">
-            <ul>
-                <li>Powered by <a href="http://www.mongodb.org">MongoDB</a></li>
-                <li>Stock quotes by <a href="http://www.finanzen.net/">finanzen.net</a></li>
-                                    <li><a href="http://nytm.org/made">Made in NYC</a></li>
-                            </ul>
-        </div>
-        <div class="international-links list-pipes">
-            <ul><li>International Editions:</li>
-                <li><a href="http://uk.businessinsider.com?IR=C">UK</a></li><li><a href="http://www.businessinsider.de?IR=C">DE</a></li><li><a href="http://www.businessinsider.com.au/">AUS</a></li><li><a href="http://www.businessinsider.co.id/">ID</a></li><li><a href="http://www.businessinsider.in/">IN</a></li><li><a href="http://www.businessinsider.my/">MY</a></li><li><a href="http://www.businessinsider.sg/">SG</a></li>            </ul>
-        </div>
-                   </div>
-        </div>
+                    </section>
+
+                    <div class="list-pipes">
+                        <ul>
+                        <li>* Copyright © 2016 Business Insider Inc. All rights reserved. <span class="nowrap">Registration on or use of this site constitutes acceptance of our
+                                                                <a href="/terms">Terms of Service</a>                                and
+                                                                                                <a href="/privacy-policy">Privacy Policy</a>.</span>
+                            </li>
+                            <li><a href="/disclaimer">Disclaimer</a></li>
+                                                            <li><a href="/commerce-on-business-insider">Commerce Policy</a></li>
+                                                                                        <li><a href="http://nytm.org/made">Made in NYC</a></li>
+                                                    </ul>
+                    </div>
+                    <div class="list-pipes">
+                        <ul>
+                                                                                    <li>Stock quotes by <a href="http://www.finanzen.net/">finanzen.net</a></li>
+                                                    </ul>
+                    </div>
+                    <div class="international-links list-pipes">
+                        <ul><li>International Editions:</li>
+                            <li><a href="http://uk.businessinsider.com?IR=C">UK</a></li><li><a href="http://www.businessinsider.de?IR=C">DE</a></li><li><a href="http://www.businessinsider.com.au/">AUS</a></li><li><a href="http://www.businessinsider.co.id/">ID</a></li><li><a href="http://www.businessinsider.in/">IN</a></li><li><a href="http://www.businessinsider.my/">MY</a></li><li><a href="http://www.businessinsider.sg/">SG</a></li><li><a href="http://www.businessinsider.com.pl/?IR=C">PL</a></li><li><a href="http://nordic.businessinsider.com/?IR=C">SE</a></li>                        </ul>
+                    </div>
+                                           </div>
+                    </div>
+                </div>
+             
+        
+
     
- 
 
-<script type="text/javascript" src="http://static5.businessinsider.com/assets/js/min-foot.js?1449782710"></script>
+
+
+
+
+<script type="text/javascript" src="http://static5.businessinsider.com/assets/js/min-foot.js?1466185851"></script>
 
 <!--[if gte IE 9]>
 <script type="text/javascript">amplify.publish("ie9-pinned-site", {"hid":null,"vertical":"businessinsider"});</script><![endif]-->
@@ -1508,18 +1718,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Begin comScore Tag -->
     <script type="text/javascript">
         var _comscore = _comscore || [];
-        _comscore.push({ c1: "2", c2: "9900186" });
-        (function() {
-            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-            el.parentNode.insertBefore(s, el);
+        _comscore.push({ c1: "2", c2: "9900186"});
+        (function(){ 
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 
+            el.parentNode.insertBefore(s, el); 
         })();
     </script>
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=9900186&cv=2.0&cj=1" />
     </noscript>
     <!-- End comScore Tag -->
-
+    
         <!-- Chartbeat -->
     <script type="text/javascript">
         // chartbeat wants the vars in global
@@ -1546,19 +1756,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
     <!-- / Chartbeat -->
     
-    <!-- BEGIN Krux Control Tag -->
-<script class="kxct" data-id="I2I9M2yx" data-timing="async" data-version="1.9" type="text/javascript">
-  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
-  (function(){
-    var k=document.createElement('script');k.type='text/javascript';k.async=true;
-    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
-    k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
-      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=I2I9M2yx"
-  ;
-    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
-  }());
-</script>
-<!-- END Krux Controltag -->
             <!-- Sailthru Concierge -->
         <script type="text/javascript" src="http://ak.sail-horizon.com/horizon/v1.js"></script>
         <script type="text/javascript" src="http://ak.sail-horizon.com/scout/v1.js"></script>
@@ -1605,6 +1802,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })("script", "parsely", document);
 </script>
 <!-- END Parse.ly Include -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4b4136998e","applicationID":"2646431,2646478","transactionName":"ZVZVZRBVXEJVVkJRDVwcdEQRQF1cG0VZSxY=","queueTime":0,"applicationTime":193,"atts":"SRFWE1hPT0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4b4136998e","applicationID":"13516968","transactionName":"ZVZVZRBVXEJVVkJRDVwcdEQRQF1cG0VZSxY=","queueTime":0,"applicationTime":104,"atts":"SRFCE1hPTx0WVBQCGU9O","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat_pub.js"></script></body></html>
