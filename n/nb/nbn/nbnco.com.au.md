@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920142718id_/http%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183038id_/http%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | nbn - Australia's new broadband network
 
-This privacy policy applies to all the activities of nbn co limited ABN 86 136 533 741 ( **nbn** ) and its wholly owned subsidiaries.  It does not apply to entities and activities outside of **nbn** 's control, such as websites operated by others.
+This Privacy policy applies to all the activities of nbn co limited ABN 86 136 533 741 ( **nbn** ) and its wholly owned subsidiaries.  It does not apply to entities and activities outside of **nbn** 's control, such as websites operated by others.
 
 ### What is personal information?
 
@@ -115,18 +115,12 @@ If you feel that **nbn**  is not handling your complaint satisfactorily, you ca
 
 ### How to Contact  **nbn**
 
-If you have any questions or concerns about this Privacy Policy please contact the **nbn**  Privacy Officer at [privacyofficer@nbnco.com.au](mailto:privacyofficer@nbnco.com.au)  or by mail to Privacy Officer, Level 11, Arthur Street, North Sydney, NSW 2060.
+If you have any questions or concerns about this Privacy policy please contact the **nbn**  Privacy Officer at [privacyofficer@nbnco.com.au](mailto:privacyofficer@nbnco.com.au)  or by mail to Privacy Officer, Level 11, Arthur Street, North Sydney, NSW 2060.
 
-Alternatively there are several other ways you can contact **nbn** :
+You can contact **nbn** by using the [online form](https://web.archive.org/corporate-information/contact-us-form.html) on the website.
 
-  * By using the [online form](https://web.archive.org/corporate-information/contact-us-form.html) on the website
-  * By emailing **nbn** at [info@nbn.com.au](mailto:info@nbn.com.au)
-  * By calling **nbn**  on 1800 687 626
+### Changes to this Privacy policy
 
+**nbn** 's Privacy policy may change from time to time. Before providing **nbn**  with personal information, please check this Privacy policy on the website.
 
-
-### Changes to this Privacy Policy
-
-**nbn** 's Privacy Policy may change from time to time. Before providing **nbn**  with personal information, please check this Privacy Policy on the website.
-
-This Privacy Policy was last updated 16 February 2015.
+This Privacy policy was last updated 16 February 2015.
