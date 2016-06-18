@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915080213id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618185828id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Shaklee
 
@@ -218,3 +218,7 @@ Shaklee Corporation
 Pleasanton, CA 94588  
 Questions or comments about Shaklee Corporation can be emailed to  
 [fieldsupport@shaklee.com](mailto:fieldsupport@shaklee.com)
+
+* * *
+
+Rights granted to Shaklee Corporation for use of any photos or images on this site do not include rights for Shaklee Members, Distributors or Business Leaders to use them. Please do not reuse any images on this site without express written permission from Shaklee Corporation. Thank you.
