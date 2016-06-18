@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretaffiliateweapon2.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412085130id_/http%3A//www.secretaffiliateweapon2.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretaffiliateweapon2.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618192453id_/http%3A//www.secretaffiliateweapon2.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
