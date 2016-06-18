@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101031646id_/http%3A//www.luckynuggetcasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618070815id_/http%3A//www.luckynuggetcasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
 # The Lucky Nugget Online Casino – Security and Privacy
 
@@ -12,7 +12,7 @@ During the registration process and when you subsequently use your lucky nugget 
 
 Your Personal Data is held by us on servers based in Malta and Canada and elsewhere from time to time.
 
-All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an [email](https://web.archive.org/contact/call-us.aspx).
+All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an [email](mailto:support@playersupportcenter.com).
 
 Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other companies, business partners, service providers, consultants or suppliers that are engaged to carry out financial or other processing on our behalf.
 
@@ -20,7 +20,7 @@ Due to the nature of the internet, its use to collect and transfer Personal Data
 
 We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party.
 
-You may "opt out" of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an [email](https://web.archive.org/contact/call-us.aspx) you receive from us.
+You may "opt out" of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an [email](mailto:support@playersupportcenter.com) you receive from us.
 
 ## Security of Processing
 
@@ -48,7 +48,7 @@ Where there is a link from this website to another relevant site, this privacy p
 
 ## Your consent
 
-By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20151101031646id_/http%3A//www.luckynuggetcasino.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20160618070815id_/http%3A//www.luckynuggetcasino.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
 
 ## Right to use the Software
 
