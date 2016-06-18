@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcarshow.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228182322id_/http%3A//www.netcarshow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcarshow.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618104806id_/http%3A//www.netcarshow.com/privacy.html) for the most accurate reproduction.*
 
 # NetCarShow.com - Privacy Policy
 
@@ -11,7 +11,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/index.asp).
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 
 
