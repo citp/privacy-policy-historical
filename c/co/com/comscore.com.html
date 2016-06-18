@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2015-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151204201516id_/http%3A//www.comscore.com/About-comScore/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2016-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619013855id_/http%3A//www.comscore.com/About-comScore/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         
@@ -24,7 +24,7 @@
 				
 			    											<meta name="description" content="This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com.">
 							
-			    											<meta name="keywords" content="analytics, audience analytics, enterprise analytics, advertising analytics, digital market intelligence, internet measurement, internet audience measurement, web site usage, internet trends, online behavior, online marketing strategies, online buying activity, digital analytics, web analytics, SCOR, comScore">
+			    											<meta name="keywords" content="analytics, audience analytics, cross media, multi-platform, advertising analytics, digital market intelligence, internet measurement, internet audience measurement, web site usage, internet trends, online behavior, online marketing strategies, online buying activity, SCOR, comScore">
 							    	
 	
 	
@@ -48,6 +48,7 @@
 
 
 
+
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/global_base.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_base.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_content.css">
@@ -55,9 +56,12 @@
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/megamenu.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/jquery-ui-1.8.21.custom.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/slick.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/slick-theme.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/ezfind.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/mq.css">
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/animate.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/bootstrap.css">
 
 
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie6.css" media="screen" /><![endif]-->
@@ -76,90 +80,18 @@
 
 
 
-<script type="text/javascript" async="" src="//img03.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-1.7.1.min.js" charset="utf-8"></script>
-<script type="text/javascript">
-//<![CDATA[
 
-(function($) {
-    var _rootUrl = '/', _serverUrl = _rootUrl + 'ezjscore/', _seperator = '@SEPERATOR$',
-        _prefUrl = _rootUrl + 'user/preferences';
 
-// FIX: Ajax is broken on IE8 / IE7 on jQuery 1.4.x as it's trying to use the broken window.XMLHttpRequest object
-if ( window.XMLHttpRequest && window.ActiveXObject )
-    $.ajaxSettings.xhr = function() { try { return new window.ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {} };
 
-    // (static) jQuery.ez() uses jQuery.post() (Or jQuery.get() if post paramer is false)
-    //
-    // @param string callArgs
-    // @param object|array|string|false post Optional post values, uses get request if false or undefined
-    // @param function Optional callBack
-    function _ez( callArgs, post, callBack )
-    {
-        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
-        var url = _serverUrl + 'call/';
-        if ( post )
-        {
-            var _token = '', _tokenNode = document.getElementById('ezxform_token_js');
-            if ( _tokenNode ) _token = _tokenNode.getAttribute('title');
-            if ( post.join !== undefined )// support serializeArray() format
-            {
-                post.push( { 'name': 'ezjscServer_function_arguments', 'value': callArgs } );
-                post.push( { 'name': 'ezxform_token', 'value': _token } );
-            }
-            else if ( typeof(post) === 'string' )// string
-            {
-                post += ( post ? '&' : '' ) + 'ezjscServer_function_arguments=' + callArgs + '&ezxform_token=' + _token;
-            }
-            else // object
-            {
-                post['ezjscServer_function_arguments'] = callArgs;
-                post['ezxform_token'] = _token;
-            }
-            return $.post( url, post, callBack, 'json' );
-        }
-        return $.get( url + encodeURIComponent( callArgs ), {}, callBack, 'json' );
-    };
-    _ez.url = _serverUrl;
-    _ez.root_url = _rootUrl;
-    _ez.seperator = _seperator;
-    $.ez = _ez;
 
-    $.ez.setPreference = function( name, value )
-    {
-        var param = {'Function': 'set_and_exit', 'Key': name, 'Value': value};
-            _tokenNode = document.getElementById( 'ezxform_token_js' );
-        if ( _tokenNode )
-            param.ezxform_token = _tokenNode.getAttribute( 'title' );
-
-        return $.post( _prefUrl, param );
-    };
-
-    // Method version, for loading response into elements
-    // NB: Does not use json (not possible with .load), so ezjscore/call will return string
-    function _ezLoad( callArgs, post, selector, callBack )
-    {
-        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
-        var url = _serverUrl + 'call/';
-        if ( post )
-        {
-            post['ezjscServer_function_arguments'] = callArgs;
-            post['ezxform_token'] = jQuery('#ezxformtoken').attr('title');
-        }
-        else
-            url += encodeURIComponent( callArgs );
-
-        return this.load( url + ( selector ? ' ' + selector : '' ), post, callBack );
-    };
-    $.fn.ez = _ezLoad;
-})(jQuery);
-        
-//]]>
-</script>
+<script type="text/javascript" async="" src="//img03.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-1.12.0.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/bootstrap.corp.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-ui-1.11.4.custom.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-easing-1.3.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-transit-modified.js" charset="utf-8"></script>
-<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-ui-1.8.21.custom.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/search.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.doubletaptogo.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.slick.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.prettyPhoto.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.validate.js" charset="utf-8"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/additional-methods.min.js" charset="utf-8"></script>
@@ -194,7 +126,7 @@ if ( window.XMLHttpRequest && window.ActiveXObject )
     })();
 </script>
 
-</head><body class="about"><div class="hdn">
+</head><body class="about"><div class="hdn hidden">
 <!-- Google Code for Remarketing tag EMEA -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -232,24 +164,10 @@ var google_remarketing_only = true;
 <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="text/javascript">twttr.conversion.trackPid('l6uc5', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
 
-<script type="text/javascript">
-  _bizo_data_partner_id = "9277";
-</script>
-<script type="text/javascript">
-(function() {
-  var s = document.getElementsByTagName("script")[0];
-  var b = document.createElement("script");
-  b.type = "text/javascript";
-  b.async = true;
-  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
-  s.parentNode.insertBefore(b, s);
-})();
-</script>
 
 <noscript>
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l6uc5&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6uc5&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-<img height="1" width="1" style="display:none;" alt="" src="//www.bizographics.com/collect/?pid=9277&fmt=gif" />
 </noscript>
 
 			
@@ -372,24 +290,11 @@ $(document).ready(function(){
 			}
 	});   
 
-	$('#globe').click(function() {
-		if (testOS.IsIOS) {
-			alert('Thanks for clicking. We are working on support for Mobile Browsers, stay tuned. ');
-			return false;
-		}
-		else{	
-			if ($(this).attr('href').length > 0){
-			$.prettyPhoto.open($(this).attr('href')+'?s='+Math.random()+'&iframe=true&width=1000&height=100%','','<b>Thanks for visiting.  Feel free to interact with the globe to get a better view.</b><br/>comScore. Analytics for a Digital World&trade;. <a href=/About_comScore>Read more about comScore</a>');
-			return false;
-			}
-		}	
-	}); 
-
 });
 
-function iopen(){open($("#fullResImage").attr("src"));
 
-}
+
+function iopen(){open($("#fullResImage").attr("src"));}
 </script>
 
 <script src="//cdn.optimizely.com/js/211530542.js"></script>
@@ -421,9 +326,88 @@ function iopen(){open($("#fullResImage").attr("src"));
     
     <div id="mastHead" class="cfx">
 
-    <div id="logo">
-            <h1><a href="/" title="comScore, Inc"><img src="/var/comscore/storage/images/design/comscore-inc/172-106-eng-US/comScore-Inc.png" alt="comScore, Inc."></a></h1>
-    	      
+    <div id="logo" class="col-lg-3 col-md-4 col-sm-5 col-xs-5 no-gutter"><div class="svg_content">
+		<h1><a href="/"><svg viewBox="0 0 200 35" class="scaling_svg">
+			  <g id="XMLID_148_"></g>
+			  <g id="XMLID_126_"></g>
+			  <g id="XMLID_36_">
+				<path id="XMLID_51_" style="fill:#444444;" d="M194.1,25.6c0.1,0,0.1,0.1,0.1,0.2c0,0.1,0,0.1-0.1,0.2c0,0-0.1,0.1-0.3,0.1h-0.2v-0.4h0.2
+					C194,25.6,194.1,25.6,194.1,25.6L194.1,25.6z M193.4,25.4v1.3h0.2v-0.6h0.3l0.3,0.6h0.3l-0.3-0.6c0.1,0,0.2-0.1,0.2-0.1
+					c0-0.1,0.1-0.1,0.1-0.2c0-0.1,0-0.2-0.1-0.3c-0.1-0.1-0.2-0.1-0.4-0.1H193.4L193.4,25.4z M194.8,26.5c-0.1,0.1-0.1,0.2-0.2,0.3
+					c-0.1,0.1-0.2,0.2-0.3,0.2c-0.1,0.1-0.3,0.1-0.4,0.1c-0.1,0-0.3,0-0.4-0.1c-0.1-0.1-0.2-0.1-0.3-0.2c-0.1-0.1-0.2-0.2-0.2-0.3
+					c0-0.1-0.1-0.3-0.1-0.4c0-0.1,0-0.3,0.1-0.4c0.1-0.1,0.1-0.2,0.2-0.3c0.1-0.1,0.2-0.2,0.3-0.2c0.1,0,0.3-0.1,0.4-0.1
+					c0.1,0,0.3,0,0.4,0.1c0.1,0.1,0.2,0.1,0.3,0.2c0.1,0.1,0.2,0.2,0.2,0.3c0.1,0.1,0.1,0.3,0.1,0.4C194.9,26.3,194.9,26.4,194.8,26.5
+					L194.8,26.5z M193.4,25c-0.1,0.1-0.3,0.1-0.4,0.2c-0.1,0.1-0.2,0.2-0.3,0.4c-0.1,0.1-0.1,0.3-0.1,0.5c0,0.2,0,0.3,0.1,0.4
+					c0.1,0.1,0.1,0.3,0.2,0.4c0.1,0.1,0.2,0.2,0.4,0.3c0.1,0.1,0.3,0.1,0.4,0.1c0.1,0,0.3,0,0.4-0.1c0.1-0.1,0.3-0.2,0.4-0.3
+					c0.1-0.1,0.2-0.2,0.2-0.4c0.1-0.1,0.1-0.3,0.1-0.5c0-0.2,0-0.3-0.1-0.5c0-0.1-0.1-0.3-0.2-0.4c-0.1-0.1-0.2-0.2-0.4-0.3
+					c-0.1-0.1-0.3-0.1-0.4-0.1C193.7,24.9,193.6,24.9,193.4,25L193.4,25z"></path>
+				<path id="XMLID_48_" style="fill:#444444;" d="M61.3,12.4c-0.1,0.4-0.2,0.8-0.3,1.3l-0.5,0c-0.4-0.9-1.1-1.6-1.9-2.1
+					c-0.8-0.5-1.7-0.7-2.7-0.7c-1.7,0-3.1,0.7-4.1,2.1c-1,1.4-1.6,3.3-1.6,5.7c0,2.1,0.6,3.8,1.8,5.2c1.2,1.4,2.7,2.1,4.4,2.1
+					c0.9,0,1.7-0.2,2.5-0.6c0.8-0.4,1.5-1,2.1-1.7l0.3,0.4l-0.3,1.6c-0.7,0.5-1.5,0.9-2.4,1.2c-0.9,0.3-1.9,0.4-3,0.4
+					c-2.6,0-4.6-0.8-6.2-2.4c-1.6-1.6-2.4-3.7-2.4-6.3c0-2.7,0.8-4.9,2.4-6.5c1.6-1.7,3.7-2.5,6.3-2.5c0.9,0,1.9,0.1,3,0.4
+					c1,0.2,2,0.6,2.9,1.1C61.5,11.6,61.4,12,61.3,12.4L61.3,12.4z M106.6,27c-0.6,0-1.1,0-1.6,0.1c0-0.3,0.1-0.6,0.1-1.1
+					c0-0.4,0.1-1.1,0.1-2c0.1-1.6,0.1-3.4,0.1-5.5l0-2.7c0-1.3-0.3-2.4-0.9-3.1c-0.6-0.7-1.5-1.1-2.5-1.1c-1.4,0-2.4,0.5-3.2,1.5
+					c-0.7,1-1.1,2.4-1.1,4.2v1.2c0,2.1,0,3.9,0.1,5.5c0,0.9,0.1,1.6,0.1,2c0,0.4,0.1,0.8,0.1,1.1c-0.5-0.1-1-0.1-1.6-0.1
+					c-0.6,0-1.2,0-1.6,0.1c0.1-0.3,0.1-0.7,0.1-1.1c0-0.4,0.1-1.1,0.1-2c0-1.6,0.1-3.4,0.1-5.5l0-2.7c0-1.3-0.3-2.4-0.9-3.1
+					c-0.6-0.7-1.5-1.1-2.5-1.1c-1.4,0-2.4,0.5-3.2,1.5c-0.7,1-1.1,2.4-1.1,4.2v1.2c0,2.1,0,3.9,0.1,5.5c0,0.9,0.1,1.6,0.1,2
+					c0,0.4,0.1,0.8,0.1,1.1c-0.5-0.1-1-0.1-1.6-0.1c-0.6,0-1.1,0-1.6,0.1c0.1-0.3,0.1-0.7,0.1-1.1c0-0.4,0.1-1.1,0.1-2
+					c0-1.6,0.1-3.4,0.1-5.5c0-2,0-3.8-0.1-5.4c0-0.9-0.1-1.6-0.1-2c0-0.4-0.1-0.8-0.1-1.1c0.5,0.1,1,0.1,1.6,0.1c0.6,0,1.1,0,1.6-0.1
+					c-0.1,0.1-0.1,0.3-0.1,0.5c0,0.2-0.1,0.7-0.1,1.3L87,12.9c0.3-0.5,0.6-0.9,0.9-1.3c1.2-1.3,2.6-2,4.4-2c1.6,0,2.9,0.5,3.8,1.6
+					c0.5,0.5,0.9,1.2,1.1,2c0.3-0.6,0.7-1.1,1.1-1.6c1.2-1.3,2.6-2,4.4-2c1.6,0,2.9,0.5,3.8,1.6c0.9,1,1.4,2.4,1.4,4.2l0,3.1
+					c0,2.1,0,3.9,0.1,5.5c0,0.9,0,1.6,0.1,2c0,0.4,0.1,0.8,0.1,1.1C107.7,27,107.2,27,106.6,27L106.6,27z"></path>
+				<path id="XMLID_40_" style="fill:#444444;" d="M123.3,8.5h-0.4c-0.4-0.8-1-1.4-1.7-1.8c-0.7-0.4-1.4-0.6-2.2-0.6c-1.1,0-2.1,0.4-2.8,1.1
+					c-0.7,0.7-1.1,1.6-1.1,2.7c0,1,0.4,1.8,1.1,2.5c0.7,0.7,1.8,1.3,3.3,1.8c1.9,0.7,3.3,1.5,4.1,2.5c0.8,1,1.2,2.2,1.2,3.8
+					c0,1.9-0.7,3.5-2,4.9c-1.4,1.3-3,2-5,2c-1.2,0-2.3-0.2-3.2-0.5c-0.9-0.3-1.7-0.8-2.3-1.5c0.1-0.4,0.2-0.8,0.3-1.1
+					c0.1-0.3,0.1-0.7,0.2-1.1l0.5-0.2c0.5,0.9,1.1,1.6,2,2.1c0.9,0.5,1.8,0.8,2.8,0.8c1.3,0,2.4-0.4,3.2-1.3c0.8-0.8,1.2-1.9,1.2-3.2
+					c0-1.1-0.3-2-1.1-2.7c-0.7-0.7-1.8-1.4-3.4-1.9c-2-0.7-3.4-1.5-4.2-2.5c-0.8-0.9-1.2-2.2-1.2-3.7c0-1.7,0.6-3.1,1.8-4.2
+					c1.2-1.2,2.7-1.7,4.4-1.7c1,0,1.9,0.1,2.7,0.4c0.8,0.2,1.6,0.6,2.3,1.1c-0.2,0.5-0.3,0.9-0.4,1.2C123.5,7.6,123.4,8.1,123.3,8.5
+					L123.3,8.5z M142.4,11.7c-0.1,0.3-0.2,0.6-0.3,1l-0.4,0c-0.5-0.6-1.2-1.2-2-1.5c-0.8-0.4-1.7-0.6-2.5-0.6c-2,0-3.6,0.7-4.8,2.2
+					c-1.2,1.5-1.8,3.4-1.8,5.8c0,2.2,0.6,4,1.8,5.4c1.2,1.4,2.7,2.1,4.6,2.1c1,0,1.9-0.2,2.8-0.5c0.9-0.4,1.7-0.9,2.3-1.5l0.2,0.3
+					c-0.1,0.3-0.1,0.5-0.1,0.7c0,0.2-0.1,0.5-0.1,0.7c-0.8,0.5-1.7,0.8-2.6,1c-0.9,0.2-1.9,0.3-3,0.3c-2.5,0-4.6-0.8-6.2-2.4
+					c-1.6-1.6-2.4-3.7-2.4-6.2c0-2.7,0.8-4.9,2.5-6.6c1.7-1.7,3.9-2.5,6.5-2.5c1,0,2,0.1,2.9,0.3c0.9,0.2,1.8,0.5,2.6,0.8
+					C142.6,11,142.5,11.4,142.4,11.7L142.4,11.7z M160.6,24.8c-1.7,1.7-3.9,2.5-6.7,2.5c-2.7,0-4.8-0.8-6.5-2.4
+					c-1.7-1.6-2.5-3.7-2.5-6.2c0-2.7,0.8-4.9,2.6-6.6c1.7-1.7,3.9-2.5,6.7-2.5c2.7,0,4.8,0.8,6.5,2.4c1.7,1.6,2.5,3.7,2.5,6.2
+					C163.2,20.9,162.3,23.1,160.6,24.8L160.6,24.8z M158.9,12.7c-1.2-1.4-2.8-2.1-4.8-2.1c-2,0-3.6,0.7-4.8,2.2
+					c-1.2,1.5-1.8,3.4-1.8,5.8c0,2.3,0.6,4.1,1.8,5.5c1.2,1.4,2.8,2.1,4.8,2.1c2,0,3.6-0.7,4.8-2.2c1.2-1.5,1.8-3.4,1.8-5.8
+					C160.7,15.9,160.1,14.1,158.9,12.7L158.9,12.7z M177.8,27c-0.6,0-1.1,0-1.5,0.1c-0.2-0.4-0.5-0.8-0.7-1.2c-0.3-0.4-0.8-1-1.4-1.8
+					l-1.4-1.8c-1.1-1.4-2-2.6-2.8-3.6h-0.8c0,2,0,3.8,0,5.4c0,1.1,0.1,1.8,0.1,2.2c0,0.4,0,0.7,0.1,0.9c-0.4,0-0.8-0.1-1.2-0.1
+					c-0.5,0-0.9,0-1.2,0.1c0-0.2,0.1-0.4,0.1-0.9c0-0.4,0-1.1,0.1-2.2c0-1.7,0-3.5,0-5.5c0-2.1,0-3.9,0-5.5c0-1.1-0.1-1.8-0.1-2.2
+					c0-0.4,0-0.7-0.1-0.8c0.8,0,1.4,0,1.9,0.1c0.5,0,0.9,0,1.2,0c0.5,0,0.9,0,1.2-0.1c0.4,0,0.7,0,1,0c1.8,0,3.2,0.3,4.1,1
+					c0.9,0.7,1.3,1.7,1.3,3c0,1.4-0.7,2.5-2,3.4c-0.9,0.6-1.9,0.9-3,1.1c0.8,1.1,1.8,2.4,2.9,3.9l1.3,1.7c0.9,1.1,1.6,1.9,1.9,2.3
+					c0.3,0.4,0.6,0.7,0.7,0.8C178.9,27,178.4,27,177.8,27L177.8,27z M173.8,16.5c0.9-0.6,1.3-1.5,1.3-2.5c0-1-0.3-1.7-1-2.2
+					c-0.7-0.5-1.7-0.8-3-0.8c-0.7,0-1.4,0-2.1,0.1v6.5c0.4,0,0.7,0,1.1,0C171.7,17.5,172.9,17.1,173.8,16.5L173.8,16.5z M185.9,25.7
+					h0.8c0.7,0,1.5,0,2.3-0.1c0.8,0,1.4-0.1,1.7-0.2c-0.1,0.3-0.1,0.5-0.1,0.9c0,0.3,0,0.6,0.1,0.9c-0.4-0.1-0.9-0.1-1.6-0.1
+					c-0.7,0-1.4-0.1-1.9-0.1l-1.9,0c-0.6,0-1.3,0-2,0.1c-0.7,0-1.2,0.1-1.5,0.1c0-0.2,0.1-0.5,0.1-0.9c0-0.4,0-1.1,0.1-2.2
+					c0-1.7,0-3.6,0-5.7c0-2.1,0-4,0-5.6c0-1.1-0.1-1.8-0.1-2.2c0-0.4-0.1-0.7-0.1-0.9c0.3,0,0.8,0.1,1.4,0.1c0.7,0,1.3,0.1,2,0.1l1.9,0
+					c0.7,0,1.4,0,2,0c0.6,0,1.1-0.1,1.5-0.2c-0.1,0.3-0.1,0.5-0.1,0.9c0,0.3,0,0.6,0.1,0.8c-0.3-0.1-0.8-0.1-1.5-0.2
+					c-0.7,0-1.4-0.1-2.1-0.1h-0.9c-0.8,0-1.4,0-2.1,0l-0.1,6.3l2.2,0c0.7,0,1.5,0,2.2-0.1c0.8,0,1.3-0.1,1.6-0.1c0,0.2-0.1,0.5-0.1,0.8
+					c0,0.3,0,0.6,0.1,0.8c-0.3-0.1-0.8-0.1-1.6-0.1c-0.8,0-1.5-0.1-2.2-0.1l-2.2,0c0,2.7,0,5,0.1,7L185.9,25.7L185.9,25.7z"></path>
+				<path id="XMLID_37_" style="fill:#444444;" d="M72.2,27.3c2.7,0,5-0.8,6.7-2.5c1.7-1.7,2.6-3.9,2.6-6.6c0-2.6-0.8-4.6-2.5-6.2
+					c-1.7-1.6-3.8-2.4-6.5-2.4c-2.7,0-5,0.9-6.7,2.5c-1.7,1.7-2.6,3.9-2.6,6.6c0,2.6,0.8,4.6,2.5,6.2C67.4,26.5,69.5,27.3,72.2,27.3
+					L72.2,27.3L72.2,27.3z M72.3,26.2c-2,0-3.6-0.7-4.8-2.1c-1.2-1.4-1.8-3.2-1.8-5.5c0-2.4,0.6-4.4,1.8-5.8c1.2-1.5,2.8-2.2,4.8-2.2
+					c2,0,3.6,0.7,4.8,2.1c1.2,1.4,1.8,3.2,1.8,5.5c0,2.4-0.6,4.4-1.8,5.8C75.9,25.5,74.3,26.2,72.3,26.2L72.3,26.2L72.3,26.2z"></path>
+			  </g>
+			  <path id="XMLID_35_" style="fill:#F77A0B;" d="M27.6,23.1v-9.4c0-0.8-0.7-1.4-1.5-1.3L8.3,14.5c-0.7,0.1-1.2,0.6-1.2,1.3v11.7
+				c0,0.6,0.5,1.2,1.1,1.3L26.1,32c0.8,0.1,1.5-0.5,1.5-1.3v-4.9l-2.8-0.2v3.7L9,27V16.4l15.8-1.3v7.9L27.6,23.1z"></path>
+			  <path id="XMLID_34_" style="fill:#0099CC;" d="M36.1,3.8L12.8,8.9c-0.6,0.1-1.1,0.7-1.1,1.3v3.9l2.2-0.3v-3l20.8-3.7v16.3L14,22.5V16l-2.2,0.2
+				v7c0,0.7,0.5,1.3,1.2,1.3l23.3,1.9c0.8,0.1,1.5-0.6,1.5-1.3v-20C37.7,4.3,36.9,3.6,36.1,3.8z"></path>
+			  <g id="XMLID_2_"></g>
+			  <g id="XMLID_3_"></g>
+			  <g id="XMLID_4_"></g>
+			  <g id="XMLID_5_"></g>
+			  <g id="XMLID_15_"></g>
+			  <g id="XMLID_33_"></g>
+			  <g id="XMLID_67_"></g>
+			  <g id="XMLID_74_"></g>
+			  <g id="XMLID_75_"></g>
+			  <g id="XMLID_76_"></g>
+			  <g id="XMLID_77_"></g>
+			  <g id="XMLID_78_"></g>
+			  <g id="XMLID_79_"></g>
+			  <g id="XMLID_80_"></g>
+			  <g id="XMLID_81_"></g>
+			</svg></a></h1>
+		</div> 
     </div>
 
     <div id="eNav">
@@ -546,7 +530,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/lat/Sobre-comScore/Politica-de-privacidad" title="Español (América Latina)">Español (América Latina)</a></li>
+											<li><a href="/lat/About-comScore/Politica-de-privacidad" title="Español (América Latina)">Español (América Latina)</a></li>
 									
 																															
 																			
@@ -660,7 +644,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mProducts">
+                    <li id="mProducts" style="">
                     
      
                           <a href="/Products" title="Products" class="megamenu_drop">Products</a>
@@ -669,7 +653,7 @@ $(document).ready(function($){
                               
                                                         
                             
-                                                            <div class="dropdown_9columns dropdown_container dropdown_first" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                                                            <div class="dropdown_6columns dropdown_container dropdown_first" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
                                      <!-- container to set the product listing apart from the index -->
                                 
                                                         
@@ -692,7 +676,7 @@ $(document).ready(function($){
                                             
                                         
     
-                                                                            <div class="col_4">
+                                                                            <div class="col_6">
                                         <h3>
                                         
                                         
@@ -720,7 +704,7 @@ $(document).ready(function($){
                                                                                                                                                                     
                                                     
                                                     
-                                                                                                            <li><a href="/Products/Audience-Analytics/Mobile-Metrix2" title="Mobile Metrix">Mobile Metrix</a></li>
+                                                                                                            <li><a href="/Products/Audience-Analytics/Mobile-Metrix" title="Mobile Metrix">Mobile Metrix</a></li>
                                                                                                                                                             	
                                                                                             											
                                                         
@@ -761,8 +745,6 @@ $(document).ready(function($){
                                                                                             	
                                                                                             	
                                                                                             	
-                                                                                            	
-                                                                                            	
                                                                                         
                                             
                                                                                                                                                                                                     
@@ -775,7 +757,7 @@ $(document).ready(function($){
     
                                                                                             	
                                             
-                                                </ul> </div> <!--col_4 responsive_thirds --> 
+                                                </ul></div> <!--col_6 responsive_thirds --> 
                                                                            
                                             
                                                                                 
@@ -801,7 +783,7 @@ $(document).ready(function($){
                                             
                                         
     
-                                                                            <div class="col_4">
+                                                                            <div class="col_6">
                                         <h3>
                                         
                                         
@@ -878,7 +860,7 @@ $(document).ready(function($){
     
                                                                                             	
                                             
-                                                </ul> </div> <!--col_4 responsive_thirds --> 
+                                                </ul></div> <!--col_6 responsive_thirds --> 
                                                                            
                                             
                                                                                 
@@ -887,57 +869,9 @@ $(document).ready(function($){
                                                                                                         
                                                                                                         
                                 
-                                    
-                                    
-                                    
-                                        
-    
-                                    
-                                                                                                                                                            
-                                    
-                                        
-                                        
-                                                                                    
-                                            
-                                            
-                                        
-                                            
-                                        
-    
-                                                                            <div class="col_4">
-                                        <h3>
-                                        
-                                        
-                                    
-                                        
-                                        <a class="sf-with-ul " href="/Products/Enterprise-Analytics" title="Enterprise Analytics">Enterprise Analytics<span class="sf-sub-indicator"></span></a>
-    
-                                                                                    </h3>
-                                            
-                                        
-                                                                                    
-                                            <ul class="greybox">
-                                                                                                                                        	
-                                                                                            											
-                                                        
-                                                    
-                                                                                                                                                                    
-                                                    
-                                                    
-                                                                                                            <li><a href="/Products/Enterprise-Analytics/Digital-Analytix-Enterprise" title="Digital Analytix Enterprise">Digital Analytix Enterprise</a></li>
-                                                                                                                                                            	
-                                                                                        
-                                            
-                                            	
-                                            
-                                                </ul> </div> <!--col_4 responsive_thirds --> 
-                                                                           
-                                            
-                                                                                
-                                
                                                                 
                                                                                                         
-                                    
+                                                                                                        
                                 
                                                                                         
                                                              </div><!-- 7columns -->
@@ -951,7 +885,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mIndustries">
+                    <li id="mIndustries" style="">
                     
      
                           <a href="/Industries" title="Industries" class="megamenu_drop">Industries</a>
@@ -965,10 +899,6 @@ $(document).ready(function($){
                                 
                                                         
                                 
-                                                                                                        
-                                                                                                        
-                                
-                                                                
                                                                                                         
                                     
                                 
@@ -1395,7 +1325,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mInsights">
+                    <li id="mInsights" style="">
                     
      
                           <a href="/Insights" title="Insights" class="megamenu_drop">Insights</a>
@@ -1440,6 +1370,32 @@ $(document).ready(function($){
                                     
                                         
                                         <a class="" href="/Insights/Press-Releases" title="Press Releases">Press Releases</a>
+    
+                                                                                    </li>
+                                            
+                                        
+                                                                                
+                                
+                                                                
+                                                                                                        
+                                                                                                        
+                                
+                                    
+                                    
+                                    
+                                        
+    
+                                    
+                                        
+                                    
+                                                                                                                    
+    
+                                                                            <li>
+                                        
+                                        
+                                    
+                                        
+                                        <a class="" href="/Insights/Rankings" title="Rankings">Rankings</a>
     
                                                                                     </li>
                                             
@@ -1544,32 +1500,6 @@ $(document).ready(function($){
                                     
                                         
                                         <a class="" href="/Insights/Data-Mine" title="Data Mine">Data Mine</a>
-    
-                                                                                    </li>
-                                            
-                                        
-                                                                                
-                                
-                                                                
-                                                                                                        
-                                                                                                        
-                                
-                                    
-                                    
-                                    
-                                        
-    
-                                    
-                                        
-                                    
-                                                                                                                    
-    
-                                                                            <li>
-                                        
-                                        
-                                    
-                                        
-                                        <a class="" href="/Insights/Market-Rankings" title="Market Rankings">Market Rankings</a>
     
                                                                                     </li>
                                             
@@ -1703,7 +1633,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mProducts">
+                    <li id="mProducts" style="">
                     
      
                           <a href="/Programmatic" title="Programmatic" class="megamenu_drop">Programmatic</a>
@@ -1768,7 +1698,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mProducts">
+                    <li id="mProducts" style="">
                     
      
                           <a href="/Products/Audience-Analytics/Cross-Media" title="Cross Media" class="megamenu_drop">Cross Media</a>
@@ -1788,10 +1718,10 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mProducts">
+                    <li id="mProducts" style="">
                     
      
-                          <a href="/comScore-Academy" title="Academy" class="megamenu_drop">Academy</a>
+                          <a href="/comScore-Learning" title="Learning" class="megamenu_drop">Learning</a>
     
                           
                               
@@ -1805,27 +1735,13 @@ $(document).ready(function($){
                                                                                                         
                                                                                                         
                                 
-                                    
-                                    
-                                    
-                                        
-    
-                                    
-                                        
-                                    
-                                                                                                                    
-    
-                                                                            <li>
-                                        
-                                        
-                                    
-                                        
-                                        <a class="" href="/comScore-Academy/About-comScore-Academy" title="About comScore Academy">About comScore Academy</a>
-    
-                                                                                    </li>
-                                            
-                                        
-                                                                                
+                                                                
+                                                                                                        
+                                                                                                        
+                                
+                                                                
+                                                                                                        
+                                                                                                        
                                 
                                                                 
                                                                                                         
@@ -1846,59 +1762,7 @@ $(document).ready(function($){
                                         
                                     
                                         
-                                        <a class="" href="/comScore-Academy/Course-Catalog" title="Course Catalog">Course Catalog</a>
-    
-                                                                                    </li>
-                                            
-                                        
-                                                                                
-                                
-                                                                
-                                                                                                        
-                                                                                                        
-                                
-                                    
-                                    
-                                    
-                                        
-    
-                                    
-                                        
-                                    
-                                                                                                                    
-    
-                                                                            <li>
-                                        
-                                        
-                                    
-                                        
-                                        <a class="" href="/comScore-Academy/Certified-Expert-Program" title="Certified Expert Program">Certified Expert Program</a>
-    
-                                                                                    </li>
-                                            
-                                        
-                                                                                
-                                
-                                                                
-                                                                                                        
-                                                                                                        
-                                
-                                    
-                                    
-                                    
-                                        
-    
-                                    
-                                        
-                                    
-                                                                                                                    
-    
-                                                                            <li>
-                                        
-                                        
-                                    
-                                        
-                                        <a class="" href="/comScore-Academy/Partner-Accreditation-Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
+                                        <a class="" href="/comScore-Learning/Certified-Expert-Program" title="Certified Expert Program">Certified Expert Program</a>
     
                                                                                     </li>
                                             
@@ -1936,7 +1800,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mAbout">
+                    <li id="mAbout" style="">
                     
      
                           <a href="/About-comScore" title="About Us" class="megamenu_drop">About Us</a>
@@ -2173,6 +2037,10 @@ $(document).ready(function($){
                                         
                                                                                 
                                 
+                                                                
+                                                                                                        
+                                                                                                        
+                                
                                                                                         
                                                             </ul></div>
                                                             
@@ -2184,7 +2052,7 @@ $(document).ready(function($){
 
 				
                 
-                    <li id="mCareers">
+                    <li id="mCareers" style="">
                     
      
                           <a href="/Careers" title="Careers" class="megamenu_drop">Careers</a>
@@ -2534,6 +2402,7 @@ $(document).ready(function($){
 
 
 
+
 <div id="footer_wrap" class="cfx">
 <div id="footer" class="cfx">
 
@@ -2623,15 +2492,10 @@ $(document).ready(function($){
                                                                                                                                     
                                                                                                                                     
                                 
-                                                                
-                                    <li>
-                                        
-                                        <a href="/Products/Enterprise-Analytics" title="Enterprise Analytics">Enterprise Analytics</a>
-                                    </li>
                                 		
                                                             
                                                                                                                                     
-                                                                
+                                                                                                                                    
                                 
                                 		
                                                                                   			</ul>	
@@ -2650,11 +2514,6 @@ $(document).ready(function($){
                                                     
                                 
                             
-                                                            
-                                                                                                                                    
-                                                                                                                                    
-                                
-                                		
                                                             
                                                                                                                                     
                                                                 
@@ -2863,6 +2722,16 @@ $(document).ready(function($){
                                                                 
                                     <li>
                                         
+                                        <a href="/Insights/Rankings" title="Rankings">Rankings</a>
+                                    </li>
+                                		
+                                                            
+                                                                                                                                    
+                                                                                                                                    
+                                
+                                                                
+                                    <li>
+                                        
                                         <a href="/Insights/Presentations-and-Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers</a>
                                     </li>
                                 		
@@ -2894,16 +2763,6 @@ $(document).ready(function($){
                                     <li>
                                         
                                         <a href="/Insights/Data-Mine" title="Data Mine">Data Mine</a>
-                                    </li>
-                                		
-                                                            
-                                                                                                                                    
-                                                                                                                                    
-                                
-                                                                
-                                    <li>
-                                        
-                                        <a href="/Insights/Market-Rankings" title="Market Rankings">Market Rankings</a>
                                     </li>
                                 		
                                                             
@@ -3026,7 +2885,7 @@ $(document).ready(function($){
 				<ul>					
                     <li class="main">
     
-                          <a href="/comScore-Academy" title="Academy" class="main">Academy</a>
+                          <a href="/comScore-Learning" title="Learning" class="main">Learning</a>
                           
                                                     
                                 
@@ -3035,40 +2894,25 @@ $(document).ready(function($){
                                                                                                                                     
                                                                                                                                     
                                 
+                                		
+                                                            
+                                                                                                                                    
+                                                                                                                                    
+                                
+                                		
+                                                            
+                                                                                                                                    
+                                                                                                                                    
+                                
+                                		
+                                                            
+                                                                                                                                    
+                                                                                                                                    
+                                
                                                                 
                                     </li><li>
                                         
-                                        <a href="/comScore-Academy/About-comScore-Academy" title="About comScore Academy">About comScore Academy</a>
-                                    </li>
-                                		
-                                                            
-                                                                                                                                    
-                                                                                                                                    
-                                
-                                                                
-                                    <li>
-                                        
-                                        <a href="/comScore-Academy/Course-Catalog" title="Course Catalog">Course Catalog</a>
-                                    </li>
-                                		
-                                                            
-                                                                                                                                    
-                                                                                                                                    
-                                
-                                                                
-                                    <li>
-                                        
-                                        <a href="/comScore-Academy/Certified-Expert-Program" title="Certified Expert Program">Certified Expert Program</a>
-                                    </li>
-                                		
-                                                            
-                                                                                                                                    
-                                                                                                                                    
-                                
-                                                                
-                                    <li>
-                                        
-                                        <a href="/comScore-Academy/Partner-Accreditation-Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
+                                        <a href="/comScore-Learning/Certified-Expert-Program" title="Certified Expert Program">Certified Expert Program</a>
                                     </li>
                                 		
                                                             
@@ -3212,6 +3056,11 @@ $(document).ready(function($){
                                         <a href="/About-comScore/Third-Party-Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
                                     </li>
                                 		
+                                                            
+                                                                                                                                    
+                                                                                                                                    
+                                
+                                		
                                                                                   			</ul>	
 						
 			               
@@ -3323,7 +3172,7 @@ $(document).ready(function($){
 						</li>
 													
 				
-									<li>© 2015 comScore, Inc. </li>
+									<li>© 2016 comScore, Inc. </li>
 								
 				
        							
@@ -3371,14 +3220,13 @@ $(document).ready(function($){
 
 	    <div class="hdn" id="geo" data-cntry="US" data-cnt="NA"></div>
     
-    		<!-- SURVEY SCRIPT -->
-		<script src="//siterecruit.comscore.com/sr/cs/broker.js?cs=US"></script>
-    
+ 
+
 
 <!-- comscore beacon -->
 <script>
-  document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+  document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + "-stage.scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb-stage.scorecardresearch.com/beacon.js"></script>
 <script>
   COMSCORE.beacon({
     c1:2,
@@ -3391,7 +3239,7 @@ $(document).ready(function($){
   });
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/b?c1=0&amp;c2=&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none;" width="0" height="0" alt="" />
+  <img src="https://sb-stage.scorecardresearch.com/b?c1=0&amp;c2=&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none;" width="0" height="0" alt="" />
 </noscript>
 
 
