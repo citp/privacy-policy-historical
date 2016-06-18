@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developersummit.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430150124id_/http%3A//www.developermarch.com/developersummit/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developersummit.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183356id_/http%3A//www.developermarch.com/developersummit/privacyPolicy.html) for the most accurate reproduction.*
 
 # Great Indian Developer Summit :: Conference, Expo, and Awards on Java, Mobile, Rich Web, .NET :: Saltmarch Media Summits
 
