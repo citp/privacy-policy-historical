@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thedownliner.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011012238id_/http%3A//thedownliner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedownliner.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618094437id_/http%3A//thedownliner.com/privacy.php) for the most accurate reproduction.*
 
 # The Downliner | Privacy Policy
-
-[ ](https://web.archive.org/web/20151011012238id_/http%3A//thedownliner.com/index.php "Return to Dashboard")
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
