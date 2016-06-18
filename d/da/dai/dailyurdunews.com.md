@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyurdunews.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217050753id_/http%3A//www.dailyurdunews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyurdunews.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618061412id_/http%3A//www.dailyurdunews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Urdu News
 
