@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the thesixtyone.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217091141id_/http%3A//www.thesixtyone.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesixtyone.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618041051id_/http%3A//www.thesixtyone.com/static/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" class=" audio no-touchevents"><head>
   <title>thesixtyone - a music adventure</title>
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="description" content="Find your new favorite song in less than five minutes a day. thesixtyone tracks the web's musical obsessions in real time, delivering the best to your doorstep. ">
-  <meta name="keywords" content="digg music radio pandora mp3 free download artist album indie rock streaming ">
-  <link rel="apple-touch-icon" href="http://www.thesixtyone.com/site_media/images/apple-touch-icon.png">
+  <meta name="description" content="thesixtyone is a music discovery game that connects artists and fans">
+  <meta name="keywords" content="digg music discovery game streaming indie independent radio pandora mp3 free download artist ">
+  <link rel="apple-touch-icon" href="/site_media/images/apple-touch-icon.png">
   
   
-  </head><body onload="t61.init();"><div id="header_css">
+  <style type="text/css" media="screen">#flash_song_player_content {visibility:hidden}</style></head><body onload="t61.init();"><div id="header_css">
   
-  <link href="http://www.thesixtyone.com/site_media/stylesheets/thesixtyone_gray.v11247.css" media="screen" rel="Stylesheet" type="text/css">
+  <link href="/site_media/stylesheets/thesixtyone_gray.v49197aed6a53340581e434b84edb36c4fdd93dbd.css" media="screen" rel="Stylesheet" type="text/css">
 
 
   </div>
@@ -20,23 +20,38 @@
 
 
 
-  <div id="back_button_container"><div style="margin-right:2px;" id="back_button"></div><div id="forward_button"></div></div>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script>
+ window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '7128185562',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
 
-  <div id="page_layout">
-    <table id="top_toolbar" style="position:fixed;" cellspacing="0" cellpadding="0">
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+  <div id="top_toolbar_wrapper">
+    <table id="top_toolbar" cellspacing="0" cellpadding="0">
       <tbody><tr>
       <td><div id="miniplayer_menu_and_player">
   <div id="miniplayer">
     <table cellspacing="0" cellpadding="0">
     <tbody><tr><td valign="middle" id="miniplayer_controls_container">
-    <div id="miniplayer_controls">
-      <div class="prev_button button" id="miniplayer_prev_button"></div>
-      <div class="pause_button button" id="miniplayer_pause_button" style="display:none;"></div>
-      <div class="play_button button" id="miniplayer_play_button"></div>
-      <div class="next_button button" id="miniplayer_next_button"></div>
+    <div id="miniplayer_controls" class="row_parent">
+      <div class="prev_button button" id="miniplayer_prev_button">◄|</div>
+      <div class="pause_button button" id="miniplayer_pause_button" style="display:none;">||</div>
+      <div class="play_button button" id="miniplayer_play_button">►</div>
+      <div class="next_button button" id="miniplayer_next_button">|►</div>
       <div id="miniplayer_volume_slider">
-        <div id="miniplayer_volume_track" style="width:36px; height: 4px;">
-          <div id="miniplayer_volume_handle" style="height: 8px; width: 12px;"></div>
+        <div id="miniplayer_volume_track" style="width: 36px; height: 4px; background-position: -18px 0px;">
+          <div id="miniplayer_volume_handle" style="height: 8px; width: 12px; left: 12px; position: relative;" class="selected"></div>
         </div>
         <div class="miniplayer_volume_track_corners"></div>
       </div>
@@ -50,7 +65,7 @@
           </td>
           <td valign="middle" style="padding-left:5px;">
             <div id="miniplayer_titles" class="miniplayer_titles">
-              <div><span id="miniplayer_song_title">Loading...</span> (<span id="miniplayer_progress">0:00</span>)</div>
+              <div><span id="miniplayer_song_title">Ready</span> (<span id="miniplayer_progress">0:00</span>)</div>
               <div id="miniplayer_artist_name"></div>
             </div>
             <div id="miniplayer_status" class="miniplayer_titles" style="display:none;"></div>
@@ -58,13 +73,11 @@
           <td></td>
         </tr>
       </tbody></table>
-      <div id="miniplayer_filler"></div>
-      </div>
     </div>
-    </td></tr></tbody></table>
+    </div></td></tr></tbody></table>
   </div>
 
-  <div id="miniplayer_menu" class="top_menu" style="display:none;">
+  <div id="miniplayer_menu" class="top_menu" style="display: none; position: absolute;">
     <div id="miniplayer_menu_contents" class="top_menu_contents">
       <div id="miniplayer_links" class="actions">
         <a href="#" onclick="if (t61.current_song) t61.song.bump(t61.current_song.id); return false;" class="light" id="miniplayer_score">?</a> &nbsp;
@@ -77,7 +90,7 @@
           <td valign="middle">
             <div id="miniplayer_progress_slider">
               <div id="miniplayer_progress_track" style="width:195px;">
-                <div id="miniplayer_progress_handle" style="height:5px;width:1px;"></div>
+                <div id="miniplayer_progress_handle" style="height: 5px; width: 1px; left: 0px; position: relative;" class="selected"></div>
               </div>
             </div>
           </td>
@@ -91,7 +104,6 @@
       <div class="miniplayer_menu_song_container" id="miniplayer_menu_favorited" style="display:none;"><div class="item">Loading...</div></div>
       <div class="miniplayer_menu_song_container" id="miniplayer_menu_play_history"><div class="filler"></div></div>
     </div>
-    <div class="bottom_menu_left" style="width:142px;"></div><div class="bottom_menu_right"></div>
   </div>
 
 </div></td>
@@ -103,7 +115,7 @@
   <tbody><tr>
 
     <td class="top_nav">
-      <a href="#" onclick="t61.quests.open_log(); return false;" id="quest_log_link" title="quest log">
+      <a href="#" onclick="t61.quests.open_log(); return false;" id="quest_log_link" title="quest log" style="position: absolute;">
         <div id="current_quest_count">3</div>
       </a>
       <div class="nav_button"><a class="no_menu" href="#" onclick="t61.quests.open_log(); return false;" style="padding-right:5px;background-image:none;">quests</a></div>
@@ -120,7 +132,7 @@
 
 
   <div class="nav_button">
-    <a id="join_or_login_button" class="no_menu" href="#" onclick="t61.user.on_login_click(); return false;" style="padding-right:5px;background-image:none;">join / login</a>
+    <a id="join_or_login_button" href="#" onclick="t61.user.on_login_click(); return false;">login</a>
   </div>
 
 
@@ -136,20 +148,19 @@
   
 </div>
 
-        <div class="top_menu" id="top_menu_for_popular" style="display:none;">
+        <div class="top_menu" id="top_menu_for_popular" style="display: none; position: absolute;">
           <div class="top_menu_contents">
             
             <div class="item"><a href="http://www.thesixtyone.com/top/" graceful="true">top songs</a></div>
             <div class="item"><a href="http://www.thesixtyone.com/hot/" graceful="true">hot right now</a></div>
             <div class="item"><a href="http://www.thesixtyone.com/new/" graceful="true">recently posted</a></div>
-            <div class="item"><a href="http://www.thesixtyone.com/cc/" graceful="true">creative commons</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/best_selling/" graceful="true">best selling</a></div>
           </div>
-          <div class="bottom_menu_left"></div><div class="bottom_menu_right"></div>
         </div>
       </div>
     </td>
-    <td class="top_nav" style="display:none;">
-      <div id="top_menu_and_button_for_browse">
+    <td class="top_nav">
+      <div id="top_menu_and_button_for_browse" class="disabled">
         
 <div class="nav_button">
   
@@ -157,14 +168,14 @@
   
 </div>
 
-        <div class="top_menu" id="top_menu_for_browse" style="display:none;">
+        <div class="top_menu" id="top_menu_for_browse" style="display: none; position: absolute;">
           <div class="top_menu_contents">
-            <div class="item"><a href="http://www.thesixtyone.com/browse/most_active/" graceful="true">most active</a></div>
-            <div class="item"><a href="http://www.thesixtyone.com/browse/recently_submitted/" graceful="true">recently submitted</a></div>
-            <div class="item"><a href="http://www.thesixtyone.com/browse/revive_bids/" graceful="true">revive bids</a></div>
             <div class="item"><a href="#" onclick="t61.therack.open();  return false;">the rack: earn bonus hearts</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/browse/recently_submitted/" graceful="true">submitted today</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/browse/week/" graceful="true">week</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/browse/most_active/" graceful="true">most active</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/browse/revive_bids/" graceful="true">revive bids</a></div>
           </div>
-          <div class="bottom_menu_left"></div><div class="bottom_menu_right"></div>
         </div>
       </div>
     </td>
@@ -177,14 +188,15 @@
   
 </div>
 
-        <div class="top_menu" id="top_menu_for_social" style="display:none;">
+        <div class="top_menu" id="top_menu_for_social" style="display: none; position: absolute;">
           <div class="top_menu_contents">
-            <div class="item"><a href="http://www.thesixtyone.com/group/" graceful="true">listener groups</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/group/" graceful="true">main group</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/group/browse/" graceful="true">browse groups</a></div>
             <div class="item"><a href="http://www.thesixtyone.com/leaders/" graceful="true">leaderboards</a></div>
             <div class="item"><a href="http://www.thesixtyone.com/inviter/show_inviter/" graceful="true">invite friends</a></div>
+            <div class="item"><a href="http://www.thesixtyone.com/forum/" graceful="true">forum</a></div>
             
           </div>
-          <div class="bottom_menu_left"></div><div class="bottom_menu_right"></div>
         </div>
       </div>
     </td>
@@ -201,22 +213,37 @@
       </div>
       </td><td style="width:95px;">
       <a href="http://www.thesixtyone.com/" graceful="true" style="height:25px;display:block;float:right;margin: -2px 12px 0px 0px;"> 
-        <img src="http://www.thesixtyone.com/site_media/images/thesixtyone_logo.png">
+        <img style="height:25px;" src="http://www.thesixtyone.com/site_media/images/thesixtyone_logo.png">
       </a>
       </td>
       </tr>
     </tbody></table>
+  </div>
+  <div id="page_layout">
 
-    <div class="top_toolbar_filler"></div>
+  
+    <div id="top_banner">
+      <style type="text/css">
+</style>
 
-
-    <div style="width:968px;text-align:center;margin-top:12px;clear:both;float:left;">
-      <div class="horizontal_blah">
+<div class="horizontal_blah">
   <div class="horizontal_blah_content" id="horizontal_blah_content">
+
+<div onclick="t61.user.on_login_click(); return false;" style="text-decoration:none;">
+<div style="text-align:center;display:table;width:100%;line-height:30px;cursor:pointer;">
+  <div style="display: table-cell; vertical-align: middle;">
+    <div style="font-size:1.3em;margin:0px auto;overflow:hidden; text-align:center;color:#444;">
+ <b>thesixtyone</b> is a music discovery game that connects artists and fans <br> <a class="button_link" style="font-size:0.9em;">Sign up</a> to begin your musical adventure
+    </div>
+  </div>
+</div>
+</div>
+
   </div>
 </div>
 
     </div>
+  
 
     <div id="page_notice_type" class="">
     
@@ -270,11 +297,10 @@
 
     <div id="page_footer">
       <div id="bottom_navigation">
-        <a href="http://www.thesixtyone.com/static/about/" graceful="true">about</a> | <a href="http://www.thesixtyone.com/static/jobs/" graceful="true">jobs</a> | <a href="http://www.thesixtyone.com/faq/" graceful="true">faq</a> | <a href="http://thesixtyone.spreadshirt.com" target="_blank">apparel</a> | <a href="http://thesixtyone.posterous.com/" target="_blank">blog</a> | <a href="mailto:help@thesixtyone.com">contact</a> | <a href="http://www.thesixtyone.com/static/privacy/" graceful="true">privacy</a> | <a href="http://www.thesixtyone.com/static/service/" graceful="true">terms</a> | <a href="http://www.thesixtyone.com/purchases/bazaar/" graceful="true">bazaar</a> | © 2009 thesixtyone <br><br>
+        <a href="http://www.thesixtyone.com/static/about/" graceful="true">about</a> | <a href="http://www.thesixtyone.com/faq/" graceful="true">faq</a> | <a href="http://thesixtyone.spreadshirt.com" target="_blank">apparel</a> | <a href="mailto:help@thesixtyone.com">contact</a> | <a href="http://www.thesixtyone.com/static/privacy/" graceful="true">privacy</a> | <a href="http://www.thesixtyone.com/static/service/" graceful="true">terms</a> | <a href="http://www.thesixtyone.com/purchases/bazaar/" graceful="true">bazaar</a>  | <a href="http://www.thesixtyone.com/forum/" graceful="true">forum</a> | © 2016 thesixtyone <br><br>
 
-<div style="width:200px;margin:auto;text-align:left;padding-bottom:12px;"><a href="/purchases/bazaar/" graceful="true"><img src="http://www.thesixtyone.com/site_media/images/bazaar_jingo.gif"></a></div>
+<div style="width:200px;margin:auto;text-align:left;padding-bottom:12px;"><a href="/purchases/bazaar/" graceful="true"><img src="/site_media/images/bazaar_jingo.gif"></a></div>
 
-<span class="label"><img src="http://www.thesixtyone.com/site_media/images/facebook_16x16.png" style="position: relative; top: 3px; padding-right: 2px;"><a href="/fbconnect/show_account_linker/" graceful="true">connect your account</a>, <a href="http://www.facebook.com/pages/thesixtyone/11594574625?ref=ts" target="_blank">join our facebook page</a> or <a href="http://www.facebook.com/apps/application.php?id=7128185562" target="_blank">add your badge</a> </span>
       </div> 
     </div>
 
@@ -289,32 +315,14 @@
     </div>
   </div>
 
-  <div id="flash_song_player_content"></div>
+  <audio id="html5audio"></audio>
+  <audio id="html5sfx"></audio>
+
+  <div id="flash_song_player_content" style="visibility: visible;"></div>
   <div class="image_cache" id="image_cache">
-    <img src="http://www.thesixtyone.com/site_media/images/album_play_button.png">
-    <img src="http://www.thesixtyone.com/site_media/images/album_pause_button.png">
-    <img src="http://www.thesixtyone.com/site_media/images/menu_bottom_rounded_corners.png">
-  </div>
-
-  <div id="feedback">
-    <img id="feedback_link" src="http://www.thesixtyone.com/site_media/images/feedback.gif" onclick="t61.feedback.open(); return false;">
-      <div id="feedback_form_wrapper" style="display:none;">
-	
-<a class="close light" style="float:right;margin-right:5px;" href="#" onclick="t61.feedback.close(); return false;">CLOSE X</a>
-<form id="feedback_form" action="." onsubmit="t61.feedback.submit(); return false;">
-  <div style="margin: 8px; width: 184px; float: left;">
-    <select name="subject">
-      <option value="bug">found a bug</option>
-      <option value="quest_idea">idea for a quest</option>
-    </select>
-   email:<br>
-   <input type="text" class="email" name="email"><br>
-  <textarea name="body" id="feedback_body" style="height: 180px; margin-top: 8px;"></textarea>
-<input type="submit" class="input_submit_button" value="submit">
-
-  </div>
-</form>
-      </div>
+    <img src="/site_media/images/album_play_button.png">
+    <img src="/site_media/images/album_pause_button.png">
+    <img src="/site_media/images/menu_bottom_rounded_corners.png">
   </div>
 
   <div id="popup_overlay_wrapper">
@@ -333,47 +341,10 @@
   <div id="popup_wrapper">
     <div id="popup" style="display:none;">
       <div id="popup_content">
-        
-<div style="padding:5px;">
-<div class="upper_corner">
-<h1>LOGIN</h1>
-<a href="#" class="medium" style="font-weight:bold;" onclick="new Ajax.Request('/user/show_register_popup/'); return false;">or join</a>
-</div>
-
-<form id="login_popup_form" style="margin-top:20px;" action="." method="post" onsubmit="t61.user.start_login($('id_email').value, $('id_password').value); return false;" autocomplete="on">
-<table id="login_popup_content" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" class="textfield">
-      <p>email or username</p>
-      <input id="id_email" name="email" type="text" value="">
-    </td>
-  </tr>
-  <tr>
-    <td class="textfield">
-      <p>password</p>
-      <input id="id_password" name="password" type="password">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <span style="font-size:0.8em;">Forgot your password? Click <a href="/user/forgot_password/" graceful="true" class="medium">here</a>.</span>
-      <br><br>
-      <a href="#" style="position:relative;top:1px;" onclick="setTimeout(function() {FB.Connect.requireSession(t61.fbconnect.on_login);}, 1); return false;"><img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_small_short.gif" title="click to login via facebook"></a>
-    </td>
-  </tr>
-
-</tbody></table>
-
-
-<input type="submit" class="input_submit_button" value="Login">
-
-
-</form>
-</div>
       </div>
     </div>
     <div class="status" id="popup_status" style="display:none;"></div>
-    <img class="close" id="popup_close" style="display:none;" onclick="t61.popup.hide({from_user:true}); return false;" src="http://www.thesixtyone.com/site_media/images/close_button.png">
+    <img class="close" id="popup_close" style="display:none;" onclick="t61.popup.hide({from_user:true}); return false;" src="/site_media/images/close_button.png">
     <div id="popup_extras">
       <div id="flash_file_io_content" style="margin-top:-10000px;"></div>
     </div>
@@ -407,18 +378,17 @@
   </script>
  
   
-  <script src="http://www.thesixtyone.com/site_media/javascripts/thesixtyone.v11247.js" type="text/javascript"></script>
+  <script src="/site_media/javascripts/thesixtyone.v49197aed6a53340581e434b84edb36c4fdd93dbd.js" type="text/javascript"></script>
   
 
-  <script src="http://www.thesixtyone.com/site_media/javascripts/adsense.js" type="text/javascript"></script>
-
   <script type="text/javascript" id="globaljs">
-    swfobject.embedSWF("/site_media/swf/song_player_f9.v11247.swf", "flash_song_player_content", "0", "0", "9.0.0", null, {}, {'allowscriptaccess': true}, {'id': 'flash_song_player', 'name': 'flash_song_player'});
+    swfobject.embedSWF("/site_media/swf/song_player_f9.v49197aed6a53340581e434b84edb36c4fdd93dbd.swf", "flash_song_player_content", "0", "0", "9.0.0", null, {}, {'allowscriptaccess': true}, {'id': 'flash_song_player', 'name': 'flash_song_player'});
 
     if (!this["console"]) var console = {'log': function() {}}; // for firebug compatibility with non-Firefox browsers
     t61.environment = 'production';
+    t61.bucket_name = 'thesixtyone_production';
     
-      t61.level.xp_requirements = [-1, 0, 200, 400, 650, 1000, 1400, 2000, 2800, 3800, 5300, 7500, 11700, 17550, 26300, 39500, 59200, 88850, 133270, 199900, 299858, 449800, 674700, 1012050, 1518075, 2277110];
+      t61.level.xp_requirements = [-1, 0, 50, 120, 230, 400, 640, 840, 1090, 1390, 1740, 2170, 2680, 3290, 4030, 4910, 5970, 7230, 8760, 10600, 12800, 15400, 18600, 22300, 26900, 32300, 38900, 46700, 56100, 67400, 81000, 97200, 117000, 140000, 168000, 202000, 242000, 291000, 349000, 419000, 503000, 604000, 725000, 870000, 1040000, 1250000, 1500000, 1800000, 2160000, 2600000, 3120000, 3740000, 4490000, 5390000];
       t61.is_artist = false;
     
     
@@ -427,21 +397,23 @@
     t61.user_volume = 0.5;
     t61.is_logged_in = false;
     
-    t61.session_key = '1513a4f2fc63b7a95f910c0c7236211e';
+    t61.session_key = 'cc7b7652f1478eca08ea1883e4bf3d15';
     
        
        if (t61.quests.fix_ui) t61.quests.fix_ui();
        
     
+    t61.fb_app_id = '7128185562';
     t61.viewport = t61.util.get_viewport();
     t61.page_title = "thesixtyone - a music adventure";
-    t61.media_url = 'http://www.thesixtyone.com';
+    t61.media_url = '';
     t61.site_url = 'http://www.thesixtyone.com';
-    t61.s3_audio_load = 0.0;
-    t61.revision = '11247';
+    t61.secure_site_url = t61.site_url.replace('http://','https://');
+    t61.s3_audio_load = 1.0;
+    t61.revision = '49197aed6a53340581e434b84edb36c4fdd93dbd';
     t61.is_ajax = false;
     t61.facebook_api_key = '56831976ea0e7c00865215945ec55460';
-
+    
   </script>
 
   <script type="text/javascript" id="customjs">
@@ -469,20 +441,10 @@ var pageTracker = _gat._getTracker("UA-2531913-1");
 pageTracker._trackPageview();
 </script>
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-52tPwtcDlSoqU",
-labels:"Music Channel"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-85ftztd0sdzlA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
 
-
+  <div class="modernizer">
+    <ul><li class="audio">audio</li><li class="touchevents">touchevents</li><li class="setclasses">setclasses</li></ul>
+  </div>
 
 
 </body></html>
