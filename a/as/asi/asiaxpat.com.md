@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiaxpat.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216130429id_/http%3A//hongkong.asiaxpat.com/default.aspx%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaxpat.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618173326id_/http%3A//hongkong.asiaxpat.com/default.aspx%3Fpagename%3Dprivacy) for the most accurate reproduction.*
 
 # HK AsiaXPAT Privacy Policy | Terms & Conditions | Data Security
 
