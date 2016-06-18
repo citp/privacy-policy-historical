@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyparcel.my privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811230334id_/https%3A//secure.easyparcel.my/pass/%3Fpg%3DPerDataProAct) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyparcel.my privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618022840id_/https%3A//secure.easyparcel.my/pass/%3Fpg%3DPerDataProAct) for the most accurate reproduction.*
 
 # EasyParcel | Delivery Made Easy
 
@@ -105,3 +105,6 @@ support@easyparcel.my
   1. Any inquiries to the processing of personal data shall be submitted to EasyParcel by e-mail at support@easyparcel.my 
 
 
+
+Created & Powered By EasyParcel Sdn Bhd (1028666-H). GST No: 000224432128.  
+All Copyrights Reserved © 2016
