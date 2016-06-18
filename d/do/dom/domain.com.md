@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domain.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230134541id_/http%3A//www.domain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domain.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618215511id_/http%3A//www.domain.com/legal/legal_privacy) for the most accurate reproduction.*
 
 # Domain.com's Privacy Policy
 
@@ -46,6 +46,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on April 30, 2015.**
+**This file was last modified on May 29, 2015.**
 
  ****
