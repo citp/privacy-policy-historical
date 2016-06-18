@@ -1,107 +1,185 @@
-> *The following text is extracted and transformed from the theelevationgroup.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212175642id_/http%3A//theelevationgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theelevationgroup.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618042809id_/http%3A//theelevationgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+Fair Information Practices 
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the internet's vast array of information, tools, and opportunities with complete confidence.
+Fair information  
+Practices
 
-**_Introduction_** Our company collects information in different ways from Visitors and Subscribers who access the various parts of our Services and the network of web sites accessible through our Service. 
-
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet Services (the "Services") – those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Subscribers") – what we do with the information we collect, and the choices Visitors and Subscribers have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
-
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
-
-**_Registration_** Subscribers may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Subscribers during the registration process is used to manage each Subscriber's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
-
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed do the Services as a result of the joint promotion for the purpose of offering you other products and services.
-
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Subscribers provide during registration (such as the total number, but not the names, of Subscribers). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
-
-Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our Subscribers, with or without compensation from those companies. At times we may send and advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
-
-**_Our Company Partners and Sponsors_** Some products and services may be offered to Visitors and Subscribers in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information.
-
-**_Online Shopping_** At some web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
-
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. 
-
-If you order services or products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with. 
-
-**_Online Advertisements_** Our company may display our online advertisements. In those cases we share information about our Visitors and Subscribers collected through the registration process as well as through online surveys and promotions with these advertisers.
-
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Subscribers with these advertisers or joint venture companies.
-
-**_Responses to Email Inquiries_** When Visitors or Subscribers send email inquiries to our company, the return email address is used to answer the email inquiry we receive. 
-
-**_Voluntary Customer Surveys_** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you.
-
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic response to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
-
-**_Promotions_** Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or co-branded with third parties. You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. Due to these third party relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to our company. Our company has no control over third parties' use of this information. 
-
-Additionally, personally identifiable information may be collected when you order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our Services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include but may not be limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Our sponsors or third parties may send you material that relates to our company's services, products or activities.
-
-**_Special Cases_** It is our company's policy to use or share the personal information about Visitors or Subscribers in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses.
-
-Also, we may disclose personal information about Visitors or Subscribers, or information regarding your use of the Services or web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use and Service, or other user policies; to operate the Services properly; or to protect our company and our Subscribers. 
-
-**_Browser Level Information_** The Elevation Group, Inc. web servers may automatically collect information about a site user's IP address, browser type and the URL that you just came from (whether this URL is on the website or not) and which URL you next go to (whether this URL is on the website or not) by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used – in an aggregated, anonymous manner – in our internal analysis of traffic patterns within our website. This information is automatically logged by most websites. The Elevation Group, Inc. may also use a third party to collect information, including through the use of web beacons. 
-
-**_Notice of Compliance to California Residents: Your California Privacy Rights Under the California Online Privacy Protection Act and the California Business and Professions Code_** This privacy policy identifies the categories of personally identifiable information that our company collects through our web site or online service, about individual consumers who use or visit our company's commercial web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information. 
-
-Our company does not maintain a process for an individual consumer who uses or visits our commercial web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our web site or online service.
-
-See the section below entitled "Revisions to this Policy" for a description of the process by which our company notifies consumers who use or visit our commercial web site or online service of material changes to our company's privacy policy for this web site or online service. 
-
-The effective date of this privacy policy is listed at the end of this privacy policy under the heading, "Last updated." 
-
-For the purposes of this policy and California compliance the following definitions apply: 
-
-Depending on the visitor's activity, in our commercial web site or online service, the following "personally identifiable information" may be collected, in addition to information set forth in other sections of this document. 
-
-The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained by our company in an accessible form, and may include any of the following:
-
-  1. A first and last name.
-  2. A home or other physical address, including street name and name of a city or town.
-  3. An e-mail address.
-  4. A telephone number.
-  5. A social security number.
-  6. Any other identifier that permits the physical or online contacting of a specific individual.
-  7. Information concerning a user that the web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to support@theelevationgroup.com and please include the phrase "California Privacy Request" in the subject line, the domain name of the web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-**_"Cookies" and How Our Company Uses Them_** A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
+ **When do we collect information?**
 
-Most website browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our website, you may not be able to use certain features of the site. Visit www.aboutcookies.org to learn about how to delete and control cookies using the mail browser types. 
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form, Open a Support Ticket or enter information on our site.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+**How do we use your information?**
 
-Our company may use Remarketing with Google Analytics, Adroll, and Facebook to advertise online.
+  
 
-Third-party vendors, including Google, may show our ads on sites across the Internet.
 
-We, along with and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We may also use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics, to create educational and marketing content geared toward the demographics and interests of our visitors.
+ **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google's Ads Settings at https://www.google.com/settings/ads. You can also use Google's Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout/
+ **•** To quickly process your transactions.
 
-**_Our Company Commitment to Children's Privacy_** Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our web site to persons eighteen years or older. 
+ **•** To follow up with them after correspondence (live chat, email or phone inquiries)
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT AND IS NOT MONITORED AS DOING SO. 
+ **How do we protect visitor information?**
 
-**_Public Forums_** Please remember that any information you may disclose in any Subscriber Directory, or other public areas of our web sites or the internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
+  
 
-**_Our Company's Commitment to Data Security_** Services and websites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" form illegally obtaining this information.
 
-**_In the Event of Sale or Bankruptcy_** The ownership of The Elevation Group, Inc. may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy, or other change in control of The Elevation Group, Inc. your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-**_Where to Direct Questions about Our Privacy Policy_** If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this web site. 
+We use regular Malware Scanning.
 
-**_Revisions to This Policy_** Our company reserves the right to revise, amend, or modify this policy, our Terms of Use and Service, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of there changes. Please consult this privacy statement prior to every use for any changes.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-Last updated: October 08, 2013
+We implement a variety of security measures when a user places an order to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+ **Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **•** Help remember and process the items in the shopping cart.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+
+
+If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+ **Third-party disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Demographics and Interests Reporting
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+ **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+ **•** By emailing us
+
+ **•** By calling us
+
+ **How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we do not allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+ **•** Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Send information, respond to inquiries, and/or other requests or questions.
+
+ **•** Process orders and to send information and updates pertaining to orders.
+
+ **•** We may also send you additional information related to your product and/or service.
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **•** NOT use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from **ALL** correspondence.
