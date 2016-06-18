@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prcboard.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122845id_/http%3A//www.prcboard.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prcboard.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618090702id_/http%3A//www.prcboard.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - PRC Board
+# Privacy Policy - PRCBoard.com
+
+##  Privacy Policy 
 
 **What personal information do we collect from the people that visit our website?**
 
@@ -31,7 +33,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Google**
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. We have not enabled Google AdSense on our site though we strictly adhere to the [Google Adsense program policies and conditions](https://support.google.com/adsense/answer/23921?hl=en) and if our age meets the requirement, we may do so in the future.
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. We have enabled Google AdSense on our site though we strictly adhere to the [Google Adsense program policies and conditions](https://support.google.com/adsense/answer/23921?hl=en).
 
 **Contacting Us**
 
