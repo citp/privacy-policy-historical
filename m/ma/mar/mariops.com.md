@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariops.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094105id_/http%3A//www.mariops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariops.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618170744id_/http%3A//www.mariops.com/privacy.html) for the most accurate reproduction.*
 
 # mariops.com - Privacy Policy
 
@@ -21,7 +21,7 @@ www.mariops.com does use cookies to store information about visitors preferences
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:   
 BURST! Media  
-ValueClick Media  
+Adsense Media  
 CPMStar  
 
 
