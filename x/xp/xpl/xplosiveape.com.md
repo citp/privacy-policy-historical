@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xplosiveape.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208043212id_/http%3A//xplosiveape.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xplosiveape.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618202409id_/http%3A//xplosiveape.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - XPLOSIVEAPE
 
@@ -20,7 +20,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@xplosiveape.com or mailing us at: xplosive ape 33 Cobden House Leicester Leicester UK LE1 2LB
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@xplosiveape.com or mailing us at: XplosiveApe Ltd, Europa House, Newton Lane, Wigston, Leicester UK, LE18 3SE.
 
  **SECTION 3 - DISCLOSURE**
 
@@ -60,7 +60,7 @@ Links
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-**SECTION 6 - SECURITY**
+ **SECTION 6 - SECURITY**
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
