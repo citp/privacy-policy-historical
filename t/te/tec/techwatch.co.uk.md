@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231020510id_/http%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618121853id_/http%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Techwatch Tech News
 
@@ -6,9 +6,9 @@ Your privacy is important to us. That’s why we will not collect any personally
 
 Any information that is collected, such as forum [registration](http://www.techwatch.co.uk/tag/registration/ "registration") information, usually just a username, email address, and IP address, are personally non-identifiable, and is stored securely.
 
-Any such information will not be provided to any third party, nor will be used for any purpose excepting sometimes to provide information on recent updates to the [Techwatch](http://www.techwatch.co.uk/tag/techwatch/ "Techwatch").co.uk website and forums. 
+Any such information will not be provided to any third party, nor will be used for any purpose excepting sometimes to provide information on recent updates to the Techwatch.co.uk website and forums. 
 
-All data collected on users is covered by the UK Data Protection act.
+All data collected on users is covered by the UK [Data Protection act](http://www.techwatch.co.uk/tag/data-protection-act/ "Data Protection act").
 
 However, please be advised that our [advertising](http://www.techwatch.co.uk/tag/advertising/ "advertising") partners, run through Google Adsense, may sometimes place a cookie on your machine after visiting this website, in order to display more relevant advertising to you on other third party websites.
 
