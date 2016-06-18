@@ -1,206 +1,215 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231153632id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618213925id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Corporate : View : SBS Corporate
 
-**SBS Privacy Statement (Updated 12 March 2014)**
+**SBS Privacy Statement (Updated 9 March 2016)**
 
-A PDF version of this policy is available here: [PDF ](http://media.sbs.com.au/home/upload_media/site_20_rand_671504647_sbs_privacy_policy_12_march_2014.pdf)(336KB). 
+A PDF version of this policy is available here: [PDF ](http://media.sbs.com.au/home/upload_media/site_20_rand_671504647_sbs_privacy_policy_9_march_2016.pdf)(371KB). 
 
 **SBS Privacy Policy**
 
-When you interact with SBS – whether by entering a competition, signing up to a newsletter, or calling us to leave feedback – you are providing SBS with personal information about yourself. This Privacy Policy is to inform you about when and how SBS may collect your personal information, and what we use it for. It will also provide you with the tools you need to let us know if you want us to correct or remove your information.
+SBS is committed to providing a safe and welcoming digital environment, and to be open and transparent about how we collect and use your information when you use our website, apps and other online services or interact with us in other ways.
 
-1\. Scope of this Privacy Policy  
-2\. What personal information does SBS collect?  
-3\. How and why does SBS collect information?  
-4\. Use and disclosure of personal information  
-5\. Anonymity and pseudonymity  
-6\. Access and correction  
-7\. Storage and security  
-8\. Complaints  
-9\. Relevant contacts
+In this Privacy Policy we’ll talk about how SBS manages your personal information (where you disclose identifiable information about yourself), as well as how we manage other information associated with your use of our digital services which we collect but which is effectively anonymous. 
 
- **  
-1\. Scope of this Privacy Policy**
+In particular, we’d like to help you understand important topics like:
 
-**1.1 General**  
-This Privacy Policy applies to personal information collected by SBS. In broad terms, “personal information” means any information about an individual who is reasonably identifiable. 
+·         What information we collect
 
-**1.2 Exemption for SBS program material**  
-The Privacy Act 1988 (Cth) does not apply to any acts done or practices engaged with in relation to SBS's program material. The general purpose of this exemption, and the exemption for the acts and practices of private sector media organisations done in the course of journalism, is to allow for the free flow of information to the public.
+·         How we use that information
 
-There is provision in the SBS Codes of Practice for the privacy of individuals in SBS content. If you feel that SBS content that relates to you has breached the SBS Codes of Practice, you can make a Code complaint. For more information on the SBS Codes of Practice and the complaint process, see http://www.sbs.com.au/aboutus/corporate/view/id/109/h/Codes-of-Practice and www.sbs.com.au/aboutus/complaints, or contact SBS (see Relevant contacts below). 
+·         How you can control your information
 
-**1.3 Privacy and third party organisations**  
-This Privacy Policy only applies to SBS and its digital services. It does not apply to any other company or organisation, including organisations whose digital services are linked to SBS’s online content or services (such as social media platforms and online retailers). If you are using a third party site to interact with SBS, or you navigate from the SBS website to a separate site to view advertising or to engage with a service, this activity is not covered by SBS’s Privacy Policy.
+·         The measures we take to keep your information secure
 
- **2\. What personal information does SBS collect?**
+·         What to do if you need help or have any questions about your personal data. 
 
-SBS collects a wide range of personal information in the course of its operations, for purposes that are directly related to its core functions or activities. SBS collects personal information about you for the following reasons:
+**1\. Information we collect and hold**
 
-  * Because we need it to provide a product or service you have requested – such as providing an email newsletter, entering a competition.
+SBS may request, collect and hold the following kinds of information in either electronic or hard copy format. 
 
-  * Because you have provided it to us – by participating in forums or commenting, by asking us a questions or making a complaint, or by registering for or acquiring a service (for example, registering for SBS ON DEMAND services).
+**1\. Competition and registration information**
 
-  * Because we are trying to improve our services, or your experience of our services – by collecting information about you, your preferences and your use of our online services.
+When you sign up for a competition, register as an SBS user on our digital services, or request an email newsletter, we will ask you to provide personal details such as your first name, surname, and email address. To help with prize distribution and entry eligibility as part of a competition, SBS may also request a mailing address, phone number and your date of birth. 
 
-  * Because of your relationship with us – if you work for SBS, or are applying for a job, work experience placement, or an internship.
+SBS will also invite you to offer other optional information through your user profile so that we can tailor our services to your specific interests or profile. This includes information such as the types of content you are interested in (for instance, sport, food or movies), and whether you’d like to receive information or offers from our partners. 
 
-  * For any other purpose related to the above.
+**2\. Information you post on our digital services**
 
+When you interact with SBS and the SBS community on our digital services as a registered SBS user or using social media (for example by making a public comment on a particular topic), we may collect the information you choose to post (such as your opinion about a matter you are commenting on, which may include sensitive information you choose to make public). You should be careful about making any sensitive or personal information public. 
 
+**3\. Your social media information**
 
+Some of our digital services are linked to third party social media services like Facebook or Twitter. You can decide to access or log in to an SBS service using your social media profile, or to connect an SBS related service to a third party social media service. If you do this, SBS can collect your social media user information, and any further information you have permitted the social media site to share with SBS. In choosing to access or connect to SBS services via social media, you are authorising SBS to collect, store, use and disclose such information and content in accordance with this Privacy Policy.
 
-For more information about the kinds of information SBS collects, the SBS Personal Information Digest (PID) sets out the types of records of personal information SBS keeps, their purpose, the classes of individuals about whom the records are kept, the period for which they are kept, how they are stored, the persons entitled to have access to the personal information contained in them and the conditions under which they are entitled to that access, and how individuals can obtain access to the personal information.
+You should be aware that any posts you make on SBS social media channels including our Facebook, Twitter or Instagram profiles may be publicly available and able to be found via search engines. SBS strongly recommends that you become familiar with the privacy settings and terms of your social media account/s.
 
-SBS's PID can be accessed through the website of the Office of the Australian Information Commissioner ([www.oaic.gov.au](https://web.archive.org/web/20151231153632id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/www.oaic.gov.au)).
+**4\. Cookies and other tracking data**
 
-**3\. How and why does SBS collect information?**
+When you use SBS’s digital services, information about your usage will automatically be gathered by SBS, or third parties contracted by SBS, through tracking devices including the use of cookies, web beacons and web server logs. These tracking devices are not used to record any personally identifiable information such as your name or email address. The information collected is aggregated, and is effectively anonymous to us.
 
-**3.1 Information you give us**
+This information helps us to:
 
-SBS collects personal information which is given to us by you. You may do this because you wish to receive a particular service, or because you wish to give us feedback or make a complaint (see section 2 above).
+·          monitor, analyse and improve our digital services, for example by showing us what visitors do and don’t use, and assisting us in detecting any problems with our services
 
-When SBS collects personal information from you, we will generally inform you of the reason the information is being collected and how we will use it (unless the reason for collection is self-evident).
+·          customise our services based on content accessed, for example by recommending content that matches your interests
 
-**3.2 Data we collect from your use of digital services**
+·          serve you more relevant advertising based on your site visits
 
-If you use SBS’s digital services, SBS and its internet service provider will automatically gather information about your visits. This information is aggregated, and is effectively anonymous to us. It helps us to improve our services by showing us what visitors do and don’t use. It also assists us in detecting any problems with our service. Information gathered includes:  
+·          manage the number of times you are served particular advertisements.
 
+SBS contracts with a range of third party providers for these purposes. 
 
-  * the user's server (IP) address;
+The type of information gathered typically includes geographic location, date and time of site visits, your server (IP) address.
 
-  * the user's top-level domain name (e.g. .au, .com, .gov);
+**5\. By contacting or interacting with SBS for a specific reason such as lodging a complaint or applying for a job**
 
-  * the date and time of the visit;
+SBS may collect and hold personal and sensitive information about you in order to respond to any enquiries, or to carry out our business and operational functions, such as personnel management. The information we collect will depend on the type of information we need to manage these matters. 
 
-  * the pages accessed and documents downloaded;
+For example personnel records may include personal and sensitive information such as name, address, date of birth, disabilities, place of birth, ancestry, tax file number, and relationship information. Recruitment records may include employment history and experience, referees and other employment related information. SBS studio audience registration records may include sensitive information such as cultural background, political party affiliation and other organisation affiliation information. 
 
-  * advertising click-through metrics;
+**6\. Collecting personal information from children and young people**
 
-  * the previous site visited; and 
+SBS is committed to providing a safe and welcoming digital environment for children and young people. Some of our activities, such as [SBS Learn](http://www.sbs.com.au/learn), are directed to children and young people. SBS may collect personal information directly from children and young people for the purpose of these activities. 
 
-  * the type of browser used. 
+Where SBS considers that capacity to consent to the collection of the personal information is at issue, SBS will notify a parent or guardian of the activity, and seek their consent. 
 
+If you are a parent or guardian, you should read and explain this Privacy Policy and any applicable house rules with your child if you think they may not understand how it applies.
 
+**7\. Information sourced from other parties**
 
+In some circumstances, SBS may source information about you which is on the public record, or can be requested from third parties. For example, **** when you apply for a job or internship at SBS, SBS will seek information from you directly, but may also collect information about you from third parties (including your previous employers and recruitment consultants). 
 
-No attempt will be made to identify SBS website users or their browsing activities except as required by a law enforcement agency exercising a warrant to inspect the service provider's logs.
+**2\. How we use your information**
 
-SBS and third parties contracted by SBS make use of tracking device to enhance the functionality of this website, including the use of cookies (flash and non-flash) and web beacons. These tracking devices are not used to record any personal information (such as names, email address). If you choose to opt out of these tracking devices you may not be able to access all of the services on the SBS website such as SBS ON DEMAND. If you wish to opt out of these tracking devices more information about opt-out options is available on the Your Online Choices website at [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/).
+SBS will use and disclose your personal information for:
 
-**3.3 Information that you give us via third party platforms or services**
+·         the main purpose for which it was collected
 
-Some SBS services and websites are integrated with third party social media services like Facebook or Twitter. You can decide to access or log in to an SBS site using your social media profile, or to connect an SBS related service to a third party social media service. If you do this, the information SBS can collect may include your social media user ID information, and any further information you have permitted the social media site to share with SBS. If you access or connect to SBS services via social media, you are authorising SBS to collect, store, use and disclose such information and content in accordance with this Privacy Policy.
+·         appropriate secondary purposes under the terms of the Privacy Act, such as where you have consented to the secondary use or disclosure, or where SBS considers you would reasonably expect SBS to use or disclose the information.
 
-You should also be aware that any posts you make via social media on SBS platforms may be publically available and able to be found via search engines. SBS strongly recommends that all users become familiar with the privacy settings and terms of your social media accounts.
+Whenever we collect information from you, it’s for purposes related to our core functions and to help us provide you with a better service. This includes: 
 
- **3.4 Information from other sources**  
-In some circumstances, SBS may source information about you which is on the public record, or can be requested from third parties. For example, when you apply for a job or internship at SBS, SBS will seek information from you directly, but may also collect information about you from third parties (including your previous employers and recruitment consultants). 
+**Providing the product or service you have requested** – such as sending you an email newsletter, accepting your entry into a competition, or giving you access to an app. 
 
-**4\. Use and disclosure of personal information**
+**Understanding our audience behaviour to improve our services, or your experience of our services** – such as website optimisation for a better online experience. ****
 
-SBS may use and disclose your personal information for the following purposes:  
+**Giving you a more personalised experience** by providing you with information that is relevant to your unique interests – such as making program recommendations.
 
+**Helping us sell advertising** – so that we can reinvest in the free services provided to you. 
 
-  * to provide a service that you’ve requested;
+**To enable you to engage with SBS** and other SBS users, for example by re-publishing content you provide to us such as competition entries or social media posts together with your name or social media handle or profile name. 
 
-  * to measure your experience with SBS’s services;
+In providing and managing the services offered by SBS, SBS may need to make your information available to third party service and content providers, including providers of cloud services, website hosts, and other companies. These third parties may be located overseas in countries including the USA, Europe and Singapore.
 
-  * to customise, enhance or improve SBS’s services;
+SBS will ensure that any third parties who receive your personal information from SBS follow the same standards and obligations set out in this privacy policy, and only use your information for the specific purpose and service they are providing to you or SBS.
 
-  * to provide technical support, or respond to any enquiries;
+SBS contracts with a range of party providers for these purposes. These include Roy Morgan (you may read the Roy Morgan Privacy Policy [here](http://www.roymorgan.com/legal/privacy)). If you would like to learn more about how SBS uses third parties to collect and use information on this website please contact the SBS Privacy Contact Officer (see the contact details section below). 
 
-  * if permitted or required by law;
-
-  * it is necessary to prevent or lessen a serious and imminent threat to a person’s life or health; or
-
-  * if you consent to the disclosure (this may be express or implied).
-
-
-
-
-SBS may seek to re-publish content you provide to us (for example, competition entries or social media posts, together with your name or social media ID). 
+**Cookies and other tracking data**
 
 If data about your use of SBS’s digital services is de-identified, aggregated or otherwise made anonymous, SBS may collect, use and share that information for any purpose with third parties provided that in doing so we do not reveal any personal information and the use is related to SBS’s activities. 
 
-In providing and managing the services offered by SBS, SBS may need to make your information available to third party services and content providers, including providers of cloud services, website hosts, and other companies. These third parties may be located overseas in countries including the USA, Europe and Singapore.
+No attempt will be made to identify SBS website users or their browsing activities except where necessary to prevent or lessen a serious and imminent threat to a person’s life or health, or as otherwise permitted or required by law.
 
-SBS will ensure that any third parties who receive your personal information from SBS follow the same standards and obligations set out in this Privacy Policy, and only use your information for the specific purpose and service they are providing to you or SBS.
+SBS may combine the anonymous information about you collected from your use of our digital services to build up an idea about the types of products or services and advertising that might interest you. 
 
-**  
-5\. Anonymity and pseudonymity**
+By understanding more about you, we are able to serve you more tailored, relevant advertising and SBS content. When this information is used to target more relevant advertising to you it is known as online behavioural advertising. Revenue generated from personalised advertising is used to improve the free digital services from SBS.
 
-Where possible, you may interact with SBS anonymously should you choose to do so. For example, if you wish to provide feedback without requiring a response from SBS, you will not be required to provide a full name or email address. 
+You can opt out of these targeted services – see under ‘How you can control your information’.
 
-However, in some cases it will not be practicable to interact with you anonymously, or it may be impossible to provide the service you are requesting without some form of personal information. For example, if you wish to subscribe to an SBS email newsletter, an email address must be provided. 
+**3\. How you can control your information**
 
-**6\. Access and correction**
+SBS is committed to helping you control the collection and use of your personal information, including marketing communications. 
 
-Individuals are entitled to obtain access to records that contain personal information about them, except to the extent that SBS is required or authorised to refuse access under any law of the Commonwealth that provides for access by persons to documents (e.g. the _Freedom of Information Act 1982_ (Cth)).
+You may opt-out from receiving electronic communications from us (including  surveys or notifications) by changing your account settings through the appropriate link on the subscription preferences page or following the unsubscribe instructions at the bottom of each email.
 
-Individuals can obtain information regarding access to records that contain personal information about them by contacting the SBS Privacy Contact Officer (see Relevant contacts below). Individuals may also seek the correction of any information held by SBS.
+Please note that if you have an active SBS profile, there are certain service notifications that you may not opt-out of, such as notifications of changes to SBS services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-SBS will take reasonable steps to ensure that the personal information it holds is accurate, relevant to its purpose, up to date, complete and not misleading.
+You may choose to opt out of the tracking devices used on SBS’s digital services. If you choose to opt out of these tracking devices you may not be able to access all of the services on the SBS website and your experience will not be fully optimal. 
 
-**7\. Storage and security**
+To opt out of SBS’s customised services such as content recommendations and targeted advertising, use this link: [Cxense opt-out](https://www.cxense.com/about/preferences/?optOutStatus=false).
 
-Depending on how we received your personal information, SBS may store it in electronic and hard copy format. 
+Information about opt-out options for third party online behavioural advertising is available on the Your Online Choices website – Your Ad Choices: [www.youronlinechoices.com.au/opt-out](http://www.youronlinechoices.com.au/opt-out)
 
-SBS takes such steps as are reasonable and practicable to ensure that the personal information it holds is protected against interference, unauthorised access and other forms of misuse. Measures taken may be physical, electronic, or procedural. SBS staff are advised to treat personal information with care, and to use it in accordance with this Privacy Policy and current laws.
+You can find out more about online behavioural advertising here:
 
-In some instances, including where you are using third party social media platforms to engage with SBS, these platforms are not under the control of SBS. If security is of concern to you, we encourage you to carefully consider the terms and conditions and security used by any third party platform.
+·         Office of the Australian Information Commissioner: [Privacy Fact Sheet 4 Online Behavioural Advertising](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-4-online-behavioural-advertising-know-your-options)
 
-**  
-8\. Complaints**
+·         [Your Online Choices: A guide to behavioural advertising](http://www.youronlinechoices.com.au/).
 
-If you think that an act or practice of SBS has interfered with your privacy you may make a complaint to SBS. You will need to identify yourself and provide your complaint in written form addressed to the SBS Privacy Contact Officer (see Relevant contacts below).
+**Accessing and correcting your personal information**
+
+If you subscribe to SBS email newsletters or have created an SBS profile, you can access and correct profile data about yourself at any time by logging into the SBS website. 
+
+You’re also entitled to access records that contain personal information about yourself by contacting the SBS Privacy Contact Officer (see the contact details section below). You may also seek the correction of any information held by SBS.
+
+SBS will take reasonable steps to correct the personal information it holds to ensure that, having regard to the purpose for which it is held, it is accurate, up to date, complete and not misleading. 
+
+**Anonymity and pseudonymity**
+
+Where possible, you may also interact with SBS anonymously or using a pseudonym should you choose to do so. For example, if you wish to provide feedback without requiring a response from SBS, you will not be required to provide a full name or email address. 
+
+However, in some cases it will not be practicable to interact with you anonymously or with a pseudonym, or it may be impossible to provide the service you are requesting without some form of personal information. For example, if you wish to subscribe to an SBS email newsletter, an email address must be provided. 
+
+**4\. Security**
+
+SBS uses a combination of technical, administrative, personnel and physical measures to safeguard personal information in its possession against loss, theft and unauthorised use, disclosure or modification. 
+
+However, no one can guarantee the complete safety of your information. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting the SBS Privacy Contact Officer (see the contact details below).
+
+In some instances, including where you are using third party social media platforms to engage with SBS, these platforms are not under the control of SBS. If security is of concern to you, we encourage you to carefully consider the terms and conditions and security used by any third party platform. 
+
+**5\. Compliance with Australian legislation**
+
+SBS is a government agency and is subject to the Privacy Act 1988 (Cth) and the Australian Privacy Principles in relation to the personal information it collects. 
+
+The Privacy Act does not apply to any acts done or practices engaged with in relation to SBS's program material. The general purpose of this exemption, and the exemption in the Privacy Act for the acts and practices of private sector media organisations done in the course of journalism, is to allow for the free flow of information to the public.
+
+The SBS Codes of Practice set out how SBS manages the privacy of individuals in SBS content. If you feel that SBS content that relates to you has breached the SBS Codes of Practice, you can make a Code complaint. Information on the SBS Codes of Practice and the complaint process is available [here](http://www.sbs.com.au/aboutus/complaints).
+
+**Privacy and third party organisations**
+
+This Privacy Policy only applies to SBS and its digital services. It does not apply to any other company or organisation, including organisations whose digital services are linked to SBS’s online content or services (such as social media platforms and online retailers). If you are using a third party site to interact with SBS, or you navigate from the SBS website to a separate site to view advertising or to engage with a service, this activity is not covered by SBS’s Privacy Policy.
+
+**6\. Changes to the SBS Privacy Policy**
+
+SBS will review and update this Privacy Policy from time to time. Updates will be posted to the [SBS Privacy web page](http://www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement).
+
+**7\. Complaints**
+
+If you think that an act or practice of SBS has interfered with your privacy you may make a complaint to SBS. You will need to identify yourself and provide your complaint in written form addressed to the SBS Privacy Contact Officer (see the contact details below).
 
 The SBS Privacy Contact Officer will investigate your complaint and will endeavour to provide a written response within 30 days of receipt of the complaint setting out SBS's decision.
 
-If you are dissatisfied with SBS's response to your complaint you can take your complaint to the Office of the Australian Information Commissioner (see below). The Australian Information Commissioner may then investigate and attempt to conciliate the matter.
+If you are dissatisfied with SBS's response to your complaint you can take your complaint to the Office of the Australian Information Commissioner (see contact details below). The Australian Information Commissioner may then investigate and attempt to conciliate the matter.
 
-**9\. Relevant contacts**
+**8\. How to get more information**
 
-You can obtain further information about SBS's Privacy Policy by contacting the SBS Privacy Contact Officer.
+If after reading this policy you have any questions or concerns, please contact the SBS Privacy Contact Officer:
 
- **Telephon** e  
-Sydney: +61 2 9430 3878  
-Freecall: 1800 500 727  
-Freecall: 1800 500 727  
-TTY via NRS: call 1800 555 677 and ask for 800 500 727 (for people who are deaf or have a hearing or speech impairment)
+**Email:**[ privacy@sbs.com.au](mailto:privacy@sbs.com.au)
 
- **Post**  
-Privacy Contact Officer   
-Corporate Affairs, Strategy and Communication  
-SBS Locked Bag 028  
+**Telephone:**
+
++61 (0)2 9430 3878 
+
+Freecall 1800 500 727
+
+TTY via NRS call 1800 555 677 and ask for 1800 500 727
+
+**Post:**
+
+Privacy Contact Officer
+
+SBS Corporate Affairs 
+
+Locked Bag 028
+
 Crows Nest NSW 1585
 
- **Email**  
-[privacy@sbs.com.au](mailto:privacy@sbs.com.au)
+**Web:**[ www.sbs.com.au](http://www.sbs.com.au/)
 
- **Website**  
-[www.sbs.com.au](https://web.archive.org/web/20151231153632id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/www.sbs.com.au)
+**Office of the Australian Information Commissioner (OAIC)**
 
-Contact the Office of the Australian Information Commissioner (OAIC)  
-Contact details are set out on the OAIC website: <http://www.oaic.gov.au/privacy/making-a-privacy-complaint>
-
-**Telephone**  
-Enquiries line: 1300 363 992  
-If calling from outside Australia call +61 2 9284 9749  
-TTY: call 133 677 then ask for 1300 363 992  
-Speak and Listen users: call 1300 555 727 then ask for 1300 363 992  
-Internet relay users: connect to the National Relay Service then ask for 1300 363 992
-
- **Facsimile**  
-+61 2 9284 9666
-
- **Email**  
-[enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
-
- **Post**  
-GPO Box 5218  
-Sydney NSW 2001
-
- **Website**  
-[www.oaic.gov.au](https://web.archive.org/web/20151231153632id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/www.oaic.gov.au)
+The OAIC can investigate complaints about acts or practices that may interfere with an individual’s privacy. Contact details are set out on the OAIC [website](https://www.oaic.gov.au/) (www.oaic.gov.au).
