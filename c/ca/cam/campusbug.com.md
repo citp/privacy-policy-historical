@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129081341id_/http%3A//campusbug.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618131014id_/http%3A//www.campusbug.com/privacy.php) for the most accurate reproduction.*
 
-# Punk Rock Demonstration Radio Station - A Demonstration of Punk Rock since 2005
+# Punk Rock Demonstration Privay
 
 **_Punk Rock Demonstration Privacy Policy_**
 
