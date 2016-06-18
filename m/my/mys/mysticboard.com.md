@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysticboard.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810180214id_/http%3A//help.mysticboard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysticboard.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618103154id_/http%3A//help.mysticboard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MysticBoard.com - Privacy Policy - Mystic Board
 
