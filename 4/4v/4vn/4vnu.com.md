@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4vnu.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222012716id_/http%3A//4vnu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4vnu.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618083028id_/http%3A//4vnu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 4VNU
 
@@ -27,11 +27,3 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 Google Adsense These third-party ad servers or ad networks use technology to the advertisements and links that appear on 4vnu.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 4vnu.com has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. 4vnu.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-**HELP EACH OTHER:** Share Your Thoughts, Queries & Problems With Us Using The Comment Form. We Will Try To Help With The Best We Can!!! You Can **Also Help Others** With Your Reply & Suggestions Related To This Topic.
-
-**Visit Again:-** For New Updates On this Topic, You Might Need To Visit This Page Again In Future. So Please Bookmark This Page By Using ( **CTRL+D On Your Keyboard** ) & Visit This Page Again Form Your Home Browser.
-
-**Stay in Touch:-** Don't Forget To Check the Box ( **Notify Me Of Followup Comments & Posts**) To Get New Comments & Reply Directly In Your Mailbox. You Can Also **[Subscribe To 4VNU For Latest Jobs In India](https://feedburner.google.com/fb/a/mailverify?uri=LatestGovtJobs4vnu&loc=en_US)**  Using Your Email Address To Get All Jobs & Exams Alerts in your Mailbox.
-
-" **[4vnu.com](http://4vnu.com/)** (For_We_&_You.com)...Best Place To Discus Jobs & Exams."
