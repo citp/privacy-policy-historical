@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016075451id_/http%3A//remotedesktopmanager.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotedesktopmanager.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619001955id_/http%3A//remotedesktopmanager.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Remote Desktop Manager
 
@@ -96,9 +96,9 @@ Devolutions is responsible for all personal information under its control. If yo
 
 Email: | [infos@devolutions.net](mailto:infos@devolutions.net) (please read the Important Reminder below)  
 ---|---  
-Mail: | Devolutions inc.  
-199, Rang du Golf  
-Lavaltrie, QC J5T 3C6  
+Mail: | Devolutions  
+1000 Notre-Dame  
+Lavaltrie, QC J5T 1M1  
 Canada  
   
 We will respond to your request or investigate your concern as quickly as we can.
