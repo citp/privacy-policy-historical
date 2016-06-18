@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712205339id_/https%3A//www.boxonline.com/wp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618093454id_/https%3A//www.boxonline.com/wp/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BoxOnline is a Swiss based incubator for startup technology ventures
+# Privacy Policy | BoxOnline Is A Swiss Based Incubator For Startup Technology Ventures
 
 **Last updated: March 3, 2014.**
 
