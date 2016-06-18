@@ -1,67 +1,95 @@
-> *The following text is extracted and transformed from the cliconomics.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114009id_/http%3A//www.cliconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliconomics.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618022730id_/https%3A//svbtle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your interest in your privacy and as a result we have created this informational disclosure.
+Svbtle (“we”, “us” or “our”) developed this service to make it easy for you to read and write on the internet. We understand that privacy is important to our readers, visitors, and registered users. We respect your privacy and will take reasonable steps to protect your information.
 
-We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services.
+* * *
 
-Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below.
+This Privacy Policy will help you understand the following:
 
-You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen.
+  1. What does this Privacy Policy apply to?
+  2. Information collection and use
+  3. Sharing and disclosure of information
+  4. Choice and data retention
+  5. Protection of information
+  6. Changes and notifications
+  7. Safe Harbor Framework
+  8. Contact us
 
-**Information Collected by our ISP**
 
-The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on ‘server logs’ or ‘raw server logs.’ We may have access to our raw server logs and access reports prepared by our hosting provider.
 
-**Financial Information for Billing Purposes**
+Please also review, if applicable, your [Terms of Service agreement](https://web.archive.org/terms) with Svbtle, which shall govern in the event of any inconsistency with this Privacy Policy.
 
-We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information.
+## 1\. What does this Privacy Policy apply to?
 
-In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter.
+Svbtle is located in San Francisco, California. This Policy applies to the Svbtle.com website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all software and services that we offer, including products and services that may be made available on a third-party website, or other services that we offer through our Website when you register for a Svbtle account (collectively referred to as the “Services”).
 
-**Use of eMail Addresses and other Contact Information**
+This Policy does not apply to any website, product or service of any third-party company even if the website links to (or is linked from) our Website. Svbtle does not operate or control those websites, products or services. Please always review the privacy practices of a company before deciding whether to provide any information.
 
-An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, or any other delivery method.
+By using our Website or Services, you are accepting the practices described in this Policy. If you do not agree with this Policy, delete all cookies from your browser cache after visiting our Website and do not visit or use our Website or Services. Your continued use of our Website or Services signifies your acceptance of this Policy.
 
-As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting.
+## 2\. Information collection and use
 
-We may also send you information about other products and services our company offers.
+Broadly speaking, we collect information in three ways: (1) when you provide it directly to us, (2) when we obtain information about you or your company through trusted third parties or indexing systems, and (3) passively through technology such as “cookies”. The types of information that we collect and our use of that information will depend on what type of user you are, as described below.
 
-We will not sell, provide, or transfer you email address to others.
+## Personal Information
 
-We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties.
+The term “Personal Information”, as used in this Policy, refers to any information that can be used to identify a specific person, or any anonymous information (e.g., IP Address) that is linked to a specific person. Personal information does not include information that has been aggregated or made anonymous such that it can no longer be reasonably associated with a specific person.
 
-**Identification of Purchasers**
+## Cookies and Web Server Logs
 
-If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
+Similar to many commercial websites, we utilize “cookies” and other technologies to collect non-personally-identifiable information from our Website and from other websites that use our products. “Cookies” are a feature of web browser software that allows web servers to recognize the computer used to access a website. Cookies store information accessed through your browser to streamline activities on related web sites, and make the online experience easier and more personalized. Information gathered through cookies and web-server log files may include information such as the date and time of visits, the pages viewed, IP addresses, links to/from any page, and time spent at a site. We use cookie data to measure web traffic and usage activity on our Website for purposes of improving and enhancing the functionality of our Website. Cookies also allow our servers to remember your account information for future visits and to provide personalized and streamlined information across related pages on our Website and also across other websites or applications that use our services. Log files are used to monitor, measure, analyze, improve, and troubleshoot our Services. You can choose to disable cookies for our Website but this may limit your ability to use our Website and Services; see below in Section 4 (“Choice and opt-out”).
 
-We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes.
+In order to understand and improve the effectiveness of our advertising, we may also use web beacons, cookies, and other technology to identify the fact that you have visited our Website or seen one of our advertisements, and we may provide that information to one or more third party advertising networks. The information we provide may include the time and date of your visit to our website, pages viewed, links clicked and other non-personally identifying information. Those advertising networks may recognize the web beacon or cookie associated with your visit to our Website when you visit other websites on which they serve advertising, and they may make decisions about the advertisements you see based on it. We may choose to work with Google AdWords, Doubleclick, AdRoll or other advertising networks. Each of these companies has its own privacy policy, which we encourage you to review. For more information about advertising and tracking online, visit the Network Advertising Initiative. This website allows consumers to “opt out” of the behavioral advertising delivered by member companies. Additional information on that program can be found here.
 
-**Cookies**
+## Website Visitors
 
-Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed.
+To simply browse our Website, you are not required to provide any Personal Information. However, we may gather non-personally-identifiable information, as described directly above, just for the purposes of monitoring and improving our Website and Services. We will not share this information with third parties except as a necessary part of providing our Website and Services, nor will we use it to target any advertisements to you.
 
-Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote.
+## Website Users
 
-**Disclosure by Necessity**
+To gain full access to our Website and Services, you must register for a Svbtle account. When you register for an account, we collect Personal Information when you voluntarily provide it to us, such as the following:
 
-Private information may be disclosed if required by a court order, statute, law, or regulation.
+  * Your name, company name, location, email address, and phone number, and account password, to set up your account
+  * Your IP addresses, devices, and locations used to access Svbtle, which will be linked to your account for fraud detection/prevention purposes
 
-Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party.
 
-Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else.
 
-As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets.
+## Children’s Online Privacy Protection Act
 
-Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country.
+Our Website and Services are directed to the general public. We do not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that children under the age of 13 are accessing our Website or using our Services. If we learn that we have inadvertently collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us.
 
-After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged.
+## 3\. Sharing and disclosure of information
 
-**Policy Changes**
+We may disclose your Personal Information to law enforcement, government officials, or other third parties if: (i) we are compelled to do so by subpoena, court order or other legal process, (ii) we must do so to comply with laws, statutes, rules or regulations, (iii) we believe in good faith that the disclosure is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms of Service.
 
-These policies may be amended by us at any time and without notice, but will be posted at this page.
+We will only disclose your Personal Information in response to such a request if we believe in good faith that doing so is necessary to comply with applicable law or a legal obligation to which we are bound. If we receive such a request, we will use reasonable efforts to give you prompt notice, so that you may contest it if you choose. We won’t provide you such notice if we determine in good faith that either (a) we are not permitted to provide it under applicable law, or (b) that doing so would result in an imminent risk of death, serious physical injury or significant property loss or damage to Svbtle or a third party.
 
-You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
+In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar events, any information in our possession may be transferred to our successor or assign.
 
-Effective Date: Aug 31, 2011
+## 4\. Choice and data retention
+
+We are required to collect certain Personal Information to confirm your identity and comply with our obligations. If you elect to not provide Personal Information in optional fields it may limit your ability to use our Services. You can update your account information by signing on to our Website with your Svbtle account.
+
+We may occasionally email you with information about offers or new services. You can opt out of these email communications by replying with unsubscribe in the subject line, or via an unsubscribe link included in such communications. However, you will continue to receive certain email communications related to your account including information regarding transactions and your relationship with Svbtle.
+
+If you wish to opt out of having cookies set on your browser (as described above in Section 2), the only way to ensure that this happens is to manage the settings on your web browser to delete all cookies and disallow further acceptance of cookies. For more information, refer to your browser’s technical information. You may also consider visiting aboutcookies.org, which provides helpful information about cookies. Note that disabling cookies on your browser prevents Svbtle from tracking your activities in relation to our Website and Services. However, it may also disable many of the features available through our Websites and Services. We therefore recommend that you leave cookies enabled.
+
+## 5\. Protection of information
+
+Although no data transmission can be guaranteed to be 100% secure, we take reasonable steps to protect all Personal Information. Svbtle maintains strict administrative, technical, and physical procedures to protect information stored in our servers, which are located in the United States. Access to information is limited (through user/password credentials and software systems) to those employees who require it to perform their job functions. We use industry-standard Secure Socket Layer (SSL) encryption technology to safeguard the account registration process and sign-up information. Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to building and files.
+
+## 6\. Changes and notifications
+
+We reserve the right, in our sole and absolute discretion, to make changes to this Policy from time to time. Please review this Policy periodically to check for updates. If any changes are material and/or retroactive, we may provide additional notice and/or an opportunity to “opt-in,” as appropriate under the circumstances.
+
+Svbtle will provide you with disclosures and alerts regarding this Policy by posting them on our Website, by emailing the email address listed in your Svbtle account, and/or by mailing to the physical address listed in your Svbtle Account. You agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. Such disclosures and notices in relation to this Policy shall be considered to be received by you within 24 hours of the time it is posted to our Website or emailed to you (unless we receive notice that the email was not delivered).
+
+## 7\. Contact us
+
+If you have any questions or suggestions about this Privacy Policy or any of our privacy-related practices, please [contact us](mailto:hi@svbtle.com).
+
+* * *
+
+This policy was last modified on Saturday, January 2nd, 2016. [hi@svbtle.com](mailto:hi@svbtle.com)
