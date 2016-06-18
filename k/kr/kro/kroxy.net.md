@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kroxy.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217145252id_/https%3A//www.hidemyass.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroxy.net privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618052632id_/https%3A//www.hidemyass.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Hide My Ass!
+# Hide My Ass! Privacy | Hide My Ass!
 
 ### 1\. Introduction
 
-Hidemyass.com ("our Site") and the services available through it are operated by Privax Limited (referred to as "we", "us" and "our"). We are a limited company registered in England under company number 07207304 and have our registered office at 7 Moor Street, London, W1D 5NB, UK.
+Hidemyass.com ("our Site") and the services available through it are operated by Privax Limited (referred to as "we", "us" and "our"). We are a limited company registered in England under company number 07207304 and have our registered office at 110 High Holborn, London WC1V 6JS, UK.
 
 We are a leading provider of web privacy and anonymity tools and therefore we are deeply committed to protecting and respecting your privacy. This [Privacy Policy](https://web.archive.org/legal/privacy) (together with any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us,will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we, as data controller of your personal data that you provide to us, will treat it.
 
