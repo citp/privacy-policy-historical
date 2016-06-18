@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115190350id_/http%3A//www.wilx.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618055645id_/http%3A//www.wilx.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-**This Privacy Policy does not cover the “My Capture” service for user generated content that may be offered on our Web Channels. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
+**In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
 Effective Date: May 11 2012.
 
