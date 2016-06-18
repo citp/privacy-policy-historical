@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agevs.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815204501id_/http%3A//agevs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agevs.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618210204id_/http%3A//agevs.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
