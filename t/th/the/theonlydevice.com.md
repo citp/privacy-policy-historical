@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theonlydevice.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024190733id_/http%3A//theonlydevice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlydevice.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618230754id_/http%3A//theonlydevice.com/privacy.php) for the most accurate reproduction.*
 
-# Watch Free Movies Online - Project Free TV
+# Free Online Movies - TheOnlyDevice
 
 **TheOnlyDevice Privacy Policy**
 
