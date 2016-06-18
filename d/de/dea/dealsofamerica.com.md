@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094811id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618151240id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
 
 # DealsOfAmerica.com - Privacy Policy
 
-[Deals of America Logo](http://www.dealsofamerica.com/)
+[Deals of America](https://www.dealsofamerica.com/)
+
+ 
 
 DealsOfAmerica.com takes your privacy very seriously. Our privacy statement reflects various measures, we take to protect your privacy. Our web server collects visitors IP address and browsers version.
 
@@ -21,3 +23,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. If you feel that this site is not following its stated information policy, you may contact us via email at info@dealsofamerica.com.
 
 We can be reached via e-mail at info@dealsofamerica.com. If you have any questions or concerns, please feel free to email us the same email address.
+
+   
+
