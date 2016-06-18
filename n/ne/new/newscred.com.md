@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224132341id_/http%3A//newscred.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618181445id_/http%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
 
 # Content Marketing Software | Privacy Policy | NewsCred
 
@@ -130,3 +130,5 @@ Whenever NewsCred changes this Privacy Policy, we will post the updated Privacy 
 #### Contact Information
 
 If you have any questions or suggestions regarding our Privacy Policy, please feel free to send an email to privacy [at] newscred [dot] com, call (212) 989-4100 or send a letter by mail to Privacy Officer, NewsCred, Inc., 386 Park Avenue South, 6th Floor, New York, NY 10016.
+
+Facebook-outlineIcon of a facebook-outlineFacebookIcon of a facebookGoogle-plusIcon of a google-plusHamburgerIcon of a hamburgerInstagramIcon of a instagramLinkedinIcon of a linkedinMailIcon of a mailPinterestIcon of a pinterestTwitterIcon of a twitterVenmoIcon of a venmoVideoIcon of a videoYoutubeIcon of a youtube
