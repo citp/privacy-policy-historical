@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the scrapblog.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123220740id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapblog.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618022932id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
 # Mixbook Privacy Policy
 
-Date of Last Revision: October 11, 2012
+Date of Last Revision: October 27, 2015
 
 Mixbook’s Privacy Policy is designed to help you:
 
   * Understand what information we collect and how we collect, share, and use the information; and
-  * Make informed decisions when using the services provided by Interactive Memories, Inc. (together with its corporate affiliates, “Mixbook,” “we,” “us,” “our”) through its website located at www.mixbook.com (the “Site”) and through its mobile applications and related services (collectively, such services, including any new features and applications, and the Site, the “Service(s)”). 
+  * Make informed decisions when using the services provided by Interactive Memories, Inc. (together with its corporate affiliates, “Mixbook,” “we,” “us,” “our”) through its website located at www.mixbook.com (the “Site”) and through its mobile applications and related services (collectively, such services, including any new features and applications and the Site, defined as the “Service(s)”). 
 
 
 
@@ -31,14 +31,16 @@ We collect personally identifiable data ("Personal Information") that you submit
   * When you post any material (such as User Content) on or through the Service, you may be providing Personal Information. 
   * When you order products or services through the Service, you provide Personal Information necessary to complete the transaction, including your name, credit card information, shipping information, and billing information. 
   * When you contact us to give feedback or ask a question using the forms provided by us, you provide your name, email address, and your comment, question, or feedback. 
-  * When you participate in our surveys, we may collect additional Personal Information.
+  * When you participate in our surveys, we may collect additional Personal Information you choose to provide us in responding to our surveys.
   * When you contact us by sending us an email, we will collect your email address, any Personal Information contained in the email, and any Personal Information attached to the email. 
 
 
 
-## Web Site Use Information
+## Service Use Information
 
 When you access the Site, we collect non-personally-identifiable information including your browser type, operating system, domain names, and IP Address. We use different types of technologies to collect this information, including single-pixel GIFs. In addition, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate when the user closes the browser. Under other circumstances, including if you select the “Remember Me” option upon login, we use a persistent cookie, for example, to store your login ID (but not your password) to allow you to automatically login when you come back to the Service. You can set your browser to refuse cookies; however, if you do so, some or all of the Service may not function properly or at all.
+
+We may (and we may allow third party service providers to) use cookies or other technologies to collect information about your browsing activities over time and across different websites following your use of the Service. Our Service currently does not respond to “Do Not Track” (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy.
 
 ## User Content and Other Information
 
@@ -54,7 +56,7 @@ By using the Service, you are consenting to have your personal data transferred 
 
 ## Use of Information Obtained by Mixbook
 
-In general, information you submit to us is used either to respond to requests that you make or to aid us in serving you better, including to fix technical problems, provide administrative services, and monitor traffic, the number of visitors, and the effectiveness of programs. We may use aggregated user data to market the Service to others. We may provide these services ourselves or share the information with partners who will provide the services for us.
+In general, information you submit to us is used either to respond to requests that you make or to aid us in serving you better, including to fix technical problems, provide administrative services, and monitor traffic, the number of visitors, and the effectiveness of programs. We may use user data to market the Service to others. We may provide these services ourselves or share the information with partners who will provide the services for us.
 
 We may use your Personal Information to provide you with newsletters and surveys and to notify you of important changes to the Service, new services, and special offers. If you do not want to receive such email notices, you may login to your account and opt out of receiving such email or send email to [privacy@mixbook.com](mailto:privacy@mixbook.com) or mail to Privacy, Mixbook, 409 Sherman Ave., Palo Alto, CA 94306. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers. If we have provided any third party with your information, you will have to contact the third-party directly with any opt-out request.
 
@@ -68,7 +70,7 @@ Mixbook will send you service-related announcements from time to time through th
 
 ## Feedback
 
-If you provide feedback on any of our products and services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. Mixbook will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy. Policy
+If you provide feedback on any of our products and services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. Mixbook will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
 
 ## Children Under Age 13
 
@@ -82,9 +84,9 @@ We recommend that minors over the age of 13 ask their parents before sending any
 
 Mixbook is all about collaborating and sharing information with others – your friends on the Service and people you share it with. We allow you to choose privacy settings for the projects you create with your friends on the Service. These settings allow you to make an informed choice about who has access to the information and content that you create on or upload to the Service. We do not sell your Personal Information to third party marketers without your permission. We share your Personal Information with third parties only in limited circumstances. We comply with the CAN-SPAM Act of 2003 and intend to do business only with companies that also comply. **We will not sell your Personal Information.**
 
-We may provide collected information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Mixbook or the Service, to remove repetitive information from our user lists, to process payments for products or services, to print the projects that you order, or to provide search results or links. In connection with these offerings and business operations, our service providers may have access to your Personal Information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any Personal Information, we implement reasonable contractual and technical protections limiting the use of that information to Mixbook-specified purposes. If we provide any of the information collected from you with a third party, their use of that information will be governed by their privacy policy.
+We may provide collected information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Mixbook or the Service, to remove repetitive information from our user lists, to process payments for products or services, to print the projects that you order, or to provide search results, personalized advertising or links. In connection with these offerings and business operations, our service providers may have access to your Personal Information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any Personal Information, we implement reasonable contractual and technical protections limiting the use of that information to Mixbook-specified purposes. If we provide any of the information collected from you with a third party, their use of that information will be governed by their privacy policy.
 
-For example: when you place an order for a printed copy of a project through the Service, your billing information is transmitted to a third-party credit card processor and your shipping information is transmitted to a third-party printer to be printed, bound, and shipped to you.
+For example: when you place an order for a printed copy of a project through the Service, your billing information is transmitted to a third-party credit card processor and your shipping information is transmitted to a third-party printer to be printed, bound, and shipped to you. In addition, if you elect to permit your credit card or other billing information to be saved, that information will be transmitted to a third-party credit card processor and stored by such third-party credit card processor for the purpose of completing purchases you make in connection with the Service.
 
 We may be required to disclose user information pursuant to lawful requests, such as subpoenas, law enforcement investigations, or court orders, or in compliance with applicable laws. We also may release information to protect our rights, property, or other interests, including those of our customers or other third parties or to prevent illegal activities or violations of the [Mixbook Terms of Service](https://web.archive.org/main/terms). This may include sharing information with other companies, lawyers, agents, or government agencies.
 
@@ -92,7 +94,7 @@ If the ownership of all or substantially all of the Mixbook business, or individ
 
 ## Links
 
-The Service may contain links to web sites not operated or controlled by Mixbook. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave the Service to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected via the Service.
+The Service may contain links to web sites not operated or controlled by Mixbook. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave the Service to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected via the Service.
 
 ## Integrating Social Networking Services
 
@@ -110,9 +112,9 @@ If you make use of the communication features of the Service to share informatio
 
 Mixbook takes precautions to protect our users’ Personal Information; however, no precautions are 100% effective. As a result, Mixbook does not guarantee that Personal Information you provide to us will remain secure. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of the Mixbook Web Site, please contact us at [privacy@mixbook.com](mailto:privacy@mixbook.com).
 
-## Terms of Use, Notice and Revisions
+## Terms of Service, Notice and Revisions
 
-If you choose to visit Mixbook, your visit and any dispute over privacy is subject to the then-current Privacy Policy and our [Terms of Use](https://web.archive.org/main/terms), including limitations and damages, arbitration of, and application of law of the state of California. We reserve the right to change our Privacy Policy at any time by posting any changes on the Site. All changes will take effect immediately upon their posting on the Site. If we make changes, we will indicate at the top of the page the policy’s effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Your use of the Service after any changes to the Privacy Policy constitutes your acceptance of the new Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+If you choose to visit Mixbook, your visit and any dispute over privacy is subject to the then-current Privacy Policy and our [Terms of Service](https://web.archive.org/main/terms), including limitations and damages, arbitration of, and application of law of the state of California. We reserve the right to change our Privacy Policy at any time by posting any changes on the Site. All changes will take effect immediately upon their posting on the Site. If we make changes, we will indicate at the top of the page the policy’s effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Your use of the Service after any changes to the Privacy Policy constitutes your acceptance of the new Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 ## Contacting Mixbook
 
