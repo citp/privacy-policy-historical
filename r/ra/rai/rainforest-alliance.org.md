@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainforest-alliance.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064556id_/http%3A//www.rainforest-alliance.org/about/integrity/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainforest-alliance.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618171722id_/http%3A//www.rainforest-alliance.org/about/integrity/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainforest Alliance
 
@@ -6,7 +6,7 @@ Rainforest Alliance places a high priority on protecting your privacy. Our inten
 
 This Privacy Policy (the “Privacy Policy”) describes how we handle the information we collect and receive about users. The Privacy Policy applies to Rainforest Alliance services that link to or refer to the Privacy Policy. These services include websites, mobile apps, other online services and anything else that links to or refers to the Privacy Policy (our “Services”). In addition, the Privacy Policy applies no matter what computer or device you use to access our Services.
 
-#### Information We Collect and Receive
+####  Information We Collect and Receive
 
 We collect and receive information about users in a few different ways:
 
@@ -35,7 +35,7 @@ Most web browsers accept cookies automatically, but can be configured not to do 
 
 **Google Analytics**. We also collect information via Google Analytics. The analytics features we have implemented are Google Analytics Demographics and Interest Reporting, Remarketing, and Google Display Network Impression Reporting. Visitors can opt-out of Google Analytics using the [Ads Settings](https://www.google.com/settings/ads) and by using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
-#### How We Use the Information We Collect and Receive
+####  How We Use the Information We Collect and Receive
 
 We use the information we collect and receive for the following general purposes:
 
@@ -57,7 +57,7 @@ We use the information we collect and receive for the following general purposes
 
 
 
-#### How We Share the Information We Collect and Receive
+####  How We Share the Information We Collect and Receive
 
 We may share certain information we collect or receive with third parties to provide products and services you have requested, when we have your consent, or as described in this Privacy Policy.
 
@@ -75,15 +75,17 @@ We may share information with:
 
 In the event that the ownership of Rainforest Alliance, Inc. or an affiliate or their assets changes as a result of a merger, acquisition, sale of assets, or in the unlikely event of a bankruptcy, your information may be transferred to another company.
 
-From time to time, we do make the street addresses of individuals who provide them to us available to other reputable not-for-profit organizations whose missions we think might also be of interest to the individuals. If you do not want us to share your street address with other organizations, please let us know by calling us at the number provided below; emailing us at the email address provided below, or writing to us at the street address provided below.
-
 _Rainforest Alliance University_. All information collected or received by Rainforest Alliance from participants in the virtual Rainforest Alliance University is used to measure the impact of Rainforest Alliance University. To that end, Rainforest Alliance will provide information such as the level of completion of courses and grades earned to the participant’s employer. In addition, Rainforest Alliance may share de-identified, aggregate information on the performance of participants and the impact of Rainforest Alliance University with Rainforest Alliance affiliates and business partners.
 
-#### Companies or Individuals that Provide Services to Rainforest Alliance
+#####  Individual Donors
+
+From time to time, we do make the street addresses of individuals who donate to the Rainforest Alliance available to other not-for-profit organizations whose missions we think might also be of interest to the individual. This applies to donors who give online, through the mail, or by phone. If you do not want us to share your street address with other organizations, please let us know by calling us at the number provided below; emailing us at the email address provided below, or writing to us at the street address provided below.
+
+####  Companies or Individuals that Provide Services to Rainforest Alliance
 
 Companies or individuals that provide Services to Rainforest Alliance or act on our behalf may have access to information about you. These companies are limited in their ability to use information they receive in the course of providing Service to us for any purposes other than the services for which we have engaged them.
 
-#### Third Parties that Provide Content, Advertising Services, or Functionality on Our Services
+####  Third Parties that Provide Content, Advertising Services, or Functionality on Our Services
 
 Some of the content, advertising, and functionality on our Services may be provided by third parties that are not affiliated with us. Such third parties include:
 
@@ -96,15 +98,15 @@ These and other third parties may collect or receive information about your use 
 
 Some of these companies may participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted ads. To learn more, please visit the websites of the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 
-#### "Do Not Track" Signals
+####  "Do Not Track" Signals
 
 Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. Rainforest Alliance currently does not take action in response to these signals.
 
-#### Our Commitment to Security
+####  Our Commitment to Security
 
 Although no one can guarantee the security of the information collected and received, we do employ safeguards intended to mitigate the risk of unauthorized access or disclosure of this information.
 
-#### Children's Privacy
+####  Children's Privacy
 
 Our Services are intended for a general audience. We do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children's Online Privacy Protection Act. If you are a parent who consents to the collection of personal information from your child, you agree that your child may use all of our Services and that we may collect, use, and disclose your child's personal information consistent with this Privacy Policy.
 
@@ -117,14 +119,14 @@ New York, NY 10279
 +1 (212) 677-1900  
 [development@ra.org](mailto:development@ra.org)
 
-#### International Users
+####  International Users
 
 Rainforest Alliance is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.
 
-#### How to Contact Us
+####  How to Contact Us
 
 If you have questions or concerns about this Privacy Policy or about Rainforest Alliance's privacy practices in general, please send us an email at [development@ra.org](mailto:development@ra.org).
 
-#### Changes to This Privacy Policy and Additional Information
+####  Changes to This Privacy Policy and Additional Information
 
 We may update this Privacy Policy from time to time, and so you should review it periodically. If there are significant changes to Rainforest Alliance's information practices, you will be provided with appropriate online notice.
