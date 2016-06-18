@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217173015id_/http%3A//www.animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183433id_/http%3A//www.animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
 
 # Anime Boston - The Northeast's Largest Anime Convention
 
@@ -14,7 +14,7 @@ This policy applies to all personal information we collect as part of the Regist
   * Anime Boston Registration Customer Service and Outreach Staff and Anime Boston Executives have access to pre-registration information which is required to perform their staff duties.
   * Our pre-registration database is stored with our hosting provider, Expologic. They do not share any information with third parties.
   * Expologic provides our on-site registration services. Anime Boston retains full ownership of all registration information and will not permit subcontractors to distribute any information.
-  * Your emergency contact phone number may be provided to police and EMS if they have need to communicate with your emergency contact. Your emergency contact phone number will be removed from the Anime Boston database within seven (7) days of Anime Boston 2016.
+  * Your emergency contact phone number may be provided to police and EMS if they have need to communicate with your emergency contact. Your emergency contact phone number will be removed from the Anime Boston database within seven (7) days of Anime Boston 2017.
   * Your birthdate is used to determine your membership rate, required registration information, and for demographic purposes. Your age is stored, but not your birthdate.
   * Your gender is used solely for demographic purposes.
   * As enumerated above in "How This Information is Used," limited information may be provided to the general public.
@@ -23,7 +23,7 @@ This policy applies to all personal information we collect as part of the Regist
 
 
   * All child attendees must submit a permission form, which is provided in the registration process. A parent or legal guardian must sign to confirm permission to use the child's personal data as outlined in this policy.
-  * Sixty days after the conclusion of Anime Boston 2016, the first name, last name, street address (but not city), and email address for any child attendee will be wiped from our database.
+  * Sixty days after the conclusion of Anime Boston 2017, the first name, last name, street address (but not city), and email address for any child attendee will be wiped from our database.
 
 
 
