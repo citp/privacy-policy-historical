@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tadpolestore.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212194256id_/http%3A//www.tadpolestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpolestore.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618075442id_/http%3A//www.tadpolestore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tadpole Privacy Policy
 
 Tadpole Store believes in giving its customers a delightful and enjoyable shopping experience with a commitment to protect their privacy at all times. We have accordingly designed our Privacy Policy to protect your personal information and keep it confidential. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -17,4 +17,4 @@ Tadpole Store reserves the right to change its privacy policy at any time withou
   
 You may request copies of or have Tadpole Store make changes or corrections to personal information in Tadpole Store' possession by contacting Tadpole Store at You may opt out of receiving further communications from us or others through any of the following methods:   
 • Send an email to care@tadpolestore.com  
-• Call +91 135 2650999
+• Call +91 8334945556
