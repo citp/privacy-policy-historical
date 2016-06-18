@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031191705id_/http%3A//businessmonitor.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618102354id_/http%3A//www.bmiresearch.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BMI Research
 
