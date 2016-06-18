@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermont.gov privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810134502id_/http%3A//www.vermont.gov/portal/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermont.gov privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618193959id_/http%3A//www.vermont.gov/portal/policies/privacy.php) for the most accurate reproduction.*
 
 # Vermont.gov - Policies - Privacy Policy
 
