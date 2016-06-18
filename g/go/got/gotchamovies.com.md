@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotchamovies.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916025608id_/http%3A//www.gotchamovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotchamovies.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618201519id_/http%3A//gotchamovies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GotchaMovies
+# Privacy Policy - GotchaMovies
 
 GotchaMovies.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at [jenny@q1media.com](mailto:jenny@q1media.com).
 
