@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the edubilla.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209082708id_/http%3A//www.edubilla.com/help/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edubilla.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618051253id_/http%3A//www.edubilla.com/help/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edubilla.com
 
 This is the Privacy Policy governing your use of the Edubilla.com Site. By using this Site, you approve and agree to our Privacy Policy set out below.
-
-The main purpose of the services that Edubilla.com provides you requires that we gather, process, use and distribute the member's information which also you provide directly by filling out our various forms and formats; e.g. Your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Edubilla.com does not guarantee that your information will be protected from exposure in any particular party or group. In fact the purpose of online b2b portal is to make you and your company known to global commercial market. If you wish to remove your company or update your company's information you can contact Bizbilla support.
 
 ## 1.The Information We Collect
 
