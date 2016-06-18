@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906020012id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618232137id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
 [](http://privacy.truste.com/privacy-seal/JustAnswer-LLC/validation?rid=ea4c4347-7e60-4f0c-89e2-e145831cd449)
 
-Updated: August 13, 2015
+Updated: October 20, 2015
 
 Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/), which includes the Site ww2.justanswer.com and the Site [http://my.justanswer.com](http://my.justanswer.com/), which is owned and operated by JustAnswer (collectively, "Sites"). This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
 
@@ -28,9 +28,9 @@ As explained in the JustAnswer Terms of Service, _information provided by you in
 
 In some cases, JustAnswer supplements portions of the PII you provide with data sent to us from your web browser including (depending on its settings) your IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data ("Usage Statistics"). JustAnswer may also supplement your user profile with a phone number if you call our customer service center and the customer service agent who answers your call is able to identify your phone number. This allows customer service agents to better help you by allowing them to match your phone number when you next call to your user profile.
 
-We use cookies forto remember users’ settings (e.g. language preference, to retrieve your username and password so you do not need to enter them again), and for authentication _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We use cookies to remember users’ settings (e.g. language preference, to retrieve your username and password so you do not need to enter them again), and for authentication _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We [do/ do not] link this automatically collected data to other information we collect about you.
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
 Technologies such as: cookies, beacons, tags and scripts are used by JustAnswer and our partners such as our marketing partners, affiliates, or analytics or service providers including customer service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
