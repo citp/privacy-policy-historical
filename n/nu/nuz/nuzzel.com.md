@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuzzel.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123052id_/http%3A//nuzzel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuzzel.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618054329id_/http%3A//nuzzel.com/privacy) for the most accurate reproduction.*
 
 # Nuzzel Privacy Policy
 
@@ -31,6 +31,8 @@ Identifying Information Collected by Us
 
 When using our website, you will interact with us using your Facebook and/or Twitter account through their APIs. Generally, we will at the minimum know your name and e-mail address. However, if you don't adjust your privacy settings a certain way, we may end up knowing your hobbies, favorite bands, and romantic secrets. Please adjust your Facebook and Twitter privacy settings accordingly.
 
+If you enter your email address on our website in order to subscribe to a newsletter, we will know your email address, and may share it with newsletter curators.
+
 Non-Identifying Information
 
 Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you. Generally, unless you know a fortune teller or other clairvoyant, this information cannot be used to identify you without a subpoena.
@@ -42,12 +44,15 @@ We may use your information:
   * To enhance or improve Users' experiences, our Site, or Service.
   * To send e-mails about our Site or respond to inquiries.
   * To send e-mails about the Site and other products, news, or updates for Nuzzel, or other businesses, websites, or services owned or operated by us.
+  * To send newsletters, and to provide newsletter curators with a list of their subscribers
 
 
 
 ##  5\. Accessing, Editing, and Removing Your Information
 
 Users may in some cases be able to review and edit the personal information they have provided to us by logging into their account on the Site and editing their account. Although most changes may occur immediately, information may still be stored in a web browser's cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database. Also, we have no control over what Twitter or Facebook does with your information, and we can't stop people from saving things that you write or post.
+
+You may unsubscribe from any Nuzzel newsletters by using the unsubscribe links at the bottom of these newsletters.
 
 ##  6\. Cookies
 
@@ -62,8 +67,6 @@ Please be aware that this Privacy Policy, and any other policies in place, in ad
 We use Facebook and/or Twitter to authenticate Users and associate them with a unique account. We may be given access to information in your Twitter and Facebook accounts that we would not otherwise have based on your privacy settings at those websites. We therefore repeat our recommendation that you adjust your Facebook and Twitter privacy settings accordingly, should you wish to limit the information made available to us.
 
 ##  8\. Third Party Access to Your Information
-
-Although you are entering into an Agreement with Nuzzel to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, ex-convicts, and others. Okay, we're just kidding about the ex-convicts, but the point of that is to let you know that although we may try to ensure that we're hiring reputable people, we can't know for sure.
 
 Throughout the course of our provision of our Services to you, we may delegate our authority to collect, access, use, and disseminate your information. For example, our web host stores the information that you provide us, and we may hire third parties to assist us in maintaining, repairing, improving, or otherwise assisting us with our Site and Services.
 
@@ -105,4 +108,4 @@ San Francisco, CA 94107
 415-358-8131  
 [info@nuzzel.com](mailto:info@nuzzel.com)
 
-Last Updated: January 14, 2013
+Last Updated: May 18, 2016
