@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcommunities.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927181207id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcommunities.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618051210id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Remedy Health Media, LLC
 
