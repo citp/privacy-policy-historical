@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614181242id_/http%3A//www.agu.org/about/governance/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618181547id_/http%3A//about.agu.org/privacy-policy) for the most accurate reproduction.*
 
-# AGU Privacy Policy
+# AGU Privacy Policy - About
 
 —Adopted by the AGU Council 10 December 2002 on behalf of the membership [Revised May 2004]
 
-As constituents of AGU we value the ability to set the level at which we will share information about ourselves. AGU gathers information at headquarters and in external offices, primarily those of editors, about members, authors, and all others who participate in any way in the Union's activities. Every Union officer, volunteer, staff worker, and member who has access to these data is charged with respecting the privacy of those who provided it and is to act in accord with the following policies.
+As constituents of AGU we value the ability to set the level at which we will share information about ourselves. AGU gathers information at headquarters and in external offices, primarily those of editors, about members, authors, and all others who participate in any way in the Union’s activities. Every Union officer, volunteer, staff worker, and member who has access to these data is charged with respecting the privacy of those who provided it and is to act in accord with the following policies.
 
 ## Why personal data are collected
 
 Addresses, phone numbers, e-mail addresses, other contact information, and information related to scientific interests are collected from AGU constituents in the course of providing services such as subscriptions, meeting registration, and submission of articles, and in various other interactions. Such information is required to complete the individual order or deliver the service. Other demographic information, such as education and employment data, is collected when individuals apply for membership or are suggested for various positions in the Union. Except as described below, these data and any other information of a personal nature, such as gender, are collected on a purely voluntary basis; furthermore, they are not shared or used in such a way that an individual is identified. Principal uses of these data are for internal assessments of AGU programs and the membership; additionally, these data, in a consolidated form, may be used in publicly distributed statistical descriptions and studies of the AGU constituency.
 
-AGU members may add, correct, or update their personal information through a form on the AGU Web site or to Member Services by phone at : +1-202-462-6900 (toll free in North America: 800-966-2481) or by e-mail at [service@agu.org](mailto:service@agu.org).
+AGU members may add, correct, or update their personal information through a form on the AGU Web site or to Member Services by phone at : +1-202-462-6900 (toll free in North America: 800-966-2481) or by e-mail at service@agu.org.
 
 ## What personal data are made available
 
@@ -24,9 +24,9 @@ Other demographic data are needed from time to time to help understand such matt
 
 ## Opt out
 
-Any individual may decline to provide information requested by AGU. In this case, AGU will be unable to provide services for which such information is needed for security and/or identification purposes. A member may request not to be included on any list to be used by an organization other than AGU by sending an e-mail to [service@agu.org](mailto:service@agu.org) asking to be excluded from mailing lists exchanged with other societies.
+Any individual may decline to provide information requested by AGU. In this case, AGU will be unable to provide services for which such information is needed for security and/or identification purposes. A member may request not to be included on any list to be used by an organization other than AGU by sending an e-mail to service@agu.org asking to be excluded from mailing lists exchanged with other societies.
 
-Members may suppress the publication of all or selected elements of their personal information in the Membership Directory, and subscribers to any AGU online service can stop the service by sending an e-mail message to [service@agu.org](mailto:service@agu.org), telephoning +1-202-462-6900 (toll free in North America: 800-966-2481), or writing to AGU, 2000 Florida Ave. NW, Washington, DC 20009.
+Members may suppress the publication of all or selected elements of their personal information in the Membership Directory, and subscribers to any AGU online service can stop the service by sending an e-mail message to service@agu.org, telephoning +1-202-462-6900 (toll free in North America: 800-966-2481), or writing to AGU, 2000 Florida Ave. NW, Washington, DC 20009.
 
 It is the intent of AGU policies to ensure that members are kept informed but do not feel burdened by what they receive as a “benefit” of membership. The officers of the Union and staff welcome comments from members as to the effectiveness of e-mail and mail as a communication tool on any specific case.
 
@@ -43,5 +43,3 @@ A “cookie” is a file a Web site stores in a user’s computer for future ref
 ## Links to other sites
 
 AGU links to other Web sites that are not controlled by AGU. A link from the AGU Web site is not an AGU endorsement for any company, organization, or individual. AGU is not responsible for the privacy practices or the content of those sites.
-
-AGU galvanizes a community of Earth and space scientists that collaboratively advances and communicates science and its power to ensure a sustainable future.
