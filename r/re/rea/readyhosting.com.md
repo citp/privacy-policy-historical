@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218182227id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618175030id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # ReadyHosting's Privacy Policy
 
@@ -49,7 +49,7 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on April 30, 2015.**
+**This file was last modified on May 29, 2015.**
 
  ****  
   
