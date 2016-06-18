@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108173301id_/http%3A//www.hankypanky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618055225id_/http%3A//www.hankypanky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hanky Panky
 
-Last Updated: March 17, 2015
+Last Updated: January 28, 2016
 
 Hanky Panky Ltd. (“Hanky Panky”) understands that our users of www.hankypanky.com are concerned about how personal information is collected and used. Please be assured that we take privacy very seriously and are committed to safeguarding personal information. This notice describes our Privacy Policy, which covers the personal information that we collect on our website. By accessing and using our website, you are agreeing to be legally bound by this Privacy Policy. The Privacy Policy may be updated from time to time. You should check the date of the policy and review any changes since the last version.
 
 We may collect personal information from you, including your name, email address, postal address, phone number, payment card information, demographic information, birthday and personal preferences, when you visit our website and/or place an order online or by phone, save your information with us online, register with us, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands, if any. We also collect and store the Internet Protocol (“IP”) addresses of individuals that visit our site. An IP address provides general statistical information, such as browsing activity, areas of greatest interest on the site, general demographic information and other basic information that we will use for system administration. If you use our "email this style to a friend" or otherwise share from our site to a friend, we will also collect your friend's name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
 
-Hanky Panky collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Hanky Panky who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:   
+Hanky Panky collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Hanky Panky who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
+
 Hanky Panky Ltd.   
 Customer Relations   
 373 Park Avenue South – 12th floor   
-New York, NY 10016 
+New York, NY 10016
 
 Alternatively, you may send us an email at contact-us@hankypanky.com with the words "California Privacy Rights" in the subject line.
 
@@ -30,10 +31,9 @@ Hanky Panky is determined to protect your privacy. We only collect information i
 
 We only use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We only share specific information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. For example, we provide relevant shipping information to UPS, our shipping partner, so that they may deliver your order.
 
-Signing up for our e-mail list allows you to receive promotional materials from Hanky Panky. Each e-mail you receive will give you the option to unsubscribe. We do not share our e-mail list with any third parties. We may have to release information (which could include contents of e-mail communications between any persons) in the unlikely event of a legal requirement on us or pursuant to a court order. In addition, we may divulge personal information if we or any of our service providers or consultants believe that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customers or of the general public. 
+Signing up for our e-mail list allows you to receive promotional materials from Hanky Panky. We do not share our e-mail list with any third parties other than third parties that provide email distribution, digital marketing, and other services on our behalf, and only if such service provider keeps this information confidential and uses it only to provide the applicable services. Each e-mail you receive will give you the option to unsubscribe. If you do not wish to receive marketing emails from Hanky Panky, or prefer that we not share your email address with third parties providing services on our behalf, you may unsubscribe in the manner described below under “Marketing email communications.” We may have to release information (which could include contents of e-mail communications between any persons) in the unlikely event of a legal requirement on us or pursuant to a court order. In addition, we may divulge personal information if we or any of our service providers or consultants believe that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customers or of the general public. 
 
-When you place an order on any of our website, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails.   
-We also maintain a record of your purchases made on our website. 
+When you place an order on any of our website, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails. We also maintain a record of your purchases made on our website. 
 
 In the unlikely event of a sale of some or all of our business, Hanky Panky may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.
 
