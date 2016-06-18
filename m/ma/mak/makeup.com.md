@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206125407id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618061055id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Makeup.com
 
@@ -149,7 +149,7 @@ Get more than ever out of your MAKEUP.com. Save your favorite articles for quick
 
 ## Select your favorite social network to get started.
 
-  * Email
+  * Email-ID
 
   *   * 
 
