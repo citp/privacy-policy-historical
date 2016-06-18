@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054749id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618122609id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - RepairClinic.com
 
@@ -6,7 +6,7 @@ This Privacy Policy sets out the manner in which RepairClinic.com, Inc. (“Repa
 
 ## Your acceptance of our privacy policy
 
-By using the web site http://www.repairclinic.com (the “Site”), you agree to the collection and use of your personal information as described in this policy. If we make any significant changes to this policy, we will notify you by email, or post a notice of such changes on the Site, or flag our Privacy Policy on the Site as updated. 
+By using the web site www.repairclinic.com (the “Site”), you agree to the collection and use of your personal information as described in this policy. If we make any significant changes to this policy, we will notify you by email, or post a notice of such changes on the Site, or flag our Privacy Policy on the Site as updated. 
 
   
 
@@ -45,11 +45,6 @@ We may also use third parties to serve our advertisements on other websites. The
 
 We use data in the aggregate for our business purposes, but we do not use it in a manner that allows identification of an individual user. 
 
-  
-
-
-## Third party links
-
 Our Site may contain links to other sites that RepairClinic.com does not own or operate. Also, links to our Site may be found on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. 
 
   
@@ -57,27 +52,15 @@ Our Site may contain links to other sites that RepairClinic.com does not own or 
 
 ## Disclosure of personal information
 
-Except as outlined in this Privacy Policy, we will not disclose, sell, rent, trade or otherwise transfer your personal information to third parties without your consent. 
-
 **Service Provider Arrangements:** We may transfer (or otherwise make available) your personal information to our affiliates and other third parties who provide services on our behalf. For example, we may use service providers to authorize and process payments, ship our products, send email on our behalf, host our Website and operate certain of its features. 
 
-Your personal information may be maintained and processed by our affiliates and other third party service providers in Canada, the US or other foreign jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own purposes. For information about the manner in which our service providers treat your personal information, contact us as set out below. 
+Your personal information may be maintained and processed by our affiliates and other third party service providers in Canada, the US or other foreign jurisdictions. Our service providers are given the information they need to perform their designated functions. For information about the manner in which our service providers treat your personal information, contact us as set out below. 
 
 **Sale of Business:** We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of RepairClinic.com or as part of a corporate reorganization or stock sale or other change in corporate control. 
 
 **Legal:** RepairClinic.com, our affiliates and our Canadian, US and other service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise may be required or permitted by applicable Canadian, US or other law. We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims. 
 
-  
-
-
-## Access to Information
-
 Depending on the jurisdiction in which you reside, you may have the right to access, update, and correct inaccuracies in your personal information in our custody and control. You may request access, updating and corrections of inaccuracies in your personal information by contacting us as set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
-
-  
-
-
-## Contact
 
 Please contact us with any questions and/or comments you may have. 
 
@@ -90,7 +73,7 @@ Canton, Michigan USA 48188-2240
 Fax: 1-734-495-3842  
 
 
-Dated: May 2012 
+Dated: October 2015 
 
   
 
