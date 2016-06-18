@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealerlocations.in privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216030154id_/http%3A//www.dealerlocations.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerlocations.in privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618101442id_/http%3A//www.dealerlocations.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DealerLocations.in | Showroom, Customer Service Center
 
