@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184001id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618074411id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsTimes
 
@@ -57,43 +57,3 @@
 
 
 Last Update: November 20th, 2014
-
-## Top Ads Cars | Jobs | Homes | Rentals
-
-  * #### BUSINESS RESEARCH Work In Westport 2 Immediate Openings (must be computer savvy) FULL TIME - Salary Negotiable PART TIME -...(more)
-
-$20 Per Hour - Monday thru Thursday 12 noon to 5PM Use Business Databases e.g.Hoovers, Manta Interview and Supervise 3 or 4 home based interns Create Reports - Interface with Sales Management & Brokers Gottesman Company - US, Canada & Europe Rated A+ by Better Business Bureau - Our 31st year Visit Our Website www.gottesman-company.com Send detailed Resume and Cover Letter to: egottesman@gottesman-company.com(less)
-
-  * #### BI ETL DEVELOPER (Pepperidge Farm, Norwalk, CT) - Develop, maintain and support technologies/ processes used to Extract,...(more)
-
-Transform, & Load data from SAP to internal BI system for reporting/ analysis. Create tech specs and designs based on business reqs. Develop implementation design, manage/ develop/test new designs. REQS: Bachelors in Computers or Engineering + 5 yrs exp. Must have exp in ETL Architect Design for large apps, advanced programming, tuning, administration. Send resumes to john_e_fort@campbellsoup.com(less)
-
-  * #### IT: SR. TECHNICAL ANALYST (Wilton, CT): Execute and enforce data governance processes to track additions and changes to the...(more)
-
-objects in governance. Define data acquisition strategies and drive execution of data governance and quality framework, programs and integration. Work with data warehouse platforms with systems joined together by ETL, database connections on Oracle RDBMS platform, RDBMS concepts, and data modeling. Set up data quality and data governance solutions and develop strategies for master data management, data inventories and data lineage in support of the data governance process. Create technical specification designs for data warehouse ETL routines, stored procedures, views, functions and SQL skills. Set up ETL pro~ cesses for data integration between different third party financial data sources. Reqs Bachelor's degr + 5 yrs exp. Mail resumes to Lisa Goldn~ er, AIG Employee Services, Inc., 175 Water St., NY, NY 10038. Job#: Y111AIGCT(less)
-
-
-
-
-## Top Ads Cars | Jobs | Homes | Rentals
-
-  * #### WATERBURY EAST END SCOTT GARDENS Spacious Townhouse Apts! Now Paying $300 Referral Bonus 1-2-3BR $765 - $1030 INCLUDES heat,...(more)
-
-h.water, range, refrig, new on-site lndry, assign. prkg. Beautifully landscaped, quiet & safe, 24 hr. maint, near Rt.84, for qualified persons reduced sec. dep. Credit report fee $50. 203-757-7311 Open M-F, 9-5. Wknds. by appt. windsorny.com(less)
-
-  * #### BRIDGEPORT near Merritt Prkwy 1 BR & studios. Nice neighborhood. Gated parking & heat included in rent 203-212-1910 Mon-Fri,...(more)
-
-1-5 pm. www.lynn apartmentsct.com(less)
-
-  * #### DANBURY APTS. Bright Studios $600-$700, 1BR, $800-$1000. OSP, LAUNDRY. Security Req'd. NO PETS. Applications...(more)
-
-avail. 203-797-8255 nolanrealestate.org(less)
-
-  * #### DANBURY AREA Large inventory of 1, 2 & 3BRs. DaveLampRealty@yahoo.com 203-240-0219
-
-  * #### BRIDGEPORT #1 Newly Renov'd. 1, 2, 3 & 4BRs. Must see! W/D hkup. Section 8 welcomed. Call 203-209-9617
-
-  * #### DANBURY 1BR, top flr, off st prkg, Mall area. 1 mo sec & 1yr lease. $950. Call 203-417-2562
-
-
-
