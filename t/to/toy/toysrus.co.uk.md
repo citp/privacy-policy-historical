@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toysrus.co.uk privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219010401id_/http%3A//www.toysrus.co.uk/toys/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619011250id_/http%3A//www.toysrus.co.uk/toys/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Cookies : Help & Support : Toys R Us
+# Privacy Policy & Cookies | Help & Support | Toys R Us
 
 At Toys R Us we are committed to protecting your privacy and we comply with the data protection laws applicable to the UK. This Privacy Policy outlines how your personal information is treated and forms part of our Terms and Conditions. (We may occasionally modify our Privacy Policy; when this happens we will notify you via our terms and conditions page.)
 
@@ -125,7 +125,7 @@ Holds the preferred language of the visitor for the site (when multisite is enab
 
 20+ years
 
-|     
+|    
   
 **_ga, _gat**
 
@@ -254,5 +254,10 @@ Login details are saved to a permanent cookie so you may purchase from the site 
   
 Your statutory customer rights are not affected.
 
+##    
+Email Subscription
+
+By subscribing to our free newsletter you will be the first to learn about new products, valuable tips and news as well as exclusive offers. After signing up you will receive a welcome email. If you no longer wish to receive our newsletter you can unsubscribe at any time, simply by clicking the "Unsubscribe" link in the footer of any of our newsletters.
+
   
-**Updated 30/11/2015**
+**Updated 07/04/2016**
