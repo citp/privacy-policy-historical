@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copperchef.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218221700id_/http%3A//www.copperchef.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copperchef.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618081848id_/http%3A//www.copperchef.com/policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Copper Chef
+# Privacy Policy | Copper Chef™ Cookware
 
 Welcome to this web sites owned and operated by the Tristar Products, Inc. and its affiliates and/or subsidiaries (“Tristar Products”).  Tristar Products is pleased to offer its products and provide other related information and materials to you through this Web site located at www.copperchef.com.  Because your privacy is important to us, we provide this notice explaining our online practices and your choices regarding our use of information about you collected through this website.  This Notice applies only to the information collected by the Tristar Products from the users of our Web site.    
 
