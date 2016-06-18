@@ -1,62 +1,19 @@
-> *The following text is extracted and transformed from the vjav.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207172402id_/http%3A//vjav.com/privacy-of-pokerstars-play-chips.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vjav.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618025241id_/http%3A//www.vjav.com/privacy) for the most accurate reproduction.*
 
-# Vjav.Com - Jack Russell Chips
+# Site Information - Privacy Policy - VJAV.com
 
-**What information do we collect?**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+This SITE generally does not collect personally identifiable information (data such as your name, email address, and the content of your communications) unless you submit or communicate User Content through the Service, or register with us in order to use certain features of the Service. This SITE will not disclose any personally identifiable information it collects or obtains except:
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+(1) as described in this SITE’s Terms and Conditions or this Privacy Policy;
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+(2) after obtaining your permission to a specific use or disclosure;
 
- **What do we use your information for?**
+(3) if this SITE is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement);
 
-Any of the information we collect from you may be used in one of the following ways: 
+(4) as required to protect this SITE’s property, safety, or operations, or the property or safety of others; or
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+(5) to a business that acquires this SITE, or the assets of this SITE in connection with which such information has been collected or used; or
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-; To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-; To administer a contest, promotion, survey or other site feature
-
-; To send periodic emails
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us via email: JackRussellChips[at]Facebook.Com. 
+(6) as otherwise required by law.
