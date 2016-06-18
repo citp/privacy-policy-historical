@@ -1,0 +1,350 @@
+<!--The following is the downloaded HTML source of the creetor.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618192054id_/http%3A//www.creetor.com/page/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="mobi.js"></script>
+<script language="javascript">
+if(window.location == "http://www.creetor.com/" || window.location == "http://www.creetor.com/index.php"){
+	if(window.navigator.appName.toLowerCase()=="microsoft internet explorer")
+	{
+		if(window.navigator.browserLanguage=="zh-cn"){
+			window.location = "http://www.creetor.com/zh/";
+		}
+	}
+	else if(window.navigator.appName.toLowerCase()=="netscape" || window.navigator.appName.toLowerCase()=="firefox")
+	{
+		if(window.navigator.language=="zh-CN"){
+			window.location = "http://www.creetor.com/zh/";
+		}
+	}
+}
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-icon" href="http://www.creetor.com/templates/hippo/images/app_icon.png">
+<title>Privacy Policy - Creetor - the Wonderland of Games</title><meta name="description" content="Automatically logged information (server logs), cookies, Flash shared objectsServer logs
+Like most servers, our servers automatically record the page reques…">
+	<meta name="keywords" content=""><meta name="generator" content="AV Arcade"><link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,700italic" rel="stylesheet" type="text/css">
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="http://www.creetor.com/templates/hippo/style.css" rel="stylesheet" type="text/css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<!--[if lt IE 9]>
+<link href="http://www.creetor.com/templates/hippo/compatible.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script src="http://www.creetor.com/templates/hippo/js/jquery.unveil.js"></script>
+<script src="http://www.creetor.com/templates/hippo/js/masonry.pkgd.min.js"></script>
+<script src="http://www.creetor.com/templates/hippo/js/jquery.infinitescroll.min.js"></script>
+<script src="http://www.creetor.com/templates/hippo/js/jquery.qrcode.js"></script>
+<script src="http://www.creetor.com/templates/hippo/js/qrcode.js"></script>
+<link rel="shortcut icon" href="http://www.creetor.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.creetor.com/favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="http://www.creetor.com" href="http://www.creetor.com/rss.php">
+<script type="text/javascript" src="http://www.creetor.com/includes/avarcade.js"></script>
+<script type="text/javascript">
+
+SITE_URL = 'http://www.creetor.com';
+TEMPLATE_URL = '/templates/hippo';
+AD_COUNTDOWN = '10';
+SEO_ON = '3';
+USER_IS_ADMIN = '0';
+COMMENT_POINTS = 10;NEW_PMS = 0; NEW_FRS = 0; N_NEW_TOPIC = 0;DELETE_FRIEND_CONFIRM = 'Are you sure you want to delete this friend?';UNFRIENDED = 'Friend removed';REQUEST_SENT = 'Request sent';CHALLENGE_A_FRIEND = 'Challenge a friend';CHALLENGE_SUBMITTED = 'Challenge sent';CHALLENGE_ANOTHER = 'Challenge another friend';GAME_FAVOURITE = 'Favourite';GAME_UNFAVOURITE = 'Unfavourite';FILL_IN_FORM = 'Please make sure you\'ve filled in the required fields';N_COMMENT_FAST = 'Please wait at least 60 seconds between comments';N_POINTS_EARNED1 = 'You earned';N_POINTS_EARNED2 = 'points';N_POINTS_EARNED_COMMENT = 'for posting a comment';N_ONE_NEW_PM = 'You have a new private message';N_MULTIPLE_NEW_PMS1 = 'You have';N_MULTIPLE_NEW_PMS2 = 'unread private messages';N_ONE_NEW_FR = 'You have a new friend request';N_MULTIPLE_NEW_FRS1 = 'You have';N_MULTIPLE_NEW_FRS2 = 'new friend requests';N_VIEW = 'View';REPORT_ERROR = 'Please enter your description';
+
+function register(){ //函数 login(); 
+	var username = $("#username").val();//取框中的用户名 
+	var password = $("#password").val();//取框中的密码 
+	var password2 = $("#password2").val();//取框中的密码   
+	var email = $("#email").val();//取框中的密码 
+	var qa_captcha_answer = $("#qa_captcha_answer").val();//取框中的密码 
+	if(username == "" || password =="" || password2 =="" || email =="" || qa_captcha_answer ==""){
+		$('#error_message').html('Please make sure that you have correctly filled in all of the fields');
+		$('#error_message').css('display', 'inline-block');
+		return;
+	}
+	$('#register_button').css('display','none');
+	$('#register-loading-image').html('<img src="'+SITE_URL+'/images/loader.gif" />');
+	$('#register-loading-image').css('display','block');
+	$.ajax({ //一个Ajax过程 
+		type: "post", //以post方式与后台沟通 
+		url : SITE_URL+"/includes/ajax/register.php?done=1", //与此php页面沟通  
+		data: 'username='+username+'&password='+password+'&password2='+password2+'&email='+email+'&qa_captcha_answer='+qa_captcha_answer, //发给php的数据有两项，分别是上面传来的u和p 
+		success: function(data){//如果调用php成功 
+			error = 0;
+			try {
+				result = eval(data);
+			}
+			catch(err) {
+				error = 1;
+			}
+			if (error == 0) {
+				if (result['success'] == 0) {
+					$('#error_message').html(result['message']);
+					$('#error_message').css('display', 'block');
+					$('#register_button').css('display','block');
+					$('#register-loading-image').html('');
+					$('#register-loading-image').css('display','none');
+					$("#password").val("");
+					$("#password2").val("");
+					$("#qa_captcha_answer").val("");
+					$(".register_form").css('margin-top','0');
+				}
+				else {
+					$('#error_message').html(result['message']);
+					$('#error_message').css('display', 'block');
+					login(result['username'],result['password'],"On");
+				//	HidePopup();	
+				}
+			} 
+		} 
+	});
+}
+
+// LOGIN
+function login(u,p,r){ //函数 login(); 
+	var username = u;//取框中的用户名 
+	var password = p;//取框中的密码 
+	var remember = r;
+	if(username == undefined || password == undefined || remember == undefined){
+		username = $("#username").val();//取框中的用户名 
+		password = $("#password").val();//取框中的密码 
+		remember = $("#remember").val();
+	}
+	if(username == "" || password == ""){
+		$('#error_message').html('You didn\'t enter a username and password');
+		$('#error_message').css('display', 'inline-block');
+		$(".login_form").css('margin-top','0');
+		return;
+	}
+	$('#login_button').css('display','none');
+	$('#login-loading-image').html('<img src="'+SITE_URL+'/images/loader.gif" />');
+	$('#login-loading-image').css('display','block');
+	$.ajax({ //一个Ajax过程 
+		type: "post", //以post方式与后台沟通 
+		url : SITE_URL+"/includes/ajax/login.php?done=1", //与此php页面沟通 
+	//	dataType:'json',//从php返回的值以 JSON方式 解释 
+				data: 'username='+username+'&password='+password+'&remember='+remember, //发给php的数据有两项，分别是上面传来的u和p 
+				success: function(data){//如果调用php成功 
+			//alert(json.username+'n'+json.password); //把php中的返回值（json.username）给 alert出来 
+		//	$('#result').html("姓名:" + json.username + "<br/>密码:" + json.password); //把php中的返回值显示在预定义的result定位符位置 
+			error = 0;
+			try {
+				result = eval(data);
+			}
+			catch(err) {
+				error = 1;
+			}
+			if (error == 0) {
+				if (result['success'] == 0) {
+					$('#error_message').html(result['message']);
+					$('#error_message').css('display', 'block');
+					$('#login_button').css('display','block');
+					$('#login-loading-image').html('');
+					$('#login-loading-image').css('display','none');
+					$("#username").val("");
+					$("#password").val("");
+					$(".login_form").css('margin-top','0');
+				}
+				else {					
+					//alert(result['username']+','+result['message_url']);
+					$('#user-area').html('<a href="#" class="account-btn noflick account-btn-inactive"><span class="fa fa-user"></span>My Account</a>');
+					$('#body-container').append('<ul class="account-menu"><li class="account-user"><span class="menu_avatar"><img src="'+result['avatar']+'" alt="Avatar" width="75" height="75" /></span><span>Welcome, '+result['username']+'</span></li><li class="account-points"><span class="fa fa-star"></span> '+result['points']+'Points</li><li><a href="'+result['friends_url']+'">'+result['friends_anchor']+'</a></li><li><a href="'+result['message_url']+'">Messages</a></li><li>'+result['admin_link']+'</li><li><a href="'+result['url']+'">Profile</a></li><li><a href="http://www.creetor.com/login.php?action=logout">Log out</a></li></ul>');
+					if(result['user_fav_yet'] != ""){
+						if(parseInt(result['user_fav_yet'])>=1){
+							$('.game_options_fav').html('<a href="#" id="favbutton" title="Unfavourite" class="game-fav-btn"><span class="fa fa-heart-o"></span> Unfavourite</a>');
+						}else{
+							$('.game_options_fav').html('<a href="#" id="favbutton" title="Favourite" class="game-fav-btn"><span class="fa fa-heart"></span> Favourite</a>');
+						}
+						$('#favbutton').click(AddFav);
+					}
+					if(result['user_rating'] != ""){
+						$('.game_options_column2').html(GenerateRating(result['user_rating'], 'view_game'));
+					}else{
+						$('.game_options_column2').html('<div id="rateMe" title="Rate Me..."><a onclick="rateIt(this, )" id="_1" title="1" onmouseover="rating(this)" onmouseout="off(this)"></a><a onclick="rateIt(this, )" id="_2" title="2" onmouseover="rating(this)" onmouseout="off(this)"></a><a onclick="rateIt(this, )" id="_3" title="3" onmouseover="rating(this)" onmouseout="off(this)"></a><a onclick="rateIt(this, )" id="_4" title="4" onmouseover="rating(this)" onmouseout="off(this)"></a><a onclick="rateIt(this, )" id="_5" title="5" onmouseover="rating(this)" onmouseout="off(this)"></a></div>');
+					}
+					$('#add-game-comments').html('<form action="" method="get" onsubmit="return false;"><div><textarea name="comment" cols="60" rows="4" id="the_comment" class="add_comment_box"></textarea><br /></div><div class="comment_button_container"><input type="submit" name="Submit" id="comment_submit" value="Submit comment" onclick="AddComment(,\'http://www.creetor.com\', \'game\')" /></div></form>');
+					$('#trig_fullscreen').attr('onClick','');
+					HidePopup();					
+				}
+			}
+		} 
+	});
+}
+
+// Generate a 5 star rating image
+function GenerateRating(rating, location) {
+	var empty_star;
+	var half_star;
+	var star;
+	var rating_images;
+	if (location == 'view_game') {
+		empty_star = '<img class="img-star" src="http://www.creetor.com/templates/hippo/images/empty_star.png" alt="Rating star" />';
+		half_star = '<img class="img-star" src="http://www.creetor.com/templates/hippo/images/half_star.png" alt="Rating star" />';
+		star = '<img class="img-star" src="http://www.creetor.com/templates/hippo/images/full_star.png" alt="Rating star" />';
+	}
+	else if (location == 'category') {
+			empty_star = '<span class="fa fa-star dead-star"></span>';
+			half_star = '<span class="fa fa-star-half-empty"></span>';
+			star = '<span class="fa fa-star full-star"></span>';
+		}
+	else if (location == 'homepage') {
+			empty_star = '<span class="fa fa-star dead-star"></span>';
+			half_star = '<span class="fa fa-star-half-empty"></span>';
+			star = '<span class="fa fa-star full-star"></span>';
+		} 
+	else if (location == 'search') {
+			empty_star = '<span class="fa fa-star dead-star"></span>';
+			half_star = '<span class="fa fa-star-half-empty"></span>';
+			star = '<span class="fa fa-star full-star"></span>';
+		}
+	else {
+		empty_star = '<span class="fa fa-star dead-star"></span>';
+			half_star = '<span class="fa fa-star-half-empty"></span>';
+			star = '<span class="fa fa-star full-star"></span>';
+	}
+
+
+	if (rating <= 0  ){rating_images = empty_star+empty_star+empty_star+empty_star+empty_star;}
+	if (rating >= 0.5){rating_images = half_star+empty_star+empty_star+empty_star+empty_star;}
+	if (rating >= 1  ){rating_images = star+empty_star+empty_star+empty_star+empty_star;}
+	if (rating >= 1.5){rating_images = star+half_star+empty_star+empty_star+empty_star;}
+	if (rating >= 2  ){rating_images = star+star+empty_star+empty_star+empty_star;}
+	if (rating >= 2.5){rating_images = star+star+half_star+empty_star+empty_star;}
+	if (rating >= 3  ){rating_images = star+star+star+empty_star+empty_star;}
+	if (rating >= 3.5){rating_images = star+star+star+half_star+empty_star;}
+	if (rating >= 4  ){rating_images = star+star+star+star+empty_star;}
+	if (rating >= 4.5){rating_images = star+star+star+star+half_star;}
+	if (rating >= 5  ){rating_images = star+star+star+star+star;}
+
+	return rating_images;
+	// Get rating END
+}
+
+function showLogin(pTitle){
+	var title = pTitle?pTitle:'Login';
+	ShowPopup('ava-popup', 'http://www.creetor.com/includes/forms/login_form_ajax.php',title,'5%');
+}
+
+function showRegister(pTitle){
+	var title = pTitle?pTitle:'Register';
+	ShowPopup('ava-popup', 'http://www.creetor.com/includes/forms/register_form_ajax.php',title,'5%');
+}
+
+</script>
+<!-- google alalytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44778649-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end google alalytics--></head>
+<body>
+<div id="body-container">
+ <div class="topbar">
+   <div class="logo">
+   <a class="logo-img" href="http://www.creetor.com">Creetor - the Wonderland of Games</a>
+   </div>
+   <div class="category-container">
+   <a href="#" class="category-btn cat-btn-inactive">Categories <span class="fa fa-chevron-down"></span></a>
+   <a href="#" class="category-btn-resp cat-btnresp-inactive">
+   <span class="fa-stack fa-lg">
+     <span class="fa fa-square fa-stack-2x"></span>
+     <span class="fa fa-bars fa-stack-1x fa-inverse"></span>
+   </span></a>
+   </div>
+   <div class="misc-btns"><div id="user-area">
+      <a class="top-btns nom-btn noflick" href="#" onclick="showLogin(); return false">Login</a>
+<a class="top-btns spl-btn noflick" href="#" onclick="showRegister(); return false">Register</a>
+</div>
+     <div class="tw-btn">
+	       <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fcreetorcom&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=331055297020589" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe>
+     </div>    
+   </div>
+   <div class="top-social-btns">
+	   <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+<div class="g-plusone" data-size="medium" data-href="http://www.creetor.com"></div>
+	        </div>
+   <div class="resp-block">
+   <div class="search-box">
+		<form id="search" action="http://www.creetor.com/index.php?task=search" onsubmit="searchSubmit('http://www.creetor.com', ''); return false;" method="get">
+          <input type="submit" name="search" value="Search" class="searchBTN">
+          <div class="search-input-holder"><input type="text" name="q" id="search_textbox" value="Search games..." onclick="clickclear(this, 'Search games...')" onblur="clickrecall(this,'Search games...')" class="searchINPUT noflick"></div>
+        </form>
+   </div>
+   </div>
+ </div>
+  <ul class="category-menu">
+     <li><a href="http://www.creetor.com/all/newest/1">New</a></li><li><a href="http://www.creetor.com/all">Top Rated</a></li><li><a href="http://www.creetor.com/all/plays/1">Popular</a></li><li><a href="http://www.creetor.com/action">Action</a></li><li><a href="http://www.creetor.com/shooter">Shooter</a></li><li><a href="http://www.creetor.com/fighting">Fighting</a></li><li><a href="http://www.creetor.com/strategy">Strategy</a></li><li><a href="http://www.creetor.com/puzzle">Puzzle</a></li><li><a href="http://www.creetor.com/sports">Sports</a></li><li><a href="http://www.creetor.com/rpg">RPG</a></li><li><a href="http://www.creetor.com/board">Board</a></li><li><a href="http://www.creetor.com/other">Other</a></li> </ul>
+ <div id="top" class="static-header"></div>
+ <div class="main-games-container"><div class="misc-title-wrapper">
+ <div class="misc-page-cont">
+   <h1><span class="fa fa-arrow-right"></span>Privacy Policy</h1>
+ </div>
+ </div> 
+<div id="miscpage-container"><div class="page_container"><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">Automatically logged information (server logs), cookies, Flash shared objects</span><br style="padding: 0px; margin: 0px;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Server logs</span><br style="padding: 0px; margin: 0px;">
+<span style="color: inherit;">Like most servers, our servers automatically record the page requests made when users visit our Site. These "server logs" typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request. We use this information to help diagnose problems, to analyze statistics of our Site, and to allow us to improve the overall user-experience. No personal information (like your name, email or phone number) is being gathered with server logs. We do not transfer these data to third parties as long as it is not required by law.</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><br style="padding: 0px; margin: 0px;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Cookies</span><br style="padding: 0px; margin: 0px;">
+<span style="color: inherit;">The Site also uses the third party web analytics service "Google Analytics" (GA), by Google, Inc. GA use "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. No personal information (like your name, email or phone number) is being gathered with cookies.</span><br style="padding: 0px; margin: 0px;"><span style="color: inherit;">By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">&nbsp;</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Flash shared objects</span><br style="padding: 0px; margin: 0px;">
+  <span style="color: inherit;">Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.</span></p>
+<p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">&nbsp;</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Advertising</span><br style="padding: 0px; margin: 0px;">
+  <span style="color: inherit;">Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.</span></p>
+<p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">&nbsp;</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Google Adsense</span><br style="padding: 0px; margin: 0px;">
+  <span style="color: inherit;">Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies".</span><br style="padding: 0px; margin: 0px;"><span style="color: inherit;">DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity.</span></p>
+<p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">You can choose to opt out of Google's use of cookies by visiting: http://www.google.com/policies/technologies/ads/<br style="padding: 0px; margin: 0px;">the Google ad and content privacy policy.</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">&nbsp;</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Contact via email</span><br style="padding: 0px; margin: 0px;">
+  <span style="color: inherit;">When you contact us via email, by using a contact form, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.creetor.com.</span></p>
+<p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">We do not sell or disclose your email address or any other personal information about you.</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">&nbsp;</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Links</span><br style="padding: 0px; margin: 0px;">
+  <span style="color: inherit;">We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters.</span></p>
+<p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span style="color: inherit;">&nbsp;</span></p><p style="padding: 10px 20px; margin-bottom: 0px; font-size: 0.9em; font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; line-height: normal;"><span data-mce-style="text-decoration: underline;" style="padding: 0px; margin: 0px; color: rgb(255, 255, 255);">Security</span><br style="padding: 0px; margin: 0px;">
+  <span style="color: inherit;">We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.</span></p></div></div>
+
+</div>
+</div><!-- end of main-games-container -->
+<div id="footer" class="">
+<p class="left">© 2016 <a href="http://www.creetor.com">Creetor - the Wonderland of Games</a>.All rights reserved.</p>
+<p class="right"><a class="footer-btns" href="http://www.creetor.com/contact"><span class="fa fa-envelope"></span> Contact</a><a class="footer-btns" href="http://www.creetor.com/members"><span class="fa fa-users"></span> Member list</a>
+	<a class="footer-btns" href="http://www.creetor.com/links"><span class="fa fa-link"></span> Links</a><a class="footer-btns" href="http://www.creetor.com/page/privacy-policy">Privacy Policy</a><a href="#top" class="b2top"><span class="fa fa-chevron-up"></span> Back to top</a> </p>
+</div>
+
+<div class="over-lay"></div>
+<script src="http://www.creetor.com/templates/hippo/js/mug.js"></script>
+<!-- Start of StatCounter Code for Dreamweaver -->
+<script type="text/javascript">
+var sc_project=10495215; 
+var sc_invisible=1; 
+var sc_security="2cf3d93e"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="free hit
+counters" href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/10495215/0/2cf3d93e/1/"
+alt="free hit counters"></a></div></noscript>
+<!-- End of StatCounter Code for Dreamweaver --><div id="current_task" style="display:none">view_page</div>
+<div class="notification" id="notification">
+	<div class="notification_icon"></div>
+	<div class="notification_message"></div>
+	<div class="notification_quit" id="notification_quit">X</div>
+</div>
+
+<!-- AV Arcade Popup !-->
+<div id="ava-popup">
+	<div id="ava-popup-header">
+		<div id="ava-popup-title"></div>
+		<div id="popup-close-button" onclick="HidePopup();"></div>
+	</div>
+	<div id="ava-popup-content"></div>
+</div>
+<div id="overlay"></div>
+<div id="close_fs" class="close_fullscreen" onclick="ResetFlash()"><a href="#">
+Exit fullscreen</a></div>
+
+</body></html>
