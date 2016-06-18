@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topg.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225002317id_/http%3A//topg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topg.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618113139id_/http%3A//topg.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
