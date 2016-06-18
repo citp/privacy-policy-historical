@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoursinfo.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128213640id_/http%3A//www.hoursinfo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoursinfo.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618145743id_/http%3A//www.hoursinfo.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hours Info
 
 www.hoursinfo.com (the Website) collects and manages user data according to the following Privacy Policy. By using the Website, you agree to the terms of this Privacy Policy.
 
