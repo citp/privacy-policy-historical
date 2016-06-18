@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtiger.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025151001id_/http%3A//imgtiger.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtiger.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619001105id_/http%3A//imgtiger.com/privacy_policy) for the most accurate reproduction.*
 
 # ImgTiger | Privacy Policy
 
