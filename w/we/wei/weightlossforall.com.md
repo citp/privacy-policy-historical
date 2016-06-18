@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110215106id_/http%3A//www.weightlossforall.com//privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618225328id_/http%3A//www.weightlossforall.com//privacy-policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -20,4 +20,9 @@ Thank you!
 - **The Weight Loss Team**
 
   
+  
 
+
+Weight Loss Tracker
+
+[**Login Here**](http://www.weightlossforall.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.weightlossforall.com%2Fweight-loss-tracker) **to see your weight chart!**
