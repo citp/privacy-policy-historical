@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219110736id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618175419id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
@@ -51,25 +51,25 @@ If you have any further questions or suggestions about this privacy statement, p
 
 |  | 
 
-[What Our Readers are Saying about GoNOMAD.com](http://www.gonomad.com/2360-gonomad-what-our-readers-are-saying-about-gonomad-com "Reader comments | A page of reader comments about stories on GoNOMAD.com. ")
+[What Our Readers are Saying about GoNOMAD.com](http://www.gonomad.com/2360-gonomad-what-our-readers-are-saying-about-gonomad-com?PCSRC=3502 "Reader comments | A page of reader comments about stories on GoNOMAD.com. ")
 
 Hike by the Mediterranean hi sugar! > sounds like we could do this in a day... **GoNOMAD.com** Your  
   
 ---|---|---  
 |  | 
 
-[Still More Handy Travel Gadgets From GoNOMAD.com](http://www.gonomad.com/2364-still-more-handy-travel-gadgets-from-gonomad-com "travel gadgets: Nicole Sobel writes about six new handy travel gadgets including cases and covers for your iPhone, an easy-to-use lock for bags and purses and an ergonomic computer mouse.")
+[Still More Handy Travel Gadgets From GoNOMAD.com](http://www.gonomad.com/2364-still-more-handy-travel-gadgets-from-gonomad-com?PCSRC=3502 "travel gadgets: Nicole Sobel writes about six new handy travel gadgets including cases and covers for your iPhone, an easy-to-use lock for bags and purses and an ergonomic computer mouse.")
 
 From **GoNOMAD.com** By Nicole Sobel Traveling with gadgets that make traveling easier is always a plus  
   
 |  | 
 
-[Tours: Adventure, Unusual, and Cultural Tours | GoNOMAD.com](http://www.gonomad.com/4481-tours-adventure-unusual-and-cultural-tours-gonomad-com)
+[Tours: Adventure, Unusual, and Cultural Tours | GoNOMAD.com](http://www.gonomad.com/4481-tours-adventure-unusual-and-cultural-tours-gonomad-com?PCSRC=3502)
 
 on **GoNOMAD.com** Gen Y Goes to Africa : 20-30-something trips Many Ways to See Rome: Walking, Biking, Vespa  
   
 | 
 
-[Zanzibar, Tanzania Destination Guide](http://www.gonomad.com/1304-zanzibar-tanzania-destination-guide "A destination guide to Stone Town Zanzibar, part of the African Guides section of GoNOMAD.com")
+[Zanzibar, Tanzania Destination Guide](http://www.gonomad.com/1304-zanzibar-tanzania-destination-guide?PCSRC=3502 "A destination guide to Stone Town Zanzibar, part of the African Guides section of GoNOMAD.com")
 
 of Zanzibar. Read more on articles about Zanzibar, Tanzania on **GoNOMAD.com** Travel: 
