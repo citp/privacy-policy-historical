@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agora.io privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215171910id_/http%3A//www.agora.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agora.io privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619013747id_/http%3A//www.agora.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Agora
 
@@ -6,7 +6,7 @@ Last modified: July 11, 2014
 
 #### 1\. Introduction
 
-Agora Lab, Inc. (“Company” or “Agora”) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the [website](http://www.agora.io/) (our “Website”) or sign up to use Agora’s services (the “Services”), and our practices for collecting, using, maintaining, protecting and disclosing that information.
+Agora Lab, Inc. (“Company” or “Agora.io” or “Agora”) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the [website](http://www.agora.io/) (our “Website”) or sign up to use Agora’s services (the “Services”), and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -124,3 +124,5 @@ It is our policy to post any changes we make to our privacy policy on this page.
 #### 7\. Contact Information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at [support@agoravoice.io](mailto:support@agoravoice.io)
+
+© 2014-2016 Agora.io. All Rights Reserved 
