@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecountrycook.net privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008132552id_/http%3A//www.thecountrycook.net/p/the-country-cook-privacy-policy-this.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecountrycook.net privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618185129id_/http%3A//www.thecountrycook.net/p/the-country-cook-privacy-policy-this.html) for the most accurate reproduction.*
 
 # The Country Cook: Privacy Policy
 
 ##  The Country Cook Privacy Policy
 
-This Privacy Policy was last modified on Jan. 1, 2015. The Country Cook ("us", "we", or "our") operates http://www.thecountrycook.net (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.thecountrycook.net.
+This Privacy Policy was last modified on Jan. 1, 2016. The Country Cook ("us", "we", or "our") operates http://www.thecountrycook.net (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.thecountrycook.net.
 
 ##  **Information Collection And Use:**
 
@@ -104,4 +104,4 @@ The Country Cook may update this Privacy Policy from time to time. We will notif
 
 If you have any questions about this Privacy Policy, please contact:   
 Brandie Skibinski  
-thecountrycook@gmail.com
+brandie@thecountrycook.net
