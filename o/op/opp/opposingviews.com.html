@@ -1,53 +1,67 @@
-<!--The following is the downloaded HTML source of the opposingviews.com privacy policy that was archived on 2015-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510135219id_/http%3A//www.opposingviews.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opposingviews.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618233811id_/https%3A//www.opposingviews.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//cdn.petametrics.com/p.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0&amp;app_id=1402636800007693"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcBWVJUGwEIVFNbAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-version" content="1.2.4">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=KLwVBNWi"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0&amp;app_id=1402636800007693"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(e,n){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,n)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],f="api-";i(c,function(e,n){newrelic[n]=r(f+n,"api")}),i(u,function(e,n){newrelic[n]=r(f+n)}),n.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?c(e,a,i):i()}function t(t,r,o){e&&e(t,r,o);for(var i=n(o),a=l(t),c=a.length,u=0;c>u;u++)a[u].apply(i,r);var s=f[m[t]];return s&&s.push([w,t,r,i]),i}function p(e,n){g[e]=l(e).concat(n)}function l(e){return g[e]||[]}function d(e){return s[e]=s[e]||o(t)}function v(e,n){u(e,function(e,t){n=n||"feature",m[t]=n,n in f||(f[n]=[])})}var g={},m={},w={on:p,emit:t,get:d,listeners:l,context:n,buffer:v};return w}function i(){return new r}var a="nr@context",c=e("gos"),u=e(2),f={},s={},p=n.exports=o();p.backlog=f},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!b++){var e=y.info=NREUM.info,n=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){u(m,function(n,t){e[n]||(e[n]=t)});var t="https"===g.split(":")[0]||e.sslForHttp;y.proto=t?"https://":"http://",c("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+e.agent,n.parentNode.insertBefore(r,n)}}}function o(){"complete"===s.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=e("handle"),u=e(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=n.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader"]);</script>
 <meta name="foundation-version" content="5.4.7">
 <meta name="jquery-version" content="2.1.1">
 <meta name="modernizr-version" content="2.8.3">
+<meta name="theme-version" content="1.2.4">
+<meta name="viewport" content="width=device-width, maximum-scale = 1.0">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="shortlink" href="/node/860103">
+<link rel="shortcut icon" href="http://img.opposingviews.com/sites/all/themes/ov_foundation/favicon.png" type="image/png">
+<meta name="DC.date.issued" content="2015-07-29T00:52:29+00:00">
  
- 
-<meta name="p:domain_verify" content="4e3a17d2b19ae614286124438d4e37ce">
-<link rel="canonical" href="http://www.opposingviews.com/privacy">
-<meta property="og:url" content="http://www.opposingviews.com/privacy">
- 
-<meta name="publish_date" content="Mon, 20 Jun 2011 06:58:30 PDT">
+<meta name="publish_date" content="2015-07-29T00:52:29+00:00">
+<meta name="title" content="Privacy Policy">
  
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="">
-<meta property="og:site_name" content="OpposingViews.com">
-<meta property="og:image" content="http://www.opposingviews.com/sites/all/themes/ov_foundation/images/ov-default.png">
+<meta property="og:site_name" content="opposingviews.com">
+<meta property="og:url" content="http://www.opposingviews.com/privacy">
+<meta property="ov:id" content="860103">
  
-<meta name="news_keywords" content="">
-<meta property="ov:id" content="331171">
- 
+<meta name="p:domain_verify" content="4e3a17d2b19ae614286124438d4e37ce">
+<link rel="canonical" href="http://www.opposingviews.com/privacy">
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+"@type": "Organization",
+"url": "https://www.opposingviews.com/",
+"logo": "http://www.opposingviews.com/sites/all/themes/ov_foundation/custom_ov/images/logo-opposing-views-web.svg",
+"sameAs" : [
+"https://www.facebook.com/opposingviews",
+"https://twitter.com/opposingviews",
+"https://www.youtube.com/user/OpposingViews",
+"https://plus.google.com/+OpposingViews",
+"https://www.pinterest.com/opposing_views/"
+]
+}
+</script>
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/ov_foundation/img/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/sites/all/themes/ov_foundation/img/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/sites/all/themes/ov_foundation/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/sites/all/themes/ov_foundation/img/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/sites/all/themes/ov_foundation/img/favicons/favicon-16x16.png">
+<link rel="manifest" href="/sites/all/themes/ov_foundation/img/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#0e0e0e">
+<meta name="msapplication-TileImage" content="/sites/all/themes/ov_foundation/img/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#0e0e0e">
 <title>Privacy Policy</title>
- 
-<script>
-
-				//TODO #1630 Discuss UI moving forward.
-				var s = Math.max(window.innerWidth)
-					, b = [1024, 768, 600, 480]
-
-				  // default to adaptive which is 615px
-				  //TODO Currently galleries only
-					, resolution = 'default';
-
-				for(x in b) {
-					if(s < b[x]) {
-					  resolution = b[x];
-					}
-				}
-
-				// set the cookie for adaptive image logic
-				document.cookie='STYXKEY-resolution='+resolution+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+';domain=.opposingviews.com;path=/';
-			</script>
-<link type="text/css" rel="stylesheet" media="all" href="http://css.opposingviews.com/sites/default/files/css/css_f129e5b8868da0ccdb1dcb8bf934e93d.css">
+<link type="text/css" rel="stylesheet" href="http://css.opposingviews.com/sites/default/files/cdn/css/http/css_J7VVlWSt_VqErKRKsiAspkzLvCKWpTHfnTo5mkMOBfo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.opposingviews.com/sites/default/files/cdn/css/http/css_0sg8NQL-gIKMPqscH3HURTRSWxXf1hR8Md7mSUropFY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.opposingviews.com/sites/default/files/cdn/css/http/css_97ESZlt7tn08yIAZ72iZz0Rw0jjt1jdkJzYRIOqS3tI.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.opposingviews.com/sites/default/files/cdn/css/http/css_amNtXZEThggtl2B6AJ9LPC3w8F5R8Oyb4ePTAidFWIo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://css.opposingviews.com/sites/default/files/cdn/css/http/css_pPconGSU-7BJ9cCKYQTzkmywRmsFNRaEQ6wIc55ME0k.css" media="all">
  
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -67,35 +81,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 		var js, fjs = d.getElementsByTagName(s)[0];
 		if (d.getElementById(id)) return;
 		js = d.createElement(s); js.id = id;
-		js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&status=0&app_id=1402636800007693";
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0&app_id=1402636800007693";
 		fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));</script>
  
  
-<script type="text/javascript" src="http://ox-d.cloud9-media.net/w/1.0/jstag"></script>
+<script src="//cdn.goroost.com/roostjs/le2dk77rshnnxqrr6qhymarliwdo574u" async=""></script>
  
- 
-<script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
- 
- 
-<script>(function() {
-var _fbq = window._fbq || (window._fbq = []);
-if (!_fbq.loaded) {
-var fbds = document.createElement('script');
-fbds.async = true;
-fbds.src = '//connect.facebook.net/en_US/fbds.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(fbds, s);
-_fbq.loaded = true;
-}
-_fbq.push(['addPixelId', '300672610107516']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript>
-<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=300672610107516&amp;ev=PixelInitialized"/>
-</noscript>
  
 <script type="text/javascript">
   var _qevents = _qevents || [];
@@ -115,915 +107,6 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
  
  
-<script type="text/javascript">
-        (function(w,d,s,p,v,e,r) {w['$petametrics_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(
-        arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;e.src=p;
-        r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/p.js','$p');
-        $p("init", "chv2hs4q498cisuu");
-        $p("send", "pageview");
-</script>
- 
-<script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_173e30c779298f92c59ab28f5eef17e4.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","AjaxLoad":{"css":["\/modules\/node\/node.css","\/modules\/poll\/poll.css","\/modules\/system\/defaults.css","\/modules\/system\/system.css","\/modules\/system\/system-menus.css","\/modules\/user\/user.css","\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css","\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css","\/sites\/all\/modules\/contrib\/date\/date.css","\/sites\/all\/modules\/contrib\/filefield\/filefield.css","\/sites\/all\/modules\/contrib\/panels\/css\/panels.css","\/sites\/all\/libraries\/superfish\/css\/superfish.css","\/sites\/all\/libraries\/superfish\/css\/superfish-vertical.css","\/sites\/all\/libraries\/superfish\/css\/superfish-navbar.css","\/sites\/all\/modules\/custom\/ov_node_gallery\/node_gallery.css","\/sites\/all\/modules\/contrib\/views\/css\/views.css","\/sites\/all\/themes\/ov_foundation\/css\/foundation.css","\/sites\/all\/themes\/ov_foundation\/css\/global.css","\/sites\/all\/themes\/ov_foundation\/css\/node.css","\/sites\/all\/themes\/ov_foundation\/css\/view.css","\/sites\/all\/themes\/ov_foundation\/fonts\/lato-regular\/lato-regular.css","\/sites\/all\/themes\/ov_foundation\/fonts\/roboto-condensed\/roboto-condensed.css"],"scripts":["\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.3\/jquery.min.js","\/misc\/drupal.js","\/sites\/all\/modules\/contrib\/ajax_load\/ajax_load.js","\/sites\/all\/modules\/contrib\/fitvids\/jquery.fitvids.js","\/sites\/all\/modules\/contrib\/panels\/js\/panels.js","\/sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js","\/sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js","\/sites\/all\/libraries\/superfish\/superfish.js","\/sites\/all\/libraries\/superfish\/supersubs.js","\/sites\/all\/libraries\/superfish\/supposition.js","\/sites\/all\/libraries\/superfish\/sftouchscreen.js","\/sites\/all\/libraries\/superfish\/sfsmallscreen.js","\/sites\/all\/modules\/contrib\/superfish\/superfish.js","\/sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js"]},"OVSocialMediaCallbacks":{"fbShare":{"callbacks":[]},"twitter":{"callbacks":[]},"pinterest":{"callbacks":[]},"googlePlus":{"callbacks":[]},"reddit":{"callbacks":[]},"fbShare_bottom":{"callbacks":[]},"fbComments":{"callbacks":[]},"youtubeSubscribe":{"callbacks":[]}}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-  window.fbShare = function() {
-      var winTop = (screen.height / 2) - (winHeight / 2)
-      	, winLeft = (screen.width / 2) - (winWidth / 2)
-					, socialmedia_title = $('meta[property="og:title"]').attr('content')
-					, socialmedia_descr = $('meta[property="og:description"]').attr('content')
-					, socialmedia_image = $('meta[property="og:image"]').attr('content')
-					, socialmedia_url = $('meta[property="og:url"]').attr('content')
-					, winWidth = 520
-					, winHeight = 350
-					, left = (screen.width/2)-(winWidth/2)
-					, top = (screen.height/2)-(winHeight/2)
-					;
-
-
-      // legacy sharer.php url. Leaving in place for reference
-      // window.open('http://www.facebook.com/sharer.php?s=100&p[title]=' + title + '&p[summary]=' + descr + '&p[url]=' + url + '&p[images][0]=' + image, 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-      window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(socialmedia_url), 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-
-      Drupal.settings.OVSocialMediaCallbacks.fbShare.callbacks.click.forEach(function(service, index){
-        window[service]['click']('fbShare');
-      });
-
-
-  }
-
-  window.twitterShare = function() {
-      var winTop = (screen.height / 2) - (winHeight / 2)
-        , winLeft = (screen.width / 2) - (winWidth / 2)
-                                        , socialmedia_title = $('meta[property="og:title"]').attr('content')
-                                        , socialmedia_descr = $('meta[property="og:description"]').attr('content')
-                                        , socialmedia_image = $('meta[property="og:image"]').attr('content')
-                                        , socialmedia_url = $('meta[property="og:url"]').attr('content')
-                                        , winWidth = 520
-                                        , winHeight = 350
-                                        , left = (screen.width/2)-(winWidth/2)
-                                        , top = (screen.height/2)-(winHeight/2)
-                                        ;
-
-      window.open('http://www.twitter.com/share?text=' + encodeURIComponent(socialmedia_title) + '&url=' + encodeURIComponent(socialmedia_url) + '&via=opposingviews', 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-
-      Drupal.settings.OVSocialMediaCallbacks.twitter.callbacks.click.forEach(function(service, index){
-        window[service]['click']('twitter');
-      });
-
-  }
-  window.pinShare = function() {
-      var winTop = (screen.height / 2) - (winHeight / 2)
-        , winLeft = (screen.width / 2) - (winWidth / 2)
-                                        , socialmedia_title = $('meta[property="og:title"]').attr('content')
-                                        , socialmedia_descr = $('meta[property="og:description"]').attr('content')
-                                        , socialmedia_image = $('meta[property="og:image"]').attr('content')
-                                        , socialmedia_url = $('meta[property="og:url"]').attr('content')
-                                        , winWidth = 520
-                                        , winHeight = 350
-                                        , left = (screen.width/2)-(winWidth/2)
-                                        , top = (screen.height/2)-(winHeight/2)
-                                        ;
-
-      window.open('http://www.pinterest.com/pin/create/bookmarklet/?url=' + encodeURIComponent(socialmedia_url)+ '&media=' + encodeURIComponent(socialmedia_image) + '&description=' + encodeURIComponent(socialmedia_title), 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-
-      Drupal.settings.OVSocialMediaCallbacks.pinterest.callbacks.click.forEach(function(service, index){
-        window[service]['click']('pinterest');
-      });
-
-  }
-
-  window.plusShare = function() {
-      var winTop = (screen.height / 2) - (winHeight / 2)
-        , winLeft = (screen.width / 2) - (winWidth / 2)
-                                        , socialmedia_title = $('meta[property="og:title"]').attr('content')
-                                        , socialmedia_descr = $('meta[property="og:description"]').attr('content')
-                                        , socialmedia_image = $('meta[property="og:image"]').attr('content')
-                                        , socialmedia_url = $('meta[property="og:url"]').attr('content')
-                                        , winWidth = 520
-                                        , winHeight = 350
-                                        , left = (screen.width/2)-(winWidth/2)
-                                        , top = (screen.height/2)-(winHeight/2)
-                                        ;
-
-      window.open('http://plus.google.com/share?url=' + socialmedia_url, 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-
-      Drupal.settings.OVSocialMediaCallbacks.googlePlus.callbacks.click.forEach(function(service, index){
-        window[service]['click']('googlePlus');
-      });
-
-  }
-
-
-
-
- window.redditShare = function() {
-      var winTop = (screen.height / 2) - (winHeight / 2)
-        , winLeft = (screen.width / 2) - (winWidth / 2)
-                                        , socialmedia_title = $('meta[property="og:title"]').attr('content')
-                                        , socialmedia_descr = $('meta[property="og:description"]').attr('content')
-                                        , socialmedia_image = $('meta[property="og:image"]').attr('content')
-                                        , socialmedia_url = $('meta[property="og:url"]').attr('content')
-                                        , winWidth = 700
-                                        , winHeight = 350
-                                        , left = (screen.width/2)-(winWidth/2)
-                                        , top = (screen.height/2)-(winHeight/2)
-                                        ;
-   window.open('http://reddit.com/submit?url=' + encodeURIComponent(socialmedia_url) + '&title=' + encodeURIComponent(socialmedia_title), 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-
-      Drupal.settings.OVSocialMediaCallbacks.reddit.callbacks.click.forEach(function(service, index){
-        window[service]['click']('reddit');
-      });
-
-  }
-
-  window.fbShare_bottom = function(fb_delta) {
-      var winTop = (screen.height / 2) - (winHeight / 2)
-      	, winLeft = (screen.width / 2) - (winWidth / 2)
-					, socialmedia_title = $('meta[property="og:title"]').attr('content')
-					, socialmedia_descr = $('meta[property="og:description"]').attr('content')
-					, socialmedia_image = $('meta[property="og:image"]').attr('content')
-					, socialmedia_url = $('meta[property="og:url"]').attr('content')
-					, winWidth = 520
-					, winHeight = 350
-					, left = (screen.width/2)-(winWidth/2)
-					, top = (screen.height/2)-(winHeight/2)
-					;
-
-
-      window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(socialmedia_url), 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight + ',top=' + top + ',left=' + left);
-
-      Drupal.settings.OVSocialMediaCallbacks.fbShare_bottom.callbacks.click.forEach(function(service, index){
-        if (fb_delta == 2) {
-          window[service]['click']('fbShare_bottom');
-        }
-        else if (fb_delta == 3) {
-          window[service]['click']('fbShare_bottom_tablet');
-        }
-      });
-
-
-  }
-
-  window.fbComments = function() {
-console.log("FB COMMENTS");
-      Drupal.settings.OVSocialMediaCallbacks.fbComments.callbacks.click.forEach(function(service, index){
-console.log("INSIDE CALLBACK");
-          window[service]['click']('fbComments');
-      });
-  }
-
-  window.youtubeSubscribe = function() {
-      window.open('https://www.youtube.com/user/opposingviews?sub_confirmation=1', '_blank');
-      Drupal.settings.OVSocialMediaCallbacks.youtubeSubscribe.callbacks.click.forEach(function(service, index){
-        window[service]['click']('youtubeSubscribe');
-      });
-  }
-
-
-//--><!]]>
-</script>
-</head>
-<body>
- 
-<div id="fb-root"></div>
-<div id="top_mobile_ad">
-<div id="block-socialmedia-0" class="block block-socialmedia">
-<div class="content">
-<div id="top-smartbanner" class="smartbanner">
-<div class="closebutton" onclick="ov_app_ad_close()">X</div>
-<div class="applogo"><img src="http://img.opposingviews.com/sites/all/themes/ov_foundation/images/logo-ov-app.png"></div>
-<div class="banner-text">
-<p class="heading">Opposing Views</p>
-<p class="copy">Read News In The App</p>
-<p class="stars">★★★★★</p>
-</div>
-<div class="buttons">
-<div id="installbutton" class="installbutton" onclick="ov_app_button(0)"></div>
-<div id="openbutton" class="openbutton" onclick="ov_app_button(1)">Open In App</div>
-</div>
-</div>
-<script>
-var ov_app_ua = navigator.userAgent.toLowerCase();
-var isAndroid = ov_app_ua.indexOf("android") > -1;
-var isIphone = ov_app_ua.indexOf("iphone") > -1;
-var isIpad = ov_app_ua.indexOf("ipad") > -1;
-
-if (isAndroid) {
-  document.getElementById('installbutton').innerHTML = "Install From Google Play";
-  document.getElementById('top-smartbanner').style.display = "block";
-  document.getElementById('openbutton').style.display = "none";
-}
-else if (isIphone || isIpad) {
-  document.getElementById('installbutton').innerHTML = "Install From App Store";
-  document.getElementById('top-smartbanner').style.display = "block";  
-}
-
-function ov_app_ad_close() {
-  document.getElementById("top-smartbanner").style.display = "none";
-  return false;
-}
-
-function ov_app_button(button_type) {
-  //var ov_app_ua = navigator.userAgent.toLowerCase();
-  //var isAndroid = ov_app_ua.indexOf("android") > -1;
-  //var isIphone = ov_app_ua.indexOf("iphone") > -1;
-  //var isIpad = ov_app_ua.indexOf("ipad") > -1;
-
-  var link_array = [];
-  if (isAndroid) {
-    link_array = ov_app_get_url(1)
-  }
-  else if (isIphone || isIpad) {
-    link_array = ov_app_get_url(0)
-  }
-
-  if (button_type == 1) {
-    ov_deeplink(link_array[1], link_array[0]);
-  }
-  else {
-    window.location = link_array[0];
-  }
-}
-
-
-function ov_deeplink(ov_app_url, fallback_url) {              
-window.location.href = fallback_url + "?deep_link=" + encodeURIComponent(ov_app_url) + "&post_deeplink_redirect=" + encodeURIComponent(document.URL);
-}
-
-function ov_app_get_url(link_type) {
-  var link_text = "";
-  var app_link = "";
-  var  link_array = [];
-  // android
-  if( link_type == 1) {
-    if (document.URL == 'http://www.opposingviews.com/') {
-      link_array[0] = "https://app.adjust.io/5hvho3";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/politics') {
-      link_array[0] = "https://app.adjust.io/f91ttf";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/society') {
-      link_array[0] = "https://app.adjust.io/btegyx";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/social') {
-      link_array[0] = "https://app.adjust.io/ol2bs5";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/world') {
-      link_array[0] = "https://app.adjust.io/u6b20d";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/health') {
-      link_array[0] = "https://app.adjust.io/ny8z18";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/religion') {
-      link_array[0] = "https://app.adjust.io/aq2nyz";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/trending') {
-      link_array[0] = "https://app.adjust.io/q90yll";
-      link_array[1] = "opposingviews://";
-    }
-    else {
-      link_array[0] = "https://app.adjust.io/kzubwu";
-      if (window.location.pathname.indexOf('i/gallery') < 0) {
-        var ov_app_id = $('meta[property="ov:id"]').attr('content');
-        link_array[1] = "opposingviews://view?nid=" + ov_app_id;
-      }
-      else {
-        link_array[1] = "opposingviews://";
-      }
-
-    }
-
-  }
-  // ios
-  else if (link_type == 0) {
-    if (document.URL == 'http://www.opposingviews.com/') {
-      link_array[0] = "https://app.adjust.io/maokw9";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/politics') {
-      link_array[0] = "https://app.adjust.io/sh1kmz";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/society') {
-      link_array[0] = "https://app.adjust.io/qtxj16";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/social') {
-      link_array[0] = "https://app.adjust.io/3y02rp";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/world') {
-      link_array[0] = "https://app.adjust.io/6lloq0";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/health') {
-      link_array[0] = "https://app.adjust.io/zb48jd";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/topics/religion') {
-      link_array[0] = "https://app.adjust.io/hr5455";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/trending') {
-      link_array[0] = "https://app.adjust.io/b93m7i";
-      link_array[1] = "opposingviews://";
-    }
-    else if (document.URL == 'http://www.opposingviews.com/i/gallery/society/20-horrible-funny-business-names') {
-      link_array[0] = "https://app.adjust.io/8jlej6";
-      link_array[1] = "opposingviews://";
-    }
-    else {
-      link_array[0] = "https://app.adjust.io/j3zjny";
-      if (window.location.pathname.indexOf('i/gallery') < 0) {
-        var ov_app_id = $('meta[property="ov:id"]').attr('content');
-        link_array[1] = "opposingviews://view?nid=" + ov_app_id;
-      }
-      else {
-        link_array[1] = "opposingviews://";
-      }
-
-    }
-
-  }
-  return link_array;
-}
-</script>
-</div>
-</div>
-<div id="block-socialmedia-1" class="block block-socialmedia">
-<div class="content">
-<div id="pinterest-popup">
-<div class="pinterest-top-text">
-BEING HEALTHY DOESN'T HAVE TO SUCK, RIGHT?
-</div>
-<div class="pinterest-middle-text">
-Make healthy cool and follow us on Pinterest
-</div>
-<div class="pinterest-follower">
-<a class="pinterest-popup-button">
-<img src="http://img.opposingviews.com/sites/all/themes/ov_foundation/images/pinterest-follow-us.png" alt="pinterest follow button">
-</a>
-</div>
-<div class="pinterest-closebutton">Thanks, but no thanks!</div>
-</div>
-</div>
-</div>
-</div>
-<div role="document" class="page not-front not-logged-in page-node node-type-main no-sidebars">
-<div class="l-header row">
-<div class="columns small-12 medium-12 large-12 small-centered">
-<div id="header-top" class="main-ad">
-<div id="block-block-353" class="block block-block">
-<div class="content">
-<div>
-<div id="openx-block-353">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth >= 769) {
-  OX.load({"slot_id":"openx-block-353","auid":"537105128", "cb":cb});
- }
-</script>
-</div>
-</div>
-</div>
-</div>
-<div class="l--branding">
-<div class="columns show-for-large-up medium-8 large-8">
-<div class="logo"><a href="/"></a></div>
-</div>
-<div class="columns show-for-large-up medium-4 large-4">
-<div class="top-social-media">
-<div class="search-bar"></div>
-<div class="search-box">
-<form id="search-form" action="http://www.opposingviews.com/search/apachesolr_search" method="post">
-<input type="text" name="searchkeys" class="form-text">
-</form>
-</div> <ul>
-<li><a id="fb" class="fb" href="http://www.facebook.com/opposingviews" target="_blank"></a></li>
-<li><a id="tw" class="tw" href="http://twitter.com/opposingviews" target="_blank"></a></li>
-<li><a id="rss" class="rss" href="http://feeds.feedburner.com/opposingviews/main" target="_blank"></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="l-menu">
-<div class="menu-wrapper row">
-<div class="columns show-for-large-up large-2 current-date">May 10, 2015</div>
-<div class="columns top-nav small-12 medium-12 large-10">
-<nav class="top-bar" data-topbar="" role="navigation">
-<ul class="title-area hide-for-large-up">
-<li class="name">
-<a class="mobile-logo" href="/"></a>
-</li>
- 
-<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
-</ul>
-<section class="top-bar-section">
-<div id="block-menu-primary-links" class="block block-menu">
-<div class="content">
-<ul class="menu"><li class="leaf first"><a href="/topics/politics" title="Politics">Politics</a></li>
-<li class="leaf"><a href="/topics/society" title="Society">Society</a></li>
-<li class="leaf"><a href="/topics/social">Social</a></li>
-<li class="leaf"><a href="/topics/world">World</a></li>
-<li class="leaf"><a href="/topics/health" title="Health">Health</a></li>
-<li class="leaf"><a href="/topics/religion" title="Religion">Religion</a></li>
-<li class="leaf last"><a href="/trending">Trending</a></li>
-</ul> </div>
-</div>
-</section>
-</nav>
-</div>
-</div>
-</div>
-<div role="messaging" class="row l-messaging">
-<div class="l-messages columns small-12 medium-12 large-12">
-</div>
-<div class="l-help columns small-12 medium-12 large-12">
-</div>
-</div>
-<div id="mobile-below-logo" class="mobile-below-logo">
-<div id="block-block-364" class="block block-block">
-<div class="content">
-<div>
-<div id="openx-block-364">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth < 769) {
-OX.load({"slot_id":"openx-block-364","auid":"537105133", "cb":cb});
-}
-</script> </div>
-</div>
-</div>
-<main role="main" class="row l-main">
-<h1 class="title" id="page-title">Privacy Policy</h1> <div class="l-content columns small-12 medium-12 large-9">
-<div class="l-internal-content">
-<p>Opposing Views and Deep Dive Media, LLC, and its affiliates ["The Company"] takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit <a href="http://www.opposingviews.com">OpposingViews.com</a>, the mobile application, and any other affiliated Opposing Views owned or operated web sites or applications ("The Sites"). This policy documents how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. Note that our <a href="http://www.opposingviews.com/terms">Terms of Use</a> also apply to anyone who uses this site.</p>
-<p>If you use Opposing Views mobile applications or sites, our <a href="http://www.opposingviews.com/mobile-terms">Mobile Terms of Services</a> also applies.</p><p>
-</p><h3>1. Scope</h3>
-<p>This policy tells you how The Sites collect, use, and protect your information. This policy does not apply to information collected through any other website or to the practices of companies that Opposing Views does not control. Please note that The Sites may contain links to other web sites. For example, if you click on an advertisement on one of our Sites and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other web sites, and we recommend that you read the privacy policies of every website that you visit.</p>
-<h3>2. Personal Information: What We Collect and How</h3>
-<p>You can browse The Sites without telling us who you are or revealing any personal information about yourself.</p>
-<p>We do NOT ask for governmental identification numbers, credit card numbers, or other financial account identifying numbers, codes, or passwords. If you receive an e-mail or any request for this type of information please notify us at once at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
-<p>We collect some information automatically from your computer while you use The Sites, including your IP address, computer, and connection information, browser type and version, operating system, platform, the URLs you came from and go to and any cookies we may have set to identify your browser session. As you use The Sites we may also attempt to automatically determine some of the demographic information previously described from the content that you elect to view.</p>
-<p>As you use The Sites, we collect a record of the content that you have seen. We may use this information to learn what topics and views you are interested in, and to automatically determine demographic information about you. We may use this information to enhance the services, content, and advertising that we present to you.</p>
-<p>We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>. We can be contacted via mail at Deep Dive Media, LLC, 8400 Delongpre Avenue, #301, Los Angeles, CA 90069.</p>
-<h3>3. Children and Personal Information</h3>
-<p>The Sites are intended for adult users, and we do not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided Opposing Views with personally identifiable information, please contact us at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
-<h3>4. How We Use Personal Information</h3>
-<p>We use the information we collect to:</p>
-<ul>
-<li>operate The Sites and publish relevant information to viewers;</li>
-<li>provide you with information and services you request;</li>
-<li>customize your experience;</li>
-<li>send you personalized content and promotional offers, based on your communication preferences;</li>
-<li>measure and improve our services;</li>
-<li>resolve disputes, complaints, and technical problems;</li>
-<li>conduct research;</li>
-<li>analyze aggregate user behavior and prepare aggregated reports;</li>
-<li>provide anonymous reports to internal and external clients.</li>
-</ul>
-<h3>5. Information Sharing and Disclosure</h3>
-<p>We are not in the business of renting or selling personal information you provide to The Sites with other people or nonaffiliated companies. Opposing Views does share your information to provide products or services you've requested, when we have your permission, and under the following circumstances:</p>
-<ul>
-<li>We may share your information with service providers under confidentiality agreements in order to help with our business operations. These companies do not have the independent right to share this information.</li>
-<li>We may share names and e-mails of members who join Opposing Views as part of a co-branded partnership with that specific partner.</li>
-<li>We may share aggregate demographic information with third parties such as the media, advertisers, and government agencies. This aggregate information is typically in the form of statistics, such as numbers of Opposing Views users in a particular age group. Such aggregate information is not traceable back to you as an individual.</li>
-<li>We may share information when required by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served upon Opposing Views; to protect the property or interests of Opposing Views; or to protect personal safety or public interests.</li>
-<li>We may transfer personal information in the event that our business is sold, transferred, merged, or reorganized with or into another organization.</li>
-</ul>
-<h3>6. Public Content</h3>
-<p>Some portions of The Sites allow you to contribute ratings, reviews, comments, and other content to The Sites. This content is displayed publicly to other users, Opposing Views, and our partners. The content you contribute may be displayed with your Opposing Views screen name.</p>
-<p>Some portions of The Sites utilize Facebook or other third-party services that allow users to comment and make statments that may or may not relate to the content on The Sites. The Company does not assume any responsibility for any offense or action that may arise from the use of these services or for any information that may be collected through the use of these services.</p>
-<p>We may use this public content, whether submitted directly to the site or via third-party services, to develop aggregate ratings, comments, reviews, or other derived content for The Sites and distribution to other web sites and business partners. We may use your public content to personalize the site for you and other members and to identify and feature special content and members. For example, we may promote highly rated and regarded content on The Sites and on partner web sites.</p>
-<h3>7. Cookies</h3>
-<p>Opposing Views sets and accesses cookies on your computer. A cookie is a small bit of information used by the site to track your session. It does not contain any sensitive information. No other web sites can access cookies set by The Sites, nor can The Sites access cookies set by other web sites.</p>
-<p>You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent you from logging in, or may prevent us from delivering some of our services to you.</p>
-<p>We may allow third-party advertisers to post advertisements on The Sites. These third parties may place cookies on certain pages of The Sites. We do not control those third parties or their cookies. This privacy policy does not cover third party advertisers’ use of cookies.</p>
-<h3>8. Links and Third Party Sites and Ads</h3>
-<p>The Sites contain links to other web sites. We are not responsible for the privacy practices or the content on these sites. If you have concerns about how other sites collect and use information about you, make sure to read their privacy policies.</p>
-<p>We use third party advertising companies to serve ads and collect data on The Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to The Sites and other web sites in order to provide advertisements on this and other web sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
-<h3>9. Confidentiality and Security</h3>
-<p>We use electronic, physical, and administrative safeguards, including firewalls and advanced password protection, to protect the security of your information. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information and private communications will always remain private.</p>
-<p>You should take steps to protect yourself as well. For example:</p>
-<ul>
-<li>Do not share your password with anyone else, and take measures to prevent unauthorized access or disclosure.</li>
-<li>To learn more about how to protect yourself online, visit the government website <a href="http://www.onguardonline.gov">www.onguardonline.gov</a>.</li>
-</ul>
-<h3>Changes to this Privacy Policy</h3>
-<p>We may change this policy from time to time, and we will post the amended terms on The Sites. All amended terms take effect immediately for all users.</p>
-<p>To contact us for more information about this privacy policy or how your information is treated, please contact us by email at <a href="mailto:legal@opposingviews.com">admin@opposingviews.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
-<p>Last updated October 1, 2014</p>
- 
-<!--
-<p>Effective August 1, 2012</p><p>This policy tells you how Opposing Views ("OV") collects, uses and protects your information. This policy does not cover how we treat personal information that is obtained through other sources, such as offline, on other web sites or through e-mail communications. This policy also does not apply to the practices of companies that OV does not own or control or to people that OV does not employ or manage.</p><h3>1. What and How We Collect Personal Information</h3><p>You can browse <a href="http://www.opposingviews.com">www.opposingviews.com</a>, and any other affiliated Opposing Views owned or operated web sites (the "Sites") without telling us who you are or revealing any personal information about yourself. Certain features of the Sites do require that you register and supply some information that enables us to identify you. When you register, we ask you for your e-mail address and a screen name and password that you create.</p><p>In order for us to provide content and advertising that is targeted to your interests we may ask you for, and you may choose to (or choose not to) provide us with demographic information such as your gender, age, location, income level, educational level and other personal characteristics such as your political, religious and other beliefs. Providing any of this information is optional.</p><p>We do NOT ask for governmental identification numbers, credit card numbers or other financial account identifying numbers, codes or passwords. If you receive an e-mail or any request for this type of information please notify us at once at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com</a>.</p><p>We also collect some information automatically from your computer while you use the Sites including your IP address, computer and connection information, browser type and version, operating system, platform, the URLs you came from and go to and any cookies we may have set to identify your browser session. As you use the Sites we may also attempt to automatically determine some of the demographic information previously described from the content that you elect to view.</p><p>As you use the Sites, we collect the web pages and a record of the content that you have seen. We may use this information to learn what topics and views you are interested in, and to automatically determine demographic information about you. We may use this information to enhance the services, content and advertising that we present to you.</p><p>We collect information that you submit to the Sites. This includes ratings of other content, your comments, complaints, profile information, statements, arguments, objections and commentary you enter in debate or discussion with other users and any other content that you willingly provide as you use the Sites. This content includes any forms that you may enter including text, video or audio files, graphical images, links to other sites, documents, spreadsheets or any other type of digital information you choose to provide.</p><p>We may also collect additional information about you from other sources not specifically described here. For example, you may contact our customer support department, reply to a survey or poll, or a third party could leave comments or complaints about your content on the Sites.</p><h3>2. Expert Verification</h3><p>To protect the credibility of all our contributors and the integrity of Opposing Views, any group or individual who seeks an Opposing Views "expert" status may be asked for some personally identifiable information, possibly including current contact information, personal references, and identifying numbers for professional licenses, degrees, diplomas, honors or other third party endorsements of qualification for expert status.</p><p>We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com</a>.</p><p>We will ask existing and potential experts ("Experts") to contact us with personally identifiable information in order to confirm your identity, and we may be reached at:</p><p>Deep Dive Media, Llc.<br>8400 Delongpre Avenue<br>Los Angeles, CA 90069<br><a href="mailto:experts@opposingviews.com">experts@opposingviews.com</a></p><p>Any personally identifiable information collected from Experts will be used solely to confirm your identity and qualifications. It will not be displayed on the Sites, nor will it be transferred to any third party except for organizations or individuals under contract with Opposing Views to perform business services required for Expert qualification.</p><h3>3. Children and Personal Information</h3><p>The sites are intended to be used by and designed for adult users, and OV does not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided OV with personally identifiable information, please contact us at <a href="mailto:help@opposingviews.com">help@opposingviews.com</a>.</p><h3>4. How We Use Personal Information</h3><p>We use the information we collect to:</p><ul><li>operate the Sites and publish relevant information to viewers</li><li>provide you with information and services you request</li><li>customize your experience</li><li>send you personalized content and promotional offers, based on your communication preferences</li><li>measure and improve our services</li><li>resolve disputes, complaints and resolve technical problems</li><li>conduct research</li><li>analyze aggregate user behavior and prepare aggregated reports</li><li>provide anonymous reports to internal and external clients</li></ul><h3>5. Information Sharing and Disclosure</h3><p>OV is not in the business of renting or selling personal information you provide on the Sites with other people or nonaffiliated companies. OV does share your information to provide products or services you've requested, when we have your permission, and under the following circumstances:</p><ul><li>We may share your information with service providers under confidentiality agreements in order to help with our business operations. These companies do not have the independent right to share this information.</li><li>We may share names and e-mails of members who join OV as part of a co-branded partnership with OV with that specific partner.</li><li>We may share aggregate demographic information with third parties such as the media, advertisers, and government agencies. This aggregate information is typically in the form of statistics, such as numbers of OV users in a particular age group. Such aggregate information is not traceable back to you as an individual.</li><li>We may share information when required by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served upon OV; to protect the property or interests of OV; or to protect personal safety or public interests.</li><li>We may transfer personal information in the event that our business is sold, transferred, merged or reorganized with or into another organization.</li></ul><h3>6. Public Content</h3><p>Some portions of the Sites allow you to contribute ratings, reviews, comments and other content to the Sites. This content is displayed publicly to other users, OV and our partners. The content you contribute may be displayed with your OV screen name. If other members choose to, they can receive e-mail, RSS feeds, or other notifications of your new public content or publish their own content in response to yours.</p><p>We may use this public content to develop aggregate ratings, comments, reviews or other derived content for the Sites and distribution to other web sites and business partners. We may use your public content to personalize the site for you and other members and to identify and feature special content and members. For example, we may promote highly rated and regarded content on the Sites and on partner web sites.</p><h3>7. Cookies</h3><p>OV sets and accesses cookies on your computer. A cookie is a small bit of information used by the site to track your session. It does not contain any sensitive information. No other web sites can access cookies set by OV, nor can the Sites access cookies set by other web sites.</p>
-<p>We use third party advertising companies to serve ads and collect data on this Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to OV and other web sites in order to provide advertisements on this and other web sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p><p>You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent you from logging in, or prevent us from delivering some of our services to you.</p><h3>8. Account Information and Communications</h3><p>You can edit your OV Account Information at any time by logging in to the site and entering the "My OV" area.</p><p>You may opt out of receiving OV marketing materials by logging into the site, entering the My Views area and editing your email preferences. Even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the OV service and/or your account, such as service announcements and administrative messages, that are considered part of your OV account, without offering you the opportunity to opt-out of receiving them.</p><p>You can close your OV account through the "My OV" area or by contacting our customer service department at <a href="mailto:help@opposingviews.com">help@opposingviews.com</a>. After you close your account you will no longer receive e-mail from OV but we will retain information in order to comply with the law, prevent fraud, and continue to offer our services to other users and partners.</p><h3>9. Confidentiality and Security</h3><p>We use electronic, physical and administrative safeguards including firewalls and advanced password protection to protect the security of your information. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information and private communications will always remain private.</p><p>You should take steps to protect yourself as well. For example:</p><ul><li>Do not share your password with anyone else, and take measures to prevent unauthorized access or disclosure.</li><li>To learn more about how to protect yourself online, visit the government website <a href="http://www.onguardonline.gov">www.onguardonline.gov</a>.</li></ul><h3>10. Links and Third Party Sites and Ads</h3><p>The Sites contains links to other web sites. We are not responsible for the privacy practices or the content on these sites. If you have concerns about how other sites collect and use information about you, make sure to read their privacy policies.</p><p>We may allow third party advertisers to post advertisements on the Sites. These third parties may place cookies on certain pages of the Sites. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers’ use of cookies.</p><h3>11. Changes to this Privacy Policy</h3><p>We may change this policy from time to time, and we will post the amended terms on the Sites. All amended terms take effect immediately for new users and 30 days after they are posted for existing members. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary e-mail address specified in your OV account.</p><p>To contact us for more information about this privacy policy or how your information is treated, please contact us by email at <a href="mailto:help@opposingviews.com">help@opposingviews.com</a>.</p>
-
---> </div>
-</div>
-<aside role="complementary" class="l-sidebar-right columns sidebar show-for-large-up large-3">
- 
-<div class="sidebar-ad">
-<div id="block-block-354" class="block block-block">
-<div class="content">
-<div>
-<div id="openx-block-354">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth >= 769) {
-OX.load({"slot_id":"openx-block-354","auid":"537104097", "cb":cb});
-}
-</script> </div>
-</div>
-</div>
- 
-<div class="sidebar-title"><h2><span>HOTTEST</span> STORIES</h2></div>
-<div id="sidebar-right-content" class="l--sidebar-right-content">
-<div id="block-ov_content_types-0" class="block block-ov_content_types">
-<div class="content">
-<div class="hot-story-preview">
-<a href="/i/social/woman-defends-herself-against-disrespectful-teen-during-subway-encounter-video">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/teensubwayconfrontation1_featured.jpg" alt="Screen Capture." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Woman Defends Herself Against Disrespectful Teen During Subway Encounter <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-7.8 k </span>
-<span>
-1.5 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/crime/cop-forced-drop-dui-charges-after-he-tried-arrest-influential-man">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/aphoto_0.jpg" alt="aphoto" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Cop Forced To Drop DUI Charges After He Arrested Influential Man</h2>
-<div class="article-social hide-for-small-only">
-<span>
-5.4 k </span>
-<span>
-2.4 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/judge-rules-new-jersey-twins-have-different-fathers">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/pregnant.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Judge Rules New Jersey Twins Have Different Fathers</h2>
-<div class="article-social hide-for-small-only">
-<span>
-3.5 k </span>
-<span>
-1.4 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/animal-rights/mans-best-friend-saves-teen-vicious-coyotes">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/sakoaward_featured.jpg" alt="" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Man's Best Friend Saves Teen From Vicious Coyotes <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-4.3 k </span>
-<span>
-182 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/social/pre-war-automobiles-worth-700k-found-texas-barn-auction-photosvideo">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/1932cadillac_featured.jpg" alt="1932 Cadillac 370B V-12 Convertible." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Pre-War Automobiles Worth $700K Found In Texas Barn Up For Auction <span class="title-parenthesis">(Photos/Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-3.4 k </span>
-<span>
-195 </span>
-</div>
-</a> </div>
-<div id="block-block-356" class="sidebar-ad">
- 
-<div>
-<div id="openx-block-356">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth >= 769) {
-  OX.load({"slot_id":"openx-block-356","auid":"433946", "cb":cb});
- }
-</script>
-</div> <div class="hot-story-preview">
-<a href="/i/social/watch-and-see-why-truemoves-wwii-commercial-has-gone-viral-video">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/treumovecompassioncommercial_featured.jpg" alt="" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Watch And See Why TrueMove's WWII Commercial Has Gone Viral <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.9 k </span>
-<span>
-177 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/brutal-school-fight-caught-camera-video">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/fight.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Brutal School Fight Caught On Camera <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.9 k </span>
-<span>
-1.9 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/crime/omaha-man-turns-himself-after-killing-mother-throwing-brother-river-and-dumping-baby">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/aboston.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Omaha Man Turns Himself In After Killing Mother, Throwing Brother In River And Dumping Baby In Dumpster</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.7 k </span>
-<span>
-1.3 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/politics/wi-republicans-push-bill-limit-food-stamp-purchases-despite-high-cost">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/foodstamps.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Wisconsin Republicans Push Bill to Limit Food Stamp Purchases</h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.7 k </span>
-<span>
-1.4 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/world/zimbabwe-man-finds-wife-working-prostitute-after-she-claimed-be-waitress">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/ring.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Man Finds Wife Working As Prostitute After She Claimed To Be A Waitress</h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.7 k </span>
-<span>
-817 </span>
-</div>
-</a> </div>
-<div id="block-block-357" class="sidebar-ad">
- 
-<div>
-<div id="openx-block-357">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth >= 769) {
-OX.load({"slot_id":"openx-block-357","auid":"433946", "cb":cb});
- }
-</script>
-</div> <div class="hot-story-preview">
-<a href="/i/society/students-pose-guns-confederate-flag-prom-picture-video">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/confederateflagprompicture_featured.jpg" alt="Prom Picture." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Students Pose With Guns, Confederate Flag In Prom Picture <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.0 k </span>
-<span>
-1.8 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/religion/sign-stop-muslims-washing-prayers-posted-bathroom">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/sink123.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Sign To Stop Muslims From Washing Before Prayers Posted In Bathroom</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.8 k </span>
-<span>
-1.8 k </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/mother-3-accidentally-gets-license-labels-her-sex-offender">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/license_featured.jpg" alt="" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Mother Of Three Accidentally Labeled A Sexual Predator On Driver's License</h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.1 k </span>
-<span>
-659 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/health/mother-discovers-her-sons-eye-cancer-cell-phone-photo">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/cancer1_featured.jpg" alt="Avery Fitzgerald." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Mother Discovers Her Son's Eye Cancer With Cellphone Photo <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.4 k </span>
-<span>
-196 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/world/man-finds-abandoned-baby-girl-his-way-work-plans-adopt-her-video">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/abandonedbaby_featured.jpg" alt="Screen Capture." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Man Finds Abandoned Baby Girl On His Way To Work, Plans To Adopt Her <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.5 k </span>
-<span>
-401 </span>
-</div>
-</a> </div>
-<div id="block-block-358" class="sidebar-ad">
- 
-<div>
-<div id="openx-block-358">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth >= 769) {
-OX.load({"slot_id":"openx-block-358","auid":"433946", "cb":cb});
- }
-</script>
-</div> <div class="hot-story-preview">
-<a href="/i/society/crime/woman-allegedly-tried-sell-her-baby-500">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/mugs1_featured.jpg" alt="" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Ohio Woman Allegedly Tried To Sell Her Baby For $500</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.7 k </span>
-<span>
-609 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/health/child-protective-service-investigating-death-6-month-old-foster-care">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/texas.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Child Protective Service Investigating Death Of 6-Month-Old In Foster Care</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.7 k </span>
-<span>
-678 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/world/uk-teen-forced-undergo-bra-search-stolen-cash-front-customers">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/poundland_featured.jpg" alt="" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>UK Teen Forced To Undergo Bra Search For Stolen Cash In Front Of Customers</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.9 k </span>
-<span>
-587 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/health/family-woman-subjected-unnecessary-brain-surgery-awarded-21-million-compensation">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/brainsurgerymixup_featured.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Family Of Woman Subjected To Unnecessary Brain Surgery Awarded $21 Million In Compensation</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.5 k </span>
-<span>
-421 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/world/welshman-secretly-leaves-3500-his-best-friends-use-holiday">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/rogerbrown.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Welshman Secretly Leaves $4,000 To His Best Friends To Use For A Holiday</h2>
-<div class="article-social hide-for-small-only">
-<span>
-2.4 k </span>
-<span>
-83 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/crime/alameda-county-prosecutors-have-not-charged-man-who-killed-mother-and-child-while-dr">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/cbs_featured.jpg" alt="" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Alameda County Prosecutors Have Not Charged Man Who Killed Mother And Child While Drunk Driving</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.3 k </span>
-<span>
-577 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/crime/woman-attacks-boyfriend-after-allegedly-being-denied-sex">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/stephaniemillerarrest.jpg" alt="Stephanie Miller." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Woman Arrested After Asking Boyfriend For Sex In Restaurant Restroom, Assaulting Him When He Refused</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.3 k </span>
-<span>
-531 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/parent-gender-fluid-child-shares-her-story">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/ziya.jpeg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>'That's My Biggest Fear': Mom Of Gender Fluid Child Shares Her Story</h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.4 k </span>
-<span>
-643 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/health/doctor-claims-breathing-technique-can-help-you-get-sleep">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/alts/0515/sleepbreathingtechnique.jpg" alt="article image" title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Harvard-Trained Doctor Claims Simple Breathing Technique Can Help You Sleep <span class="title-parenthesis">(Video)</span></h2>
-<div class="article-social hide-for-small-only">
-<span>
-1.0 k </span>
-<span>
-123 </span>
-</div>
-</a> </div>
-<div class="hot-story-preview">
-<a href="/i/society/crime/woman-forges-doctors-note-claiming-she-had-cancer-receive-tax-funded-abortion">
-<img src="http://img.opposingviews.com/sites/default/files/imagecache/270x190/featured_image/0515/zeitner_featured.jpg" alt="Chalice Renee Zeitner." title="" class="imagecache imagecache-270x190 imagecache-default imagecache-270x190_default" width="270" height="190"><h2>Woman Forges Doctor's Note Claiming She Had Cancer To Receive Tax-Funded Abortion</h2>
-<div class="article-social hide-for-small-only">
-<span>
-926 </span>
-<span>
-644 </span>
-</div>
-</a> </div>
-</div>
-</div>
-</div>
-</aside>
-</main>
-<div id="mobile-above-footer" class="mobile-above-footer">
-<div id="block-block-365" class="block block-block">
-<div class="content">
-<div>
-<div id="openx-block-365">
-</div>
-</div>
-<script type="text/javascript">
-var cb = Math.floor(Math.random()*99999999999);
-if(window.innerWidth < 769) {
-OX.load({"slot_id":"openx-block-365","auid":"490070", "cb":cb});
-}
-</script> </div>
-</div>
-</div>
-<footer class="l-footer hide-for-small-only">
-<div class="footer-wrapper row">
-<div class="l--footer-first columns medium-10 medium-centered large-11 large-centered footer-content">
-<ul class="links">
-<li><a href="http://www.opposingviews.com/advertise">Advertise With Us</a></li>
-<li><a href="http://www.opposingviews.com/civility">Civility 101</a></li>
-<li><a href="http://www.opposingviews.com/faq">FAQ</a></li>
-<li><a href="http://www.opposingviews.com/terms">Terms of use</a></li>
-<li><a href="http://www.opposingviews.com/privacy">Privacy Policy</a></li>
-<li><a href="http://www.opposingviews.com/about">About</a></li>
-<li><a href="http://www.opposingviews.com/contact">Contact</a></li>
-<li><a href="http://science.opposingviews.com/">Science</a></li>
-<li class="last"><a href="http://people.opposingviews.com/">People</a></li>
-</ul>
-<ul class="links">
-<li><strong>News Partners</strong></li>
-<li><a href="http://www.inquisitr.com/">Inquisitr</a></li>
-</ul>
-<div class="summary">
-<h2>About</h2>
-<span class="header-icons">
-<a class="fbook" href="http://www.facebook.com/opposingviews">&nbsp;</a>
-<a class="twitter" href="http://twitter.com/opposingviews">&nbsp;</a>
-<a class="rss" href="http://feeds.feedburner.com/opposingviews/main">&nbsp;</a>
-</span>
-<p>Founded in 2007, OpposingViews.com is an independent media site that publishes original journalism on politics, social issues, religion, sports and entertainment. Our editorial staff presents breaking news, in-depth analysis and cutting-edge content around the clock. Based in Los Angeles, we currently reach 25 million unique visitors every month.</p>
-<p class="copyright">Entire site copyright 2008-2015, OpposingViews.com</p>
-<div class="footerlogo"></div>
-</div>
-</div>
-<div class="l--footer-second columns medium-5 medium-centered large-3 large-centered footer-content">
-<ul>
-<li><a id="fb" class="fb" href="http://www.facebook.com/opposingviews" target="_blank"></a></li>
-<li><a id="tw" class="tw" href="http://twitter.com/opposingviews" target="_blank"></a></li>
-<li><a id="rss" class="rss" href="http://feeds.feedburner.com/opposingviews/main" target="_blank"></a></li>
-</ul>
-</div>
-<div class="l--footer-third columns medium-5 medium-centered large-4 large-centered footer-content text-center">
-<div class="logo"><a href="/"></a></div>
-</div>
-</div>
-</footer>
-</div>
- 
-<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
- 
-<script src="/sites/all/themes/ov_foundation/js/respond.min.js"></script>
- 
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-15e4OSeaAUAF6.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
- 
- 
 <script>
 var _comscore = _comscore || [];
 _comscore.push({ c1: "2", c2: "8097945" });
@@ -1033,6 +116,342 @@ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + "
 el.parentNode.insertBefore(s, el);
 })();
 </script>
+ 
+ 
+ 
+<script class="kxct" data-id="KLwVBNWi" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=KLwVBNWi";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+</script>
+ 
+<script class="kxint" type="text/javascript">
+      window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+      (function(){
+       function retrieve(n){
+        var m, k='kxopposingviews_'+n;
+        if (window.localStorage) {
+          return window.localStorage[k] || "";
+        } else if (navigator.cookieEnabled) {
+          m = document.cookie.match(k+'=([^;]*)');
+          return (m && unescape(m[1])) || "";
+        } else {
+          return '';
+       } } 
+       
+       Krux.user = retrieve('user');
+       Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : '';
+       // OpenX Interchange
+       var ox_params = [];
+       if (Krux.user) {
+        ox_params.push('c.kuid=' + Krux.user);
+       }
+       if (Krux.segments) {
+        ox_params.push('c.ksg=' + Krux.segments);
+} 
+       Krux.oxKeyValues = ox_params.length ? ox_params.join(';') + ';' : '';
+      })();
+</script> <script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_NmVfN_60aG1-Rr2fnF6G_ROmXhOAsTbrrLu8zzKb3os.js"></script>
+<script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_bQkfn7aPjbOOUYAAjRJY1-PavkNWRnzoF6KWmOgTATU.js"></script>
+<script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_HUU_xFH8dyLZUHq9pNP50JeFHUQMmGxcF0zlWZOq5uA.js"></script>
+<script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_mw06s-gYd-ANxp8zZ_N-xVkvD8F3Tf5OMGUGwU-H6zY.js"></script>
+<script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_iIjmGO37FkjRPoBHcaEJPQhPZQ_PIOOA47u4o7-HgzI.js"></script>
+<script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_8BDFAT2REWiZj3NZ7TKUNyXdSpQlTDBs8GcHOX935ds.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ov_foundation","theme_token":"woKu4vb2THg6OO1w0-vSwtuZ6h7FlKIeO_PPkcQMNRw","js":{"sites\/all\/themes\/rndr_foundation\/js\/vendor\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.button.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"misc\/ui\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"sites\/all\/libraries\/jquery\/jquery-2.1.3.min.js":1,"sites\/all\/modules\/contrib\/jqmulti\/js\/switch.js":1,"sites\/all\/modules\/custom\/rndr_blocks\/js\/rndr-blocks.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.core.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.box.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.keyboard.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.mediaQuery.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.motion.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.nest.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.timerAndImageLoader.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.touch.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/foundation.util.triggers.js":1,"sites\/all\/themes\/rndr_foundation\/js\/vendor\/modernizr.js":1,"sites\/all\/themes\/rndr_foundation\/js\/utils.js":1,"sites\/all\/themes\/rndr_foundation\/js\/rndr-foundation.js":1,"sites\/all\/themes\/ov_foundation\/js\/ov-foundation.js":1,"sites\/all\/themes\/ov_foundation\/js\/vendor\/foundation.sticky.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/ov_foundation\/css\/ov-foundation.css":1,"sites\/all\/themes\/ov_foundation\/css\/common.css":1,"sites\/all\/themes\/ov_foundation\/css\/wrapper.css":1}},"embridge":{"default_catalog":"catalog","selected_renditions":{"ovi_1242x828":"ovi_1242x828","ovi_125x35":"ovi_125x35","ovi_200x150":"ovi_200x150","ovi_270x190":"ovi_270x190","ovi_270x203":"ovi_270x203","ovi_290x190":"ovi_290x190","ovi_300x170":"ovi_300x170","ovi_300x250":"ovi_300x250","ovi_302x250":"ovi_302x250","ovi_302x446":"ovi_302x446","ovi_320x213":"ovi_320x213","ovi_350x250":"ovi_350x250","ovi_402x250":"ovi_402x250","ovi_420x275":"ovi_420x275","ovi_480x270":"ovi_480x270","ovi_480x300":"ovi_480x300","ovi_50x50":"ovi_50x50","ovi_600x500":"ovi_600x500","ovi_604x892":"ovi_604x892","ovi_640x427":"ovi_640x427","ovi_820x420":"ovi_820x420","placeholder":"placeholder","rndr_300x280":"rndr_300x280","rndr_670x300":"rndr_670x300","rndr_375x225":"rndr_375x225","rndr_1400x600":"rndr_1400x600","rndr_300x169":"rndr_300x169","rndr_640x800":"rndr_640x800","rndr_640x400":"rndr_640x400","rndr_250x250":"rndr_250x250","rndr_670x377":"rndr_670x377","rndr_304x171":"rndr_304x171"},"selected_wysiwyg_renditions":[],"allow_upload":false,"allow_search":false,"allow_properties":false},"rndr_blocks":{"loadable_class_name":"loadable-unit","krux_kuid":"kxopposingviews_kuid","krux_kseg":"kxopposingviews_kseg","dfp_slots":{"300x600_Desk_A":{"size":[[300,600],[300,250]],"isBid":true,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Desktop_300x600_Flexible_ATF_A"},"300x600_Desk_B":{"size":[[300,600],[300,250]],"isBid":true,"isRepeatable":true,"repeats":4,"adUnitPath":"\/25172614\/OpposingViews_Desktop_300x600_Flexible_BTF_B"},"728x90_Desk_B":{"size":[[728,90]],"isBid":true,"isRepeatable":true,"repeats":4,"adUnitPath":"\/25172614\/OpposingViews_Desktop_728x90_Flexible_BTF_B"},"970x250_Desk_A":{"size":[[728,90],[970,250]],"isBid":true,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Desktop_970x250_Flexible_ATF_A"},"970x250_Desk_B":{"size":[[970,250],[728,90]],"isBid":true,"isRepeatable":true,"repeats":4,"adUnitPath":"\/25172614\/OpposingViews_Desktop_970x250_Flexible_BTF_B"},"300x250_Desk_B":{"size":[[300,250]],"isBid":true,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Desktop_RightRail_300x250_BTF_B"},"300x250_Desk_B_1":{"size":[[300,250]],"isBid":true,"isRepeatable":true,"repeats":4,"adUnitPath":"\/25172614\/OpposingViews_Desktop_300x250_BTF_B"},"300x250_Mobile_A":{"size":[[300,250]],"isBid":true,"isRepeatable":true,"repeats":1,"adUnitPath":"\/25172614\/OpposingViews_Mobile_300x250_BTF_A"},"300x250_Mobile_B":{"size":[[300,250]],"isBid":true,"isRepeatable":true,"repeats":4,"adUnitPath":"\/25172614\/OpposingViews_Mobile_300x250_BTF_B"},"320x50_Mobile_A":{"size":[[320,50]],"isBid":true,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Mobile_320x50_ATF_A"},"728x90_Tablet_A":{"size":[[728,90]],"isBid":true,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Tablet_728x90_ATF_A"},"Non_Standard_Desktop":{"size":[[1,1]],"isBid":false,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Desktop_1x1_Non_Standard_Unit"},"Non_Standard_Mobile":{"size":[[1,1]],"isBid":false,"isRepeatable":false,"adUnitPath":"\/25172614\/OpposingViews_Mobile_1x1_Non_Standard_Unit"}},"bids":null},"rndrPageInfo":{"pageType":"other","is_sensitive":"no"},"urlIsAjaxTrusted":{"\/privacy":true}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-860103 node-type-main">
+ 
+<div id="fb-root"></div>
+<header class="site-header">
+<div id="menu-toggle">
+<a href="#">Toggle Menu</a>
+</div>
+<div id="sites-menu">
+<button class="close-button" aria-label="Close alert" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<ul class="menu hide-for-small-only" id="menu-channels">
+<li><a class="rndr-channels" href="http://www.rndr.com/" alt="Render Media Channels"></a></li>
+<li><a class="ov" href="http://www.opposingviews.com/" alt="Opposing Views"></a></li>
+<li><a class="an" href="http://www.americanews.com/" alt="America Now"></a></li>
+<li><a class="cp" href="http://www.cookingpanda.com/" alt="Cooking Panda"></a></li>
+</ul>
+<nav id="main-menu-dropdown" class="hide-for-medium">
+<h2 class="element-invisible">Main menu</h2><ul class="links main-menu no-bullet" data-responsive-menu="data-responsive-menu"><li class="menu-505 first"><a href="/topics/politics" title="">Politics</a></li>
+<li class="menu-508"><a href="/topics/world" title="">World</a></li>
+<li class="menu-509"><a href="/topics/health" title="">Health</a></li>
+<li class="menu-510"><a href="/topics/religion" title="">Religion</a></li>
+<li class="menu-506"><a href="/topics/society" title="">Society</a></li>
+<li class="menu-507"><a href="/topics/social" title="">Social</a></li>
+<li class="menu-576"><a href="/videos" title="Opposing Views Videos">Videos</a></li>
+<li class="menu-601 last"><a href="http://www.voteandwinamerica.com/default.aspx?Flow=076ED7A2-1BA8-252E-08B4-EA46F2181DAF54A366A8&amp;reward=america&amp;subaff=ov" title="">Sign Up</a></li>
+</ul> </nav>
+</div>
+<div class="logo">
+<div class="logo-inner"><a href="/"><img src="/sites/all/themes/ov_foundation/img/OpposingViews.png" alt="Opposing Views"></a></div>
+</div>
+<div class="search-social">
+<form class="search-form" action="/privacy" method="post" id="search-api-page-search-form-node-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-2">
+<input type="text" id="edit-keys-2" name="keys_2" value="" size="60" maxlength="128" class="form-text">
+</div>
+<input type="hidden" name="id" value="2">
+<button id="edit-submit-2" name="op" value="Search" type="submit" class="form-submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-rbI71NlK1gx4ZM4gyK8Gan96IYQoSCRwEoWlxmj0CHc">
+<input type="hidden" name="form_id" value="search_api_page_search_form_node_search">
+</div></form> <label id="search-toggle" for="header-search"><i class="fa fa-search"></i></label>
+<span class="social-links">
+<a href="https://facebook.com/OpposingViews" class="fb"><i class="fa fa-facebook-official"></i></a>
+<a href="https://twitter.com/OpposingViews" class="tw"><i class="fa fa-twitter"></i></a>
+<a href="https://youtube.com/user/OpposingViews" class="yt"><i class="fa fa-youtube-play"></i></a>
+</span>
+</div>
+</header>
+<div class="search-form-wrapper hide-for-large">
+<form class="search-form" action="/privacy" method="post" id="search-api-page-search-form-node-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-2">
+<input type="text" id="edit-keys-2" name="keys_2" value="" size="60" maxlength="128" class="form-text">
+</div>
+<input type="hidden" name="id" value="2">
+<button id="edit-submit-2" name="op" value="Search" type="submit" class="form-submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-rbI71NlK1gx4ZM4gyK8Gan96IYQoSCRwEoWlxmj0CHc">
+<input type="hidden" name="form_id" value="search_api_page_search_form_node_search">
+</div></form></div>
+<div>
+<nav id="main-menu" class="hide-for-small-only">
+<h2 class="element-invisible">Main menu</h2><ul class="links main-menu no-bullet" data-responsive-menu="data-responsive-menu"><li class="menu-505 first"><a href="/topics/politics" title="">Politics</a></li>
+<li class="menu-508"><a href="/topics/world" title="">World</a></li>
+<li class="menu-509"><a href="/topics/health" title="">Health</a></li>
+<li class="menu-510"><a href="/topics/religion" title="">Religion</a></li>
+<li class="menu-506"><a href="/topics/society" title="">Society</a></li>
+<li class="menu-507"><a href="/topics/social" title="">Social</a></li>
+<li class="menu-576"><a href="/videos" title="Opposing Views Videos">Videos</a></li>
+<li class="menu-601 last"><a href="http://www.voteandwinamerica.com/default.aspx?Flow=076ED7A2-1BA8-252E-08B4-EA46F2181DAF54A366A8&amp;reward=america&amp;subaff=ov" title="">Sign Up</a></li>
+</ul> </nav>
+</div>
+<div class="row">
+<div class="large-12">
+<div id="header-esi">
+<div class="region region-header-esi">
+<div id="block-block-87" class="block block-block">
+<div class="content">
+<div class="acontainer" id="block-unit-87-outer">
+<div id="block-unit-87" class="loadable-unit" data-small="320x50_Mobile_A" data-medium="728x90_Tablet_A" data-large="970x250_Desk_A" data-x_large="970x250_Desk_A"></div>
+<div id="970x250_Desk_A">
+</div>
+<div id="728x90_Tablet_A">
+</div>
+<div id="320x50_Mobile_A">
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="header">
+<div class="region region-header">
+<div id="block-block-102" class="block block-block">
+<div class="content">
+<style>#main-menu .last{display:none;}</style> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section role="document" id="main" class="">
+<div role="alert row" class="l-messaging">
+<div class="l-messages columns small-12">
+</div>
+<div class="l-help columns small-12">
+</div>
+</div>
+<div class="row tabs">
+</div>
+<main id="main-content">
+<div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<div id="node-860103" class="node node-main clearfix" about="/privacy" typeof="sioc:Item foaf:Document">
+<h2 class="title"><a href="/privacy">Privacy Policy</a></h2>
+<span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span>
+<div class="content">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Opposing Views Inc., and its affiliates (the "Company") takes your privacy very seriously. This Privacy Policy is intended to inform you about the information that is collected from you when you visit <a href="http://www.opposingviews.com">OpposingViews.com</a>, the mobile application, and any other affiliated Opposing Views owned or operated web sites or applications (collectively, the “Sites"). This policy documents how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. Note that our Terms of Use, which are binding on all users of the Sites, also apply to anyone who uses the Sites.</p>
+<p>If you access or use Opposing Views through mobile applications or sites, our <a href="http://www.opposingviews.com/mobile-terms">Mobile Terms of Services</a> also applies.</p>
+<h3>1. Scope</h3>
+<p>This policy tells you how the Sites collect, use, and protect your personal and non-personal information. This policy does not apply to information collected through any other website or to the practices of companies that Opposing Views does not control. Please note that the Sites may contain links to other web sites, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. For example, if you click on an advertisement on one of our Sites and link to another website, then this Privacy Policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other web sites, and we recommend that you read the privacy policies of every website that you visit.</p>
+<h3>2. Personal Information: What We Collect And How</h3>
+<p>You can browse the Sites without telling us who you are or revealing any personal information about yourself.</p>
+<p>We do NOT ask for governmental identification numbers, credit card numbers, or other financial account identifying numbers, codes, or passwords. If you receive an e-mail or any request for this type of information from anyone purporting to be acting by or on behalf of the Company, please notify us at once at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com</a>.</p>
+<p>We collect some non-personal information automatically while you use the Sites, including your Internet protocol (“IP”) address, computer and connection information, browser type and version, operating system, platform, browsing history and any cookies we may have set to customize and identify your browser session. As you use the Sites we may also attempt to automatically determine some of the demographic information previously described from the content that you elect to view.</p>
+<p>As you use the Sites, we collect a record of the content that you have seen. We may use this information to learn what topics and views you are interested in, and to automatically determine demographic information about you. We may use this information to enhance the services, content, and advertising that we present to you.</p>
+<p>We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com</a>. We can be contacted via mail at Opposing Views, Inc., 8400 Delongpre Avenue, #301, Los Angeles, CA 90069.</p>
+<h3>3. Children And Personal Information</h3>
+<p>The Sites are intended for adult users, and we do not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided the Company with personally identifiable information, please contact us at <a href="mailto:legal@opposingviews.com">legal@opposingviews.com</a>.</p>
+<h3>4. How We Use Personal Information</h3>
+<p>We use the information we collect to:</p>
+<ul>
+<li>operate the Sites and publish relevant information to viewers;</li>
+<li>provide you with information and services you request;</li>
+<li>customize your experience;</li>
+<li>send you personalized content and promotional offers, based on your communication preferences;</li>
+<li>measure and improve our services;</li>
+<li>resolve disputes, complaints, and technical problems;</li>
+<li>conduct research;</li>
+<li>analyze aggregate user behavior and prepare aggregated reports;</li>
+<li>provide anonymous reports to internal and external clients.</li>
+</ul>
+<h3>5. Information Sharing And Disclosure</h3>
+<p>We are not in the business of renting or selling personal information you provide through the Sites with other people or nonaffiliated companies. Opposing Views does share your information to provide products or services you've requested, when we have your permission, or under the following circumstances: </p>
+<p>We may share your information with service providers, and other companies and individuals we employ or retain under confidentiality agreements in order to help with our business operations. These companies may have access to your information as necessary to perform their functions, but do not have the independent right to share this information with any other third party.</p>
+<p>We may share personal information of members who join Opposing Views as part of a co-branded partnership with that specific partner. If you enter information through a business partner’s website or through a co-branded page, you consent to us sharing your personal information with the business partner, in which case both our Privacy Policy and the business partner’s privacy policies will control the collection and use of your personal information.</p>
+<p>We may share aggregate demographic information with third parties such as the media, advertisers, and government agencies. This aggregate information is typically in the form of statistics, such as numbers of Opposing Views users in a particular age group. Such aggregate information is not traceable back to you as an individual.</p>
+<p>We may share information when required by law or under the good-faith belief that such disclosure is necessary under applicable law; to respond to a subpoena, search warrant or other legal process served upon the Company, whether or not a response is required by applicable law; to protect the property or interests of the Company; or to protect personal safety or public interests. The Company reserves the right to cooperate with legal authorities and third parties in the investigation of alleged wrongdoing, including disclosing the identity of a user that the Company deems responsible for any wrongdoing.</p>
+<p>We may transfer personal information in the event that our business is sold, transferred, merged, or reorganized with or into another organization.</p>
+<h3>6. Public Content</h3>
+<p>Some portions of the Sites allow you to contribute ratings, reviews, comments, and other content to the Sites. This content is displayed publicly to other users, the Company, and our partners. The content you contribute may be displayed with your Opposing Views screen name, and can be read, collected, or used by other users of or visitors to the Sites, and could be used to send you unsolicited messages. The Company does not assume any responsibility for any offense or action that may arise from you choosing to submit in any public areas of the Sites. Additionally, some portions of the Sites utilize Facebook or other third-party services that allow users to comment and make statements that may or may not relate to the content on the Sites. The Company does not assume any responsibility for any offense or action that may arise from the use of these services or for any information that may be collected through the use of these services.</p>
+<p>We may use this public content, whether submitted directly to the site or via third-party services, to develop aggregate ratings, comments, reviews, or other derived content for the Sites and distribution to other web sites and business partners. We may use your public content to personalize the Sites for you and other members and to identify and feature special content and members. For example, we may promote highly rated and regarded content on the Sites and on partner web sites.</p>
+<a name="cookies"></a>
+<h3>7. Cookies</h3>
+<p>Opposing Views sets and accesses cookies on your computer. A cookie is a small bit of information used by the site to track your session. It does not contain any sensitive information. No other web sites can access cookies set by the Sites, nor can the Sites access cookies set by other web sites.</p>
+<p>You may be able to block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent you from logging in, or may prevent us from delivering some of our services to you.</p>
+<p>We may allow third-party advertisers to post advertisements on the Sites. These third parties may place cookies on certain pages of the Sites. We do not control these third parties or their cookies. This privacy policy does not cover third party advertisers’ use of cookies.</p>
+<a name="thirdparty"></a>
+<h3>8. Links And Third Party Sites And Ads</h3>
+<p>The Sites contain content from third parties and links to other third party web sites. We are not responsible for the privacy practices or the content on these sites. If you have concerns about how other sites collect and use information about you, make sure to read their privacy policies.</p>
+<p>We also use third party advertising companies to serve ads and collect data on the Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to the Sites and other web sites in order to provide advertisements on this and other web sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices for opting-out of this use of your information, <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
+<h3>9. Confidentiality And Security</h3>
+<p>We use electronic, physical, and administrative safeguards, including firewalls and advanced password protection, to protect the security of your information. We limit access to your personal information to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information and private communications will always remain private.</p>
+<p>You should take steps to protect yourself as well. For example:</p>
+<ul>
+<li>Do not share your password with anyone else, and take measures to prevent unauthorized access or disclosure.</li>
+<li>To learn more about how to protect yourself online, visit the government website <a href="http://www.onguardonline.gov">www.onguardonline.gov</a>.</li>
+</ul>
+<h3>Changes To This Privacy Policy</h3>
+<p>We may change this Privacy Policy from time to time, and we will post the amended terms on the Sites. All amended terms take effect immediately for all users. We encourage you to periodically review this statement to be informed of how we are protecting your information.</p>
+<p>To contact us for more information about this privacy policy or how your information is treated, please contact us by email at <a href="mailto:admin@opposingviews.com">admin@opposingviews.com</a>.</p>
+<p>Last updated July 6, 2015</p></div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<aside id="main-sidebar" class="show-for-large">
+</aside>
+</section>
+<section>
+<div id="footer-content">
+<div class="region region-footer">
+<div id="block-block-99" class="block block-block">
+<div class="content">
+<div id="538291402_INSERT_SLOT_ID_HERE" style="width:1px;height:1px;margin:0;padding:0">
+</div>
+<div id="538291426_INSERT_SLOT_ID_HERE" style="width:1px;height:1px;margin:0;padding:0">
+</div>
+<script type="text/javascript">
+var OX_ads = OX_ads || [];
+if (window.innerWidth > 970) {
+  OX_ads.push({
+    slot_id: "538291402_INSERT_SLOT_ID_HERE",
+    auid: "538291402"
+  });
+  document.write('<script type="text/javascript" src="//lookingglass-d.openx.net/w/1.0/jstag"><\/script>');
+}
+else {
+  OX_ads.push({
+    slot_id: "538291426_INSERT_SLOT_ID_HERE",
+    auid: "538291426"
+  });
+  document.write('<script type="text/javascript" src="//lookingglass-d.openx.net/mw/1.0/jstag"><\/script>');
+}
+</script><script type="text/javascript" src="//lookingglass-d.openx.net/w/1.0/jstag"></script> </div>
+</div>
+<div id="block-block-117" class="block block-block">
+<div class="content">
+<script>
+cmTag.set("unitType", "INLINE");
+
+cmTag.set("pubId", 132618);
+cmTag.set("pubTagId", 777498);
+cmTag.set("vertical", "inlinefill");
+
+cmTag.set("parentSelector", "");
+cmTag.set("onOutOfView","detach");
+cmTag.set("isSoundOnHover","true");
+</script>
+<script>
+ cmTag.setMacros({
+     dast: "V1__-2rdi2hgg3je15_m_-2rdi2hgg3je15_-3293893347071604773_1_1g_9E65CFA11403846180637687_9E65CFA114038451291329729_311148555%2C311142658%2C311148551_%22ENTER_PLACEMENT_ID_HERE%22_%22ENTER_PLACEMENT_ID_HERE%22___0_425nv_0.0_0.0_0.0__1_-1_2_0_7p2r__73_California_Ontario___3pn_3n8_9_0_5_4pb3_901947_1462304589269_0_0____-1_____2pf9u_14rav_________u40po__f_f_______false_1612708474_false__true_____false_-1_____umexcid%3D22%26verticalId%3D1267%26mbr%3D0",
+     dataCenter: "us",
+     clickUrl: "",
+     referrer: "",
+     cipid: "2932030",
+     cmDast: "V1__-2rdi2hgg3je15_m_-2rdi2hgg3je15_-3293893347071604773_1_1g_9E65CFA11403846180637687_9E65CFA114038451291329729_311148555%2C311142658%2C311148551_%22ENTER_PLACEMENT_ID_HERE%22_%22ENTER_PLACEMENT_ID_HERE%22___0_425nv_0.0_0.0_0.0__1_-1_2_0_7p2r__73_California_Ontario___3pn_3n8_9_0_5_4pb3_901947_1462304589269_0_0____-1_____2pf9u_14rav_________u40po__f_f_______false_1612708474_false__true_____false_-1_____umexcid%3D22%26verticalId%3D1267%26mbr%3D0",
+     tagId: "e22lLINE_ITEM_ID_WILL_BE_HERE_ON_SERVINGc",
+     creativeId: "4265727",
+     redId: "9E65CFA11403846180637687"
+ });
+ </script>
+<script type="text/javascript" src="http://imprusmp.basebanner.com/st?cipid=2932030&amp;ttype=0&amp;cirid=9E65CFA114038451291329729&amp;pix=31589176&amp;cicmp=1207647&amp;cijs=1&amp;dast=Ym89MTUmY2ljbXA9MTIwNzY0NyZleHR1aWQ9LTMyOTM4OTMzNDcwNzE2MDQ3NzMmcGxjbW50PUVOVEVSX1BMQUNFTUVOVF9JRF9IRVJFJm1kbGlkPTAmY2lzYnA9MC4wJnJnbj1DYWxpZm9ybmlhJndpZj1mYWxzZSZzemlkPTQ4Jm1kPWZhbHNlJmNpYWdlPS0xJm9zaWQ9MzgxNiZjdHk9T250YXJpbyZjaXJmPW51bGwmY2l0YnA9MC4wJm1pZD0tNjM4NSZjaXVpZHN0PS0zMjkzODkzMzQ3MDcxNjA0NzczJm1icj0wJnJjYXRpZD0mcHViaWQ9MTU3MDI3JmNpdWlkPS0zMjkzODkzMzQ3MDcxNjA0NzczJmJyc3I9Mzg5NSZzbz0xNSZub2FvcD0xJmZyaW1wPTkmY3U0PS0xJmFsbmc9MjMmY3JpZD00MjY1NzI3JnNsaWQ9MjU1MDY3JmZyY252PTUmdmVydGljYWxJZD0xMjY3JnBpeD0zMTU4OTE3NiZzdWJpZD05MDE5NDcmbW10PS0xJmNudHJ5PTIyNyZhdWM2ND05MjE3ODA4NTczNjQ4MTA4ODcxJmNpdW1zPTEmc2VjPWZhbHNlJnVtZXhjaWQ9MjImcHN0bj1FTlRFUl9QTEFDRU1FTlRfSURfSEVSRSZjaWJwPTAuMCZkY2lkPTAmY2lwaWQ9MjkzMjAzMCZsdHN0bXA9MTQ2MjMwNDU4OTI2OSZzZWdpZD0zMTExNDg1NTUsMzExMTQyNjU4LDMxMTE0ODU1MSZjaWlwZD0xNjEyNzA4NDc0Jm5zbD10cnVlJmNpcHJicD0wLjAmYmFzZTY0PTAmZnJjbGs9MCZpbnZjPTAmZXhjaWQ9MjImY2lyaWQ9OUU2NUNGQTExNDAzODQ1MTI5MTMyOTcyOSZjaWduZHI9MiZtdG1kbGlkPTA=&amp;cmcv=${CMCV}&amp;compid=${COMPID}&amp;cipp=${PRICE}&amp;ciecp=${DTYPE}&amp;cirp=${LAG}&amp;position=${POS}&amp;excid=22"></script> </div>
+</div>
+</div>
+</div>
+</section>
+<footer id="site-footer" class="site-footer">
+<div class="row">
+<div class="columns large-10 large-push-2">
+<div class="menu">
+<h2 class="element-invisible">Footer menu</h2><ul class="links footer-menu"><li class="menu-715 first"><a href="http://www.rndr.com/advertise" title="">Advertise</a></li>
+<li class="menu-716"><a href="http://www.rndr.com/contact" title="">Contact</a></li>
+<li class="menu-717"><a href="http://www.rndr.com/about/press" title="">Press</a></li>
+<li class="menu-718"><a href="http://www.rndr.com/careers" title="">Careers</a></li>
+<li class="menu-719"><a href="https://www.opposingviews.com/about" title="">About</a></li>
+<li class="menu-720"><a href="https://www.opposingviews.com/terms" title="">Terms &amp; Conditions</a></li>
+<li class="menu-721 last"><a href="https://www.opposingviews.com/privacy" title="">Privacy</a></li>
+</ul> </div>
+</div>
+<div class="columns large-2 large-pull-10" id="footer-identity">
+<a href="http://www.rndr.com/" title="Render Media"><img src="/sites/all/themes/ov_foundation/img/render-logo.png" width="116"></a>
+© 2016 Render Media<br>
+All rights reserved
+</div>
+</div>
+<div class="row show-for-medium-down" id="footer-social">
+<div class="columns small-12">
+<a href="https://facebook.com/OpposingViews" class="fb"><i class="fa fa-facebook-official"></i></a>
+<a href="https://twitter.com/OpposingViews" class="tw"><i class="fa fa-twitter"></i></a>
+<a href="https://youtube.com/user/OpposingViews" class="yt"><i class="fa fa-youtube-play"></i></a>
+</div>
+</div>
+</footer> <script type="text/javascript" src="http://js.opposingviews.com/sites/default/files/js/js_jOrCZ4gPBZmuhJv7Ei-WQ_RN_g08TFtc_2qweNDD744.js"></script>
+ 
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '152062528517362');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1522439921378351&ev=PageView&noscript=1"/></noscript>
+ 
+ 
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-15e4OSeaAUAF6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ 
+ 
 <noscript>
 <img src="http://b.scorecardresearch.com/p?c1=2&c2=8097945&cv=2.0&cj=1"/>
 </noscript>
@@ -1042,23 +461,5 @@ el.parentNode.insertBefore(s, el);
 twttr.conversion.trackPid('l5t8d', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
 <noscript>
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l5t8d&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5t8d&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/></noscript>  
-<script type="text/javascript">
-  OVSocialMedia.init();
-</script>
- 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0ee3370071","applicationID":"2802951","transactionName":"YF1RbUZUDRdYUxINV1kXclpAXAwKFl4JAF1oSFJeUWoVDVxH","queueTime":0,"applicationTime":350,"ttGuid":"","agentToken":"","atts":"TBpSGw5OHhk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-// Output by FitVids module
-jQuery(".videobox").fitVids();
-
-//--><!]]>
-</script>
-
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5t8d&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/></noscript><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"66e3bfc319","applicationID":"8126198","transactionName":"YVBRYBRRDRAEURFaXlgaZkYPH0wKC1YASx9GXUM=","queueTime":0,"applicationTime":20,"atts":"TRdSFlxLHh4=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
