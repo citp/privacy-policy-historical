@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackwell.co.uk privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429184038id_/http%3A//bookshop.blackwell.co.uk/jsp/editorial/help/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwell.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618145547id_/http%3A//bookshop.blackwell.co.uk/jsp/editorial/help/security.jsp) for the most accurate reproduction.*
 
 # Academic, Educational and Business Books - Blackwell's Bookshop Online
 
@@ -8,11 +8,11 @@ Blackwell Online uses industry standard Secure Socket Layer (SSL) encryption to 
 
 ## Privacy
 
-Blackwell Online recognises the concern of our customers regarding privacy of information. All information you give to Blackwell Online is stored securely, and is not accessible to other users. 
+Blackwell Online recognises the concern of our customers regarding privacy of information. All information you give to Blackwell Online is stored securely, and is not accessible to other users.
 
-Rest assured that any information you give to Blackwell Online will not be distributed to any other company outside of the Blackwell Group or its affiliated partners. 
+Rest assured that any information you give to Blackwell Online will not be distributed to any other company outside of the Blackwell Group or its affiliated partners.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
 We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
 
