@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momspotted.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212221124id_/http%3A//momspotted.com/mom-spotted-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momspotted.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618100542id_/http%3A//momspotted.com/mom-spotted-privacy-policy) for the most accurate reproduction.*
 
 # Mom Spotted Privacy Policy - MomSpotted
 
