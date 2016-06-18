@@ -1,42 +1,27 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316061726id_/https%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618093908id_/https%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-**At http://www.guerillastocktrading.com we recognize that privacy is important. We will never ever share your information with any third party, ever. We respect your privacy.**
+This privacy policy discloses the privacy practices for http://www.GuerillaStockTrading.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-http://www.guerillastocktrading.com adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, and Access and Enforcement.
+**Information Collection, Use, and Sharing**
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
- **Information we collect and how we use it**
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as access to the blog.
+If you subscribe to this blog, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
-Cookies – When you visit an advertiser through http://www.guerillastocktrading.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to track credits through our advertisers. Please do not disable cookies in your browser as we have to pay for the cost of maintaining the http://www.guerillastocktrading.com blog. We ask that you be honest when visiting an advertiser through http://www.guerillastocktrading.com by having cookies enabled in your browser, after all, we have been honest with you and we want to continue to pay for the operating costs of this blog. If you support stock trading education and have gained valuable information through our blog then please support us.
+**Updates**
 
-Our advertisers may have different privacy practices and we encourage you to read their privacy policies.
+Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
- **Web Analytics**
+**Cookies**
 
-Like every other site on the web we use google analytics to collect traffic data, this contains no user identifiable information.
+We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. 
 
- **SSL Protection**
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
-[We use SSL](https://www.guerillastocktrading.com/positive-ssl/ "SSL Security") to ensure our visitors are kept secure. Your web browsing activity is always encrypted and remains private.
+**Links**
 
- **Security Firewall and Antivirus Monitoring**
-
-We take your, and our, security seriously. We have hired security company [Sucuri Security to monitor and protect GuerillaStockTrading.com](https://www.guerillastocktrading.com/security-firewall-anti-virus-monitoring/ "guerillastocktrading sucuri security firewall antivirus monitoring")
-
- **Subscribing to and Unsubscribing from Email**
-
-GuerillaStockTrading.com operates a policy of double opt-in when you subscribe. This protects you and GuerillaStockTrading.com from spammers. Visitors may choose to subscribe to (opt-in) or unsubscribe (opt-out) from any or all of these email communications at will. We have a one click unsubscribe policy and if used you will never be contacted again. Your records will then be deleted.
-
- **Personal Information**
-
-http://www.guerillastocktrading.com does not gather or store any personal information.
-
- **Information sharing**
-
-No personal information is gathered. No personal information is shared with other companies or individuals.
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
