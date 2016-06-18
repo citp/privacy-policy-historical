@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210205220id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618043410id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
 
-# Creative Staffing Agency | Privacy
+# Privacy | Aquent
 
 **Please read this Privacy Policy carefully. When you submit your Personal Data to Aquent via and by using the Websites and Aquent services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
