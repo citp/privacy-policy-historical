@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ssis-suzhou.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217233926id_/http%3A//www.ssis-suzhou.net/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssis-suzhou.net privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618112324id_/http%3A//www.ssis-suzhou.net/privacy-policy/index.aspx) for the most accurate reproduction.*
 
-# SSIS: Privacy Policy
+# Suzhou Singapore International School: Privacy Policy
 
 Suzhou Singapore International School respects the privacy of all who visit our website [www.ssis-suzhou.net](http://www.ssis-suzhou.net/), subscribe to our newsletters, submit forms, and/or contribute to our school with money, time or information.  Through the website we only collect personal information such as name, e-mail address, phone number, etc. when voluntarily submitted by a visitor. Your personal information will never be sold, leased, rented, or otherwise disclosed in any manner to any Entity without your prior consent unless otherwise required by law or as may be necessary as part of a regulatory compliance, or to protect SSIS and its users’ legal rights and public security and interests in emergency.
 
