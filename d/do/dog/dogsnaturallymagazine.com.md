@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogsnaturallymagazine.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108062617id_/http%3A//www.dogsnaturallymagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsnaturallymagazine.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618193530id_/https%3A//www.dogsnaturallymagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Care, Feeding and Nutrition for Dogs
 
@@ -6,13 +6,13 @@ Dogs Naturally Magazine Inc is serious about protecting your online privacy. Th
 
 You or Your means you as a participant in or as a user of the DogsNaturallyMagazine.com website. We or Our or Us means DogsNaturallyMagazine.com. Our site means DogsNaturallyMagazine.com.
 
-All information transmitted, printed or otherwise submitted to DogsNaturallyMagazine.comm via this website shall be deemed to be the property of DogsNaturallyMagazine.com and DogsNaturallyMagazine.com shall be free to use such information for any lawful purpose as detailed herein.
+All information transmitted, printed or otherwise submitted to DogsNaturallyMagazine.com via this website shall be deemed to be the property of DogsNaturallyMagazine.com and DogsNaturallyMagazine.com shall be free to use such information for any lawful purpose as detailed herein.
 
 This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
 
 We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
-**Section 1: Collected Information**  
+ **Section 1: Collected Information**  
 We automatically collect and/or track the following:
 
   1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
@@ -22,12 +22,12 @@ We automatically collect and/or track the following:
 
 
 
-**Section 2: Use of Data Collected**  
+ **Section 2: Use of Data Collected**  
 We use “session” cookies to collect information about the use of the Site and to allow you to view content. These cookies are temporary and are deleted when you close your browser. We use “persistent” cookies to give you a more responsive browsing experience and help you to navigate DogsNaturallyMagazine.com more efficiently. We collect and use this anonymous aggregated user date for the purpose of usage analysis, quality control and administering and improving DogsNaturallyMagazine.com either ourselves or through third party contractors. You can prevent your browser from accepting new cookies or may disable cookies altogether by accessing your browser preferences menu although this is likely affect the functionality and personalisation features offered when you use DogsNaturallyMagazine.com.
 
 We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes (both via email and through using your email address for targeting on sites such as Facebook.com), and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails, display and native advertising or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-**Section 3: Disclosure of Data to Third Parties**
+ **Section 3: Disclosure of Data to Third Parties**
 
 If you choose to provide personal information, it will be used for the following purposes:
 
@@ -37,22 +37,22 @@ If you choose to provide personal information, it will be used for the following
 
 
 
-**Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists or modify your personal information. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to [customer support](https://web.archive.org/web/20151108062617id_/http://www.dogsnaturallymagazine.com/privacy-policy/mailto_info@dogsnaturallymagazine.com).
+ **Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists or modify your personal information. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to [customer support.](mailto:info@dogsnaturallymagazine.com)
 
-**Section 5: We Do Not Intend to Collect Data from Children**  
+ **Section 5: We Do Not Intend to Collect Data from Children**  
 The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DogsNaturallyMagazine.com. No part of DogsNaturallyMagazine.coms web site is structured to attract anyone under the age of 18.
 
-**Section 6: Our Right to Contact You**  
+ **Section 6: Our Right to Contact You**  
 We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
-**Section 7: Our Right to Change**  
+ **Section 7: Our Right to Change**  
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-**Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to [customer support](https://web.archive.org/web/20151108062617id_/http://www.dogsnaturallymagazine.com/privacy-policy/mailto_info@dogsnaturallymagazine.com)
+ **Section 8: Our Contact Information**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to [customer support](mailto:info@dogsnaturallymagazine.com)
 
-**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
+ **Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
 DogsNaturallyMagazine.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from DogsNaturallyMagazine.com in the following circumstances:
 
@@ -76,11 +76,11 @@ To ensure compliance with the Can-Spam Act, DogsNaturallyMagazine.com has imple
 
 
 
-**Section 10: Information for ISPs**
+ **Section 10: Information for ISPs**
 
 This site uses a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using this site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.
 
-**Section 11: Information for ISPs**  
+ **Section 11: Information for ISPs**  
 Web site: DogsNaturallyMagazine.com  
 Email Address: info@DogsNaturallyMagazine.com
 
@@ -94,4 +94,4 @@ From time to time, DogsNaturallyMagazine.com will enter into an arrangement wit
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of DogsNaturallyMagazine.com. If you have additional questions or wish to discuss this matter further, please contact us at: [customer support](https://web.archive.org/web/20151108062617id_/http://www.dogsnaturallymagazine.com/privacy-policy/mailto_info@dogsnaturallymagazine.com)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of DogsNaturallyMagazine.com. If you have additional questions or wish to discuss this matter further, please contact us at: [customer support](mailto:info@dogsnaturallymagazine.com)
