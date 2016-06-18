@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anyflip.com privacy policy that was archived on 2015-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151107032250id_/http%3A//anyflip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anyflip.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618072219id_/http%3A//anyflip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="EN"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,7 +13,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> <link type="text/css" rel="stylesheet" href="/css/build/build.min.css">
   <link rel="stylesheet" href="/privacy/css/privacy.css">
 
-  <script src="/js/jquery-1.10.2.min.js"></script>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.10.2.min.js"></script>
 
 </head>
 <body style="">
@@ -38,12 +38,11 @@
         settingsBookLogo: "",
         settingsWebsite: "",
         protocol: document.domain.match(/anyflip/) ? "https://" : "http://",
-        templateId : 3,
-        themeId: 0,
+        customDomain: "",
         header: "http://stat.anyflip.com",
         hashKey: "anyflip",
         session_output: "",
-        config_outputCount: "9999",
+        config_outputCount: "",
         quickUploadLink: "/quick-upload"
     };
 </script>
@@ -57,54 +56,50 @@
             </div>
             <div class="af-top-navbar-container">
                 <ul class="nav navbar-nav af-top-navbar-nav">
-                    <li class="top-upload"> <!--hidden-xs -->
-                        <a class="button-pure button-pure-orange" id="af-top-logout-upload" href="/quick-upload">
-                            Quick Upload
-                            <i></i>
+                    <li class="top-upload hidden-xs"> <!--hidden-xs -->
+                        <a class="button-pure button-pure-orange" id="af-top-logout-upload" href="/quick-upload/">
+                            Quick Upload                            <i></i>
                         </a>
                     </li>
-                    <li class="top-explore-books hidden-xs">
-                        <a href="/explore">
-                            Explore
-                            <i class="fa fa-caret-down"></i>
+                    <li class="top-explore-books hidden-xs hidden-sm">
+                        <a href="javascript:void(0);">
+                            Explore                            <i class="fa fa-caret-down"></i>
                         </a>
                         <ul class="af-top-login-hide-menu">
                             <li>
+                                <a class="not-hover" href="/explore/">
+                                    <i class="fa fa-rocket"></i>&nbsp;&nbsp;Explore Hot                                </a>
+                            </li>
+                            <li>
                                 <a class="not-hover" href="/explore?#latest">
-                                    <i class="fa fa-cloud"></i>&nbsp;&nbsp;Latest Flips 
-                                </a>
+                                    <i class="fa fa-cloud"></i>&nbsp;&nbsp;Latest Flips                                </a>
                             </li>
                             
                             <li>
-                                <a class="not-hover" href="/community">
-                                    <i class="fa fa-users"></i>&nbsp;&nbsp;Community
-                                </a>
+                                <a class="not-hover" href="/community/">
+                                    <i class="fa fa-users"></i>&nbsp;&nbsp;Community                                </a>
                             </li>
                         </ul>
                     </li>
                     <li class="top-feature  hidden-xs hidden-sm hidden-md">
-                        <a href="/features">
-                            Features
-                            <i></i>
+                        <a href="/features/">
+                            Features                            <i></i>
                         </a>
                     </li>
                     <li class="top-example hidden-xs hidden-sm hidden-md">
-                        <a href="/example">
-                            Example
-                            <i></i>
+                        <a href="/example/">
+                            Example                            <i></i>
                         </a>
                     </li>
                     <li class="top-support hidden-xs hidden-sm hidden-md">
                         <a href="javascript:void(0);">
-                            Support
-                            <i class="fa fa-caret-down"></i>
+                            Support                            <i class="fa fa-caret-down"></i>
                             <i class="fa fa-caret-up"></i>
                         </a>
                     </li>
-                    <li class="top-premium hidden-xs">
-                        <a href="/pricing">
-                            Go Premium
-                            <i></i>
+                    <li class="top-premium hidden-xs hidden-sm">
+                        <a href="/pricing/">
+                            Go Premium                            <i></i>
                         </a>
                     </li>
                 </ul>
@@ -116,15 +111,15 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="af-top-login-bar">
-                <div class="af-top-login-btns">
+                <div class="af-top-login-btns hidden-xs">
                     <div class="af-top-login-btn">login</div>
                     <div class="btn-line"></div>
-                    <div class="af-top-create-btn">Create Account</div>
+                    <div class="af-top-create-btn btn btn-primary">Create Account</div>
                 </div>
             </div>
             
             <div class="nav navbar-nav navbar-right af-top-navbar-right">
-                <div id="af-top-logout-search" class="af-top-search-container hidden-xs hidden-sm">
+                <div id="af-top-logout-search" class="af-top-search-container hidden-xs">
                     <input class="af-top-search-input form-control" type="text" value="">
                     <i class="seach-icon" title="Search Publications (Case Sensitivity)"></i>
                 </div>
@@ -133,17 +128,36 @@
 
         <div id="navbar" class="af-top-navbar-collapse-list hidden-lg collapse" aria-expanded="false" style="height: 1px;">
             <ul>
-                <!-- <li id="af-top-hide-logout-upload" class="hidden-lg hidden-md hidden-sm">
-                    <a class="container">Upload</a>
-                </li> -->
-                <li class="hidden-lg hidden-md hidden-sm">
-                    <a class="container" href="/explore">Explore</a>
+                <li id="af-top-hide-logout-upload" class="hidden-lg hidden-md hidden-sm">
+                    <a href="/quick-upload/" class="container">Upload</a>
+                </li>
+                <li class="af-hide-top-bar-item dropdown hidden-lg hidden-md">
+                    <div class="dropdown-toggle" data-toggle="dropdown">
+                        <a href="javascript:void(0)" class="container">Explore <b class="fa fa-caret-down"></b></a>
+                    </div>
+                    <ul class="dropdown-menu">  
+                        <li>
+                            <a href="/explore/">
+                                <div class="container">Explore Hot</div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/explore?#latest">
+                                <div class="container">Latest Flips</div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/community/">
+                                <div class="container">Community</div>
+                            </a>
+                        </li> 
+                    </ul>
                 </li>
                 <li class="hidden-lg">
-                    <a class="container" href="/features">Features</a>
+                    <a class="container" href="/features/">Features</a>
                 </li>
                 <li class="hidden-lg">
-                    <a class="container" href="/example">Example</a>
+                    <a class="container" href="/example/">Example</a>
                 </li>
                 <li class="af-hide-top-bar-item dropdown hidden-lg">
                     <div class="dropdown-toggle" data-toggle="dropdown">
@@ -151,12 +165,12 @@
                     </div>
                     <ul class="dropdown-menu">                   
                         <li>
-                            <a href="/contact">
+                            <a href="/contact/">
                                 <div class="container">Contact Us</div>
                             </a>
                         </li>
                         <li>
-                            <a href="/faq">
+                            <a href="/faq/">
                                 <div class="container">FAQ</div>
                             </a>
                         </li>
@@ -165,23 +179,23 @@
                                 <div class="container">Help Document</div>
                             </a>
                         </li> 
-                        <li>
-                            <a href="/contact">
+                        <!-- <li>
+                            <a href="">
                                 <div class="container">Question | Answer</div>
                             </a>
-                        </li> 
+                        </li>  -->
                     </ul>
                 </li>
-                <li class="hidden-lg hidden-md hidden-sm">
-                    <a class="container" href="/pricing">Go Premium</a>
+                <li class="hidden-lg hidden-md">
+                    <a class="container" href="/pricing/">Go Premium</a>
                 </li>
-                <!-- <li id="af-top-hide-login-btn" class="hidden-lg hidden-md hidden-sm">
+                <li id="af-top-hide-login-btn" class="hidden-lg hidden-md hidden-sm">
                     <div class="container">Login</div>
-                </li> -->
-                <!-- <li id="af-top-hide-create-btn" class="hidden-lg hidden-md hidden-sm">
+                </li>
+                <li id="af-top-hide-create-btn" class="hidden-lg hidden-md hidden-sm">
                     <div class="container">Create Account</div>
-                </li> -->
-                <li class="hidden-lg hidden-md ss-top-hide-search">
+                </li>
+                <li class="hidden-lg hidden-md hidden-sm ss-top-hide-search">
                     <div class="container">
                         <div id="af-top-hide-logout-search" class="form-group">
                             <input type="text" placeholder="Search..." class="form-control" value="">
@@ -197,41 +211,35 @@
                 <div class="container">
                     <ul class="nav navbar-nav af-top-support-drop">                   
                         <li>
-                            <a href="/contact">Contact Us</a>
+                            <a href="/contact/">Contact Us</a>
                         </li>
                         <li>
-                            <a href="/faq">FAQ</a>
+                            <a href="/faq/">FAQ</a>
                         </li>
                         <li>
                             <a href="/manual.html">Help Document</a>
                         </li> 
-                        <li>
-                            <a href="/contact">Question | Answer</a>
-                        </li> 
+                        <!-- <li>
+                            <a href="">Question | Answer</a>
+                        </li> --> 
                     </ul>
                 </div>
             </div>
         </div>
     </div>
 
+
 <script src="/js/lib/spectrum.min.js"></script>
 <script src="/js/utils/jquery.hints.js"></script>
 <script src="/js/utils/md5.js"></script>
 <script>
-    // (function (i, s, o, g, r, a, m) {
-    //     i['GoogleAnalyticsObject'] = r;
-    //     i[r] = i[r] || function () {
-    //         (i[r].q = i[r].q || []).push(arguments)
-    //     }, i[r].l = 1 * new Date();
-    //     a = s.createElement(o),
-    //         m = s.getElementsByTagName(o)[0];
-    //     a.async = 1;
-    //     a.src = g;
-    //     m.parentNode.insertBefore(a, m)
-    // })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    // ga('create', 'UA-43815984-1', 'anyflip.com');
-    // ga('send', 'pageview');
+  ga('create', 'UA-71804207-1', 'auto');
+  ga('send', 'pageview');
 </script>
 
 <script type="text/javascript">
@@ -261,14 +269,6 @@
                 new SignPanel({signNum: "1"});
             });
 
-            // $("#af-top-logout-upload").add($("#af-top-hide-logout-upload")).on("click", function () {
-                // if (fh5.isLoggedIn) {
-                //     new FastUploadPanel();
-                // } else {
-                //     // new SignPanel({signNum: "0", fastUploadFlag: true}); // 快速上传
-                //     win
-                // }
-            // });
 
             $('.dropdown-toggle').dropdown();
 
@@ -283,7 +283,7 @@
                 $(".af-top-navbar").removeClass("support-opened");
             });
                          
-            new ToTopPanel();
+            // new ToTopPanel();
 
         });
     })(window.jQuery);
@@ -341,10 +341,10 @@
                             <a target="_blank" class="af-bottom-facebook-share" href="https://www.facebook.com/anyflip" rel="nofollow">
                                 
                             </a>
-                            <a target="_blank" class="af-bottom-twitter-share" href="https://twitter.com/anyflip" rel="nofollow">
+                            <a target="_blank" class="af-bottom-twitter-share" href="https://twitter.com/any_flip" rel="nofollow">
                                 
                             </a>
-                            <a target="_blank" class="af-bottom-google-share" href="https://plus.google.com/106786037070092798458" rel="nofollow">
+                            <a target="_blank" class="af-bottom-google-share" href="https://plus.google.com/u/0/109581995170789879092" rel="nofollow">
                                 
                             </a>
                         </div>
@@ -353,9 +353,9 @@
                 <div class="af-bottom-col support-col">
                     <p>Support</p>
                     <ul>
-                        <li>
-                            <a href="/qa/">Question &amp; Answer</a>
-                        </li>
+                       <!--  <li>
+                            <a href="">Question &amp; Answer</a>
+                        </li> -->
                         <li>
                             <a href="/faq/">FAQ</a>
                         </li>
@@ -365,6 +365,10 @@
                         <li>
                             <a href="/gift-card-exchange.php">Gift Card Exchange</a>
                         </li>
+                        <li>
+                            <a href="http://focusky.com/" target="_blank">Presentation Software</a>
+                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -391,42 +395,42 @@
             </div>
         </div>
         <div style="display:none;">
-            <a href="/about">Home</a>
-            <a href="/about">About Us</a>
-            <a href="/about">Why Us</a>
-            <a href="/about">Blog</a>
-            <a href="/about">Example</a>
+            <a href="/">Home</a>
+            <a href="/about/">About Us</a>
+            <a href="/why/">Why Us</a>
+            <a href="/blog/">Blog</a>
+            <a href="/example/">Example</a>
         </div>
     </div>
-    <div class="af-footer">
+        <div class="af-footer">
         <div class="af-footer-copyright af-overflow">
 
              <div class="af-footer-right">
                 <ul class="af-overflow">
                     <li>
-                        <a href="/about">About Us</a>
+                        <a href="/about/">About Us</a>
                     </li>
                     <!-- <li class="af-spacing"></li> 
                     <li>
-                        <a href="/why">Why Us</a>
+                        <a href="">Why Us</a>
                     </li> -->
                     <!-- <li class="af-spacing"></li> 
                     <li>
-                        <a href="/blog">Blog</a>
+                        <a href="">Blog</a>
                     </li> -->
                     <li class="af-spacing"></li> 
                     <li>
-                        <a href="/privacy">Privacy</a>
+                        <a href="/privacy/">Privacy</a>
                     </li> 
                     <li class="af-spacing"></li> 
                     <li>
-                        <a href="/termsofservice" style="padding-right: 8px;">Terms of Service</a>
+                        <a href="/termsofservice/" style="padding-right: 8px;">Terms of Service</a>
                     </li>
                 </ul>
             </div>
 
             <div class="af-footer-left af-overflow">
-                <div class="af-copyright-text">© 2015 AnyFlip Software Co., Ltd. All rights reserved</div>
+                <div class="af-copyright-text">© 2016 AnyFlip Software Co., Ltd. All rights reserved</div>
             </div>
 
         </div>
@@ -452,4 +456,4 @@
 </script>
 
 
-<div title="Back To Top" class="ss-to-top-panel"><span class="icon icon-arrow-up"></span></div></body></html>
+</body></html>
