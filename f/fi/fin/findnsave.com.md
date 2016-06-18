@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212703id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618132756id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
 
 # Find&Save | Privacy Policy
 
-## Last Updated: October 27, 2014
+## Last Updated: March 1, 2016
 
 Protecting your privacy is really important to FindnSave. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.findnsave.com/terms](https://web.archive.org/terms/)). This Privacy Policy applies only to those services and Apps included within “Services” and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. 
 
@@ -20,9 +20,11 @@ In some cases (such as in connection with the Incentive Campaigns) we collect an
 
 ### Account Information.
 
-When you create an Account or opt in to receive email alerts via the Services, we'll collect certain information that can be used to identify you, such as your name email address, and physical address ( **"Personally Identifiable Information"**  or  **"PII"** ). 
+When you create an Account, we'll collect certain information that can be used to identify you, such as your name email address, and physical address ("Personally Identifiable Information" or "PII").. 
 
 We may also collect certain information that is not PII because it cannot be used by itself to identify you, such as your age, gender and items you "like", "save" or "follow" via the Services. If you choose to create an Account through one of your SNS Accounts, you may have to provide us with your username (or userID) so that your identity can be authenticated by the SNS Account. When the authentication is complete, we'll be able to link your Account with the SNS Account and access certain PII, such as your name and email address, and other PII that your privacy settings on the SNS Account permit us to access. We don't receive or store passwords for any of your SNS Accounts. 
+
+By creating an Account you agree that we may use any email address associated with your Account, including without limitation email addresses associated with one of your related SNS Accounts, to send you emails related to the Services. These emails may include offers from FindnSave partners and affiliates. If you want to change your email preferences you must first log into your Account at findnsave.com and you may change your email preferences by visiting findnsave.com/settings.
 
 ### Information Collected Using Cookies.
 
@@ -38,11 +40,17 @@ We collect certain information that your mobile device sends when you use our Se
 
 ### Promotions.
 
-From time to time we may provide you the opportunity to participate in sweepstakes, contests and similar promotions (collectively,  **"Promotions"** ) offered via the Services. If you decide to participate, we will request certain PII from you. Participation in these Promotions is completely voluntary and you have a choice whether or not to disclose this information. We use this information to administer your participation in each Promotion. 
+From time to time we may provide you the opportunity to participate in sweepstakes, contests and similar promotions (collectively, "Promotions") offered via the Services. If you decide to participate, we will request certain PII from you. Participation in these Promotions is completely voluntary and you have a choice whether or not to disclose this information. We use this information to administer your participation in each Promotion. 
 
 ## What Information Do We Share With Third Parties?
 
-We will not share any PII that we have collected from you except as described below: 
+We may share information that we have collected from you, including PII, as described below: 
+
+### Advertising Services
+
+We allow third-party companies to collect certain information when you use our Services. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](https://web.archive.org/terms/) or Networking Advertising Initiative at [www.networkadvertising.org/choices](https://web.archive.org/terms/).
+
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to [support@wanderful.com](mailto:support@wanderful.com) and place “California Third Party Disclosure” in the subject line. Please allow up to thirty days for a response.
 
 ### FindnSave Users.
 
@@ -54,7 +62,7 @@ We may engage third party service providers to work with us to administer and pr
 
 ### Information Shared with Third Parties.
 
-We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes. 
+We may share information with third parties for industry analysis, demographic profiling and other similar purposes. 
 
 ### Information Disclosed in Connection with Business Transactions.
 
