@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylink.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228045507id_/http%3A//www.familylink.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylink.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618091731id_/http%3A//www.familylink.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FamilyLink - Genealogy Privacy Policy
 
