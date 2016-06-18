@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appuals.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123164835id_/http%3A//appuals.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appuals.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618134956id_/http%3A//appuals.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Appuals.com
 
