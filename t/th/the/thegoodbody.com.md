@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegoodbody.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219041626id_/http%3A//www.thegoodbody.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegoodbody.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618061034id_/http%3A//www.thegoodbody.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » The Good Body
 
@@ -85,7 +85,8 @@ TheGoodBody.com is a participant in the Amazon Services LLC Associates Program, 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
 Google Adsense  
-Amazon Associates
+Amazon Associates  
+Skimlinks
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thegoodbody.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
