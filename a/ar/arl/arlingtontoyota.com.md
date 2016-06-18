@@ -1,90 +1,67 @@
-> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914212827id_/http%3A//arlingtontoyota.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618131505id_/http%3A//www.arlingtontoyota.com/privacy-policy) for the most accurate reproduction.*
 
-# BayState Chrysler Jeep Dodge Ram Cares About Your Privacy | Privacy Policy
+# Privacy Policy | Arlington Toyota
 
-Last Updated: November 1, 2014
+Use of this web site signifies your acknowledgement and consent to this privacy policy. Please read this privacy policy carefully before using this web site.
 
-## Disclaimer:
+Our dealership takes your privacy seriously and is committed to safeguarding your privacy online. Because we gather certain types of personal information from visitors to this web site (e.g. name, e-mail address, etc.), we have developed this privacy policy (the “Privacy Policy”) to help you understand the terms and conditions surrounding the collection and use of your personal information. This Privacy Policy discloses the types of personal information we gather, how it is used, and how you can gain access to and edit any data that we’ve collected about you at any time.
 
-While every effort has been made to ensure display of accurate data, the vehicle listings within this web site may not reflect all accurate vehicle items. All inventory listed is subject to prior sale. The vehicle photo displayed may be an example only, especially if the photo in question is not clearly photographed against the backdrop of the dealership. Stock photography is used for vehicles that are pending delivery or in service. Pricing throughout the web site does not include any options that may have been installed at the dealership. There may be other dealer preparation or service fees not shown within pricing documents obtained from the web site, which represents costs and profit to dealer for items such as cleaning, inspecting, adjusting vehicles and preparing documents related to the sale. This notice applies to all information collected or submitted on arlingtontoyota.com and its hosted pages. Please visit or otherwise contact the dealer for details.
+## Guiding Principles:
 
-## Our Commitment to Privacy:
+**Our Privacy Policy has been developed using the following guiding principles:**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Our dealership collects personal information online primarily to provide our visitors with a more relevant experience on this web site. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data. Our dealership will take reasonable physical, electronic and managerial measures to safeguard and secure any personal information you provide to us (e.g. data will be stored in protected databases on secured servers with restricted access). However, given that electronically submitted data is not 100% secure, we make no representations or warranties as to the security of any personal information you submit online, which you do at your own risk.
 
-## The Information We Collect:
+## Disclosure of Personal Information
 
-On some pages, you can make requests for contact and register to receive materials. The types of personal information collected at these pages are: Automotive Dealership Name, Name, Address, Email Address, Phone Number, Preferred Contact Method. On Employment Opportunity forms, the following information may be collected: Position Desired, Objectives, Desired Compensation, Dealership assumes all responsibility for complying with all applicable Federal, State, and local laws and ordinances pertaining to Equal Opportunity Employment and all other personnel practices. 
+We do not sell, rent, or trade consumer personal information to third parties other than as described in this Privacy Policy. Our dealership may disclose certain personal information as follows:
 
-## Information the Dealership may Collect:
+– to business partners, such as third party service providers, agents and affiliated entities in connection with the services that they perform for our dealership, such as providing certain services necessary for the administration of this web site and the provision of certain interactive functionalities. Please note that some of our agents and contractors are located outside of the country and, as such, are subject to foreign laws, including laws that may require disclosure of personal information to government agencies in those countries;
 
-The Dealership may collect nonpublic information about you from the following sources:
+– to law enforcement agencies for the purposes of investigating fraud or other offences; or
 
-  * Information we received from you on credit applications or other forms
-  * Information about your transactions with us
-  * Information provided by you on our web site
-  * Information from credit reporting agencies, such as information relating to your creditworthiness, your credit score and credit usage.
+– to legal, financial, and other professional advisors or in connection with the sale or reorganization of all or part of its business or operations.
 
+Except as provided above, our dealership will not use or disclose personal information for purposes other than those for which it was collected, except with your consent, as required or permitted by law, and to provide the features and service(s) you’ve requested. At the time you register for any such feature or service, you will be notified of, and asked to consent to, the sharing of your personal information necessary for the provision of these requested features or services.
 
+## Non-Personally Identifiable Data:
 
-## The Way We Use Information:
-
-We use the information you provide about yourself when answering your request for contact. We do not share this information with outside parties. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We use non-identifying and aggregate information to track web traffic and better design our website. We use Google Analytics and server side tracking software to track visits, bounce rate, time on site, and other non-identifying information. We do not disclose anything that could be used to identify those individuals.
-
-## Information the Dealership may disclose and to whom:
-
-The Dealership may disclose the following kinds of nonpublic personal information about you:
-
-  * Information we received from you on a credit application or other forms, such as your name, address, social security number, e-mail address, and telephone number;
-  * Information about your transaction with us, such as your Vehicle Identification Number, whether you leased or financed your vehicle, and what type of vehicle you purchased;
-  * Information we obtain during your visit to the web site (such as provided through online forms and online information collecting devices known as "cookies").
-  * Non affiliated third parties are companies not under common control or ownership of the dealership.
-
-
-
-The Dealership may disclose nonpublic personal information about you to the following types of nonaffiliated third parties:
-
-  * Companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements;
-  * Other financial institutions;
-  * Providers of extended warranties, credit insurance, theft deterrent systems, GAP protection, car care maintenance, and other vehicle after-market products.
-  * Third parties to comply with reporting and other legal requirements or to otherwise conduct business.
-
-
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-## Our Commitment To Data Security:
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-## Our Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. Furthermore there is nothing on our website that could be construed as obscene, inappropriate, or otherwise damaging to web users of any age.
+Anytime you visit this web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, your IP address and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, we gather certain navigational information about where you go on this web site. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. Such information is gathered by us in the aggregate and will not be associated with a specific individual without that individual’s consent.
 
 ## Use of Cookies:
 
-The Dealership may use a browser feature known as a "cookie" when clients access secure applications and dealer portals. Cookies are small files placed on your hard drive that assist us in providing you with a customized browsing experience. The Dealership uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to our Web sites. The "Help" section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As our Web sites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of our Web sites may not function correctly and you may be required to renter any user IDs and passwords more frequently.
+Our dealership may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive that assist us in providing you with a customized browsing experience. Our dealership uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to this web site. Cookies can also be utilized to help us provide you with information targeted to your interests, based upon your prior browsing on this web site. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As this web site has been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of this web site may not function correctly and you may be required to renter any user IDs and passwords more frequently.
 
-## Public Forums and Blogs:
+## Personal Information Voluntarily Provided:
 
-The Dealership may make blogs, forums, message boards, and/or news groups available to its users at various times. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas.
+Any personal information you provide to us (i.e. name, e-mail address, etc.) when you enroll in one of our E-Mail Reminder Services, request information, or use any of the other interactive portions of this web site may be used to provide you with information you’ve requested about our company, our products and our services, or to provide you with special notices. You may opt out of receiving future communications at any time (see opt-out Procedures below). This data may also be used to tailor your experience on this web site by providing content that is relevant to your interests and geographic region.
 
-## Credit Applications:
+## Accessing this Web Site:
 
-Arlington Toyota takes the secure handling of credit applications very seriously. The information provided is heavily secured by appropriate physical, electronic, and managerial procedures. Arlington Toyota is in compliance with new federal laws mandating the secure handling of credit-related data that went into effect July 2010. Arlington Toyota guarantees the security of this data upon delivery to our client dealerships (Dealership). Upon delivery, responsibility for the security of data rests solely on the Dealership. Arlington Toyota Credit Applications are encrypted via SSL. The Privacy Policy is available through an obvious link on the Credit Application Submission Page.
+This web site is hosted on servers located in the United States. As such, your connection will be through and to servers located in the U.S. Any personal information you provide during your visit will be processed and maintained on our Web server and other internal systems located within the U.S.
 
-## Third Party Privacy Policies:
+## External Links:
 
-All links from Dealership sites to third-party vendors have had every reasonable effort made to ensure their legitimacy, relevancy, and functionality. These sites are subject to their respective Privacy Policy (Policies) and are not the responsibility of Arlington Toyota.
+This web site contains links to other sites. Our dealership is not responsible for the privacy practices or the content of such web sites. To help ensure the protection of your privacy, we recommend that you review the privacy policy of any site you visit via a link from this web site.
 
-## Your Right to Opt Out:
+## Passwords:
 
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may elect to opt-out of these disclosures (other than disclosures permitted by law). If you wish to exercise your opt-out option, you may do so by contacting Arlington Toyota via the [contact form.](https://web.archive.org/general-contact)
+The personal data record created through your registration with this web site can only be accessed with the unique password associated with that record. To protect the integrity of the personal information contained in this record, you should not disclose or otherwise reveal your password to third parties.
 
-## Information Security:
+## Public Forums:
 
-We restrict access to nonpublic personal information about you to those individuals who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+This web site may make chat rooms, forums, message boards, and/or news groups available to its users at various times. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas.
 
-## Changes to the Policy:
+## Opt-out Procedures:
 
-We reserve the right to modify or supplement this privacy policy. If material changes are made, we will provide a revised policy to all current customers. 
+Other than as set forth in this Privacy Policy, you will be notified when any personally-identifiable information about you may be shared with third parties, and you will be given the opportunity to decline to share that information.
+
+You may always opt-out of receiving future communications from our dealership. This web site allows users to opt-out of receiving such communications at the point where personal information is requested, or through other means as identified.
+
+## Changes to this Privacy Policy
+
+We reserve the right to change and update this Privacy Policy. These changes will be made when appropriate, in a timely manner. We encourage you to examine our Policy from time to time to ensure you are aware of any changes we may have made.
+
+## Contacting the Web Sites:
+
+If you have questions concerning this Privacy Policy or the practices of this web site, please contact us.
