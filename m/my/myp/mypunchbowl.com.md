@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mypunchbowl.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044258id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypunchbowl.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618025529id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Punchbowl.com
 
-  * [Privacy Policy](http://www.punchbowl.com/privacy-policy)
+  * [Privacy Policy](https://www.punchbowl.com/privacy-policy)
   * |
-  * [Terms and Conditions](http://www.punchbowl.com/terms-conditions)
+  * [Terms and Conditions](https://www.punchbowl.com/terms-conditions)
 
 
 
-**This policy is effective as of November 12, 2015.**
+**This policy is effective as of June 9, 2016.**
 
 _Punchbowl, Inc._ is committed to protecting your privacy and providing you the most powerful and safe online experience. This publication intends to help you understand how personal information you provide to _Punchbowl, Inc._ is collected and used, so you can make informed decisions when using the website located at http://www.punchbowl.com ("Punchbowl").
 
@@ -42,7 +42,9 @@ _Punchbowl, Inc._ keeps track of the Web sites and pages our customers visit wit
 
 _Punchbowl, Inc._ will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on _Punchbowl, Inc._ or the site; (b) protect and defend the rights or property of _Punchbowl, Inc._ ; and, (c) act under exigent circumstances to protect the personal safety of users of _Punchbowl, Inc._ , or the public.
 
-Notwithstanding any other provision, we may allow third parties to monitor Site activity using cookies, web beacons and similar technologies for the purpose of reporting website traffic, statistics, targeted advertisements, “click-throughs” and/or other activities. We may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system) through cookies that contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. This information is used to help select and display targeted advertisements that are believed to be of interest to you (sometimes called "online behavioral advertising" or "interest-based advertising" or "OBA"). If you would like to "opt-out" of being served OBA on the Website by our third-party advertising companies, please go to <http://www.aboutads.info/choices>.
+Notwithstanding any other provision, we may allow third parties to monitor Site activity using cookies, web beacons and similar technologies for the purpose of reporting website traffic, statistics, targeted advertisements, “click-throughs” and/or other activities. We may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system) through cookies that contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. This information is used to help select and display targeted advertisements that are believed to be of interest to you (sometimes called "online behavioral advertising" or "interest-based advertising" or "OBA"). If you would like to "opt-out" of being served OBA on the Website by our third-party advertising companies, please go to <http://www.aboutads.info/choices>. You can also opt out of certain advertising through [Criteo’s privacy policy page](http://www.criteo.com/us/privacy-policy).
+
+Notwithstanding anything else in this policy, we or a data partner we have engaged may collect and store a unique identifier matched to your mobile device, in order to deliver customized ads or content while you use applications or surf the internet, or to seek to identify you in a unique manner across other devices or browsers. In order to customize these ads or content, we or a data partner may connect de-identified demographic or other data about you (received from third parties) either to data you voluntarily have submitted to us, e.g., your email address, or to data passively collected from you, such as your device identifier or IP address. To learn about how to opt-out, please go to <http://www.aboutads.info/appchoices>.
 
 ## Use of Cookies
 
