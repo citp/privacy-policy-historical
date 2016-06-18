@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206021851id_/http%3A//www.woodhouseclothing.com/en-gb/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618134303id_/http%3A//www.woodhouseclothing.com/en-gb/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **FREE Next Day UK Delivery** \- on all orders over £150
 
- **FREE UK Returns** \- from 2,500 drop off locations
+ **Order before 4PM** \- for next day delivery
 
- **7 Days a Week** \- now delivering on Sundays
+ **FREE UK Returns** \- no hassle
 
 ## PRIVACY STATEMENT
 
