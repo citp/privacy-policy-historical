@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxcell.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218234131id_/http%3A//www.uxcell.com/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxcell.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618083431id_/http%3A//www.uxcell.com/privacy_policies.php) for the most accurate reproduction.*
 
 # Uxcell
 
