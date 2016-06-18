@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineershub.in privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114174037id_/http%3A//engineershub.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineershub.in privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618185003id_/http%3A//engineershub.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms and Conditions - EngineersHub
 
@@ -60,7 +60,7 @@ EngineersHub is not in the business of selling your personal information. We do 
 
 We may share your personally identifiable information with companies that provide services to us in connection with developing, operating and maintaining the Web site and our business, including outside vendors, contractors, and agents who help us manage our business activities. We only authorize such entities to use your personal information in accordance with this Privacy Policy and for no other purpose than to provide us necessary services.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update your profile by making the change on our member information page ('My EngineersHub') and you may delete or deactivate your profile by sending an e-mail to support@engineershub.in or by contacting us through any method described in the EngineersHub Contact Page.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update your profile by making the change on our member information page ('My EngineersHub') by sending an e-mail to support@engineershub.in or by contacting us through any method described in the EngineersHub Contact Page. Note : You can not delete your account.
 
 #### SECURITY
 
