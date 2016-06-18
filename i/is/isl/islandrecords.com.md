@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the islandrecords.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112453id_/http%3A//www.islandrecords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandrecords.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618142256id_/http%3A//www.islandrecords.com/privacy) for the most accurate reproduction.*
 
-# Universal Music Group privacy policy | Island Records
+# Island Records
+
+## Sign up for the Island Records Email Newsletter
 
 #### Effective: December 1, 2004 / Last Updated: March, 2013
 
