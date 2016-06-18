@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220014040id_/http%3A//ldaamerica.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619013332id_/http%3A//ldaamerica.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -38,9 +38,7 @@ The LDA website uses forums for posting essays and responses, questions and comm
 
 ### Cookies
 
-Cookies are pieces of information that your browser stores on your computer’s hard drive which identifies you when you enter a website. The cookie doesn’t actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can’t read data off your hard drive, and our cookie can’t read the cookie files created by other sites. We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. We can build a better site if we know which pages our users are visiting and how often.
-
-You can refuse cookies by turning them off in your browser. You do not need to have cookies enabled to use the LDA website. However, some features of our site will not work the way they should if you refuse cookies.
+We use cookies (small text files placed on your device) and similar technologies to provide our services and help collect data. Cookies allow us, among other things, to store your preferences and settings; provide interest-based advertising; and analyze how our services are performing. We also use web beacons to help deliver cookies and gather usage and performance data about our products and services. Our services may include web beacons and cookies from third-party service providers. You have a variety of tools to control cookies, web beacons and similar technologies, including browser controls to block and delete cookies and controls from some third-party analytics service providers to opt out of data collection through web beacons. Your browser and other choices may impact your experiences with our services.
 
 ### Links to Other Sites
 
