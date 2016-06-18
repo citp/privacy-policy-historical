@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133325id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618220538id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
 
-# chainsawsuit - three panels daily » privacy policy
+# privacy policy – chainsawsuit – three panels daily
 
 chainsawsuit.com is owned and operated by Chainsawsuit Studios LLC. **We value your readership and will not sell any information that is collected from visitors of chainsawsuit.com, at any time, ever.**
 
