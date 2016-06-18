@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the met.ie privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143217id_/http%3A//www.met.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the met.ie privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618222221id_/http%3A//www.met.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Met Éireann - The Irish Meteorological Service Online
 
@@ -32,4 +32,4 @@ In addition to the cookies set by Google the following anonymous cookies are als
 
 None of these cookies store any personal information and are only used to provide users with an improved user experience.
 
-If, after supplying personal information, you require a copy of it or you wish to discuss, correct or delete it, you may write (including the personal details supplied via the website) to Head of Administration & Training, Met Éireann, Glasnevin Hill, Dublin 9. 
+If, after supplying personal information, you require a copy of it or you wish to discuss, correct or delete it, you may write (including the personal details supplied via the website) to Head of Business Services, Met Éireann, Glasnevin Hill, Dublin 9.
