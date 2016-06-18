@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralslot.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102050931id_/http%3A//viralslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralslot.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618123701id_/http%3A//viralslot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : ViralSlot.com
+# Privacy Policy – ViralSlot
 
 Privacy Policy for Viralslot.com
 
@@ -29,4 +29,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Viralslot.com website is a property of Net NTT Corp.
+The Viralslot.com website is a property of Net NTT Corp.
