@@ -1,565 +1,750 @@
-<!--The following is the downloaded HTML source of the bestparanormalsellers.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531074429id_/http%3A//www.bestparanormalsellers.com/content_pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestparanormalsellers.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618070918id_/http%3A//www.bestparanormalsellers.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>
-Best of the Paranormal Marketplace</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="The Extraordinary for the Ordinary Life.  A Marketplace of paranormal collecting, spells, magick, psychic services, spirit keeping, and spiritual services unlike any other you've ever seen!">
-<meta name="keywords" content="spirit keeping, paranormal collecting, magick spells, psychic readings, reiki healing"><link rel="stylesheet" type="text/css" href="themes/global.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="JsHttpRequest/JsHttpRequest.js"></script>
-<script type="text/javascript" src="scripts/jsencode.js"></script>
+<!DOCTYPE html><html lang="en"><head>
+    <title>Privacy Policy / Best of the Paranormal Marketplace</title>
+    <meta charset="utf-8">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<script type="text/javascript" src="jquery/js/jquery-1.4.4.min.js"></script>
-<script type="text/javascript" src="jquery/js/jquery.blockUI.js"></script>
-
-<link rel="stylesheet" type="text/css" href="jquery/css/swfupload.css">
-<script type="text/javascript" src="jquery/swfupload/swfupload.js"></script>
-<script type="text/javascript" src="jquery/swfupload/fileprogress.js"></script>
-<script type="text/javascript" src="jquery/swfupload/handlers.js"></script>
-
-<script type="text/javascript" src="jquery/js/jquery.jclock.js"></script>
-<script type="text/javascript" src="jquery/js/jquery.clock.js"></script>
-<script type="text/javascript" src="jquery/js/jquery.countdown.min.js"></script>
-
-<script type="text/javascript" src="jquery/tiny_mce/jquery.tinymce.js"></script>
-
-<script type="text/javascript" src="themes/ultra/main.js"></script><script>function editor_generate() { return false; }</script>
-
-<script type="text/javascript">
-	var relative_path = '';
-	var sc_title = 'Shipping Calculator';
-	var site_theme = 'ultra';
-	var upl_progress_msg = 'Uploading, please wait...';
-	var closed_msg = 'Closed';
-	var day_msg = 'Day';
-	var days_msg = 'Days';
-	var h_msg = 'h';
-	var m_msg = 'm';
-	var s_msg = 's';
-	var na_msg = 'N/A';
-	var save_msg = 'Save';	
-	var edit_msg = 'Edit';
-	var processing_bulk_msg = 'The file has been uploaded.<br>Processing your listings. Please wait, this might take a few minutes...';
-	var processing_msg = 'Please wait, processing...';
-	
-		var location_reload = false;
-		
-	var s_usr = '0';
-	
-
-	function confirm_refresh()
-	{
-		var is_confirmed = confirm('Are you sure you want to proceed?');
-	
-		if (is_confirmed) {
-			return true;
-		}
-		else
-		{
-			window.location.reload();
-		}
-	
-		return is_confirmed;
-	}
-	
-	var currenttime = 'May 31, 2013 07:44:30';
-	var serverdate=new Date(currenttime);
-	
-	function padlength(what){
-		var output=(what.toString().length==1)? "0"+what : what;
-		return output;
-	}
-	
-	function displaytime(){
-		serverdate.setSeconds(serverdate.getSeconds()+1)
-		var timestring=padlength(serverdate.getHours())+":"+padlength(serverdate.getMinutes())+":"+padlength(serverdate.getSeconds());
-		document.getElementById("servertime").innerHTML=timestring;
-	}
-	
-	// swf upload code snippet for the bulk upload function
-	var swfu;
-	
-	window.onload = function () {	
-				setInterval("displaytime()", 1000);
-		
-	 	$.unblockUI();
-	 	
-	 	$('#form_bulk_list_all, #form_bulk_delete_all, #form_bulk_list_proceed').bind('click', function() {	
-			$.blockUI({ message: '<p style="padding: 10px; font-size: 16px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">' + processing_msg + '</p>' });
-		}); 		
-		
-		// load tinymce for all text areas which need to have wysiwyg enabled - v6.10 upgrade on Innova.
-		$('textarea.tinymce').tinymce({
-			// Location of TinyMCE script
-			script_url : '' + 'jquery/tiny_mce/tiny_mce_src.js',
-
-//         valid_elements : '*[*]',
-//         valid_children : "+body[style]", 
-         
-			// General options
-			theme : "advanced",
-         relative_urls: false,
-         remove_script_host: false,
-         
-			// Theme options
-			theme_advanced_buttons1 : "bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,formatselect,fontselect,fontsizeselect",
-			theme_advanced_buttons2 : "cut,copy,paste,|,bullist,numlist,|,outdent,indent,blockquote,|,undo,redo,|,link,unlink,anchor,image,cleanup,help,code,|,forecolor,backcolor,|,hr,removeformat,visualaid,|,sub,sup",
-			theme_advanced_buttons3 : "",
-			theme_advanced_toolbar_location : "top",
-			theme_advanced_toolbar_align : "left",
-			theme_advanced_statusbar_location : "bottom",
-			theme_advanced_resizing : false
-
-		});
-
-			
-		var bulk_upload_page = document.getElementById('spanButtonPlaceholder');
-		
-		if (bulk_upload_page != null)
-		{
-			swfu = new SWFUpload({
-				// Backend settings
-				upload_url: "ajax_files/bulk_uploader.php",
-				file_post_name: "bulk_file",
-		
-				// Flash file settings
-				file_size_limit : "50 MB",
-				file_types : "*.csv;*.txt",			// or you could use something like: "*.doc;*.wpd;*.pdf",
-				file_types_description : "CSV Files",
-				file_upload_limit : "1",
-				file_queue_limit : "1",
-		
-				// Event handler settings
-				swfupload_loaded_handler : swfUploadLoaded,
-		
-				file_dialog_start_handler: fileDialogStart,
-				file_queued_handler : fileQueued,
-				file_queue_error_handler : fileQueueError,
-				file_dialog_complete_handler : fileDialogComplete,
-		
-				//upload_start_handler : uploadStart,	// I could do some client/JavaScript validation here, but I don't need to.
-				upload_progress_handler : uploadProgress,
-				upload_error_handler : uploadError,
-				upload_success_handler : uploadSuccess,
-				upload_complete_handler : uploadComplete,
-		
-				// Button Settings
-				button_image_url : "jquery/img/XPButtonUploadText_61x22.png",
-				button_placeholder_id : "spanButtonPlaceholder",
-				button_width: 61,
-				button_height: 22,
-		
-				// Flash Settings
-				flash_url : "jquery/swfupload/swfupload.swf",
-		
-				custom_settings : {
-					progress_target : "fsUploadProgress",
-					upload_successful : false
-				},
-		
-				// Debug settings
-				debug: false
-			});
-		}
-	
-	};	
-</script>
-
-<script type="text/javascript" src="jquery/global.js"></script>
-
-
-<!--[if lt IE 8]><style>
-.wraptocenter span {
-    display: inline-block;
-    height: 100%;
-}
-</style><![endif]-->
-<link href="themes/ultra/style.css" rel="stylesheet" type="text/css">
-<script src="themes/ultra/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<link href="themes/ultra/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-<script src="themes/ultra/SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
-<link href="themes/ultra/SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.bg {
- background-image: url(themes/ultra/img/subbg.gif);
-}
-.TabbedPanelsTab {
- BACKGROUND: url(themes/ultra/img/tabg2.gif) no-repeat right top;
-}
-.TabbedPanelsTab a {
- BACKGROUND: url(themes/ultra/img/tabg1.gif) no-repeat left top;
-}
-.TabbedPanelsTabSelected {
- BACKGROUND: url(themes/ultra/img/tabbrown2.gif) no-repeat right top;
-}
-.TabbedPanelsTabSelected a {
- BACKGROUND: url(themes/ultra/img/tabbrown1.gif) no-repeat left top;
-}
-.placebid {
-	font-size: 18px;
-	font-weight: bold;
-	height: 38px;
-}
-.lb {
-	border-right: 1px solid #111212;
-	border-left: 1px solid #606468;
-	font-size: 11px;
-	font-weight: bold;
-	background-image: url(themes/ultra/img/subbg.gif);
-}
-.lb a {
-	color: #ffffff;
-	text-decoration: none;
-}
-.lb a:hover {
-	color: #ffffff;
-	text-decoration: none;
-}
-.db {
-	font-size: 11px;
-	font-weight: bold;
-	border-right: 1px solid #111212;
-	border-left: 1px solid #606468;
-	background-image: url(themes/ultra/img/db_bg.gif);
-}
-.db a {
-	color: #ffffff;
-	text-decoration: none;
-}
-.db a:hover {
-	color: #ffffff;
-	text-decoration: none;
-}
-.today {
-background: #ffffff url(themes/ultra/img/listedtoday.gif) top right no-repeat;
-}
-.day {
-background: #ffffff url(themes/ultra/img/day.gif) bottom left no-repeat;
-}
-.hour {
-background: #ffffff url(themes/ultra/img/hour.gif) bottom left no-repeat;
-}
-.hl_item1 {
-	border: 2px solid #ffa500;
-}
--->
-</style>
-
+    <!--[if lt IE 9]> <script type="text/javascript" src="/js/html5shiv.min.js"></script><![endif]-->
+<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/css/custom-theme/jquery-ui-1.10.0.custom.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]><link href="/css/custom-theme/jquery.ui.1.10.0.ie.css" rel="stylesheet" type="text/css"><![endif]-->
+<link href="/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/js/colorbox/colorbox.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]><link href="/css/style.ie.css" media="all" rel="stylesheet" type="text/css"><![endif]-->
+<link href="/img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/js/typeahead/autocomplete.css" media="all" rel="stylesheet" type="text/css">    <link href="/themes/standard/css/style.css" media="all" rel="stylesheet" type="text/css">
 </head>
-<body bgcolor="#f5f6f7">
-<table width="980" border="0" align="center" cellpadding="10" cellspacing="0">
-<tbody><tr>
-   <td>
-   <table width="100%" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr valign="bottom">
-         <td style="padding-bottom: 10px;"><a href="http://www.bestparanormalsellers.com/index.php"><img src="images/probidlogo.gif" alt="Professional Auction Script Software by PHP Pro Bid" border="0"></a></td>
-         <td width="100%" valign="bottom" style="padding-left: 15px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-               <tbody><tr height="60">
-                  <td nowrap="" style="border-left: 1px solid #cccccc; padding-left: 15px; padding-top: 8px;" class="mainmenu" width="100%"><div style="padding-bottom: 3px;">
-                        May. 31, 2013                        <span id="servertime"></span></div>
-                                          Welcome! &nbsp;
-                     <a href="http://www.bestparanormalsellers.com/login.php">LOGIN</a> or 
-                     <a href="http://www.bestparanormalsellers.com/register.php">REGISTER</a>
-                                          &nbsp;&nbsp;&nbsp;
-                     <div><img src="themes/ultra/img/pixel.gif" width="200" height="1"></div></td>
-						<td nowrap="" style="padding-right: 10px;" class="smallfont" align="center">
-							[ <a href="search.php">Advanced Search</a> ]
-														<br>[ <a href="shopping_cart.php">Shopping Cart</a> ]
-													</td>
-												<td nowrap="" style="padding-right: 10px;"><!-- AddThis Button BEGIN -->
-		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a83d52479e9d5ed"><img src="https://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0" align="middle"></a><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a83d52479e9d5ed"></script>
-		<!-- AddThis Button END --></td>
-						                                    <td nowrap="" align="center">&nbsp;&nbsp;<a href="http://www.bestparanormalsellers.com/index.php?change_language=english"><img src="themes/ultra/img/english.gif" border="0" alt="english" align="middle"></a>&nbsp;&nbsp;</td>
-                                    <td><div align="center"><a href="rss_feed.php"><img src="themes/ultra/img/system/rss.gif" border="0" align="absmiddle" hspace="10"></a></div>
-                                          <br>
-                     <form action="index.php" method="GET">
-                        <div align="center">
-                           Choose Skin:<br>
-                           <select name="default_theme"> <option value="classic_blue">classic_blue</option> <option value="classic_silver">classic_silver</option> <option value="modern_blue">modern_blue</option> <option value="modern_silver">modern_silver</option> <option value="own_skin">own_skin</option> <option value="own_skin2">own_skin2</option> <option value="ultra" selected="">ultra</option> <option value="v6">v6</option> </select>                           <input type="submit" name="change_skin" value="Go">
+<body>
+
+<!--container fluid -->
+<div class="container">
+    <!-- branding header -->
+    <div class="branding-header">
+        <!-- logo left -->
+        <div class="logo">
+            <a href="http://www.bestparanormalsellers.com/" title="Best of the Paranormal Marketplace">
+                <img src="/uploads/probidlogo.gif" alt="Best of the Paranormal Marketplace">
+            </a>
+        </div>
+        <!-- end logo left -->
+
+        <!-- header content -->
+        <div class="header-content">
+            <!-- horizontal menu -->
+            <nav class="navbar navbar-default header-navigation" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="main-navigation-collapse">
+        <ul class="nav navbar-nav">
+            <li>
+                <span>Welcome,<br>
+                    <b>Guest</b>
+<!--                    [--><!--]-->
+                </span>
+            </li>
+                            <li>
+                    <a href="http://www.bestparanormalsellers.com/register" title="Sign up">Sign up</a>
+                </li>
+                <li>
+                    <a class="dialog-box" href="http://www.bestparanormalsellers.com/members/user/login-modal" title="Sign in">Sign in</a>
+                </li>
+                    </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/">
+                            Home                        </a>
+                    </li>
+                                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/categories">
+                            Buy                        </a>
+                    </li>
+                                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/sell">
+                            Sell                        </a>
+                    </li>
+                                                                                            <li>
+                        <a href="http://www.bestparanormalsellers.com/all-stores">
+                            Stores                        </a>
+                    </li>
+                                                                                    
+                            <li class="visible-xs">
+                    <a href="http://www.bestparanormalsellers.com/cart">Cart</a>
+                </li>
+                <li class="hidden-xs">
+                    <button class="btn btn-default btn-shopping-cart-dropdown dropdown-toggle" data-toggle="dropdown">
+                        <i class="fa fa-shopping-cart"></i>
+                        <span>Cart</span>
+                    </button><div class="shopping-cart-dropdown dropdown-menu">
+                    <div class="text-center">
+                        <small>The shopping cart is empty.</small>
+                    </div></div>                </li>
+                    </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+</nav>            <!-- end horizontal menu -->
+        </div>
+        <!-- end header content -->
+    </div>
+    <!-- end branding header -->
+    <div class="clear"></div>
+    <!-- header advert -->
+            <p class="text-center hidden-xs">
+            <a href="http://www.bestparanormalsellers.com/advert/36" target="_blank">
+                    <img src="/uploads/botp_church.jpg" alt="Banner">
+                </a>        </p>
+    
+        <!-- search bar -->
+    <div class="search-bar">
+
+        <!-- browse menu -->
+        <div class="browse-menu col-sm-2 hidden-xs">
+            <a id="browse-btn" href="#">Browse<span> ▼ </span></a>
+
+        </div>
+
+        <ul id="browse-content">
+                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/adults-only">
+                            Adults Only                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/books">
+                            Books                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/candles">
+                            Candles                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/channel-sessions">
+                            Channel Sessions                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/charging-boxes">
+                            Charging Boxes                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/charmed-haunted">
+                            Charmed / Haunted                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/clearance-items">
+                            Clearance Items                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/clothing-apparell">
+                            Clothing &amp; Apparell                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/crystals-gemstones">
+                            Crystals &amp; Gemstones                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/custom-magick-spells">
+                            Custom Magick/Spells                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/custom-spirit-spell">
+                            Custom spirit &amp; spell                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/dark-arts">
+                            Dark Arts                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/decorative-art-and-greeting-cards">
+                            Decorative Art and Greeting Cards                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/digital-art">
+                            DIGITAL ART                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/divination-kits">
+                            Divination Kits                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/dolphins-mermaids">
+                            Dolphins &amp; Mermaids                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/dragon-storm-designs">
+                            Dragon Storm Designs                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/dragons">
+                            Dragons                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/dream-pillows">
+                            Dream Pillows                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/enchanted-intentions">
+                            Enchanted Intentions                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/enchanted-spellcast">
+                            Enchanted/Spellcast                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/energy-services">
+                            Energy Services                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/esp-development-tools">
+                            ESP Development Tools                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/fae">
+                            Fae                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/faeries">
+                            Faeries                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/for-fun">
+                            For Fun                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/forum-art">
+                            FORUM ART                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/gargoyles">
+                            Gargoyles                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/general-spirits">
+                            General Spirits                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/gift-items">
+                            Gift Items                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/here-be-dragons">
+                            Here Be Dragons!                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/hoodoo-dolls-poppets">
+                            Hoodoo Dolls/Poppets                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/incense">
+                            Incense                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/jewelry">
+                            Jewelry                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/meditation-cds-and-mp3">
+                            Meditation cds and mp3                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/non-spirit-tarot-readings">
+                            Non-Spirit Tarot Readings                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/oils">
+                            Oils                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/paranormal-items">
+                            Paranormal Items                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/pendulums">
+                            Pendulums                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/poems-writing">
+                            Poems/Writing                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/psychic-readings">
+                            Psychic Readings                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/real-reiki-attunements">
+                            Real Reiki Attunements                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/reiki">
+                            Reiki                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/ritual-kits">
+                            Ritual Kits                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/services">
+                            Services                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/services1">
+                            Services                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/servitors">
+                            Servitors                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/soaps-salves">
+                            Soaps/Salves                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/spell-kits">
+                            Spell Kits                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/spirit-readings">
+                            Spirit Readings                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/spirit-rescues">
+                            Spirit Rescues                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/spirits">
+                            Spirits                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/statues">
+                            Statues                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/swap">
+                            Swap                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/talisman-amulet-bags">
+                            Talisman/Amulet Bags                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/tarot">
+                            Tarot                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/tarot-spells">
+                            Tarot Spells                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/the-spellcaster">
+                            The Spellcaster                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/tools">
+                            Tools                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/unicorns">
+                            Unicorns                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/vampires">
+                            Vampires                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/wands">
+                            Wands                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/waters-brews">
+                            Waters &amp; Brews                        </a>
+
+                        
+                    </li>
+                                                <li>
+                        <a href="http://www.bestparanormalsellers.com/category/wiccan-pagan">
+                            Wiccan / Pagan                        </a>
+
+                        
+                    </li>
+                                    </ul>
+        <!-- end browse menu -->
+
+        <!-- search and categories -->
+        <div class="col-sm-8 col-xs-12">
+            <form class="form-inline form-header" action="http://www.bestparanormalsellers.com/search" method="get">
+                <div class="form-group hidden-xs hidden-sm">
+                    <select name="parent_id" id="category_id" sd="8166779" style="display: none;">
+                        <option value="0">Choose Category</option>
+                                                    <option value="1973">Adults Only</option>
+                                                    <option value="1877">Books</option>
+                                                    <option value="1876">Candles</option>
+                                                    <option value="1920">Channel Sessions</option>
+                                                    <option value="1971">Charging Boxes</option>
+                                                    <option value="1880">Charmed / Haunted</option>
+                                                    <option value="1884">Clearance Items</option>
+                                                    <option value="1882">Clothing &amp; Apparell</option>
+                                                    <option value="1883">Crystals &amp; Gemstones</option>
+                                                    <option value="1951">Custom Magick/Spells</option>
+                                                    <option value="1953">Custom spirit &amp; spell</option>
+                                                    <option value="1891">Dark Arts</option>
+                                                    <option value="1948">Decorative Art and Greeting Cards</option>
+                                                    <option value="1938">DIGITAL ART</option>
+                                                    <option value="1889">Divination Kits</option>
+                                                    <option value="1893">Dolphins &amp; Mermaids</option>
+                                                    <option value="1899">Dragon Storm Designs</option>
+                                                    <option value="1873">Dragons</option>
+                                                    <option value="1929">Dream Pillows</option>
+                                                    <option value="1900">Enchanted Intentions</option>
+                                                    <option value="1866">Enchanted/Spellcast</option>
+                                                    <option value="1946">Energy Services</option>
+                                                    <option value="1888">ESP Development Tools</option>
+                                                    <option value="1924">Fae</option>
+                                                    <option value="1879">Faeries</option>
+                                                    <option value="1870">For Fun</option>
+                                                    <option value="1936">FORUM ART</option>
+                                                    <option value="1878">Gargoyles</option>
+                                                    <option value="1922">General Spirits</option>
+                                                    <option value="1890">Gift Items</option>
+                                                    <option value="1901">Here Be Dragons!</option>
+                                                    <option value="1935">Hoodoo Dolls/Poppets</option>
+                                                    <option value="1872">Incense</option>
+                                                    <option value="1952">Jewelry</option>
+                                                    <option value="1941">Meditation cds and mp3</option>
+                                                    <option value="1945">Non-Spirit Tarot Readings</option>
+                                                    <option value="1949">Oils</option>
+                                                    <option value="1940">Paranormal Items</option>
+                                                    <option value="1950">Pendulums</option>
+                                                    <option value="1937">Poems/Writing</option>
+                                                    <option value="1867">Psychic Readings</option>
+                                                    <option value="1939">Real Reiki Attunements</option>
+                                                    <option value="1886">Reiki</option>
+                                                    <option value="1875">Ritual Kits</option>
+                                                    <option value="1895">Services</option>
+                                                    <option value="1932">Services</option>
+                                                    <option value="1947">Servitors</option>
+                                                    <option value="1972">Soaps/Salves</option>
+                                                    <option value="1928">Spell Kits</option>
+                                                    <option value="1944">Spirit Readings</option>
+                                                    <option value="1923">Spirit Rescues</option>
+                                                    <option value="1868">Spirits</option>
+                                                    <option value="1942">Statues</option>
+                                                    <option value="1871">Swap</option>
+                                                    <option value="1931">Talisman/Amulet Bags</option>
+                                                    <option value="1887">Tarot</option>
+                                                    <option value="1943">Tarot Spells</option>
+                                                    <option value="1894">The Spellcaster</option>
+                                                    <option value="1869">Tools</option>
+                                                    <option value="1892">Unicorns</option>
+                                                    <option value="1921">Vampires</option>
+                                                    <option value="1885">Wands</option>
+                                                    <option value="1930">Waters &amp; Brews</option>
+                                                    <option value="1881">Wiccan / Pagan</option>
+                                            </select><div id="sdHolder_8166779" class="sdHolder" tabindex="0"><a id="sdToggle_8166779" href="#" class="sdToggle"></a><a id="sdSelector_8166779" href="#" class="sdSelector">Choose Category</a><ul id="sdOptions_8166779" class="sdOptions" style="display: none;"><li><a href="#0" rel="0" class="sdFocus">Choose Category</a></li><li><a href="#1973" rel="1973">Adults Only</a></li><li><a href="#1877" rel="1877">Books</a></li><li><a href="#1876" rel="1876">Candles</a></li><li><a href="#1920" rel="1920">Channel Sessions</a></li><li><a href="#1971" rel="1971">Charging Boxes</a></li><li><a href="#1880" rel="1880">Charmed / Haunted</a></li><li><a href="#1884" rel="1884">Clearance Items</a></li><li><a href="#1882" rel="1882">Clothing &amp; Apparell</a></li><li><a href="#1883" rel="1883">Crystals &amp; Gemstones</a></li><li><a href="#1951" rel="1951">Custom Magick/Spells</a></li><li><a href="#1953" rel="1953">Custom spirit &amp; spell</a></li><li><a href="#1891" rel="1891">Dark Arts</a></li><li><a href="#1948" rel="1948">Decorative Art and Greeting Cards</a></li><li><a href="#1938" rel="1938">DIGITAL ART</a></li><li><a href="#1889" rel="1889">Divination Kits</a></li><li><a href="#1893" rel="1893">Dolphins &amp; Mermaids</a></li><li><a href="#1899" rel="1899">Dragon Storm Designs</a></li><li><a href="#1873" rel="1873">Dragons</a></li><li><a href="#1929" rel="1929">Dream Pillows</a></li><li><a href="#1900" rel="1900">Enchanted Intentions</a></li><li><a href="#1866" rel="1866">Enchanted/Spellcast</a></li><li><a href="#1946" rel="1946">Energy Services</a></li><li><a href="#1888" rel="1888">ESP Development Tools</a></li><li><a href="#1924" rel="1924">Fae</a></li><li><a href="#1879" rel="1879">Faeries</a></li><li><a href="#1870" rel="1870">For Fun</a></li><li><a href="#1936" rel="1936">FORUM ART</a></li><li><a href="#1878" rel="1878">Gargoyles</a></li><li><a href="#1922" rel="1922">General Spirits</a></li><li><a href="#1890" rel="1890">Gift Items</a></li><li><a href="#1901" rel="1901">Here Be Dragons!</a></li><li><a href="#1935" rel="1935">Hoodoo Dolls/Poppets</a></li><li><a href="#1872" rel="1872">Incense</a></li><li><a href="#1952" rel="1952">Jewelry</a></li><li><a href="#1941" rel="1941">Meditation cds and mp3</a></li><li><a href="#1945" rel="1945">Non-Spirit Tarot Readings</a></li><li><a href="#1949" rel="1949">Oils</a></li><li><a href="#1940" rel="1940">Paranormal Items</a></li><li><a href="#1950" rel="1950">Pendulums</a></li><li><a href="#1937" rel="1937">Poems/Writing</a></li><li><a href="#1867" rel="1867">Psychic Readings</a></li><li><a href="#1939" rel="1939">Real Reiki Attunements</a></li><li><a href="#1886" rel="1886">Reiki</a></li><li><a href="#1875" rel="1875">Ritual Kits</a></li><li><a href="#1895" rel="1895">Services</a></li><li><a href="#1932" rel="1932">Services</a></li><li><a href="#1947" rel="1947">Servitors</a></li><li><a href="#1972" rel="1972">Soaps/Salves</a></li><li><a href="#1928" rel="1928">Spell Kits</a></li><li><a href="#1944" rel="1944">Spirit Readings</a></li><li><a href="#1923" rel="1923">Spirit Rescues</a></li><li><a href="#1868" rel="1868">Spirits</a></li><li><a href="#1942" rel="1942">Statues</a></li><li><a href="#1871" rel="1871">Swap</a></li><li><a href="#1931" rel="1931">Talisman/Amulet Bags</a></li><li><a href="#1887" rel="1887">Tarot</a></li><li><a href="#1943" rel="1943">Tarot Spells</a></li><li><a href="#1894" rel="1894">The Spellcaster</a></li><li><a href="#1869" rel="1869">Tools</a></li><li><a href="#1892" rel="1892">Unicorns</a></li><li><a href="#1921" rel="1921">Vampires</a></li><li><a href="#1885" rel="1885">Wands</a></li><li><a href="#1930" rel="1930">Waters &amp; Brews</a></li><li><a href="#1881" rel="1881">Wiccan / Pagan</a></li></ul></div>
+                </div>
+                <div class="form-group">
+                    <input id="basic-search" type="text" name="keywords" class="form-control input-search ui-autocomplete-input" value="" placeholder="Search ..." required="" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                </div>
+                <button type="submit" class="btn btn-primary hidden-xs">Search</button>
+            </form>
+        </div>
+        <!-- end search and categories -->
+
+        <!-- advanced search -->
+
+        <div class="col-md-1 hidden-xs hidden-sm advanced-search-box">
+            <a href="http://www.bestparanormalsellers.com/advanced-search">Advanced</a>
+        </div>
+        <div class="col-md-1 col-sm-2">
+                            <ul class="lang-selector"><li><a href="http://www.bestparanormalsellers.com/privacy/?lang=en_US"><img src="/img/flags/en_US.png" alt="English"></a></li></ul>                    </div>
+
+        <!-- end advanced search -->
+    </div>
+    <!-- end search bar -->
+
+    <div class="clearfix"></div>
+
+    <!-- layout content -->
+            
+<!-- action messages -->
+        <!-- CONTENT SECTIONS SUB LAYOUT -->
+<div class="sub-container">
+
+    <div class="row row-offcanvas row-offcanvas-left">
+                    <div class="col-xs-12">
+        
+
+                                    <article>
+                                                    <h1 class="headline">
+                                <span>We Respect Privacy</span>
+                            </h1>
+                        
+                        <div>
+                            <p>Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!</p><p><br>Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to <a href="https://shop.creepyhollows.com/support/tickets/contact/">contact us</a>.</p>                        </div>
+                    </article>
+                
+            </div>
+        </div>
+    </div>
+    
+    <div class="clearfix"></div>
+    <footer>
+
+        <!-- footer adverts -->
+                    <p class="text-center hidden-xs">
+                <a href="http://www.bestparanormalsellers.com/advert/12" target="_blank">
+                    <img src="/uploads/dogstar_rising.jpg" alt="Banner">
+                </a>            </p>
+        
+        <div class="col-sm-5 col-xs-12">
+            <div>
+                Powered by <a href="http://www.phpprobid.com/" target="_blank">PHP Pro Bid</a>. ©2016 Online Ventures Software
+            </div>
+                            <div class="social">
+                    <div class="social-button">
+                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bestparanormalsellers.com" target="_blank"><img src="/img/social/facebook.png" alt="Facebook"></a>
+                </div> <div class="social-button">
+                    <a href="http://twitter.com/intent/tweet?text=Best+of+the+Paranormal+Marketplace&amp;url=http%3A%2F%2Fwww.bestparanormalsellers.com" target="_blank"><img src="/img/social/twitter.png" alt="Twitter"></a>
+                </div> <div class="social-button">
+                    <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.bestparanormalsellers.com" target="_blank"><img src="/img/social/googleplus.png" alt="GooglePlus"></a>
+                </div> <div class="social-button">
+                    <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.bestparanormalsellers.com&amp;media=http%3A%2F%2Fwww.bestparanormalsellers.com%2Fuploads%2Fprobidlogo.gif&amp;description=Best+of+the+Paranormal+Marketplace" target="_blank"><img src="/img/social/pinterest.png" alt="Pinterest"></a>
+                </div> <div class="social-button">
+                    <a href="http://www.bestparanormalsellers.com/rss" target="_self"><img src="/img/social/rss.png" alt="RSS"></a>
+                </div>                </div>
+                        <!--                    <div class="hidden-md hidden-lg">-->
+            <!--                        <a href="#">Disable Responsiveness</a>-->
+            <!--                    </div>-->
+        </div>
+
+        <div class="col-sm-7 col-xs-12">
+                        <!-- these links are only temporary - will alter all of this while in beta -->
+
+            <ul class="links">
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/about-us">
+                            About Us                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/contact-us">
+                            Contact Us                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/help">
+                            Help                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/faq">
+                            FAQ                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/site-fees">
+                            Site Fees                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/news">
+                            News                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/terms">
+                            Terms &amp; Conditions                        </a>
+                    </li>
+                                    <li>
+                        &nbsp;
+                        <a href="http://www.bestparanormalsellers.com/privacy">
+                            Privacy Policy                        </a>
+                    </li>
+                            </ul>
+
+
+        </div>
+        <div class="clearfix"></div>
+    </footer>
+</div>
+<!-- end container fluid -->
+
+<!-- cookie usage confirmation helper -->
+<div class="cookie-usage">
+                    <div class="row">
+                        <div class="col-sm-10">Our website uses cookies. By continuing, you consent to the use of cookies on your device, unless you have disabled them from your browser.</div>
+                        <div class="col-sm-2 text-right">
+                            <button class="btn btn-sm btn-primary btn-cookie-confirm">I Understand</button>
                         </div>
-                     </form>
-                     </td>
-               </tr>
-            </tbody></table>
-            <div><img src="themes/ultra/img/pixel.gif" width="1" height="10"></div></td>
-      </tr>
-   </tbody></table>
-   <table width="100%" border="0" cellspacing="0" cellpadding="0" background="themes/ultra/img/subbg.gif">
-      <tbody><tr align="center">
-         <td width="6" style="border-right: 1px solid #111212;"><a href="http://www.bestparanormalsellers.com/index.php"><img src="themes/ultra/img/home_i.gif" width="49" height="49" border="0"></a></td>
-         <td nowrap="" width="14%" class="lb" onmouseover="this.className='db';" onmouseout="this.className='lb';">
-         	<ul id="MenuBarCategories" class="MenuBarHorizontal">
-               <li style="background-color: transparent;">
-               	<a style="background-color: transparent; color: #ffffff; border: 0px;" class="MenuBarItemSubmenu" href="categories.php">CATEGORIES</a>
-                  
-               	<ul>
+                    </div>
+                </div>
 
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=adults-only&amp;parent_id=1973" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Adults Only         (<strong>16</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=books&amp;parent_id=1877" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Books         (<strong>53</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=candles&amp;parent_id=1876" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Candles         (<strong>9</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=channel-sessions&amp;parent_id=1920" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Channel Sessions         (<strong>18</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=charging-boxes&amp;parent_id=1971" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Charging Boxes         (<strong>9</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=charmed-haunted&amp;parent_id=1880" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Charmed / Haunted         (<strong>168</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=clearance-items&amp;parent_id=1884" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Clearance Items         (<strong>1</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=clothing-and-apparell&amp;parent_id=1882" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Clothing &amp; Apparell         (<strong>1</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=crystals-and-gemstones&amp;parent_id=1883" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Crystals &amp; Gemstones         (<strong>10</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=custom-magickspells&amp;parent_id=1951" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Custom Magick/Spells         (<strong>50</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=custom-spirit-and-spell&amp;parent_id=1953" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Custom spirit &amp; spell         (<strong>62</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=dark-arts&amp;parent_id=1891" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Dark Arts         (<strong>285</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=decorative-art-and-greeting-cards&amp;parent_id=1948" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Decorative Art and Greeting Cards         (<strong>2</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=digital-art&amp;parent_id=1938" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">DIGITAL ART         (<strong>5</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=divination-kits&amp;parent_id=1889" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Divination Kits         (<strong>7</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=dolphins-and-mermaids&amp;parent_id=1893" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Dolphins &amp; Mermaids         (<strong>15</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=dragon-storm-designs&amp;parent_id=1899" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Dragon Storm Designs         </a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=dragons&amp;parent_id=1873" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Dragons         (<strong>65</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=dream-pillows&amp;parent_id=1929" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Dream Pillows         (<strong>1</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=enchanted-intentions&amp;parent_id=1900" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Enchanted Intentions         (<strong>6</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=enchantedspellcast&amp;parent_id=1866" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Enchanted/Spellcast         (<strong>243</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=energy-services&amp;parent_id=1946" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Energy Services         (<strong>55</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=esp-development-tools&amp;parent_id=1888" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">ESP Development Tools         (<strong>4</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=fae&amp;parent_id=1924" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Fae         (<strong>27</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=faeries&amp;parent_id=1879" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Faeries         (<strong>78</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=for-fun&amp;parent_id=1870" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">For Fun         (<strong>22</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=forum-art&amp;parent_id=1936" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">FORUM ART         </a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=gargoyles&amp;parent_id=1878" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Gargoyles         (<strong>3</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=general-spirits&amp;parent_id=1922" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">General Spirits         (<strong>386</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=gift-items&amp;parent_id=1890" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Gift Items         (<strong>8</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=here-be-dragons&amp;parent_id=1901" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Here Be Dragons!         (<strong>4</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=hoodoo-dollspoppets&amp;parent_id=1935" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Hoodoo Dolls/Poppets         (<strong>2</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=incense&amp;parent_id=1872" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Incense         (<strong>20</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=jewelry&amp;parent_id=1952" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Jewelry         (<strong>71</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=meditation-cds-and-mp3&amp;parent_id=1941" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Meditation cds and mp3         (<strong>1</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=non-spirit-tarot-readings&amp;parent_id=1945" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Non-Spirit Tarot Readings         (<strong>3</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=oils&amp;parent_id=1949" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Oils         </a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=paranormal-items&amp;parent_id=1940" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Paranormal Items         (<strong>11</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=pendulums&amp;parent_id=1950" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Pendulums         (<strong>2</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=poemswriting&amp;parent_id=1937" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Poems/Writing         (<strong>-1</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=psychic-readings&amp;parent_id=1867" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Psychic Readings         (<strong>374</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=real-reiki-attunements&amp;parent_id=1939" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Real Reiki Attunements         (<strong>40</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=reiki&amp;parent_id=1886" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Reiki         (<strong>51</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=ritual-kits&amp;parent_id=1875" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Ritual Kits         (<strong>12</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=services&amp;parent_id=1932" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Services         (<strong>100</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=services&amp;parent_id=1895" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Services         (<strong>121</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=servitors&amp;parent_id=1947" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Servitors         (<strong>4</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=soapssalves&amp;parent_id=1972" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Soaps/Salves         (<strong>13</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=spell-kits&amp;parent_id=1928" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Spell Kits         (<strong>6</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=spirit-readings&amp;parent_id=1944" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Spirit Readings         (<strong>184</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=spirit-rescues&amp;parent_id=1923" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Spirit Rescues         (<strong>4</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=spirits&amp;parent_id=1868" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Spirits         (<strong>500</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=statues&amp;parent_id=1942" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Statues         (<strong>6</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=swap&amp;parent_id=1871" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Swap         </a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=talismanamulet-bags&amp;parent_id=1931" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Talisman/Amulet Bags         (<strong>5</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=tarot&amp;parent_id=1887" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Tarot         (<strong>26</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=tarot-spells&amp;parent_id=1943" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Tarot Spells         </a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=the-spellcaster&amp;parent_id=1894" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">The Spellcaster         (<strong>18</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=tools&amp;parent_id=1869" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Tools         (<strong>50</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=unicorns&amp;parent_id=1892" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Unicorns         (<strong>19</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=vandires&amp;parent_id=1921" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Vampires         (<strong>96</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=wands&amp;parent_id=1885" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Wands         </a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=waters-and-brews&amp;parent_id=1930" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Waters &amp; Brews         (<strong>2</strong>)</a>
-   </li>
-      <li><a style="font-size: 11px; font-weight: normal;" href="http://www.bestparanormalsellers.com/categories.php?category=wiccan-pagan&amp;parent_id=1881" alt=""><img src="themes/ultra/img/arrow.gif" border="0" hspace="4">Wiccan / Pagan         (<strong>47</strong>)</a>
-   </li>
-   </ul>
-               </li>
-            </ul></td>
-                           <td nowrap="" class="lb" onmouseover="this.className='db';" onmouseout="this.className='lb';" width="14%">&nbsp;<a href="http://www.bestparanormalsellers.com/login.php?redirect=sell_item">SELL</a>&nbsp;</td>
-         			         <!-- Members Area Menu -->
-         <td nowrap="" class="lb" onmouseover="this.className='db';" onmouseout="this.className='lb';" width="14%">
-	         <ul id="MenuBar1" class="MenuBarHorizontal">
-	            <li style="background-color: transparent;"><a style="background-color: transparent; color: #ffffff; border: 0px;" href="members_area.php" class="MenuBarItemSubmenu">
-	               MEMBERS AREA	               </a>
-	               <ul>
-	                  	                  	                  <li><a href="http://www.bestparanormalsellers.com/login.php" class="MenuBarItem"><img src="themes/ultra/img/ico_login.gif" align="absmiddle" id="icomenu" border="0">
-	                     LOGIN	                     </a></li>
-	                  <li><a href="http://www.bestparanormalsellers.com/register.php" class="MenuBarItem"><img src="themes/ultra/img/ico_register.gif" align="absmiddle" id="icomenu" border="0">
-	                     REGISTER	                     </a></li>
-	                  	               </ul>
-	            </li>
-	         </ul>
-			</td>
-      
-	      <!-- EOF MEMBERS AREA MENU -->
-	      	      			<td nowrap="" class="lb" onmouseover="this.className='db';" onmouseout="this.className='lb';" width="14%">
-				&nbsp;<a href="http://www.bestparanormalsellers.com/stores.php">STORES</a>&nbsp;</td>
-												         <td nowrap="" class="lb" onmouseover="this.className='db';" onmouseout="this.className='lb';" width="14%">
-         	<ul id="MenuBarHelp" class="MenuBarHorizontal">
-               <li style="background-color: transparent;"> <a style="background-color: transparent; color: #ffffff; border: 0px;" href="http://www.bestparanormalsellers.com/content_pages.php?page=help" class="MenuBarItemSubmenu">
-                  HELP                  </a>
-                  <ul>
-                     <li><a class="MenuBarItem" href="http://www.bestparanormalsellers.com/content_pages.php?page=help"><img src="themes/ultra/img/ico_faq.gif" align="absmiddle" id="icomenu" border="0">
-                        HELP                        </a></li>
-                     <li><a class="MenuBarItem" href="http://www.bestparanormalsellers.com/content_pages.php?page=faq"><img src="themes/ultra/img/ico_faq.gif" align="absmiddle" id="icomenu" border="0">
-                        FAQ                        </a></li>
-                                          <li><a class="MenuBarItem" href="http://www.bestparanormalsellers.com/content_pages.php?page=about_us"><img src="themes/ultra/img/ico_about.gif" align="absmiddle" id="icomenu" border="0">
-                        ABOUT US                        </a></li>
-                                                               <li><a class="MenuBarItem" href="http://www.bestparanormalsellers.com/content_pages.php?page=contact_us"><img src="themes/ultra/img/ico_contact.gif" align="absmiddle" id="icomenu" border="0">
-                        CONTACT US                        </a></li>
-                                                               <li><a class="MenuBarItem" href="http://www.bestparanormalsellers.com/site_fees.php"><img src="themes/ultra/img/ico_fees.gif" align="absmiddle" id="icomenu" border="0">
-                        SITE FEES                        </a></li>
-                                       </ul>
-               </li>
-            </ul></td>
-         <form action="auction_search.php" method="post"></form>
-            <input type="hidden" name="option" value="basic_search">
-            <td class="lb" nowrap="" width="100%" align="right" style="border-right: 0px;"><input type="text" size="20" name="basic_search" style="background-image: url(themes/ultra/img/searchbg.gif); height: 20px; border: 0px;padding-left: 10px; padding-top: 2px;"></td>
-            <td nowrap="" style="padding-right: 10px;"><input name="form_basic_search" type="image" src="themes/ultra/img/search.gif" border="0"></td>
-         
-         <td width="6"><img src="themes/ultra/img/sub2.gif" width="5" height="49"></td>
-      </tr>
-   </tbody></table>
-   <div><img src="themes/ultra/img/pixel.gif" width="1" height="10"></div>
-   <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-   <tbody><tr>
-      <td width="10"><img src="themes/ultra/img/c1.gif" width="10" height="10"></td>
-      <td width="100%" style="border-top: 1px solid #bbbbbb;"><img src="themes/ultra/img/pixel.gif" width="1" height="1"></td>
-      <td width="10"><img src="themes/ultra/img/c2.gif" width="10" height="10"></td>
-   </tr>
-   <tr>
-      <td width="10" style="border-left: 1px solid #bbbbbb;"><img src="themes/ultra/img/pixel.gif" width="1" height="1"></td>
-      <td width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-         <tbody><tr valign="top">
-            <td width="100%">
-					<div align="center" style="padding-top: 3px; padding-bottom: 3px;"><table cellpadding="1" cellspacing="0"><tbody><tr><td align="center"><a href="banner_click.php?advert_id=29" target="_blank"><img src="uplimg/img_A__7a0b89350115ed2c85f0331fd1c026c7.jpg" border="0" alt="Lilith's Treasures Tavern"></a></td></tr><tr><td align="center">Let some magic into your life!</td></tr></tbody></table></div><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-        <td width="5"><img src="themes/ultra/img/partg1.gif" width="5" height="35"></td>
-        <td width="100%" class="partb" background="themes/ultra/img/partg_bg.gif">Privacy Policy</td>
-        <td width="5"><img src="themes/ultra/img/partg2.gif" width="5" height="35"></td>
-        </tr>
-        </tbody></table>
-        <div><img src="themes/ultra/img/pixel.gif" width="1" height="3"></div><br><script language="javascript">
-	var ie4 = false;
-	if(document.all) { ie4 = true; }
+<div class="loading-modal"></div>
 
-	function getObject(id) { if (ie4) { return document.all[id]; } else { return document.getElementById(id); } }
-	function toggle(link, divId) {
-		var d = getObject(divId);
-		if (d.style.display == '') { d.style.display = 'none'; }
-		else { d.style.display = ''; }
-	}
-</script><div class="topic_content" id="topic_content_0" style="display: ;"> <p style="font-family: Trebuchet MS;">We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, PHP Pro Bid follows different principles in accordance with world-wide practices for customer privacy and data protection. </p>
-<ul style="font-family: Trebuchet MS;">
-<li>We won't sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone. 
-</li><li>We'll use the latest security measures to protect your information from unauthorized users. </li></ul>
-<p style="font-family: Trebuchet MS;"><span style="font-weight: bold;">NOTICE </span></p>
-<p style="font-family: Trebuchet MS;">We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you purchase our software packages. We use your Personal Information for four primary purposes:</p>
-<ul style="font-family: Trebuchet MS;">
-<li>To process and activate your order <br>
-</li><li>To identify you 
-</li><li>To help us support you and/or your Business. 
-</li><li>To alert you to product upgrades, special offers, updated information and other new services from PHP Pro Bid. </li></ul>
-<p style="font-family: Trebuchet MS;"><span style="font-weight: bold;">ACCESS</span></p>
-<p style="font-family: Trebuchet MS;"> </p>
-<p style="font-family: Trebuchet MS;">We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the client area. There, you can view and edit personal information you have already given us. </p></div></td>
-</tr>
-</tbody></table>
+<!-- Scroll to Top -->
+<a class="scroll-top" style="display: none; ">⇧</a>
 
-         	</td>
-               <td width="10" style="border-right: 1px solid #bbbbbb;"><img src="themes/ultra/img/pixel.gif" width="1" height="1"></td>
-            </tr>
-            <tr>
-               <td width="10"><img src="themes/ultra/img/c3.gif" width="10" height="10"></td>
-               <td width="100%" style="border-bottom: 1px solid #bbbbbb;"><img src="themes/ultra/img/pixel.gif" width="1" height="1"></td>
-               <td width="10"><img src="themes/ultra/img/c4.gif" width="10" height="10"></td>
-            </tr>
-         </tbody></table>
-
-         <div><img src="themes/ultra/img/pixel.gif" width="1" height="5"></div>
-         <div align="center">
-            <table cellpadding="1" cellspacing="0"><tbody><tr><td align="center"><a href="banner_click.php?advert_id=24" target="_blank"><img src="uplimg/img_A__51db0ebc10b5d4ec619168e267812f3a.jpg" border="0" alt=""></a></td></tr><tr><td align="center">"Magick Begins In The Heart"</td></tr></tbody></table>         </div>
-         <div><img src="themes/ultra/img/pixel.gif" width="1" height="5"></div>
-         <div align="center" style="padding: 5px;" class="footerfont">
-      		<a href="http://www.bestparanormalsellers.com/index.php">HOME</a>
-								| <a href="http://www.bestparanormalsellers.com/login.php?redirect=sell_item">SELL</a>
-								| <a href="http://www.bestparanormalsellers.com/register.php">REGISTER</a>
-				| <a href="http://www.bestparanormalsellers.com/login.php">LOGIN</a>
-				| <a href="http://www.bestparanormalsellers.com/content_pages.php?page=help">HELP</a>
-				| <a href="http://www.bestparanormalsellers.com/content_pages.php?page=faq">FAQ</a>
-				            | <a href="http://www.bestparanormalsellers.com/site_fees.php">SITE FEES</a>
-                                    | <a href="http://www.bestparanormalsellers.com/content_pages.php?page=about_us">ABOUT US</a>
-                                    | <a href="http://www.bestparanormalsellers.com/content_pages.php?page=contact_us">CONTACT US</a>
-                        			</div>
-         <div align="center" class="footerfont1"> Copyright ©2009 <b><a href="http://www.phpprobid.com/" target="_blank">PHP Pro Software LTD</a></b>.
-            All Rights Reserved. Designated trademarks and brands are the property of their respective owners.<br>
-            Use of this Web site constitutes acceptance of the <b>
-            Best of the Paranormal Marketplace            </b>
-                        <a href="http://www.bestparanormalsellers.com/content_pages.php?page=terms">TERMS &amp; CONDITIONS</a>
-                                    and <a href="http://www.bestparanormalsellers.com/content_pages.php?page=privacy">PRIVACY POLICY</a>
-                     </div>
-		</td>
-   </tr>
-</tbody></table>
+<!-- client side scripts [loaded in bootstrap] -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="/js/bootbox.min.js"></script>
+<script type="text/javascript" src="/js/colorbox/jquery.colorbox-min.js"></script>
 <script type="text/javascript">
-<!--
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBarCategories = new Spry.Widget.MenuBar("MenuBarCategories", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBarHelp = new Spry.Widget.MenuBar("MenuBarHelp", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-//-->
-</script>
+                    var baseUrl = "";
+                    var paths = {};
+                    var modRewrite = true;
+                    paths.calculatePostage = "http://www.bestparanormalsellers.com/listings/listing/calculate-postage";
+                    paths.typeahead = "http://www.bestparanormalsellers.com/app/typeahead/autocomplete";
+                    paths.initCategoryCounters = "http://www.bestparanormalsellers.com/admin/index/initialize-category-counters";
+                    paths.quickNavigation = "http://www.bestparanormalsellers.com/admin/index/quick-navigation";
+                    var msgs = {};
+                    msgs.close = "Close";
+                    msgs.cancel = "Cancel";
+                    msgs.ok = "OK";
+                    msgs.confirmThisAction = "Please confirm this action.";
+                </script>
+<script type="text/javascript" src="/js/cookie.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
+<!--[if lt IE 9]> <script type="text/javascript" src="/js/respond.min.js"></script><![endif]-->
+<!--[if lt IE 10]> <script type="text/javascript" src="/js/placeholders.jquery.min.js"></script><![endif]-->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -572,14 +757,18 @@ var MenuBarHelp = new Spry.Widget.MenuBar("MenuBarHelp", {imgDown:"SpryAssets/Sp
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script><!--VISISTAT SNIPPET//-->
-<script type="text/javascript">
-//<![CDATA[
-var DID=207663;
-var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
-document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
-//]]>
-</script><script src="https://sniff.visistat.com/live.js" type="text/javascript"></script>
+</script>
+<script type="text/javascript" src="/js/typeahead/autocomplete.js"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul>
 
-<!--VISISTAT SNIPPET//-->
-</body></html>
+                        <script type="text/javascript">
+                            $('.btn-cookie-confirm').on('click', function() {
+                                $.cookie('LmKGplutCookieUsage', '1', {path: '/', expires: 30});
+                                $('.cookie-usage').remove();
+                            });
+                        </script>
+<!-- any theme specific js code and includes should be added below -->
+<script src="/themes/standard/js/all.js" type="text/javascript"></script>
+
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
