@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207090150id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618172116id_/http%3A//www.harveynichols.com/information/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ In signing up, you consent to receive information from us about products, promot
 
 ### How to unsubscribe from email communications
 
-You can unsubscribe from our newsletter via the 'Unsubscribe' link provided in all emails we send; by replying to any marketing email with the word ‘STOP’ either in the subject line or body of the email, or by calling our Customer Services Team on 020 7201 8088. Overseas customers, please call +44 (0)20 7201 8088 or email [compliance@harveynichols.com.](mailto:compliance@harveynichols.com?Subject=I%27d%20like%20to%20unsubscribe)
+You can unsubscribe from our newsletter via the 'Unsubscribe' link provided in all emails we send; by replying to any marketing email with the word ‘STOP’ either in the subject line or body of the email, or by calling our Customer Services Team on +44 (0)20 7201 8088. Overseas customers, please call +44 (0)20 7201 8088 or email [compliance@harveynichols.com.](mailto:compliance@harveynichols.com?Subject=I%27d%20like%20to%20unsubscribe)
 
 Please be aware that it may take up to 15 days to stop receiving emails, and a later opt-in will supersede an earlier opt-out.
 
