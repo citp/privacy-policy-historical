@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ebay.pt privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225203941id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.pt privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618123935id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
 This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15, 2015** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.com/help/pp_previous.html).
 
-The eBay website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If Customer Support cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification applies only to information that is collected through this website, www.ebay.com.
+eBay has received TRUSTe's privacy seal signifying that this Privacy Notice and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this site and the eBay mobile site, and does not cover information that may be collected through software downloaded from the site.
 
-[](http://privacy.truste.com/privacy-seal/eBay-Inc-/validation?rid=ee496e33-69a1-49b4-9c88-e752d34b4cfb)
+[](http://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d)
 
 ## Summary & Contents
 
