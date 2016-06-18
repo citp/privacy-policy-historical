@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217182733id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618105627id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Nature.com
 
@@ -24,7 +24,7 @@ We at Nature Publishing Group respect your concerns about privacy and value the 
 
 ### Information We Collect
 
-We may obtain certain personal when you choose to provide them through our Site. The types of personal information we may collect include:
+We may obtain certain personal information when you choose to provide them through our Site. The types of personal information we may collect include:
 
   * your name
   * postal address
@@ -150,7 +150,7 @@ Write to us at
 
 Customer Services Department  
 Nature Publishing Group  
-The Macmillan Building
+The Campus
 
 4 Crinan Street  
 London  
