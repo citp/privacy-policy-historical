@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the priceline.com privacy policy that was archived on 2015-08-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150804064412id_/https%3A//www.priceline.com/static-pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the priceline.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618064311id_/https%3A//www.priceline.com/static-pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
     <meta charset="utf-8">
@@ -352,25 +352,30 @@
 	<div class="global-footer__outer">
 		<div class="global-footer__inner">
 			<nav class="global-footer__top">
+				<div class="product-asterisks">
+					<div ng-bind-html="asteriskMessageCar" class="ng-binding"></div>
+					<div ng-bind-html="asteriskMessageStay" class="ng-binding"></div>
+					<div ng-bind-html="asteriskMessageFly" class="ng-binding"></div>
+				</div>
 				<!-- ngRepeat: nav in mainNavs --><div class="global-footer__top-column ng-scope" ng-repeat="nav in mainNavs">
 					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Hotels</strong>
 					<!-- ngIf: nav.sub --><ul class="global-footer__top-column__list ng-scope" ng-if="nav.sub">
 						<!-- ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/expressdeals.do" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Express Deals<sup>™</sup></a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/expressdeals.do" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Express Deals<sup>™</sup></a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/name_your_own_price/hotels" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Name Your Own Price<sup>®</sup> Hotels</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/name_your_own_price/hotels" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Name Your Own Price<sup>®</sup> Hotels</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/hotel_winning_bids.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">See Winning Hotel Bids</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/hotel_winning_bids.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">See Winning Hotel Bids</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/hotel-freebies/" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Hotels on Sale: Freebies</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/hotel-freebies/" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Hotels on Sale: Freebies</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/lastminute/hotels.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Last Minute Hotels Deals</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/lastminute/hotels.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Last Minute Hotels Deals</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/travelguides" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Hotel Guides</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/travelguides" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Hotel Guides</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub -->
 					</ul><!-- end ngIf: nav.sub -->
 					<div class="global-footer__social ng-hide" ng-show="$last">
-						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Hotels</strong>
+						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="socialNav.title">Connect With Us</strong>
 						<ul class="global-footer__top-column__list--social">
 							<!-- ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="https://www.facebook.com/priceline" class="icon-social-facebook" target="_blank"><span class="is-vishidden ng-binding">Facebook</span></a><!-- end ngIf: network.src -->
@@ -381,25 +386,25 @@
 							</li><!-- end ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="http://www.youtube.com/user/priceline?feature=watch" class="icon-social-youtube" target="_blank"><span class="is-vishidden ng-binding">YouTube</span></a><!-- end ngIf: network.src -->
 							</li><!-- end ngRepeat: network in socialNav.sub -->
-						</ul>	
+						</ul>
 					</div>
 				</div><!-- end ngRepeat: nav in mainNavs --><div class="global-footer__top-column ng-scope" ng-repeat="nav in mainNavs">
 					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Rental Cars</strong>
 					<!-- ngIf: nav.sub --><ul class="global-footer__top-column__list ng-scope" ng-if="nav.sub">
 						<!-- ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/name_your_own_price/rentalcars" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Name Your Own Price<sup>®</sup> Rental Cars</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/name_your_own_price/rentalcars" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Name Your Own Price<sup>®</sup> Rental Cars</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/rc_winning_bids.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">See Winning Rental Car Bids</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/rc_winning_bids.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">See Winning Rental Car Bids</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/lastminute/rentalcars.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Last Minute Rental Cars</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/lastminute/rentalcars.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Last Minute Rental Cars</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/weekend-getaways/rentalcars.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Weekend Rental Cars</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/weekend-getaways/rentalcars.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Weekend Rental Cars</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/deals/rentalcars/states_80002.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Explore Car Rentals by State</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/deals/rentalcars/states_80002.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Explore Car Rentals by State</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub -->
 					</ul><!-- end ngIf: nav.sub -->
 					<div class="global-footer__social ng-hide" ng-show="$last">
-						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Rental Cars</strong>
+						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="socialNav.title">Connect With Us</strong>
 						<ul class="global-footer__top-column__list--social">
 							<!-- ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="https://www.facebook.com/priceline" class="icon-social-facebook" target="_blank"><span class="is-vishidden ng-binding">Facebook</span></a><!-- end ngIf: network.src -->
@@ -410,25 +415,25 @@
 							</li><!-- end ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="http://www.youtube.com/user/priceline?feature=watch" class="icon-social-youtube" target="_blank"><span class="is-vishidden ng-binding">YouTube</span></a><!-- end ngIf: network.src -->
 							</li><!-- end ngRepeat: network in socialNav.sub -->
-						</ul>	
+						</ul>
 					</div>
 				</div><!-- end ngRepeat: nav in mainNavs --><div class="global-footer__top-column ng-scope" ng-repeat="nav in mainNavs">
 					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Flights</strong>
 					<!-- ngIf: nav.sub --><ul class="global-footer__top-column__list ng-scope" ng-if="nav.sub">
 						<!-- ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/name_your_own_price/flights/" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Name Your Own Price<sup>®</sup> Flights</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/name_your_own_price/flights/" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Name Your Own Price<sup>®</sup> Flights</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/lastminute/flights.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Last Minute Flights</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/lastminute/flights.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Last Minute Flights</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/weekend-getaways/flights.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Weekend Flights</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/promo/weekend-getaways/flights.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Weekend Flights</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/deals/flights/group_listing_100001.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Flights by Origin</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/deals/flights/group_listing_100001.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Flights by Origin</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/deals/flights/group_listing_100000.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Flights by Destination</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/deals/flights/group_listing_100000.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Flights by Destination</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub -->
 					</ul><!-- end ngIf: nav.sub -->
 					<div class="global-footer__social ng-hide" ng-show="$last">
-						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Flights</strong>
+						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="socialNav.title">Connect With Us</strong>
 						<ul class="global-footer__top-column__list--social">
 							<!-- ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="https://www.facebook.com/priceline" class="icon-social-facebook" target="_blank"><span class="is-vishidden ng-binding">Facebook</span></a><!-- end ngIf: network.src -->
@@ -439,27 +444,31 @@
 							</li><!-- end ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="http://www.youtube.com/user/priceline?feature=watch" class="icon-social-youtube" target="_blank"><span class="is-vishidden ng-binding">YouTube</span></a><!-- end ngIf: network.src -->
 							</li><!-- end ngRepeat: network in socialNav.sub -->
-						</ul>	
+						</ul>
 					</div>
 				</div><!-- end ngRepeat: nav in mainNavs --><div class="global-footer__top-column ng-scope" ng-repeat="nav in mainNavs">
-					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">About our Company</strong>
+					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">About Our Company</strong>
 					<!-- ngIf: nav.sub --><ul class="global-footer__top-column__list ng-scope" ng-if="nav.sub">
 						<!-- ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="http://careers.priceline.com/" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Careers</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="http://careers.priceline.com/" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Careers</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/advertise" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Advertise</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/advertise" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Advertise</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/media" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Media Center</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/join" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Add Your Hotel</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="http://ir.priceline.com/" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Investor Relations</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="http://www.pricelinepartnernetwork.com/" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Travel Affiliate Program</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/static-pages/privacy-policy.html" ng-bind-html="location.title" rel="" class="ng-binding ng-scope">Privacy Policy</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/media" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Media Center</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="http://www.priceline.com/privacypolicy/terms_en.html" ng-bind-html="location.title" rel="nofollow" class="ng-binding ng-scope">Terms and Conditions</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="http://ir.priceline.com/" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Investor Relations</a><!-- end ngIf: location.src -->
+						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/static-pages/privacy-policy.html" ng-bind-html="location.title" rel="" target="_self" class="ng-binding ng-scope">Privacy Policy</a><!-- end ngIf: location.src -->
+						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/static-pages/terms_en.html" ng-bind-html="location.title" rel="nofollow" target="_self" class="ng-binding ng-scope">Terms and Conditions</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub -->
 					</ul><!-- end ngIf: nav.sub -->
 					<div class="global-footer__social ng-hide" ng-show="$last">
-						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">About our Company</strong>
+						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="socialNav.title">Connect With Us</strong>
 						<ul class="global-footer__top-column__list--social">
 							<!-- ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="https://www.facebook.com/priceline" class="icon-social-facebook" target="_blank"><span class="is-vishidden ng-binding">Facebook</span></a><!-- end ngIf: network.src -->
@@ -470,21 +479,21 @@
 							</li><!-- end ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="http://www.youtube.com/user/priceline?feature=watch" class="icon-social-youtube" target="_blank"><span class="is-vishidden ng-binding">YouTube</span></a><!-- end ngIf: network.src -->
 							</li><!-- end ngRepeat: network in socialNav.sub -->
-						</ul>	
+						</ul>
 					</div>
 				</div><!-- end ngRepeat: nav in mainNavs --><div class="global-footer__top-column ng-scope" ng-repeat="nav in mainNavs">
-					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Customer Service</strong>
+					<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Customer Care</strong>
 					<!-- ngIf: nav.sub --><ul class="global-footer__top-column__list ng-scope" ng-if="nav.sub">
 						<!-- ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/customerservice/customerservice.do" ng-bind-html="location.title" rel="nofollow" class="ng-binding ng-scope">Self-Service</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/help/" ng-bind-html="location.title" rel="nofollow" target="_self" class="ng-binding ng-scope">Self-Service</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/customerservice/customerservice.do?selectedTab=faq" ng-bind-html="location.title" rel="nofollow" class="ng-binding ng-scope">Frequently Asked Questions</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/help/" ng-bind-html="location.title" rel="nofollow" target="_self" class="ng-binding ng-scope">Frequently Asked Questions</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub --><li class="global-footer__top-column__item ng-scope" ng-repeat="location in nav.sub">
-							<!-- ngIf: location.src --><a ng-if="location.src" href="/customerservice/customerservice.do?selectedTab=contact" ng-bind-html="location.title" rel="nofollow" class="ng-binding ng-scope">Contact Us</a><!-- end ngIf: location.src -->
+							<!-- ngIf: location.src --><a ng-if="location.src" href="/help/" ng-bind-html="location.title" rel="nofollow" target="_self" class="ng-binding ng-scope">Contact Us</a><!-- end ngIf: location.src -->
 						</li><!-- end ngRepeat: location in nav.sub -->
 					</ul><!-- end ngIf: nav.sub -->
 					<div class="global-footer__social" ng-show="$last">
-						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="nav.title">Customer Service</strong>
+						<strong class="global-footer__top-column__headline ng-binding" ng-bind-html="socialNav.title">Connect With Us</strong>
 						<ul class="global-footer__top-column__list--social">
 							<!-- ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="https://www.facebook.com/priceline" class="icon-social-facebook" target="_blank"><span class="is-vishidden ng-binding">Facebook</span></a><!-- end ngIf: network.src -->
@@ -495,7 +504,7 @@
 							</li><!-- end ngRepeat: network in socialNav.sub --><li class="global-footer__top-column__item--social ng-scope" ng-repeat="network in socialNav.sub">
 								<!-- ngIf: network.src --><a ng-if="network.src" href="http://www.youtube.com/user/priceline?feature=watch" class="icon-social-youtube" target="_blank"><span class="is-vishidden ng-binding">YouTube</span></a><!-- end ngIf: network.src -->
 							</li><!-- end ngRepeat: network in socialNav.sub -->
-						</ul>	
+						</ul>
 					</div>
 				</div><!-- end ngRepeat: nav in mainNavs -->
 			</nav>
@@ -515,12 +524,12 @@
 					<i class="global-footer__app-download__icon icon-utility-android"></i>
 					<strong> Get the Priceline App!</strong>
 					<span class="global-footer__app-download__sub-headline">Send a download link to your mobile device</span>
-							 
+
 					<form name="footerTextToDownloadForm" class="global-footer__app-download__form ng-pristine ng-valid">
 
-						<div class="global-footer__app-download__form-container">		 
+						<div class="global-footer__app-download__form-container">
 				       		<label class="global-footer__app-download__input-label is-hidden" for="text">Enter your mobile number</label>
-				       		<input class="global-footer__app-download__input ng-pristine ng-valid ng-valid-pattern" =id="text" ng-pattern="/^[1]*(\s|-|\.)*[\d]{3}(\s|-|\.)*[\d]{3}(\s|-|\.)*[\d]{4}/" type="text" name="numberToText" ng-model="numberToText" placeholder="Mobile Phone Number" ng-click="typing()" ng-model-options="{ debounce: 500 }">
+				       		<input class="global-footer__app-download__input ng-pristine ng-valid ng-valid-pattern" =id="text" ng-pattern="/^[1]*(\s|-|\.)*[\d]{3}(\s|-|\.)*[\d]{3}(\s|-|\.)*[\d]{4}/" type="text" name="numberToText" ng-model="numberToText" ng-click="typing()" ng-model-options="{ debounce: 500 }">
 			       		</div>
 			            <button class="button--secondary global-footer__app-download__input-button" ng-click="textToPhone()">Send</button>
 			        </form>
@@ -542,10 +551,12 @@
 					</ul>
 				</div>
 			</div>
-		<p class="footnote ng-binding" ng-bind-html="fineprint">* Priceline Name Your Own Price<sup>®</sup> and express deals services are different from published price services. Exact hotel, airline and rental car company are shown only after booking. All sales final.</p>
-			
-		<p class="footnote">PRICELINE, PRICELINE.COM, NAME YOUR OWN PRICE, NEGOTIATOR, PRICEBREAKERS and EXPRESS DEALS are registered service marks and NOFEE and EXPRESS DEAL are service marks of priceline.com LLC. Priceline is located at 800 Connecticut Ave. Norwalk, CT 06854.</p>
+
+		<p class="footnote">PRICELINE, PRICELINE.COM, NAME YOUR OWN PRICE, THE NEGOTIATOR, PRICELINE NEGOTIATOR, EXPRESS DEALS, PRICEBREAKERS, and TONIGHT-ONLY DEALS are service marks or registered service marks of priceline.com LLC. U.S. Patents 5,794,207; 5,897,620; 6,085,169; 6,510,418; 6,553,346; 6,993,503; 7,188,176; 7,203,660; 7,386,508; 7,472,074; 7,516,089; 7,617,491; 7,620,619; 7,664,672 and 7,848,940.</p>
+
 		<p class="footnote ng-binding">All material herein © 1998-2020 priceline.com LLC, all rights reserved.</p>
+
+		<p class="footnote">priceline.com LLC is located at 800 Connecticut Ave. Norwalk, CT 06854.</p>
 		</div>
 	</div>
 	<aside class="global-footer__pcln-group-logos">
@@ -559,12 +570,12 @@
             	<li class="global-footer__pcln-group-logos__item--rentalcars"></li>
             	<li class="global-footer__pcln-group-logos__item--opentable"></li>
          	</ul>
-    	</div> 
+    	</div>
 	</aside>
 </footer>
   </div>
 
-  <script src="scripts/privacy-policy-vendor-fad19feb.js"></script>
+  <script src="scripts/privacy-policy-vendor-a57148dd.js"></script>
 
   <script>
     angular.module('privacyPolicy', ['pcln.global.footer']);
