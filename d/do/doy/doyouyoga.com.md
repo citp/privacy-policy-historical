@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173325id_/http%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouyoga.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618065815id_/http%3A//www.doyouyoga.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DOYOUYOGA
+# Privacy Policy | DOYOUYOGA.COM
 
 _Last modified: September  21nd, 2015_
 
-DOYOUYOGA is fully owned by Skyrocket Digital GmbH (hereinafter referred to as „Skyrocket“). Before reading the DOYOUYOGA Privacy Policy, please also read our [Terms & Conditions](https://web.archive.org/terms/).
+DOYOUYOGA is fully owned by Skyrocket Group Limited (hereinafter referred to as „Skyrocket“). Before reading the DOYOUYOGA Privacy Policy, please also read our [Terms & Conditions](https://web.archive.org/terms/).
 
-Skyrocket Group Limited (“Skyrocket”) and the DOYOUYOGA website (“DOYOUYOGA”) recognize that privacy is important and we are committed to protecting your privacy rights (“Policy”). We use the information we collect about you to process orders, to improve the content of DOYOUYOGA and to provide a more personalized experience. We may also use it to periodically inform you about changes on our Website and new products and services. We do not sell, trade or rent your personal information to others.
+Skyrocket and the DOYOUYOGA website (“DOYOUYOGA”) recognize that privacy is important and we are committed to protecting your privacy rights (“Policy”). We use the information we collect about you to process orders, to improve the content of DOYOUYOGA and to provide a more personalized experience. We may also use it to periodically inform you about changes on our Website and new products and services. We do not sell, trade or rent your personal information to others.
 
 This Policy applies to all of the products, services and websites offered by DOYOUYOGA, the mobile or tablet versions thereof, any DOYOUYOGA software, and any applications created by Skyrocket whether available through a social networking site or its subsidiaries or affiliated companies (collectively, the “Service”). Please note that the availability of any DOYOUYOGA applications on a social networking site, mobile or tablet device, internet television or other technology platform does not indicate any relationship or affiliation between DOYOUYOGA and such social networking site, mobile or tablet device, or internet television or other technology platform.
 
