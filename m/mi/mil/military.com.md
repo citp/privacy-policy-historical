@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115725id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618033555id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy | Military.com
 
@@ -117,9 +117,9 @@ Military also uses JavaScript, for example, within certain advertisements. JavaS
 If, at any time, you have questions or concerns about Military's privacy commitment, please feel free to email us at [privacystatement@military-inc.com](mailto:privacystatement@military-inc.com) or write to us at:
 
 Military Advantage, Inc.  
-799 Market Street  
-Suite 500  
-San Francisco, CA 94103
+55 Second Street  
+Suite 300  
+San Francisco, CA 94105
 
 Thank you for using Military.com.  
 Update effective 10 June 2011
