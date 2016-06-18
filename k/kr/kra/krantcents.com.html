@@ -1,24 +1,156 @@
-<!--The following is the downloaded HTML source of the krantcents.com privacy policy that was archived on 2015-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151216165739id_/http%3A//www.krantcents.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the krantcents.com privacy policy that was archived on 2016-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618034956id_/http%3A//www.krantcents.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Privacy Policy</title>
-<meta name="robots" content="noodp, noydir">
-<meta name="description" content="We take your privacy seriously. What This Privacy Policy Covers: Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Information Collection and Use […]">
-<link rel="stylesheet" href="http://www.krantcents.com/wp-content/themes/thesis_17/style.css?061715-205740" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.krantcents.com/wp-content/themes/thesis_17/custom/layout.css?061715-205740" type="text/css" media="screen, projection">
-<!--[if lte IE 8]><link rel="stylesheet" href="http://www.krantcents.com/wp-content/themes/thesis_17/lib/css/ie.css?061715-205740" type="text/css" media="screen, projection" /><![endif]-->
-<link rel="stylesheet" href="http://www.krantcents.com/wp-content/themes/thesis_17/custom/custom.css?061715-230915" type="text/css" media="screen, projection">
+<!DOCTYPE html><html lang="en-US"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title><meta name="robots" content="noodp,noydir">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="alternate" type="application/rss+xml" title="KrantCents » Feed" href="http://www.krantcents.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="KrantCents » Comments Feed" href="http://www.krantcents.com/comments/feed/">
 <link rel="canonical" href="http://www.krantcents.com/privacy-policy/">
-<link rel="alternate" type="application/rss+xml" title="KrantCents RSS Feed" href="http://feeds.feedburner.com/Krantcents">
-<link rel="pingback" href="http://www.krantcents.com/xmlrpc.php">
-<link rel="alternate" type="application/rss+xml" title="KrantCents » Privacy Policy Comments Feed" href="http://www.krantcents.com/privacy-policy/feed/">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.krantcents.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.5","twemoji":"http:\/\/www.krantcents.com\/wp-includes\/js\/twemoji.js?ver=4.2.5"}};
-			<br />
-<b>Warning</b>:  readfile() has been disabled for security reasons in <b>/home/krantcents/public_html/wp-includes/formatting.php</b> on line <b>4296</b><br />
-		</script>
+		<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.krantcents.com\/wp-includes\/js\/wp-emoji.js","twemoji":"http:\/\/www.krantcents.com\/wp-includes\/js\/twemoji.js"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tonedata, tone, tone2;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				return canvas.toDataURL().length > 3000;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.krantcents.com/wp-includes/js/twemoji.js" type="text/javascript"></script><script src="http://www.krantcents.com/wp-includes/js/wp-emoji.js" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -33,109 +165,34 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.krantcents.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2" type="text/css" media="all">
-<link rel="stylesheet" id="digg-digg-css" href="http://www.krantcents.com/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6" type="text/css" media="screen">
-<link rel="stylesheet" id="wp125style-css" href="http://www.krantcents.com/wp-content/plugins/wp125/wp125.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="woodojo_tabs-css" href="http://www.krantcents.com/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/css/style.css?ver=4.2.5" type="text/css" media="all">
-<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/js/functions.js?ver=1.0.0"></script>
+<link rel="stylesheet" id="aspire-pro-css" href="http://www.krantcents.com/wp-content/themes/aspire/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.krantcents.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="digg-digg-css" href="http://www.krantcents.com/wp-content/plugins/digg-digg/css/diggdigg-style.css" type="text/css" media="screen">
+<link rel="stylesheet" id="wp125style-css" href="http://www.krantcents.com/wp-content/plugins/wp125/wp125.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.krantcents.com/wp-includes/css/dashicons.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/jquery/jquery-migrate.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-content/themes/genesis/lib/js/skip-links.js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.krantcents.com/wp-content/themes/genesis/lib/js/html5shiv.js'></script>
+<![endif]-->
+<script type="text/javascript" src="http://www.krantcents.com/wp-content/themes/aspire/js/global.js"></script>
+<link rel="https://api.w.org/" href="http://www.krantcents.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.krantcents.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.krantcents.com/wp-includes/wlwmanifest.xml"> 
-<link rel="shortlink" href="http://wp.me/P6mZXc-9">
-<style type="text/css">img#wpstats{display:none}</style><meta name="google-site-verification" content="Sn5cMQjG_VyEyDZfJuKHlq3jPKczv4CttqN0SK6sF88">
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://www.krantcents.com/privacy-policy/">
-<meta property="og:description" content="We take your privacy seriously. What This Privacy Policy Covers: Personal information is information about you that is personally identifiable like your name, address, email address, or phone numbe...">
-<meta property="article:published_time" content="2010-08-11T19:58:51+00:00">
-<meta property="article:modified_time" content="2010-08-23T23:56:18+00:00">
-<meta property="article:author" content="http://www.krantcents.com/author/admin/">
-<meta property="og:site_name" content="KrantCents">
-<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
-<meta property="og:locale" content="en_US">
-<meta name="twitter:card" content="summary">
-
+<link rel="alternate" type="application/json+oembed" href="http://www.krantcents.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.krantcents.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.krantcents.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.krantcents.com%2Fprivacy-policy%2F&amp;format=xml">
+<style type="text/css">img#wpstats{display:none}</style><link rel="icon" href="http://www.krantcents.com/wp-content/themes/aspire/images/favicon.ico">
+<link rel="pingback" href="http://www.krantcents.com/xmlrpc.php">
 </head>
-<body class="custom privacy-policy">
-<div id="container">
-<div id="page">
-<div id="top_bar">
-<ul>
-<li><a href="http://www.krantcents.com">Home</a></li>
-<li><a href="http://www.krantcents.com/about">About</a></li>
-<li><a href="http://www.krantcents.com/contact">Contact</a></li>
-<li><a href="http://www.krantcents.com/privacy-policy">Privacy Policy</a></li>
-<li><a href="http://www.facebook.com/?ref=home#!/pages/Krantcents/154215157922873?ref=sgm"><img src="http://www.krantcents.com/wp-content/uploads/2012/01/facebook.png" alt="Facebook Fan Page"></a> </li>
-<li><a href="http://twitter.com/krantcents"><img src="http://www.krantcents.com/wp-content/uploads/2012/01/twitter.png" alt="Follow me on Twitter"></a> </li>
-<li><p><a href="http://feeds.feedburner.com/feedburner/krantcents" rel="alternate" type="application/rss+xml"><img src="http://www.krantcents.com/wp-content/uploads/2012/01/rss.png" alt="" style="vertical-align:middle;border:0"></a>&nbsp;<a href="http://feeds.feedburner.com/feedburner/krantcents" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></p> </li>
-
-
-</ul>
-</div>
-
-<div id="google_translate_element"></div><script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en'
-  }, 'google_translate_element');
-}
-</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><div class="widget widget_search">
-
-	
-
-<form method="get" class="search_form" action="http://www.krantcents.com/">
-		<p>
-<input type="text" onblur="if (this.value == '') {this.value = 'Search for answers';}" onfocus="if (this.value == 'Search for answers') {this.value = '';}" id="s" name="s" value="Search for answers" class="text_input">
-<input type="submit" id="searchsubmit" value="Search">
-
-		</p>
-
-	</form>
-
-
-
-</div>
-	<div id="header">
-<div class="logo"> <a href="http://www.krantcents.com"><img src="http://www.krantcents.com/wp-content/uploads/2015/06/logo.png" alt="Krant Cents"></a></div>
-
-<div class="header_ad"><script type="text/javascript"><!--
-google_ad_client = "pub-0885682417945612";
-/* 468x60, created 10/23/10 */
-google_ad_slot = "7275095167";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>	</div>
-<ul class="menu">
-<li class="tab tab-home"><a href="http://www.krantcents.com">Home</a></li>
-	<li class="cat-item cat-item-18"><a href="http://www.krantcents.com/careers/">Careers</a>
-</li>
-	<li class="cat-item cat-item-21"><a href="http://www.krantcents.com/goals/">Goals</a>
-</li>
-	<li class="cat-item cat-item-3"><a href="http://www.krantcents.com/investments/">Investments</a>
-</li>
-	<li class="cat-item cat-item-49"><a href="http://www.krantcents.com/lifestyle-2/">Lifestyle</a>
-</li>
-	<li class="cat-item cat-item-4"><a href="http://www.krantcents.com/managing-money/">Managing Money</a>
-</li>
-	<li class="cat-item cat-item-30"><a href="http://www.krantcents.com/money-and-children/">Money and Children</a>
-</li>
-<li class="rss"><a href="http://feeds.feedburner.com/Krantcents" title="KrantCents RSS Feed" rel="nofollow">Subscribe</a></li>
-</ul>
-	<div id="content_box">
-		<div id="content">
-
-			<div class="post_box top" id="post-9">
-				<div class="headline_area">
-					<h1>Privacy Policy</h1>
-					<p class="headline_meta"><span><a href="http://www.krantcents.com/privacy-policy/#comments" rel="nofollow">0 comments</a></span></p>
-				</div>
-				<div class="format_text">
-<!--Ad Injection:top-->
+<body class="page page-id-9 page-template-default header-image header-full-width content-sidebar" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li></ul></section>
+<header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.krantcents.com/">KrantCents</a></p><p class="site-description" itemprop="description">Making Sense of Money</p></div><nav class="nav-primary" itemscope="" itemtype="http://schema.org/SiteNavigationElement" id="genesis-nav-primary" aria-label="Main navigation"><div class="wrap"><ul id="menu-primary-navigation" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-11275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11275"><a href="http://www.krantcents.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-11276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="http://www.krantcents.com/about/" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-11277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11277"><a href="http://www.krantcents.com/contact/" itemprop="url"><span itemprop="name">Contact Me</span></a></li>
+<li id="menu-item-11278" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-11278"><a href="http://www.krantcents.com/privacy-policy/" itemprop="url"><span itemprop="name">Privacy Policy</span></a></li>
+</ul></div></nav></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-9 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy Policy</h1> 
+</header><div class="entry-content" itemprop="text"><!--Ad Injection:top-->
 <div style=""><center><script type="text/javascript"><!--
 google_ad_client = "ca-pub-8327782253380545";
 /* ira basics */
@@ -146,34 +203,34 @@ google_ad_height = 280;
 </script>
 <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></center></div><p>We take your privacy seriously.</p>
-<p>What This Privacy Policy Covers:</p>
+<p>What This Privacy Policy Covers:</p><!--Ad Injection:random-->
+<div style=""><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Recommended Ad Unit -->
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8327782253380545" data-ad-slot="8505423102"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center></div>
 <p>Personal information is information about you that is personally   identifiable like your name, address, email address, or phone number,   and that is not otherwise publicly available.</p>
 <p>Information Collection and Use</p>
 <p>When you post a comment on the site, we ask for your name, email address, website URL.</p>
 <p>Log Files</p>
 <p>As with most other websites, we collect and use the data contained in   log files. The information in the log files include your IP (internet   protocal) address, your ISP (internet service provider, such as AOL or   Shaw Cable), the browser you used to visit our site (such as Internet   Explorer or Firefox), the time you visited our site and which pages you   visited throughout our site.</p>
 <p>This blog uses Google Analytics, wp-stats to automatically receive   and record information from your browser, including your IP address,   cookie information, and the page you request.</p>
-<p>Cookies and Web Beacons</p><!--Ad Injection:random-->
-<div style=""><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Recommended Ad Unit -->
-<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8327782253380545" data-ad-slot="8505423102"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></center></div>
+<p>Cookies and Web Beacons</p>
 <p>We do use cookies to store information, such as your personal   preferences when you visit our site. This could include only showing you   a popup once in your visit, or the ability to login to some of our   features, such as forums.</p>
 <p>We also use third party advertisements to support our site. Some of   these advertisers may use technology such as cookies and web beacons   when they advertise on our site, which will also send these advertisers   (such as Google through the Google AdSense program) information   including your IP address, your ISP, the browser you used to visit our   site, and in some cases, whether you have Flash installed. This is   generally used for geotargeting purposes (showing New York real estate   ads to someone in New York, for example) or showing certain ads based on   specific sites visited (such as showing cooking ads to someone who   frequents cooking sites). Google’s use of the DART cookie enables it to   serve ads to users based on their visit to your sites and other sites  on  the Internet.</p>
 <p>You can chose to disable or selectively turn off our cookies or   third-party cookies in your browser settings, or by managing preferences   in programs such as Norton Internet Security. You may opt out of the   use of the DART cookie by visiting the Google ad and content network   privacy policy. However, this can affect how you are able to interact   with our site as well as other websites. This could include the   inability to login to services or programs, such as logging into forums   or accounts.</p>
-<p>Information Sharing and Disclosure</p><!--Ad Injection:random-->
+<p>Information Sharing and Disclosure</p>
+<p>I will not rent, sell, or share personal information about you with   other people or non-affiliated companies.Data like your email address   will not be made visible on the site, unless you choose to display it.</p>
+<p>Changes to this Privacy Policy</p>
+<p>I may update this policy. In the event that this happens a prominent notice a prominent notice will be made on this site.</p>
+<p>If you have any questions, please contact me.</p><!--Ad Injection:random-->
 <div style=""><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Recommended Ad Unit -->
 <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8327782253380545" data-ad-slot="8505423102"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center></div>
-<p>I will not rent, sell, or share personal information about you with   other people or non-affiliated companies.Data like your email address   will not be made visible on the site, unless you choose to display it.</p>
-<p>Changes to this Privacy Policy</p>
-<p>I may update this policy. In the event that this happens a prominent notice a prominent notice will be made on this site.</p>
-<p>If you have any questions, please contact me.</p>
 <p>Thanks,</p>
 <p>Krantcents.</p>
 <!--Ad Injection:bottom-->
@@ -182,265 +239,39 @@ google_ad_height = 280;
 <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8327782253380545" data-ad-slot="8505423102"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></center></div>                                                                 
-                                                                     
-                                                                     
-                                             
-<div class="pw-widget pw-size-small">
-	<a class="pw-button-facebook"></a>
-	<a class="pw-button-twitter"></a>
-	<a class="pw-button-googleplus"></a>
-	<a class="pw-button-digg"></a>
-	<a class="pw-button-delicious"></a>
-	<a class="pw-button-stumbleupon"></a>
-	<a class="pw-button-post"></a>
-</div>
-
-
-
-				</div>
-			</div>
-			<div id="comments">
-				<div id="respond">
-					<div id="respond_intro">
-<a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel reply</a>						<p>Leave a Comment</p>
-					</div>
-					<form action="http://www.krantcents.com/wp-comments-post.php" method="post" id="commentform">
-						<p><input class="text_input" type="text" name="author" id="author" value="" tabindex="1" aria-required="true"><label for="author">Name <span class="required" title="Required">*</span></label></p>
-						<p><input class="text_input" type="text" name="email" id="email" value="" tabindex="2" aria-required="true"><label for="email">E-mail <span class="required" title="Required">*</span></label></p>
-						<p><input class="text_input" type="text" name="url" id="url" value="" tabindex="3"><label for="url">Website</label></p>
-						<p class="comment_box">
-							<textarea name="comment" id="comment" tabindex="4" cols="40" rows="8"></textarea>
-						</p>
-						<p class="remove_bottom_margin">
-							<input name="submit" class="form_submit" type="submit" id="submit" tabindex="5" value="Submit">
-<input type="hidden" name="comment_post_ID" value="9" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-						</p>
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8d7f75a1ac"></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="152"></p>					</form>
-				</div>
-			</div>
-		</div>
-
-		<div id="sidebars">
-			<div id="sidebar_1" class="sidebar">
-				<ul class="sidebar_list">
-<li class="widget widget_woodojo_tabs" id="woodojo_tabs-2"><h3>Popular</h3><div class="tabbable tabs-above">
-<ul class="nav nav-tabs">
-<li class="tab-heading-latest first active"><a href="#tab-pane-latest">Latest</a></li>
-<li class="tab-heading-popular"><a href="#tab-pane-popular">Popular</a></li>
-<li class="tab-heading-comments"><a href="#tab-pane-comments">Comments</a></li>
-<li class="tab-heading-tags last"><a href="#tab-pane-tags">Tags</a></li>
-</ul>
-<div class="tab-content image-align-left">
-<div id="tab-pane-latest" class="tab-pane tab-pane-latest first active">
-<ul class="latest">
-<li>
-<a title="FRUGAL CHRISTMAS: 5 ESSENTIAL TIPS FOR CHEAPER HOLIDAY SEASON" href="http://www.krantcents.com/frugal-christmas-5-essential-tips-for-cheaper-holiday-season/">FRUGAL CHRISTMAS: 5 ESSENTIAL TIPS FOR CHEAPER HOLIDAY SEASON</a>
-<span class="meta">December 9, 2015</span>
-</li>
-<li>
-<a title="Season’s Savings: How to Save on Christmas Shopping" href="http://www.krantcents.com/seasons-savings-how-to-save-on-christmas-shopping/">Season’s Savings: How to Save on Christmas Shopping</a>
-<span class="meta">December 8, 2015</span>
-</li>
-<li>
-<a title="How to Choose a Financial Advisor" href="http://www.krantcents.com/how-to-choose-a-financial-advisor/">How to Choose a Financial Advisor</a>
-<span class="meta">December 2, 2015</span>
-</li>
-<li>
-<a title="Bad Credit Now Driving Up Monthly Bills?" href="http://www.krantcents.com/bad-credit-now-driving-up-monthly-bills/">Bad Credit Now Driving Up Monthly Bills?</a>
-<span class="meta">December 1, 2015</span>
-</li>
-<li>
-<a title="Credit Cards are better than Cash" href="http://www.krantcents.com/credit-cards-are-better-than-cash/">Credit Cards are better than Cash</a>
-<span class="meta">November 24, 2015</span>
-</li>
-</ul>
-</div><!--/.tab-pane-->
-<div id="tab-pane-popular" class="tab-pane tab-pane-popular">
-<ul class="popular">
-<li>
-<a title="I Will Never Retire!" href="http://www.krantcents.com/i-will-never-retire/">I Will Never Retire!</a>
-<span class="meta">January 22, 2013</span>
-</li>
-<li>
-<a title="Budgets and Diets Are a Waste of Time – Redux!" href="http://www.krantcents.com/budgets-and-diets-are-a-waste-of-time/">Budgets and Diets Are a Waste of Time – Redux!</a>
-<span class="meta">March 13, 2014</span>
-</li>
-<li>
-<a title="Extreme Retirement Is Fool’s Gold!" href="http://www.krantcents.com/extreme-retirement-is-fools-gold/">Extreme Retirement Is Fool’s Gold!</a>
-<span class="meta">April 25, 2013</span>
-</li>
-<li>
-<a title="20 Interview Questions to Ask Employers" href="http://www.krantcents.com/20-interview-questions-to-ask-employers/">20 Interview Questions to Ask Employers</a>
-<span class="meta">September 12, 2011</span>
-</li>
-<li>
-<a title="How to Think Rich and Be Rich" href="http://www.krantcents.com/how-to-think-rich-and-be-rich/">How to Think Rich and Be Rich</a>
-<span class="meta">July 11, 2013</span>
-</li>
-</ul>
-</div><!--/.tab-pane-->
-<div id="tab-pane-comments" class="tab-pane tab-pane-comments">
-<ul class="comments">
-<li>
-<img alt="" src="http://2.gravatar.com/avatar/e10b7d1da8beee29ba6bb30b3e360745?s=40&amp;d=mm&amp;r=g" srcset="http://2.gravatar.com/avatar/e10b7d1da8beee29ba6bb30b3e360745?s=80&amp;d=mm&amp;r=g 2x" class="avatar avatar-40 photo" height="40" width="40"><a title="Ramona @ Personal Finance Today on Small Details That Save Big on Food Expenses" href="http://www.krantcents.com/small-details-that-save-big-on-food-expenses/#comment-16037">Ramona @ Personal Finance Today</a>
-<span class="comment-content">In our case eating everything is an issue. I think</span>
-</li>
-<li>
-<img alt="" src="http://1.gravatar.com/avatar/d406ba0f055c31cbf4245607dc2bcaa9?s=40&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/d406ba0f055c31cbf4245607dc2bcaa9?s=80&amp;d=mm&amp;r=g 2x" class="avatar avatar-40 photo" height="40" width="40"><a title="Scott on A Great Way to Invest your Money for Quick Profits" href="http://www.krantcents.com/a-great-way-to-invest-your-money-for-quick-profits/#comment-16026">Scott</a>
-<span class="comment-content">Binary options are definitely high risk and high r</span>
-</li>
-<li>
-<img alt="" src="http://1.gravatar.com/avatar/102e78aae30622b1afae43d4bf7b6e72?s=40&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/102e78aae30622b1afae43d4bf7b6e72?s=80&amp;d=mm&amp;r=g 2x" class="avatar avatar-40 photo" height="40" width="40"><a title="Ramona on Why You should be Careful of ATM fees" href="http://www.krantcents.com/why-you-should-be-careful-of-atm-fees/#comment-16002">Ramona</a>
-<span class="comment-content">Here in Romania the ATM fees are pretty big and th</span>
-</li>
-<li>
-<img alt="" src="http://0.gravatar.com/avatar/0f8ece2876b1684bf773e121f9645fc3?s=40&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/0f8ece2876b1684bf773e121f9645fc3?s=80&amp;d=mm&amp;r=g 2x" class="avatar avatar-40 photo" height="40" width="40"><a title="Untemplater on We Love Our Pets But Come On…" href="http://www.krantcents.com/we-love-our-pets-but-come-on/#comment-16001">Untemplater</a>
-<span class="comment-content">My mom is a bit addicted to buying clothes and toy</span>
-</li>
-<li>
-<img alt="" src="http://2.gravatar.com/avatar/bca28f385fa3c2430312818410d81b18?s=40&amp;d=mm&amp;r=g" srcset="http://2.gravatar.com/avatar/bca28f385fa3c2430312818410d81b18?s=80&amp;d=mm&amp;r=g 2x" class="avatar avatar-40 photo" height="40" width="40"><a title="Andrew Morris on Negotiate Your Cable Bill Now" href="http://www.krantcents.com/negotiate-your-cable-bill-now/#comment-16000">Andrew Morris</a>
-<span class="comment-content">Though there are many practices that many of us te</span>
-</li>
-</ul>
-</div><!--/.tab-pane-->
-<div id="tab-pane-tags" class="tab-pane tab-pane-tags last">
-<a href="http://www.krantcents.com/tag/allowance/" class="tag-link-31" title="6 topics" style="font-size: 13.7529880478pt;">allowance</a>
-<a href="http://www.krantcents.com/tag/budget/" class="tag-link-6" title="348 topics" style="font-size: 19.1394422311pt;">Budget</a>
-<a href="http://www.krantcents.com/tag/budgeting/" class="tag-link-7" title="374 topics" style="font-size: 19.235059761pt;">Budgeting</a>
-<a href="http://www.krantcents.com/tag/career/" class="tag-link-22" title="322 topics" style="font-size: 19.0438247012pt;">Career</a>
-<a href="http://www.krantcents.com/tag/careers/" class="tag-link-18" title="335 topics" style="font-size: 19.1075697211pt;">Careers</a>
-<a href="http://www.krantcents.com/tag/cash/" class="tag-link-14" title="154 topics" style="font-size: 18.0239043825pt;">Cash</a>
-<a href="http://www.krantcents.com/tag/cheap/" class="tag-link-37" title="7 topics" style="font-size: 13.9123505976pt;">Cheap</a>
-<a href="http://www.krantcents.com/tag/consumerism/" class="tag-link-15" title="46 topics" style="font-size: 16.3665338645pt;">Consumerism</a>
-<a href="http://www.krantcents.com/tag/credit-cards/" class="tag-link-19" title="64 topics" style="font-size: 16.812749004pt;">Credit cards</a>
-<a href="http://www.krantcents.com/tag/dating/" class="tag-link-36" title="2 topics" style="font-size: 12.5737051793pt;">Dating</a>
-<a href="http://www.krantcents.com/tag/debt/" class="tag-link-35" title="83 topics" style="font-size: 17.1633466135pt;">debt</a>
-<a href="http://www.krantcents.com/tag/finance/" class="tag-link-11" title="43 topics" style="font-size: 16.2709163347pt;">Finance</a>
-<a href="http://www.krantcents.com/tag/financial-decisions/" class="tag-link-33" title="590 topics" style="font-size: 19.8725099602pt;">financial decisions</a>
-<a href="http://www.krantcents.com/tag/financial-literacy/" class="tag-link-27" title="78 topics" style="font-size: 17.0996015936pt;">financial literacy</a>
-<a href="http://www.krantcents.com/tag/frugal/" class="tag-link-38" title="29 topics" style="font-size: 15.7609561753pt;">frugal</a>
-<a href="http://www.krantcents.com/tag/frugal-living/" class="tag-link-16" title="219 topics" style="font-size: 18.5019920319pt;">Frugal Living</a>
-<a href="http://www.krantcents.com/tag/goals/" class="tag-link-21" title="614 topics" style="font-size: 19.9362549801pt;">Goals</a>
-<a href="http://www.krantcents.com/tag/goal-setting/" class="tag-link-20" title="601 topics" style="font-size: 19.9043824701pt;">Goal setting</a>
-<a href="http://www.krantcents.com/tag/information/" class="tag-link-47" title="607 topics" style="font-size: 19.9043824701pt;">information</a>
-<a href="http://www.krantcents.com/tag/interesting/" class="tag-link-40" title="639 topics" style="font-size: 20pt;">interesting</a>
-<a href="http://www.krantcents.com/tag/internet/" class="tag-link-44" title="1 topic" style="font-size: 12pt;">Internet</a>
-<a href="http://www.krantcents.com/tag/internship/" class="tag-link-43" title="11 topics" style="font-size: 14.4860557769pt;">Internship</a>
-<a href="http://www.krantcents.com/tag/interviewing/" class="tag-link-25" title="65 topics" style="font-size: 16.8446215139pt;">Interviewing</a>
-<a href="http://www.krantcents.com/tag/interviews/" class="tag-link-26" title="64 topics" style="font-size: 16.812749004pt;">Interviews</a>
-<a href="http://www.krantcents.com/tag/investing/" class="tag-link-17" title="84 topics" style="font-size: 17.1952191235pt;">Investing</a>
-<a href="http://www.krantcents.com/tag/job-search/" class="tag-link-41" title="140 topics" style="font-size: 17.8964143426pt;">Job Search</a>
-<a href="http://www.krantcents.com/tag/lifestyle/" class="tag-link-45" title="450 topics" style="font-size: 19.4900398406pt;">lifestyle</a>
-<a href="http://www.krantcents.com/tag/major-purchases/" class="tag-link-34" title="60 topics" style="font-size: 16.7490039841pt;">major purchases</a>
-<a href="http://www.krantcents.com/tag/military/" class="tag-link-23" title="3 topics" style="font-size: 12.9561752988pt;">Military</a>
-<a href="http://www.krantcents.com/tag/money/" class="tag-link-10" title="256 topics" style="font-size: 18.7250996016pt;">Money</a>
-<a href="http://www.krantcents.com/tag/mortgages/" class="tag-link-28" title="37 topics" style="font-size: 16.0796812749pt;">mortgages</a>
-<a href="http://www.krantcents.com/tag/new-years-resolution/" class="tag-link-86" title="5 topics" style="font-size: 13.5298804781pt;">New Year's Resolution</a>
-<a href="http://www.krantcents.com/tag/personal-finance/" class="tag-link-8" title="498 topics" style="font-size: 19.6494023904pt;">Personal Finance</a>
-<a href="http://www.krantcents.com/tag/planning/" class="tag-link-54" title="543 topics" style="font-size: 19.7768924303pt;">Planning</a>
-<a href="http://www.krantcents.com/tag/real-estate/" class="tag-link-69" title="3 topics" style="font-size: 12.9561752988pt;">Real Estate</a>
-<a href="http://www.krantcents.com/tag/resume/" class="tag-link-42" title="78 topics" style="font-size: 17.0996015936pt;">Resume</a>
-<a href="http://www.krantcents.com/tag/retirement/" class="tag-link-13" title="219 topics" style="font-size: 18.5019920319pt;">Retirement</a>
-<a href="http://www.krantcents.com/tag/savings/" class="tag-link-9" title="354 topics" style="font-size: 19.171314741pt;">Savings</a>
-<a href="http://www.krantcents.com/tag/scholarship/" class="tag-link-24" title="1 topic" style="font-size: 12pt;">Scholarship</a>
-<a href="http://www.krantcents.com/tag/search/" class="tag-link-46" title="1 topic" style="font-size: 12pt;">search</a>
-<a href="http://www.krantcents.com/tag/search-engine/" class="tag-link-48" title="1 topic" style="font-size: 12pt;">search engine</a>
-<a href="http://www.krantcents.com/tag/spending/" class="tag-link-32" title="90 topics" style="font-size: 17.2908366534pt;">spending</a>
-<a href="http://www.krantcents.com/tag/stretching-your-money/" class="tag-link-39" title="309 topics" style="font-size: 18.9800796813pt;">Stretching your Money</a>
-<a href="http://www.krantcents.com/tag/values/" class="tag-link-60" title="494 topics" style="font-size: 19.6175298805pt;">Values</a>
-<a href="http://www.krantcents.com/tag/wealth/" class="tag-link-12" title="382 topics" style="font-size: 19.2669322709pt;">Wealth</a></div><!--/.tab-pane-->
-</div><!--/.tab-content-->
-</div><!--/.tabbable-->
-</li><li class="widget widget_text" id="text-2"><h3>Follow us on Facebook!</h3>			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?id=154215157922873&amp;width=310&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:62px;" allowtransparency="true"></iframe></div>
-		</li><li class="widget widget_text" id="text-3"><h3>Friend us on Twitter!</h3>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/krantcents" data-widget-id="382152668803649536">Tweets by @krantcents</a>
+</script></center></div></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><section id="text-2" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Follow us on Facebook!</h4>
+			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?id=154215157922873&amp;width=310&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:62px;" allowtransparency="true"></iframe></div>
+		</div></section>
+<section id="text-3" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Friend us on Twitter!</h4>
+			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/krantcents" data-widget-id="382152668803649536">Tweets by @krantcents</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
-		</li><li class="widget widget_text" id="text-25"><h3>Follow me on Pinterest</h3>			<div class="textwidget"><a data-pin-do="embedUser" href="http://www.pinterest.com/larrykrant/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Visit Larry's profile on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script></div>
-		</li>				</ul>
-			</div>
-		</div>
-	</div>
-	<div id="footer">
-		<p><a href="http://www.krantcents.com/wp-admin/">WordPress Admin</a></p>
-<br>
-<b>Warning</b>:  call_user_func_array() expects parameter 1 to be a valid callback, function 'load_plugin_sync' not found or invalid function name in <b>/home/krantcents/public_html/wp-includes/plugin.php</b> on line <b>496</b><br>
-<!-- Powered by WPtouch: 3.7.9.1 -->	<div style="display:none">
-	<div class="grofile-hash-map-e10b7d1da8beee29ba6bb30b3e360745">
-	</div>
-	<div class="grofile-hash-map-d406ba0f055c31cbf4245607dc2bcaa9">
-	</div>
-	<div class="grofile-hash-map-102e78aae30622b1afae43d4bf7b6e72">
-	</div>
-	<div class="grofile-hash-map-0f8ece2876b1684bf773e121f9645fc3">
-	</div>
-	<div class="grofile-hash-map-bca28f385fa3c2430312818410d81b18">
-	</div>
-	</div>
-<p>krantcents.com is for general information or entertainment purposes only and does not constitute professional financial advice. Please contact an independent financial professional for advice regarding your specific situation.</p> 
-
-<div style="margin-top: 10px; font-size: 14px;">Powered by WordPress</div><script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.5"></script>
-<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/comment-reply.js?ver=4.2.5"></script>
-<script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+		</div></section>
+<section id="text-25" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Follow me on Pinterest</h4>
+			<div class="textwidget"><a data-pin-do="embedUser" href="http://www.pinterest.com/larrykrant/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Visit Larry's profile on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script></div>
+		</div></section>
+<section id="text-26" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><iframe class="even-iframe" width="100%" style="border: none; display: block;" src="//calculators.evenfinancial.com/index.html?&amp;accessToken=f0657a38-8744-4c3b-82a8-3842d8c86050_df0d5639-b66a-4387-9f72-1c0de0ce7122&amp;companyUUID=2703df1d-c4de-428b-85bc-7ecd89e76dde&amp;calc=loan-search&amp;backgroundColor=%23ECECEC&amp;noOverlay=true&amp;fontFamily=Open%20Sans&amp;buttonTextHoverColor=%2347B27E&amp;purpose=debt_consolidation"></iframe><script src="//calculators.evenfinancial.com/js/embed.js"></script></div>
+		</div></section>
+</aside></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><nav class="nav-footer"></nav><p>Copyright ©&nbsp;2010–2016 <a href="http://www.krantcents.com">KrantCents</a> • Built on the <a href="http://www.shareasale.com/r.cfm?u=699760&amp;b=241369&amp;m=28169&amp;afftrack=&amp;urllink=my%2Estudiopress%2Ecom%2Fthemes%2F" target="_blank" rel="nofollow">Genesis Framework</a></p></div></footer></div><script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.krantcents.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"http:\/\/www.krantcents.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201551"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2015Decaa"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.5"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201551.js" async="" defer=""></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/comment-reply.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/hoverIntent.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-content/themes/genesis/lib/js/menu/superfish.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-content/themes/genesis/lib/js/menu/superfish.args.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-content/themes/aspire/js/fadeup.js"></script>
+<script type="text/javascript" src="http://www.krantcents.com/wp-includes/js/wp-embed.js"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201624.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'94139386',post:'9',tz:'-5',srv:'www.krantcents.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'94139386',post:'9',tz:'-4',srv:'www.krantcents.com'} ]);
 	_stq.push([ 'clickTrackerInit', '94139386', '9' ]);
 </script>
-	</div>
-</div>
-</div>
-<!--[if lte IE 8]>
-<div id="ie_clear"></div>
-<![endif]-->
-<script src="http://i.po.st/static/v3/post-widget.js#publisherKey=q3r99ovq45t29dj6do8g" type="text/javascript"></script>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18191038-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-
-<script type="text/javascript">
-var FJHost = ((document.location.protocol == 'https:') ? 
- "https://ssllog." : "http://log.");
-document.write(unescape("%3Cscript src='" + FJHost + 
- "feedjit.com/pg/fj/9317c7470cba996f/'" + 
- " type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssllog.feedjit.com/pg/fj/9317c7470cba996f/" type="text/javascript"></script>
-<script type="text/javascript">
-try { var FJ = FJNew(); FJ.logHit(); } catch(err) {}
-</script>
-<meta name="alexaVerifyID" content="Ge3LQDsfeJ6SI_xVaPwbkwfzppA">
-
-<meta name="google-site-verification" content="Sn5cMQjG_VyEyDZfJuKHlq3jPKczv4CttqN0SK6sF88">
-<meta name="google-site-verification" content="Sn5cMQjG_VyEyDZfJuKHlq3jPKczv4CttqN0SK6sF88">
-<!-- Place this tag in your head or just before your close body tag -->
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 
 </body></html>
