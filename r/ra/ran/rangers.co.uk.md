@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rangers.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112449id_/http%3A//rangers.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangers.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618194453id_/http%3A//rangers.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Rangers Football Club, Official Website
 
