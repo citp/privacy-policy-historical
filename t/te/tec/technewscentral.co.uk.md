@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the technewscentral.co.uk privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218133858id_/http%3A//www.technewscentral.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewscentral.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618094230id_/http%3A//www.technewscentral.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TNC
 
-This Privacy Policy governs the manner in which Tech News Central collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.technewscentral.co/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech News Central.
+This Privacy Policy governs the manner in which Tech News Central collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.technewscentral.co.uk/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech News Central.
 
 **Personal identification information**
 
@@ -20,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Tech News Central may collect and use Users personal information for the following purposes:
 
-  * _– To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _– To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+  * _– To improve customer service:  _Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _– To personalize user experience:  _We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _– To improve our Site:  _We may use feedback you provide to improve our products and services.
+  * _– To run a promotion, contest, survey or other Site feature:  _To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _– To send periodic emails:  _If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
 
@@ -58,10 +58,6 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us via our [Contact Us page](http://www.technewscentral.co.uk/contact-us).
 
-[Tech News Central](http://www.technewscentral.co/)
-
-<http://www.technewscentral.co/>
-
-This document was last updated on October 09, 2012
+_This document was last updated on June  15, 2016_
