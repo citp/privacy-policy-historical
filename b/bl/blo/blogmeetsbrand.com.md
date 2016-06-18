@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogmeetsbrand.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074514id_/http%3A//www.blogmeetsbrand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmeetsbrand.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618131530id_/http%3A//www.blogmeetsbrand.com/privacy-policy) for the most accurate reproduction.*
 
-# Blog Meets Brand Privacy Policy
+# Blog Meets Brand - Connecting Bloggers and Marketers
 
 #### Information We Collect
 
@@ -81,4 +81,4 @@ Subject to certain limits under California Civil Code § 1798.83, California res
 
 #### Contact Us
 
-Should any User have any questions or experience a personal information privacy problem, please [Contact Us](https://web.archive.org/contact). 
+Should any User have any questions or experience a personal information privacy problem, please [Contact Us](https://web.archive.org/index.php/contact). 
