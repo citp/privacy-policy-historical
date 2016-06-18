@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226025155id_/http%3A//www.sacbee.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619012012id_/http%3A//www.sacbee.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Sacbee.com & The Sacramento Bee
 
