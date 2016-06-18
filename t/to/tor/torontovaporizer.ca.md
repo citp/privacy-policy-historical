@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the torontovaporizer.ca privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219132732id_/https%3A//torontovaporizer.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontovaporizer.ca privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618121758id_/https%3A//torontovaporizer.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TorontoVaporizer
+# Privacy Policy - TVape Canada
 
 * * *
 
