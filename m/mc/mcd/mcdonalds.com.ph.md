@@ -1,57 +1,69 @@
-> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922062646id_/https%3A//www.mcdonalds.com.ph/content/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618100126id_/https%3A//mcdonalds.com.ph/content/page/privacy_policy) for the most accurate reproduction.*
 
 # McDonalds : Privacy & Policy
 
-Thank you for visiting us online at www.mcdonalds.com.ph. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children.
+1\. **Privacy Policy**
 
-Thanks again for visiting our web-site and for placing your trust in McDonald's.
+1.1 At Golden Arches Development Corporation (“GADC”), we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children.
 
-**McDonald's Internet Privacy Policy**
+Thank you for placing your trust in GADC.
 
-Golden Arches Development Corporation ("McDonald's") is pleased to provide information to all of its customers about its online privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this web site. Be first.
+1.2 GADC is pleased to provide information about its privacy policy to all of its customers. Please be assured that GADC uses its best efforts to protect the privacy of visitors.
 
-**Types of Information We Collect and How It Is Used**
+2\. **Types of Information We Collect and How It Is Used   **
 
-McDonald's only gathers personal information, such as, first and last names, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our web sites and our products or to enter you in one of our contests or sweepstakes.
+2.1 GADC gathers personal information, such as, first and last names, addresses, email addresses, age, and other details provided in your Public Facebook profile, if applicable, as well as other metadata such as frequency of usage, product preferences, and other data which aids us in our research and development of products and services and providing analytical services and functions to better serve you. In addition, GADC may gather complete and accurate customer location information and contact numbers for purposes of providing delivery services for In-app Orders and the improvement of goods and services that we offer.
 
-In addition, McDonald's may gather complete and accurate customer location and contact number/s only for food delivery services it provides.
+2.2 To ensure the security of the personal information you submit, GADC always uses industry-standard encryption software and technologies when transferring and receiving customer data. We have appropriate security measures that protect against the loss, misuse or alteration of personal information that you have submitted.  Notwithstanding the foregoing, you understand that there may be circumstances beyond GADC’s reasonable control that may result in the instability or insufficiency of said measures.  You agree that, under such circumstances, GADC shall not be liable or responsible for any unauthorized use, sharing, transfer, alteration, loss or damage to any information that GADC may have gathered.
 
-**Sharing of Personal Information**
+3\. **Sharing of Personal Information from the Application**
 
-McDonald's may share personal information within the McDonald's Family. The McDonald's Family includes the McDonald's Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the McDonald's Family will comply with this policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you.
+3.1.   GADC may share personal information within the GADC Family. The GADC Family includes McDonald's Corporation, McDonald’s Corporation’s franchisees, subsidiaries and affiliates, our franchisees, our subsidiaries and our affiliates, some of which may be situated outside of the Philippines therefore requiring the exporting of personal information outside of the Philippines, and some of which may store the personal information that you submit and provide outside of the Philippines. Of course, any use of this information by any member of the GADC Family will comply with this policy.
 
-Companies and other third – party providers of McDonald’s may be engaged by McDonald's to perform a variety of functions, such as, fulfilling orders, assisting with promotions, providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform such functions.
+3.2.   By opting in to receive promotional email, and marketing materials, you hereby give permission to GADC to send you direct and indirect marketing materials and advertising information to you, such as discount coupons and information about new product offerings based on your customer profile and behavior. If you have elected to receive such materials, you can contact us at the email or postal address listed below and we will not send them to you.
 
-McDonald's does not sell, transfer or disclose personal information to third parties outside the McDonald's Family or such other entities as may be described above. However, with your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from McDonald's business partners. If you elect to receive such materials, McDonald's will not share your personal information with such partners but rather will send a mailing or email on behalf of the partners.
+3.3 Companies may be engaged by GADC to perform a variety of functions, such as but not limited to, fulfilling orders, assisting with promotions, providing technical services for this site, social media accounts and / or websites, and the like. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose. While we always strive to require third parties with whom we have agreements to comply appropriate privacy policies, you agree that we are not responsible for any violations of this Privacy Policy, nor for actions, omissions or negligence of any such companies. Aside from these third-party vendors and contractors, GADC does not sell, transfer or disclose personal information to third parties outside the GADC Family or such companies with which GADC has legitimate business with. However, with your permission, we will, on occasion, send direct and indirect marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you.  If you elect not to receive direct or indirect marketing materials from GADC’s business partners, GADC will send a mailing or e-mail on behalf of the partners.  You can contact us at the email or postal address listed below should you opt not to receive such marketing materials from GADC’s business partners, whether from them directly or through GADC.
 
-McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+3.4 GADC reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
 
-**Our Privacy Policy Regarding Children**
+4\. **Our Privacy Policy Regarding Children**
 
-McDonald's is very sensitive to privacy issues. We are proud of our longtime commitment to our customers. We are especially careful in any communications with one of our most treasured customers - children.
+4.1 GADC defines Children as individuals 12 years old and below and who require the assistance and guidance of parents and / or guardians.
 
-On our web sites, we offer many features, like games and coloring books, which do not require a child to provide any personal information. We collect only limited personal information from children 12 and under (like their email addresses) to respond to their online requests. For example, we may collect a child's email address in order to send the child a screen saver, but we promptly delete the email address from our system. Or, we may collect a child's email address in order to enter the child in a lucky draw or sweepstakes. We may also ask a child to provide an email address of a parent so we can notify the parent or seek consent. We will not collect more detailed information from a child 12 and younger, such as a postal address or a telephone number, without the consent of a parent or guardian. McDonald's will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity.
+4.2 In the event Children were allowed to access information through the Application or through our website, rest assured that we collect only limited personal information from Children (like their email addresses, postal address, contact number, and the like) upon the consent provided in 4.4 below. We will not collect more detailed information from a Child, without the consent of a parent or guardian. GADC will not condition a child's participation in any Child-appropriate online activity on the child's disclosure of more personal information than is reasonably necessary to participate in that activity.
 
-Personal information collected from children is used solely by McDonald's or other entities that provide technical, fulfillment or other services to McDonald's. For example, such entities may provide services, such as, improving our web sites, fulfilling requests or administering lucky draws or sweepstakes. This personal information is not sold or transferred to third parties.
+4.3 Personal information collected from Children is used solely by GADC, the GADC Family, or other companies that provide technical, fulfillment or other services to GADC or the GADC Family as mentioned in 3.3. This personal information is not sold or transferred to any other third party.
 
-We urge parents to regularly monitor and supervise their children's on-line activities.
+4.4 By the access and/or use, and the continued access and/or use by your Child of this platform, you are assumed to have given your consent and permission for such continued access and/or use, and are deemed to have agreed to the Terms and Conditions, as well as this Privacy Policy. We urge parents to regularly monitor and supervise their Children’s on-line activities.
 
-**Access**
+5\. **Access**
 
-You are in control of any personal information you provide to us on-line. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.
+5.1. You are in control of any personal information you submit and provide to us on-line. If at any time, you would like to edit, correct, or update the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, or if you would like to withdraw the personal information that had you had given or provided, you can let us know by contacting us at the email or postal address listed below.
 
-In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, please submit this information request form. In order to review any personal information we have about your child or to ask us to delete that information or to stop further use of the information, please submit this information request form.
+6\. **Cookies and Similar Technologies**
 
-**Cookies**
+6.1. "Cookies" are pieces of information that a web site or application transfers to an individual's hard drive for record-keeping purposes. Cookies allow the web site to remember important information that will make your use of the platform more convenient. Like most platforms, GADC uses cookies for a variety of purposes in order to improve your browsing or mobile experience. For example, we track the total number of users of our platforms on an anonymous aggregate basis. We may also employ cookies so that we remember you when you make a repeat use of our platform, to keep track of transactions, or your preferred items or store locations, or to administer certain contests and sweepstakes and to help customize your experience. We may associate personal information with a cookie file in those instances.  Your browser and other choices may impact your experiences with site.
 
-"Cookies" are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies allow the web site to remember important information that will make your use of the site more convenient. Like most web sites, McDonald's uses cookies for a variety of purposes in order to improve your on-line experience. For example, we track the total number of visitors to our site on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and lucky draws or sweepstakes and to help customize your McDonald's web experience. We may associate personal information with a cookie file in those instances.
+7. **Links to Other Sites**
 
-Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this web site.
+7.1. We may offer links to sites that are not operated by GADC. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies and any information you submit to those companies is subject to their privacy policies.
 
-**Links to Other Sites**
+8\. **Other Golden Arches Development Corporation's Online Services**
 
-We may offer links to sites that are not operated by McDonald's Corporation. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.
+8.1 All GADC’s online services and web sites operated by it will adhere to this Privacy Policy. The policies of some GADC sites or mobile applications may vary, however, because of local customs, practices or laws or due to circumstances unique to that site. In all cases, however, sites operated by GADC will honor the commitments to our customers set forth in this policy regarding the collection and use of personal information.
 
-**Other McDonald's Web Sites**
+8.2 With a GADC account, you can sign into all GADC services of, or operated by or for GADC. Signing into your GADC account can enable improved personalization, provide seamless and consistent experiences across services and devices, and help you access and use cloud data storage and other enhanced features and settings.
 
-All McDonald's web sites operated by McDonald's Corporation will adhere to this privacy policy. The policies of some McDonald's sites may vary, however, because of local customs, practices or laws or due to circumstances unique to that site. In all cases, however, sites operated by McDonald's Corporation will honor the commitments to our customers set forth in this policy regarding the collection and use of personal information.
+8.3 When you sign into your GADC account to access a service, we create a record of that sign in. If you sign into a third-party service with your GADC account, you will be asked to consent to share the account data required by that service.
+
+9\. **Changes to our Privacy Policy**
+
+9.1 From time to time, it may be necessary for GADC to change this privacy policy. If we change our policy, we will post the revised version here, or send you notification of the revision, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactive applied and will not alter how we handle previously collected information.
+
+10\. **How to Contact Us**
+
+If you have any questions about the Application and other promotions, please contact us at:
+
+**McDonald’s Customer Care**
+
+[writeus@ph.mcd.com](mailto:writeus@ph.mcd.com)
