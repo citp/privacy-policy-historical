@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112193025id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618085804id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - City of Regina
 
 The City of Regina (the “City”) is committed to protecting personal, confidential and third party information.
 
-All personal information collected by the City is done so in accordance with [_The Local Authority Freedom of Information and Protection of Privacy Act_. ](http://www.justice.gov.sk.ca/Local-Authority-Freedom-of-Information-and-Protection-of-Privacy-Act)
+All personal information collected by the City is done so in accordance with [_The Local Authority Freedom of Information and Protection of Privacy Act_. ](http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/F22-01.pdf)
 
-**[City of Regina Privacy Policy](https://web.archive.org/opencms/export/sites/regina.ca/.media/pdf/misc/privacypolicy.pdf)**
+**[City of Regina Privacy Policy](https://web.archive.org/opencms/export/sites/regina.ca/.media/pdf/misc/privacy.pdf)**
 
 ## What personal information does the City collect?
 
@@ -86,13 +86,3 @@ If your request for information appears to require a disproportionate technical 
 Our website may contain links to other websites which are provided to you as a convenience only. You are advised that other third party websites may have different privacy practices than the City of Regina. The City has no responsibility for such third party websites.
 
 Photos on www.regina.ca supplied by Tourism Regina, Regina Leader Post, Regina Downtown Business Improvement District, Saskatchewan Tourism, Patricia Holdsworth, and City of Regina employees.
-
-## Program Specific Information
-
-Additional information on how the City protects your privacy.
-
-  * [Licence your Dog ](https://web.archive.org/residents/licences/licence-your-dog/)
-  * [Licence your Cat ](https://web.archive.org/residents/licences/license-your-cat/)
-  * [Cameras on Regina Transit](https://web.archive.org/residents/transit-services/)
-
-
