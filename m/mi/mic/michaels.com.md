@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906174541id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618173100id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
@@ -278,32 +278,30 @@ We are committed to world-class service for all of our guests. In compliance wit
 
 The following terms and conditions are specific to Michaels mobile/SMS/MMS message communications.
 
-#### Program
+#### Program Terms
 
-Michaels Stores, Inc. offers their customers mobile access to their alerts, coupons, and events over SMS. Enrollment requires that the user has a text messaging plan when providing a mobile phone number. Some programs may require a data plan available through the user cellular carrier. The mobile phone number's verification is done by an double opt-in process where the user must confirm his/her registration process into the program. Even though message frequency will average 4 messages per month, the user may receive up to 8 messages per month. Message & data rates apply. Customers will be allowed to opt out of this program at any time.
+The Michaels Alerts text message program (the “Program”) offers Michaels customers alerts, coupons, and news about events, products and promotions via SMS/MMS messages. Participation in the Program requires that you have a mobile device that is capable of sending and receiving text messages. By opting in to the Program, you agree to receive up to 8 automated messages per month from Michaels Alerts with alerts, coupons, and news about events, products and promotions. Message and Data Rates may apply. Consent is not required as a condition of purchasing anything from Michaels. Not all carriers covered (see below for supported carriers).
+
+Verification of Program enrollment is done by a double opt-in process which requires you to reply to a one time automated text message to confirm that you would like to participate in the Program.
 
 #### Questions
 
-For Michaels Customer Service call 1-800-642-4235. You can contact us at custhelp@michaels.com, or at any time from your mobile phone, text "HELP" to: 273283. We can answer any questions you have about the program.
+For Michaels Customer Service call 1-800-642-4235. You can contact us at custhelp@michaels.com, or at any time from your mobile phone, text "HELP" to: 273283. We can answer any questions you have about the Program.
 
-#### To Stop The Program
+#### To Stop Receiving Program Messages
 
-To stop the messages coming to your phone, you can opt out of the program via SMS. Just text the word "STOP" to: 273283. You'll receive a one-time opt-out confirmation text message. After that, you will receive no future messages.
-
-#### Terms & Conditions
-
-Terms and Conditions By participating in the Michaels Mobile Program, you agree to the terms and conditions stated herein. You may receive up to 8 messages per month from Michaels Alerts about promotions and inspiration. Message and Data Rates may apply. Not all carriers covered.
+To stop the messages coming to your phone, you can opt out of the Program via SMS. Just text the word "STOP" to: 273283. You'll receive a one-time opt-out confirmation text message. After that, you will receive no future Program messages unless you expressly opt back in to receive Program messages. Or call Michaels Customer Service call 1-800-642-4235.
 
 #### Carriers Supported
 
 United States  
-AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Appalachian Wireless, Bluegrass Cellular, Centennial Cellular Corp, COX TMI WIRELESS, LLC, GCI Comms aka Alaska DigiTel, Illinois Valley, Immix Wireless, Inland Cellular, Nex-Tech, United Wireless, West Central Cellular, ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile®, US Cellular Corp®, Verizon Wireless, Virgin Mobile USA
+AT&T, Boost*, Cellcom*, Cellular South*, Cincinnati Bell*, Cricket, Get Lisa*, Interop*, Metro PCS*, nTelos*, Sprint, T-Mobile®, U.S. Cellular, Verizon, and Virgin*. If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services at the prices offered. Pre-paid users may not be able to participate - Check with your mobile operator. *carriers do not support MMS alerts, only SMS.
 
 Canada  
-Airtel, Bell Mobility, DMTS Mobility, ICE Wireless, Lynx Mobility, Mobilicity, MTS Mobility, Public Mobile, Rogers Wireless, SakTel Mobility, Sogetel Mobility, TBayTel Mobility, Telus Mobility, Videotron Mobile, Wind Mobile
+Telus, Rogers, Bell Mobility, Sasktel, Fido (Microcell), MTS Telebec, NorthernTel, Virgin Mobile, Videotron, WIND, Mobilicity, Eastlink Wireless
 
 * * *
 
 This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
 
-Last Updated: April 2014
+Last Updated: February 2016
