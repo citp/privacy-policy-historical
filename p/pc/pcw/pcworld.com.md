@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218154749id_/http%3A//www.idgcsmb.com/pcworld-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618085910id_/http%3A//www.idgcsmb.com/pcworld-privacy-policy) for the most accurate reproduction.*
 
 # PCWorld Online Privacy Policy - IDG Consumer & SMB | Covering All Aspects of Tech Life.
 
