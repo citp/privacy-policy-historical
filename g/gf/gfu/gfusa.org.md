@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214183540id_/http%3A//www.grameenfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618130847id_/http%3A//www.grameenfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation | Connecting the World's Poor to Their Potential
 
@@ -26,7 +26,7 @@ The information we collect helps us to: (1) design and improve products and serv
 
 ## **With Whom Do We Share Private Data?**
 
-With your express written consent, we may share your private data with organizations that are related to us, with our service providers, and with our third-party partners.  We may also share aggregated and anonymous data with our third-party partners and with the general public on a publicly-accessible website.  Occasionally, we may be required by legal request, subpoena, government reporting obligation or other legal process or obligation to disclose our clients’ private data.  Similarly, as permitted by law, we may disclose the information we collect to fight fraud or to protect the rights or property of Grameen Foundation, our clients, our donors or others, or when we otherwise believe in good faith that the law requires it.
+Grameen Foundation will never sell, rent or trade your email address or other private donor information collected online or offline with third parties. When required by law, we may disclose personal information to fight fraud or to protect the rights or property of Grameen Foundation, our clients, our donors or others.
 
 ## **Transfer of Private Data**
 
