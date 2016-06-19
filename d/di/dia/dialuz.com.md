@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217062440id_/http%3A//india.dialus.com/Dialus/Information/Company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619080305id_/http%3A//india.dialus.com/Dialus/Information/Company/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Local Business Directory, india Local Search Engine -Dialus.com
 
