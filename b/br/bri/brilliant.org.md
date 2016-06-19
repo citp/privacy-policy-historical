@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155507id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619035227id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brilliant
 
@@ -54,7 +54,7 @@ The Site may permit you to link to other websites on the Internet, and other web
 
 ### Opting out of all future emails
 
-If you would like to stop receiving email from Brilliant, simply visit the [Email section of your Account settings](https://brilliant.org/profile/opt-out-preferences/) and uncheck any and all boxes.
+If you would like to stop receiving email from Brilliant, simply visit the [Email section of your Account settings](https://brilliant.org/profile/all-notification-preferences/) and uncheck any and all boxes.
 
 ### Changes to this Privacy Statement
 
