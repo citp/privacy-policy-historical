@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231941id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619053153id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Are All Explorers.
 
@@ -100,14 +100,6 @@ Please note that any opt-out for postal mail may take at least sixty (60) days t
 As described in the "Interest-Based Online Advertising" section, you may learn more about how to opt out of ad network interest-based advertising by visiting the [consumer opt-out page](http://www.aboutads.info/choices/).
 
 Consistent with the choices available in the "Information We Share" section, you also may withdraw your consent or object to certain information sharing by contacting us as indicated below. 
-
-## Your Account
-
-  * Sierra Trading Post reserves the right to refuse service, terminate accounts, remove or edit content, and/or cancel orders in its sole discretion.
-  * Sierra Trading Post reserves the right to address accounts with abnormally high return rates.
-  * Sierra Trading Post reserves the right to address accounts returning high amounts of used/worn merchandise.
-
-
 
 ## Notice to California Residents - Your California Privacy Rights
 
