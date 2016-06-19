@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909212804id_/http%3A//www.cancerresearchuk.org/about-cancer/ssNODELINK/chprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619112944id_/http%3A//www.cancerresearchuk.org/about-cancer/ssNODELINK/chprivacy) for the most accurate reproduction.*
 
 # Privacy statement | Cancer Research UK
 
@@ -6,63 +6,101 @@ At Cancer Research UK we are committed to protecting your privacy. This statemen
 
 If you have any queries about this privacy statement please contact the Data Protection Coordinator at the Legal Department, Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [dataprotection@cancer.org.uk](mailto:dataprotection@cancer.org.uk).
 
-We obtain personal information from you when you enquire about our activities, register with us, send or receive an e-postcard, make a donation to us, ask a question about cancer or otherwise provide us with personal information. We may also receive information about you from third parties, for example from our service providers or from a friend who wants to tell you about our websites or the fundraising activities we carry out.
+Cancer Research UK promises to respect any personal data you share with us and keep it safe.  We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect. Here we tell you in detail what we will and will not do with your information.
 
-The personal information we collect might include name, date of birth, email address, postal address, telephone number and credit/debit card details. We may also collect health information if you tell us about your cancer experience or the experiences of a friend or relative.
+This policy includes:
 
-We also gather general information about the use of our websites, such as which pages users visit most often and which services, events or facilities are of most interest. We may also track which pages users visit when they click on links in Cancer Research UK emails. We may use this information to personalise the way our websites are presented when users visit them, to make improvements to our websites and to ensure we provide the best service for users. Wherever possible we use aggregated or anonymous information which does not identify individual visitors to our websites.
-
-We will use your personal information:
-
-  * to provide you with the services, products or information you have requested;
-  * to create an account for you if you register with us;
-  * for administration purposes;
-  * to further our charitable aims, including for fundraising activities.
+  * What personal data we collect and how we use it
+  * How we collect information about you
+  * How we keep your data safe and who has access
+  * Keeping your information up to date
+  * Right of access and correction of your information
+  * Changes to this Policy
 
 
 
-As part of this, we may analyse the personal information we collect to create a profile of your interests and preferences so that we can contact you in the most appropriate way and with the most relevant information. Where relevant, we may also assess your personal information for the purposes of fraud and credit risk reduction.
+If you have any questions, comments or suggestions, please let us know by contacting the Data Protection Co-ordinator at Legal Department, Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email dataprotection@cancer.org.uk.
 
-If you enter your contact details in one of our online registration forms, we may use this information to contact you even if you don’t "send" or "submit" the form. We will only do this to see if we can help with any problems you might be experiencing with the form or with our websites.
+The type and quantity of information we collect and how we use it depends on why you are providing it. 
 
-We may need to share your information with our service providers, associated organisations and agents for the purposes described above.
+**Supporters**
 
-If you contact the [cancer information nurses](https://www.cancerresearchuk.org/about-cancer/utilities/contact-us/send-a-question/), either through the website or directly, you may choose to provide details of a personal nature to them.
+If you support us, for example make a donation, volunteer, register to fundraise,  sign up for an event or buy something from our shop, we will usually collect:
 
-Only Cancer Research UK will receive your personal information and only use it for the purposes of dealing with your enquiry, training, quality monitoring or evaluating the services we provide. Cancer Research UK will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
+  * Your name 
+  * Your contact details 
+  * Your date of birth 
+  * Your bank or credit card details.  
 
-Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed, please [contact the cancer information nurses](https://www.cancerresearchuk.org/about-cancer/utilities/contact-us/send-a-question/).
 
-If you send feedback through the website, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
 
-You have a choice about whether you want to receive information about our progress and fundraising activities. We will not use your personal information for marketing purposes if you have indicated that you do not wish to be contacted. You can change your marketing preferences at any time by contacting Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD, by phone on 020 7121 6699, or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).
+Where it is appropriate we may ask for:
 
-Cancer Research UK is concerned to protect the privacy of children aged under 16. Some of our websites, such as Race for Life, have specific rules about how children under 16 can take part in our events. Where appropriate we will seek consent from a parent or guardian before collecting personal information about a child aged under 16.
+  * Information relating to your health (for example if you are taking part in a high risk event)  
+  * Your motivation for giving, including whether this relates to your personal experience of cancer.  We will never make this question mandatory, and only want to know the answer if you are comfortable telling us. 
 
-## Do we use cookies?
 
-Please refer to [our cookie policy](https://web.archive.org/web/20150909123417id_/http://www.cancerresearchuk.org/about-cancer/utilities/privacy/ssNODELINK/abt-us-cookies-policy) for details of how we use cookies and the type of cookies served through our web sites.
 
-All of our online forms are protected by encryption. We also use a secure server when you make a donation or payment via our websites. We take appropriate measures to ensure that the personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+We will mainly use your data to:
 
-As indicated above, we may pass your information to our service providers, agents and associated organisations for the purpose of completing tasks and providing services to you (other than information provided in a query to the patient information web team or the cancer information nurse team). Where we use service providers we will make sure there are appropriate controls in place.
+  * Provide you with the services, products or information you asked for
+  * Administer your donation or support your fundraising, including processing gift aid
+  * Keep a record of your relationship with us
+  * Manage your marketing preferences
+  * Understand how we can improve our services, products or information. 
 
-We may also need to disclose your information if required by law (for example to government bodies and law enforcement agencies) or if we have your permission to do so.
 
-We will not sell any information about your web browsing activity.
 
-By providing us with your personal data, including sensitive personal data such as on your health, you consent to the collection and use of this information in accordance with the purposes described above and this privacy statement.
+We may analyse your personal information to create a profile of your interests and preferences so that, where we have your consent to do so, we can contact you in the most appropriate ways and with the most relevant information.  In carrying this out, we may make use of data about you available through external sources.  We may also use your personal information to detect and reduce fraud and credit risk.  
 
-You also consent to our transferring your information to countries or jurisdictions outside the UK if necessary for the above purposes. These countries may not provide the same level of data protection as the UK. If we do make such a transfer, we will, if appropriate, put appropriate controls in place to ensure your information is protected.
+If you enter your details onto one of our online forms, and you don’t ‘send’ or ‘submit’ the form, we may contact you to see if we can help with any problems you may be experiencing with the form or our websites.
 
-If you have created an account with us, you can sign into your account to access and update your information.
+**Direct Marketing**
 
-You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. If you wish to exercise these rights, contact Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk)
+With your consent, we will contact you to let you know about the progress we are making and to ask for financial and non financial support.  We make it easy for you to tell us how you want us to communicate, in a way that suits you. Our forms have clear marketing preference questions and we include information on how to opt out when we send you marketing. If you don’t want to hear from us, that’s fine.  Just tell us so when you provide your data or contact us on 0300 123 3379 or preferences@cancer.org.uk.
 
-Our websites may include links to websites run by other organisations. Cancer Research UK is not responsible for the privacy practices of these other websites so you should read their privacy policies carefully.
+We do not sell or share personal details to third parties for the purposes of marketing.  But, if we run an event in partnership with another named organisation your details may need to be shared. We will be very clear what will happen to your data when you register.
 
-If your personal details change, please help us to keep your information up to date by notifying us at the above address.
+**Sharing your story**
 
-We may change the terms of this privacy statement from time to time. If we do so, we will post the changes here so please check from time to time. By continuing to use our websites you will be deemed to have accepted such changes.
+Some people choose to tell us about their experiences with cancer to help further our work.  They may take on a role as an Ambassador or Media Volunteer, attend our patient focused events or sit on our committees.  This may include them sharing sensitive information related to their health and family life in addition to their biographical and contact information.  
 
-## No Error
+If we have the explicit and informed consent of the individuals, or their parent or guardian if they are under 18, this information may be made public by us at events, in materials promoting our campaigning and fundraising work, or in documents such as our annual report.  
+
+**Cancer Information Nurses**
+
+Cancer Information Nurses collect sensitive personal data about your health when you speak to them.  This information is managed separately from other data provided to the charity.
+
+Cancer Information Nurses will use it to answer your questions and give you advice or guidance.  We will also use it for training, quality monitoring or evaluating the services we provide.  
+
+Cancer Research UK will only share your details in exceptional circumstances to comply with the nurses’ code of professional conduct or where legally required, for example where a child reports abuse, or someone reports serious self-harm or a serious intention of harming someone else.
+
+If you send feedback to the CancerHelp UK team, the feedback will be noted and your contact details kept for a maximum of 3 months.  If you have sent a complaint, the details will be kept for a maximum of one year.  
+
+**Children’s data**
+
+The information we collect and use aims to be appropriate to the age of the child.  Information is usually collected when children attend our events or fundraise for us. But it can also be sensitive personal data - of children nominated for our Kids and Teens Stars Award, or who contact the Cancer Information Nurses.  
+
+We always seek consent from a parent or guardian before collecting information about children where possible.  Our events have specific rules about whether children can participate, and we‘ll make sure advertising for those events is age appropriate.  
+
+We ensure that there are appropriate technical controls in place to protect your personal details; for example our online forms are always encrypted and our network is protected and routinely monitored.  
+
+We undertake regular reviews of who has access to information that we hold to ensure that your information is only accessible by appropriately trained staff, volunteers and contractors.
+
+We use external companies to collect or process personal data on our behalf. We do comprehensive checks on these companies before we work with them, and put a contract in place that sets out our expectations and requirements.   
+
+Some of our suppliers run their operations outside the European Economic Area (EEA).  Although they may not be subject to same data protection laws as companies based in the UK, we will take steps to make sure they provide an adequate level of protection in accordance with UK data protection law. By submitting your personal information to us you agree to this transfer, storing or processing at a location outside the EEA.
+
+We may need to disclose your details if required to the police, regulatory bodies or legal advisors. 
+
+We will only ever share your data in other circumstances if we have your explicit and informed consent.  
+
+Where possible we use publicly available sources to keep your records up to date; for example, the Post Office’s National Change of Address database. We really appreciate it if you let us know if your contact details change.
+
+You have a right to ask for a copy of the information we hold about you, and to have any mistakes corrected. We may charge £10 to do this.  
+
+If you want to do this, send a description of the information you want to see and proof of your identity by post to Supporter Services, Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ. 
+
+We do not accept these requests by email, but if you have any questions please send these to supporter.services@cancer.org.uk, and for further information see the Information Commissioner’s guidance here.
+
+We may change this Privacy Policy from time to time.  If we make any significant changes in the way we treat your personal information we will make this clear on the Cancer Research UK Website or by contacting you directly.
