@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226071030id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619060616id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResellerClub
 
@@ -29,19 +29,3 @@ Our Site may contain advertisements, references and links to other web sites and
 The client authorizes ResellerClub to exchange, share, part with all information related to the details and transaction history of the clients to its Affiliates / banks / financial institutions / credit bureaus / agencies/ participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management and shall not hold ResellerClub liable for use or disclosure of this information.
 
 ResellerClub will occasionally update this Privacy Statement to reflect company and client feedback. When ResellerClub posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of ResellerClub. If there are material changes to this Statement or in how ResellerClub will use your personal information, ResellerClub will prominently post such changes prior to implementing the change. ResellerClub encourages you to periodically review this Statement to be informed of how we are protecting your information.
-
-## The Resellerclub Advantage 
-
-Trusted by 200,000 Web Hosts for Domains & Hosting
-
-Serving Resellers Globally Since 2006
-
-Great Prices & Exclusive [Promos](https://web.archive.org/promos)
-
-Use Your Own Credentials along with ours in One Account
-
-Great Prices & Exclusive Promos
-
-Discounts on Add-on Services that your Customers may Need
-
-[Compare Us](https://web.archive.org/compare-us) with our Competition & Decide for Yourself 
