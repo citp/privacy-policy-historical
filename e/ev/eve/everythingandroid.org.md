@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingandroid.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219095201id_/http%3A//www.everythingandroid.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingandroid.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620001105id_/http%3A//www.everythingandroid.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,6 +67,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.everythingandroid.org
-
+http://www.everythingandroid.org  
 info@everythingandroid.org
