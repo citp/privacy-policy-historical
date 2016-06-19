@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bc.vc privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203224334id_/http%3A//bc.vc/privacy.en.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bc.vc privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619033018id_/http%3A//bc.vc/privacy.en.php) for the most accurate reproduction.*
 
 # bc.vc - a modern URL shortener
 
