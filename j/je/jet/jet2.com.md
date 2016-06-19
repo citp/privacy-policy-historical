@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074424id_/http%3A//www.jet2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619075115id_/http%3A//www.jet2.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Jet2.com
 
@@ -14,28 +14,35 @@
 
 **3.** We ask for personal information from you in a number of circumstances:
 
-  * **3.1** when you make a travel booking with us or purchase any other product or service from us - whether online or through our customer service team
-  * **3.2** when you contact us to discuss a booking or make use of our online check-in or booking management services
-  * **3.3** when you register for our loyalty programme or subscribe to our e-mail notification service or enter competitions or register for promotions
-  * **3.4** when you take part in surveys or provide us with feedback.
-  * **3.5** when you apply for a job via our careers website, or through any other method.
+**3.1** when you make a travel booking with us or purchase any other product or service from us - whether online or through our customer service team
 
+**3.2** when you contact us to discuss a booking or make use of our online check-in or booking management services
 
+**3.3** when you register for our loyalty programme or subscribe to our e-mail notification service or enter competitions or register for promotions
+
+**3.4** when you take part in surveys or provide us with feedback.
+
+**3.5** when you apply for a job via our careers website, or through any other method.
 
 ### Why we collect personal information
 
 **4.** We collect personal information to help us deliver an effective service as follows:
 
-  * **4.1** to fulfil any existing and/or future travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy;
-  * **4.2** to provide any other product or service you have purchased from us;
-  * **4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about;
-  * **4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies;
-  * **4.5** to make information available to appropriate third parties where necessary in the event of an emergency;
-  * **4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you;
-  * **4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer; and
-  * **4.8** for quality assurance testing, market analysis, systems testing, analysis of statistics, benchmarking, auditing and performance measures (which may include monitoring or recording your telephone conversations with us for the purposes set out herein).
+**4.1** to fulfil any existing and/or future travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy;
 
+**4.2** to provide any other product or service you have purchased from us;
 
+**4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about;
+
+**4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies;
+
+**4.5** to make information available to appropriate third parties where necessary in the event of an emergency;
+
+**4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you;
+
+**4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer; and
+
+**4.8** for quality assurance testing, market analysis, systems testing, analysis of statistics, benchmarking, auditing and performance measures (which may include monitoring or recording your telephone conversations with us for the purposes set out herein).
 
 ### Our approach to direct marketing
 
@@ -65,7 +72,15 @@ We may disclose personal information as part of due legal process and as otherwi
 
 ### Accessing your information
 
-**11.** Individuals are entitled to see a copy of the personal information that we have collected and maintain about them. If you wish to do this, please email us at [informationrequest@jet2.com](mailto:informationrequest@jet2.com). We may charge a small fee to meet our costs in providing you with these details.
+**11.** You are entitled to see a copy of the personal information that we hold about you. If you wish to do this, please send us your request in writing, signed and dated to the address below along with:  
+\- your full name and address;  
+\- a photocopy of your passport or driving licence, so that we can verify your identity;  
+\- details of the personal data you require (along with any further details which may help us to identify you, such as dates and times of flights, destination and booking reference number if you know this); and  
+\- a cheque for £10 made payable to Jet2.com Limited (in respect of our administration fee). 
+
+If you are requesting a copy of personal data on behalf of a third party, please also send to us a signed authority from the individual whose data is required and a copy of their passport or driving licence. If the third party is a child under the age of 16, the written authority should come from a person with parental responsibility (along with a copy of a the child’s passport). 
+
+Please send your request to: Data Protection Department, Legal Team, Jet2.com Limited, PO Box 284, Leeds, LS11 1GE.
 
 ### Special Notice for Customers Travelling to the United States of America
 
