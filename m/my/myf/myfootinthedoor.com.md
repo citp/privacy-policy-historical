@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfootinthedoor.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128170124id_/https%3A//www.myfootinthedoor.com/MFITDHome/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfootinthedoor.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620014658id_/https%3A//www.myfootinthedoor.com/MFITDHome/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
