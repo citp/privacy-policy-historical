@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pennfoster.edu privacy policy that was archived on 2015-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151104085922id_/http%3A//www.pennfoster.edu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pennfoster.edu privacy policy that was archived on 2016-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619041252id_/http%3A//www.pennfoster.edu/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -10,7 +10,7 @@
     <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 
 	<!-- Optimizely -->
-	<script type="text/javascript" async="" defer="" src="https://piwik2.videoactivenetwork.tv/piwik.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://d1ivexoxmp59q7.cloudfront.net/pennfoster/live.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5PWTC4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20151021103416/https://ssl.google-analytics.com/ga.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0027/0624.js?439024" async="" type="text/javascript"></script><script src="//cdn.optimizely.com/js/180066136.js"></script>
+	<script type="text/javascript" async="" defer="" src="https://piwik2.videoactivenetwork.tv/piwik.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20151021103416/https://ssl.google-analytics.com/ga.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0027/0624.js?439024" async="" type="text/javascript"></script><script src="//cdn.optimizely.com/js/180066136.js"></script>
     <!-- CrazyEgg Heatmap Tool  - Added Nov 10 2014 - Moved to header Aug 28 2015 --moved to top of page for 9/10/15-->
     <script type="text/javascript">
         setTimeout(function () {
@@ -23,7 +23,7 @@
 
 	<!-- typekit -->
 	<script type="text/javascript" src="//use.typekit.net/raf1way.js"></script>
-	<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+	<script type="text/javascript">try { Typekit.load({ async: true }); } catch (e) { }</script>
     <script src="/bundles/jquery?v=yLrUYw8wJsDVphfZd34hBbV8EDUqbXgqcJTvyPCUCRg1"></script>
 
 	<script src="/scripts/scripts.js?v=hO7Ge4itDWYWpW3V2AwSxIU-KL6qRCK9Td9nSF3LiFk1"></script>
@@ -116,6 +116,63 @@ $(document).ready(function () {
                                                 jadid_c=jadid;                                   
                                 }
                 }
+				
+				
+				
+//new lead and enroll click actions
+//var progid = programNumber;
+   var returnURL = document.location.href;
+   ///var eLink = $("#enroll-link").attr("href");
+   
+   $(".btnright").attr("href", "#");
+    $(".smallestround").attr("href", "#");
+
+    $(".btnleft").addClass("lead-click");
+    $(".btnright").addClass("enroll-click");
+    $(".smallestround").addClass("enroll-click");
+
+
+    $("a").each(function () {
+        if (this.title == "Get Info") {
+            //this.href("#");
+            $(this).attr('href', "#");
+            $(this).addClass("lead-click");
+        }
+        
+
+        if (this.title == "Enroll Now!") {
+            $(this).attr('href', "#");
+            $(this).addClass("enroll-click");
+
+        }
+
+        if (this.title == "Enroll Today!") {
+            $(this).attr('href', "#");
+            $(this).addClass("enroll-click");
+
+        }
+
+    });
+
+   eLink ="https://" + window.location.host + "/enroll/?sh=e&pid=" + programNumber + "&refURL=" + returnURL;
+
+   $(".enroll-click").attr("href",eLink);
+   $(".enroll-click-top").attr("href",eLink);
+   
+
+var LLink ="http://" + window.location.host + "/request-info-form"
+	if (programNumber!="")
+	{
+		$("#courseid").val(programNumber);
+		$(".lead-click").attr("href","/request-info-form?mycourseid=" + programNumber );
+		//$("#leadPost").attr("action","https://" + window.location.host + "/request-info-form" )	;
+	}
+	else
+	{
+		$(".lead-click").attr("href",LLink );
+	}
+   
+
                
 });
 
@@ -153,8 +210,22 @@ function url_query(query) {
     }
 };
 
+</script>
 
-</script><link href="/~/media/files/style/cms.css" rel="stylesheet" type="text/css"><!-- PF Google Analytics -->
+<!-- Facebook Pixel Code Added February 10 2016 -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1108264759218378');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1108264759218378&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><link href="/~/media/files/style/cms.css" rel="stylesheet" type="text/css"><!-- PF Google Analytics -->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -196,56 +267,42 @@ function url_query(query) {
     var programSavings = "0";
     var offer = "";
 </script>
+<link rel="canonical" href="http://www.pennfoster.edu/privacy-policy">
+    <script type="text/javascript">
+        if (window.location.href.match(".edu\/enroll") == null && window.location.href.match(".edu\/solutions") == null && Math.max($(window).width(), window.innerWidth) > 980) {
+        var addthisScript = document.createElement('script');
+        addthisScript.setAttribute('src', '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-542c555469788db9');
+        addthisScript.setAttribute('async', 'true');
+        document.head.appendChild(addthisScript);
+    }
 
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-542c555469788db9" async=""></script>
+    </script><script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-542c555469788db9" async="true"></script>
     <title>Privacy Policy-Penn Foster's privacy and personal information rules</title>
 <meta name="description" content="The privacy policy for Penn Foster reflects our concern for our valued students and customers and provides an email to contact us with any questions">
 <meta property="fb:app_id" content="251552683561">
 <meta property="og:site_name" content="Penn Foster Career School">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://www.pennfoster.edu/ppc/web/images/PennFosterIcon.png">
+<meta property="og:image" content="http://www.pennfoster.edu/ppc/web/images/PennFosterIcon.png">
 <meta property="og:type" content="school">
 <meta property="og:title" content="Privacy Policy-Penn Foster's privacy and personal information rules">
 <meta property="og:description" content="The privacy policy for Penn Foster reflects our concern for our valued students and customers and provides an email to contact us with any questions">
 <meta property="og:url" content="/privacy-policy">
 <meta property="twitter:card" content="summary">
 <meta property="twitter:site" content="@pennfoster">
-<meta property="twitter:image:src" content="https://www.pennfoster.edu/ui/images/pf_cs_seal_rgb.jpg">
+<meta property="twitter:image:src" content="http://www.pennfoster.edu/ppc/web/images/PennFosterIcon.png">
 <meta property="twitter:title" content="Privacy Policy-Penn Foster's privacy and personal information rules">
 <meta property="twitter:description" content="The privacy policy for Penn Foster reflects our concern for our valued students and customers and provides an email to contact us with any questions">
 <meta property="twitter:url" content="/privacy-policy">
 <meta itemprop="name" content="Privacy Policy-Penn Foster's privacy and personal information rules">
 <meta itemprop="description" content="The privacy policy for Penn Foster reflects our concern for our valued students and customers and provides an email to contact us with any questions">
 <meta itemprop="name" content="Privacy Policy-Penn Foster's privacy and personal information rules">
-<meta itemprop="image" content="https://www.pennfoster.edu/ui/images/pf_cs_seal_rgb.jpg">
+<meta itemprop="image" content="http://www.pennfoster.edu/ppc/web/images/PennFosterIcon.png">
 
 <script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/95adcbc5-d963-4761-8306-7761c0d0238a.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=8591998"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body style="">
 	<!-- Global Page Settings Start Body Scripts -->  
 <script src="https://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
 
-
-<!-- Google Tag Manager - Added Sept 17 2015 -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PWTC4"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5PWTC4');</script>
-<!-- End Google Tag Manager -->
-
-
-
-<!-- CONVERTRO UNIVERSAL TAG -->
-<script type="text/javascript">
-(function(c){var e=document.createElement("script");
-e.type='text/javascript';e.async=true;
-e.src='https://d1ivexoxmp59q7.cloudfront.net/'+c+'/live.js';
-var n=document.getElementsByTagName('script')[0];
-n.parentNode.insertBefore(e,n);})('pennfoster');
-</script>
-<!-- END CONVERTRO UNIVERSAL TAG -->
 	<header>
 		<section class="portal">
     <ul>
@@ -311,21 +368,11 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
     <li><a href="/why-penn-foster/solutions-for-organizations" title="Solutions for Organizations">Solutions for Organizations</a> </li>
 </ul>
 
-<!--<ul>
-    <li><a href="/why-penn-foster/for-employers" title="Solutions for Employers">Solutions for Employers</a> </li>
-</ul>
-<ul>
-    <li><a href="/why-penn-foster/for-educators" title="Solutions for Educators">Solutions for Educators</a> </li>
-</ul>-->
-
 
 
             </section>
             <section class="">
-                <!--<ul>
-    <li><a href="/military" title="Solutions for Military">Solutions for Military</a></li>
-</ul>-->
-<ul>
+                <ul>
     <li><a href="/why-penn-foster/learning" title="Learning Experience">Learning Experience</a></li>
     <li><a href="/why-penn-foster/learning/prepare" title="Prepare for Online Learning">Prepare for Online Learning</a></li>
     <li style="padding-left:10px;"><a href="/why-penn-foster/learning/prepare/study-tips" title="Study Tips">Study Tips</a></li>
@@ -345,9 +392,6 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
             <section class="">
                 <ul>
     <li><a href="/why-penn-foster/reviews" title="Reviews">Reviews</a></li>
-    <li><a href="/why-penn-foster/reviews/videos" title="Success Stories">Success Stories</a></li>
-    <li><a href="/why-penn-foster/reviews/testimonials" title="Student Testimonials">Student Testimonials</a></li>
-    <!--<li><a href="/404.aspx?item=web%3a%7bCD5281FC-4D9D-4B72-84A4-26F709367C17%7d%40en" title="Student Ambassadors">Student Ambassadors</a></li>-->
 </ul>
 <ul>
     <li><a href="/why-penn-foster/news" title="News and Events">News and Events</a></li>
@@ -479,11 +523,16 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
     <li><a href="/admissions/tuition/payment-options" title="Tuition and Payment Options">Tuition &amp; Payment Options</a></li>
     <li><a href="/admissions/tuition/special-offers" title="Special Offers"><span style="color:#037399; font-weight:700; cursor:pointer;">Special Offers</span></a></li>
     <li><a href="/admissions/tuition/financial-assistance" title="Financial Assistance">Financial Assistance</a></li>
+    <li><a href="/military" title="Military Benefits">Military Benefits</a></li>
     <li><a href="/admissions/tuition/student-perks-and-discounts" title="Student Perks and Discounts">Student Perks and Discounts</a></li>
 </ul>
 
 <ul>
     <li><a href="/admissions/refund-policy" title="Refund Policy">Refund Policy</a></li>
+</ul>
+
+<ul>
+    <li><a href="/admissions/transcript-request" title="Transcript Request">Transcript Request</a></li>
 </ul>
 
             </section>
@@ -505,14 +554,12 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
     <li><a href="/college/all-programs/associate-degrees" title="Associate Degrees">Associate Degrees</a> </li>
     <li><a href="/programs-and-degrees/business-management/business-management-associate-degree" title="Business Management">Business Management</a> </li>
     <li><a href="/programs-and-degrees/education-and-child-care/early-childhood-education-associate-degree" title="Early Childhood Education">Early Childhood Education</a> </li>
-    <!--<li><a href="/programs-and-degrees/medical-and-health-careers/health-care-management-associate-degree" title="Health Care Management">Health Care Management</a> </li>-->
     <li><a href="/programs-and-degrees/medical-and-health-careers/medical-assistant-associate-degree" title="Medical Assistant">Medical Assistant</a>
     </li><li><a href="/programs-and-degrees/legal-services/paralegal-studies-associate-degree" title="Paralegal Studies">Paralegal Studies</a></li>
     <li><a href="/programs-and-degrees/veterinary-studies/veterinary-technician-associate-degree" title="Veterinary Technician">Veterinary Technician</a> </li>
 </ul>
 <ul>
     <li><a href="/college/all-programs/bachelors-degrees" title="Bachelor's Degrees">Bachelor's Degrees</a> </li>
-<!--<li><a href="/programs-and-degrees/business-management/business-management-bachelors-degree">Business Management</a> </li>-->
     <li><a href="/programs-and-degrees/law-enforcement/criminal-justice-bachelors-degree" title="Criminal Justice">Criminal Justice</a> </li>
 </ul>
 <ul>
@@ -531,7 +578,6 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
     <li><a href="/programs-and-degrees/medical-and-health-careers/dental-assistant-career-diploma" title="Dental Assistant">Dental Assistant</a></li>
     <li><a href="/programs-and-degrees/skilled-trades/gunsmith-career-diploma" title="Gunsmith">Gunsmith</a></li>
     <li><a href="/programs-and-degrees/construction-and-maintenance/hvac-technician-career-diploma" title="HVACR Technician">HVACR Technician</a></li>
-    <!--<li><a href="/programs-and-degrees/medical-and-health-careers/medical-administrative-assistant-career-diploma" title="Medical Administrative Assistant">Medical Administrative Assistant</a></li>-->
     <li><a href="/programs-and-degrees/medical-billing-and-coding/medical-billing-and-coding-career-diploma" title="Medical Billing and Coding">Medical Billing &amp; Coding</a></li>
     <li><a href="/programs-and-degrees/medical-and-health-careers/pharmacy-technician-career-diploma" title="Pharmacy Technician">Pharmacy Technician</a></li>
     <li><a href="/programs-and-degrees/medical-and-health-careers/physical-therapy-aide-career-diploma" title="Physical Therapy Aide">Physical Therapy Aide</a></li>
@@ -590,8 +636,8 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
                 </ul>
             </nav>
             <div class="box cta mobile">
-                <a href="javascript:link(1,this);" class="roundbutton smallround blueround btnleft">Get Info</a>
-                <a href="javascript:link(2,this);" class="roundbutton smallround orangeround btnright">Enroll Now</a>
+                <a href="http://web.archive.org/request-info-form" class="roundbutton smallround blueround btnleft lead-click">Get Info</a>
+                <a href="https://web.archive.org/enroll/?sh=e&amp;pid=&amp;refURL=https://web.archive.org/web/20160619041252id_/http%3A//www.pennfoster.edu/privacy-policy" class="roundbutton smallround orangeround btnright enroll-click">Enroll Now</a>
             </div>
             <h1>Penn Foster Privacy Policy</h1>
         </section>
@@ -610,10 +656,10 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
 </p>-->
 
 <p>Privacy is important to everyone.&nbsp; At Penn Foster, Inc. (“Penn Foster”), we care  about your privacy as well and want you to feel comfortable and secure in your  use of our websites (including all related Penn Foster webpages and websites, the  “Sites”).&nbsp; The purpose of this Privacy  Policy is to describe for you the types of information we collect from you on  the Sites and how we store and use that information.&nbsp; <strong>By viewing  and using the Sites, you are accepting this Privacy Policy with respect to  information collected by the Sites.</strong>&nbsp; </p>
-<p><u>If you are under the age of 18, you have certain  additional rights with respect to the removal of Content which you may provide  to the Sites.&nbsp; These rights are set forth  in Section 14 below</u>.</p>
+<p>If you are under the age of 18, you have certain  additional rights with respect to the removal of Content which you may provide  to the Sites.&nbsp; These rights are set forth  in Section 14 below.</p>
 <p><strong>Please Note:&nbsp; This Privacy Policy may be modified at any  time and from time to time so you should visit this page periodically to check  for updates.&nbsp; The current version of this  Privacy Policy can always be found under the Privacy Policy button on the Sites.&nbsp; You can tell if there have been changes to  the Privacy Policy by checking the “Last Updated” and “Effective” dates at the  top of this page.</strong><br>
 </p>
-<p><strong>1. <u>Categories  of Personal Information We Collect</u>.</strong>&nbsp;  There are three categories of personal information we may collect from  you through the Sites:</p>
+<p><strong>1. Categories  of Personal Information We Collect.</strong>&nbsp;  There are three categories of personal information we may collect from  you through the Sites:</p>
 <ul>
   <li>Personally Identifiable Information:&nbsp; this is information that is identifiable to  you, as an individual, which you may provide to the Sites if you register on  the Sites and engage in any Site activities; </li>
   <li>Non-Personally Identifiable Information:&nbsp; this is information commonly collected by  many websites to track website usage and may include, for example, computer and  server IP addresses, browser versions, pages most visited, duration and time of  visit, and geographic location, but this information is not directly linked to  you personally; and</li>
@@ -621,32 +667,36 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
 </ul>
 <p>In addition, Penn Foster collects and stores, through the  Student Portal, additional information and materials personal to or provided by  students enrolled in Penn Foster program, such as course assignment work,  exams, academic records, confidential enrollment information, and student  personal program-related communications with Penn Foster (“Student Records”).</p>
 <p>The information we collect depends upon what you do during  your visit(s) to the Sites. &nbsp;<strong>To be clear, and without limiting any other  provision in this Privacy Policy, by providing any personal information to Penn  Foster through the Sites </strong>(including your Student Records if applicable,  “Personal Information”)<strong>, you are  consenting to the collection, storing, processing and transfer of such  information in and to the United States and other countries and territories, in  accordance with this Privacy Policy and United States law.</strong></p>
-<p><strong>2. <u>Personal  Information Not Covered by This Privacy Policy</u>. </strong>&nbsp;Some interactive portions of the Sites are  open and visible to the larger public and/or people and entities engaged in  providing or supporting Penn Foster academic programs.&nbsp; If you include personally identifiable  information in materials you contribute to the Sites, via postings, chat rooms,  or otherwise, that Personal Information will be available to members of the  larger public and is <u>not</u> covered by this Privacy Policy and is not  included within the term “Personal Information” for purposes of this Privacy  Policy.&nbsp; Personally identifiable  information you may send , using the Sites, in personal emails to third  parties, including other students, is similarly not covered by this Privacy  Policy and not included within the term “Personal Information” for purposes of  this Privacy Policy.&nbsp; We therefore  strongly encourage you not to include personally identifying information in  your interactions in public forums made available through the Sites, such as in  postings or in chat rooms, or in your User name. </p>
-<p><strong>3. <u>How  We Collect Personally Identifiable Information</u>.</strong>&nbsp; We only collect Personally Identifiable  Information that you voluntarily provide to us.&nbsp;  For example, when you register as a User on the Sites in order to  participate in the Sites activities, we ask you for personally identifiable  information such as your name, email address, and telephone number.&nbsp; We may also collect this information if you  contact us requesting information, participate in or provide feedback on the  Sites or Site activities, or forward information from the Sites to internet  addresses outside of the Sites.&nbsp; In  addition, if you are a student, we collect and store your Student Records  consistent with our business practices, requirements of our educational  accrediting, certifying and licensing institutions, and applicable United  States and state laws and regulations.</p>
-<p><strong>4. <u>How  We Collect and Use Non-Personally Identifiable Information</u>.</strong>&nbsp;&nbsp; We use common tracking tools such as cookies,  clear GIFs (also referred to as web beacons or pixel tags), or IP addresses to  collect non-personally identifiable information about your use of the Sites.&nbsp; These tools, described in more detail below,  are associated with standard internet protocols and are commonly implemented on  web sites.&nbsp; <u>However, the information collected  through these tools is not collected or stored in a personally identifiable  manner and is primarily used for aggregate, statistical reporting and stored in  log files</u>. Log files are simply transaction records that web servers  maintain and record information, such as: service provider IP addresses,  browser versions, referring websites, search terms used, average number of  pages requested, average duration of visit, and/or total visitor traffic.</p>
+<p><strong>2. Personal  Information Not Covered by This Privacy Policy. </strong>&nbsp;Some interactive portions of the Sites are  open and visible to the larger public and/or people and entities engaged in  providing or supporting Penn Foster academic programs.&nbsp; If you include personally identifiable  information in materials you contribute to the Sites, via postings, chat rooms,  or otherwise, that Personal Information will be available to members of the  larger public and is not covered by this Privacy Policy and is not  included within the term “Personal Information” for purposes of this Privacy  Policy.&nbsp; Personally identifiable  information you may send , using the Sites, in personal emails to third  parties, including other students, is similarly not covered by this Privacy  Policy and not included within the term “Personal Information” for purposes of  this Privacy Policy.&nbsp; We therefore  strongly encourage you not to include personally identifying information in  your interactions in public forums made available through the Sites, such as in  postings or in chat rooms, or in your User name. </p>
+<p><strong>3. How  We Collect Personally Identifiable Information.</strong>&nbsp; We only collect Personally Identifiable  Information that you voluntarily provide to us.&nbsp;  For example, when you register as a User on the Sites in order to  participate in the Sites activities, we ask you for personally identifiable  information such as your name, email address, and telephone number.&nbsp; We may also collect this information if you  contact us requesting information, participate in or provide feedback on the  Sites or Site activities, or forward information from the Sites to internet  addresses outside of the Sites.&nbsp; In  addition, if you are a student, we collect and store your Student Records  consistent with our business practices, requirements of our educational  accrediting, certifying and licensing institutions, and applicable United  States and state laws and regulations.</p>
+<p><strong>4. How  We Collect and Use Non-Personally Identifiable Information.</strong>&nbsp;&nbsp; We use common tracking tools such as cookies,  clear GIFs (also referred to as web beacons or pixel tags), or IP addresses to  collect non-personally identifiable information about your use of the Sites.&nbsp; These tools, described in more detail below,  are associated with standard internet protocols and are commonly implemented on  web sites.&nbsp; However, the information collected  through these tools is not collected or stored in a personally identifiable  manner and is primarily used for aggregate, statistical reporting and stored in  log files. Log files are simply transaction records that web servers  maintain and record information, such as: service provider IP addresses,  browser versions, referring websites, search terms used, average number of  pages requested, average duration of visit, and/or total visitor traffic.</p>
 <ul>
   <li>Cookies are small files web sites place on your  hard drive that allow sites to identify you. For example, if you allow a site  to remember your login name or password, the site places a cookie on your  computer. Cookies cannot read any other information on your hard drive. &nbsp;If you do not wish to receive cookies, or want  to be notified of when they are placed, your browser may permit you to do so.</li>
   <li>GIFs can tell us whether you have visited a Web  page or received or opened a message we send to you. </li>
   <li>An IP address is a number that's automatically  assigned to your computer by your Internet service provider whenever you're on  the Internet. In addition to logging your IP Address, our server may also  record the referring page that linked you to us (e.g., another web site or a  search engine); the pages you visit and how long you stay on the Sites; and  other Web usage activity and data. In some cases your IP address stays the same  from browser session to browser session; but if you use a consumer internet  access provider, your IP address probably varies from session to session </li>
 </ul>
 <p>The Non-Personally Identifiable Information we collect may  be used to measure the Sites’ traffic, help us to evaluate and improve the Sites,  provide data points for marketing and business analysis, and better serve our  Users. We may share Non-Personally Identifiable Information with third parties,  but only in an aggregate statistical form that includes no personally  identifying information.&nbsp; If we combine  Non-Personally Identifiable Information with Personally Identifiable  Information, through data mapping or otherwise, the combined information will  be treated as Personally Identifiable Information.</p>
-<p><strong>5. <u>How  We Collect &nbsp;and Use Personal Financial  Information</u>.</strong> We collect Personal Financial Information you  provide only when you are enrolling in a Penn Foster academic program,  purchasing products or services from Penn Foster, or involved in other  financial transactions with Penn Foster, and we use this information only in  connection with your enrollment, purchases and other financial transactions.&nbsp; Personal Financial Information is retained by  Penn Foster as required by law and its internal business practices.&nbsp;&nbsp; If you are not currently enrolled in a Penn  Foster program and have no outstanding, pending, or contractual financial  obligation to Penn Foster, you may ask that we delete your financial  information and we will do so subject to legal, regulatory, licensing and  accreditation obligations.</p>
-<p><strong>6. <u>How  We Use Personally Identifiable Information and Student Records</u>.</strong> We use your Personally Identifiable  Information in multiple ways.&nbsp; For  example, we may use your Personally Identifiable Information to deliver  products and services you purchase, to respond to your requests for  information, to contact you regarding products and services in which we believe  you may be interested, to notify you about Community events and activities, and  to ask you questions about your interests and your experience on the Sites.&nbsp; If you are a Penn Foster student, we will  also use your Personally Identifiable Information and Student Records to  support and monitor your progress through the academic program in which you are  enrolled, offer you various student support services, ask you questions  regarding your satisfaction with the program, maintain your academic records,  and maintain close communications with you in order to provide you with a rich,  fulfilling and personalized academic experience. &nbsp;&nbsp;Finally, we may provide your Personally  Identifiable Information (exclusive of Student Records) to third parties who  offer products or services we believe may be of value to you; such third  parties are only allowed to use your Personally Identifiable Information to  contact you regarding those products or services and you are able to “opt out”  from receiving such contacts at any time through the “opt out” procedures of  those third parties.&nbsp; (See also Section  17 (“Rights to Opt Out”) below).</p>
-<p><strong>7. <u>When  We Share Personal Information with Partners in Education</u>.</strong> Penn Foster often collaborates with school  districts, individual schools, colleges and universities, vocational schools, organizations  like the Job Corps, and other private educational or education-related programs  (each an “Educational Partner”) to provide a broad range of educational programs  responsive to different types of students’ requirements.&nbsp; We may share Personally Identifiable  Information, Student Records and Personal Financial Information of students  enrolled in these collaborative or partnership education programs with the  associated Educational Partner.&nbsp; </p>
-<p><strong>8. <u>When  We Share Personal Information with &nbsp;Contractors and Service Providers</u>. </strong>We may use third parties (including  contractors, business partners and service providers) to help us with certain  aspects of our operations and this may require disclosure of your Personal Information  to them. For example, we use third party financial institutions to help us  process payments and we may use third party agencies to help us with debt  collection.&nbsp; We may also use third  parties to help us to operate the Sites, deliver products and provide student  services. We expect these third parties to use your Personal Information only  as necessary to perform the services they are asked to perform.</p>
-<p><strong>9. <u>When  we Share Personal Information with Licensing, Certifying and Accrediting  Organizations</u>.</strong> Penn Foster  schools are nationally and regionally accredited and are also licensed by  certain states.&nbsp; From time to time Penn  Foster will seek additional certifications, accreditations and similar  confirmations of quality and eligibility from third party institutions. &nbsp;Penn Foster may share Personal Information with  each of these accrediting, certifying and licensing bodies as reasonably  required to maintain, renew or establish Penn Foster’s accreditation, licenses,  certifications and other institutional qualifications.&nbsp; All such bodies are committed to maintaining  the confidentiality of student Personal Information.</p>
-<p><strong>10. <u>Disclosures  of Personal Information in Litigation, Investigations or Enforcement Actions or  for Security Reasons</u>. </strong> We may disclose your Personal Information when  compelled or requested to do so by government or law enforcement authorities or  when otherwise required or permitted by law, such as to respond to court orders  and subpoenas or regulatory agency requests. We also may disclose Personal  Information when we have reason to believe that someone is causing or  threatening to cause injury to, or interfering or threatening to interfere with,  the rights or property interests of Penn Foster or its affiliates (or their  respective employees, agents, consultants, contractors or representatives),  Penn Foster students or alumni, other Site Users, Penn Foster business partners  (including Education Partners and service providers),  accrediting/licensing/certifying bodies, or other persons or entities that  could be harmed by such activities. </p>
-<p><strong>11. <u>Disclosures  in Conjunction with a Change in Control or Similar Event</u>. </strong>If Penn Foster undergoes a business  transition, such as a merger or acquisition by another company, or a sale of  all or a substantial portion of its assets, your Personal Information may be  among the assets transferred.&nbsp; Changes in  the terms governing the collection, storage or use of any third party successor  in interest or transferee of your Personal Information will be communicated to  you by Penn Foster or such third party via email, the applicable website, or a  comparable means notification.</p>
-<p><strong>12. <u>Your  Access Rights</u>.</strong> You may review  and correct the Personally Identifiable Information that is retained by Penn  Foster in your account after you login.&nbsp;  You may review and correct the Personal Financial Information that is  retained by Penn Foster in your account by contacting Penn Foster at &nbsp;<a href="mailto:stuserv@pennfoster.edu">stuserv@pennfoster.edu</a> If you are a  student, you may also review your Student Records through your Student Portal  account or by contacting Penn Foster at <a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp; &nbsp;&nbsp;&nbsp;</p>
-<p><strong>13. <u>Children’s  Privacy</u>.</strong> The Sites do not  knowingly collect information from &nbsp;(a) children  under the age of 13 and does not offer products, services or activities targeted  at children under the age of 13, or (b) individuals older than 13 but under the  age of legal majority in their state of residence whose registration or  participation on the Sites has not been authorized by their parent or legal  guardian.</p>
-<p><strong>14. <u>Special  Rule for Site Users under 18</u>.</strong> If  you are under the age of 18, you may at any time request Penn Foster to remove  from the Sites any Content (as defined in the Site Terms of Use) you provide to  or post on the Sites by sending your request to <a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp; However, please understand that Penn Foster’s  removal of such Content may not be complete or comprehensive.&nbsp; Removal of Content may be limited to making  Content no longer visible to the public or other Site Users.&nbsp; In addition, Penn Foster reserves the right  not to remove Content you have provided if Penn Foster is required to maintain  the Content pursuant to federal or state legal requirements, if the Content has  been independently provided to the Site by a third party, if the Content is  anonymized, or if you have been compensated for providing the Content to the  Sites.&nbsp; Any Personal Information and  Student Records retained by Penn Foster will continue to be governed by the  terms of this Privacy Policy.</p>
-<p><strong>15. <u>Third  Party "Linked-To" Web Sites</u>.</strong>&nbsp;The Sites may contain links to third party web sites which are neither  operated nor controlled by Penn Foster.&nbsp; This  Privacy Policy does not address the information practices of those third party  web sites, and we encourage you to read the legal notices posted on such  websites, including their Terms of Use and Privacy Policies.&nbsp; To be clear, Penn Foster has no  responsibility or liability for your experience with, and the data collection  and use practices of, such third party websites. All inquiries concerning the  terms and policies of third party websites should be addressed to the third  party hosting the respective website.</p>
-<p><strong>16. <u>Security  Measures</u>.</strong> The protection of  your Personal Information is very important to us. &nbsp;&nbsp;To that end, we take reasonable steps to  protect the Personal Information you share with us from unauthorized access or  disclosure. However, you should know that no security measures are impenetrable  and no company, including Penn Foster, can fully eliminate security risks to  its telecommunications and computer systems. &nbsp;&nbsp;In addition, due to the inherent nature of  the Internet as an open global communications vehicle, we cannot guarantee that  information, during transmission through the Internet, will not be destroyed,  hacked, hijacked, misdirected, stolen, modified or otherwise interfered with or  misused.&nbsp; <strong>Accordingly, your transmission of information to or through the Sites  is at your own risk.</strong></p>
-<p><strong>17. <u>Rights  to “Opt Out”</u>. </strong>If you are  receiving emails, texts or similar on line communications from Penn Foster, it  is because we understood from your participation on our Sites that you were  interested in receiving ongoing information from us.&nbsp; If at any point you no longer wish to receive  such communications, you may at any time “unsubscribe” from these  communications by following the ‘opt out’ directions to be found at or near the  end of the communication. &nbsp;&nbsp;Students can  also “opt out” from certain communications on the Student Portal by editing their  personal account &nbsp;preferences. &nbsp;&nbsp;If you have any questions about the opt-out  process, you can contact us at <a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp;&nbsp;&nbsp; Please note that if we have already shared  your personal contact information with one of our business partners,  unsubscribing from our communications list will not prevent these third parties  from continuing to email or text you.&nbsp;  You will have to send an opt-out request to those third parties  directly.&nbsp; Opportunities to “opt out”  from receiving emails and texts are usually found on these companies’ websites  or at the end of their emails or texts.<strong></strong></p>
-<p><strong>18. <u>Construction  of Privacy Policy</u>. </strong>This Privacy  Policy supersedes any other representations, agreements, statements or understandings  with respect to the terms pursuant to which Penn Foster collects, stores and  uses information relating to you which is collected by the Sites.&nbsp; This Privacy Policy may not be modified,  extended, limited, waived or terminated except with the written consent of Penn  Foster.&nbsp; If any portion of this Privacy  Policy is deemed void or unenforceable, then that provision shall be deemed  severable from the Privacy Policy and the remaining terms shall remain in full  force and effect.&nbsp; The word “including”  shall be construed to mean “including but not limited to.”</p>
-<p><strong>19. <u>Modification  to Privacy Policy</u>. </strong>As noted above, Penn Foster reserves the  right to modify this Privacy Policy at any time and will notify Users by  posting the modified version of its Privacy Policy on this webpage.&nbsp; Under certain circumstances, we may also  elect to notify registered Users of changes or updates to this Privacy Policy  by additional means, such as posting a notice on the front page of the Sites or  by sending you an e-mail but you should not rely on receiving such additional  notice.</p>
+<p><strong>5. How  We Collect &nbsp;and Use Personal Financial  Information.</strong> We collect Personal Financial Information you  provide only when you are enrolling in a Penn Foster academic program,  purchasing products or services from Penn Foster, or involved in other  financial transactions with Penn Foster, and we use this information only in  connection with your enrollment, purchases and other financial transactions.&nbsp; Personal Financial Information is retained by  Penn Foster as required by law and its internal business practices.&nbsp;&nbsp; If you are not currently enrolled in a Penn  Foster program and have no outstanding, pending, or contractual financial  obligation to Penn Foster, you may ask that we delete your financial  information and we will do so subject to legal, regulatory, licensing and  accreditation obligations.</p>
+<p><strong>6. How  We Use Personally Identifiable Information and Student Records.</strong> We use your Personally Identifiable  Information in multiple ways.&nbsp; For  example, we may use your Personally Identifiable Information to deliver  products and services you purchase, to respond to your requests for  information, to contact you regarding products and services in which we believe  you may be interested, to notify you about Community events and activities, and  to ask you questions about your interests and your experience on the Sites.&nbsp; If you are a Penn Foster student, we will  also use your Personally Identifiable Information and Student Records to  support and monitor your progress through the academic program in which you are  enrolled, offer you various student support services, ask you questions  regarding your satisfaction with the program, maintain your academic records,  and maintain close communications with you in order to provide you with a rich,  fulfilling and personalized academic experience. &nbsp;&nbsp;Finally, we may provide your Personally  Identifiable Information (exclusive of Student Records) to third parties who  offer products or services we believe may be of value to you; such third  parties are only allowed to use your Personally Identifiable Information to  contact you regarding those products or services and you are able to “opt out”  from receiving such contacts at any time through the “opt out” procedures of  those third parties.&nbsp; (See also Section  17 (“Rights to Opt Out”) below).</p>
+<p><strong>7. When  We Share Personal Information with Partners in Education.</strong> Penn Foster often collaborates with school  districts, individual schools, colleges and universities, vocational schools, organizations  like the Job Corps, and other private educational or education-related programs  (each an “Educational Partner”) to provide a broad range of educational programs  responsive to different types of students’ requirements.&nbsp; We may share Personally Identifiable  Information, Student Records and Personal Financial Information of students  enrolled in these collaborative or partnership education programs with the  associated Educational Partner.&nbsp; </p>
+<p><strong>8. When  We Share Personal Information with &nbsp;Contractors and Service Providers. </strong>We may use third parties (including  contractors, business partners and service providers) to help us with certain  aspects of our operations and this may require disclosure of your Personal Information  to them. For example, we use third party financial institutions to help us  process payments and we may use third party agencies to help us with debt  collection.&nbsp; We may also use third  parties to help us to operate the Sites, deliver products and provide student  services. We expect these third parties to use your Personal Information only  as necessary to perform the services they are asked to perform.</p>
+<p><strong>9. When  we Share Personal Information with Licensing, Certifying and Accrediting  Organizations.</strong> Penn Foster  schools are nationally and regionally accredited and are also licensed by  certain states.&nbsp; From time to time Penn  Foster will seek additional certifications, accreditations and similar  confirmations of quality and eligibility from third party institutions. &nbsp;Penn Foster may share Personal Information with  each of these accrediting, certifying and licensing bodies as reasonably  required to maintain, renew or establish Penn Foster’s accreditation, licenses,  certifications and other institutional qualifications.&nbsp; All such bodies are committed to maintaining  the confidentiality of student Personal Information.</p>
+<p><strong>10. Disclosures  of Personal Information in Litigation, Investigations or Enforcement Actions or  for Security Reasons. </strong> We may disclose your Personal Information when  compelled or requested to do so by government or law enforcement authorities or  when otherwise required or permitted by law, such as to respond to court orders  and subpoenas or regulatory agency requests. We also may disclose Personal  Information when we have reason to believe that someone is causing or  threatening to cause injury to, or interfering or threatening to interfere with,  the rights or property interests of Penn Foster or its affiliates (or their  respective employees, agents, consultants, contractors or representatives),  Penn Foster students or alumni, other Site Users, Penn Foster business partners  (including Education Partners and service providers),  accrediting/licensing/certifying bodies, or other persons or entities that  could be harmed by such activities. </p>
+<p><strong>11. Disclosures  in Conjunction with a Change in Control or Similar Event. </strong>If Penn Foster undergoes a business  transition, such as a merger or acquisition by another company, or a sale of  all or a substantial portion of its assets, your Personal Information may be  among the assets transferred.&nbsp; Changes in  the terms governing the collection, storage or use of any third party successor  in interest or transferee of your Personal Information will be communicated to  you by Penn Foster or such third party via email, the applicable website, or a  comparable means notification.</p>
+<p><strong>12. Your  Access Rights.</strong> You may review  and correct the Personally Identifiable Information that is retained by Penn  Foster in your account after you login.&nbsp;  You may review and correct the Personal Financial Information that is  retained by Penn Foster in your account by contacting Penn Foster at &nbsp;<a href="mailto:stuserv@pennfoster.edu">stuserv@pennfoster.edu</a> If you are a  student, you may also review your Student Records through your Student Portal  account or by contacting Penn Foster at <a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<p><strong>13. Children’s  Privacy.</strong> The Sites do not  knowingly collect information from &nbsp;(a) children  under the age of 13 and does not offer products, services or activities targeted  at children under the age of 13, or (b) individuals older than 13 but under the  age of legal majority in their state of residence whose registration or  participation on the Sites has not been authorized by their parent or legal  guardian.</p>
+<p><strong>14. Special  Rule for Site Users under 18.</strong> If  you are under the age of 18, you may at any time request Penn Foster to remove  from the Sites any Content (as defined in the Site Terms of Use) you provide to  or post on the Sites by sending your request to <a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp; However, please understand that Penn Foster’s  removal of such Content may not be complete or comprehensive.&nbsp; Removal of Content may be limited to making  Content no longer visible to the public or other Site Users.&nbsp; In addition, Penn Foster reserves the right  not to remove Content you have provided if Penn Foster is required to maintain  the Content pursuant to federal or state legal requirements, if the Content has  been independently provided to the Site by a third party, if the Content is  anonymized, or if you have been compensated for providing the Content to the  Sites.&nbsp; Any Personal Information and  Student Records retained by Penn Foster will continue to be governed by the  terms of this Privacy Policy.</p>
+<p><strong>15. Third  Party "Linked-To" Web Sites.</strong>&nbsp;The Sites may contain links to third party web sites which are neither  operated nor controlled by Penn Foster.&nbsp; This  Privacy Policy does not address the information practices of those third party  web sites, and we encourage you to read the legal notices posted on such  websites, including their Terms of Use and Privacy Policies.&nbsp; To be clear, Penn Foster has no  responsibility or liability for your experience with, and the data collection  and use practices of, such third party websites. All inquiries concerning the  terms and policies of third party websites should be addressed to the third  party hosting the respective website.</p>
+<p><strong>16. Security  Measures.</strong> The protection of  your Personal Information is very important to us. &nbsp;&nbsp;To that end, we take reasonable steps to  protect the Personal Information you share with us from unauthorized access or  disclosure. However, you should know that no security measures are impenetrable  and no company, including Penn Foster, can fully eliminate security risks to  its telecommunications and computer systems. &nbsp;&nbsp;In addition, due to the inherent nature of  the Internet as an open global communications vehicle, we cannot guarantee that  information, during transmission through the Internet, will not be destroyed,  hacked, hijacked, misdirected, stolen, modified or otherwise interfered with or  misused.&nbsp; <strong>Accordingly, your transmission of information to or through the Sites  is at your own risk.</strong></p>
+<p><strong>17. Rights  to “Opt Out”. </strong>If you are  receiving emails, texts or similar on line communications from Penn Foster, it  is because we understood from your participation on our Sites that you were  interested in receiving ongoing information from us.&nbsp; If at any point you no longer wish to receive  such communications, you may at any time “unsubscribe” from these  communications by following the ‘opt out’ directions to be found at or near the  end of the communication. &nbsp;&nbsp;Students can  also “opt out” from certain communications on the Student Portal by editing their  personal account &nbsp;preferences. &nbsp;&nbsp;If you have any questions about the opt-out  process, you can contact us at <a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp;&nbsp;&nbsp; Please note that if we have already shared  your personal contact information with one of our business partners,  unsubscribing from our communications list will not prevent these third parties  from continuing to email or text you.&nbsp;  You will have to send an opt-out request to those third parties  directly.&nbsp; Opportunities to “opt out”  from receiving emails and texts are usually found on these companies’ websites  or at the end of their emails or texts.<strong></strong></p>
+<p><strong>18. Construction  of Privacy Policy. </strong>This Privacy  Policy supersedes any other representations, agreements, statements or understandings  with respect to the terms pursuant to which Penn Foster collects, stores and  uses information relating to you which is collected by the Sites.&nbsp; This Privacy Policy may not be modified,  extended, limited, waived or terminated except with the written consent of Penn  Foster.&nbsp; If any portion of this Privacy  Policy is deemed void or unenforceable, then that provision shall be deemed  severable from the Privacy Policy and the remaining terms shall remain in full  force and effect.&nbsp; The word “including”  shall be construed to mean “including but not limited to.”</p>
+<p><strong>19. Modification  to Privacy Policy. </strong>As noted above, Penn Foster reserves the  right to modify this Privacy Policy at any time and will notify Users by  posting the modified version of its Privacy Policy on this webpage.&nbsp; Under certain circumstances, we may also  elect to notify registered Users of changes or updates to this Privacy Policy  by additional means, such as posting a notice on the front page of the Sites or  by sending you an e-mail but you should not rely on receiving such additional  notice.</p>
 <p><strong>QUESTIONS or  CONCERNS?&nbsp; If you have any questions or  concerns about this Privacy Policy or its application, or for general questions  about the Sites, please contact Penn Foster at </strong><a href="mailto:stuserve@pennfoster.edu">stuserv@pennfoster.edu</a>.&nbsp;</p>
-<p>Copyright © 2015 Penn Foster, Inc. All Rights Reserved.</p>
+<p>© <script language="JavaScript">
+   var d=new Date();
+    yr=d.getFullYear(); 
+     document.write(yr);
+</script>2020 Penn Foster, Inc. All Rights Reserved.</p>
 
     </section>
     <section class="span-full">
@@ -665,12 +715,12 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
             <style>
 .accreditations a.detc {
   width:200px;
-  background: url(http://www.pennfoster.edu/ppc/web/logos/DEAC-logo-200.png) left no-repeat;
+  background: url(https://www.pennfoster.edu/ppc/web/logos/DEAC-logo-200.png) left no-repeat;
 }
 
 .accreditations a.bbb {
   width:42px;
-  background: url(http://www.pennfoster.edu/ppc/web/logos/icon-accreditation-bbb-rating.png) top left no-repeat;
+  background: url(https://www.pennfoster.edu/ppc/web/logos/icon-accreditation-bbb-rating.png) top left no-repeat;
 }
 
 
@@ -687,7 +737,7 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
 						    <li><a class="pinterest" href="https://www.pinterest.com/pennfoster/" title="Pinterest" target="_blank">pinterest</a></li>
 						    <li><a class="linkedin" href="https://www.linkedin.com/company/penn-foster" title="LinkedIn" target="_blank">linkedin</a></li>
 						    <li><a class="youtube" href="https://www.youtube.com/pennfoster" title="YouTube" target="_blank">youtube</a></li>
-						    <li><a class="photo" href="http://web.stagram.com/n/pennfoster" title="Instagram" target="_blank">instagram</a></li>
+						    <li><a class="photo" href="https://www.instagram.com/pennfoster/" title="Instagram" target="_blank">instagram</a></li>
 					    </ul>
 				    </nav>
 			    </div>
@@ -703,8 +753,8 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
             <nav class="horizontal">
                 <ul>
     <li><a title="Call Today!" class="phone-number" href="tel:18002754410">1-800-275-4410</a></li>
-    <li><a href="javascript:link(1,this);" title="Get Info">Get Info</a> </li>
-    <li><a href="javascript:link(2,this);" title="Enroll Now">Enroll Now</a> </li>
+    <li><a href="http://web.archive.org/request-info-form" title="Get Info" class="lead-click">Get Info</a> </li>
+    <li><a href="https://web.archive.org/enroll/?sh=e&amp;pid=&amp;refURL=https://web.archive.org/web/20160619041252id_/http%3A//www.pennfoster.edu/privacy-policy" title="Enroll Now" class="enroll-click">Enroll Now</a> </li>
     <li>
     <div class="menu"><a href="/programs-and-degrees" class="button" title="Penn Foster Programs">All Programs &gt;</a></div>
     </li>
@@ -732,9 +782,28 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
                                         <ul>
     <li><a href="http://login.pennfoster.edu" title="Student Login" target="_blank">Student Login</a></li>
     <li><a href="http://community.pennfoster.edu/" title="Student Community" target="_blank">Student Community</a></li>
-    <li><a href="/student-solutions-center" title="Student Solutions">Student Solutions</a></li>
+    <li><a href="http://pennfoster.custhelp.com/app/ask_student_solutions_center" title="Student Solutions" onclick="return pop_up(this, 'Student Solutions')">Student Solutions</a></li>
     <li><a href="/why-penn-foster/about/instructors" title="Academic Support">Academic Support</a></li>
 </ul>
+
+<script type="text/javascript">
+	function pop_up(hyperlink, window_name)
+	{
+		if (! window.focus)
+			return true;
+		var href;
+		if (typeof(hyperlink) == 'string')
+			href=hyperlink;
+		else
+			href=hyperlink.href;
+		window.open(
+			href,
+			window_name,
+			'width=320,height=600,toolbar=no, scrollbars=yes'
+		);
+		return false;
+	}
+	</script>
                                     </nav>
                                 </section>
                                 <section>
@@ -757,8 +826,12 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
     <li><strong>Divisions</strong></li>
     <li><a href="http://www.icslearn.ca/" title="ICS Canada" target="_blank">ICS Canada</a></li>
     <li><a href="http://www.pennfosterglobal.com/" title="Penn Foster International" target="_blank">International</a></li>
+    <li><a href="/military" title="Military">Military</a></li>
     <li><a href="http://partners.pennfoster.edu/" title="Penn Foster Partners" target="_blank">Partners</a></li>
 </ul>
+
+
+
                                     </nav>
                                 </section>
                                 <section>
@@ -796,7 +869,7 @@ n.parentNode.insertBefore(e,n);})('pennfoster');
 
 <footer class="footer2">
     <section>
-        © 2015 Penn Foster Inc. All Rights Reserved.
+        © 2016 Penn Foster Inc. All Rights Reserved.
  | 
 
 <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
@@ -831,13 +904,16 @@ var enrid = url_query('EnrollID');
     if (eeid != '' && eeyn == "en") {
 
                 //they are coming back to enroll after submitting a lead
-				 
-				
+                                                                
+                                                                
                 window.location.href = window.location.protocol + "//" + window.location.host + "/enroll/?t=en" + "&prog=" + prog + "&EnrollID=" + enrid +"&eid=" + eeid +"&refURL=" + thisPage  ;
         
         noReturn = false;
     }
+
+
 }
+
 });
 </script>
 <!-- End lead to enroll revamp -->
@@ -846,9 +922,9 @@ var enrid = url_query('EnrollID');
 
 
 <!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
+<!-- 
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
+ -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1068937977;
@@ -944,7 +1020,7 @@ window.onload = function(){
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', 3]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+   g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
 <noscript><p><img src="https://piwik2.videoactivenetwork.tv/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
@@ -965,13 +1041,13 @@ $(document).ready(function () {
 
 <!-- Start code to allow for Mobile website tracking -->
 <script type="text/javascript">
- var _mfq = _mfq || [];
- (function() {
+var _mfq = _mfq || [];
+(function() {
    var mf = document.createElement("script");
    mf.type = "text/javascript"; mf.async = true;
    mf.src = "//cdn.mouseflow.com/projects/95adcbc5-d963-4761-8306-7761c0d0238a.js";
    document.getElementsByTagName("head")[0].appendChild(mf);
- })();
+})();
 </script>
 <!-- End code to allow for Mobile website tracking -->
 
@@ -979,42 +1055,63 @@ $(document).ready(function () {
 <script>
 //addition for lewis to capture "first touch"
 $(document).ready(function () {
-	var firstPage = getCookie('FirstPage');
+                var firstPage = getCookie('FirstPage');
 
-	if (firstPage != '' && firstPage !=false){
-		//this is not the first page they visited, do nothing
-		var fp = getCookie('FirstPage');
-	}
-	else
-	{
-		var myPage = window.location.href
-		//no cookie set, set first page cookie
-		setCookie('FirstPage',myPage,30);
-		
-		//then check adkey
-		var adkey = getCookie('mktad');
-		
-		if (adkey=="")
-		{
-			//check if we are on blog page, and if so, set adkey = blog adkey
-			
-			if (myPage.indexOf('why-penn-foster/about/blog') >=0)
-			{
-				//we are on a blog page
-				//set adkey accordingly
-				var redirectPage = window.location.protocol + "//" + window.location.host + "/urm.aspx?source=RAAS27T&url=" + myPage; 
-				//alert(redirectPage);
-				window.location = redirectPage;
-				
-			}
-			
-		}
-		
-	}
+                if (firstPage != '' && firstPage !=false){
+                                //this is not the first page they visited, do nothing
+                                var fp = getCookie('FirstPage');
+                }
+                else
+                {
+                                var myPage = window.location.href
+                                //no cookie set, set first page cookie
+                                setCookie('FirstPage',myPage,30);
+                                
+                                //then check adkey
+                                var adkey = getCookie('mktad');
+                                
+                                if (adkey=="")
+                                {
+                                                //check if we are on blog page, and if so, set adkey = blog adkey
+                                                
+                                                if (myPage.indexOf('why-penn-foster/about/blog') >=0)
+                                                {
+                                                                //we are on a blog page
+                                                                //set adkey accordingly
+                                                                var redirectPage = window.location.protocol + "//" + window.location.host + "/urm.aspx?source=RAAS27T&url=" + myPage; 
+                                                                //alert(redirectPage);
+                                                                window.location = redirectPage;
+                                                                
+                                                }
+                                                
+                                }
+                                
+                }
 });
 
 
 
+</script>
+
+
+
+<!--<script type="text/javascript" src="//pennfoster.widget.custhelp.com/euf/rightnow/RightNow.Client.js"></script>
+<script type="text/javascript">
+    RightNow.Client.Controller.addComponent(
+        {
+            container_element_id: "myChatLinkContainer",
+            info_element_id: "myChatLinkInfo",
+            link_element_id: "myChatLink",
+            p: "110",
+            instance_id: "sccl_0",
+            module: "ConditionalChatLink",
+            type: 7
+        },
+        "//pennfoster.widget.custhelp.com/ci/ws/get"
+		);
+</script>
+-->
+<script>
 /**************************************************/
 function getCookie(cname) {
     var name = cname + "=";
@@ -1034,6 +1131,29 @@ function setCookie(cname, cvalue, exdays) {
     var expires = "expires=" + d.toGMTString();
     document.cookie = cname + "=" + cvalue + "; " + expires;
 }
+</script>
+
+<script>
+<!--enroll stuff-->
+$(document).ready(function () {
+   var returnURL = document.location.href;
+    $("a").each(function () {
+
+        if (this.title == "Enroll Now") {
+            $(this).attr('href', "#");
+            $(this).addClass("enroll-click");
+        }
+
+        if (this.title == "Enroll Today") {
+            $(this).attr('href', "#");
+            $(this).addClass("enroll-click");
+        }
+    });
+
+   eLink ="https://" + window.location.host + "/enroll/?sh=e&pid=" + programNumber + "&refURL=" + returnURL;
+   $(".enroll-click").attr("href",eLink);
+   
+});
 </script>
 
     <script src="/scripts/otherscripts.js?v=Vkll-0iN1jK_SSwQZYfCufALIoGEv4ngVR-QPQB6-Ro1"></script>
