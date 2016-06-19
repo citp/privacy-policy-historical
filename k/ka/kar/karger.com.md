@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the karger.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218120350id_/http%3A//www.karger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karger.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619224504id_/http%3A//www.karger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Karger Publishers
 
-S. Karger Publishers respects your right to privacy. This policy outlines what we do with the information we gather during your visit to sites hosted by S. Karger AG. While on our web site, you may be prompted to enter personal information when you:
+While on our website, you may be prompted to enter personal information when you:
 
 * Place an order
 * Use reprint options
@@ -18,12 +18,12 @@ S. Karger Publishers respects your right to privacy. This policy outlines what w
 
 ## Information we collect
 
-All information collected online about a visitor is voluntary, although some services are only accessible by registering user details. The information gathered includes, but is not limited to your name, address, institution, e-mail address and publication references. When viewing our site by linking from another web page we may store the name of that web page for purposes of internal administration. We also monitor data about the movement of visitors through our site – an activity which does not require any identifiable personal information and is used to improve web site structure, flow, and content.  
+All information collected online about a user is voluntary, although some services are only accessible by registering user details. The information gathered includes, but is not limited to your name, address, institution, e-mail address and publication references. When viewing the Karger website by linking from another web page Karger may store the name of that web page for purposes of internal administration. Karger also monitors data about the movement of users through the Karger website – an activity which does not require any identifiable personal information and is used to improve website structure, flow, and content.  
 
 
 ## Cookies
 
-Cookies are small amounts of data sent from our web server to the user's hard drive that identify those who have previously visited our site. If you configure your browser to reject cookies, you may still use some, but not all, portions of our site and will be prompted to enter your ID and password each time you access an article requiring a subscription.  
+Cookies are small amounts of data sent from Karger's web server to the user's hard drive that identify those who have previously visited the Karger website. If users configure their browser to reject cookies, they may still use some, but not all, portions of the Karger website and will be prompted to enter your ID and password each time they access an article requiring a subscription.  
 
 
 ## Data Protection / Google Analytics Service
@@ -33,30 +33,29 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ## How collected information is used
 
-We do not provide the information we receive from you to third parties. The main use of this information is to inform you of important changes to our site, new value-added services, as well as new publications. Furthermore, we collect statistical information to strengthen our marketing efforts by monitoring traffic on the site. This allows us to identify specific target areas or groups, enabling us to further improve our site.  
+Karger does not provide the information received from the user to third parties. The main use of this information is to inform the user of important changes to the Karger website, new value-added services, as well as new publications. Furthermore, Karger collects statistical information to strengthen the marketing efforts by monitoring traffic on the website. This allows Karger to identify specific target areas or groups, enabling Karger to further improve the website.  
 
 
 ## Safety measures applied
 
-All data we collect from you on our site is protected against unauthorised access. The demographic information and, if applicable, credit card information about each user is stored on Karger servers that are behind a firewall and enclosed within a secure data center. For electronic payments we use the services of a payment gateway firm, for whose privacy practices S. Karger AG is not responsible. When you connect to our secure server, all your personal information is encrypted using the industry standard Secure Sockets Layer (SSL) so that it cannot be read while travelling over the internet.  
+All data Karger collects from the user on our website is protected against unauthorised access. The demographic information and, if applicable, credit card information about each user is stored on Karger servers that are behind a firewall and enclosed within a secure data center. For electronic payments we use the services of a payment gateway firm, for whose privacy practices S. Karger AG is not responsible. When the user connects to the Karger secure server, all the user's personal information is encrypted using the industry standard Secure Sockets Layer (SSL) so that it cannot be read while travelling over the internet.  
 
 
 ## Disclosure of information
 
-We may use one or more outside credit card processing companies to bill users for goods and services and we will disclose your personal identifiable information to these companies as needed to process your orders and to respond to your requests.  
+Karger may use one or more outside credit card processing companies to bill users for goods and services and will disclose your personal identifiable information to these companies as needed to process your orders and to respond to your requests.  
 
 
 ## Links
 
-The Karger site contains links to other sites, which may or may not have links to Karger. Take note that Karger is not responsible for the privacy practices (or other practices, services, or content) of other sites. This privacy statement applies only to information collected by S. Karger Publishers.  
+The Karger website contains links to other sites, which may or may not have links to Karger. Take note that Karger is not responsible for the privacy practices (or other practices, services, or content) of other sites. This privacy statement applies only to information collected by S. Karger AG.  
 
 
 ## Discussion forums
 
-Users who participate in Karger online forums or discussions may have their messages or postings edited for size and/or content. By submitting to such forums, you grant the editorial rights to Karger editorial staff who reserve the right to remove inappropriate submissions. When participating in an online forum or discussion, you consent to our use, disclosure, and publication of any content you submit.  
-
+Users who participate in Karger online forums or discussions may have their messages or postings edited for size and/or content. By submitting to such forums, the user grants the editorial rights to Karger editorial staff who reserve the right to remove inappropriate submissions. When participating in an online forum or discussion, the user consents to the use, disclosure, and publication of any content they submitbr />
 
 ## Changes in the policy
 
-As changes are made to our privacy policy, they will be posted on our privacy policy page. Please review this page for regular updates.  
+As changes are made to the Karger privacy policy, they will be posted on the privacy policy page. Please review this page for regular updates.  
 
