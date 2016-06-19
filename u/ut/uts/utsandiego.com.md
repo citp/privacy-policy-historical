@@ -1,171 +1,181 @@
-> *The following text is extracted and transformed from the utsandiego.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906133521id_/http%3A//www.utsandiego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsandiego.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619152801id_/http%3A//www.tribpub.com/privacy-policy-and-your-privacy-rights) for the most accurate reproduction.*
 
-# Privacy Policy | SanDiegoUnionTribune.com
+# Tribune Publishing | Privacy Policy and Your Privacy Rights
 
-### San Diego Union-Tribune Privacy Policy
+**_Last updated on January 5, 2015._**
 
-Effective Date: July 4, 2013
+Tribune Publishing Company is a diverse multimedia company and, together with its Affiliates, operates newspapers, and news, entertainment, and informational websites. In this Privacy Policy, “Affiliates” refers to subsidiaries and entities that Tribune Publishing Company or its subsidiaries operate or have an ownership interest.
 
-This Privacy Policy ("Policy") is intended to describe the kinds of information that The San Diego Union-Tribune, LLC, d/b/a San Diego Union-Tribune, and its subsidiaries and affiliates ("San Diego Union-Tribune" "we," "us" or "our") may collect with respect to our Sites and Services (as defined below), how we use and share that information and your choices with respect to same, how we endeavor to protect that information, how we make changes to this Policy, and how you can contact us if you have any questions about this Policy.
+This Privacy Policy applies only to the information Tribune Publishing Company and its Affiliates (collectively, “Tribune,” “we,” or “us” or “our”) collect through the websites, mobile applications, electronic devices, kiosks, and all other interactive services we provide (hereinafter “the Services”). This Privacy Policy governs the Services regardless of how you access them. Some Services may have a specific, separate Privacy Policy that will govern use of those Services. The Privacy Policy describes:
 
-Click on one of the links below to jump directly to that section:
-
-  * Information We Collect
-  * How We Use the Information We Collect
-  * Targeted Online Advertising
-  * Social Media Interaction
-  * Information We Share
-  * Your Choices
-    * Opt-Out of Sharing Personal Information with Third Parties And Affiliates for their Own Direct Marketing Purposes
-    * Unsubscribe From Marketing Emails Sent by Us
-    * Unsubscribe From Text Messages Sent by Us
-    * Web Analytics
-    * Targeted Advertising
-    * Geo-Location Information
-    * Cookies
-    * Social Media Information
-  * Your California Privacy Rights
-  * Access and Correction
-  * Links to and Use of Other Websites and Services
-  * How We Endeavor to Protect Personal Information
-  * Children's Privacy
-  * Updates to this Privacy Policy
-  * How to Contact Us
+  1. The information we collect and how we collect it;
+  2. What we do with the information we collect;
+  3. How we share and disclose user information with third parties;
+  4. Tribune’s use of online analytics and tailored advertising;
+  5. California Do-Not-Track disclosure requirements;
+  6. How you can access and update your information;
+  7. How we protect information;
+  8. Linked sites and advertisements;
+  9. Use of the Services by users from outside the United States;
+  10. Use of the Services by children;
+  11. How to contact us;
+  12. Your California privacy rights;
+  13. No rights of third parties; and
+  14. Changes to this Privacy Policy.
 
 
 
-### Information We Collect
+## 1\. The information we collect and how we collect it.
 
-We collect personal information (information that can be used to identify a specific individual) from: 
+How we collect and store information depends on the websites you visit, the activities in which you participate and the Services you use. You can use some of the Services without providing any information other than that automatically collected as described below.
 
-  * Subscribers to the San Diego Union-Tribune newspaper and our other print publications;
-  * Users, visitors and subscribers of www.UTSanDiego.com, www.discoversd.com, www.sandiegoclubs.com, www.vidalatinasd.com, deals.utsandiego.com, and utsandiego.premiumrewards.com, and their subdomains;
-  * Users of San Diego Union-Tribune mobile applications and mobile messaging services operated by or on behalf of San Diego Union-Tribune, including those applications identified at http://apps.utsandiego.com;
-  * Customers and others that attend San Diego Union-Tribune sponsored events who provide sign-in and registration information;
-  * Persons that choose to participate in surveys, polls, panels, focus groups and other means of conducting market research online, over the phone, through the mail or in person; and
-  * Persons enrolled in or that participate in events, contests, reward programs, daily deal services, sweepstakes and other promotions of ours or third parties, including individuals enrolled in or registered for U-T Rewards. 
+##### **1.1 Information you provide**
 
+We may collect information about you during your use of the Services, including your name, username, password, email address, postal address, phone number, mobile phone number, payment information, gender, birth year, and information you provide or post on our Services or allow us to access when you do certain things, such as:
 
-
-Throughout this privacy policy, these sites, mobile applications, services and activities are collectively referred to as the "Sites and Services."  
-We may collect certain personal information about you related to your visiting, enrollment in or use of the Sites and Services. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties. The types of information we may collect that may be considered personal information include: 
-
-  * Your contact information (such as name, postal and email address, and phone number);
-  * Username and password for any account(s) you may establish for any of our Sites and Services;
-  * Payment card information (including payment card number, security code, expiration date, cardholder name and billing address);
-  * Material you contribute using our Sites and Services, including comments, photos, recommendations, reviews, ratings or other items you submit; 
-  * Demographic information (such as age, date of birth and gender);
-  * Information you provide by connecting our Sites and Services to, or interacting with us through, social media (such as Facebook, YouTube, GooglePlus, Pinterest or Twitter), including social media user name, recommendations, pictures, shared articles, ratings, information contained in your posts, the identities of your friends and profile information;
-  * Location information, such as country, state, city, the real-time geographic location of the device used to access Sites and Services or on which you install our mobile applications, and the location of places and businesses you visit;
-  * Offline and online shopping behavior and preferences, such as a record of the purchases you make on our websites and while visiting third party establishments; 
-  * Household or personal characteristics, behavior and preferences, such as might be provided in connection with voluntary surveys, panels, focus groups or other means of conducting market research in which you may participate;
-  * With respect to text messages sent to San Diego Union-Tribune or via San Diego Union-Tribune's text services, your incoming phone number, the lists or campaigns users have responded to, the identity of your wireless provider, the date and time the text services were activated and deactivated, the date and time of the text, and the content of the messages sent between you and San Diego Union-Tribune;
-  * The name and email address of another person provided by you in connection with a recommendation to, referral of, or purchase for or on behalf of such person through our Sites and Services;
-  * Messages that you send to others, and records related to when and where such messages were sent, using messaging features provided by our online Sites and Services; and
-  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
-In addition, when you visit or use our Sites and Services, we may collect certain information about you by automated means, such as cookies and web beacons. A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Google Analytics, Anametrix and quantcast) that collect information about visitor traffic, browsing patterns and usage on our Sites and Services. The information we may collect by automated means includes:
-  * Information about the computers, mobile devices or other devices our visitors use to access the Internet and our Sites and Services (such as website IP addresses, unique device identifiers, the device, browser and operating system type, domain names, and browser language);
-  * Websites that refer users to our Sites and Services, and websites that users visit from our Sites and Services;
-  * Dates and times of visits and uses of our Sites and Services;
-  * Information on actions taken on or when using our Sites and Services (such as page views, landing pages, exit pages, "clicks", time spent on the website or pages, dates and times of actions taken on a website or page and site navigation patterns);
-  * A general geographic location (such as country and city) from which a visitor accesses our Sites and Services;
-  * Usage and volume statistics related to our Sites and Services; and
-  * Search terms that visitors use to reach our sites.
+  * Enter registration information for one or more of our Services;
+  * Enter a sweepstakes or contest or register for a promotion;
+  * Participate in voting or polling activities;
+  * Make a purchase;
+  * Request certain features (e.g., newsletters, updates, and other products);
+  * Sign up to receive SMS (text message) notifications;
+  * Download or use one of our mobile applications;
+  * Connect with the Services or otherwise allow us to access certain information about you via a social networking site (“SNS”); or
+  * Post user-generated content, including comments, to or on any of our Services.
 
 
 
-### How We Use the Information We Collect 
+We may collect and store your user ID associated with a SNS account that you use to sign in to your Tribune account or connect or use with the Services. When you sign in to your Tribune account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize Tribune to collect, store, and use in accordance with this Privacy Policy any and all information available to Tribune through the SNS interface, including without limitation any information that you have made public in connection with your SNS account, information that the SNS shares with us, or information that is disclosed as being shared during the sign-in process.
 
-We may use the information we obtain about you to: 
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as via a SNS, on message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
 
-  * Register you for membership for, or a subscription to, our Sites and Services and certain features, functions and activities related to our Sites and Services;
-  * Provide you with, develop and enhance our products or services;
-  * Process, validate, record, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone);
-  * Respond to your questions and comments and provide customer support;
-  * Communicate with you about your account, subscription or use of our Sites and Services, including emails related to order confirmations, renewal/expiration notices, administering and troubleshooting of the Sites and Services, notices of credit card problems, other transactional e-mails and notifications about changes to the San Diego Union-Tribune Sites and Services and/or to our Privacy Policy;
-  * Assist with administration, diagnosis of problems and troubleshooting related to our Sites and Services;
-  * Communicate with you about products, services, transactions, offers, events and promotions of ours or third parties, and display or offer you content, deals, products and services we believe may be of interest to you, including targeting offers and advertisements to you that are more likely to be of interest and value to you; 
-  * Enable you to communicate with us through our blogs, social networks and other interactive media;
-  * Enroll you in and manage your participation in our events, contests, reward programs, daily deal services, sweepstakes and other promotions;
-  * Tailor and customize our Sites and Services, products, services and features to suit your personal interests and enhance your use of our Sites and Services;
-  * Operate, evaluate and improve our business and the products and services we offer;
-  * Conduct marketing analysis of our customers and users, including through surveys and polls, and analyze and enhance our marketing communications and strategies;
-  * Combine it with other online or off-line information we possess or obtain from third parties to help us maintain a more complete profile about you so that we can offer you more personalized products, services, advertising and marketing and promotional communications;
-  * Analyze trends, demographics and statistics regarding visitors' use of our Sites and Services, including the advertisements users click on and purchases they make using our Sites and Services;
-  * Protect against and prevent, investigate, monitor for and mitigate fraud, physical harm, property damage, criminal activity, financial loss, violations of law, breach of contract, unauthorized transactions, unauthorized use of the San Diego Union-Tribune Sites and Services, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users;
-  * Enforce our Terms of Use and other agreements;
-  * Help us comply with applicable legal requirements, industry standards and our policies.
+##### **1.2 Automatically-collected information**
 
+###### **1.2.1 Device/usage information**
 
+We may automatically collect certain information about the computer or devices (including mobile devices) you use to access the Services. For example, we may collect and analyze information such as (a) IP addresses, geolocation information (as described in the next section below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language, operating system, the state or country from which you accessed the Services; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, the frequency of your use of the Services, error logs, and other similar information. As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
 
-### Targeted Online Advertising
+We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique Tribune identifier (that is not intended to be used by itself to identify you) for our internal use, in which case your Tribune identifier will be considered Tribune information and nothing in this Privacy Policy restricts how Tribune may use this information.
 
-You may see certain ads on our Sites and Services because we participate in advertising networks. Some ad networks allow us and other advertisers to target advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means when you visit our Sites and Services and third party sites, applications and services, including through the use of cookies, web server logs, web beacons and other methods. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. We do not have access to or control over the cookies that may be placed by these parties on your computer, and have no control over these parties' privacy policies or information collection practices. 
+###### **1.2.2 Location information**
 
-The information our ad network vendors collect includes information about your use of our mobile applications and visits to websites that participate in the advertising networks, such as the pages or advertisements you have viewed, the location of your mobile device and the actions you take on the websites and mobile applications. The networks use this information to show you targeted advertisements on our Sites and Services, and on third party sites, applications and services, that they believe will be of most interest to you. This process also helps us track the effectiveness of our marketing efforts. 
+We may collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if your IP address indicates an origin in Chicago, the Services may be customized with Chicago-specific information and advertisements. In order to do this, your location information may be shared with our agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
 
-For ad serving solutions we incorporate [Doubleclick](http://www.google.com/policies/technologies/ads/), [Nielsen eXelate](http://exelate.com/privacy/services-privacy-policy/) and [Mixpo](http://dynamicvideoad.mixpo.com/legal/) technologies. 
+###### **1.2.3 Cookies and other electronic technologies**
 
-### Social Media Interaction
+When you use the Services, we use persistent and session cookies and other similar tracking technologies to: (a) store your username and password; (b) analyze the usage of our sites and Services by collecting the information discussed in section 1.2.1 above; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services, as well as advertisements that may be displayed on other websites or mobile applications. The cookies may reflect de-identified data linked to or derived from data you voluntarily have submitted to us, e.g., a hashed version of your email address that we may share with service providers, solely in non-human readable form. We and our vendors may also use other Internet technologies, such as Flash technologies, Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services, as well as serve you ads when you are on other websites or the Internet when those cookies can be accessed. We also may include Web beacons in e-mail messages or newsletters to determine whether the message has been opened and for other analytics. As we adopt additional technologies, we may also gather additional information through other methods.
 
-When you choose to participate in a third party application, social media site, feature or service offered within the Sites and Services (for example Facebook Connect, integrated Facebook comments or Twitter website widgets), you may be opting to link or share your activity on Sites and Services with that third party application, social media site, feature or service, which may then collect information about you and may publish that activity to your "profile," "timeline," "feedback" or similar feature with that third party. For example, if you choose to "like" or "share" content through our Sites and Services when a third party application, social media site, feature or service is enabled, or to otherwise post information from or via our Sites and Services to a third party application, social media site, feature or service, that information may be publicly displayed or displayed to your friends or followers and the third party may have access to information about you and your use of our Sites and Services. You may be able to disable ongoing sharing of information with us from third party applications, social media site and features. To do so visit the applicable section of the application, site or feature and adjust your privacy and sharing settings, or otherwise disassociate the application, site or feature from our Sites and Services. 
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) and make changes at the [Global Privacy Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html).
 
-### Information We Share
+##### **1.3 Information from third parties**
 
-We may share and disclose personal information we collect with our parent, affiliate and subsidiary companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Policy, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you. We may also share and disclose information as follows: 
+We may obtain additional information about you from third parties such as marketers, partners, researchers, and others. We may combine information that we collect from you with information about you that we obtain from such third parties and information derived from any other subscription, product, or service we provide.
 
-  * Service Providers. We may use third parties to perform certain services on our behalf, such as hosting or analyzing certain data, performing administrative services, credit card billing and processing, delivery and shipping of products and services, email distribution, list processing and analytics, and survey and promotions management. These service providers are generally not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
-  * Aggregated and De-Identified Information. We may disclose information in an aggregate or de-identified form (for example, personal information stripped of reference to a named individual) with third parties in our discretion, including advertisers, affiliates and business associates. Nothing in this Privacy Policy is intended to restrict San Diego Union-Tribune's use of aggregated or de-identified information in any way.
-  * Legal Matters and Safety. We may disclose information about you, in our sole discretion: (i) if we are required to do so by law or legal process (such as a court order or subpoena); (ii) in response to a request or investigation by law enforcement authorities or regulators; (iii) to protect or defend our rights, business or property or protect the safety of any individual; (iv) protect against, investigate or mitigate the misuse or unauthorized use of the Sites and Services; or (v) when we believe disclosure is necessary or appropriate to prevent, investigate or mitigate physical harm, property damage, violations of law, breach of contract, criminal activity or financial loss. 
-  * Third Parties and Affiliates for Marketing. We may exchange, sell, rent or otherwise disclose your personal information to third parties and our affiliates for their own direct marketing purposes. You may choose to opt-out of such disclosures (see "Your Choices" below).
-  * Sweepstakes, Contests and Reward Programs. We may disclose your personal information to third parties that provide and manage events, contests, reward programs, sweepstakes and other promotions.
-  * User Contributed Information. By contributing material on our Sites and Services (including for example material submitted on or using discussion boards, blogs, comment sections, reviewing and rating features and other features), you are electing to share and publicly display such material, including comments, posts, photos, recommendations, reviews, ratings or other material you submit. When you contribute such material, additional information about you may also be displayed and disclosed to others, including name, profile photo, username, email and other personal information. You should be aware that any such material you contribute is considered public information and can be read, collected, or used by others, including for the purposes of sending you unsolicited messages. San Diego Union-Tribune has no responsibility to publish, take down, remove or edit any of this material. However, San Diego Union-Tribune reserves the right to monitor, edit, or delete such material, in its discretion. Also, we may sell or otherwise make this material available to other persons and sites using RSS feeds, APIs and via other formats and means. As a result, personal information included in your public activities and user material you contribute may appear on other sites, applications, blogs, or feeds. 
-  * Gifts and Referral Programs. If you use our Sites and Services to make recommendations to, referrals of or buy a product or service for or on behalf of another person, an email identifying the relevant information, product or service will be sent to that person. 
-  * Corporate Events. We also reserve the right to transfer personal information we have about you if we sell, consolidate, merge or transfer all or a portion of our business or assets, or enter into a joint venture or undergo other corporate changes or reorganization, including, without limitation, in the event of bankruptcy or during the course of any due diligence process related to any such activities or events. Following such a sale, joint venture, merger, reorganization, bankruptcy or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the handling of that information.
+##### **1.4 Aggregate or de-identified data**
 
+We may aggregate and/or de-identify information collected by the Services or via other means so that the information is not intended to identify you. Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
 
+## 2\. What we do with the information we collect.
 
-### Your Choices
+We use the information that we collect for the following purposes:
 
-We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you, including the following: 
-
-  * Opt-Out of Sharing Personal Information with Third Parties and Affiliates for their Own Direct Marketing Purposes. If, at any time, you prefer that we do not share personal information with third parties or our affiliates for their own direct marketing purposes, please either e-mail us at privacy@UTSanDiego.com or send a letter to us by regular mail at: San Diego Union-Tribune, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail, and if you choose to opt-out via e-mail, please put "Opt Out" in the subject line. We may still share your information with third parties and our affiliates for various other purposes, such as customer service, fulfillment and our own marketing. You cannot prevent sharing for these other purposes.
-  * Unsubscribe From Marketing Emails Sent by Us. You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish for some of our Sites and Services. For some of our Sites and Services, you may have the ability to opt-out of receiving certain emails by changing your preferences in the "account" or "preferences" section of the Site and Service. In some cases you will have the choice to opt-in or opt-out of certain marketing emails prior to us sending those emails. 
-  * Unsubscribe From Text Messages Sent by Us. You may choose to stop our delivery of text messages to you that relate to the particular list that you subscribe to by texting "stop" in reply to any such text message. This will only prevent the sending of text messages from the relevant list, and will not stop text messages from other lists to which you have subscribed. You may also request that we stop delivery of text messages by sending an email to privacy@utsandiego.com with the subject line: "FULL TEXT MESSAGE UNSUBSCRIBE."
-  * Targeted Advertising. To opt out of receiving marketing communications targeted to you based on tracking of your online activities through the advertising networks or our ad network vendors, please visit http://www.bluekai.com/consumers_optout.php, and follow the instructions for opting out. Certain advertising networks and exchanges may participate in the Digital Advertising Alliance ("DAA") AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program here: http://www.youradchoices.com/ . In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (NAI). The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, click here: http://www.networkadvertising.org/choices/. We may use other advertising networks that target marketing communications to you based on tracking your online activities, and if you want more information about the opt-out choices these networks may provide please email us at privacy@utsandiego.com
-  * Geo-Location Information. When you use a San Diego Union-Tribune application on your mobile device, you may be able choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
-  * Cookies. Most web browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of the features of our Sites and Services. 
+  * For the purposes for which you provided it;
+  * To send you information about your relationship or transactions with us;
+  * To send you alerts or other communications via SMS messages or other media or networks;
+  * To notify you about new features of the Services, special events, or products, services, and special offers;
+  * To administer sweepstakes and contests;
+  * To process and respond to your inquiries;
+  * To contact you with information that we believe will be of interest to you;
+  * To attribute content that you make available through the Services;
+  * To generate and review reports and data about our user base and Service usage patterns;
+  * To perform analytics and research aimed at improving the accuracy, effectiveness, usability, or popularity of the Services;
+  * To improve the content and features of the Services or develop new Services;
+  * To allow us to personalize the content and advertising that you see on the Services and to understand how users interact with and use our advertisements and Services;
+  * To enforce the legal terms that govern your use of the Services; and
+  * To administer and troubleshoot the Services.
 
 
 
-### Your California Privacy Rights
+The Services are supported by advertising revenue. We will send you commercial emails on behalf of ourselves, our Affiliates, and advertisers. Each such email we send you will have an opt-out that you can use to stop receiving such communications.
 
-When California customers provide personal information to a business, they have the right to request certain disclosures if that business shares personal information with our affiliates or third parties for the third parties' or our affiliates' direct marketing purposes. Once per calendar year the customer may request that the business provide a list of companies with which it shares personal information for the third parties' or our affiliates' direct marketing purposes, and a list of the categories of personal information that the business shares. Instead of responding to such requests, however, a company may choose to comply with this law by establishing and publishing on its website a policy of not disclosing a customer's personal information to such third parties or our affiliates unless the customer affirmatively agrees to such disclosures, or a policy of not disclosing a customer's personal information to such third parties or our affiliates if the customer has exercised an option that prevents that information from being disclosed to third parties or our affiliates for those purposes. Thus, a company may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. As noted in the "Your Choices" section above, you may opt-out of our sharing of your personal information with third parties or our affiliates for their own direct marketing purposes. 
+## 3\. How we share and disclose user information with third parties.
 
-California customers may request information about our compliance with this law by sending an email to privacy@utsandiego.com. Any such inquiry must include "California Privacy Rights Request" in the first line of the description. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address. 
+We will make your information available to other companies, websites, applications or people in the circumstances described below:
 
-### Access and Correction
+We may rent, sell, or share your information with non-affiliated third parties: (a) in order to provide services or products that you have requested; (b) when we have your permission; or (c) as described in this Privacy Policy.
 
-You may access certain personal information we maintain about you, or update or correct inaccuracies in that information, using the online account "profile" or "preferences" feature of our Sites and Services (if applicable). In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the "How to Contact Us" section of this Privacy Policy. If we deny an access request, we will notify you of the reasons for the denial. 
+We may share your information with any agent or company that is part of the Tribune Publishing Company in order to provide the Services or advertising or to communicate with you on our behalf.
 
-### Links to and Use of Other Websites and Services
+When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
 
-Our Sites and Services may contain links to other sites and services for your convenience and information and for advertising purposes. Linked sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites or services not operated by San Diego Union-Tribune, any use of those sites or services, or the privacy practices of those sites or services. When you visit or use our Sites and Services, visit linked sites, click on advertisements displayed in our Sites and Services, receive or participate in a service with a third party, or choose to share your information with third parties (including reward program providers and third party social media sites like Facebook and Twitter), your information may be collected and used by third parties and accessible by users of third party sites. The information collected by the third party is subject to the third party's privacy and other practices, policies, and agreements, including whether the third party continues to share information with us or with other third parties, the types of information shared and your choices with regard to the collection, use and disclosure of the information. We are not responsible for any use of those sites or services or the privacy practices of the third parties that operate those sites or provide those services. 
+We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
 
-### How We Endeavor to Protect Personal Information
+We may share your information with third-party advertisers and advertising networks or others with whom we have a contractual relationship.
 
-We maintain administrative, technical and physical safeguards designed to assist us in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you provide your credit or debit card information as payment for a transaction, the payment card information is encrypted while in transit to the payment processor that processes your transaction. Please note that no data storage or electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail or that those measures will always be sufficient or effective. 
+We may disclose your information when we believe in good faith that such disclosure is appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or the Terms of Service for the Services you accessed, and/or to protect the rights and property of Tribune, our employees, users and the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations.
 
-To further protect yourself, you should safeguard your user name and password for any Sites and Services and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our sites. Please note that we will never ask for your San Diego Union-Tribune account user name or password via email. 
+We may share your information in connection with any merger, reorganization, a sale of some or all Tribune assets, or a financing or acquisition of all or a portion of our business by another company.
 
-### Children's Privacy
+We may aggregate and/or de-identify your information so that the information no longer relates to you individually. Our use and disclosure of such aggregated or de-identified information is not subject to this Privacy Policy, and may be disclosed to others without limitation and for any purpose.
 
-San Diego Union-Tribune does not direct its websites to children under the age of thirteen. If we learn that a user is under thirteen years of age, we will promptly delete any personal information that the individual has provided to us. 
+## 4\. Tribune’s use of online analytics and tailored advertising.
 
-### Updates to this Privacy Policy
+##### **4.1 Online analytics**
 
-This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice (and/or provide notice using other methods) with respect to our Sites and Services to notify you of any material changes to our Privacy Policy. The "Effective Date" at the top of this Privacy Policy indicates when it was most recently updated. Your continued use of any of our Sites and Services once such changes are posted to this policy will mean you accept those changes. 
+We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology described in Section 1.2 to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by [clicking here](http://tools.google.com/dlpage/gaoptout).
 
-### How to Contact Us
+##### **4.2 Tailored advertising**
 
-If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@utsandiego.com. You also may write to us at: San Diego Union-Tribune, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. 
+When you use the Service, Tribune may serve you with ads based on various factors such as the content of the page you are visiting, information you provide such as your age or gender, your searches, demographic data, user-generated content and other information that you provide to us. These ads may be based on your current activity or your activity over time and may be tailored to your interests.
+
+Also, third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the Services in order to (i) inform, optimize, and serve ads based on past visits to our websites and other sites and (ii) report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites and use of our Services. We also allow other third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We also may share with third-party advertisers a hashed version of your email address, solely in non-human readable form and content that you share publicly when using the services (e.g., user-generated content) for purposes of delivering tailored advertising. We neither have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below. You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s Consumer Opt-Out link](http://www.networkadvertising.org/choices), the [Digital Advertising Alliance’s Consumer Opt-Out link](http://www.aboutads.info/choices/) or [TRUSTe’s Advertising Choices Page](http://preferences-mgr.truste.com/) to opt-out of receiving tailored advertising from companies that participate in those programs. You may also use the links available in advertisements that appear in the Services and learn more about our advertising practices through the About Our Ads link available through the Services.
+
+To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings](https://www.google.com/settings/ads) page. Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising. In that case, the ads will just not be tailored. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+
+When using a mobile application you may also receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator. Tribune also may use a third-party vendor, Flurry, to deliver advertisements on mobile applications or for mobile application analytics. You can exercise your choices related to Flurry’s services [here](https://dev.flurry.com/secure/optOut.do).
+
+## 5\. California Do-Not-Track disclosure requirements.
+
+We are committed to providing you with meaningful choices about the information collected on our Services for third-party purposes, and that is why we provide above the Network Advertising Initiative’s “Consumer Opt-out” link, Digital Advertising Alliance’s Consumer Opt-Out Link, TRUSTe’s Advertising Choices page, the Google opt-out link, and Flurry opt-out information in Sections 4.1 and 4.2. However, we do not recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations and solutions.
+
+## 6\. How you can access and update your information.
+
+To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at [privacy@tribpub.com](mailto:privacy@tribpub.com).
+
+## 7\. How we protect information.
+
+We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information. These safeguards vary based on the sensitivity of the information that we collect, process and store and the current state of technology.
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+
+## 8\. Linked sites and advertisements.
+
+The Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites.
+
+We have relationships with third-party providers to provide content, products, services, and functionality through the Services. When you visit sites or use any Services provided in conjunction with one or more of these third-party providers and the brands of those providers appear on the site or Services in connection with such content, products, services, or functionalities, we may share any information you provide or that is collected during your use of those Services with those providers. In some cases, the provider may collect information from you directly, in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information.
+
+## 9\. Use of the Services by users from outside the United States.
+
+The Services are hosted in the United States and are governed by United States law. If you are using the Services from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
+
+## 10\. Use of the Services by children.
+
+The Services are not intended for persons under the age of 13. We require that only persons 13 years of age or older use the Services. By using the Services, you hereby represent that you are at least 13 years old. Some third parties, such as platform providers like the iTunes Store or Google Play may provide age-based ratings on some of the Services. These ratings shall have no bearing on this limitation. Third parties may also provide content categories on some of the Services. These categories shall have no bearing on this limitation.
+
+## 11\. How to contact us.
+
+If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to [privacy@tribpub.com](mailto:privacy@tribpub.com).
+
+## 12\. Your California privacy rights.
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@tribpub.com](mailto:privacy@tribpub.com).
+
+## 13\. No rights of third parties.
+
+This Privacy Policy does not create rights enforceable by third parties.
+
+## 14\. Changes to this Privacy Policy.
+
+Tribune Publishing Company reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Policy will mean you accept those changes.
+
+Copyright © 2016 Tribune Publishing Company.
