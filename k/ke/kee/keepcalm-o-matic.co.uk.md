@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keepcalm-o-matic.co.uk privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212050311id_/http%3A//www.keepcalm-o-matic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepcalm-o-matic.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619022656id_/http%3A//www.keepcalm-o-matic.co.uk/privacy) for the most accurate reproduction.*
 
-# KEEP CALM AND CARRY ON with the Keep Calm-o-matic
+# Terms of Use and Privacy | Keep Calm-o-Matic
 
 ## 1\. General Stuff
 
@@ -77,6 +77,6 @@ We also follow stringent procedures to ensure we work with all personal data in 
 
 ## 6\. How to contact us
 
-You can always get in touch with us for more information at help@keepcalm-o-matic.co.uk. Our office hours are Monday to Friday, 9 a.m. to 5.30 p.m. GMT and we do our best to respond to every request within 24 business hours. You can find out more about us and what we do on the [company page](https://web.archive.org/guide-to-keep-calm/).
+You can always get in touch with us for more information at help@keepcalm-o-matic.co.uk. Our office hours are Monday to Friday, 9 a.m. to 5.30 p.m. GMT and we do our best to respond to every request within 24 business hours. You can find out more about us and what we do on the [company page](http://www.keepcalm-o-matic.co.uk/guide-to-keep-calm/).
 
 Keep Calm Network Ltd, 7th Floor, 11 Old Jewry, London EC2R 8DU, United Kingdom. T: +44 (0)203 422 6659
