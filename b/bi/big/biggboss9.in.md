@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biggboss9.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103164355id_/http%3A//biggboss9.in/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggboss9.in privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619104807id_/http%3A//biggboss9.in/privacy-policy-disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy | Disclaimer | Bigg Boss 9
+# Privacy Policy | Disclaimer | Bigg Boss 10
 
 This Privacy Policy governs the manner in which www.biggboss9.com collects, uses, maintains and discloses information collected from users (each, a User) of the www.biggboss9.com website (Site). This privacy policy applies to the Site, all products and services offered by www.biggboss9.com
 
