@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the addicted2savings4u.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218113303id_/http%3A//asparkofcreativity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted2savings4u.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619154102id_/http%3A//asparkofcreativity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Spark of Creativity
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fasparkofcreativity.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 This privacy policy sets out how A Spark of Creativity uses and protects any information that you give while using www.asparkofcreativity.com
 
@@ -68,5 +66,3 @@ We will not sell, distribute or lease your personal information to third parties
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fasparkofcreativity.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
