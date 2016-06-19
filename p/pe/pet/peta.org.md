@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peta.org privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222023344id_/http%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619180749id_/http%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About This Site | All About PETA | About PETA | PETA
 
