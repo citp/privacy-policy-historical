@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skoolbo.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025063819id_/http%3A//skoolbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoolbo.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619105133id_/http%3A//www.skoolbo.com/privacy) for the most accurate reproduction.*
 
 # Skoolbo | Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Skoolbo is committed to ensuring your privacy is protected. Skoolbo collects the minimum amount of information possible for the effective learning management of the Child. Personal information related to the child is shared only with the Parent, the Teacher and the School Administrator. Skoolbo will never sell, distribute or lease the User’s personal information to third parties.
 
-Skoolbo strives to be fully compliant with the [Children’s Online Privacy Protection Act (COPPA) – 1998 (amended 1 July 2013).](http://www.business.ftc.gov/privacy-and-security/childrens-privacy)
+Friend Our World strives to be fully compliant with the[Children’s Online Privacy Protection Act (COPPA) – 1998 (amended 1 July 2013).](http://www.business.ftc.gov/privacy-and-security/childrens-privacy)
 
 The _Skoolbo Privacy Policy_ sets out how Skoolbo Limited (“Skoolbo”) uses and protects the information that you give Skoolbo when you use [www.skoolbo.com ](https://web.archive.org/)or an associated downloadable app. The _Skoolbo Privacy Policy_ should be read in conjunction with the [_Skoolbo Terms and Conditions;_](https://web.archive.org/terms)and the [_Skoolbo Child Safety Policy;_](https://web.archive.org/safety)which together form the full terms and conditions of Skoolbo’s agreement with the User.
 
@@ -71,7 +71,7 @@ Skoolbo _does not_ collect personally identifiable information of the Child such
 
   7.  **How Skoolbo uses cookies**
     * A cookie is a small file which asks permission to be placed on the User’s computer’s hard drive. The file is added and the cookie helps analyse web traffic.
-    * Skoolbo uses traffic log cookies to identify which pages are being used. This helps Skoolbo analyse data about web page traffic and improve the Skoolbo Services in order to tailor it to customer needs. Skoolbo only uses this information for statistical analysis purposes and then the data is removed from the system.
+    * Skoolbo Skoolbo Services in order to tailor it to customer needs. Skoolbo only uses this information for statistical analysis purposes and then the data is removed from the system.
     * A cookie in no way gives Skoolbo access to the User’s computer or any information about the User, other than the data the User chooses to share with Skoolbo.
     * The User can choose to accept or decline cookies. Most web browsers automatically accept cookies, but the User can usually modify browser setting to decline cookies. This may prevent the User from taking full advantage of [www.skoolbo.com](https://web.archive.org/).
   
@@ -104,7 +104,8 @@ Skoolbo _does not_ collect personally identifiable information of the Child such
  **For further information please contact Skoolbo at:**
 
 Skoolbo Limited  
-400 Continental Blvd, Suite 6024, El Segundo  
-CA 90245, UNITED STATES  
-[info@skoolbo.com](mailto:info@skoolbo.com)  
-Phone: +1 310-426-2971
+3877 Grand View Boulevard  
+Los Angeles, CA 90066  
+UNITED STATES  
+Email:[info@skoolbo.com](mailto:info@skoolbo.com)  
+Phone: +1 310-307-3757.
