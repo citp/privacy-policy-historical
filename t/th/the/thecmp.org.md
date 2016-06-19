@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecmp.org privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116120051id_/http%3A//thecmp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecmp.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619155734id_/http%3A//thecmp.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Civilian Marksmanship Program
+# Privacy Policy - Civilian Marksmanship ProgramCivilian Marksmanship Program
 
 ## PRIVACY POLICY  
 CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE  
