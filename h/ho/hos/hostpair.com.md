@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the hostpair.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115085928id_/http%3A//www.hostpair.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpair.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619171840id_/http%3A//www.hostpair.com/privacy.html) for the most accurate reproduction.*
 
-# HostPair :: Privacy Policy
+# Privacy Policy
 
-**Does this website use cookies to keep track of my information?**
+This is HostPair LLC Privacy Policy. It discusses how we will collect, use, maintain and disclose the information which we will collect from our website visitors and customers. Our privacy policy is part of our contracts. It is incorporated into our TOS and any other contract we have with users. 
 
-Yes, this website uses cookies to collect information about the user's computer system, such as the web browser type, IP address, and operating system. They are also used for session management and for personalisation (e.g. shopping cart features).
+**What type of information does collect by HostPair LLC?**
 
-**What types of information does this website collect?**
+  
 
-We collect the following types of information:
+
+When a visitor visit our website our web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system. 
+
+When a customer order our service we collocted following information:
+
+  
+
 
   * Traditional contact information such as mailing address, phone number, and fax number.
   * Internet contact information such as email addresses.
@@ -18,13 +24,12 @@ We collect the following types of information:
 
 
 
-**Do you store my credit card information?**
-
-No, we do not store any credit/debit or other financial information. 
-
 **Why is this website collecting traditional contact information?**
 
 We collect traditional contact information for the following purposes:
+
+  
+
 
   * For billing and support purposes.
   * For domain registration account establishment.
@@ -33,28 +38,22 @@ We collect traditional contact information for the following purposes:
 
 
 
-**Who will receive traditional contact information?**
+**How We Use Information**
 
-Our internal staff and our direct agents, such as our credit card authorization service. For domain registration account establishment your information will be shared with our registration partners, Enom and Nominet. In both cases this is done over an SSL encrypted connection to their servers.
+We do not share, rent, sell or release your personal information to any individual, entity or third party.
 
-**Will you ever sell my details to another company?**
+HostPair LLC may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by HostPair LLC and its trusted affiliates, independent contractors and business partners, and otherwise to enhance customers experience with HostPair LLC and such affiliates, independent contractors and business partners. HostPair LLC may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of HostPair LLC, its trusted affiliates, independent contractors and business partners; for example, to provide you with information about products which might be of interest to you or to enable you to take advantage of special partner programs or HostPair LLC specials. HostPair LLC may also use customer information to provide customers with system information or information about new or upgraded products.
 
-Absolutely not! We will never sell or share your information with a third-party not outlined on this page.
+We may disclose contact information with your permission when gathering and posting testimonials.
 
-**How long will traditional contact information be kept?**
-
-Indefinitely by HostPair. For domain registration account establishment, please see Enom's privacy policy.
-
-  **What are my options for system information?**
-
-You may switch cookies off within your browser, however doing so may prevent use of certain functions e.g. shopping carts, signup systems.
-
-**I'm a reseller, will you ever directly contact my clients?**
-
-The only time we will contact your clients is when supplying you with end-user support. We will never contact your clients with offers or promotions regarding HostPair.
+We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of HostPair LLC, our customers, or others. We may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws or where HostPair LLC has a good faith belief that the law requires such disclosure.
 
 **What if I think that you are not adhering to this statement?**
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact us.
+If you believe we are not handling your information in accordance with our privacy policy, please contact us.If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us.
 
-If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us.
+**Changes to our Privacy Policy**
+
+From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others.
+
+#### Subscribe to our Newsletter
