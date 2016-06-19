@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fundly.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222154421id_/https%3A//fundly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundly.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619043038id_/https%3A//fundly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fundly | Fundraising and Donations - Fundly
+# Privacy Policy | Fundraising and Donations - Fundly
 
-Last Updated: July 1, 2014
+Last Updated: July 1, 2014
 
 Fundly Inc. (referred to throughout as “ **Fundly** ,” “ **us** ,” “ **we** ,” “ **our** ,” etc.), is the owner and operator of the www.fundly.com website, a fundraising platform. This Privacy Policy applies to the [www.fundly.com](http://www.fundly.com/) website, any subdomains thereof, any API integrations or widgets we offer, any other websites or webpages we own or operate that include a link to this policy, and any of our mobile applications (all of which together are referred to as the “ **Sites** ”). Please keep in mind that this Privacy Policy does not apply to other websites, which may be accessible from the Sites. External websites may have data collection, storage, and use practices and policies that differ materially from those contained here.
 
@@ -25,7 +25,7 @@ In order for you to make donations through the Sites, register with the Sites, o
 
 **How do we collect Personal Information?**
 
-We collect Personal Information when you provide it to us, such as when you create an account, make a donation, create a campaign, enter a contest or sweepstakes, take other actions on the Sites, and at other times.  We also collect Personal Information from social media sites and services when you use your social media account to log into the Sites or use the Sites to take other actions on social media, such as sharing or liking a fundraising campaign.
+We collect Personal Information when you provide it to us, such as when you create an account, make a donation, create a campaign, enter a contest or sweepstakes, take other actions on the Sites, and at other times. We also collect Personal Information from social media sites and services when you use your social media account to log into the Sites or use the Sites to take other actions on social media, such as sharing or liking a fundraising campaign.
 
 **Traffic Data**.
 
@@ -33,7 +33,7 @@ As is true of most websites, we automatically collect certain information when y
 
 **How do we collect Traffic Data?**
 
-As is true of most websites, we use cookies (a small text file placed on your computer or device to identify your computer and web browser) to collect Traffic Data related to the Sites. We use Service Providers (defined below) to place cookies on your computer or device to compile this non-personally identifiable information so we can aggregate statistical information about usage of the Sites. Most web browsers are initially set up to accept cookies.  You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent, however, certain features of the Site or Services may not work if you delete or disable cookies.
+As is true of most websites, we use cookies (a small text file placed on your computer or device to identify your computer and web browser) to collect Traffic Data related to the Sites. We use Service Providers (defined below) to place cookies on your computer or device to compile this non-personally identifiable information so we can aggregate statistical information about usage of the Sites. Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent, however, certain features of the Site or Services may not work if you delete or disable cookies.
 
 The Sites also contain web beacons, which are electronic images that are used along with cookies to compile statistics so we can analyze how the Sites are being used. Our e-mails may also contain web beacons so we can track how many people open the message or click on links within the message. This information helps us improve our communication and marketing efforts. We use a Service Provider to gather information on how you and others are using the Sites. By using this service we are able (for example) to see how many people visited a given page or clicked on a given link. This information helps us optimize the performance of the Sites.
 
@@ -53,21 +53,21 @@ Please remember that after we disclose Personal Information to third parties, we
 
 We use your information in a variety of ways to help us run the Sites, provide services to you, and communicate with you. Here are some examples of the ways we use your information:
 
-•  To facilitate the processing of a transaction between you and a third party
+• To facilitate the processing of a transaction between you and a third party
 
-•  To send you receipts
+• To send you receipts
 
-•  To send you updates about the Sites
+• To send you updates about the Sites
 
-•  To send you updates about activity on the Sites related to you
+• To send you updates about activity on the Sites related to you
 
-•  To administer your account
+• To administer your account
 
-•  To respond to customer service inquiries
+• To respond to customer service inquiries
 
-•  To send marketing materials
+• To send marketing materials
 
-•  To improve our Sites and marketing efforts
+• To improve our Sites and marketing efforts
 
 ### **What kinds of advertising and online tracking do we use?**
 
@@ -103,7 +103,7 @@ We maintain physical, electronic, and procedural safeguards to protect the confi
 
 ### **Links To Other Websites**
 
-Our Sites may contain links to or frame other websites or allow others to send you such links. A link to or framing of a third party’s website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party websites. You access such third-party websites or content at your own risk.  You should always read the privacy policy of a third-party website before providing any information to the website.
+Our Sites may contain links to or frame other websites or allow others to send you such links. A link to or framing of a third party’s website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party websites. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before providing any information to the website.
 
 ### **Children’s Privacy**
 
@@ -111,7 +111,7 @@ We understand the importance of protecting privacy especially where children are
 
 ### **Processing in the United States**
 
-Please be aware that your Personal Information, communications, and other information may be transferred to and maintained on servers or databases located outside your state, province, or country.  If you are located outside of the United States, please be advised that we process and store all information in the United States.  The laws in the United States may not be as protective of your privacy as those in your location.  By using the Sites, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
+Please be aware that your Personal Information, communications, and other information may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside of the United States, please be advised that we process and store all information in the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using the Sites, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
 
 ### **Contact Information**
 
