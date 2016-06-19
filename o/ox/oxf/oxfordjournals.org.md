@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordjournals.org privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117015957id_/http%3A//www.oxfordjournals.org/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordjournals.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619211352id_/http%3A//www.oxfordjournals.org/en/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
