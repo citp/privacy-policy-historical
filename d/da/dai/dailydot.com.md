@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050547id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619072415id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -18,7 +18,9 @@ We collect this Usage Information by using cookies and pixel tags (also called w
 
 We do not collect personally identifying information in this way, but if you’ve provided us with personally identifying information we may associate that information with the information that is collected automatically. Automatic data collection may be performed on our behalf by our services providers. We may also allow third-party companies that are presenting advertisements on the Site to set and access their own cookies. Such third-party cookies are not governed by this Privacy Policy, but by the privacy policies of such third party.
 
-##  **How we use your information**
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
+
+## **How we use your information**
 
 We may use your Personal Information and the Usage Information in a manner that is consistent with this Privacy Policy and the context of our relationship with you. We will use the personally identifying information collected on this Site for the following purposes:
 
@@ -62,4 +64,4 @@ The Daily Dot, LLC
 3112 Windsor Road, Suite A391  
 Austin, TX 78703
 
- _Last updated: Nov. 13, 2012_
+ _Last updated: May 31, 2016_
