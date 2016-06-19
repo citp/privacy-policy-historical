@@ -1,30 +1,31 @@
-> *The following text is extracted and transformed from the hrnz.co.nz privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220014635id_/http%3A//www.hrnz.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrnz.co.nz privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619052626id_/http%3A//www.hrnz.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harness Racing New Zealand
-
-### Purpose
 
   * To explain how personal information is managed by Harness Racing New Zealand (“HRNZ”)
   * To ensure compliance with the Privacy Act 1993
 
 
 
-### Procedure
+## Procedure
 
-##### Definitions
+**  
+Definitions**
 
   * Confidentiality means a duty to protect and hold in strict confidence all information concerning a person.
   * Personal Information means information about an identifiable individual.
 
 
 
-##### Privacy Officer
+##### **  
+Privacy Officer**
 
   * HRNZ will appoint a privacy officer.
 
 
 
-##### Collection
+##### **  
+Collection**
 
 The purpose for collecting personal information at HRNZ is to facilitate the purposes of HRNZ which are:
 
@@ -38,7 +39,8 @@ In order to achieve its purposes, HRNZ collects personal information relevant to
 
 When collecting personal information, HRNZ will identify:
 
-  * the purposes for which personal information is collected;
+the purposes for which personal information is collected;
+
   * who has access to the information
   * information which must be provided either by law or otherwise; and
   * information which is optional
@@ -54,7 +56,9 @@ HRNZ will collect information in a fair manner:
 
 
 
-##### Storage and Security of Personal Information
+##### **  
+Storage and Security of Personal Information  
+**
 
 HRNZ will take reasonable steps:
 
@@ -73,7 +77,8 @@ Personal information is not sent by e-mail unless, in all the circumstances, it 
 
 It is unacceptable for any staff member at HRNZ to intentionally breach the Privacy Act, read or copy personal information when unauthorised to do so, use personal information for a purpose other than the HRNZ purposes without consent.
 
-##### Access to and Correction of Personal Information by the Individual
+##### **  
+Access to and Correction of Personal Information by the Individual**
 
 Any person or their authorised agent (in writing) may ask HRNZ whether personal information is held about him or her and have access to such information if it exists subject to the exceptions contained in Part IV of the Privacy Act. Access is not limited to “the file” and may include diary notes and/or other material in separate files.
 
@@ -85,7 +90,7 @@ In these circumstances HRNZ will:
   * Identify if personal information is held and identify if any personal information is to be withheld pursuant to sections 27-29 of the Privacy Act
   * Respond to the request as soon as practicably but no later than 20 working days after the request is made (unless it is necessary to seek an extension)
   * Provide information in the way asked by the requester unless to do so would impair efficient administration. This can include providing an opportunity to inspect a file (under supervision to protect the integrity of the file and to provide explanations if necessary), providing the individual with a copy of any document, furnishing oral information about a file’s contents and giving a summary of the contents.
-  * If the request for access is declined, HRNZ will explain why the request is declined and advise the requester of his/her right to complain to the Office of the Privacy Commissioner. 
+  * If the request for access is declined, HRNZ will explain why the request is declined and advise the requester of his/her right to complain to the Office of the Privacy Commissioner.
 
 
 
@@ -93,22 +98,26 @@ If the requester says that information held is incorrect (with which HRNZ agrees
 
 If HRNZ does not agree with a request for correction, then the requester will be given an opportunity to have a statement of correction held with the information. The information and correction will be held in such a way so that anyone accessing the file will understand the two positions are held on file.
 
-##### Retention and Disposal of Personal Information
+##### **  
+Retention and Disposal of Personal Information  
+**
 
-HRNZ does not keep personal information for longer than is required for its necessary purpose without consent from the individual concerned, unless required by statute or other regulation.
+****HRNZ does not keep personal information for longer than is required for its necessary purpose without consent from the individual concerned, unless required by statute or other regulation.
 
 If personal information is to be destroyed then documents will either be shredded or placed in a locked bin which has the contents disposed of in a confidential and secure manner; and with expert assistance if disposing of computer based material.
 
-##### Disclosure of Personal Information to Third Parties
+##### **  
+Disclosure of Personal Information to Third Parties  
+**
 
 HRNZ does not disclose personal information to third parties except that it may do so in the following circumstances:
 
   * it is for one of HRNZ’s necessary purposes;
   * the situation is covered by one of the exceptions set out in principle 11 of the Privacy Act
   * HRNZ will disclose personal information without a request if there is another legal requirement to release the information.
-  * HRNZ uses electronic images for its newsletter and/or website if the image is taken in a public area or with the consent of the person/s in the image. 
-  * HRNZ staff members do not give personal information out over the phone or send the personal information by facsimile, unless the staff member is reasonably satisfied that the receiver is a person to whom personal information may be disclosed.
+  * HRNZ uses electronic images for its newsletter and/or website if the image is taken in a public area or with the consent of the person/s in the image.
+  * HRNZ staff members do not give personal information out over the phone or send the personal information by email/post unless the staff member is reasonably satisfied that the receiver is a person to whom personal information may be disclosed.
   * If HRNZ investigates a complaint or disciplinary matter, the complainant will be advised from the outset that while it is the usual practice of HRNZ to advise the complainant that an outcome has been reached, he or she may not receive full details of the action (if any) taken against that person.
-  * If HRNZ receives an enquiry from the Police, process servers from the Court or Other Government Officials then the request will be managed by HRNZ’s privacy officer or his/her delegate
+  * If HRNZ receives an enquiry from the Police, process servers, bailiffs or other Government Officials then the request will be managed by HRNZ’s privacy officer or his/her delegate.
 
 
