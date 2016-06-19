@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905154912id_/https%3A//www.optionshouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619050653id_/https%3A//www.optionshouse.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | OptionsHouse
+# Privacy Statement - OptionsHouse
 
-* * *
-
-We want to make sure you are aware of our [Privacy Policy](https://www.optionshouse.com/docs/privacy-policy.pdf). This Privacy Statement and our Privacy Policy disclose privacy practices for OptionsHouse on [www.optionshouse.com](http://www.optionshouse.com/). 
+We want to make sure you are aware of our [Privacy Policy __](https://web.archive.org/docs/optionshouse-privacy-policy.pdf). This Privacy Statement and our Privacy Policy disclose privacy practices for OptionsHouse on[optionshouse.com](https://web.archive.org/).
 
 **Purpose of this Privacy Statement & Policy**  
 We share your concerns about your privacy, and we are committed to protecting your privacy online. This Privacy Statement and Policy describe the type of information that we collect, how we collect that information, and why we collect it. It also details how you can update and correct the information we collect from you, the choices that you have on our collection of your information, cookies, the security measures we take, and how we update our privacy policy.
@@ -29,7 +27,7 @@ We will primarily use your personally identifiable information to provide our se
 **How We Release the Information**  
 We do not sell your personally identifiable information to others. We do provide some of our services through contracts with affiliates, service providers, partners, and other third parties. We and our service partners use your personally identifiable information to operate our sites and deliver services. The use of your personally identifiable information by those service partners is governed by their own privacy policies. Those policies are not subject to our control. 
 
-We may share or disclose personally identifiable information about you to other companies or individuals when: 
+We may share or disclose personally identifiable information about you to other companies or individuals when:
 
   * to fulfill your requests for specific products and services;
   * to improve the design and content of our site;
@@ -39,13 +37,13 @@ We may share or disclose personally identifiable information about you to other 
 
 
 **Information Sharing and Disclosure**  
-OptionsHouse may share or disclose personally identifiable information about you to other companies or individuals when: 
+OptionsHouse may share or disclose personally identifiable information about you to other companies or individuals when:
 
   * we have your consent to share the information;
   * we utilize third party service providers to provide products, services or functions on our behalf and require these service providers to agree to maintain the confidentiality of your personally identifiable information. For example, we provide information to companies that prepare and mail account statements and transaction confirmations.
   * we have entered into a business relationship with a third party company or an individual whom we believe will conform with our Privacy Statement and Policy;
   * we need to protect our legal rights;
-  * we comply with applicable laws to cooperate with regulators or law enforcement authorities. These parties include government/regulatory organizations, such as the Internal Revenue Service, the Securities and Exchange Commission, as well as any of the securities exchanges, self-regulatory organizations and states we are registered with, and to parties under court order or subpoena requests; and 
+  * we comply with applicable laws to cooperate with regulators or law enforcement authorities. These parties include government/regulatory organizations, such as the Internal Revenue Service, the Securities and Exchange Commission, as well as any of the securities exchanges, self-regulatory organizations and states we are registered with, and to parties under court order or subpoena requests; and
   * in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of our business.
 
 
@@ -74,7 +72,7 @@ We maintain physical, electronic, and procedural safeguards that meet or exceed 
 You can also take steps to maximize your security online and to protect your confidential information. First and foremost, do not choose a trivial password and do not post your password on your computer. Do not use a public computer unless you can verify that it is not capturing key strokes and that you can erase all of your information from it once you have finished. Make sure you are using the latest version of your browser software and have downloaded all browser security patches.
 
 **This Privacy Statement & Policy Applies to OptionsHouse**  
-This policy applies to [www.optionshouse.com](http://www.optionshouse.com/) and services offered on it. It does not apply to services offered by other companies or individuals or other companies’ websites, even if those products or sites may be displayed on our website and even if our site is displayed on their website. 
+This policy applies to [www.optionshouse.com](https://web.archive.org/) and services offered on it. It does not apply to services offered by other companies or individuals or other companies’ websites, even if those products or sites may be displayed on our website and even if our site is displayed on their website. 
 
 **Changes to the Privacy Statement & Policy **  
 We may change this policy at any time. We will post those changes to this website, and they may be effective immediately. We encourage you to refer back to this policy each time that you visit. Your use of OptionsHouse’s website after any changes have been posted will constitute your agreement to the modified Privacy Statement & Policy. We may also send updates to our Privacy Statement & Policy by issuing an email to the email address you have provided us. By using this website, you acknowledge and agree that it is your responsibility to maintain a valid email address with us and to update us if that email address changes.
