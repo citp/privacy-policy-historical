@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918193034id_/http%3A//affectv.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affec.tv privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619034839id_/http%3A//www.affectv.com/privacy) for the most accurate reproduction.*
 
-# Affectv – PREDICT. PERSONALISE. PERFORM
+# Affectv | Cookies
+
+## Opt Out _Of Affectv Cookies_
 
 ### What We Do
 
@@ -16,19 +18,23 @@ Our clients use the interaction data we capture to identify and categorise consu
 
 Affectv, like many other media and online advertising websites, uses cookies. Cookies are small text files that sit on your internet browser, and they are placed so websites know that you've been to their website before. Cookies contribute to a better online experience when you browse a website and allow for improvements of the website by enabling web statistics collection. For example, when you visit your most popular social network, they will log you in to your account automatically by using cookies.
 
-Cookies are traditionally classified into two general categories; there are session cookies and persistent cookies. Session cookies expire by the end of your browsing activity. These are mostly used to store shopping choices and enable the checkout process in online shopping. Persistent cookies are stored in a user’s browser and remain there after a browsing session has ended for a longer period of time. These type of cookies are common in online and target advertising. Affectv uses persistent cookies to collect data over time and identify online behavioural patterns. You can identify our cookies in your browser as `go.affec.tv`. The persistent cookies we use to improve the relevancy of advertising are set to expire after 1 year. Devices on which we can place cookies include computers, laptops, mobile and tablet devices.
+Cookies are traditionally classified into two general categories; there are session cookies and persistent cookies. Session cookies expire by the end of your browsing activity. These are mostly used to store shopping choices and enable the checkout process in online shopping. Persistent cookies are stored in a user's browser and remain there after a browsing session has ended for a longer period of time. These type of cookies are common in online and target advertising. Affectv uses persistent cookies to collect data over time and identify online behavioural patterns. You can identify our cookies in your browser as go.affec.tv. The persistent cookies we use to improve the relevancy of advertising are set to expire after 1 year. Devices on which we can place cookies include computers, laptops, mobile and tablet devices.
 
-To find out more about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+To find out more about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+Affectv adheres to the principles of the [EDAA OBA Framework](https://www.eprivacy.eu/en/privacy-seals/oba-certification/).  
+[](https://www.eprivacy.eu/en/privacy-seals/oba-certification/)  
+
 
 ### Your Data
 
-At Affectv, we don't use Personally Identifiable Information (PII) in order to know what ads a user may be interested in, such as your name or email address. We take consumer privacy very seriously. We use cookies to collect, aggregate and process mainly analytical and ‘interactive’ data in order to understand which computer browsers have viewed which content on a website; which websites are most visited from which geographical location and which other browsers and users you may have interacted with. For example, if you share a photo with another user and you subsequently click on an advert, based on the above interaction we capture, we may serve the same advert to the person you shared the photo with.
+At Affectv, we don't use Personally Identifiable Information (PII) in order to know what ads a user may be interested in, such as your name or email address. We take consumer privacy very seriously. We use cookies to collect, aggregate and process mainly analytical and 'interactive' data in order to understand which computer browsers have viewed which content on a website; which websites are most visited from which geographical location and which other browsers and users you may have interacted with. For example, if you share a photo with another user and you subsequently click on an advert, based on the above interaction we capture, we may serve the same advert to the person you shared the photo with.
 
 Affectv maintains anonymous analytical and interaction data for up to 12 months with the aim to use it to classify users with similar characteristics or interests into general categories. After 12 months, interaction data is no longer used for these purposes, but it is used for research and statistics reporting on an aggregated basis for as long as this data is relevant.
 
 ### Opt Out & Choices
 
-If you would still not like to have ads tailored to your interests, please click [here](http://affectv.co.uk/optout) to opt out. This will stop you receiving ads by Affectv. If you would like to opt out of other targeted ads from other providers, please go [here](http://www.youronlinechoices.eu/).
+If you would still not like to have ads tailored to your interests, please [click here](https://web.archive.org/opt-out) to opt out. This will stop you receiving ads by Affectv. If you would like to opt out of other targeted ads from other providers, please go here.
 
 Alternatively, you can disable cookies in your internet browser (usually by selecting Tools-Options-Privacy).
 
@@ -42,7 +48,7 @@ The security of your information is important to us. We have implemented reasona
 
 We may share Non-PII collected via our technology with affiliated third parties, including behavioural patterns, interaction data collected as above described and general statistics. For example, we may disclose that our online advertisements offering "sports car" test drives receive more clicks than those offering "Mini Van" test drives. This information is only used in an aggregated form and cannot be used to contact or identify any person individually. We encourage our media partners and our clients to comply fully with the EU regulations and recommendations on cookies use and online privacy issued by the relevant online advertisement organisations and institutions, but we do not undertake any responsibility with regards to their policies. We strongly recommend you to read the respective Privacy Policies of any website you visit.
 
-If you have any questions or comments about our security policies, please send us an email at [privacy@affectv.co.uk](mailto:privacy@affectv.co.uk) or write to us at: Affectv, 1st Floor, 77 Oxford Street, London W1D 2ES United Kingdom
+If you have any questions or comments about our security policies, please send us an email at [privacy@affectv.com](mailto:privacy@affectv.com) or write to us at: Affectv, Black & White Building, 74 Rivington Street, London, EC2A 3AY
 
 Regards,
 
