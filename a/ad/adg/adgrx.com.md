@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the adgrx.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225185627id_/http%3A//adgear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgrx.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619131628id_/http%3A//adgear.com/privacy) for the most accurate reproduction.*
 
-# AdGear Real-Time Ad Platform
+# None
 
 ## Advertising and Content Served through AdGear
 
 AdGear Technologies, Inc. firmly believes in the importance of online privacy for its advertisers, publishers, and users. AdGear Technologies, Inc., through its AdGear ad server technology, does not collect any personally-identifying information before, during, or after the delivery of its clients' advertisements; our ad delivery technology may collect non-personally identifying information for the purposes of targeting and measuring advertising campaigns. Measurement of advertising campaigns consists of calculating performance metrics associated with non-personally identifying data, such as the total number of delivered impressions (advertisement exposures), the click-through rate of advertisements, the unique number of browsers exposed to an advertisement, etc. 
+
+AdGear complies with the rules and regulations of the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/) and [Digital Advertising Alliance of Canada (DAAC).](http://youradchoices.ca/)
 
 In the course of providing clients with ad serving services and for the purpose of helping clients determine which advertisement is suitable to be delivered to a user, AdGear technology may employ cookies to collect non-personally identifying information. A cookie is a small text file that can be stored on a user's computer when that computer's browser views an advertisement or website of one of AdGear's clients or partners. The AdGear cookie is unique to the user's browser. The cookie does not contain the user's name, address, phone number, Email address, or anything that personally identifies the user. AdGear Technologies, Inc. collects only non-personally identifying information such as the type of operating system used by the user, the type of Internet browser software used by the user, the address of web pages where ads were viewed by the user and the time at which the ads were viewed, the geographic location of the user's Internet service provider, anonymous demographic information collected through anonymous online surveys, such as gender and age and, when applicable, the address of advertiser websites viewed by the user in the past. 
 
