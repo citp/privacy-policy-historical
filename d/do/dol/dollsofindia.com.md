@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217221823id_/http%3A//www.dollsofindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619065708id_/http%3A//www.dollsofindia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,10 +16,10 @@ DollsOfIndia is committed to respecting and protecting your personal privacy. Ou
 
 ### INFORMATION REMOVAL OR UPDATION
 
-  * Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by visiting [this link](http://dollsofindia.us5.list-manage1.com/unsubscribe?u=2a5a9fedb007a2718c4a7b4d0&id=0905869123) or by writing to [info@dollsofindia.com](mailto:info@dollsofindia.com) . You may also contact us at our address or phone number provided below. By writing in to us you can: 
+  * Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by visiting [this link](http://dollsofindia.us5.list-manage1.com/unsubscribe?u=2a5a9fedb007a2718c4a7b4d0&id=0905869123) or by writing to [info@dollsofindia.com](mailto:info@dollsofindia.com). You may also contact us at our address or phone number provided below. By writing in to us you can: 
     * Request us to remove any personally identifiable information with us. This also implies that there cannot be any form of checking from our side to any future subscriptions to our services/mailings to contact addresses (physical or email) which points to you.
     * Request us to block any future mailings to your contact addresses (physical or email).
-  * Users, whose email/contact information are with us, may choose to update their contact information with us by writing to [info@dollsofindia.com](mailto:info@dollsofindia.com) . You may also contact us at our address or phone number provided below.
+  * Users, whose email/contact information are with us, may choose to update their contact information with us by writing to [info@dollsofindia.com](mailto:info@dollsofindia.com). You may also contact us at our address or phone number provided below.
 
 
 
@@ -48,9 +48,7 @@ DollsOfIndia is committed to respecting and protecting your personal privacy. Ou
 
 ### DOLLSOFINDIA CONTACT INFORMATION REGARDING CONCERNS
 
-  * To request for unsubscription OR removal from our customer database: [info@dollsofindia.com](mailto:info@dollsofindia.com)
-  * To request for modification or updation of customer information: [info@dollsofindia.com](mailto:info@dollsofindia.com)
-  * To request for clarifications on our privacy policy: [info@dollsofindia.com](mailto:info@dollsofindia.com)
+  * To request for unsubscription OR removal from our customer database OR modification or of customer information OR clarifications on our privacy policy: [info@dollsofindia.com](mailto:info@dollsofindia.com)
   * You may write to our physical address with any of the requests above. Write to:  
 **Madhuri Guin  
 DollsofIndia Ecommerce Private Limited P3B-085, Princeton Estate  
