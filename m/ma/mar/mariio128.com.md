@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the mariio128.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617073142id_/http%3A//mariio128.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariio128.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619173323id_/http%3A//mariio128.com/privacy-policy.html) for the most accurate reproduction.*
 
-# HELP CENTER :: PRIVACY POLICY - MARIIO128 GAMES & ENTERTAINMENT
+# Privacy Policy
 
 **Privacy Policy**  
 MARIIO128.com respects your privacy and is committed to protecting the information we collect from you.  
-  
    
 **Personal Information**  
 This refers to information that lets us know the specifics of who you are. Personal information is requested when you register and set up an account, order a product or service.  
