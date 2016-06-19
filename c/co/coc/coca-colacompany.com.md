@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coca-colacompany.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218053139id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colacompany.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619075050id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Coca-Cola Company: The Coca-Cola Company
 
@@ -8,21 +8,21 @@
 **Last Revised: 15 November, 2013**  
 
 
-[The Coca-Cola Company](https://web.archive.org/our-company/)
+[The Coca-Cola Company](https://web.archive.org/our-company.html)
 
 and its affiliates are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through activities that link to this Privacy Policy including websites (our “ **Websites** ”) and any mobile sites, applications, widgets, and other mobile interactive features (collectively, our “ **Apps** ”), through our official social media pages that we control (our “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you (collectively, including the Social Media Pages, Apps and Websites, the “ **Sites** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
 If you are located in the European Union (EU), please note that 
 
-[The Coca-Cola Company](https://web.archive.org/our-company/)
+[The Coca-Cola Company](https://web.archive.org/our-company.html)
 
 abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU/Switzerland with respect to personal information collected by entities located in the European Economic Area and transferred to 
 
-[The Coca-Cola Company](https://web.archive.org/our-company/)
+[The Coca-Cola Company](https://web.archive.org/our-company.html)
 
 in the United States.  For additional information regarding the Safe Harbor Program, see 
 
-[The Coca-Cola Company](https://web.archive.org/our-company/)
+[The Coca-Cola Company](https://web.archive.org/our-company.html)
 
 ’s Safe Harbor policy [http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy.](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")
 
@@ -184,7 +184,7 @@ We give you many choices regarding our use and disclosure of your Personal Infor
   * If at any time you wish to stop receiving email marketing communications from us, please just let us know by emailing, calling or writing to us using the contact information listed below in the _“Contacting Us”_ section or by using the unsubscribe feature in the marketing email you received. In your request, please indicate that you wish to stop receiving email marketing communications from us. 
 
 
-  * In addition, we will not disclose your Personal Information to third parties, including our subsidiaries, for the third party's direct marketing purposes if we have received and processed a request from you that your Personal Information not be shared with third parties for that purpose. If you would like to submit such a request, please just let us know by emailing, calling or writing to us using the contact information listed below in the _“Contacting Us”_ section.  Please clearly indicate that you request that [The Coca-Cola Company](https://web.archive.org/our-company/) not disclose your Personal Information to [The Coca-Cola Company](https://web.archive.org/our-company/) subsidiaries and/or other third parties for their direct marketing purposes.
+  * In addition, we will not disclose your Personal Information to third parties, including our subsidiaries, for the third party's direct marketing purposes if we have received and processed a request from you that your Personal Information not be shared with third parties for that purpose. If you would like to submit such a request, please just let us know by emailing, calling or writing to us using the contact information listed below in the _“Contacting Us”_ section.  Please clearly indicate that you request that [The Coca-Cola Company](https://web.archive.org/our-company.html) not disclose your Personal Information to [The Coca-Cola Company](https://web.archive.org/our-company.html) subsidiaries and/or other third parties for their direct marketing purposes.
 
 
 
@@ -218,7 +218,7 @@ We may change this Privacy Policy.  Please take a look at the “ _Last Updated
 
 ## CONTACTING US
 
-[The Coca-Cola Company](https://web.archive.org/our-company/)
+[The Coca-Cola Company](https://web.archive.org/our-company.html)
 
 1 
 
