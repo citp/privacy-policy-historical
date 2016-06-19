@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interesticle.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226105217id_/http%3A//www.interesticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesticle.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619194439id_/http%3A//www.interesticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Interesticle
+# Privacy Policy | Interesticle
 
 This privacy policy details the efforts we take to protect your information. We’re committed to protecting your information. We will only ask you to provide it as a means of identifying you, and it will only be used in the ways specified by this privacy policy. This policy may undergo subtle changes when we update this page. You should periodically check this page to see if we’ve recently altered the policy.
 
