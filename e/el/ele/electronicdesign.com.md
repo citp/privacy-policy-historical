@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicdesign.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626105429id_/http%3A//www.penton.com/PrivacyStatement/tabid/75/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicdesign.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619235509id_/http%3A//www.penton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Penton
 
