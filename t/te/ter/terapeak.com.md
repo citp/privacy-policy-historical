@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227085944id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619022550id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terapeak | Item Pricing, Online Sales Reports | eBay Research Tools & Market Data
 
-Last Updated: 2015-11-13
+Last Updated: 2016-05-26
 
 Terapeak Inc., a Delaware company, Terapeak (Canada) Inc., a Canadian company, Terapeak GmbH, a German company, and their affiliates and subsidiaries (collectively “Terapeak”) are committed to protecting the privacy of users of the website terapeak.com (the "Website") and our online products and services (the “Products and Services”) in accordance with the requirements of Canadian federal and provincial privacy laws.
 
@@ -89,7 +89,7 @@ Various browsers may offer their own management tools for removing HTML5 LSOs. T
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking http://preferences-mgr.truste.com/.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [http://preferences-mgr.truste.com](https://web.archive.org/preferences-mgr.truste.com).  If you use an iOS enabled device you can follow the opt-out steps provided here ([https://support.apple.com/en-us/HT202074](https://web.archive.org/support.apple.com/en-us/HT202074)) or if you use an Android enabled device you can follow the opt-out steps provided here ([https://support.google.com/ads/answer/2662922?hl=en](https://web.archive.org/support.google.com/ads/answer/2662922?hl=en)). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 ### Testimonials
 
@@ -98,14 +98,6 @@ We may post testimonials that include personal information on the Website.
 ### Blogs/Discussion Forums
 
 Our blog utilizes  a third party application that may require you to register to post a comment.  We do not have access or control of the information posted to the blog.  You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed.  To learn how the third party application uses your information, please review their privacy policy.
-
-### Transfers
-
-We do not sell, rent or distribute any personal information regarding any user to any third party, nor do we disclose lists of users to any third party except as described in this Privacy Policy (see Matching and Business Transitions).
-
-### Matching
-
-We license data sets that contain emails, names and physical addresses to third parties who use such personal information solely to match such licensed data sets with their own data sets. Agreements with such third parties restrict them from any other use of such personal information unless they obtain your consent to such other use.
 
 ### Spamming/Unsolicited Communications
 
