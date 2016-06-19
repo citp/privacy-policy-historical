@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexusads.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220163915id_/http%3A//nexusads.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusads.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619173846id_/http%3A//nexusads.org/privacy-policy) for the most accurate reproduction.*
 
 # NexusADS.org
 
@@ -18,8 +18,8 @@ Information we collect: We store some user data in cookies, under no circumstanc
 
 3.
 
-Account security: User information such as your e-mail and AlertPay/PayPal/Liberty Reserve addresses will never be revealed. 
+Account security: User information such as your e-mail and Payza/Perfect Money addresses will never be revealed. 
 
 4.
 
-3rd party privacy: For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the ClixScript website we do not take responsibility, you are viewing advertisements under your own will and risk. 
+3rd party privacy: For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout nexusads website we do not take responsibility, you are viewing advertisements under your own will and risk. 
