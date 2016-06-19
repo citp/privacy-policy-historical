@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redshift3d.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922053159id_/https%3A//www.redshift3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redshift3d.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619163453id_/https%3A//www.redshift3d.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Redshift
+# Privacy Policy
 
 **At Redshift, we take your privacy seriously.**  
 Our principles on privacy are simple:  
