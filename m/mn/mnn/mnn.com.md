@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230230022id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619022549id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MNN - Mother Nature Network
 
@@ -8,9 +8,7 @@ Your privacy is important to us. MNN.com has prepared these privacy and security
 
 **Personal Information**
 
-MNN.com may ask you to register and provide personal information in certain instances, such as when you choose to personalize your use of our Website for environmental interest, when you ask a question of our experts, or when you contact our customer support group. Personally identifiable information that we may collect includes your name, e-mail address, and address. MNN.com may also collect demographic information such as your age, gender, zip code, and interests.
-
-If you choose not to register, you can still use most of our Website. But you won’t have full access to our user-generated video and blogging channels.
+MNN.com may ask you to register and provide personal information in certain instances, such as when you ask a question of our experts or when you contact our customer support group. Personally identifiable information that we may collect includes your name and email address.
 
 **Children's Personal Information**
 
@@ -22,7 +20,7 @@ MNN.com tracks navigational data (log files, server logs, click-stream) and info
 
 **Third-Party Ad-serving Companies**
 
-On our Website, we will display third-party advertisements. While many of these advertisements are displayed by MNN.com, we may allow third-party ad-serving companies or ad networks to display advertisements on our Website. Some of these ad networks may place a persistent cookie in order to recognize your computer each time they send you an online advertisement. Thus, third party ad-serving companies or ad networks may compile information about where you are using your computer, where you saw their advertisements, and which ads are clicked on. This information allows the third party to deliver targeted advertisements that they believe will be of most interest to you. MNN.com does not have access to the cookies that may be placed by the third-party ad-serving companies or ad networks. We will not share information that will specifically identify you to an ad-serving company or ad
+On our Website, we will display third-party advertisements. While many of these advertisements are displayed by MNN.com, we may allow third-party ad-serving companies or ad networks to display advertisements on our Website. Some of these ad networks may place a persistent cookie in order to recognize your computer each time they send you an online advertisement. Thus, third party ad-serving companies or ad networks may compile information about where you are using your computer, where you saw their advertisements, and which ads are clicked on. This information allows the third party to deliver targeted advertisements that they believe will be of most interest to you. MNN.com does not have access to the cookies that may be placed by the third-party ad-serving companies or ad networks. We will not share information that will specifically identify you to an ad-serving company or ad.
 
 **HOW WE USE YOUR INFORMATION**
 
@@ -34,7 +32,7 @@ MNN.com may also use your information to communicate via our newsletters, but on
 
 **Website Usage Information**
 
-The website usage information we collect (e.g., cookies, Internet tags, web beacons, etc.) is used by MNN.com to monitor the operation, technical functions, and quality of our Website and services. This information is also used to provide general statistics regarding use of our Website. We may also use such information for research or improvements of our Website and the services we offer you. This data is also used by MNN.com to deliver customized content and advertising to you when your online behavior indicates that you are interested in a particular subject area. (i.e. you’ve communicated to us that you are particularly interested in recycling)
+The website usage information we collect (e.g., cookies, Internet tags, web beacons, etc.) is used by MNN.com to monitor the operation, technical functions, and quality of our Website and services. This information is also used to provide general statistics regarding use of our Website. We may also use such information for research or improvements of our Website and the services we offer you. This data is also used by MNN.com to deliver customized content and advertising to you when your online behavior indicates that you are interested in a particular subject area. (i.e. you’ve communicated to us that you are particularly interested in recycling).
 
 **Disclosure of Data**
 
@@ -58,9 +56,9 @@ Except as set forth above, MNN.com will not disclose your personally identifiabl
 
 **CONTROL OF YOUR PERSONAL INFORMATION**
 
-MNN.com offers its users choices for the collection, use, and sharing of personally identifiable information at the time a user decides to register. In addition, users may stop the delivery of future communications from MNN.com by unsubscribing at any time. For instance, each e-mail you receive (aside from “service e-mails”) contain instructions explaining how to stop receiving such e-mails.
+MNN.com offers its users choices for the collection, use, and sharing of personally identifiable information at the time a user decides to register. In addition, users may stop the delivery of future communications from MNN.com by unsubscribing at any time. For instance, each email you receive (aside from “service emails”) contain instructions explaining how to stop receiving such emails.
 
-If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting your account page on our Website or by e-mailing our Customer Support service at [contact@mnn.com](mailto:contact@mnn.com).
+If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting your account page on our Website or by emailing our Customer Support service at [contact@mnn.com](mailto:contact@mnn.com).
 
 **PROTECTION OF INFORMATION -- SECURITY**
 
