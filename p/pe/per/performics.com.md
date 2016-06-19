@@ -1,30 +1,25 @@
-> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212072035id_/http%3A//www.performics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619165331id_/http%3A//www.performics.com/performics-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Performics
+# Performics Privacy Policy | Performics
 
-This Website is provided by Performics. We take the privacy of our users and their personal information very seriously.
+#### 1\. INFORMATION COLLECTED ON OUR SITE
 
-For your convenience, all Performics Websites contain links to a number of other Websites, both inside and outside Performics & Publicis Groupe. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies.
+**Information You Provide To Us**
 
-The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. By using the site, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy, the data protection notice (if any) incorporated into this Website and the provisions of US laws. We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this site.
+When you use the Site, we or our service providers may collect Personal Information (information that could reasonably be used to contact you or to identify you personally) such as your name, e-mail address, telephone number, mobile phone number, or mailing address.
 
-**Personal information collection and use**  
-Performics will only collect personally identifiable data, such as your name or email address, when it is voluntarily submitted to us at this Website. Performics will use this information to comply with your request for information or as otherwise disclosed to you when you submit your information. From time to time, we may refer to that information to better understand your needs and how we can improve our services. We may use that information to contact you. We will not otherwise transfer the personally identifiable information you provide at this site to any third party unless otherwise disclosed to you.
+**Information Collected Automatically**
 
-**Non-personal information collection and use**  
-Similar to most commercial organizations, we monitor the use of this site by collecting aggregate information. We may automatically collect non-personal information about you such as the type of internet browsers you use, the pages you visit or the Website which directed you to our site. You cannot be identified from this information and it is used only to assist us in providing an effective service on this website.
+_Usage Information_. Whenever you visit or interact with the Site, Performics, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Site is accessed and used (“ **Usage Information** ”). Usage Information may include, in part, browser type, operating system, the page served, the time, and the preceding page views. This statistical data provides us with information about the use of the Site, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they “click” on. This information helps us keep our website fresh and interesting to our visitors and tailor content to a visitor’s interests.
 
-**Use of cookies**  
-Cookies are small files which are sent to your web browser and stored on your computer’s hard drive. Their purpose is to help analyze web traffic. You may set your web browser to notify you of cookie placement requests or to decline cookies completely.  You can delete the files that contain cookies; those files are stored as part of your internet browser.
+_Device Identifiers_. Performics may also automatically collect your IP address or other unique identifier (“ **Device Identifier** ”) for the computer, mobile device, technology or other device (collectively, “ **Device** ”) you use to access the Site. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Site, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify, and gather broad demographic information for aggregate use.
 
-**Under 13 year olds**  
-This Website is not intended or designed to attract children under the age of 13. We do not knowingly collect personally identifiable data from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
+_Cookies; Pixel Tags_. The technologies used on the Site to collect Usage Information, including Device Identifiers, may include but are not limited to: cookies (data files placed on a Device when it is used to visit the Site), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Site and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Site (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server. ** _[Performics to confirm the applicability of the tracking technologies described in this section]_**
 
-**Security of your personal data**  
-We have implemented technologies and policies with the objective of protecting your privacy from unauthorized access and improper use and will update these measures as appropriate as new technologies become available.
+Similarly, we use Google Analytics to help us track and analyze usage of our Site, using cookies, pixels and other tracking technologies.
 
-**Access and corrections**  
-Under data protection law you have a right to request access to personal data which are held about you on payment of a small fee. You also have the right to require any inaccuracies in your information to be corrected free of charge.
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, [we will honor your request,] **_[Performics to confirm]_** however please be aware that some features and services on our Site may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
-**Who is responsible for personal information collected on this site?**  
-If you have any questions about Performics’ privacy policy, please email [m](mailto:info@performics.com)[arketing@performics.com](mailto:marketing@performics.com)
+You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser.
+
+For more information on advertising using cookies and how to opt out of advertising cookies specifically, please see Advertising; How To Opt-Out below
