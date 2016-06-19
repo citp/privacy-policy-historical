@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinio.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034243id_/http%3A//www.machinio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinio.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619033420id_/http%3A//www.machinio.com/privacy) for the most accurate reproduction.*
 
 # Machinio.com Privacy
 
@@ -6,7 +6,7 @@ Last Revised: August 12th, 2013
 
 ## Notice of Privacy Rights
 
-Machinio, (“Machinio,” “we,” or “us”) welcomes you to www.machinio.com and any and all applications or mobile applications offered by Machinio, Inc (the “Site”). This Privacy Policy describes how Machinio collects and receives information about you through the Site, Services and Content and through Machinio’s businesses, including offline. The Privacy Policy together with the [Terms of Use](https://web.archive.org/tos) govern your use of the Site and Machinio’s collection and use of your information. 
+Machinio, (“Machinio,” “we,” or “us”) welcomes you to www.machinio.com and any and all applications or mobile applications offered by Machinio, Inc (the “Site”). This Privacy Policy describes how Machinio collects and receives information about you through the Site, Services and Content and through Machinio’s businesses, including offline. The Privacy Policy together with the [Terms of Use](https://web.archive.org/tos) govern your use of the Site and Machinio’s collection and use of your information.
 
 ## ACCEPTANCE OF PRIVACY POLICY
 
@@ -14,7 +14,7 @@ Each time you access, use, or browse any Site or provide personal information to
 
 Should the Privacy Policy be revised, Machinio will post the changes on the Site which will be effective immediately upon posting. Any material changes to the terms of the Privacy Policy will apply only to information collected thereafter, unless you provide consent. You can determine when the Privacy Policy was last revised by referring to the “Last Revised” legend at the top of this page.
 
-If you provide your personal information to Machinio offline, the Privacy Policy applies to Machinio’s collection and use of your information. Machinio also may provide paper copies of the Privacy Policy when it collects information from you offline. In addition to this Privacy Policy, you agree that the provisions in the [Terms of Use](https://web.archive.org/tos) also govern Machinio’s collection and use of your information collected offline. 
+If you provide your personal information to Machinio offline, the Privacy Policy applies to Machinio’s collection and use of your information. Machinio also may provide paper copies of the Privacy Policy when it collects information from you offline. In addition to this Privacy Policy, you agree that the provisions in the [Terms of Use](https://web.archive.org/tos) also govern Machinio’s collection and use of your information collected offline.
 
 ## TYPES OF INFORMATION WE COLLECT
 
@@ -42,16 +42,16 @@ We or our third party tracking utility company also use “web beacons” to col
 
 We may use the information we collect from you:
 
-_To provide information to third parties that may provide you with personalized content and advertising about their stores, restaurants, products and services.  
-To alert you to new features, terms, Content, Services, or products.   
-To send emails or newsletters, and to provide you with personalized content in the newsletters.   
-To monitor and analyze information regarding your browsing and viewing preferences.   
-To analyze our users’ demographics and interests.   
-To administer Content or Services.   
-To process and respond to your inquiries.   
-To improve the Site.   
-For the purposes for which you provided the information.   
-To enforce the Terms of Use. _
+ _To provide information to third parties that may provide you with personalized content and advertising about their stores, restaurants, products and services.  
+To alert you to new features, terms, Content, Services, or products.  
+To send emails or newsletters, and to provide you with personalized content in the newsletters.  
+To monitor and analyze information regarding your browsing and viewing preferences.  
+To analyze our users’ demographics and interests.  
+To administer Content or Services.  
+To process and respond to your inquiries.  
+To improve the Site.  
+For the purposes for which you provided the information.  
+To enforce the Terms of Use._
 
 ## COMMUNICATIONS WITH YOU
 
