@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908135106id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619062311id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
 
 # Kifi • Privacy Policy
 
-Welcome to kifi.com, a website owned and controlled by FortyTwo Inc. (“Kifi”, “we”, “us”, or “our”). We operate the Kifi website, browser extension and mobile application, which help you easily “keep” webpages you are interested in, share kept pages with your friends and contacts on a variety of social networks, publish kept pages in public “libraries”, add comments and messages to kept pages, and receive personalized recommendations based on the things you keep and libraries you follow (the “Service”). We provide this Privacy Policy to let you know what information we collect, how we use it, share it and protect it.
+Welcome to kifi.com, a website owned and controlled by FortyTwo Inc. (“Kifi”, “we”, “us”, or “our”). We operate the Kifi website, browser extension and mobile applications, which help you easily “keep” webpages you are interested in, share kept pages with your friends, team mates and contacts, publish kept pages in public “libraries”, add comments and messages to kept pages, and receive personalized recommendations based on the things you keep and libraries you follow (the “Service”). We provide this Privacy Policy to let you know what information we collect, how we use it, share it and protect it.
 
 By using Kifi, you accept the practices described in this Privacy Policy. This Privacy Policy does not apply to information collected by third-party websites and web services linked to or otherwise accessible from Kifi. The information collected or received by third-party websites is subject to their own privacy policies.
 
-To enable the Service, including providing you with customized Kifi search results and making the webpages you “kept” accessible to you and your social contacts, Kifi occasionally collects some information about your browsing history as well as your search queries and results. This information is de-identified, encrypted and held securely on our servers without becoming visible to anyone, including our employees, except in accordance with your privacy choices.
+To enable the Service, including providing you with customized Kifi search results and making the webpages you “kept” accessible to you, your team members and your social contacts, Kifi occasionally collects some information about your browsing history as well as your search queries and results. This information is de-identified, encrypted and held securely on our servers without becoming visible to anyone, including our employees, except in accordance with your privacy choices.
 
 ## Guiding Principles
 
@@ -33,7 +33,7 @@ Whenever we will refer to a “Secured Manner” hereinafter, we will mean the t
 
 ### Login
 
-In order to become a Kifi user, you will register to the Service or log in using your social login. This means that upon your first login, Kifi collects your full name and email address, profile photo, gender, languages, devices and list of friends from the social network you connect through. Kifi is a social product, providing you added value by learning from the search queries and results of your social contacts. This is why when you login, we collect information about your friends, friends of friends, followers and social contacts. This information is used to improve your social search capabilities and enable you to communicate with your social contacts through the Service, for example with messages.
+In order to become a Kifi user, you will register to the Service or log in using your social login. This means that upon your first login, Kifi collects your full name and email address, profile photo, gender, languages, devices and list of friends from the social network you connect through. Kifi is a social product, providing you added value by learning from the search queries and results of your social contacts. This is why when you login, we collect information about your friends, followers and social contacts. This information is used to improve your social search capabilities and enable you to communicate with your social contacts through the Service, for example with messages.
 
 In addition, when you first login, Kifi, upon your approval, gives you the ability to send us all of your existing bookmarks and retains them as kept pages for your future reference.
 
@@ -79,11 +79,22 @@ Kifi is a social product, learning from the search queries and search results of
 
 ## Keeping Webpages
 
-You can choose to “keep” any webpage into (1) “My Main Library”, (2) “My Private Library”, (3) a “Published” Library you create, or a (4) “Private” Library you create. The webpage addresses that you choose to “keep” into “My Main Library”, are viewable by your social contacts who use Kifi. They will be able to see that you “kept” a certain webpage when they make a related query in a search engine or on Kifi.com, which will appear to them in conjunction with your name and profile photo. They will not see the title of the page rendered at the time you kept it, and cannot see the list of pages you kept into “My Main Library” in its entirety. You can choose to “keep” a webpage into “My Private Library”, in which case your social contacts will not be able to see that you “kept” it. Kifi, however, will record that you “kept” a webpage privately, in order to provide you with access to that webpage when you later search for it again. You can choose to “keep” a webpage into a “Published” Library you create, in which case the address, title, and content of the webpages in the library are viewable and searchable by anyone on the internet. You can choose to “keep” a webpage into a “Private” Library you create, in which case the webpages in the library are viewable only by people you invite. If you “keep” pages that are protected behind a login wall, and we detect it as such (i.e your personal email messages or social networking posts), those pages will be, by default, not accessible by your social contacts.
+You can choose to “keep” any webpage into (1) a “Public” Library, a (2) “Private” Library or a (3) "Team" Library. While "Public" and "Private" libraries may exist in your personal space or a team space, a "Team" library has to exist only in a team space. You can choose to “keep” a webpage into a “Private” Library, in which case your social contacts will not be able to see that you “kept” it. Kifi, however, will record that you “kept” a webpage privately, in order to provide you with access to that webpage when you later search for it again. You can choose to “keep” a webpage into a “Public” Library, in which case the address, title, and content of the webpages in the library are viewable and searchable by anyone on the internet. You can choose to “keep” a webpage into a “Private” Library, in which case the webpages in the library are viewable only by people you invite. You can choose to “keep” a webpage into a “Team” Library, in which case the webpages in the library are viewable only by members of the team the library is in, and any additional library "members". If you “keep” pages that are protected behind a login wall, and we detect it as such (i.e your personal email messages or social networking posts), those pages will be, by default, not accessible by your social contacts.
+
+## Slack Integration
+
+The Kifi Slack Integration lets you do the following: (1) Connect a Slack team with a Kifi team enables any member of your Slack team to authenticate with their respective Slack team credentials and Kifi will join that member into the Kifi team. Kifi may use some of the Slack information about the team and members of the team for display. For example, team name, team logo, team url, channel names, list of channels, member name, member email, member icon and more. Kifi will not persist photos or emails of the team members unless those team members joined Kifi as members.  
+(2) Sync Kifi Library into Slack channels, which sends keeps with their notes and comment threads to the respective Slack channels.  
+(3) Sync Slack channel into Kifi Libraries, which sends Slack messages that have links to Kifi Libraries. Links mentioned in those Slack messages will be kept in the libraries and displayed along with the associated messages. Some of those links may not be displayed in the Kifi libraries if they would match the list of rules also knows as "Link ingestion blacklist".The privacy rules that apply to keeps and messages that are kept via Slack are the same as in the "Keeping Webpages" section above.  
+Kifi will not expose the existence of private channels or messages of those channels unless the Kifi Libraries that are synced with those channels are shared with a larger set of members or made public.
 
 ## Following Libraries
 
-You are able to “follow” libraries in Kifi. If you follow a published library, anyone on the internet will be able to see that you followed this library, which will appear to them in conjunction with your name and profile photo. If you “follow” private libraries in Kifi, the library owner and people who are also following this library will be able to see your name and profile photo.
+You are able to “follow” libraries in Kifi. If you follow a published library, anyone on the internet will be able to see that you followed this library, which will appear to them in conjunction with your name and profile photo. If you “follow” private libraries in Kifi, the library owner and people who are also following this library will be able to see your name and profile photo. If you “follow” team libraries in Kifi, the library owner, team members and people who are also following this library will be able to see your name and profile photo.
+
+## Kifi Team Space
+
+Kifi Team Space ("team", "organization", "org") lets a collection of persons manage libraries together. Unless the administrators of a team explicitly elected to restrict visibility of the team, some or all of the team properties (e.g. name, description, list of members) may be public. Some of the actions or properties may be restricted by an administrator of the team. To view the list of team administrators see the members section in the team space. Unless team administrators are limiting Team Members library creation, Members of the team may have "Public", "Private" or "Team" libraries in the team space, see the "Keeping Webpages" section of this document. Team Administrator may choose to limit Members from creating "Public Libraries". 
 
 ## Kifi Messages
 
@@ -95,7 +106,7 @@ You can choose to permanently remove all your information related to the webpage
 
 ## Using Your Information
 
-Your information is stored on our servers or on the servers of our storage service providers, which are located in the U.S. or the EU, and used to operate and improve the Service; to conduct research about your use of the Service; to personalize the content and advertisements provided to you; and to communicate with you and respond to your inquiries.
+Your information is stored on our servers or on the servers of our storage service providers, which are used to operate and improve the Service; to conduct research about your use of the Service; to personalize the content and advertisements provided to you; and to communicate with you and respond to your inquiries.
 
 We use elements of your browsing history and search queries to provide you with the Service, including to improve and personalize the Kifi search results that you and other Kifi users get and to enable you to communicate with your social contacts who use Kifi.
 
@@ -135,4 +146,4 @@ We may update this Privacy Policy from time to time, so you should review it per
 
 If you have any questions or concerns about this Privacy Policy or its implementation, please contact us [here](http://support.kifi.com/hc/en-us/requests/new).
 
-LAST UPDATED: October 24, 2014
+LAST UPDATED: October 25, 2015
