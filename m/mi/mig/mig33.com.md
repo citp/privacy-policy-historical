@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906142833id_/http%3A//mig.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620010801id_/http%3A//mig.me/privacy) for the most accurate reproduction.*
 
 # Privacy | migme
 
 ## Introduction and Scope
 
-In this Privacy Policy, we (Mig33 Pte Ltd, headquartered in Singapore) describe how we use personally identifiable information about you that we collect through our website at [mig.me](http://mig.me/), through our migme software, through your use of our platform services, and through our customer support, [contact@mig.me](mailto:contact@mig.me). This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
+In this Privacy Policy, we (Migme Pte Ltd, headquartered in Singapore) describe how we use personally identifiable information about you that we collect through our website at [mig.me](http://mig.me/), through our migme software, through your use of our platform services, and through our customer support, [contact@mig.me](mailto:contact@mig.me). This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
 
 ## About Children
 
