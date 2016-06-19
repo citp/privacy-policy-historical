@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219134856id_/http%3A//www.solarvps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarvps.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619144238id_/http%3A//www.solarvps.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Solar VPS
 
