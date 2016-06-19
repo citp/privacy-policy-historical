@@ -1,74 +1,95 @@
-> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206091102id_/https%3A//www.cipd.co.uk/site-terms/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619042458id_/http%3A//www.cipd.co.uk/site-terms/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Site terms - CIPD
 
-### 1\. Data Protection and privacy
+The Chartered Institute of Personnel and Development and its subsidiaries are committed to protecting your privacy. This privacy policy (together with our [Website Terms and Conditions](https://web.archive.org/site-terms/default.aspx "Website terms and conditions") and any other documents referred in it) sets out the basis for processing any personal data we collect from you or that you provide to us. Please read the following carefully to understand our practices regarding your personal data. By using our website [www.cipd.co.uk](http://www.cipd.co.uk/) (our ‘ **Website** ’) you are accepting and consenting to the practices described in this policy.
 
-1.1 **"CIPD"** shall mean the Chartered Institute of Personnel and Development and its subsidiaries, including, but not limited to, CIPD Enterprises Limited and any future names by which these entities may be known.
+Depending on the purpose for which you are providing your personal data, for the purpose of the Data Protection Act (the ‘ **Act** ’), the data controller (or entity responsible for the data collected) will be either us and/or any of our subsidiaries* (together the ‘ **CIPD Group** ’). Within the context of this policy ‘we’ means the CIPD Group.
 
-1.2 This privacy policy applies to any information acquired by and/or provided to CIPD including but not limited to: 
+*CIPD Enterprises Ltd, 151 The Broadway, London SW19 1JQ (registered in England: 02921009); CIPD Asia Ltd, 43 Niven Road, Singapore (registered in Singapore: 201401681N); CIPD Middle East FZ-LLC, Dubai Knowledge Park, UAE PO Box 503231 (registered in Middle East: 93098)
 
-   1\. information acquired/provided through the CIPD website (including the CIPD Professional Communities) at [www.cipd.co.uk](http://www.cipd.co.uk/) (the “Websites”);   
-   2\. information acquired/provided during the course of orders, transactions and bookings;   
-   3\. information acquired/provided through enquiries or by the completion of any request and or invitation for information;   
-   4\. information acquired/provided through awards and competition entries;   
-   5\. information acquired/provided through any other source which we obtain in relation to you.
+##  Data we may collect from you 
 
-1.3 CIPD recognises that your privacy is important to you. The information you submit to CIPD will be kept confidential and secure once received. The information will be processed by CIPD or on its behalf under strictly regulated conditions in accordance with the provisions of the Data Protection Act 1998. 
+The CIPD Group may collect and process the following data about you:
 
-### 2\. How we use your personal information
+  * Information acquired/provided through our Website or the website of any member of the CIPD Group (collectively the ‘ **Websites** ’). This includes information provided at the time of registering to use the Websites, subscribing to our services, personalising the Websites with your preferences, participating in discussion boards or other social media functions, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by any member of the CIPD Group, when you respond to a survey and/or when you report a problem with the Websites.
+  * If you contact us, we may keep a record of that correspondence. If you send us personal information which identifies you via email, we may keep your email and email address. We may also collect information that is available from your browser.
+  * We may ask you to complete optional surveys for research purposes.
+  * Details of transactions you carry out through the Websites and of the fulfilment of your orders.
+  * Details of your visits to the Websites including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access.
+  * Details of your access to our online resources or other materials.
+  * Providing CVs or other information about yourself for specific purposes.
 
-2.1. Any personal information provided by you to or obtained from other sources by CIPD will only be used for the following purposes:
 
-  1\. updating and enhancing customer, contact and membership records and those of other related CIPD activities   
-  2\. compiling information relating to your use of CIPD's products and services and defining areas of interest to you   
-  3\. improving the Websites to meet users' habits and requirements and compiling information relating to users' movements across the Website in accordance with our Cookie Policy   
-  4\. handling orders, delivering products and services, processing payments, communicating with you about orders, products and services and generally maintaining your account   
-  5\. advising you of other products and services which may be of interest   
-  6\. inviting you to participate in research studies and/or market research activities   
-  7\. compiling case studies in relation to the purpose for which the information was submitted (eg. awards nominations), or otherwise in an anonymised format unless otherwise expressly notified to you in advance   
-  8\. responding to queries from members of the public about your membership status   
-  9\. providing you with information about and communications from your local branch network.    
-10. serving notice in accordance with the requirements of CIPD’s Charter and Bye-laws, where applicable.
 
-### 3\. Disclosure
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to either the CIPD Group or our advertisers/partners. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-3.1 CIPD will only disclose this information in the following circumstances:
+##  How we use your data 
 
-  1\. where your consent has been obtained   
-  2\. where there is a legal obligation   
-  3\. where there is a public duty or   
-  4\. in connection with the assignment or transfer of all or any of its rights and obligations to any of its group companies or to any other third party.
+Your data will only be used for the purposes indicated when you submit the data or as detailed under this privacy policy.
 
-3.2 For operational reasons and/or in order to meet specific requests data may also be:
+We use personal information held about you in the following ways:
 
-  1\. processed on behalf of CIPD by external organisations under strictly regulated conditions in accordance with the provisions of the Data Protection Act 1998. 
+  * to update and enhance our records
+  * to compile information relating to your use of our products and services and make recommendations about goods and services and other areas that may interest you
+  * to ensure the content from the Websites is presented in the most effective manner for you and your computer
+  * to carry out our obligations arising from any contracts entered into between you and us to provide you with the information, products and services that you request from us
+  * to provide you, or permit selected third parties to provide you, with information about CIPD goods and services which may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we or permitted third parties will contact you by electronic means only if you have consented to this. You can opt-in/out of such notifications by following the instructions on the relevant forms set out on this Website (or elsewhere as applicable) or at any time after providing your information
+  * inviting you to participate in research studies and/or market research activities
+  * we may anaylse your data to create a profile of your interests and preferences so that we can contact you in the most appropriate way and with the most relevant information; to respond to queries from members of the public about your membership status
+  * to provide information about and communications from your local branch network
+  * to serve notice in accordance with the requirements of our [Charter and Bye-laws](https://web.archive.org/cipd-hr-profession/about-us/policies-codes-guidelines.aspx "Charter and Bye-laws, Regulations and Code of Conduct"), where applicable.
 
-### 4 Accuracy
 
-4.1 CIPD will take reasonable steps to create an accurate record of any personal data you have submitted. However, CIPD does not assume responsibility for confirming the ongoing accuracy of your personal data. You can update your personal data by making amendments in the 'My Profile' section of the Website by emailing us at [database@cipd.co.uk](mailto:database@cipd.co.uk) or by calling us on +44 (0)20 8612 6208. Please note that it will take up to 21 days for the changes to come into effect.
 
-4.2 If you wish to change your mailing preferences or opt-out of specific marketing communications sent from CIPD and its subsidiaries you may notify us by [clicking here](http://www.cipd.co.uk/contactus?sc=DB) and completing the notification form. Alternatively you may contact us on +44 (0)20 8612 6208. It may take up to 21 days for the changes to come into effect. Please note that this will not alter your current email subscription preferences.
+##  Disclosure of your data 
 
-4.3 If you would like to request a copy of your personal data under the Data Protection Act 1998, or have any other related queries, please email [secretariat@cipd.co.uk](mailto:secretariat@cipd.co.uk). Please note that proof of your identity, payment and/or other information may be required in order to respond to your request.
+We may share your data with any member of the CIPD Group. We will not transfer any of your data to any third parties without your permission or unless indicated in this privacy policy or agreed by you on a form on the Websites.
 
-### 5\. Cookies and Google Analytics
+We may disclose your personal information to third parties without obtaining further consent from you including:
 
-5.1. CIPD may gather information about you when you use our Website by using cookies. Information collected in this way will be anonymised and aggregated. Please view our Cookie Policy for further information.
+  * to our business partners, suppliers and subcontractors for the performance of any contract we enter into with you
+  * where we outsource any of our business functions under which we collect or store your data, in which case we will ensure that any such service provider adheres to at least the same obligations of security with regard to your data as undertaken by us
+  * where we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms & Conditions and other agreements; or to protect our rights, property, or safety of our employees, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-5.2. CIPD and/or its subsidiaries reserve the right to anonymously track and report a user's activity inside of the Websites. The Website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies and or an Application Programming Interface (“API”) to help analyse how the Website is used. The information generated by the cookie or API about your use of the Websites (including your IP address) will be transmitted to and stored by Google on servers in the United States.
 
-5.3. Google will use this information for the purpose of evaluating your use of the Websites, compiling reports on Website activity for Website operators and providing other services relating to Website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
-5.4. By using the Websites, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+We will never sell your data to third parties for the purposes of marketing.
 
-### 6\. Policy Modification
+##  Where we store your data 
 
-Any modifications to the privacy practices of CIPD will be reflected first within this area of our website. If there is a material change in our privacy practices, CIPD will indicate on this site that CIPD’s privacy practices have changed, and make the necessary amendments to the current privacy policy. If CIPD considers using the information collected from you in a manner materially different from that stated at the time of collection, CIPD will send written notice by email of the change.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (‘ **EEA** '). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-### 7\. Consent
+Any payment transactions will be encrypted using SSL technology.
 
-By disclosing personal information to CIPD you consent to the collection, storage and processing of information in the manner described in this policy. Please note that your continued use of the Websites and/or products and services constitutes your agreement to any changes to this policy and the [CIPD Website Terms and Conditions](https://web.archive.org/site-terms/default.aspx "general content intro - Website terms and conditions").
+##  Your rights 
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we wish to use your data for such purposes or if we intend to disclose your information to any third party for such purposes and request your consent to these activities. If you wish to change your mailing preferences or opt-out of specific marketing communications sent from the CIPD Group, you may [notify us by completing this form](https://web.archive.org/contactus?sc=DB). Alternatively you may contact us on +44 (0)20 8612 6208. It may take up to 21 days for the changes to come into effect. Please note that this will not alter your current email subscription preferences.
+
+The Websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+##  Access to information 
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee (as amended from time to time) to meet our costs in providing you with details of the information we hold about you.
+
+If you would like to request a copy of your personal data under the Act or have any other related queries, please email [legal@cipd.co.uk](mailto:legal@cipd.co.uk).
+
+##  Accuracy 
+
+We will take reasonable steps to create an accurate record of any personal data you have submitted. However, we do not assume responsibility for confirming the ongoing accuracy of your personal data. You can update your personal data by making amendments in the 'My Profile' section of our Website, by emailing us at [database@cipd.co.uk](mailto:database@cipd.co.uk) or by calling us on +44 (0)20 8612 6208. Please note that it will take up to 21 days for the changes to come into effect. 
+
+##  Cookies 
+
+The Websites use cookies to distinguish you from other users. This helps us to provide you with a good experience when you browse the Websites and also allows us to improve them. Please see our [Cookie Policy](https://web.archive.org/site-terms/cookie-policy.aspx "Cookie policy") for further information. 
+
+##  Changes to our privacy policy 
+
+Any changes we may make to our privacy policy in the future will be posted on this page. By continuing to use our Website you will be deemed to have accepted such changes. 
+
+##  Contact 
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [legal@cipd.co.uk](mailto:legal@cipd.co.uk)
 
 CIPD Privacy Policy   
-May 2013
+Last modified May 2016
