@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220091004id_/http%3A//telligent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619204132id_/http%3A//www.telligent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telligent
 
@@ -10,7 +10,7 @@ Telligent respects the privacy of our customers, business partners and other vis
 
 ### EU-US Safe Harbor
 
-Telligent adheres to the EU-US Safe Harbor Privacy Principles, as described in more detail in our [General Safe Harbor Privacy Notice](https://www.telligent.com/legal/safe-harbor-notice).
+Telligent adheres to the EU-US Safe Harbor Privacy Principles, as described in more detail in our [General Safe Harbor Privacy Notice](http://www.verint.com/about/legal/verints-safe-harbor-policy/).
 
 ### What personal information does Telligent collect?
 
