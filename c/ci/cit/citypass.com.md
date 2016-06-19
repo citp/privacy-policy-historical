@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065150id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619115934id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | CityPASS®
 
@@ -83,7 +83,6 @@ You can enable cookies by doing the following:
 
   * **Internet Explorer:** On your task bar menu, select "Tools" and "Internet Options." Then select the "Privacy" tab. Move the slider to any setting other than "High" or "Block All Cookies." Then click "OK."
   * **Mozilla Firefox:** On your task bar menu, select "Tools" and "Options." Select the "Privacy" tab and place a tick mark in the box for "Accept Cookies from Sites." Then click "OK."
-  * **Netscape Navigator/Communicator:** On your task bar menu, select "Edit" and "Preferences." Select "Advanced" and click "Accept All Cookies." Then click "OK."
   * **Apple Safari:** On your task bar menu, select "Edit" and "Preferences." Select "Cookies" and then select "Always" in the "Accept Cookies" section.
   * **Google Chrome:** Click the "Tools" menu to the right of the address bar and select "Options." Click on the "Under the Hood" tab, and scroll down to the "Cookie settings:" section. In the drop-down menu, select "Allow all cookies." Then click "Close."
 
