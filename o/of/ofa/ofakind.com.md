@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ofakind.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908025530id_/http%3A//www.ofakind.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofakind.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619232132id_/http%3A//www.ofakind.com/pages/privacy) for the most accurate reproduction.*
 
 # Of a Kind | Shop hundreds of emerging fashion designers
-
-##  Privacy Policy   
-
 
 We at Of a Kind know that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the ofakind.com website, and any other features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Site"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
