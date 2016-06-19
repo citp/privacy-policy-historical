@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineradar.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022020908id_/http%3A//mediaradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineradar.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619201413id_/https%3A//mediaradar.com/privacy-policy) for the most accurate reproduction.*
 
 # MediaRadar Privacy Policy | MediaRadar
 
