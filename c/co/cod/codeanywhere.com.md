@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeanywhere.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315041017id_/https%3A//codeanywhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeanywhere.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619065702id_/https%3A//codeanywhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy · Codeanywhere
 
@@ -30,4 +30,7 @@ If you feel that this site is not following its stated information policy, you m
 
 ## Ready to start coding from anywhere? 
 
-Used by a growing comunity of over 300,000 developers including some from these top companies:
+Used by a growing community of over ... developers including some from these top companies:
+
+  *   *   *   * 
+
