@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playit.pk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624202005id_/http%3A//playit.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playit.pk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619234409id_/http%3A//playit.pk/privacy) for the most accurate reproduction.*
 
 # PlayIt.pk - Fill your video appetite.
 
@@ -36,7 +36,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Your Consent
 
-By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20150624202005id_/http%3A//playit.pk/privacy.php).
+By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20160619234409id_/http%3A//playit.pk/privacy.php).
 
 ### Changes to our Privacy Policy
 
