@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxchurch.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220120808id_/http%3A//www.xxxchurch.com/privacy-policy-rights-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxchurch.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620000157id_/http%3A//www.xxxchurch.com/privacy-policy-rights-use) for the most accurate reproduction.*
 
 # Privacy Policy And Rights Of Use - XXXchurch.com
 
@@ -109,5 +109,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
+XXXchurch.com is a ministry of [Fireproof Ministries, Inc. a registered 501c3](http://fireproofministries.com/#features)
+
  **Contacting Us  
-**If there are any questions regarding this privacy policy you may contact us [here](http://www.xxxchurch.com/contact "Contact").
+**If there are any questions regarding this privacy policy you may contact us [here](https://www.xxxchurch.com/contact "Contact").
