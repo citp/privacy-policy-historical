@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616231745id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619121544id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
 
 # Tickld - Privacy Policy
 
-This privacy policy applies to www.tickld.com owned and operated by 2382258 Ontario, Inc dba Tickld ("Tickld"). Tickld is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following Privacy Policy to understand how we collect, use, disclose and protect the information you provide to us. By using our Site you consent to the collection, use and disclosure of your personal data under the terms of this Privacy Policy.
+This privacy policy applies to www.tickld.com owned and operated by Tickld, Limited ("Tickld"). Tickld is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following Privacy Policy to understand how we collect, use, disclose and protect the information you provide to us. By using our Site you consent to the collection, use and disclosure of your personal data under the terms of this Privacy Policy.
 
 The following words and expressions have the following meanings unless inconsistent with the context: 
 
 Compliance Officer | Kyle contactable at kyle@tickld.com
 
 Compliance Officer  
-2382258 Ontario Inc.  
+Tickld, Limited  
 60 St. Clair Avenue East  
 Suite 300  
 Toronto, Ontario  
@@ -23,12 +23,12 @@ DPA | Data Protection Act 1998 as amended from time to time;
 For Canadian residents, 'personal data' means information about an identifiable individual;   
 PIPEDA | Personal Information Protection and Electronic Documents Act, SC 2000, c. 5 (Canada), as amended from time to time;   
 Site | www.tickld.com;   
-'we', 'us' or 'our' | 2382258 Ontario Inc. operating as Tickld, a company duly incorporated under the laws of Ontario;  
+'we', 'us' or 'our' | Tickld, Limited, a company duly incorporated under the laws of Ontario;  
 'you', 'your'' | an individual, company or firm accessing our Site.  
   
 This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the Internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorized access, theft or loss of personal data beyond our reasonable control. Tickld may change this policy without notice from time to time to reflect changes in legal or regulatory obligations. However, if we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 28 June 2014.
 
-2382258 Ontario, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website and through our mobile applcation. 
+Tickld, Limited has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website and through our mobile applcation. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
 
@@ -67,7 +67,7 @@ We will share your personal information with third parties only in the ways that
   1. Our data processors. We may share personal data with third parties engaged to assist us in providing services to you or to carry out one or more of the purposes described above. These service providers are prohibited from using your personal data for any purpose other than to provide this assistance and are required to protect personal data collected by them on behalf of Tickld or disclosed to them by Tickld and to comply with the general privacy principles described in this policy.
   2. Such marketing companies used by us from time to time
   3. We reserve the right to disclose personal data to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  4. We reserve the right to disclose and/or transfer personal data to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of 2382258 Ontario Inc. or of any of the business or assets or shares of 2382258 Ontario Inc. or a division thereof in order for you to continue to receive the same products and services from the third party. In any of these events, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  4. We reserve the right to disclose and/or transfer personal data to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Tickld, Limited or of any of the business or assets or shares of Tickld, Limited or a division thereof in order for you to continue to receive the same products and services from the third party. In any of these events, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
 
@@ -77,7 +77,7 @@ We retain your personal data for as long as necessary to fulfill the purpose(s) 
 
 For the purposes set out in this policy, we or one of our affiliates or an unaffiliated service provider may process and store your personal data outside of the jurisdiction in which you reside, and under the laws of those other foreign jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other foreign jurisdictions may be entitled to access your personal data. For more information about our policies and practices related to the use of foreign service providers, please contact our Compliance Officer as described above.
 
-Our Site uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites. 
+Our Site uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
 
 Our cookies can be categorized into the following types:
 
@@ -134,31 +134,28 @@ So you can easily share our content on the likes of Facebook and Twitter we have
 
 Advertising Cookies
 
-Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <http://www.youronlinechoices.com/uk/> if you’re in the United Kingdom or [http://youradchoices.ca](http://youradchoices.ca/), which a website managed by the Digital Advertising Alliance of Canada (DAAC) if you’re in Canada..
+Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <http://www.youronlinechoices.com/uk/> if you’re in the United Kingdom or [http://youradchoices.ca](http://youradchoices.ca/), which a website managed by the Digital Advertising Alliance of Canada (DAAC) if you’re in Canada.
 
 You can learn more about online advertising at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). You can opt-out of almost all advertising cookies at <http://www.youronlinechoices.com/uk/your-ad-choices> although we would prefer that you didn't as ultimately adverts help keep much of the internet free. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.
 
-We use: 
+We use:
 
   1. AdSense
   2. AdX
-  3. OpenX
-  4. Rubicon Project
+  3. Rubicon
+  4. Sortable
   5. AOL
   6. Tribal Fusion
+  7. Taboola
 
 
 
-Please note that third parties (including, for example advertising networks and providers or external services like web traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites:
-
-<http://support.microsoft.com/kb/196955> (Internet Explorer)  
-<http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox)   
-<http://support.apple.com/kb/PH5042> (Safari)  
-[http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) (Chrome)
+Please note that third parties (including, for example advertising networks and providers or external services like web traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites: <http://support.microsoft.com/kb/196955> (Internet Explorer), <http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox), <http://support.apple.com/kb/PH5042> (Safari)  
+[http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) (Chrome).
 
 Except for essential cookies, cookies from Google Analtyics and cookies from CloudFlare, all cookies will expire after 30 days. You may choose to clear these cookies prior to their automated expiration date.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information. 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our Site, you should note that we do not have any control over that other website and the privacy practices of other websites. We cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the website in question.
 
