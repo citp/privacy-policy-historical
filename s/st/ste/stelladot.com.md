@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110010043id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619083642id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stella & Dot
 
@@ -136,10 +136,10 @@ You may review, correct, or delete your Personal Information through the Service
 
 ## U.S.-EU SAFE HARBOR
 
-Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the U.S. Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at: [www.export.gov/safeharbor.](https://web.archive.org/web/20151110010043id_/http%3A//www.stelladot.com/help/www.export.gov/safeharbor)
+Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the U.S. Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at: [www.export.gov/safeharbor.](https://web.archive.org/web/20160619083642id_/http%3A//www.stelladot.com/help/www.export.gov/safeharbor)
 
 **Privacy Inquiries by EU Citizens**  
-In compliance with the Safe Harbor Principles, Stella & Dot commits to resolve complaints about your privacy and our collection or use of your Personal Information. EU citizens with inquiries or complaints regarding this privacy policy should contact Stella & Dot LLC at [privacy@stelladot.com](mailto:privacy@stelladot.com) or by mail, Attn: Privacy Administrator, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066.
+In compliance with the Safe Harbor Principles, Stella & Dot commits to resolve complaints about your privacy and our collection or use of your Personal Information. EU citizens with inquiries or complaints regarding this privacy policy should contact Stella & Dot LLC at [privacy@stelladot.com](mailto:privacy@stelladot.com) or by mail, Attn: Privacy Administrator, 8000 Marina Boulevard, Suite 400, Brisbane, CA 94005.
 
 Stella & Dot has further committed to refer unresolved complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. We ask that you contact us directly first. If you do not receive timely acknowledgement of your inquiry or complaint, or if your inquiry or complaint is not satisfactorily addressed by Stella & Dot, you may contact:
 
@@ -148,14 +148,14 @@ Council of Better Business Bureaus, Inc.
 
 ## COMPLIANCE WITH CANADA’S ANTI-SPAM LEGISLATION (“CASL”)
 
-You may be asked to provide your Personal Information to opt-in to receive emails about Stella & Dot’s Family Brands’ products, promotions, special offers and company updates. This consent is sought by Stella & Dot LLC, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066. You can unsubscribe at any time from these commercial electronic messages by using the “unsubscribe link” located in the email, or by contacting us at [privacy@stelladot.com](mailto:privacy@stelladot.com), or by mail, Attn: Privacy Administrator, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066.
+You may be asked to provide your Personal Information to opt-in to receive emails about Stella & Dot’s Family Brands’ products, promotions, special offers and company updates. This consent is sought by Stella & Dot LLC, 8000 Marina Boulevard, Suite 400, Brisbane, CA 94005. You can unsubscribe at any time from these commercial electronic messages by using the “unsubscribe link” located in the email, or by contacting us at [privacy@stelladot.com](mailto:privacy@stelladot.com), or by mail, Attn: Privacy Administrator, 8000 Marina Boulevard, Suite 400, Brisbane, CA 94005.
 
 ## CHANGES TO PRIVACY POLICY AND QUESTIONS
 
 This Policy may be amended, from time to time. If Stella & Dot decides to change its Privacy Policy, we will post those changes and revise the “Last Updated” date at the bottom on the Privacy Policy.
 
-If you have questions about this Policy, please contact us at [privacy@stelladot.com ](mailto:privacy@stelladot.com), or by mail, Attn: Privacy Administrator, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066..
+If you have questions about this Policy, please contact us at [privacy@stelladot.com ](mailto:privacy@stelladot.com), or by mail, Attn: Privacy Administrator, 8000 Marina Boulevard, Suite 400, Brisbane, CA 94005.
 
 Effective June 2014
 
-Last Updated August 22, 2014
+Last Updated June 1, 2016
