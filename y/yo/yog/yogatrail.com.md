@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118025411id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619235444id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
 
 # YogaTrail Privacy Policy | YogaTrail
 
@@ -165,6 +165,6 @@ Or write to:
 
 YogaTrail Inc. - PO Box 192750 #63657 San Francisco, CA 94119
 
-©2015 YogaTrail. All rights reserved.
+©2016 YogaTrail. All rights reserved.
 
 Last updated: March 27, 2014
