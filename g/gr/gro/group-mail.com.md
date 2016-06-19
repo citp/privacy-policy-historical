@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205201105id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619072246id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - Terms and Conditions of the Groupmail Website
 
@@ -83,7 +83,7 @@ This site is fully compliant with the W3C Platform for Privacy Preferences Initi
 This policy applies to all areas of the Groupmail websites with the exception of the customer resources and promotions areas which are governed by separate privacy policies. It is the responsibility of linked websites to provide their own privacy policies and we are not responsible for the privacy practices or content of any such websites.
   2. The Groupmail Announcement Group  
 While browsing our site you may see several opportunities to subscribe to our product announcement group, to join this we require you to provide your e-mail address. We use this address to notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. We do not make your e-mail address available to any third parties. Please note that customers are automatically added to this list/group.
-  3. During Software Purchase 
+  3. During Software Purchase
 
 It is important to note that Groupmail does not process orders directly. We use reputable ecommerce companies to do this on our behalf using the very latest in secure transmission technologies. It is very important for these companies to keep accurate purchase records. Immediately after you purchase one of our products our ecommerce partner will notify us and will pass your contact information (e.g. name, company name, postal address, email address, telephone and fax number) together with some limited purchase order information (e.g. purchase date, order reference number, product code, product name, quantity, price and any delivery options). This data is used to enable us to email you with necessary product unlock codes, to identify you in order to give you the full benefits of your purchase including free technical support and upgrade eligibility and to enable us to set up a user account providing you with access to our customer resources area. For security purposes the ip address of this transaction may be recorded. Please note that we do not receive a copy of your actual payment details (such as credit card numbers or wire transfer details). We do not make any of this information available to any third parties.
 
@@ -93,7 +93,7 @@ To learn more about our ecommerce vendors and their privacy & security policies,
 
 [Plimus](http://home.plimus.com/ecommerce/about-us/legal/privacy-policy "http://home.plimus.com/ecommerce/about-us/legal/privacy-policy")
 
-  4. Technical 
+  4. Technical
 
 Some of our products contain technical support wizards which help us to provide a higher level of service. When you use this software you have full control over what is sent back to our support staff. You can also have an exact copy of the data being returned to us sent to you also. This information (settings, hardware spec, and log files) is only used for the purpose of support and our copy is destroyed once your issue is dealt with.
 
@@ -112,11 +112,11 @@ During activation, your Product license key details and a unique network ID are 
 
 Once a product is activated on a computer, minor changes to that computer’s network configuration will not affect the activation. Major changes to the computer’s network setup may require reactivation of the digital goods. Reactivation is at Groupmail’s discretion.
 
-  1. Policy Scope 
+  1. Policy Scope
 
 This policy applies to the customer resources area including the log-in and log-out pages.
 
-  2. Authentication & Security 
+  2. Authentication & Security
 
 Access to the customer resources area by default is over secure SSL (https). This means that all of the information transmitted and received by your browser while visiting this area is securely encrypted and that it is highly unlikely that anyone will be able to eavesdrop on any of your personal data.
 
@@ -124,7 +124,7 @@ To protect the privacy of your information all users must be authenticated using
 
 Users are strongly advised not to share their log-on details with others, otherwise this may result in their access to this area being terminated if we determine that there has been a breach of a user’s privacy or security. This policy is to the benefit of all legitimate users. The customer resources area is constantly monitored for any prohibited activity.
 
-  3. Collection & Use of Information 
+  3. Collection & Use of Information
 
 The customer resources area presents a highly individualised facility for managing downloads and updates. In order to provide this facility we have to record basic (non-financial) information about each user’s choice of purchase as well as recording their usage of the facility, for example to customise the downloads remaining for each user.
 
@@ -142,7 +142,7 @@ The customer resources area may use a number of cookies – small pieces of info
 
 Please note that we do not receive or ever store any financial information such as credit card details and that none of the information we collect is ever shared with any third parties outside of our immediate ecommerce providers.
 
-  4. Who may use the Information 
+  4. Who may use the Information
 
 Only authenticated paid customers with login details may enter the customer resources area.
 
@@ -154,7 +154,7 @@ Our support staff may use collected information to perform requested support tas
 
 None of the information we collect is ever shared with any third parties outside of our immediate ecommerce providers.
 
-  5. Accessing and Correcting your Information 
+  5. Accessing and Correcting your Information
 
 Users may use the customer resources area to view and update their immediate contact details and preferences and may view their recent login sessions and download activity.
 
@@ -166,17 +166,17 @@ If a customer account is put on hold, the customer may contact Groupmail custome
 
 
 
-  1. Policy Scope 
+  1. Policy Scope
 
 This policy applies to the promotions area of the website.
 
-  2. Authentication & Security 
+  2. Authentication & Security
 
 Access to the promotions area by default is over secure SSL (https). This means that all of the information transmitted and received by your browser while visiting this area is securely encrypted and that it is highly unlikely that anyone will be able to eavesdrop on any of your personal data.
 
 The promotions area is constantly monitored and promotional accounts may be terminated if we determine that there has been any misuse of the promotion.
 
-  3. Collection & Use of Information 
+  3. Collection & Use of Information
 
 The promotions area provides a facility for users to register for special promotional offers. Typically, the registration process will involve the collection and recording of contact information and promotional codes. This information is used to enable us to email you with necessary product unlock codes, to identify you in order to give you the full benefits of your promotional offer including free technical support and upgrade eligibility and to enable us to set up a user account providing you with access to our customer resources area. For security purposes the ip address of this transaction may be recorded.
 
@@ -184,7 +184,7 @@ To protect promotions from misuse we actively monitor all access of the facility
 
 Please note that none of the information we collect in this area is ever shared with any third parties outside of our immediate ecommerce providers.
 
-  4. Who may use the Information 
+  4. Who may use the Information
 
 Our ecommerce providers may receive details of any subsequent purchases initiated at this site which may include your contact information together with any selected products, quantities and any applicable options.
 
@@ -194,7 +194,7 @@ Our support staff may use collected information to perform requested support tas
 
 None of the information we collect is ever shared with any third parties outside of our immediate ecommerce providers.
 
-  5. Accessing and Correcting your Information 
+  5. Accessing and Correcting your Information
 
 Customers who have registered for a promotion may use the customer resources area to view and update their immediate contact details and preferences and may view their recent login sessions and downloads taken.
 
@@ -207,7 +207,7 @@ If a customer has had their account put on hold, they may contact customer suppo
 
 
 
-Copyright © 1997 – 2020 Groupmail Ltd. All rights reserved.
+Copyright © 1997 –2020Groupmail Ltd. All rights reserved.
 
 GROUPMAIL, the GROUPMAIL logo, INFACTA, the INFACTA logo, GROUPMETRICS, the GROUPMETRICS logo, EMAIL INSPECTOR, SUBSCRIBER and GROUPMAIL AUTORESPONDER are trademarks of Groupmail Ltd.
 
@@ -215,7 +215,7 @@ Other products or company names are or may be trademarks or registered trademark
 
 If you have any questions regarding our privacy policy please contact us in any of the following ways:
 
-**By Mail:**
+ **By Mail:**
 
 Groupmail Ltd.  
 Unit 15,  
