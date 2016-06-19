@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freundcontainer.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014252id_/http%3A//www.freundcontainer.com/privacy/a/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freundcontainer.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619165510id_/http%3A//www.freundcontainer.com/privacy/a/7) for the most accurate reproduction.*
 
 # Privacy Policy | Freund Container, a Division of Berlin Packaging
 
