@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the consumerreports.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154143id_/http%3A//www.consumerreports.org/cro/customerservice/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerreports.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619104933id_/http%3A//www.consumerreports.org/cro/customerservice/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
-**Effective Date: December 5, 2014**
+**Effective Date: July 24, 2015**
 
 Consumer Reports’ mission is to work for a fair, just, and safe marketplace for all consumers and to empower consumers to protect themselves. As part of that mission, we are committed to following a core set of [Privacy Principles](https://web.archive.org/cro/customerservice/privacy-policy/principles/index.htm).
 
