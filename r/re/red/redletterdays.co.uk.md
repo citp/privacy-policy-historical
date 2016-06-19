@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913091838id_/https%3A//www.redletterdays.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619210233id_/https%3A//www.redletterdays.co.uk/privacy) for the most accurate reproduction.*
 
-# Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
+# Privacy - Red Letter Days
 
 At Red Letter Days we are committed to protecting your privacy. We use the information we collect about you to process orders and bookings. Please read on for details about our privacy policy. 
 
