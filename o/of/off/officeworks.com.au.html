@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officeworks.com.au privacy policy that was archived on 2015-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218202845id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officeworks.com.au privacy policy that was archived on 2016-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619142252id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="dj_webkit dj_chrome dj_contentbox"><head>
 	
@@ -7,13 +7,13 @@
     <!-- BEGIN OWCMSHomePage.jsp --><meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="CommerceSearch" content="storeId_10151">
 <link rel="shortcut icon" href="/wcsstore/OfficeworksSA/images/favicon.ico" mce_href="/wcsstore/OfficeworksSA/images/favicon.ico"><!-- Set up the CSS --><!-- BEGIN CommonCSSToInclude.jspf -->
-   		<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/officeworks.css?ver=22.651" type="text/css">
+   		<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/officeworks.css?ver=26.845.1" type="text/css">
     <!--[if IE]>
-<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/print.css?ver=22.651" media="print" type="text/css" />
+<link rel="stylesheet" href="/wcsstore/OfficeworksSA/css/print.css?ver=26.845.1" media="print" type="text/css" />
 <![endif]-->               
       
 <!-- END CommonCSSToInclude.jspf --><!-- BEGIN HomePageCSS.jspf --><!-- END HomePageCSS.jspf --><!-- Include javascript files --><!-- BEGIN Common/CommonJSToInclude.jspf -->
-<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script>
+<script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script>
    $ow = {};
 	ow = {
 		state: {
@@ -33,18 +33,23 @@
 			productSubNotEnoughQtyRegularMessage: 'We have a similar item in stock.',
 			productSubConfirmationPageMessage: '',
 			enabledPayments: 'IPGPunchout,30DayAccount,PayPal,KioskPayment',
-			activeTemplateId: ''
+			activeTemplateId: '',
+            espotParams: '',
+			isOWSAPEnabled: 'true',						
 		},
 		application: {},
 		url:{
 			absoluteURL: '/webapp/wcs/stores/servlet/',
 			storeLocatorViewURL: '/shop/officeworks/storelocator',
 			storeLocatorCmdURL: '/shop/OWStoreLocatorCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
+            storeLocatorInvCmdURL: '/shop/OWStoreLocatorInvCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
+            owUserInfoURL: '/shop/OWUserInfo?catalogId=10551&nc=true&langId=-1&storeId=10151',
+            owUserInfoAnonymousURL: '/shop/OWUserInfoAnonymous?catalogId=10551&nc=true&langId=-1&storeId=10151',
 			ajaxDefaultStoreLocatorResolveCmd: '/shop/AjaxDefaultStoreLocatorResolveCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
 			shoppingCartURL: '/shop/OrderCalculate?calculationUsageId=-1%2C-2%2C-3%2C-4&updatePrices=1&catalogId=10551&errorViewName=AjaxOrderItemDisplayView&orderId=.&langId=-1&storeId=10151&URL=AjaxOrderItemDisplayView',
 			setPreferredStoreCmdURL: '/shop/AjaxDefaultStoreLocatorResolveCmd?catalogId=10551&nc=true&langId=-1&storeId=10151',
 			relogonFormURL: '/shop/officeworks/login',
-			occInitCookieURL: 'https://payments.coles.com.au:443/OfficeworksPaymentGateway/EnterCreditCard?s=WCCC'
+			occInitCookieURL: 'https://payments.coles.com.au:443/OfficeworksPaymentGateway/EnterCreditCard?s=WCCC'            
 		},
 		pages: {},
 		models: {
@@ -60,6 +65,7 @@
 		customer:{}
 		}
    //These need to be outside so it can properly reference other variables
+    ow.url.storeImgUrl = '/wcsstore/OfficeworksSA/';
 	ow.url.orderItemAddURL= ow.url.absoluteURL + 'AjaxOrderChangeServiceItemAdd';
 	ow.url.orderTemplateURL= ow.url.absoluteURL + 'AjaxRequistionHelperCmd?catalogId=10551&langId=-1&storeId=10151';
 	ow.url.requisitionListDisplayURL= ow.url.absoluteURL + 'RequisitionListDisplayView?catalogId=10551&langId=-1&storeId=10151';
@@ -86,18 +92,25 @@
     ow.url.updateCompanyOptionsURL= ow.url.absoluteURL + 'UpdateCompanyOptions?catalogId=10551&langId=-1&storeId=10151';
     ow.url.manageSettingsDisplayURL= ow.url.absoluteURL + 'SettingListDisplay?catalogId=10551&langId=-1&storeId=10151';
 	ow.url.memberSearchURL= ow.url.absoluteURL + 'MemberSearchDisplay?catalogId=10551&langId=-1&storeId=10151';
-	
+    ow.url.restrictedRangeUpdateURL= ow.url.absoluteURL + 'RestrictedRangeUpdate?catalogId=10551&langId=-1&storeId=10151';
+    ow.url.restrictedRangeHelperCmd= ow.url.absoluteURL + 'RestrictedRangeHelperCmd?catalogId=10551&langId=-1&storeId=10151';
+    ow.url.restrictedRangeDownloadURL= ow.url.absoluteURL + 'RestrictedRangeDownload?catalogId=10551&langId=-1&storeId=10151';
     ow.url.logonBehalfURL = '/shop/RunAsUserSetInSession?catalogId=10551&langId=-1&storeId=10151&URL=%2Fshop%2FAjaxLogonForm%3FcatalogId%3D10551%26myAcctMain%3D1%26langId%3D-1%26storeId%3D10151';
+    ow.url.b2bProductListDownloadURL= ow.url.absoluteURL + '/B2BProductListDownload?catalogId=10551&langId=-1&storeId=10151';
 	ow.url.logoffBehalfURL = '/shop/RestoreOriginalUserSetInSession?catalogId=10551&langId=-1&storeId=10151&URL=%2Fshop%2Fofficeworks';
-	
+    ow.url.restrictedRangeBulkUploadURL= ow.url.absoluteURL + 'OWRestrictedRangeBulkUploadCmd?catalogId=10551&langId=-1&storeId=10151';
+    ow.url.restrictedRangeBulkDownloadURL= ow.url.absoluteURL + 'OWRestrictedRangeBulkDownloadCmd?catalogId=10551&langId=-1&storeId=10151';
+
+    ow.url.dynamicEspotURL = '/shop/OWDynamicContentDisplay?catalogId=10551&callingCmd=%2FOWCMSComponentView&langId=-1&storeId=10151';
+    
 </script>
 
 <!--		<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/libsCombined.js"></script>-->
-		<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/libs.min.js?v=22.651"></script>
-		<script src="/wcsstore/OfficeworksSA/javascript/ow/ow.min.js?v=22.651"></script>
+		<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/libs.min.js?v=26.845.1"></script>
+		<script src="/wcsstore/OfficeworksSA/javascript/ow/ow.min.js?v=26.845.1"></script>
 <!--		<script src="/wcsstore/OfficeworksSA/javascript/ow/owCombined.js"></script>-->
 
-		<script src="/wcsstore/OfficeworksSA/javascript/ow/templates.js?v=22.651"></script>
+		<script src="/wcsstore/OfficeworksSA/javascript/ow/templates.js?v=26.845.1"></script>
 	
 	
 	<script>
@@ -110,13 +123,13 @@
 	
 	</script>
 	
-<!--	<script type="text/javascript" src="/resources/tagging/OwSubscriberTags.js?v=22.651"></script>-->
-	<script type="text/javascript" src="/resources/tagging/ow-tagging-config.js?v=22.651"></script>
-	<script type="text/javascript" src="/resources/tagging/ow-tagging.js?v=22.651"></script>
-	<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/less/less.min.js?v=22.651"></script>
+<!--	<script type="text/javascript" src="/resources/tagging/OwSubscriberTags.js?v=26.845.1"></script>-->
+	<script type="text/javascript" src="/resources/tagging/ow-tagging-config.js?v=26.845.1"></script>
+	<script type="text/javascript" src="/resources/tagging/ow-tagging.js?v=26.845.1"></script>
+	<script src="/wcsstore/OfficeworksSA/javascript/ow/libs/less/less.min.js?v=26.845.1"></script>
 	<script src="/wcsstore/dojo15/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false,  modulePaths: {storetext: '/wcsstore/OfficeworksSA/'}, useCommentedJson: true,locale: 'en-us' "></script>
-	<script src="/wcsstore/OfficeworksSA/javascript/MessageHelper.js?v=22.651"></script>
-	<script src="/wcsstore/OfficeworksSA/javascript/Analytics.js?v=22.651"></script>
+	<script src="/wcsstore/OfficeworksSA/javascript/MessageHelper.js?v=26.845.1"></script>
+	<script src="/wcsstore/OfficeworksSA/javascript/Analytics.js?v=26.845.1"></script>
 
 
 <script type="text/javascript">
@@ -192,7 +205,7 @@
     </script>
     <!-- Start Joomla Head -->
       <base href="http://www.officeworks.com.au/">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(e,n){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,n)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],f="api-";i(c,function(e,n){newrelic[n]=r(f+n,"api")}),i(u,function(e,n){newrelic[n]=r(f+n)}),n.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?c(e,a,i):i()}function t(t,r,o){e&&e(t,r,o);for(var i=n(o),a=l(t),c=a.length,u=0;c>u;u++)a[u].apply(i,r);var s=f[m[t]];return s&&s.push([w,t,r,i]),i}function p(e,n){g[e]=l(e).concat(n)}function l(e){return g[e]||[]}function d(e){return s[e]=s[e]||o(t)}function v(e,n){u(e,function(e,t){n=n||"feature",m[t]=n,n in f||(f[n]=[])})}var g={},m={},w={on:p,emit:t,get:d,listeners:l,context:n,buffer:v};return w}function i(){return new r}var a="nr@context",c=e("gos"),u=e(2),f={},s={},p=n.exports=o();p.backlog=f},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!b++){var e=y.info=NREUM.info,n=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){u(m,function(n,t){e[n]||(e[n]=t)});var t="https"===g.split(":")[0]||e.sslForHttp;y.proto=t?"https://":"http://",c("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+e.agent,n.parentNode.insertBefore(r,n)}}}function o(){"complete"===s.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=e("handle"),u=e(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=n.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader"]);</script>
   <meta name="author" content="Hemant Chawda">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Privacy Policy</title>
@@ -420,10 +433,42 @@
 				<li class="headeruserinfo"></li>
 
 				<li class="dropdown" id="shopping-cart">
+					<div id="miniShopCartModal" class="modal hide" tabindex="-1" role="dialog" aria-labelledby="miniShopCartModal" aria-hidden="true">
+				        <div class="modal-header">
+				            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				            <h3 id="miniShopCartModalLabel">Error</h3>
+				        </div>
+				        <div class="modal-body" id="miniShopCartModalBody">
+				
+				        </div>
+				        <div class="modal-footer">
+				            <button class="btn btn-large btn-secondary" data-dismiss="modal" aria-hidden="true">Close</button>
+				        </div>
+				    </div>
+				
+				
+				
 					<span class="spanacce" id="quick_cart_container_ACCE_Label">Shopping Cart Popup</span>
-					<a data-trigger="hover" class="dropdown-toggle" href="#" title="Click to view your cart">
-						<i class="icon-ow-cart"></i>Cart <img style="padding-left:10px;" src="/wcsstore/OfficeworksSA//images/ajax-loader.gif" height="16" width="16">
+					
+					<a id="minicart" data-trigger="hover" class="dropdown-toggle" href="#" title="Click to preview your cart" rel="nofollow">						 
+						<i class="icon-ow-cart"></i>
+						<span id="minicart-preview"> 
+							Cart<img style="padding-left:10px;" src="/wcsstore/OfficeworksSA//images/ajax-loader.gif" height="16" width="16">
+						</span>						
+						<b class="caret"></b>
 					</a>
+					<ul class="dropdown-menu" id="widget_minishopcart">
+						<li class="minicart-header-msg"><h2>Item(s) added to your cart...</h2></li>		
+						<li class="empty" id="minicart-not-loaded"></li>
+						<li>			
+							<img style="padding-left:10px;" src="/wcsstore/OfficeworksSA//images/ajax-loader.gif" height="16" width="16">
+						</li>
+						<li class="empty"></li>
+						<li>
+							<p>Loading...</p>
+						</li>
+					</ul>
+
 				</li>
 
 			</ul>
@@ -642,228 +687,168 @@
 <div class="row-fluid category-nav" id="widget_department">
 	<ul class="nav nav-pills top-category">
         <!--  -->
-<!-- es:  TopNav_Extras_Left --><li id="category-0"><a href="/campaigns/back-to-school/one-stop-shop?cm_sp=Mega_Menu_Category-_-BTS-_-BTS Landing Page" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Office-Supplies_1.0.png">Back to School</a></li>
+<!-- es:  TopNav_Extras_Left --><li id="category-0"><a href="/campaigns/end-of-financial-year?cm_sp=Mega_Menu_Category-_-EOFY-_-EOFY Landing Page" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Office-Supplies_1.0.png">EOFY <img src="/images/common/icons/ow-dinkus_new--small.png" alt="New"></a></li>
 <div class="sub-category" id="sub-category-0" style="display: none;">
-	<div class="span4" id="sub-category-img">Back To School</div>			
+
+	<div class="span4" id="sub-category-img">EOFY</div>			
 	<ul>
-<li class="heading">In Your Pencil Case</li>
+		<li class="heading">Furniture</li>
 		<li id="sub-category-0-1">
-			<a href="/shop/officeworks/c/office-supplies/pens?cm_sp=Mega_Menu_Category-_-BTS-_-Pens&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pens.png">Pens</a>
+			<a href="/shop/officeworks/c/furniture/business-furniture/business-chairs-seating?cm_sp=Mega_Menu_Category-_-EOFY-_-Chairs_Seating" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/com_chairs_category_image.png">Business Chairs &amp; Seating</a>
 		</li>
 			
 		<li id="sub-category-0-2">
-			<a href="/shop/officeworks/c/office-supplies/pencils/graphite-lead-pencils?cm_sp=Mega_Menu_Category-_-BTS-_-Grey_Lead_Pencils&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pencils.png">Grey Lead Pencils</a>
+			<a href="/shop/officeworks/c/furniture/business-furniture/business-desks-tables?cm_sp=Mega_Menu_Category-_-EOFY-_-Desks_Tables" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/CPVELWKGB_velocity_workstation_1800_x_1800_x_750_x_720h_golden_beech_over_ironstone.png">Business Desks &amp; Tables</a>
 		</li>
 		
 		<li id="sub-category-0-3">
-			<a href="/shop/officeworks/c/office-supplies/pencils/coloured-pencils?cm_sp=Mega_Menu_Category-_-BTS-_-Coloured Pencils&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coloured_pencils_cat_image.png">Coloured Pencils</a>
+			<a href="/shop/officeworks/c/furniture/business-furniture/business-filing?cm_sp=Mega_Menu_Category-_-EOFY-_-Filing" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/business_filing_cat_image.png">Business Filing</a>
 		</li>
 
 		<li id="sub-category-0-4">
-			<a href="/shop/officeworks/c/office-supplies/pencils/pencil-cases?cm_sp=Mega_Menu_Category-_-BTS-_-Pencil Case&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pencil_case_cat_image.png">Pencil Cases</a>
+			<a href="/shop/officeworks/c/furniture/shelves-racks?cm_sp=Mega_Menu_Category-_-EOFY-_-Shelves_Racks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Shelves and Racks Category Image.png">Shelves &amp; Racks</a>
 		</li>
 		
 		<li id="sub-category-0-5">
-			<a href="/shop/officeworks/c/office-supplies/pencils/pencil-sharpeners?cm_sp=Mega_Menu_Category-_-BTS-_-Sharpeners&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pencil_sharpener_cat_image.png">Sharpeners</a>
+			<a href="/shop/officeworks/c/furniture/floor-protection?cm_sp=Mega_Menu_Category-_-EOFY-_-Floor_Protection" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/floor_protection.png">Floor Protection</a>
 		</li>
 		
 		<li id="sub-category-0-6">
-			<a href="/shop/officeworks/c/office-supplies/stationery/correction-products?cm_sp=Mega_Menu_Category-_-BTS-_-Erasers_Correction&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/erasers_cat_image.png"> Erasers &amp; Correction</a>
+			<a href="/shop/officeworks/c/furniture/storage?cm_sp=Mega_Menu_Category-_-EOFY-_-Storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Storage_CategoryImage.png">Storage</a>
 		</li>
 		
+		<li class="heading">Computing &amp; Tablets</li>
 		<li id="sub-category-0-7">
-			<a href="/shop/officeworks/c/office-supplies/markers-highlighters?cm_sp=Mega_Menu_Category-_-BTS-_-Highlighters &amp; Markers&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/markers_highlighters.png"> Highlighters &amp; Markers</a>
+			<a href="/shop/officeworks/c/technology/monitors-digital-signage/27--monitors?cm_sp=Mega_Menu_Category-_-EOFY-_-Monitors" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SYLS27C750_samsung_ky_samsung_ls27c750_27in_led_mon_black.png">Monitors</a>
 		</li>
-		
 		<li id="sub-category-0-8">
-			<a href="/shop/officeworks/c/office-supplies/stationery/rulers?cm_sp=Mega_Menu_Category-_-BTS-_-Rulers&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/X13P100125_x_ya_x_foldable_plastic_ruler_15cm_clear.png"> Rulers</a></li>
-		
+			<a href="/shop/officeworks/c/technology/desktop-computers?cm_sp=Mega_Menu_Category-_-EOFY-_-Desktop_Computers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Desktop-Computers_1.0.png">Desktop Computers</a>		
+		</li>	
 		<li id="sub-category-0-9">
-			<a href="/shop/officeworks/c/office-supplies/stationery/cutting/kids-scissors?cm_sp=Mega_Menu_Category-_-BTS-_-Kids_Scissors&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/student_scissors_cat_image.png"> Scissors</a>
-		</li>
-		<li id="sub-category-0-10">
-			<a href="/shop/officeworks/c/office-supplies/stationery/glues-adhesives/glue-sticks?cm_sp=Mega_Menu_Category-_-BTS-_-Glues &amp; Adhesives" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/GlueStick_CatImage2.png">Glues &amp; Adhesives</a>
-		</li>
-
-			<li id="sub-category-0-11">
-			<a href="/shop/officeworks/c/school-art/drawing-drafting/compasses-protractors?cm_sp=Mega_Menu_Category-_-BTS-_-Compasses &amp; Protractors&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SM388500_studymate_sm_8_piece_tin_maths_set_multi.png">Compasses &amp; Protractors</a>
-		</li>
-<li class="heading">Backpacks, Bottles &amp; Lunch Boxes</li>
-		
-<li id="sub-category-0-12">
-			<a href="/shop/officeworks/c/office-supplies/luggage-travel-accessories/backpacks?cm_sp=Mega_Menu_Category-_-BTS-_-Backpacks&#10; " data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/backpack_cat_image.png">Backpacks</a>
+			<a href="/shop/officeworks/c/technology/laptops?cm_sp=Mega_Menu_Category-_-EOFY-_-Laptops" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Laptop_CategoryImage.png">Laptops</a>
 		</li>			
-
-<li id="sub-category-0-15">
-			<a href="/shop/officeworks/c/school-art/school-lunch-boxes?cm_sp=Mega_Menu_Category-_-BTS-_-Lunch Boxes&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Lunchboxes_1.0.png">Lunch Boxes</a>
+		<li id="sub-category-0-10">
+			<a href="/shop/officeworks/c/technology/ipad-tablets?cm_sp=Mega_Menu_Category-_-EOFY-_-iPads_Tablets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ipad_tablets_cat.png">iPads &amp; Tablets</a>
 		</li>
-		
+		<li id="sub-category-0-11">
+			<a href="/shop/officeworks/c/technology/software?cm_sp=Mega_Menu_Category-_-EOFY-_-Software" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Software_CategoryImage.png">Software</a>		
+		</li>	
+		<li id="sub-category-0-12">
+			<a href="/shop/officeworks/c/technology/networking?cm_sp=Mega_Menu_Category-_-EOFY-_-Networking" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/networking.png">Networking</a>		
+		</li>	
 		<li id="sub-category-0-13">
-			<a href="/shop/officeworks/c/school-art/school-drink-bottles?cm_sp=Mega_Menu_Category-_-BTS-_-Drink Bottles&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_DrinkBottles_1.0.png">Drink Bottles</a>		
-</li>	
-
-</ul>
-            <ul>
-<li class="heading">Note Books &amp; Exercise Books</li>		
-		<li id="sub-category-0-13">
-			<a href="/shop/officeworks/c/school-art/school-books/exercise-books?cm_sp=Mega_Menu_Category-_-BTS-_-Exercise Books&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/NSNB5135_protext_xx_protext_prim_grid_b_bk_48p_a4.png">Exercise Books</a>
-		</li>
-		
+			<a href="/shop/officeworks/c/technology/hard-drives-data-storage?cm_sp=Mega_Menu_Category-_-EOFY-_-Hard_Drives" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/data_storage.png">Hard Drives &amp; Data Storage</a>		
+		</li>	
 		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/note-books-note-pads/subject-books?cm_sp=Mega_Menu_Category-_-BTS-_-Subject Books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/subject_books_cat_image.png">Subject Books</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/note-books-note-pads/lecture-books?cm_sp=Mega_Menu_Category-_-BTS-_-Lecture Books&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/lecture_books_cat_image.png">Lecture Books</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/art-pads-folios/scrapbooks?cm_sp=Mega_Menu_Category-_-BTS-_-Scrapbooks&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SUPERSCRAP_hunter_super_scrapbook_120pg_white.png">Scrapbooks</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/school-books/dotted-thirds?cm_sp=Mega_Menu_Category-_-BTS-_-Dotted Thirds&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SP322506_tudor_tudor_a4_d_3ds_18mm_96page_white.png">Dotted Thirds</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/school-books/graph-science-books\?cm_sp=Mega_Menu_Category-_-BTS-_-Graph Books&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SP24301_olympic_oly_a4_5mm_gph_refills_pk50_white.png">Graph Books</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/school-books/binder-books?cm_sp=Mega_Menu_Category-_-BTS-_-Binder Books&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SP142777_tudor_ka_tudor_clr_pp_a4_bin_bk_128p_n_a.png">Binder Books</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/school-books/loose-leaf-exam-paper?cm_sp=Mega_Menu_Category-_-BTS-_-Loose Leaf &amp; Exam Paper&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SP123532_tudor_pk400_tudor_l_leaf_refills_a4_white.png">Loose Leaf &amp; Exam Paper</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/school-books/music-books?cm_sp=Mega_Menu_Category-_-BTS-_-Music Books&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/MusicBooks_CatImage.png">Music Books</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/art-pads-folios/visual-diaries?cm_sp=Mega_Menu_Category-_-BTS-_-Visual Art Diaries&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SP5670500_spirax_xx_spirax_a5_visual_diary_bk_120p_black.png">
-Visual Art Diaries</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/book-coverings?cm_sp=Mega_Menu_Category-_-BTS-_-Book Coverings&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/book_coverings.png">Book Coverings</a>
-		</li>		<li id="sub-category-0-14">
-
-</li><li class="heading">Educational Books</li>
-		<li id="sub-category-0-1">
-		</li>
-		
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/educational-books/dictionaries-thesauruses?cm_sp=Mega_Menu_Category-_-BTS-_-Dictionaries&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/dicti_thes_cat_image.png">Dictionaries</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/educational-books/atlases?cm_sp=Mega_Menu_Category-_-BTS-_-Atlases&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/OUP73503_oxford_cso_big_oxford_atlas_2_n_a.png">Atlases</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/educational-books/textbooks?cm_sp=Mega_Menu_Category-_-BTS-_-Textbooks&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/textbooks_cat_image.png">Textbooks</a>
-		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/educational-books/workbooks?cm_sp=Mega_Menu_Category-_-BTS-_-Workbooks&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workbooks_cat_image.png">Workbooks</a>
-		</li>
-
+			<a href="/shop/officeworks/c/technology/computer-accessories?cm_sp=Mega_Menu_Category-_-EOFY-_-Computer_Accessoires" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/computer_accessories.png">Computer Accessories</a>		
+		</li>	
+		<li id="sub-category-0-15">
+			<a href="/shop/officeworks/c/technology/cables-chargers?cm_sp=Mega_Menu_Category-_-EOFY-_-Cables_Charges" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cables.png">Cables &amp; Charges</a>		
+		</li>	
 	</ul>
-<ul>
-<li class="heading">Filing Products</li>		
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/binders-binder-accessories/insert-binders?cm_sp=Mega_Menu_Category-_-BTS-_-Binders&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Insert_binders_cat_image.png">Binders</a>
+    <ul>
+		<li class="heading">Office Equipment</li>		
+		<li id="sub-category-0-16">
+			<a href="/shop/officeworks/c/technology/printers?cm_sp=Mega_Menu_Category-_-EOFY-_-Printers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/printers.png">Printers</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/binders-binder-accessories/sheet-protectors?cm_sp=Mega_Menu_Category-_-BTS-_-Sheet_Protectors&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/KESP100_keji_pk100_a4_keji_sheet_protector_clear.png">Sheet Protectors</a>
+		<li id="sub-category-0-17">
+			<a href="/shop/officeworks/c/technology/shredders?cm_sp=Mega_Menu_Category-_-EOFY-_-Shredders" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/shredders.png">Shredders</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/binders-binder-accessories/index-tab-dividers?cm_sp=Mega_Menu_Category-_-BTS-_-Dividers &#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/WC970303AS_wcpenfolds_dx_pk4_wcp_tab_notes_neon_70x70mm_multi.png">Dividers</a>
+		<li id="sub-category-0-18">
+			<a href="/shop/officeworks/c/office-supplies/presentation-equipment/laminators-pouches?cm_sp=Mega_Menu_Category-_-EOFY-_-Laminators" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/LOOL280_lowell_lowell_a4_home_laminator_black.png">Laminators</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/document-filing-presentation/display-books-refills?cm_sp=Mega_Menu_Category-_-BTS-_-Display Books&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/NBDSPBCRRD_nobrand_nx_a4_refill_disp_bk_20pk_cr_rd_red.png">Display Books</a>
+		<li id="sub-category-0-19">
+			<a href="/shop/officeworks/c/office-supplies/presentation-equipment/binding-machines-accessories?cm_sp=Mega_Menu_Category-_-EOFY-_-Binding_Machines" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/FE5621701_fellowes_fellowes_pulsar_e_300_comb_binding_machine_white.png">Binding Machines</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/document-filing-presentation/document-boxes?cm_sp=Mega_Menu_Category-_-BTS-_-Document Box&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/UN14N918BE_lot_94_neon_a4_storage_box_assorted.png">Document Boxes</a>
+		<li id="sub-category-0-20">
+			<a href="/shop/officeworks/c/office-supplies/label-makers-tapes?cm_sp=Mega_Menu_Category-_-EOFY-_-Label_Machines" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BRPT2030_brother_brother_pt_2030_labeller_grey.png">Label Machines</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/document-filing-presentation/document-wallets?cm_sp=Mega_Menu_Category-_-BTS-_-Document Wallets&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/X13P100030_x_ya_x_a5_pvc_zip_lock_pocket_clear.png">Document Wallets</a>
+		<li id="sub-category-0-21">
+			<a href="/shop/officeworks/c/technology/smart-home-office?cm_sp=Mega_Menu_Category-_-EOFY-_-Monitoring_Security" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SmartHomeOffice_CatImage.png">Monitoring &amp; Security</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/document-filing-presentation/expansion-filing?cm_sp=Mega_Menu_Category-_-BTS-_-Expanding Files&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/QU28980VT_quill_barkode_a4_expand_file_vt_purple.png">Expanding Files</a>
+		<li id="sub-category-0-22">
+			<a href="/shop/officeworks/c/technology/phones/home-office-phones?cm_sp=Mega_Menu_Category-_-EOFY-_-Home_Office_Phones" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/phones.png">Home &amp; Office Phones</a>
 		</li>
-<li class="heading">Calculators</li>		
-
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/calculators/graphing-calculators?cm_sp=Mega_Menu_Category-_-BTS-_-Graphing Calculators&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/TIN3CAS_texasinstr_ti_nspire_cas_cx_calculator_black.png">Graphing Calculators</a>
+		
+		<li class="heading">Office Supplies</li>
+		
+		<li id="sub-category-0-23">
+			<a href="/shop/officeworks/c/office-supplies/pens?cm_sp=Mega_Menu_Category-_-EOFY-_-Pens" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pens.png">Pens</a>
 		</li>
-
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/calculators/scientific-calculators?cm_sp=Mega_Menu_Category-_-BTS-_-Scientific Calculator&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/TETI30XBI_texasinstr_texas_ti30xb_scientific_cal_green.png">Scientific Calculator</a>
+		<li id="sub-category-0-24">
+			<a href="/shop/officeworks/c/office-supplies/markers-highlighters?cm_sp=Mega_Menu_Category-_-EOFY-_-Markers_Highlighters" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/markers_highlighters.png">Markers &amp; Highlighters</a>
 		</li>
-<li class="heading">Labelling</li>	
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/label-makers-tapes?cm_sp=Mega_Menu_Category-_-BTS-_-Label" makers="" &="" tapes="" "="" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/BRPT2030_brother_brother_pt_2030_labeller_grey.png">Label Makers &amp; Tapes</a>
+		<li id="sub-category-0-25">
+			<a href="/shop/officeworks/c/office-supplies/stationery?cm_sp=Mega_Menu_Category-_-EOFY-_-Office_Stationery" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/stationery.png">Office Stationery</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/office-supplies/labels?cm_sp=Mega_Menu_Category-_-BTS-_-Labels&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Labels_CatImage.png">Labels</a>
+		<li id="sub-category-0-26">
+			<a href="/shop/officeworks/c/office-supplies/note-books-note-pads?cm_sp=Mega_Menu_Category-_-EOFY-_-Notebooks_Journals" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/note_books.png">Notebooks, Journals &amp; Compendiums</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/school-art/stickers/merit-stickers?cm_sp=Mega_Menu_Category-_-BTS-_-Merit Stickers&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Stickers.png">Merit Stickers</a>
+		<li id="sub-category-0-27">
+			<a href="/shop/officeworks/c/office-supplies/diaries-year-planning?cm_sp=Mega_Menu_Category-_-EOFY-_-Diaries_YearPlanning" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_YearPlanning_1.0.png">Diaries &amp; Year Planning</a>
+		</li>
+		<li id="sub-category-0-28">
+			<a href="/shop/officeworks/c/office-supplies/retail-supplies?cm_sp=Mega_Menu_Category-_-EOFY-_-Retail_Supplies" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/retail_supplies.png">Retail Supplies</a>
+		</li>
+		<li id="sub-category-0-29">
+			<a href="/shop/officeworks/c/office-supplies/mail-packaging?cm_sp=Mega_Menu_Category-_-EOFY-_-Mail_Packaging" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Mail_Packaging.png">Mail &amp; Packaging</a>
 		</li>
 	</ul>
-
-<ul>
-<li class="heading">Technology</li>		
-		<li id="sub-category-0-13">
-			<a href="/shop/SearchDisplay?searchTerm=bts-macbooks&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-Macbooks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/macbooks_cat_image1.png">Macbooks</a>
+	<ul>
+		<li class="heading">Facilities Supplies</li>		
+		<li id="sub-category-0-30">
+			<a href="/shop/officeworks/c/facilities-supplies/safety-first-aid?cm_sp=Mega_Menu_Category-_-EOFY-_-Safety_FirstAid" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/2.3-Category-safety-and-first-Aid-tile.png">Safety &amp; First Aid</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/SearchDisplay?searchTerm=bts-laptops&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-Laptops" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/laptops.png">Laptops</a>
-		</li>		
-		<li id="sub-category-0-14">
-			<a href="/shop/SearchDisplay?searchTerm=bts-ipadstablets&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-iPads_Tablets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ipad_category_image.png">iPads &amp; Tablets</a>
+		<li id="sub-category-0-31">
+			<a href="/shop/officeworks/c/facilities-supplies/hardware-pest-control?cm_sp=Mega_Menu_Category-_-EOFY-_-Hardware_PestControl" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/insect_control.png">Hardware &amp; Pest Control</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/SearchDisplay?searchTerm=bts-headphones&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-Headphones" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/headphones_cat_image.png">Headphones</a>
+		<li id="sub-category-0-32">
+			<a href="/shop/officeworks/c/facilities-supplies/kitchen-appliances?cm_sp=Mega_Menu_Category-_-EOFY-_-Kitchen_Appliances" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/kitchen_appliances_new_cat_image.png">Kitchen Appliances</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/SearchDisplay?searchTerm=bts-pcheadsets&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-PCHeadsets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/pc_headset_cat_image.png">PC Headsets</a>
+		<li id="sub-category-0-33">
+			<a href="/shop/officeworks/c/facilities-supplies/water-water-dispensers?cm_sp=Mega_Menu_Category-_-EOFY-_-Water_Dispensers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/water_and_water_dispensers.png">Water Dispensers</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/SearchDisplay?searchTerm=bts-printers&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-Printers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/printers.png">Printers</a>
+		<li id="sub-category-0-34">
+			<a href="/shop/officeworks/c/facilities-supplies/tea--coffee-sweeteners?cm_sp=Mega_Menu_Category-_-EOFY-_-Tea_Coffee_Sweeteners" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/tea_coffee_category_image.png">Tea, Coffee &amp; Sweeteners</a>
 		</li>
-<li id="sub-category-0-14">
-			<a href="/shop/SearchDisplay?searchTerm=bts-software&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=?cm_sp=Mega_Menu_Category-_-BTS-_-Software" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/software.png">Software</a>
+		
+		<li class="heading">Paper Filing</li>	
+		<li id="sub-category-0-35">
+			<a href="/shop/officeworks/c/office-supplies/archiving?cm_sp=Mega_Menu_Category-_-EOFY-_-Archiving" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Document_Boxes_Cases.png">Archiving</a>
 		</li>
-<li class="heading">Data Storage</li>	
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/technology/data-storage/usb-flash-drives?cm_sp=Mega_Menu_Category-_-BTS-_-USB Drives&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SDCZ528GB_sandisk_sandisk_cruzer_switch_8gb_usb_flash_drive_black.png">USB Drives</a>
-		</li>		
-<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/technology/data-storage/portable-hard-drives?cm_sp=Mega_Menu_Category-_-BTS-_-Portable Hard Drives&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/portable_hard_drives_cat_image.png">Portable Hard Drives</a>
+		<li id="sub-category-0-36">
+			<a href="/shop/officeworks/c/office-supplies/binders-binder-accessories?cm_sp=Mega_Menu_Category-_-EOFY-_-Binders_BinderAccessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/AQTB421BE_twist_18mm_2_o_ring_binder_blue.png">Binders &amp; Binder Accessories</a>
 		</li>
-
-<li class="heading">Furniture</li>	
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/furniture/desks-tables/student-kids-desks?cm_sp=Mega_Menu_Category-_-BTS-_-Student_Desks&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/home_office_desks_cat_image.png">Student Desks</a>
-		</li>		
-<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/furniture/chairs-seating/student-kids-chairs?cm_sp=Mega_Menu_Category-_-BTS-_-Student_Chairs&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Mesh_Chairs.png">Student Chairs</a>
+		<li id="sub-category-0-37">
+			<a href="/shop/officeworks/c/office-supplies/desktop-organisation-desk-accessories?cm_sp=Mega_Menu_Category-_-EOFY-_-DesktopOrganisation_DeskAccessories" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/desk_accessories.png">Desktop Organisation &amp; Desk Accessories</a>
 		</li>
-		<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/furniture/filing-cabinets?cm_sp=Mega_Menu_Category-_-BTS-_-Filing_Cabinets&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/filing_solutions_cat_image.png">Filing Cabinets</a>
-		</li>		
-<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/furniture/bookcases?cm_sp=Mega_Menu_Category-_-BTS-_-Book Shelves&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Bookcases_Category_Image.png">Book Shelves</a>
+		<li id="sub-category-0-38">
+			<a href="/shop/officeworks/c/office-supplies/document-filing-presentation?cm_sp=Mega_Menu_Category-_-EOFY-_-Document_Filing_Presentation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_Desktop-Filing_1.0.png">Document Filing &amp; Presentation</a>
 		</li>
-<li id="sub-category-0-14">
-			<a href="/shop/officeworks/c/furniture/chairs-seating/chair-mats?cm_sp=Mega_Menu_Category-_-BTS-_-Chair Mats&#10;" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/chair_mats.png">Chair Mats</a>
+		<li id="sub-category-0-39">
+			<a href="/shop/officeworks/c/office-supplies/suspension-lateral-filing?cm_sp=Mega_Menu_Category-_-EOFY-_-Suspension_Lateral_Filing" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/document_storage.png">Suspension &amp; Lateral Filing</a>
 		</li>
 
-
-
+		<li class="heading">Paper</li>	
+		<li id="sub-category-0-40">
+			<a href="/shop/officeworks/c/paper/a3-copy-paper?cm_sp=Mega_Menu_Category-_-EOFY-_-A3_Paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A3_copy_paper.png">A3 Copy Paper</a>
+		</li>
+		<li id="sub-category-0-41">
+			<a href="/shop/officeworks/c/paper/a4-copy-paper?cm_sp=Mega_Menu_Category-_-EOFY-_-A4_Paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A4_copy_paper.png">A4 Copy Paper</a>
+		</li>
+		<li id="sub-category-0-42">
+			<a href="/shop/officeworks/c/paper/a5-copy-paper?cm_sp=Mega_Menu_Category-_-EOFY-_-A5_Paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A5_copy_paper.png">A5 Copy Paper</a>
+		</li>
 	</ul>
 	<div class="row-fluid espots">
-		<a href="/campaigns/back-to-school/school-list-upload-service" title="Officeworks School List Service"><img src="/images/banners/category_megamenu/MegaMenu_SLS.gif" alt="Officeworks School List Service"></a> 
-		<a href="/campaigns/back-to-school/tech-ready-for-school/#/" title="Tech Selector"><img src="/images/banners/category_megamenu/MegaMenu_TechSelector-edit.gif" alt="Tech Selector"></a> 
+		<a href="/campaigns/end-of-financial-year-c?cm_sp=Mega_Menu_Category-_-EOFY-_-EOFY%20Landing%20Page" title="EOFY"><img src="/images/banners/category_megamenu/EOFY_megamenu_488x94.jpg" alt="EOFY"></a> 
+		<a href="/campaigns/printerselector" title="Printer Selector"><img src="/images/banners/category_megamenu/printer-selector-megamenu-banner-fa.jpg" alt="Printer Selector"></a> 
 	</div>
 </div>
 <style type="text/css">
-/* Mega Menu Spacing Fix */
 #widget_department .top-category .sub-category li.heading {color:#252525; text-align:left; margin:15px 0 5px 0; padding:0 0 0 10px; font-family: 'OfficeworksBoldRegular', Arial, sans-serif; font-size:14px;}
 #widget_department .top-category .sub-category li.heading:first-child {margin-top:0px;}
-#widget_department .top-category {text-align:center;}
+#widget_department .top-category {text-align:left;}
 #widget_department .top-category > li {display:inline-block; float:none;}
 #widget_department .top-category > li > a {padding-left:8px; padding-right:8px;}
 </style>
@@ -878,13 +863,15 @@ Visual Art Diaries</a>
 		<div class="quicklinks-wrapper">
                 <h5 class="heading">Featured Categories</h5>
                
-                <a href="/shop/officeworks/b/Bic-Ballpoint-Pens?cm_sp=-_-featured-categories-_-bic-pens" title="Bic Ballpoint Pens" class="quicklink">Bic Ballpoint Pens</a>
-                <a href="/shop/officeworks/b/Staedtler-Highlighters?cm_sp=-_-featured-categories-_-staedtler-highlighters" title="Staedtler Highlighters" class="quicklink">Staedtler Highlighters</a>
-                <a href="/shop/officeworks/b/Sharpie-Permanent-Markers?cm_sp=-_-featured-categories-_-sharpie-permanent-markers" title="Sharpie Permanent Markers" class="quicklink">Sharpie Permanent Markers</a>
-                <a href="/shop/officeworks/b/PPS-Envelopes?cm_sp=-_-featured-categories-_-pps-envelopes" title="PPS Envelopes" class="quicklink">PPS Envelopes</a>
-                <a href="/shop/officeworks/b/Dymo-Label-Makers?cm_sp=-_-featured-categories-_-dymo-label-makers" title="Dymo Label Makers" class="quicklink">Dymo Label Makers</a>
+                <a href="/shop/officeworks/c/office-supplies/note-books-note-pads/journals?cm_sp=mega-menu-_-featured-categories-_-journals" title="Journals" class="quicklink">Journals</a>
+                <a href="/shop/officeworks/b/Bic-Ballpoint-Pens?cm_sp=mega-menu-_-featured-categories-_-bic-pens" title="Bic Ballpoint Pens" class="quicklink">Bic Ballpoint Pens</a>
+                <a href="/shop/officeworks/b/Staedtler-Highlighters?cm_sp=mega-menu-_-featured-categories-_-staedtler-highlighters" title="Staedtler Highlighters" class="quicklink">Staedtler Highlighters</a>
+                <a href="/shop/officeworks/b/Sharpie-Permanent-Markers?cm_sp=mega-menu-_-featured-categories-_-sharpie-permanent-markers" title="Sharpie Permanent Markers" class="quicklink">Sharpie Permanent Markers</a>
+                <a href="/shop/officeworks/b/PPS-Envelopes?cm_sp=mega-menu-_-featured-categories-_-pps-envelopes" title="PPS Envelopes" class="quicklink">PPS Envelopes</a>
+                <a href="/shop/officeworks/b/Dymo-Label-Makers?cm_sp=mega-menu-_-featured-categories-_-dymo-label-makers" title="Dymo Label Makers" class="quicklink">Dymo Label Makers</a>
+                <a href="/information/buying-guides?cm_sp=mega-menu-_-featured-categories-_-buying-guides" title="Buying Guides" class="quicklink">Buying Guides</a>
                  <a style="background-color: #f4cd24;
-    border-radius: 4px 0px 4px 0px;" href="/shop/officeworks/b/Clearance-Office-Supplies" title="Clearance" class="quicklink">Clearance</a>
+    border-radius: 4px 0px 4px 0px;" href="/shop/officeworks/b/Clearance-Office-Supplies?cm_sp=mega-menu-_-featured-categories-_-office-supplies-clearance" title="Clearance" class="quicklink">Clearance</a>
                 
                 <!--<h5 class="heading">Brands</h5>
                 <a href="/information/brands/bic" title="Bic" class="quicklink brandimg"><img src="/images/banners/category_megamenu/bic-megamenu-final.png" alt="Bic" /></a>
@@ -919,7 +906,7 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-1-6">
-								<a href="/shop/officeworks/c/office-supplies/calculators" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SHWD220T_casio_casio_wd220t_desktop_tax_cal_blue.png">Calculators</a>
+								<a href="/shop/officeworks/c/office-supplies/calculators" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/financial and tax calculators thumbnail.png">Calculators</a>
 							</li>
 							
 							<li id="sub-category-1-7">
@@ -1011,7 +998,7 @@ Visual Art Diaries</a>
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  Office Supplies_MegaMenu_ESpot2 --><div data-espotname="OfficeSupplies_MegaMenu_ESpot2">
-		<a href="http://www.officeworks.com.au/campaigns/yourtutor" target="_blank"><img src="/images/banners/category_megamenu/Category_MegaMenu_YourTutor.png" alt="YourTutor"></a>
+		<a href="http://www.officeworks.com.au/campaigns/yourtutor" target="_blank"><img src="/images/banners/category_megamenu/Category_MegaMenu_YourTutor2.png" alt="YourTutor"></a>
 </div>
 <!--  -->
 <!-- es:  Office Supplies_MegaMenu_ESpot3 --><div data-espotname="OfficeSupplies_MegaMenu_ESpot3">
@@ -1029,7 +1016,20 @@ Visual Art Diaries</a>
 	                <div class="espot-column">
 						<!--Start Category_MegaMenu_ESpot1 --><!-- Category_MegaMenu_ESpot1 --><!--  -->
 <!-- es:  School & Art_MegaMenu_ESpot1 --><div data-espotname="School&amp;Art_MegaMenu_ESpot1">
-		<a href="/campaigns/yoobi"><img src="/images/banners/category_megamenu/Yoobi-MegamenuBan.jpg" alt="Yoobi"></a>
+		<div class="quicklinks-wrapper">
+                <h5 class="heading">Featured Categories</h5>
+                <a href="/shop/officeworks/b/Derwent-Art-Pencils?cm_sp=mega-menu-_-featured-categories-_-derwent-art-pencils" title="Derwent Art Pencils" class="quicklink">Derwent Art Pencils</a>
+                <a href="/shop/officeworks/b/Copic-Markers?cm_sp=mega-menu-_-featured-categories-_-copic-markers" title="Copic Markers" class="quicklink">Copic Markers</a>
+                <a href="/shop/officeworks/c/school-art/art-pads-folios/visual-diaries?cm_sp=mega-menu-_-featured-categories-_-visual-diaries" title="Visual Diaries" class="quicklink">Visual Diaries</a>
+                <a href="/shop/officeworks/c/school-art/drawing-drafting/adult-colouring-books?cm_sp=mega-menu-_-featured-categories-_-adult-colouring-books" title="Adult Colouring Books" class="quicklink">Adult Colouring Books</a>
+                <a href="/shop/officeworks/c/school-art/school-books/exercise-books?cm_sp=mega-menu-_-featured-categories-_-exercise-books" title="Exercise Books" class="quicklink">Exercise Books</a>
+                <a href="/shop/officeworks/b/Caran-D-Ache-Art-Pencils?cm_sp=mega-menu-_-featured-categories-_-Caran d'Ache Art Pencils" title="Caran d'Ache Art Pencils" class="quicklink">Caran d'Ache Art Pencils</a>
+                
+                <h5 class="heading">Brands</h5>
+                <a href="/campaigns/yoobi" title="Yoobi" class="quicklink brandimg"><img src="/images/banners/category_megamenu/YoobieLogo.png" alt="Yoobi"></a>
+</div>
+<link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css">
+
 </div>
 <!--End Category_MegaMenu_ESpot1 -->
 	                </div>
@@ -1079,7 +1079,7 @@ Visual Art Diaries</a>
 								</ul><ul>
 							
 							<li id="sub-category-2-11">
-								<a href="/shop/officeworks/c/school-art/school-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SMPEBA4192_studymate_premium_a4_exercise_book_192_page.png">School Books</a>
+								<a href="/shop/officeworks/c/school-art/school-books" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/School books parent category thumbnail.png">School Books</a>
 							</li>
 							
 							<li id="sub-category-2-12">
@@ -1107,7 +1107,7 @@ Visual Art Diaries</a>
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  School & Art_MegaMenu_ESpot2 --><div data-espotname="School&amp;Art_MegaMenu_ESpot2">
-		<a href="http://www.officeworks.com.au/campaigns/yourtutor" target="_blank"><img src="/images/banners/category_megamenu/Category_MegaMenu_YourTutor.png" alt="YourTutor"></a>
+		<a href="http://www.officeworks.com.au/campaigns/yourtutor" target="_blank"><img src="/images/banners/category_megamenu/Category_MegaMenu_YourTutor2.png" alt="YourTutor"></a>
 </div>
 <!--  -->
 <!-- es:  School & Art_MegaMenu_ESpot3 --><div data-espotname="School&amp;Art_MegaMenu_ESpot3">
@@ -1124,7 +1124,24 @@ Visual Art Diaries</a>
 					</div>
 	                <div class="espot-column">
 						<!--Start Category_MegaMenu_ESpot1 --><!-- Category_MegaMenu_ESpot1 --><!--  -->
-<!-- es:  Paper_MegaMenu_ESpot1 --><!--End Category_MegaMenu_ESpot1 -->
+<!-- es:  Paper_MegaMenu_ESpot1 --><div data-espotname="Paper_MegaMenu_ESpot1">
+		<div class="quicklinks-wrapper">
+                <h5 class="heading">Featured Categories</h5>
+               
+                <a href="/shop/officeworks/c/paper/a4-copy-paper/a4-copy-paper-80gsm?cm_sp=mega-menu-_-featured-categories-_-a4-copy-paper-80gsm" title="A4 Copy Paper 80gsm" class="quicklink">A4 Copy Paper 80gsm</a>
+                <a href="/shop/officeworks/c/paper/a3-copy-paper/a3-copy-paper-80-90gsm?cm_sp=mega-menu-_-featured-categories-_-a3-copy-paper-80-90gsm" title="A3 Copy Paper 80-90gsm" class="quicklink">A3 Copy Paper 80-90gsm</a>
+                <a href="/shop/officeworks/c/paper/a4-copy-paper/recycled-a4-copy-paper?cm_sp=mega-menu-_-featured-categories-_-recycled-a4-copy-paper" title="Recycled A4 Copy Paper" class="quicklink">Recycled A4 Copy Paper</a>
+                <a href="/shop/officeworks/b/Reflex-A4-Copy-Paper-80gsm?cm_sp=mega-menu-_-featured-categories-_-reflex-a4-copy-paper-80gsm" title="Reflex A4 Copy Paper 80gsm" class="quicklink">Reflex A4 Copy Paper 80gsm</a>
+                <a href="/shop/officeworks/b/Fuji-Xerox-A4-Copy-Paper-80gsm?cm_sp=mega-menu-_-featured-categories-_-fuji-xerox-a4-copy-paper-80gsm" title="Fuji Xerox A4 Copy Paper 80gsm" class="quicklink">Fuji Xerox A4 Copy Paper 80gsm</a>                     
+         
+                
+                <!--<h5 class="heading">Brands</h5>
+                <a href="/information/brands/bic" title="Bic" class="quicklink brandimg"><img src="/images/banners/category_megamenu/bic-megamenu-final.png" alt="Bic" /></a>
+                <a href="/information/brands/staedtler" title="Staedtler" class="quicklink brandimg"><img src="/images/banners/category_megamenu/staedtler-megamenu.png" alt="Staedtler" /></a>-->
+</div>
+<link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css">
+</div>
+<!--End Category_MegaMenu_ESpot1 -->
 	                </div>
 					
 					<ul>
@@ -1134,7 +1151,7 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-3-2">
-								<a href="/shop/officeworks/c/paper/a4-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A4_copy_paper.png">A4 Copy Paper</a>
+								<a href="/shop/officeworks/c/paper/a4-copy-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/A4CopyPaper_CategoryImage.png">A4 Copy Paper</a>
 							</li>
 							
 							<li id="sub-category-3-3">
@@ -1150,36 +1167,32 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-3-6">
-								<a href="/shop/officeworks/c/paper/coloured-envelopes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/1383-OW-Website-Category-Tiles_ColouredEnvelopes_2.0.png">Coloured Envelopes</a>
-							</li>
-							
-							<li id="sub-category-3-7">
 								<a href="/shop/officeworks/c/paper/coloured-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/coloured_paper.png">Coloured Paper</a>
 							</li>
 							
-							<li id="sub-category-3-8">
+							<li id="sub-category-3-7">
 								<a href="/shop/officeworks/c/paper/dot-matrix-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/dot_matrix_paper.png">Dot Matrix Paper</a>
 							</li>
 							
-							<li id="sub-category-3-9">
+							<li id="sub-category-3-8">
 								<a href="/shop/officeworks/c/paper/fax-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/fax_paper.png">Fax Paper</a>
 							</li>
 							
-							<li id="sub-category-3-10">
+							<li id="sub-category-3-9">
 								<a href="/shop/officeworks/c/paper/invitations-cards" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/invitations_and_cards.png">Invitations &amp; Cards</a>
+							</li>
+							
+							<li id="sub-category-3-10">
+								<a href="/shop/officeworks/c/paper/photo-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/photo_paper.png">Photo Paper</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-3-11">
-								<a href="/shop/officeworks/c/paper/photo-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/photo_paper.png">Photo Paper</a>
-							</li>
-							
-							<li id="sub-category-3-12">
 								<a href="/shop/officeworks/c/paper/paper-register-rolls" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/register_rolls.png">Paper Register Rolls</a>
 							</li>
 							
-							<li id="sub-category-3-13">
+							<li id="sub-category-3-12">
 								<a href="/shop/officeworks/c/paper/wide-format-paper" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/wide_format_paper.png">Wide Format Paper</a>
 							</li>
 							
@@ -1192,7 +1205,7 @@ Visual Art Diaries</a>
 </div>
 <!--  -->
 <!-- es:  Paper_MegaMenu_ESpot3 --><div data-espotname="Paper_MegaMenu_ESpot3">
-		<a href="/shop/SearchDisplay?searchTerm=j.+burrows+copy+paper&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=" title="J. Burrows Paper"><img src="/images/banners/category_megamenu/Category_MegaMenu_JBurrowsAd.jpg" alt="J. Burrows Paper"></a> 
+		<a href="/shop/officeworks/office-supplies/gifts-gift-cards/gift-cards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
 </div>
 
 					</div>
@@ -1205,7 +1218,24 @@ Visual Art Diaries</a>
 					</div>
 	                <div class="espot-column">
 						<!--Start Category_MegaMenu_ESpot1 --><!-- Category_MegaMenu_ESpot1 --><!--  -->
-<!-- es:  Ink & Toner_MegaMenu_ESpot1 --><!--End Category_MegaMenu_ESpot1 -->
+<!-- es:  Ink & Toner_MegaMenu_ESpot1 --><div data-espotname="Ink&amp;Toner_MegaMenu_ESpot1">
+		<div class="quicklinks-wrapper">
+                <h5 class="heading">Featured Categories</h5>
+               
+                <a href="/shop/officeworks/b/Brother-Toner?cm_sp=mega-menu-_-featured-categories-_-brother-toner" title="Brother Toner" class="quicklink">Brother Toner</a>
+                <a href="/shop/officeworks/b/HP-Ink-Cartidges?cm_sp=mega-menu-_-featured-categories-_-hp-ink" title="HP Ink" class="quicklink">HP Ink</a>
+                <a href="/shop/officeworks/b/Canon-Ink?cm_sp=mega-menu-_-featured-categories-_-canon-ink" title="Canon Ink" class="quicklink">Canon Ink</a>
+                <a href="/shop/officeworks/b/Epson-Ink-Cartridges?cm_sp=mega-menu-_-featured-categories-_-epson-ink" title="Epson Ink" class="quicklink">Epson Ink</a>
+                              
+         
+                
+                <!--<h5 class="heading">Brands</h5>
+                <a href="/information/brands/bic" title="Bic" class="quicklink brandimg"><img src="/images/banners/category_megamenu/bic-megamenu-final.png" alt="Bic" /></a>
+                <a href="/information/brands/staedtler" title="Staedtler" class="quicklink brandimg"><img src="/images/banners/category_megamenu/staedtler-megamenu.png" alt="Staedtler" /></a>-->
+</div>
+<link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css">
+</div>
+<!--End Category_MegaMenu_ESpot1 -->
 	                </div>
 					
 					<ul>
@@ -1239,7 +1269,7 @@ Visual Art Diaries</a>
 </div>
 <!--  -->
 <!-- es:  Ink & Toner_MegaMenu_ESpot3 --><div data-espotname="Ink&amp;Toner_MegaMenu_ESpot3">
-		<a href="/shop/SearchDisplay?searchTerm=j.+burrows+copy+paper&amp;storeId=10151&amp;langId=-1&amp;pageSize=24&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=" title="J. Burrows Paper"><img src="/images/banners/category_megamenu/Category_MegaMenu_JBurrowsAd.jpg" alt="J. Burrows Paper"></a> 
+		<a href="/shop/officeworks/office-supplies/gifts-gift-cards/gift-cards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
 </div>
 
 					</div>
@@ -1255,18 +1285,19 @@ Visual Art Diaries</a>
 <!-- es:  Technology_MegaMenu_ESpot1 --><div data-espotname="Technology_MegaMenu_ESpot1">
 		<div class="quicklinks-wrapper">
                 <h5 class="heading">Featured Categories</h5>
-                <a href="/campaigns/apple-store?cm_sp=-_-featured-categories-_-apple-store" title="Apple Store" class="quicklink">Apple Store</a>
-                <a href="/shop/officeworks/b/Fitbit-Fitness-Trackers?cm_sp=-_-featured-categories-_-fitbit-fitness-trackers" title="Fitbits" class="quicklink">Fitbit Activity Trackers</a>
-                <a href="/shop/officeworks/c/technology/ipad-tablets/ipad?cm_sp=-_-featured-categories-_-apple-ipads" title="iPads" class="quicklink">iPads</a>
-                <a href="/shop/officeworks/c/technology/phones/iphone?cm_sp=-_-featured-categories-_-apple-iphones" title="iPhones" class="quicklink">iPhones</a>
-                <a href="/shop/officeworks/b/HP-Laptops?cm_sp=-_-featured-categories-_-hp-laptops" title="HP Laptops" class="quicklink">HP Laptops</a>
+                <a href="/campaigns/apple-store?cm_sp=mega-menu-_-brand-landing-page-_-apple" title="Apple Store" class="quicklink">Apple Store</a>
+                <a href="/shop/officeworks/c/technology/fitness-wearable-technology/fitbit/fitbit-activity-trackers?cm_sp=mega-menu-_-featured-categories-_-fitbit-fitness-trackers" title="Fitbits" class="quicklink">Fitbit Activity Trackers</a>
+                <a href="/shop/officeworks/c/technology/ipad-tablets/ipad?cm_sp=mega-menu-_-featured-categories-_-apple-ipads" title="iPads" class="quicklink">iPads</a>
+                <a href="/shop/officeworks/c/technology/phones/iphone?cm_sp=mega-menu-_-featured-categories-_-apple-iphones" title="iPhones" class="quicklink">iPhones</a>
+                <a href="/shop/officeworks/b/HP-Laptops?cm_sp=mega-menu-_-featured-categories-_-hp-laptops title=" hp="" laptops"="" class="quicklink">HP Laptops</a>
+                <a href="/information/buying-guides?cm_sp=mega-menu-_-featured-categories-_-buying-guides" title="Buying Guides" class="quicklink">Buying Guides</a>
                 <a style="background-color: #f4cd24;
-    border-radius: 4px 0px 4px 0px;" href="/shop/officeworks/b/Clearance-Technology" title="Clearance" class="quicklink">Clearance</a>
+    border-radius: 4px 0px 4px 0px;" href="/shop/officeworks/b/Clearance-Technology?cm_sp=mega-menu-_-featured-categories-_-technology-clearance" title="Clearance" class="quicklink">Clearance</a>
                 
                 
                 <h5 class="heading">Brands</h5>
-                <a href="/campaigns/apple-store?cm_sp=-_-brand-landing-page-_-apple" title="Apple Store" class="quicklink brandimg"><img src="/images/banners/category_megamenu/apple-megamenu-final.png" alt="Apple Store"></a>
-                <a href="/information/brands/samsung?cm_sp=-_-brand-landing-page-_-samsung" title="Samsung" class="quicklink brandimg"><img src="/images/banners/category_megamenu/samsung-megamenu-final.png" alt="Samsung"></a>
+                <a href="/campaigns/apple-store?cm_sp=mega-menu-_-brand-landing-page-_-apple" title="Apple Store" class="quicklink brandimg"><img src="/images/banners/category_megamenu/apple-megamenu-final.png" alt="Apple Store"></a>
+                <a href="/campaigns/lenovo?cm_sp=mega-menu-_-featured-categories-_-Lenovo%20Store%20title==" lenovo"="" class="quicklink brandimg"><img src="/images/banners/category_megamenu/lenovo-megamenu-v2.png" alt="Lenovo"></a>
 </div>
 <link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css">
 
@@ -1281,7 +1312,7 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-5-2">
-								<a href="/shop/officeworks/c/technology/cables-charge" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cables.png">Cables &amp; Charge</a>
+								<a href="/shop/officeworks/c/technology/cables-chargers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cables.png">Cables &amp; Chargers</a>
 							</li>
 							
 							<li id="sub-category-5-3">
@@ -1313,7 +1344,7 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-5-10">
-								<a href="/shop/officeworks/c/technology/gps-navigation" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/gps_navigation.png">GPS Navigation</a>
+								<a href="/shop/officeworks/c/technology/gps-uhf-radios" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/gps_navigation.png">GPS &amp; UHF Radios</a>
 							</li>
 							
 								</ul><ul>
@@ -1323,15 +1354,15 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-5-12">
-								<a href="/shop/officeworks/c/technology/home-entertainment" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/home_entertainment.png">Home Entertainment</a>
-							</li>
-							
-							<li id="sub-category-5-13">
 								<a href="/shop/officeworks/c/technology/ipad-tablets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/ipad_tablets_cat.png">iPad &amp; Tablets</a>
 							</li>
 							
+							<li id="sub-category-5-13">
+								<a href="/shop/officeworks/c/technology/laptops" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Laptop_CategoryImage.png">Laptops</a>
+							</li>
+							
 							<li id="sub-category-5-14">
-								<a href="/shop/officeworks/c/technology/laptops" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/laptops.png">Laptops</a>
+								<a href="/shop/officeworks/c/technology/media-players-home-entertainment" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/home_entertainment.png">Media Players &amp; Home Entertainment</a>
 							</li>
 							
 							<li id="sub-category-5-15">
@@ -1381,15 +1412,11 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-5-26">
-								<a href="/shop/officeworks/c/technology/software" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/software.png">Software</a>
+								<a href="/shop/officeworks/c/technology/software" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Software_CategoryImage.png">Software</a>
 							</li>
 							
 							<li id="sub-category-5-27">
 								<a href="/shop/officeworks/c/technology/software-digital-downloads" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/SoftwareDownload_CatImage2.png">Software Digital Downloads</a>
-							</li>
-							
-							<li id="sub-category-5-28">
-								<a href="/shop/officeworks/c/technology/uhf-radios" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/uhf_radios.png">UHF Radios</a>
 							</li>
 							
 					</ul>
@@ -1397,11 +1424,11 @@ Visual Art Diaries</a>
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  Technology_MegaMenu_ESpot2 --><div data-espotname="Technology_MegaMenu_ESpot2">
-		<a href="/services/extra-cover" title="Extra Cover Service"><img src="/images/banners/category_megamenu/Category_MegaMenu_ExtraCoverAd.jpg" alt="Extra Cover" width="488" height="94"></a> 
+		<a href="/information/about-us/our-environment/environment-products-services" title="Bring IT Back"><img src="/images/banners/category_megamenu/bring-it-back.png" alt="Bring IT Back"></a> 
 </div>
 <!--  -->
 <!-- es:  Technology_MegaMenu_ESpot3 --><div data-espotname="Technology_MegaMenu_ESpot3">
-		<a href="/campaigns/printerselector" title="Printer Selector"><img src="/images/banners/category_megamenu/Printer%20Selector%20MegaMenu%20Banner-FA.jpg" alt="Printer Selector" width="488" height="94"></a> 
+		<a href="/campaigns/printerselector" title="Printer Selector"><img src="/images/banners/category_megamenu/printer-selector-megamenu-banner-fa.jpg" alt="Printer Selector"></a> 
 </div>
 
 					</div>
@@ -1418,13 +1445,13 @@ Visual Art Diaries</a>
 		<div class="quicklinks-wrapper">
                 <h5 class="heading">Featured Categories</h5>
                
-                <a href="/shop/officeworks/c/furniture/office-chairs-seating/leather-plush-chairs?cm_sp=-_-featured-categories-_-leather-plush-chairs" title="Leather &amp; Plush Chairs" class="quicklink">Leather &amp; Plush Chairs</a>
-                <a href="/shop/officeworks/c/furniture/office-chairs-seating/office-chairs?cm_sp=-_-featured-categories-_-office-chairs" title="Office Chairs" class="quicklink">Office Chairs</a>
-                <a href="/shop/officeworks/c/furniture/desks-tables/computer-desks?cm_sp=-_-featured-categories-_-computer-desks" title="Computer Desks" class="quicklink">Computer Desks</a>
-                <a href="/shop/officeworks/c/furniture/office-chairs-seating/chair-mats?cm_sp=-_-featured-categories-_-chair-mats" title="Chair Mats" class="quicklink">Chair Mats</a>
-                <a href="/shop/officeworks/c/furniture/filing-cabinets/1-2-drawer-filing-cabinets?cm_sp=-_-featured-categories-_-1-2-drawer-filing" title="1-2 Drawer Filing Cabinets" class="quicklink">1-2 Drawer Filing Cabinets</a>
+                <a href="/shop/officeworks/c/furniture/office-chairs-seating/leather-plush-chairs?cm_sp=mega-menu-_-featured-categories-_-leather-plush-chairs" title="Leather &amp; Plush Chairs" class="quicklink">Leather &amp; Plush Chairs</a>
+                <a href="/shop/officeworks/c/furniture/office-chairs-seating/office-chairs?cm_sp=mega-menu-_-featured-categories-_-office-chairs" title="Office Chairs" class="quicklink">Office Chairs</a>
+                <a href="/shop/officeworks/c/furniture/desks-tables/computer-desks?cm_sp=mega-menu-_-featured-categories-_-computer-desks" title="Computer Desks" class="quicklink">Computer Desks</a>
+                <a href="/shop/officeworks/c/furniture/office-chairs-seating/chair-mats?cm_sp=mega-menu-_-featured-categories-_-chair-mats" title="Chair Mats" class="quicklink">Chair Mats</a>
+                <a href="/shop/officeworks/c/furniture/filing-cabinets/1-2-drawer-filing-cabinets?cm_sp=mega-menu-_-featured-categories-_-1-2-drawer-filing" title="1-2 Drawer Filing Cabinets" class="quicklink">1-2 Drawer Filing Cabinets</a>
                  <a style="background-color: #f4cd24;
-    border-radius: 4px 0px 4px 0px;" href="/shop/officeworks/b/Clearance-Furniture" title="Clearance" class="quicklink">Clearance</a>
+    border-radius: 4px 0px 4px 0px;" href="/shop/officeworks/b/Clearance-Furniture?cm_sp=mega-menu-_-featured-categories-_-furniture-clearance" title="Clearance" class="quicklink">Clearance</a>
                 
                 <!--<h5 class="heading">Brands</h5>
                 <a href="/information/brands/bic" title="Bic" class="quicklink brandimg"><img src="/images/banners/category_megamenu/bic-megamenu-final.png" alt="Bic" /></a>
@@ -1438,7 +1465,7 @@ Visual Art Diaries</a>
 					<ul>
 						
 							<li id="sub-category-6-1">
-								<a href="/shop/officeworks/c/furniture/bookcases" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Bookcases_Category_Image.png">Bookcases</a>
+								<a href="/shop/officeworks/c/furniture/bookcases-cubes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Bookcases_Category_Image.png">Bookcases &amp; Cubes</a>
 							</li>
 							
 							<li id="sub-category-6-2">
@@ -1450,49 +1477,53 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-6-4">
-								<a href="/shop/officeworks/c/furniture/decor" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/decor.png">Decor</a>
+								<a href="/shop/officeworks/c/furniture/cupboards-credenzas" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/cupboardscredenzas_catimage.png">Cupboards &amp; Credenzas</a>
 							</li>
 							
 							<li id="sub-category-6-5">
-								<a href="/shop/officeworks/c/furniture/desks-tables" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Desks&amp;Tables_Image.png">Desks &amp; Tables</a>
+								<a href="/shop/officeworks/c/furniture/decor" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/decor.png">Decor</a>
 							</li>
 							
 							<li id="sub-category-6-6">
-								<a href="/shop/officeworks/c/furniture/filing-cabinets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/filing_solutions_cat_image.png">Filing Cabinets</a>
+								<a href="/shop/officeworks/c/furniture/desks-tables" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Desks&amp;Tables_Image.png">Desks &amp; Tables</a>
 							</li>
 							
 							<li id="sub-category-6-7">
-								<a href="/shop/officeworks/c/furniture/floor-protection" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/floor_protection.png">Floor Protection</a>
+								<a href="/shop/officeworks/c/furniture/filing-cabinets" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/filing_solutions_cat_image.png">Filing Cabinets</a>
 							</li>
 							
 							<li id="sub-category-6-8">
-								<a href="/shop/officeworks/c/furniture/lighting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/lighting.png">Lighting</a>
+								<a href="/shop/officeworks/c/furniture/floor-protection" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/floor_protection.png">Floor Protection</a>
 							</li>
 							
 							<li id="sub-category-6-9">
-								<a href="/shop/officeworks/c/furniture/lockers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Lockers Catergory Image.png">Lockers</a>
+								<a href="/shop/officeworks/c/furniture/lighting" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/lighting.png">Lighting</a>
 							</li>
 							
 							<li id="sub-category-6-10">
-								<a href="/shop/officeworks/c/furniture/office-collections" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/arc_cat_image.png">Office Collections</a>
+								<a href="/shop/officeworks/c/furniture/lockers" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Lockers Catergory Image.png">Lockers</a>
 							</li>
 							
 								</ul><ul>
 							
 							<li id="sub-category-6-11">
-								<a href="/shop/officeworks/c/furniture/safes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/safes.png">Safes</a>
+								<a href="/shop/officeworks/c/furniture/office-collections" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/arc_cat_image.png">Office Collections</a>
 							</li>
 							
 							<li id="sub-category-6-12">
-								<a href="/shop/officeworks/c/furniture/shelving-racks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/shelving.png">Shelving &amp; Racks</a>
+								<a href="/shop/officeworks/c/furniture/safes" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/safes.png">Safes</a>
 							</li>
 							
 							<li id="sub-category-6-13">
-								<a href="/shop/officeworks/c/furniture/storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/storage-1.png">Storage</a>
+								<a href="/shop/officeworks/c/furniture/shelves-racks" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Shelves and Racks Category Image.png">Shelves &amp; Racks</a>
 							</li>
 							
 							<li id="sub-category-6-14">
-								<a href="/shop/officeworks/c/furniture/workstations-clusters" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workstations_cat_image.png">Workstation Clusters</a>
+								<a href="/shop/officeworks/c/furniture/storage" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/Storage_CategoryImage.png">Storage</a>
+							</li>
+							
+							<li id="sub-category-6-15">
+								<a href="/shop/officeworks/c/furniture/workstation-clusters" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workstations_cat_image.png">Workstation Clusters</a>
 							</li>
 							
 					</ul>
@@ -1500,7 +1531,7 @@ Visual Art Diaries</a>
 					<div class="row-fluid espots">
 					<!--  -->
 <!-- es:  Furniture_MegaMenu_ESpot2 --><div data-espotname="Furniture_MegaMenu_ESpot2">
-		<a href="/shop/officeworks/office-supplies/gifts-gift-cards/gift-cards" title="Officeworks Gift Cards"><img src="/images/banners/category_megamenu/Category_MegaMenu_GiftCardsAd.jpg" alt="Officeworks Gift Cards"></a> 
+		<a href="/services/workspace-solutions" title="Office Fitout Solutions"><img src="/images/banners/category_megamenu/Category_MegaMenu_Officefitout.png" alt="Office Fitout Solutions" width="488" height="94"></a> 
 </div>
 <!--  -->
 <!-- es:  Furniture_MegaMenu_ESpot3 --><div data-espotname="Furniture_MegaMenu_ESpot3">
@@ -1519,7 +1550,19 @@ Visual Art Diaries</a>
 	                <div class="espot-column">
 						<!--Start Category_MegaMenu_ESpot1 --><!-- Category_MegaMenu_ESpot1 --><!--  -->
 <!-- es:  Facilities Supplies_MegaMenu_ESpot1 --><div data-espotname="FacilitiesSupplies_MegaMenu_ESpot1">
-		<a href="/shop/officeworks/c/facilities-supplies/safety-first-aid" style="padding: 6px 0 0; margin: 0; border-right: 1px solid #cccccc;"><img src="/images/banners/category_megamenu/New%20Range.png" alt="Safety &amp; First Aid"></a>
+		<div class="quicklinks-wrapper">
+                <h5 class="heading">Workplace Safety Compliance</h5>
+               
+                <a href="/campaigns/first-aid-kit-selector?cm_sp=mega-menu-_-featured-categories-_-first-aid-kit-selector" title="First Aid Kit Selector" class="quicklink">First Aid Kit Selector</a>
+                <a href="/campaigns/safety-training?cm_sp=mega-menu-_-featured-categories-_-work-health-safety-training" title="Work Health &amp; Safety Training" class="quicklink">Work Health &amp; Safety Training</a>     
+                <a href="/shop/officeworks/facilities-supplies/safety-first-aid/registers-compliance-documents/safe-work-method-statements?cm_sp=mega-menu-_-featured-categories-_-swms" title="SWMS" class="quicklink">Safe Work Method Statements</a>     
+    
+                
+                <!--<h5 class="heading">Brands</h5>
+                <a href="/information/brands/bic" title="Bic" class="quicklink brandimg"><img src="/images/banners/category_megamenu/bic-megamenu-final.png" alt="Bic" /></a>
+                <a href="/information/brands/staedtler" title="Staedtler" class="quicklink brandimg"><img src="/images/banners/category_megamenu/staedtler-megamenu.png" alt="Staedtler" /></a>-->
+</div>
+<link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css">
 </div>
 <!--End Category_MegaMenu_ESpot1 -->
 	                </div>
@@ -1563,7 +1606,7 @@ Visual Art Diaries</a>
 							</li>
 							
 							<li id="sub-category-7-10">
-								<a href="/shop/officeworks/c/facilities-supplies/safety-first-aid" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/workplace_safety_and_first_aid.png">Safety &amp; First Aid</a>
+								<a href="/shop/officeworks/c/facilities-supplies/safety-first-aid" data-imageurl="//s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_300x300/2.3-Category-safety-and-first-Aid-tile.png">Safety &amp; First Aid</a>
 							</li>
 							
 								</ul><ul>
@@ -1580,8 +1623,14 @@ Visual Art Diaries</a>
 
 					<div class="row-fluid espots">
 					<!--  -->
-<!-- es:  Facilities Supplies_MegaMenu_ESpot2 --><!--  -->
-<!-- es:  Facilities Supplies_MegaMenu_ESpot3 -->
+<!-- es:  Facilities Supplies_MegaMenu_ESpot2 --><div data-espotname="FacilitiesSupplies_MegaMenu_ESpot2">
+		<a href="/campaigns/first-aid-kit-selector" title="First Aid Kit Selector"><img src="/images/banners/category_megamenu/FAK-megamenu.png" alt="First Aid Kit Selector" width="488" height="94"></a> 
+</div>
+<!--  -->
+<!-- es:  Facilities Supplies_MegaMenu_ESpot3 --><div data-espotname="FacilitiesSupplies_MegaMenu_ESpot3">
+		<a href="/campaigns/safety-training" title="WH &amp; S"><img src="/images/banners/category_megamenu/WHS-megamenu.png" alt="WH &amp; S" width="488" height="94"></a> 
+</div>
+
 					</div>
 				</div>
 		<!--  -->
@@ -1595,14 +1644,14 @@ Visual Art Diaries</a>
 	<ul>
 		<li><a href="/print/print-and-copy" data-imageurl="/images/menu/services/print_and_copy.png"> Print &amp; Copy </a></li>
 		<li><a href="/services/tech-services" data-imageurl="/images/menu/services/tech_services.png"> Tech Services </a></li>
-		<li><a href="/services/workspace-solutions" data-imageurl="/images/menu/services/workspace_solutions.png"> Workspace Solutions </a></li>
+		<li><a href="/services/workspace-solutions" data-imageurl="/images/menu/services/workspace_solutions.png"> Office Fitout Solutions </a></li>
 		<li><a href="/services/extra-cover" data-imageurl="/images/menu/services/extra_cover.png"> Extra Cover </a></li>
 		<li><a href="/services/meeting-rooms" data-imageurl="/images/menu/services/meeting_rooms.png"> Meeting Rooms  </a></li>
 		<li><a href="/services/special-orders" data-imageurl="/images/menu/services/special_orders.png"> Special Orders  </a></li>
 		<li><a href="/services/assemble-it" data-imageurl="/images/menu/services/assemble-it.png"> Assemble-it  </a></li>
 		<li><a href="/services/software-licensing" data-imageurl="/images/menu/services/software_licensing.png"> Business Software Licensing  </a></li>
 	</ul>
-</div><li><a href="/print/print-and-copy" data-imageurl="/images/menu/print-and-copy/menu/print-and-copy/print_and_copy.png"> Print &amp; Copy </a></li>
+</div><li class=""><a href="/print/print-and-copy" data-imageurl="/images/menu/print-and-copy/menu/print-and-copy/print_and_copy.png"> Print &amp; Copy </a></li>
 <div class="sub-category print-and-copy" style="display: none;">
             <div class="row-fluid">
                 <div class="span7">
@@ -1610,9 +1659,11 @@ Visual Art Diaries</a>
                         <li class="menu-heading">Products</li>
                         <li><a href="/print/print-and-copy/3d">3D Printing &amp; Scanning</a></li>
                         <li><a href="/print/print-and-copy/banners-and-frames">Banners &amp; Frames</a></li>
-                        <li><a href="/print/print-and-copy/business-cards" title="Business Cars">Business Cards</a></li>
-                        <li><a href="/print/print-and-copy/digital-photos-and-photobooks">Digital Photos &amp; Photobooks</a></li>
+                        <li><a href="/print/print-and-copy/business-cards" title="Business Cards">Business Cards</a></li>
+                        <li><a href="/print/print-and-copy/business-stationery" title="Business Stationery">Business Stationery</a></li>
                         <li><a href="/print/print-and-copy/documents">Documents</a></li>
+                        <li><a href="/print/print-and-copy/flyers">Flyers</a></li>
+                        <li><a href="/print/print-and-copy/digital-photos-and-photobooks">Digital Photos &amp; Photobooks</a></li>
                         <li><a href="/print/print-and-copy/posters-and-plans">Posters &amp; Plans</a></li>
                     </ul>
                     <ul>
@@ -1631,13 +1682,17 @@ Visual Art Diaries</a>
                 <div class="span9">
                     <div class="whats-new">
                         <div class="heading">What's New</div>
-                        <a href="/shop/officeworks/Print-And-Copy/Outdoor-Banners">
-                            <img src="/images/menu/print-and-copy/outdoor-posters.png" width="137" height="58">
-                            Outdoor Banners
+                        <a href="/shop/officeworks/Print-And-Copy/Letterheads">
+                            <img src="/images/menu/print-and-copy/letterheads-mega-menu.jpg" width="137" height="58">
+                            Letterheads
                         </a>
-                        <a href="/shop/officeworks/Print-And-Copy/Board-Mounted-Posters">
-                            <img src="/images/menu/print-and-copy/board-mounted-posters.png" width="137" height="58">
-                            Board Mounted Posters
+                        <a href="/shop/officeworks/Print-And-Copy/With-Compliments-Slips">
+                            <img src="/images/menu/print-and-copy/with-comps-mega-menu.jpg" width="137" height="58">
+                            With Compliments Slips
+                        </a>
+                        <a href="/print/print-and-copy/flyers">
+                            <img src="/images/menu/print-and-copy/flyers.png" width="137" height="58">
+                            Flyers
                         </a>
                     </div>
                     <div class="important-links">
@@ -1655,11 +1710,17 @@ Visual Art Diaries</a>
                                 </a>
                             </li>
                             <li class="price-guide">
-                                <a class="important-link" href="/resources/pdfs/guides/print-and-copy_price-guide.pdf" target="_blank" title="Print &amp; Price Guide (pdf)">
+                                <a class="important-link" href="/resources/pdfs/guides/print-and-copy_price-guide.pdf?cm_sp=mega-menu-_-price_list-_-Print_Copy" target="_blank" title="Print &amp; Price Guide (pdf)">
                                     <div class="heading">Price Guide</div>
-                                    <p>Download our 2015 Product and Services Price Guide</p>
+                                    <p>Download our 2016 Product and Services Price Guide</p>
                                 </a>
                                 <a class="download" href="/resources/pdfs/guides/print-and-copy_price-guide.pdf" target="_blank" title="Print &amp; Price Guide (pdf)"></a>
+                            </li>
+                            <li class="print-and-copy-recharge-card">
+                                <a class="important-link" href="/print/print-and-copy/self-service/recharge-card">
+                                    <div class="heading">Print &amp; Copy<br>Recharge Card</div>
+                                    <p>Check your recharge card balance</p>
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -1762,7 +1823,7 @@ Visual Art Diaries</a>
         }
 
         #widget_department .top-category .sub-category .important-links .important-link:before {
-            background-image: url(/images/menu/print-and-copy/print-icons.png);
+            background-image: url(/images/menu/print-and-copy/print-menu-icons.png);
             content: '';
             width: 43px;
             height: 43px;
@@ -1807,12 +1868,23 @@ Visual Art Diaries</a>
             color: #86b700;
         }
 
+        #widget_department .top-category .sub-category .important-links .print-and-copy-recharge-card .heading {
+            color: #005BAB;
+        }
+
         #widget_department .top-category .sub-category .important-links .design-services .important-link:before {
             background-position: 0 0;
         }
 
         #widget_department .top-category .sub-category .important-links .print-and-promotions-solutions .important-link:before {
             background-position: -43px 0;
+        }
+        #widget_department .top-category .sub-category .important-links .print-and-copy-recharge-card .heading {
+            color: #005bab;
+        }
+
+        #widget_department .top-category .sub-category .important-links .price-guide {
+            position: relative;
         }
 
         #widget_department .top-category .sub-category .important-links .price-guide .important-link:before {
@@ -1821,6 +1893,14 @@ Visual Art Diaries</a>
 
         #widget_department .top-category .sub-category .important-links .price-guide .important-link:after {
             display: none;
+        }
+
+        #widget_department .top-category .sub-category .important-links .price-guide {
+            position: relative;
+        }
+
+        #widget_department .top-category .sub-category .important-links .print-and-copy-recharge-card .important-link:before {
+            background-position: -129px 0;
         }
 
         #widget_department .top-category .sub-category .download {
@@ -1850,6 +1930,18 @@ Visual Art Diaries</a>
         #widget_department .top-category .sub-category .download:hover:after {
             background-position: -16px 0;
         }
+
+        #widget_department .top-category .sub-category li a:hover,
+        #widget_department .top-category .sub-category li.price-guide:hover .download {
+            background: #e6f9ff;
+            text-decoration: none;
+            color: #005bab;
+        }
+
+        #widget_department .top-category .sub-category li.price-guide:hover .download:after {
+          background-position: -16px 0;
+        }
+
     </style>
  <li id="category-mailman">
   <a href="/mailman"> Mailman </a>
@@ -2072,9 +2164,9 @@ z-index: 9999;}</style>
 <div class="row-fluid">
 <div class="proof-points">
 <ul class="inline">
-<li><a href="/information/click-and-collect" title="Free Click &amp; Collect"><i class="icon-ow-clickcollect"></i>Free Click &amp; Collect</a></li>
-<li><a href="/information/policies/delivery-policy" title="Free Next Day Delivery"><i class="icon-ow-delivery"></i>Free Next Day Delivery<sup>*</sup></a></li>
-<li><a href="/information/policies/delivery-policy" title="Same Day Delivery"><i class="icon-ow-sameday"></i>Same Day Delivery<sup>†</sup></a></li>
+<li><a href="/information/click-and-collect?cm_sp=Homepage-_-Header_ESpot-_-click-and-collect" title="Free Click &amp; Collect"><i class="icon-ow-clickcollect"></i>Free Click &amp; Collect</a></li>
+<li><a href="/information/policies/delivery-policy?cm_sp=Homepage-_-Header_ESpot-_-next-day" title="Free Next Day Delivery"><i class="icon-ow-delivery"></i>Free Next Day Delivery<sup>*</sup></a></li>
+<li><a href="/information/policies/delivery-policy?cm_sp=Homepage-_-Header_ESpot-_-same-day" title="Same Day Delivery"><i class="icon-ow-sameday"></i>Same Day Delivery<sup>†</sup></a></li>
 </ul>
 </div>
 </div> 
@@ -2091,7 +2183,7 @@ z-index: 9999;}</style>
         <div class="row-fluid" id="breadcrumbs-main-mod">
             		<div class="moduletable">
 						
-<div class="span12" id="widget_breadcrumb">
+<div class="span14" id="widget_breadcrumb">
         <ul class="breadcrumb">
         <li><a id="WC_BreadCrumb_Link_0" href="/" class="pathway">Home</a></li><span class="breadcrumb-divider"></span><li><span>Information</span></li><span class="breadcrumb-divider"></span><li><span>Policies</span></li><span class="breadcrumb-divider"></span><li><a id="WC_BreadCrumb_Link_3" href="/information/policies/privacy-policy" class="pathway">Privacy Policy</a></li>    </ul>
 </div>
@@ -2105,7 +2197,7 @@ z-index: 9999;}</style>
 
 <div class="title in"><a><div class="text">Information</div></a>
 </div><div class="nav" id="category-root"><div class="nav" id="category-root"><div class="accordion-group"><a href="/information/about-us"><div class="text">About Us</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-368" data-parent="#category-232"></div><div class="nav collapse " id="category-368"><div class="accordion-group"><a href="/information/about-us/our-environment"><div class="text">Our Environment</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-233" data-parent="#category-368"></div><div class="nav collapse " id="category-233"><div class="accordion-group"><a href="/information/about-us/our-environment/environment-products-services"><div class="text">Sustainable Products and Services</div></a></div><div class="accordion-group"><a href="/information/about-us/our-environment/environment-operations"><div class="text">Sustainable Operations</div></a></div><div class="accordion-group"><a href="/information/about-us/our-environment/environment-awareness"><div class="text">Environmental Awareness</div></a></div></div></div><div class="accordion-group"><a href="/information/about-us/our-community"><div class="text">Our Community</div></a></div><div class="accordion-group"><a href="/information/about-us/our-people"><div class="text">Our People</div></a></div><div class="accordion-group"><a href="/information/about-us/in-store-activities"><div class="text">In-Store Activities</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report"><div class="text">Sustainability Report</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-485" data-parent="#category-368"></div><div class="nav collapse " id="category-485"><div class="accordion-group"><a href="/information/about-us/sustainability-report/printer-cartridges-in-schools"><div class="text">Printer Cartridges in Schools</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report/packaging-recycling-label"><div class="text">Packaging Recycling Label</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report/future-leaders-program"><div class="text">Future Leaders Program</div></a></div><div class="accordion-group"><a href="/information/about-us/sustainability-report/sustainability-report-2014"><div class="text">Sustainability Report 2014</div></a></div></div></div></div></div><div class="accordion-group"><a><div class="text">Policies</div></a>
-<div class="expand " data-toggle="collapse" data-target="#category-252" data-parent="#category-232"></div><div class="nav collapse in" id="category-252"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Delivery Policy</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-254" data-parent="#category-252"></div><div class="nav collapse " id="category-254"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Overview</div></a></div><div class="accordion-group"><a href="/information/policies/delivery-policy/print-and-copy-promise"><div class="text">Print &amp; Copy</div></a></div></div></div><div class="accordion-group"><a href="/information/policies/return-policy"><div class="text">Return Policy</div></a></div><div class="accordion-group"><a href="/information/policies/product-recalls"><div class="text">Product Recalls</div></a></div><div class="accordion-group"><a href="/information/policies/lowest-price-guarantee"><div class="text">Lowest Price Guarantee</div></a></div><div class="accordion-group"><a href="/information/policies/payment-options"><div class="text">Payment Options</div></a></div><div class="accordion-group"><a href="/information/policies/terms-of-use"><div class="text">Terms of Use</div></a></div><div class="accordion-group"><a href="/information/policies/pci-faqs"><div class="text">PCI FAQs</div></a></div><div class="accordion-group"><a href="/information/policies/privacy-policy"><div class="text">Privacy Policy</div></a></div><div class="accordion-group"><a href="/information/policies/social-media-house-rules"><div class="text">Social Media House Rules</div></a></div><div class="accordion-group"><a href="/information/policies/prepaid-phone-terms-conditions"><div class="text">Prepaid Phone Terms &amp; Conditions</div></a></div></div></div><div class="accordion-group"><a href="/information/3d-secure"><div class="text">3D Secure</div></a></div><div class="accordion-group"><a href="/information/click-and-collect"><div class="text">Click &amp; Collect</div></a></div><div class="accordion-group"><a href="/information/paper-choices"><div class="text">Paper Choices</div></a></div><div class="accordion-group"><a href="/careers-opportunities"><div class="text">Career Opportunities</div></a></div><div class="accordion-group"><a href="/information/customer-communications"><div class="text">Customer Communications</div></a></div><div class="accordion-group"><a href="/information/cost-per-page"><div class="text">Cost per page</div></a></div><div class="accordion-group"><a href="/information/30-day-business-account"><div class="text">30 Day Business Account</div></a></div><div class="accordion-group"><a href="/information/buying-guides"><div class="text">Buying Guides</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-687" data-parent="#category-232"></div><div class="nav collapse " id="category-687"><div class="accordion-group"><a href="/information/buying-guides/printer-buying-guide"><div class="text">Printer Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/hard-drives-buying-guide"><div class="text">Hard Drives Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/laptops-buying-guide"><div class="text">Laptops Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/tablets-buying-guide"><div class="text">Tablets Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/monitor-buying-guide"><div class="text">Monitor Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/smart-home-office-buying-guide"><div class="text">Smart Home &amp; Office Buying Guide</div></a></div></div></div><div class="accordion-group"><a href="/information/brands"><div class="text">Brands</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-730" data-parent="#category-232"></div><div class="nav collapse " id="category-730"><div class="accordion-group"><a href="/information/brands/acer"><div class="text">Acer</div></a></div><div class="accordion-group"><a href="/information/brands/samsung"><div class="text">Samsung</div></a></div><div class="accordion-group"><a href="/information/brands/brother"><div class="text">Brother</div></a></div><div class="accordion-group"><a href="/information/brands/netgear"><div class="text">Netgear</div></a></div><div class="accordion-group"><a href="/information/brands/microsoft"><div class="text">Microsoft</div></a></div><div class="accordion-group"><a href="/information/brands/sony"><div class="text">Sony</div></a></div><div class="accordion-group"><a href="/information/brands/panasonic"><div class="text">Panasonic</div></a></div><div class="accordion-group"><a href="/information/brands/canon"><div class="text">Canon</div></a></div><div class="accordion-group"><a href="/information/brands/apple"><div class="text">Apple</div></a></div><div class="accordion-group"><a href="/information/brands/x"><div class="text">X</div></a></div><div class="accordion-group"><a href="/information/brands/staedtler"><div class="text">Staedtler</div></a></div><div class="accordion-group"><a href="/information/brands/fitbit"><div class="text">Fitbit</div></a></div><div class="accordion-group"><a href="/information/brands/rexel"><div class="text">Rexel</div></a></div><div class="accordion-group"><a href="/information/brands/pps"><div class="text">PPS</div></a></div><div class="accordion-group"><a href="/information/brands/sharpie"><div class="text">Sharpie</div></a></div><div class="accordion-group"><a href="/information/brands/j-burrows"><div class="text">J.Burrows</div></a></div><div class="accordion-group"><a href="/information/brands/sandisk"><div class="text">Sandisk</div></a></div><div class="accordion-group"><a href="/information/brands/dymo"><div class="text">Dymo</div></a></div><div class="accordion-group"><a href="/information/brands/bic"><div class="text">Bic</div></a></div><div class="accordion-group"><a href="/information/brands/olympic"><div class="text">Olympic</div></a></div><div class="accordion-group"><a href="/information/brands/sennheiser"><div class="text">Sennheiser</div></a></div><div class="accordion-group"><a href="/information/brands/breville"><div class="text">Breville</div></a></div><div class="accordion-group"><a href="/information/brands/fuji-xerox"><div class="text">Fuji Xerox</div></a></div><div class="accordion-group"><a href="/information/brands/epson"><div class="text">Epson</div></a></div><div class="accordion-group"><a href="/information/brands/toshiba"><div class="text">Toshiba</div></a></div><div class="accordion-group"><a href="/information/brands/logitech"><div class="text">Logitech</div></a></div><div class="accordion-group"><a href="/information/brands/hp"><div class="text">HP</div></a></div><div class="accordion-group"><a href="/information/brands/western-digital"><div class="text">Western Digital</div></a></div></div></div></div></div></div>		</div>
+<div class="expand " data-toggle="collapse" data-target="#category-252" data-parent="#category-232"></div><div class="nav collapse in" id="category-252"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Delivery Policy</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-254" data-parent="#category-252"></div><div class="nav collapse " id="category-254"><div class="accordion-group"><a href="/information/policies/delivery-policy"><div class="text">Overview</div></a></div><div class="accordion-group"><a href="/information/policies/delivery-policy/print-and-copy-promise"><div class="text">Print &amp; Copy</div></a></div></div></div><div class="accordion-group"><a href="/information/policies/return-policy"><div class="text">Return Policy</div></a></div><div class="accordion-group"><a href="/information/policies/product-recalls"><div class="text">Product Recalls</div></a></div><div class="accordion-group"><a href="/information/policies/lowest-price-guarantee"><div class="text">Lowest Price Guarantee</div></a></div><div class="accordion-group"><a href="/information/policies/payment-options"><div class="text">Payment Options</div></a></div><div class="accordion-group"><a href="/information/policies/terms-of-use"><div class="text">Terms of Use</div></a></div><div class="accordion-group"><a href="/information/policies/pci-faqs"><div class="text">PCI FAQs</div></a></div><div class="accordion-group"><a href="/information/policies/privacy-policy"><div class="text">Privacy Policy</div></a></div><div class="accordion-group"><a href="/information/policies/social-media-house-rules"><div class="text">Social Media House Rules</div></a></div><div class="accordion-group"><a href="/information/policies/prepaid-phone-terms-conditions"><div class="text">Prepaid Phone Terms &amp; Conditions</div></a></div></div></div><div class="accordion-group"><a href="/information/3d-secure"><div class="text">3D Secure</div></a></div><div class="accordion-group"><a href="/information/click-and-collect"><div class="text">Click &amp; Collect</div></a></div><div class="accordion-group"><a href="/information/paper-choices"><div class="text">Paper Choices</div></a></div><div class="accordion-group"><a href="/careers-opportunities"><div class="text">Career Opportunities</div></a></div><div class="accordion-group"><a href="/information/customer-communications"><div class="text">Customer Communications</div></a></div><div class="accordion-group"><a href="/information/cost-per-page"><div class="text">Cost per page</div></a></div><div class="accordion-group"><a href="/information/businesssolutions"><div class="text">30 Day Business Account</div></a></div><div class="accordion-group"><a href="/information/30-day-business-account"><div class="text">30 Day Business Account</div></a></div><div class="accordion-group"><a href="/information/buying-guides"><div class="text">Buying Guides</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-687" data-parent="#category-232"></div><div class="nav collapse " id="category-687"><div class="accordion-group"><a href="/information/buying-guides/printer-buying-guide"><div class="text">Printer Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/chairs-buying-guide"><div class="text">Chairs Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/label-machines-buying-guide"><div class="text">Label Machines Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/wireless-speakers-buying-guide"><div class="text">Wireless Speakers Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/mobile-phones-buying-guide"><div class="text">Mobile Phones Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/fitness-tracker-buying-guide"><div class="text">Fitness Tracker Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/headphones-buying-guide"><div class="text">Headphones Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/hard-drives-buying-guide"><div class="text">Hard Drives Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/projectors-buying-guide"><div class="text">Projectors Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/pens-buying-guide"><div class="text">Pens Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/laptops-buying-guide"><div class="text">Laptops Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/tablets-buying-guide"><div class="text">Tablets Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/monitor-buying-guide"><div class="text">Monitor Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/smart-home-office-buying-guide"><div class="text">Smart Home &amp; Office Buying Guide</div></a></div><div class="accordion-group"><a href="/information/buying-guides/shredders-buying-guide"><div class="text">Shredders Buying Guide</div></a></div></div></div><div class="accordion-group"><a href="/information/brands"><div class="text">Brands</div></a><div class="expand collapsed" data-toggle="collapse" data-target="#category-730" data-parent="#category-232"></div><div class="nav collapse " id="category-730"><div class="accordion-group"><a href="/information/brands/acer"><div class="text">Acer</div></a></div><div class="accordion-group"><a href="/information/brands/samsung"><div class="text">Samsung</div></a></div><div class="accordion-group"><a href="/information/brands/d-link"><div class="text">D-Link</div></a></div><div class="accordion-group"><a href="/information/brands/seagate"><div class="text">Seagate</div></a></div><div class="accordion-group"><a href="/information/brands/brother"><div class="text">Brother</div></a></div><div class="accordion-group"><a href="/information/brands/caran-d-ache"><div class="text">Caran D’Ache</div></a></div><div class="accordion-group"><a href="/information/brands/netgear"><div class="text">Netgear</div></a></div><div class="accordion-group"><a href="/information/brands/microsoft"><div class="text">Microsoft</div></a></div><div class="accordion-group"><a href="/information/brands/sony"><div class="text">Sony</div></a></div><div class="accordion-group"><a href="/information/brands/panasonic"><div class="text">Panasonic</div></a></div><div class="accordion-group"><a href="/information/brands/cross"><div class="text">Cross</div></a></div><div class="accordion-group"><a href="/information/brands/canon"><div class="text">Canon</div></a></div><div class="accordion-group"><a href="/information/brands/apple"><div class="text">Apple</div></a></div><div class="accordion-group"><a href="/information/brands/x"><div class="text">X</div></a></div><div class="accordion-group"><a href="/information/brands/staedtler"><div class="text">Staedtler</div></a></div><div class="accordion-group"><a href="/information/brands/fitbit"><div class="text">Fitbit</div></a></div><div class="accordion-group"><a href="/information/brands/copic"><div class="text">Copic</div></a></div><div class="accordion-group"><a href="/information/brands/rexel"><div class="text">Rexel</div></a></div><div class="accordion-group"><a href="/information/brands/pps"><div class="text">PPS</div></a></div><div class="accordion-group"><a href="/information/brands/sharpie"><div class="text">Sharpie</div></a></div><div class="accordion-group"><a href="/information/brands/j-burrows"><div class="text">J.Burrows</div></a></div><div class="accordion-group"><a href="/information/brands/sandisk"><div class="text">Sandisk</div></a></div><div class="accordion-group"><a href="/information/brands/dymo"><div class="text">Dymo</div></a></div><div class="accordion-group"><a href="/information/brands/bic"><div class="text">Bic</div></a></div><div class="accordion-group"><a href="/information/brands/olympic"><div class="text">Olympic</div></a></div><div class="accordion-group"><a href="/information/brands/sennheiser"><div class="text">Sennheiser</div></a></div><div class="accordion-group"><a href="/information/brands/breville"><div class="text">Breville</div></a></div><div class="accordion-group"><a href="/information/brands/fuji-xerox"><div class="text">Fuji Xerox</div></a></div><div class="accordion-group"><a href="/information/brands/epson"><div class="text">Epson</div></a></div><div class="accordion-group"><a href="/information/brands/toshiba"><div class="text">Toshiba</div></a></div><div class="accordion-group"><a href="/information/brands/derwent"><div class="text">Derwent</div></a></div><div class="accordion-group"><a href="/information/brands/logitech"><div class="text">Logitech</div></a></div><div class="accordion-group"><a href="/information/brands/hp"><div class="text">HP</div></a></div><div class="accordion-group"><a href="/information/brands/western-digital"><div class="text">Western Digital</div></a></div></div></div><div class="accordion-group"><a href="/information/netgear"><div class="text">Netgear</div></a></div></div></div></div>		</div>
 	
                 </div>
                         <div id="main" class="row-fluid span13">
@@ -2424,34 +2516,14 @@ address {margin:10px 0 20px 0;}</style>
 		<!-- === Footer ESpot === --><!--  -->
 <!-- es:  Footer_Contents --><div data-espotname="Footer_Contents">
 		<div class="row-fluid">
-		<div class="proof-points large">
-				<ul class="inline">
-				<li>
-					<a href="/information/policies/delivery-policy" title="Free Click &amp; Collect">
-						<i class="icon-ow-clickcollect"></i>
-						Click &amp; Collect
-						<span>Buy online &amp; collect from any one of our 150+ stores FREE.<i class="icon-ow-arrow"></i></span>
-
-					</a>
-				</li>
-				<li>
-					<a href="/information/policies/return-policy" title="Easy Returns">
-						<i class="icon-ow-returns"></i>
-						Easy Returns
-						<span>Change your mind?<br>No worries.<i class="icon-ow-arrow"></i></span>
-
-					</a>
-				</li>
-				<li>
-					<a title="20,000+ Products" class="cartproducts">
-						<i class="icon-ow-cartproducts"></i>
-						20,000+ Products
-						<span>We've got the widest range of office products online. <i class="icon-ow-arrow"></i></span>
-
-					</a>
-				</li>
-			</ul>
-		</div>  <div class="row-fluid" id="widget_footer">
+<div class="proof-points large">
+<ul class="inline">
+<li><a href="/information/policies/delivery-policy" title="Free Click &amp; Collect"> <i class="icon-ow-clickcollect"></i> Click &amp; Collect <span>Buy online &amp; collect from any one of our 150+ stores FREE.<i class="icon-ow-arrow"></i></span> </a></li>
+<li><a href="/information/policies/return-policy" title="Easy Returns"> <i class="icon-ow-returns"></i> Easy Returns <span>Change your mind?<br>No worries.<i class="icon-ow-arrow"></i></span> </a></li>
+<li><a title="25,000+ Products" class="cartproducts"> <i class="icon-ow-cartproducts"></i> 25,000+ Products <span>We've got the widest range of office products online. <i class="icon-ow-arrow"></i></span> </a></li>
+</ul>
+</div>
+</div> <div class="row-fluid" id="widget_footer">
 	<hr>
 	<h2 class="offscreen">Footer</h2>
 	<div class="row-fluid">
@@ -2535,7 +2607,7 @@ address {margin:10px 0 20px 0;}</style>
 	<!--<a href="https://www.surveymonkey.com/s/ow_feedback" target="_blank" title="Fill out our website feedback survey"><img src="/images/skins/website-feedback-footer.png" style="outline: none;" /></a>-->
 	<hr>
 	<div class="row-fluid">
-		<div class="span5 copyright-note">Copyright © 2008-<span id="current-year">2015</span> Officeworks Ltd. <br> All rights reserved.&nbsp;</div>
+		<div class="span5 copyright-note">Copyright © 2008-<span id="current-year">2016</span> Officeworks Ltd. <br> All rights reserved.&nbsp;</div>
 		<div class="span5 security-links">
 			<ul class="inline">
 				<li><a href="/information/policies/privacy-policy" rel="nofollow">Privacy Policy &amp; Collection Statement</a>
@@ -2552,14 +2624,28 @@ address {margin:10px 0 20px 0;}</style>
 		</div>
 	</div>
 </div>
-<link rel="stylesheet" href="/templates/new/css/ow-override.css?v2.2" type="text/css">
+<link rel="stylesheet" href="/templates/new/css/ow-override.css?v2.2.3" type="text/css">
 <script src="/templates/new/css/ow-override.js?v2" type="text/javascript"></script>
-<link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css"> 
+<link rel="stylesheet" href="/resources/styles/ow-desktop-megamenu.css" type="text/css">
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Officeworks",
+  "url" : "http://www.officeworks.com.au",
+  "logo": "http://goo.gl/9fKkUT",
+  "sameAs" : [
+    "https://www.facebook.com/officeworks",
+    "https://twitter.com/officeworks",
+    "http://www.instagram.com/officeworks",
+    "https://www.pinterest.com/officeworks/",
+    "https://www.youtube.com/user/officeworks"]
+}
+</script> 
 </div>
 <!-- === End Footer ESpot === -->
 	</div>
 </div>
-<!-- === End Footer === --><script src="/wcsstore/OfficeworksSA/javascript/ow/pages/header.js?v=22.651"></script>
+<!-- === End Footer === --><script src="/wcsstore/OfficeworksSA/javascript/ow/pages/header.js?v=26.845.1"></script>
 <script type="text/javascript">
 	ow.state.header = new ow.pages.header().initialize();
 </script><!-- No script tag for google remarketing tag -->
@@ -2569,17 +2655,36 @@ address {margin:10px 0 20px 0;}</style>
 	</div>
 </noscript>
 <!-- Version Information of the Build 
- Build Version  ::   22.651 (20151216021613)
- Build Branch   ::  release-22
- Latest DB Version   ::  2015-11-18-1606
+ Build Version  ::   26.845.1 (20160429042058)
+ Build Branch   ::  release-26
+ Latest DB Version   ::  2016-03-18-0253
  --><!-- END Footer.jsp -->
 			</div><!-- header -->
     </div>
 </div>
 
 
-<script type="text/javascript"> cmCreatePageviewTag(document.title, "Static Content", null, null, "-_--_--_--_-Static Content", null); </script>
+<script>
+	$(document).ready(function(){
+      try{
+			var analyticsTagPageName = document.title;
+      	
+            if (typeof ow.tagging.joomlaPageName !== 'undefined'){
+                analyticsTagPageName = ow.tagging.joomlaPageName;
+            }
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"66eeee573b","applicationID":"10221203","transactionName":"ZFQGYBEEX0UAUxINV10eJVcXDF5YTnMJCkxWXxB3DAtFRA5cCgFKHFUNRxMJUE8=","queueTime":0,"applicationTime":344,"atts":"SBMFFlkeTEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+            $.get("//" + document.domain + "/webapp/wcs/stores/servlet/OfficeworksSA/Api/AnalyticsPageContext.jsp?storeId=10151&catalogId=10551", { "pageName": analyticsTagPageName, isStaticPage:"true"} )
+            .done(function( data ) {
+                $('body').append(data);
+            });
+           
+        } catch (err) {
+          //caught
+        }
+    })
+      
+</script>
 
-</div></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"66eeee573b","applicationID":"10221203","transactionName":"ZFQGYBEEX0UAUxINV10eJVcXDF5YTnMJCkxWXxB3DAtFRA5cCgFKHFUNRxMJUE8=","queueTime":0,"applicationTime":368,"atts":"SBMFFlkeTEs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
