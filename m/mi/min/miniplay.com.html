@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miniplay.com privacy policy that was archived on 2015-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150911230131id_/http%3A//www.miniplay.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miniplay.com privacy policy that was archived on 2016-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619081215id_/http%3A//www.miniplay.com/support/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US"><head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -20,18 +20,18 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.miniplay.com/feed.xml">
             <link rel="shortcut icon" href="http://s3.minijuegosgratis.com/media/favicon.png">
 
-<link href="http://s2.minijuegosgratis.com/styles/css/mini-styles_1441975778.css" rel="stylesheet">
+<link href="http://s2.minijuegosgratis.com/styles/css/mini-styles_1466152421.css" rel="stylesheet">
 
 <!--[if IE 8]> 
-<link href="http://s2.minijuegosgratis.com/styles/css/styles-ie8_1441975778.css" rel="stylesheet" />
+<link href="http://s2.minijuegosgratis.com/styles/css/styles-ie8_1466152421.css" rel="stylesheet" />
 <![endif]-->
 
 
 
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7305.js?438987" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7305.js?438987" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="http://s1.minijuegosgratis.com/js/jquery/jquery-libs.min.js"></script>
 
-    <script src="http://s1.minijuegosgratis.com/js/AppFull_1441975778.js"></script>
+    <script src="http://s1.minijuegosgratis.com/js/AppFull_1466152421.js"></script>
 
 
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script type="text/javascript" src="http://code.iwadserver.com/iwadserver.js"></script>
@@ -69,21 +69,20 @@
         MP.url.avatar = "http://www.miniplay.com/avatars/";
         MP.url.community = "http://www.miniplay.com/community/";
         MP.url.gameThumbnails = "http://www.minijuegosgratis.com/v3/games/thumbnails/";
-        //@todo: Remove after event is finished
-        MP.url.miniHeroesWar = "http://www.miniplay.com/mini-heroes-war?force_main_landing=1";
         MP.req.isPost = false;
         MP.pageType = "";
         MP.pageTypeId = "";
     // Other initializations
+        MP.cfg.serverTime = new Date("Sun Jun 19 2016 08:12:15 +0000");
         MP.cfg.productionMode = true;
-        MP.cfg.buildVersion = "_1441975778";
+        MP.cfg.buildVersion = "_1466152421";
         MP.cfg.cookieDomain = ".miniplay.com";
         MP.cfg.thirdParty.facebook = {
         	appId      : '573355426009902', // App ID
         	pageId      : '170971266381054', // Page ID
       	    channelUrl : '//www.miniplay.com/helpers/facebook/channel.html?locale='+MP.i18n.locale_name // Channel File
         };
-                MP.cfg.minimonkey.host = '3hm.minijuegos.com';
+                MP.cfg.minimonkey.host = '217.13.118.103';
         MP.cfg.minimonkey.port = '8001';
         MP.cfg.minimonkey.enabled = true;
         MP.cfg.utmSource = null;
@@ -108,11 +107,13 @@
             "The game will start automatically in %seconds% seconds...": "The game will start automatically in %seconds% seconds..."
        });
     
-    /**
-     * TEMPORARY ADDED
-     * @todo REMOVE THIS WHEN EVENT IS FINISHED
-     */
-    MP.url.minicivil_war_arena = "http://www.miniplay.com/mini-heroes-war/arena";
+        MP.url.minicivil_war_arena = "http://www.miniplay.com/mini-heroes-war-contest/arena";
+    MP.cfg.minigames = {
+                "dragon-ball-anniversary" : {name:"Dragon Ball Anniversary",url:"http:\/\/www.miniplay.com\/dragon-ball", showInPresenceManager:true},
+"mini-shields" : {name:"Mini Shields",url:"http:\/\/www.miniplay.com\/shields", showInPresenceManager:true},
+"angry-birds-tribute" : {name:"Angry Birds Tribute",url:"http:\/\/www.miniplay.com\/angry-birds-tribute", showInPresenceManager:true}
+    };
+
 </script>
 
                 <script>
@@ -151,6 +152,33 @@ var _gaq = _gaq || [];
     </script>
 
 
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1639670619626850');
+    fbq('track', "PageView");
+
+    /* User has registered */
+    MP.user.registerEventListener("registrationCompleted", function(payload) {
+        /*console.dir(payload);*/
+        fbq('track', 'CompleteRegistration', {content_name: "Privacy"});
+    });
+    if (MP.game) {
+        MP.game.registerEventListener("ad_completed",function() {
+            setTimeout(function() {
+                fbq('track', 'ViewContent', {content_type: "game", content_name: "Privacy"});
+            }, 5000);
+        });
+    }
+
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1639670619626850&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+
         
 
     </head>
@@ -183,14 +211,21 @@ var _gaq = _gaq || [];
         <ul class="nav-list">
                         <li class="nav-item featured">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/mini-heroes-war" target="_blank" title="Mini Heroes War">
-                        <span class="icon icon-cat icon-cat-civilwar"></span>Mini Heroes War                        <span class="bullet"></span>
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/angry-birds-tribute" target="_blank" title="Angry Birds">
+                        <span class="icon icon-cat icon-cat-angrybirds"></span>Angry Birds                        <span class="bullet"></span>
+                    </a>
+                </div>
+            </li>
+                        <li class="nav-item featured">
+                <div class="nav-item-level nav-item-level-1">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/shields" target="_blank" title="Shield creator">
+                        <span class="icon icon-cat icon-cat-mini-shields"></span>Shield creator                        <span class="bullet"></span>
                     </a>
                 </div>
             </li>
                                                     <li class="js-nav-item nav-item js-nav-item-cat-8735 online-badge">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/multiplayer" title="Multiplayer Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/multiplayer" title="Multiplayer Games">
                             <span class="icon icon-cat icon-cat-multiplayer"></span>Multiplayer                        </a>
                         <span class="js-tags-usage badge tooltip badge-outlined" data-tag-id="[12]" style="display:none;">
     <span class="tooltip-inner ti-medium">Online Players</span>
@@ -218,7 +253,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6620 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/action-games" title="Action Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/action-games" title="Action Games">
                             <span class="icon icon-cat icon-cat-action"></span>Action                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -269,7 +304,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6621 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/adventure-games" title="Adventure Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/adventure-games" title="Adventure Games">
                             <span class="icon icon-cat icon-cat-adventures"></span>Adventure                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -320,7 +355,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6622 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/racing-games" title="Racing Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/racing-games" title="Racing Games">
                             <span class="icon icon-cat icon-cat-races"></span>Racing                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -371,7 +406,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6628 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/classic-games" title="Classic Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/classic-games" title="Classic Games">
                             <span class="icon icon-cat icon-cat-classics"></span>Classic                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -422,7 +457,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6623 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/sport-games" title="Sport Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/sport-games" title="Sport Games">
                             <span class="icon icon-cat icon-cat-sport"></span>Sport                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -473,7 +508,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6624 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/strategy-games" title="Strategy Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/strategy-games" title="Strategy Games">
                             <span class="icon icon-cat icon-cat-strategy"></span>Strategy                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -524,7 +559,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6625 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/management-games" title="Management Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/management-games" title="Management Games">
                             <span class="icon icon-cat icon-cat-management"></span>Management                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -575,7 +610,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6626 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/skill-games" title="Skill Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/skill-games" title="Skill Games">
                             <span class="icon icon-cat icon-cat-skill"></span>Skill                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -626,7 +661,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6627 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/board-games" title="Board Games">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/board-games" title="Board Games">
                             <span class="icon icon-cat icon-cat-board"></span>Board                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -677,7 +712,7 @@ var _gaq = _gaq || [];
                                     </li>
                             <li class="js-nav-item nav-item js-nav-item-cat-6141 ">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://www.miniplay.com/game-collections" title="Game Collections">
+                        <a class="tgr ellipsis" href="http://www.miniplay.com/game-collections" title="Game Collections">
                             <span class="icon icon-cat icon-cat-collections"></span>Collections                        </a>
                                                 <span class="nav-item-toggle js-nav-item-toggle">
                             <span class="icon icon-arrow-nav"></span>
@@ -729,35 +764,40 @@ var _gaq = _gaq || [];
             
                             <li class="nav-item">
                     <div class="nav-item-level nav-item-level-1">
-                        <a class="tgr" href="http://minitorneos.minijuegos.com" target="_blank" title="Minitorneos">
+                        <a class="tgr ellipsis" href="http://minitorneos.minijuegos.com" target="_blank" title="Minitorneos">
                             <span class="icon icon-cat icon-cat-minitorneos"></span>Minitorneos                        </a>
                     </div>
                 </li>
-            
+                        <li class="nav-item">
+                <div class="nav-item-level nav-item-level-1">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/mobile-games" title="Achievements">
+                        <span class="icon icon-cat icon-cat-mobile"></span>Mobile games                    </a>
+                                    </div>
+            </li>
 
                         <div class="nav-title">
                                 Featured games            </div>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/games-with-achievements" title="Achievements">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/games-with-achievements" title="Achievements">
                         <span class="icon icon-cat icon-cat-achievements"></span>Achievements                    </a>
                                     </div>
             </li>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/games-with-minicoins" title="Minicoins">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/games-with-minicoins" title="Minicoins">
                         <span class="icon icon-cat icon-cat-minicoins"></span>With Minicoins                    </a>
                                     </div>
             </li>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/most-played" title="Most played">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/most-played" title="Most played">
                         <span class="icon icon-cat icon-cat-mostplayed"></span>Most played                    </a>
                 </div>
             </li>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/best-rated" title="Best rated">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/best-rated" title="Best rated">
                         <span class="icon icon-cat icon-cat-bestrated"></span>Best rated                    </a>
                 </div>
             </li>
@@ -767,32 +807,32 @@ var _gaq = _gaq || [];
 
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/trophies" title="Trophy gallery">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/trophies" title="Trophy gallery">
                         <span class="icon icon-cat icon-cat-trophy"></span>Trophies                    </a>
                 </div>
             </li>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/avatars" title="Avatar center">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/avatars" title="Avatar center">
                         <span class="icon icon-cat icon-cat-avatar"></span>Avatars                    </a>
                 </div>
             </li>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/community" title="Rankings">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/community" title="Rankings">
                         <span class="icon icon-cat icon-cat-rankings"></span>Rankings                    </a>
                 </div>
             </li>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/events" title="Events">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/events" title="Events">
                         <span class="icon icon-cat icon-cat-events"></span>Events                    </a>
                 </div>
             </li>
                         <div class="nav-title" style="padding:0;"></div>
             <li class="nav-item">
                 <div class="nav-item-level nav-item-level-1">
-                    <a class="tgr" href="http://www.miniplay.com/support" title="Support">
+                    <a class="tgr ellipsis" href="http://www.miniplay.com/support" title="Support">
                         <span class="icon icon-cat icon-support"></span>Support                    </a>
                 </div>
             </li>
@@ -854,13 +894,13 @@ var _gaq = _gaq || [];
                         MP.registerEventListener("ready",function() {
             MP.userChannel.minimonkeyHandler.connect({
                 guest: true,
-                connectTimestamp: "1442012492",
-                userId: "g-34887365432222",
-                userIp: "207.241.229.31",
-                userIpLong:  3488736543,
+                connectTimestamp: "1466323935",
+                userId: "g-29277481635971",
+                userIp: "174.129.228.67",
+                userIpLong:  2927748163,
                 userCountry: "US",
-                userGeoLat: "37.769699",
-                userGeoLong: "-122.393303",
+                userGeoLat: "39.043701",
+                userGeoLong: "-77.487503",
                 pageType: "",
                 pageTypeId: ""
             }, "");
@@ -989,7 +1029,7 @@ var _gaq = _gaq || [];
                 <a href="https://twitter.com/miniplay_com" title="Twitter" target="_blank">Twitter</a>
             </li>
             <li>
-                <a href="https://plus.google.com/u/0/105767702482322373129" target="_blank" title="Google+" rel="publisher">Google+</a>
+                <a href="https://plus.google.com/105767702482322373129" target="_blank" title="Google+" rel="publisher">Google+</a>
             </li>
         </ul>
 
@@ -1099,7 +1139,10 @@ var _gaq = _gaq || [];
     });
 </script>
 
+
         
+        <!-- _1466152421 -->
+
     
 
  </body></html>
