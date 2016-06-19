@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-codecs.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127073639id_/http%3A//www.free-codecs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-codecs.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619154726id_/http%3A//www.free-codecs.com/privacy.htm) for the most accurate reproduction.*
 
 # Codecs.com | Privacy Policy : Please read carefully this Privacy Policy before using Codecs.com / Free-Codecs.com
 
@@ -18,4 +18,4 @@ If you would like more information about this practice and to know your choices 
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-If you have any questions, suggestions or complaints about our Privacy Policy please [contact us](http://free-codecs.com/contact_us.htm) immediately! 
+If you have any questions, suggestions or complaints about our Privacy Policy please [contact us](http://www.free-codecs.com/contact_us.htm) immediately! 
