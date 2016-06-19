@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zamplebox.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017213615id_/https%3A//www.zamplebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamplebox.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619105058id_/https%3A//www.zamplebox.com/privacy) for the most accurate reproduction.*
 
-# ZampleBox E-Juice Subscriptions | Privacy Policy
+# Privacy Policy
 
 ZampleBox, LLC (“ZampleBox”, “We”, “Us” or “ Our”) values your privacy and is committed to protecting your personal information. ZampleBox is an online service that delivers electronic cigarette products and supplies to its members once a month (“Services”). This Privacy Policy (“Policy”) describes how and when We collects, uses and shares your information when you use our Services. This Policy applies to our family of websites (the “Site(s)”). These include [www.zamplebox.com]() and any other sites at which this Policy appears and the memberships that you can purchase on the Site to receive products that we offer or make available through the Sites (“Membership(s)”). By using Our Sites and/or purchasing a Membership you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize We to use your information in the United States and any other country where We operates. This Policy is incorporated by reference into the ZampleBox Terms of Service. If you have any questions or comments about this Privacy Policy, please contact us at [hello@zamplebox.com](mailto:hello@zamplebox.com).
 
@@ -10,14 +10,15 @@ The information We collect from you enables us to fulfill your request for our p
 
 **Information Collected Upon Registration:** You may browse our Site without registering. If you would like to place an order, become a member, and/or request information from us then we require you to register with us and become a member on our Sites. When you create, register, or edit your We account, you provide some personal information, such as your name, email address, and password. Please safeguard your password and other personal information. You may be liable for unauthorized use of our web site, as well as have your private information used by others. In some circumstances, such as making a purchase of our products, we will request that you provide your credit card, debit card, or acceptable payment option and your billing address and shipping address. You are welcome to not provide this information, but if you do not wish to provide this information then there is no way for us to provide you with our products and Services and therefore you cannot become a member.
 
-**Information We Collect Automatically:** In addition, when you visit the Sites and/or register for Membership, we may collect certain information by automated means, such as cookies, web beacons, and other automated devices. A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Omniture, Google Analytics, and Facebook Insights), that collect information about visitor traffic on the Sites. The information we may collect by automated means includes:
+Information We Collect Automatically: In addition, when you visit the Sites and/or register for Membership, we may collect certain information by automated means, such as cookies, web beacons, and other automated devices. A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Omniture, Google Analytics, and Facebook Insights), that collect information about visitor traffic on the Sites.
 
-  * __Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, domain name and operating system type)
-  * __URLs that refer visitors to our sites
-  * __Dates and times of visits to our sites
-  * __Information on actions taken on our sites (such as page views and site navigation patterns)
-  * __A general geographic location (such as country and city) from which a visitor accesses our websites
-  * __Search terms that visitors use to reach our sites and the webpage that led you to the Sites
+  * The information we may collect by automated means includes:
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, domain name and operating system type)
+  * URLs that refer visitors to our sites
+  * Dates and times of visits to our sites
+  * Information on actions taken on our sites (such as page views and site navigation patterns)
+  * A general geographic location (such as country and city) from which a visitor accesses our websites
+  * Search terms that visitors use to reach our sites and the webpage that led you to the Sites 
 
 
 
