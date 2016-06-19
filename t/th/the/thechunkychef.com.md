@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202100638id_/http%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619133803id_/http%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
 
 # Disclaimers and Privacy Policy - The Chunky Chef
 
@@ -10,11 +10,15 @@ I publish these recipes so you can share them and encourage others to try them, 
 
 Directly copying and pasting recipes originally posted here, on The Chunky Chef, onto your website is strictly prohibited.
 
-That being said, if you do share one of my recipes, contact me (thechunkychef@gmail.com), so I can help promote your post on my social media 
-
 #### **Copyright Policy:**
 
-© The Chunky Chef 2015. Unauthorized use and/or duplication of this material and/or photographs without expressed written permission from this site’s author and/or owner is strictly prohibited. EXCERPTS and LINKS may be used, provided that full and clear credit is given to The Chunky Chef, with appropriate and specific direction to the original content.
+© The Chunky Chef 2015-2016. Unauthorized use and/or duplication of this material and/or photographs without expressed written permission from this site’s author and/or owner is strictly prohibited. EXCERPTS and LINKS may be used, provided that full and clear credit is given to The Chunky Chef, with appropriate and specific direction to the original content.
+
+**Affiliate Link/Product Policy:**
+
+The Chunky Chef is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+So, what does that mean exactly?  I’ve partnered with Amazon to share with you certain products that are recommended to me, or that I personally own and LOVE.  If you click  on the link or image provided and purchase from the amazon page it opens up, I will receive a small commission.  There will NEVER be any extra cost to you!  I whole-heartedly thank you for supporting The Chunky Chef and brands I love 🙂
 
 #### **Privacy Policy:**
 
