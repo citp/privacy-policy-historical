@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlemonkeyscrochet.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219123227id_/http%3A//littlemonkeyscrochet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlemonkeyscrochet.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620001910id_/http%3A//littlemonkeyscrochet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Little Monkeys Crochet
 
