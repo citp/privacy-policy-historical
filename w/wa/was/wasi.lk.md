@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wasi.lk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220023820id_/http%3A//www.wasi.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wasi.lk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619044030id_/http%3A//www.wasi.lk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wasi.lk | Best Prices in Sri Lanka
 
 ## Privacy Policy
 
-At wasi.lk (hereinafter referred to as “wasi”, “us”, “we”, “our”), we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by [www.wasi.lk](https://web.archive.org/web/20151220023820id_/http://www.wasi.lk/privacy-policy/) (hereinafter referred to as “wasi.lk” or the “Site”, “website”).
+At wasi.lk (hereinafter referred to as “wasi”, “us”, “we”, “our”), we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by [www.wasi.lk](https://web.archive.org/web/20160619044030id_/http://www.wasi.lk/privacy-policy/) (hereinafter referred to as “wasi.lk” or the “Site”, “website”).
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our Site. We do update this Policy from time to time so please do review this Policy regularly.
 
