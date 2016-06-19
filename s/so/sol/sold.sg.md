@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623004535id_/http%3A//www.sold.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619223603id_/http%3A//auctions.sold.sg/privacy) for the most accurate reproduction.*
 
 # Sold.sg
 
 * * *
+
+Welcome to Sold. The domains http://shop.sold.my, http://sales.sold.sg and http://auctions.sold.sg and all its relevant sub domains are sites (collectively known as "Websites") owned and operated by migme Pte Ltd. (Registration No.: 200916009E) ("Sold" "we" or "us"). 
 
 **INTRODUCTION**
 
@@ -105,7 +107,7 @@ Sold.sg NEEDS YOUR ASSISTANCE TO ENSURE THAT YOUR User Data is current, complete
 
 Users can access their personal information by using their respective username and password to gain access to their personal information.
 
-If your personal information changes, or if you no longer desire our service, you may update or remove your personal data found under My Page.
+If your personal information changes, please contact  [ **info@sold.sg**](mailto:info@sold.sg?Subject=Hello) for further assistance.
 
 We will respond to our customer’s request within a reasonable time.
 
@@ -143,6 +145,16 @@ We will amend this Privacy Policy from time to time and the updated versions wil
 
 Subject to applicable laws, the prevailing language of the Privacy Policy will be English. In the event of any inconsistency in interpretation between the English version and any translation of the Privacy Policy, this Privacy Policy statement in English shall prevail.
 
+UNSUBSCRIBE METHOD
+
+You can easily unsubscribe from our promotional emails by using the “Unsubscribe” link provided in each email without cost except the transmission costs.
+
 CONTACT US
 
 If you have comments or questions about this Privacy Policy statement, please contact us at **[info@sold.sg](mailto:info@sold.sg?Subject=Hello)** , titled “Privacy Policy”.
+
+You can also call or writing to the following:
+
+Address: 111 NORTH BRIDGE ROAD, #26-01, PENINSULA PLAZA, SINGAPORE 179098
+
+Phone: +65 6225 8817 / +603 2788 5001
