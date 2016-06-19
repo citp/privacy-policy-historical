@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221014405id_/http%3A//www.activestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619022219id_/http%3A//www.activestate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ActiveState Software
+# Privacy Policy | ActiveState
 
 Version effective date: January 17, 2014
 
@@ -51,6 +51,8 @@ A cookie is a piece of data stored on a user's hard drive, containing informatio
 We may collect information that personally identifies you (“Personal Information”) when you contact us and participate in our surveys, webinars, download our whitepapers or participate in promotional activities on our website. Personal Information may include the following categories of information: Contact Data (such as your name, company, address, email address); and Demographic Data (such as zip code). If you communicate with us by email, post messages to any of our social media channels, or otherwise complete online forms, surveys, any information provided in such communication may be collected as Personal Information. 
 
 We have opted-in to The LeadLander Contact Network. LeadLander is a web analytics tool, similar to Google Analytics. However, The LeadLander Contact Network pools together contact information collected through any of our forms or email campaigns and any other LeadLander opted-in website forms or email campaigns to identify a visitor to the Site. Whenever a visitor goes to any LeadLander opted-in website, LeadLander can display the visitor by their name and email address in its reports to its subscribers. 
+
+We work with Twitter to collect user data for conversion tracking and serving ads targeted to users’ interests. You can opt out of interest-based advertising through methods that Twitter may specify from time to time [here](https://support.twitter.com/articles/20170405). 
 
 We comply with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.). We use your email only to communicate with you about products or services that may be of interest to you. You can opt out of receiving emails from us by sending an email to [unsubscribe@activestate.com](mailto:unsubscribe@activestate.com). 
 
