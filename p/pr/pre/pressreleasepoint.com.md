@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pressreleasepoint.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219161218id_/http%3A//www.pressreleasepoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasepoint.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619052832id_/http%3A//www.pressreleasepoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PressReleasePoint
 
-[Printer-friendly version](http://www.pressreleasepoint.com/print/852573 "Display a printer-friendly version of this page.")[PDF version](http://www.pressreleasepoint.com/printpdf/852573 "Display a PDF version of this page.")
+[Printer-friendly version](http://www.pressreleasepoint.com/print/852573 "Display a printer-friendly version of this page.")
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
  
