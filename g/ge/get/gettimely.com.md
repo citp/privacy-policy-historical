@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettimely.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809020045id_/https%3A//app.gettimely.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettimely.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619034740id_/https%3A//app.gettimely.com/public/privacy) for the most accurate reproduction.*
 
 # Timely Privacy Policy
 
@@ -37,7 +37,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember that you’ve logged into Timely, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-As you browse gettimely.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](http://www.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with gettimely.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
+As you browse gettimely.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](http://www.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with gettimely.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising. 
 
 **Do we disclose any information to outside parties?**
 
@@ -50,6 +50,18 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Access to your account**
 
 To quickly and efficiently resolve customer support issues related to your account, you consent to us logging into your account from time-to-time. If you do not wish us to access your account, then you may notify us in writing.
+
+**Cross-border transfer**
+
+Timely holds your personal information on servers located in the United States of America (the U.S.)
+
+We use top-tier, third-party data hosting providers including Microsoft Azure and Amazon AWS to host our services on servers located in the U.S. If you are a non-U.S. resident, this means that your personal information will be transferred to the U.S.
+
+We have in place transfer mechanisms with all our third party data hosting providers that satisfy the requirements relating to Timely’s transfer of data from the European Union to the U.S. We also off an additional [Data Processing Agreement](http://help.gettimely.com/article/419-timely-privacy-and-the-eu) for EU customers to ensure compliance with the Safe Harbor framework 
+
+By entering personal information into Timely, you consent to that personal information being hosted on servers located in the U.S. While your personal information will be stored on servers located in the U.S., it will remain within Timely’s effective control at all times.
+
+If you do not want your personal information to be transferred to a server located in the U.S., you should not provide Timely with your personal information or use the service.
 
 **Your Consent**
 
