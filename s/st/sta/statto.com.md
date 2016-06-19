@@ -1,78 +1,8 @@
-> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215084246id_/http%3A//www.statto.com/home/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619185458id_/http%3A//www.statto.com/home/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Statto.com
 
-### News Headlines
-
-* * *
-
-### [Wales focused on 'doing a job'](http://www.bbc.co.uk/sport/0/football/35098499)
-
-Wales are determined to make an impact at next summer's European Championship, says Reading forward Hal Robson-Kanu.
-
-[BBC Sport](http://news.bbc.co.uk/sport)  »  1h
-
-* * *
-
-### [Houllier: Klopp a Liverpool fan](http://www.skysports.com/football/news/11661/10100493/jurgen-klopp-has-always-been-a-liverpool-fan-says-gerard-houllier)
-
-Gerard Houllier says Jurgen Klopp was a big Liverpool fan long before he took over at Anfield in October.
-
-[SkySports.com](http://www.skysports.com/)  »  1h
-
-* * *
-
-### [VIDEO: Five of best Premier League Bosmans](http://www.bbc.co.uk/sport/0/football/35099034)
-
-BBC Sport picks out five of the best Premier League Bosman signings on the ruling's 20th anniversary.
-
-[BBC Sport](http://news.bbc.co.uk/sport)  »  2h
-
-* * *
-
-### [Klopp’s culture clash](http://www.skysports.com/football/news/11661/10100444/jurgen-klopp8217s-celebrations-should-be-embraced-in-the-premier-league)
-
-Jurgen Klopp caused a stir on Sunday by encouraging his players to celebrate in front of the Kop following Liverpool’s late equaliser against West Brom. The German coach has been criticised but Adam Bate makes the case for greater fan interaction in the Premier League… 
-
-[SkySports.com](http://www.skysports.com/)  »  2h
-
-* * *
-
-### [Mahrez in numbers](http://www.skysports.com/football/news/11661/10100442/riyad-mahrez-in-numbers-the-leicester-man8217s-season-in-stats)
-
-Riyad Mahrez turned in another man-of-the-match performance in Leicester’s 2-1 win over Chelsea on Monday Night Football. 
-
-[SkySports.com](http://www.skysports.com/)  »  2h
-
-* * *
-
-### [Was Jose betrayed?](http://www.skysports.com/football/news/11661/10100443/jose-mourinho-felt-8216betrayed8217-by-his-chelsea-team-but-is-he-right)
-
-Chelsea's 2-1 defeat to Leicester on Monday Night Football left Jose Mourinho feeling that his work had been 'betrayed' by his players. As Chelsea's problems continues to worsen, Adam Bate examines where this leaves their beleaguered manager... 
-
-[SkySports.com](http://www.skysports.com/)  »  2h
-
-* * *
-
-### [How Bosman changed football](http://www.skysports.com/football/news/11661/10100134/how-the-bosman-rule-changed-football-20-years-on)
-
-"Once the European Court of Justice ruled that clubs no longer had to pay transfer fees after the expiration of a player's contract, all hell broke loose. Suddenly it was a free-for-all." - Sir Alex Ferguson, Leading, 2015
-
-[SkySports.com](http://www.skysports.com/)  »  2h
-
-* * *
-
-### [Mignolet's stats for concern ](http://www.skysports.com/football/news/11661/10100251/liverpools-simon-mignolet-premier-leagues-most-error-prone-goalkeeper-since-201314)
-
-After Simon Mignolet made another costly mistake in Liverpool's 2-2 draw at home to West Brom, we look at the stats behind his performances for the club. And it doesn't make good reading for the Belgium No 1.
-
-[SkySports.com](http://www.skysports.com/)  »  2h
-
-* * *
-
 ### Bookmaker Offers
-
-[](https://sports.betway.com/?s=wgs29757&mid=20395 "Betway Football EN UK �")
 
 ### Privacy policy
 
