@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231143546id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619163141id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - House of Fraser
 
