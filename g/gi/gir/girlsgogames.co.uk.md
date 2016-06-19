@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105113215id_/http%3A//www.girlsgogames.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619172718id_/http%3A//www.girlsgogames.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Games for Girls, Girl Games, Play Girls Games Online!
 
+  * [Games for girls](https://web.archive.org/)
+  * privacy policy
+
+
+
 ## PRIVACY POLICY
 
-This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that we provide on or through our websites. (Our websites, all the web pages that are part of the websites and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Arendstraat 23, 1223 RE, Hilversum, The Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act ( _Wet Bescherming Persoonsgegevens_ ). SPIL may use the services of affiliates or reputable third parties to process personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy. 
+This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that we provide on or through our websites. (Our websites, all the web pages that are part of the websites and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Mussenstraat 15, 1223 RB, Hilversum, The Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act ( _Wet Bescherming Persoonsgegevens_ ). SPIL may use the services of affiliates or reputable third parties to process personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy. 
 
 ## 1.    About Our Websites
 
