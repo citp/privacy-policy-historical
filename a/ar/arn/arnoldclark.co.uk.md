@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021114id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619165356id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
 
 # Cookies policy | Arnold Clark
 
@@ -91,7 +91,7 @@ AC_srch | Session, First Party | This cookie remembers what you searched for fro
 49a2c522799  
 ce817e01  
 b8c4aeb886  
-9f8 |   | This is an admin cookie set by the CMS.  
+9f8 |  | This is an admin cookie set by the CMS.  
 Session | Session, Third Party (Towquest) | By setting and using session cookies throughout our booking process we are able to get you back to your booking session if you happen to move away to a different page or even if you close your browser. This session cookie means that next time you return to the booking process your previous session will have been saved.  
 LoginStatus | Session, Third Party (Towquest) | If you have a registered account with us we are able to determine if you are logged in to our website using cookies. This will save you time on your next visit to the website as we will already know your details. By setting a cookie to remember your details, for your next visit, we are able to personalise your user experience and you won't have to re-enter your details every time you visit.  
 LoginName | Session, Third Party (Towquest) | We want you to feel welcome at the Arnold Clark Automobiles website so we use cookies to remember who you are if you have a registered account with us. By saving cookies, based on you account details, we can make your next visit to our website personal to you, by welcoming you back to the website by name.  
@@ -101,9 +101,9 @@ LoginName | Session, Third Party (Towquest) | We want you to feel welcome at the
 Cookie Name  |  Type  |  Purpose   
 ---|---|---  
 Mixpanel | Persistent, Third party (Mixpanel, Inc) | When visiting some parts of our website, we may set this cookie which enables us to collect information in real time about the way users interact with our site. For more information about how Mixpanel may use this information, visit: https://mixpanel.com/privacy/  
-Google Analytics (_utma, _utmb, _utmc, _utmz) | Persistent, Third party (Google) | These enable the function of Google Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That anonymous information helps us to improve the website and your browsing experience, and to make our marketing campaigns relevant. The data stored by these cookies can be seen only by the relevant teams at Arnold Clark and Google and never shows any confidential information. For more information about how Google may use this data - visit: http://www.google.com/policies/privacy/  
-Crazy Egg | Persistent | This cookie is used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, details of which can be found by following this link. http://www.crazyegg.com/privacy  
-Get Clicky cookies, (first_pv_ , _jsuid) | Persistent, Third party | These cookies allow us to track visitors to the website using Get Clicky. We can use visitor information on which pages were visted, how frequently, and for how long to improve the website and the user experience. The data stored by these cookies can be seen only by the relevant teams at Arnold Clark and Get Clicky, and never shows any confidential information. http://getclicky.com/terms  
+Google Analytics (_utma, _utmb, _utmc, _utmz) | Persistent, Third party (Google) | These enable the function of Google Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That anonymous information helps us to improve the website and your browsing experience, and to make our marketing campaigns relevant. The data stored by these cookies can be seen only by the relevant teams at Arnold Clark and Google and never shows any confidential information. For more information about how Google may use this data - visit: //www.google.com/policies/privacy/  
+Crazy Egg | Persistent | This cookie is used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, details of which can be found by following this link. //www.crazyegg.com/privacy  
+Get Clicky cookies, (first_pv_ , _jsuid) | Persistent, Third party | These cookies allow us to track visitors to the website using Get Clicky. We can use visitor information on which pages were visted, how frequently, and for how long to improve the website and the user experience. The data stored by these cookies can be seen only by the relevant teams at Arnold Clark and Get Clicky, and never shows any confidential information. //getclicky.com/terms  
 Auto Trader Dealer Display Retargeting | Persistent, Third party | This cookie is used by our advertising supplier Auto Trader to identify users of the Arnold Clark website when they subsequently visit autotrader.co.uk. This enables Auto Trader to target these users with display advertising specific to Arnold Clark. The data stored anonymously identifies a user as having visited www.arnoldclark.com.  
   
 ### Functional Cookies
@@ -116,13 +116,13 @@ showroom cookie, showroomsns | Persistent, First Party | This allows you to use 
 
 Cookie Name  |  Type  |  Purpose   
 ---|---|---  
-Google Maps cookies, (SID, HSID, NID, SAPSID, SSID, PREF) | Mostly session, Third Party | We embed Google maps on various pages within our website. The cookies set by embedded Google maps appear to detect your preferences and record usage of Google maps. Read their privacy policy here: http://www.google.com/policies/privacy/  
+Google Maps cookies, (SID, HSID, NID, SAPSID, SSID, PREF) | Mostly session, Third Party | We embed Google maps on various pages within our website. The cookies set by embedded Google maps appear to detect your preferences and record usage of Google maps. Read their privacy policy here: //www.google.com/policies/privacy/  
 _utma, | Persistent, Third Party | Refers to the number of times you have visited our website and the first and the last visit times.  
 _utmb | Persistent, Third Party | Google Analytics cookies that contain timestamps of time you enter and leave our website.  
 _utmc | Session Third Party | Google Analytics cookies that contain timestamps of time you enter and leave our website.  
 _utmz | Persistent, Third Party | Google Analytics cookie that tracks which search engine you have used to come to this website, which keyword(s) you used to find the website, which link(s) you have clicked on within the website and where you were located when you clicked that link.  
   
-To find out even more about cookies, visit <http://www.aboutcookies.org/>
+To find out even more about cookies, visit [//www.aboutcookies.org/](https://www.aboutcookies.org/)
 
 ## IP Addresses
 
