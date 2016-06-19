@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231111919id_/http%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619110728id_/http%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
 
 # Tarot.com's Privacy Policy
 
@@ -67,7 +67,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### Third-Party Advertising
 
-The ads appearing on this website are delivered to you by AdTech, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. For more information about AdTech, cookies, and how to "opt-out", please **[click here](http://adserverec.adtechus.com/setoptoutcookie "AdTech opt-out")**.
+The ads appearing on this website are delivered to you by DFP, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad, is used to serve ads to you. For more information about AdTech, cookies, and how to "opt-out", visit **[Digital Advertising Alliance's (DAA) Consumer Choice](http://www.aboutads.info/choices "Digital Advertising Alliance Consumer Choice")**. 
 
 ### Surveys
 
