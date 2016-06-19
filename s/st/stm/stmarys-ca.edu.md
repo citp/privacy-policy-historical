@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the stmarys-ca.edu privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214155516id_/http%3A//www.stmarys-ca.edu/college-communications/guidelines-resources/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stmarys-ca.edu privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619063413id_/http%3A//www.stmarys-ca.edu/college-communications/guidelines-resources/web-privacy) for the most accurate reproduction.*
 
 # Web Privacy | Saint Mary's College
 
-We are committed to maintaining your confidence and trust, and accordingly maintain the following Web Privacy Policy to protect the personal information you provide online.
-
 #### Our Commitment to Privacy
 
-We are committed to maintaining your confidence and trust, and accordingly maintain the following Web Privacy Policy to protect the personal information you provide online. Saint Mary’s College of California (“Saint Mary’s”) will not distribute or sell personal information to third-party organizations that has been collected from you while visiting our website, unless the form or page to which you are submitting personal information specifically indicates that such sale or distribution is contemplated. Please note further, as described in this policy, that some components of our website are operated by third parties and thus subject to additional terms found in the policies of those third parties. In such cases, there will be a link to the privacy policies of the third party, as described later in this policy.
+Saint Mary’s College of California (Saint Mary’s) will not distribute or sell personal information to third-party organizations that has been collected from you while visiting our website, unless the form or page to which you are submitting personal information specifically indicates that such sale or distribution is contemplated. Please note further, as described in this policy, that some components of our website are operated by third parties and thus subject to additional terms found in the policies of those third parties. In such cases, there will be a link to the privacy policies of the third party, as described later in this policy.
 
 #### Information Collected
 
@@ -19,7 +17,7 @@ We are committed to maintaining your confidence and trust, and accordingly maint
 
   * Saint Mary’s may use personal information collected online for the purpose of future communication, in order to keep you informed of such activities as programs and/or special events, but only if you are provided the opportunity to opt out of such communications.
   * Saint Mary’s may use browser-IP-address information to report information about site access. This information is used to improve the user experience of our site, but may also used for troubleshooting purposes.
-  * Some Saint Mary’s sites may use "cookies" in order to deliver web content specific to individual users’. Personally indentifying information is not stored within cookies.
+  * Some Saint Mary’s sites may use "cookies" in order to deliver web content specific to individual users. Personally identifying information is not stored within cookies.
 
 
 
@@ -37,7 +35,7 @@ We are committed to maintaining your confidence and trust, and accordingly maint
 
 #### Responsibility for External Sites
 
-  * Some parts of the Saint Mary’s web site are maintained or operated by third parties to which Saint Mary’s has specifically outsourced such maintenance and operation for the delivery of enhanced services (For example the athletic information site “smcgaels.com”). You should review the privacy policies of such third parties by visiting the links included within those areas of the Saint Mary’s web site, as their policies may differ from this policy and they may use information consistent with their own policies.
+  * Some parts of the Saint Mary’s web site are maintained or operated by third parties to which Saint Mary’s has specifically outsourced such maintenance and operation for the delivery of enhanced services (For example, the athletic information site smcgaels.com). You should review the privacy policies of such third parties by visiting the links included within those areas of the Saint Mary’s web site, since their policies may differ from this policy and they may use information consistent with their own policies.
 
 
 
@@ -49,7 +47,7 @@ We are committed to maintaining your confidence and trust, and accordingly maint
 
 #### How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please send us an e-mail at [privacy@stmarys-ca.edu](mailto:privacy@stmarys-ca.edu) or via mail to:  
+Should you have other questions or concerns about this Privacy Policy, please write to us at [privacy@stmarys-ca.edu](mailto:privacy@stmarys-ca.edu) or through the postal service at:  
 Office of College Communications  
 P.O. Box 5165  
 Moraga, CA 94575-5165  
