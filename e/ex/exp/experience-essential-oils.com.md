@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206222833id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619025908id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -56,7 +56,7 @@ Your use of this site indicates acceptance of this privacy policy. Thank you for
 
 [Return from **Privacy Policy** to **Experience Essential Oils**](http://www.experience-essential-oils.com/)
 
-_**Ready to Discover All of   YOU in 2015?**_
+_**Ready to Discover All of   YOU in 2016?**_
 
 [ **Find the Gift of You   and Your Inner GPS with Nan's Coaching and Intuitive Guidance **](http://www.experience-essential-oils.com/nan-martin-client-testimonials.html)  
 
