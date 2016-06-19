@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the parknshop.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121132721id_/http%3A//www.parknshop.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parknshop.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619231818id_/http%3A//www.parknshop.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PARKnSHOP.com
-
-[Home](https://web.archive.org/) > **Privacy Policy**
 
 Our Pledge
 
@@ -18,7 +16,7 @@ At times, you may be asked to provide your personally identifiable information (
 
 Security
 
-All personal data you provide to us is secured on our website with restricted access by authorized personnel only. Our online registration process uses the SSL protocol link for data transmission so as to protect your data via encrypting it in a secure format to ensure its privacy is maintained.
+All personal data you provide to us is secured on our website with restricted access by authorized personnel only. Our online registration process uses the TLS protocol link for data transmission so as to protect your data via encrypting it in a secure format to ensure its privacy is maintained.
 
 Enquiries
 
@@ -35,9 +33,9 @@ Please note that this Statement may be amended from time to time without prior n
 Personal Information Collection Statement (“PICS”)
 
   1. As a PARKnSHOP customer, it may be necessary for you to provide us with your Personal Data when you apply to us and / or continue to subscribe with us for a service and / or product ("Services"). If your Personal Data is incomplete or incorrect, we may not be able to provide or continue to provide the Services to you.
-  2. We shall keep your Personal Data confidential at all times. Our policies and practices with respect to the collection, use, retention, disclosure, transfer, security and access of Personal Data will be in accordance with the laws of Hong Kong and are as set out in this PICS. 
+  2. We shall keep your Personal Data confidential at all times. Our policies and practices with respect to the collection, use, retention, disclosure, transfer, security and access of Personal Data will be in accordance with the laws of Hong Kong and are as set out in this PICS.
   3. In this PICS, the following terms shall have the following meaning:   
-"Our affiliates" - means companies within Hutchison Whampoa Limited, which operate Retail Goods or Services business.  
+"Our affiliates" - means companies within CK Hutchison Holdings Limited, which operate Retail Goods or Services business.  
 "Our subsidiaries" - means all the retail and manufacturing divisions operating under A. S. Watson Group offering goods or services to consumers, including health & beauty products, food and groceries, water and beverages, wine and electronics and electrical appliances, all being related to the nature of business of PARKnSHOP, International, Fusion, Express, Fortress, Watsons, Great, Taste, Gourmet and SU-PA-DE-PA.  
 "Retail Goods or Services" - means sales of goods or provision of services in relation to any of the following (whether through physical or online channels): food & beverages, restaurants, catering, groceries and household products, general merchandise, health & beauty, pharmaceutical products, fragrance & cosmetics, wine and liquor, cigarette and cigar, stationery, books and paper products, confectionary & toys, clothing, shoes, baby products, pets products, fashion accessories, bags & luggage,jewellery, watches, furniture, plants and accessories, sports & leisure equipment, phones & mobile devices, electronics & electrical appliances, computer software and games, fuel, motor vehicle service.
   4. You agree that all the Personal Data provided by you to us may be used and retained by us for the following purposes and for other purposes as may be agreed between you and us or required by law from time to time: 
@@ -56,7 +54,7 @@ Personal Information Collection Statement (“PICS”)
   5. We would also like to use your Personal Data (including your name, telephone number, address and email address and other information provided to us when you register) for direct marketing to you (whether by post, email, phone, SMS or the like) in relation to: 
     1. offers and promotions from us;
     2. offers and promotions offered by our subsidiaries and our affiliates;
-    3. offers and promotions from other companies within Hutchison Whampoa Limited, in relation to telecommunication goods and/or services, e-commerce services, insurance products and services, hotel and tourism services and real property and related services;
+    3. offers and promotions from other companies within CK Hutchison Holdings Limited, in relation to telecommunication goods and/or services, e-commerce services, insurance products and services, hotel and tourism services and real property and related services;
     4. other offers and promotions from the third party merchants that we cooperate with to provide benefits to our members in relation to the following types of products or services: 
       1. Retail Goods or Services (as defined above)
       2. Financial, insurance, banking and credit cards;
