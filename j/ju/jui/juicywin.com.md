@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903045833id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619214107id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Juicy Win - Win Prizes Every Week and Gain Entry into Our £250,000 Prize Draw
 
