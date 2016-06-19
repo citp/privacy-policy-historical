@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codedwap.com.ng privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219121531id_/http%3A//www.codedwap.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codedwap.com.ng privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619182425id_/http%3A//www.codedwap.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Codedwap
 
@@ -13,8 +13,6 @@ Like many other Web sites, www.codedwap.com makes use of log files. The informa
 **Cookies and Web Beacons**
 
 www.codedwap.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
- **CLICK ON BELOW IMAGE TO LEARN HOW TO MAKE $$$ ONLINE**
 
 **DoubleClick DART Cookie**
 
