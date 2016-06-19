@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tutorialspoint.com privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230134358id_/http%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tutorialspoint.com privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620014255id_/http%3A//www.tutorialspoint.com/about/about_privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
 <!-- Basic -->
@@ -25,6 +25,7 @@
 <link rel="stylesheet" type="text/css" href="/theme/css/ie8.css">
 <![endif]-->
 <style>
+.fa-camera:before{content:"\f03d";font-family:FontAwesome;font-style:normal;font-size:100%}
 div.feature-box div.feature-box-icon, .col-md-3 .course-box, li.heading, div.footer-copyright { background: #316441 url(/images/pattern.png) repeat center center !important;}
 .sub-main-menu .sub-menuu div:hover, .sub-main-menu .viewall, header nav ul.nav-main li a:hover, button.btn-responsive-nav, header div.search button.btn-default { background: #316441 !important;}
 .submenu-item{ border-bottom: 2px solid #316441 !important; border-top: 2px solid #316441 !important }
@@ -47,59 +48,40 @@ $(document).ready(function() {
    </div>
 </div>
 <header>
+   <div class="submenu-item sub-main-menu" id="top-sub-menu"></div>
    <div class="container">			
       <h1 class="logo">
       <a href="index.htm" title="tutorialspoint">
       <img alt="tutorialspoint" src="/about/images/logo.png">
       </a>
-      </h1>			
-      <div class="search" id="searchBar">
-         <form method="get" class="searchform" name="searchform" action="http://www.google.com/search" target="_blank">
-            <input type="hidden" name="sitesearch" value="www.tutorialspoint.com">
-            <div class="input-group">
-               <input type="text" class="form-control search" name="q" autocomplete="off" placeholder="Search your tutorials..." onfocus="if (this.value == 'Search your tutorials...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search your tutorials...';}">
-               <input value="FORID:11" name="cof" type="hidden">
-               <input type="hidden" name="ie" value="ISO-8859-1">
-               <span class="input-group-btn"> <button class="btn btn-default" type="submit" onclick="javascript:void(0);"><i class="icon icon-search"></i></button> </span>
-            </div>
-         </form>
-      </div>
-      <nav>
-         <ul class="nav nav-pills nav-top">
-            <li style="background: #F9EC18;     -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; border:1px solid #d6d6d6"> <a href="about/current_projects.htm"><i class="icon icon-gears"></i> &nbsp;Project Work</a> </li>
-            <li> <a href="/shared-tutorials.php"><i class="icon icon-user"></i> &nbsp;Shared</a> </li>
-            <li> <a href="/articles/index.php"><i class="icon icon-file-text-o"></i> &nbsp;Articles</a> </li>
-            <li> <a href="/questions_and_answers.htm"><i class="fa fa-question"></i> &nbsp;Quizzes</a> </li>
-            <li class="top-icons" style="display:none;">
-              <ul class="social-icons">
-              <li class="facebook"><a href="https://www.facebook.com/tutorialspointindia" target="_blank" data-placement="bottom" title="tutorialspoint @ Facebook">Facebook</a></li>
-              <li class="googleplus"><a href="https://plus.google.com/u/0/116678774017490391259/posts" target="_blank" data-placement="bottom" title="tutorialspoint @ Google+">Google+</a></li>
-              <li class="twitter"><a href="http://www.twitter.com/tutorialspoint" target="_blank" data-placement="bottom" title="tutorialspoint @ Twitter">Twitter</a></li>
-              <li class="linkedin"><a href="http://www.linkedin.com/company/tutorialspoint" target="_blank" data-placement="bottom" title="tutorialspoint @ Linkedin">Linkedin</a></li>
-              <li class="rss"><a href="http://feeds.feedburner.com/SharedTutorials" target="_blank" data-placement="bottom" title="tutorialspoint RSS">RSS</a></li>
-              </ul>
-           </li>
-         </ul>
-      </nav>
-         <!-- search code here  --> 
+      </h1>
+<!-- We are hiring  STARTS -->
+<div style="position:relative;top:-20px; left:400px;">
+<ul style="list-style-type: none">
+<li> <a href="about/about_careers.htm" style="background: #f7e75d; padding:5px;"><i class="icon icon-suitcase"></i> We are hiring</a> </li>   
+</ul>
+</div>
+<!-- We are hiring  END -->
       <button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse" id="pull"> <i class="icon icon-bars"></i> </button>
-   </div>
-   <div class="navbar nav-main">
+      <div class="navbar nav-main">
       <div class="container">
-         <nav class="nav-main mega-menu">
+         <nav class="nav-main mega-menu" style="top:-28px;">
             <ul class="nav nav-pills nav-main" id="mainMenu">
                <li class="dropdown no-sub-menu"> <a class="dropdown" href="index.htm"><i class="icon icon-home"></i> Home</a> </li>   
                <li class="dropdown" id="liTL"><a class="dropdown" href="javascript:void(0);"><span class="tut-lib"> Tutorials Library  <i class="fa-caret-down"></i></span></a></li>
                <li class="dropdown no-sub-menu"><a class="dropdown" href="codingground.htm"><i class="fa-code"></i> Coding Ground </a> </li>
-               <li class="dropdown no-sub-menu"><a class="dropdown" href="https://www.send18.com" target="_blank"><i class="fa fa-send"></i>  Send18</a></li>
-               <li class="dropdown no-sub-menu"><a class="dropdown" href="online_file_conversion.htm"><i class="icon icon-refresh"></i>  Conversion</a></li>
-               <li class="dropdown no-sub-menu"><a class="dropdown" href="online_dev_tools.htm"><span class="dev-tools-menu">  Dev Tools</span></a></li>
+               <li class="dropdown no-sub-menu"><a class="dropdown" href="tutor_connect/index.php"><i class="fa-user"> </i> Tutor Connect</a></li>
+               <li class="dropdown no-sub-menu"><a class="dropdown" href="https://www.send18.com/" target="_blank"><i class="fa-paper-plane-o"> </i> Send18</a></li>
+               <li class="dropdown no-sub-menu"><a class="dropdown" href="online_dev_tools.htm"><span class="dev-tools-menu">  Tools</span></a></li> 
             </ul>
          </nav>
-         <div class="submenu-item sub-main-menu" id="top-sub-menu"></div>
+         <div class="searchform-popup" style="top:0px;">
+            <input class="header-search-box" type="text" id="search-string" name="q" placeholder="Search your favorite tutorials..." onfocus="if (this.value == 'Search your favorite tutorials...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search your favorite tutorials...';}" autocomplete="off">
+            <div class="magnifying-glass"><i class="icon-search"></i> Search </div>
+        </div>
       </div>
-   </div>	
-</header>
+     </div>	
+</div></header>
 <div style="clear:both;"></div>
 <div role="main" class="main">
 <div class="container">
@@ -314,7 +296,7 @@ google_ad_height = 250;
    </nav>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
-<p>© Copyright 2015. All Rights Reserved.</p>
+<p>© Copyright 2016. All Rights Reserved.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
    <div class="news-group">
