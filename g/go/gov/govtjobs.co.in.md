@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobs.co.in privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216212542id_/http%3A//www.govtjobs.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobs.co.in privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619083945id_/http%3A//www.govtjobs.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ You can find additional information in Appendix A of the NAI Self-Regulatory pri
  **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. Controlling your personal information .
 
-#### 
+###### 
 
-govt jobs notifications, govt engineering job, bihar police job, Govt uv, sectors of upsc, Government Vacancy in Maharashtra, hpsssb hamirpur, exam for government jobs, sarkari naukri of central government, taminadu goverment jobs
+tamilnadu govt secretariat latest direct requirement jobs, UCIL COMPANY JADUGODA ANY VACANCY, government jobs for legal advisor, boiler inspector recruitment maharastra, central government jobs notifications, gov in bihar in electrical, govt navy staff nurse vacancy, central government job vecancies in andhra, HPSSSB Hamirpur clerkrecruitment, employment mews
 
