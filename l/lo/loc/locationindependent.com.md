@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the locationindependent.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218054052id_/http%3A//locationindependent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locationindependent.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619122332id_/http%3A//locationindependent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Location Independent
+# Privacy Policy | Location Independent
 
 This policy (together with our [terms of website use](http://locationindependent.com/terms-of-website-use/) and any other documents referred to on it) sets out the basis on which we, sole trader Lea Woodward trading as Location Independent, will process any personal data we collect from you, or which you provide to us, in the course of using our site www.locationindependent.com
 
