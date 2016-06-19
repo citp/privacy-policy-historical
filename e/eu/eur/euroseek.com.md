@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the euroseek.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015015653id_/http%3A//www.euroseek.com/content/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroseek.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619201616id_/http%3A//www.euroseek.com/content/18) for the most accurate reproduction.*
 
-# Euroseek.com - Trusted Web Directory Since 1996
+# Euroseek.com - Trusted Web Directory Since 1996 @ the First European Web Directory, Euroseek.com
 
 This statement is intended to clarify our commitment to protecting your privacy, as well to be sure that you are comfortable with the steps we have taken to provide a satisfactory experience in using the EuroSeek directory. This statement explains our current information gathering process, which is subject to change without notice. We suggest that you review this Privacy Policy from time to time to update yourself on any such changes.
 
