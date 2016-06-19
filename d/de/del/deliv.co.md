@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliv.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906221849id_/http%3A//www.deliv.co/deliv-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliv.co privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619143427id_/http%3A//www.deliv.co/deliv-privacy-policy) for the most accurate reproduction.*
 
-# Deliv
+# Deliv Privacy Policy - Deliv
 
 Deliv allows people using our technology and services to have merchandise purchased from participating retailers to be delivered directly to a person’s doorstep. Deliv knows that users of our technology and services care about how their personal information can be used and shared, and Deliv takes privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Deliv website or using our technology or services, you are accepting the practices outlined in this privacy policy (“ **Privacy Policy** ”).
 
