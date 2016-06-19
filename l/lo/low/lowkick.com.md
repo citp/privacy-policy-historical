@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221085627id_/http%3A//www.lowkickmma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619230905id_/http%3A//www.lowkickmma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LowKick MMA
 
@@ -20,6 +20,6 @@ Customers may prevent their information from being used for purposes other than 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-**E-Mail Policy**
+ **E-Mail Policy**
 
-LowKick.com does not sell, rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission. 
+LowKick.com does not sell, rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission.
