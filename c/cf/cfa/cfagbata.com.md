@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109202538id_/http%3A//www.cfagbata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619174309id_/http%3A//www.cfagbata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
 ### Welcome to the Privacy Policy page of www.cfagbata.com, also Conditioned for Accomplishments (the “Site”).
 
-We understand that privacy online is important to users of our Site and this policy governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various [services](http://www.cfagbata.com/services/) offered by cfagbata.com (collectively, “Services”) (“Authorized Customers”).
+We understand that privacy online is important to users of our Site and this policy governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by cfagbata.com (collectively, “Services”) (“Authorized Customers”).
 
 **cfagbata.com respects your privacy**
 
