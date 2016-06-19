@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the edensavr.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001609id_/http%3A//www.edensavr.org/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edensavr.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619204750id_/http%3A//www.edensavr.org/static/privacy) for the most accurate reproduction.*
 
 # Edensavr | Privacy Statement
-
-  
-
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
