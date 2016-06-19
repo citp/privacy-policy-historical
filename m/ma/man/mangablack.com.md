@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mangablack.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916000316id_/http%3A//www.mangablack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangablack.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619051458id_/http%3A//www.mymanga.me/privacy.php) for the most accurate reproduction.*
 
-# MangaBlack - The manga viewer you have always wanted
+# My Manga - The manga viewer you have always wanted
 
-The following webpage outlines MangaBlack's collection and use of personal information from it's users. MangaBlack.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to MangaBlack with anyone. This includes your e-mail address, name and location.
+The following webpage outlines MyManga's collection and use of personal information from it's users. MyManga.me values the privacy of our members and users, we will never share any personal information of anybody who logs on to MyManga with anyone. This includes your e-mail address, name and location.
 
 **Cookies & 3rd Party Advertisements**
 
@@ -12,16 +12,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Disclosing Information**
 
-MangaBlack may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of MangaBlack, users of the MangaBlack website, and the public.
+MyManga may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of MyManga, users of the MyManga website, and the public.
 
 **Security**
 
-At MangaBlack we make reasonable efforts to protect personal information such as passwords. We urge you to use a unique password with both letters and numbers to protect your account on MangaBlack and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated.
+At MyManga we make reasonable efforts to protect personal information such as passwords. We urge you to use a unique password with both letters and numbers to protect your account on MyManga and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated.
 
 **Third Parties**
 
-Third Party websites may collect information from users of MangaBlack, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
+Third Party websites may collect information from users of MyManga, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Website Policy Changes**
 
-MangaBlack reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at MangaBlack.com.
+MyManga reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at MyManga.me.
