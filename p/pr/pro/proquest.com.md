@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proquest.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175318id_/http%3A//www.proquest.com/about/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proquest.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619174808id_/http%3A//www.proquest.com/about/privacy-statement.html) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -8,7 +8,7 @@ This Privacy Policy ("Privacy Policy" or "Policy") governs all websites owned or
 
 You should review this Privacy Policy in conjunction with any applicable Terms of Use and/or other governing agreement posted by us on the ProQuest Sites such as any Community Guidelines that may be posted on certain Sites (collectively, "Governing Agreements"). If there is any conflict between a Governing Agreement posted on a ProQuest Site and this Privacy Policy, this Privacy Policy shall control all matters regarding the use, collection and/or sharing of information we may obtain through your use of the ProQuest Sites. This Privacy Policy, including the [My Research](https://web.archive.org/about/privacy-my-research.html) Privacy Information and the [Pivot and Scholar Universe Privacy Information](https://web.archive.org/about/Pivot-and-Scholar-Universe-Privacy-Information.html), both of which are incorporated and contained herein, is incorporated into and is part of any Governing Agreement posted on the Site, and together these documents are the overall agreement between you and ProQuest.
 
-THIS POLICY WAS LAST MODIFIED ON: March 5, 2012
+THIS POLICY WAS LAST MODIFIED ON: APRIL 6, 2016
 
 **The ProQuest promise**
 
@@ -202,5 +202,3 @@ In compliance with the US-EU Safe Harbor Principles, ProQuest commits to resolve
 Kevin Norris, Senior VP and General Counsel  
 789 E. Eisenhower Parkway, P.O. Box 1346  
 Ann Arbor, MI 48106-1346
-
-ProQuest has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ProQuest, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
