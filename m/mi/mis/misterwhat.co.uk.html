@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the misterwhat.co.uk privacy policy that was archived on 2015-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151216155521id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the misterwhat.co.uk privacy policy that was archived on 2016-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619215324id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
     <link href="http://cdn.misterwhat.com/apple-touch-icon.png" rel="apple-touch-icon">
@@ -24,12 +24,12 @@
     
     
     <!-- Bootstrap -->
-    <link href="http://www.misterwhat.co.uk/css/bootstrap.css" rel="stylesheet" media="screen">   
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//www.misterwhat.co.uk/css/bootstrap.css" rel="stylesheet" media="screen">   
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
     <!--[if IE 7]>
-	<link rel="stylesheet" href="http://www.misterwhat.co.uk/css/font-awesome-ie7.min.css">
+	<link rel="stylesheet" href="//www.misterwhat.co.uk/css/font-awesome-ie7.min.css">
     <![endif]-->
-    <link media="all" type="text/css" href="http://www.misterwhat.co.uk/css/css.php?ver=3.3" rel="stylesheet">
+    <link media="all" type="text/css" href="//www.misterwhat.co.uk/css/css.php?ver=3.3" rel="stylesheet">
     
 
 
@@ -286,8 +286,7 @@ FABULABS S.R.L. - Via Ticinello 22 - 27100 Pavia - ITALY - Email: <img style="he
 11.1 If some provisions of these Terms, in whole or in part, are no longer valid, or will lose their legal effect later, the validity of the Terms will not be affected more than that. Instead of the inefficient regulations the legal provisions will come in force automatically. The same applies in case of any possible omissions in the terms.
 
 
-<br id="cookies"><br>
-
+<a id="cookies" style="display: block; height: 90px;"></a>
 <h3>12. Cookies</h3>
 
 <br>
@@ -348,7 +347,7 @@ Italy
 <footer>
     <div class="container">
 	<p class="text-muted"></p><div>
-	<b>MisterWhat</b> Copyright © 2011-2015 <br>
+	<b>MisterWhat</b> Copyright © 2011-2016 <br>
 	<a href="http://www.misterwhat.co.uk/content/about-us">About MisterWhat</a> - 
 	<a href="http://www.misterwhat.co.uk/content/terms">Terms of use - Privacy policy - Cookies</a> - 
 	<a href="http://www.misterwhat.co.uk/content/faq">FAQ</a></div><p></p>
@@ -356,12 +355,26 @@ Italy
 </footer>
 
 <div id="cookie-wrap"></div>
-<script type="text/javascript" src="http://www.google.com/jsapi"></script><script type="text/javascript" charset="utf-8"></script><script type="text/javascript" src="http://www.misterwhat.co.uk/js/js.php?ver=3.0"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script><script type="text/javascript" charset="utf-8"></script><script type="text/javascript" src="//www.misterwhat.co.uk/js/js.php?ver=3.0"></script>
 <!-- script src="/js/jquery.glide.min.js"></script -->
 <script type="text/javascript">
 $(".inpwrap").mouseenter(function() { $(this).find("i").show(); }) .mouseleave(function() { $(this).find("i" ).hide(); });
 $(".inpwrap .icon-remove-sign").live("click",function(){$(this).parent().find("input").val("").focus()});
 
+
+$(function() {
+  $('#cookie-wrap').load('/ajax/cookiewarn.php', function() {
+    $('#cookie-wrap').fadeIn(1000);
+    $('body').on('click', '#cookie-ok, .cookieok', function() {
+      var exdate=new Date();
+      exdate.setDate(exdate.getDate() + 3650);
+      var c_value=escape('1') + ';expires=' + exdate.toUTCString();
+      document.cookie='MW_CCTRL' + '=' + c_value;
+      $('#cookie-wrap').fadeOut();
+    });
+  });
+
+});
 
 
 </script>
