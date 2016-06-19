@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsuzuki.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216223045id_/http%3A//www.davidsuzuki.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsuzuki.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619073820id_/http%3A//www.davidsuzuki.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About us | David Suzuki Foundation
 
@@ -74,7 +74,7 @@ If you would like to **stop receiving email** from us at any time, click the uns
 
 If you would like to **stop receiving mail solicitations or our paper newsletter** from us, please email [communitygiving@davidsuzuki.org](mailto:communitygiving@davidsuzuki.org). You can also reach us by phone at 1-800-453-1533 ext 1500.
 
-Upon reasonable request and notice, you may view and have corrections made to the personal information we hold about you, subject to any legal or contractual restrictions. If you are aware of any inaccuracies in the personal information we hold about you or to remove all of your information from our databases, please contact our [privacy officer](mailto:%70%72%69%76%61%63%79%40%64%61%76%69%64%73%75%7A%75%6B%69%2E%6F%72%67), Jasmine Yen.
+Upon reasonable request and notice, you may view and have corrections made to the personal information we hold about you, subject to any legal or contractual restrictions. If you are aware of any inaccuracies in the personal information we hold about you or to remove all of your information from our databases, please contact our [privacy officer](mailto:%70%72%69%76%61%63%79%40%64%61%76%69%64%73%75%7A%75%6B%69%2E%6F%72%67), Janice Allardyce.
 
 ### Ways to prevent us from collecting "anonymous" data
 
@@ -87,6 +87,8 @@ Our websites use cookies and JavaScript-based tracking scripts to collect the an
 In order to communicate with you, we sometimes work with external organizations and have them contact you on our behalf. We require them to take measures to properly safeguard your information and only use it for the purpose specified by us, in a manner consistent with this policy.
 
 For example, we work with a mailing company that sends out our fundraising letters. We give them a list of names and mailing addresses of people we want to contact. They sort the lists, print the letters, stuff the envelopes and drop the mail off at Canada Post, who delivers it to your door. Another example is that we use an email tool to send out our e-newsletters.
+
+We sometimes send personal information to outside organizations who help us better communicate with you. We only work with organizations that have comprehensive security and confidentiality policies, including written policies that do not allow them to use or share your information with anyone other than the David Suzuki Foundation.
 
 ### Email addresses
 
@@ -108,7 +110,7 @@ We may change this policy from time to time without notice. Changes will be refl
 
 ## Need more information?
 
-For further information, please contact our Privacy Officer, Jasmine Yen, by email at [privacy@davidsuzuki.org](mailto:privacy@davidsuzuki.org) and by mail to   
+For further information, please contact our Privacy Officer, Janice Allardyce, by email at [privacy@davidsuzuki.org](mailto:privacy@davidsuzuki.org) and by mail to   
 219 — 2211 West 4th Avenue, Vancouver, B.C. V6K 4S2.
 
 This document is available to the public and explains how we collect, use and disclose information, in accordance with this policy, the _Personal Information and Electronic Documents Act_ , the _Personal Information Protection Act_ and other relevant legislation.
