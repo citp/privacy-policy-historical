@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medixselect.com privacy policy that was archived on 2015-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151030081112id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medixselect.com privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620071705id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -426,163 +426,20 @@ setPromoCookie("thisPCClick", "1");
 </tr>
 <tr id="layout.default.row.row2">
 <td id="layout.default.row.row2.target.left" colspan="1">
-<!-- BEGIN AddThisSocialMediaIntegration_JS Content Block -->
-<table id="block.addthissocialmediaintegration_js" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><script type="text/javascript">
-var script = document.createElement('script');
-script.type = 'text/javascript';
-script.src = window.location.protocol == 'https:' ? 'https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9' : 'http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9';
-document.body.appendChild(script);
-/*
-* ShareBar - Creates a dynamic, vertical sharing bar to the left of a WordPress post and hides it if browser window is too small
-* Copyright 2010 Monjurul Dolon, http://mdolon.com/
-* Released under the MIT, BSD, and GPL Licenses.
-* More information: http://devgrow.com/sharebar
-*
-* MODIFICATION by TBRYMORA 4-2-12
-* animate Medix logo for better fit of social media bar below
-* slide logo link up by removing top padding of 25px when social media bar has to display below logo
-* and move the logo down by adding 25px of padding to top of it.
-*
-* relevant lines between 'start' and 'end' comments in sharebar_resize function
-*/
-jQuery.fn.sharebar = function(options) {
-var defaults = {horizontal: true, swidth: 65, minwidth: 1000, position: 'left', leftOffset: 20, rightOffset: 10};
-var opts = jQuery.extend(defaults, options); var o = jQuery.meta ? jQuery.extend({}, opts, jQueryjQuery.data()) : opts;
-var w = jQuery(window).width();
-var sharebar = jQuery('#sharebar');
-var sharebarx = jQuery('#sharebarx');
-var parent = jQuery(sharebar).parent().width();
-var start = sharebar_init();
-function sharebar_init(){
-jQuery(sharebar).css('width',o.swidth+'px');
-if (o.position == 'left') jQuery(sharebar).css('marginLeft',(0-o.swidth-o.leftOffset));
-else {
-jQuery(sharebar).css('marginLeft',(parent+o.rightOffset));
-}
-if(w < o.minwidth && o.horizontal) jQuery(sharebarx).slideDown();
-else jQuery(sharebar).fadeIn();
-jQuery.event.add(window, "scroll", sharebar_scroll);
-jQuery.event.add(window, "resize", sharebar_resize);
-return jQuery(sharebar).offset().top;
-}
-function sharebar_resize() {
-var w = jQuery(window).width();
-if(w<o.minwidth){
-jQuery(sharebar).fadeOut();
-if(o.horizontal) {
-jQuery(sharebarx).slideDown();
-/* START tbrymora 4-2-12: animate Medix logo up */
-$("a.logoMain").animate({ 'padding-top':0 });
-/* END tbrymora 4-2-12 */
-}
-}else{
-jQuery(sharebar).fadeIn();
-if(o.horizontal) {
-jQuery(sharebarx).slideUp();
-/* START tbrymora 4-2-12: animate Medix logo down */
-$("a.logoMain").animate({ 'padding-top':25 });
-/* END tbrymora 4-2-12 */
-}
-}
-}
-function sharebar_scroll() {
-var p = jQuery(window).scrollTop();
-var w = jQuery(window).width();
-jQuery(sharebar).css('position',((p+10)>start) ? 'fixed' : 'absolute');
-jQuery(sharebar).css('top',((p+10)>start) ? '10px' : '');
-}
-};
-jQuery(document).ready(
-function($){
-$('#sharebar').sharebar({
-horizontal:'true',
-swidth:'75',
-minwidth:1125,
-position:'left',
-leftOffset:20,
-rightOffset:20
-});
-}
-);
-</script></td>
-</tr>
-</tbody></table>
-<!-- END AddThisSocialMediaIntegration_JS Content Block -->
 <!-- BEGIN AddThisSocialMediaIntegration Content Block -->
 <table id="block.addthissocialmediaintegration" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
-<td><style type="text/css">
-/* share bar plugin style only */
-body ul#sharebar {
-display: none;
-position: absolute;
-width: 75px;
-float: left;
-background: #fff;
-padding: 0;
-margin-top:71px!important;
-text-align: center;
-border: 1px solid #ccc;
-list-style: none; margin: 0;
-z-index: 99;
-}
-body ul#sharebar li {
-display: block;
-margin: 5px;
-padding: 0;
-overflow: hidden;
-text-align: left;
-}
-div#sharebarx {
-display: none;
-list-style: none;
-width: 400px;
-float: left;
-padding: 15px 0;
-}
-a.sbxLink{
-float:left;
-}
-.FBConnectButton_Small{
-background-position:-5px -232px !important;
-border-left:1px solid #1A356E;
-}
-.FBConnectButton_Text{
-margin-left:12px !important ;
-padding:2px 5px 3px !important;
-}
-.stButton{margin:0 0 6px !important;
-}
-.stButton:last-child{
-margin:0 !important;
-}
-.stButton .stFb_vbubble {
-width:53px !important;
-}
-.stButton .stFb_text {
-padding: 2px 5px 3px !important;
-margin: 1px 1px 0 14px !important;
-}
-.fb_edge_widget_with_comment{
-}
-.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
-display: none !important;
-}
-</style>
-<ul id="sharebar">
-<li><a class="addthis_button_facebook_like" fb:like:layout="box_count"></a></li>
-<li><a class="addthis_button_tweet" tw:count="vertical"></a></li>
-<li><a class="addthis_button_google_plusone" g:plusone:size="tall"></a></li>
-<li><a class="addthis_counter"></a></li>
-</ul>
-<div class="addthis_toolbox addthis_default_style" id="sharebarx">
-</div>
-</td>
+<td><style type="text/css"> /* share bar plugin style only */ body ul#sharebar { display: none; position: absolute; width: 75px; float: left; background: #fff; padding: 0; margin-top:71px!important; text-align: center; border: 1px solid #ccc; list-style: none; margin: 0; z-index: 99; } body ul#sharebar li { display: block; margin: 5px; padding: 0; overflow: hidden; text-align: left; } div#sharebarx { display: none; list-style: none; width: 400px; float: left; padding: 15px 0; } a.sbxLink{ float:left; } .FBConnectButton_Small{ background-position:-5px -232px !important; border-left:1px solid #1A356E; } .FBConnectButton_Text{ margin-left:12px !important ; padding:2px 5px 3px !important; } .stButton{margin:0 0 6px !important; } .stButton:last-child{ margin:0 !important; } .stButton .stFb_vbubble { width:53px !important; } .stButton .stFb_text { padding: 2px 5px 3px !important; margin: 1px 1px 0 14px !important; } .fb_edge_widget_with_comment{ } .fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr { display: none !important; } </style> <ul id="sharebar"> <li><a class="addthis_button_facebook_like" fb:like:layout="box_count"></a></li> <li><a class="addthis_button_tweet" tw:count="vertical"></a></li> <li><a class="addthis_button_google_plusone" g:plusone:size="tall"></a></li> <li><a class="addthis_counter"></a></li> </ul> <div class="addthis_toolbox addthis_default_style" id="sharebarx"> </div> </td>
 </tr>
 </tbody></table>
 <!-- END AddThisSocialMediaIntegration Content Block -->
+<!-- BEGIN AddThisSocialMediaIntegration_JS Content Block -->
+<table id="block.addthissocialmediaintegration_js" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+<tbody><tr>
+<td><script type="text/javascript"> var script = document.createElement('script'); script.type = 'text/javascript'; script.src = window.location.protocol == 'https:' ? 'https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9' : 'http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f6ca4df7f0fd0e9'; document.body.appendChild(script); /* * ShareBar - Creates a dynamic, vertical sharing bar to the left of a WordPress post and hides it if browser window is too small * Copyright 2010 Monjurul Dolon, http://mdolon.com/ * Released under the MIT, BSD, and GPL Licenses. * More information: http://devgrow.com/sharebar * * MODIFICATION by TBRYMORA 4-2-12 * animate Medix logo for better fit of social media bar below * slide logo link up by removing top padding of 25px when social media bar has to display below logo * and move the logo down by adding 25px of padding to top of it. * * relevant lines between 'start' and 'end' comments in sharebar_resize function */ jQuery.fn.sharebar = function(options) { var defaults = {horizontal: true, swidth: 65, minwidth: 1000, position: 'left', leftOffset: 20, rightOffset: 10}; var opts = jQuery.extend(defaults, options); var o = jQuery.meta ? jQuery.extend({}, opts, jQueryjQuery.data()) : opts; var w = jQuery(window).width(); var sharebar = jQuery('#sharebar'); var sharebarx = jQuery('#sharebarx'); var parent = jQuery(sharebar).parent().width(); var start = sharebar_init(); function sharebar_init(){ jQuery(sharebar).css('width',o.swidth+'px'); if (o.position == 'left') jQuery(sharebar).css('marginLeft',(0-o.swidth-o.leftOffset)); else { jQuery(sharebar).css('marginLeft',(parent+o.rightOffset)); } if(w < o.minwidth && o.horizontal) jQuery(sharebarx).slideDown(); else jQuery(sharebar).fadeIn(); jQuery.event.add(window, "scroll", sharebar_scroll); jQuery.event.add(window, "resize", sharebar_resize); return jQuery(sharebar).offset().top; } function sharebar_resize() { var w = jQuery(window).width(); if(w<o.minwidth){ jQuery(sharebar).fadeOut(); if(o.horizontal) { jQuery(sharebarx).slideDown(); /* START tbrymora 4-2-12: animate Medix logo up */ $("a.logoMain").animate({ 'padding-top':0 }); /* END tbrymora 4-2-12 */ } }else{ jQuery(sharebar).fadeIn(); if(o.horizontal) { jQuery(sharebarx).slideUp(); /* START tbrymora 4-2-12: animate Medix logo down */ $("a.logoMain").animate({ 'padding-top':25 }); /* END tbrymora 4-2-12 */ } } } function sharebar_scroll() { var p = jQuery(window).scrollTop(); var w = jQuery(window).width(); jQuery(sharebar).css('position',((p+10)>start) ? 'fixed' : 'absolute'); jQuery(sharebar).css('top',((p+10)>start) ? '10px' : ''); } }; jQuery(document).ready( function($){ $('#sharebar').sharebar({ horizontal:'true', swidth:'75', minwidth:1125, position:'left', leftOffset:20, rightOffset:20 }); } ); </script></td>
+</tr>
+</tbody></table>
+<!-- END AddThisSocialMediaIntegration_JS Content Block -->
 <!-- BEGIN Social Media Top - 03-05-2014 Content Block -->
 <table id="block.socialmediatop-03-05-2014" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
@@ -928,7 +785,7 @@ background: transparent;
 <table id="block.e-mailbanner" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
 <td><div class="promoBar">
-<a href="/items/products"><img alt="Medix Select Promo Codes" src="/MerchantUploads/edgeMedixSelect/Medix_0615_BigDeal_928x40.jpg" style="border-width: 0px; border-style: solid; width: 928px; height: 41px;"> </a></div>
+<a href="/items/products"><img alt="Medix Select Promo Codes" src="https://medixselectedge.jaggedpeak.com/MerchantUploads/edgeMedixSelect/EndOfMaySale_HeadlineBar_928x40%20(002).jpg"> </a></div>
 </td>
 </tr>
 </tbody></table>
@@ -993,8 +850,7 @@ Last Update:&nbsp; 2/7/2013</p>
 <!-- BEGIN Newsletter Signup - Footer Content Block -->
 <table id="block.newslettersignup-footer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
-<td><p>
-<style type="text/css">
+<td><style type="text/css">
 #footerSignUpCell{
 background: url('/MerchantUploads/edgeMedixSelect/newsletter_signup_bg.jpg') no-repeat top center;
 width: 926px;
@@ -1090,7 +946,14 @@ display: inline;
 margin:-7px 0 0 0;
 padding:none!important;
 filter:none!important;
-}</style>
+}
+#nmSignUpBottom
+{
+font-size: 18px;
+padding-top: 15px;
+text-align: center;
+}
+</style>
 <script type="text/javascript">
 /* START live validation compressed */
 // LiveValidation 1.3 (standalone version)
@@ -1102,125 +965,145 @@ var LiveValidation=function(B,A){this.initialize(B,A);};LiveValidation.VERSION="
 $(document).ready(function() {
 // Sign Up Form Validation
 //Email Validation
-var emailSignUp = new LiveValidation('signUpEmail', { validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupEmailError",
-onInvalid: function() {
+var emailSignUp = new LiveValidation('signUpEmail',
+{
+validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupEmailError",
+onInvalid: function()
+{
 this.insertMessage(this.createMessageSpan());
 jQuery("#signUpEmail").css('border', '1px solid #CC0000');
 },
-onValid: function() {
+onValid: function()
+{
 jQuery("#signUpEmail").css('border', '1px solid #093');
 }
 });
 emailSignUp.add(Validate.Presence, { failureMessage: "Please enter your email address" });
 emailSignUp.add(Validate.Email, { failureMessage: "Invalid email address" });
 //Email Confirmation Validation
-var emailSignUpConfirm = new LiveValidation('signUpEmailConfirm', {validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupEmailError",
-onInvalid: function() {
+var emailSignUpConfirm = new LiveValidation('signUpEmailConfirm',
+{
+validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupEmailError",
+onInvalid: function()
+{
 this.insertMessage(this.createMessageSpan());
 jQuery("#signUpEmailConfirm").css('border', '1px solid #093');
 },
-onValid: function() {
+onValid: function()
+{
 jQuery("#signUpEmailConfirm").css('border', '1px solid #093');
 }
 });
 emailSignUpConfirm.add(Validate.Presence, { failureMessage: "Email addresses must match" });
 emailSignUpConfirm.add( Validate.Confirmation, {match: 'signUpEmail' } );
 // Zip Code Validation
-var zipSignUp = new LiveValidation('signUpZip', { validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupZipError",
-onInvalid: function() {
+var zipSignUp = new LiveValidation('signUpZip',
+{
+validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupZipError",
+onInvalid: function()
+{
 this.insertMessage(this.createMessageSpan());
 jQuery("#signUpZip").css('border', '1px solid #CC0000');
 },
-onValid: function() {
+onValid: function()
+{
 jQuery("#signUpZip").css('border', '1px solid #093');
 }
 });
 zipSignUp.add(Validate.Presence, { failureMessage: "Please enter your Zip Code" });
 // Sign Up Form Submission Function
-function subscribe(email, country, zip, promocode, lists, deploymentid, sendEmail) {
-var url = "http://www.newsmax.com/CmsPages/newsmax/Handlers/EmailSubscribe.ashx?email=" + email.toString() + "&country=" + country.toString() + "&zip=" + zip.toString() + "&promocode=" + promocode.toString() + "&lists=" + lists.toString() + "&did=" + deploymentid.toString() + "&wemail=" + sendEmail.toString();
+function subscribe(email, country, zip, promocode, lists, deploymentid, sendEmail)
+{
+var url = "http://www.newsmax.com/CmsPages/newsmax/Handlers/EmailSubscribe.ashx?site=medix&email=" + email.toString() + "&country=" + country.toString() + "&zip=" + zip.toString() + "&promocode=" + promocode.toString() + "&lists=" + lists.toString() + "&did=" + deploymentid.toString() + "&wemail=" + sendEmail.toString();
 url = encodeURI(url);
-if( $.browser.msie && window.XDomainRequest){
+if( $.browser.msie && window.XDomainRequest)
+{
 var xdr = new XDomainRequest();
 xdr.open("get", url );
 xdr.send();
-} else {
+}
+else
+{
 jQuery.post(url);
 }
 }
 //Sign Up Submit Button
-$('.signupSubmit').click(function() {
+$('.signupSubmit').click(function()
+{
 //Check if form is valid
-if (LiveValidation.massValidate([emailSignUp, zipSignUp])) {
-//Set up Email Data
-var email = jQuery('#signUpEmail').val();
-var zip = jQuery('#signUpZip').val();
-var country = jQuery('#signupCountryDrop').val();
-var promocode = "A688-1";
-var lists = "125,3";
-var deploymentid = " ";
-var sendEmail = " ";
-// Display sending message and progress bar
-jQuery('#signupFormWrapper2').html('Sending...').css('text-align', 'center').css("padding-bottom", "10px");
-jQuery('#Progress').css('display', 'block');
-//Post Form Data
-subscribe(email, country, zip, promocode, lists, deploymentid, sendEmail);
-var thanksMessage = window.setTimeout(function() {
-// Hide Progress
-jQuery('#Progress').css('display', 'none');
-//Display Thank You
-jQuery('#signupFormWrapper2').html('Thank You!');
-}, 2000);
+if (LiveValidation.massValidate([emailSignUp, zipSignUp]))
+{
+var strURL = '/AgileNewsmax/model/AjaxHandler.cfc?method=ajaxPushSubscriber';
+strURL += '&Email=' + $('#signUpEmail').val();
+strURL += '&Lists=' + '125,3,346';
+strURL += '&country=' + $('#signupCountryDrop').val();
+strURL += '&Zip=' + $('#signUpZip').val();
+strURL += '&DiD=';
+strURL += '&SendMail=';
+strURL += '&PromoCode=A688-1';
+$.ajax({
+url: strURL
+,cache: false
+,data: {
+dataType: "json",
+returnFormat: "json"
+}
+,success: function(data, textStatus, jqXHR) {
+var parsedJData = JSON.parse(data);
+if(parsedJData.SUCCESS == 1)
+{
+$('#nmSignUpBottom').text('Thank you for signing up!');
+}
+else
+{
+$('#nmSignUpBottom').text('There was a problem signing up, please try again in a few minutes.');
+}
+}
+,error: function(data)
+{
+$('#nmSignUpBottom').text('There was a problem signing up, please try again in a few minutes.');
+}
+});
 }
 });
 });
 /* END sign up */
-</script></p>
+</script>
 <div id="footerSignUpCell">
 <!-- Email Signup Box Start -->
 <div id="nmSignUpContainer">
 <div id="signupFormWrapper2">
-<div class="nmSignUpLabel">
-Email:</div>
+<div class="nmSignUpLabel">Email:</div>
 <div class="nmSignUpInputCont">
-<input class="nmSignUpInput" id="signUpEmail" name="signUpEmail" type="text"></div>
-<div class="clear">
-&nbsp;</div>
-<div class="signupError" style="font-size: 0px; padding: 5px;">
-&nbsp;</div>
-<div class="nmSignUpLabel">
-Confirm Email:</div>
-<div class="nmSignUpInputCont">
-<input class="nmSignUpInput" id="signUpEmailConfirm" name="signUpEmailConfirm" type="text"></div>
-<div class="clear">
-&nbsp;</div>
-<div class="signupError" style="font-size: 0px; padding: 5px;">
-&nbsp;</div>
-<div class="nmSignUpLabel">
-Country:</div>
-<div class="nmSignUpInputCont">
-<select class="nmSignUpInput" id="signupCountryDrop" name="signupCountryDrop"><option value="United States">United States</option><option value="Afghanistan">Afghanistan</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Azores">Azores</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory">British Indian Ocean Territory</option><option value="British Virgin Islands">British Virgin Islands</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burma">Burma</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Cook Islands">Cook Islands</option><option value="Corsica">Corsica</option><option value="Costa Rica">Costa Rica</option><option value="Cote DIvoire (Ivory Coast)">Cote DIvoire (Ivory Coast)</option><option value="Croatia (Hrvatska)">Croatia (Hrvatska)</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Czechoslovakia (former)">Czechoslovakia (former)</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="East Timor">East Timor</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="England">England</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Great Britain and Northern Ireland">Great Britain and Northern Ireland</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guinea?Bissau">Guinea?Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard and McDonald Islands">Heard and McDonald Islands</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea (North)">Korea (North)</option><option value="Korea (South)">Korea (South)</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Macau">Macau</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Madeira Islands">Madeira Islands</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia">Micronesia</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="Neutral Zone">Neutral Zone</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand ">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Republic of">Republic of</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option><option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia?Monteneg (Yugoslavia)">Serbia?Monteneg (Yugoslavia)</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovak Republic">Slovak Republic</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St. Helena">St. Helena</option><option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tristan da Cunha">Tristan da Cunha</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Islands">Turks and Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirate">United Arab Emirate</option><option value="United Kingdom">United Kingdom</option><option value="Uruguay">Uruguay</option><option value="US Minor Outlying Islands">US Minor Outlying Islands</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Vatican City State (Holy See)">Vatican City State (Holy See)</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands (British)">Virgin Islands (British)</option><option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option><option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Yugoslavia">Yugoslavia</option><option value="Zaire">Zaire</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select></div>
-<div class="signupError">
-<div id="signupZipError">
-&nbsp;</div>
+<input class="nmSignUpInput" id="signUpEmail" name="signUpEmail" type="text">
 </div>
-<div class="nmSignUpLabel nmSignUpLabelZip">
-Zip Code:</div>
+<div class="clear">&nbsp;</div>
+<div class="signupError" style="font-size: 0px; padding: 5px;">&nbsp;</div>
+<div class="nmSignUpLabel">Confirm Email:</div>
+<div class="nmSignUpInputCont">
+<input class="nmSignUpInput" id="signUpEmailConfirm" name="signUpEmailConfirm" type="text">
+</div>
+<div class="clear">&nbsp;</div>
+<div class="signupError" style="font-size: 0px; padding: 5px;">&nbsp;</div>
+<div class="nmSignUpLabel">Country:</div>
+<div class="nmSignUpInputCont">
+<select class="nmSignUpInput" id="signupCountryDrop" name="signupCountryDrop"><option value="USA">UNITED STATES</option><option value="AFG">AFGHANISTAN</option><option value="ALA">ÅLAND ISLANDS</option><option value="ALB">ALBANIA</option><option value="DZA">ALGERIA</option><option value="ASM">AMERICAN SAMOA</option><option value="AND">ANDORRA</option><option value="AGO">ANGOLA</option><option value="AIA">ANGUILLA</option><option value="ATA">ANTARCTICA</option><option value="ATG">ANTIGUA AND BARBUDA</option><option value="ARG">ARGENTINA</option><option value="ARM">ARMENIA</option><option value="ABW">ARUBA</option><option value="AUS">AUSTRALIA</option><option value="AUT">AUSTRIA</option><option value="AZE">AZERBAIJAN</option><option value="BHS">BAHAMAS</option><option value="BHR">BAHRAIN</option><option value="BGD">BANGLADESH</option><option value="BRB">BARBADOS</option><option value="BLR">BELARUS</option><option value="BEL">BELGIUM</option><option value="BLZ">BELIZE</option><option value="BEN">BENIN</option><option value="BMU">BERMUDA</option><option value="BTN">BHUTAN</option><option value="BOL">BOLIVIA</option><option value="BIH">BOSNIA AND HERZEGOVINA</option><option value="BWA">BOTSWANA</option><option value="BVT">BOUVET ISLAND</option><option value="BRA">BRAZIL</option><option value="IOT">BRITISH INDIAN OCEAN TERRITORY</option><option value="BRN">BRUNEI DARUSSALAM</option><option value="BGR">BULGARIA</option><option value="BFA">BURKINA FASO</option><option value="BDI">BURUNDI</option><option value="KHM">CAMBODIA</option><option value="CMR">CAMEROON</option><option value="CAN">CANADA</option><option value="CPV">CAPE VERDE</option><option value="CYM">CAYMAN ISLANDS</option><option f="" value="CA">CENTRAL AFRICAN REPUBLIC</option><option value="TCD">CHAD</option><option value="CHL">CHILE</option><option value="CHN">CHINA</option><option value="CXR">CHRISTMAS ISLAND</option><option value="CCK">COCOS (KEELING) ISLANDS</option><option value="COL">COLOMBIA</option><option value="COM">COMOROS</option><option value="COG">CONGO</option><option value="COD">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option><option value="COK">COOK ISLANDS</option><option value="CRI">COSTA RICA</option><option value="CIV">CÔTE D'IVOIRE</option><option value="HRV">CROATIA</option><option value="CUB">CUBA</option><option value="CUW">Curacao</option><option value="CYP">CYPRUS</option><option value="CZE">CZECH REPUBLIC</option><option value="DNK">DENMARK</option><option value="DJI">DJIBOUTI</option><option value="DMA">DOMINICA</option><option value="DOM">DOMINICAN REPUBLIC</option><option value="ECU">ECUADOR</option><option value="EGY">EGYPT</option><option value="SLV">EL SALVADOR</option><option value="GNQ">EQUATORIAL GUINEA</option><option value="ERI">ERITREA</option><option value="EST">ESTONIA</option><option value="ETH">ETHIOPIA</option><option value="FLK">FALKLAND ISLANDS (MALVINAS)</option><option value="FRO">FAROE ISLANDS</option><option value="FJI">FIJI</option><option value="FIN">FINLAND</option><option value="FRA">FRANCE</option><option f="" value="GU">FRENCH GUIANA</option><option f="" value="PY">FRENCH POLYNESIA</option><option f="" value="AT">FRENCH SOUTHERN TERRITORIES</option><option value="GAB">GABON</option><option value="GMB">GAMBIA</option><option value="GEO">GEORGIA</option><option value="DEU">GERMANY</option><option value="GHA">GHANA</option><option value="GIB">GIBRALTAR</option><option value="GRC">GREECE</option><option value="GRL">GREENLAND</option><option value="GRD">GRENADA</option><option value="GLP">GUADELOUPE</option><option value="GUM">GUAM</option><option value="GTM">GUATEMALA</option><option value="GGY">GUERNSEY</option><option value="GIN">GUINEA</option><option value="GNB">GUINEA-BISSAU</option><option value="GUY">GUYANA</option><option value="HTI">HAITI</option><option value="HMD">HEARD AND MCDONALD ISLANDS</option><option value="VAT">HOLY SEE (VATICAN CITY STATE)</option><option value="HND">HONDURAS</option><option value="HKG">HONG KONG</option><option value="HUN">HUNGARY</option><option value="ISL">ICELAND</option><option value="IND">INDIA</option><option value="IDN">INDONESIA</option><option value="IRN">IRAN, ISLAMIC REPUBLIC OF</option><option value="IRQ">IRAQ</option><option value="IRL">IRELAND</option><option value="IMN">ISLE OF MAN</option><option value="ISR">ISRAEL</option><option value="ITA">ITALY</option><option value="JAM">JAMAICA</option><option value="JPN">JAPAN</option><option value="JEY">JERSEY</option><option value="JOR">JORDAN</option><option value="KAZ">KAZAKHSTAN</option><option value="KEN">KENYA</option><option value="KIR">KIRIBATI</option><option value="PRK">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option><option value="KOR">KOREA, REPUBLIC OF</option><option value="KWT">KUWAIT</option><option value="KGZ">KYRGYZSTAN</option><option value="LAO">LAO PEOPLE'S DEMOCRATIC REPUBLIC</option><option value="LVA">LATVIA</option><option value="LBN">LEBANON</option><option value="LSO">LESOTHO</option><option value="LBR">LIBERIA</option><option value="LBY">LIBYAN ARAB JAMAHIRIYA</option><option value="LIE">LIECHTENSTEIN</option><option value="LTU">LITHUANIA</option><option value="LUX">LUXEMBOURG</option><option value="MAC">MACAO</option><option value="MKD">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option><option value="MDG">MADAGASCAR</option><option value="MWI">MALAWI</option><option value="MYS">MALAYSIA</option><option value="MDV">MALDIVES</option><option value="MLI">MALI</option><option value="MLT">MALTA</option><option value="MHL">MARSHALL ISLANDS</option><option value="MTQ">MARTINIQUE</option><option value="MRT">MAURITANIA</option><option value="MUS">MAURITIUS</option><option value="MYT">MAYOTTE</option><option value="MEX">MEXICO</option><option value="FSM">MICRONESIA, FEDERATED STATES OF</option><option value="MDA">MOLDOVA</option><option value="MCO">MONACO</option><option value="MNG">MONGOLIA</option><option value="MNE">MONTENEGRO</option><option value="MSR">MONTSERRAT</option><option value="MAR">MOROCCO</option><option value="MOZ">MOZAMBIQUE</option><option value="MMR">MYANMAR</option><option value="NAM">NAMIBIA</option><option value="NRU">NAURU</option><option value="NPL">NEPAL</option><option value="NLD">NETHERLANDS</option><option value="ANT">NETHERLANDS ANTILLES</option><option value="NCL">NEW CALEDONIA</option><option value="NZL">NEW ZEALAND</option><option value="NIC">NICARAGUA</option><option value="NER">NIGER</option><option value="NGA">NIGERIA</option><option value="NIU">NIUE</option><option value="NFK">NORFOLK ISLAND</option><option value="MNP">NORTHERN MARIANA ISLANDS</option><option value="NOR">NORWAY</option><option value="OMN">OMAN</option><option value="PAK">PAKISTAN</option><option value="PLW">PALAU</option><option value="PSE">PALESTINIAN TERRITORY, OCCUPIED</option><option value="PAN">PANAMA</option><option value="PNG">PAPUA NEW GUINEA</option><option value="PRY">PARAGUAY</option><option value="PER">PERU</option><option value="PHL">PHILIPPINES</option><option value="PCN">PITCAIRN</option><option value="POL">POLAND</option><option value="PRT">PORTUGAL</option><option value="PRI">PUERTO RICO</option><option value="QAT">QATAR</option><option value="REU">REUNION</option><option value="ROU">ROMANIA</option><option value="RUS">RUSSIAN FEDERATION</option><option value="RWA">RWANDA</option><option value="BLM">SAINT BARTHÉLEMY</option><option value="SHN">SAINT HELENA</option><option value="KNA">SAINT KITTS AND NEVIS</option><option value="LCA">SAINT LUCIA</option><option f="" value="MA">SAINT MARTIN (French part)</option><option value="SPM">SAINT PIERRE AND MIQUELON</option><option value="VCT">SAINT VINCENT AND THE GRENADINES</option><option value="WSM">SAMOA</option><option value="SMR">SAN MARINO</option><option value="STP">SAO TOME AND PRINCIPE</option><option value="SAU">SAUDI ARABIA</option><option value="SEN">SENEGAL</option><option value="SRB">SERBIA</option><option value="SYC">SEYCHELLES</option><option value="SLE">SIERRA LEONE</option><option value="SGP">SINGAPORE</option><option value="SVK">SLOVAKIA</option><option value="SVN">SLOVENIA</option><option value="SLB">SOLOMON ISLANDS</option><option value="SOM">SOMALIA</option><option f="" value="ZA">SOUTH AFRICA</option><option value="SGS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option><option value="SSD">South Sudan</option><option value="ESP">SPAIN</option><option value="LKA">SRI LANKA</option><option value="SDN">SUDAN</option><option value="SUR">SURINAME</option><option value="SJM">SVALBARD AND JAN MAYEN ISLANDS</option><option value="SWZ">SWAZILAND</option><option value="SWE">SWEDEN</option><option value="CHE">SWITZERLAND</option><option value="SYR">SYRIAN ARAB REPUBLIC</option><option value="TWN">TAIWAN, PROVINCE OF CHINA</option><option value="TJK">TAJIKISTAN</option><option value="TZA">TANZANIA, UNITED REPUBLIC OF</option><option value="THA">THAILAND</option><option value="TLS">TIMOR-LESTE</option><option value="TGO">TOGO</option><option value="TKL">TOKELAU</option><option value="TON">TONGA</option><option value="TTO">TRINIDAD AND TOBAGO</option><option value="TAA">TRISTAN DE CUNHA</option><option value="TUN">TUNISIA</option><option value="TUR">TURKEY</option><option value="TKM">TURKMENISTAN</option><option value="TCA">TURKS AND CAICOS ISLANDS</option><option value="TUV">TUVALU</option><option value="UGA">UGANDA</option><option value="UKR">UKRAINE</option><option value="ARE">UNITED ARAB EMIRATES</option><option value="GBR">UNITED KINGDOM</option><option value="UMI">UNITED STATES MINOR OUTLYING ISLANDS</option><option value="URY">URUGUAY</option><option value="UZB">UZBEKISTAN</option><option value="VUT">VANUATU</option><option value="VEN">VENEZUELA</option><option value="VNM">VIET NAM</option><option value="VIR">VIRGIN ISLANDS ( U.S.)</option><option value="VGB">VIRGIN ISLANDS, BRITISH</option><option f="" value="WL">WALLIS AND FUTUNA ISLANDS</option><option value="ESH">WESTERN SAHARA</option><option value="YEM">YEMEN</option><option value="ZMB">ZAMBIA</option><option value="ZWE">ZIMBABWE</option></select>
+</div>
+<div class="signupError">
+<div id="signupZipError">&nbsp;</div>
+</div>
+<div class="nmSignUpLabel nmSignUpLabelZip">Zip Code:</div>
 <div class="nmSignUpInputContSm">
 <input class="nmSignUpInputSm" id="signUpZip" name="signUpZip" type="text"> <!-- <input type="button" value="" class="signupSubmit" src="/MerchantUploads/edgeMedixSelect/signupbutton.jpg" />--><button class="signupSubmit" id="signUpSubmitBtn" type="submit"><img src="/MerchantUploads/edgeMedixSelect/signupbutton.jpg"></button>
-<div class="clear">
-&nbsp;</div>
+<div class="clear">&nbsp;</div>
 </div>
-<div class="clear">
-&nbsp;</div>
-<div id="Progress">
-&nbsp;</div>
+<div class="clear">&nbsp;</div>
+<div id="Progress">&nbsp;</div>
 </div>
-<div id="nmSignUpBottom">
-&nbsp;</div>
+<div id="nmSignUpBottom">&nbsp;</div>
 </div>
-<!-- Email Signup Box End --></div>
-<p>&nbsp;</p>
+<!-- Email Signup Box End -->
+</div>
 </td>
 </tr>
 </tbody></table>
@@ -1248,7 +1131,7 @@ Zip Code:</div>
 <td><div id="footer">
 <div id="logo_and_disclaimer">
 <a href="/" id="footer_logo"><img alt="medix select logo" height="35" src="/MerchantUploads/edgeMedixSelect/Logo_Footer.jpg" width="136"> </a>
-<p>Copyright 2015 Medix Health LLC and MedixSelect.com<br>
+<p>Copyright 2016 Medix Health LLC and MedixSelect.com<br>
 All rights reserved</p>
 </div>
 <p id="footer_links"><a href="/event/page/pageCode/freehealthalerts">Free Health Alerts</a> | <a href="/event/page/pageCode/customercare#returns">Returns </a>| <a href="/event/page/pageCode/customercare#shipping">Shipping</a> | <a href="/page/articles/">Articles</a> | <a href="/event/page/pageCode/privacy">Privacy</a> | <a href="/event/page/pageCode/terms">Terms</a> | <a href="/event/page/pageCode/contactus">Contact</a> | <a href="/event/page/pageCode/sitemap">Site Map</a></p>
