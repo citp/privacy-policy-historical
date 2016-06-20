@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207235933id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620123400id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Your California Privacy Rights
 
