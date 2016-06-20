@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the officetricks.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221005733id_/http%3A//officetricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officetricks.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620040332id_/http%3A//officetricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OfficeTricks – Technical Bloggers Space
+# Privacy Policy
 
-  * ## Privacy Policy
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:officetricks123@gmail.com).
+  * If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:officetricks123@gmail.com).
 
 At _OfficeTricks.com_ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by  _OfficeTricks.com_ and how we use it.
 
@@ -45,8 +43,6 @@ This privacy policy applies only to our online activities and is valid for visit
 
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms.
-
-### Let Your Friends Know What You Have Found
 
 
 
