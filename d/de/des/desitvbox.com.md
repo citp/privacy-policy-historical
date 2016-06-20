@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the desitvbox.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214204625id_/http%3A//www.desitvbox.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitvbox.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620154035id_/http%3A//www.desitvbox.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DesiTVBox.me
-
-[](http://del.icio.us/post?url=http://www.desitvbox.me/privacy-policy/&title=Privacy%20Policy) [](http://www.digg.com/submit?phase=2&url=http://www.desitvbox.me/privacy-policy/&title=Privacy%20Policy) [](http://www.reddit.com/submit?url=http://www.desitvbox.me/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://www.desitvbox.me/privacy-policy/&title=Privacy%20Policy) [](http://www.squidoo.com/lensmaster/bookmark?http://www.desitvbox.me/privacy-policy/) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Privacy%20Policy&u=http://www.desitvbox.me/privacy-policy/) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.desitvbox.me/privacy-policy/&title=Privacy%20Policy) [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http://www.desitvbox.me/privacy-policy/&Title=Privacy%20Policy) [](http://www.technorati.com/faves?add=http://www.desitvbox.me/privacy-policy/) [](http://www.furl.net/storeIt.jsp?t=Privacy%20Policy&u=http://www.desitvbox.me/privacy-policy/) [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.desitvbox.me/privacy-policy/&new_comment=Privacy%20Policy) [](http://www.sphinn.com/submit.php?url=http://www.desitvbox.me/privacy-policy/&title=Privacy%20Policy)
+# Privacy Policy - DesiTVBox.me
 
 ### Introduction
 
