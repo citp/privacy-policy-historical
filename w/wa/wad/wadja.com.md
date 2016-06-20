@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019114158id_/http%3A//wadja.com/index.php%3Fa%3Dpage%26b%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620024718id_/http%3A//wadja.com/index.php%3Fa%3Dpage%26b%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - wadja
 
