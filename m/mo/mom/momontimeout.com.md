@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momontimeout.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217232703id_/http%3A//www.momontimeout.com/about/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momontimeout.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620192638id_/http%3A//www.momontimeout.com/about/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy - Mom On Timeout
 
@@ -79,3 +79,9 @@ Mom On Timeout
 trish@momontimeout.com
 
 This document was last updated on January 31, 2013
+
+[](https://www.pinterest.com/pin/create/button/)
+
+Sign up now to get new recipes delivered straight to your inbox...it's FREE!
+
+Your information will *never* be shared or sold to a 3rd party.
