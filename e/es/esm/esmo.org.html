@@ -1,13 +1,23 @@
-<!--The following is the downloaded HTML source of the esmo.org privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226104706id_/http%3A//www.esmo.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esmo.org privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620111526id_/http%3A//www.esmo.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB" style="" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js no-touch svg inlinesvg svgclippaths no-ie8compat"><!--<![endif]--><head>
                 
                          
              
             
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="/var/esmo/cache/public/stylesheets/12560cbdf7cedfbcb90605a5276eadc4_1448275785_screen_print.css" media="screen, print">
+        <link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/jquery-ui.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/foundation.min.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/responsive-tables.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/jquery.fancybox.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/font-face/stylesheet.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/general_enclosed_foundicons.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/general_enclosed_foundicons_ie7.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/app.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/offcanvas.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/ezfind/design/ezflow/stylesheets/ezajax_autocomplete.css" media="screen, print">
+<link rel="stylesheet" type="text/css" href="/extension/intcnilcookies/design/standard/stylesheets/cnil.cookies.css" media="screen, print">
 
         <link rel="stylesheet" type="text/css" href="/extension/esmo/design/esmo/stylesheets/print.css" media="print">
 
@@ -48,9 +58,85 @@
     
 <link rel="apple-touch-icon" href="/extension/esmo/design/esmo/images/skin/apple-icon.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/extension/esmo/design/esmo/images/skin/apple-icon.png">
-<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582539000000/363969.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582513200000/363969.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 
-<script type="text/javascript" src="/var/esmo/cache/public/javascript/4347ac08907d84a8b18a2a2f2f9235c9_1394443594.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery-1.8.2.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+
+(function($) {
+    var _rootUrl = '/', _serverUrl = _rootUrl + 'ezjscore/', _seperator = '@SEPERATOR$',
+        _prefUrl = _rootUrl + 'user/preferences';
+
+    // FIX: Ajax is broken on IE8 / IE7 on jQuery 1.4.x as it's trying to use the broken window.XMLHttpRequest object
+    if ( window.XMLHttpRequest && window.ActiveXObject )
+        $.ajaxSettings.xhr = function() { try { return new window.ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {} };
+
+    // (static) jQuery.ez() uses jQuery.post() (Or jQuery.get() if post paramer is false)
+    //
+    // @param string callArgs
+    // @param object|array|string|false post Optional post values, uses get request if false or undefined
+    // @param function Optional callBack
+    function _ez( callArgs, post, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            var _token = '', _tokenNode = document.getElementById('ezxform_token_js');
+            if ( _tokenNode ) _token = _tokenNode.getAttribute('title');
+            if ( post.join !== undefined )// support serializeArray() format
+            {
+                post.push( { 'name': 'ezjscServer_function_arguments', 'value': callArgs } );
+                post.push( { 'name': 'ezxform_token', 'value': _token } );
+            }
+            else if ( typeof(post) === 'string' )// string
+            {
+                post += ( post ? '&' : '' ) + 'ezjscServer_function_arguments=' + callArgs + '&ezxform_token=' + _token;
+            }
+            else // object
+            {
+                post['ezjscServer_function_arguments'] = callArgs;
+                post['ezxform_token'] = _token;
+            }
+            return $.post( url, post, callBack, 'json' );
+        }
+        return $.get( url + encodeURIComponent( callArgs ), {}, callBack, 'json' );
+    };
+    _ez.url = _serverUrl;
+    _ez.root_url = _rootUrl;
+    _ez.seperator = _seperator;
+    $.ez = _ez;
+
+    $.ez.setPreference = function( name, value )
+    {
+        var param = {'Function': 'set_and_exit', 'Key': name, 'Value': value};
+            _tokenNode = document.getElementById( 'ezxform_token_js' );
+        if ( _tokenNode )
+            param.ezxform_token = _tokenNode.getAttribute( 'title' );
+
+        return $.post( _prefUrl, param );
+    };
+
+    // Method version, for loading response into elements
+    // NB: Does not use json (not possible with .load), so ezjscore/call will return string
+    function _ezLoad( callArgs, post, selector, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            post['ezjscServer_function_arguments'] = callArgs;
+            post['ezxform_token'] = jQuery('#ezxformtoken').attr('title');
+        }
+        else
+            url += encodeURIComponent( callArgs );
+
+        return this.load( url + ( selector ? ' ' + selector : '' ), post, callBack );
+    };
+    $.fn.ez = _ezLoad;
+})(jQuery);
+        
+</script>
 
     <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -63,14 +149,16 @@
         $(document).ready(function(){            $('a[rel*="external"]').click(function() {                ga('send', 'event', { 'eventCategory':'Outbound Link', 'eventAction':'click', 'eventLabel':$(this).attr('href') });
             });
         });
-	</script>        <script type="text/javascript" src="/var/esmo/cache/public/javascript/3d51ff0c652d259f2c9bf4355c64d73b_1394041986.js" charset="utf-8"></script>
+	</script>        <script type="text/javascript" src="/extension/esmo/design/esmo/javascript/header.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/modernizr.foundation.js" charset="utf-8"></script>
 
 
-        </head>
+        <style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
     
-        <body class="off-canvas">
+        <body class="off-canvas"><div class="hide mediaQuerieValues"><span class="media show-for-xlarge">extralarge</span><span class="media show-for-large">large</span><span class="media show-for-medium">medium</span><span class="media show-for-small">small</span><span class="display show-for-landscape">landscape</span><span class="display show-for-portrait">portrait</span><span class="touch show-for-touch">touch</span></div>
                 
-            <header id="header">
+            
+<header id="header">
     
     <div class="row">
         <div class="five mobile-four columns logo">
@@ -81,9 +169,8 @@
             </div>
         </div>
         <div class="eleven columns baseline hide-for-small">
-	        	        <a href="/esmo/about_us/esmo_40th_anniversary" class="logo"><img id="logo-esmo40" src="/extension/esmo/design/esmo/images/skin/logo-esmo40.svg" alt="ESMO40"></a>
             Welcome to the <strong>EUROPEAN SOCIETY FOR MEDICAL ONCOLOGY</strong>,<br>
-            40 years of supporting oncology professionals in their fight against cancer.
+            the leading European professional organisation for medical oncology.
         </div>
     </div>
     <div class="row">
@@ -100,11 +187,9 @@
         <div class="eleven columns usernsearch">
             <div class="row collapse">
                 <div class="nine columns userbox">
-                    <span class="username">
-                                            </span>
                     <span class="log-in-out">
-                        <a href="/myesmo/dashboard">myESMO</a> | 
                                                     <a href="/user/login?redirect=/Terms-of-Use/Privacy-Policy" title="Sign in">Sign in</a>
+                            
                                             </span>
                 </div>
                 <div class="seven columns end">
@@ -125,18 +210,14 @@
             </div>
         </div>
     </div>
-</header>
-
-
-            
-            <nav class="menu" role="navigation">
+</header><nav class="menu" role="navigation">
     <div class="menu-container">
         <div class="row">
             <ul class="nav-bar">
                                 
                                                                                                          
-                    <li class="has-flyout "><a href="/Membership" class="flyout-toggle"><span>Membership</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Membership" class="flyout-toggle"><span>Membership</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
@@ -145,12 +226,11 @@
                                                                                             <li id="node2020" class=""><a href="/Membership/Member-Benefits">Member Benefits</a></li>
                                                                                             <li id="node2023" class=""><a href="/Membership/Renew-Your-Membership">Renew Your Membership</a></li>
                                                                                             <li id="node20003" class=""><a href="/Membership/Membership-Directory">Membership Directory</a></li>
-                                                                                            <li id="node9365" class=""><a href="/Membership/ESMO-Booth">ESMO Booth</a></li>
                                                                                         </ul>
                                             <ul class="mobile eight columns">
+                                                                                            <li id="node9365" class=""><a href="/Membership/ESMO-Booth">ESMO Booth</a></li>
                                                                                             <li id="node9957" class=""><a href="/Membership/ESMO-in-Your-Country">ESMO in Your Country</a></li>
                                                                                             <li id="node86968" class=""><a href="/Membership/ESMO-Calendar">ESMO Calendar</a></li>
-                                                                                            <li id="node2033" class=""><a href="/Membership/Member-Panel">Member Panel</a></li>
                                                                                             <li id="node123717" class=""><a href="/Membership/Membership-Committee">Membership Committee</a></li>
                                                                                         </ul>
                                                                                     </div>
@@ -180,10 +260,6 @@
                                                     <h3>ESMO Calendar</h3>
                                                     
 <p>All the important ESMO dates and deadlines in a single place - don't miss out, update your diaries now!</p>                                                </div>
-                                                                                                                                                                                <div class="clearfix intro node2033">
-                                                    <h3>Member Panel</h3>
-                                                    
-<p>The member panel gives feedback on ESMO products and services through the completion of regular online surveys. Would you like to contribute?</p>                                                </div>
                                                                                                                                                                                                             </div>
                                 </div>
                             </div>
@@ -192,8 +268,8 @@
                     
                     
                                                                                                          
-                    <li class="has-flyout "><a href="/Guidelines" class="flyout-toggle"><span>Guidelines</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Guidelines" class="flyout-toggle"><span>Guidelines</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
@@ -215,6 +291,7 @@
                                                                                             <li id="node8498" class=""><a href="/Guidelines/Sarcoma-and-GIST">Sarcoma and GIST</a></li>
                                                                                             <li id="node8499" class=""><a href="/Guidelines/Supportive-Care">Supportive Care</a></li>
                                                                                             <li id="node9401" class=""><a href="/Guidelines/Pocket-Guidelines-Mobile-App">Pocket Guidelines &amp; Mobile App</a></li>
+                                                                                            <li id="node131788" class=""><a href="/Guidelines/ESMO-Guidelines-Methodology">ESMO Guidelines Methodology</a></li>
                                                                                         </ul>
                                                                                     </div>
                                     </div>
@@ -250,7 +327,7 @@
                                                                                                                                                                                 <div class="clearfix intro node8494">
                                                     <h3>Haematological Malignancies</h3>
                                                     
-<p>Philadelphia Chromosome-Negative Chronic Myeloproliferative Neoplasms&nbsp;• Hairy Cell Leukaemia • Peripheral T-Cell Lymphomas • Diffuse Large B Cell Lymphoma • CLL • Myelodysplastic Syndrome (MDS) • Hodgkin's Lymphoma • Mantle Cell Lymphoma • Follicular Lymphoma • Primary Cutaneous Lymphoma • Multiple Myeloma • AML in Adult Patients • Waldenstrom's Macroglobulinaemia • Gastric Marginal Zone Lymphoma of MALT Type • CML</p>                                                </div>
+<p>ALL • Philadelphia Chromosome-Negative Chronic Myeloproliferative Neoplasms&nbsp;• Hairy Cell Leukaemia • Peripheral T-Cell Lymphomas • Diffuse Large B Cell Lymphoma • CLL • Myelodysplastic Syndrome (MDS) • Hodgkin's Lymphoma • Mantle Cell Lymphoma • Follicular Lymphoma • Primary Cutaneous Lymphoma • Multiple Myeloma • AML in Adult Patients • Waldenstrom's Macroglobulinaemia • Gastric Marginal Zone Lymphoma of MALT Type • CML</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node8493">
                                                     <h3>Head and Neck Cancers</h3>
                                                     
@@ -279,6 +356,10 @@
                                                     <h3>Pocket Guidelines &amp; Mobile App</h3>
                                                     
 <p>Download the new version of our App with the latest Pocket Guidelines for professionals and Guides for Patients</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node131788">
+                                                    <h3>ESMO Guidelines Methodology</h3>
+                                                    
+<p>To assist those using and/or evaluating the ESMO Guidelines, download the methodology here</p>                                                </div>
                                                                                                                         </div>
                                 </div>
                             </div>
@@ -287,51 +368,36 @@
                     
                     
                                                                                                          
-                    <li class="has-flyout "><a href="/Conferences" class="flyout-toggle"><span>Conferences</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Conferences" class="flyout-toggle"><span>Conferences</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
                                             <ul class="mobile eight columns">
-                                                                                                                                        <li id="node104201" class=""><a href="/Conferences/Sarcoma-GIST-2016">Sarcoma &amp; GIST 2016</a></li>
-                                                                                            <li id="node109185" class=""><a href="/Conferences/Signalling-Pathways-2016-Personalised-Medicine">Signalling Pathways 2016 – Per...</a></li>
-                                                                                            <li id="node85918" class=""><a href="/Conferences/ELCC-2016-Lung-Cancer">ELCC 2016 –&nbsp;Lung Cancer</a></li>
-                                                                                            <li id="node98654" class=""><a href="/Conferences/IMPAKT-2016-Breast-Cancer">IMPAKT 2016 – Breast Cancer</a></li>
-                                                                                            <li id="node114717" class=""><a href="/Conferences/World-GI-2016-Gastrointestinal-Cancer">World GI 2016 – Gastrointestin...</a></li>
+                                                                                                                                        <li id="node114717" class=""><a href="/Conferences/World-GI-2016-Gastrointestinal-Cancer">World GI 2016 – Gastrointestin...</a></li>
                                                                                             <li id="node114756" class=""><a href="/Conferences/Student-Course-on-Medical-Oncology-2016">Student Course on Medical Onco...</a></li>
                                                                                             <li id="node114697" class=""><a href="/Conferences/ESMO-Academy-2016">ESMO Academy 2016</a></li>
+                                                                                            <li id="node135958" class=""><a href="/Conferences/MAP-2016-Molecular-Analysis-for-Personalised-Therapy">MAP 2016 – Molecular Analysis...</a></li>
                                                                                             <li id="node67488" class=""><a href="/Conferences/ESMO-2016-Congress">ESMO 2016 Congress</a></li>
+                                                                                            <li id="node114700" class=""><a href="/Conferences/Immuno-Oncology-2016">Immuno-Oncology 2016</a></li>
+                                                                                            <li id="node119493" class=""><a href="/Conferences/EMUC-2016-Urological-Cancers">EMUC 2016 – Urological Cancers</a></li>
+                                                                                            <li id="node114772" class=""><a href="/Conferences/ESMO-Asia-2016-Congress">ESMO Asia 2016 Congress</a></li>
+                                                                                            <li id="node136335" class=""><a href="/Conferences/ESMO-Summit-Africa-2017">ESMO Summit Africa 2017</a></li>
                                                                                         </ul>
                                             <ul class="mobile eight columns">
-                                                                                            <li id="node114772" class=""><a href="/Conferences/ESMO-Asia-2016-Congress">ESMO Asia 2016 Congress</a></li>
+                                                                                            <li id="node131126" class=""><a href="/Conferences/Advanced-Ovarian-Cancer-2017">Advanced Ovarian Cancer 2017</a></li>
+                                                                                            <li id="node133391" class=""><a href="/Conferences/ELCC-2017-Lung-Cancer">ELCC 2017 – Lung Cancer</a></li>
                                                                                             <li id="node94387" class=""><a href="/Conferences/ESMO-2017-Congress">ESMO 2017 Congress</a></li>
                                                                                             <li id="node26556" class=""><a href="/Conferences/Preceptorship-Courses">Preceptorship Courses</a></li>
                                                                                             <li id="node1730" class=""><a href="/Conferences/Workshops-Courses">Workshops &amp; Courses</a></li>
                                                                                             <li id="node7431" class=""><a href="/Conferences/Oncology-Conferences-Calendar">Oncology Conferences Calendar</a></li>
                                                                                             <li id="node87978" class=""><a href="/Conferences/ESMO-Events-App">ESMO Events App</a></li>
                                                                                             <li id="node8122" class=""><a href="/Conferences/Past-Conferences">Past Conferences</a></li>
-                                                                                            <li id="node71597" class=""><a href="/Conferences/ESMO-Asia-2015-Congress">ESMO Asia 2015 Congress</a></li>
                                                                                         </ul>
                                                                                     </div>
                                     </div>
                                     <div class="six columns hide-for-small">
-                                                                                                                                    <div class="clearfix intro node104201">
-                                                    <h3>Sarcoma &amp; GIST 2016</h3>
-                                                    
-<p>Join us in Milan, Italy for Sarcoma &amp; GIST 2016. 16-17 February 2016</p>                                                </div>
-                                                                                                                                                                                <div class="clearfix intro node109185">
-                                                    <h3>Signalling Pathways 2016 – Personalised Medicine</h3>
-                                                    
-<p>Save the date for Signalling Pathways 2016.&nbsp;Sitges-Barcelona, Spain, 4-5 March 2016</p>                                                </div>
-                                                                                                                                                                                <div class="clearfix intro node85918">
-                                                    <h3>ELCC 2016 –&nbsp;Lung Cancer</h3>
-                                                    
-<p>Mark you diaries now for ELCC 2016 in Geneva, Switzerland.&nbsp;13-16 April 2016</p>                                                </div>
-                                                                                                                                                                                <div class="clearfix intro node98654">
-                                                    <h3>IMPAKT 2016 – Breast Cancer</h3>
-                                                    
-<p>Save the date for the IMPAKT 2016 breast cancer conference: 12-14 May 2016</p>                                                </div>
-                                                                                                                                                                                <div class="clearfix intro node114717">
+                                                                                                                                    <div class="clearfix intro node114717">
                                                     <h3>World GI 2016 – Gastrointestinal Cancer</h3>
                                                     
 <p>2016 ESMO World Congress on Gastrointestinal Cancer: 29 June – 2 July 2016, Barcelona, Spain</p>                                                </div>
@@ -343,14 +409,38 @@
                                                     <h3>ESMO Academy 2016</h3>
                                                     
 <p>Join us in Oxford, UK, for the 2nd ESMO Academy. 26-28 August 2016</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node135958">
+                                                    <h3>MAP 2016 – Molecular Analysis for Personalised Therapy</h3>
+                                                    
+<p>23-24 September 2016, London, UK</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node67488">
                                                     <h3>ESMO 2016 Congress</h3>
                                                     
 <p>Mark you diaries now for ESMO 2016 in Copenhagen, Denmark. 7-11 October 2016</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node114700">
+                                                    <h3>Immuno-Oncology 2016</h3>
+                                                    
+<p>Save the date for Immuno-Oncology 2016: 4-6 November 2016, Lausanne, Switzerland</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node119493">
+                                                    <h3>EMUC 2016 – Urological Cancers</h3>
+                                                    
+<p>2016&nbsp;European Meeting on Urological Cancers: 24-27 November 2016, Milan, Italy</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node114772">
                                                     <h3>ESMO Asia 2016 Congress</h3>
                                                     
 <p>Save the date for ESMO Asia 2016, 16-19 December 2016, Singapore</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node136335">
+                                                    <h3>ESMO Summit Africa 2017</h3>
+                                                    
+<p>Join us in Cape Town, South Africa: 10-12 February 2017</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node131126">
+                                                    <h3>Advanced Ovarian Cancer 2017</h3>
+                                                    
+<p>Join us on 3 March 2017 in Valencia, Spain</p>                                                </div>
+                                                                                                                                                                                <div class="clearfix intro node133391">
+                                                    <h3>ELCC 2017 – Lung Cancer</h3>
+                                                    
+<p>We invite you to save the date for ELCC 2017: Geneva, Switzerland, 5-8 May 2017</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node94387">
                                                     <h3>ESMO 2017 Congress</h3>
                                                     
@@ -358,7 +448,7 @@
                                                                                                                                                                                 <div class="clearfix intro node26556">
                                                     <h3>Preceptorship Courses</h3>
                                                     
-<p>Apply to join one of our Preceptorship courses in Europe or Singapore</p>                                                </div>
+<p>European Preceptorships in colorectal cancer, gastric cancer, immuno-oncology and prostate cancer are now open for application!</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node1730">
                                                     <h3>Workshops &amp; Courses</h3>
                                                     
@@ -370,15 +460,11 @@
                                                                                                                                                                                 <div class="clearfix intro node87978">
                                                     <h3>ESMO Events App</h3>
                                                     
-<p>Attending ESMO Asia 2015? Make sure you have downloaded our Events App – find out more here!</p>                                                </div>
+<p>Attending ESMO 2016? The programme is available in the ESMO Events app – your key to ESMO events</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node8122">
                                                     <h3>Past Conferences</h3>
                                                     
 <p>Access information and reports from past ESMO events</p>                                                </div>
-                                                                                                                                                                                <div class="clearfix intro node71597">
-                                                    <h3>ESMO Asia 2015 Congress</h3>
-                                                    
-<p>The first ESMO Asia congress took place in Singapore, 18-21 December 2015</p>                                                </div>
                                                                                                                         </div>
                                 </div>
                             </div>
@@ -387,8 +473,8 @@
                     
                     
                                                                                                          
-                    <li class="has-flyout "><a href="/Career-Development" class="flyout-toggle"><span>Career Development</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Career-Development" class="flyout-toggle"><span>Career Development</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
@@ -411,7 +497,7 @@
                                                                                                                                     <div class="clearfix intro node1715">
                                                     <h3>Young Oncologists Corner</h3>
                                                     
-<p>Addressing the daily needs of ESMO young oncologists</p>                                                </div>
+<p>Addressing the daily needs of ESMO young oncologists</p><div class="clear"></div>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node2223">
                                                     <h3>Oncology Fellowships</h3>
                                                     
@@ -423,7 +509,7 @@
                                                                                                                                                                                 <div class="clearfix intro node1714">
                                                     <h3>Awards</h3>
                                                     
-<p>The 2015 ESMO Awards were presented during the European Cancer Congress 2015</p>                                                </div>
+<p>ESMO has developed a number of awards that recognise excellence in the field of oncology</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node2285">
                                                     <h3>Global Curriculum in Medical Oncology</h3>
                                                     
@@ -431,7 +517,7 @@
                                                                                                                                                                                 <div class="clearfix intro node9968">
                                                     <h3>ESMO Examination</h3>
                                                     
-<p>The ESMO Examination – a valuable assessment tool for practicing medical oncologists and for medical oncologists in training to assess their knowledge</p>                                                </div>
+<p>Registration is now open for the 2016 ESMO examination – a valuable assessment tool for practicing medical oncologists and for medical oncologists in training to assess their knowledge</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node64759">
                                                     <h3>Recertification &amp; CME</h3>
                                                     
@@ -452,8 +538,8 @@
                     
                     
                                                                                                          
-                    <li class="has-flyout "><a href="/Research" class="flyout-toggle"><span>Research</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Research" class="flyout-toggle"><span>Research</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
@@ -507,8 +593,8 @@
                     
                     
                                                                                                          
-                    <li class="has-flyout "><a href="/Patients" class="flyout-toggle"><span>Patients</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Patients" class="flyout-toggle"><span>Patients</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
@@ -519,9 +605,9 @@
                                                                                             <li id="node7519" class=""><a href="/Patients/Designated-Centres-of-Integrated-Oncology-and-Palliative-Care">Designated Centres of Integrat...</a></li>
                                                                                         </ul>
                                             <ul class="mobile eight columns">
-                                                                                            <li id="node1985" class=""><a href="/Patients/Patient-Track">Patient Track</a></li>
+                                                                                            <li id="node1985" class=""><a href="/Patients/Patient-Advocacy-Track">Patient Advocacy Track</a></li>
                                                                                             <li id="node7825" class=""><a href="/Patients/Advocacy-in-Action">Advocacy in Action</a></li>
-                                                                                            <li id="node120505" class=""><a href="/Patients/Palliative-and-Supportive-Care-Working-Group">Palliative and Supportive Care...</a></li>
+                                                                                            <li id="node120505" class=""><a href="/Patients/Designated-Centres-Working-Group">Designated Centres Working Group</a></li>
                                                                                         </ul>
                                                                                     </div>
                                     </div>
@@ -529,7 +615,7 @@
                                                                                                                                     <div class="clearfix intro node7408">
                                                     <h3>Patient Guides</h3>
                                                     
-<p>We are delighted to announce that sixteen of our Cancer Guides for Patients are now available in Romanian!</p>                                                </div>
+<p>Guides for Patients are designed to assist patients, their relatives and caregivers to better understand the nature of different types of cancer and evaluate the best available treatment choices</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node10114">
                                                     <h3>Personalised Medicine Explained</h3>
                                                     
@@ -543,9 +629,9 @@
                                                     
 <p>The ESMO Designated Centres of Integrated Oncology and Palliative Care accreditation programme recognises cancer centres&nbsp;which provide comprehensive services in supportive and palliative care as part of their routine care.</p>                                                </div>
                                                                                                                                                                                 <div class="clearfix intro node1985">
-                                                    <h3>Patient Track</h3>
+                                                    <h3>Patient Advocacy Track</h3>
                                                     
-<p>The ESMO Patient Track encourages communication between patients, families, oncologists and healthcare professionals.</p>                                                </div>
+<p>The ESMO Patient Advocacy&nbsp;Track encourages communication between patients, families, oncologists and healthcare professionals.</p>                                                </div>
                                                                                                                                                                                                                                                                                                 </div>
                                 </div>
                             </div>
@@ -554,8 +640,8 @@
                     
                     
                                                                                                          
-                    <li class="has-flyout "><a href="/Policy" class="flyout-toggle"><span>Policy</span></a><span class="show-small title more"></span>                        
-                                                    <div class="flyout submenu">
+                    <li class="has-flyout"><a href="/Policy" class="flyout-toggle"><span>Policy</span></a><span class="show-small title more"></span>                        
+                                                    <div class="flyout submenu" style="display: none;">
                                 <div class="row">
                                     <div class="ten mobile-four columns">
                                         <div class="clearfix subitems">
@@ -622,14 +708,19 @@
                                 
                                         
                     <li class="last">
-                        <a href="http://oncologypro.esmo.org" rel="external">
+                        <a href="http://oncologypro.esmo.org" rel="external" class="flyout-toggle">
                             Science &amp; Education on OncologyPRO
                         </a>
                     </li>
                             </ul>
         </div>
     </div>
-</nav>                    
+</nav>
+
+
+
+            
+                                
             <div class="container ">
         
     
@@ -763,13 +854,13 @@ ESMO Privacy &amp; Data Security Policy</h1>
 	www.rarecancerseurope.org</a>), the ESMO Press Centre, and any other online platforms used by ESMO which could require your personal data.</p><p>ESMO respects your privacy and is committed to protecting the confidentiality of your personal information. This policy explains how ESMO collects and uses Member, customer and site visitor information, and how it protects your privacy. It also explains how you can manage your own personal information held by ESMO in the ‘My ESMO’ area on the ESMO website.</p><p>This policy applies to personal information held about individuals. It does not apply to information ESMO holds about companies and other organisations. It is in addition to any specific policies concerning specific products or services. It does not supersede the ESMO terms and conditions which govern the use of the ESMO Website. ESMO reserves the right to amend this privacy policy at its sole discretion, without prior notice, at any time, with the proviso that details of the amendments are published on the ESMO Web Site. They become effective from the time of posting. ESMO is the sole owner of the Website and as such is the sole owner of any information collected through the Website.</p><p>ESMO is committed to the following standards, on a commercially reasonable basis:</p>
 <ol>
 
-<li>To collect and use only the minimum information necessary for us to deliver high quality service to users, to administer our business, and to inform you of ESMO products &amp; services</li>
+<li><span>To collect and use only the minimum information necessary for us to deliver high quality service to users, to administer our business, and to inform you of ESMO products &amp; services</span></li>
 
-<li>To protect the information our visitors share with us, maintaining strong standards of security and confidentiality,</li>
+<li><span>To protect the information our visitors share with us, maintaining strong standards of security and confidentiality,</span></li>
 
-<li>To require any other organisation that we retain or engage to provide support services to us to conform to our privacy standards, and</li>
+<li><span>To require any other organisation that we retain or engage to provide support services to us to conform to our privacy standards, and</span></li>
 
-<li>To keep visitor files, if any, complete, up to date, and accurate.</li>
+<li><span>To keep visitor files, if any, complete, up to date, and accurate.</span></li>
 
 </ol>
 <p>Some features on the Website may require you to register as a user and to receive our authorisation before you can use those particular features. Whether you are an individual or a corporation, partnership, or other form of commercial enterprise, in order for you obtain our authorisation to use those features and to be considered a registered user, you may be required to provide us with certain information about you or your business and, if a business, any or all individuals you designate to represent that business in connection with your use of the Website (e.g. names, addresses, e-mail addresses, telephone numbers, and other Personally Identifiable Information of each individual who will use the Website). Once we have authorised you as a registered user, we may provide you with a customer identification number and you will select a unique username and password.</p><p>Generally, you will be able to change your password and any personal data you have given us. Please note that submitting information to us is not a guarantee or assurance that we will grant authorisation to you or permit you, or anyone you designate, to use any or all of the services of the Website. If for any reason you are not granted authorisation we will retain the information you submit to us only in order to communicate with you regarding your application; we may, however, request additional or follow-up information for audit purposes or as may be required by law or regulation.</p><p>If you are submitting information on behalf of others for registration purposes or otherwise, you represent that you have their permission, agreement and full authorization to provide this information to us. We reserve the right (a) to ask you to provide evidence of your authority at any time during, or even after, the submission process and (b) to contact those individuals to confirm your authority at any time. If we determine that your authority has not been properly obtained, we may immediately and without notice to you discontinue your authorised use of those features of the Website for which you have registered.</p>
@@ -906,16 +997,16 @@ ESMO may supply your information to its contractors to perform specific services
 You have the absolute right to access, amend, and oppose the use of your personal data. By accessing the ‘My ESMO’ area, you have direct control over the information in your personal profile. You can access and change this information at any time from your ‘My ESMO’ homepage. Once logged in to your ‘My ESMO’ account, you can easily view and update your personal details, email address and password. Usernames are unique and cannot be updated.<br>Additionally, you may choose whether or not you wish to be kept informed by email of ESMO activities, products and services by using the e-News section. ESMO also asks you to provide optional information about your professional activities and interests in order to understand your needs better, and improve the services it offers to you and to the oncology community in general.</p>
 <ol>
 
-<li><strong>Your Rights to Opt-out, Opt-in, or Limit Specific Uses and Disclosures of your personal data</strong></li>
+<li><span><strong>Your Rights to Opt-out, Opt-in, or Limit Specific Uses and Disclosures of your personal data</strong></span></li>
 
-<li>
+<li><span>
 When you register, you may be asked whether you want to receive special announcements and future newsletters by email. If you check “yes” but change your mind at any time in the future and no longer wish to receive our newsletter and other special announcements by email you will be able to Opt-Out of these services by: (a) going to your profile page within the applicable ESMO service; (b) following the directions included at the bottom of any newsletter issue; and/or (c)    
         
                 <a href="/Contact-Us" class="">
 	&nbsp;contacting us</a> (please select 'Membership'), and we will take you off the applicable list. You may also Opt-In to receive communications from us at the point of registration or by similarly following the instructions above.<br>In most cases, the tools that collect and store personal data allow you to correct, update or review that information (and any preferences) by logging-in to the specific service and making the desired changes to your registration information. In most cases you may also withdraw your registration by     
         
                 <a href="/Contact-Us" class="">
-	contacting us</a> (please select 'Membership'). If you withdraw your account registration from the Website your personal data may not be deleted from our records and we may use that data for internal purposes.</li>
+	contacting us</a> (please select 'Membership'). If you withdraw your account registration from the Website your personal data may not be deleted from our records and we may use that data for internal purposes.</span></li>
 
 </ol>
 
@@ -1090,12 +1181,32 @@ SSL is used, for example, when you login or when you make a credit card payment.
     <div class="copyr">
         <div class="row">
             
-<p>ESMO is a Swiss-registered not-for-profit organisation. All funding for this site is provided directly by ESMO. Via L. Taddei 4, 6962 Viganello - Lugano - CH © Copyright 2015 European Society for Medical Oncology All rights reserved worldwide.</p>        </div>
+<p>ESMO is a Swiss-registered not-for-profit organisation. All funding for this site is provided directly by ESMO. Via L. Taddei 4, 6962 Viganello - Lugano - CH © Copyright 2016 European Society for Medical Oncology All rights reserved worldwide.</p>        </div>
     </div>
 </footer>
         
     
-        <script type="text/javascript" src="/var/esmo/cache/public/javascript/172d4405a78a1de9795a03b45cd8db29_1450168794.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/extension/intcnilcookies/design/standard/javascript/cnil.cookies.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/helpdesk/design/standard/javascript/hd_base.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/foundation.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.fancybox.pack.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.carouFredSel-6.2.1-packed.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.mousewheel.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.touchSwipe.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/responsive-tables.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.offcanvas.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/js-url.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.demunger.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/respond-1.1.0.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.quicksearch.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery-ui.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/underscore.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/jquery.cookie.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/social-feed/bower_components/codebird-js/codebird.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/social-feed/bower_components/doT/doT.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/social-feed/bower_components/moment/min/moment.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/social-feed/js/jquery.socialfeed.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/esmo/design/esmo/javascript/app.js" charset="utf-8"></script>
 
         
     
