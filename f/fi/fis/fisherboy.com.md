@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisherboy.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020085112id_/http%3A//www.fisherboy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherboy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620152911id_/http%3A//www.fisherboy.com/privacy-policy) for the most accurate reproduction.*
 
 # Fisher Boy | High Liner Foods
 
