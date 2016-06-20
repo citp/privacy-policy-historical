@@ -1,25 +1,25 @@
-<!--The following is the downloaded HTML source of the hannaandersson.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207020850id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hannaandersson.com privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620201618id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head>
 	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PNRLH8"></script><script src="https://cloud.moovweb.net/api/public/js_redirection/hannaandersson/hannaandersson-prod.js"></script>
-		<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.hannaandersson.com/Static.asp?pg=201">
-	<title>SECURITY &amp; PRIVACY</title>
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.hannaandersson.com/static.asp?pg=201">
+	<title>PRIVACY STATEMENT</title>
   <style type="text/css">
   <!--
-		TD {font-size:14px; color:#555555;}
-		.hdng {color:#555555; font-size:18px; font-weight:bold; padding-top:25px;}
+		TD { font-weight:400; font-size:15.2px; font-size:1.5015rem; font-style:normal; line-height:21px; color:#555555; }
+		.hdng { color:#555555; font-size:18px; font-weight:bold; padding-top:25px; }
 	-->
   </style>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="Clothes for kids big and small - including boys, girls and babies, too! Supersoft eco-friendly fabrics, comfy designs, legendary kids pajamas. Hannas make their world a little softer.">
 	<meta charset="UTF-8">
 	<meta name="keywords" content="Kids clothes, girls clothes, boys clothes, baby clothing, kids pajamas, boys pajamas, girls pajamas, baby pajamas, girls leggings, girls dresses, girls underwear, kids underwear, boys underwear, organic kids clothes, Hanna Andersson">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
-		<script src="UI/JS/html5shiv.js?lwt=582014101747AM"></script>
+		<script src="UI/JS/html5shiv.js?lwt=582014111747AM"></script>
 	<![endif]-->
 	
 	<script type="text/javascript" src="//use.typekit.net/pks4eyc.js"></script>
@@ -30,18 +30,18 @@
 		@import url("UI/CSS/style0714.css");
 	-->
 	</style>
-	<link rel="shortcut icon" href="images/favicon.ico?lwt=110201452350PM" type="image/x-icon">
+	<link rel="shortcut icon" href="images/favicon.ico?lwt=110201462350PM" type="image/x-icon">
 	
-	<link rel="stylesheet" href="styles/app.min.css?lwt=124201524329PM">
+	<link rel="stylesheet" href="styles/app.min.css?lwt=6202016114404AM">
 	<!-- Selectivizr shim, for IE6-8 support of CSS3 pseudo-classes and attribute selectors -->
 	<!--[if lt IE 9]>
-		<script src="UI/JS/selectivizr.js?lwt=582014104640AM"></script>
+		<script src="UI/JS/selectivizr.js?lwt=582014114640AM"></script>
 	<![endif]-->
-	<link href="UI/CSS/jquery-ui.css?lwt=3282013124128PM" rel="stylesheet" type="text/css">
+	<link href="UI/CSS/jquery-ui.css?lwt=328201314128PM" rel="stylesheet" type="text/css">
 
-	<script src="UI/JS/jquery.js?lwt=582014101747AM"></script>
+	<script src="UI/JS/jquery.js?lwt=582014111747AM"></script>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="UI/JS/jquery.adobe.autocomplete.min.js?lwt=5192014115705AM"></script>
+	<script type="text/javascript" src="UI/JS/jquery.adobe.autocomplete.min.js?lwt=5192014125705PM"></script>
 	<script language="javascript">
 	<!--
 	
@@ -80,19 +80,34 @@
 		function updateBagItemsCount(bagItemsCount) {getObj("bagItemsCount").innerHTML = bagItemsCount;}
 		
 		var ssLastS7olcid = "", olcUrlBase = "http://www.hannaandersson.com/eCatalogFlash.asp";
+
+		$(document).ready(function () {
+			if (getPpbStatus() != 'closed') {
+				$('#ppolicybanner').css({ "display": "block" }); $('#ppolicybanner').delay(500).animate({bottom:"0px"},900);
+				$('#ppolicybanner').click(function (e) { setPpbStatus('closed', false); window.location.href = '/static.asp?pg=201'; });
+				$('#ppbnnrclose').click(function (e) { e.stopPropagation(); setPpbStatus('closed', true); $('#ppolicybanner').animate({bottom:"-89px"},900); });
+			}
+		});
+
+		function getPpbStatus() {
+			var ppbstatus = ""; url = "miscSrvrRtns.aspx?actn=getshpprval&id=ppbstatus";
+			$.ajax({ url: url, cache: false, async: false, success: function (shpprval) { ppbstatus = shpprval; } });
+			return ppbstatus;
+		}
+		function setPpbStatus(ppbstatus, async) { $.ajax({ url: "miscSrvrRtns.aspx?actn=setshpprval&id=ppbstatus&vts=" + ppbstatus, cache: false, async: async }); }
 	//-->
   </script>
 
-	<script language="JavaScript" src="UI/JS/common.js?lwt=542012112722AM"></script>
-	<script language="JavaScript" src="UI/JS/navMenusIncl.js?lwt=123201224508PM"></script>
-	<script language="JavaScript" src="UI/JS/headerIncl.js?lwt=11102015103616AM"></script>
-	<script language="JavaScript" src="UI/JS/olcIncl.js?lwt=122201040920PM"></script>
-	<script language="JavaScript" src="UI/JS/modalDlg.js?lwt=618201512407PM"></script>
-	<script language="JavaScript" src="UI/JS/modalPopUp.js?lwt=472015103629AM"></script>
+	<script language="JavaScript" src="UI/JS/common.js?lwt=542012122722PM"></script>
+	<script language="JavaScript" src="UI/JS/navMenusIncl.js?lwt=123201234508PM"></script>
+	<script language="JavaScript" src="UI/JS/headerIncl.js?lwt=11102015113616AM"></script>
+	<script language="JavaScript" src="UI/JS/olcIncl.js?lwt=122201050920PM"></script>
+	<script language="JavaScript" src="UI/JS/modalDlg.js?lwt=618201522407PM"></script>
+	<script language="JavaScript" src="UI/JS/modalPopUp.js?lwt=472015113629AM"></script>
   <style type="text/css">
   <!--
 		BODY {color:#555555;}
-		TD {font-size:14px; color:#555555;}
+		TD { font-weight:400; font-size:15.2px; font-size:1.5015rem; font-style:normal; line-height:21px; color:#555555; }
 		MAP area {outline:none;}
 		.ttl {font-size:20px; font-weight:bold; color:#555555;}
 		.hdr1 {text-decoration:none; color:; font-size:14px;}
@@ -102,8 +117,7 @@
 		.coHdr {text-decoration:none; color:; font-size:14px;}
 		.coTtl {font-size:16px; font-weight:bold; color:#555555;}
 		.navbar {font-size:14px; font-weight:bold; color:#555555;}
-    .mainContentContainer {background-color:white; text-align:left; width:1000px;
-            margin-left:auto; margin-right:auto; padding-top:10px;}
+    .mainContentContainer {background-color:white; text-align:left; width:1000px; margin-left:auto; margin-right:auto; padding-top:10px;}
 		.outlnDiv {border:solid 1px #555555; padding:2px 3px 1px 3px;}
 		.hdrLnks {font-size:14px; color:#555555;}
 		.hdrLnks a {color:#555555; text-decoration:none;}
@@ -131,6 +145,7 @@
 		.empuErr {width:240px; font-size:14px; color:#e7ac59;}
 		#emputyContent {background-color:#ffffff; width:755px; height:345px; display:none;}
 		.maintable {margin-left:auto; margin-right:auto; margin-bottom:30px;}
+		#ppbhere:hover { font-weight:700; }
 	-->
 	</style>
 	<meta name="google-site-verification" content="xcsCFPSe_M1XSo7YY3P3GzemNcbzsI5EvqXNBV7Kl6s">
@@ -138,15 +153,15 @@
 <body class="" data-ns="HAN" data-section="" data-page="" onclick="" onload="updateChatFramePos();checkScrollingImageSets();" onmousemove="" onresize="">
     <!-- Google Tag Manager -->
     
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNRLH8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PNRLH8');</script>
-    <!-- End Google Tag Manager -->
-    <div><script language="JavaScript" type="text/javascript" src="/omniture/haCommon.js?lwt=326201521424PM"></script>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNRLH8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager -->
+    <div><script language="JavaScript" type="text/javascript" src="/omniture/haCommon.js?lwt=326201531424PM"></script><noscript></noscript>
     <script language="JavaScript" type="text/javascript"><!--
-    omniturePageName = "security & privacy:home"; omnitureServer = ""; omnitureChannel = "";
-    omniturePageType = ""; omnitureProp1 = "SECURITY & PRIVACY"; omnitureProp2 = "";
+    omniturePageName = "privacy statement:home"; omnitureServer = ""; omnitureChannel = "";
+    omniturePageType = ""; omnitureProp1 = "PRIVACY STATEMENT"; omnitureProp2 = "";
     omnitureProp3 = ""; omnitureProp4 = "Customer Service"; omnitureProp5 = "";
-    omnitureProp6 = ""; omnitureProp14 = "New Shopper"; omnitureProp15 = "";
+    omnitureProp6 = ""; omnitureProp14 = "Repeat Shopper"; omnitureProp15 = "";
     omnitureProp16 = ""; omnitureProp17 = ""; omnitureProp18 = "";
     omnitureCampaign = "";
     omnitureState = ""; omnitureZip = ""; omnitureEvents = "";
@@ -156,6 +171,7 @@
     omnitureEVar7 = ""; omnitureEVar8 = ""; omnitureEVar9 = "";
     omnitureEVar10 = ""; omnitureEVar21 = "";
     //--></script>
+		<noscript></noscript>
     
 <!-- SiteCatalyst code version: H.22.1.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
@@ -163,7 +179,8 @@ More info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript"><!--
 	var omnitureAccount = "hannaanderssonprod";
 //--></script>
-<script language="JavaScript" type="text/javascript" src="/omniture/s_code.js?lwt=23201423332PM"></script>
+<noscript></noscript>
+<script language="JavaScript" type="text/javascript" src="/omniture/s_code.js?lwt=23201433332PM"></script><noscript></noscript>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -202,12 +219,20 @@ s.eVar10 = omnitureEVar10;
 s.eVar21 = omnitureEVar21;
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<noscript></noscript>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
+//--></script><noscript></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.22.1. -->
 </div>
 
+<div id="nowtime" class="mw-hide" style="display:none;">6/20/2016 1:16:24 PM</div>
+<div id="ppolicybanner" class="mw-hide" style="width: 603px; height: 89px; position: fixed; bottom: -55.2655px; left: 50%; margin-left: -301px; z-index: 9; display: block; cursor: pointer;">
+	<img src="http://image.hannaandersson.com/is/image/Hanna/SSIM-Privacy-Policy-Banner-603x89?scl=1&amp;fmt=png" width="603" height="89" alt="">
+	<p style="position:absolute;top:14px;left:31px;color:#555;font-size:13.5pt;font-weight:500;">Just a note...we’ve updated our Privacy Policy, effective on June 30, 2016</p>
+	<p style="position:absolute;top:57px;width:100%;text-align:center;color:#555;font-size:13.8pt;font-weight:500;">Review the new <span id="ppbhere">Privacy Policy</span></p>
+	<div id="ppbnnrclose" style="position:absolute;top:5px;right:0px;width:40px;height:36px;z-index:99;background:rgba(255,255,255,0);"></div>
+</div>
 <div class="wrapper">
 <header>
 	<div class="container-15">
@@ -223,7 +248,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 					<li> <a href="https://www.hannaandersson.com/login.asp">Sign In</a> </li>
 					<li> <a href="https://www.hannaandersson.com/myAccount.asp?regAction=a">Register</a> </li>
 				
-					<li> <script type="extole/widget">{"zone":"topnav","params":{"source":"nav"}}</script> </li>
+					<li> <script type="extole/widget">{"zone":"topnav","params":{"source":"nav"}}</script><noscript></noscript> </li>
 				
 				</ul>
 				<nav>
@@ -234,19 +259,16 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <div class="h3">Shop By Category</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_new+arrivals">New Arrivals</a> 
-</li>
-<li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_dresses">Dresses</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_tops">Tops</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_leggings">Leggings</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_swimwear">Swimwear</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_outerwear">Outerwear</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_sweaters+%26+jackets">Sweaters &amp; More</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_underwear">Underwear</a> 
@@ -255,27 +277,30 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_shoes">Shoes &amp; Slippers</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_hats+%26+gloves">Hats &amp; Gloves</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_hats">Hats &amp; Hair Accessories</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_toys+%26+gifts">Toys &amp; Gifts</a> 
 </li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_new+arrivals">New Arrivals</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_lets+go+mickey+mouse">Let's Go, Mickey Mouse</a> 
+</li>
 </ul>
 <ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_sleepwear">Sleepwear</a> 
-</li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_skirts">Skirts</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_pants">Pants</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_sweaters+%26+jackets">Sweaters &amp; More</a> 
-</li>
-<li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_shorts">Shorts</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_pants">Pants &amp; Leggings</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_sleepwear">Sleepwear</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_tights+%26+socks">Tights &amp; Socks</a> 
@@ -284,40 +309,13 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_belts+%26+accessories">Belts &amp; Jewelry</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_hats">Hair Accessories</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_very+g%26uuml%3bd+everyday+price">Very Güd Everyday Price</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_sale">Sale</a> 
-</li>
-</ul>
-
-</div>
-<div>
-<div class="h3">Features</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_gift+guide+girls">Gift Guide</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_backpack+shop">Backpacks &amp; Bags</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_five+star+faves">Five Star Faves</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_dresses-leggings-tights">The Hanna Look</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_cuddle+co">Cuddle Co.</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_dreamy+pj's">Dreamy PJ's</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_glitter+%26+shine">Glitter &amp; Shine</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_hanna+%26+friends">Hanna &amp; Friends</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_accessories+shop">Accessories Shop</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=girls_peanuts+camp+beagle">Peanuts Camp Beagle</a> 
 </li>
 </ul>
 
@@ -329,36 +327,39 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <div class="h3">Shop By Category</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_new+arrivals">New Arrivals</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_tops">Tops</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_tops">Tops</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_swimwear">Swimwear</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_pants">Pants</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_outerwear">Outerwear</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_sleepwear">Sleepwear</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_hats+%26+belts">Hats &amp; Gloves</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_hats+%26+belts">Hats</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_backpack+shop">Backpacks &amp; More</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_sale">Sale</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_very+g%26uuml%3bd+everyday+price">Very Güd Everyday Price</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_peanuts+camp+beagle">Peanuts Camp Beagle</a> 
 </li>
 </ul>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_sleepwear">Sleepwear</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_sweaters+%26+jackets">Sweaters</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_shorts">Shorts</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_hoodies+%26+sweatshirts">Hoodies &amp; Sweatshirts</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_sweaters+%26+jackets">Jackets &amp; Sweaters</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_underwear">Underwear</a> 
@@ -369,32 +370,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_toys+%26+gifts">Toys &amp; Gifts</a> 
 </li>
-</ul>
-
-</div>
-<div>
-<div class="h3">Features</div>
-<ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_gift+guide">Gift Guide</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_new+arrivals">New Arrivals</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_five+star+faves">Five Star Faves</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_dreamy+pj's">Dreamy PJ's</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_active+shop">Active Shop</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_graphic+tee+shop">Graphic Tee Shop</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_hanna+%26+friends">Hanna &amp; Friends</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_accessories+shop">Accessories Shop</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=boys_lets+go+mickey+mouse">Let's Go, Mickey Mouse</a> 
 </li>
 </ul>
 
@@ -403,31 +383,40 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </li><li><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=baby">Baby</a>
 <div>
 <div>
-<div class="h3">Shop By Category</div>
+<div class="h3">Shop Baby</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_sleepwear">Sleepwear</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_baby+girl">Baby Girl</a> 
 </li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_baby+boy">Baby Boy</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_lilla+hanna+layette">Organic Pima Layette</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_bright+baby+basics">Bright Baby Basics</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_organic+layering">Organic Layering</a> 
+</li>
+</ul>
+
+<div class="h3">Shop Toddler</div>
+<ul>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_toddler+girl">Toddler Girl</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_toddler+boy">Toddler Boy</a> 
+</li>
+</ul>
+
+</div><div><div class="h3">Shop by Category</div>
+<ul>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_one+piece">One Pieces</a> 
 </li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_bottoms">Pants</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_outerwear">Outerwear</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_socks%2c+shoes+%26+tights">Socks, Shoes &amp; Tights</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_underwear">Underwear</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_sale">Sale</a> 
-</li>
-</ul>
-<ul>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_dresses">Dresses</a> 
 </li>
@@ -435,46 +424,68 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_tops">Tops</a> 
 </li>
 <li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_sleepwear">Sleepwear</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_bottoms">Pants &amp; Shorts</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_swimwear">Swimwear</a> 
+</li>
+<li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_sweaters+%26+jackets">Sweaters &amp; Jackets</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_hats">Hats &amp; Mittens</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_blankets+%26+bibs">Blankets &amp; Bibs</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_accessories">Accessories</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_toys+%26+gifts">Toys &amp; Gifts</a> 
 </li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_new+arrivals">New Arrivals</a> 
+</li>
 </ul>
 
 </div>
+</div>
+</li><li><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=accessories">Shoes &amp; Accessories</a>
 <div>
-<div class="h3">Features</div>
+<div>
+<div class="h3">Shop Shoes</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_gift+guide">Gift Guide</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_girls+shoes">Girls Shoes</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_looks+for+littles">Looks For Littles</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_boys+shoes">Boys Shoes</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_five+star+faves">Five Star Faves</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_baby+shoes">Baby Shoes</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_new+mom+baby+essentials">Baby's First Gifts</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_womens+shoes">Womens Shoes</a> 
+</li>
+</ul>
+
+<div class="h3">Shop Accessories</div>
+<ul>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_girls">Girls</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_lilla+hanna+layette">Lilla Hanna Layette</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_boys">Boys</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_hanna+baby+sleepers">Sleeper Outfits</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_baby">Baby</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_bright+baby+basics">Bright Baby Basics</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_women">Women</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=baby_accessories+shop">Accessories Shop</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_top+faves">Top Faves</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=accessories_new+arrivals">New Arrivals</a> 
 </li>
 </ul>
 
@@ -486,7 +497,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <div class="h3">Shop By Category</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_family">Family</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_new+arrivals">New Arrivals</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_girls">Girls</a> 
@@ -504,23 +515,14 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_men">Men</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_dog+johns">Dog Johns</a> 
-</li>
-<li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_accessories">Accessories</a> 
 </li>
 </ul>
 
 </div>
 <div>
-<div class="h3">Features</div>
+<div class="h3">Hanna &amp; Friends</div>
 <ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_dreamy+pj's">Dreamy PJ's</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_dc+comics%26trade%3b">DC Comics™</a> 
-</li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_disney+mickey+mouse">Disney Mickey Mouse</a> 
 </li>
@@ -537,34 +539,28 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_disney+princess">Disney Princess</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_pippi+longstocking">Pippi Longstocking</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_dc+comics%26trade%3b">DC Comics™</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sleepwear_dr+seuss%26trade%3b">Dr. Seuss™</a> 
 </li>
 </ul>
 
 </div>
 </div>
-</li><li><a class="hvrnclck newshop" href="http://www.hannaandersson.com/division.aspx?id=family+shop">Family Shop</a>
+</li><li><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=swimwear">Swimwear</a>
 <div>
 <div>
 <div class="h3">Shop By Category</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=family+shop_let-it-sno-christmas-collection">Let It Snö</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=swimwear_girls">Girls</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=family+shop_winter-wonderful-christmas-collection">Winter Wonderful</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=swimwear_boys">Boys</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=family+shop_ski-norrland-christmas-collection">Ski Norrland</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=family+shop_north-star-christmas-collection">North Star</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=family+shop_folk-mix-fair-isle-christmas-collection">Folk-Mix Fair Isle</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=family+shop_sleepwear-christmas-collection">Sleepwear</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=swimwear_baby">Baby</a> 
 </li>
 </ul>
 
@@ -579,111 +575,58 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_dresses">Dresses</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_sleepwear+%26+lounge">Sleepwear &amp; Lounge</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_tops">Tops</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_skirts">Skirts</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_tops">Tops</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_pants">Pants</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_pants">Pants &amp; Shorts</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_sweaters+%26+jackets">Sweaters &amp; Jackets</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_socks%2c+shoes+%26+tights">Socks, Shoes &amp; Tights</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_sleepwear+%26+lounge">Sleepwear &amp; Lounge</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_shoes+socks+tights">Shoes &amp; Socks</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_hats+%26+accessories">Hats, Belts &amp; Totes</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_sale">Sale</a> 
-</li>
-</ul>
-
-</div>
-<div>
-<div class="h3">Features</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_gift+guide">Gift Guide</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/giftSets.asp?id=women_holiday+lookbook">Holiday Lookbook</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_picture+ready+picks">Picture Ready Picks</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_most+loved+favorites">Most Loved Favorites</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_pima+cotton+shop">Pima Cotton Shop</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_stripe+love">Stripe Love</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_french+terry+shop">French Terry Shop</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_accessories+shop">Accessories Shop</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=women_maternity">Maternity</a> 
 </li>
 </ul>
 
 </div>
 </div>
-</li><li><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=home">Sheets &amp; Bedding</a>
+</li><li><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=home">Bedding</a>
 <div>
 <div>
 <div class="h3">Shop By Category</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_girls+bedding">Girls Bedding</a> 
-</li>
-<li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_duvets">Duvet Covers</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_quilts">Quilts</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_bedding+basics">Bedding Basics</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_pillowcases">Pillowcases</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_window+curtains">Window Curtains</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_furniture+%26+lighting">Furniture &amp; Lighting</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_storage">Storage</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_sale">Sale</a> 
-</li>
-</ul>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_boys+bedding">Boys Bedding</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_sheets">Sheets</a> 
 </li>
 <li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_quilts">Quilts</a> 
+</li>
+<li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_blankets+%26+throws">Blankets &amp; Throws</a> 
+</li>
+<li>
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_bedding+basics">Bedding Basics</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_nursery">Nursery &amp; Crib Bedding</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_decorative+pillows">Decorative Pillows</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_decorative+pillows">Decorative Pillows &amp; Pillowcases</a> 
 </li>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_rugs">Rugs</a> 
@@ -692,88 +635,19 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_decor">Decor</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_toys+%26+accessories">Toys &amp; Accessories</a> 
-</li>
-</ul>
-
-</div>
-<div>
-<div class="h3">Shop The Room</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/productSet.aspx?id=home_paper+garden">Paper Garden</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_girls+bedding">Girls Bedding</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/productSet.aspx?id=home_swedish+tulip">Swedish Tulip</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/productSet.aspx?id=home_black+%26+white">Black &amp; White</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/productSet.aspx?id=home_pennant+room">Pennant Room</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/productSet.aspx?id=home_woodland+room">Woodland Room</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/productSet.aspx?id=home_viking+room">Viking Room</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=home_boys+bedding">Boys Bedding</a> 
 </li>
 </ul>
 
 </div>
 </div>
-</li><li><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=sale">Sale</a>
+</li><li class="last"><a class="hvrnclck" href="http://www.hannaandersson.com/division.aspx?id=sale">Sale</a>
 <div>
 <div>
-<div class="h3">$20 Long Johns &amp; Baby Sleepers</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_girls+30+off+sleep">Girls</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_boys+30+off+sleep">Boys</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_baby+30+off+sleep">Baby</a> 
-</li>
-</ul>
-
-<div class="h3">40% off Sleepwear</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_40+off+sleep+girls">Girls</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_40+off+sleep+boys">Boys</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_40+off+sleep+baby">Baby</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_women+%26+men">Women &amp; Men</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_slippers">Slippers &amp; More</a> 
-</li>
-</ul>
-
-<div class="h3">New Savings</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_girls+19+dresses">$29 Girls Dresses</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_boys+29+pants">$29 Boys Pants</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_30+off+graphic+tees">30% Off Graphic Tees</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_outerwear">Up to 50% off Outerwear</a> 
-</li>
-</ul>
-
-<div class="h3">Clearance</div>
+<div class="h3">Big Big Sale up to 60% Off</div>
 <ul>
 <li>
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_girls">Girls</a> 
@@ -788,56 +662,23 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_women">Women</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_hanna+home">Hanna Home</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_backpacks+%26+more">Backpacks &amp; More</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_hanna+home">Sheets &amp; Bedding</a> 
 </li>
 </ul>
 
-</div>
-</div>
-</li><li class="last"><a class="hvrnclck newgifts" href="http://www.hannaandersson.com/division.aspx?id=gift+guide"><img class="mw-hide" src="http://image.hannaandersson.com/is/image/Hanna/navigation-new-black-28x12?scl=1&amp;fmt=png" width="28" height="12">Gifts</a>
-<div>
-<div>
-<div class="h3">Gift Ideas</div>
+<div class="h3">Clearance</div>
 <ul>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_under+%2450">Under $50</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_girls+hclearance">Girls</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_stocking+stuffers">Stocking Stuffers</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_boys+hclearance">Boys</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_best+sellers">Best Sellers</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_clearance+baby">Baby</a> 
 </li>
 <li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_top+rated+items">Top Rated Items</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_gift+cards">Gift Cards</a> 
-</li>
-</ul>
-
-<div class="h3">I'm Shopping For</div>
-<ul>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_girls">Girls</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_boys">Boys</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_baby">Baby</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_women">Women</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_family">Family</a> 
-</li>
-<li>
-<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=gift+guide_home">Home</a> 
+<a class="frsttchclck" href="http://www.hannaandersson.com/category.aspx?id=sale_hclearance+women">Women</a> 
 </li>
 </ul>
 
@@ -846,11 +687,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </li>
 					</ul>
 				</nav>
-				<a href="http://www.hannaandersson.com/basket.asp?bguid=23A10819143D48CBBE481D0D2AD34CBE" id="notminicart" class="cta cta-large cta-fa frsttchclck">
+				<a href="http://www.hannaandersson.com/basket.asp?bguid=44CD18D6770F474993E7AB84F55ED5E4" id="notminicart" class="cta cta-large cta-fa frsttchclck">
 					Bag (<span id="bagItemsCount">0</span>)
 				</a>
 				<form class="newdesign" onsubmit="return freeTextSearch('');" action="" id="searchForm">
-					<input type="search" placeholder="Search by keyword or item #" id="freeText" maxlength="50" class="tchfcs">
+					<input type="search" title="Search by keyword or item #" placeholder="Search by keyword or item #" id="freeText" maxlength="50" class="tchfcs">
 					<button><i class="fa fa-search"></i></button>
 				</form>
 			</div>
@@ -860,63 +701,26 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </div>
 
 <table width="1000" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff" style="margin-left:auto;margin-right:auto;"><tbody><tr>
-	<td><img src="images/global/shim.gif" border="0" height="1" width="10" name="imgFramePos"></td>
+	<td><img src="images/global/shim.gif" alt="" border="0" height="1" width="10" name="imgFramePos"></td>
 	<td width="980">
 		<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
 			<tbody><tr><td><div style="display:none;width:980px;height:0px;background-color:#555555;overflow:hidden;"></div></td></tr>
-	            <tr><td><img src="images/global/shim.gif" border="0" height="5" width="1"></td></tr>
+	            <tr><td><img src="images/global/shim.gif" alt="" border="0" height="5" width="1"></td></tr>
 		</tbody></table>
 	
-		<div id="allPagesBannerMobile" style="display:none;"><a href="http://www.hannaandersson.com/division.aspx?id=sale"><img border="0" src="" alt="" data-src="http://www.hannaandersson.com/images/global/120415-global-banner.png"></a></div>
-	
 	</td>
-	<td bgcolor="#ffffff"><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
+	<td bgcolor="#ffffff"><img src="images/global/shim.gif" alt="" border="0" height="1" width="10"></td>
 </tr></tbody></table>
 
 <table class="maintable" width="1000" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
-  <tbody><tr><td><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
+  <tbody><tr><td><img src="images/global/shim.gif" alt="" border="0" height="1" width="10"></td>
 		<td width="980" align="left" valign="top">
-			<div class="ttl" style="padding:20px 0px 15px 0px;">SECURITY &amp; PRIVACY</div>
-<div><div><span style="font-size:14px; color:#555555;">At Hanna Andersson ("Hanna") we are committed to your security and privacy. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this we collect customer information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.<br><br>
-<b><font color="555555">Frequently Asked Questions</font></b><br><a style="color:#555555;" href="#information">What information is collected?</a><br><a style="color:#555555;" href="#informationused">How is my information used?</a><br><a style="color:#555555;" href="#informationshared">Will my information be shared?</a><br><a style="color:#555555;" href="#cookies">What are cookies and how does Hanna use them?</a><br><a style="color:#555555;" href="#informationupdate">How can I update my information?</a><br><a style="color:#555555;" href="#informationremove">How do I remove my information?</a><br><a style="color:#555555;" href="#informationsecure">How does Hanna ensure my information is secure?</a><br><a style="color:#555555;" href="#childprivacy">How does Hanna protect children's privacy?</a><br><a style="color:#555555;" href="#changes ">What if there are changes made to this policy?</a><br><a style="color:#555555;" href="#scope">What is the scope of this policy?</a><br><a style="color:#555555;" href="#intellectual">What intellectual property rights are associated with the Hanna website?</a><br><a style="color:#555555;" href="#policy">How does this policy apply to sites linked with the Hanna website?</a><br><br>
+			<div class="ttl" style="padding:20px 0px 15px 0px;">PRIVACY STATEMENT</div>
+Last updated: June 15, 2016; effective June 30, 2016.<a style="color:#2B60DE;" href="/static.asp?pg=278"> Review our prior Privacy Policy</a>.<br><br>At Hanna Andersson ("Hanna"), we are committed to protecting the privacy of your information. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this, we collect personal information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.<br><br>This Statement describes how we collect and use information gathered through your use of our website (www.hannaandersson.com), call center, marketing materials, mobile apps, and social media channels (collectively, the "Services"). This Statement does not apply to information collected about you through any other means, including information collected by third parties or through non-electronic means. By using the Services or providing personal information to Hanna, you consent to our privacy practices as described in this Privacy Statement. <br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;#strong#;" href="#scope">What is the scope of this policy? </a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#information">What information is collected?</a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"> <a style="color:#555555;" href="#cookies">What are cookies and how does Hanna use them?</a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#request">Do-not-track requests</a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#informationused">How is my information used?</a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#informationshared"> How will my information be shared? </a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#informationupdate">How do I review or update my information? </a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#optout">How do I opt out? </a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#protectinformation">How does Hanna protect my information? </a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#childprivacy">How does Hanna protect children's privacy?</a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#changes ">What if there are changes made to this policy?</a></h1><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><a style="color:#555555;" href="#linkedsites ">How does this policy apply to sites linked with the Hanna website? </a></h1> <a name="scope">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">What is the scope of this policy? </font></h1><br>This policy applies to Hanna Andersson's treatment of personally identifiable information that Hanna Andersson collects through its website, mobile site or apps and when you use Hanna Andersson's services. The policy does not apply to practices of companies whose websites may be linked to or from this website. For access to the privacy policies of such linked websites, please refer to the information provided by such websites at their home pages.<a name="information">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">What information is collected? </font></h1><br>Hanna collects two different types of information about you: First, you provide us with certain personal information when you interact with the Services. Second, we collect certain information automatically as you use the Services. <br><br>a. Personal Information<br><br>You provide us with certain personal information when making a purchase (online, through the call center or at a store), logging into your account, registering with us, requesting a catalog, signing up for email updates, participating in a survey, interacting with Hanna (via social media, chat, email or phone), or participating in our referral program. The information collected may include your name, mailing address, email address, phone number, birthday, gender, credit card number, and other personal information. Some of this information is optional. <br><br>In addition to your personal information, we may maintain a record of your purchases and any content  you send us. For example, when you become part of the #HANNAJAMS or #ILOVEMYHANNAS gallery, we keep a copy of the photo you submit. When you send a message, we keep a copy of the message to ensure your questions are answered in a helpful and speedy manner.  <br><br>b. Information collected automatically<br><br>Certain information is collected automatically when you use our Services. For example, when you visit our website, we collect your IP address and maintain a record of your activity on the website. If you access our website from a mobile device, we collect unique device IDs, as well as aggregate geolocation information, which helps us understand where our customers are located.  We may connect information collected automatically with information we already have so we can identify you as a Hanna customer. For example, we may link your activity in a Hanna store to your use of the Hanna website [or app]. This allows us to provide the best shopping experience possible. We examine metrics such as how you are shopping on our website, in our stores, and on our mobile applications, the performance of our marketing efforts, and your response to those marketing efforts. <a name="cookies">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">What are cookies and how does Hanna use them? </font></h1><br>Hanna and its trusted business partners employ technology features known as cookies and web beacons to understand how you interact with our website and email messages. These are small snippets of code or text files used for site usage analytics and content and advertising personalization. Cookies are stored by your browser on your hard drive. Hanna does not save any password or credit card information in cookies. Hanna does place a unique identifier in the cookie, which allows us to link your computer to the information we store in our database. We also allow third-party companies to place cookies and web beacons that collect certain information when you visit our website or use our mobile app. This information is used to serve you with ads for our products and our partners' products that are likely to interest you. These ads may appear on third-party websites. <br><br>This allows us to provide a more personalized experience on our website, including remembering items placed in your shopping cart for 14 days, emailing you with recommendations, auto-filling forms, and providing enhanced online display advertising and other information tailored to your interests. In this way, Hanna uses both session cookies (which track a user's progression during one site visit) and persistent cookies (which track a user over time). In addition, Hanna uses certain technologies, such as cross device tracking, for remarketing purposes. <br><br>All of this technology is used to deliver a more relevant and convenient experience for you. Certain tracking technologies may not be disabled. However, you have the choice to refuse cookies by turning them off in your Internet browser. If you choose not to accept cookies, you will not be able to purchase from the Hanna website. If you prefer, you may call Customer Service at 800-222-0544 to place your order. <a name="request">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">Do-not-track requests</font></h1><br>Your Internet browser and mobile device may allow you to adjust your browser settings so that "do not track" requests are sent to the websites you visit. Hanna does not respond to "do not track" requests at this time. <a name="informationused">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">How is my information used? </font></h1><br>Information that is collected is used in the following ways: <br><br>&nbsp;•To confirm and process your order. <br>&nbsp;•To contact you regarding updates to your order. <br>&nbsp;•To provide the Services. <br>&nbsp;•To send you information regarding website and product updates, special promotions, new store openings, etc. Marketing information may be provided via mail or email.
+<br>&nbsp;•To comply with regulatory requirements for the maintenance of records.<br>&nbsp;•To conduct internal reviews of our Services and to help us better understand visitors' and customers' uses of our Services.<br>&nbsp;•To tailor our product offering and marketing promotions and make your shopping experience more enjoyable and convenient.<br>&nbsp;•To protect the security and integrity of our Services.<br>&nbsp;•To comply with court orders and legal process, and to enforce our terms of Service and this Statement.<br>&nbsp;•For any other legal, business or marketing purposes that are not inconsistent with the terms of this Statement. <a name="informationshared">&nbsp;</a> <br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">How will my information be shared? </font></h1><br>a. Service Providers<br><br>Hanna does not sell, rent or trade our customer email addresses with third parties for their own marketing purposes. However, we may share your personal information with our third-party distributors, vendors, suppliers and other service providers who provide services to us or on our behalf, such as operating and supporting the Services, performing marketing or consulting services, assisting us with the preparation and mailing of our business and marketing communications, and with order processing and fulfillment functions.<br><br>Occasionally, Hanna provides your name and mailing address (not your email address) to other unaffiliated, reputable companies who may send you mailings. If you do not wish for us to share this information with these companies, you can add your name to our "Do Not Rent" list by sending us an email at <a href="/contactus.aspx">customerservice@hannaAndersson.com</a> or calling 800-222-0544. If you send an email, please be sure to provide your name and mailing address in the message.<br><br>b. Targeted Advertising<br><br>We contract with third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for that are more relevant to you. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. Besides IP addresses, no personally identifiable information is collected in this process. <a href="http://www.networkadvertising.org/understanding-online-advertising" target="_blank">The Network Advertising Initiative ("NAI")  </a> provides additional information about targeted advertising.  NAI also allows you to opt out of targeted advertising by its member companies by visiting the <a href="http://www.networkadvertising.org/choices/" target="_blank">NAI Consumer Opt-Out</a> page.  Opting-out will not in any way affect your use of our site. You may also opt out of targeting advertising by Digital Advertising Alliance members by visiting the <a href="http://www.aboutads.info/choices" target="_blank">Digital Advertising Alliance Consumer Choice</a> page. <br><br>c. Analytics<br><br>Hanna has partnered with Omniture, a company that helps us better understand our customers' use of our website. Omniture uses cookies and web beacons  to collect and analyze information, such as how customers navigate our website and which products they browse and purchase, so that we may make improvements to our services. Omniture does not collect credit card, username, or password information. In addition, Omniture is contractually prohibited from using Hanna data that personally identifies our users for any other purposes and is required to protect all personally identifiable information it collects. You may opt out of this <a href="http://www.adobe.com/privacy/opt-out.html" target="_blank">Omniture data collection</a>. To learn more about your Omniture tracking options visit <a href="http://www.adobe.com/privacy/analytics.html#optout" target="_blank"> Adobe Privacy Center</a>.<br><br>Hanna also uses Google Analytics to study how users interact with our Services. To learn more about Google's privacy practices, visit <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">Google Privacy &amp; Terms</a>.  <br><br>Hanna may engage other analytics providers from time to time. These third parties may combine your information with the information of other consumers for purposes of conducting marketing studies and analytics.<br><br>d. Transfer or Assignment in Connection with Business Transfers or Bankruptcy <br><br>In the event of a merger, acquisition, reorganization, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. We reserve the right, as part of this type of transaction, to transfer or assign your personal information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, or as otherwise agreed to by you, the use and disclosure of all transferred user information will be subject to this Statement. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.<br><br>e. Response to Subpoenas or Court Orders or to Protect Our Rights <br><br>We may disclose your information to government authorities or third parties if: <br><br>&nbsp;•you have given us permission to share your information; <br>&nbsp;•we are required to do so by law, or in response to a subpoena or court order; <br>&nbsp;•we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, or to protect our property or other rights or those of other users of  the Services, third parties or the public at large; <br>&nbsp;•we believe that you have abused a Service by using it to attack or gain unauthorized access to a system or to engage in spamming or other conduct that violates applicable laws or Hanna's website <a href="/static.asp?pg=80">terms of use</a>.  <br><br>f. Aggregate Information<br><br>We may share aggregate or de-identified information without restriction. While this information will not identify you personally, in some instances, third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally. <a name="informationupdate">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">How do I review or update my information? </font></h1><br>If you are a registered user, you may access your information by signing in and clicking on "My Account" at the top of the page. You may make changes to your personal information, email preferences, and mailing preferences on this page. Be sure to click the "Save" button to save your changes.<br><br>You can also contact customer service to access or make changes to your information by calling 800-222-0544 or sending an email to <a href="/contactus.aspx">customerservice@hannaAndersson.com</a>.<a name="optout">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">How do I opt out?</font></h1><br>If you wish to opt out of certain third-party tracking and targeting advertising practices, please see the instructions in the sections above. <br><br>You may <a href="http://dtmc.hannaandersson.com/adinfo/choice/prod/?type=fpc&amp;loc=us&amp;lang=en-us&amp;cid=2363&amp;cname=Hanna%20Andersson&amp;cmagic=505259&amp;clogo=hanna_andersson.png" target="_blank">opt out</a> of advertising provided directly by Hanna. <br><br>If you do not wish to receive marketing correspondence (including catalogs and emails), please email us at <a href="/contactus.aspx">customerservice@hannaAndersson.com</a> or call us at 800-222-0544.  If you only wish to unsubscribe from emails, you can click on the unsubscribe link at the bottom of the email. If you send an email to customer service, please be sure to include your name, address, and/or email address as it appears on the email or mailing you received from Hanna and indicate which list(s) you would like to be removed from (email and/or mailing).<br><br>We maintain a "Do Not Mail" file to ensure we honor your "opt out" requests. Please note that, since mailings are planned in advance, it may take up to eight weeks for your mailing "opt out" to become effective. If you make purchases from our website, you will still receive order and shipping confirmation emails. In addition, customer service may contact you by phone, email, or mail with questions related to your order. <a name="protectinformation">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">How does Hanna protect my information? </font></h1><br>The security of your personal information is very important to Hanna, and we have implemented measures to ensure your information is processed confidentially, accurately, and securely. Our website is PCI DSS compliant and uses Secure Sockets Layer (SSL) technology to encrypt your order information, such as your name, address, and credit card number, during data transmission. We use a third-party payment processor, which is also PCI DSS compliant. <br><br>The Hanna website also displays the VeriSign Secure Site Seal, which indicates that the site has been authenticated by VeriSign and that confidential transactions with our site are secured by SSL encryption. <br><br>Our customer service center and stores also operate over a private, secure network. <a name="childprivacy">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"><font color="555555">How does Hanna protect children's privacy? </font></h1><br>We at Hanna Andersson are concerned about the safety and security of children. All children's products we sell are for purchase by adults only.  In accordance with the Children's Online Privacy Protection Act, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that an individual is under the age of 13, and has submitted any information to Hanna Andersson for any purpose without prior verifiable parental consent, we will delete his or her information from our files.  <a name="changes">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"> <font color="555555">What if there are changes made to this policy? </font></h1><br>Hanna Andersson may make updates to this policy from time to time. Any updates that are made will be posted on this page at least 14 days before such updates become effective. We encourage customers to periodically review this policy to stay informed of how we collect, use, and protect customer information. <a name="linkedsites">&nbsp;</a><br><br><br><h1 style="font-weight:bold; font size:15px;text-transform=none;"> <font color="555555">How does this policy apply to sites linked with the Hanna website? </font></h1><br>In the event this website contains links to websites that are not created or maintained by Hanna Andersson, this Privacy Statement applies only to Hanna Andersson's website and not to any of these third party websites.  
+<br></td>
 
-<a name="information"></a><b><font color="555555">What information is collected?</font></b><br>
-
-Hanna collects information from you that you provide when making a purchase (online, through the call center or at a store), logging into your account, registering with us, requesting a catalog, signing up for email updates, participating in a survey, or submitting a referral card. The information collected may include your (or a referral's) name, mailing address, email address, phone number, or credit card number.<br>
-In addition to your personal information, we may maintain a record of your purchases made online, over the phone, or at one of our stores.<br>
-When you visit our website, www.hannaandersson.com, we collect your Internet provider (IP) address and maintain a record of your activity on the website.<br><br>
-<a style="color:#555555;" name="informationused"></a><b><font color="555555">How is my information used?</font></b><br>
-Personal information that is collected is used to confirm and process your order, to contact you regarding updates to your order or to provide you with marketing information regarding website and product updates, special promotions, new store openings, etc. Marketing information may be provided via mail, email or telephone. If you do not wish to receive marketing correspondence, please email us at customerservice@hannaAndersson.com
-
-<br>Purchase records or information collected regarding your website activity is used to tailor our product offering and marketing promotions and make your shopping experience more enjoyable and convenient.<br><br>
-<a style="color:#555555;" name="informationshared"></a><b><font color="555555">Will my information be shared?</font></b><br>Hanna does not sell, rent or trade our customer email addresses with third parties. However, we may provide other personal information to third parties, such as Federal Express, in order to provide services like fulfilling orders, processing payments, tracking website activity, conducting surveys, or administering emails.<br><br>
-Occasionally Hanna provides your name and postal address (not your email address) to other unaffiliated, reputable companies who may send you mailings. If you do not wish for us to share this information with these companies, you can add your name to our "Do Not Rent" list by sending us an email or calling 800-222-0544. If you send an email, please be sure to provide your name and mailing address in the message.<br><br>We contract with third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected in this process. If you do not want third-party service providers to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. In order to opt-out please <a style="color:#555555;" href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.<br><br></span></div>
-<span style="font-size:14px; color:#555555;">Hanna has partnered with Omniture, a company that helps us better understand our customers' use of hannaandersson.com. Omniture uses cookies to collect and analyze information, such as how customers navigate our website and which products they browse and purchase, so that we may make improvements to our site. Omniture is not allowed to collect credit card, username, or password information. In addition, Omniture is contractually prohibited from using Hanna data for any other purposes, or to match it against any other information in its possession, and is required to maintain all information collected in the strictest confidence. As a visitor to www.hannaandersson.com you may "opt out" of this Omniture data collection. To learn more about your Omniture tracking options <a style="color:#555555;" href="http://www.omniture.com/en/privacy/2o7#optout" target="_blank">click here</a>. <br><br>
-<a style="color:#555555;" name="cookies"></a><b><font color="555555">What are cookies and how does Hanna use them?</font></b><br>
-The Hanna website uses a browser feature known as a cookie. A cookie is a small text file created by a website that is stored by your browser on your hard drive. Hanna does not save any password or credit card information in cookies. Hanna does place a unique identifier in the cookie which allows us to connect your computer with the information we store in our secure database. This allows us to provide services such as a more personalized experience on our website, remembering items placed in your shopping cart for 14 days, auto-filling forms and providing enhanced online display advertising tailored to your interests.  To opt out of advertising provided directly by Hanna, <a style="color:#555555;" href="http://dtmc.hannaandersson.com/adinfo/adchoices_fpc.html?cid=2363&amp;cname=Hanna%20Andersson&amp;cmagic=505259&amp;clogo=hanna_andersson.png" target="_blank">click here</a>.<br><br>
-You have the choice to refuse cookies by turning them off in your Internet browser. However, if you choose not to accept cookies, you will not be able to purchase from the Hanna website. If you prefer you may call Customer Service at 800-222-0544 to place your order.<br><br>
-<a style="color:#555555;" name="informationupdate"></a><b><font color="555555">How do I review or update my information?</font></b><br>
-If you are a registered user online you may access your information by signing in and clicking on "My Account" at the top of the page. You may make changes to your personal information, email preferences, or mailing preferences on this page. Be sure to click the "Update My Account" button to save your changes.<br><br>
-You can also contact customer service to access or make changes to your information by calling 800-222-0544 or sending an email to customerservice@hannaAndersson.com.<br><br>
-<a style="color:#555555;" name="informationremove"></a><b><font color="555555">How do I remove my information?</font></b><br>
-If you prefer not to receive marketing emails and/or mailings from Hanna, and you are a registered user online, you may "opt out" by signing in and clicking on "My Account" at the top of the page. If you only wish to unsubscribe from emails you can click on the unsubscribe link at the bottom of the email. You may also contact customer service by calling 800-222-0544 or sending an email. If you send an email to customer service, please be sure to include your name, address, and/or email address as it appears on the email or mailing you received from Hanna and indicate which list(s) you would like to be removed from (email and/or mailing).<br><br>
-We maintain a "Do Not Mail" file to ensure we honor your "opt out" requests. Please note that, since mailings are planned in advance, it may take up to eight weeks for your mailing "opt out" to become effective. If you make purchases from our website you will still receive order and shipping confirmation emails. In addition customer service may contact you by phone, email, or mail with questions related to your order.<br><br>
-<a style="color:#555555;" name="informationsecure"></a><b><font color="555555">How does Hanna ensure my information is secure?</font></b><br>
-The security of your personal information is very important to Hanna, and we have implemented measures to ensure your information is processed confidentially, accurately, and securely. Our website uses Secure Sockets Layer (SSL) technology to encrypt your order information, such as your name, address, and credit card number, during data transmission. Once you begin the checkout process you will be in secure mode and should see either a solid key icon or a locked padlock icon at the bottom of your Internet browser window. In addition, the beginning of the Hanna URL address at the top of your browser should change from "http" to "https"; the "s" standing for secure.<br><br>
-The Hanna website also displays the VeriSign Secure Site Seal, which indicates that the site has been authenticated by VeriSign and that confidential transactions with our site are secured by SSL encryption.<br><br>Our customer service center and stores also operate over a private, secure network.<br><br>
-<a name="childprivacy"></a><b><font color="555555">How does Hanna protect children's privacy?</font></b><br>
-We at Hanna Andersson are concerned about the safety and security of children.  In accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that an individual is under the age of 13, and has submitted any information to Hanna Andersson for any purpose without prior verifiable parental consent, we will delete his or her information from our files.<br><br>
-<a name="changes"></a><b><font color="555555">What if there are changes made to this policy?</font></b><br>
-Hanna Andersson may make updates to this policy from time to time. Any updates that are made will be posted on this page. We encourage customers to periodically review this policy to stay informed of how we collect, use, and protect customer information.<br><br>
-<a name="scope"></a><b><font color="555555">What is the scope of this policy?</font></b><br>
-This policy applies to Hanna Andersson's treatment of personally identifiable information that Hanna Andersson collects through its website and when you use Hanna Andersson's services. The policy does not apply to practices of companies whose websites may be linked to this website. For access to the privacy policies of such linked websites, please refer to the information provided by such websites at their home pages. Also see the paragraph below under the heading "Hypertext Links".<br><br>
-<a name="intellectual"></a><b><font color="555555">What intellectual property rights are associated with the Hanna website?</font></b><br>
-Hanna Andersson, its suppliers, or the original creators of all materials on Hanna Andersson's website own all copyrightable subject matter on this website and all trademarks, patents, proprietary information, technologies, products, processes or other proprietary rights of Hanna Andersson and/or such other parties. No license to or right in any such copyrights, trademarks, patents, proprietary information, technologies, products, processes and other proprietary rights of Hanna Andersson and/or other parties is granted to or conferred upon you. In addition, direct linking, deep linking, framing, page-jacking, metatagging, and using a robot, spider, or automated device of any kind to monitor or copy Hanna Andersson's website is strictly prohibited.<br><br>Notwithstanding the foregoing, Hanna Andersson hereby authorizes you only to copy the content herein solely for your personal and private use in learning about, evaluating, or acquiring Hanna Andersson products. Except where expressly noted, no other permission is granted to print, copy, reproduce, distribute, transmit, upload, download, store, display in public, alter, or modify the content contained on this website. Any unauthorized use of any material contained on this website may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications' regulations and statutes. Any other use of materials on this website, including reproduction for purposes other than those expressly permitted herein, modification, distribution, or republication, without prior written permission of Hanna Andersson is strictly prohibited. Any copy made by you as permitted herein must retain all copyright and trademark notices, including any other proprietary notices, contained in the materials. The use of such materials on any other website or in any environment of networked computers is prohibited.<br><br>
-<a name="policy"></a><b><font color="555555">How does this policy apply to sites linked with the Hanna website?</font></b><br>
-In the event this website contains hypertext links to websites that are not created or maintained by Hanna Andersson, this privacy policy applies only to Hanna Andersson's website and not to any of these third party websites. Hanna Andersson is not responsible for the accuracy, relevance, timeliness, or completeness of those third party websites. The inclusion of any link to such websites does not imply endorsement, sponsorship, or recommendation by Hanna Andersson of the third party websites. Hanna Andersson disclaims any liability for links (1) from another website to this website, and (2) to another website from this website.  Hanna Andersson cannot guarantee the standards of any website to which links are provided on Hanna Andersson's website, nor shall Hanna Andersson be held responsible for the contents of those websites, or any subsequent links. For this reason, Hanna Andersson does not represent or warrant that the contents of any third party website is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws. Hanna Andersson does not endorse the contents of these third party websites in any way. Also, Hanna Andersson is not responsible for web casting or any other form of transmission received from any linked website. Any reliance on the contents of a third party website is done at your own risk, and you assume all responsibilities and consequences resulting from such reliance.<br><br>
-<br></span></div></td>
-
-		<td><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
+		<td><img src="images/global/shim.gif" alt="" border="0" height="1" width="10"></td>
   </tr>
 </tbody></table>
 
@@ -942,9 +746,9 @@ In the event this website contains hypertext links to websites that are not crea
 						<li> <a href="http://www.hannaandersson.com/sizingChart.asp">Sizing Help</a> </li>
 						<li> <a href="http://www.hannaandersson.com/onlineCatalogs.asp">View Our Catalog</a> </li>
 						<li> <a href="https://www.hannaandersson.com/CatalogRequest.asp">Request a Catalog</a> </li>
-						<li> <a href="http://www.hannaandersson.com/quickOrder.asp">Catalog Quick Order</a> </li>
+					
 						<li> <a href="http://www.hannaandersson.com/giftcards.aspx">Gift Cards</a> </li>
-						<li id="norton"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.hannaandersson.com&amp;size=S&amp;use_flash=NO&amp;lang=en"></script></li>
+						<li id="norton"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.hannaandersson.com&amp;size=S&amp;use_flash=NO&amp;lang=en"></script><noscript></noscript></li>
 					</ul>
 				</div>
 				<div class="col-3">
@@ -969,16 +773,16 @@ In the event this website contains hypertext links to websites that are not crea
 					<p>If you’re unhappy with a product at <span>any time for any reason</span>, just bring or send it back to us, and we’ll refund the purchase price or replace the item. It’s as simple as that.</p>
 					<div class="h6">Get News <span>&amp; Offers</span> </div>
 					<form class="newdesign" onsubmit="return joinEmailList();">
-						<input type="email" placeholder="Enter Your Email" id="jlea">
+						<input type="email" title="Enter Your Email" placeholder="Enter Your Email" id="jlea">
 						<input type="submit" value="Sign Up">
 					</form>
 					<div class="referafriend"><div onclick="window.location.href='http://www.hannaandersson.com/referafriend.aspx?source=globalfooter';"><span>20% OFF </span>WHEN YOU<span> REFER A FRIEND</span></div></div>
 					<div class="socialbuttons">
-						<a href="https://www.facebook.com/pages/Hanna-Andersson/80848053174" target="_blank" class="facebook"></a>
-						<a href="https://www.pinterest.com/hanna" target="_blank" class="pinterest"></a>
-						<a href="https://instagram.com/happyhannas" target="_blank" class="instagram"></a>
-						<a href="http://twitter.com/happyhannas" target="_blank" class="twitter"></a>
-						<a href="http://www.thehannablog.com" target="_blank" class="hannablog"></a>
+						<a href="https://www.facebook.com/pages/Hanna-Andersson/80848053174" title="Hanna Facebook page" target="_blank" class="facebook"></a>
+						<a href="https://www.pinterest.com/hanna" title="Hanna Pinterest page" target="_blank" class="pinterest"></a>
+						<a href="https://instagram.com/happyhannas" title="Hanna Instagram page" target="_blank" class="instagram"></a>
+						<a href="http://twitter.com/happyhannas" title="Hanna Twitter page" target="_blank" class="twitter"></a>
+						<a href="http://www.thehannablog.com" title="The Hanna Blog" target="_blank" class="hannablog"></a>
 					</div>
 				</div>
 			</div>
@@ -990,9 +794,10 @@ In the event this website contains hypertext links to websites that are not crea
 			<div class="row">
 				<div class="col-13 suffix-2">
 					<ul>
-						<li>Copyright © 2015 Hanna Andersson</li>
+						<li>Copyright © 2016 Hanna Andersson</li>
 						<li> <a href="http://www.hannaandersson.com/Static.asp?pg=80">Terms of Use</a>  </li>
-						<li> <a href="http://www.hannaandersson.com/Static.asp?pg=201">Security &amp; Privacy</a>  </li>
+						<li> <a href="http://www.hannaandersson.com/Static.asp?pg=201">Privacy Policy</a>  </li>
+						<li> <a href="/Accessibility">Accessibility</a> </li>
 					</ul>
 				</div>
 			</div>
@@ -1000,7 +805,7 @@ In the event this website contains hypertext links to websites that are not crea
 	</section>
 </footer>
 
-<script language="JavaScript" src="UI/JS/countryCtrl.js?lwt=34201414818PM"></script>
+<script language="JavaScript" src="UI/JS/countryCtrl.js?lwt=34201424818PM"></script><noscript></noscript>
 <script type="text/javascript">
 	var empuFields = [
 			{ "id": "empuEma", "defaultValue": "email address" },
@@ -1014,9 +819,10 @@ In the event this website contains hypertext links to websites that are not crea
 			$('#' + empuFields[i].id).val(empuFields[i].defaultValue); }
 	});
 </script>
+<noscript></noscript>
 <div id="empuContent" style="text-align:left;">
 	<div style="position:absolute;bottom:0px;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td style="vertical-align:bottom;padding:0px 10px 0px 15px;"><img src="images/global/emailSignUpOffer.jpg" alt="Hello! Get the scoop on sales, store events and more! Extra 10% Off regular-price and sale items online and in stores, new subscribers only."></td>
+		<td style="vertical-align:bottom;padding:0px 10px 0px 15px;"><img src="images/global/emailSignUpOffer.jpg" alt="Get the scoop on sales, store events and more! Plus a 10% Off coupon for new subscribers only."></td>
 		<td style="vertical-align:bottom;padding-bottom:25px;"><div class="empuTxt">all fields are required</div>
 			<div id="empuEmaErr" class="empuErr">&nbsp;</div>
 			<div style="padding-bottom:6px;"><input type="text" title="Email address:" id="empuEma" class="empuInptTxt" maxlength="53" value="" onfocus="inputTxtFocus(0);" onblur="inputTxtBlur(0);"></div>
@@ -1033,7 +839,7 @@ In the event this website contains hypertext links to websites that are not crea
 	</tr></tbody></table></div>
 </div>
 <div id="emputyContent">
-	<div style="padding-top:90px;text-align:center;"><img src="images/global/emailSignUpThankYou.jpg" alt="Thank you! Your savings will appear in your inbox soon. To make sure our emails reach you, just add customerservice@csmail.hannaAndersson.com to your address book."></div>
+	<div style="padding-top:90px;text-align:center;"><img src="images/global/emailSignUpThankYou.jpg" alt="Thank you! Please add customerservice@csmail.hannaAndersson.com to your address book."></div>
 	<div style="padding-top:25px;text-align:center;"><img src="images/global/close.gif" alt="Close" style="cursor:pointer;" onclick="emlThnkYouDlg.close();"></div>
 </div>
 <script type="text/javascript">
@@ -1086,19 +892,23 @@ In the event this website contains hypertext links to websites that are not crea
 		var $inputObj = $('#' + empuFields[fieldNumber].id); if ($inputObj.val() == "") $inputObj.val(empuFields[fieldNumber].defaultValue);
 	}
 </script>
+<noscript></noscript>
 
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<noscript></noscript>
 		<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-6112906-1");
 		pageTracker._trackPageview();
 		</script>
+		<noscript></noscript>
 
 <!-- https://developer.yahoo.com/performance/rules.html#js_bottom -->
-	<script src="UI/JS/plugins.js?lwt=582014101747AM"></script>
-	<script src="UI/JS/app.min.js?lwt=126201532217PM"></script>
+	<script src="UI/JS/plugins.js?lwt=582014111747AM"></script><noscript></noscript>
+	<script src="UI/JS/app.min.js?lwt=32201621905PM"></script><noscript></noscript>
+
 
 
 
