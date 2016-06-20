@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebitcoins4u.co.uk privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121051920id_/http%3A//www.freebitcoins4u.co.uk/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebitcoins4u.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231232id_/http%3A//www.freebitcoins4u.co.uk/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # FreeBitcoins4U
 
