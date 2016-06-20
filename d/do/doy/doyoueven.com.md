@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doyoueven.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002237id_/http%3A//www.doyoueven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyoueven.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231535id_/http%3A//www.doyoueven.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – DOYOUEVEN – The home of fitness.
+# Privacy Policy – DoYouEven
 
-WHAT INFORMATION WE COLLECT
+**WHAT INFORMATION WE COLLECT**
 
 The information we collect via this website may include:
 
@@ -24,7 +24,4 @@ Any personal information we collect from you will be used in accordance with the
 3\. to comply with legal requirements  
 We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the “Yes” box when entering your personal details. You may unsubscribe at a later date, if you wish – see “Your rights” section below. 
-
-  
-
+We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. 
