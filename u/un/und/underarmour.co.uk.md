@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the underarmour.co.uk privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204085129id_/http%3A//www.underarmour.co.uk/en-gb/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the underarmour.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620183706id_/http%3A//www.underarmour.co.uk/en-gb/privacy-policy.html) for the most accurate reproduction.*
 
 # Under Armour | Privacy Policy
 
