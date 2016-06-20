@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodsie.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206033127id_/http%3A//goodsie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsie.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620170717id_/http%3A//goodsie.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Goodsie
+# Privacy Policy | Goodsie Ecommerce Software, Online Store Builder
 
-## Privacy Policy
+### Privacy Policy
 
 This Privacy Policy describes the type of information that we collect, how Goodsie and other third parties may use this information, and the tracking technologies and processes used to collect it. This policy applies to information we collect when you sign up for Goodsie; access or use our website, products, and services (collectively, the "Services"); or when you otherwise interact with us. This policy also applies to information we collect if you make a purchase at a store hosted on Goodsie using our Services even if you have not signed up for a Goodsie account.
 
@@ -10,26 +10,26 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 _Goodsie Attention: Privacy Officer 20000 E Country Club Dr. Aventura, FL 33180[Email Privacy Officer](mailto:privacy@goodsie.com)_
 
-## Collection of Information
+### Collection of Information
 
   
 
 
-### Information You Provide
+#### Information You Provide
 
 We collect information you provide, such as when you sign up for a Goodsie account or in the course of a transaction. We may collect, but are not limited to collecting, the following: basic user information, such as your name, email address, mailing address, phone number, and birth date; financial information, including bank account and payment card numbers; and other contact information. We also collect information when you upload information to the Services about your products and services (including inventory and pricing data) or otherwise communicate with us in customer support forums or by email.
 
   
 
 
-### Information We Collect from Your Use of the Services
+#### Information We Collect from Your Use of the Services
 
 We collect information about how you use our Services, including your access times, browser types and language, and Internet Protocol ("IP") addresses. We use various technologies to collect information, and this may include sending cookies to your computer. Cookies are small data files that are stored on your hard drive or in device memory by a website. Among other things, cookies support the integrity of our registration process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity. We may also collect information using web beacons. Web beacons are electronic images that may be used in our Services or emails. We may use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness, and determine whether an email has been opened and acted upon.
 
   
 
 
-### Use of Information
+#### Use of Information
 
 We use information about you to provide, maintain, and improve our Services and to deliver the information and support you request, including order receipts, technical notices, service updates, and support and administrative messages.
 
@@ -48,7 +48,7 @@ We may also use information we collect if we believe that disclosure is reasonab
   
 
 
-### Information Security
+#### Information Security
 
 The security of your personal information is important to us. When you enter sensitive information, such as a credit card number on our account payment form, we encrypt the transmission of that information using secure socket layer technology (SSL). Credit card details are stored encrypted using AES-256 encryption. We take all reasonable measures, including administrative, technical, and physical safeguards, to help protect personal information from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction.
 
