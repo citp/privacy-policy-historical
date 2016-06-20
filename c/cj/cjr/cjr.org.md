@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the cjr.org privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjr.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Columbia Journalism Review
 
 ### About Us
 
-[Mission Statement ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/mission_statement.php)  
-[Masthead ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/masthead.php)  
-[Major Funders ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/masthead.php#MajorFunders)  
-[Press Room ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/press_room.php)  
-[Follow Us ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/follow_us.php)  
-[Privacy Policy ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/privacy_policy.php)  
+[Mission Statement ](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/mission_statement.php)  
+[Masthead ](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/masthead.php)  
+[Major Funders ](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/masthead.php#MajorFunders)  
+[Press Room ](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/press_room.php)  
+[Follow Us ](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/follow_us.php)  
+[Privacy Policy ](https://web.archive.org/web/20160620165623id_/http%3A//www.cjr.org/about_us/privacy_policy.php)  
 
 
 * * *
 
 **Privacy Policy**
 
-CJR is committed to protecting your privacy. We do not currently collect personally identifiable information, except in specific instances, such as signing up for our e-mail list. If you choose to provide such information, that information will not be used for purposes other than that for which it was collected. CJR will not sell or transfer your e-mail address or use it for anything other than communications from CJR, and will never do so without your explicit permission. 
+CJR is committed to protecting your privacy. We do not currently collect personally identifiable information, except in specific instances, such as signing up for our e-mail list. 
 
 Like most websites, CJR does collect non-personal information, such as IP addresses of visitors and data about the usage of pages. This information is used to help us evaluate and improve the site, and understand what our readers are looking for when they visit CJR. We may also disclose aggregated non-personal information to third parties for marketing purposes.
 
@@ -56,7 +56,7 @@ Violating any of the rules above more than once.
 
 Using non-working, outdated e-mail addresses in one’s account. 
 
-Using language CJR deems to be offensive or obscene in one’s username 
+Using language CJR deems to be offensive or obscene in one’s username. 
 
 Using multiple accounts to post comments. 
 
@@ -65,7 +65,7 @@ Using multiple accounts to post comments.
 **Full Legal Disclosure**  
 
 
-By using the comments feature on CJR or otherwise using this site, you agree that you will not post or otherwise distribute any content that is offensive, obscene, defamatory, unlawful, threatening, abusive, harassing, or deceptive. You also agree that you will not impersonate any other person, and that you will not display or distribute copyrighted material without the express permission of the copyright owner (except as otherwise allowed by law), or infringe any patent, trademark, or other proprietary right of any person 
+By using the comments feature on CJR or otherwise using this site, you agree that you will not post or otherwise distribute any content that is offensive, obscene, defamatory, unlawful, threatening, abusive, harassing, or deceptive. You also agree that you will not impersonate any other person, and that you will not display or distribute copyrighted material without the express permission of the copyright owner (except as otherwise allowed by law), or infringe any patent, trademark, or other proprietary right of any person. 
 
 To the extent that users express points of view about a political candidate or any other matter, the views expressed are solely those of the user. 
 
