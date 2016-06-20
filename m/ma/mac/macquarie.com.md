@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macquarie.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002064233id_/http%3A//www.macquarie.com/ca/about/disclosures/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macquarie.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620145404id_/http%3A//www.macquarie.com/us/about/disclosures/privacy-and-cookies) for the most accurate reproduction.*
 
 # Macquarie Group Privacy Policy
 
@@ -113,7 +113,7 @@ Where the personal information we collect is no longer required, we delete the i
 
 ###  How you can access or correct your information 
 
-You can [contact us](https://web.archive.org/ca/about/contact) to request access to or correction of your personal information. In normal circumstances we will give you full access or make the requested corrections to your information. However, there may be some legal or administrative reasons to deny these requests. If your request is denied, we will provide you with the reason why (if we can). Where we decide not to make a requested correction to your personal information and you disagree, you may ask us to make a note of your requested correction with the information. 
+You can [contact us](https://web.archive.org/us/about/contact) to request access to or correction of your personal information. In normal circumstances we will give you full access or make the requested corrections to your information. However, there may be some legal or administrative reasons to deny these requests. If your request is denied, we will provide you with the reason why (if we can). Where we decide not to make a requested correction to your personal information and you disagree, you may ask us to make a note of your requested correction with the information. 
 
 ###  Dealing with Macquarie Group online 
 
@@ -140,7 +140,7 @@ If you disable the use of cookies on your web browser or remove or reject specif
 
 ###  Contact us
 
-If you have any questions or complaints regarding privacy or information handling, please write to [privacy@macquarie.com](mailto:privacy@macquarie.com) or [contact us](https://web.archive.org/ca/about/contact) by phone. Please mark communications to the attention of our Privacy Officer. We will respond to let you know who will be handling your matter and when you can expect a further response. 
+If you have any questions or complaints regarding privacy or information handling, please write to [privacy@macquarie.com](mailto:privacy@macquarie.com) or [contact us](https://web.archive.org/us/about/contact) by phone. Please mark communications to the attention of our Privacy Officer. We will respond to let you know who will be handling your matter and when you can expect a further response. 
 
 If your concerns are not resolved to your satisfaction, you may be able to escalate your complaint to an external dispute resolution scheme or to a regulatory authority. We can provide details of the appropriate scheme/regulator for you, as these may vary by jurisdiction or product. 
 
