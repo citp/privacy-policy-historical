@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117182445id_/http%3A//www.motor1.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620110602id_/http%3A//motor1.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Corporate info | Motor1.com
+# Privacy Policy | Motor1.com
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTOR1.COM PRODUCT OR SERVICE.**
 
