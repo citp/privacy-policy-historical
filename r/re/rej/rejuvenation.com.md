@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rejuvenation.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121155149id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rejuvenation.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620224027id_/http%3A//www.rejuvenation.com/customer-service/privacy) for the most accurate reproduction.*
 
-# Rejuvenation
+# 
 
 We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase contact information means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
@@ -16,7 +16,7 @@ In general, you can visit many of our web pages without telling us who you are o
 
 If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
 
-Back to Top
+▲ Back to Top
 
 ## Using Information About You
 
@@ -41,7 +41,7 @@ We allow third-party companies to serve ads and/or collect certain information w
 
 We may share contact information and other data with businesses controlling, controlled by, or under common control with any Williams-Sonoma, Inc. Brands. In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Williams-Sonoma, Inc. Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.
 
-Back to Top
+▲ Back to Top
 
 ## Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
 
@@ -55,15 +55,15 @@ We want to communicate with you only if you want to hear from us. If you prefer 
 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates. Please note that any requests to remove or update your contact information may take up to five days for your email request and 6-8 weeks to process your postal mail request.
 
-Back to Top
+▲ Back to Top
 
 ## Cookies
 
 When you visit our web sites, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A cookie is a small data file that is placed on the hard drive of your computer when you visit a web site. A session cookie expires immediately when you end your session (i.e., close your browser). A persistent cookie stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. We use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
-Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. In addition, we or certain of our Service Providers, in connection with the services that they provide to us, may work with third parties who may use cookies to collect information to tailor advertising for you and others elsewhere on the Internet and on our web sites, and to assist in reminding us of who you are. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
+Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking [here](http://dtmc.rejuvenation.com/adinfo/choice/prod/?type=fpc&cid=2441&cname=Rejuvenation&cmagic=7a6844&clogo=rejuvenation.png&loc=us&lang=en-us). In addition, we or certain of our Service Providers, in connection with the services that they provide to us, may work with third parties who may use cookies to collect information to tailor advertising for you and others elsewhere on the Internet and on our web sites, and to assist in reminding us of who you are. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
-Back to Top
+▲ Back to Top
 
 ## Security
 
