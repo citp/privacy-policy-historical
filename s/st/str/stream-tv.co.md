@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream-tv.co privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108020549id_/http%3A//stream-tv2.la/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream-tv.co privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621002809id_/http%3A//stream-tv2.ag/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stream TV Free | Stream TV Free
 
@@ -28,3 +28,13 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: streamsitefree [at] gmail [dot] com
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+
+�
+
+�
+
+�
+
+�
+
+�
