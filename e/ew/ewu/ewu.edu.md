@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214162214id_/http%3A//www.ewu.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620203141id_/https%3A//www.ewu.edu/Privacy-Policy) for the most accurate reproduction.*
 
 # EWU | EWU Privacy Policy
 
@@ -93,7 +93,7 @@ Neither the State of Washington, nor any agency, officer, or employee of the Sta
 
 You may contact Eastern Washington University as follows:
 
-To offer [comments](http://www.ewu.edu/contact-ewu/website-feedback) about Eastern Washington University's websites, or about the information presented in this Privacy Notice:
+To offer [comments](https://www.ewu.edu/contact-ewu/website-feedback) about Eastern Washington University's websites, or about the information presented in this Privacy Notice:
 
 Web Team  
 Eastern Washington University  
