@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dotabuff.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083907id_/http%3A//www.dotabuff.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotabuff.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621010900id_/http%3A//www.dotabuff.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DOTABUFF - Dota 2 Stats
 
-Elo Entertainment LLC (Dotabuff) collects e-mail addresses of people who send us e-mail. We also collect information on what pages visitors access and information provided to us by via forms submitted by visitors. Such information may contain personal data about you including your name, your email, etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing the Service. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide us a valid consent to disclose the following: in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of service, or as otherwise required by law.
+Elo Entertainment LLC ("Dotabuff") collects e-mail addresses of people who send us e-mail. We also collect information on what pages visitors access and information provided to us by via forms submitted by visitors on our websites, including Dotabuff.com and Trackdota.com (collectively the "Sites", the "Services"). Such information may contain personal data about you including your name, your email, etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing the Service. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide us a valid consent to disclose the following: in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of service, or as otherwise required by law.
 
 Dotabuff does not rent, sell, or share personal information about you with other companies except to provide products or services you’ve requested or when we have your permission.
 
@@ -23,6 +23,14 @@ Dotabuff may disclose personally identifiable information under special circumst
 ### Cookies
 
 A cookie is a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site’s computers and stored on your computer’s hard drive. Dotabuff uses cookies to record current session information. Our cookies typically exist perpetually and we provide the ability to remove your session cookie with a sign out link.
+
+### Analytics Data
+
+We use [Google Analytics](https://www.google.com/analytics/) to help us understand how Dotabuff users are interacting with the Service. We use this data to determine which pages are most popular, which features are working (or not working) for users, and how fast (or slow) the Site is across different locations and languages. All of the data that we send to Google is anonymized. We do not send any information that could be used to personally identify you or other users on the Site.
+
+Although the data that we send cannot be used to personally identify you or other users, we still respect the [Do Not Track](http://donottrack.us/) (DNT) settings in users' browsers.
+
+It appears that DNT is not enabled in your browser.
 
 ### Changes to the Privacy Policy
 
