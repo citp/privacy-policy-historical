@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybrightwheel.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220031539id_/http%3A//www.mybrightwheel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrightwheel.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620222818id_/http%3A//mybrightwheel.com/privacy) for the most accurate reproduction.*
 
-# privacy - brightwheel
+# Privacy Policy - brightwheel
 
 Effective date: February 1, 2015
 
