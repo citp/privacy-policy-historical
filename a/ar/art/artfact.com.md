@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210054752id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620204342id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # Bidder & Subscriber Privacy Policy | Invaluable
 
@@ -124,7 +124,7 @@ As a dynamic and growing Site, Invaluable may contain links to other sites that 
 
 Invaluable, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Invaluable, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.   To learn more about the Safe Harbor program, and to view Invaluable, LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
-Invaluable has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20151210054752id_/http%3A//www.invaluable.com/agreements/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Invaluable has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20160620204342id_/http%3A//www.invaluable.com/agreements/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 **6) HOW TO CONTACT US**
 
@@ -138,4 +138,79 @@ Attention: Privacy Officer
 
 Boston, MA 02134.
 
-This policy document 1.80 was last revised January 5, 2015.
+**7) SOTHEBY'S ON INVALUABLE ONLINE PLATFORM PRIVACY POLICY**
+
+This Sotheby’s on Invaluable Online Platform ("Web Site" or “Platform”) is published and maintained by Invaluable. If you are a registered user of Invaluable, the Invaluable Privacy Policy governs your agreement with Invaluable with respect to Invaluable’s collection, use, storage, and disclosure of your personal information. Sotheby's does not control and is not responsible for the information and privacy practices of Invaluable on the Invaluable Web site, which is operated entirely by Invaluable. You agree that Sotheby’s and its affiliates will not be responsible for, and that you release Sotheby’s and its affiliates from, any and all claims, liabilities, damages, losses and expenses related to unauthorized access to or use of, or any security breach relating to or affecting, Invaluable’s collection, use, storage, and disclosure of your personal information. 
+
+This Sotheby’s on Invaluable Online Platform Privacy Policy describes your privacy rights concerning personal information Invaluable shares with Sotheby’s in connection with your access and participation in auctions by Sotheby's and its subsidiaries and affiliates (collectively referred to in this Privacy Policy as "Sotheby's," "we," "us,""our," or other similar pronouns, or "The Sotheby's Group") conducted by Invaluable on the Invaluable Online Platform. 
+
+By registering to bid in the Sotheby’s auction on the Invaluable Online Platform, you consent to and accept the terms of this Privacy Policy as they may be amended from time to time, and you consent to Sotheby’s collection, use, disclosure and retention of your personal information on the terms set forth in this Privacy Policy. As we update and expand our services, this Privacy Policy may change, so please review this Privacy Policy before registering to bid, accessing and/or participating in any Sotheby’s auction conducted on the Invaluable Online Platform. This Privacy Policy is incorporated into, and part of, the Sotheby's on Invaluable Online Platform Conditions of Sale posted on this page, which governs your relationship with Sotheby’s when you access Sotheby’s auctions through the Invaluable Online Platform. 
+
+**Purpose**  
+Your privacy is a serious matter to us. In order to make your visits to Sotheby’s on Invaluable Online Platform and your use of the services available through the Platform possible, Invaluable may share with us Personal Information about you and your interactions with the Platform. "Personal Information" is any information that may identify you as an individual or allow online or offline contact with you as an individual, and includes your name; title; home and/or business address; e-mail address; home and/or business telephone, wireless and/or fax number; credit card and other payment information; demographic information; your location; art interests or preferences, art purchases, auction activity and bidding history, paddle numbers, bidding amounts, payment history. “Personal Information” includes “Personal Data” as that term is defined in Article 2 of the European Union Data Protection Directive. This Privacy Policy explains, in general, what Personal Information and other information Invaluable shares with Sotheby’s via the Sotheby’s on Invaluable Online Platform, how that information is used, and with whom we may share that information. Please take a few minutes to read our Privacy Policy so that you understand how Sotheby's treats your Personal Information. 
+
+**WHAT INFORMATION COLLECTED ON THE SOTHEBY’S ON INVALUABLE ONLINE PLATFORM DOES SOTHEBY’S RECEIVE FROM INVALUABLE?**
+
+**User-Provided Information**  
+Invaluable collects Personal Information about Invaluable users who register and/or bid via the Sotheby’s on Invaluable Online Platform and may share that information with Sotheby’s. Invaluable may collect such Personal information, for example, through users' activities, transactions and completion of online forms on the Platform. Such information is collected, for example, when users register to bid, place bids, are successful in purchasing at auction, submit a comment or question to Invaluable, contact Invaluable or Sotheby’s for customer service or use any similar "contact us" feature, send Sotheby’s or Invaluable an email, or in any other way submit Personal Information to Invaluable related to their use of the Sotheby’s on Invaluable Online Platform. 
+
+**How is your Personal Information used?**
+
+Sotheby’s will use the Personal Information that Invaluable shares with us to provide services to you. For example, Sotheby’s may use your Personal Information to respond to your requests and inquiries, to provide you with client service that you request, and to prevent, detect and to investigate fraud, security breaches, or other potentially prohibited or illegal behavior and to enforce our policies. We will also use your Personal Information to maintain our internal record keeping, to run credit checks and to report to credit bureaus. Late payments, missed payments, or other defaults in connection with your transaction activity on the Sotheby’s on Invaluable Online Platform may be reflected in your credit report. We may match or combine information collected from you through different means or at different times, including both Personal Information and information about your use of the Platform, and use such information along with information obtained from other sources, including from third parties. 
+
+In addition, we may use your Personal Information to contact you via email, telephone or postal mail or as you otherwise authorize us in order to inform you about certain other Sotheby’s events and services. 
+
+**Marketing Preferences**  
+You have the right to "opt in" and "opt out" of certain of our uses of your Personal Information and may change your preferences regarding such uses at any time. For example, you may have the opportunity to elect whether or not to receive commercial correspondence from us related to certain auctions, sales and other services. You may also opt-out of Sotheby's promotional e-mails by clicking on the opt-out link within the e-mail you receive from us, or of Sotheby's postal mailings by following the directions in such mailings. Please be aware that it may take up to 10 business day(s)for Sotheby’s to update your preferences. During that time, you may continue to receive messages from us. 
+
+Please understand that if you opt-out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us, including on the Sotheby’s on Invaluable Online Platform. 
+
+**Do we share Personal Information and Web Site Usage Information with others?**  
+Sotheby's does not sell, lease or give your Personal Information we receive from Invaluable relating to Sotheby’s on Invaluable Online Platform to any other company, except as otherwise described herein. 
+
+**Service Providers**  
+Sotheby’s may use third party partners to provide products or services to you. We, may, when necessary to do so, share your Personal Information with our affiliates, service providers or other third parties that provide products or Services for or through this Web Site or for our business purposes (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). These third party partners are obligated to protect the security and confidentiality of your information. 
+
+**Call Center**  
+Sotheby’s may provide certain Personal Information to Sotheby's third-party call center. The third-party call center is required to keep all sensitive information about you and your use of this Web Site confidential. The call center is required to use your information solely in order to help you with registration or sign-in problems and other services. 
+
+**Aggregate Statistics**  
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, this Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. Aggregate statistics we disclose in this manner do not contain your Personal Information. 
+
+**Legally Compelled Disclosures**  
+We may disclose user information to government authorities or other third parties when we believe such disclosure is required by law. We may also disclose user information as necessary to enforce the Sotheby’s Web Site Terms and Conditions, in connection with investigations, or when we believe disclosure is necessarily incident to the provision of Sotheby’s services or to the protection of the rights, property or safety of Sotheby’s or others. 
+
+**Business Transfer**  
+Sotheby's regards its databases of customer information (which will include your Personal Information) as a valuable asset. In the event that Sotheby's, any entity of The Sotheby's Group, or substantially all of its or their assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, such databases containing Personal Information may be one of the transferred assets. In addition, such a transfer may mean that your Personal Information is transferred to countries outside the European Economic Area ("EEA") even if you are located within the EEA. By using the Services you consent to such transfer of your Personal Information. 
+
+**Your Access Rights**  
+You may review and edit the Personal Information that is stored by Sotheby’s by contacting Sotheby's via the email address at the end of this policy. We will endeavor to respond to your request as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. In addition, you have the right to request access to the Personal Information that we hold about you at any time. 
+
+**Security**  
+Sotheby's will take reasonable steps to protect the security and integrity of the Personal Information Invaluable shares with us, including by making your Personal Information available to our employees and agents only on a need-to-know basis. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
+
+If you contact us by e-mail or a "contact us" or similar feature on our Web Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. 
+
+We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties. 
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, if we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. 
+
+**Phishing**  
+With identity theft a continuing problem, it has become increasingly common for unauthorised individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as"phishing." 
+
+Sotheby’s will never request your password or social security number via e-mail. If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your password for the Platform or your credit card information) via e-mail or to a web site that does not seem to be affiliated with Sotheby’s or Invaluable, or that otherwise seems suspicious to you, please do not provide any information in response to the request, and report such request to us. 
+
+**Consent to Worldwide Transfer and Processing of Personal Data**  
+Sotheby's is a global enterprise, with affiliates worldwide. When you give your Personal Information to Sotheby's, it may be processed by Sotheby's in all countries in which Sotheby's has affiliates. Each of these countries has different privacy laws that afford varying levels of protection for your Personal Information. Regardless of the laws in place in these countries, Sotheby's will treat the privacy of your information in accordance with the terms of this Privacy Policy. By providing your Personal Information to Sotheby's, you consent to Sotheby's transmission to, and processing of your information in, any jurisdiction, in accordance with this Privacy Policy. 
+
+**Changes to this Privacy Policy**  
+Sotheby's reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this Web Site, or by otherwise making such changed or updated Privacy Policy accessible to affected users. Any changes or updates will be effective immediately upon posting to this Web Site, or upon such other notice by us. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as by sending you an e-mail. 
+
+If you have any questions or comments regarding our privacy practices or wish to verify or change the information in our files, you may contact us at enquiries@sothebys.com. You may also send mail to us with any comments, questions or concerns at: 
+
+Sotheby's  
+1334 York Avenue  
+New York, New York 10021  
+Attention: Data Quality Department 
+
+This policy document 2.20 was last revised March 16, 2016.
