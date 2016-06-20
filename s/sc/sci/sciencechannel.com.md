@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencechannel.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228180829id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencechannel.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620183127id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Discovery Communications, Inc.
+# Privacy Policy – Discovery Communications, Inc.
 
 This privacy policy applies only to the websites and applications controlled by Discovery Communications, LLC and/or its subsidiary and affiliated entities (“Discovery,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
