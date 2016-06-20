@@ -1,100 +1,97 @@
-> *The following text is extracted and transformed from the levelskip.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levelskip.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621001254id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# HubPages Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+This Privacy Policy was last updated on February 2, 2016, and is effective February 9, 2016. See the bottom of this page for recent changes to this Privacy Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [HubPages.com](http://hubpages.com/), Tatring.com, Bellatory.com, Delishably.com, AxleAddict.com, CalorieBee.com, DenGarden.com, FeltMagnet.com, Exemplore.com, ReelRunDown.com, LevelSkip.com, ToughNickel.com, KindredBond.com, TurboFuture.com, WanderWisdom.com, LetterPile.com, Holidappy.com, Soapboxie.com, SkyAboveUs.com, HowTheyPlay.com, HobbyLark.com, Owlcation.com, PairedLife.com, HealDove.com and PetHelpful.com (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the [HubPages Service](http://hubpages.com/), you expressly consent to the practices and activities described in this document. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## 1\. Information We Collect
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We collect the following information:
 
-**Information Collection and Use**
+a. User Provided Information. You may provide certain personally identifiable information to [HubPages](http://hubpages.com/) directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When You use our Service, we may collect and store information about Your use, including the following:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+b. Cookies. When You visit the Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that identifies your web browser. You can set your web browser to refuse cookies; however, this may limit the functionality our Service can provide to You.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+c. Log Files. Log file information is automatically reported by your web browser each time You view a web page. When You register with or use the Service, our servers automatically record certain information that your web browser sends whenever You visit a website. These server logs may include information such as your IP address, browser type and language, number of clicks, domain names of websites visited, pages viewed, and the order of those pages, the amount of time spent on particular pages, the date and time.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+d. Clear Gifs. When You use the Service, we may use clear gifs (a.k.a. web beacons) which are pieces of data used to track the online usage patterns of our Users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make HubPages better for our Users.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Information collected through clear gifs and cookies, and log file information is largely non-personally identifiable information because such information is not collected or used in such a way that an individual User can be identified, for example, by name or email address (collectively, “Non-Personally Identifiable Information”). Collected information may be Personally Identifiable Information or Non-Personally Identifiable Information.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+e. Third-party service-based information. This includes linked services (such as Facebook Connect) that You authorize to share information about You with HubPages. If You elect to use Facebook Connect with HubPages, You agree that HubPages may use (as described in Section 2) information about You provided by Facebook, including (but is not limited to) Your: name, email, gender, birthday, current city, profile picture URL, as well as any additional information (such as “Like” information) that You specifically consent for HubPages to access and use.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service.
 
-**Security**
+## 2\. Use of Information
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Collected information is used to operate, maintain, and provide to You the features and functionality of the Service.
 
-**Updating Your Information**
+We may use your Personally Identifiable Information for billing purposes, payment purposes (including any tax-related purposes), administrative purposes, such as notifying You of major changes in Service, news, and for other customer service purposes. You hereby consent to our use of your email address to send you such information. Also, we may provide credit card and ordering information to payment processors, including Paypal®, but we do not retain such information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may use collected information to: (a) remember information so that You will not have to re-enter it during your current or subsequent visits to the Service; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) track User Content, and status in any promotions, sweepstakes, and contests; (f) diagnose or fix technology problems; (g) access your information after You sign in; (h) market our Service to advertisers and other third parties; (i) to improve the quality and design of the Service and to create new features by storing, tracking, and analyzing your preferences and trends; and (j) verify your identity for payment and taxation purposes.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The HubPages account screen name/username and/or subdomain name that you select will be displayed on the Service. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## 3\. When We Disclose Information
 
-      iii.      You may call us at: (480) 505-8800
+We may share your Personally Identifiable Information with third parties solely for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of HubPages (for instance, on servers or databases co-located with hosting providers).
 
-       iv.      You may fax us at: (480) 505-8844
+Any information or User Content submitted, transmitted, or uploaded to the public areas of the Service becomes publicly available and can be collected and used by other Users, who may forward this information or User Content to other websites or people.. Be aware that if Your User Content includes personal information, such as your name and email address, other Users will have access to it. If Your User Content is a photograph, please be aware that all photographs uploaded to the Service reside on public URLs. Any person who knows the URL of Your photograph can access the photograph, whether or not it’s published on a Hub. Your photograph will remain displayed on such URL after You delete it from Your Hub. Please do not upload any photographs that You do not want to be public information.
 
-**Sending Emails**
+If You request to join the eBay Partner Network as a sub-affiliate of HubPages, You acknowledge that eBay requires personal information about You to approve Your participation in the program, and You agree that HubPages may disclose to eBay personal information about You that eBay requires, including (but not limited to) Your: name, email, phone number, address, and country. If You request to participate in the Amazon Program under HubPages, You acknowledge that Amazon may require personal information about You to with respect to Your participation in the program (for fraud monitoring and other possible reasons), and You agree that HubPages may disclose to Amazon such personal information about You that Amazon requires, including (but not limited to) Your: name, email, phone number, address, and country.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+In order to describe our Service to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Service, including Users’ use of our Service and the success of promotions.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We may release collected information if required to do so by law, or if we believe that such action is appropriate to comply with state and federal laws or respond to a court order, law enforcement request or demand, subpoena, or search warrant. We may disclose collected information to applicable entities (for example, the Internal Revenue Service and third party payment providers) with respect to payment and tax-related purposes. We may also share collected information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including but not limited to, fraud; potential threats to public safety or the physical safety, property, or rights of any person; or violations of our Terms of Use.
 
-**Compliance with Laws and Law Enforcement**
+## 4\. Third-Party Service Providers
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+The Service may be used in conjunction with services provided through a variety of third parties, such as Google. The use of User Content and other information provided by You to such third parties is governed by their privacy policies, not our Privacy Policy. HubPages is not responsible for such third party privacy policies or their compliance with such policies.
 
-**Third Party Service Providers**
+HubPages may allow third-party ad servers or ad networks to serve advertisements and/or collect information on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on HubPages. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. HubPages does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks HubPages to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Service, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. The HubPages Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## 5\. Choices
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You may update or correct your Personally Identifiable Information at any time as indicated on the Service or by sending us an email at team@HubPages.com. If You or HubPages intend to delete any User Content provided by You, we cannot guarantee that your User Content will be completely removed from all User devices or from their web pages, nor that other Users will not misuse any content that You supply. In addition the other Users may have already copied and forwarded your User Content to others, making recovery impossible.
 
-**Supplementation of Information**
+## 6\. Data Security
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We have put in place commercially reasonable physical, managerial, and technical procedures to protect your Personally Identifiable Information and other data from loss, misuse or alteration and to safeguard and secure the data You provide. While we strive to protect such information after it arrives at our servers, we cannot guarantee the security of any information that is being transmitted over the Internet, or guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. As a result, You provide such information at your own risk.
 
-**Contests/Surveys**
+## 7\. Children’s Privacy
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Protecting the privacy of children is especially important. For that reason, we do not knowingly collect Personally Identifiable Information submitted by persons under 18 years of age. If You are under 18 years of age, then please do not submit any information to the Service at any time or in any manner.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## 8\. Merger or Bankruptcy
 
-**Tell-A-Friend**
+In the event that we acquire, are acquired by, or merge with a third party entity, we reserve the right to transfer or assign all collected information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy or similar situation, we may not be able to control how your information is treated, transferred, or used.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## 9\. Changes and Updates
 
-**What Happens to my Personal Information if I Opt Out?**
+We reserve the right, at our sole discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. Any changes will be reflected by the effective date at the beginning of the Privacy Policy. Your continued use of the Service constitutes your agreement to this Privacy Policy and any current revisions.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## 10\. Contact Information
 
-**Transfer of Data Abroad**
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## RECENT CHANGES TO THIS PRIVACY POLICY
 
-**Changes in Our Practices**
+February 2, 2016: We added websites to the service for where Hubs may appear when published. Websites include tatring.com, pethelpful.com and additional websites in the future. These additional websites share registration information so that users can login to any website that is part of the HubPages service.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+November 18, 2011: We have revised the policy to reflect our participation in the Amazon Associates Program.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+October 4, 2011: We have revised the policy to reflect our participation in the eBay Partner Network, and to more accurately reflect the ways in which we collect and use information on the Service.
 
-**Contacting Our Site**
+July 13, 2011: We added that user subdomains will also be displayed on the Website in section 2.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+February 24, 2011: We added a description of the information we receive from third party services such as Facebook Connect. We added references to payment and tax information.
 
-* * *
+September 20, 2010: We moved our explanation of how we disclose your User Content to Section 3, and added an explanation of how we store and disclose photographs you upload to the Service.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+December 10, 2009: We revised Section 4 to clarify the information that third-party advertisers may collect on the Service.
+
+November 19, 2009: We made changes throughout the Privacy Policy. Please review the amended Privacy Policy carefully. Among other things, we added a provision to Section 3 explaining how we may share your Personally Identifiable Information with our service providers; explained how third-party advertisers use your information in Section 4; clarified our security policy in Section 6; and deleted a provision about international users that is covered in our Terms of Use.
