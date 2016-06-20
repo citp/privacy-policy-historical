@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tonsofbuzz.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221015528id_/http%3A//tonsofbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonsofbuzz.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620233033id_/http%3A//www.tonsofbuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tons of Buzz
+# Privacy Policy | Tons of Buzz
 
 Your privacy is important to us.  
 This Privacy and Information Security Policy (“the Policy”) discusses the personally identifiable information that we collect about you when you use our website and the other services we provide on or through the Site (together with the Site, the “Service”).
