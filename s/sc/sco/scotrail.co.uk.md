@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220183952id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotrail.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620150302id_/http%3A//www.scotrail.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | ScotRail
 
@@ -148,7 +148,9 @@ The conversion tracking cookie is set on your browser only when you click an ad 
 
 #### DoubleClick tracking
 
-We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"). We also have implemented Google Analytics Demographics and Interest reporting which reports third party audience data (such as anonymised age, gender and interests) within Google Analytics. You can manage how Google manages this information and "opt out" from data collection at [Google Ads Preferences Manager](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjFCvaQdGQwMve4YkK4n-vx0zEf3GSaj_8sZwBcKRYDhNpr8OMU_qNi2MCHudiG2niqOLn35wmrbsVYLX0k6MvhsnEBiMMahARe9d_agUgKG4hNYXLrvh006U4CqPwPmKJj5LBOC7xi4lGO6hED4UcFoanOMpk5QJDPvo5ZKSv1j4GP5ZA "Opens in a new window").
+We use the Google DoubleClick cookie to allow us to implement Google Display Network impression reporting which reports display advertisement impressions, other uses of ad services and interactions with these ad impressions and ad services which are related to visits to [www.scotrail.co.uk. We](http://www.scotrail.co.uk.%20we/ "Opens in a new window") have implemented Google Analytics Demographics and Interest reporting which reports third party audience data (such as anonymised age, gender and interests) within Google Analytics. We also use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to [www.scotrail.co.uk](http://www.scotrail.co.uk/ "Opens in a new window"). This means we may advertise to previous visitors who haven’t completed a task on our site; this could be in the form of an advertisement on the Google search results page or a site in the Google Display Network.
+
+Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can manage how Google manages this information and "opt out" from data collection at [Google Ads Preferences Manager](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjFCvaQdGQwMve4YkK4n-vx0zEf3GSaj_8sZwBcKRYDhNpr8OMU_qNi2MCHudiG2niqOLn35wmrbsVYLX0k6MvhsnEBiMMahARe9d_agUgKG4hNYXLrvh006U4CqPwPmKJj5LBOC7xi4lGO6hED4UcFoanOMpk5QJDPvo5ZKSv1j4GP5ZA "Opens in a new window").
 
 ### Why do we need to use these cookies?
 
