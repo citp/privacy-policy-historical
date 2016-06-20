@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepur.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909220526id_/http%3A//www.gamepur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepur.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620165938id_/http%3A//www.gamepur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ Disclaimer:** Whatever download provided on gamepur.com is not hosted on it, the
 
 By using our site, you consent to our privacy policy. If we decide to change our privacy policy, we will  post those changes on this page send an email notifying you of any changes If there are any questions regarding this privacy policy you may contact us:
 
- **By e-mail:** webmaster(at)gamepur.com
+**By e-mail:** webmaster(at)gamepur.com
