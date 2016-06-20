@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011172414id_/http%3A//www.primeabgb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620141255id_/http%3A//www.primeabgb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of Prime ABGB - Prime ABGB.com
 
-**Prime ABGB Pvt. Ltd.** and affiliates ("Primeabgb.com") respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Primeabgb.com. You are advised to please read this Privacy Policy carefully. By accessing the services provided by Primeabgb.com you agree to the collection and use of your data by Primeabgb.com and certain authorized third party service providers in the manner provided in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the website: Primeabgb.com (“Site”)
+**Prime ABGB Pvt. Ltd.** and affiliates (“Primeabgb.com”) respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Primeabgb.com. You are advised to please read this Privacy Policy carefully. By accessing the services provided by Primeabgb.com you agree to the collection and use of your data by Primeabgb.com and certain authorized third party service providers in the manner provided in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the website: Primeabgb.com (“Site”)
 
 This Privacy Policy describes the information, as part of the normal operation of our services; we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Primeabgb.com practices so that you can make informed decisions.
 
@@ -12,7 +12,7 @@ By accepting the Privacy Policy during registration, you expressly consent to ou
 
 At Primeabgb.com, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
 
- **We want you to :**
+We want you to :
 
   * feel comfortable using our Site.
   * feel secure submitting information to us.
@@ -25,28 +25,28 @@ At Primeabgb.com, we are extremely proud of our commitment to protect your priva
 
 Primeabgb.com promises that we will not sell or rent your personal information to third parties (except as provided in this Privacy Policy) without your consent. We and/or certain authorized third party service providers will use the personal information provided by you to provide you with the services, which are offered on Primeabgb.com. From time to time we may reveal general statistical information about our Site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority.
 
- **3\. What Information Is Or May Be Collected from You?**
+**3\. What Information Is Or May Be Collected from You?**
 
 Primeabgb.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our Site and other sites accessible from them. We also collect information about the transactions you undertake including details of payment cards used.  
 We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and Site use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the Site.
 
 Anonymous Information
 
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies" sent to your browser from:
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies” sent to your browser from:
 
   * web server cookie stored on your hard drive
   * an IP address, assigned to the computer which you use
   * the domain server through which you access our service
-  * the type of computer you're using
-  * the type of web browser you're using  
+  * the type of computer you’re using
+  * the type of web browser you’re using
 
 
 
-**Primeabgb.com** uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring etc.  
+Primeabgb.com uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring etc.  
 Non-registered visitors of the Site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. Whilst you do not need to allow your browser to accept cookies in order to browse much of our Site or to access many of our services, you must have cookies enabled if you wish to shop online at any of or access any areas reserved for registered users.  
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above this will restrict the Primeabgb.com services you can use.
 
- **Personally Identifiable Information**
+Personally Identifiable Information
 
 We may collect the following personally identifiable information about you like:
 
@@ -80,26 +80,24 @@ We use your personal information to:
 
 
 
-  
-**We use contact information internally to:**
+We use contact information internally to:
 
-  *     direct our efforts for product improvement.
-  *     contact you as a survey respondent.
-  *     notify you if you win any contest; and
-  *     send you promotional materials from our contest sponsors or advertisers.
-
+  * direct our efforts for product improvement.
+  * contact you as a survey respondent.
+  * notify you if you win any contest; and
+  * send you promotional materials from our contest sponsors or advertisers.
 
 
-  
+
 Generally, we use anonymous traffic information to:
 
-  *     remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective.
-  *     recognize your access privileges to our Site.
-  *     track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries,  submissions, and status in prize drawings.
-  *     make sure that you don't see the same ad repeatedly.
-  *     help diagnose problems with our server.
-  *     administer our Site.
-  *     track your session so that we can understand better how people use our Site.
+  * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective.
+  * recognize your access privileges to our Site.
+  * track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries,  submissions, and status in prize drawings.
+  * make sure that you don’t see the same ad repeatedly.
+  * help diagnose problems with our server.
+  * administer our Site.
+  * track your session so that we can understand better how people use our Site.
 
 
 
@@ -108,12 +106,10 @@ Generally, we use anonymous traffic information to:
 We will not use your personal information for any purpose other than to complete a transaction with you.  
 We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
 
-  *     we have your permission;
-  *     to provide products or services you've requested;
-  *     to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Primeabgb.com terms of use or to defend against legal claims; and
-  *     special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
-
-
+* we have your permission;  
+* to provide products or services you’ve requested;  
+* to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Primeabgb.com terms of use or to defend against legal claims; and  
+* special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
 **7\. What Choices are available to you regarding Collection, Use and Distribution of Your Information?**
 
@@ -147,8 +143,8 @@ By using the Site, you consent to the collection and use of the information you 
 
 **13\. Contact Customer Support**
 
- **You Can Contact Us at:**  
-Prime ABGB Pvt Ltd  
+You Can Contact Us at:  
+**Prime ABGB Pvt Ltd**  
 Simlim Square, 106-109,  
 1st Floor, D.B. Marg, Lamington Road,  
 Grant Road East, Mumbai: 400 007.  
