@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopme.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220133812id_/http%3A//loopme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopme.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620193638id_/http%3A//loopme.com/privacy) for the most accurate reproduction.*
 
 # LoopMe | Privacy Policy
 
@@ -58,4 +58,4 @@ LoopMe will notify all users of any changes it makes to its Privacy Policy and a
 
 Users have the right to request from LoopMe a copy of all personal information stored about them. Furthermore, users have the right to ask LoopMe to make corrections to any inaccuracies in their personal information. To get a copy of the personal information we store about you, write to us at LoopMe Ltd, Suite 5.02, 314-322 Morley House, Regent Street, London W1B 3BQ, United Kingdom.
 
-**Last Updated — 4th August 2014**
+**Last Updated -- 4th August 2014**
