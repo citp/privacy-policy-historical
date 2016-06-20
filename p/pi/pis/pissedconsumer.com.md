@@ -1,52 +1,58 @@
-> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209032641id_/http%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620035702id_/http%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Pissed Consumer Privacy Policy @ Pissed Consumer
 
-## Introduction
+**Privacy Policy**
 
-PissedConsumer.com is committed to providing a safe Web site for people of all ages. We are dedicated to safeguarding any personal information collected online and to helping our visitors to learn how to exercise control over personal information while exploring the Internet. This Privacy Policy is intended to explain our privacy practices and inform you as to:
+**Last Modified: May 31, 2016**
 
-  * The kinds of personally identifiable information ("Personal Information") we collect from visitors of the PissedConsumer.com (the "Site").
-  * How that information is collected.
-  * How we use Personal Information.
-  * The circumstances under which we disclose Personal Information to third parties.
-  * How you can access, update or delete any Personal Information collected about you by us.
-  * The mechanisms we have implemented to protect your Personal Information.
+**Scope and Consent**
 
+This Privacy Policy (the “Policy”) describes PissedConsumer.com’s collection, use, and protection of the information posters (“You”, “Your”) provide when using PissedConsumer.com (the “Site”, “We”, “Us”, “Our”). By creating an account on the Site, posting content on the Site, or using any other service on the Site, You consent to Our collection, use, and disclosure of Your information as described in this Policy. If You do not consent to have Your information used as described in this Policy, You must discontinue use of the Site immediately. This Policy incorporates all defined terms and conditions set forth in Our [_Terms of Use Agreement_](http://www.pissedconsumer.com/static/terms-of-use.html) (the “Agreement”). Any terms that are not defined in this Policy shall have the meaning given in the Agreement. 
 
+This Policy is intended to explain Our privacy practices and to inform You as to:
 
-As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected. This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use Agreement ("Agreement").  Any terms that are not defined in this Privacy Policy shall have the meaning given in the Agreement.
+Kinds of personally identifiable information ("Personal Information") We collect from visitors of the Site.  
+How Personal Information is collected.  
+How we use Personal Information.  
+The circumstances under which we disclose Personal Information to third parties.  
+How You can access, update or delete any Personal Information collected about You by Us.  
+The mechanisms We have implemented to protect Your Personal Information.
 
-##   
-The Information We Collect
+As We continue offering Our visitors new and different types of content and services, this Policy is subject to change at any time. However, We will treat all Personal information We collect in accordance with the Privacy Policy in effect at the time the information is collected. Your continued use of the Site following the posting of changes shall mean that You accept and agree to the changes.
 
-At PissedConsumer.com we only collect personal information during the registration and post complaint process. Visitors are required to be 14 years or older to create a complaint. During the registration we collect a full name and a valid e-mail address.; When a new complaint is created, we may collect additional information including, a poster's address, telephone number, gender, date of birth, and certain Computer Information (see below)., and we may also ask additional questions regarding poster's experience with the company he/she complains about and regarding personal preferences on a number of topics when visitors create a new complaint. For certain enhanced services, we also may collect billing information provided by PayPal. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such as the type of computer operating system (e.g., Windows XP or Mac OS), the visitor's "IP Address", the web browser (e.g., Netscape, Internet Explorer) being used, information collected through the use of cookies (see below) and information regarding the Internet service provider ("Computer Information"). This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+  
+**The Information We Collect**
 
-##   
-How We Use the Information
+At PissedConsumer.com We only collect Personal Information during registration and post complaint processes. Visitors are required to be 14 years or older to create a complaint. During the registration We collect Your full names and Your valid e-mail address. When a new complaint is created, We may collect additional information, including, but not limited to
 
-We use the complaint information for our internal statistical purposes including research and development and for rebuttals. Complaint information including pictures and sign-in names are displayed to people in order to facilitate user interaction and comments in the PissedConsumer.com community. We may also share public information contained in a complaint with third parties at our discretion. Pissed Consumer will not share a user's e-mail address or other Personal Information with such third parties, unless required to do so by law or when a release of such information has been expressly authorized by the user. Email addresses are used for the purposes of sending notifications related to the service.
+Your full name, e-mail address, mailing address, telephone number, gender, date of birth, and certain computer information (see below). We may also ask additional questions regarding Your experience with the company You complain about and regarding Your personal preferences on a number of topics. For certain advanced services, We may also collect billing information provided by PayPal. Additionally, when You come to our Site, We automatically collect some non-personally identifiable computer information (“Computer Information”), such as information about Your computer operating system (e.g., Windows XP, Mac OS), Your IP address, information about Your web browser (e.g., Internet Explorer, Google Chrome) being used, information collected through the use of cookies (see below) and information regarding Your Internet service provider. This non-personally identifiable information may be shared with third parties to provide more relevant services and/or advertisements. Users’ IP addresses are recorded for security and monitoring purposes.
 
-During the review submission process, information that you provided for the Company to contact you may be shared with verified representative of that Company.
+**How We Use the Information**
 
-We use visitors' Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.
+We use the complaint information for Our internal statistical purposes including research and development and for rebuttals. Complaint information including pictures and sign-in names are displayed to people in order to facilitate user interaction and comments in the PissedConsumer.com community. We may also share public information contained in a complaint with third parties at Our own discretion. We will share a user's e-mail address or other Personal Information with such third parties (including, but not limited to journalists, reporters and other media representatives) in the event We have been expressly authorized by the user. Upon visitor's consent, We may disclose visitor's information, including Personal Information, to the companies participating in Our Business Solutions Program.
 
-We may use information about visitors, such as age, gender and interests for improving our reporting on aggregate basis and for targeting service tailored to specific visitors’ requirements. We also use it for market analysis. We may use this information to provide visitors with the most helpful products and services and to respond to inquiries.
+We may disclose information about Our visitors, including Personal Information (e.g., e-mail address, phone number), at the request of Third Party Neutrals (please see Our [_Legitimacy Verification Program Rules and Conditions_](http://www.pissedconsumer.com/static/legitimacy-verification-program-rules-and-conditions.html)), when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Site and applicable laws, or to protect against misuse or unauthorized use of the Site. We may also disclose user information whenever We believe disclosure is necessary to limit Our legal liability; to protect or defend Our rights or property; or protect the safety, rights, or property of Our visitors or others.
 
-We also use visitors' Computer Information to track usage, improve the design of the Site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement. Additionally, in the event that all or substantially all of Opinion Corp's stock and/or assets are transferred or sold to another entity, Opinion Corp may transfer such information and information collected to the acquiring entity.
+Information that You provided during the review submission process for the company to contact You may be shared with verified representative(s) of that company.
 
-Upon visitor's consent, we may disclose visitor's information, including Personal Information, to companies participating in our Business Solutions Program.
+In the event You decide to become a registered user of the Site, i.e. to create an account on the Site, you must remember that We do not delete users’ accounts and, thus, do not delete any Personal Information provided to Us in connection with such accounts.
 
-We may disclose information about our visitors, including Personal Information (e.g., registration information, e-mail address, content of Consent), as well as Computer Information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Site and applicable laws, or to protect against misuse or unauthorized use of the Site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our visitors or others.
+We may use visitors' Personal Information for Our internal purposes of enabling visitors to enter one of Our online contests or sweepstakes, to subscribe to Our online newsletter or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.
 
-##   
-Contests and Sweepstakes
+We may use information about visitors, such as age, gender and interests for improving Our reporting on aggregate basis and for targeting service tailored to specific visitors’ requirements. We also use it for market analysis. We may use this information to provide visitors with the most helpful products and services and to respond to inquiries.
 
-PissedConsumer.com occasionally offers contests and sweepstakes, which may be entered online. Only registered members can participate in contests. All the information collected by PissedConsumer.com is securely maintained and used only for the purpose of conducting and fulfillment of the contest or sweepstakes. Once the contest or sweepstakes if finished, we delete any personal information collected". The information collected in a PissedConsumer.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes. Any such fulfillment house may not use the information for other purposes and must agree to maintain the confidentiality of the information.
+We also use visitors' Computer Information to track usage, improve the design of the Site, offer products and services, to personalize Our visitors’ experiences, save visitors’ passwords in password-protected areas, and to ensure visitors are following the Site's Agreement. Additionally, in the event that all or most of Opinion Corp.'s stock and/or assets are transferred or sold to another entity, Opinion Corp. may transfer such information and information collected to the acquiring entity.
 
-Collection of Information by Third-Party Sites and Sponsors Our site contains links to other sites, including those of sponsors, advertisers and survey companies|. Visitors should consult the other sites' privacy notices, since our Privacy Policy does not cover those sites Pissed Consumer does not share a visitor's e-mail address or other Personal Information with such third parties.
+**Contests and Sweepstakes**
 
-Please use following links to review privacy policies of our major advertisers and traffic analysis companies:
+PissedConsumer.com may occasionally offer contests and sweepstakes, which may be entered online. All the information collected by PissedConsumer.com is securely maintained and used only for the purpose of conducting and fulfillment of the contest or sweepstakes. Once the contest or sweepstakes if finished, We reserve the right to remove any Personal Information collected. The information collected through PissedConsumer.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes. Any such fulfillment house may not use the information for any other purposes and must agree to maintain the confidentiality of the information.
+
+**Collection of Information by Third-Party Sites and Affiliates**
+
+Our Site contains links to other sites, including those of affiliates, advertisers and survey companies. Visitors should consult the other sites' privacy policies, since our Privacy Policy does not cover those sites. PissedConsumer.com does not share visitors’ e-mail addresses or any other Personal Information with such third parties.
+
+Please use the following links to review privacy policies of Our major advertisers and traffic analysis companies:
 
   * [Google](http://www.google.com/policies/privacy/#utm_source=aso&utm_campaign=ww-ww-et-ashp&utm_medium=link)
   * [BurstMedia](http://www.burstmedia.com/privacy.html)
@@ -56,33 +62,41 @@ Please use following links to review privacy policies of our major advertisers a
 
 
 
-##   
-Cookies
+  
+**Cookies**
 
-PissedConsumer.com uses a software technology called "cookies." Cookies are small text files that we and certain third parties place in visitors' computer browsers to store their preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+PissedConsumer.com uses a software technology called "cookies." Cookies are small text files that We and certain third parties place in visitors' computer browsers to store their preferences. Cookies, by themselves, do not tell Us Your e-mail address or other Personal Information unless You choose to provide this information to Us by, for example, registering at Our Site. However, once You choose to furnish the Site with Personal Information, this information may be linked to the data stored in the cookie.
 
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, including, but not limited to counting page views, promotion views and advertising responses. These "web beacons" may be used to deliver cookies that conform to Our cookie policy.
 
-We use ads served by third party advertisers to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing real estate ads to someone who frequents realty sites).
+We use ads provided by third-party advertisers to support the Site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on Our Site, which will also send these advertisers (such as Google through the Google AdSense program) information including Your IP address, Your ISP, the browser You used to visit Our Site, and in some cases, whether You have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing real estate ads to someone who frequents realty sites).
 
-You may adjust your browser to reject cookies from us or from any other Web site. Please consult the "Help" section of your browser for more information. However, certain areas of our sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
+You may adjust your browser to reject cookies from Us or from any other website. Please consult the "Help" section of Your browser for more information. However, certain areas of Our Site can only be accessed in conjunction with cookies or similar identifiers and You should be aware that disabling cookies or similar identifiers might prevent You from accessing some of Our content.
 
-##   
-Security
+In addition to cookies, We also utilize MD5 hashing algorithms at the stages of registration and complaint posting. In the event a user decides to post a complaint on Our Site and chooses to provide his/her e-mail address, such a user receives a thank-you e-mail containing a link to the complaint. This link includes a hash which, provided that a user follows it, ensures that such a user has an option to log in and/or register automatically by utilizing data stored on Our server from such user’s initial visit. Thus, We make your experience of using Our Site more convenient.
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+**Session Video Recording**
 
-Phishing: Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account usernames, passwords, and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!
+PissedConsumer.com uses a software technology called Inspectlet to make video recordings of some visitor sessions. Inspectlet is a third-party tool, and We use it in a strict compliance with [_Inspectlet’s Terms of Service and Privacy Policy_](https://www.inspectlet.com/legal). Inspectlet provided Us with a piece of Javascript code to copy paste in the Site. After installing it, We can monitor Our Site’s visitors in real time. PissedConsumer.com may install this code to record visitor activities on any of the pages of the Site at its own discretion. Inspectlet’s screen capture is a component of the code that works by recording all the events that take place in the browser such as keystrokes, mouse movements, scrolling, and clicking. As PissedConsumer.com only collects Personal Information during the registration and post complaint process, same information may be collected during the session video recording process. PissedConsumer.com does not store any video recordings on its servers; all of the recordings are stored by Inspectlet. We use session video recordings for Our internal statistical purposes, market analysis, for the purposes of web analytics, and for the purposes of improvement of the Site in accordance with specific visitors’ requirements. PissedConsumer.com reserves the right to use any other similar software technology(s) for similar purposes at its own discretion.
 
-If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at privacy@pissedconsumer.com and then immediately delete the fraudulent email from your computer.
+  
+**Security**
 
-If you have any questions about our privacy practices, e-mail, or write to us using the contact information provided below. If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the same address below.
+We have adopted appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information We collect online.
+
+You recognize and acknowledge that despite Our security measures, no data transmission over the Internet can be guaranteed to be completely secure, and no data is completely secure from an unauthorized third-party access.
+
+Phishing: Phishing attacks attempt to steal consumers' personal identifiable information and financial accounts credentials. "Phishers" use 'spoofed' e-mails leading consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account numbers, usernames, passwords, and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!
+
+If You receive such email communications, please forward them immediately to Our Privacy Administrator at privacy@pissedconsumer.com and then immediately delete the fraudulent email from Your computer.
+
+If You have any questions about Our privacy practices, please e-mail or write to Us using the contact information provided below. If You believe that Our Site has collected incorrect information or if You would like to dispute any information, please contact Us using the same address below.
 
 **Email:**  
 [privacy@pissedconsumer.com](mailto:privacy@pissedconsumer.com)
 
 **Address:**  
-_Consumer Opinion LLC  
+Consumer Opinion LLC  
 Media Relations  
 1930 Village Center Circle #3-6853  
-Las Vegas, NV 89134_
+Las Vegas, NV 89134
