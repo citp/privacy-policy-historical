@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dontbreakme.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023080330id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontbreakme.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620211517id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Ddbm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -6,7 +6,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (?you?) and members of Mofos.com network (?our?, ?we?, ?us? the ?site?) websites including but not limited to, MILFS Like It Black, I Know that Girl, She's A Freak, Real Slut Party, Pervs On Patrol, Mofos World Wide, Mofos Old School, Teens At Work, In Gang We Bang, Can She Take It. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Mofos.com network ("our", "we", "us" the "site") websites including but not limited to, MILFS Like It Black, I Know That Girl, She's A Freak, Real Slut Party, Pervs On Patrol, Mofos World Wide, Mofos Old School, Teens At Work, In Gang We Bang, Can She Take It, TwistysPremium, BabesPremium, EritoPremium, WickedPremium. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
 
 ## USE
 
