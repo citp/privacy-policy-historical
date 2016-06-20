@@ -1,85 +1,36 @@
-> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711142345id_/https%3A//www.consumersenergy.com/Content.aspx%3Fid%3D1121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231740id_/https%3A//new.consumersenergy.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Consumers Energy
+# Customer Data Privacy Policy FAQ’s | Consumers Energy
 
-Privacy is a high priority at Consumers Energy. This statement has been designed to help you understand what information we gather from our online guests and what we do with it. Our [Security Statement](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1122 "Security") explains the steps we take to protect sensitive information. Read more about Customer Data Privacy for [electric](https://web.archive.org/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/electric-rate-book.pdf#page=112 "electric") and [natural gas](https://web.archive.org/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/gas-rate-book.pdf#page=94 "natural gas") customers as approved by the Michigan Public Service Commission in 2013.
+Note: The responses to the following Frequently Asked Questions (FAQ’s) are meant to provide a summary of Consumers Energy’s Customer Data Privacy Policy in a quick and easy to understand format.  See the links below for the specific rules and requirements of Consumers Energy’s actual Customer Data Privacy Policy.
 
-### Contents of Privacy Statement:
+[Electric Data Privacy Tariff](https://www.consumersenergy.com/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/electric-rate-book.pdf#page=122)
 
-##### What information does Consumers Energy gather about me and how is it used? 
+[Gas Data Privacy Tariff](https://www.consumersenergy.com/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/gas-rate-book.pdf#page=96)
 
-Consumers Energy, a subsidiary of CMS Energy, gathers general information from all guests who visit our site, and requests specific information from others. Whenever information is requested, the guest may decide not to provide it. The information you provide will not be shared with any third party outside of Consumers Energy, unless i)  the provision of such information is required in order to fulfill your request or ii)  the third party is acting under contract to act on our behalf.  (See our policy regarding e-mail.)
+What is the Customer Data Privacy Policy? 
 
-When you come to our site, we gather statistical information such as your Internet Provider and pages visited within our site. This is used to help us continually improve our website and compile broad demographic information.  (See our statement regarding “cookies.”)
+The Customer Data Privacy Policy was initiated at the request of the Michigan Public Service Commission (MPSC) for the protection of Consumers Energy’s customer energy use data and personally identifiable information (PII).  The goal is to strike a reasonable balance between the collection, use or disclosure of any customer information by Consumers Energy while facilitating safe and reliable energy service, complying with new legislative mandates and meeting customers’ expectations regarding the collection, disclosure and use of their data and personal information. 
 
-In a few areas of our website we request specific information from our guests. Basically, we only ask for information we need, when we need it. In most cases you can decline to provide the information. In these cases, if you decide not to provide the information, or provide incorrect information, you will not be able to take full advantage of the services offered. Sensitive information is handled in a secure manner (See [Security Statement](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1122 "Security Statement") for more details).
+What types of information does Consumers Energy collect? 
 
-##### How do I change, delete or opt-out of a service? 
+We collect customer information based on our business relationship with you and your use of our energy services and other products we provide. Some examples include, but are not limited to:
 
-To change or delete information previously provided, or opt-out of a service you previously enrolled in, do one of the following:
-
-  * Go to the specific service where you provided the information, or signed up for the service, and follow the instructions provided.
-  * Send an e-mail describing your request to the address listed with the service.
-
-
-
-Call the phone number listed with the service for assistance.
-
-##### Guest's role in maintaining privacy 
-
-As noted in our Security Statement, Consumers Energy has taken measures to protect sensitive information that is shared with us. Guests also play an important role in maintaining privacy. Learn how to check the security level of your browser before sending sensitive information. If your browser is not secure, don't send it. When selecting a password choose one that's easy for you to remember, but difficult for others to guess. The Consumers Energy Security Statement identifies how to check browser security and offers password tips.
-
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
-
-##### Children's Guidelines 
-
-The Consumers Energy website has an area designed specifically for children called “Brain Station.” This area of the website contains information designed for children that is both educational and interesting. We do not knowingly solicit personal identifying information from children. There are links to online computer games intended to help children learn electrical and natural gas safety. Players have the option to provide their names when playing the game and if they decide to provide it, are instructed only enter their first name. If a name is provided, it is used strictly to personalize responses and is removed after the game is completed or exited.
-
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
-
-##### What are "cookies" and does Consumers Energy use them? 
-
-A cookie is a piece of information that a web server may place on a guest's computer hard drive when the guest visits their site. Typically the cookie information is accessed by the web server whenever the guest visits their site. This lets the server know that this guest has been to the site before. The specific contents of a cookie are determined by the web owner. Guests may set their browsers to notify them before accepting or rejecting a cookie. If you have set your browser to reject cookies you may still use our site.
-
-Consumers Energy does use cookies, however, in non-intrusive ways. We do not store any personally identifiable information in your cookie and we do not use cookies in any manner that would infringe on the anonymity of persons accessing our website. Consumers Energy only uses cookies to enhance and optimize our guest's experience while visiting our website. Consumers Energy does not use cookies to retrieve any information from our guest's computer.
-
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
-
-##### What is Consumers Energy’s policy regarding e-mail? 
-
-If you are using online transactional services, such as eServices or our online job application feature, you may receive e-mails from us (or a third party acting on our behalf) related to your online transactions.  You may receive e-mails from us (or a third party acting on our behalf) containing information we think you may find helpful or interesting (“Informational e-mails").  If required by law, you will be given the option to “opt out of” receiving future Informational e-mails.
-
-We do not ask for personal or account information in an e-mail unless you have contacted us first and we need to clarify your request.  Be sure any links embedded in the e-mail are actually taking you to a Consumers Energy site.  If you have any doubt an e-mail is really from us, go to our website directly by typing consumersenergy.com into your browser window and navigating to the desired page.
-
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
-
-##### Does Consumers Energy link to other sites? 
-
-The Consumers Energy website links to other sites. Please be aware that we are not responsible for the privacy and security practices of other sites. We encourage our guests to be aware when they leave our site and to read the privacy and security statements of each and every website. This privacy statement applies solely to information collected by the Consumers Energy website.
-
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
-
-##### Changes to the Privacy Statement 
-
-If we decide to change our Privacy Statement, we will post those changes so our guests are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it.
-
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
-
-##### For more information 
-
-If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this website, you can:
-
-  * Send e-mail to [protection@consumersenergy.com](mailto:protection@consumersenergy.com)
-  * Or if you prefer send mail to the following postal address:  
-Information Protection  
-Consumers Energy  
-One Energy Plaza  
-Jackson, MI 49201
+  * Contact information that allows us to communicate with you, including your name, address, telephone number and email address.
+  * Billing and payment information, including your payment data, credit history, driver’s license or state ID number and Social Security Number.
+  * Electric and natural gas use data gathered by our metering systems such as ccf, mcf, therms, dth, kW, kWh, voltage, var, or power factor, and other data that is recorded by the electric or natural gas meter.
+  * Information gathered when you choose to participate in company programs or services, such as bill payment assistance, shut-off protection, renewable energy, demand-side management, load management or energy efficiency.
 
 
 
-[Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
+Can Consumers Energy disclose my information without my consent? 
 
-Check back to the Consumers Energy homepage often to see what other services we have to offer. For help using this system, please contact us by [e-mail](https://customer.consumersenergy.com/cgi-bin/cmsenergy.cfg/php/enduser/ask.php? "e-mail") or call Customer Service toll-free at (800) 477-5050.
+Consumers Energy will not disclose your information to third parties or other inquirers without your consent. However, Consumers Energy may disclose your information to Agents and Contractors working on behalf of the company without first obtaining your prior consent, when it is necessary to provide electric or natural gas services to you. Consumers Energy can disclose your information in emergency situations and as directed by any warrants, court orders or subpoena.  The provision of such information will be reasonably limited to the amount authorized by law or reasonably necessary to fulfill a request compelled by law.
 
-### REVISED NOVEMBER 15, 2013
+Do I have a right to know what information Consumers Energy maintains about me? 
+
+Yes, except for proprietary data or that which is used for internal Consumers Energy business purposes only, you have a right to know what information Consumers Energy maintains about you.  Consumers Energy will make a reasonable effort to respond to your request within 30 business days following receipt of your request. 
+
+Can I give my information to a third party? 
+
+Yes, you may request information be released to a third party of your choice.  Once Consumers Energy obtains consent from you, Consumers Energy is not responsible for loss, theft, alteration or misuse of the information by third parties or you after the information has been transferred to you or your designated third party.
