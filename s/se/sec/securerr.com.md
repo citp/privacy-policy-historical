@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securerr.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220200848id_/http%3A//www.securerr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securerr.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620213908id_/http%3A//www.securerr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Securerr
+# Privacy Policy
 
 Securerr is committed to protecting the privacy of online users. This document outlines our technology and the practices we use to collect information.
 
