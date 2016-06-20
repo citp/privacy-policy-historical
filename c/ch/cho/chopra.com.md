@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chopra.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218125203id_/http%3A//www.chopra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chopra.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620135359id_/http%3A//www.chopra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chopra Center
 
@@ -42,7 +42,7 @@ The Chopra Center reserves the right to disclose information about you as requir
 
 ## How do I access my information? How do I change or delete my information?
 
-You may manage your information and email subcription preferences at any time by visiting [http://www.subscription.chopra.com](http://www.subscription.chopra.com/) and updating your profile. Your requested changes will take effect immediately. 
+You may manage your information and email subscription preferences at any time by visiting [your dashboard](http://account.chopra.com/user/subscription) and updating your email preferences. Your requested changes will take effect immediately. 
 
 ## How does The Chopra Center protect kids' privacy?
 
