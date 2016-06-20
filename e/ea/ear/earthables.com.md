@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthables.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125182439id_/http%3A//www.earthables.com/privacy-policy-1416506510.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthables.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620092831id_/http%3A//www.earthables.com/privacy-policy-1416506510.html) for the most accurate reproduction.*
 
 # Privacy Policy - Earthables
 
