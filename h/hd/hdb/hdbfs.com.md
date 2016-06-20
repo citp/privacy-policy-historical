@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdbfs.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911043026id_/http%3A//www.hdbfs.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdbfs.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620213748id_/http%3A//www.hdbfs.com/Privacy.htm) for the most accurate reproduction.*
 
 # HDB - Privacy
 
