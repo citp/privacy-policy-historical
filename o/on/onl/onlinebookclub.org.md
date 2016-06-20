@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinebookclub.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220132722id_/http%3A//forums.onlinebookclub.org/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebookclub.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620135952id_/http%3A//forums.onlinebookclub.org/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# User Control Panel • Privacy policy • Book & Reading Discussion Forum
+# User Control Panel • Privacy policy
 
 The following privacy policy applies to all of OnlineBookClub.org including any subdomain of OnlineBookClub.org, namely forums.onlinebookclub.org. This policy explains in detail how “Book & Reading Discussion Forum” along with its affiliated companies (hereinafter “we”, “us”, “our”, “Book & Reading Discussion Forum”, “http://forums.onlinebookclub.org”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).
 
