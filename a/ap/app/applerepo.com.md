@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the applerepo.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028230654id_/http%3A//www.applerepo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applerepo.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620164005id_/http%3A//www.applerepo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[__  Home](http://www.applerepo.com/) > Privacy Policy
+# Privacy Policy - iOS Apps Reviews – AppleRepo.com
 
 **Privacy Policy for[AppleRepo](http://www.applerepo.com/)**
 
@@ -16,7 +14,7 @@ If you require any more information or have any questions about our privacy poli
 > Cookies and Web Beacons  
 >  **www.applerepo.com** does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 > 
-> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include [Google](http://www.applerepo.com/apple-files-patent-suit-against-samsung/) Adsense, Amazon, ETC.
+> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Amazon, ETC.
 > 
 > _“We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[networkadvertising.org](http://networkadvertising.org/).”_
 > 
