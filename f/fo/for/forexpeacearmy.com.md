@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231061354id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620104918id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal | Forex Peace Army - Your Forex Trading Forum
 
