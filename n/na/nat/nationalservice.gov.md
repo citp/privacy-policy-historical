@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092207id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620201247id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation for National and Community Service
 
@@ -29,7 +29,7 @@ To obtain a copy of a PIA for an information system, please contact:
 Tom Hanley  
 Chief Information Officer and Senior Agency Official for Privacy  
 Corporation for National and Community Service  
-1201 New York Avenue, NW  
+250 E Street SW, Suite 300  
 Washington, DC 20525  
 [thanley@cns.gov](mailto:%E2%80%8Bthanley@cns.gov?subject=Privacy%20Information%20)
 
@@ -42,7 +42,7 @@ If you decide to send us personally identifying information, such as in an e-mai
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us at:
 
 Corporation for National and Community Service  
-1201 New York Avenue, NW  
+250 E Street SW, Suite 300  
 Washington, DC 20525  
 202-606-5000  
 [webmaster@cns.gov ](mailto:webmaster@cns.gov)
