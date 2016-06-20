@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218045727id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620202038id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - You Go Words!
 
@@ -89,6 +89,10 @@ support@yougowords.com
 This document was last updated on October 24, 2014
 
 loading...
+
+#### Please Read before Commenting On You Go Words Word Finder.
+
+On your [downloads](https://web.archive.org/member/downloads) page in the members area indicates clearly that downloads are not currently available and the reasons as to why. Please also read my [about page](https://web.archive.org/about-me.html) to know I am not a large company or a person working full time on this website. Thus, to expect free content and expect everything to work perfectly is wrong entitlement. If you are not happy with this **free word site** , I ask that you send me feedback or comment your thoughts below as positively as possible so that I may continue the progress of You Go Words, or please do not use it. This is my hobby, and is a great project, but you are not entitled to anything as the [terms of use](https://web.archive.org/terms-of-service.html) indicates and should be understandable for using this amazing yet **free word finder**. I am however sorry to dissappoint my users. I work a regular job as well and live a fulfilling life and can not always have time to improve You Go Words. It is massive, the time it takes is tremendous, and the money it earns does not cover the expenses. I hope this is understandable.
 
   * Google+
   * Page Specific
