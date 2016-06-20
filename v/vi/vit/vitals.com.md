@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225044004id_/http%3A//www.vitals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620033109id_/http%3A//www.vitals.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Vitals
 
-This Privacy Policy is effective as of **April  23rd, 2015**.
+This Privacy Policy is effective as of **January  20th, 2016**.
 
 We at MDx Medical, Inc., together with our related, affiliated and/or subsidiary companies (“MDx,” “Vitals,” “We,” “Us,” or “Our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Vitals in connection with our products and services (collectively, the “Products and Services”), which are made available to you through a variety of platforms, including, but not limited to, www.vitals.com (the “Website”) and our mobile app, which is accessible through tablets, cell phones, and other devices (the “App”). The Website and the App are collectively referred to as the “Platform.” This Privacy Policy is subject to our terms of use (“Terms of Use”) which are incorporated herein by reference (available at http://www.vitals.com/terms-of-use).
 
@@ -22,7 +22,7 @@ If You have any additional questions or concerns about this Privacy Policy, plea
 
 Vitals  
 Attn: VP, Legal and Compliance  
-210 Clay Avenue, Suite 140  
+160 Chubb Ave, Suite 301  
 Lyndhurst, NJ 07071  
 Email address [support@vitals.com](mailto:support@vitals.com)
 
@@ -154,4 +154,4 @@ California Civil Code Section 1798.83 allows users who are California residents 
 
 The Platform is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By providing us with any information through the Platform, you consent to this transfer and our use of such information in accordance with this Privacy Policy.
 
-Copyright © 2015 Vitals. All Rights Reserved.
+Copyright © 2016 Vitals. All Rights Reserved.
