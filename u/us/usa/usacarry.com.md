@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213143018id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620062654id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
 
 # USA Carry Privacy Policy
 
@@ -21,13 +21,13 @@ We protect children’s privacy.
 
 Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site.
 
-**Corporate changes.**  
+ **Corporate changes.**  
 In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our Web site.
 
-**Acceptance of privacy terms & conditions**  
+ **Acceptance of privacy terms & conditions**  
 By visiting this Web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies.
 
-**Changes to this privacy policy**  
+ **Changes to this privacy policy**  
 There may be times when we need to change the terms of this Privacy Policy. To ensure that you are aware of our current privacy practices, please bookmark this page and check back often.  
 ****
 
