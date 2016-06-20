@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the biengo.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511101021id_/http%3A//www.biengo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biengo.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621005157id_/http%3A//www.biengo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# None
+# Toronto, Canada - Biengo.com Online Ads
+
+| 
+
+**Categories:**  
+
+
+| 
 
 1\. This Privacy Policy applies to the www.biengo.com website and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. By using biengo.com and related Services, you give explicit consent to biengo.com for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use. biengo.com may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. 
 
@@ -19,6 +26,8 @@
   * to personalize, measure and improve our Services, content and ads; 
   * to contact you, by e-mail, push notification, text message (SMS) or by telephone, to inquire about our Services 
 
+
+
 If you provide us access to personal information stored on third party websites, the scope of access to this personal information shall vary per website and will be determined by both your own browser settings and your consent. If you wish to connect your third party account to your biengo.com account and you consent to us accessing the information in these third party accounts, you agree that we can collect, use and store information from this third party website in accordance with this Privacy Policy. We may disclose your personal information to third parties in accordance with this Privacy Policy and applicable legislation and regulations. 
 
 4, We will not disclose your personal information to third parties for their marketing purposes without your explicit consent. Information you share on www.biengo.com: Our Website allows users to share advertisements and other information with other users, thereby making this shared information accessible to other users. Since our Website also enables you to directly contact a buyer or seller, we recommend that you consider how you share your personal information with others. You are solely responsible for the personal information you share through our Website and therefore we cannot guarantee the privacy or security of the information shared by you with other users. In case you visit our Website from a shared computer or a computer in an internet cafe, we strongly recommend that you log off after each session. If you do not want the shared computer to remember you and/or your credentials, you will need to remove cookies and/or the history of your website visits. 
@@ -28,3 +37,8 @@ If you provide us access to personal information stored on third party websites,
 6\. Cookies When you use our Services, we and our service providers may place cookies (tiny data files) or web beacons (electronic images that are placed in a web pages code) or similar technologies. We use cookies to help us identify you as a user, to provide you a better experience on our Website to measure promotional effectiveness and to ensure trust and safety on our Website. For more detailed information about our use of these technologies, we refer you to our Policy on Cookies, Web beacons and Similar Technologies. 
 
 7\. We protect your information by using technical and administrative security measures (such as firewalls, data encryption, and physical and administrative access controls to the data and servers) that limit the risk of loss, abuse, unauthorised access, disclosure, and alteration. Nevertheless, if you believe your account has been abused, please contact us through the Contact Form. 
+
+|   
+---|---|---  
+  
+
