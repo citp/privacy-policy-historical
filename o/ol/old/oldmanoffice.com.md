@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmanoffice.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203145035id_/http%3A//oldmanoffice.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmanoffice.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620153819id_/http%3A//oldmanoffice.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
