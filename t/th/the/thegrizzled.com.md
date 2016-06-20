@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrizzled.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205234914id_/http%3A//thegrizzled.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrizzled.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620141312id_/http%3A//thegrizzled.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Grizzled
 
