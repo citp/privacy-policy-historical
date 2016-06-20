@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentimentrader.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201111219id_/http%3A//www.sentimentrader.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentimentrader.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620072144id_/http%3A//sentimentrader.com/privacy_policy) for the most accurate reproduction.*
 
 # sentimenTrader - Privacy Policy
 
