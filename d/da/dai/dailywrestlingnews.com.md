@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailywrestlingnews.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102025922id_/http%3A//dailywrestlingnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywrestlingnews.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620105244id_/http%3A//dailywrestlingnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Wrestling News
 
@@ -10,7 +10,7 @@ Information Collected by Daily [Wrestling](http://www.dailywrestlingnews.com/tag
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Daily [Wrestling](http://www.dailywrestlingnews.com/tag/wrestling/ "Wrestling") News users:
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special [features](http://www.dailywrestlingnews.com/category/features/ "features").
 
 2\. Automatic Information: 
 
@@ -26,7 +26,7 @@ Cookies
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Daily [Wrestling](http://www.dailywrestlingnews.com/tag/wrestling/ "Wrestling") News cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Daily [Wrestling](http://www.dailywrestlingnews.com/tag/wrestling/ "Wrestling") News’s coolest features. 
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Daily [Wrestling](http://www.dailywrestlingnews.com/tag/wrestling/ "Wrestling") News’s coolest [features](http://www.dailywrestlingnews.com/category/features/ "features"). 
 
 Daily [Wrestling](http://www.dailywrestlingnews.com/tag/wrestling/ "Wrestling") News’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
