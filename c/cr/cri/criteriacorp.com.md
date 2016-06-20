@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criteriacorp.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220015608id_/http%3A//www.criteriacorp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criteriacorp.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620192434id_/http%3A//www.criteriacorp.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
