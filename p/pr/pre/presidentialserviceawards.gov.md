@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101442id_/http%3A//www.presidentialserviceawards.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620191621id_/http%3A//www.presidentialserviceawards.gov/privacy.aspx) for the most accurate reproduction.*
 
 # The President's Volunteer Service Award
 
@@ -36,7 +36,7 @@ The PVSA WEB SITE respects the sensitive nature of children's privacy online. We
 
 ### Can I opt out of allowing the PVSA WEB SITE to use my personally identifiable information?
 
-The PVSA WEB SITE allows you to remove your information from our database in order to stop receiving future communications from the PVSA WEB SITE or by contacting us at privacy@presidentialserviceawards.gov.
+The PVSA WEB SITE allows you to remove your information from our database in order to stop receiving future communications from the PVSA WEB SITE or by contacting us at inquiries@presidentialserviceawards.gov.
 
 What type of security does the website employ?
 
@@ -44,10 +44,10 @@ The website uses encrypted authentication technology when you login to the websi
 
 ### How can I update my information?
 
-The PVSA WEB SITE gives you the opportunity to change or modify information you have previously provided by sending an e-mail to privacy@presidentialserviceawards.gov or calling (866) 545-5307.
+The PVSA WEB SITE gives you the opportunity to change or modify information you have previously provided by sending an e-mail to inquiries@presidentialserviceawards.gov or calling (866) 545-5307.
 
 ### How can I contact the PVSA WEB SITE?
 
-If you have any questions about this privacy your interaction with website, please feel free to contact us at privacy@presidentialserviceawards.gov.
+If you have any questions about this privacy your interaction with website, please feel free to contact us at inquiries@presidentialserviceawards.gov.
 
 Any of the policies or procedures above may be changed at any time without prior notice.
