@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmtc.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122062732id_/https%3A//www.dmtc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmtc.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620115735id_/https%3A//www.dmtc.com/privacy-policy) for the most accurate reproduction.*
 
 # Del Mar Thoroughbred Club Privacy Policy
 
@@ -34,7 +34,7 @@ If you prefer not to receive information from us, you can let us know that by mo
 
 We do not sell, rent, share or disclose personal information to third parties without your prior consent, except in the following limited circumstances.
 
-If you order something from us, such as through The Gift Horse (gift shop), we may provide to a third party information that is necessary to complete your order. For example, we may provide your address to a shipping carrier, and if you pay by a credit card or debit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services).
+If you order something from us, such as through Silks Gift Shop, we may provide to a third party information that is necessary to complete your order. For example, we may provide your address to a shipping carrier, and if you pay by a credit card or debit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services).
 
 Also, we may disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, personal property or safety of DMTC, our customers, employees or the public.
 
