@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the globaljournals.org privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319171421id_/https%3A//globaljournals.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globaljournals.org privacy policy that was archived on 2016-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621001416id_/https%3A//globaljournals.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" xml:lang="en-us" lang="en-us"><head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <base href="https://globaljournals.org/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -10,7 +10,8 @@
   <meta name="generator" content="GJ">
   <title>Privacy Policy</title>
   <link href="/templates/rt_spectral/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
+  <link rel="stylesheet" href="/media/k2/assets/css/k2.fonts.css?v2.7.0" type="text/css">
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css?v2.7.0" type="text/css">
   <link rel="stylesheet" href="/plugins/system/rokbox/assets/styles/rokbox.css" type="text/css">
   <link rel="stylesheet" href="/libraries/gantry/css/grid-responsive.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_spectral/css-compiled/bootstrap.css" type="text/css">
@@ -32,10 +33,10 @@
   <script src="//code.jquery.com/jquery-1.11.1.min.js" type="text/javascript"></script>
   <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
   <script src="/media/eorisis-jquery/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/k2/assets/js/k2.frontend.js?v2.7.0&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="/plugins/system/rokbox/assets/js/rokbox.js" type="text/javascript"></script>
   <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
@@ -65,7 +66,7 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
-		__gaTracker('create', 'UA-1193032-4', 'auto');
+		__gaTracker('create', 'UA-76437900-1', 'auto');
 		__gaTracker('send', 'pageview');
 	
 
@@ -99,12 +100,23 @@ window.addEvent('domready', function(){
 window.addEvent('domready', function(){
 	RokSprocket.instances.showcase.attach(216, '{"animation":"fromTop","autoplay":"1","delay":"5"}');
 });
+window.addEvent('load', function(){
+   var overridden = false;
+   if (!overridden && window.G5 && window.G5.offcanvas){
+       var mod = document.getElement('[data-showcase="216"]');
+       mod.addEvents({
+           touchstart: function(){ window.G5.offcanvas.detach(); },
+           touchend: function(){ window.G5.offcanvas.attach(); }
+       });
+       overridden = true;
+   };
+});
 
   </script>
   <script type="text/javascript">
 				/*<![CDATA[*/
 					var jax_live_site = 'https://globaljournals.org/index.php';
-					var jax_token_var='9710d03cf70f1f951031dca5f77451d9';
+					var jax_token_var='7a8bc3ab8fac4338e704e5d0a7bf28d8';
 				/*]]>*/
 				</script><script type="text/javascript" src="https://globaljournals.org/plugins/system/azrul.system/pc_includes/ajax_1.5.pack.js"></script>
   
@@ -610,6 +622,15 @@ window.addEvent('domready', function(){
                                             </div>
 
                                     </li>
+                                                                                                                                                                <li class="item800">
+
+            <a class="item" href="/board/apply-for-editorial">
+                                
+                Apply for Editorial              
+            </a>
+
+
+                    </li>
                                                                                                         </ul>
                         </div>
                                             </div>
@@ -636,8 +657,8 @@ window.addEvent('domready', function(){
 
 
                             <span class="dropdown-spacer"></span>
-                                    <div class="dropdown flyout columns-1 " style="width:230px;">
-                                                <div class="column col1" style="width:230px;">
+                                    <div class="dropdown flyout columns-1 " style="width:250px;">
+                                                <div class="column col1" style="width:250px;">
                             <ul class="l3">
                                                                                                                     <li class="item198">
 
@@ -695,9 +716,18 @@ window.addEvent('domready', function(){
                     </li>
                                                                                                                                                                 <li class="item204">
 
-            <a class="item" href="/journals/computer/g-interdisciplinary">
+            <a class="item" href="/journals/computer/h-interdisciplinary">
                                 
                 G: Interdisciplinary              
+            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item690">
+
+            <a class="item" href="/journals/computer/information-technology">
+                                
+                H:Information &amp; Technology              
             </a>
 
 
@@ -750,7 +780,7 @@ window.addEvent('domready', function(){
 
             <a class="item" href="/journals/medical-research/d-radiology-diagnostic">
                                 
-                D: Radiology, Diagnostic              
+                D: Radiology, Diagnostic Imaging and Instrumentation              
             </a>
 
 
@@ -766,9 +796,9 @@ window.addEvent('domready', function(){
                     </li>
                                                                                                                                                                 <li class="item220">
 
-            <a class="item" href="/journals/medical-research/f-diseases">
+            <a class="item subtext" href="/journals/medical-research/f-diseases">
                                 
-                F:Diseases              
+                F: Diseases<em>cancer</em>              
             </a>
 
 
@@ -814,6 +844,15 @@ window.addEvent('domready', function(){
             <a class="item" href="/journals/medical-research/k-interdisciplinary">
                                 
                 K: Interdisciplinary               
+            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item692">
+
+            <a class="item" href="/journals/medical-research/nutrition">
+                                
+                L:Nutrition and Food Science              
             </a>
 
 
@@ -864,9 +903,9 @@ window.addEvent('domready', function(){
                     </li>
                                                                                                                                                                 <li class="item208">
 
-            <a class="item" href="/journals/engineering/d-aerospace-science">
+            <a class="item subtext" href="/journals/engineering/d-aerospace-science">
                                 
-                D: Aerospace Science              
+                D: Aerospace Science<em>Aeronautics &amp; Astronautics</em>              
             </a>
 
 
@@ -939,8 +978,8 @@ window.addEvent('domready', function(){
 
 
                             <span class="dropdown-spacer"></span>
-                                    <div class="dropdown flyout columns-1 " style="width:250px;">
-                                                <div class="column col1" style="width:250px;">
+                                    <div class="dropdown flyout columns-1 " style="width:300px;">
+                                                <div class="column col1" style="width:300px;">
                             <ul class="l3">
                                                                                                                     <li class="item226">
 
@@ -980,9 +1019,9 @@ window.addEvent('domready', function(){
                     </li>
                                                                                                                                                                 <li class="item230">
 
-            <a class="item" href="/journals/science-frontier-research/e-interdisciplinary">
+            <a class="item subtext" href="/journals/science-frontier-research/e-marine-science">
                                 
-                E: Interdisciplinary               
+                E: Marine Science<em>oceanography</em>              
             </a>
 
 
@@ -991,7 +1030,7 @@ window.addEvent('domready', function(){
 
             <a class="item" href="/journals/science-frontier-research/f-mathematics-and-decision">
                                 
-                F: Mathematics &amp; Decision              
+                F: Mathematics &amp; Decision Science              
             </a>
 
 
@@ -1009,7 +1048,16 @@ window.addEvent('domready', function(){
 
             <a class="item" href="/journals/science-frontier-research/h-environment-earth">
                                 
-                H: Environment &amp; Earth              
+                H: Environment &amp; Earth Science              
+            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item691">
+
+            <a class="item" href="/journals/science-frontier-research/i-interdisciplinary">
+                                
+                I: Interdisciplinary              
             </a>
 
 
@@ -1080,7 +1128,7 @@ window.addEvent('domready', function(){
 
             <a class="item" href="/journals/management/f-real-estate-event-tourism-management">
                                 
-                F: Real estate, Event &amp; Tourism Management              
+                F: Real estate, Event, Tourism Management &amp; Transporting              
             </a>
 
 
@@ -1108,8 +1156,8 @@ window.addEvent('domready', function(){
 
 
                             <span class="dropdown-spacer"></span>
-                                    <div class="dropdown flyout columns-1 " style="width:400px;">
-                                                <div class="column col1" style="width:400px;">
+                                    <div class="dropdown flyout columns-1 " style="width:470px;">
+                                                <div class="column col1" style="width:470px;">
                             <ul class="l3">
                                                                                                                     <li class="item241">
 
@@ -1124,7 +1172,7 @@ window.addEvent('domready', function(){
 
             <a class="item" href="/journals/human-social-science/b-geography-geo-sciences-environmental-science-disaster-management">
                                 
-                B: Geography , Geo-Sciences Environmental Science &amp; Disaster Management              
+                B: Geography, Environmental Science &amp; Disaster Management              
             </a>
 
 
@@ -1142,7 +1190,7 @@ window.addEvent('domready', function(){
 
             <a class="item" href="/journals/human-social-science/d-history-archaeology-anthropology">
                                 
-                D: History , Archaeology &amp; Anthropology              
+                D: History, Archaeology &amp; Anthropology              
             </a>
 
 
@@ -1837,12 +1885,21 @@ window.addEvent('domready', function(){
      			            <div class="rt-block ">
            	<div class="module-surround">
 	           		                	<div class="module-content">
-	                		
+	                				<div class="module">
+			<div>
+				<div>
+					<div>
+											
 
 <div class="custom">
 	<h4>KEEP IN TOUCH</h4>
-<p><span style="font-size: 10pt;"><strong>Global Journals™ Headquarters</strong></span><br><span style="font-size: 10pt;">945th Concord Streets</span><br><span style="font-size: 10pt;">Framingham Massachusetts</span><br><span style="font-size: 10pt;">Pin: 01701</span><br><span style="font-size: 10pt;">United States of America</span><br><span style="font-size: 10pt;">Call to Subscribe: 1-888-839-7392</span><br><span style="font-size: 10pt;">Subscription Fax: 1-888-839-7392</span></p></div>
-	                	</div>
+<p><span style="font-size: 10pt;"><strong>Global Journals<sup>™</sup> Headquarters</strong></span><br><span style="font-size: 10pt;">945th Concord Streets</span><br><span style="font-size: 10pt;">Framingham Massachusetts</span><br><span style="font-size: 10pt;">Pin: 01701</span><br><span style="font-size: 10pt;">United States of America</span><br><span style="font-size: 10pt;">Call to Subscribe: 1-888-839-7392</span><br><span style="font-size: 10pt;">Subscription Fax: 1-888-839-7392</span></p>
+<p><span style="font-family: &quot;;"><a href="https://play.google.com/store/apps/details?id=org.globaljournals.gjapp&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"><img src="/images/en_badge_web_generic.png" alt="en badge web generic"></a></span></p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		                	</div>
                 	</div>
            </div>
 	
@@ -1851,12 +1908,20 @@ window.addEvent('domready', function(){
      			            <div class="rt-block ">
            	<div class="module-surround">
 	           		                	<div class="module-content">
-	                		
+	                				<div class="module">
+			<div>
+				<div>
+					<div>
+											
 
 <div class="custom">
 	<h4>DISCLAIMER</h4>
-<p style="line-height: 16px; text-align: justify;"><span style="font-size: 10pt;">Copyright © 2001-2014 by Global Journals™&nbsp;<span class="spell">Incorporated</span> – All Rights Reserved. The use of this site, and the terms and conditions for providing information, is governed by our Disclaimer, Terms and Conditions and Privacy Policy. By using this site, you acknowledge that you have read them and that you accept and will be bound by the terms thereof. Contents of Journals are solely the concern of their respective authors and NO WARRANTY OR FITNESS is implied on them. All trademarks, logos and names are properties of their respective owners. <em><strong>We are strictly against plagiarism and if found at any stage, the authors of concerned papers will be solely held responsible for it and they may face suitable legal consequences. </strong></em>&nbsp;All information, activities undertaken, materials, services including this website is subject to change anytime without any prior notice.</span></p></div>
-	                	</div>
+<p style="line-height: 16px; text-align: justify;"><span style="font-size: 10pt;">Copyright © 2001-2016 by Global Journals<sup>™</sup>&nbsp;<span class="spell">Incorporated</span> – All Rights Reserved. The use of this site, and the terms and conditions for providing information, is governed by our Disclaimer, Terms and Conditions and Privacy Policy. By using this site, you acknowledge that you have read them and that you accept and will be bound by the terms thereof. Contents of Journals are solely the concern of their respective authors and NO WARRANTY OR FITNESS is implied on them. All trademarks, logos and names are properties of their respective owners. <em><strong>We are strictly against plagiarism and if found at any stage, the authors of concerned papers will be solely held responsible for it and they may face suitable legal consequences. </strong></em>&nbsp;All information, activities undertaken, materials, services including this website is subject to change anytime without any prior notice.</span></p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		                	</div>
                 	</div>
            </div>
 	
@@ -1867,7 +1932,7 @@ window.addEvent('domready', function(){
 					<div class="rt-container">
 						<div class="rt-grid-4 rt-alpha">
         <div class="date-block">
-        <span class="date">Thursday, March 19, 2015</span>
+        <span class="date">Tuesday, June 21, 2016</span>
     </div>
 	
 </div>
