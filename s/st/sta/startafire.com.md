@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the startafire.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106233020id_/http%3A//startafire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startafire.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620032906id_/http%3A//startafire.com/privacy) for the most accurate reproduction.*
 
-# start A FIRE - Privacy
+# Start A Fire - Privacy
 
-Please take a minute to confirm your email address 
+Welcome Product Hunters! 
 
 Just drag it ;)
 
 It's a bookmarklet, not a button. Please drag it to your bookmarks bar.
 
+Support for HubSpot integration
+
+You can also call us directly: [+1-(646)-902-6419](tel:+16469026419) (09:00 AM - 03:00 PM EST, Monday to Friday). 
+
 ## Last Revised: 03/05/15
 
   1. Introduction
 
-1.1. We, Tomodo Ltd. ("We", "Us", or "Our"), respect the privacy of the users and visitors of our start A FIRE service (the "Service"), and are committed to protect the information that Our users ("User" or "You") share with Us.  
+1.1. We, Tomodo Ltd. ("We", "Us", or "Our"), respect the privacy of the users and visitors of our Start A Fire service (the "Service"), and are committed to protect the information that Our users ("User" or "You") share with Us.  
 1.2. We believe that You have the right to know our practices regarding the information We may collect when You log into the your Account and use the Service. The guidelines contained herein apply to your use of the Service.   
 1.3. PLEASE READ CAREFULLY: BY USING THE SERVICE, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SERVICE.  
 
@@ -54,7 +58,7 @@ We collect information through Your use of the Service. In other words, when You
 
   5. Sharing information with third parties 
 
-WE WILL NEVER SHARE YOUR PERSONAL INFORMATION EXCEPT FOR THE FOLLOWING CASES: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce these Privacy Policy, and the start A FIRE Terms of Use, as applicable, including investigation of potential violations of them; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that contact information (e.g. phone number, name, etc.) of a third-party has been posted on Service or transmitted without their consent or as a form of harassment; (e) to protect Our rights, property, or personal safety and those of our users or the general public; (f) if We undergo any change in control, including by means of merger, acquisition or purchase of all or substantially all of Our assets of Company; (h) in order to provide You with Our services and with related services; or (i) pursuant to Your approval, in order to supply certain services the You have requested from Us. 
+WE WILL NEVER SHARE YOUR PERSONAL INFORMATION EXCEPT FOR THE FOLLOWING CASES: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce these Privacy Policy, and the Start A Fire Terms of Use, as applicable, including investigation of potential violations of them; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that contact information (e.g. phone number, name, etc.) of a third-party has been posted on Service or transmitted without their consent or as a form of harassment; (e) to protect Our rights, property, or personal safety and those of our users or the general public; (f) if We undergo any change in control, including by means of merger, acquisition or purchase of all or substantially all of Our assets of Company; (h) in order to provide You with Our services and with related services; or (i) pursuant to Your approval, in order to supply certain services the You have requested from Us. 
 
   6. Deletion/Modification of Personal Information
 
