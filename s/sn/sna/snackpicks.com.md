@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snackpicks.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129121226id_/http%3A//www.kelloggcompany.com/en_US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snackpicks.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620192241id_/http%3A//www.kelloggcompany.com/en_US/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
