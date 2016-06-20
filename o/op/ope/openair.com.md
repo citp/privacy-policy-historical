@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213121846id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620160206id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
 
 # NetSuite Privacy Policy - Customer Relationship Management - eCommerce Solution
+
+## NetSuite Website Privacy Policy
 
 In this Website Privacy Policy ("statement"), we, NetSuite Inc. and its other affiliates (the "NetSuite group of companies"), provide information about how we collect, use, disclose, and transfer personal information from you, an individual person and website visitor, through NetSuite's publicly accessible websites of the NetSuite group of companies (such as [www.netsuite.com](https://web.archive.org/) that can be accessed without a password) and on which we post a direct link to this statement (collectively the "site").
 
