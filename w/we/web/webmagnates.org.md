@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmagnates.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127071330id_/http%3A//webmagnates.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmagnates.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620211225id_/http%3A//www.webmagnates.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Friday, 27 November 2009 07:19  NiCK Carty 
 
-[](http://webmagnates.org/component/option,com_mailto/link,1e27ddf338ac81d4f6a60a338aef394cbd6e595d/tmpl,component/ "E-mail") [](http://webmagnates.org/privacy-policy/print.html "Print") [](http://webmagnates.org/pdf/privacy-policy.pdf "PDF")
+[](http://www.webmagnates.org/component/option,com_mailto/link,fae4a22e266c255ff0d7303c837041602122c1f5/tmpl,component/ "E-mail") [](http://www.webmagnates.org/privacy-policy/print.html "Print") [](http://www.webmagnates.org/pdf/privacy-policy.pdf "PDF")
 
 **Introduction.**  
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our Terms of Use.
