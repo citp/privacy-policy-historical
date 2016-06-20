@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jeansshop.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016072806id_/http%3A//www.jeansshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeansshop.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620183243id_/http%3A//www.jeansshop.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Notice | JEANSSHOP.com - Levi's® Authorised Shop - Jeans Online Shop
+# Privacy Notice | JEANSSHOP.com - Jeans Online Shop
 
 ### Privacy Policy
 
@@ -62,6 +62,4 @@ ul. Westerplatte 52C,
 14-400 Pasłęk  
 Poland
 
-Communication between the Client and the JEANSSHOP.com is always conducted in a safe way through a 128-bite SSL Thawte protocol.
-
-JEANSSHOP.com is secured by:
+Communication between the Client and the JEANSSHOP.com is always conducted in a safe way through a 128-bite SSL protocol.
