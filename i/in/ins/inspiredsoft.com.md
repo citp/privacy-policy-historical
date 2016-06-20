@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredsoft.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118115655id_/http%3A//inspiredsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredsoft.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620211443id_/http%3A//inspiredsoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Inspired Soft LTD
 
