@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the placelocal.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220121021id_/http%3A//www.paperg.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placelocal.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620172320id_/http%3A//www.paperg.com/privacy.php) for the most accurate reproduction.*
 
 # PaperG | Privacy Policy
 
 Big Desktop Desktop Tablet Portrait Mobile Landscape Mobile Portrait
 
-[ ](https://web.archive.org/web/20151220121021id_/http://www.paperg.com/index.php)
+[ ](https://web.archive.org/web/20160620172320id_/http://www.paperg.com/index.php)
 
 ##  Privacy Policy 
 
