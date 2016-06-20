@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forexpeacearmy.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231061354id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forexpeacearmy.com privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620104918id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut Sidebar  Responsive not_hasTabLinks hasSearch activeSmallLogo navStyle_2 pageStyle_1 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta charset="utf-8">
@@ -12,10 +12,10 @@
 		</script>
 <title>Privacy and Legal | Forex Peace Army - Your Forex Trading Forum</title>
 <noscript><style>.JsOnly,.jsOnly{display:none!important;}</style></noscript>
-<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=3&amp;dir=LTR&amp;d=1450754423">
-<link rel="stylesheet" href="css.php?css=facebook,google,help_wrapper,login_bar,moderator_bar,panel_scroller,sedo_new_help_index,sidebar_share_page,uix_extendedFooter,wf_default&amp;style=3&amp;dir=LTR&amp;d=1450754423">
+<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=3&amp;dir=LTR&amp;d=1465281094">
+<link rel="stylesheet" href="css.php?css=facebook,google,help_wrapper,login_bar,moderator_bar,panel_scroller,sedo_new_help_index,sidebar_share_page,uix_extendedFooter,wf_default&amp;style=3&amp;dir=LTR&amp;d=1465281094">
 <style>.node.node_91>.nodeInfo{}</style>
-<link rel="stylesheet" href="css.php?css=uix,scratch,fpa_scratch,EXTRA&amp;style=3&amp;dir=LTR&amp;d=1450754423">
+<link rel="stylesheet" href="css.php?css=uix,scratch,fpa_scratch,EXTRA&amp;style=3&amp;dir=LTR&amp;d=1465281094">
 <style></style>
 <script>
 
@@ -55,13 +55,127 @@
   })();
 </script>
 <script type="text/javascript">
+/*!
+ * jQuery Cookie Plugin v1.4.1
+ * https://github.com/carhartl/jquery-cookie
+ *
+ * Copyright 2006, 2014 Klaus Hartl
+ * Released under the MIT license
+ */
+(function (factory) {
+	if (typeof define === 'function' && define.amd) {
+		// AMD (Register as an anonymous module)
+		define(['jquery'], factory);
+	} else if (typeof exports === 'object') {
+		// Node/CommonJS
+		module.exports = factory(require('jquery'));
+	} else {
+		// Browser globals
+		factory(jQuery);
+	}
+}(function ($) {
+
+	var pluses = /\+/g;
+
+	function encode(s) {
+		return config.raw ? s : encodeURIComponent(s);
+	}
+
+	function decode(s) {
+		return config.raw ? s : decodeURIComponent(s);
+	}
+
+	function stringifyCookieValue(value) {
+		return encode(config.json ? JSON.stringify(value) : String(value));
+	}
+
+	function parseCookieValue(s) {
+		if (s.indexOf('"') === 0) {
+			// This is a quoted cookie as according to RFC2068, unescape...
+			s = s.slice(1, -1).replace(/\\"/g, '"').replace(/\\\\/g, '\\');
+		}
+
+		try {
+			// Replace server-side written pluses with spaces.
+			// If we can't decode the cookie, ignore it, it's unusable.
+			// If we can't parse the cookie, ignore it, it's unusable.
+			s = decodeURIComponent(s.replace(pluses, ' '));
+			return config.json ? JSON.parse(s) : s;
+		} catch(e) {}
+	}
+
+	function read(s, converter) {
+		var value = config.raw ? s : parseCookieValue(s);
+		return $.isFunction(converter) ? converter(value) : value;
+	}
+
+	var config = $.cookie = function (key, value, options) {
+
+		// Write
+
+		if (arguments.length > 1 && !$.isFunction(value)) {
+			options = $.extend({}, config.defaults, options);
+
+			if (typeof options.expires === 'number') {
+				var days = options.expires, t = options.expires = new Date();
+				t.setMilliseconds(t.getMilliseconds() + days * 864e+5);
+			}
+
+			return (document.cookie = [
+				encode(key), '=', stringifyCookieValue(value),
+				options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+				options.path    ? '; path=' + options.path : '',
+				options.domain  ? '; domain=' + options.domain : '',
+				options.secure  ? '; secure' : ''
+			].join(''));
+		}
+
+		// Read
+
+		var result = key ? undefined : {},
+			// To prevent the for loop in the first place assign an empty array
+			// in case there are no cookies at all. Also prevents odd result when
+			// calling $.cookie().
+			cookies = document.cookie ? document.cookie.split('; ') : [],
+			i = 0,
+			l = cookies.length;
+
+		for (; i < l; i++) {
+			var parts = cookies[i].split('='),
+				name = decode(parts.shift()),
+				cookie = parts.join('=');
+
+			if (key === name) {
+				// If second argument (value) is a function it's a converter...
+				result = read(cookie, value);
+				break;
+			}
+
+			// Prevent storing a cookie that we couldn't decode.
+			if (!key && (cookie = read(cookie)) !== undefined) {
+				result[name] = cookie;
+			}
+		}
+
+		return result;
+	};
+
+	config.defaults = {};
+
+	$.removeCookie = function (key, options) {
+		// Must not alter options, thus extending a fresh object...
+		$.cookie(key, '', $.extend({}, options, { expires: -1 }));
+		return !$.cookie(key);
+	};
+
+}));
 $(document).ready(function() {
   googletag.cmd.push(function() {
 	function Slot() {
 		this.slotList = {};	
 		this.elementList = [];
 		this.add = function(unitPath, size, elementId, mapping) {
-			if(document.getElementById(elementId) !== null) {	
+			if(document.getElementById(elementId) !== null) {
 				var slot = googletag.defineSlot(unitPath, size, elementId);
 				if(typeof mapping != 'undefined') {
 					slot.defineSizeMapping(mapping);
@@ -71,6 +185,29 @@ $(document).ready(function() {
 				if(typeof NODE_ID != 'undefined') {
 					slot.setTargeting('forumid', [NODE_ID]);
 				}
+				if(this.getUrlParam('gclid')) {
+					var p = {'adwds': 1};
+					if(this.getUrlParam('cpid')) {
+						p['cpid'] = this.getUrlParam('cpid');
+					}
+					if(this.getUrlParam('adgr')) {
+						p['adgr'] = this.getUrlParam('adgr');
+					}
+					if(this.getUrlParam('kwd')) {
+						p['kwd'] = this.getUrlParam('kwd');
+					}
+					$.cookie('fpaadwparams', p);
+				}
+				var p = $.cookie('fpaadwparams');
+				if(p) {
+					for(k in p) {
+						slot.setTargeting(k, [p[k]]);
+					}
+				} else {
+					slot.setTargeting('adwds', [0]);
+				}
+				//slot.setTargeting('adwds', [$.cookie('adwds') ? 1 : 0]);				
+				
 				this.slotList[elementId] = slot;
 				return slot;
 			}
@@ -89,7 +226,17 @@ $(document).ready(function() {
 		this.getVisibleSlotList = function() {
 			return this.getList();
 		}
+		this.getUrlParam = function ( name, url ) {
+		  if (!url) url = location.href;
+		  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+		  var regexS = "[\\?&]"+name+"=([^&#]*)";
+		  var regex = new RegExp( regexS );
+		  var results = regex.exec( url );
+		  return results == null ? null : results[1];
+		}
 	}
+	
+	$.cookie.json = true;
 		
 	var dfpId = 53611610;
 	  
@@ -161,6 +308,9 @@ $(document).ready(function() {
 		}
 	});
   });  
+            jQuery(document).on('AdBlockOn', function() {
+                _gaq.push(['_trackEvent', 'Adblock', 'Blocked', 'true',,true]);
+            });
 });
 </script>
 <!--[if lt IE 9]>
@@ -173,6 +323,7 @@ $(document).ready(function() {
 	        <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
 	
 <![endif]-->
+<script type="text/javascript" src="//static.forexpeacearmy.com/js/jd.js"></script>
 <script>
 	uix = {
 		elm:{},
@@ -197,7 +348,7 @@ $(document).ready(function() {
 	  
 	  	version					: '1.4.6.0',
 	  	jsHeadVersion				: '1.4.6.0',
-	  	addonVersion				: '1000570',
+	  	addonVersion				: '1000870',
 	  
 		globalPadding 				: parseInt('20px'),
 		sidebarWidth				: parseInt('234px'),
@@ -267,7 +418,7 @@ $(document).ready(function() {
 								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
 								stickyEnableNav		: (parseInt('') == parseInt('')) ? parseInt('') : true,
 								stickyEnableSidebar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
-								widthToggleState	: (parseInt('') == parseInt('')) ? parseInt('') : 0,
+								widthToggleState	: (parseInt('0') == parseInt('0')) ? parseInt('0') : 0,
 							}
 	};
 	
@@ -320,11 +471,7 @@ $(document).ready(function() {
 <link rel="alternate" type="application/rss+xml" title="RSS feed for Forex Peace Army - Your Forex Trading Forum" href="forums/-/index.rss">
 <link rel="canonical" href="http://www.forexpeacearmy.com/community/help/privacy/">
 </head>
-<body><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="www.forexpeacearmy.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
+<body>
 <div id="loginBar">
 <div class="pageContent">
 <span class="helper"></span>
@@ -912,7 +1059,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-bottom-leaderboard
 <form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
 <ul id="eAuthUnit">
 <li><a href="register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
-<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="24374730850-fol15r3ansnj047ecqq3biluj351cjce.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=4sUa9lxKTXWpJLUr"><span>Log in with Google</span></span></li>
+<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="24374730850-fol15r3ansnj047ecqq3biluj351cjce.apps.googleusercontent.com" data-redirect-url="register/google?code=__CODE__&amp;csrf=R9sokrHHi6bqZgWD"><span>Log in with Google</span></span></li>
 </ul>
 <div class="ctrlWrapper">
 <dl class="ctrlUnit">
@@ -1011,21 +1158,63 @@ Quick Links
 </h3>
 <div class="userList WidgetFramework_WidgetRenderer_OnlineUsers">
 <ol class="listInline">
-<li class="user-42179">
-<a href="members/ochills.42179/" class="username" dir="auto">ochills</a>,
+<li class="user-135977">
+<a href="members/dcharles121.135977/" class="username" dir="auto">dcharles121</a>,
 </li>
-<li class="user-131236">
-<a href="members/justice-mc-gavin.131236/" class="username" dir="auto">Justice Mc Gavin</a>,
+<li class="user-57765">
+<a href="members/stelore.57765/" class="username" dir="auto">stelore</a>,
 </li>
-<li class="user-131379">
-<a href="members/tahir.131379/" class="username" dir="auto">TAHIR</a>,
+<li class="user-136702">
+<a href="members/thiva001.136702/" class="username" dir="auto">thiva001</a>,
 </li>
-<li class="user-131362">
-<a href="members/rehman.131362/" class="username" dir="auto">rehman</a>
+<li class="user-132546">
+<a href="members/lucasgs5.132546/" class="username" dir="auto">lucasgs5</a>,
+</li>
+<li class="user-2868">
+<a href="members/max.2868/" class="username" dir="auto">Max</a>,
+</li>
+<li class="user-136612">
+<a href="members/javz772.136612/" class="username" dir="auto">Javz772</a>,
+</li>
+<li class="user-133958">
+<a href="members/trooperformer.133958/" class="username" dir="auto">trooperformer</a>,
+</li>
+<li class="user-128691">
+<a href="members/chandramohan-khetwal.128691/" class="username" dir="auto">Chandramohan Khetwal</a>,
+</li>
+<li class="user-135565">
+<a href="members/kay-mcnaught.135565/" class="username" dir="auto">Kay McNaught</a>,
+</li>
+<li class="user-136174">
+<a href="members/anna-sergeeva.136174/" class="username" dir="auto">Anna Sergeeva</a>,
+</li>
+<li class="user-125762">
+<a href="members/gabmih99.125762/" class="username" dir="auto">gabmih99</a>,
+</li>
+<li class="user-74562">
+<a href="members/tw-pr.74562/" class="username" dir="auto">TW.PR</a>,
+</li>
+<li class="user-135435">
+<a href="members/biifx.135435/" class="username" dir="auto">biifx</a>,
+</li>
+<li class="user-136648">
+<a href="members/aplt1.136648/" class="username" dir="auto">Aplt1</a>,
+</li>
+<li class="user-136639">
+<a href="members/yonnie.136639/" class="username" dir="auto">Yonnie</a>,
+</li>
+<li class="user-131220">
+<a href="members/oluakin1070.131220/" class="username" dir="auto">oluakin1070</a>,
+</li>
+<li class="user-130679">
+<a href="members/fpa-forums-team.130679/" class="username" dir="auto">FPA Forums Team</a>,
+</li>
+<li class="user-74546">
+<a href="members/fxmaster.74546/" class="username" dir="auto">FxMaster</a>
 </li>
 </ol>
 <div class="footnote">
-Total: 192 (members: 4, guests: 117, robots: 71)
+Total: 290 (members: 20, guests: 222, robots: 48)
 </div>
 </div>
 </div>
@@ -1037,13 +1226,13 @@ Forum Statistics
 </h3>
 <div class="pairsJustified">
 <dl class="discussionCount"><dt>Discussions:</dt>
-<dd>31,669</dd></dl>
+<dd>33,259</dd></dl>
 <dl class="messageCount"><dt>Messages:</dt>
-<dd>213,608</dd></dl>
+<dd>232,251</dd></dl>
 <dl class="memberCount"><dt>Members:</dt>
-<dd>41,575</dd></dl>
+<dd>46,311</dd></dl>
 <dl><dt>Latest Member:</dt>
-<dd><a href="members/tahir.131379/" class="username" dir="auto">TAHIR</a></dd></dl>
+<dd><a href="members/demrum.136704/" class="username" dir="auto">demrum</a></dd></dl>
  
 </div>
 </div>
@@ -1084,6 +1273,7 @@ Forum Statistics
 <li><a href="help/terms">Terms</a></li>
 <li><a href="./help/privacy">Privacy</a></li>
 <li><a href="/ad">Advertise</a></li>
+<li><a href="http://www.forexpeacearmy.com/community/threads/forex-peace-army-forex-trading-review-evolution-and-future.27392/" title="About">About</a></li>
 <li class="topLink"><a href="/community/help/privacy/#XenForo"><i class="uix_icon uix_icon-jumpToTop"></i> <span class="uix_hide">Top</span></a></li>
 </ul>
 </div>
@@ -1169,6 +1359,8 @@ Traders Community Forums
 <div class="pageContent">
 <div class="pageWidth">
 <div id="copyright">
+ForexPeaceArmy.com has advertising and affiliate relationships with some of the companies mentioned on this site and may be compensated if readers follow links and sign up. We are committed to the fair handling of reviews and posts regardless of such relations.
+<br><br>
 © Copyright www.ForexPeaceArmy.com. All rights Reserved. ™Forex Peace Army, ForexPeaceArmy, FPA, and the FPA Shield Logo are all trademarks of the Forex Peace Army. All rights reserved under US and international law.
 </div>
 <span class="helper"></span>
@@ -1188,9 +1380,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1451542451,
-		today: 1451538000,
-		todayDow: 4
+		now: 1466419758,
+		today: 1466395200,
+		todayDow: 1
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
