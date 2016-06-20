@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thissillygirlslife.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207211255id_/http%3A//thissillygirlslife.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thissillygirlslife.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620220701id_/http%3A//thissillygirlslife.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - This Silly Girl's Kitchen
 
