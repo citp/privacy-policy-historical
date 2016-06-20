@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220231922id_/http%3A//www.perpetualkid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620212544id_/http%3A//www.perpetualkid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,18 +29,17 @@ We use the information you provide about yourself when placing an order only to 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
   
-Anti-Spam  
+**Anti-Spam**  
 We hate Spam just as much as everybody else. We only send you emails to communicate about your order.
 
   
 **Newsletters**  
-If you opt  to receive our email newsletters, you can easily unsubscribe at any time by clicking the unsubscribe link at the bottom of the newsletter, emailing your request to customer-service@perpetualkid.com, or by sending a written request to Perpetual Kid, 22480 Randolph Dr., #100, Sterling, VA 20166.
+If you opt  to receive our email newsletters, you can easily unsubscribe at any time by clicking the unsubscribe link at the bottom of the newsletter, emailing your request to customer-service@perpetualkid.com, or by sending a written request to Perpetual Kid, 42395 Ryan Road , Suite 112-102, Ashburn, VA 20148.
 
   
 **Opting Out**  
-If you would like to unsubscribe to all correspondence with Perpetual Kid, please email customer-service@perpetualkid.com, call us at 888-282-7115 or send a written request to Perpetual Kid, 22480 Randolph Dr., #100, Sterling, VA 20166.
+If you would like to unsubscribe to all correspondence with Perpetual Kid, please email customer-service@perpetualkid.com, or send a written request to Perpetual Kid, 42395 Ryan Road , Suite 112-102, Ashburn, VA 20148.
 
-  
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
