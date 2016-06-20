@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tpnn.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029195824id_/http%3A//www.tpnn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpnn.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620125432id_/http%3A//www.tpnn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TPNN
+# Privacy Policy
 
-**Updated 7/7/2015**
+[Patrick Brown](http://www.tpnn.com/author/patrick/) September 14, 2015 at 10:03pm
+
+ **Updated 7/7/2015**
 
 If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at[contactus@liftablemedia.com](mailto:contactus@liftablemedia.com).  
 At Liftable Media Inc, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by Liftable Media Inc and how it is used.
