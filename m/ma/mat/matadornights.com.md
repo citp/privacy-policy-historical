@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the matadornights.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218100030id_/http%3A//matadornetwork.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matadornights.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231914id_/http%3A//matadornetwork.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Matador Network
 
-_Last Revised: 4.13.12_
+_Last Revised: 3.27.16_
 
-Matador Ventures, Inc (“ **Matador** “) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.MatadorNetwork.com and www.MatadorU.com (“ **Site** “) and Services (as defined in the Matador Terms of Service). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service located at [www.MatadorNetwork.com/content/tos](http://matadornetwork.com/content/tos/ "Terms of Service").
+Matador Ventures, Inc. (“ **Matador** “, “ **we** ”, “ **us** ” and/or “ **our** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of any of our mobile applications (“ **Apps** ”) or our websites, including those located at: www.MatadorNetwork.com, www.MatadorU.com, matadormediahouse.com, www.glimpse.org, www.mindsummit.org, www.101places.com, www.luxduck.com and www.tripsnaps.com (the Apps and websites are collectively referred to as “ **Site(s)** “) and Services (as defined in the Matador Terms of Service). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service located at [MatadorNetwork.com/content/tos](http://matadornetwork.com/content/tos/).
 
 ## 1\. User Consent.
 
@@ -16,15 +16,15 @@ We do not intentionally gather Personal Data from visitors who are under the age
 
 ## 3. A Note to Users Outside of the United States.
 
-If you are a non-U.S. user of the Site, by visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, such Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your data, you consent to such transfer.
+If you are a non-U.S. user of the Site, by visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, such Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your data, you consent to such transfer and you agree that the applicable laws in the United States will govern the collection, use and disclosure of your Personal Data.
 
 ## 4\. Types of Data We Collect.
 
-“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. **“Anonymous Data”** means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “ **Anonymous Data** ” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
 ### (a) Information You Provide to Us.
 
-We may collect Personal Data from you, such as your first and last name, gender, e-mail, age, marital status and the region in which you reside, Matador username, and password when you create an account to log in to our Site (“ **Account** “).
+We may collect Personal Data from you, such as your first and last name, gender, address, e-mail address, age, marital status, images, languages spoken, countries you have visited and the region in which you reside, Matador username, and password when you create an account to log in to our Site (“ **Account** “).
 
 When you order Services on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
 
@@ -33,6 +33,8 @@ We retain information on your behalf, such as files and messages that you store 
 If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
 
 When you participate in one of our surveys, we may collect additional profile information. Occasionally, we may request demographic information, like your zip code, when you answer a survey.
+
+Provided that you opt-in, third parties may use your Personal Data to contact you in the future to tell you about products, services and events that may be of interest to you.
 
 If you participate in a sweepstakes, contest or giveaway on the Site, we may ask you for your email address and/or home number (to notify you if you win, or not). We may also ask for first and last names, and sometimes post office addresses to verify your identity. In some situations we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules for each sweepstakes and contest that you enter.
 
@@ -44,17 +46,19 @@ We collect Personal Data that you provide to us voluntarily, such as your hobbie
 
 We may also collect Personal Data at other points in our Site that state that Personal Data is being collected.
 
+Third parties may collect, but we do not authorize them to collect, personally identifiable information about your online activities (such as your Personal Data) over time and across different websites when you use the Site.
+
 ### (b) Information Collected via Technology.
 
-To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
+To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. Our App may collect additional information such as the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the App. We may also use GPS technology (or other similar technology) to determine your current location.
 
-We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. **“Cookies”** are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.
+We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “ **Cookies** ” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.
 
-We and our advertisers and agents may use Cookies, including cross domain Cookies, single-pixel GIFs and similar devices to track your activities. A cross domain Cookie is a Cookie that allows Matador, its advertisers and agents to track your activities across the domains that you visit. A single-pixel GIF is a small transparent gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. A similar device may be used by which a service may send data to a server when a set of user-initiated events occur. This device is similar to a cookie in that it tracks your visit and the data can only be read by the server that receives the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer. While we use Cookies, single-pixel GIFs and similar devices to track your use of the Site and other sites (such as the number of downloads, how many users we receive daily, the Site pages visited), and web servers automatically log the IP address of your computer, we do not use this information to identify you personally. You can remove persistent cookies by following directions in your Internet browser’s “help” file.
+We and our advertisers and agents may use Cookies, including cross domain Cookies, single-pixel GIFs and similar devices to track your activities. A cross domain Cookie is a Cookie that allows Matador, its advertisers and agents to track your activities across the domains that you visit and may be used to provide advertisements about goods and services that we think may be of interest to you. A single-pixel GIF is a small transparent gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. A similar device may be used by which a service may send data to a server when a set of user-initiated events occur. This device is similar to a cookie in that it tracks your visit and the data can only be read by the server that receives the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer. While we use Cookies, single-pixel GIFs and similar devices to track your use of the Site and other sites (such as the number of downloads, how many users we receive daily, the Site pages visited), and web servers automatically log the IP address of your computer, we do not use this information to identify you personally. At this time, Matador does not recognize automated browser signals regarding tracking, including “do-not-track” signals. You can remove persistent cookies by following directions in your Internet browser’s “help” file. 
 
 We may also collect Anonymous Information, including IP addresses, about your online activities and share this information with one or more third parties for use in tailoring ads to users on the Site and on third party sites and in analyzing and reporting on the advertising that you see. As part of our commitment to respect privacy concerns, we will, and we will require such third parties to, provide users with the ability to opt out of such use. To opt-out of behavioral advertising, please visit the Network Advertising Initiative web site at www.networkadvertising.org.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site and gather demographic information about our user base as a whole. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
+As is true of most Apps and websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ **ISP** ”), referring/exit pages, operating system, date/time stamp, usage and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site and gather demographic information about our user base as a whole. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
 
 Most browsers are initially set to accept Cookies and most services that include similar devices are typically initially activated to collect data. You can set your browser to notify you when you receive a Cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, Cookies are not optional. Users choosing not to accept Cookies or similar devices will probably not be able to access those pages or the related services).
 
@@ -78,7 +82,7 @@ If there is advertising on the Site, such advertising may employ the use of Cook
 
 ### (a) General Use.
 
-In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in some of the following ways:
 
   1. to facilitate the creation of and secure your Account on our Site;
   2. identify you as a user in our system;
@@ -103,23 +107,23 @@ We disclose your Personal Data as described below and as described elsewhere in 
 
 ### (a) Third Party Service Providers.
 
-We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the Matador. These third party service providers are required not to use your Personal Data other than to provide the services requested by Matador.
+We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site, to conduct quality assurance testing, to facilitate creation of accounts, to provide technical support and/or to provide other services to Matador. These third party service providers are required not to use your Personal Data other than to provide the services requested by Matador.
 
 ### (b) Affiliates and Acquisitions.
 
-We may share some or all of your Personal Data with our parent Matador, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** “), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, including but not limited to in the event of our bankruptcy, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** “), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, including but not limited to in the event of our bankruptcy, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
 
 ### (c) Business Partners.
 
-We may share your Personal Data with businesses, including our contest partners, with whom we have formed a strategic alliance. You may be able to identify these businesses because Matador has authorized them to display clearly identified and branded images on the Site. **** For more information about these companies’ separate privacy policies, you should contact the company directly. Should you have any complaints about the privacy practices of any of these companies, you should contact legal@MatadorNetwork.com.
+We may share your Personal Data with businesses, including our contest partners, with whom we have formed a strategic alliance. You may be able to identify these businesses because Matador has authorized them to display clearly identified and branded images on the Site. For more information about these companies’ separate privacy policies, you should contact the company directly. Should you have any complaints about the privacy practices of any of these companies, you should contact legal@MatadorNetwork.com.
 
 ### (d) Participation on a Public Website.
 
-You should be aware that any Personal Data you submit on the Site in blogs, comments, other posts and your public profile can be read, collected, or use by other users of the Site, including anonymous visitors, and could be used to send you unsolicited messages. We are not responsible for the Personal Data you choose to submit to the Site.
+You should be aware that any Personal Data you submit on the Site in blogs, comments, other posts and your public profile can be read, collected, or used by other users of the Site, including anonymous visitors, and could be used to send you unsolicited messages. We are not responsible for the Personal Data you choose to submit to public areas of the Site.
 
 ### (e) Other Disclosures.
 
-Regardless of any choices you make regarding your Personal Data (as described below), Matador may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Matador; (c) to protect or defend the rights or property of Matador or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Service.
+Regardless of any choices you make regarding your Personal Data (as described below), Matador may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Matador; (c) to protect or defend the rights or property of Matador or users of the Services or otherwise act in the best interests of Matador or its users; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Service.
 
 ### (f) Anonymous Data.
 
@@ -129,7 +133,7 @@ We may collect, compile, store, publish, promote, report, sell or otherwise disc
 
 ### (a) Information Disclosed to Ad Networks.
 
-We use third-party advertising companies to serve ads when you visit our Site. These companies may collect and use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to www.networkadvertising.org/managing/opt_out.asp.] 
+We use third-party advertising companies to serve ads when you visit our Site. These companies may collect and use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to www.networkadvertising.org/managing/opt_out.asp.
 
 ### (b) Third Party Websites.
 
@@ -147,24 +151,24 @@ Despite your indicated e-mail preferences, we may send you service related commu
 
 ### (b) Changes to Personal Data.
 
-You may change any of your Personal Data in your Account by editing your profile within your Account. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.
+You may change any of your Personal Data in your Account by editing your profile within your Account. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud prevention or similar purposes.
 
 ## 9\. Security of Your Personal Data.
 
-Matador is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Matador uses reasonable efforts to protect your Personal Data, Matador cannot guarantee its absolute security.
+Matador is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Matador uses reasonable efforts to protect your Personal Data, Matador cannot guarantee its absolute security and you agree that you transmit it at your own risk.
 
 ## 10\. Contact Information.
 
 Matador welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at legal@matadornetwork.com or contact us at the following address or phone number:
 
 Matador Network  
-Attn: Ross Borden  
-228 Park Ave., S. #40021  
-New York, NY 10003-1502  
-(888) 731-6333
+Attn: Legal  
+P.O. Box 7775 #40021  
+San Francisco, CA 94120  
+888-731-6333
 
 ## 11\. Changes to This Privacy Policy.
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon our posting of notice of the changes on our Site. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service following the effective date of the changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-If you have any questions about Matador’s Privacy Policy, please contact us.
+If you have any questions about Matador’s Privacy Policy, please contact us as provided above.
