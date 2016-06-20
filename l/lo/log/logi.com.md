@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the logi.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221180045id_/http%3A//www.logitech.com/en-us/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logi.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620154008id_/http%3A//www.logitech.com/en-us/footer/privacy) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
+
+IE8/IE9/IE10 is no longer a supported browser. Please use a more current browser to view our site.
 
 As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects the personal information collected on its website [www.logitech.com](http://www.logitech.com/) (“Site”). Please take the time to review this page and contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center) with any questions or concerns.
 
@@ -11,13 +13,13 @@ HOW WE USE YOUR INFORMATION
 CONTROL & REVIEW OF YOUR PERSONAL INFORMATION  
 PROTECTION OF INFORMATION  
 CHANGES TO THIS STATEMENT  
-COOKIES
+COOKIES
 
 #### COLLECTION OF INFORMATION
 
 _Submission of Personal Information_
 
-You may register at our Site and provide personal information, at such times as when you download software, register new products, access product information, features or programs, or sign into a page that requires authorization. This may include your name, email address, physical address, credit card number, etc. You may also provide demographic information such as your age, education level, household income, and whether you are a personal or business user. You will know what you submit in each case, because you will manually enter the information. If you choose not to register and provide this information, you can still use most of the Site. Unfortunately, you will not be able to access areas that require registration.
+You may register at our Site and provide personal information, at such times as when you download software, register new products, access product information, features or programs, or sign into a page that requires authorization. This may include your name, email address, physical address, credit card number, etc. You may also provide demographic information such as your education level, household income, and whether you are a personal or business user. You will know what you submit in each case, because you will manually enter the information. If you choose not to register and provide this information, you can still use most of the Site. Unfortunately, you will not be able to access areas that require registration.
 
 _Children's Personal Information_
 
@@ -27,7 +29,7 @@ _Automatic Collection of Information_
 
 Logitech automatically collects on our server logs certain information about your computer hardware and software when you visit our Site. This information may include such things as your IP address, operating system, a description of any Logitech products connected and how such products are used, browser type, domain names, access times, service provider and referring website addresses.
 
-Logitech and its third party service providers collect non-personal information about how you use our Site through cookies, Internet tags (e.g., web beacons) in the aggregate, and track navigational data. We also collect information such as the URL of the website you previously visited, the pages you visit within our Site and any transaction details (downloads, requests, etc.). This information is used to understand how you interact with our Site, and help us optimize our marketing efforts including managing our advertising on other sites providing you ads based on your activities on our Site.
+Logitech and its third party service providers collect non-personal information about how you use our Site through cookies, Internet tags (e.g., web beacons) and other technologies in the aggregate, and track navigational data. We also collect information such as the URL of the website you previously visited, the pages you visit within our Site and any transaction details (downloads, requests, etc.). This information is used to understand how you interact with our Site, and help us optimize our marketing efforts including managing our advertising on other sites providing you ads based on your activities on our Site.
 
 If you wish to manage your preference of being served target ads, you may click here. Please note that whatever your preference you will continue to receive non-personalized ads. You may also set your browser to notify you when a cookie is set or to refuse or delete cookies altogether, but certain features of our Site might not work.
 
@@ -67,9 +69,11 @@ _Safe Harbor and Disclosure of Information_
 
 Personal information collected on this Site may be stored and processed in the United States or in any other country Logitech or its affiliates, subsidiaries or agents maintain facilities. By using this Site, you consent to any such transfer of information outside of your country. Logitech complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Logitech has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Logitech’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
+Logitech also complies with the European Commission’s standard contractual clauses for transfers from data controllers to data controllers and to data processors established outside the EU/EEA.
+
 Logitech does not share, trade, rent, sell or otherwise disclose our customer or user information to unaffiliated companies. We disclose information you submit only as follows:
 
-  * We hire affiliated and unaffiliated service providers to provide service to you including Logitech Inc., which is certified under the EU/CH-US Safe Harbor Program as set forth above. For example, we may use an email service provider to submit email communications to you on our behalf. All service providers are subject to strict confidentiality obligations and process your information only on our behalf and subject to our instructions.
+  * We hire affiliated and unaffiliated service providers to provide service to you including Logitech Inc., which are certified under the EU/CH-US Safe Harbor Program as set forth above and have entered into data processing agreements using EU Commissions’ standard contractual clauses. For example, we may use an email service provider to submit email communications to you on our behalf. All service providers are subject to strict confidentiality obligations and process your information only on our behalf and subject to our instructions.
   * We may share redacted or anonymized information freely, but only after we redact it to ensure that recipients cannot use the data to identify you or link the data to you.
   * We may have to disclose information for purposes of protecting your or our legal rights or as required by law or orders from courts and government entities.
   * We may disclose to another business entity should we plan to merge with or be acquired by that business entity; or to any organization involved in a merger, transfer, or sale of our assets or business.
@@ -94,7 +98,7 @@ You have the ability to direct us to update or delete/deactivate certain informa
 
 Phone: +1 510-795-8500  
 Contact: [support.logitech.com/response-center](http://support.logitech.com/response-center)  
-Postal Mail: Logitech Privacy Officer, 7600 Gateway Blvd., Newark, CA 94560 USA
+Postal Mail: Logitech Privacy Officer, 7700 Gateway Blvd., Newark, CA 94560 USA
 
 Web site: <http://www.logitech.com/subscribe>
 
@@ -107,9 +111,11 @@ Back to top
 
 #### PROTECTION OF INFORMATION
 
-Logitech is committed to the protection of your personal information. We use a variety of security technologies and procedures, including SSL encryption, to help protect your personal information from unauthorized access, use, or disclosure. 
+Logitech is committed to the protection of your personal information. We use a variety of security technologies and procedures, including SSL encryption, to help protect your personal information from unauthorized access, use, or disclosure.
 
-Logitech has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Site, www.logitech.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+The TRUSTe program covers only information that is collected through this Site, [www.logitech.com](http://www.logitech.com/), and does not cover information that may be collected through software downloaded from the Site or from Alert.Logitech.com. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal.
+
+If you have questions or complaints regarding our Statement or practices, please contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or refer your privacy complaint or dispute to the relevant state or notational data protection authority in your jurisdiction.
 
 Back to top  
 
@@ -122,13 +128,10 @@ Logitech encourages you to periodically review this Statement to be informed of 
 
 Thank you for your interest in Logitech and our products.
 
-Revised January 23, 2015
+Revised January 29, 2016
 
 [](https://web.archive.org/en-us/promotions/cookie-compliance)
 
 #### Cookies
 
 Our site uses "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. Click [here](https://web.archive.org/en-us/promotions/cookie-compliance) to learn more.
-
-  
-
