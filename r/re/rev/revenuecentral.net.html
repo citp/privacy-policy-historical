@@ -1,0 +1,669 @@
+<!--The following is the downloaded HTML source of the revenuecentral.net privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620224010id_/http%3A//revenuecentral.net/page/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	<title>revenuecentral.net</title>
+
+
+	<meta name="viewport" content="width=device-width">	
+	<link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/slick.css">
+	<link rel="stylesheet" href="/css/fonts.css">
+	<link rel="stylesheet" href="/style.css">
+	
+	<link rel="stylesheet" type="text/css" href="/lib/sweet-alert.css">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+	
+	
+	<style type="text/css">
+	.birthMonth, .birthDate {
+		margin-right: 15px !important;
+	}
+	</style>
+	
+	
+	
+	<script>
+
+	function calcShares() {
+	var count_shares = Number(document.getElementById('lab1').value);
+	var avg_daily_investments = Number(document.getElementById('lab2').value);
+	var avg_portfolio_revenue = Number(document.getElementById('lab3').value);
+	
+	var calc2 = Number(avg_daily_investments)/Number('100')*Number('14');
+	var calc3 = Number(avg_portfolio_revenue)/Number('100')*Number('5');
+	var summ_calcs = Number(calc2)+Number(calc3);
+	
+	var pre_return = Number(count_shares)*Number(summ_calcs);
+	var returned = Number(pre_return)/Number('10000000');
+		
+	var return_day = Number(returned)*Number('1');
+	var return_month = Number(returned)*Number('30');
+	var return_year = Number(returned)*Number('365');
+	
+	if(count_shares != "0" && avg_daily_investments != "0" && avg_portfolio_revenue != "0") {
+		getAjax('/cp/tools/revenue_format?value='+return_day+'', 'sh_per_day');
+		getAjax('/cp/tools/revenue_format?value='+return_month+'', 'sh_per_month');
+		getAjax('/cp/tools/revenue_format?value='+return_year+'', 'sh_per_year');
+	}
+
+	}
+		
+	function correntAjaxOpenWindow() {
+		document.getElementById('ajax_open_window').style.height = ''+document.documentElement.clientHeight+'px';
+	}
+	setInterval('correntAjaxOpenWindow()', 500);
+		
+	function viewAdInfo(id, type) {
+		location.hash = '!/campaign-info?id='+type+':'+id+'';
+		top.location.reload();
+	}
+		
+	function viewProgress() {
+		document.getElementById('viewProgress').style.display='';
+	}
+	
+	function hideProgress() {
+		document.getElementById('viewProgress').style.display='none';
+	}
+	
+	</script>
+	
+	
+	
+<script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script><script src="https://secure.comodo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+	
+</head>
+<body>
+<layout style="display:none" id="viewProgress">
+<div style="width:100%;height:100%;background:#ffffff;position:fixed;z-index:10000;opacity:0.6;"></div>
+<div style="width:100%;height:100%;position:fixed;z-index:15000;">
+<table width="100%" height="100%">
+<tbody><tr>
+<td align="center"><img src="/images/Progress.gif"><br><br><span style="font-weight:bold;color:#83a354;font-size:22px;">please wait ...</span></td>
+</tr>
+</tbody></table>
+</div>
+</layout>
+
+<div id="ajax_open_window" style="display: none; position: fixed; width: 100%; z-index: 100000; height: 768px;"></div>
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-sm-12 text-sm-center col-md-4">
+					<a href="/" class="logo"></a>
+				</div>
+				<div class="col-sm-12 col-md-8 nav-parent">
+					<div class="top-header">
+						<ul>
+													<li>
+								<div class="login"></div>
+								<a href="/cp/index/login" class="btn-green-flat">Login</a>
+							</li>
+							<li>
+								<a href="/cp/index/signup" class="btn-yellow-outline">Sign Up</a>
+							</li>
+												</ul>
+					</div>
+					<div id="m-menu" class="hidden-sm hidden-md hidden-lg"></div>
+					<nav class="right" id="nav">
+						<ul>
+						
+														<li>
+								<a href="#" style="background-color:#fff !important" data-toggle="dropdown" class="dropdown-toggle">Referral Contest</a>
+								<ul class="dropdown-menu" style="min-width:120px !important;margin-right:-110px;">
+																	<li><a href="/contest/2-500-000-rps-referral-contest-2" style="font-size:14px">2,500,000 RPs Referral Contest #2</a></li>
+																	<li><a href="/contest/10-referral-contest-2" style="font-size:14px">10% Referral Contest #2</a></li>
+																</ul>
+							</li>
+														
+							<li>
+								<a href="#" style="background-color:#fff !important" data-toggle="dropdown" class="dropdown-toggle">Earn Money</a>
+								<ul class="dropdown-menu" style="min-width:120px !important;margin-right:-110px;">
+									<li><a href="/page/view-ads" style="font-size:14px">View Ads</a></li>
+									<li><a href="/cp/index/invest-now" style="font-size:14px">Invest Packs</a></li>
+									<li><a href="/page/shares" style="font-size:14px">Shares</a></li>
+								</ul>
+							</li>
+
+							<li>
+								<a href="/page/buy-ads">Advertise</a>
+							</li>
+							
+							<li>
+								<a href="/page/how-does-it-work">How it works </a>
+							</li>
+							
+							<li>
+								<a href="/page/faq">FAQ</a>
+							</li>
+							
+							<li>
+								<a href="/page/proofs">Proofs</a>
+							</li>
+							
+							<li>
+								<a href="/page/forum">Forum</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>		
+		</div>		
+	</header>
+	<!-- .header -->
+
+
+	
+
+	    <div class="container bg-lft">
+    	<div class="row">
+    		<div class="login-form" style="border:2px #d0d0d0 solid;border-top:0px;width:100% !important">
+				<div class="header-bgtop">
+  					<div><img src="/images/privacy_policy.png" class="img-responsive" alt=""></div>
+  					<div><h3>Privacy Policy</h3></div>
+  				</div>
+    			<div class="form-white" style="padding:45px;text-align:left;font-size:10px !important;line-height:1.8;">
+				<p style="text-align: center;"><strong style="font-size:14px !important">PRIVACY POLICY</strong></p>
+<p style="text-align: justify;"><strong style="font-size:14px !important">&nbsp;</strong></p>
+<p style="text-align: justify;">This privacy policy regards how revenuecentral.net (“Site” or “RevenueCentral”) stores and deals with information we collect from you (“Member”).</p>
+<p style="text-align: justify;">By signing up and using RevenueCentral you will agree to have read, understood, and accepted the following terms and conditions of this Privacy Policy. If you do not agree to any of these terms, you must not register and use Site.</p>
+<p style="text-align: justify;">This online Privacy Policy applies only to information collected through the Site.</p>
+<p style="text-align: justify;">RevenueCentral reserves the right to revise this Privacy Policy at any time and impose changes without prior notification of its Members. Please check this Privacy Policy periodically for changes. You agree and acknowledge that you will review this Privacy Policy on a regular basis and in the event of a change to it terms and conditions, you will continue using this Site following the posting of any changes constitutes acceptance of such changes.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong style="font-size:14px !important">What Information We Collect?</strong></p>
+<p style="text-align: justify;">We collect Member’s personal information when he / she registers on the Site and fills out profile on their account. While signing up and using the site Member must submit the following personal information: full name, sex, email address, date of birth, email address / ID of payment processor’s account. You should also create a unique username and password (optionally secondary password).</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong style="font-size:14px !important">Why We Collect Your Personal Information?</strong></p>
+<p style="text-align: justify;">We collect your personal information:</p>
+<p style="text-align: justify;">• to create and support your account;</p>
+<p style="text-align: justify;">• to communicate with you;</p>
+<p style="text-align: justify;">• to personalize your experience;</p>
+<p style="text-align: justify;">• to prevent unauthorized access to your account;</p>
+<p style="text-align: justify;">• to improve the Site and customer service;</p>
+<p style="text-align: justify;">• to process transactions;</p>
+<p style="text-align: justify;">• to send periodic emails.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong style="font-size:14px !important">How Your Personal Information Is Protected?</strong></p>
+<p style="text-align: justify;">We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong style="font-size:14px !important">Do We Use Cookies?</strong></p>
+<p style="text-align: justify;">We offer certain features that are available only through the use of cookies. We use cookies to help identify you and maintain your signed-in status.</p>
+<p style="text-align: justify;">Cookies will only be used to store your preferences.</p>
+<p style="text-align: justify;">Your browser must accept cookies. You are always free to decline our cookies.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong style="font-size:14px !important">Can Any Of Your Personal Information Be Disclosed To Third Parties?</strong></p>
+<p style="text-align: justify;">All Member’s personal information, financial reports, messages and other info displayed and / or stored by RevenueCentral are of private nature, and will not be disclosed to third parties. This does not include trusted third parties who assist us in operating the Site, conducting our business, or servicing you, as long as those parties agree to keep this information confidential. We may also release Members personally information when we believe that release is appropriate to comply with the law, enforce the Site policies, or protect our and / or Member(s) and / or others rights, property or safety.</p>
+<p style="text-align: justify;">Non-personally identifiable Member’s information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong style="font-size:14px !important"><em style="font-size:14px !important">April 13, 2016</em></strong></p>
+				</div>
+    		</div> 
+    		<div class="divide-20"></div>
+    	</div><!-- /.row -->
+    </div><!-- /.container -->
+        
+<div style="height:5px;background:#DBDBDB"></div>
+
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+						<nav class="navbar col-sm-12" role="navigation">
+							<div class="row hidden-xs">
+								<div class="col-md-12" style="text-align:center !important">
+									<div style="background:url('/images/footer/hr.png') repeat-x;background-position:center center;"><img src="/images/footer/we_accept.png"></div>
+									<div class="divide-10"></div>
+									<div class="btn-group btn-group-justified" style="width:100% !important">
+										<a href="http://wallet.advcash.com/referral/6954ce9f-dd69- 4b54-a75e- e8b93a636d6e" class="btn"><img src="/images/payment_systems/advcash.png"></a>
+										<a href="http://wallet.advcash.com/referral/6954ce9f-dd69- 4b54-a75e- e8b93a636d6e" class="btn"><img src="/images/payment_systems/bitcoin.png"></a>
+										<a href="https://payeer.com/?partner=1609294" class="btn"><img src="/images/payment_systems/payeer.png"></a>
+										<a href="https://secure.payza.com/?Up5nXXL%2b30G0Gzspwz1NICeTbluKyWxCLfd02UOBjkE%3d" class="btn"><img src="/images/payment_systems/payza.png"></a>
+										<a href="https://perfectmoney.is/?ref=7488742" class="btn"><img src="/images/payment_systems/pm.png"></a>
+										<a href="https://www.solidtrustpay.com/ref/oth3l3ie" class="btn"><img src="/images/payment_systems/stp.png"></a>
+									</div>
+									<div class="divide-30"></div>
+									<div style="background:url('/images/footer/hr2.png') repeat-x;background-position:center center;height:3px;"></div>
+								</div>
+							</div>
+							<div class="divide-30"></div>
+							<div class="row">
+								<div class="col-sm-12 col-md-4 mb15-xs" style="line-height:1.1;color:#c5c6af;font-size:12px">
+									<img src="/images/footer/rcc_opacity.png" width="165px" style="padding-right:10px">
+<script language="JavaScript" type="text/javascript">
+TrustLogo("http://revenuecentral.net/images/footer/comodo_secure_seal_113x59_transp.png", "CL1", "none");
+</script>
+<a href="https://www.instantssl.com/" id="comodoTL" style="padding-left:200px">Essential SSL</a>
+									<div class="divide-10"></div>
+									RevenueCentral is a fully automated worldwide advertising and revenue sharing platform which provides high quality advertising services
+								</div>
+								
+								<div class="col-sm-12 col-md-8 nopadding">
+									<div class="row">
+										<div class="col-xs-6 col-md-offset-1 col-md-2 mb15-xs nopadding" style="line-height:1.5;font-weight:bold">
+											<a href="/page/how-does-it-work" style="font-size:12px;color:#c5c6af;">How it Works</a><br>
+											<a href="/page/terms-of-service" style="font-size:12px;color:#c5c6af;">Terms of Service</a><br>
+											<a href="/page/privacy-policy" style="font-size:12px;color:#c5c6af;">Privacy Policy</a><br>
+											<a href="/page/refund-policy" style="font-size:12px;color:#c5c6af;">Refund Policy</a><br>
+											<a href="/page/about-us" style="font-size:12px;color:#c5c6af;">About Us</a><br>
+										</div>
+										<div class="col-xs-6 col-md-2 mb15-xs nopadding" style="line-height:1.5;font-weight:bold">
+											<a href="/page/shares" style="font-size:12px;color:#c5c6af;">Shares</a><br>
+											<a href="/page/view-ads" style="font-size:12px;color:#c5c6af;">View Ads</a><br>
+											<a href="/page/group-earnings" style="font-size:12px;color:#c5c6af;">Group Earnings</a><br>
+											<a href="/cp/index/invest-now" style="font-size:12px;color:#c5c6af;">Invest Packs</a><br>
+											<a href="/page/queue" style="font-size:12px;color:#c5c6af;">Queue</a><br>
+										</div>
+										<div class="col-xs-6 col-md-2 mb15-xs nopadding" style="line-height:1.5;font-weight:bold">
+											<a href="/page/faq" style="font-size:12px;color:#c5c6af;">FAQ</a><br>
+											<a href="/page/buy-ads" style="font-size:12px;color:#c5c6af;">Buy Ads</a><br>
+											<a href="/page/all-ad-campaigns" style="font-size:12px;color:#c5c6af;">Ad Campaigns</a><br>
+											<a href="/page/support" style="font-size:12px;color:#c5c6af;">Support</a><br>
+											<a href="/page/forum" style="font-size:12px;color:#c5c6af;">Forum</a><br>
+										</div>
+										<div class="col-xs-6 col-md-2 mb15-xs nopadding" style="line-height:1.5;font-weight:bold">
+											<a href="/page/proofs" style="font-size:12px;color:#c5c6af;">Payment Proofs</a><br>											<a href="/page/top-earners" style="font-size:12px;color:#c5c6af;">Top Earners</a><br>
+											<a href="/page/results" style="font-size:12px;color:#c5c6af;">Results</a><br>
+											<a href="/page/portfolio" style="font-size:12px;color:#c5c6af;">Portfolio</a><br>
+											<a href="/page/statistics" style="font-size:12px;color:#c5c6af;">Statistics</a><br>
+										</div>
+										<div class="col-xs-12 text-xs-center col-md-3 nopadding" style="line-height:1.5">
+											<b style="font-size:13px;color:#c5c6af;text-transform:uppercase;">Get in touch</b><br>
+											<b style="font-size:12px;color:#c5c6af;font-weight:normal !important;">+1-213-769-6125</b><br>
+											<a href="mailto:office@revenuecentral.net" style="font-size:12px;color:#c5c6af;font-weight:normal !important;">office@revenuecentral.net<br></a>
+											<a href="mailto:office@revenuecentral.net" style="font-size:12px;color:#c5c6af;"></a>
+                                                                                        <a href="https://www.facebook.com/revenuecentral.net" style="margin-right:5px"><img src="/images/footer/facebook.png"></a>
+											<a href="https://plus.google.com/100104781289719213672/posts/p/pub" style="margin-right:5px"><img src="/images/footer/gplus.png"></a>
+											<a href="https://twitter.com/RevCentralCorp"><img src="/images/footer/twitter.png"></a>
+											
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="divide-20"></div>
+							<div class="divide-10"></div>
+							
+							<div class="row">
+							<div class="mb15-xs text-xs-center col-md-12" style="text-align:justify;line-height:1.2;font-size:11px;color:#c5c6af">
+								ACCEPTANCE OF TERMS OF SERVICE (“AGREEMENT”) THROUGH USE. BY SIGNING UP AND USING REVENUECENTRAL.NET YOU SIGNIFY YOUR AGREEMENT TO THESE TERMS AND CONDITIONS (“AGREEMENT”).  IF YOU DO NOT AGREE  TO AGREEMENT PLEASE DO NOT SIGN UP AND DO NOT USE THIS SITE. REVENUECENTRAL RESERVES THE RIGHT TO REVISE THIS AGREEMENT AT ANY TIME AND IMPOSE CHANGES WITHOUT PRIOR NOTIFICATION.
+							</div>
+							<div style="clear:both"></div>
+								<div class="divide-20"></div>
+								
+								<div style="background:url('/images/footer/hr2.png') repeat-x;background-position:center center;height:3px;"></div>
+								<div class="divide-20"></div>
+								
+								<div class="mb15-xs text-xs-center col-md-6" style="line-height:2;font-size:13px;color:#c5c6af">
+									Copyright © 2016 Revenue Central Corp. All rights reserved.
+								</div>
+								<div class=" text-xs-center col-md-6 text-md-right" style="line-height:2;font-size:13px;color:#c5c6af">
+								
+								Server Time: 06/20/2016 15:40:10
+								
+								<div id="google_translate_element"></div><script type="text/javascript">
+								function googleTranslateElementInit() {
+								  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+								}
+								</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+								
+							
+								
+								
+								</div>
+							</div>
+							<div class="divide-40"></div>
+						</nav>
+				</div>
+			</div>
+		</footer>
+		
+	<!-- .footer -->
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+	
+	
+	
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="/js/script.js"></script>
+    <script src="/js/jquery-birthday-picker.min.js"></script>
+    <script src="/lib/sweet-alert.min.js"></script>
+    <script src="/js/ajax.js"></script>
+
+	
+	 <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+	
+	 <script src="//select2.github.io/select2/select2-3.4.2/select2.js"></script>
+	 
+	 
+		<script>
+			$( ".select2" ).select2( { placeholder: "Enter first letters of your referral", maximumSelectionLength: 2 } );
+		</script>
+	 
+		
+	<script>
+	$(document).ready(function() {
+    $('.viewTable').DataTable({
+		"aaSorting": false,
+		"iDisplayLength": 10,
+		"pagingType": "numbers",
+		"language": {
+            "emptyTable": "No Data"
+        },
+		
+		drawCallback:function(){
+			var page_min = 10;
+			var $api = this.api();
+			var pages = $api.page.info().pages;
+	 
+			if(Number(pages) < "2") {
+				var GetTableID = document.getElementById('DataTableID').value;
+				$("#DataTables_Table_"+GetTableID+"_paginate").hide();
+				document.getElementById('DataTableID').value = Number(GetTableID)+Number('1');
+			}
+		}
+	
+	 });
+	} );
+	
+	function initTableApp(xclass) {
+		console.log(xclass);
+		$('.'+xclass+'').DataTable({
+			"aaSorting": false,
+			"iDisplayLength": 10,
+			"pagingType": "numbers",
+			"language": {
+				"emptyTable": "No Data"
+			},
+		
+		drawCallback:function(){
+			var page_min = 10;
+			var $api = this.api();
+			var pages = $api.page.info().pages;
+	 
+			if(Number(pages) < "2") {
+				var GetTableID = document.getElementById('DataTableID').value;
+				$("#DataTables_Table_"+GetTableID+"_paginate").hide();
+				document.getElementById('DataTableID').value = Number(GetTableID)+Number('1');
+			}
+		}
+		});	
+	}
+
+	function confirmAction(cText, cURL) {
+		swal({
+			title: "Are you sure?",
+			text: ""+cText+"",
+			type: "warning",
+			showCancelButton: true,
+			confirmButtonColor: "#DD6B55",
+			confirmButtonText: "Yes",
+			closeOnConfirm: false
+		},
+		function(){
+			top.location.href = cURL;
+		});
+	}
+	
+	</script>
+    
+    
+		<style>
+  		.modal-header, h4, .close {
+     		background-color: #5cb85c;
+     		color:white !important;
+			text-align: center;
+     		font-size: 30px;
+ 		}
+  		.modal-footer {
+			background-color: #f9f9f9;
+  		}
+  		.dataTables_length { display:none; }
+  		.dataTables_filter { display:none; }
+  		.dataTables_info { text-align: right; width:280px; float:right; font-size:13px; padding-top:6px; color:#aaa; }
+  		
+  		.paginate_button, .ellipsis {
+			text-decoration: none;
+			font-size: 1.4em;
+			color: #000;
+			width: 30px;
+			font-weight: 600;
+			line-height: 2.1;
+			text-align: center;
+			display: inline-block;
+			cursor:pointer;
+			margin-right:10px;
+		}
+		
+		.current { background-color: #ebebe8; } 
+		.ellipsis { color:#83a354 !important;  margin-right:10px; border:0px;}
+	
+		.table>thead>tr>th {
+    	vertical-align: middle;
+    	text-align:center;
+    	border-bottom: 2px solid #ddd;
+		}
+		
+		.select2-container {
+			margin-left: 15px;
+    		border-radius: 0px;	
+    		border:0px !important;
+    		background: transparent !important;	
+		}
+		
+		.select2-choices, .select2-search-field {
+			border: 0px !important;
+    		margin-top: -4px !important;
+    		background: transparent !important;
+    		margin-left: 0px !important;	
+    		outline:none !important;	
+		}
+		
+		.select2-results .select2-result-label {
+			font-size:14px !important;
+		}
+		
+		.select2-results .select2-highlighted {
+			background:#648a2d !important;
+		}
+		
+		.select2-no-results, .select2-match {
+			font-size:14px !important;		
+		}
+		
+		.select2-drop-active {
+    		border: 1px solid #648a2d !important;
+		}
+		
+		.select2-choice {
+
+			background:#ffffff !important;
+			border: 1px solid #d0d0d0 !important;	
+		}
+
+  	</style>
+  		
+  		
+  		<script>
+  		
+  		  function openModal(url) {
+       	 $("#modalController").modal();
+       	 
+       	 $.ajax({  
+    		 	url: ""+url+"",  
+    			cache: false,  
+   			success: function(html){  
+    				$("#modal_ajax").html(html);  
+   			}  
+  			 });
+  			 
+  			 $('#close_modal').on('click', function(){
+			    $("#modal_title").html('Loading...');
+			    $("#modal_ajax").html('Please wait, we load content...'); 
+			    location.hash = '';
+  			 });
+    
+        }
+        
+		  var locationHash = location.hash.substr(3);
+
+
+		  
+		  if(locationHash != "") {
+		  		setTimeout("openModal('/cp/modal/"+locationHash+"')", 300);
+		  }
+		  
+		  function closeModal() {
+				$('#modalController').modal('hide');
+				$("#modal_title").html('Loading...');
+			   $("#modal_ajax").html('Please wait, we load content...'); 
+			   location.hash = '';	  
+		  }
+		  
+		</script>
+  
+    
+    
+   <!-- .JS -->
+	<script src="/js/slick.min.js"></script>
+	
+	<script>
+		/* Live HR */
+		$(function() {
+
+			var marquee = $("#marquee"); 
+			marquee.css({ "width": "100%"});
+
+			marquee.wrapInner("<span>");
+			marquee.find("span").css({ "width": "50%", "display": "inline-block", "text-align":"center" }); 
+			marquee.append(marquee.find("span").clone());
+
+			marquee.wrapInner("<div>");
+			marquee.find("div").css("width", "200%");
+
+			var reset = function() {
+				$(this).css("margin-left", "0%");
+				$(this).animate({ "margin-left": "-100%" }, 12000, 'linear', reset);
+			};
+
+			reset.call(marquee.find("div"));
+
+		});
+		
+		/*Модифицированое движение картинки в банере*/
+		function parallax() {
+    		var scrollTop = Number(document.body.scrollTop);
+    		var xPosition = scrollTop/Number('5');
+    		var xMargin = Number(xPosition)-Number('60');
+    		
+    		if(scrollTop > "300") {
+    			var parallaxTop = "0";
+    		}
+    		else {
+    			var parallaxTop = Math.abs(xMargin);
+    		}
+    		
+			$('#diagramme').css('bottom',-parallaxTop);
+    	}
+		setInterval('parallax()', 100);
+		
+		/*Мобильное меню*/
+		$("#m-menu").click(function(){
+			$('#nav').slideToggle();
+			$(this).toggleClass('opened')
+		})
+		
+		/*Слайдер*/
+		$("#slider").slick({
+			slidesToShow: 1,
+			slidesToScroll: 1,
+			dots:false,
+			autoplay: true,
+			appendArrows:false
+		});
+		
+		$(document).ready(function(){
+    $( document ).on( 'focus', ':input', function(){
+        $( this ).attr( 'autocomplete', 'off' );
+    });
+});
+
+	</script>
+	
+    
+<input type="hidden" id="DataTableID" value="0">
+<!-- Modal -->
+<div class="modal fade" id="modalController" role="dialog">
+	<div class="modal-dialog">
+    
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-body">
+				<button type="button" class="close" id="close_modal" data-dismiss="modal"><img src="/images/close.png" width="24px"></button><br>
+			</div>
+			<div class="modal-body" style="padding:40px 50px;" id="modal_ajax">
+				<center>Please wait, we load content...</center>
+			</div>
+			<div class="modal-footer" style="text-align:center !important">
+				<a href="javascript:;" onclick="closeModal()" class="btn btn-default btn-green-flat-sm1">Close</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76733446-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 957052160;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957052160/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 925968122;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/925968122/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+<div><div class="sweet-overlay" tabindex="-1"></div><div class="sweet-alert" tabindex="-1"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p>Text</p><button class="cancel" tabindex="2">Cancel</button><button class="confirm" tabindex="1">OK</button></div></div></body></html>
