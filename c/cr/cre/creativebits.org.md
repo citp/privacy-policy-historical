@@ -1,89 +1,51 @@
-> *The following text is extracted and transformed from the creativebits.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151600id_/http%3A//corporate.mediabistro.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebits.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620214720id_/http%3A//mediabistroholdings.com/privacy-policy) for the most accurate reproduction.*
 
-# Mediabistro Career Opportunities
+# Privacy Policy | Mediabistro Holdings
 
-### Mediabistro Inc. Privacy Policy
+_Effective Date_ : July 8, 2015
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the Mediabistro Network. The "Mediabistro Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by Mediabistro Inc. and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "Mediabistro"). By accessing the Mediabistro Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
+This Privacy Policy is applicable to , [www.adweek.com](http://www.adweek.com/),  [www.clioawards.com](http://www.clioawards.com/), [www.mediabistro.com](http://www.mediabistro.com/), [www.filmjournal.com](http://www.filmjournal.com/) and any other site that may be operated by or for Mediabistro Holdings (together, the “Websites”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use , which govern the basic operation of the Websites.
 
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
+1\. The Information We Collect and Use  
+A. Non-Personally Identifiable Information. When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.
 
-#### What information are you collecting and how are you collecting it?
+We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.
 
-#### Do you collect IP addresses?
+We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
 
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the Mediabistro Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the Mediabistro Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+No Personally Identifiable Information (see below) is collected through our cookies or Web beacons nor do we allow third-party companies to collect such information from cookies or web beacons on our Website. We may, however, from time to time, allow third-party companies to serve ads and/or collect certain Non-Personally Identifiable Information when you visit our Website. These companies may use Non-Personally Identifiable Information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use cookies or third party web beacons to collect this information. To learn more about this behavioral advertising practice or to opt out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
 
-#### What are cookies? 
+B. Personally Identifiable Information. We also may collect information that can be used to identify you (“Personally Identifiable Information”). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the Terms of Use, or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with a Mediabistro Holdings website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
 
-From time to time, Mediabistro or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Mediabistro's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from such mailings.
 
-#### How do you use single-pixel gifs? 
+We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties, except as described below.
 
-Mediabistro, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. Mediabistro does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. Mediabistro also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
+From time to time, we may partner with unaffiliated companies or individuals for market research, product development or similar purposes. These companies or individuals may be provided with access to Personally Identifiable Information and Non-Personally Identifiable Information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to Personally Identifiable and Non-Personally Identifiable Information, but only as needed to perform their functions.
 
-#### What personal information do you collect?
+We may share Personally Identifiable Information with third parties, who may contact you to offer products and services. At any time, you can contact Mediabistro Holdings at 212-493-4100 and [terms@mediabistro.com](mailto:terms@mediabistro.com) to request that we not share your Personally Identifiable Information with third parties.
 
-Wherever Mediabistro collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. 
+We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.
 
-We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the Mediabistro Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
+2\. Data Security  
+Mediabistro Holdings LLC cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.
 
-If you are purchasing something on the Mediabistro Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
+We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy.
 
-Mediabistro also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
+3\. Children  
+This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact [terms@mediabistro.com](mailto:terms@mediabistro.com) .
 
-When you sign up for a Mediabistro e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with Mediabistro to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@Mediabistro.com](mailto:announcementlist@Mediabistro.com) or by following the instructions on the e-mails you receive. 
+4\. Access to your information  
+You may contact us at [terms@mediabistro.com](mailto:terms@mediabistro.com) if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
 
-When you sign up for a Mediabistro discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the Mediabistro network.
+5\. How To Contact Us  
+You may contact Mediabistro Holdings regarding our privacy practices at the following address:  
+Mediabistro Holdings  
+825 8th Avenue  
+29th Floor  
+New York, NY 10019  
+[terms@mediabistro.com](mailto:terms@mediabistro.com)  
+212-493-4100
 
-When you use co-branded services, or those provided by a third party, within the Mediabistro Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
-
-We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from Mediabistro or third party companies. 
-
-#### Will you disclose the information you collect to outside third parties?
-
-Mediabistro will disclose personal information and/or an IP address: 
-
-  * 1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact; 
-  * 2) When required by law or in the good-faith belief that such action is necessary to:   
-a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on Mediabistro;   
-b) Protect and defend the rights or property of the Mediabistro Network of sites and related properties, or visitors to the Mediabistro Network of sites and related properties;   
-c) Identify persons who may be violating the law, the Mediabistro legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the Mediabistro Network or its related properties;   
-d) Fulfill a user's order or request; 
-  * 3) To process and fulfill your order or notify you of order status; 
-  * 4) When we have your consent to share the information; 
-  * 5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-
-
-
-We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
-
-#### What else should I know about my privacy when online?
-
-Mediabistro may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. 
-
-The Mediabistro Network contains many hyperlinks to third party Web sites. The Mediabistro Network also contains advertisements of third parties. Mediabistro is not responsible for the privacy practices or the content of such third party Web sites or advertisers. Mediabistro does not share any of the individual personal information you provide Mediabistro with the third parties to which Mediabistro links, except as stated elsewhere within this Privacy Policy, although Mediabistro may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
-
-If you use Mediabistro's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Mediabistro advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-
-Certain Mediabistro media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Mediabistro media properties do not use SSL and thereby do not offer a secure coded way to transfer information. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
-
-#### Business transfers
-
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
-
-#### Your Consent To This Agreement
-
-By using the Mediabistro Network, you consent to the collection and use of information by Mediabistro as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-Please send any questions about Mediabistro's Privacy Policy to: [privacy@Mediabistro.com ](mailto:privacy@Mediabistro.com)
-
-Please note that your use of the Mediabistro network of Web sites is governed by our [Legal Notice](https://web.archive.org/corporate/legal.html). 
-
-Mediabistro participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union or Switzerland. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce’s Safe Harbor website <http://www.export.gov/safeharbor/>
-
-Mediabistro has further committed to refer unresolved privacy complaints under the US-EU or Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU or Swiss SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mediabistro, please visit the BBB EU OR SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140625151600id_/http%3A//corporate.mediabistro.com/corporate/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
-
-(Revised October, 2012) 
+6\. Changes To The Privacy Policy  
+This Privacy Policy is effective as of July 2015. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
