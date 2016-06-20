@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225052459id_/http%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620192508id_/http%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Healthline.com
 
@@ -8,7 +8,7 @@ Internet privacy is an issue that we take very seriously. Healthline is committe
 
 Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that can’t be traced back to a specific individual. For example, Healthline knows what searches are made every day at each of its websites, but does not know the names, email addresses, or phone numbers of the people searching. 
 
-Personally identifiable information is information that allows us to identify you. This information can include your name, address, phone number, email address, etc. It’s our belief that you’ll find it beneficial at times to provide us with certain personal information so that your experience with Healthline is more personally relevant to you and/or delivered directly to you (e.g., a newsletter).
+Personally identifiable information is information that allows us to identify you. This information can include your name, address, phone number, email address, etc. It’s our belief that you’ll find it beneficial at times to provide us with certain personal information so that your experience with Healthline is more personally relevant to you and/or delivered directly to you (e.g., a newsletter). Healthline Media does not sell user data. 
 
 ## Who Collects Anonymous Information on Healthline.com?
 
