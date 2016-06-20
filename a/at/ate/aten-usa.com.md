@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219071319id_/http%3A//aten-usa.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620132558id_/http%3A//aten-usa.com/about/privacy.php) for the most accurate reproduction.*
 
 # ATEN Privacy Policy
 
