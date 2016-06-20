@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209181809id_/http%3A//cottonon.com/US/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620143345id_/http%3A//cottonon.com/AU/customer-service/privacy-policy.html%3Fregion%3DAU) for the most accurate reproduction.*
 
 # Privacy Policy | Cotton On
 
 Protecting your privacy and the confidentiality of your personal information is very important to us. This Privacy Policy explains why we collect personal information and how we collect, use, disclose, store and protect your personal information. It also explains how you can access, correct, update or delete any personal information provided to us, or make a complaint if you have concerns.
 
-We comply with the United States of America Privacy Principles ("APPs") which regulate how we collect, use, disclose, store and protect your personal information.
+We comply with the Australian Privacy Principles ("APPs") which regulate how we collect, use, disclose, store and protect your personal information.
 
 ## Which Cotton On entities does this Privacy Policy cover?
 
-This Privacy Policy applies to Cotton On Clothing Pty Ltd (ACN 052 130 462) and all of its related entities in the United States of America (referred to in this document as "we"," us" or" our"), including our United States of America-based businesses Cotton On, Cotton On Body, CO. by Cotton On, Free by Cotton On, Cotton On Kids, Rubi Shoes, T-Bar and Typo.
+This Privacy Policy applies to Cotton On Clothing Pty Ltd (ACN 052 130 462) and all of its related entities in Australia (referred to in this document as "we"," us" or" our"), including our Australian-based businesses Cotton On, Cotton On Body, CO. by Cotton On, Free by Cotton On, Cotton On Kids, Rubi Shoes, T-Bar and Typo.
 
 ## What is personal information?
 
@@ -26,11 +26,11 @@ We may collect your personal information when required by law but generally we c
 
 ## When and how do we collection your personal information?
 
-We collect most personal information directly from you when you consent to communications from us. Your consent may be express (e.g. you agree to the use of your information by ticking a box) or implied by an action you take or do not take (i.e. because you have agreed to terms and conditions that contain information about the use or disclosure of your information). You provide us your information when you purchase (or enquire to purchase) products or services from us, you ask to find out more about our products or services, you apply to work with us, you participate in our competitions, you make a refund, return or other claim, you use our website(s) or other applications, you deal with us on the phone, you write to us, or when you visit one of our stores. 
+We collect most personal information directly from you when you consent to communications from us. Your consent may be express (e.g. you agree to the use of your information by ticking a box) or implied by an action you take or do not take (i.e. because you have agreed to terms and conditions that contain information about the use or disclosure of your information). You provide us your information when you purchase (or enquire to purchase) products or services from us, you ask to find out more about our products or services, you apply to work with us, you participate in our competitions, you make a refund, return or other claim, you use our website(s) or other applications, you deal with us on the phone, you write to us, or when you visit one of our stores.
 
 We may also collect information about how you use our website(s) or applications to help us better serve you. For example, we may do this when you click on a link from our website(s) or visit a website which displays our advertisements. This information is derived from cookies that identify the computer you used to access our website(s) or applications, and the cookies collect your server address; your top level domain name (for example .com, .gov, .au, .net, .edu, etc); the time and date of your visit to the website; the pages and documents you have accessed or viewed and the type of browser you are using. When we use cookies and other tracking technologies to collect your personal and non-personally identifiable information we are collecting this information to: better understand your browsing and purchasing behaviour; analyse and track website usage data; determine the popularity of certain content; deliver advertising and content targeted to your interest on our website; better understand your online activity; improve our website and your online experience; count the number of visits; and for other legitimate internal business purposes ( together “re-marketing, traffic, demographics and interest reporting purposes”).
 
-We have engaged Google to provide advertisements on our behalf and to provide analytics services. Google may use cookies and other tracking technologies to collect non-personally identifiable information for re-marketing, traffic, demographics and interest reporting purposes via Google advertising cookies and anonymous identifiers. If you have consented ("opted-in") in accordance with APPs, your personal information may be merged with non-personally identifiable information collected through any Google advertising product or feature to be used by us for re-marketing, traffic, demographics and interest reporting purposes.
+We have engaged Google to provide advertisements on our behalf and to provide analytics services. Google may use cookies and other tracking technologies to collect non-personally identifiable information for re-marketing, traffic, demographics and interest reporting purposes via Google advertising cookies and anonymous identifiers. If you have consented ("opted-in") in accordance with APPs, your personal information may be merged with non-personally identifiable information collected through any Google advertising product or feature to be used by us for re-marketing, traffic, demographics and interest reporting purposes. 
 
 ## What if you don’t want us to collect your personal information?
 
@@ -55,13 +55,13 @@ Your personal information will not be used contrary to this Privacy Policy but w
 
 
 
-If personal information is disclosed to a third party, we are required to take reasonable steps to ensure your personal information is treated in accordance with the APPs.  Some of our suppliers, who provide services to us, may be located overseas and at present we have servers in Singapore and the USA hosting our website(s).
+If personal information is disclosed to a third party, we are required to take reasonable steps to ensure your personal information is treated in accordance with the APPs. Some of our suppliers, who provide services to us, may be located overseas and at present we have servers in Singapore and the USA hosting our website(s).
 
 ## How can I access, correct, update and/or delete personal information you have collected?
 
 You may request access to your personal information we have by contacting our Privacy Officer. We will provide you with access once you have proved your identity. If your request is unusual or onerous, you may be required to pay us a fee before we provide you access to your personal information. If your personal information is incorrect or you wish us to delete it, contact our Privacy Officer to update or delete it.
 
-## How do we store and protect yourpersonal information?
+## How do we store and protect your personal information?
 
 Your personal information may be stored by us in various forms including both electronic and hardcopy. You should be aware that there are inherent risks associated with the transmission of personal information via the internet, however, we will take reasonable steps to maintain the integrity and security of any personal information we have stored, including taking reasonable steps to prevent interference and loss, misuse, unauthorised access, modification or disclosure of such personal information.
 
@@ -71,7 +71,6 @@ It is important that you protect your privacy by ensuring that no one obtains yo
 
 If you have any questions about our Privacy Policy or if you have a complaint, please contact us with your concerns and we will endeavour to respond to your request within 30 days.  
 
-Mail: The Privacy Officer, Cotton On Group, 14 Shepherd Court, North Geelong, Victoria 3215  
-Phone: 1800 420 176 (from within Australia) or 1888 719 9755 (USA only) during the hours of 9.00am – 6.00pm
-
-Email: [privacyofficer@cottonon.com](mailto:privacyofficer@cottonon.com)  
+**Mail:** The Privacy Officer, Cotton On Group, 14 Shepherd Court, North Geelong, Victoria 3215  
+**Phone:** 1800 420 176 (from within Australia)   
+**Email:** [privacyofficer@cottonon.com](mailto:privacyofficer@cottonon.com)  
