@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaccess.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140918id_/http%3A//www.allaccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaccess.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620124040id_/http%3A//www.allaccess.com/privacy-policy) for the most accurate reproduction.*
 
 # All Access Music Group, Inc. Privacy Policy | Free Online Membership
 
@@ -6,7 +6,7 @@
 
 ##### AllAccess.com Web Site Privacy Policy
 
-This Privacy Policy (" **Privacy Policy** ") governs your use of this web site ([allaccess.com](http://allaccess.com/)) (the "Web Site"), published and maintained by All Access Music Group, Inc., with offices at 28955 Pacific Coast Highway, Suite 210-5, Malibu, CA 90265 (" **AA** ," " **we** ," " **us** ," " **our** ," or other similar pronouns). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the AA [Terms of Service](https://web.archive.org/terms-of-service), which governs your use of this Web Site in general. This Web Site is intended for users who are of majority in the local jurisdiction in which they reside (and at least 18 years old). Unless otherwise stated, this Privacy Policy solely to information collected on the Web Site and does not apply to information we may collect by other means. This Privacy Policy shall be interpreted under the laws of the United States, regardless of the location of individual users.
+This Privacy Policy (" **Privacy Policy** ") governs your use of this web site ([allaccess.com](http://allaccess.com/)) (the "Web Site"), published and maintained by All Access Music Group, Inc., with offices at 24955 Pacific Coast Highway, C303, Malibu, CA 90265 (" **AA** ," " **we** ," " **us** ," " **our** ," or other similar pronouns). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the AA [Terms of Service](https://web.archive.org/terms-of-service), which governs your use of this Web Site in general. This Web Site is intended for users who are of majority in the local jurisdiction in which they reside (and at least 18 years old). Unless otherwise stated, this Privacy Policy solely to information collected on the Web Site and does not apply to information we may collect by other means. This Privacy Policy shall be interpreted under the laws of the United States, regardless of the location of individual users.
 
 ##### Summary
 
@@ -132,7 +132,7 @@ AA reserves the right to change or update this Privacy Policy, or any other of o
 
 ##### Questions, Concerns and Comments
 
-Please contact us at [support@allaccess.com](mailto:support@allaccess.com) or write to us at: Business & Legal Affairs, AllAccess.com Inc., 28955 Pacific Coast Highway, Suite 210-5, Malibu, CA 90265 with any questions regarding this Privacy Policy.
+Please contact us at [support@allaccess.com](mailto:support@allaccess.com) or write to us at: Business & Legal Affairs, AllAccess.com Inc., 24955 Pacific Coast Highway, C303, Malibu, CA 90265 with any questions regarding this Privacy Policy.
 
 
 
