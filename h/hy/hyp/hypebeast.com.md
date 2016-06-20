@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050704id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620101838id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hypebeast
 
@@ -77,7 +77,7 @@ Additionally, we may store your personal data or share them with other third par
 
 ###  10\. Marketing & Communication 
 
-When registering for a HYPEBEAST Forum or HYPEBEAST Store account, you will be given the option to opt-in to receiving our promotional and direct marketing materials and/or updates through the HYPEBEAST newsletter and the HYPEBEAST Store’s ‘new in’ and promotional emails. If you would prefer to opt-out from these e-mails, you can do so at any time by using the unsubscribe link at the bottom of the e-mail. 
+When registering for a HYPEBEAST Forum or HBX account, you will be given the option to opt-in to receiving our promotional and direct marketing materials and/or updates through the HYPEBEAST newsletter and the HBX’s ‘new in’ and promotional emails. If you would prefer to opt-out from these e-mails, you can do so at any time by using the unsubscribe link at the bottom of the e-mail. 
 
 We will also be using your personal data for our direct marketing. Please refer to Clause 6 above for further information regarding the relevant purposes of use of personal data for our direct marketing and the classes of marketing subjects concerned. We would use your personal data for direct marketing in accordance with the provisions of this Privacy Policy, and we will not use or provide your personal data to third parties for direct marketing unless we have obtained your explicit or written consent to do so (as the case may be) in accordance with the requirements of Hong Kong’s Personal Data (Privacy) Ordinance. 
 
