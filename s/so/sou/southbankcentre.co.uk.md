@@ -1,31 +1,33 @@
-> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142525id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620043428id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Southbank Centre
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+We are committed to protecting your privacy. We will use the information that we collect about you in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications Regulations 2003.
 
-We will use your personal information to keep you informed about events, news and offers that we think will be of interest to you. If you have chosen to receive them, we will also use your information to provide you e-mail bulletins and other e-mail alerts letting you stay up-to-date about relevant offers.
+**What we use your personal information for**
 
-We may also use the information to process any transactions you undertake with us and for internal administration and analysis. We disclose your information to third parties only for providing the above services to you. We do not sell, rent or trade your personal information to third parties for marketing purposes without your consent.
+We will use your personal information (including your name, contact details and record of ticket purchases) to fulfil your orders, provide customer service and for analysis. We may share your personal information with other organisations strictly for these purposes. We will not otherwise share your personal information with third party organisations except as described below.
 
-We will give you the chance to refuse any marketing e-mail from us or from another trader in the future.
+**Opting into and out of marketing communications**
 
- The type of information we will collect about you includes:
+When you [register for a user account on our website](https://tickets.southbankcentre.co.uk/account/register) you can choose whether you would like to receive marketing communications from Southbank Centre by email or post by ticking the relevant checkbox. Once you have a user account, you can manage your preferences at any time in the [My Account](https://tickets.southbankcentre.co.uk/secure/account/update) section of the website. We will not contact you for marketing purposes unless one of these boxes is ticked. We will include opt-out instructions in any marketing communications you receive from us.
 
-  * your name
-  * address
-  * phone number
-  * email address
-  * credit/debit card details
+Many of the events at Southbank Centre are presented in partnership with other companies such as with our Resident Orchestras and other artistic organisations and promoters. If you select either the Email or Post option under ‘I would like to hear about events, news and offers from the artists or companies presenting the events I’ve booked’, we will tell the relevant companies that you would like to hear from them, and we will let them know about your booking. This means that we will give them your name and contact details. We will not share sensitive information or your payment details.
 
+We sell tickets on behalf of our Resident Orchestras, and we share a customer database with them. If you buy a ticket from southbankcentre.co.uk for a Resident Orchestra’s perfomance, your name, contact details and records of the tickets you have bought will be visible to that orchestra. The orchestra will use your data for for customer service and analysis. If you select either the Email or Post option under ‘I would like to hear about events, news and offers from the artists or companies presenting the events I’ve booked’, the Resident Orchestra may additionally contact you for marketing purposes.
 
+If you would like us to stop sending your data to our partners, you can change your preferences in the [My Account](https://tickets.southbankcentre.co.uk/secure/account/update) section of our website. If we have already given your data to another company, we can’t remove you from their mailing list. To opt in or out of marketing communications from another company, please get in touch with them directly. They should always provide instructions for opting out in any marketing communications you receive. If you need help, please [contact us](http://www.southbankcentre.co.uk/visitor-info/contact-us).
 
-We will never collect sensitive information about you without your explicit consent.
+**Other communications**
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law and the Which? Web Trader Code.
+If you have opted out of marketing communications, we may still get in touch with you. For example we may email you to give you important information about the events you’ve booked or to tell you about any changes.
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. We also track click-through links in emails sent as part of our e-bulletin subscription service.
+You may be included in our market research even if you have opted out of marketing communications. You will be given the opportunity to opt out in any message you receive from us.
 
-By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Southbank Centre in the manner set out in this Privacy Policy. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+**Sensitive information**
 
-If you have any questions/comments about privacy, you should email us [customer@southbankcentre.co.uk](mailto:customer@southbankcentre.co.uk)
+Sometimes we ask you to provide sensitive information, for example when you book for certain events or participate in some activities, or when you apply for a job. As with all the personal information we hold, sensitive information is held securely and restricted to those who need to use it. We will delete sensitive information when we no longer need it.
+
+**Cookies and web privacy**
+
+Our website uses [cookies](http://www.southbankcentre.co.uk/cookies) to enable online transactions (first party cookies) and to track website usage patterns (third party cookies). We may also track receipt, opening, click-through and unsubscribe rates for the emails we send.
