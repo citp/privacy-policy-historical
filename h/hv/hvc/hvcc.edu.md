@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221215id_/https%3A//www.hvcc.edu/its/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620213230id_/https%3A//www.hvcc.edu/its/docs/privacy.html) for the most accurate reproduction.*
 
 # HVCC Privacy Policy
 
@@ -12,7 +12,7 @@ Hudson Valley Community College's Privacy Policy
 
 At Hudson Valley Community College, we are committed to protecting your privacy and making it easier and more efficient for individuals and businesses to interact with Hudson Valley Community College. We recognize that it is critical for individuals and businesses to be confident that their privacy is protected when they visit [www.hvcc.edu](https://www.hvcc.edu/). You can travel through most of [www.hvcc.edu](https://www.hvcc.edu/) without giving us any information about yourself. Sometimes we do need information to provide services that you request. In this respect, it is important that you understand what we do with this information and the steps that we take to protect your privacy. 
 
-Hudson Valley Community College does not collect any _personal information_ (as that term is defined under the New York State Internet Security and Privacy Act) about you unless you provide that information voluntarily by sending an e-mail, completing online forms, or completing the online application.
+Hudson Valley Community College does not collect any _personal information_ (as that term is defined under the New York State Internet Security and Privacy Act) about you unless you provide that information voluntarily by sending an email, completing online forms, or completing the online application.
 
 This policy is consistent with the provisions of the New York State Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law. 
 
@@ -22,7 +22,7 @@ This policy is consistent with the provisions of the New York State Internet Sec
 
 When visiting [www.hvcc.edu](https://www.hvcc.edu/), Hudson Valley Community College automatically collects and stores the following information about your visit:
 
-  * the Internet Protocol address of the computer that accessed our Web site
+  * the Internet Protocol address of the computer that accessed our website
   * the type of browser, its version and the operating system on which that browser is running
   * the web page from which the _user_ accessed the current Web page
   * the date and time of the _user's_ request
@@ -30,17 +30,17 @@ When visiting [www.hvcc.edu](https://www.hvcc.edu/), Hudson Valley Community Col
 
 
 
-None of the above-mentioned information constitutes _personal information_ as that term is defined by the [Internet Privacy and Security Act](http://assembly.state.ny.us/leg/?ch=17). The information that is automatically collected is used to improve [www.hvcc.edu's](https://www.hvcc.edu/) content and to help Hudson Valley Community College understand how _users_ are interacting with its Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_. The information is not collected for commercial marketing purposes and neither Hudson Valley Community College nor any of its employees, agents or affiliates are authorized to sell or otherwise disclose the information collected from [www.hvcc.edu](https://www.hvcc.edu/) for commercial marketing purposes.
+None of the above-mentioned information constitutes _personal information_ as that term is defined by the [Internet Privacy and Security Act](http://assembly.state.ny.us/leg/?ch=17). The information that is automatically collected is used to improve [www.hvcc.edu's](https://www.hvcc.edu/) content and to help Hudson Valley Community College understand how _users_ are interacting with its website. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_. The information is not collected for commercial marketing purposes and neither Hudson Valley Community College nor any of its employees, agents or affiliates are authorized to sell or otherwise disclose the information collected from [www.hvcc.edu](https://www.hvcc.edu/) for commercial marketing purposes.
 
 * * *
 
-### Information Collected When You E-mail [www.hvcc.edu](https://www.hvcc.edu/) or Complete a Transaction
+### Information Collected When You Email [www.hvcc.edu](https://www.hvcc.edu/) or Complete a Transaction
 
-During your visit to [www.hvcc.edu](https://www.hvcc.edu/) you may send an e-mail to Hudson Valley Community College. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. Your e-mail address and the information included in your message will be used to respond to you, to address issues you identify, to improve our Web site, or to forward your message to another SUNY campus for appropriate action. Your e-mail address is not collected for commercial purposes and neither Hudson Valley Community College nor any of its employees, agents or affiliates are authorized to sell or otherwise disclose your e-mail address for commercial purposes.
+During your visit to [www.hvcc.edu](https://www.hvcc.edu/) you may send an email to Hudson Valley Community College. Your email address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. Your email address and the information included in your message will be used to respond to you, to address issues you identify, to improve our website, or to forward your message to another SUNY campus for appropriate action. Your email address is not collected for commercial purposes and neither Hudson Valley Community College nor any of its employees, agents or affiliates are authorized to sell or otherwise disclose your email address for commercial purposes.
 
 During your visit to [www.hvcc.edu](https://www.hvcc.edu/) you may complete a transaction such as an online application or any online forms. The information collected by Hudson Valley Community College, including _personal information_ volunteered by you in completing the transaction, is used by Hudson Valley Community College and may be disclosed by Hudson Valley Community College for those purposes that may be reasonably ascertained from the nature and terms of the transaction in which the information was submitted.
 
-Hudson Valley Community College does not knowingly collect _personal information_ from children under the age of 13 or create profiles of children under the age of 13. _Users_ are cautioned, however, that the collection of _personal information_ submitted in an e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or state law, be subject to public access. 
+Hudson Valley Community College does not knowingly collect _personal information_ from children under the age of 13 or create profiles of children under the age of 13. _Users_ are cautioned, however, that the collection of _personal information_ submitted in an email will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or state law, be subject to public access. 
 
 * * *
 
@@ -83,13 +83,13 @@ Hudson Valley Community College is strongly committed to protecting _personal in
 
 In addition, Hudson Valley Community College has implemented procedures to safeguard the integrity of its information technology assets, including, but not limited to, authentication, authorization, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of [www.hvcc.edu](https://www.hvcc.edu/) as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
 
-For Web site security purposes and to maintain the availability of [www.hvcc.edu](https://www.hvcc.edu/) for all _users_ , Hudson Valley Community College employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage [www.hvcc.edu](https://www.hvcc.edu/).
+For website security purposes and to maintain the availability of [www.hvcc.edu](https://www.hvcc.edu/) for all _users_ , Hudson Valley Community College employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage [www.hvcc.edu](https://www.hvcc.edu/).
 
 * * *
 
 ### Cookies
 
-Cookies are small pieces of information that are stored by the _user's_ browser on the hard drive of your computer. Temporary session cookies are utilized in certain portions of the [www.hvcc.edu](https://www.hvcc.edu/) Web site.
+Cookies are small pieces of information that are stored by the _user's_ browser on the hard drive of your computer. Temporary session cookies are utilized in certain portions of the [www.hvcc.edu](https://www.hvcc.edu/) website.
 
 * * *
 
@@ -101,7 +101,7 @@ The information provided in this privacy policy should not be construed as givin
 
 ### Contact Information 
 
-For questions regarding this Internet privacy policy, please contact our privacy officer via e-mail at [privacy@hvcc.edu](mailto:privacyofficer@hvcc.edu) or by regular mail at:
+For questions regarding this Internet privacy policy, please contact our privacy officer via email at [privacy@hvcc.edu](mailto:privacyofficer@hvcc.edu) or by regular mail at:
 
 Director of Communications and Marketing  
 Hudson Valley Community College  
@@ -116,4 +116,4 @@ The following definitions apply to, and appear in _italics_ , in this policy:
 
 _Personal Information_ : shall have the same meaning as set forth in the Internet Security and Privacy Act, State Technology Law, Section 202(5) as follows: Any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
 
-_User_ : shall have the same meaning as set forth in the Internet Security and Privacy Act, State Technology Law, Section 202(8) as follows: Any natural person who uses the Internet to access a state agency Web site.
+_User_ : shall have the same meaning as set forth in the Internet Security and Privacy Act, State Technology Law, Section 202(8) as follows: Any natural person who uses the Internet to access a state agency website.
