@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214202314id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620152325id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 | 
 
-[Import MBOX to Outlook ](http://www.freedownloadscenter.com/Reviews/r9985.html)
+[Digital Photo Finalizer Pro Edition ](http://www.freedownloadscenter.com/Reviews/r10361.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r9985.html)
+[](http://www.freedownloadscenter.com/Reviews/r10361.html)
 
-**Import MBOX to Outlook** is a professional application with the capabilities to import MBOX files to Outlook PST files. 
+**Digital Photo Finalizer Pro Edition** is the most effective photo enhancing software useful to view, analyze and edit your digital photos. 
 
-[NOV User Interface for .NET ](http://www.freedownloadscenter.com/Reviews/r9986.html)
+[iPad Digital Publishing Software ](http://www.freedownloadscenter.com/Reviews/r10362.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r9986.html)
+[](http://www.freedownloadscenter.com/Reviews/r10362.html)
 
-**NOV User Interface for .NET** this is an advanced and effective toolkit for Cross-Platform and LOB applications with .NET. 
+**iPad Digital Publishing Software** is a handy software ideal for iPad users provides a perfect digital publication solution. 
 
 Reviews newsletter 
 
