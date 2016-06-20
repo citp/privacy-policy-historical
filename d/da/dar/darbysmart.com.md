@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210083039id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620064728id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Darby Smart
+# Privacy Policy
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.darbysmart.com and Darby Smart, Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Darby Smart include www.darbysmart.com and Darby Smart, Inc. The Darby Smart website is an ecommerce site. By using the Darby Smart website, you consent to the data practices described in this statement. 
 
@@ -61,8 +61,8 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 Darby Smart welcomes your questions or comments regarding this Statement of Privacy. If you believe that Darby Smart has not adhered to this Statement, please contact us at: 
 
 Darby Smart, Inc   
-944 Market St.   
-San Francisco, California 94102   
+290 8th St.   
+San Francisco, California 94103   
 United States of America   
 [wink@darbysmart.com](mailto:wink@darbysmart.com)
 
