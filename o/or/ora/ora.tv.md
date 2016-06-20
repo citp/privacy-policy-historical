@@ -1,22 +1,27 @@
-> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905205921id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620162053id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
 
-# Ora.Tv - Privacy Policy
+# Ora.tv: Privacy Policy
 
-Last Updated: January 14, 2015
+Last Updated: May 3, 2016
 
 This privacy policy (“Policy”) describes how ORA Media, LLC and its related companies (“Company”, “we” or “us”) collect, use and share personal information of consumer users of this website, www.ora.tv (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
- **SITE NOT DIRECTED TO CHILDREN**  
-We are concerned about the safety of children when they use the Internet, and understand that children may not fully comprehend all of the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. Our Site is not directed to children under the age of 13, and we will never request information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a user is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her information from our files.
+  
 
- **WHAT WE COLLECT**  
+
+ **SITE NOT DIRECTED TO CHILDREN**  
+We are concerned about the safety of children when they use the Internet, and understand that children may not fully comprehend all of the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. Our Site is not directed to children under the age of 13, and we will never request information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a user is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her information from our files. 
+
+**WHAT WE COLLECT**  
 We get information about you in a range of ways. 
 
-**Information You Give Us**. We collect your‎ name, email address as well as other information you directly give us on our Site.
+**Information You Give Us**.We collect your‎ name, email address as well as other information you directly give us on our Site.
 
  **Information Automatically Collected**. We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, IP address, browser type, browser language, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. 
 
-**Cookies**. We may log information using "cookies." Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs. No personal information is gathered from these cookies. You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how the Site works for you. In addition, third parties may place anonymous cookies on your browsers and may send their own cookies to the visitors' cookie file. These cookies may allow third parties and others to serve banners. Each banner may include a link that will include information for users on how to opt-out of being retargeted.
+**Cookies**. We may log information using "cookies." Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs. No personal information is gathered from these cookies. You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how the Site works for you. In addition, third parties may place anonymous cookies on your browsers and may send their own cookies to the visitors' cookie file. These cookies may allow third parties and others to serve banners. Each banner may include a link that will include information for users on how to opt-out of being retargeted. 
+
+**Advertisers**. We may allow third-party advertising companies to serve ads on our Site. Some of the advertising companies may directly or indirectly collect or use information about your visit to our Website to display advertisements more tailored to your interest. That information may include pages visited, content viewed, searches, clicks and purchases. If you want to know more about this practice, please visit the Network Advertising Initiative (“NAI”) website at [http://www.networkadvertising.org](http://www.networkadvertising.org/) The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection.
 
 USE OF PERSONAL INFORMATION
 
