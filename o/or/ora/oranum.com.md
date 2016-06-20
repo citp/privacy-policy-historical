@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oranum.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506204616id_/http%3A//community.oranum.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oranum.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620101757id_/http%3A//community.oranum.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Personal Data - Oranum
 
