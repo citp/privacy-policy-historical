@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-vectors.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222192402id_/http%3A//free-vectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-vectors.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620190334id_/http%3A//free-vectors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Free Vector Graphics Download | Free Vector Clip Art Packs | Free-Vectors.com
+# None
 
 Privacy Policy for [free-vectors.com](http://free-vectors.com/)
 
