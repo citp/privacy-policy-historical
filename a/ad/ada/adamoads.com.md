@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamoads.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104215942id_/http%3A//www.adamoads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamoads.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620061540id_/http%3A//www.adamoads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Welcome to ADAMO
 
@@ -10,7 +10,13 @@ Note: the privacy practices set forth in this privacy policy are for this web si
 
 #### Collection of Information
 
-ADAMO collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our users. This information is used to fulfill specific requests and services through our ad network.
+ADAMO collects Personal Information from our users for contact and verification purposes, including but not limited to: name, telephone number, addresses and identification documents.
+
+We do not share, sell or otherwise distribute Personal Information to third-party companies.
+
+#### Distribution of Information
+
+We will only use your information for legitimate purposes of which you will be informed unless we are required to do otherwise for legal reasons.
 
 #### Cookie/Tracking Technology
 
