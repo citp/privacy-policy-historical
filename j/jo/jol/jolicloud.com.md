@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195049id_/https%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620065105id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
 
-# Jolicloud
+# Jolicloud Privacy Policy
 
-_Last updated April 30, 2014._
+_Last updated September 23rd, 2015_
 
 Jolicloud ("we", “us”, or “our”) is committed to respecting your privacy and the confidentiality of your personal data. We are not in the business of selling information about you; we use the information you share with us for the sole purpose of running and improving our services.
 
 Any information that you provide to Jolicloud is subject to our Privacy Policy, which governs our collection and use of your information, the options available to you regarding our use of your information, and how you can access and update your information.
 
-By using the Jolicloud site and Jolicloud services, you agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time. You will always find the latest version of our Privacy Policy here.
+By using the Jolicloud site and services, you agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time. You will always find the latest version of our Privacy Policy here.
 
 #### What information is collected or used?
 
@@ -30,11 +30,11 @@ For each of the services you authorize Jolicloud to access, we create an index o
 
   * **Cookies**
 
-Our use of cookies is described in the [Cookie Policy](https://web.archive.org/cookie). 
+Our use of cookies is described in the [Cookie Policy](https://web.archive.org/cookie.html). 
 
   * **Usage and interaction**
 
-We collect information about your usage of and interaction with the Jolicloud websites and Services including computer and connection information, application version, device capability, browser type, language preference, current date and time, bandwidth, statistics on page views, and traffic to and from our websites and services. 
+We collect information about your usage of and interaction with Jolicloud website and Services including computer and connection information, application version, device capability, browser type, language preference, current date and time, bandwidth, statistics on page views, and traffic to and from our websites and services.
 
 We may also collect data pertaining to your "Friends" and list you as a “Follower” on their profile or collect and share other information for your activity, including (but not limited to) friends you have connected with, upgrades you have made, content you have made public or private, collections you have created, made public or followed, and applications you have installed, removed, created and accessed.
 
@@ -71,7 +71,7 @@ The reason we collect information is to provide you with a reliable, safe, effic
 
   * verify your identity,
 
-  * evolve, enhance and measure the Jolicloud site and Jolicloud services,
+  * evolve, enhance and measure the Jolicloud sites and services,
 
   * set up and undertake Jolicloud's marketing or promotional activities and events.
 
@@ -85,7 +85,7 @@ We do not disclose your private information except in the limited following situ
 
   * when required to do so by a law regulation or legal request; to protect the safety of any person; to tackle fraud, security or technical issues; or to preserve Jolicloud's rights or property.
 
-We may from time to time send you updates about your account or our products and services. You may however opt out of receiving promotional emails at any time. Opting out can be done [here](https://drive.jolicloud.com/settings/notices).
+We may from time to time send you updates about your account or our products and services. You may however opt out of receiving promotional emails at any time. Opting out can be done [here](https://drive.jolicloud.com/#/settings/notices).
 
 
 
@@ -100,7 +100,7 @@ According to the French data protection law dated 6th January 1978, you have a r
 
 To access and modify your personal data, please send an email to [privacy@jolicloud.com](http://www.jolicloud.com/privacy@jolicloud.com) identifying yourself and the information you would like us to access, correct or remove. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-The data we are indexing from your third party services can be deleted at any time. To remove services you no longer want to see in your Jolicloud please go to [your settings](https://drive.jolicloud.com/settings). We will delete the third party authentication data and the third party data completely from our servers as fast as is technically feasible - this could take approx 20 minutes. Records of your interaction with Jolicloud may persist in our server and communication logs.
+The data we are indexing from your third party services can be deleted at any time. To remove services you no longer want to see in your Jolicloud please go to [your settings](https://drive.jolicloud.com/#/settings). We will delete the third party authentication data and the third party data completely from our servers as fast as is technically feasible - this could take approx 20 minutes. Records of your interaction with Jolicloud may persist in our server and communication logs.
 
   * **Transfer of your Information outside the EEA**
 
@@ -108,7 +108,7 @@ Your information may be collected, stored, accessed and further processed (by us
 
   * **Changes to this Privacy Policy**
 
-The Privacy policy is governed by French law. The privacy policy may be modified or updated from time to time. If we make material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our website prior to the change becoming effective. The most current version will always be [on this page](https://web.archive.org/privacy).
+The Privacy policy is governed by French law. The privacy policy may be modified or updated from time to time. If we make material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our website prior to the change becoming effective. The most current version will always be found at [www.jolicloud.com/privacy](https://web.archive.org/privacy.html).
 
   * **Links to Third Party Services**
 
