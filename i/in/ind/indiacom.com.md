@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221133042id_/http%3A//www.indiacom.com/yellowpage/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620232043id_/http%3A//www.indiacom.com/yellowpage/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Indiacom.com
 
@@ -76,9 +76,9 @@ We also use other Google Analytics features based on Display Advertising (e.g. R
 
 H. Grievance Officer 
 
-If you have any queries relating to the above mentioned privacy policies; please send us an email at privacy@indiacom.com.
+If you have any queries relating to the above mentioned privacy policies; please send us an email at corporate@indiacom.com.
 
-You can also reach us by mail or by telephone: Indiacom Limited, Hermes Heritage, Phase I (Commercial), Shastri Nagar, Pune – 411006, Maharashtra. Tel.: 020-26603600. 
+You can also reach us by mail or by telephone: Indiacom Limited, Hermes Heritage, Phase I (Commercial), Shastri Nagar, Pune – 411006, Maharashtra. Tel.: 020-26603800. 
 
 In case, you want to update/remove the information provided by you or published in the website or you have any complaint regarding this website or any contents thereof, you may please contact our grievance officer in writing using the address or by email(with electronic signature) given below: 
 
@@ -88,8 +88,8 @@ Indiacom Limited Hermes Heritage,
 Phase I (Commercial),  
 Shastri Nagar, Pune – 411006,   
 Maharashtra, India   
-Tel.: 020-26603600 (ext. 639)  
-Email – privacy@indiacom.com
+Tel.: 020-26603854  
+Email – corporate@indiacom.com
 
 On receipt of the request, the Grievance Officer will take necessary steps, within a reasonable time, to ensure that the data shown on the website is updated/removed as requested or proper action is taken to redress your complaints. 
 
