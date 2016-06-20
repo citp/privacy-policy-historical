@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220140945id_/http%3A//thedogtrainingsecret.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620220158id_/http%3A//thedogtrainingsecret.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TheDogTrainingSecret.com - The Dog Training Secret
 
 Disclosure Regarding Collection and Use of Personal Information  
-Last Updated June 1, 2012
+Last Updated March 3rd, 2016
 
 Thank you for visiting TheDogTrainingSecret.com This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information.
 
 **The Information We Collect.  
 **  
-TheDogTrainingSecret.com collects the following information:
+We collect information from you when you place an order or subscribe to our newsletter. If you do not wish to receive further emails from us simply let us know [by contacting us here.](http://thedogtrainingsecret.com/contact-us-2/)
 
-First Name, and E-mail
+We may use third party cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads to you in the future. If you wish to not have us collect any information for future ad targeting of products or services [click here for a tool that allows you to opt out of this service.](http://www.aboutads.info/choices/)
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
 We also may collect certain non-personally identifiable information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Internet Explorer, Safari, Firefox), the type of operating system you are using, (e.g., Windows or Mac) and the domain name of your Internet service provider.
 
