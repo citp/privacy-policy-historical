@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319144851id_/https%3A//www.clickstay.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villarenters.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620040950id_/https%3A//www.clickstay.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Clickstay
 
