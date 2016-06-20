@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neusoft.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125164605id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neusoft.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620063425id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.*
 
 # Privacy Statement_Neusoft
 
