@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzworthy.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319065347id_/http%3A//www.buzzworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzworthy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620113006id_/http%3A//www.buzzworthy.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -30,13 +30,9 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 If at any time you believe BUZZWORTHY has not adhered to these principles, please notify us via the contact us link.
 
-#### G. 3rd Party Advertising:
+#### G. How to Opt-Out of Third Party Tracking Technologies:
 
-We use third-party advertising companies to serve ads when you visit BUZZWORTHY’s websites. The third-party advertising technology that we use on BUZZWORTHY uses information derived from your visits to BUZZWORTHY to target advertising within BUZZWORTHY. In addition, our advertisers may use other third-party advertising technology to target advertising on BUZZWORTHY’s websites or other websites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed in your browser. In addition, BUZZWORTHY may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable BUZZWORTHY to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our Web site. To “opt-out,” please click here → <http://www.networkadvertising.org/consumer/opt_out.asp>
-
-terms of service
-
-Third parties may collect certain types of information about visits to our site(s), including interaction with content on these sites.
+Our advertising service vendors and other third parties will at times also use Tracking Technologies to serve you advertisements tailored to interests you have shown by browsing on this Service and other sites, applications, destinations, and services you have visited, and to determine whether you have seen a particular advertisement before to avoid sending you duplicate advertisements, and for other lawful business purposes. In doing so, these third parties will collect non-personally identifiable data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The use of Tracking Technologies by third parties is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith. If you do not want the services that Tracking Technologies provide, you may be able to opt-out by visiting http://www.aboutads.info.
 
   
 
