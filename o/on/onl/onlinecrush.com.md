@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecrush.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122134702id_/http%3A//www.onlinecrush.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecrush.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620062033id_/http%3A//www.onlinecrush.com/site/privacy) for the most accurate reproduction.*
 
 # OnlineCrush - Spice up your life with a discreet encounter!
 
