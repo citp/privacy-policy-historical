@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chimaonline.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220131849id_/http%3A//www.lego.com/en-us/legal/legal-notice/privacy-policy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chimaonline.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620073318id_/http%3A//www.lego.com/en-us/legal/legal-notice/privacy-policy-full) for the most accurate reproduction.*
 
 # LEGO.com Legal - Legal Notice - Privacy Policy
 
 [](http://privacy.truste.com/privacy-seal/The-LEGO-Group/validation?rid=6b678f2a-a4d2-42cc-91ca-670bf0ae165c#xlink "TRUSTe online privacy certification")
 
-Last Modified: November 1st, 2014
+Last Modified: June 16th, 2016
 
 The LEGO Group (”LEGO”, ”we”, ”us”, ”our”) considers children and children’s play to be the cornerstone of everything we do. We take this responsibility seriously and always set ambitions high, as only the best is good enough for the builders of tomorrow. This privacy policy covers the collection, use and disclosure of information by the LEGO Group with LEGO System A/S as the main datacontroller. The LEGO Group is defined as [http://www.lego.com/aboutus/lego-group](http://www.lego.com/en-us/aboutus/lego-group). ** **
 
@@ -89,6 +89,14 @@ LEGO CUSTOMER SERVICE [http://service.lego.com/](http://service.lego.com/en-us
 LEGO app stores (Apple iTunes store, Google Play store etc.) 
 
 LEGO Social media sites (Facebook, Twitter, YouTube etc.) 
+
+LEGO Education - [https://education.lego.com/](https://education.lego.com/en-us)
+
+LEGO Education shop - [https://shop.education.lego.com/](https://shop.lego.com/#shopxlink)
+
+LEGO Education Community - [https://community.education.lego.com/](https://community.lego.com/)
+
+LEGO Education Account - [https://account.education.lego.com/](https://account.lego.com/en-us)
 
 However, in general we typically process the following categories of personal information:
 
