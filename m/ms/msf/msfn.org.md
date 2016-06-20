@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115131813id_/http%3A//www.msfn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621014836id_/http%3A//msfn.org/privacy) for the most accurate reproduction.*
 
-# MSFN Privacy Policy - MSFN
+# MSFN Privacy Policy – MSFN
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at xper at msfn.org. At www.msfn.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.msfn.org and how it is used.
 
@@ -10,8 +10,9 @@ Like many other Web sites, www.msfn.org makes use of log files. The information 
 
 **Cookies and Web Beacons**
 
-www.msfn.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and VibrantMedia. Google, as a third party vendor, uses cookies to serve ads on your site.
+www.msfn.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, VibrantMedia and VigLink. Google, as a third party vendor, uses cookies to serve ads on your site.
 
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the this site.
 
@@ -35,7 +36,8 @@ This site contains links to other sites. MSFN is not responsible for the privacy
 
 **Our Commitment to Children’s Privacy**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
 By using this site you agree that you undertake any guides, instructions, advice and implement it at your own risk. However where possible we strive to ensure that information is complete, acurate and practical.
 
 MSFN cannot be held liable for any damage to physical or intellectual property. MSFN is not responsible for posts, comments or views of our members. All posts and comments remain the copyright of the posters. MSFN reserves the right to edit, delete or move posts made on this site. MSFN reserves the right to keep members posts and not delete those from forums. A copy of Forum rules can be viewed [here](http://www.msfn.org/board/index.php?app=forums&module=extras&section=boardrules).
