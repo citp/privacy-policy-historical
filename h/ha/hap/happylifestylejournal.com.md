@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happylifestylejournal.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209215931id_/http%3A//happylifestylejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happylifestylejournal.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620223704id_/http%3A//happylifestylejournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HappyLifestyleJournal
+# Privacy Policy – HappyLifestyleJournal
 
 This Privacy Policy governs the manner in which happylifestylejournal.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the happylifestylejournal.com website (“Site”). This privacy policy applies to the Site and all products and services offered by happylifestylejournal.com.
 
