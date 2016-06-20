@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opi.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023075204id_/http%3A//www.opi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opi.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621010833id_/http%3A//opi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OPI
 
