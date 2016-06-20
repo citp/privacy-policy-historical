@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101080731id_/http%3A//www.domainsite.com/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620085612id_/http%3A//www.domainsite.com/policies/privacy-policy.php) for the most accurate reproduction.*
 
 # Domain Names, Web Hosting, and SSL Certificates | DomainSite
 
@@ -32,9 +32,8 @@ DomainSite respects your privacy. We want you to use DomainSite services with co
 DomainSite takes this privacy policy and the principles herein very seriously. We are committed to abiding by this policy and taking reasonable precautions to ensure that your personal information remains secure. If you have any questions or concerns about the scope, tenants and/or application of this policy please let us know. We welcome your feedback. Please feel free to contact us by phone, email or fax per your preference.
 
 DomainSite   
-2500 East Second Avenue   
-Second Floor   
-Denver, Colorado 80206   
+414 14th Street #200   
+Denver, Colorado 80202   
 Email - support@DomainSite   
 Phone - +1.720.249.2374   
 Fax - +1.303.399.3167 
