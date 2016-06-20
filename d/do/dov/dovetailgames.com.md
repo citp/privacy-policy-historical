@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dovetailgames.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220134815id_/http%3A//www.dovetailgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dovetailgames.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620105600id_/http%3A//www.dovetailgames.com/privacy) for the most accurate reproduction.*
 
 # Dovetail Games | Privacy
 
@@ -6,10 +6,10 @@
 
 Dovetail Games collect information as you use our products and services. This privacy policy tells you about the information we collect and how we use it. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This privacy policy (along with our end-user licence agreement as set out at http://www.dovetailgames.com/terms/ (hereinafter, the “ **EULA** ”) and any additional terms of use incorporated by reference into the EULA, together “ **Our Terms of Use** ”) applies to your use of:
+This privacy policy (along with our end-user licence agreement as set out at http://www.dovetailgames.com/terms/ (hereinafter, the “EULA”) and any additional terms of use incorporated by reference into the EULA, together “Our Terms of Use”) applies to your use of:
 
-  * Any and all software we develop and publish including but not limited to ‘Train Simulator 2016’ (and any and all associated content including but not limited to add-on content, subsequent/future versions and updates) and ‘Dovetail Games Fishing’ (and any and all associated content including but not limited to add-on content, future versions and updates) (individually, a “Product” or collectively the "Products"), once you have purchased or downloaded a copy of any of the Products onto your personal computer (“ **Device** ”); and
-  * Any of the services accessible through any of the Products or other services which we otherwise make available (the “ **Services** ”) on any of our websites including but not limited to Dovetailgames.com and railsimulator.com (our “ **Sites** ”), unless that Site (for example www.engine-driver.com) contains a separate privacy policy that applies to that particular Service, in which case that privacy policy only applies.
+  * Any and all software we develop and publish (and any and all associated content including but not limited to add-on content, subsequent/future versions and updates) (individually, a “Product” or collectively the "Products"), once you have purchased or downloaded a copy of any of the Products onto your personal computer (“Device”); and
+  *  Any of the services accessible through any of the Products or other services which we otherwise make available (the “ **Services** ”) on any of our websites including but not limited to Dovetailgames.com and railsimulator.com (our “Sites”), unless that Site (for example www.engine-driver.com) contains a separate privacy policy that applies to that particular Service, in which case that privacy policy only applies.
 
 
 
@@ -21,9 +21,9 @@ For the purpose of the Data Protection Act 1998, we are the data controller.
 
 In this document:
 
-'we', 'our' or 'us' refers to Dovetail Games, a trading name of RailSimulator.com Limited, a limited company (registered in England, number 6751125), our registered address is: Camburgh House, New Dover Road, Canterbury, Kent CT1 3DN.
+            'we', 'our' or 'us' refers to Dovetail Games, a trading name of RailSimulator.com Limited, a limited company (registered in England, number 6751125), our registered address is: Camburgh House, New Dover Road, Canterbury, Kent CT1 3DN.
 
-'you' refers to you, the user accessing a service owned or operated by us or playing any Product developed and published by us.
+            'you' refers to you, the user accessing a service owned or operated by us or playing any Product developed and published by us.
 
 **1\. Information we collect and how we use it**
 
@@ -45,21 +45,23 @@ We collect information about the features you use and how you use them. We do th
 
 The information we may collect includes:
 
-  * Personal information: We may collect personal information including but limited to name and contact details, although you are under no obligation to provide this.
-  * Device information: We may collect device-specific information about the Device you may use to access the Product (such as the hardware you are using, operating system version, browser type etc.).
-  * Software configuration information: We may collect information about your game configuration (including but not limited to choice of language and country of installation) and content you have installed to better understand how different users around the world access and engage with our Products.
-  * Game playing information: When you use our Products or Services, we may automatically collect and store certain information on our servers. This may include:
+  * **Personal information** : We may collect personal information including but limited to name and contact details, although you are under no obligation to provide this. 
 
 
+  * **Device information** : We may collect device-specific information about the Device you may use to access the Product (such as the hardware you are using, operating system version, browser type etc.). 
 
-o details of how you used our Product or Services, such as your menu choices;
 
-o details of how you have interacted with the Product, including but not limited to features you have engaged with, scenarios executed in the (and how they're completed) and progress you make within the Product; and
+  * **Software configuration information** : We may collect information about your game configuration (including but not limited to choice of language and country of installation) and content you have installed to better understand how different users around the world access and engage with our Products. 
 
-o event information including but not limited to crashes, system activity, hardware settings, operating systems and hardware configuration.
 
-  * Add-on content acquisitions: To correctly display content that you have purchased, we keep a record of your acquisitions so that we can show the content you own in a different way from that which you have not yet purchased.
-  * Web server statistics: Images displayed while loading Product are held on a web server. This, like most web servers, will log the IP address of the machine running the Product along with other parameters describing the route and the language being used.
+  * **Game playing information** : When you use our Products or Services, we may automatically collect and store certain information on our servers. This may include:
+  *      details of how you used our Product or Services, such as your menu choices;
+  *      details of how you have interacted with the Product, including but not limited to features you have engaged with, scenarios executed in the (and how they're completed) and progress you make within the Product; and
+  *      event information including but not limited to crashes, system activity, hardware settings, operating systems and hardware configuration.
+
+
+  * **Add-on content acquisitions** : To correctly display content that you have purchased, we keep a record of your acquisitions so that we can show the content you own in a different way from that which you have not yet purchased.
+  *   **Web server statistics** : Images displayed while loading Product are held on a web server. This, like most web servers, will log the IP address of the machine running the Product along with other parameters describing the route and the language being used.
 
 
 
@@ -75,13 +77,19 @@ The web server statistics allow us to monitor traffic patterns to ensure appropr
 
 Information we collect
 
-**Submitted Information:** We may ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with any of our Sites.
+Submitted Information: We may ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with any of our Sites.
 
-**Additional information:**
+**Additional information** :
 
-  * If you contact us, we may keep a record of that correspondence;
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
-  * If you subscribe to our newsletter, we will keep a record of your email address; and
+  * If you contact us, we may keep a record of that correspondence; 
+
+
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them; 
+
+
+  * If you subscribe to our newsletter, we will keep a record of your email address; and 
+
+
   * We may keep details of transactions you carry out through any of the Sites.
 
 
@@ -92,7 +100,9 @@ We use this information to identify problems or potential problems with and oppo
 
 We may use your email address to:
 
-  * Inform you about our Services, such as letting you know about upcoming changes, improvements, promotions or new products; and
+  * Inform you about our Services, such as letting you know about upcoming changes, improvements, promotions or new products; and 
+
+
   * Carry out our obligations arising from any contracts entered into between you and us.
 
 
@@ -113,8 +123,10 @@ How we use the information collected
 
 We use this information to:
 
-  * Ensure that content displayed on our Sites is presented in the most effective manner for you and for your computer; and
-  * Gather information about topics that are of interest so that we can better plan future developments and optimise user features and experiences.
+  * Ensure that content displayed on our Sites is presented in the most effective manner for you and for your computer; and 
+
+
+  * Gather information about topics that are of interest so that we can better plan future developments and optimise user features and experiences. 
 
 
 
@@ -124,18 +136,26 @@ This information is strictly for our own use but if this is ever made public (fo
 
 There are a number of features in our Products that rely on features provided by other, third party companies. Such third party companies may have different privacy policies that you may wish to review. Below is a non-exhaustive list of significant third party companies we work with:
 
-  * **Valve:** Valve provides the Steam distribution service, the workshop facilities, the shop and various high-score tables. They also collect payments and may process credit or debit card information. Their privacy policy is available at:
-  * http://store.steampowered.com/privacy_agreement
-  * **Google:** The editing tools include a feature to allow you to reference maps supplied by Google. Use of this feature is optional and, if used, is subject to their terms and conditions. Their privacy policy is available at:
-  * http://www.google.com/policies/privacy/
-  * **Facebook:** We optionally communicate with you using Facebook. Their privacy policy is available at: https://www.facebook.com/about/privacy/
-  * **Twitter:** We optionally communicate with you using Twitter. Their privacy policy is available at: https://twitter.com/privacy
-  * YouTube: We optionally distribute videos via YouTube. Their privacy policy is available at: http://www.google.co.uk/intl/en-GB/policies/privacy/
-  * **Flickr:** We optionally share screenshots and other images via Flickr. Their privacy policy is available at: http://info.yahoo.com/privacy/us/yahoo/flickr/details.html
+  * **Valve** : Valve provides the Steam distribution service, the workshop facilities, the shop and various high-score tables. They also collect payments and may process credit or debit card information. Their privacy policy is available at: http://store.steampowered.com/privacy_agreement
+
+
+  * **Google** : The editing tools include a feature to allow you to reference maps supplied by Google. Use of this feature is optional and, if used, is subject to their terms and conditions. Their privacy policy is available at: http://www.google.com/policies/privacy/
+
+
+  * **Facebook** : We optionally communicate with you using Facebook. Their privacy policy is available at: https://www.facebook.com/about/privacy/
+
+
+  * **Twitter** : We optionally communicate with you using Twitter. Their privacy policy is available at: https://twitter.com/privacy
+
+
+  * **YouTube** : We optionally distribute videos via YouTube. Their privacy policy is available at: http://www.google.co.uk/intl/en-GB/policies/privacy/
+
+
+  * **Flickr** : We optionally share screenshots and other images via Flickr. Their privacy policy is available at: http://info.yahoo.com/privacy/us/yahoo/flickr/details.html
 
 
 
-**Note: Use of these facilities is provided under the terms set out by each respective company. We do not accept any responsibility or liability for these facilities or their policies or for any personal data that may be collected through these websites or services, such as contact and location data.**
+**Note: Use of these facilities is provided under the terms set out by each respective company.** **We do not accept any responsibility or liability for these facilities or their policies or for any personal data that may be collected through these websites or services, such as contact and location data.**
 
 **3\. Important notices**
 
@@ -143,17 +163,24 @@ There are a number of features in our Products that rely on features provided by
 
 We do not share personal information with companies, organizations and individuals outside of Dovetail Games unless one of the following circumstances apply:
 
-  * For external processing we provide personal information to any member of our group (i.e. any of our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006) or other trusted businesses (necessary to provide the services we offer) provided they comply with our privacy policy and other appropriate confidentiality and security measures;
-  * Enforcement: In order to enforce or apply the EULA (see http://www.dovetailgames.com/terms/), and other agreements or to investigate potential breaches; or
-  * For legal reasons: we will share information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+  * **For external processing** we provide personal information to any member of our group (i.e. any of our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006) or other trusted businesses (necessary to provide the services we offer) provided they comply with our privacy policy and other appropriate confidentiality and security measures; 
 
 
+  * **Enforcement** : In order to enforce or apply the EULA (see http://www.dovetailgames.com/terms/), and other agreements or to investigate potential breaches; or 
 
-o meet any applicable law, regulation, legal process or enforceable governmental request;
 
-o detect, prevent, or otherwise address fraud, security or technical issues; and
+  * **For legal reasons:** we will share information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
-o protect against harm to the rights, property or safety of Dovetail Games, our users or the public as required or permitted by law.
+
+  * meet any applicable law, regulation, legal process or enforceable governmental request; 
+
+
+  * detect, prevent, or otherwise address fraud, security or technical issues; and 
+
+
+  * protect against harm to the rights, property or safety of Dovetail Games, our users or the public as required or permitted by law.
+
+
 
 If we are involved in a merger, acquisition or asset sale, these terms will apply to the acquiring company and we shall give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
@@ -163,9 +190,11 @@ We will ask for your consent before using personal data for a purpose other than
 
 **3.3 Information security**
 
-We work to protect ourselves and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
+We work to protect ourselves and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
 
-  * We store data on servers from trusted partners, including but not limited to Microsoft, Amazon and Google; and
+  * We store data on servers from trusted partners, including but not limited to Microsoft, Amazon and Google; and 
+
+
   * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
 
 
@@ -174,9 +203,9 @@ However, we cannot guarantee that your personal information will be absolutely p
 
 All information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Sites; any transmission is at your own risk.
 
-**3.4 Where we store your personal data**
+**3.4** **Where we store your personal** **data**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“ **EEA** ”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. These staff may be engaged in the fulfilment of your request and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ( **“EEA”** ). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. These staff may be engaged in the fulfilment of your request and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 **3.5 Enforcement**
 
@@ -208,6 +237,6 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 **3.12 Questions and further information**
 
-If you have any questions, require clarifications or would like further information on our approach to Your privacy please contact us at support@dovetailgames.com
+If you have any questions, require clarifications or would like further information on our approach to Your privacy please contact us at dovetailgames.kayako.com
 
-Last updated: 14th September 2015
+Last modified: 18th May 2016
