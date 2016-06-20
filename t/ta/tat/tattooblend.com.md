@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tattooblend.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220150527id_/http%3A//tattooblend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattooblend.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620072315id_/http%3A//tattooblend.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TattooBlend
 
-This Privacy Policy governs the manner in which Tattooblend collects, uses, maintains and discloses information collected from users (each, a “User”) of the tattooblend.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Tattooblend.
+This Privacy Policy governs the manner in which Tattooblend collects, uses, maintains and discloses information collected from users (each, a “User”) of the tattooblend.com website (“Site”). This privacy policy applies to the Site and all products and services offered by tattooblend.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Trendelier may collect and use Users personal information for the following purposes:
+TattooBlend may collect and use Users personal information for the following purposes:
 
   * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -41,7 +41,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-  * You may learn about our advertizing partners here: 
+  * You may learn about our advertising partners here: 
     * [Google AdSense](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.google.com%2Fadsense%2Fstart%2F&ei=HLRDVYuDAZHmaIWwgcgJ&usg=AFQjCNFbD4977pRyFbOtH_EiEZ8ai7TWNg&bvm=bv.92189499,d.d2s)
 
 
@@ -71,4 +71,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 contact@tattooblend.com
 
-This document was last updated on December 3, 2015
+This document was last updated on May 24, 2016
