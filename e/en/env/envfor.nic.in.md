@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the envfor.nic.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213111747id_/http%3A//envfor.nic.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envfor.nic.in privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620210936id_/http%3A//envfor.nic.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ministry of Environment, Forest and Climate Change Government of India
 
