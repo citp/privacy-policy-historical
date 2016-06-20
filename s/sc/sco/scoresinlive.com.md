@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the scoresinlive.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502172802id_/http%3A//www.scoresinlive.com/privacy.php%3Fl%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresinlive.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620205029id_/http%3A//www.scoresinlive.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
+  
 This statement discloses the information gathering process and the privacy and dissemination practices for the ScoresinLive.com Web site. ScoresinLive.com has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy. 
 
 ScoresinLive.com is a livescore portal designed to provide realtime soccer live scores and results from all soccer leagues in the world and live scores and results for all major sports as basketball, tennis, ice hockey, baseball, american football, horse racing, rugby, golf, greyhound and formula 1. 
@@ -16,4 +17,4 @@ Change
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. 
 
-If you have any questions about the Privacy Statement of ScoresinLive.com, please contact us using [this page](https://web.archive.org/web/20150502172802id_/http%3A//www.scoresinlive.com/feedback.php?l=default&CSRF_TOKEN=3e7d2b254bd9808a40b71cb802067a0baea74dbc)
+If you have any questions about the Privacy Statement of ScoresinLive.com, please contact us using [this page](https://web.archive.org/web/20160620205029id_/http%3A//www.scoresinlive.com/feedback.php?l=default)
