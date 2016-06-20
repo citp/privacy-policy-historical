@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the krakowstudios.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204134816id_/http%3A//www.krakowstudios.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krakowstudios.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620073913id_/http%3A//www.spinnyverse.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# 
+# Example Privacy Policy
 
-Krakow Privacy Policy
+**Cookies & 3rd Party Advertisements**
 
-Any private information collected by Krakow Studios such as messageboard registration or merchandise sales will be used only for the purposes of administration. Other information such as those collected from surveys or system information will be used anonymously. In order to prevent users from, for example, voting several times in a single survey, your IP address may be used.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Krakow Studios does run banner ads served by Fastclick, their privacy policy is viewable [ here.](http://www.fastclick.com/about/privacy2.html)
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
