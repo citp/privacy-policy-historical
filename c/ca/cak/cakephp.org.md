@@ -1,27 +1,18 @@
-> *The following text is extracted and transformed from the cakephp.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215105508id_/http%3A//cakephp.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakephp.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620072129id_/http%3A//cakephp.org/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for cakephp.org
+# CakePHP - Build fast, grow solid | Privacy policy
 
 The privacy of our visitors to cakephp.org is important to us.
 
 At cakephp.org, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit cakephp.org, and how we safeguard your information. We never sell your personal information to third parties. 
 
-  
-
-
 ### Log Files:
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-  
-
-
 ### Cookies:
 
 We do use cookies to store information, such as your personal preferences when you visit our site.
-
-  
-
 
 ### Advertising:
 
