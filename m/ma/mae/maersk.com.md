@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maersk.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908135454id_/http%3A//www.maersk.com/en/front-page-requirements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maersk.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620031502id_/http%3A//www.maersk.com/en/front-page-requirements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
