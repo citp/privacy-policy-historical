@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the andromo.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031004527id_/http%3A//www.andromo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andromo.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621003945id_/http%3A//www.andromo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Andromo App Maker for Android
+
+You need to sign in or sign up before continuing. 
 
 _Effective Date: Aug 2, 2011_
 
