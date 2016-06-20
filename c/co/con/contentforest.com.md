@@ -1,134 +1,130 @@
-> *The following text is extracted and transformed from the contentforest.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928171221id_/http%3A//www.contentforest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentforest.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620074223id_/http%3A//www.contentforest.com/privacy) for the most accurate reproduction.*
 
-# ContentForest Privacy Policy
+# Privacy Policy | ContentForest
 
-**
+## **Privacy policy**
 
-### **Privacy Policy**
+88Projects Limited **("We")** are committed to protecting and respecting your privacy.
 
-**
-    
-    
-    This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
-    
-    **What personal information do we collect from the people that visit our blog, website or app?**
-    When ordering or registering on our site, as appropriate, you may be asked to enter your email address, phone number or other details to help you with your experience.
-    
-    **When do we collect information?**
-    We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
-    
-    **How do we use your information?**
-    We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-    
-          • To quickly process your transactions.
-          • To send periodic emails regarding your order or other products and services.
-    
-    **How do we protect visitor information?**
-    Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
-    
-    We do not use an SSL certificate
-          • We only provide articles and information, and we never ask for personal or private information
-    
-    **Do we use 'cookies'?**
-    Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-    
-    We use cookies to:
-          • Understand and save user's preferences for future visits.
-    
-    You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
-    
-    If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
-    
-    However, you can still place orders .
-    
-    **Third Party Disclosure**
-    We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
-    
-    However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-    
-    **Third party links**
-    Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-    
-    **Google**
-    Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-    
-    We use Google AdSense Advertising on our website.
-    Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-    
-    We have implemented the following:
-          • Remarketing with Google AdSense
-    
-    We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
-    
-    Opting out:
-    Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
-    
-    **California Online Privacy Protection Act**
-    CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-    
-    According to CalOPPA we agree to the following:
-    Users can visit our site anonymously
-    Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-    Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
-    
-    Users will be notified of any privacy policy changes:
-          • On our Privacy Policy Page
-    Users are able to change their personal information:
-          • By logging in to their account
-    
-    **How does our site handle do not track signals?**
-    We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-    
-    Does our site allow third party behavioral tracking?
-    It's also important to note that we do not allow third party behavioral tracking
-    
-    **COPPA (Children Online Privacy Protection Act)**
-    When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-    
-    We do not specifically market to children under 13.
-    
-    **Fair Information Practices**
-    The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-    
-    In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-    We will notify the users via email
-          • Within 7 business days
-    We will notify the users via in site notification
-          • Within 1 business day
-    
-    We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-    
-    **CAN SPAM Act**
-    The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-    
-    We collect your email address in order to:
-          • Send information, respond to inquiries, and/or other requests or questions.
-          • Process orders and to send information and updates pertaining to orders
-          • We may also send you additional information related to your product and/or service.
-          • Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-    
-    To be accordance with CANSPAM we agree to the following:
-          • NOT use false, or misleading subjects or email addresses
-          • Identify the message as an advertisement in some reasonable way
-          • Include the physical address of our business or site headquarters
-          • Monitor third party email marketing services for compliance, if one is used.
-          • Honor opt-out/unsubscribe requests quickly
-          • Allow users to unsubscribe by using the link at the bottom of each email
-    
-    If at any time you would like to unsubscribe from receiving future emails, you can
-          • Follow the instructions at the bottom of each email.
-    
-    **Contacting Us**
-    
-    If there are any questions regarding this privacy policy you may contact us using the information below.
-    
-    www.contentforest.com
-    Auckland
-    New Zealand
-    Waterloo Quadrant
-    Auckland
-    1010
-    contact@contentforest.com
-    
-    Last Edited on 2014-12-05
-    
+This policy (together with our **[Terms and Conditions](https://web.archive.org/terms)** and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting contentforest.com and all included sub-pages **("Site")** you are accepting and consenting to the practices described in this policy.
+
+### Information we may collect from you
+
+We may collect and process the following data about you:
+
+#### Information you give us
+
+You may give us information about you by filling in forms on our Site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Site, subscribe to our service, and when you report a problem with our Site. The information you give us may include your name, address, e-mail address and phone number.
+
+#### Information we collect about you
+
+With regard to each of your visits to our Site we may automatically collect the following information:
+
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Site (including date and time); page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, mouse-overs and search queries), and methods used to browse away from the page.
+
+
+
+#### Information we receive from other sources
+
+We may receive information about you if you use any of the other Sites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+
+### Cookies
+
+Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. Any use of Cookies - or of other tracking tools - by this Site or by the owners of third party services used by this Site, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features may be disabled, and failure to provide certain Personal Data may make it impossible for this Site to provide its services.
+
+### Uses made of the information
+
+We use information held about you in the following ways:
+
+#### Information you give us
+
+We will use this information:
+
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us;
+  * to provide you with information about other services we offer that are similar to those that you have already purchased or enquired about;
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about your search queries, goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;
+  * to notify you about changes to our service;
+  * to ensure that content from our Site is presented in the most effective manner for you and for your computer.
+
+
+
+#### Information we collect about you
+
+We will use this information:
+
+  * to administer our Site and for internal operations, including troubleshooting, data analysis, testing, research, database extension, statistical and survey purposes;
+  * to improve our Site and database to ensure that content is presented in the most effective manner for you and for your computer;
+  * to allow you to participate in interactive features of our service, when you choose to do so, and to present you with the service you request;
+  * as part of our efforts to keep our Site safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of our Site about goods or services that may interest you or them.
+  * to keep track of search and usage behavior
+
+
+
+#### Information we receive from other sources
+
+We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
+
+### Disclosure of your information
+
+We may share your information with selected third parties including:
+
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our Site.
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+
+
+
+We may disclose your personal information to third parties:
+
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * if we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * if 88Projects Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our **[Terms and Conditions](https://web.archive.org/terms)** and other agreements; or to protect the rights, property, or safety of 88Projects Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### Where we store your personal data
+
+The data that we collect from you may be transferred to, processed and stored at, a destination in the United States and New Zealand. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will process and store your information in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized access.
+
+Your information processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to us, in some cases, your information may be accessible to certain types of persons in charge, involved with the operation of the Site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies).
+
+Your information is processed at the 88Project’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact **support@contentforest.com**.
+
+### Your rights
+
+Your information is kept for the time necessary to provide the service requested by you, or stated by the purposes outlined in this document, and you can always request that your information is suspend or remove.
+
+You have the right to ask us not to process your personal data for marketing and database extension purposes. We will usually inform you (before collecting your data) if we intend to use your data for marketing purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at **support@contentforest.com**.
+
+You have the right, at any time, to know whether your personal data has been stored and can consult us to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to **support@contentforest.com**.
+
+This Site does not support “Do Not Track” requests.
+
+To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+Our Site may, from time to time, contain links to and from the Sites of our partner networks, advertisers and affiliates. If you follow a link to any of these Sites, please note that these Sites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these Sites.
+
+### Changes to our Privacy Policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to **support@contentforest.com**.
+
+88Projects Limited
+
+Last updated: May 2016
