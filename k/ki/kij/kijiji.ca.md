@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kijiji.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134834id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijiji.ca privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621000410id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
 
 # Kijiji Privacy Policy | Kijiji Helpdesk
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy for Kijiji Canada**
 
-**Updated: July 25, 2014  **
+**Updated: March 4th, 2016**
 
 Table of contents  
  
@@ -15,20 +15,21 @@ Table of contents
   2. What personal information do we collect
   3. How we use your personal information
   4. Marketing Purposes
-  5. Cookies
-  6. Access to, review and rectification of your personal information
-  7. Protection and retention of your personal information
-  8. Other Information
+  5. Advertising
+  6. Cookies
+  7. Access to, review and rectification of your personal information
+  8. Protection and retention of your personal information
+  9. Other Information
 
 
 
 **1.  General **
 
-This privacy policy describes the policy of Kijiji Canada regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the www.kijiji.ca website ("Kijiji") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. Marktplaats B.V. is the data controller. 
+This privacy policy describes the policy of Kijiji Canada regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the www.kijiji.ca website ("Kijiji" or "Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. Marktplaats B.V. is the data controller. 
 
 **Scope and consent:** By using Kijiji and related Services, you give explicit consent to Kijiji for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use. 
 
-Kijiji may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of July, 2014. 
+Kijiji may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of March, 2016. 
 
 Kijiji is part of eBay Inc. and is therefore bound to the global privacy standards of eBay Inc. (Binding Corporate Rules). More information on how we handle your personal information and privacy can be found in the eBay Binding Corporate Rules that you can access through the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
 
@@ -106,23 +107,25 @@ We will not sell or rent your personal information to third parties for their ma
 
 When you no longer wish to receive marketing communications from us, you can, where applicable, change your preferences in your [My Kijiji ](https://www.kijiji.ca/t-login.html)account, or follow the unsubscribe link in the marketing communication you received. 
 
-**5.  Cookies **
+ **5.  Advertising**
+
+If you do not wish to participate in our advertising personalization programs, you can opt-out by following the directions provided within the applicable advertisement, or directly at our [AdChoice program](https://www.kijiji.ca/m-processAdChoice.html).  The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of information for certain purposes such as usage, research, analytics and internal online services operation purposes). In addition to that, we do not allow third parties to track or collect your personal information on our sites for their own advertising purposes without your explicit consent.  
 
 When you use our Services, we and our service providers may place cookies (data files on your phone or mobile device’s drive) or web beacons (electronic images that are placed in a web page’s code) or similar technologies. We use cookies to help us identify you as a user, to provide you a better experience on our Website, to measure promotional effectiveness and to ensure trust and safety on our Website. For more detailed information about our use of these technologies, we refer you to our Policy on [Cookies, Web beacons and Similar Technologies.](https://web.archive.org/helpdesk/policies/kijiji-cookie-policy)
 
-**6.  Accessing, Reviewing and Changing Your Personal Information **
+**7.  Accessing, Reviewing and Changing Your Personal Information **
 
 We cannot modify your personal information or account information. You can modify your own information by logging into your Kijiji account. When you place a classified ad, you may not be able to change your listing or delete your message. If you want to close your account (where applicable) with us, please send us a request to us [here](https://web.archive.org/helpdesk/email-us/). We will process your request within a reasonable period of time and process your personal information in accordance with applicable law. Alternatively, you can also contact [Customer Support](https://web.archive.org/helpdesk/email-us/) to access your personal information stored by us that is not directly accessible on Marktplaats, unless Marktplaats is not required to provide access under the Dutch Data Protection Act. We may charge a fee to compensate costs; however the fee shall not exceed the amount permitted by law. If your information is factually incorrect or incomplete or irrelevant for the purposes for which we process your information, you can request us to modify or delete your information. Such requests will be handled in accordance with the Dutch Data Protection Act. If you have any questions, please contact us with the subject line ‘Request Privacy Policy’: 
 
 - by writing to Marktplaats BV, Attention: Kijiji Canada Customer Support, Wibautstraat 224, 1097 DN Amsterdam, the Netherlands. 
 
-**7.  Protection and retention of your personal information **
+**8.  Protection and retention of your personal information **
 
 We protect your information by using technical and administrative security measures (such as firewalls, data encryption, and physical and administrative access controls to the data and servers) that limit the risk of loss, abuse, unauthorised access, disclosure, and alteration. Nevertheless, if you believe your account has been abused, please contact us through the [Contact Form](https://web.archive.org/helpdesk/email-us/).
 
 We retain personal information no longer than is legally permissible and delete personal information when it is no longer necessary for the purposes as described above. 
 
-**8.  Other information **
+**9.  Other information **
 
 **Abuse and unsolicited commercial communications ("spam"):** We do not tolerate abuse of our Website. You do not have permission to add other Kijiji users to your mailing list (e-mail or postal) for commercial purposes, even if a user has purchased something from you, unless the user has given his explicit consent. If you notice that someone is abusing our Website (spam or spoof emails), please notify us [here](https://web.archive.org/helpdesk/email-us/).
 
