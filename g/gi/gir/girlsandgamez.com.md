@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsandgamez.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217003732id_/http%3A//www.girlsandgamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsandgamez.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620124743id_/http%3A//www.girlsandgamez.com/privacy.html) for the most accurate reproduction.*
 
 # Games For Girls - free games online
 
