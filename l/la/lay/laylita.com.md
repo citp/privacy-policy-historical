@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laylita.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212224448id_/http%3A//laylita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylita.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620143949id_/http%3A//laylita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laylita.com
 
@@ -60,3 +60,5 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send an email to layla at laylita dot com
 
 _**This privacy policy was last updated on  September 25, 2015**_
+
+This post was last modified:  September 25th, 2015 by 
