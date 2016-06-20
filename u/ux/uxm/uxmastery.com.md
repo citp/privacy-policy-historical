@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxmastery.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207210925id_/http%3A//uxmastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxmastery.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620215144id_/http%3A//uxmastery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -UX Mastery
 
@@ -13,7 +13,7 @@ This privacy policy discloses the privacy practices for UX Mastery. This privacy
 
 **Information Collection, Use, and Sharing**
 
-We are the sole owners of the information collected on this site. We only have access to and/or collect information that you voluntarily give us via email or other direct contact from you. **We will not sell or rent this information to anyone.** We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to process an order.
+We are the sole owners of the information collected on this site. We only have access to and/or collect information that you voluntarily give us via email or other direct contact from you. **We will not give, sell or rent this information to anyone.** We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organisation, other than as necessary to fulfil your request, e.g. to process an order through one of our suppliers.
 
 **Orders**
 
