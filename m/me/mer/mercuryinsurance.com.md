@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110120747id_/http%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620073839id_/http%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
 
-# 
+# Mercury Insurance | Policy Statement
 
 Mercury and its affiliated companies appreciate the trust you place in us when you ask us to help protect you and your assets. You trust us with your private, personal information when you purchase insurance from us, and we are committed to protecting this information. Mercury does not sell information about you to others.
 
@@ -18,7 +18,7 @@ The independent insurance agents authorized to sell Mercury products and service
 
 ## Information About Mercury's Websites
 
-#### Information collected
+### Information collected
 
 Mercury collects personal information (for example, name, address, E-mail address, telephone number or Social Security number) on our web site only when you voluntarily provide it to us. We do not collect any personally identifiable information about your online activities across other sites or online services. Only your Internet domain is recognized when you visit our website; your individual E-mail address is not.
 
@@ -28,7 +28,7 @@ The companies of Mercury Insurance Group may work with several third-party vendo
 
 ###### _To learn more about how Mercury collects and uses your personal information, please read the following notice._
 
-#### Mercury's Sources of Information About You
+### Mercury's Sources of Information About You
 
 We may collect personal information about you from:
 
@@ -40,35 +40,35 @@ We may collect personal information about you from:
 
 
 
-#### Information sharing and use
+### Information sharing and use
 
 Mercury does not sell information about you to others. If you only browse our website and do not supply any information, you will not receive unsolicited E-mail, telephone calls, or other marketing materials from Mercury as a result of your visit.
 
 When you make changes to your account or request more information about our products we may forward information you supply to us to your Mercury Independent Insurance Agent. We do this so they can service your account or contact you with additional information about our products.
 
-#### Cookies
+### Cookies
 
 **Mercury uses cookies to maintain the continuity of browser sessions and to track repeat visitors. No personally identifiable information about you is stored in these cookies.**
 
-#### Browsers & Security
+### Browsers & Security
 
 Mercury uses **secure technology, which encrypts** information as it crosses the Internet. You can tell if you are visiting a secure area by looking at the padlock symbol on your browser screen. If it is "locked," you have a secure session.
 
 Mercury has security measures in place to protect the loss, misuse, and alteration of your personal information. Our servers are located in the United States of America and are designed to prevent unauthorized access.
 
-#### Links to other sites
+### Links to other sites
 
 MercuryInsurance.com contains links to other websites. These other websites are not under Mercury's direct control, and they may collect information about you that Mercury does not. We are not responsible for the privacy practices or the content of linked websites.
 
-#### Protecting Your Personal Information from Unauthorized Access
+### Protecting Your Personal Information from Unauthorized Access
 
 We limit employee access to customer information to those employees with a legitimate business reason for such access. We maintain physical, electronic and procedural safeguards to protect your personal information from being accessed by unauthorized persons. We also conduct regular risk assessment, risk management and control, and oversight of our service providers to assure the effectiveness of these safeguards.
 
-#### Your Medical Information
+### Your Medical Information
 
 Mercury obtains medical information only in connection with specific products or claims. We will not use or share personally identifiable medical information for any purpose other than the underwriting or administration of your policy, claim or account, or as otherwise disclosed to you when the information is collected.
 
-#### Reviewing Your Information
+### Reviewing Your Information
 
 If you submitted information to Mercury online and would like to review that information, please request a copy of the information about you that we have in our files to review it for completeness and accuracy. Your request must be in writing. Please contact your Agent to submit your request.
 
@@ -76,7 +76,7 @@ If you submitted information to Mercury online and would like to review that inf
 
 The effective date of this Statement was July 1, 2004. Please be aware that we may periodically update or revise this Statement, and any changes are effective as of the date posted. Please check our Consumer Privacy Statement frequently for changes.
 
-#### This Privacy Statement applies to the following members of the Mercury Family of Companies:
+### This Privacy Statement applies to the following members of the Mercury Family of Companies:
 
 ##### Arizona
 
