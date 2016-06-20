@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101111210id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620083342id_/http%3A//www.flyordie.com/privacy.html%23cookies) for the most accurate reproduction.*
 
 # Privacy Statment - FlyOrDie.com
 
 ## Privacy Statement
 
-[FlyOrDie](https://web.archive.org/web/20151101111210id_/http%3A//) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
+[FlyOrDie](https://web.archive.org/web/20160620083342id_/http%3A//) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
 Any comments about this document, or FlyOrDie's policy, please write to: [privacy@flyordie.com](mailto:privacy@flyordie.com)
 
 Registration
@@ -45,4 +45,4 @@ This web site contains links to other sites. Please be aware that FlyOrDie is no
 
 Last updated: Dec 11, 2013 
 
-Copyright © 2001-2015 FlyOrDie Free Games Online. FlyOrDie® is a registered trademark of [Solware Ltd.](http://www.solware.com/)
+Copyright © 2001-2016 FlyOrDie Free Games Online. FlyOrDie® is a registered trademark of [Solware Ltd.](http://www.solware.com/)
