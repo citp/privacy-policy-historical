@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228085227id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621003348id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Mail Group Ltd
 
@@ -176,9 +176,7 @@ We will keep our privacy policy under regular review and will place any updates 
 
   * ## How to contact us
 
-Customers with queries or complaints relating to products or services provided by Royal Mail can contact Royal Mail Customer Services for assistance:
-
-[http://www.royalmail.com/personal/help-and-support/I-need-to-contact-roy...](http://www.royalmail.com/personal/help-and-support/I-need-to-contact-royal-mail "http://www.royalmail.com/personal/help-and-support/I-need-to-contact-royal-mail")
+Customers with queries or complaints relating to products or services provided by Royal Mail can contact [Royal Mail Customer Services](http://www.royalmail.com/contactus) for assistance.
 
 Customers with queries or complaints relating to products or services provided by Parcelforce Worldwide can contact Parcelforce Worldwide Customer Services for assistance:
 
