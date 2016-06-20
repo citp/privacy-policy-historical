@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coolmathgames.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121133623id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmathgames.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620020553id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
 
 # Privacy Policy for Coolmath-Games.com
 
-Effective Date: May 20, 2014 (last updated March 24, 2015)
+Effective Date: May 20, 2014 (last updated April 22, 2016)
 
-This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as coolmath4kids.com and coolmath.com.
+This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as coolmath4kids.com.
 
 **Information Collected**
 
@@ -22,11 +22,13 @@ We use information for security purposes. We may use information to protect our 
 
 We use information to communicate with you about our relationship. We may contact you about your feedback. We might also contact you about this Policy or our website terms.
 
+If you subscribe to our subscriber-only content, we collect information, such as your name, address, username, password and payment card information, in order to provide you the subscription services you request and to process your payments.  
+
 We use information as otherwise permitted by law.
 
 **Sharing of Information**
 
-We will share information with third parties who perform services on our behalf. For example, we may share information with a vendor who conducts a satisfaction survey on our behalf, in order to improve our site.
+We will share information with third parties who perform services on our behalf. For example, we may share information with a vendor who conducts a satisfaction survey on our behalf, in order to improve our site. As another example, we share information with a third party not affiliated with us to process subscription payments of our subscribers. 
 
 We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
