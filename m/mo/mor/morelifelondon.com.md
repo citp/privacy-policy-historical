@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morelifelondon.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215162439id_/http%3A//www.morelifelondon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morelifelondon.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620141204id_/http%3A//www.morelifelondon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – morelifeLONDON.com
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at morelifeLONDON.com We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
 
