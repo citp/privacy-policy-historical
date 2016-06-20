@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the makeuprevolutionstore.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101090800id_/http%3A//www.makeuprevolutionstore.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuprevolutionstore.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620084643id_/http%3A//www.makeuprevolutionstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Key details**
 
-This website privacy policy describes how MEDICHEM INTERNATIONAL (MANUFACTURING) LTD protects and makes use of the information you give the company when you use this website.
+This website privacy policy describes how TAM BEAUTY (DISTRIBUTION) LTD protects and makes use of the information you give the company when you use this website.
 
 If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy. This policy is updated from time to time. The latest version is published on this page.
 
-This website privacy policy was updated on: **13/05/2015**
+This website privacy policy was updated on: **08/01/2016**
 
-If you have any questions about this policy, please [contact us here](https://www.makeuprevolutionstore.com/index.php/contacts/) or write to: Medichem International (Manufacturing) Ltd, Stalham Business Park, Rushenden Road, Queenborough, Kent, ME11 5HE.
+If you have any questions about this policy, please [contact us here](https://www.makeuprevolutionstore.com/contacts/) or write to: TAM Beauty (Distribution) Ltd, Units 4-5 Sheet Glass Road, Cullet Drive, Queenborough, Kent, ME11 5JS.
+
+Our VAT number is GB230737426.
 
 Introduction
 
@@ -100,9 +102,9 @@ If you have agreed that we can use your information for marketing purposes, you 
 
     Sign in to our website and change your opt-in settings.
 
-    [Contact us here.](https://www.makeuprevolutionstore.com/index.php/contacts/)
+    [Contact us here.](https://www.makeuprevolutionstore.com/contacts/)
 
-    Write to us at: Medichem International (Manufacturing) Ltd, Stalham Business Park, Rushenden Road, Queenborough, Kent,ME11 5HE.
+    Write to us at: TAM Beauty (Distribution) Ltd, Units 4-5 Sheet Glass Road, Cullet Drive, Queenborough, Kent, ME11 5JS.
 
 We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to.
 
