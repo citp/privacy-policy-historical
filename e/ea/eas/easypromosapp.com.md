@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypromosapp.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018064955id_/http%3A//www.easypromosapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypromosapp.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620163220id_/http%3A//www.easypromosapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Create promotions and contests | Easypromos
 
@@ -84,16 +84,12 @@ Our website may use cookies: small data files generated on your computer to stre
 
 The EASYPROMOS Website may contain links to websites of third party companies or entities. EASYPROMOS cannot be held responsible for the way in which these companies manage the protection of privacy and personal data, so we recommend you read the privacy statements of these companies that are not property of EASYPROMOS with relation to the use, processing and protection of personal data. The conditions offered by these websites may not be the same as those offered by EASYPROMOS.
 
-**9\. Release of image rights of the promotion winners**
-
-The user accepts that the name and image of the winners of promotions carried out via the EASYPROMOS application may be made public on the EASYPROMOS website and in any other promotional material, globally and without right to renumeration, and for a up to a year from the conclusion of each promotion in which the user participates.
-
-**10\. Cancellation of personal details**
+**9\. Cancellation of personal details**
 
 The EASYPROMOS promotions administrator may terminate a promotion at any time, and without cost, from the administration panel. From the moment in which the promotion is terminated any personal details hosted within the EASYPROMOS application will be cancelled and permanently destroyed by EASYPROMOS.
 
 As long as the promotion is not terminated, EASYPROMOS, in their capacity as treatment manager, will house the data within their application in order to successfully provide their services.
 
-**11\. Changes**
+**10\. Changes**
 
 EASYPROMOS reserves the right to revise its Privacy Policy at any time it deems appropriate. For this reason, please check this privacy statement regularly in order to read the most recent version of the EASYPROMOS Privacy Policy.
