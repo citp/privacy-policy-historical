@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021919id_/http%3A//www.golftown.com/CustomerSupport.aspx%3Fsection%3Dprivacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golftown.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620133302id_/http%3A//www.golftown.com/CustomerSupport.aspx%3Fsection%3Dprivacysecurity) for the most accurate reproduction.*
 
 # Customer Support @ Golf Town Online
-
-|   | 
 
 **PRIVACY & SECURITY**
 
@@ -73,6 +71,56 @@ Golf Town strictly controls access to your personal information to employees who
 Golf Town uses industry leading service providers to assist us with customer service, processing and delivery of orders and other key functions. We only share the information necessary for these service providers to perform their role in serving you. These third parties are bound by confidentiality agreements to keep all customer information confidential. 
 
 **OBTAINING YOUR CONSENT**  
-By using the Golf Town website, you are consenting to the collection and use of personal information provided by you to Golf Town, for the purposes and on the terms set out in this policy.   
-  
----|---|---
+By using the Golf Town website, you are consenting to the collection and use of personal information provided by you to Golf Town, for the purposes and on the terms set out in this policy. 
+
+**Golf Town Promo SMS Terms and Conditions**  
+Std msg & Data rates may apply. 10msgs/month.  
+**Text STOP to 79012 to stop. Text HELP for help.**  
+To opt-in for Golf Town mobile alerts and be entered to win a $100 Golf Town gift card or $1000 shopping spree, text JOIN to 79012   
+T&C/Privacy policy: [www.golftown.com/PrivacyEN](http://www.golftown.com/PrivacyEN)   
+For support, call (800) 815-2943 Supported Carriers: Aliant Mobility, NorthernTel mobility, Videotron, Bell Mobility, Rogers Wireless, Virgin Mobile Canada, Fido, SaskTel Mobility, WIND Mobile, Mobilicity, Telebec Mobilite, MTS, Eastlink, Public Mobile, and TELUS Mobility.   
+If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services at the prices offered. Pre-paid users may not be able to participate. Check with your mobile operator.
+
+**GOLF TOWN SMS CONTEST: WIN A $100 GIFT CARD!**  
+Beginning in December 1, 2015, Golf Town will award one $100 Golf Town gift card per month, selected from all first-time Golf Town mobile alert subscribers in the prior month. New subscribers must be signed up by 11:59 p.m. on the 23rd day of each month to be eligible. Each monthly drawing will take place on or around the 5th day of the following month Eligibility: **NO PURCHASE REQUIRED TO ENTER FOR A CHANCE TO WIN A PRIZE. A PURCHASE DOES NOT IMPROVE YOUR CHANCE OF WINNING. CONTEST ENTRANTS AND PRIZE RECIPIENTS MUST BE BOTH (A) LEGAL RESIDENTS OF CANADA AND (B) OF THE AGE OF MAJORITY IN HIS/HER PROVINCE/TERRITORY OF RESIDENCE. VOID WHERE PROHIBITED BY LAW. CONTEST SUBJECT TO ALL APPLICABLE PROVINCIAL, FEDERAL AND LOCAL LAWS AND REGULATIONS.** Any litigation respecting the conduct or organization of a publicity contest may be submitted to the RÃƒgie des alcools, des courses et des jeux for a ruling. Any litigation respecting the awarding of a prize may be submitted to the board only for the purpose of helping the parties reach a settlement. Officers, directors and employees of Sponsor, and its respective parent companies, subsidiaries, affiliates, divisions, advertising and promotion, fulfillment, travel partners and/or judging agencies (all such individuals and entities collectively referred to herein as, the Ã¢â‚¬Å“Related EntitiesÃ¢â‚¬Â), and their immediate families are not eligible to enter the Contest or win a prize. By participating in this Contest, each entrant waives, discharges and releases Sponsor and its officers, directors, partners, members and agents from any and all liability associated with this Contest.
+
+**TO ENTER WITHOUT PURCHASE:** Send a letter using proper postage as required to Golfsmith International, Inc. 11000 North IH-35, Austin, Texas 78753, attention Ã¢â‚¬ËœGolf Town Mobile Alert Sweepstakes', containing a 3 x 5 index card with the words Ã¢â‚¬Å“I hereby enter the Golf Town Mobile Alert SweepstakesÃ¢â‚¬Â and your name, full mailing address, email address and phone number legibly written on the 3 x 5 index card. Mailed in entries must be received or postmarked no later than the 23rd of each month. Only entries by first time subscribers will be considered.
+
+**CANADIAN RESIDENTS:** Before a Canadian resident wins any prize, that person must correctly answer, within a five (5) minute time period, a mathematical skill-testing question (without the benefit of any calculating devices) as administered, supervised and warranted by Sponsor or its representatives before prize will be awarded, as per Canadian law. 
+
+**FOR MONTHLY $100 GIFT CARD PRIZE:**  
+Sponsor will randomly select two (2) Potential $100 monthly gift card prize winners from all eligible entries received, a potential winner and an alternate winner if the first potential winner cannot be reached. Potential Winners will be notified by e-mail, phone and/or Mail with an affidavit of eligibility and a liability and (where imposing such condition is legal) a publicity release, and a non-disclosure agreement, which Potential Winners must return to the Sponsor within five (5) business days of notification. To receive a list of winners, send a stamped self-addressed envelope to: Golfsmith International, Inc., Attn: Mobile Alert Sweepstakes Winner's List, 11000 North IH-35, Austin, Texas 78753 within thirty (30) days of the expiration of the Sweepstakes Period, December 25, 2016.
+
+**CAPTION CONTEST**
+
+ **TO ENTER (NO PURCHASE REQUIRED):** To enter the Golf Town TaylorMade contest, tell us your favorite TaylorMade driver you played over the last 16 years and your favorite memory using it by commenting on the contest twitter or Instagram post. To be eligible to win all participants must post a memory starting Tuesday, April 5, 2016 at 8am CST, follow Golf Town, and retweet or tag a friend. All entries must be received by 10pm CST Sunday, April 10, 2016.
+
+**TO ENTER BY MAIL (NO PURCHASE REQUIRED):** Send a letter using proper postage as required to: Golfsmith International, Inc., 11000 North IH-35, Austin, Texas 78753, Attention: Golf Town 2016 TaylorMadeÂ Sweepstakes, containing a 3 x 5 index card with the words: "I hereby enter the Golf Town 2016 TaylorMade Sweepstakes" and your name, address, email address and phone number legibly written on the 3 x 5 index card. Mailed-in entries must be received or postmarked no later than the end of the Sweepstakes Period, April 10, 2016.
+
+**ELIGIBILITY:** NO PURCHASE REQUIRED TO ENTER FOR A CHANCE TO WIN A PRIZE. A PURCHASE DOES NOT IMPROVE YOUR CHANCE OF WINNING. CONTEST ENTRANTS AND PRIZE RECIPIENTS MUST BE BOTH (A) LEGAL RESIDENTS OF CANADA AND (B) OF THE AGE OF MAJORITY IN HIS/HER PROVINCE/TERRITORY OF RESIDENCE. VOID WHERE PROHIBITED BY LAW. CONTEST SUBJECT TO ALL APPLICABLE PROVINCIAL, FEDERAL AND LOCAL LAWS AND REGULATIONS. Any litigation respecting the conduct or organization of a publicity contest may be submitted to the Regie des alcools, des courses et des jeux for a ruling. Any litigation respecting the awarding of a prize may be submitted to the board only for the purpose of helping the parties reach a settlement. Officers, directors and employees of Sponsor, and its respective parent companies, subsidiaries, affiliates, divisions, advertising and promotion, fulfillment, travel partners and/or judging agencies (all such individuals and entities collectively referred to herein as, the Related EntitiesÃ¢, and their immediate families are not eligible to enter the Contest or win a prize. By participating in this Contest, each entrant waives, discharges and releases Sponsor and its officers, directors, partners, members and agents from any and all liability associated with this Contest.
+
+**CANADIAN RESIDENTS:** Before a Canadian resident wins any prize, that person must correctly answer, within a five (5) minute time period, a mathematical skill-testing question (without the benefit of any calculating devices) as administered, supervised and warranted by Sponsor or its representatives before prize will be awarded, as per Canadian law.
+
+**WINNER SELECTION:** Employees of Golfsmith International will judge the contest and submissions will be judged on their creativity and originality. All decisions of the judges are final. Golfsmith International will Sponsor will randomly select three (3) Potential Winners from all eligible entries received and an alternate winner if the first three Potential Winners cannot be reached.
+
+**PRIZES:** Selected winner will receive a limited edition TaylorMade Staff Bag. Prizes cannot be exchanged for cash value.
+
+**WINNER NOTIFICATION:** Potential Winners will be notified by e-mail, phone and/or mail with an affidavit of eligibility and a liability and (where imposing such condition is legal) a publicity release, and a non-disclosure agreement, which Potential Winners must return to the Sponsor within five (5) business days of notification. Inability to contact a winner may result in disqualification and selection of an alternate winner.
+
+**GENERAL CONDITIONS:**
+
+  * Participants hereby grant Golfsmith International a non-exclusive, perpetual, worldwide license to broadcast, publish, store, reproduce, distribute, syndicate, and otherwise use and exhibit the Submission (along with their names, voices, performance and/or likenesses) in all media now known and later come into being for purposes of trade or advertising without further compensation. 
+  * Golfsmith International is under no obligation to use any Submission or return the Submissions to participants.
+  * Winners will be required to execute and return a Certificate of Eligibility, Consent and General Release form within 14 days of notification. Non-compliance within this time period may result in disqualification and selection of an alternate winner.Â  Any income tax liability is the sole responsibility of the winner.
+
+
+
+**USE OF INFORMATION:** All entries become the property of Golfsmith International. Golfsmith International reserves the right to use any and all information related to the contest, including submissions provided by the contestants, for editorial, marketing and any other purpose, unless prohibited by law.
+
+**NOT ENDORSED BY FACEBOOK:** This promotion is in no way sponsored, endorsed or administered by, or associated with Facebook, Twitter, Instagram, Pinterest, or any other social network
+
+**CONDUCT:** All contest participants agree to be bound by these Official Rules.Â Golfsmith International reserves the right to disqualify any person it finds to be tampering with the entry process, the operation of its web site or is otherwise in violation of these rules
+
+**LIMITATIONS OF LIABILITY:** Golfsmith International is not responsible for late, lost or misdirected email or for any computer, online, telephone or technical malfunctions that may occur. If for any reason, the contest is not capable of running as planned, including infection by computer virus, bugs, tampering, unauthorized intervention or technical failures of any sort, Golfsmith International may cancel, terminate, modify or suspend the contest. Entrants further agree to release Golfsmith International from any liability resulting from, or related to participation in the contest.
+
+**WINNERS LIST:** To receive a list of winners, send a stamped self-addressed envelope to: Golfsmith International, Inc., Attn: Golf Town 2016 TaylorMade Masters Giveaway Sweepstakes Winner's List, 11000 North IH-35, Austin, Texas 78753 within thirty (30) days of the expiration of the Sweepstakes Period, May 10, 2016.
