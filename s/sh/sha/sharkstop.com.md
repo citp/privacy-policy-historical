@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharkstop.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930045216id_/http%3A//sharkstop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkstop.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620150948id_/http%3A//sharkstop.com/privacy-policy) for the most accurate reproduction.*
 
 # SharkStop - Privacy Policy
 
