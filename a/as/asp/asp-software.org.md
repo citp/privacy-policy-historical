@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp-software.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217060034id_/http%3A//asp-software.org/www/asp/contact-us/privacy-statement-of-the-association-of-software-professionals) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp-software.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620170654id_/http%3A//asp-software.org/www/asp/contact-us/privacy-statement-of-the-association-of-software-professionals) for the most accurate reproduction.*
 
 # Privacy Statement of the Association of Software Professionals | Association of Software Professionals
 
