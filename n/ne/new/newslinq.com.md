@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newslinq.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220042236id_/http%3A//www.newslinq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newslinq.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620081024id_/http%3A//www.newslinq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsLinQ
-
-[__  Home](http://www.newslinq.com/)  »  Privacy Policy
 
 This privacy policy sets out how NewslinQ uses and protects any information that you give us when you use this website.  
 NewslinQ is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
