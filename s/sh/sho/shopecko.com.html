@@ -1,0 +1,983 @@
+<!--The following is the downloaded HTML source of the shopecko.com privacy policy that was archived on 2016-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620104737id_/http%3A//www.ecko.com/customer-service/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-Z_-GSVE6ECrfc" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQAWVRWGwoCUFZWBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+
+<meta name="msvalidate.01" content="8B073A25AFA160A827FA361CB6496EFE">
+
+ 
+ <!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon" sizes="144x144" href="/store/skin/frontend/ultimo/default/images/apple-touch-icon-144x144.png">
+<!-- For iPhone with high-resolution Retina display: -->
+<link rel="apple-touch-icon" sizes="114x114" href="/store/skin/frontend/ultimo/default/images/apple-touch-icon-114x114.png">
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon" sizes="72x72" href="/store/skin/frontend/ultimo/default/images/apple-touch-icon-72x72.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon" href="/store/skin/frontend/ultimo/default/images/apple-touch-icon.png">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/apple-touch-icon-114x114.png">
+<link rel="icon" type="image/png" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/manifest.json">
+<link rel="mask-icon" href="/store/skin/frontend/branded_responsive/karenkane_v4/images/safari-pinned-tab.svg" color="#ffffff">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Ecko :: Privacy Policy</title>
+<meta name="description" content="">
+
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/global.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/elements.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/header.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/footer.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/catalog.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/product.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/cart.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/checkout.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/account.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/cms.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/infortis/_shared/generic-nav.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/infortis/_shared/generic-cck.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/infortis/_shared/itemgrid.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/infortis/_shared/itemslider.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/infortis/_shared/accordion.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/infortis/_shared/dropdown.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/skin.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base/default/css/aw_zblocks.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/ecko/css/giftvouchers.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base/default/css/lazyloadimages.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base/default/css/finalsale.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base/default/css/privatesale.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/print.css" media="print">
+<script type="text/javascript" src="http://www.ecko.com/store/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/jquery/jquery-migrate-1.1.1.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/jquery/jquery.noConflict.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/lib/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/infortis/jquery/plugins/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/infortis/jquery/plugins/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/infortis/jquery/plugins/tabs.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/infortis/jquery/plugins/jquery.accordion.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/bootstrap/bootstrap-modal.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/bootstrap/bootstrap-transition.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/brandedonline/mini_cart.1.0.0.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/brandedonline/newsletter.1.0.0.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/lib/enquire.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/gsap/TweenLite.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/gsap/easing/EasePack.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/gsap/plugins/CSSPlugin.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/brandedonline/ajax_section_loader.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/aw_all/aw_zblocks.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/jquery/plugins/jquery.cookie.1.3.1.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/pubsubjs/pubsub.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/brandedonline/common.1.0.0.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/brandedonline/ajax_verify_group.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/brandedonline/ajax_block.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/js/lib/lazyload.1.0.min.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/skin/frontend/base16/ecko/js/theme.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/skin/frontend/base/default/js/magestore/giftvoucher.js"></script>
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/android-chrome-192x192.png" rel="icon" type="image/png" sizes="192x192">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/favicon-96x96.png" rel="icon" type="image/png" sizes="96x96">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
+
+<link href="http://www.ecko.com/store/skin/frontend/base16/ecko/manifest.json" rel="manifest">
+
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.ecko.com/store/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/styles-ie7.css" media="all" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.ecko.com/store/skin/frontend/base16/default/css/styles-ie8.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/store';
+Mage.Cookies.domain   = '.www.ecko.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+var SR_ENABLED = false;
+var SITE_URL = 'http://www.ecko.com/store/';
+var SR_ENVIRONMENT_ID = 1;
+var SR_RETAILER_ID = '';
+var SR_SEND_ORDER_CONFIRM = true;
+
+var PR_CHECKOUT_ENABLED = 'false';
+var PR_BUYNOW_PDP_ENABLED = 'false';
+var PR_BUYNOW_CART_ENABLED = 'false';
+</script>
+
+<script type="text/javascript" src="http://www.ecko.com/store/skin/frontend/base/default/js/shoprunner/shoprunner_init.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/skin/frontend/base/default/js/shoprunner/edutl.js"></script>
+<script type="text/javascript" src="http://www.ecko.com/store/skin/frontend/base/default/js/shoprunner/store_sredid.js"></script>
+
+
+<!-- Nosto Meta Tags -->
+<meta name="nosto-version" content="2.6.6">
+<meta name="nosto-unique-id" content="51f3b591a51ffe385bba30c46e9db057a7cd19a96622fd8bbdc91dd738c96e53">
+<meta name="nosto-language" content="en">
+
+<!-- Nosto Tagging Script -->
+<script type="text/javascript"> 
+//<![CDATA[
+(function(){function a(a){var b,c,d=window.document.createElement("iframe");d.src="javascript:false",(d.frameElement||d).style.cssText="width: 0; height: 0; border: 0";var e=window.document.createElement("div");e.style.display="none";var f=window.document.createElement("div");e.appendChild(f),window.document.body.insertBefore(e,window.document.body.firstChild),f.appendChild(d);try{c=d.contentWindow.document}catch(g){b=document.domain,d.src="javascript:var d=document.open();d.domain='"+b+"';void(0);",c=d.contentWindow.document}return c.open()._l=function(){b&&(this.domain=b);var c=this.createElement("scr".concat("ipt"));c.src=a,this.body.appendChild(c)},c.write("<bo".concat('dy onload="document._l();">')),c.close(),d}var b="nostojs";window[b]=window[b]||function(a){(window[b].q=window[b].q||[]).push(a)},window[b].l=new Date;var c=function(d,e){if(!document.body)return setTimeout(function(){c(d,e)},30);e=e||{},window[b].o=e;var f=document.location.protocol,g=["https:"===f?f:"http:","//",e.host||"connect.nosto.com",e.path||"/include/",d].join("");a(g)};window[b].init=c})();
+nostojs.init('magento-13827784', { host: 'connect.nosto.com'});
+//]]>	
+</script>
+
+<!-- Nosto `add-to-cart` Script -->
+<script type="text/javascript">
+    if (typeof Nosto === "undefined") {
+    var Nosto = {};
+    }
+    Nosto.addProductToCart = function (productId) {
+        var form = document.createElement("form");
+        form.setAttribute("method", "post");
+        form.setAttribute("action", "https://www.ecko.com/store/checkout/cart/add/");
+
+        var hiddenFields = {
+            "product": productId,
+            "form_key": "bJ1N2Aa14mbew7TS"
+        };
+
+        for(var key in hiddenFields) {
+            if(hiddenFields.hasOwnProperty(key)) {
+                var hiddenField = document.createElement("input");
+                hiddenField.setAttribute("type", "hidden");
+                hiddenField.setAttribute("name", key);
+                hiddenField.setAttribute("value", hiddenFields[key]);
+                form.appendChild(hiddenField);
+            }
+        }
+
+        document.body.appendChild(form);
+        form.submit();
+    };
+</script>
+
+<!-- Universal Variable Start -->
+<script type="text/javascript">
+  window.universal_variable = window.universal_variable || {};
+  window.universal_variable.version         = "1.1.1";
+  window.universal_variable.page            = {"category":"content"};
+  window.universal_variable.user            = {"returning":false,"language":"en_US"};
+         
+  </script>
+<!-- Universal Variable End -->
+
+
+						<script src="//use.typekit.net/dfo0gdo.js"></script>
+						<script>try{Typekit.load({ async: true });}catch(e){}</script>
+					
+                    	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+                        <meta name="msapplication-TileColor" content="#000000">
+                        <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+                        <meta name="theme-color" content="#ffffff">
+                    
+
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';
+var CCM_CID = 116;
+var CCM_EDIT_MODE = false;
+var CCM_ARRANGE_MODE = false;
+var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/tools/required";
+var CCM_REL = "";
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/concrete/css/ccm.base.css?v=a625e43456fdfe1c8310e26d25d8438f">
+<script type="text/javascript" src="/concrete/js/ccm.base.js?v=a625e43456fdfe1c8310e26d25d8438f"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+if (!window.j$) { var j$ = jQuery; } // using j$ as alias for jQuery
+if (!window.BOL) { var BOL = {}; } // namespace check
+var storeRootUrl = '/store/';
+//]]>
+</script>
+
+       
+<script src="/store/js/lib/mustache.js"></script>
+
+<!-- <script src="/store/js/lib/modernizr.2.6.2.min.js"></script> -->
+
+</head>
+<body class="cms-2_col_left"><div style="display: none;"><div><iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px;"></iframe></div></div>
+
+    	
+    <div class="wrapper" id="privacy-policy">
+                 <noscript><div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>Javascript is disabled in your browser.</strong></p>
+                <p>You must have Javascript enabled in your browser to utilize the functionality of this website, <a href='http://www.enable-javascript.com/' target='_blank'>click here for instructions</a>.</p>
+            </div><!-- /.noscript-inner -->
+        </div></noscript>         <div class="page">		
+            
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+ga('create', 'UA-50899215-1','auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+
+<!-- Nosto Cart Tagging -->
+<div class="nosto_cart" style="display:none">
+    </div>
+
+<div class="responsive-indicator"></div>
+
+<header class="header-container">
+
+            <div class="super-promo"><div style="display:none" class="zblock zblock-zblock_super_promo" data-start-timestamp="1456421280" data-end-timestamp=" 1488043680">Free U.S. Ground Shipping on Orders Over $100</div><script>zblocks.checkBlocks('zblock-zblock_super_promo')</script></div>
+    
+    <div class="mobile-top">
+
+        <a href="/" class="logo">
+            <img class="main-logo" src="http://www.ecko.com/store/skin/frontend/base16/ecko/images/ecko-logo-narrow.jpg" alt="Eckō Unltd">
+        </a>
+
+        <div class="mobile-button-bar">
+            <a class="btn-mobile menu" data-left="280px" data-target="header nav, header .top-search">
+                <i class="icon-nav icon-main ecko-icon-menu"></i>
+                <i class="icon-close-thin icon-close ecko-icon-cross"></i>
+            </a>
+            <div class="mobile-button-bar-right">
+                <a class="btn-mobile bag" data-left="-280px" data-target="#miniCartContainer">
+                    <i class="icon-bag icon-main"></i>
+                    <i id="mobile-quantity" class="icon-quantity"></i>
+                    <i class="icon-close-thin icon-close"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="header desktop">
+        <div class="container">
+            <div class="main">
+
+                <div class="logo">
+                    <a href="/" title="Eckō Unltd"><strong>Eckō Unltd</strong>
+                        <img class="logo-regular" src="http://www.ecko.com/store/skin/frontend/base16/ecko/images/ecko_unltd_logo.svg" alt="Eckō Unltd">
+                        <img class="logo-narrow" src="http://www.ecko.com/store/skin/frontend/base16/ecko/images/ecko_unltd_logo_symbol.svg" alt="Eckō Unltd">
+                    </a>
+                </div><!--/.logo-->
+
+                <nav class="nav">
+                    
+        <ul class="level-0">
+                
+<li class="level nav-1 dropdown first parent">
+<a href="http://www.ecko.com/store/new-arrivals.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>New Arrivals</span>
+</a>
+<ul class="dropdown-menu level"><li class="level1 nav-1-1 dropdown first parent dropdown-submenu">
+<a href="http://www.ecko.com/store/new-arrivals/men-s.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Men's</span>
+</a>
+<ul class="dropdown-menu level1"><li class="level2 nav-1-1-1 first">
+<a href="http://www.ecko.com/store/new-arrivals/men-s/tops.html" class="category_limit">
+<span>Tops</span>
+</a>
+</li><li class="level2 nav-1-1-2 last">
+<a href="http://www.ecko.com/store/new-arrivals/men-s/bottoms.html" class="category_limit">
+<span>Bottoms</span>
+</a>
+</li>
+</ul></li><li class="level1 nav-1-2 dropdown last parent dropdown-submenu">
+<a href="http://www.ecko.com/store/new-arrivals/boys.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Boys</span>
+</a>
+<ul class="dropdown-menu level1"><li class="level2 nav-1-2-3 first">
+<a href="http://www.ecko.com/store/new-arrivals/boys/tops.html" class="category_limit">
+<span>Tops</span>
+</a>
+</li><li class="level2 nav-1-2-4 last">
+<a href="http://www.ecko.com/store/new-arrivals/boys/bottoms.html" class="category_limit">
+<span>Bottoms</span>
+</a>
+</li>
+</ul></li>
+</ul></li><li class="level nav-2 dropdown parent">
+<a href="http://www.ecko.com/store/mens.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Men</span>
+</a>
+<ul class="dropdown-menu level"><li class="level1 nav-2-1 first">
+<a href="http://www.ecko.com/store/mens/new-arrivals.html" class="category_limit">
+<span>New Arrivals </span>
+</a>
+</li><li class="level1 nav-2-2 dropdown parent dropdown-submenu">
+<a href="http://www.ecko.com/store/mens/tops.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Tops</span>
+</a>
+<ul class="dropdown-menu level1"><li class="level2 nav-2-2-1 first">
+<a href="http://www.ecko.com/store/mens/tops/tees.html" class="category_limit">
+<span>Tees</span>
+</a>
+</li><li class="level2 nav-2-2-2">
+<a href="http://www.ecko.com/store/mens/tops/polos.html" class="category_limit">
+<span>Polos</span>
+</a>
+</li><li class="level2 nav-2-2-3">
+<a href="http://www.ecko.com/store/mens/tops/hoodies-sweatshirts.html" class="category_limit">
+<span>Hoodies &amp; Sweatshirts</span>
+</a>
+</li><li class="level2 nav-2-2-4 last">
+<a href="http://www.ecko.com/store/mens/tops/button-downs.html" class="category_limit">
+<span>Button Downs</span>
+</a>
+</li>
+</ul></li><li class="level1 nav-2-3 dropdown last parent dropdown-submenu">
+<a href="http://www.ecko.com/store/mens/bottoms.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Bottoms</span>
+</a>
+<ul class="dropdown-menu level1"><li class="level2 nav-2-3-5 first">
+<a href="http://www.ecko.com/store/mens/bottoms/shorts.html" class="category_limit">
+<span>Shorts</span>
+</a>
+</li><li class="level2 nav-2-3-6 last">
+<a href="http://www.ecko.com/store/mens/bottoms/joggers-sweatpants.html" class="category_limit">
+<span>Joggers &amp; Sweatpants</span>
+</a>
+</li>
+</ul></li>
+</ul></li><li class="level nav-3 dropdown parent">
+<a href="http://www.ecko.com/store/boys.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Boys</span>
+</a>
+<ul class="dropdown-menu level"><li class="level1 nav-3-1 first">
+<a href="http://www.ecko.com/store/boys/new-arrivals.html" class="category_limit">
+<span>New Arrivals </span>
+</a>
+</li><li class="level1 nav-3-2 dropdown parent dropdown-submenu">
+<a href="http://www.ecko.com/store/boys/tops.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Tops</span>
+</a>
+<ul class="dropdown-menu level1"><li class="level2 nav-3-2-1 first">
+<a href="http://www.ecko.com/store/boys/tops/tees.html" class="category_limit">
+<span>Tees</span>
+</a>
+</li><li class="level2 nav-3-2-2 last">
+<a href="http://www.ecko.com/store/boys/tops/hoodies-sweatshirts.html" class="category_limit">
+<span>Hoodies &amp; Sweatshirts</span>
+</a>
+</li>
+</ul></li><li class="level1 nav-3-3 dropdown last parent dropdown-submenu">
+<a href="http://www.ecko.com/store/boys/bottoms.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Bottoms</span>
+</a>
+<ul class="dropdown-menu level1"><li class="level2 nav-3-3-3 first">
+<a href="http://www.ecko.com/store/boys/bottoms/joggers-sweatpants.html" class="category_limit">
+<span>Joggers &amp; Sweatpants</span>
+</a>
+</li><li class="level2 nav-3-3-4 last">
+<a href="http://www.ecko.com/store/boys/bottoms/shorts.html" class="category_limit">
+<span>Shorts</span>
+</a>
+</li>
+</ul></li>
+</ul></li><li class="level nav-4 dropdown last parent">
+<a href="http://www.ecko.com/store/accessories.html" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>Accessories</span>
+</a>
+<ul class="dropdown-menu level"><li class="level1 nav-4-1 first">
+<a href="http://www.ecko.com/store/accessories/beanies-and-caps.html" class="category_limit">
+<span>Beanies and Caps</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="http://www.ecko.com/store/accessories/belts-wallets.html" class="category_limit">
+<span>Belts &amp; Wallets</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="http://www.ecko.com/store/accessories/backpacks-bags.html" class="category_limit">
+<span>Backpacks &amp; Bags</span>
+</a>
+</li><li class="level1 nav-4-4 last">
+<a href="http://www.ecko.com/store/accessories/electronics.html" class="category_limit">
+<span>Electronics</span>
+</a>
+</li>
+</ul></li><li class=" level0 level-top"><a href="http://www.ecko.com/store/accessories/fragrance.html?limit=all" target="_self" class=" level0 level-top"><span>Fragrance</span></a></li><li class="level0 level-top"><a href="http://news.ecko.com/news/" target="_blank" class="level0 level-top"><span>News</span></a></li><li class="nav-last level0 level-top"><a href="http://news.ecko.com/prince-royce/" target="_self" class="nav-last level0 level-top"><span>PRINCE ROYCE</span></a></li>
+        <!--<li class="level0 level-top">
+            <a href="http://news.ecko.com">
+                <span>News</span>
+            </a>
+        </li>
+        <li class="level0 level-top">
+            <a href="http://www.ecko.com/news/ecko-fragrance-72/">
+                <span>Fragrance</span>
+            </a>
+        </li>-->
+            </ul>
+
+                </nav>
+
+
+                <div class="top-aux">
+                    <div class="top-commerce">
+                        <div class="top-search">
+                            <form id="search_mini_form" action="http://www.ecko.com/store/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search" class="ecko-icon-search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text">
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
+            searchForm.initAutocomplete('http://www.ecko.com/store/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+                        </div><!-- /.top-search -->
+
+                        <div class="top-links">
+                            <ul class="links">
+                                <li class="first newsletter" data-target="#newsletter-modal" data-toggle="modal"><a class="ecko-icon-newsletter" href="" title="Newsletter">Newsletter</a></li>
+                                <li class="account"><a class="ecko-icon-account" href="/store/customer/account/" title="Account">My Account</a></li>
+                                <li class="first last wishlist"><a class="ecko-icon-star-empty" href="/store/wishlist/" title="Wishlist">Wishlist</a></li>
+                            </ul>
+                        </div>
+                        
+                    <div id="miniCartContainer" class="placeholder" data-block-id="cart.sidebar" data-mini-cart-id="mini-cart"></div>
+                                    </div>
+
+                                    </div><!-- .top-aux -->
+
+            </div><!-- /.main -->
+        </div><!-- /.container -->
+        <div class="desktop-nav-wrapper"></div>
+    </div><!-- /.header -->
+</header>
+
+            <script src="/themes/base16/js/instafeed.js">"></script>
+            <script src="/themes/base16/js/slick.min.js">"></script>
+
+
+    <div class="main-container col2-left-layout">
+        <div class="main container">
+                                            <div class="breadcrumbs">
+									<ul class="breadcrumb">
+									<li class="first"><a href="http://www.ecko.com">Home</a><span>/</span><!--1:89--></li><li><a href="/customer-service">Customer Service</a></li>									</ul>
+								</div><!-- /.breadcrumbs -->
+
+                          <div class="page-title category-title">
+                        <h1>Privacy Policy</h1>
+                    </div><!-- /.page-title -->
+                        <div class="col-main grid12-9 grid-col2-main in-col2">
+                <div class="std">    
+                    <div class="content">
+                        
+<div id="HTMLBlock57" class="HTMLBlock">
+<div class="customer-service-content">
+    <p>EFFECTIVE TIME: March, 2016.</p>
+
+    <p>Ecko Online Store ("we") operates the web site located at <a href="http://www.ecko.com">http://www.ecko.com</a> (the ”Web Site”). We recognize
+        that you care how information about you is used and shared. We have created this Privacy Policy to inform you of
+        our information collection, use and sharing practices for this Web Site.</p>
+
+    <p><strong>PLEASE READ THIS PRIVACY POLICY CAREFULLY, AND IF YOU HAVE ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT
+        US. BY VISITING THE WEB SITE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS OUTLINED IN
+        THE PRIVACY POLICY.</strong><strong>When do we collect information?</strong></p>
+
+    <p>We may collect information about you anytime you interact with us such as when you (i) access or browse the Web Site, (ii) order products or services through the Web Site, (iii) communicate with us either by e-mail, over the telephone or in any other manner, (iv) elect to participate in any of our product promotions, and (v) request information about products and services.</p>
+
+    <p><strong>What information do we collect?</strong></p>
+
+    <p>Information we collect is generally of two types – personally identifiable information and non-personally
+        identifiable information.</p>
+
+    <p>Personally identifiable information comprises any information that can help us identify or locate an individual,
+        including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card
+        number.</p>
+
+    <p>Non-personally identifiable information comprises information that does not by itself identify an individual.
+        This information generally includes anonymous information about an individual’s use of the Website that
+        includes, among other things, information concerning date and time of visit, the pages of the Website visited,
+        path through the Website, IP address, the type of browser and operating system used.</p>
+
+    <p><strong>What do we use your information for?</strong></p>
+
+    <p>Any of the information we collect from you may be used in one of the following ways:</p>
+
+    <p>• To personalize your experience</p>
+
+    <p>(your information helps us to better respond to your individual needs)</p>
+
+    <p>• To improve the Web Site</p>
+
+    <p>(we continually strive to improve the Web Site offerings based on the information and feedback we receive from
+        you)</p>
+
+    <p>• To improve customer service</p>
+
+    <p>(your information helps us to more effectively respond to your customer service requests and support needs)</p>
+
+    <p>• To process transactions</p>
+
+    <p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other
+        company for any reason whatsoever, without your consent, other than for the express purpose of delivering the
+        purchased product or service requested.</p>
+
+    <p>• To send periodic emails</p>
+
+    <p>The email address you provide for order processing, will only be used to send you information and updates
+        pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include
+        company news, updates, related product or service information, etc.</p>
+
+    <p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe
+        instructions at the bottom of each email.</p>
+
+    <p><strong>How do we protect your information?</strong></p>
+
+    <p>We implement a variety of security measures to maintain the safety of your personal information when you place
+        an order or access your personal information.</p>
+
+    <p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket
+        Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by
+        those authorized with special access rights to such systems, and are required to keep the information
+        confidential.</p>
+
+    <p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not
+        be stored on our servers.</p>
+
+    <p><strong>Do we use cookies?</strong></p>
+
+    <p>Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through
+        your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser
+        and capture and remember certain information</p>
+
+    <p>We use cookies to help us remember and process the items in your shopping cart, understand and save your
+        preferences for future visits and compile aggregate data about site traffic and site interaction so that we can
+        offer better site experiences and tools in the future. We may contract with third-party service providers to
+        assist us in better understanding our site visitors. These service providers are not permitted to use the
+        information collected on our behalf except to help us conduct and improve our business.</p>
+
+    <p>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose
+        to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our
+        services may not function properly. However, you can still place orders by contacting customer service.</p>
+
+    <p><strong>Do we disclose any information to outside parties?</strong></p>
+
+    <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating the Web Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+    <p><strong>Third Party Links</strong></p>
+
+    <p>Occasionally, at our discretion, we may include or offer third party products or services on the Web Site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of the Web Site and welcome any feedback about these sites.</p>
+
+    <p><strong>California Online Privacy Protection Act Compliance</strong></p>
+
+    <p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California
+        Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties
+        without your consent.</p>
+
+    <p>As part of the California Online Privacy Protection Act, all users of the Web Site may make any changes to their
+        information at anytime by logging into their control panel and going to the 'Edit Profile' page.</p>
+
+    <p><strong>Children’s Online Privacy Protection Act Compliance</strong></p>
+
+    <p>We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not
+        collect any information from anyone under 13 years of age. Our website, products and services are all directed
+        to people who are at least 13 years old or older.</p>
+
+    <p>As a parent or guardian you can request us to remove personal information of your child that was submitted
+        without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to
+        remove such information from our database. All such requests should include the same user name, password, and
+        e-mail address that your child submitted and should be sent to <a href="mailto:CustomerService@ecko.com">CustomerService@ecko.com</a>.</p>
+
+    <p><strong>Online Privacy Policy Only</strong></p>
+
+    <p>This online privacy policy applies only to information collected through the Web Site and not to information collected offline.</p>
+
+    <p><strong>Terms and Conditions</strong></p>
+
+    <p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of the Web Site.</p>
+
+    <p><strong>Integrity</strong></p>
+
+    <p>During the account sign-in process you can review, change or remove the information you have submitted.  We aim to keep our information about you as accurate as possible and encourage you to promptly update your information if it changes.  You may, at any time, access your information to update, modify or delete any inaccuracies by accessing your account through the Web Site.  You may also request us to remove your account information from our databases and we will try to remove as much information as possible.  However, as we generally keep information related to past transactions for our records, we will not be able to completely remove your information.</p>
+
+    <p><strong>Changes to our Privacy Policy</strong></p>
+
+    <p>We may change our policy at any time by posting a new version of it on the Web Site.  We encourage you to check the Web Site regularly for information about revisions to this Privacy Policy.  In the event that we change our Privacy Policy, such changes will affect all of the information we collect after any such change.  If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.</p>
+
+    <p><strong>Contacting Us</strong></p>
+
+    <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+
+    <p></p>
+
+    <p>Ecko Online Store</p>
+
+    <p>Attn: Privacy Policy</p>
+
+    <p>946 W. 17th Street</p>
+
+    <p>Costa Mesa, CA 92627</p>
+
+    <p>USA</p>
+
+</div></div>                    </div><!-- /.content -->
+                </div><!-- /.std -->
+            </div><!-- /.col-main -->
+            <div class="col-left sidebar grid12-3 grid-col2-sidebar in-sidebar">
+                	                        <ul id="leftnav" class="block"></ul>						
+						            </div><!-- /.col-left -->
+        </div><!-- /.main -->
+    </div><!-- /.main-container -->
+
+            
+<footer class="site-footer">
+	<div class="newsletter-wrapper">
+		<div class="newsletter">
+			<button type="button" class="button common button-footer" data-target="#newsletter-modal" data-toggle="modal">NEWSLETTER</button>
+		</div>
+	</div>
+	<div class="footer-top-area">
+		<div class="container">
+			<div class="footer-links-wrapper">
+				<nav class="links">
+					<ul class="footer-links nav"><li class="nav-first parent level0 level-top"><span class="nav-first parent level0 level-top"><span>Customer Service2</span></span><ul><li class="nav-first level1"><a href="/store/support" target="_self" class="nav-first level1"><span>Contact Us</span></a></li><li class="level1"><a href="/customer-service/order-status" target="_self" class="level1"><span>Order Status</span></a></li><li class="level1"><a href="/customer-service/shipping-and-returns" target="_self" class="level1"><span>Shipping &amp; Returns</span></a></li><li class="nav-last level1"><a href="/customer-service/payment-options" target="_self" class="nav-last level1"><span>Payment Options</span></a></li></ul></li><li class="parent level0 level-top"><span class="parent level0 level-top"><span>Customer Service3</span></span><ul><li class="nav-first level1"><a href="/customer-service/about-us" target="_self" class="nav-first level1"><span>About Ecko</span></a></li><li class="level1"><a href="/customer-service/size-chart" target="_self" class="level1"><span>Size Chart</span></a></li><li class="nav-last level1"><a href="/store/digital-gift-card.html" target="_self" class="nav-last level1"><span>Gift Cards</span></a></li></ul></li><li class="nav-last parent level0 level-top"><span class="nav-last parent level0 level-top"><span>Customer Service1</span></span><ul><li class="nav-first level1"><a href="/customer-service/terms-and-conditions" target="_self" class="nav-first level1"><span>Terms &amp; Conditions</span></a></li><li class="nav-last level1"><a href="/customer-service/privacy-policy" target="_self" class="nav-last level1"><span>Privacy Policy</span></a></li></ul></li></ul>				</nav>
+				<div class="social">
+					<ul>
+						<li><a href="https://www.facebook.com/eckounltd" target="_blank"><i class="ecko-icon-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/eckounltd" target="_blank"><i class="ecko-icon-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/eckotv" target="_blank"><i class="ecko-icon-youtube"></i></a></li>
+						<li><a href="https://www.instagram.com/ecko_unltd/" target="_blank"><i class="ecko-icon-instagram"></i></a></li>
+                        <li><a href="https://www.pinterest.com/eckounltd/" target="_blank"><i class="ecko-icon-pinterest"></i></a></li>
+
+					</ul>
+				</div><!--/.social-->
+
+			</div>
+		</div>
+	</div>
+	<div class="copyright">
+		<div class="container">
+			<address>© 2016 Ecko Unltd. All Rights Reserved.</address>
+		</div>
+	</div>
+</footer>
+
+
+
+<div id="newsletter-modal" class="newsletter block block-subscribe modal fade fade-in  ajax-enabled" data-thankyou-url="/newsletter-sign-up/thank-you">
+    <div class="newsletter-modal-content">
+        <img class="modal-image" src="/store/skin/frontend/base16/ecko/images/newsletter-modal-image.png">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="ecko-icon-cross"></span> </button>
+        </div>
+        <div class="modal-body custom-form">
+            <h3><span class="modal-header-top">Take</span><span class="modal-header-center">10% off</span><span class="modal-header-bottom">when you join our e-list</span></h3>
+<div class="messages-container"></div>
+<form action="http://app.bronto.com/public/webform/process/" method="post" id="newsletter-validate-detail">
+	<div class="block-content">
+		<div class="newsletter-body">Subscribe and get early access to the latest <br> styles, exclusive offers and more!</div>
+
+		<div class="form-row clearer">
+			<input type="hidden" name="fid" value="chx0c4xsp9yutrnkciuevsm2tekz2">
+			<input type="hidden" name="sid" value="7b4258355e4241666c18fb4abecf8e8e">
+			<input type="hidden" name="delid" value="">
+			<input type="hidden" name="subid" value="">
+			<input type="hidden" name="td" value="">
+			<input type="hidden" name="formtype" value="addcontact">
+
+<input name="74801[18555376]" value="true" type="hidden">
+
+			<input type="email" placeholder="Your email" class="required-field grid12-12 validate-email" name="74792">
+			<input type="text" placeholder="First Name" class="grid12-6 first-name-field" name="74795[146060]">
+			<input type="text" placeholder="Last Name" class="grid12-6 last-name-field" name="74797[146061]">
+			<input type="text" placeholder="D/O/B" class="grid12-4" name="74796[146063]">
+			<input type="text" placeholder="Phone Number" class="grid12-4" name="74800[146615]">
+			<input type="text" placeholder="Zip Code" class="grid12-4" name="74798[146065]">
+			<input type="hidden" id="field_147054" class="hidden field" name="75325[147054]" value="emailnewsletter">
+			<input type="hidden" id="field_147055" class="hidden field" name="75326[147055]" value="ecomm">
+			<input type="hidden" id="field_147056" class="hidden field" name="75327[147056]" value="Ecko.com">
+		</div>
+		<div class="actions">
+			<button class="button subscribe btn btn-primary" type="submit" title="Subscribe">Join Now</button>
+			<button style="display:none" class="loading btn btn-primary button" type="button" title="Subscribing..."><span><span>Subscribing</span></span></button>
+		</div>
+	</div>
+</form>        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+	jQuery(function($) {
+
+		
+				$('.collapsible').each(function(index){
+			$(this).prepend('<span class="opener">&nbsp;</span>');
+			if ($(this).hasClass('active'))
+			{
+				$(this).children('.block-content').css('display', 'block');
+			}
+			else
+			{
+				$(this).children('.block-content').css('display', 'none');
+			}			
+		});
+				$('.collapsible .opener').click(function() {
+			
+			var parent = $(this).parent();
+			if (parent.hasClass('active'))
+			{
+				$(this).siblings('.block-content').stop(true).slideUp(150, "easeOutCubic");
+				parent.removeClass('active');
+			}
+			else
+			{
+				$(this).siblings('.block-content').stop(true).slideDown(150, "easeOutCubic");
+				parent.addClass('active');
+			}
+			
+		});
+		
+		
+				var ddOpenTimeout;
+		var dMenuPosTimeout;
+		/*$(".clickable-dropdown > .dropdown-toggle").click(function() {
+			$(this).parent().addClass('open');
+			$(this).parent().trigger('mouseenter');
+		});*/
+		$(document).on('mouseenter', "header #mini-cart.dropdown", function() {
+			if (!$('body').hasClass('nav-open')) {
+				var DELAY = 150;
+				var ddToggle = $(this).children('.dropdown-toggle');
+				var ddMenu = $(this).children('.dropdown-menu');
+				var ddWrapper = ddMenu.parent(); 				
+								//ddMenu.css("left", "");
+				//ddMenu.css("right", "");
+				
+								if ($(this).hasClass('clickable-dropdown'))
+				{
+										if ($(this).hasClass('open'))
+					{
+						$(this).children('.dropdown-menu').stop(true, true).delay(DELAY).fadeIn(150, "easeOutCubic");
+					}
+				}
+				else
+				{
+										clearTimeout(ddOpenTimeout);
+					ddOpenTimeout = setTimeout(function() {
+						
+						ddWrapper.addClass('open');
+						
+					}, DELAY);
+					
+					//$(this).addClass('open');
+					$(this).children('.dropdown-menu').stop(true, true).delay(DELAY).fadeIn(150, "easeOutCubic");
+				}
+				
+
+			}
+		});
+
+		$(document).on('mouseleave', "header #mini-cart.dropdown", function() {
+			if (!$('body').hasClass('nav-open')) {
+				var ddMenu = $(this).children('.dropdown-menu');
+				clearTimeout(ddOpenTimeout); 				ddMenu.stop(true, true).delay(150).fadeOut(150, "easeInCubic");
+				if (ddMenu.is(":hidden"))
+				{
+					ddMenu.hide();
+				}
+				$(this).removeClass('open');
+			}
+		});
+	});
+
+</script>
+<script type="text/javascript">
+//<![CDATA[
+    var AJAXHOME_URL = 'http://www.ecko.com/store/ajax/block/index/'; 
+    var FULLACTIONNAME = 'partialviews_layout_helper';
+    //]]>
+</script>
+
+
+
+<script type="text/javascript">
+if (document.addEventListener) {
+  document.addEventListener('bronto:popup-submitted', function(e) {
+    new Ajax.Request('http://www.ecko.com/store/btnewsletter/index/submit/', {
+      method: 'post',
+      parameters: { emailAddress: e.detail.email }
+    });
+  }, false);
+}
+</script>
+
+	<!-- ZEN DESK IS DISABLED -->
+
+	<script type="text/javascript">
+		var google_tag_params = {
+		ecomm_prodid: "",		ecomm_pagetype: "other",
+		ecomm_totalvalue: ""
+		};
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 925394011;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" 
+		src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/925394011/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+
+    <!-- Begin Quantcast Tag -->
+    <script>
+     var ezt = ezt ||[];
+
+     (function(){
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-Z_-GSVE6ECrfc";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem,scpt);
+     }());
+
+
+     ezt.push({qacct: "p-Z_-GSVE6ECrfc",
+               orderid: '',
+               revenue: ''
+               });
+    </script>
+    <noscript>
+      <img src="//pixel.quantserve.com/pixel/p-Z_-GSVE6ECrfc.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+    <!-- End Quantcast Tag -->
+
+<script type="text/javascript">
+    //<![CDATA[
+    var scrProtocol  = (document.location.protocol == "https:") ? "https:" : "http:";
+    var scriptString = '%3Cscript src="' + scrProtocol + '//p.bm23.com/bta.js" type="text/javascript"%3E%3C/script%3E';
+    document.write(unescape(scriptString));
+    //]]>
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var bta = new __bta('aa82a437a5889a18bd3c848053ee11b0');
+    //]]>
+</script>
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    // Handle Magento Email Fields
+    Event.observe(window, 'load', function() {
+        
+        $$('input.validate-email').each(function(item) {
+            item.observe('change', function(event) {
+                captureEmail(item.value);
+            });
+        });
+    });
+
+    // Handle Popup Event
+    if (document.addEventListener) {
+        document.addEventListener('bronto:popup-created', function(e) {
+            $$('.popup-dialog input[id*=inputs-email]').each(function(item) {
+                item.observe('change', function(event) {
+                    captureEmail(item.value);
+                });
+            });
+        }, false);
+    }
+
+    // Trigger AJAX call to capture Email Address
+    function captureEmail(emailAddress) {
+        var targetUrl = 'http://www.ecko.com/store/emailcapture/index/capture/';
+        new Ajax.Request(targetUrl, {
+            method: 'post',
+            parameters: {emailAddress: emailAddress}
+        });
+    }
+    //]]>
+</script>
+        </div><!-- /.page -->
+    </div><!-- /.wrapper --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"98a940daf1","applicationID":"924743","transactionName":"NAZTNxZSCBYAAkIKCw1MZBENHA8LBQROTRQLEw==","queueTime":0,"applicationTime":250,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
