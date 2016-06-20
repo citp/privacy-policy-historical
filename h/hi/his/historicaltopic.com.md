@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the historicaltopic.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115081411id_/http%3A//historicaltopic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historicaltopic.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620123134id_/http%3A//historicaltopic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Historical Topic
 
-_Date of last revision: November 4, 2015_
+This policy describes how and why HistoricalTopic.com collects non-personally identifiable data from users and website visitors to HistoricalTopic.com, and how that data will be used. HistoricalTopic.com is committed to respecting the privacy of non-personally identifiable data that is gathered.
 
-This policy describes how and why Adwave Inc. collects non-personally identifiable data from users and website visitors to HistoricalTopic.com, and how that data will be used. Adwave Inc. is committed to respecting the privacy of non-personally identifiable data that is gathered.
-
-Adwave Inc.’s Privacy Policy is incorporated into and subject to HistoricalTopic.com’s Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
+HistoricalTopic.com's Privacy Policy is incorporated into and subject to HistoricalTopic.com’s Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
 
 **Information that is Collected  
 **When you provide us with contact or other information in connection with a particular activity, product or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
@@ -22,16 +20,39 @@ _Non-personal / anonymous data is any data or information that does not personal
 
 We use non-personally identifiable data collected from users and website visitors in order to:
 
-1) Improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.  
-2) Present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.  
-3) Provide you with support and handle inquires.  
-4) Enforce our terms of use.  
-5) Comply with any applicable law and assist law enforcement agencies as required.  
-6) Conduct surveys and market researches.  
-7) We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.  
-8) Provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.  
-9) Provide you with email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [support@HistoricalTopic.com](mailto:support@HistoricalTopic.com).[  
-](mailto:unsubscribe@juicyceleb.com)10) Provide you with email marketing offers, reader surveys and other promotional material.
+  
+
+  1. Improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+  
+
+  2. Present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+  
+
+  3. Provide you with support and handle inquires.
+  
+
+  4. Enforce our terms of use.
+  
+
+  5. Comply with any applicable law and assist law enforcement agencies as required.
+  
+
+  6. Conduct surveys and market researches.
+  
+
+  7. We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
+  
+
+  8. Provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.
+  
+
+  9. Provide you with email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [support@HistoricalTopic.com](mailto:support@HistoricalTopic.com).
+  
+
+  10. Provide you with email marketing offers, reader surveys and other promotional material.
+  
+
+
 
 **Information You Disclose Publicly  
 **The Site may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include personal information. We or others may reproduce, publish, distribute or otherwise use this content in any media or format (currently existing or hereafter developed). Others may have access to this content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including personal information, in connection with your personal content. Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Site. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Site. For the full terms and conditions regarding personal content you submit to the Site, please review our Terms of Use.
@@ -44,7 +65,7 @@ We use non-personally identifiable data collected from users and website visitor
 
 **_Cookies:_** When you use our services, we may send one or more “cookies” (small data files) to your computer to uniquely identify your browser and enable us to help you log in faster and generally enhance your navigation through the services. Cookies save you time, for example, if you personalize a web page, or navigate within the services, a cookie recalls your specific information on subsequent visits. A cookie file can contain information such as a user ID that the website uses to track the pages you’ve visited, but the only personal information a cookie can contain is information you supply yourself. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to use the services. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. In addition to enhancing the user experience, we may use cookies to track traffic user traffic patterns. We do this to determine the usefulness and efficiency of our services and its various pages, and to analyze traffic patterns, in order to constantly improve the services and better serve our customers.
 
-**_Web Beacons/Pixel Tracking:_** Adwave Inc. may employ a common technique usually referred to as “pixel tracking” to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on our website or in e-mail messages, involves the use of pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1 gifs”) that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit our website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report website activity to us.
+**_Web Beacons/Pixel Tracking:_** HistoricalTopic.com may employ a common technique usually referred to as “pixel tracking” to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on our website or in e-mail messages, involves the use of pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1 gifs”) that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit our website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report website activity to us.
 
 **_Log Files:_** Log file information is automatically reported by your browser each time you access a website. When you use the services, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
@@ -64,7 +85,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 **Opt-out  
 **To opt-out from any of our direct promotions, please email [support@HistoricalTopic.com](mailto:support@HistoricalTopic.com).
 
-HistoricalTimes.com uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
+HistoricalTopic.com uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by�[clicking here](http://www.networkadvertising.org/choices/).
 
 **Changes to Policy  
 **From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
