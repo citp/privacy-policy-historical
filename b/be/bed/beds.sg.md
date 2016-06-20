@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beds.sg privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218045658id_/http%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beds.sg privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620195452id_/http%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Shopping | FortyTwo | Furniture & Appliances | FortyTwo
 
@@ -52,8 +52,8 @@ FortyTwo reserves the right to amend this Privacy Policy Statement at its own di
 Should you have any queries regarding this Statement, please contact FortyTwo at:  
 Our Office Address:
 
- **61 Yishun Industrial Park A, #03-02**  
-**Singapore 768767**  
+ **5 Toh Guan Road East, #05-01**  
+**Singapore 608831**  
 E-mail: [cs@fortytwo.sg](mailto:cs@fortytwo.sg)  
 Telephone: 6777 7667  
 
