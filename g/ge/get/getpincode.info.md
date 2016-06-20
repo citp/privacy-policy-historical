@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpincode.info privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214202234id_/http%3A//www.getpincode.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpincode.info privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620152830id_/http%3A//www.getpincode.info/privacy.html) for the most accurate reproduction.*
 
 # GetPincode privacy
 
@@ -10,6 +10,8 @@ It is Getpincode's policy to respect your privacy regarding any information we m
 Like most website operators, Getpincode collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Getpincode's purpose in collecting non-personally identifying information is to better understand how Getpincode's visitors use its website. From time to time, Getpincode may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
 Getpincode also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Getpincode does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
+
+Please note that Getpincode.info assumes that your search queries do not contain personally-identifying information.
 
 **Gathering of Personally-Identifying Information**  
 Certain visitors to Getpincode's websites choose to interact with Getpincode in ways that require Getpincode to gather personally-identifying information. The amount and type of information that Getpincode gathers depends on the nature of the interaction. Those who engage in transactions with Getpincode are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Getpincode collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Getpincode. Getpincode does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
