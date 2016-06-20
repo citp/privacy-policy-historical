@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924015309id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620160119id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
 
 # Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**The Heist Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=theheist)  
+**[**Bonus Reels Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=bonusreels)  
 ** **    |   
 ---|---  
    |   
@@ -32,10 +32,10 @@ This site has security measures to protect against the loss, misuse and alterati
 
 |  |  |    |   
 ---|---  
-**[Golden Nugget Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=goldennugget)**  
+**[Shaolin Path Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=shaolin)**  
 
 
-[](http://games.eurocazino.com/games/play.php?id=0&game=goldennugget)
+[](http://games.eurocazino.com/games/play.php?id=0&game=shaolin)
 
    |   
 ---|---  
