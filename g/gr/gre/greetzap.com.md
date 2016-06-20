@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the greetzap.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208033915id_/http%3A//www.greetzap.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetzap.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620083724id_/http%3A//plus.greetzap.com/privacy-policy) for the most accurate reproduction.*
 
-# GreetZAP
+# Privacy Policy – GreetZAP+
 
-  * [ Cards](http://www.greetzap.com/Voice-Card)
-
-  * [Audio Greetings](http://www.greetzap.com/Voice-Greetings.aspx)
-
-  * [ Gifts & Flowers](http://www.greetzap.com/Flower)
-
-  * [Mobile Greetings](http://www.greetzap.com/MobileGreetings.aspx)
-
-
-
-
-Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [ www.GreetZAP.com](http://www.greetzap.com/)
+Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [ plus.greetzap.com](http://plus.greetzap.com/)
 
 TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
@@ -60,22 +49,22 @@ All information gathered on TIL is securely stored within the TIL controlled dat
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to mobilecs@timesinternet.in to Mr. Sumit Chugh ("Grievance Officer")   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to mobilecs@timesinternet.in to Mrs. Jyoti Kumar ("Grievance Officer")   
 
 
 **Grievance Redressal**
 
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to . 
 
-Mr. Sumit Chugh **(Grievance Officer)**
+Mrs. Jyoti Kumar **(Grievance Officer)**
 
 **Times Internet Limited**
 
-[www.GreetZAP.com](http://www.greetzap.com/)   
+[plus.greetzap.com](http://plus.greetzap.com/)   
 Times Internet Limited  
 Times Centre, FC - 6, First Floor, Sector 16-A,  
 Film City, Noida - 201301, Uttar Pradesh, India  
-Ph: 0120 – 6636959
+Ph: 0120 – 6198110
 
 We request you to please provide the following information in your complaint:-
 
