@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befuck.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911041242id_/http%3A//www.befuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befuck.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620084815id_/http%3A//www.befuck.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
