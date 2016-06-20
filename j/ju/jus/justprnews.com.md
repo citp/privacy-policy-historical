@@ -1,51 +1,34 @@
-> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2012-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120725075358id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620055830id_/http%3A//www.vintagedishrentals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Just PR News
+# Privacy Policy | VintageDishRentals.com
 
-Note: The privacy patterns mentioned in this privacy policy are only for justprnews.com and for no other website. You accept this policy when you sign up for or request information, products, services or anything else offered by us. Please properly check for frequent updates as it is only you who is responsible to be aware of the changes.
-
-**JUST PR NEWS** is the website about submitting press releases and news updates. By bringing your attention towards the privacy policy section, we want to make you aware of all the facts before joining us.
-
-Being one of the best of online visibility, submit press releases and news updates service providers, we are dedicated to uphold or maintain the policies and procedures. Your privacy is our priority and that is why we are committed to the protection of your privacy, so please go through our privacy policy section carefully before submitting any kind of personal information or working with justprnews.com.
-
-**Google Adsense and the DoubleClick DART Cookie:-**
-
-Google is the advertisement vendor (a third party). In order to put up adverts on this site, Google uses cookies. Moreover, Google uses DART cookies, as it allows them to put advertisements to the visitors that are grounded on their visit to this website or the others that are available on the internet.
-
-For choosing DART cookies, you are required to visit the Google advertisement and privacy policy of content network with the mentioned URL <http://www.google.com/privacy_ads.html>. Going ahead, users’ tracking via the DART cookie method is accountable to the privacy policies of Google.
-
-Cookies can also be used by the other third party ad servers or advertisements networks. They do this in order to track the various activities done by the users. JUST PR NEWS has no control on these cookies, as the third party advertisers utilize them.
-
-**What personal information we collect & how we use it:-**
-
-We may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences etc. Your information matters a lot for us at **justprnews.com**. We use your information to ply you with immediate and convenient access to you. Moreover, to provide you with information about products & services as well as new services of interest. **Justprnews.com** undertakes not to reveal your information & save except where we are required it. In short, we use the provided information just to fulfill the particular request and it is not used anywhere else i.e. adding you to one of our mailing lists unless you permit us for the same.
-
-Moreover, we may also use your personal information for sending important notices like communications about our service and modifications in our terms, conditions, and policies from time to time. And as this information is important to your interaction with **JUST PR NEWS** , you are not allowed to omit of receiving these communications.
-
-**Information Distribution**
-
-We at **JUST PR NEWS** may share the provided information with governmental agencies or other companies aiding us in investigation and also in fraud prevention. And it can be done when it is permitted or needed by the law, in case if trying to defend against or prevent actual or potential fraud or unauthorized transactions or investigating fraud that has already taken place. Above all, it is certain that your information is not given to any of these companies for the purpose of marketing.
-
-**Data Security:-**
-
-In terms of data security, the security and privacy policies of **JUST PR NEWS** are reviewed and intensified time and again accordingly. We own appropriate protection measures and we authorize access to personal information only for those employees who need it to fulfill their job responsibilities.
-
-**Third-Party Sites:-**
-
-**justprnews.com** has links to other websites but it doesn’t mean that we are responsible for the privacy practices or the content available there. You are advised to go through the policy statement of those websites to know about their policies. And the visitors who will access to other linked websites may divulge their private information and for that we are not responsible at all.
-
-**Changes to Privacy Statement:-**
-
-There may be changes to our privacy statement that are unanticipated and were not mentioned earlier in privacy notice. But the changes will be posted to the website to notify our valued visitors or clients. You are advised to go through the page that contains privacy content on regular basis so that you can be up-to-date with our latest privacy policies.
-
-**Privacy Contact Information**
-
-Please feel free to contact us on the below mentioned contact details if you have any query or concern about the privacy policy of **justprnews.com.**
-
-Thanks for visiting justprnews.com.
-
-#### Incoming search terms:
-
-  * easyra1n scam (56)
+  1. Home
+  2. [Privacy Policy](http://www.vintagedishrentals.com/privacy-policy "currently  reading")
 
 
+
+**VintageDishRentals.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+
+## Routine Information Collection
+
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+
+## Cookies and Web Beacons
+
+Where necessary, VintageDishRentals.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+
+## Controlling Your Privacy
+
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
+
+## Special Note About Google Advertising
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+## Contact Information
+
+Concerns or questions about this privacy policy can be directed to halfantflippa@gmail.com for further clarification.
+
+This privacy policy was generated by the [Privacy Policy for WordPress](http://cybec.com/privacy-policy-plugin-for-wordpress/) plugin.
