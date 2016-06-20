@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135208id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620203045id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Safexbikes Motorcycle Superstore - Our Privacy Policy
 
@@ -64,19 +64,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 
 
-## Verified Parts
-
-_Get quality parts from trusted sellers only_
-
-## Best prices
-
-_Get maximum discounts offered in the market_
-
-## Fast Delivery
-
-_Get parts within 7-10 business days_
-
-Why shop at Safexbikes.com Motorcycle Superstore?
+### Why shop at Safexbikes.com Motorcycle Superstore?
 
 22 years of Acquiring an Outstanding Reputation for Service and Quality Safexbikes have some superior products for motorcycles in store for you. Everything from Front Mudguards and Front Fairings to Side Panels and Tail Cowls, Indicators, Head Lights, Engine Parts, Gear Parts, Clutch parts, you ask it we have it all. Our products are made from nothing less than the best materials, and our prices are great as well. So if you want the best products, be sure to come to us. We are the first Indian Company to sell Motorcycle parts and accessories online. "BY Harpreet Sethi" 
 
@@ -85,7 +73,3 @@ Why shop at Safexbikes.com Motorcycle Superstore?
 Online buying of Parts and Accessories for your bike helps you make the right choice at right price. We offer all the essential parts for your bike along with the trendy accessories and racing gears. Ours is the Store that offers all of the reliable brands in Motorcycle parts and accessories industry. We provide a the Shopping experiance that is simpler, easier, faster and always Online. At Safexbikes, we understand bikers and bikes needs better, and therefore, we strive to offer you the best of quality and finish. We showcase products from all categories such as Spare Parts, Body Parts, Accessories, Graphics, Modification Parts, Racing Gears, Riding Casuals, Batteries, Helmets and other safety products . 
 
 No matter what style of motorcycle you ride, Safexbikes.com Motorcycle Superstore has the gear you need. Safexbikes.com Motorcycle Superstore offers the largest online selection of motorcycle gear, motorcycle apparel, motorcycle parts and motorcycle accessories. You'll find the guaranteed lowest prices on everything from motorcycle helmets, motorcycle jackets and motorcycle boots to motorcycle tires, motorcycle luggage and motorcycle covers. Offering free shipping options, safe and secure ordering, and no hassle returns, Safexbikes.com Motorcycle Superstore is the web's premier motorcycle outfitter in India. 
-
-Recent Customer Testimonials
-
-by ( ) on 
