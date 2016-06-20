@@ -1,29 +1,18 @@
-> *The following text is extracted and transformed from the ecumenicalnews.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029161603id_/http%3A//www.ecumenicalnews.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecumenicalnews.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620055353id_/http%3A//www.ecumenicalnews.com/aboutus/privacy) for the most accurate reproduction.*
 
-# EcumenicalNews.com - Daily Ecumenical News Online
-
-## **Privacy Policy**
+# Privacy Policy
 
 Last updated on April 15 2015
 
 This page describes the privacy practice of Ecumenical News digital properties, including [www.EcumenicalNews.com](http://www.ecumenicalnews.com/), mobile sites and applications, offered by Ecumenical News and certain of its subsidiaries.
 
-  
+### information that we gather
 
+The information gathered when you use Ecumenical News falls into two categories: (i) Personal Information, which includes personal information you provide when you subscribe, order, complete a survey, register for an account, enter a contest or provide your email address and (ii) non-personal information collected through technology, which includes tracking information collected by Ecumenical News, third parties, vendors or advertisers.
 
-### **INFORMATION THAT WE GATHER**
+### personal information
 
-The information gathered when you use Ecumenical News falls into two categories: (i) Personal Information, which includes personal information you provide when you subscribe, order, complete a survey, register for an account, enter a contest or provide your email address and (ii) non-personal information collected through technology, which includes tracking information collected by Ecumenical News, third parties, vendors or advertisers. 
-
-  
-
-
-### **PERSONAL INFORMATION**
-
-  
-
-
-#### Registration Information
+Registration Information
 
 Registration for Ecumenical News account requires you to provide personal information including e-mail address and demographic information (gender, age, occupation and denomination).
 
@@ -35,7 +24,7 @@ To enable payment via Ecumenical News Website, we collect and store name, addres
 
 #### User Generated Content, Comments, Reviews and Blogs
 
-Ecumenical News offers you opportunities to blog, comment, make recommendations, reviews, rates on our Website, forums, and discussion boards. Any information you disclose in your activities, along with your screen name or ID, or any image or photo, becomes public and may be used by Ecumenical News for online and offline promotional or commercial uses in any and all media. If you choose to engage in these activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personally identifiable information you choose to submit in the course of your activities and we have no responsibility to publish, take down, remove or edit any of your activities or submissions. 
+Ecumenical News offers you opportunities to blog, comment, make recommendations, reviews, rates on our Website, forums, and discussion boards. Any information you disclose in your activities, along with your screen name or ID, or any image or photo, becomes public and may be used by Ecumenical News for online and offline promotional or commercial uses in any and all media. If you choose to engage in these activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. We are not responsible for the personally identifiable information you choose to submit in the course of your activities and we have no responsibility to publish, take down, remove or edit any of your activities or submissions.
 
 If you have registered for Ecumenical News account, we will track and aggregate your activities on the Website. By participating in our Website, you elect to share and display those activities via our Website, and those activities may be included in RSS feeds, APIs and made available to other websites. Therefore, your activities on Ecumenical News may appear in other websites, blogs, social media platforms or feeds. We are not responsible for any personal information you choose to make public, and you agree that such sharing will be deemed to have been done by you, not Ecumenical News.
 
@@ -49,13 +38,7 @@ Ecumenical News collects personal information from you when you participate in s
 
 Ecumenical News may collect personal information from you in connection with voluntary surveys conducted via the Website. The information you provide may be shared with advertisers and partners unless we notify you otherwise at the time of collection.
 
-  
-
-
-### **Non-Personal Information Collected Using Technology**
-
-  
-
+### non-personal information collected using technology
 
 #### Information Collected by Us Using Technology
 
@@ -85,17 +68,14 @@ We do not have access to, nor control over, advertisers' or service providers' u
 
 You have choices about the collection of information by third parties on our website:
 
-  1. 1) If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please visit [http://www.networkadvertising.org/choices/]() .
-  2. 2) If you would like to opt-out of having interest-based information collected during your visits to this or other sites, please visit [http://www.aboutads.info/choices/]() .
+  1. If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please visit <http://www.networkadvertising.org/choices/> .
+  2. If you would like to opt-out of having interest-based information collected during your visits to this or other sites, please visit <http://www.aboutads.info/choices/> . 
 
 
 
 Your access to our websites should not be affected if you do not accept cookies served by third parties.
 
-  
-
-
-### **Here Is How We Use Your Information**
+### here is how we use your information
 
 Customizing Your Experience: We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We also use this information to customize certain features of the Website to provide you with an enhanced experienced based on the type of device you are using to access Ecumenical News. We may use demographic and preference information to allow advertising on the Website to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate or de-identified form.
 
@@ -103,23 +83,17 @@ Statistical Analysis: We perform statistical, demographic and marketing analyses
 
 Email Newsletters: We will periodically send you email newsletters or promotional email about services offered by Ecumenical News and its advertisers.
 
-  
-
-
-### **Here Is With Whom We Share Your Information**
+### here is with whom we share your information
 
 Within Ecumenical News: We may share your information with companies that are affiliated with us.
 
-Third Parties: If you have used Ecumenical News, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We also share information about our audience in aggregate or de-identified form. 
+Third Parties: If you have used Ecumenical News, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We also share information about our audience in aggregate or de-identified form.
 
 Vendors: We contract with other companies to provide services on our behalf, including credit-card and billing processing, ad serving, shipping, email distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These vendors are restricted from using this data in any way other than to provide services for Ecumenical News, and they may not share, resell or use the data for their own direct marketing purposes.
 
 We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena.
 
-  
-
-
-### **EMAIL POLICIES**
+### email policies
 
 Account and Service-Related Email: Ecumenical News reserves the right to send you email relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional emails and notifications about major changes to Ecumenical News website and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.
 
@@ -135,44 +109,32 @@ Emails From You: If you send us emails, you should be aware that information dis
 
 Email This Article Feature: EcumenicalNews.com readers may use this feature to email links to articles. The email addresses that you supply to this service are saved for your convenience for future articles you may wish to email; these addresses are not used for any other purpose, and will not be shared with any third parties.
 
-  
+### how to access, correct or update your information
+
+You may review and update your Ecumenical News account information and access your transaction history at [www.EcumenicalNews.com](http://www.ecumenicalnews.com/). There are a number of things you can do at [www.EcumenicalNews.com](http://www.ecumenicalnews.com/) to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the registration process. If you do not remember your password, you can reset your password here. If you need further assistance, please contact us at [www.ecumenicalnews.com/corporate/contact](http://ecumenicalnews.com/aboutus/contactus/).
+
+### compliance with legal process
+
+We may disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to
+
+  1. comply with the law or with legal process;
+  2. protect and defend our rights and property;
+  3. protect against misuse or unauthorized use of Ecumenical News website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
 
-### **How to Access, Correct or Update Your Information**
 
-You may review and update your Ecumenical News account information and access your transaction history at [www.EcumenicalNews.com](http://www.ecumenicalnews.com/). There are a number of things you can do at [www.EcumenicalNews.com](http://www.ecumenicalnews.com/) to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the registration process. If you do not remember your password, you can reset your password here. If you need further assistance, please contact us at [www.ecumenicalnews.com/corporate/contact](http://www.ecumenicalnews.com/corporate/contact).
-
-  
-
-
-### **Compliance With Legal Process**
-
-We may disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of Ecumenical News website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-  
-
-
-### **COPPA Compliance.**
+### coppa compliance.
 
 Ecumenical News does not knowingly collect or store any personal information about children under the age of 13.
 
-  
-
-
-### **Your California Privacy Rights**
+### your california privacy rights
 
 Under the California "Shine The Light" law, California residents may opt-out of Ecumenical News's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [legal@cmcigroup.com](mailto:legal@cmcigroup.com). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
-  
-
-
-### **International Safe Harbor Privacy Principles**
+### international safe harbor privacy principles
 
 Ecumenical News adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and Switzerland to the United States of America. Accordingly, we follow the Safe Harbor Privacy Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. Ecumenical News has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. This privacy policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice you have regarding our use of and your ability to correct that information. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at <http://www.export.gov/safeharbor/> .
 
-  
-
-
-### **Changes to This Policy**
+### changes to this policy
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect.
