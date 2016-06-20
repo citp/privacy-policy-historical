@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndottech.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114355id_/http%3A//www.ndottech.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndottech.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620034844id_/http%3A//www.ndottech.com/privacy-policy.html) for the most accurate reproduction.*
 
 # NDOT Privacy Policy
 
