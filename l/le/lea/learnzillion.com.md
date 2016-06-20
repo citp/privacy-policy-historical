@@ -1,71 +1,103 @@
-> *The following text is extracted and transformed from the learnzillion.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919084202id_/https%3A//learnzillion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnzillion.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620134955id_/https%3A//learnzillion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnZillion
 
 #### Policies
 
-LearnZillion, Inc. ("LearnZillion") is committed to protecting the privacy of students, parents, and educators, while providing students and schools with a dynamic learning and teaching environment made possible by the Internet. This privacy policy addresses the online privacy practices of LearnZillion.  The privacy policy is divided into two sections—the first addressing information collected from users who are under 13 years of age; the second addressing information collected from all other users. While many of LearnZillion's products and services are intended for students, these products and services also include significant involvement by parents, teachers, and other adults as well. This policy is applicable to all LearnZillion products and services. 
+#### Effective November 5, 2015
 
-### I. PRIVACY NOTICE FOR CHILDREN UNDER 13
+We know you care about how your personal information is used and shared, and we take your privacy (and the privacy of students) seriously. We’ve updated our privacy policy and [terms of use](https://web.archive.org/terms) to be more accurate with our practices and clearer to read. [Let us know](https://web.archive.org/contact) if you have any questions. 
 
-It is LearnZillion's policy to limit the collection of personal information from children to only that which is necessary to obtain parental consent or to participate in LearnZillion’s offerings after we have obtained parental consent. Children under 13 years old are not allowed to subscribe or create an account without a parent, guardian, or teacher's permission and in most cases the adult creates the account for the child. 
+* * *
 
-#### Parental Consent
+LearnZillion, Inc. ("LearnZillion") is committed to protecting the privacy of students, parents, and educators, while providing students and schools with a dynamic learning and teaching environment made possible by the Internet. This privacy policy addresses the online privacy practices of LearnZillion. LearnZillion's products and services are intended for ultimate use by parents, teachers and students, but only school districts, teachers, or parents may sign up for LearnZillion. This policy is applicable to all LearnZillion products and services available online (the “Site”). 
 
-We require a parent or guardian to consent before a child under the age of 13 can become a member of LearnZillion or to use any of LearnZillion products or services. In addition, during the registration process, we collect only enough personal information (i.e., parent's name and email address) necessary to obtain a parent's permission for his/her child to become a member of LearnZillion.  For some LearnZillion's products and services, teachers and school administrators may provide consent on behalf of parents. Parents should consult the school's Acceptable Use Policy for more information about the school's policies and practices for protecting children on the Internet.  If we receive consent from a parent, teacher or school administrator, an authorized LearnZillion administrator will activate the child's membership. 
+### Consent by School Districts, Teachers and Parents
 
-#### What Information Do We Collect From Children?
+LearnZillion is not offered directly to students on any basis, and school districts, teachers, or parents must first sign up for primary accounts, and then invite students to use LearnZillion through student accounts. If LearnZillion learns that a student of any age has created a primary account, that account will be deleted. School districts, teachers and parents consent to LearnZillion collecting and using the student data described in this Privacy Policy by creating or providing enrollment codes for students to create student accounts. This policy applies to students of all ages, including those under the age of 13. 
 
-We may collect the following types of personally identifiable information directly from children: first name; last name; date of birth; email address; LearnZillion email address; password; nickname; IP address; grade level; mailing address; and parent's name and email address. We may also generate a login ID for the child that is different than the child's actual name.  We may also passively collect any personally identifiable information that children choose to post on our online forums as well as cookies from children's computers. 
+### Primary Account Holders Control Data
 
-#### Non-Personally Identifiable Information
+When school districts or teachers create primary accounts and invite students to create student accounts, they are acting on behalf of parents to give LearnZillion permission to collect the information described in this Privacy Policy, and LearnZillion is acting as a service provider to the school district or teacher. For these types of primary account, all requests to review, delete or edit student information must come from the school district or teacher, and parents should make use of the school’s policies with respect to reviewing, deleting or editing such information. When parents are the primary account holders, they may delete or edit student information through the LearnZillion user interface or by contacting LearnZillion at [https://learnzillion.com/contact](https://web.archive.org/contact) . Primary account holders can also review, delete or edit information associated with their account. 
 
-We may collect certain non-personally identifiable information from visitors to our site, such as the date and time of their visit, the type of browser used (e.g., Netscape, Internet Explorer), the type of operating system used (e.g., Windows 2000 or Mac OS), the ISP from which the visitor receives Internet access, and aggregate information regarding what pages users of the site access or visit.  We may also collect non-personally identifiable information from registered members (such as the member's favorite pet or favorite book) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. 
+Note that even follow such deletion requests, we may store secure backups until they are deleted in accordance with our document retention policy. We may also preserve information as part of an investigation into violations the law or our terms of use. 
 
-#### How Do We Use the Information We Collect From Children?
+### How Are Student Accounts Created?
 
-We may use the personally identifiable information that we collect from a child to determine whether he or she is eligible to use our site, to obtain parental, teacher or school administrator consent for children to use the service, to provide an interactive online experience, to send newsletters, and to provide educational content that we believe that the child may be interested in or would benefit from.  We may use non-personally identifiable information such as cookies and Web surfing habits associated with IP addresses to improve the design, content and performance of our site. We also may use this information in the aggregate to analyze site usage and the popularity of our Web pages.  We may also collect non-personally identifiable information from registered members (such as the member's favorite pet or favorite book) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. We do not share such information with third parties, but we may use it for statistical purposes. 
+When the primary account belongs to a school district, student accounts will be populated in coordination with that district. Students will then be provided login information in a manner specific to that district and in accordance with district policy, which may in some cases be through a district-wide “single sign-on” or by communicating an initial login and password to the student. 
 
-#### Will LearnZillion Share My Child's Personal Information with Third Parties?
+When the primary account belongs to a teacher or a parent, students are added using a name, nickname or pseudonym by the teacher or parent. LearnZillion then generates enrollment codes that students can use to register student accounts. 
 
-Yes, but only in limited circumstances. We may disclose personally identifiable and/or non-personally identifiable (i.e., aggregate, anonymous) information obtained from children for educational research purposes. In addition, we may share such information with affiliates, trusted technology partners, and third party vendors who generate educational content, provide customer service or billing services, process parental consents, and/or monitor online forums and chatrooms. These third parties must agree to maintain the confidentiality, security and integrity of personally identifiable information, and the information is not shared with any of these third party technology partners or vendors for their marketing purposes.  We may disclose personally identifiable and non-personally identifiable information in response to legal process--for example, in response to a court order or a subpoena. We also may disclose such information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer personally identifiable information if we are acquired by or merged with another company, or as part of a bankruptcy proceeding. 
+### What Information Does LearnZillion Collect About Students and Teachers?
 
-#### How Can I Review, Change or Delete the Personal Information LearnZillion has Collected From My Child?
+We maintain records for each student account of assignments that have been given (and results that have been submitted) and records of any online assessments taken by the students. 
 
-You can review your child's personal information at any time. You can also have your child's personal information deleted and refuse to permit further collection of such information by us. 
+When the primary account belongs to a teacher or a parent, we collect the student name information provided by the teacher or a parent, and then collect a username and password when the student registers. Student records are linked to teacher or parent records, which may include the teacher’s or parent’s name, email address, grade levels taught, self-reported school and school district information, and geographic information about the district such as its zip code. We also collect information about teacher’s title, subject interests and teaching experience. 
 
-### II. INFORMATION THAT WE COLLECT FROM INDIVIDUALS 13 YEARS OLD AND OVER
+When the primary account belongs to a school district, initial information about students, teachers and schools is provided from the district’s records, and may include unique identifiers that link these records to other records in the district’s database system as well as teachers’ names and titles and the name of the teacher’s school. Districts also may provide information about a student’s grade level, the student’s username, password and email address, a statewide student identifier and information about the school that the student attends. 
 
-Our privacy practices for data that we collect online from individuals 13 years old and over are generally similar to those for information that we collect from users under 13 years old. 
+In every case we also log certain detailed technical information about all users’ interactions with our Site that could be linked with users (including students). This includes the IP addresses that we get when users connect to our Site, information that is sent by web browsers automatically when they connect to our Site (such as the type of web browser, the operating system used and the time zone set on the user’s computer), the timing and frequency of how users interact with different content and different areas of our Site. 
 
-#### What Information Do We Collect From Individuals 13 Years Old and Over?
+### How We Collect Information
 
-We may collect personally identifiable and non-personally identifiable information including, but not limited to: first and last name, date of birth, credit card information, security question and answer, nickname, information related to hobbies and preferences, email address, unique login name and password, home street address and/or telephone number, grade level, school name and address, and school telephone number. We may also generate a unique login ID.  Teachers who register on our site may create and post an online profile, with fields for name, school name, school URL (optional), grade level taught, range of ages of students, languages spoken, total number of students in the class, any additional communication capabilities (optional), school street address, and a brief description of their class(es) for matching purposes. The profile can be viewed by any visitor to the site, though only registered LearnZillion members can attempt to make contact with the teacher who created the profile. It is our policy not to create profiles for any user identified by our system as being under 13 years old or identified as a student.  Non-Personally Identifiable Information: We may use non-personally identifiable information that we collect from users over 13 years old to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage.  We may also collect non-personally identifiable information from registered members (such as the member's music tastes or hobbies) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. We do not share such information with third parties, but we may use it for statistical purposes. 
+We set cookies so that we are able to recognize when someone is connecting to our Site who is currently logged in or who has visited before. A cookie is a data file sent to a browser from a web server and stored on the user’s computer's hard drive that allows us to recognize that browser when the user returns to our Site. To learn more about browser cookies, including how to manage or delete them, look in the Tools, Help or similar section of your browser, or visit [http://www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
-#### How Do We Use Information that We Collect From Individuals Over the Age of 13?
+Additionally, our video player may store local shared objects, also known as Flash cookies, on users’ computers. Local shared objects cannot be managed in the same way as browser cookies. For information on managing Flash cookies, visit [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html.](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
-We may use the personally identifiable information that we collect online from users over the age of 13 to obtain parental, teacher or school administrator consent for children to use the service, to provide an interactive online experience, to send newsletters, and to provide educational content that we believe that the child may be interested in or would benefit from. 
+We (or our email service providers) may place a tiny image, also known as a pixel tag, in the emails we send, to tell us when you have opened the email. Our team uses this information to improve emails we send to you, and best tailor them to the needs of school districts, teachers and students. 
 
-#### Will LearnZillion Share Teens' and Adults' Personal Information with Third Parties?
+Like most online services, when you use the Site, we automatically collect and store details of how you used our service, such as your activity on the Site, and the frequency and duration of your visits. 
 
-Yes, but only in very limited circumstances. We may disclose personally identifiable and/or non-personally identifiable (i.e., aggregate, anonymous) information for educational research purposes. In addition, we may share such information with affiliates, trusted technology partners, and third party vendors who generate educational content, provide customer service or billing functions, process parental consents, and/or monitor online forums/chatrooms. These third parties must agree to maintain the confidentiality, security and integrity of personally identifiable information. 
+By using our Site you agree to our use of these information collection technologies. 
 
-### III. LINKS TO THIRD PARTY WEB SITES
+We do not track our users across third party websites, nor do we use targeted advertising. As a result, we do not currently honor “do not track” signals transmitted by users' web browsers. 
 
-For the benefit of our members, our site links to other sites. We are not responsible for the data collection practices on those other sites. We advise you to carefully review those sites' privacy policies before submitting personal information there. 
+### What Student Information Can Other Users See?
 
-### IV. COOKIES
+When the primary account belongs to a school district, the account administrator designated by the district can access all information we collect about students that we make available through our web-based user interface. District administrators can delegate the right to view student information in accordance with district policy. Each teacher within that school district can see only information relating to students’ participation in classes taught by that teacher (unless granted additional access by the district account administrator). 
 
-Cookies are small data files that a Web site writes to your computer hard drive for record-keeping purposes. Cookies identify you as a unique customer and store your personal preferences, as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).  We may write "cookies" to your computer, primarily to personalize the site and to make it easier to use during each session, for example by keeping track of your preferences, such as what language you use. We may also use cookies to record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, or to customize site content based on visitors' browser type or other information that the visitor sends. If you choose to furnish the site with personally identifiable information, this information can be stored in or linked to other data stored in the cookies.  You may adjust your browser to reject cookies from us or from any other Web site. If you just wish to browse our site without logging in or registering as a member, you can set your browser not to accept cookies. Please consult the "Help" section of your browser for more information. However, there are certain features on our site that can be accessed only in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of those features. 
+Primary account holders who register as teachers or parents can access all information available through our user interface relating to students’ interactions with assignments created by that teacher or parent. They cannot see information that we collect in connection with a student’s interactions with assignments created by another teacher or parent. 
 
-### V. SECURITY PRACTICES
+### What Else Does LearnZillion Do With Personal Information?
 
-We strive to protect the confidentiality, security and integrity of the personal information we collect from children and adults. We have put in place physical, electronic and administrative procedures to safeguard and to help prevent unauthorized access to and maintain the security of personally identifiable information collected through this site. This information is maintained on secure servers and is accessible to authorized personnel only on a "need to know" basis. 
+We will not share personal information we collect in any way not described by this Privacy Policy. Except as noted below, we do not share any personal information with third parties for advertising, marketing or other purposes. There is no third-party advertising on LearnZillion. 
 
-### VI. NOTICE OF CHANGES TO THIS POLICY
+We use all data we collect to improve the design, content and performance of our Site and to analyze site usage and the popularity of our Web pages. 
 
-If we make changes to this Policy, we will post the changes here with a new effective date at the top. Please check back to this page periodically and look at the effective date at the top of this privacy policy to see if it has changed so that you can always know what information we collect, how we use it, and to whom we disclose it.  If we intend to use or disclose members' personal information in a manner materially different from that stated at the time of collection we will notify members via email. Members age 13 and over will have a choice as to whether or not we can use their personal information in this different manner. If members opt out of receiving any communications from LearnZillion, or have deleted/deactivated their account, then we will honor that request within a reasonable time. 
+We may from time to time use parent and teacher email addresses for marketing purposes relating to the Site, e.g., sending emails about new features. 
 
-### VII. FOR MORE INFORMATION
+We use third-party service providers to provide a variety of services, such as assisting us with providing customer support, hosting the Site, providing us with analytics about how people use our Site, assisting us with marketing the Site to school districts and teachers, sending and tracking responses to email, providing a framework for the delivery of assessment questions and helping us identify and track bugs and errors in the Site. All of our service providers have agreed to confidentiality and data security provisions consistent with this Privacy Policy. 
 
-Please let us know if you have any questions or comments regarding our privacy policy. You can [contact us.](https://web.archive.org/contact)
+When a school district is the primary account holder, we share information with third parties at the direction of the school district, and it is the school district’s responsibility to make such requests in a manner that is consistent with their internal policies and the law. We also will provide information: 
+
+  * where required by law or in response to legal process (for example, in response to a court order or a subpoena)
+  * if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or
+  * to investigate and act upon violations of our terms of use.
+
+
+
+Student and teacher information may be included in the sale of LearnZillion’s assets or a merger of LearnZillion with another company. The personal information we have collected will continue to be covered by the then-applicable Privacy Policy. If there are changes to this Privacy Policy in the future, school districts, teachers and parents may agree to those changes or choose to stop using LearnZillion and we will delete their information and the information about their students. We will not agree to include the personal information we collect in a sale to a buyer who does not agree to comply with pre-existing commitments concerning such information. 
+
+### Third Party Web Sites
+
+Our site includes some links to other sites. We are not responsible for the data collection practices on those other sites. We advise you to carefully review those sites' privacy policies before submitting personal information there. 
+
+### Security Practices
+
+We strive to protect the confidentiality, security and integrity of the personal information we collect from children and adults. We have put in place physical, electronic and administrative procedures to safeguard and to help prevent unauthorized access to and maintain the security of personally identifiable information collected through this site. 
+
+Primary accounts and student accounts are protected by passwords. Please keep these passwords secret to prevent unauthorized access to these accounts. If you think someone has gained unauthorized access to an account, please contact us immediately. 
+
+We take reasonable, industry-standard measures to protect the confidentiality, security and integrity of personal information collected on our Site. This includes the use of encryption, firewalls and other security technologies to prevent access to the data from unauthorized parties. All connections between users and our Site are secured via encryption communication technology (SSL/TLS). All passwords are salted and hashed using the practices recommended by NIST (National Institute of Standards and Technology). We use highly rated application hosting providers who agree to perform frequent diagnostics, operating system updates, and network security monitoring. Our engineering team is committed to creating and maintaining systems to protect personal information. 
+
+Only employees who need to access user information in order to perform their job (for example, customer service) are granted access to student information. 
+
+While we have taken all steps to protect the personal information we collect, and we work to keep our systems in line with industry standards, no system is 100% fail proof and secure. If we believe that the security of your personal information have been compromised, we will seek to notify you as soon as possible, and you consent to our use of email as a means of such notification. 
+
+### Notice of Changes to This Policy
+
+If we make changes to this Policy, we will post the changes here with a new effective date at the top. If we intend to use or disclose members' personal information in a manner materially different from that stated at the time of collection we will notify you by email. 
+
+### For More Information
+
+Please let us know if you have any questions or comments regarding our privacy policy. You can contact us at [https://learnzillion.com/contact](https://web.archive.org/contact)
