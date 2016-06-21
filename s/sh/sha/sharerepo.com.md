@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharerepo.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120013028id_/http%3A//sharerepo.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharerepo.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621144446id_/http%3A//sharerepo.com/policy) for the most accurate reproduction.*
 
 # Share your Files on ShareRepo - Easy way to share your files
 
