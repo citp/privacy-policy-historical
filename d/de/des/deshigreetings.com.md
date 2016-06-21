@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106231907id_/http%3A//deshigreetings.com/privacyPolcy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621112515id_/http%3A//www.deshigreetings.com/privacyPolcy.php) for the most accurate reproduction.*
 
 # Deshigreetings.com- Send Gifts to Bangladesh
 
