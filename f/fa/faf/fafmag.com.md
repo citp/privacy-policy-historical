@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fafmag.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211213559id_/http%3A//www.fafmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafmag.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621162456id_/http%3A//www.fafmag.com/privacy-policy) for the most accurate reproduction.*
 
-# FAF Magazine - The Freshest News Site Ever Created
+# Privacy Policy - FAF Magazine
 
 This Privacy Policy governs the manner in which FAFmag collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.fafmag.com website (“Site”). This privacy policy applies to the Site and all products and services offered by FAFmag.
 
