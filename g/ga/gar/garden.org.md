@@ -1,45 +1,42 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707004114id_/http%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621201031id_/http%3A//www.garden.org/about/privacy) for the most accurate reproduction.*
 
-# National Gardening Association :: About NGA
+# Privacy Policy (National Gardening Association)
 
-The nonprofit National Gardening Association (NGA) values the support of our members, donors, customers, and others who visit our Web sites. We know that protecting personal information is important to our supporters. This notice describes our privacy policy. By visiting this Web site, you are accepting the practices described in this policy.
+Your privacy is critically important to us. At Garden.org we have a few fundamental principles: 
 
-## General Browsing Information
+  * We don’t ask you for personal information unless we truly need it.
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-If you visit our site to read or download information, we may collect and store the following general information in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site: Your computer's IP address, browser type, and operating system; the date and time you access our site; the Internet address of the Web site from which you linked directly to our site; and the various pages you visit while on our site.
 
-## Personally Identifiable Information
 
-We may collect nonpublic personal information from you at times, such as when you make a purchase from our Web site. This information may include information necessary to process order, such as your name, postal address, email address, and phone number. National Gardening Association may disclose your nonpublic personal information only as provided herein. We may disclose your nonpublic personal information to outside companies that we contract with to provide services for NGA, where (1) such companies are contractually bound to use any nonpublic personal information only in connection with the services they provide to NGA, or (2) such companies are contractually bound to collect and use any nonpublic personal information only in aggregated, non-personally identifiable form as part of such companies' improvement of their products or to services in accordance with NGA's privacy policy and applicable data protection laws. NGA does not sell, trade or rent your e-mail address. We will occasionally send offers to our customers on behalf of other trusted businesses, but we do not give those businesses your e-mail address or other nonpublic personal information. NGA does not sell or rent your postal address. Occasionally we may exchange the postal addresses of those who input their postal address on our Web site and those who are on our customer list to other reputable nonprofit organizations whose products or services we think you might find interesting. If you provide us any nonpublic personally identifiable information, we may use it within our organization for the purposes of responding to any comments or questions you submit and/or providing follow-up information about our organization. If you do not want us to share your nonpublic personally identifiable information with other organizations or companies, please [write to us](mailto:privacy@garden.org "Write to us!"). We will not provide any of your nonpublic personally identifiable information to other organizations if you elect to keep your record private. NGA may sell or transfer your name and address (email or postal) but only in conjunction with the sale or transfer of ownership of NGA or any wholesale part or division of NGA. If an event of this nature is expected, you will be notified in advance.
+Below is our privacy policy which incorporates these goals:
 
-## Publicly Sharing Your Comments
+It is Garden.org's policy to respect your privacy regarding any information we may collect while operating our website.
 
-NGA often receives information from Web site visitors who have successfully participated in our programs and/or used our resources. We may want to publicly share specific comments and stories we receive by posting this information on our Web site. We will not, however, publicly share ANY information we receive on our Web site without first receiving the consent of the individual who submitted the information. Furthermore, we will not post information in any way that specifically identifies the sender of that information unless the sender approves it.
+### Website Visitors
 
-## Children's Information
+Like most website operators, Garden.org collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Garden.org’s purpose in collecting non-personally identifying information is to better understand how Garden.org’s visitors use its website. From time to time, Garden.org may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We do not sell products or offer services to children. We do develop programs for adults that are intended to instill children with an interest in gardening. We will not collect or disseminate any personally identifiable information about children. If you are under 18, you may use this site only with the involvement of a parent or guardian.
+Garden.org also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Garden.org does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-## Cookies
+### Gathering of Personally-Identifying Information
 
-A cookie is a small file stored on your hard disk drive. Cookies may contain information such as site preferences and login information. NGA does not use this cookie to link to personally identifiable information on our site. We may use cookies to record generic session information and user-specific information on what pages users access or have accessed on our site.
+Certain visitors to Garden.org's website choose to interact with Garden.org in ways that require Garden.org to gather personally-identifying information. The amount and type of information that Garden.org gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a membership to provide a username and optionally their email address. Those who engage in transactions with Garden.org are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Garden.org collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Garden.org. Garden.org does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-## Other Security Measures
+### Protection of Certain Personally-Identifying Information
 
-We provide our visitors with a secure experience when they are making a donation or buying merchandise. Our technical security measures include using industry standard encryption to secure the transfer of data between your browser and our servers. Although we will use all reasonable means to safeguard the privacy of your personal information, transmissions made via the Internet cannot be made absolutely secure.
+Garden.org discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Garden.org's behalf or to provide services available at Garden.org's website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Garden.org's website, you consent to the transfer of such information to them. Garden.org will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Garden.org discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Garden.org believes in good faith that disclosure is reasonably necessary to protect the property or rights of Garden.org, third parties or the public at large. If you are a registered user of an Garden.org username and have supplied your email address, Garden.org may occasionally send you an email to tell you about new features, solicit your feedback, notify you of a private message, or simply to keep you up to date with what's going on with Garden.org and our products. We primarily use our various forums and newsletter to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a Contact Us message or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Garden.org takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-## Ad Servers
+### Cookies
 
-In an effort to bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and click stream information.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Garden.org uses cookies to help Garden.org identify and track visitors, their usage of Garden.org website, and their website access preferences. Garden.org visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Garden.org's website, with the drawback that certain features of Garden.org's website may not function properly without the aid of cookies.
 
-## Changes to this Policy
+### Ads
 
-NGA reserves the right to amend this policy at any time. Our current privacy policy applies to all information we have about you. We encourage you to check our Web site frequently to review the current privacy policy.
+Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Garden.org and does not cover the use of cookies by any advertisers.
 
-## Contact Information
+### Privacy Policy Changes
 
-If you have any questions or comments related to NGA's privacy policy, please [send us an e-mail](mailto:privacy@garden.org "Email NGA"), or contact us through snail mail: 
-
-**National Gardening Association, Inc.**   
-237 Commerce St, Suite 101   
-Williston, VT 05495
+Although most changes are likely to be minor, Garden.org may change its Privacy Policy from time to time, and in Garden.org's sole discretion. Garden.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
