@@ -1,56 +1,18 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011032506id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621062308id_/http%3A//www.lingo24.com/about/privacy-and-terms) for the most accurate reproduction.*
 
-# Translating Service | Lingo24 Privacy Policy
+# Privacy and terms | Lingo24 UK
 
-## Data collected through our contact forms
+### What is this Privacy Policy for?
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Which? Web Trader Code of Practice.
+This privacy policy is for this website www.lingo24.com and served by Lingo24 Limited and governs the privacy of its users who choose to use it.
 
-We collect information about you for two reasons: firstly, to process your order; and secondly, to provide you with the best possible service. We will e-mail you only with details of the status of your order, order confirmation and information about updates to our service (assuming you don't opt out of this last option in the account preferences section of our website).
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-From time to time, we would like to send you information about our services and those of our partners by email. You are free to choose whether you would like to receive such correspondence, and should indicate your preference in the "Account Preferences" section when logged in to the site.
+### The Website
 
-The type of information we will collect about you includes:
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy, including The Data Protection Act 1998.
 
-  * Your name
-  * Address
-  * Phone number
-  * Email address
-  * Credit/debit card details
-
-
-
-Credit/debit card details will be collected but, unlike other details, will not be held on our database.
-
-We will never collect sensitive information about you without your explicit consent.
-
-We will make every effort to keep the information we hold about you accurate and up to date. You can check this information on the control panel once logged into lingo24.com and are free to make changes yourself or may request changes be administered by ourselves by using [this email form](https://web.archive.org/contact_us.html).
-
-## Use of Cookies
-
-Cookies are small text files stored on your computer when you look at a website, allowing it to recognise a returning visitor.  As with many sites, Lingo24 uses cookies to help us serve you better and continually improve our website.  We don’t use data from cookies in a way that you can be individually identified.
-
-Cookies can make browsing a website quicker and easier – for example, by remembering your preferences. Setting up your browser to accept them will help us give you the best user experience.
-
-But if you prefer, popular browsers such as Mozilla Firefox, Google Chrome, Safari, and Microsoft’s Internet Explorer allow you to restrict, block or delete cookies. Here’s a short guide to changing your settings.
-
-### Mozilla Firefox
-
-Choose Options in the Tools drop down menu. Select “Privacy” in the popup menu, and choose your preferred cookie settings.
-
-### Google Chrome
-
-Click the spanner in the top right hand corner, and choose “Settings”. Then select “Under the hood” and choose “Privacy” to adjust your settings.
-
-### Safari
-
-Select “Preferences” from the “Settings” drop down menu. Choose “Security” to adjust your cookie preferences.
-
-### Microsoft Internet Explorer
-
-Click the 'Tools' icon in the top right hand corner and choose 'Internet options'. Then select “Privacy” in the popup window to change your settings.
-
-Here is a list of the cookies we use and why: 
+Here is a list of the cookies we use and why:
 
 **Cookie** | **Name** | **Purpose**  
 ---|---|---  
@@ -66,4 +28,51 @@ Drupal | DRUPAL_UID
 dhtml_menu  
 has_js | These cookies enable all the features offered by our CMS, Drupal.  
   
-Please click here to return to the page you were at last.
+### Use of Cookies
+
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device.
+
+Cookies are small files saved to the user's computer's hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
+
+Users are advised that if they wish to deny the use and saving of cookies from this website onto their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
+
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer's hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [http://www.google.com/privacy.html](http://www.google.com/privacy.html).
+
+### Contact & Communication
+
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998.
+
+Every effort has been made to ensure a safe and secure form for submission purposes, but we advise users using the form that they do so at their own risk.
+
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to.
+
+This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+
+### Email Newsletter
+
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].
+
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+
+### Social Media Platforms
+
+Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+### Shortened Links in Social Media
+
+This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses]. 
+
+Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+v.2.0 October 2015 Edited & customised by: Lingo24 Ltd, Company Registration No. SC222407  
+Registered Office: 18 Torphichen Street, Edinburgh, EH3 8JB, Scotland
