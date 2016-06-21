@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kveller.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132432id_/http%3A//www.kveller.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kveller.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622000617id_/http%3A//www.kveller.com/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Kveller
 
@@ -65,4 +65,6 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 [ ](http://www.kveller.com/author/kveller-staff/)
 
-[Kveller Staff](http://www.kveller.com/author/kveller-staff/)The Kveller staff is made up of the hard-working folks behind your favorite Jewish parenting website, Kveller, of course.
+[Kveller Staff](http://www.kveller.com/author/kveller-staff/)
+
+The Kveller staff is made up of the hard-working folks behind your favorite Jewish parenting website, Kveller, of course.
