@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michaelsbrown.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116060000id_/http%3A//michaelsbrown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelsbrown.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621160520id_/http%3A//michaelsbrown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Starting An Online Business From Scratch With Michael S. Brown
 
-**1\. HOW WE PROTECT YOUR PRIVACY.**   
+**1\. HOW WE PROTECT YOUR PRIVACY.**  
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
 **2\. MINORS.**  
@@ -21,7 +21,7 @@ Some transactions between you and our website may involve payment by credit card
 We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.  
 As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.  
 We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.  
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.   
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.  
 From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
 **6\. USER NAMES AND PASSWORDS.**  
@@ -29,7 +29,7 @@ Your access to parts of our website may be protected by a user name and a passwo
 
 **7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL.**  
 If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.  
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems. 
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
 
 **8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**.  
 You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
@@ -39,20 +39,20 @@ We may use autoresponders to communicate with you by e-mail. To protect your pri
 
 **10\. POLICY CHANGES.**  
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.  
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to michael@michaelsbrown.com and providing us with information relating to your concern.   
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to michael@michaelsbrown.com and providing us with information relating to your concern.  
 You may also mail your concerns to us at the following address:  
 Michael S. Brown LLC.  
-664 Greenbriar Circ.  
-Howard, Ohio 43028  
+P.O. Box 153  
+Fredericktown, OH 43019  
 USA
 
-**11\. CALIFORNIA PRIVACY RIGHTS.** ****  
+**11\. CALIFORNIA PRIVACY RIGHTS.**  
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to michael@michaelsbrown.com or write us at the following address:  
 Michael S. Brown LLC.  
-664 Greenbriar Circ.  
-Howard, Ohio 43028  
+P.O. Box 153  
+Fredericktown, OH 43019  
 USA
 
-This policy was last updated on 11-09-2009.
+This policy was last updated on 02-27-2016.
 
-Copyright © 2008[Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.michaelsbrown.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2016 [Law Office of Michael E. Young PLLC ](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.michaelsbrown.com. All Rights Reserved.  No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
