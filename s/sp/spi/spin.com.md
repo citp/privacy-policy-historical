@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220041117id_/http%3A//www.spinmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621081130id_/http%3A//www.spinmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # SpinMedia - Privacy Policy
 
@@ -69,6 +69,6 @@ The Site and Services may contain links to other websites. If you choose to visi
 
 **CONTACT US**
 
-If you have any questions about this Privacy Policy you can contact us at [**contact@spinmedia.com**](mailto:contact@spinmedia.com). You may also contact us by mail to SpinMedia, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
+If you have any questions about this Privacy Policy you can contact us at [**contact@spinmedia.com**](mailto:contact@spinmedia.com). You may also contact us by mail to SpinMedia, 276 Fifth Ave, 7th Floor, New York, NY 10001.
 
 **LAST UPDATED** : 03/25/2013
