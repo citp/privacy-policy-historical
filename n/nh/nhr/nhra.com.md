@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021060744id_/http%3A//www.nhra.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621183428id_/http%3A//www.nhra.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,7 +88,7 @@ We reserve the right to change this Privacy Policy at any time, and will do so b
 
 **Questions?**
 
-If you have any questions about this Privacy Policy or about how personal information collected on our web sites or through our Mobile Apps is used, you can contact us by e-mail at [policyquestions@nhra.com](mailto:policyquestions@nhra.com), or by regular U.S. mail to:
+If you have any questions about this Privacy Policy or about how personal information collected on our web sites or through our Mobile Apps is used, you can contact us by e-mail at [digital@nhra.com](mailto:digital@nhra.com)[](mailto:digital@nhra.com), or by regular U.S. mail to:
 
 NATIONAL HOT ROD ASSOCIATION  
 2035 Financial Way  
@@ -108,7 +108,7 @@ Children under the age of 13 are not authorized to submit personal information o
 
 We encourage parents to take an active interest in their children's use of the Internet. Parents should be aware that software tools are available online that permit them to screen objectionable content and to prevent children from disclosing their name, address, and other personal information without parental permission. However, the best protection for your child is for you to supervise your child's online activities.
 
-If you have any questions about this Privacy Policy or about how personal information collected on our web sites is used, you can contact us by e-mail at [policyquestions@nhra.com](mailto:policyquestions@nhra.com), or by regular U.S. mail to:
+If you have any questions about this Privacy Policy or about how personal information collected on our web sites is used, you can contact us by e-mail at [digital@nhra.com](mailto:digital@nhra.com), or by regular U.S. mail to:
 
 NATIONAL HOT ROD ASSOCIATION  
 2035 Financial Way  
@@ -136,9 +136,9 @@ We collect personal information from your child when your child registers to bec
 
 **2\. E-Newsletter**
 
-We collect personal information from your child when your child requests to be added to the NHRA E-Newsletter mailing list. Specifically, we collect your child's name and e-mail address. 
+We collect personal information from your child when your child requests to be added to the NHRA E-Newsletter mailing list. Specifically, we collect your child's name and e-mail address.
 
-**4\. NHRA Store**
+ **4\. NHRA Store**
 
 When your child wants to buy a product offered from our online NHRA store, we also collect the personal information necessary for the transaction such as name, mailing address, phone number, e-mail address, and credit card information.
 
