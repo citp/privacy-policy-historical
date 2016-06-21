@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filehungry.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208164332id_/http%3A//www.filehungry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehungry.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621230124id_/http%3A//www.filehungry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - FileHungry Software Downloads
 
