@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibcjapan.co.jp privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221162439id_/http%3A//www.ibcjapan.co.jp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibcjapan.co.jp privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621070254id_/http%3A//ibcjapan.co.jp/privacy-policy) for the most accurate reproduction.*
 
 # IBC Japan Privacy and Policy
 
@@ -39,3 +39,9 @@ Whenever we collect information about you, we restrict access to your nonpublic 
 We also maintain physical, electronic and procedural safeguards to protect the confidentiality and security of the information we collect. We require any third party who receives information about you from us to agree to keep that information confidential and to use the information only as permitted by law.
 
 We appreciate your business and the opportunity to assist you in understanding our Privacy Policy. We hope that you have found this information to be useful and we appreciate the opportunity to continue to serve you in the future. If you have any questions about our privacy policies, please feel free to contact us.
+
+#### Cookies Policy
+
+Last modified: April 12, 2016 
+
+IBC Japan takes your security seriously. In the spirit of transparency, this Cookies Policy provides detailed information about how and when we use cookies. [ Learn More >> ](https://web.archive.org/cookie-policy)
