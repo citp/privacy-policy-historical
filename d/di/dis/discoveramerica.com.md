@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909191439id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621144614id_/http%3A//www.visittheusa.com/usa/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Discover America
+# Privacy Policy | Visit The USA
 
 The Corporation for Travel Promotion d/b/a BrandUSA, Inc.
 
 ## **Privacy Policy and Practices**
 
-This statement outlines the policies and practices of the Corporation for Travel Promotion doing business as BrandUSA regarding the collection and use of your personal information from your visit to our website, DiscoverAmerica.com (the ‘website’). It includes our policies for the Brand USA guests, Site visitors, affiliates, members and non-members. If after reviewing our privacy policy you have any questions or concerns please send an email to: [webadministrator@thebrandusa.com](mailto:webadministrator@thebrandusa.com) or send a letter to the following address. We welcome your recommendations, suggestions and feedback.
+This statement outlines the policies and practices of the Corporation for Travel Promotion doing business as BrandUSA regarding the collection and use of your personal information from your visit to our website, VisitTheUSA.com (the ‘website’). It includes our policies for the Brand USA guests, Site visitors, affiliates, members and non-members. If after reviewing our privacy policy you have any questions or concerns please send an email to: [webadministrator@thebrandusa.com](mailto:webadministrator@thebrandusa.com) or send a letter to the following address. We welcome your recommendations, suggestions and feedback.
 
 Brand USA  
 1725 Eye (I) Street, NW, Suite 800  
@@ -40,7 +40,8 @@ It is our intention to only send you email communications that you want to recei
 Brand USA  
 1725 Eye (I) Street, NW, Suite 800  
 Washington, DC 20006  
-United States of America
+United States of America   
+
 
 Please allow 10 business days for us to process your opt-out and include your email address if you opt-out via postal mail.
 
