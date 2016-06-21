@@ -1,702 +1,461 @@
-<!--The following is the downloaded HTML source of the lightake.com privacy policy that was archived on 2014-01-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140107222226id_/http%3A//help.lightake.com/detail.do/ID.46) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lightake.com privacy policy that was archived on 2016-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621185931id_/http%3A//help.lightake.com/SecurityPrivacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><title>
-	Lightake.com ShoppingCart
-</title><link rel="stylesheet" type="text/css" href="/css/base.css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/xmlHttp.js"></script>
-    <script type="text/javascript" src="/javascript/base.js"></script>
-    <script type="text/javascript" src="/DealJS/Javascript/DealJs.1.0.js"></script>
-
-    <link type="text/css" rel="stylesheet" href="/css/ltbase.css"><link type="text/css" rel="stylesheet" href="/css/LT_conStr.css"><link type="text/css" rel="stylesheet" href="/css/LT_public.css"><link type="text/css" rel="stylesheet" href="/css/LT_single.css"><link type="text/css" rel="stylesheet" href="/css/LT_sprite.css"><link type="text/css" rel="stylesheet" href="/css/LT_style.css"><link href="/css/msdropdown/dd.css" rel="stylesheet" type="text/css"><link href="/css/msdropdown/flags.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/css/common.css"><link rel="stylesheet" type="text/css" href="/css/page_mini.css">
-
-    <script src="/js/jquery/jquery-1.9.0.min.js" type="text/javascript"></script>
-    <script src="/js/msdropdown/jquery.dd.js" type="text/javascript"></script>
-    <script type="text/javascript" src="/javascript/common.js"></script>
-    <script type="text/javascript" src="/javascript/page.js"></script>
-    <script type="text/javascript">
-        function Search() {
-            window.location.href = "http://lightake.com/Product/Search?keyword=" + encodeURI($("#txtSearch").val());
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>SecurityPrivacy- Lightake.com</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="width=1200px,initial-scale=1,maximum-scale=1">
+<meta name="google-translate-customization" content="155fce3540e6a73b-2ee137612fca301c-gec6913203b450778-d">          
+<link type="text/css" rel="stylesheet" href="/css/s.css">
+<link type="text/css" rel="stylesheet" href="/css/help.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.lightake.com/Script/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.lightake.com/Script/common.min.js"></script>
+<script type="text/javascript">
+    var base_image_url = "/images/";
+    var SiteConfigParam = {
+        ShoppingCartDomain: "http://cart.lightake.com/",
+        ShoppingCartUrl: "http://cart.lightake.com/shoppingcart.do"
+    };
+    var loginurl = "http://www.lightake.com/Home/GetLoginInfo1";
+    var logouturl = "http://www.lightake.com/Home/LoginOut";
+    function GetLoginInfoJsonp() {
+        var url = loginurl + "?callback=?";
+        $.ajax({
+            type: "get",
+            url: url,
+            dataType: "jsonp",
+            jsonp: "callback",
+            async: false,
+            success: function (json) {
+                var userName = json[0].CustomerEmail;
+                var loginstr = '';
+                if (userName != '') {
+                    loginstr = '<span style="float:left;"><div id="google_translate_element"></div></span><span class="mr20">' + userName + ', welcome to lightake!</span><i class="u1 u111"></i><a href="' + logouturl + '" class="co008 top_a">Logout</a>';
+                    $("#loginfobox").html(loginstr);
+                }
+            },
+            error: function () {
+            }
+        });
+    }
+    function subscribeEmailhelp(id) {
+        var txt = id == "btnemailsub" ? $("#txtemailsub") : $("#txtNewEmail");
+        var email = $.trim(txt.val());
+        if (email.length == 0) {
+            txt.focus();
+            return;
         }
-    </script>
-    <meta name="DESCRIPTION" content="This is China dropship companies service center,If you have any quesitons about Lightake wholesale dropship direct,read our FAQ here."><meta name="KEYWORDS" content="Lightake Dropshipping Help Centre,Wholesale Drop shipping Direct FAQ,China Dropship Companies">
-        <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-25246136-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-
-    
+        if (!/^[\w-]+(\.[\w-]+)*@[\w-]+(\.(\w)+)*(\.(\w){2,3})$/.test(email)) {
+            alert("Invalid email.");
+            txt.focus();
+            return;
+        }
+        window.location = "http://www.lightake.com/NewsLetters?email=" + email;
+    }
+    $(function () {
+        bindEvents();
+        GetLoginInfoJsonp();
+        try {
+            EventUtil.addHandler(ll.$("top_count"), "mouseover", mouseIn);
+            EventUtil.addHandler(ll.$("top_count"), "mouseout", mouseOut);
+        } catch (e) {
+        }
+        try {
+            bindDocKeyup();
+        } catch (e) {
+        }
+        try {
+            GetShoppingCartStatsInfo();
+        } catch (e) {
+        }
+        var searchUrl = "http://www.lightake.com/Product/Search?page=1&keyword={0}&sort=6&showtype=1";
+        bindSearchEvent(searchUrl);
+        var colsarr = [4, 2, 1, 4,3, 1, 2, 1, 3, 1];
+        $.each($("div[id^=subcateb-]"), function (n) {
+            $(this).css("width", colsarr[n] * 254);
+        });
+        setMenuEvent();
+        if (ll.$("mu_active_box")) {
+            for (i = 0, len = ll.$("mu_active_box").children.length; i < len; i++) {
+                EventUtil.addHandler(ll.$("mu_active_box").children[i], "mouseover", mouseIn);
+                EventUtil.addHandler(ll.$("mu_active_box").children[i], "mouseout", mouseOut);
+            }
+        }
+        if (ll.$("sp_hl_out")) {
+            for (i = 0, len = ll.$("sp_hl_out").children.length; i < len; i++) {
+                EventUtil.addHandler(ll.$("sp_hl_out").children[i], "mouseover", mouseIn);
+                EventUtil.addHandler(ll.$("sp_hl_out").children[i], "mouseout", mouseOut);
+            }
+        }
+        $("#txtemailsub").click(function () {
+            if ($(this).val() == "Your Email") {
+                $(this).val("");
+            }
+        });
+        $("#btnemailsub").click(function () {
+            subscribeEmailhelp("btnemailsub");
+        });
+        $(window).scroll(function () {
+            var stop = $(this).scrollTop();
+            if (stop > 100) {
+                $("#stotopb").fadeIn(1000);
+            } else {
+                $("#stotopb").fadeOut(1000);
+            }
+        });
+    });
+    function bindEvents() {
+    }
+</script>
+<link rel="shortcut icon" href="/favicon.ico">
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="detail.aspx?ID=46&amp;&amp;" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MDgwMzg4OTEPZBYCZg9kFgICAw9kFgJmD2QWAgIDD2QWAmYPZBYKAgEPFgIeC18hSXRlbUNvdW50AgQWCGYPZBYCZg8VAgIxMAhBYm91dCB1c2QCAQ9kFgJmDxUCAjExCkNvbnRhY3QgdXNkAgIPZBYCZg8VAgIyOA1TZXJ2aWNlIFRlbmV0ZAIDD2QWAmYPFQICMjkOTGlnaHRha2UgR29hbHNkAgMPFgIfAAIFFgpmD2QWAmYPFQICMTQNUmV0dXJuIFBvbGljeWQCAQ9kFgJmDxUCAjE1EFByb2R1Y3QgV2FycmFudHlkAgIPZBYCZg8VAgIxNh5Gb3J1bSBwb3N0IGFuZCByZXBseSB0byBwb2xpY3lkAgMPZBYCZg8VAgIxNxZSZXZpZXcgJiBQb2ludHMgUG9saWN5ZAIED2QWAmYPFQICNDYSU2VjdXJpdHkgJiBQcml2YWN5ZAIFDxYCHwACBBYIZg9kFgJmDxUCAjE4D1BheW1lbnQgTWV0aG9kc2QCAQ9kFgJmDxUCAjUwOEkgd2FudCB0byBtYWtlIHdob2xlc2FsZSBvcmRlciwgY2FuIEkgZ2V0IG1vcmUgZGlzY291bnQ/ZAICD2QWAmYPFQICNTE9SSBkb24ndCBoYXZlIGEgcGF5cGFsIGFjY291bnQsIGhvdyBjYW4gSSBvcmRlciBmcm9tIGxpZ2h0YWtlP2QCAw9kFgJmDxUCAjgwJlBheW1lbnQgb3B0aW9uIGZvciBCcmF6aWxpYW4gKFBwRmFjaWwpZAINDxYCHgRUZXh0BRJTZWN1cml0eSAmIFByaXZhY3lkAg8PFgIfAQXmHTxwPjxmb250IGZhY2U9ImFyaWFsLGhlbHZldGljYSxzYW5zLXNlcmlmIj48Zm9udCBjb2xvcj0iIzAwMDAwMCIgc2l6ZT0iMyI+PHN0cm9uZz5TZWN1cml0eTwvc3Ryb25nPjwvZm9udD48L2ZvbnQ+PC9wPjxwPjxmb250IGZhY2U9ImFyaWFsLGhlbHZldGljYSxzYW5zLXNlcmlmIj48Zm9udCBzaXplPSIyIj5MaWdodGFrZS5jb20gdGFrZXMgcHJlY2F1dGlvbnMgdG8gcHJvdGVjdCB5b3VyIFBlcnNvbmFsIGluZm9ybWF0aW9uLiBXaGVuIHlvdSBzdWJtaXQgc2Vuc2l0aXZlIGluZm9ybWF0aW9uIHZpYSB0aGUgd2Vic2l0ZSwgeW91ciBpbmZvcm1hdGlvbiBpcyBwcm90ZWN0ZWQgYm90aCBvbmxpbmUgYW5kIG9mZmxpbmUuPGJyIC8+PGJyIC8+VGhlIHBvbGljeSBvZiBhbGxvd2luZyBhY2Nlc3MgdG8gdGhpcyBQZXJzb25hbCBJbmZvcm1hdGlvbiBpcyBvbmx5IHRvIG91ciBzdGFmZnMgd2l0aCBhIG5lZWQgdG8ga25vdy4gV2UgYWxzbyB1c2UgYXZhaWxhYmxlIHRlY2hub2xvZ3kgYW5kIGVuY3J5cHRpb24sIHdoZW4gbGVnYWxseSByZXF1aXJlZCBvciB3aGVuIGFwcHJvcHJpYXRlIGZvciB5b3VyIHByb3RlY3Rpb24sIHRvIHByb3ZpZGUgYSBtb3JlIHNlY3VyZSBlbnZpcm9ubWVudCBhbmQgdG8gcmVkdWNlIHRoZSBjaGFuY2Ugb2YgdW5hdXRob3JpemVkIGFjY2Vzcy4gUGVyc29uYWwgSW5mb3JtYXRpb24gaXMgc3RvcmVkIGluIGEgc2VjdXJlIGVudmlyb25tZW50IHByb3RlY3RlZCBieSBhIGNvbWJpbmF0aW9uIG9mIHBoeXNpY2FsIGFuZCB0ZWNobmljYWwgbWVhc3VyZXMuIFRhcGUgYmFja3VwcyBhcmUgbm90IHBlcm1pdHRlZCB0byBsZWF2ZSB0aGUgcHJlbWlzZXMgd2l0aG91dCBwcmlvciBhdXRob3JpemF0aW9uLjxiciAvPjxiciAvPkxpZ2h0YWtlLmNvbSBpcyB0aGUgc29sZSBvd25lciBvZiBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gdGhpcyBzaXRlLiBXZSB3aWxsIG5vdCBzZWxsLCBzaGFyZSwgb3IgcmVudCB0aGlzIGluZm9ybWF0aW9uIHRvIGFueSBvdXRzaWRlIHBhcnRpZXMuIDxiciAvPjxiciAvPlRoaXMgaW5mb3JtYXRpb24gbWF5IGJlIGNvbGxlY3RlZCBSZWdpc3RlciBlbWFpbCxQYXNzd29yZCAoTm8gYW55IG90aGVyIGJvZHkgY2FuIGdldCB5b3VyIHBhc3N3b3JkIGluY2x1ZGUgb3VyIHN0YWZmcywgaXQgaXMgZW5jcnlwdGVkISlOaWNrbmFtZSwgSVAgYWRkcmVzcywgdGhlIGRhdGUgYW5kIHRpbWUsIGJyb3dzZXIgYW5kIG9wZXJhdGluZyBzeXN0ZW0sIHRoZSBVUkwgeW91IHJlcXVlc3QsIHlvdXIgUGF5UGFsIGVtYWlsLCB5b3VyIFBheVBhbCBzaGlwcGluZyBhZGRyZXNzO090aGVyIGluZm9ybWF0aW9uIGlmIHlvdSB3YW50IHRvIHNoYXJlIHdpdGggdXMsIGxpa2UgUGhvbmUgbnVtYmVyIGV0Yy4gPGJyIC8+PGJyIC8+V2hlbiB5b3UgYnJvd3NlIG91ciB3ZWJzaXRlLCB3ZSBtYXkgY29sbGVjdCB0aGlzIGluZm9ybWF0aW9uOjxiciAvPklQIGFkZHJlc3MsIGJyb3dzZXIgYW5kIG9wZXJhdGluZyBzeXN0ZW0sIHRoZSBVUkwgeW91IHJlcXVlc3QuIDxiciAvPldoZW4geW91IHJlZ2lzdGVyIGluIG91ciB3ZWJzaXRlLCB3ZSBtYXkgY29sbGVjdCB0aGlzIGluZm9ybWF0aW9uOjxiciAvPlJlZ2lzdGVyIGVtYWlsLCBQYXNzd29yZCwgTmlja25hbWUsIElQIGFkZHJlc3MsIHRoZSBkYXRlIGFuZCB0aW1lLCBicm93c2VyIGFuZCBvcGVyYXRpbmcgc3lzdGVtLCB0aGUgVVJMIHlvdSByZXF1ZXN0LiA8YnIgLz48YnIgLz5XaGVuIHlvdSBvcmRlciBpbiBvdXIgd2Vic2l0ZSwgd2UgbWF5IGNvbGxlY3QgdGhpcyBpbmZvcm1hdGlvbjo8YnIgLz5SZWdpc3RlciBlbWFpbCwgUGFzc3dvcmQsIE5pY2tuYW1lLCBJUCBhZGRyZXNzLCB0aGUgZGF0ZSBhbmQgdGltZSwgYnJvd3NlciBhbmQgb3BlcmF0aW5nIHN5c3RlbSwgdGhlIFVSTCB5b3UgcmVxdWVzdCwgeW91ciBQYXlQYWwgZW1haWwsIHlvdXIgUGF5UGFsIHNoaXBwaW5nIGFkZHJlc3MgPGJyIC8+PGJyIC8+V2hlbiB3ZSBoYXZlIG1vcmUgY29vcGVyYXRpb24gKGxpa2UgZHJvcCBzaGlwcGluZyksIHdlIG1heSBjb2xsZWN0IG1vcmUgaW5mb3JtYXRpb246PGJyIC8+Jm5ic3A7bGlrZSBQaG9uZSBudW1iZXIsIHlvdXIgd2Vic2l0ZSwgTVNOLCB5b3VyIHJldmlld3MgYW5kIHRlc3RpbW9uaWFscyBldGMgPGJyIC8+PGJyIC8+PHN0cm9uZz48Zm9udCBjb2xvcj0iIzAwMDAwMCI+SW5mb3JtYXRpb24gdXNlOjwvZm9udD48L3N0cm9uZz48YnIgLz5XZSBuZWVkIHRoZSBpbmZvcm1hdGlvbiB0byBwcm9jZXNzIHlvdXIgb3JkZXJzIGFuZCBvZmZlciBiZXR0ZXIgc2VydmljZXMgdG8geW91OyB3ZSB3YW50IHRvIG1ha2UgaXQgZWFzaWVyIHRvIHRhaWxvciBvdXIgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIHRvIHlvdXIgcGFydGljdWxhciBuZWVkcy4gV2UgYWxzbyB3YW50IHlvdSB0byBoYXZlIHRoZSBtb3N0IGVuam95YWJsZSBJbnRlcm5ldCBhbmQgc2hvcHBpbmcgZXhwZXJpZW5jZXMgcG9zc2libGUuIFRoaXMgUGVyc29uYWwgSW5mb3JtYXRpb24gYWxzbyBtYXkgYmUgdXNlZCB0byBjb250YWN0IHlvdSBhYm91dCBzYWxlcywgc3BlY2lhbCBvZmZlcnMgYW5kIG5ldyBzaXRlIGZlYXR1cmVzLCB1bmxlc3MgeW91IGhhdmUgZWxlY3RlZCBub3QgdG8gcmVjZWl2ZSBwcm9tb3Rpb25hbCBjb21tdW5pY2F0aW9ucyBpbiBjb25uZWN0aW9uIHdpdGggdGhpcyB3ZWJzaXRlLiBIb3dldmVyLCBpZiB5b3UgZG8gbm90IGxpa2UgcmVjZWl2ZSBwcm9tb3Rpb24gZW1haWxzIGZyb20gdXMsIHdlIHdpbGwgcmVzcGVjdCB5b3Ugd2lzaC4gPGJyIC8+PGJyIC8+PHN0cm9uZz48Zm9udCBjb2xvcj0iIzAwMDAwMCI+TGlua3M8L2ZvbnQ+PC9zdHJvbmc+PGJyIC8+T3VyIHdlYnNpdGUgY29udGFpbnMgbGlua3MgdG8gb3RoZXIgc2l0ZXMgKGxpa2UgdHJhY2tpbmcgd2ViKS4gUGxlYXNlIGJlIGF3YXJlIHRoYXQgTGlnaHRha2UuY29tIGlzIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIHByaXZhY3kgcHJhY3RpY2VzIG9mIHN1Y2ggb3RoZXIgc2l0ZXMuIFdlIGVuY291cmFnZSB1c2VycyB0byBiZSBhd2FyZSB3aGVuIHRoZXkgbGVhdmUgb3VyIHNpdGUgYW5kIHRvIHJlYWQgdGhlIHByaXZhY3kgc3RhdGVtZW50cyBvZiBlYWNoIGFuZCBldmVyeSB3ZWJzaXRlIHRoYXQgY29sbGVjdHMgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24uIFRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQgYXBwbGllcyBvbmx5IHRvIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBieSB0aGlzIHdlYnNpdGUuIDxiciAvPk5vdGlmaWNhdGlvbiBvZiBDaGFuZ2VzPGJyIC8+PGJyIC8+SWYgd2UgZGVjaWRlIHRvIGNoYW5nZSBvdXIgUHJpdmFjeSBQb2xpY3ksIHdlIHdpbGwgcG9zdCB0aG9zZSBjaGFuZ2VzIHRvIHRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQsIHRoZSBob21lcGFnZSwgb3Igb3RoZXIgcGxhY2VzIHdlIGRlZW0gYXBwcm9wcmlhdGUgc28gdGhhdCB5b3UgYXJlIGF3YXJlIG9mIHdoYXQgaW5mb3JtYXRpb24gd2UgY29sbGVjdCwgaG93IHdlIHVzZSBpdCwgYW5kIHVuZGVyIHdoYXQgY2lyY3Vtc3RhbmNlcywgaWYgYW55LCB3ZSBkaXNjbG9zZSBpdC4gQ3VzdG9tZXJzIGFyZSByZXNwb25zaWJsZSBmb3IgcGVyaW9kaWNhbGx5IGNoZWNraW5nIHRoZSBQcml2YWN5IFBvbGljeSBhdmFpbGFibGUgb24gdGhlIFdlYnNpdGUgZm9yIGNoYW5nZXMuIElmIHdlIG1ha2UgbWF0ZXJpYWwgY2hhbmdlcyB0byB0aGlzIHBvbGljeSwgd2Ugd2lsbCBub3RpZnkgeW91IGhlcmUgb3IgYnkgbWVhbnMgb2YgYSBub3RpY2Ugb24gb3VyIGhvbWVwYWdlLiA8YnIgLz48YnIgLz48L2ZvbnQ+PC9mb250PjwvcD5kZA==">
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKN88KlAwK0zJytCgKesa/lBA==">
-        <!--顶部-->
-        <div class="top">
-            <div class="conStr">
-                <div class="strIn">
-                    <ul class="fix">
-                        <li class="r mr20">
-                            <i class="u1 u141"></i>
-                            <a href="javascript:" class="top_a">Wish List </a>
-                        </li>
-                        <li class="r mr20">
-                            <i class="u1 u131"></i>
-                            <a href="javascript:" class="top_a">Order Tracking</a>
-                        </li>
-                        <li class="top_active mr20" id="top_count">
-                            <div class="top__active">
-                                <a href="http://my.Lightake.com/" class="top_a pr5 mr2 tdn">My Account
-                                </a>
-                                <i class="trigon mr5"></i>
-                            </div>
-                            
-                        </li>
-                        <li class="r mr20">
-                            <i class="u1 u121"></i>
-                            <a href="http://help.lightake.com/" class="top_a">help</a>
-                        </li>
-                        <li id="UserStatus">
-
-                            <i class="u1 u111"></i>
-                            <a href="http://lightake.com/login?" class="co008 top_a">Sign in</a>
-                            or
-                    <a href="http://lightake.com/login?" class="co008 top_a">Register</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!--搜索区-->
-        <div class="conStr">
-            <div class="strIn">
-                <div class="fix mt10">
-                    <a href="http://lightake.com" title="Lightake" class="l">
-                        <img src="/images/LT_lofo.jpg">
-                    </a>
-                    <div class="cell sch_area">
-                        <!--购物车-->
-                        <!--向右浮动后，a标签居然数去了点选功能-->
-                        <div class="bdea r pct20 tc">
-                            <div class="m1 bgf8 p5">
-                                <a class="db tdn rel zx2" href="http://cart.lightake.com/Shoppingcart.aspx">
-                                    <i class="u1 u116 mr5"></i>
-                                    <span>cart (</span>
-                                    <strong id="ShippingCartInfo" class="co008">0</strong>
-                                    <span>) items</span>
-                                </a>
-                            </div>
-                        </div>
-                        <!--搜索区域 search 前缀sch-->
-                        <div class="inline_box rel">
-                            <div class="inline_any sch_out rel">
-                                <input id="txtSearch" type="text" class="sch_insert">
-                                <!--搜索 Product 前缀schP-->
-                                
-                                <!--搜索 SKU 前缀schS-->
-                                <!--<div class="schS_out">
-                            <div class="fix schS_in rel">
-                            	<div class="l pct55 bre">
-                                	<a href="javascript:" class="l">
-                                    	<img src="images/product/Product_75_75/img1.jpg" />
-                                    </a>
-                                    <div class="mr20 ml85">
-                                    	<div class="ovh_2line">
-                                        	<a href="javascript">
-                                            	TG Super 8 E1 8 Inch Android 4.2 IPS Multi-Point Capacitive Touch Screen RAM 2GB...
-                                            </a>
-                                        </div>
-                                        <div class="b co008 f14">
-                                        	$336.28
-                                        </div>
-                                        <div class="inline_box">
-                                        	<input type="text" class=" insert_small insert_mini tc" value="1"/>
-                                            <span class="inline_any btn_small btn_orange">
-                                                   Add to Cart
-                                                </span>
-                                        </div>
-                                        
-                                    </div>
-                                    <div class="mr20">
-                                    	<div class="line_dashed mt10 mb10"></div>
-                                        <div class="mt10">
-                                            Dear guest,you can post quick reply regarding to this product. 
-                                        </div>
-                                        <div class="tr mt-16 mb10"]>
-                                            <strong class="co008 b">Login</strong>
-                                            |
-                                            <strong class="co0082 b">Regester</strong>
-                                        </div>
-                                        <div class=" lh24 bgf8 pl10">
-                                        	How aout it ?
-                                        </div>
-                                        <textarea class="txtarea pct100" rows="6">
-                                        	asd
-                                        </textarea>
-                                        <div class="mt10 tr">
-                                        	<span class="inline_any btn_small btn_orange">
-                                            	Submit
-                                            </span>
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                                <div class="cell g6 pendant">
-                                    <strong class="co0082 ml20 mb5">Related Items</strong>
-                                    <div class="fix pendant_box2">
-                                        	<a href="javascript:" class="l">
-                                                <img src="images/product/Product_32_32/img1.jpg" />
-                                            </a>
-                                            <div class="ml40">
-                                                <div class="ell mb2 w140">
-                                                    asdasdasdasdasdasdasdasdasd
-                                                </div>
-                                                <span class="mr10 co008">$47.24</span>
-                                            </div>
-                                        </div>
-                                    <div class="fix pendant_box2">
-                                        	<a href="javascript:" class="l">
-                                                <img src="images/product/Product_32_32/img1.jpg" />
-                                            </a>
-                                            <div class="ml40">
-                                                <div class="ell mb2 w140">
-                                                    asdasdasdasdasdasdasdasdasd
-                                                </div>
-                                                <span class="mr10 co008">$47.24</span>
-                                            </div>
-                                        </div>
-                                    <div class="fix pendant_box2">
-                                        	<a href="javascript:" class="l">
-                                                <img src="images/product/Product_32_32/img1.jpg" />
-                                            </a>
-                                            <div class="ml40">
-                                                <div class="ell mb2 w140">
-                                                    asdasdasdasdasdasdasdasdasd
-                                                </div>
-                                                <span class="mr10 co008">$47.24</span>
-                                            </div>
-                                        </div>
-                                    <div class="fix pendant_box2 hover">
-                                        	<a href="javascript:" class="l">
-                                                <img src="images/product/Product_32_32/img1.jpg" />
-                                            </a>
-                                            <div class="ml40">
-                                                <div class="ell mb2 w140">
-                                                    asdasdasdasdasdasdasdasdasd
-                                                </div>
-                                                <span class="mr10 co008">$47.24</span>
-                                            </div>
-                                        </div>
-                                    <div class="fix pendant_box2">
-                                        	<a href="javascript:" class="l">
-                                                <img src="images/product/Product_32_32/img1.jpg" />
-                                            </a>
-                                            <div class="ml40">
-                                                <div class="ell mb2 w140">
-                                                    asdasdasdasdasdasdasdasdasd
-                                                </div>
-                                                <span class="mr10 co008">$47.24</span>
-                                            </div>
-                                        </div>
-                                </div>
-                                <a href="javascript:" class="abs_r_b co0082 mr15 mb10">
-                                                    More
-                                            </a>
-                            </div>
-                        </div>-->
-                            </div>
-                            <input type="button" class="inline_any sec_btn b" onclick="Search()" value="Search">
-
-                        </div>
-
-                        <div class="mt5">
-                            <a href="http://lightake.com/Product/Search?keyword=iPhone 5C" target="_blank" class="g9 mr10">iPhone 5C 
-                            </a>
-                            <a href="http://lightake.com/Product/Search?keyword=3x3 magic" class="g9 mr10">3x3 magic 
-                            </a>
-                            <a href="http://lightake.com/Product/Search?keyword=GalaxyS4" class="g9 mr10">GalaxyS4
-                            </a>
-                            <a href="http://lightake.com/Product/Search?keyword=AndroidPhone" class="g9 mr10">AndroidPhone  
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--导航菜单区-->
-        <div class="nav_out mt15">
-            <div class="conStr">
-                <div class="strIn">
-                    <div class="fix ">
-                        <!--菜单栏，menu，采用前缀 mu-->
-                        <div class="mu_out l rel">
-                            <a class="mu_active tdn" href="javascript:" style="">
-                                <span class="mu_trigon_control r">
-                                    <i class="trigon"></i>
-                                </span>
-                                <span href="http://lightake.com" class="tdn gf lh37">See All Categories
-                                </span>
-
-                            </a>
-                            
-                        </div>
-                        <!--导航nav 前缀nav-->
-                        <div class="nav">
-                            <ul class="inline_box">
-                                <li class="inline_any">
-                                    <a class="nav_on" href="http://lightake.com/">Home
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://lightake.com/cheap">$5 Gadgets  
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://lightake.com/top-sellers">Top Sellers
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://lightake.com/new-arrivals">New Arrivals
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://lightake.com/promotion">Promotion         
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://discussion.lightake.com/">Discussion         
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://share.lightake.com/">Share         
-                                    </a>
-                                </li>
-                                <li class="inline_any">
-                                    <span class="nav_tip"></span>
-                                </li>
-                                <li class="inline_any">
-                                    <a class="nav_off" href="http://forum.lightake.com/">Forum                  
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="conStr">
-            <div class="mt10">
-                <a class="u1 u1132" href="http://lightake.com"></a>
-                <a class="vm" href="http://lightake.com">Home
-            </a>
-                &gt;
-           
-                <a class="vm" href="http://help.lightake.com">Help
-            </a>
-            </div>
-            
-    <div class="main_body">      
-	    
+<div class="top">
+<div class="conStr">
+<div class="strIn">
+<ul class="fix">
+<li class="r mr20">
+<i class="u1 u141"></i>
+<a href="http://account.lightake.com/Customer1/WishList" class="top_a">Wish List </a>
+</li>
+<li class="r mr20">
+<i class="u1 u131"></i>
+<a href="http://www.lightake.com/tracking.html" class="top_a">Order Tracking</a>
+</li>
+<li id="top_count" class="top_active mr20">
+<div class="top__active">
+<a class="top_a pr5 mr2 tdn" href="http://account.lightake.com">My Account </a>
+<i class="trigon mr5"></i>
+</div>
+</li>
+<li class="r mr20">
+<i class="u1 u121"></i>
+<a href="http://help.lightake.com" class="top_a">Help</a>
+</li>
+<li id="loginfobox">
+<div class="dib vm">
+<div id="google_translate_element"></div>        
+</div>
+<i class="u1 u111"></i>
+<a href="http://www.lightake.com/login" class="co008 top_a">Sign in</a>
+or
+<a href="http://www.lightake.com/login" class="co008 top_a">Register</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="conStr">
+<div class="strIn">
+<div class="fix mt10">
+<a href="http://www.lightake.com/" title="Lightake" class="l">
+<img src="/images/LT_logo.jpg" alt="Lightake">
+</a>
+<div class="cell sch_area">
+<div class="bdea r pct20 tc">
+<div class="m1 bgf8 p5">
+<a class="db tdn rel zx2" href="http://cart.lightake.com/shoppingcart.do">
+<i class="u1 u116 mr5"></i>
+<span>Cart (</span>
+<strong class="co008" id="cartstatsb">loading</strong>
+<span>) Items</span>
+</a>
+</div>
+</div>
+<div class="inline_box rel">
+<div class="inline_any sch_out rel">
+<input type="text" class="sch_insert" id="txtkeyword" name="txtkeyword" maxlength="200" value="1964200" onfocus="SearchFocus('1964200',this);" onblur="SearchBlur('1964200',this);">
+<div class="schS_out" id="searchskub">
+asfda
+</div>
+</div>
+<input type="button" class="inline_any sec_btn b" value="Search" id="btnsearch">                    
+</div>
+<div class="mt5">                   
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav_out mt15"><div class="conStr"><div class="strIn"><div class="fix"><div class="mu_out l rel" id="catelstmenu"><a class="mu_active tdn" href="javascript:"><span class="mu_trigon_control r"><i class="trigon"></i></span><span class="tdn gf lh37">See All Categories</span></a><dl class="mu_warp abs bgf8" id="catemenubox" style="display:none"><dd class="rel"></dd><dd class="mu_active_box"><dl class="rel pct100" id="mu_active_box"><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Puzzles-Magic-Cube_001"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u001"></i><span class="vm dib ml10 cpi">Puzzles &amp; Magic Cube</span></a><div class="mu_Warp_" id="subcateb-0"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Magic-Cube-Brands-A-L_001001" class="mu_tt">Magic Cube Brands (A-L)</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cyclone-Boys_001001004">Cyclone Boys</a><a class="mu_link" href="http://www.lightake.com/c/CubeTwist_001001003">CubeTwist</a><a class="mu_link" href="http://www.lightake.com/c/DaYan-MF8_001001006">DaYan + MF8</a><a class="mu_link" href="http://www.lightake.com/c/DaYan_001001005">DaYan</a><a class="mu_link" href="http://www.lightake.com/c/LanLan-LL_001001015">LanLan/LL</a><a class="mu_link" href="http://www.lightake.com/c/DianSheng-DS_001001007">DianSheng/DS</a><a class="mu_link" href="http://www.lightake.com/c/FangShi-FS_001001009">FangShi/FS</a><a class="mu_link" href="http://www.lightake.com/c/GansPuzzle_001001010">GansPuzzle</a><a class="mu_link" href="http://www.lightake.com/c/Ayi_001001001">Ayi</a><a class="mu_link" href="http://www.lightake.com/c/CYH_001001017">CYH</a><a class="mu_link" href="http://www.lightake.com/c/GhostHand-GS_001001">more</a></dd><dd><h3><a href="http://www.lightake.com/c/Magic-Cube-Brands-M-Z_001002" class="mu_tt">Magic Cube Brands (M-Z)</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/YJ-MoYu_001002009">YJ (MoYu)</a><a class="mu_link" href="http://www.lightake.com/c/MF8_001002011">MF8</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/QuickFinger_001002001">QuickFinger</a><a class="mu_link" href="http://www.lightake.com/c/MHZ-Cube4You_001002002">(MHZ) Cube4You</a><a class="mu_link" href="http://www.lightake.com/c/QJ_001002003">QJ</a><a class="mu_link" href="http://www.lightake.com/c/ShengEn-SE_001002004">ShengEn/SE</a><a class="mu_link" href="http://www.lightake.com/c/ShengShou_001002012">ShengShou</a><a class="mu_link" href="http://www.lightake.com/c/SpeedStacks_001002013">SpeedStacks</a><a class="mu_link" href="http://www.lightake.com/c/WitEden_001002005">WitEden</a><a class="mu_link" href="http://www.lightake.com/c/XWH-Maru_001002008">XWH (Maru)</a><a class="mu_link" href="http://www.lightake.com/c/XM_001002">more</a></dd><dd><h3><a href="http://www.lightake.com/c/Search-by-Types_001003" class="mu_tt">Search by Types</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/1x3x3_001003001">1x3x3</a><a class="mu_link" href="http://www.lightake.com/c/2x2_001003002">2x2</a><a class="mu_link" href="http://www.lightake.com/c/2x3_001003003">2x3</a><a class="mu_link" href="http://www.lightake.com/c/3x3_001003017">3x3</a><a class="mu_link" href="http://www.lightake.com/c/3x4x5_001003018">3x4x5</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/4x4x4_001003004">4x4x4</a><a class="mu_link" href="http://www.lightake.com/c/5x5x5_001003021">5x5x5</a><a class="mu_link" href="http://www.lightake.com/c/Irregular-Puzzles_001003011">Irregular Puzzles</a><a class="mu_link" href="http://www.lightake.com/c/Square-1_001003005">Square-1</a><a class="mu_link" href="http://www.lightake.com/c/DIY-Puzzles_001003022">DIY Puzzles</a><a class="mu_link" href="http://www.lightake.com/c/Megaminx_001003">more</a></dd><dd><h3><a href="http://www.lightake.com/c/Magic-Cube-Accessories_001006" class="mu_tt">Magic Cube Accessories</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cube-Bags_001006001">Cube Bags</a><a class="mu_link" href="http://www.lightake.com/c/Timers_001006002">Timers</a><a class="mu_link" href="http://www.lightake.com/c/Cube-Boxes_001006011">Cube Boxes</a><a class="mu_link" href="http://www.lightake.com/c/Cube-Components_001006003">Cube Components</a><a class="mu_link" href="http://www.lightake.com/c/Cube-Mats_001006009">Cube Mats</a><a class="mu_link" href="http://www.lightake.com/c/Cube-Lubes_001006006">Cube Lubes</a><a class="mu_link" href="http://www.lightake.com/c/Cube-Stands_001006004">Cube Stands</a><a class="mu_link" href="http://www.lightake.com/c/Cube-Stickers_001006005">Cube Stickers</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Tools_001006010">Tools</a><a class="mu_link" href="http://www.lightake.com/c/Others_001006007">Others</a></dd><dd><h3><a href="http://www.lightake.com/c/Yo-yo_001011" class="mu_tt">Yo-yo</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Magic-Tricks_001007" class="mu_tt">Magic Tricks</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Neocubes-Magnetic-Balls_001005" class="mu_tt">Neocubes/Magnetic Balls</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Rubik-s-Cube-T-Shirts_001008" class="mu_tt">Rubik's Cube T-Shirts</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Special-Package-Set_001012" class="mu_tt">Special Package Set</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Rubik-s-Cube-Related-Products_001010" class="mu_tt">Rubik's Cube Related Products</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Wooden-Puzzles_001009" class="mu_tt">Wooden Puzzles</a></h3></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Toys-Hobbies_025"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u025"></i><span class="vm dib ml10 cpi">Toys &amp; Hobbies</span></a><div class="mu_Warp_" style="margin-top:-39px" id="subcateb-9"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Educational-Toys_025001" class="mu_tt">Educational Toys</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Dolls-Stuffed-Toys_025003" class="mu_tt">Dolls &amp; Stuffed Toys</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Games-Scenery-Toys_025004" class="mu_tt">Games &amp; Scenery Toys</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Sony-Playstation_025004001">Sony Playstation</a><a class="mu_link" href="http://www.lightake.com/c/Microsoft-XBOX_025004002">Microsoft XBOX</a><a class="mu_link" href="http://www.lightake.com/c/Sony-PSP-PS-VITA_025004003">Sony PSP/ PS VITA</a><a class="mu_link" href="http://www.lightake.com/c/Nintendo-DS_025004004">Nintendo DS</a></dd><dd><h3><a href="http://www.lightake.com/c/Others-Toys_025005" class="mu_tt">Others Toys</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/RC-Toys-Hobbies_025006" class="mu_tt">RC Toys &amp; Hobbies</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/RC-Helicopters-Quadcopter_025006001">RC Helicopters/Quadcopter</a><a class="mu_link" href="http://www.lightake.com/c/RC-Boats_025006002">RC Boats</a><a class="mu_link" href="http://www.lightake.com/c/RC-Cars_025006003">RC Cars</a><a class="mu_link" href="http://www.lightake.com/c/RC-Tanks_025006004">RC Tanks</a><a class="mu_link" href="http://www.lightake.com/c/RC-Parts-Accessories_025006005">RC Parts &amp; Accessories</a><a class="mu_link" href="http://www.lightake.com/c/Others_025006006">Others</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Musical-Instruments_025007" class="mu_tt">Musical Instruments</a></h3></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Sports-Outdoor_023"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u023"></i><span class="vm dib ml10 cpi">Sports &amp; Outdoor</span></a><div class="mu_Warp_" style="margin-top:-78px" id="subcateb-7"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/LED-Flashlights_023001" class="mu_tt">LED Flashlights</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Sport-Equipments_023004" class="mu_tt">Sport Equipments</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Safety-Survival-Gear_023005" class="mu_tt">Safety &amp; Survival Gear</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Motorcycle-Accessories_023006" class="mu_tt">Motorcycle Accessories</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Bicycle-Accessories_023007" class="mu_tt">Bicycle Accessories</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Cycling-Accessories_023008" class="mu_tt">Cycling Accessories</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Fishing-Accessories_023009" class="mu_tt">Fishing Accessories</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Camping-Hiking_023010" class="mu_tt">Camping &amp; Hiking</a></h3></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Consumer-Electronics_016"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u016"></i><span class="vm dib ml10 cpi">Consumer Electronics</span></a><div class="mu_Warp_" style="margin-top:-117px" id="subcateb-1"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Tablet-PCs_016002" class="mu_tt">Tablet PCs</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Pipo_016002001">Pipo</a><a class="mu_link" href="http://www.lightake.com/c/Cube_016002002">Cube</a><a class="mu_link" href="http://www.lightake.com/c/JXD_016002003">JXD</a><a class="mu_link" href="http://www.lightake.com/c/Onda_016002004">Onda</a><a class="mu_link" href="http://www.lightake.com/c/Ainol_016002005">Ainol</a><a class="mu_link" href="http://www.lightake.com/c/Other-Brands_016002006">Other Brands</a></dd><dd><h3><a href="http://www.lightake.com/c/Tablet-PCs-Accessories_016011" class="mu_tt">Tablet PCs Accessories</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Cell-Phone-Accessories_016003" class="mu_tt">Cell Phone Accessories</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Accessories-for-Samsung_016003001">Accessories for Samsung</a><a class="mu_link" href="http://www.lightake.com/c/Accessories-for-HTC_016003002">Accessories for HTC</a><a class="mu_link" href="http://www.lightake.com/c/Accessories-for-LG_016003003">Accessories for LG</a><a class="mu_link" href="http://www.lightake.com/c/Accessories-for-Others-Phones_016003004">Accessories for Others Phones</a></dd><dd><h3><a href="http://www.lightake.com/c/Keyboard_016004" class="mu_tt">Keyboard</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Gaming-Keyboard_016004001">Gaming Keyboard</a><a class="mu_link" href="http://www.lightake.com/c/Multimedia-Keyboard_016004002">Multimedia Keyboard</a><a class="mu_link" href="http://www.lightake.com/c/Wireless-Keyboard_016004003">Wireless Keyboard</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Mouse_016005" class="mu_tt">Mouse</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Gaming-Mouse_016005001">Gaming Mouse</a><a class="mu_link" href="http://www.lightake.com/c/Laser-Mouse_016005002">Laser Mouse</a><a class="mu_link" href="http://www.lightake.com/c/Optical-Mouse_016005003">Optical Mouse</a><a class="mu_link" href="http://www.lightake.com/c/Wireless-Mouse_016005004">Wireless Mouse</a></dd><dd><h3><a href="http://www.lightake.com/c/Flash-Memory_016006" class="mu_tt">Flash Memory</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/MicroSD-Cards_016006001">MicroSD Cards</a><a class="mu_link" href="http://www.lightake.com/c/USB-Flash-Drives_016006002">USB Flash Drives</a><a class="mu_link" href="http://www.lightake.com/c/Card-Readers_016006003">Card Readers</a></dd><dd><h3><a href="http://www.lightake.com/c/USB-Gadgets_016007" class="mu_tt">USB Gadgets</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/USB-Fans_016007001">USB Fans</a><a class="mu_link" href="http://www.lightake.com/c/USB-Lights_016007002">USB Lights</a><a class="mu_link" href="http://www.lightake.com/c/Others_016007003">Others</a></dd><dd><h3><a href="http://www.lightake.com/c/Batteires-Chargers_016008" class="mu_tt">Batteires &amp; Chargers</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Portable-Power-Bank_016008001">Portable Power Bank</a><a class="mu_link" href="http://www.lightake.com/c/Cell-Phone-Replacement-Batteries_016008002">Cell Phone Replacement Batteries</a><a class="mu_link" href="http://www.lightake.com/c/Household-Batteries_016008003">Household Batteries</a><a class="mu_link" href="http://www.lightake.com/c/Chargers-Accessories_016008004">Chargers &amp; Accessories</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Multimedia-Player_016009" class="mu_tt">Multimedia Player</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/HDD-Player_016009001">HDD Player</a><a class="mu_link" href="http://www.lightake.com/c/MP3-Player_016009002">MP3 Player</a></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Digital-Voice-Recorder_016009003">Digital Voice Recorder</a><a class="mu_link" href="http://www.lightake.com/c/Speaker_016009004">Speaker</a><a class="mu_link" href="http://www.lightake.com/c/Others_016009005">Others</a><a class="mu_link" href="http://www.lightake.com/c/Bluetooth-Headphone_016009006">Bluetooth Headphone</a></dd><dd><h3><a href="http://www.lightake.com/c/MiNi-PC-TV-BOX_016010" class="mu_tt">MiNi PC &amp; TV BOX</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Computer-Accessories_016012" class="mu_tt">Computer Accessories</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Gaming-Headset_016012001">Gaming Headset</a><a class="mu_link" href="http://www.lightake.com/c/Laptop-Laptop-Accessories_016012002">Laptop &amp; Laptop Accessories</a><a class="mu_link" href="http://www.lightake.com/c/Networking_016012003">Networking</a><a class="mu_link" href="http://www.lightake.com/c/Others_016012005">Others</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Car-Accessories_016013" class="mu_tt">Car Accessories</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Car-GPS_016013001">Car GPS</a><a class="mu_link" href="http://www.lightake.com/c/Gadgets-Auto-Parts_016013002">Gadgets &amp; Auto Parts</a><a class="mu_link" href="http://www.lightake.com/c/Car-Lights_016013003">Car Lights</a><a class="mu_link" href="http://www.lightake.com/c/Car-Alarm-Security_016013004">Car Alarm &amp; Security</a></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Car-DVD-DVR_016013007">Car DVD &amp; DVR</a><a class="mu_link" href="http://www.lightake.com/c/Car-Stickers-Decoration_016013008">Car Stickers &amp; Decoration</a><a class="mu_link" href="http://www.lightake.com/c/Car-Charger_016013011">Car Charger</a><a class="mu_link" href="http://www.lightake.com/c/Diagnostic-Scan-Tools_016013009">Diagnostic &amp; Scan Tools</a><a class="mu_link" href="http://www.lightake.com/c/Car-Mounts-Holders_016013013">Car Mounts &amp; Holders</a><a class="mu_link" href="http://www.lightake.com/c/FM-Transmitters_016013014">FM Transmitters</a></dd><dd><h3><a href="http://www.lightake.com/c/Camera-Photo-Accessories_016014" class="mu_tt">Camera &amp; Photo Accessories</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Camera-Video-Bags_016014001">Camera/Video Bags</a><a class="mu_link" href="http://www.lightake.com/c/Camera_016014007">Camera</a><a class="mu_link" href="http://www.lightake.com/c/Flashes_016014002">Flashes</a><a class="mu_link" href="http://www.lightake.com/c/Photographic-Lighting_016014003">Photographic Lighting</a><a class="mu_link" href="http://www.lightake.com/c/Lens-Accessories_016014005">Lens &amp; Accessories</a><a class="mu_link" href="http://www.lightake.com/c/Others_016014006">Others</a></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Health-Beauty_010"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u010"></i><span class="vm dib ml10 cpi">Health &amp; Beauty</span></a><div class="mu_Warp_" style="margin-top:-156px" id="subcateb-6"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Health_010001" class="mu_tt">Health</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Personal-Care_010001001">Personal Care</a><a class="mu_link" href="http://www.lightake.com/c/Oral-Care_010001002">Oral Care&nbsp;</a><a class="mu_link" href="http://www.lightake.com/c/Massage-Gadgets_010001003">Massage Gadgets</a></dd><dd><h3><a href="http://www.lightake.com/c/Beauty_010002" class="mu_tt">Beauty</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Makeup-Gadgets_010002001">Makeup Gadgets</a><a class="mu_link" href="http://www.lightake.com/c/Makeup-Brushes_010002002">Makeup Brushes</a><a class="mu_link" href="http://www.lightake.com/c/Hair-Care_010002003">Hair Care</a><a class="mu_link" href="http://www.lightake.com/c/Shaving-Hair-Removal_010002004">Shaving &amp; Hair Removal</a></dd><dd><h3><a href="http://www.lightake.com/c/Sex-Toys_010003" class="mu_tt">Sex Toys</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Toys-For-Her_010003001">Toys For Her</a><a class="mu_link" href="http://www.lightake.com/c/Toys-For-Him_010003002">Toys For Him</a><a class="mu_link" href="http://www.lightake.com/c/Couple-s-Play_010003003">Couple's Play</a><a class="mu_link" href="http://www.lightake.com/c/Exotic-Apparel_010003004">Exotic Apparel</a></dd><dd><h3><a href="http://www.lightake.com/c/Fashionable-Life_010004" class="mu_tt">Fashionable Life</a></h3></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Clothing_010004004">Clothing</a><a class="mu_link" href="http://www.lightake.com/c/Luggage-Bags_010004005">Luggage &amp; Bags</a><a class="mu_link" href="http://www.lightake.com/c/Shoes_010004006">Shoes</a><a class="mu_link" href="http://www.lightake.com/c/Others_010004007">Others</a><a class="mu_link" href="http://www.lightake.com/c/Socks_010004008">Socks</a></dd><dd><h3><a href="http://www.lightake.com/c/Jewelry_010006" class="mu_tt">Jewelry</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Necklaces_010006001">Necklaces</a><a class="mu_link" href="http://www.lightake.com/c/Bracelets_010006002">Bracelets</a><a class="mu_link" href="http://www.lightake.com/c/Rings_010006003">Rings</a><a class="mu_link" href="http://www.lightake.com/c/Earrings_010006004">Earrings</a><a class="mu_link" href="http://www.lightake.com/c/Others_010006005">Others</a><a class="mu_link" href="http://www.lightake.com/c/Jewelry-Sets_010006006">Jewelry Sets</a><a class="mu_link" href="http://www.lightake.com/c/Body-Chain_010006007">Body Chain</a></dd><dd><h3><a href="http://www.lightake.com/c/Sunglasses-Glasses_010007" class="mu_tt">Sunglasses &amp; Glasses</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Girl-s-Sunglasses_010007001">Girl's Sunglasses</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Boy-s-Sunglasses_010007002">Boy's Sunglasses</a><a class="mu_link" href="http://www.lightake.com/c/Kid-s-Sunglasses_010007003">Kid's Sunglasses</a><a class="mu_link" href="http://www.lightake.com/c/Other-Glasses_010007004">Other Glasses</a><a class="mu_link" href="http://www.lightake.com/c/3D-Glasses_010007005">3D Glasses</a></dd><dd><h3><a href="http://www.lightake.com/c/Watches_010008" class="mu_tt">Watches</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Women-Watches_010008001">Women Watches</a><a class="mu_link" href="http://www.lightake.com/c/Men-Watches_010008002">Men Watches</a><a class="mu_link" href="http://www.lightake.com/c/Lovers-Watches_010008003">Lovers Watches</a><a class="mu_link" href="http://www.lightake.com/c/Kid-s-Watches_010008005">Kid's Watches</a></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Arduino-SCM_018"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u018"></i><span class="vm dib ml10 cpi">Arduino SCM</span></a><div class="mu_Warp_" style="margin-top:-195px" id="subcateb-2"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Boards-Shields_018001" class="mu_tt">Boards&amp; Shields</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Sensors_018002" class="mu_tt">Sensors</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Kits_018003" class="mu_tt">Kits</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Displays_018004" class="mu_tt">Displays</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Relays_018005" class="mu_tt">Relays</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Transmitters-Receivers_018006" class="mu_tt">Transmitters &amp; Receivers</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Power_018007" class="mu_tt">Power</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Other-Accessories_018008" class="mu_tt">Other Accessories</a></h3></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Apple-Accessories_005"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u005"></i><span class="vm dib ml10 cpi">Apple Accessories</span></a><div class="mu_Warp_" style="margin-top:-234px" id="subcateb-3"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/iPad_005006" class="mu_tt">iPad</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cases-Protectors_005006001">Cases &amp; Protectors</a><a class="mu_link" href="http://www.lightake.com/c/Cables_005006002">Cables</a><a class="mu_link" href="http://www.lightake.com/c/Chargers-Adapters_005006003">Chargers &amp; Adapters</a><a class="mu_link" href="http://www.lightake.com/c/Speakers-Earphones_005006004">Speakers &amp; Earphones</a><a class="mu_link" href="http://www.lightake.com/c/Other-Accessories_005006005">Other Accessories</a></dd><dd><h3><a href="http://www.lightake.com/c/iPhone-6-iPhone-6-Plus_005011" class="mu_tt">iPhone 6 iPhone 6 Plus</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cases-Protectors_005011001">Cases &amp; Protectors</a><a class="mu_link" href="http://www.lightake.com/c/Cables_005011002">Cables</a><a class="mu_link" href="http://www.lightake.com/c/Charger-Adapters_005011003">Charger &amp; Adapters</a><a class="mu_link" href="http://www.lightake.com/c/Speakers-Earphones_005011004">Speakers&amp; Earphones</a><a class="mu_link" href="http://www.lightake.com/c/Other-Accessories_005011005">Other Accessories</a></dd><dd><h3><a href="http://www.lightake.com/c/iphone-5-5S-5C_005008" class="mu_tt">iphone 5/5S/5C</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cases-Protectors_005008001">Cases &amp; Protectors</a><a class="mu_link" href="http://www.lightake.com/c/Cables_005008002">Cables</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Chargers-Adapters_005008003">Chargers &amp; Adapters</a><a class="mu_link" href="http://www.lightake.com/c/Speakers-Earphones_005008004">Speakers &amp; Earphones</a><a class="mu_link" href="http://www.lightake.com/c/Other-Accessories_005008005">Other Accessories</a></dd><dd><h3><a href="http://www.lightake.com/c/iPhone-4-4S_005007" class="mu_tt">iPhone 4/4S</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cases-Protectors_005007001">Cases &amp; Protectors</a><a class="mu_link" href="http://www.lightake.com/c/Cables_005007002">Cables</a><a class="mu_link" href="http://www.lightake.com/c/Chargers-Adapters_005007003">Chargers &amp; Adapters</a><a class="mu_link" href="http://www.lightake.com/c/Speakers-Earphones_005007004">Speakers &amp; Earphones</a><a class="mu_link" href="http://www.lightake.com/c/Other-Accessories_005007005">Other Accessories</a></dd><dd><h3><a href="http://www.lightake.com/c/iPod_005009" class="mu_tt">iPod</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Cases-Protectors_005009001">Cases &amp; Protectors</a><a class="mu_link" href="http://www.lightake.com/c/Cables_005009002">Cables</a><a class="mu_link" href="http://www.lightake.com/c/Speakers-Earphones_005009003">Speakers &amp; Earphones</a><a class="mu_link" href="http://www.lightake.com/c/Other-Accessories_005009004">Other Accessories</a></dd><dd><h3><a href="http://www.lightake.com/c/Mac-Book_005010" class="mu_tt">Mac Book</a></h3></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Power-Adaptor_005010001">Power Adaptor</a><a class="mu_link" href="http://www.lightake.com/c/Protector_005010002">Protector</a></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Lights-Lighting_027"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u015"></i><span class="vm dib ml10 cpi">Lights &amp; Lighting</span></a><div class="mu_Warp_" style="margin-top:-273px" id="subcateb-4"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Flashlight_027001" class="mu_tt">Flashlight</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/LED-Lighting_027002" class="mu_tt">LED Lighting</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Wall-Lights_027003" class="mu_tt">Wall Lights</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/LED-Strip_027004" class="mu_tt">LED Strip</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Lighting-Accessories_027005" class="mu_tt">Lighting Accessories</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/LED-Light-Bulbs_027006" class="mu_tt">LED Light Bulbs</a></h3></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Home-Garden_009"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u009"></i><span class="vm dib ml10 cpi">Home &amp; Garden</span></a><div class="mu_Warp_" style="margin-top:-312px" id="subcateb-5"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Alarms-Security_009001" class="mu_tt">Alarms &amp; Security</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Alarm-systems_009001001">Alarm systems</a><a class="mu_link" href="http://www.lightake.com/c/IP-Cameras_009001002">IP Cameras</a><a class="mu_link" href="http://www.lightake.com/c/Doorbells_009001003">Doorbells</a><a class="mu_link" href="http://www.lightake.com/c/Security-Device_009001004">Security Device</a></dd><dd><h3><a href="http://www.lightake.com/c/Home-Electronics_009005" class="mu_tt">Home Electronics</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Household-Appliances_009005001">Household Appliances</a><a class="mu_link" href="http://www.lightake.com/c/Warmer-Cooling-Fan_009005002">Warmer &amp; Cooling Fan</a><a class="mu_link" href="http://www.lightake.com/c/Clock-Timer_009005003">Clock &amp; Timer</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Telephones_009005004">Telephones</a><a class="mu_link" href="http://www.lightake.com/c/Others_009005007">Others</a><a class="mu_link" href="http://www.lightake.com/c/Measurement-Analysis-Instruments_009005008">Measurement &amp; Analysis Instruments</a></dd><dd><h3><a href="http://www.lightake.com/c/Lifestyle-Gadgets_009006" class="mu_tt">Lifestyle Gadgets</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Home-Living_009006001">Home Living</a><a class="mu_link" href="http://www.lightake.com/c/Tools_009006002">Tools</a><a class="mu_link" href="http://www.lightake.com/c/Creative-Gadgets_009006003">Creative Gadgets</a><a class="mu_link" href="http://www.lightake.com/c/Faucets-Accessories_009006004">Faucets &amp; Accessories</a></dd><dd><h3><a href="http://www.lightake.com/c/Home-Decor_009007" class="mu_tt">Home Decor</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Candles-Holders_009007001">Candles &amp; Holders</a><a class="mu_link" href="http://www.lightake.com/c/Decorative-Pillows_009007002">Decorative Pillows</a><a class="mu_link" href="http://www.lightake.com/c/Collectibles_009007003">Collectibles</a><a class="mu_link" href="http://www.lightake.com/c/Wall-Art_009007004">Wall Art</a><a class="mu_link" href="http://www.lightake.com/c/Bonsai_009007005">Bonsai</a><a class="mu_link" href="http://www.lightake.com/c/Others_009007006">Others</a></dd></dl></div></div><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Kitchen_009010" class="mu_tt">Kitchen</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Kitchen-Gadgets_009010001">Kitchen Gadgets</a><a class="mu_link" href="http://www.lightake.com/c/Drinkware_009010002">Drinkware</a></dd><dd><h3><a href="http://www.lightake.com/c/Bathroom_009011" class="mu_tt">Bathroom</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Showerhead_009011001">Showerhead</a><a class="mu_link" href="http://www.lightake.com/c/Bathroom-Gadgets_009011002">Bathroom Gadgets</a><a class="mu_link" href="http://www.lightake.com/c/Toothbrush_009011003">Toothbrush</a></dd><dd><h3><a href="http://www.lightake.com/c/Office-School-Supplies_009012" class="mu_tt">Office &amp; School Supplies</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Writing_009012002">Writing</a><a class="mu_link" href="http://www.lightake.com/c/Printers_009012003">Printers</a><a class="mu_link" href="http://www.lightake.com/c/Others_009012004">Others</a><a class="mu_link" href="http://www.lightake.com/c/Scanners_009012005">Scanners</a></dd><dd><h3><a href="http://www.lightake.com/c/Yard-Garden_009013" class="mu_tt">Yard &amp; Garden</a></h3></dd></dl></div></div></div></div></dd><dd class="mu_active_"><a class="mu_active_a" href="http://www.lightake.com/c/Gifts-Party-Supplies_019"><b class="mu_b"><em class="mu_em"></em><i class="trigon"></i></b><i class="u1 u019"></i><span class="vm dib ml10 cpi">Gifts &amp; Party Supplies</span></a><div class="mu_Warp_" style="margin-top:-351px" id="subcateb-8"><div class="fix pt10 pb20"><div class="w254 l"><div class="bre"><dl class="pb15 ml20"><dd><h3><a href="http://www.lightake.com/c/Holiday-Gifts_019001" class="mu_tt">Holiday Gifts</a></h3></dd><dd class="mb10"><a class="mu_link" href="http://www.lightake.com/c/Christmas-Gifts_019001001">Christmas Gifts</a><a class="mu_link" href="http://www.lightake.com/c/Valentine-s-Day-Gifts_019001002">Valentine's Day Gifts</a><a class="mu_link" href="http://www.lightake.com/c/Halloween-Gifts_019001003">Halloween Gifts</a><a class="mu_link" href="http://www.lightake.com/c/Thanksgiving-Gifts_019001004">Thanksgiving Gifts</a><a class="mu_link" href="http://www.lightake.com/c/Mother-s-Day-Gifts_019001005">Mother's Day Gifts</a><a class="mu_link" href="http://www.lightake.com/c/Father-s-Day-Gifts_019001006">Father's Day Gifts</a></dd><dd><h3><a href="http://www.lightake.com/c/Birthday-Gifts_019002" class="mu_tt">Birthday Gifts</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Party-Gadgets_019003" class="mu_tt">Party Gadgets</a></h3></dd><dd><h3><a href="http://www.lightake.com/c/Hot-Stuff_019004" class="mu_tt">Hot Stuff</a></h3></dd></dl></div></div></div></div></dd></dl></dd></dl></div><div class="nav">
+<ul class="inline_box">
+<li class="inline_any">
+<a class="nav_on" href="http://www.lightake.com/index.html" target="_blank">Home</a>
+</li>
+<li class="inline_any">
+<a class="nav_off" href="http://www.lightake.com/bestseller.html" target="_blank">Bestsellers</a>
+</li>
+<li class="inline_any">
+<a class="nav_off" href="http://www.lightake.com/new-arrivals.html" target="_blank">New Arrivals</a>
+</li>
+<li class="inline_any">
+<a class="nav_off" href="http://www.lightake.com/promotion.html" target="_blank">Promotion</a>
+</li>
+<li class="inline_any">
+<a class="nav_off" href="http://www.lightake.com/clearance.html" target="_blank">Clearance</a>
+</li>
+<li class="inline_any">
+<a class="nav_off" href="http://www.lightake.com/freeshipping.html" target="_blank">Free Shipping</a>
+</li>
+<li class="inline_any">
+<a class="nav_off" href="http://www.lightake.com/USWarehouse.html" target="_blank">US Warehouse</a>
+</li>
+</ul>
+</div></div></div></div></div>
+<div class="nav_hor_solid">
+</div>
+<div class="conStr">
+<div class="mt10">
+<a class="u1 u1132" href="http://www.lightake.com/"></a>
+<a class="vm" href="http://www.lightake.com/">Home
+</a>
+&gt;
+<a class="vm" href="http://help.lightake.com/">Help
+</a>
+</div>
+<div class="main_body">
 <div id="helpleft" class="fl">
-    <div>
-        <div class="help_slider fl">
-            <div class="help_slider_title">
-                <div class="help_slider_title_left fl"></div>
-                <div class="help_slider_title_body fl">Topics</div>
-                <div class="help_slider_title_right fr"></div>
-            </div>
-            <div class="help_slider_body">
-                <div class="innertxt">
-                    <dl>
-                        <dt><a href="/default.do/ID.2">About Lightake.com</a></dt>
-                        <dd><a href="/detail.do/ID.10">About us</a></dd>
-                        <dd><a href="/detail.do/ID.11">Contact us</a></dd>
-                        <dd><a href="/detail.do/ID.28">Service Tenet</a></dd>
-                        <dd><a href="/detail.do/ID.29">Lightake Goals</a></dd>
-                        <dt><a href="/default.do/ID.3">Rules &amp; Policies</a></dt>
-                        <dd><a href="/detail.do/ID.14">Return Policy</a></dd>
-                        <dd><a href="/detail.do/ID.15">Product Warranty</a></dd>
-                        <dd><a href="/detail.do/ID.16">Forum post and reply to policy</a></dd>
-                        <dd><a href="/detail.do/ID.17">Review &amp; Points Policy</a></dd>
-                        <dd><a href="/detail.do/ID.46">Security &amp; Privacy</a></dd>
-                        <dt><a href="/default.do/ID.4">How to Order</a></dt>
-                        <dd><a href="/detail.do/ID.18">Payment Methods</a></dd>
-                        <dd><a href="/detail.do/ID.50">I want to make wholesale order, can I get more discount?</a></dd>
-                        <dd><a href="/detail.do/ID.51">I don't have a paypal account, how can I order from lightake?</a></dd>
-                        <dd><a href="/detail.do/ID.80">Payment option for Brazilian (PpFacil)</a></dd>
-                        <dt><a href="/default.do/ID.6">Members, Points &amp; Reward </a></dt>
-                        <dd><a href="/detail.do/ID.34">Tips when you register</a></dd>
-                        <dd><a href="/detail.do/ID.36">Member Rating &amp; Discount</a></dd>
-                        <dd><a href="/detail.do/ID.38">Rewards Program</a></dd>
-                        <dd><a href="/detail.do/ID.75">How to get LT points</a></dd>
-                        <dt><a href="/default.do/ID.7">How to Search</a></dt>
-                        <dd><a href="/detail.do/ID.39">How to search</a></dd>
-                        <dd><a href="/detail.do/ID.40">Advanced Search Help</a></dd>
-                        <dt><a href="/default.do/ID.8">Feedback</a></dt>
-                        <dd><a href="/detail.do/ID.41">Customer Service System</a></dd>
-                        <dd><a href="/detail.do/ID.42">FaceBook</a></dd>
-                        <dd><a href="/detail.do/ID.53">Twitter</a></dd>
-                        <dd><a href="/detail.do/ID.54">Youtube</a></dd>
-                        <dt><a href="/default.do/ID.9">Frequently Asked Questions</a></dt>
-                        <dd><a href="/detail.do/ID.43">If my password forgotten how to deal with?</a></dd>
-                        <dd><a href="/detail.do/ID.44">I didn't register membership of Lightake.com,  how to check my order?</a></dd>
-                        <dd><a href="/detail.do/ID.55">Why the prices here are so low?</a></dd>
-                        <dd><a href="/detail.do/ID.56">Why the shipping cost is free?</a></dd>
-                        <dd><a href="/detail.do/ID.57">Doesn't it sound too real to be true?</a></dd>
-                        <dd><a href="/detail.do/ID.58">Product Availability</a></dd>
-                        <dt><a href="/default.do/ID.5">Shipping &amp; Delivery</a></dt>
-                        <dd><a href="/detail.do/ID.30">How are Tax and Customs duties handled?</a></dd>
-                        <dd><a href="/detail.do/ID.31">How fast is EMS Express?</a></dd>
-                        <dd><a href="/detail.do/ID.32">Do you offer any shipping discount on multiple products purchased?</a></dd>
-                        <dd><a href="/detail.do/ID.33">Does Lightake.com handle International orders?</a></dd>
-                        <dd><a href="/detail.do/ID.45">What are the available shipping methods?</a></dd>
-                        <dd><a href="/detail.do/ID.47">Can I change my delivery address after I have placed my order?</a></dd>
-                        <dt><a href="/default.do/ID.10">About dropshipping</a></dt>
-                        <dd><a href="/detail.do/ID.74">What is Drop Shipping</a></dd>
-                        <dt><a href="/default.do/ID.11">Affiliate Program</a></dt>
-                        <dd><a href="/detail.do/ID.78">Affiliate Program</a></dd>
-                        <dd><a href="/detail.do/ID.79">Commission Rate And Policy</a></dd>
-                    </dl>
-                </div>
-            </div>
-        </div>
-    </div>
+<div>
+<div class="help_slider fl">
+<div class="help_slider_title">
+<div class="help_slider_title_left fl"></div>
+<div class="help_slider_title_body fl">Topics</div>
+<div class="help_slider_title_right fr"></div>
 </div>
-
-	   
-	    
+<div class="help_slider_body">
+<div class="innertxt">
+<dl>
+<dt>About Lightake.com</dt>
+<dd><a href="/AboutUs.html">About us</a></dd>
+<dd><a href="/ContactUs.html">Contact us</a></dd>
+<dd><a href="/ServiceTenet.html">Service Tenet</a></dd>
+<dd><a href="/LightakeGoals.html">Lightake Goals</a></dd>
+<dd><a href="/term-of-use.html">Term of use</a></dd>
+<dt><a href="/RulesPolicies.html">Rules &amp; Policies</a></dt>
+<dd><a href="/ReturnPolicy.html">Return Policy</a></dd>
+<dd><a href="/ProductWarranty.html">Product Warranty</a></dd>
+<dd><a href="/Forum.html">Forum post and reply to policy</a></dd>
+<dd><a href="/Review.html">Review &amp; Points Policy</a></dd>
+<dd><a href="/SecurityPrivacy.html">Security &amp; Privacy</a></dd>
+<dt><a href="/HowtoOrder.html">How to Order</a></dt>
+<dd><a href="/PaymentMethods.html">Payment Methods</a></dd>
+<dd><a href="/Question.html">I want to make wholesale order, can I get more discount?</a></dd>
+<dd><a href="/HowtoOrder.html">I don't have a paypal account, how can I order from lightake?</a></dd>
+<dd><a href="/Payment.html">Payment option for Brazilian (PpFacil)</a></dd>
+<dt><a href="/Members.html">Members, Points &amp; Reward </a></dt>
+<dd><a href="/Tips.html">Tips when you register</a></dd>
+<dd><a href="/Discount.html">Member Rating &amp; Discount</a></dd>
+<dd><a href="/RewardsProgram.html">Rewards Program</a></dd>
+<dd><a href="/GetPoints.html">How to get LT points</a></dd>
+<dt><a href="/HowToSearch.html">How to Search</a></dt>
+<dd><a href="/Search.html">How to search</a></dd>
+<dd><a href="/AdvancedSearch.html">Advanced Search Help</a></dd>
+<dt><a href="/Feedback.html">Feedback</a></dt>
+<dd><a href="/ServiceSystem.html">Customer Service System</a></dd>
+<dd><a href="/FaceBook.html">FaceBook</a></dd>
+<dd><a href="/Twitter.html">Twitter</a></dd>
+<dd><a href="/Youtube.html">Youtube</a></dd>
+<dt><a href="/Questions.html">Frequently Asked Questions</a></dt>
+<dd><a href="/password.html">If my password forgotten how to deal with?</a></dd>
+<dd><a href="/Register.html">I didn't register membership of Lightake.com,  how to check my order?</a></dd>
+<dd><a href="/LowPrices.html">Why the prices here are so low?</a></dd>
+<dd><a href="/Free.html">Why the shipping cost is free?</a></dd>
+<dd><a href="/True.html">Doesn't it sound too real to be true?</a></dd>
+<dd><a href="/Availability.html">Product Availability</a></dd>
+<dt><a href="/ShippingDelivery.html">Shipping &amp; Delivery</a></dt>
+<dd><a href="/Tax.html">How are Tax and Customs duties handled?</a></dd>
+<dd><a href="/Express.html">How fast is EMS Express?</a></dd>
+<dd><a href="/ProductsPurchased.html">Do you offer any shipping discount on multiple products purchased?</a></dd>
+<dd><a href="/InternationalOrders.html">Does Lightake.com handle International orders?</a></dd>
+<dd><a href="/Methods.html">What are the available shipping methods?</a></dd>
+<dd><a href="/Address.html">Can I change my delivery address after I have placed my order?</a></dd>
+<dt style="display:none;"><a href="/Dropshipping.html">About dropshipping</a></dt>
+<dd style="display:none;"><a href="/DropShipping.html">What is Drop Shipping</a></dd>
+<dt><a href="/AffiliateProgram.html">Affiliate Program</a></dt>
+<dd><a href="/AffiliateProgram.html">Affiliate Program</a></dd>
+<dd><a href="/CommissionRate.html">Commission Rate And Policy</a></dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="help_content">
-    <div class="rightsilder fr">
-        <div class="help_slider fl">
-            <div class="help_slider_title">
-                <div class="help_slider_title_left fl"></div>
-                <div class="help_slider_title_body fl">Hot Topics</div>
-                <div class="help_slider_title_right fr"></div>
-            </div>
-                <div class="help_slider_body">
-                    <div class="innertxt">
-                        <dl>
-                            <dt>Contact us</dt>
-                            
-                                <dd><a class="bluelink" href="/detail.do/ID.10">About us</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.11">Contact us</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.28">Service Tenet</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.29">Lightake Goals</a></dd>
-                                
-                            <dt>Rules &amp; policies</dt>
-                            
-                                <dd><a class="bluelink" href="/detail.do/ID.14">Return Policy</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.15">Product Warranty</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.16">Forum post and reply to policy</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.17">Review &amp; Points Policy</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.46">Security &amp; Privacy</a></dd>
-                                
-                            <dt>Members,Points&amp;reward </dt>
-                            
-                                <dd><a class="bluelink" href="/detail.do/ID.18">Payment Methods</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.50">I want to make wholesale order, can I get more discount?</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.51">I don't have a paypal account, how can I order from lightake?</a></dd>
-                                
-                                <dd><a class="bluelink" href="/detail.do/ID.80">Payment option for Brazilian (PpFacil)</a></dd>
-                                
-                        </dl>
-	                </div>
-	            </div>
-	            
-	            <div class="help_slider_body">
-	            
-<div class="leftimg03">
-    <a href="http://lightake.com/detail.do/sku.1_Port_USB_Network_with_3_Port_USB_HUB_to_Female_RJ45_Ethernet_Lan_Adapter___White-61314" title="1 Port USB Network with 3 Port USB HUB to Female RJ45 Ethernet Lan Adapter - White" target="_blank">
-        <img src="http://e.lightake.com/2013/advertisement/8-21/USB.jpg" alt="1 Port USB Network with 3 Port USB HUB to Female RJ45 Ethernet Lan Adapter - White"></a></div>
-
-	            </div>
-	            
-            </div>
-    </div>
-    <div class="help_content_body">
-        <div class="search_box">
-            <div class="left fl"></div>
-            <div class="middle fl">
-                <input name="_ctl0:MainBody:_ctl1:keyword" type="text" value="Keyword..." id="_ctl0_MainBody__ctl1_keyword" class="inputkey">    
-                <input type="submit" name="_ctl0:MainBody:_ctl1:btnsearch" value="Search" id="_ctl0_MainBody__ctl1_btnsearch" class="btncss">
-            </div>
-            <div class="right fr"></div>
-        </div>
-        
-        <div class="help_box">
-            <h2>
-                Security &amp; Privacy</h2>
-            <div>
-                <p><font face="arial,helvetica,sans-serif"><font color="#000000" size="3"><strong>Security</strong></font></font></p><p><font face="arial,helvetica,sans-serif"><font size="2">Lightake.com takes precautions to protect your Personal information. When you submit sensitive information via the website, your information is protected both online and offline.<br><br>The policy of allowing access to this Personal Information is only to our staffs with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access. Personal Information is stored in a secure environment protected by a combination of physical and technical measures. Tape backups are not permitted to leave the premises without prior authorization.<br><br>Lightake.com is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties. <br><br>This information may be collected Register email,Password (No any other body can get your password include our staffs, it is encrypted!)Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address;Other information if you want to share with us, like Phone number etc. <br><br>When you browse our website, we may collect this information:<br>IP address, browser and operating system, the URL you request. <br>When you register in our website, we may collect this information:<br>Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request. <br><br>When you order in our website, we may collect this information:<br>Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address <br><br>When we have more cooperation (like drop shipping), we may collect more information:<br>&nbsp;like Phone number, your website, MSN, your reviews and testimonials etc <br><br><strong><font color="#000000">Information use:</font></strong><br>We need the information to process your orders and offer better services to you; we want to make it easier to tailor our products and services to your particular needs. We also want you to have the most enjoyable Internet and shopping experiences possible. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. However, if you do not like receive promotion emails from us, we will respect you wish. <br><br><strong><font color="#000000">Links</font></strong><br>Our website contains links to other sites (like tracking web). Please be aware that Lightake.com is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. <br>Notification of Changes<br><br>If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. <br><br></font></font></p>
-                                
-            </div>
-            
-        </div>
-    </div>
+<div class="rightsilder fr">
+<div class="help_slider fl">
+<div class="help_slider_title">
+<div class="help_slider_title_left fl"></div>
+<div class="help_slider_title_body fl">Hot Topics</div>
+<div class="help_slider_title_right fr"></div>
 </div>
-    </div>
+<div class="help_slider_body">
+<div class="innertxt">
+<dl>
+<dt>Contact us</dt>
+<dd><a class="bluelink" href="/AboutUs.html">About us</a></dd>
+<dd><a class="bluelink" href="/ContactUs.html">Contact us</a></dd>
+<dd><a class="bluelink" href="/ServiceTenet.html">Service Tenet</a></dd>
+<dd><a class="bluelink" href="/LightakeGoals.html">Lightake Goals</a></dd>
+<dt>Rules &amp; policies</dt>
+<dd><a class="bluelink" href="/ReturnPolicy.html">Return Policy</a></dd>
+<dd><a class="bluelink" href="/ProductWarranty.html">Product Warranty</a></dd>
+<dd><a class="bluelink" href="/Forum.html">Forum post and reply to policy</a></dd>
+<dd><a class="bluelink" href="/Review.html">Review &amp; Points Policy</a></dd>
+<dd><a class="bluelink" href="/SecurityPrivacy.html">Security &amp; Privacy</a></dd>
+<dt>Members,Points&amp;reward </dt>
+<dd><a class="bluelink" href="/PaymentMethods.html">Payment Methods</a></dd>
+<dd><a class="bluelink" href="/Question.html">I want to make wholesale order, can I get more discount?</a></dd>
+<dd><a class="bluelink" href="/HowtoOrder.html">I don't have a paypal account, how can I order from lightake?</a></dd>
+<dd><a class="bluelink" href="/Payment.html">Payment option for Brazilian (PpFacil)</a></dd>
+</dl>
+</div>
+</div>
+<div class="help_slider_body">
+<div class="leftimg03">
+<img src="/images/USB.jpg" alt="cooperation"></div>
+</div>
+</div>
+</div>
+<div class="help_content_body">
+<div class="search_box">
+<div class="left fl"></div>
+<div class="middle fl">
+<h2 style="color:#ff6600;">Security &amp; Privacy</h2>
+</div>
+<div class="right fr"></div>
+</div>
+<div class="help_box">
+<div>
+<p>
+<font face="arial,helvetica,sans-serif">
+<font color="#000000" size="3">
+<strong>Security</strong>
+</font></font>
+</p>
+<p>
+<font face="arial,helvetica,sans-serif">
+<font style="font-size:14px; line-height:26px;">
+Lightake.com takes precautions to protect your Personal information. When you submit sensitive information via the website, your information is protected both online and offline.
+<br><br>
+The policy of allowing access to this Personal Information is only to our staffs with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access. Personal Information is stored in a secure environment protected by a combination of physical 
+and technical measures. Tape backups are not permitted to leave the premises without prior authorization.
+<br><br>
+Lightake.com is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties.
+<br><br>
+This information may be collected Register email,Password (No any other body can get your password include our staffs, it is encrypted!)Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address;Other information if you want to share with us, like Phone number etc. 
+<br><br>
+When you browse our website, we may collect this information:
+<br>
+IP address, browser and operating system, the URL you request. 
+<br>
+When you register in our website, we may collect this information:
+<br>
+Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request. <br><br>
+When you order in our website, we may collect this information:
+<br>
+Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address 
+<br><br>
+When we have more cooperation (like drop shipping), we may collect more information:
+<br>
+&nbsp;like Phone number, your website, MSN, your reviews and testimonials etc 
+<br><br>
+<strong>
+<font color="#000000">Information use:</font>
+</strong>
+<br>
+We need the information to process your orders and offer better services to you; we want to make it easier to tailor our products and services to your particular needs. We also want you to have the most enjoyable Internet and shopping experiences possible. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. However, if you do not like receive promotion emails from us, we will respect you wish. 
+<br><br>
+<strong>
+<font color="#000000">Links</font></strong>
+<br>
+Our website contains links to other sites (like tracking web). Please be aware that Lightake.com is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. <br>Notification of Changes
+<br><br>
+If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. 
+</font></font>
+<br>
+PractiveOne Limited <br>
+Third Floor207 Regent StreetLondonW1B 3HH UK
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="foot bgf8"><div class="conStr"><div class="strIn"><div class="p40450"><div class="tj"><span class="inline_four mb40 lh22"><i class="u3 u324 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">Customer Service</h4></dd><dd><a href="http://help.lightake.com/ContactUs.html" target="_blank">Contact US</a></dd><dd><a href="http://help.lightake.com/Questions.html" target="_blank">F.A.Q</a></dd><dd><a href="http://help.lightake.com/" target="_blank">Help Center</a></dd><dd><a href="http://help.lightake.com/Newsletter.html" target="_blank">Newsletter Subscriptions</a></dd><dd><a href="http://help.lightake.com/PopularSearches.html" target="_blank">Popular Searches</a></dd><dd><a href="http://www.lightake.com/Product/SiteMap" target="_blank">Site Map</a></dd></dl></span><span class="inline_four mb40 lh22"><i class="u3 u3144 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">My Account</h4></dd><dd><a href="http://www.lightake.com/login" target="_blank">Open an Account</a></dd><dd><a href="http://www.lightake.com/login" target="_blank">Login/LT Points</a></dd><dd><a href="http://help.lightake.com/WishLists.html" target="_blank">Wish Lists</a></dd><dd><a href="http://my.lightake.com:801/Tracking/" target="_blank">Order Tracking</a></dd></dl></span><span class="inline_four mb40 lh22"><i class="u3 u334 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">Company Policies</h4></dd><dd><a href="http://help.lightake.com/ReturnPolicy.html" target="_blank">Return Policy</a></dd><dd><a href="http://help.lightake.com/SecurityPrivacy.html" target="_blank">Privacy Policy</a></dd><dd><a href="http://help.lightake.com/Review.html" target="_blank">Review &amp;  LT Points Policy</a></dd><dd><a href="http://help.lightake.com/ProductWarranty.html" target="_blank">Product Warranty</a></dd><dd><a href="http://help.lightake.com/Forum.html" target="_blank">Forum post and reply  policy</a></dd><dd><a href="http://help.lightake.com/term-of-use.html" target="_blank">Terms of Use</a></dd></dl></span><span class="inline_four mb40 lh22"><i class="u3 u344 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">Make money with us</h4></dd><dd><a href="http://help.lightake.com/AffiliateProgram.html" target="_blank">Affiliate Program</a></dd><dd style="display:none;"><a href="http://help.lightake.com/DropShipping.html" target="_blank">Drop shipping</a></dd><dd><a href="http://help.lightake.com/Wholesale.html" target="_blank">Wholesale</a></dd><dd><a href="http://e.lightake.com/supplier/" rel="nofollow" target="_blank"><img style="vertical-align: middle;" src="http://e.lightake.com/supplier/images/seek_supplier.gif" alt="Seek Supplier"></a></dd></dl></span><span class="inline_four mb40 lh22"><i class="u3 u354 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">We are Social</h4></dd><dd><a class="u1 u1110 mb5 " title="facebook" href="https://www.facebook.com/LighTake" target="_blank"></a><a class="u1 u1210 mb5 " title="Twitter" href="https://twitter.com/lightake_com" target="_blank"></a><a class="u1 u1310 mb5 " title="vk" href="http://vk.com/magiccubesinlightake" target="_blank"></a><a class="u1 u1410 mb5 " title="google+" href="https://plus.google.com/+LighTake" target="_blank"></a><a class="u1 u1510 mb5 " title="Youtube" href="http://www.youtube.com/user/lightakevideo" target="_blank"></a></dd></dl></span><span class="inline_four mb40 lh22"><i class="u3 u364 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">We Partner With</h4></dd></dl></span><span class="inline_four mb40 lh22"><i class="u3 u314 l"></i><dl class="ml40"><dd class="mb5 mt5"><h4 class=" co0082">Sign Up For Saving and Trends!</h4></dd><dd class="f14"><div class="inline_box nowrap"><input class="inline_any insert_large insert_short" type="text" maxlength="100" id="txtemailsub" data-url="/Product/AddNewsLetter" value="Your Email"><span class="inline_any btn_large btn_orange" id="btnemailsub">Subscribe</span></div></dd></dl></span><span class="dib_fix pct245"></span><span class="dib_fix pct245"></span><span class="dib_fix pct245"></span></div>
+<div class="card">
+<img class="bg_lazy" data-original="foot_Payicon.jpg" src="/images/foot_Payicon.jpg" style="display: inline;">
+</div>
+</div></div><div class="tc f4 g6"><div class=" mb20"><img src="/images/foor_tip.jpg" alt="Footer Tip"></div><div style="line-height: 30px;" class=" pb10">© 2008-2016 LighTake.INC All Rights Reserved</div></div></div></div>
+<div class="main_fixed" id="stotopb" style="display: none;">
+<ul>
+<li>
+<a href="javascript:" class="u1014 u1" style="cursor: pointer;" onclick="scrollToTop()"></a>
+</li>
+<li>
+<a href="http://support.lightake.com/Default.aspx?type=2" class="u1114 u1 mt-1" target="_blank"></a>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+    $(function () {
+        var tradeOrginURL = document.referrer;
+        if (tradeOrginURL == null || tradeOrginURL == "") {
+            tradeOrginURL = "";
+        }      
+        var tradeSelfURL = window.location.href;
+        if (tradeSelfURL == null || tradeSelfURL == "") {
+            tradeSelfURL = "";
+        }
+        var TraceURL = "http://trace.lightake.com/Home/WriteVisit?callback=?";
+        $.ajax({
+            type: "get",
+            url: TraceURL,
+            dataType: "jsonp",
+            data: { OrginURL: tradeOrginURL,SelfURL:tradeSelfURL},
+            jsonp: "callback",
+            async: false,
+            success: function (json) {
+            },
+            error: function () {
+            }
+        });
+    });
+</script>
+<script type="text/javascript">   
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-25246136-1', 'lightake.com');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
 
-        </div>
-        <div class="foot bgf8">
-            <div class="conStr">
-                <div class="strIn">
-                    <div class="p40450">
-                        <div class="tj">
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">Customer Service</h4>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.11">Contact US
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/default.do/ID.9">F.A.Q
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/">Help Center
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.76">Newsletter Subscriptions
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.11">Popular Searches</a></dd>
-                                </dl>
-                            </span>
+<!-- Google Remarketing tags -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and 
 
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">My Account</h4>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://lightake.com/register.do">Open an Account
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://lightake.com/accounts/login.do">Login/LT Points
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://lightake.com/Products.do/Wish.list">Wish Lists
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://lightake.com/Tracking/Tracking.do">Order Tracking
-                                        </a>
-                                    </dd>
-                                </dl>
-                            </span>
+more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 990831087;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990831087/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Google Remarketing tags -->
 
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">Company Policies</h4>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.14">Return Policy
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.46">Privacy Policy
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.17">Review &amp;  LT Points Policy
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.15">Product Warranty
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.16">Forum post and reply  policy
-                                        </a></dd>
-                                </dl>
-                            </span>
-
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">Make money with us</h4>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.78">Affiliate Program
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="http://help.lightake.com/detail.do/ID.74">Drop shipping
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a href="javascript:">Wholesale
-                                        </a>
-                                    </dd>
-                                    <dd>
-                                        <a target="_blank" href="http://e.lightake.com/supplier/" rel="nofollow">
-                                            <img style="vertical: middle;" src="http://e.lightake.com/supplier/images/seek_supplier.gif">
-                                        </a>
-                                    </dd>
-                                </dl>
-                            </span>
-
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">Customer Service</h4>
-                                    </dd>
-                                    <dd>
-                                        <a href="javascript:" class="u1 u1110 mb5 "></a>
-                                        <a href="javascript:" class="u1 u1210 mb5 "></a>
-                                        <a href="javascript:" class="u1 u1310 mb5 "></a>
-                                        <a href="javascript:" class="u1 u1410 mb5 "></a>
-                                        <a href="javascript:" class="u1 u1510 mb5 "></a></dd>
-                                </dl>
-                            </span>
-
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">&nbsp;</h4>
-                                    </dd>
-                                    <dd>
-                                        <i class="u1 u148 mr2"></i>
-                                        <i class="u1 u158 mr2"></i>
-                                        <i class="u1 u168"></i></dd>
-                                </dl>
-                            </span>
-
-                            <span class="inline_four mb40 lh22">
-                                <i class="u3 u324 l"></i>
-                                <dl class="ml40">
-                                    <dd class="mb5 mt5">
-                                        <h4 class=" co0082">&nbsp;</h4>
-                                    </dd>
-                                    <dd class="f14">
-                                        <div class="inline_box nowrap">
-                                            <input class="inline_any insert_large insert_short" type="text">
-                                            <span class="inline_any btn_large btn_orange">Subscribe
-                                            </span>
-                                        </div>
-                                    </dd>
-                                </dl>
-                            </span>
-
-                            <span class="dib_fix pct245"></span>
-                            <span class="dib_fix pct245"></span>
-                            <span class="dib_fix pct245"></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="tc f4 g6">
-                    <div class=" mb20">
-                        <img src="/images/foor_tip.jpg">
-                    </div>
-                    <a href="http://lightake.com/Product/word?indexchar=A&amp;page=1">A</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=B&amp;page=1">B</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=C&amp;page=1">C</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=D&amp;page=1">D</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=E&amp;page=1">E</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=F&amp;page=1">F</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=G&amp;page=1">G</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=H&amp;page=1">H</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=I&amp;page=1">I</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=J&amp;page=1">J</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=K&amp;page=1">K</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=L&amp;page=1">L</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=M&amp;page=1">M</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=N&amp;page=1">N</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=O&amp;page=1">O</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=P&amp;page=1">P</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=Q&amp;page=1">Q</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=R&amp;page=1">R</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=S&amp;page=1">S</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=T&amp;page=1">T</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=U&amp;page=1">U</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=V&amp;page=1">V</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=W&amp;page=1">W</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=X&amp;page=1">X</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=Y&amp;page=1">Y</a> |   
-                    <a href="http://lightake.com/Product/word?indexchar=Z&amp;page=1">Z</a> |   
-                <a href="http://lightake.com/Product/word?indexchar=0-9&amp;page=1">0-9</a>
-                    <div style="line-height: 30px;" class=" pb10">
-                        © 2008-2014 LighTake.INC All Rights Reserved
-                    </div>
-                </div>
-            </div>
-        </div>
-    </form>
-    <script type="text/javascript">
-        $(function () {
-            checkUserStatus();
-            CheckShippingcart();
-        })
-    </script>
-     
-    <!-- Google Code for &#20877;&#33829;&#38144;&#26631;&#35760; -->
-    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 997265509;
-        var google_conversion_label = "ZTj3CKOU8AQQ5aDE2wM";
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display: inline;">
-            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997265509/?value=0&amp;label=ZTj3CKOU8AQQ5aDE2wM&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
+<script src="//configch2.veinteractive.com/tags/EF3AEB84/72AA/4886/8074/7AD0B320587B/tag.js" type="text/javascript" async=""></script>
+<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script>
 
 
 </body></html>
