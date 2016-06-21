@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035547id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621202837id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - County of Henrico
+# Privacy Policy - County of Henrico, Virginia
 
 ## What information is collected during your visit to our web site?
 
@@ -65,5 +65,3 @@ We monitor our incoming Internet traffic to protect our network against incoming
 All information to and from the web site is unencrypted, unless you choose to use SSL, which is available.
 
 _Last updated: September 4, 2014_
-
-Copyright 1996-2015   |   Henrico County 4301 East Parham Road, Henrico, VA 23228   |   804-501-4000
