@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highrated.net privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212193716id_/http%3A//www.highrated.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrated.net privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621105639id_/http%3A//www.highrated.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HighRated.net
 
