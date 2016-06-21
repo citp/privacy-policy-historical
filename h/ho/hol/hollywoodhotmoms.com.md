@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hollywoodhotmoms.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910083343id_/http%3A//www.hotmomsclub.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodhotmoms.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621162014id_/http%3A//www.hotmomsclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hot Moms Club
-
-Privacy Policy
+# Privacy Policy | Hot Mom's Club
 
 Hot Moms Club Tm and Hollywood Hot Moms Products, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Buzz Email or visit our Web Site. Please read this notice carefully.
 
@@ -12,7 +10,7 @@ To receive your HMC and HHM e-mails, we require your e-mail address. Similarly, 
 
 Non-Personal Information
 
-We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our Buzzemail and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in HMC and HHM emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
+We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our Buzz email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in HMC and HHM emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
 
 Usage Information
 
@@ -24,7 +22,7 @@ Upon your request, we will provide you with a summary of the information we coll
 
 How to Unsubscribe
 
-You can unsubscribe from receiving HMC and HHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any HMC and HHM Buzz email or on the bottom of the HMC and HHM homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [admin@hotmomsclub.com](mailto:admin@hotmomsclub.com)
+You can unsubscribe from receiving HMC and HHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any HMC and HHM Buzz email or on the bottom of the HMC and HHM homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [admin@hotmomsclub.com](mailto:admin@hotmomsclub.com)
 
 Choice/Opt-Out
 
@@ -56,7 +54,13 @@ Modification to this Policy
 
 HMC and HHM may change this policy, but we’ll post any changes here, so be sure to check back for future information.
 
+Opting Out of Interest-Based Mobile Ads
+
+If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:
+
+iOS – <https://support.apple.com/en-us/HT202074>  
+Android – <https://support.google.com/ads/answer/2662922?hl=en>
+
 Contact Us
 
-If you have any questions about this policy, the Buzz email or our site in general, please email [admin@hotmomsclub.com](mailto:info@purewow.com)  
- 
+If you have any questions about this policy, the Buzz email or our site in general, please email [admin@hotmomsclub.com](mailto:info@purewow.com)
