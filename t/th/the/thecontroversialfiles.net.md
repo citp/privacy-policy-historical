@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205183354id_/http%3A//www.thecontroversialfiles.net/p/your-privacy-is-of-utmost-importance-to.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontroversialfiles.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622010005id_/http%3A//www.thecontroversialfiles.net/p/your-privacy-is-of-utmost-importance-to.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Controversial Files
 
