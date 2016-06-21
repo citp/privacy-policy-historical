@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ray-ban.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014235449id_/http%3A//www.ray-ban.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ray-ban.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621190023id_/http%3A//www.ray-ban.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Ray-Ban.com Privacy Policy | Ray-Ban US Online Store
 
