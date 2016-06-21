@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adsafrica.co.za privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208103055id_/http%3A//www.adsafrica.co.za/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adsafrica.co.za privacy policy that was archived on 2016-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621121400id_/http%3A//www.adsafrica.co.za/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -29,6 +29,9 @@
 		var mainHostUrl = 'http://www.adsafrica.co.za';
 		var addthis_disable_flash = true;
 		    </script>
+
+    
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script></head>
 <body>
 	<div id="nonFooter">
@@ -41,25 +44,13 @@
 	         <a href="http://www.adsafrica.co.za/selectcity/">Select a city</a>
 	 	</div>
 	<div id="search">
-        			<div class="cse-branding-bottom" style="color:#D4DCE3">
-			  <div class="cse-branding-form">
-			    <form action="http://www.adsafrica.co.za/google_search/" id="cse-search-box">
-			      <div>
-			        <input type="hidden" name="cx" value="partner-pub-7974844938943703:8770446488">
-			        <input type="hidden" name="cof" value="FORID:10">
-			        <input type="hidden" name="ie" value="UTF-8">
-                    <input type="text" name="q" id="searchinput" autocomplete="off" size="25">
-			        <input type="submit" name="sa" value="Search" class="searchsubmit">
-			      </div>
-			    </form>
-			  </div>
-			  <div class="cse-branding-logo">
-			    <img src="http://www.google.com/images/poweredby_transparent/poweredby_555555.gif" alt="Google">
-			  </div>
-			  <div class="cse-branding-text">
-				Custom Search			  </div>
-			</div>
-	        </div>
+        			<form method="get" action="http://www.adsafrica.co.za/search/">
+				<fieldset>
+				<input id="searchinput" type="text" name="query" value="">
+				<input id="searchsubmit" type="submit" value="Search" class="searchsubmit">
+				</fieldset>
+			</form>
+		    </div>
     <div class="compactMenuButton">
         <img src="//www.adsafrica.co.za/images/icons3/menu-alt-48.png">
     </div>
@@ -166,7 +157,7 @@ Assist you with technical difficulties
         <a href="http://www.ciudadanuncios.co.ve/">Venezuela</a>
     </p>
         <p id="legal">
-                Copyright © 2014 free classifieds in South Africa —
+                Copyright © 2016 free classifieds in South Africa —
         post a free ad, South Africa        <br>
         <a href="http://www.adsafrica.co.za/help/#support">Contact Us</a> |
         <a href="http://www.adsafrica.co.za/privacy_policy/">Privacy Policy</a>
@@ -182,7 +173,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
 "' alt='' title='LiveInternet' "+
-"border=0 width=31 height=31><\/a>")//--></script><a href="http://www.liveinternet.ru/click;adsafrica" target="_blank"><img src="http://counter.yadro.ru/hit;adsafrica?t45.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20151208103055id_/http%3A//www.adsafrica.co.za/privacy_policy/;0.4336347827806959" alt="" title="LiveInternet" border="0" width="31" height="31"></a><!--/LiveInternet-->
+"border=0 width=31 height=31><\/a>")//--></script><a href="http://www.liveinternet.ru/click;adsafrica" target="_blank"><img src="http://counter.yadro.ru/hit;adsafrica?t45.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20160621121400id_/http%253A//www.adsafrica.co.za/privacy_policy;0.4471860769680065" alt="" title="LiveInternet" border="0" width="31" height="31"></a><!--/LiveInternet-->
 
 	</span>
 </div>
@@ -201,6 +192,8 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('#search').width('430px');
             $('#sidebar').css('float', 'right');
             $('#page').width('960px');
+            $('#page').css('margin', '0 auto');
+            $('#header').css('margin', '0 auto');
             $('#content').width('750px');
             $('.compactMenu').hide();
             $('.compactMenuButton').hide();
@@ -219,6 +212,8 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('#search').width('200px');
             $('#sidebar').css('float', 'left');
             $('#page').width(width + 'px');
+            $('#page').css('margin', '0 auto');
+            $('#header').css('margin', '0 auto');
             $('#content').width(width + 'px');
             $('.compactMenu').hide();
             $('.compactMenuButton').hide();
@@ -231,7 +226,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('#city').hide();
             $('.compactMenuButton').show();
             $('#page').width(width + 'px');
-            $('#page').css('overflow', 'hidden');
+            // $('#page').css('overflow', 'hidden');
             $('#page').css('margin', '0px');
             $('#header').css('margin', '0px');
             $('#sitepath').css('margin-top', '10px');
@@ -241,14 +236,17 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('#ItemsList').width(width + 'px');
             $('.ga_horizontal').css('float', 'left');
             $('.ga_horizontal').width(width + 'px');
-            $('.ga_horizontal').css('overflow', 'hidden');
+            $('.item_related_list').width(width + 'px');
+            // $('.ga_horizontal').css('overflow', 'hidden');
             $('a').css('font-size', '');
             $('.categoriesBlock').css('height', '80px');
+            /*
             setTimeout(function() {
                 $('.compactMenuButton').animate({ "margin-top": "-=5px" }, "slow", function() {
                     $('.compactMenuButton').animate({ "margin-top": "+=5px" }, "slow");
                 });
-            }, 1000);
+        }, 1000);
+             */
         }
         if ( width < 600 ) {
             $('.categoriesBlock').css('height', 'auto');
