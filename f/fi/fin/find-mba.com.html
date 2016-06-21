@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the find-mba.com privacy policy that was archived on 2015-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151029040932id_/http%3A//find-mba.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the find-mba.com privacy policy that was archived on 2016-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621134614id_/http%3A//find-mba.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="/mba.ico">
 <title>Privacy Policy | FIND MBA</title>
-<link rel="stylesheet" href="/css/app.css?v5688">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=286068244742268"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<link rel="stylesheet" href="/css/app.css?v140">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=286068244742268"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function () {
@@ -35,12 +35,13 @@
         var findmba = {
             user: {
                 logged: false,
-                showEmailPrompt: false            },
+                hasSpamPost: false            },
             url: {
                 login: 'http://find-mba.com/login'
             },
             message: {
                 spam: "Don't spam! Your post won't be published.",
+                post: 'Thanks for posting!\n\nYour post is currently being held for moderation by our administration team. Once it’s approved, you’ll be able to post as much as you’d like. In the meantime, why not check out the most popular business schools on FIND MBA?',
                 mail: "Don't spam! Your message won't be sent."
             },
             program: {
@@ -53,7 +54,11 @@
                     internation_student: "internation_student",
                     gmat: "gmat",
                     work_experience: "work_experience",
-                    women: "women"
+                    women: "women",
+                    toefl: "toefl",
+                    ielts: "ielts",
+                    class_size: "class_size",
+                    applicants_per_year: "applicants_per_year"
                 }
             }
         };
@@ -67,38 +72,42 @@
         if (d.getElementById(id)) return;
         js = d.createElement(s);
         js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=286068244742268";
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=286068244742268";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
 <div class="notice-wrapper">
 <div class="container">
 <div class="row">
-Notice Message
 </div>
 </div>
 </div>
 <div class="container">
 <div class="row">
 <div class="col-md-10 shadowed">
-<div class="header-wrapper row">
 <div class="mobile-nav">
 <div class="mobile-nav-switcher">
-<a href="#" onclick="jQuery('.mobile-menu-content').toggle(); return false;" style="text-align: center;">
-<i style="float: left;"></i>
+<a href="#" style="float:right" onclick="jQuery('.logo').hide(); jQuery('.mobile-search').show(); jQuery('.mobile-search input').focus(); return false;">
+<span class="glyphicon glyphicon-search"></span>
 </a>
-<a href="/" class="logo">
+<a href="#" style="float:left" onclick="jQuery('.mobile-menu-content').toggle(); return false;">
+<span class="glyphicon glyphicon-menu-hamburger"></span>
+</a>
+<a href="/" class="logo" style="float:left">
 <img src="/bundles/pritzwalksapp/findmba_white.svg" class="logo-image" alt="FIND MBA"><br>
 </a>
+<form action="/search/result" method="GET" class="mobile-search">
+<input type="text" name="keyword" placeholder="Search MBA Programs">
+</form>
 </div>
 <div class="mobile-menu-content" style="background: none repeat scroll 0 0 #0000A7; display: none; padding-bottom: 10px; position: absolute; width: 100%; z-index: 9999;">
 <ul class="list-mobile-main">
 <li><a href="/schools" class="mobile-nav-item">Browse Business Schools</a></li>
-<li><a href="http://find-mba.com/what-is-an-mba" class="mobile-nav-item">MBA Basics</a></li>
+<li><a href="/what-is-an-mba" class="mobile-nav-item">MBA Basics</a></li>
 <li><a href="/mba-rankings" class="mobile-nav-item">MBA Rankings</a></li>
 <li><a href="/lists" class="mobile-nav-item">Top 10 Lists</a></li>
 <li><a href="/board" class="mobile-nav-item">MBA Discussions</a></li>
-<li><a href="http://find-mba.com/activity" class="mobile-nav-item">My Schools</a></li>
+<li><a href="/activity" class="mobile-nav-item">My Schools</a></li>
 </ul>
 <ul class="list-mobile-additional">
 <li>
@@ -109,6 +118,7 @@ Notice Message
 </div>
 <div class="clearfix"></div>
 </div>
+<div class="desktop-nav row">
 <div class="col-sm-7 logo-wrapper">
 <a href="/" class="logo">
 <img src="/bundles/pritzwalksapp/findmba.svg" class="logo-image" style="height:35px" alt="FIND MBA"><br>
@@ -177,7 +187,7 @@ MBA Programs Worldwide
 <div class="row">
 <div class="col-sm-8">
 <h1>FIND MBA Privacy Policy</h1>
-<div class="article-content"><p>At FIND MBA we are committed to protecting the privacy of our users.</p><p>When you register at FIND MBA, personal information such as your name and e-mail address will be collected via our registration form. We will use this information solely to personalize the content you will see based on your personal preferences and to improve our understanding of our users’ needs in developing FIND MBA. We will not share this information with any third party nor will we allow third parties to send you information to your submitted e-mail address.</p><p>If you choose to send an e-mail to one of the listed institutions at FIND MBA by pushing the “Request Information”-button, you consent to receiving information from the chosen institution. The e-mail you send will be identified as coming from your personal e-mail address and not from FIND MBA. However, the e-mail will contain an introductory statement indicating that you have sent this e-mail through our website.</p><p>When visiting FIND MBA, a cookie will be placed on your hard drive. This file allows you to move quickly and easily around our site. It enables us to identify returning users and identify registrants. As a registrant you will have the cookie linked to your e-mail address so that you will not need to login each time you visit. We may also use a cookie to track a user's sessions. We only use this information to find out what site features are most popular so that we can develop FIND MBA accordingly. You can delete cookies from your hard drive at any time. However, once the cookie is deleted, any settings such as your stored username and password will have to be re-entered when you log in again.</p><p>As FIND MBA is visited by users from all over the world, the usage of our website involves the transmission of data on an international basis. Thus, by browsing FIND MBA and communicating electronically with us, you consent to our processing of personal data in this way.</p><p>As our privacy policy will be updated regularly to reflect changes in legislation and best practice, we advise you to check here from time to time</p></div>
+<div class="article-content"><p>At FIND MBA we are committed to protecting the privacy of our users.</p><p>When you register at FIND MBA, personal information such as your name and e-mail address will be collected via our registration form. We will use this information solely to personalize the content you will see based on your personal preferences and to improve our understanding of our users’ needs in developing FIND MBA. We will not share this information with any third party nor will we allow third parties to send you information to your submitted e-mail address.</p><p>If you choose to send an e-mail to one of the listed institutions at FIND MBA by pushing the “Request Information”-button, you consent to receiving information from the chosen institution. The e-mail you send will be identified as coming from your personal e-mail address and not from FIND MBA. However, the e-mail will contain an introductory statement indicating that you have sent this e-mail through our website.</p><p>When visiting FIND MBA, a cookie will be placed on your hard drive. This file allows you to move quickly and easily around our site. It enables us to identify returning users and identify registrants. As a registrant you will have the cookie linked to your e-mail address so that you will not need to login each time you visit. We may also use a cookie to track a user's sessions. We only use this information to find out what site features are most popular so that we can develop FIND MBA accordingly. You can delete cookies from your hard drive at any time. However, once the cookie is deleted, any settings such as your stored username and password will have to be re-entered when you log in again.</p><p>When you register for a user account on FIND MBA, you agree to allow FIND MBA to use the e-mail address that you provided to send you regular newsletters, website status updates, advertising for related products and services, and surveys for internal purposes, unless you opt-out of this service&nbsp;by submitting a request to unsubscribe&nbsp;&nbsp;through&nbsp;<a href="/contact">FIND MBA's Contact page.</a></p><p>As FIND MBA is visited by users from all over the world, the usage of our website involves the transmission of data on an international basis. Thus, by browsing FIND MBA and communicating electronically with us, you consent to our processing of personal data in this way.</p><p>As our privacy policy will be updated regularly to reflect changes in legislation and best practice, we advise you to check here from time to time</p></div>
 <div class="extra-content">
 </div>
 </div>
@@ -186,23 +196,33 @@ MBA Programs Worldwide
 <div class="h4">MBA FAQs</div>
 <ul class="list-group">
 <li class="list-group-item">
+<a href="http://find-mba.com/what-is-an-mba">
+What is an MBA?
+</a>
+</li>
+<li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/am-i-a-good-mba-candidate">
-Am I a good MBA candidate?
+Am I a Good MBA candidate?
 </a>
 </li>
 <li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/how-do-i-apply-for-an-mba">
-How do I apply for an MBA?
+How do I Apply for an MBA?
 </a>
 </li>
 <li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/how-do-i-pay-for-my-mba">
-How do I pay for my MBA?
+How do I Pay for my MBA?
 </a>
 </li>
 <li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/mba-accreditation-why-is-it-important">
-MBA accreditation: Why is it important?
+MBA Accreditation: Why is it Important?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/what-is-an-mba-concentration">
+What is an MBA Concentration?
 </a>
 </li>
 <li class="list-group-item">
@@ -212,59 +232,117 @@ What is the GMAT?
 </li>
 <li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/where-should-i-do-my-mba">
-Where should I do my MBA?
+Where Should I do my MBA?
 </a>
 </li>
 <li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/which-kind-of-mba-program-is-right-for-me">
-Which kind of MBA program is right for me?
+Which Kind of MBA Program is Right for Me?
 </a>
 </li>
 <li class="list-group-item">
 <a href="http://find-mba.com/mba-faq/why-should-i-do-an-mba">
-Why should I do an MBA?
+Why Should I do an MBA?
 </a>
 </li>
 </ul>
 </div>
-<div class="widget">
-<div class="teaser teaser-a hidden-xs">
-<a class="teaser-title" href="http://find-mba.com/articles/part-time-and-flexible-mba-programs-in-the-new-york-area" onclick="ga('send', 'event', 'teaser', 'click','43',0, {'nonInteraction': 1});">
-Part-Time and Flexible MBA Programs in the New York Area
+<div class="widget hidden-xs">
+<div class="teaser teaser-b">
+<a class="teaser-title" href="http://find-mba.com/articles/mba-programs-in-design-and-the-arts" onclick="ga('send', 'event', 'teaser', 'click','32',0, {'nonInteraction': 1});">
+MBA Programs in Design and the Arts
 </a>
-<a href="http://find-mba.com/articles/part-time-and-flexible-mba-programs-in-the-new-york-area" onclick="ga('send', 'event', 'teaser', 'click','43',0, {'nonInteraction': 1});">
-<img class="teaser-image img-responsive" alt="Part-Time and Flexible MBA Programs in the New York Area" src="http://find-mba.com/media/cache/teaser/uploads/media/teaser/0001/04/e674162559638fe2b655647ff760b18c4e002ccd.png" onload="ga('send', 'event', 'teaser', 'impression','43',0, {'nonInteraction': 1});">
+<a href="http://find-mba.com/articles/mba-programs-in-design-and-the-arts" onclick="ga('send', 'event', 'teaser', 'click','32',0, {'nonInteraction': 1});">
+<img class="teaser-image img-responsive" alt="MBA Programs in Design and the Arts" src="http://find-mba.com/media/cache/resolve/teaser/uploads/media/teaser/0001/02/7e128da5df70e8aa31aaa76aaf706233d57f9b70.png" onload="ga('send', 'event', 'teaser', 'impression','32',0, {'nonInteraction': 1});">
 </a>
-<a href="http://find-mba.com/articles/part-time-and-flexible-mba-programs-in-the-new-york-area" class="btn btn-teaser" onclick="ga('send', 'event', 'teaser', 'click','43',0, {'nonInteraction': 1});">
+<a href="http://find-mba.com/articles/mba-programs-in-design-and-the-arts" class="btn btn-teaser" onclick="ga('send', 'event', 'teaser', 'click','32',0, {'nonInteraction': 1});">
 Read Article </a>
 </div>
 </div>
 <div class="widget">
 <div class="h4">Top Business Schools by Speciality</div>
-<div class="list-featured-speciality auto-cloud">
-<a class="cloud-item" x-cloud-count="616" href="/lists/top-business-school-by-speciality/top-business-schools-for-accounting-or-taxation">Accounting</a>
-<a class="cloud-item" x-cloud-count="144" href="/lists/top-business-school-by-speciality/top-business-schools-for-business-analytics-and-big-data">Business Analytics and Big Data</a>
-<a class="cloud-item" x-cloud-count="80" href="/lists/top-business-school-by-speciality/top-business-schools-for-consulting">Consulting</a>
-<a class="cloud-item" x-cloud-count="25" href="/lists/top-business-school-by-speciality/top-business-schools-for-corporate-finance">Corporate Finance</a>
-<a class="cloud-item" x-cloud-count="121" href="/lists/top-business-school-by-speciality/top-business-schools-for-energy-and-natural-resources">Energy and Natural Resources</a>
-<a class="cloud-item" x-cloud-count="537" href="/lists/top-business-school-by-speciality/top-business-schools-for-entrepreneurs">Entrepreneurs</a>
-<a class="cloud-item" x-cloud-count="1422" href="/lists/top-business-school-by-speciality/top-business-schools-for-finance-or-financial-services">Finance</a>
-<a class="cloud-item" x-cloud-count="832" href="/lists/top-business-school-by-speciality/top-business-schools-for-healthcare-pharma-biotech">Healthcare / Pharma / Biotech</a>
-<a class="cloud-item" x-cloud-count="47" href="/lists/top-business-school-by-speciality/top-business-schools-for-industrial-management-and-manufacturing">Industrial Management and Manufacturing</a>
-<a class="cloud-item" x-cloud-count="38" href="/lists/top-business-school-by-speciality/top-business-schools-for-luxury-brand-management">Luxury Brand Management</a>
-<a class="cloud-item" x-cloud-count="1190" href="/lists/top-business-school-by-speciality/top-business-schools-for-marketing">Marketing</a>
-<a class="cloud-item" x-cloud-count="91" href="/lists/top-business-school-by-speciality/top-business-schools-for-nonprofit-management">Nonprofit Management</a>
-<a class="cloud-item" x-cloud-count="312" href="/lists/top-business-school-by-speciality/top-business-schools-for-operations-management">Operations Management</a>
-<a class="cloud-item" x-cloud-count="9" href="/lists/top-business-school-by-speciality/top-business-schools-for-private-equity">Private Equity</a>
-<a class="cloud-item" x-cloud-count="166" href="/lists/top-business-school-by-speciality/top-business-schools-for-public-sector-management-government">Public Sector Management / Government</a>
-<a class="cloud-item" x-cloud-count="115" href="/lists/top-business-school-by-speciality/top-business-schools-for-real-estate">Real Estate</a>
-<a class="cloud-item" x-cloud-count="59" href="/lists/top-business-school-by-speciality/top-business-schools-for-retail-and-consumer-goods">Retail and Consumer Goods</a>
-<a class="cloud-item" x-cloud-count="283" href="/lists/top-business-school-by-speciality/top-business-schools-for-strategy-or-business-development">Strategy</a>
-<a class="cloud-item" x-cloud-count="274" href="/lists/top-business-school-by-speciality/top-business-schools-for-supply-chain-management">Supply Chain Management</a>
-<a class="cloud-item" x-cloud-count="219" href="/lists/top-business-school-by-speciality/top-business-schools-for-sustainability-csr-social-entrepreneurship">Sustainability</a>
-<a class="cloud-item" x-cloud-count="401" href="/lists/top-business-school-by-speciality/top-business-schools-for-technology-or-information-technology-it">Technology</a>
-<a class="cloud-item" x-cloud-count="192" href="/lists/top-business-school-by-speciality/top-business-schools-for-tourism-hospitality-leisure">Tourism / Hospitality / Leisure</a>
-</div>
+<table class="table table-striped">
+<tbody>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-tourism-hospitality-leisure">
+Tourism / Hospitality / Leisure
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-private-equity">
+Private Equity
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-luxury-brand-management">
+Luxury Brand Management
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-healthcare-pharma-biotech">
+Healthcare / Pharma / Biotech
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-marketing">
+Marketing
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-technology-or-information-technology-it">
+Technology
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-public-sector-management-government">
+Public Sector Management / Government
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-energy-and-natural-resources">
+Energy and Natural Resources
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-nonprofit-management">
+Nonprofit Management
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-accounting-or-taxation">
+Accounting
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/lists/top-business-school-by-speciality/top-business-schools-for-business-analytics-and-big-data">
+Business Analytics and Big Data
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/lists"><i class="icon-arrow"></i>More Top Lists</a></p>
 </div>
 </div>
 </div>
@@ -273,10 +351,9 @@ Read Article </a>
 </div>
  
 <div class="footer-school-widget visible-xs visible-sm">
-<ul class="list-unstyled school-banners padding-top">
-</ul> </div>
+<ul class="list-unstyled school-banners padding-top"></ul> </div>
 <div class="footer-wrapper row">
-<div class="col-md-12 pattern">
+<div class="col-md-12 footer-backdrop">
 <div class="row">
 <div class="col-sm-2 col-xs-6">
 <ul class="list-unstyled list-divider">
@@ -318,15 +395,16 @@ Read Article </a>
 <input type="text" name="keyword" placeholder="Search MBA Programs">
 <input class="search-button" type="submit" value="">
 </form>
-<div class="fb-page" data-href="https://www.facebook.com/FindMBA" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true" data-show-posts="false">
+<div class="fb-page" data-href="https://www.facebook.com/FindMBA" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true">
 <div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/FindMBA"><a href="https://www.facebook.com/FindMBA">FIND MBA</a>
+<blockquote cite="https://www.facebook.com/FindMBA">
+<a href="https://www.facebook.com/FindMBA">FIND MBA</a>
 </blockquote>
 </div>
 </div>
 </div> </div>
 <p class="footer-copyright">
-<small>2001–2015 Pritzwalks – FIND MBA – Master of
+<small>2001–2016 Pritzwalks – FIND MBA – Master of
 Business Administration (MBA) Programs Worldwide
 </small>
 </p>
@@ -336,46 +414,56 @@ Business Administration (MBA) Programs Worldwide
 </div>
 <div class="body-wrapper-right col-md-2 hidden-sm hidden-xs">
 <div class="right-school-widget">
-<ul class="list-unstyled school-banners padding-top">
-</ul> </div>
+<ul class="list-unstyled school-banners padding-top"></ul> </div>
 </div>
 </div>
 </div>
-<script type="text/javascript" src="/js/app.js?v505"></script>
-<script src="/bundles/fosjsrouting/js/router.js"></script>
+<script type="text/javascript" src="/js/app.js?v524"></script>
+<script src="/bundles/fosjsrouting/js/router.js?v1"></script>
 <script src="http://find-mba.com/js/routing?callback=fos.Router.setData"></script>
 <script type="text/javascript">
-            function loadBanners() {
-                var limit, $bannersTarget;
-                if ($('.body-wrapper-right').css('display') == 'none') { // Mobile
-                    limit = 8;
-                    $bannersTarget = $(".footer-school-widget > ul");
-                } else { // Desktop/Tablet
-                    limit = Math.ceil($('.body-wrapper').height() / 165) + 1;
-                    $bannersTarget = $(".right-school-widget > ul");
+        function loadBanners() {
+            var limit, $bannersTarget;
+            var showOnHome = 0;
+
+            if ($('.body-wrapper-right').css('display') == 'none') { // Mobile
+                limit = 20;
+
+                $bannersTarget = $(".footer-school-widget > ul");
+            } else { // Desktop/Tablet
+                if (showOnHome == 0) {
+                    limit = Math.ceil($('.body-wrapper').height() / 160);
+                    limit = limit > 16 ? limit : 16;
+                } else {
+                    limit = Math.ceil($('.body-wrapper').height() / 95);
+                    limit = limit > 16 ? limit : 16;
                 }
 
-                $.get('/banners',
-                        {
-                                                        limit: limit
-                        },
-                        function (data) {
-                            $bannersTarget.find('li:not(:first)').remove();
-                            $bannersTarget.append(data);
-                        }
-                );
+                $bannersTarget = $(".right-school-widget > ul");
             }
 
-            $(function () {
-                loadBanners();
-            });
-        </script>
+            $.get('/banners',
+                    {
+                                                limit: limit,
+                        showOnHome: showOnHome
+                    },
+                    function (data) {
+                        $bannersTarget.find('li:not(:first)').remove();
+                        $bannersTarget.append(data);
+                    }
+            );
+        }
+
+        $(function () {
+            loadBanners();
+        });
+    </script>
 <script type="text/javascript">
         $(function () {
-            // show email prompt
-            if (findmba.user.showEmailPrompt) {
-                if (confirm('Add your email address to receive notifications about new messages and posts.')) {
-                    location.href = 'http://find-mba.com/account/details/edit';
+            // show spam post message
+            if (findmba.user.hasSpamPost) {
+                if (confirm(findmba.message.post)) {
+                    location.href = 'http://find-mba.com/most-popular/worldwide';
                 }
             }
         });
