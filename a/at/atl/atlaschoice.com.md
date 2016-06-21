@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlaschoice.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208120241id_/http%3A//www4.atlaschoice.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlaschoice.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622011619id_/http%3A//www4.atlaschoice.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security at AtlasChoice
 
