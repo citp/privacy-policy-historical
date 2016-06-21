@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125182848id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621042653id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Life in a House of Testosterone
-
-[](http://shareasale.com/r.cfm?b=546842&u=469746&m=46115&urllink=&afftrack=)
+# Privacy Policy • Life in a House of Testosterone
 
 This privacy policy sets out how Life in a House of Testosterone uses and protects any information that you give while using [lifeinahouseoftestosterone.com](http://lifeinahouseoftestosterone.com/).
 
@@ -70,21 +68,19 @@ If you wish to see which companies you have authorized cookies for, and opt-out 
 
 ### Further Information about our Privacy Policy
 
-We love to answer any questions that you might have about anything on our website. If you have questions about our privacy policy or about collection of personally identifiable information, please send a direct inquiry via email to the owner of this website, Kim Miller, at [LifeInAHouse@outlook.com](mailto:LifeInAHouse@outlook.com?subject=Privacy%20Policy).
-
-[](http://www.shareasale.com/u.cfm?d=313033&m=30149&u=469746)
+We love to answer any questions that you might have about anything on our website. If you have questions about our privacy policy or about collection of personally identifiable information, please send a direct inquiry via email to the owner of this website, Kim Miller, at [kim@lifeinahouseoftestosterone.com](mailto:kim@lifeinahouseoftestosterone.com).
 
   * About
   * Latest Posts
 
 
 
-[](http://lifeinahouseoftestosterone.com/ "Kim Miller")
+[](https://www.lifeinahouseoftestosterone.com/ "Kim Miller")
 
-### [Kim Miller](http://lifeinahouseoftestosterone.com/)
+### [Kim Miller](https://www.lifeinahouseoftestosterone.com/)
 
-Hi y'all! I'm Kim - mom to three beautiful children and wife to my hubby of 20+ years. We live on the outskirts of Richmond, VA with our Jack Russell Chihuahua mix - Molly. When I'm not running the tween and teen all over town or taking Molly for the 100th walk of the day, I like to read, watch sunrises on the beach, use the boys as guinea pigs for new recipes, and drink wine. LOTS and LOTS of wine.
+Kim is a PR Friendly, RVA blogger who can usually be found with her nose in a book and a glass of wine. She is a mom, wife, sister, aunt, friend and confidant and loves cooking, sunsets, wine and avoids cleaning like the plague.
 
-[](http://lifeinahouseoftestosterone.com/ "Kim Miller")
+[](https://www.lifeinahouseoftestosterone.com/ "Kim Miller")
 
-#### Latest posts by Kim Miller ([see all](http://lifeinahouseoftestosterone.com/author/kim4testosterone/))
+#### Latest posts by Kim Miller ([see all](https://www.lifeinahouseoftestosterone.com/author/kim4testosterone/))
