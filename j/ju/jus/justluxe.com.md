@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justluxe.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140710id_/http%3A//www.justluxe.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justluxe.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621132131id_/http%3A//www.justluxe.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
