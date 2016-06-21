@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126105125id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621182943id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
 
 # BYOND - Make & Play Online Multiplayer Games - Community
 
@@ -24,6 +24,8 @@ You may modify any of the above information (outside of the account name), acces
 ### Purchases
 
 Purchase of a [BYOND Membership](http://www.byond.com/membership) or any other services on the website may require the input of personal information, such as your real name, mailing address, and credit-card information. All of this information is processed securely and off-site by third-party providers (currently [PayPal](http://www.paypal.com/) and [Stripe](http://www.stripe.com/)). We do not store any of this information and have very limited access to it, only as provided by the aforementioned third-parties.
+
+For some purchases we may ask you to confirm if you are a resident of New York state. This is for tax purposes only and is not shared.
 
 ### Site and software usage
 
@@ -62,13 +64,19 @@ All of the forums on BYOND should be treated as public, and as such, you should 
 
 You may send messages to other BYOND users through the software client or the website. These messages are stored in the database for a short time (approximately a week) and then automatically deleted. Only you, the recipient, and BYOND Staff have access to these messages, and BYOND Staff will only review them if alerted, in order to enforce the the [Terms of Service](http://www.byond.com/TOS).
 
+### Correlated Accounts
+
+BYOND moderators may be able to access limited information regarding logins, for the purposes of determining if two accounts belong to the same person. The BYOND hub may also report to game servers if a user matches another person on their ban list.
+
+The suspicion or likelihood that two or more accounts belong to the same person is not regarded, broadly speaking, as private information, because of the impact such a correlation has on hosting games and on website administration. The fact of a correlation may be disclosed at the discretion of BYOND staff. Typically, this is mostly when a [Terms of Service](http://www.byond.com/TOS) violation or habitual violator is involved.
+
 ### Protection of your information
 
 Aside from the cases mentioned above, will never disclose any information we collect about you, except:
 
-  * as designated by applicable law; eg, if we are issued a court-order.
+  * as designated by applicable law; e.g., if we are issued a court order.
   * for technical reasons; eg, if we are moved to new ownership or otherwise need to transfer our data.
-  * to protect our network, website, or individual users as per the [Terms of Service](http://www.byond.com/TOS); practically speaking, this may mean filing a report with a user's ISP and/or the relevant authorities.
+  * to protect our network, website, or individual users as per the [Terms of Service](http://www.byond.com/TOS); practically speaking, this may for example mean (but is not limited to) filing a report with a user's ISP and/or the relevant authorities.
 
 
 
@@ -76,4 +84,4 @@ Aside from the cases mentioned above, will never disclose any information we col
 
 We may update this policy from time to time as we introduce new features or modify existing ones. We encourage you to review this document periodically. 
 
-Copyright © 2015 BYOND Software. All rights reserved. 
+Copyright © 2016 BYOND Software. All rights reserved. 
