@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226073227id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621094050id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
 ## Privacy Policy
+
+##### Get Martin's Free Weekly Email!
+
+For all the latest deals, guides and loopholes - join the 10m who get it. _Don't miss out_
 
 ### 1\. About us
 
@@ -42,11 +46,11 @@ We collect your name, home address, email address, energy tariff and energy usag
 
 We will use this information as described above and: 
 
-  * To provide you with energy tariff comparisons (which will involve regular periodic background comparisons using this information against current prevailing energy tariffs for as long as you are signed up to Cheap Energy Club);
+  * To provide you with energy tariff comparisons (which will involve regular periodic background comparisons using this information against current prevailing energy tariffs currently available on the market for as long as you are signed up to Cheap Energy Club);
 
-  * To alert you to: (i) energy deals which meet your chosen savings trigger; (ii) occasional energy consumer news; and (iii) other MSE clubs which we think you may be interested in; 
+  * To alert you to: (i) energy deals which meet your chosen savings trigger; (ii) occasional energy consumer news; and (iii) other MSE clubs which we think you may be interested in;
 
-  * In connection with an application via Cheap Energy Club, to switch your energy provider (including, where applicable, in connection with cashback due to you under the switch); and 
+  * In connection with an application to switch your energy provider (including, where applicable, in connection with cashback due to you under the switch); 
 
   * To communicate with you at your request (eg, to reset your password) and enable your details to be moved across our tools (with your informed consent) in order to speed up form filling, or to personalise, or improve your experience on our Site. 
 
@@ -135,8 +139,8 @@ We do our best to keep the information you disclose to us secure. However, we ca
 
 ### 8\. Changes
 
-This policy is effective from 16 December 2015 and replaces with immediate effect the Privacy Policy published on 31 March 2015. We may, from time to time, make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or Site enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted. 
+This policy is effective from 09 June 2016 and replaces with immediate effect the Privacy Policy published on 16 December 2015. We may, from time to time, make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or Site enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted. 
 
 * * *
 
-Effective as of: **16 December 2015**
+Effective as of: **09 June 2016**
