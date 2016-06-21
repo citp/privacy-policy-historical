@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the balkaninsight.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626120335id_/http%3A//www.balkaninsight.com/en/static-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balkaninsight.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621215015id_/http%3A//www.balkaninsight.com/en/static-page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Balkan Insight
 
 BIRN is committed to safeguarding the privacy of the users of www.BalkanInsight.com. This Privacy Policy statement explains the data processing practices of BIRN.
 
-****If you have any requests concerning your personal information or any queries with regard to these practices please email us at:[office@birn.eu.com](mailto:office@birn.eu.com "Contact BIRN"). Our site contains links to third party sites which are not subject to this privacy policy.
+ ****If you have any requests concerning your personal information or any queries with regard to these practices please email us at:[office@birn.eu.com](mailto:office@birn.eu.com "Contact BIRN"). Our site contains links to third party sites which are not subject to this privacy policy.
 
 We publish the links in good faith but we cannot be held responsible for content outside www.BalkanInsight.com. We recommend that you read the privacy policy of any sites that you visit.
 
