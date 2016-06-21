@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rachaelrayshow.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231170757id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Fcategories%3DCBS_Interactive%253AmPrivacy%26template%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com%26data%3D%26cfs%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelrayshow.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621103715id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Fcategories%3DCBS_Interactive%253AmPrivacy%26template%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com%26data%3D%26cfs%3Ddefault) for the most accurate reproduction.*
 
 # CBSi Privacy Policy
 
