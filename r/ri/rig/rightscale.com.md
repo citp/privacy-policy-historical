@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightscale.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026124652id_/http%3A//www.rightscale.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightscale.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621074719id_/https%3A//www.rightscale.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RightScale
 
@@ -127,7 +127,7 @@ We may share or disclose your PII as follows:
 
   * To corporate subsidiaries we own or control to support their business and marketing processes;
 
-  * To our service providers and suppliers, who are acting and using your information on our behalf;
+  * To our service providers, partners, resellers, and suppliers, who are acting and using your information on our behalf or in connection with an actual or potential transaction;
 
   * Based on a good faith belief that such disclosure is necessary to protect the rights or safety of any person or entity;
 
@@ -200,6 +200,6 @@ Please note that this Policy may change from time to time. We will post any Poli
 
 We are committed to privacy and are involved in current industry initiatives to preserve individual privacy rights on the Internet and with respect to Cloud Computing services. Our privacy practices will evolve to meet new requirements, standards, technologies and customer desires and we welcome your opinions and insight on this evolution.
 
-V2.0
+V3.0
 
-[September 21, 2012]
+[May 1, 2016]
