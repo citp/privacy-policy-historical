@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the markets.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113173711id_/http%3A//www.markets.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markets.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622003805id_/http%3A//www.markets.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# PRIVACY POLICY STATEMENT
+# Privacy Policy Statement | Markets.com
 
-**The protection of privacy and the safeguarding of our Clients’ personal and financial information is our highest priority.**
+**Note:** The English version of this agreement is the governing version and shall prevail whenever there is any discrepancy between the English version and the other versions.
 
-**Please view the following Privacy Policy Statement which clearly explains how we, at Safecap Investments Limited ("Safecap"), collect, process, store and protect our Clients’ information.**
+ **The protection of privacy and the safeguarding of our Clients’ personal and financial information is our highest priority.**
+
+ **Please view the following Privacy Policy Statement which clearly explains how we, at Safecap Investments Limited ("Safecap"), collect, process, store and protect our Clients’ information.**
 
 **By opening an account, Client hereby consents to such collection, processing, storage and use of personal information by Safecap as explained below.**
 
@@ -90,10 +92,10 @@ To administer and improve the Markets.com website, Safecap may use third parties
 
 **PRIVACY STATEMENT UPDATES**
 
-From time to time, Safecap may update this Privacy Policy Statement. In the event Safecap materially changes this Privacy Policy Statement including how we collect, process or use your personal information, the revised Privacy Policy Statement will be posted on the website Client agrees to accept posting of a revised Privacy Policy Statement electronically on the website as actual notice to Client. Any dispute over our Privacy Policy Statement is subject to this Notice and our [Customer Agreement](https://web.archive.org/about-us/terms-conditions.html). Safecap encourages Client to periodically check back and review this policy so that Client always will know what information Safecap collects, how Safecap uses it, and to whom Safecap may disclose it.
+From time to time, Safecap may update this Privacy Policy Statement. In the event Safecap materially changes this Privacy Policy Statement including how we collect, process or use your personal information, the revised Privacy Policy Statement will be posted on the website Client agrees to accept posting of a revised Privacy Policy Statement electronically on the website as actual notice to Client. Any dispute over our Privacy Policy Statement is subject to this Notice and our [Customer Agreement](https://web.archive.org/terms-conditions). Safecap encourages Client to periodically check back and review this policy so that Client always will know what information Safecap collects, how Safecap uses it, and to whom Safecap may disclose it.
 
 **AGREEMENT**
 
 I have read, understood and agree with the terms of this Privacy Policy Statement, and I confirm that I have full power and authority to be bound by the terms of this Privacy Policy Statement.
 
-For any other concern please [Contact Us](https://web.archive.org/about-us/contact-us.html)
+For any other concern please [Contact Us](https://web.archive.org/contact)
