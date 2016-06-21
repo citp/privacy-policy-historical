@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishpicker.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231165056id_/http%3A//www.snapdeal.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishpicker.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621065745id_/http%3A//www.snapdeal.com/page/terms) for the most accurate reproduction.*
 
 # Terms & Condition Page -Snapdeal.com - Features Daily Best Deals in Your City
 
@@ -6,7 +6,7 @@
 
 THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF AN ELECTRONIC CONTRACT FORMED UNDER THE INFORMATION TECHNOLOGY ACT, 2000 AND THE RULES MADE THEREUNDER AND THE AMENDED PROVISIONS PERTAINING TO ELECTRONIC DOCUMENTS / RECORDS IN VARIOUS STATUTES AS AMENDED BY THE INFORMATION TECHNOLOGY ACT, 2000. THIS PRIVACY POLICY DOES NOT REQUIRE ANY PHYSICAL, ELECTRONIC OR DIGITAL SIGNATURE.
 
-THIS PRIVACY POLICY IS A LEGALLY BINDING DOCUMENT BETWEEN YOU AND SNAPDEAL (BOTH TERMS DEFINED BELOW). THE TERMS OF THIS PRIVACY POLICY WILL BE EFFECTIVE UPON YOUR ACCEPTANCE OF THE SAME (DIRECTLY OR INDIRECTLY IN ELECTRONIC FORM, BY CLICKING ON THE ‘I ACCEPT’ TAB OR BY USE OR THE WEBSITE OR BY OTHER MEANS) AND WILL GOVERN THE RELATIONSHIP BETWEEN YOU AND SNAPDEAL FOR YOUR USE OF THE WEBSITE (DEFINED BELOW).
+THIS PRIVACY POLICY IS A LEGALLY BINDING DOCUMENT BETWEEN YOU AND SNAPDEAL (BOTH TERMS DEFINED BELOW). THE TERMS OF THIS PRIVACY POLICY WILL BE EFFECTIVE UPON YOUR ACCEPTANCE OF THE SAME (DIRECTLY OR INDIRECTLY IN ELECTRONIC FORM, BY CLICKING ON THE "I ACCEPT" TAB OR BY USE OR THE WEBSITE OR BY OTHER MEANS) AND WILL GOVERN THE RELATIONSHIP BETWEEN YOU AND SNAPDEAL FOR YOUR USE OF THE WEBSITE (DEFINED BELOW).
 
 THIS DOCUMENT IS PUBLISHED AND SHALL BE CONSTRUED IN ACCORDANCE WITH THE PROVISIONS OF THE INFORMATION TECHNOLOGY (REASONABLE SECURITY PRACTICES AND PROCEDURES AND SENSITIVE PERSONAL DATA OF INFORMATION) RULES, 2011 UNDER INFORMATION TECHNOLOGY ACT, 2000; THAT REQUIRE PUBLISHING OF THE PRIVACY POLICY FOR COLLECTION, USE, STORAGE AND TRANSFER OF SENSITIVE PERSONAL DATA OR INFORMATION. 
 
@@ -14,16 +14,16 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THE WEBSITE, YOU INDICATE TH
 
 By providing us your Information or by making use of the facilities provided by the Website, You hereby consent to the collection, storage, processing and transfer of any or all of Your Personal Information and Non-Personal Information by Snapdeal as specified under this Privacy Policy. You further agree that such collection, use, storage and transfer of Your Information shall not cause any loss or wrongful gain to you or any other person. 
 
-Jasper Infotech Private Limited and its subsidiaries and affiliates and Associate Companies (individually and/ or collectively, "Snapdeal") is/are concerned about the privacy of the data and information of users (including sellers and buyers/customers whether registered or non- registered) accessing, offering, selling or purchasing products or services on Snapdeal’s websites, mobile sites or mobile applications ("Website") on the Website and otherwise doing business with Snapdeal. “Associate Companies” here shall have the same meaning as ascribed in Companies Act, 2013. 
+Jasper Infotech Private Limited and its subsidiaries and affiliates and Associate Companies (individually and/ or collectively, "Snapdeal") is/are concerned about the privacy of the data and information of users (including sellers and buyers/customers whether registered or non- registered) accessing, offering, selling or purchasing products or services on Snapdeal's websites, mobile sites or mobile applications ("Website") on the Website and otherwise doing business with Snapdeal. "Associate Companies" here shall have the same meaning as ascribed in Companies Act, 2013. 
 
-The terms “We” / “Us” / “Our” individually and collectively refer to each entity being part of the definition of Snapdeal and the terms "You" / "Your" / "Yourself” refer to the users.   
+The terms "We" / "Us" / "Our" individually and collectively refer to each entity being part of the definition of Snapdeal and the terms "You" / "Your" / "Yourself" refer to the users.   
 This Privacy Policy is a contract between You and the respective Snapdeal entity whose Website You use or access or You otherwise deal with. This Privacy Policy shall be read together with the respective Terms Of Use or other terms and condition of the respective Snapdeal entity and its respective Website or nature of business of the Website. 
 
 **Snapdeal has provided this Privacy Policy to familiarise You with.**
 
   * The type of data or information that You share with or provide to Snapdeal and that Snapdeal collects from You;
-  * The purpose for collection of such data or information from You; Snapdeal’s information security practices and policies; and
-  * Snapdeal’s policy on sharing or transferring Your data or information with third parties.
+  * The purpose for collection of such data or information from You; Snapdeal's information security practices and policies; and
+  * Snapdeal's policy on sharing or transferring Your data or information with third parties.
 
 
 
@@ -33,7 +33,7 @@ This Privacy Policy may be amended / updated from time to time. Upon amending / 
 
 Information collected and storage of such Information:
 
-The “Information” (which shall also include data) provided by You to Snapdeal or collected from You by Snapdeal may consist of “Personal Information” and “Non-Personal Information”. 
+The Information (which shall also include data) provided by You to Snapdeal or collected from You by Snapdeal may consist of "Personal Information" and "Non-Personal Information". 
 
 1.1
 
@@ -66,7 +66,7 @@ Internet Protocol address,
 
 xi
 
-Any other items of ‘sensitive personal data or information’ as such term is defined under the Information Technology (Reasonable Security Practices And Procedures And Sensitive Personal Data Of Information) Rules, 2011 enacted under the Information Technology Act, 2000;
+Any other items of "sensitive personal data or information" as such term is defined under the Information Technology (Reasonable Security Practices And Procedures And Sensitive Personal Data Of Information) Rules, 2011 enacted under the Information Technology Act, 2000;
 
 xii
 
@@ -88,7 +88,7 @@ registering as a seller on the Website,
 
 iii
 
-availing certain services offered on the Website. Such instances include but are not limited to making an offer for sale, online purchase, participating in any online survey or contest, communicating with Snapdeal"s customer service by phone, email or otherwise or posting user reviews on the items available on the Website, or
+availing certain services offered on the Website. Such instances include but are not limited to making an offer for sale, online purchase, participating in any online survey or contest, communicating with Snapdeal's customer service by phone, email or otherwise or posting user reviews on the items available on the Website, or
 
 iv
 
@@ -125,9 +125,9 @@ v
 
 The duration of Your stay on the Website is also stored in the session along with the date and time of Your access,
 
-Non-Personal Information is collected through various ways such through the use of cookies. Snapdeal may store temporary or permanent ‘cookies’ on Your computer. You can erase or choose to block these cookies from Your computer. You can configure Your computer"s browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website.
+Non-Personal Information is collected through various ways such through the use of cookies. Snapdeal may store temporary or permanent "cookies" on Your computer. You can erase or choose to block these cookies from Your computer. You can configure Your computer"s browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website.
 
-Ads: Snapdeal may use third-party service providers to serve ads on Snapdeal’s behalf across the internet and sometimes on the Website. They may collect Non- Personal Information about Your visits to the Website, and Your interaction with our products and services on the Website.
+Ads: Snapdeal may use third-party service providers to serve ads on Snapdeal's behalf across the internet and sometimes on the Website. They may collect Non- Personal Information about Your visits to the Website, and Your interaction with our products and services on the Website.
 
 Please do note that Personal Information and Non Personal Information may be treated differently as per this Privacy Policy.
 
@@ -142,7 +142,7 @@ the Information you provide to Snapdeal from time to time is and shall be authen
 
 ii
 
-Your providing the Information to Snapdeal and Snapdeal’s consequent storage, collection, usage, transfer, access or processing of the same shall not be in violation of any third party agreement, laws, charter documents, judgments, orders and decrees.
+Your providing the Information to Snapdeal and Snapdeal's consequent storage, collection, usage, transfer, access or processing of the same shall not be in violation of any third party agreement, laws, charter documents, judgments, orders and decrees.
 
 Snapdeal and each of Snapdeal entities officers, directors, contractors or agents shall not be responsible for the authenticity of the Information that You or any other user provide to Snapdeal. You shall indemnify and hold harmless Snapdeal and each of Snapdeal entities officers, directors, contracts or agents and any third party relying on the Information provided by You in the event You are in breach of this Privacy Policy including this provision and the immediately preceding provision above.
 
@@ -257,7 +257,7 @@ to trace computer resources or any person who may have contravened, or is suspec
 
 to enable a potential buyer or investor to evaluate the business of Snapdeal(as further described in paragraph 8 of the Privacy Policy).
 
-[Individually and collectively referred to as (“ **Purposes** ”)]
+[Individually and collectively referred to as (" **Purposes** ")]
 
 You hereby agree and acknowledge that the Information so collected is for lawful purpose connected with a function or activity of each of the Snapdeal entities or any person on their respective behalf, and the collection of Information is necessary for the Purposes.
 
@@ -358,7 +358,7 @@ You can add or update Your Personal Information on regular basis. Kindly note th
 
 7.1
 
-If you find any discrepancies or have any grievances in relation to the collection, storage, use, disclosure and transfer of Your Personal Information under this Privacy Policy or any terms of Snapdeal’s Terms of Use, Term of Sale and other terms and conditions or polices of any Snapdeal entity, please contact the following: 
+If you find any discrepancies or have any grievances in relation to the collection, storage, use, disclosure and transfer of Your Personal Information under this Privacy Policy or any terms of Snapdeal's Terms of Use, Term of Sale and other terms and conditions or polices of any Snapdeal entity, please contact the following: 
 
 7.2
 
