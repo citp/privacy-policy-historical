@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopfactorydirect.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125164243id_/http%3A//shopfactorydirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopfactorydirect.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621212502id_/http%3A//shopfactorydirect.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Shop Factory Direct - Furniture, Bedroom Sets, Living Room, Dining Room, Bathroom, Portable Spas
 
