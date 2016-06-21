@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wholesalesolar.com privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825043720id_/http%3A//www.wholesalesolar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalesolar.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621051920id_/http%3A//www.wholesalesolar.com/privacy.html) for the most accurate reproduction.*
 
 # Wholesale Solar Privacy Policy
 
-Last Updated: Feb 23, 2015
+**Last Updated: Feb 23, 2015**
 
 Wholesale Solar respects your privacy. In short, we collect only the minimal information we need to 1) fulfill your requests, such as an order, a request for quote, or a newsletter signup and to 2) better understand who is using our website and how we can better serve them. 
 
