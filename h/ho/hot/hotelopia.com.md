@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910160904id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621204600id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Hotelopia Privacy Policy
 
@@ -10,7 +10,7 @@ This website offers two distinct products:
 
  **Online Booking and Direct Payment** at the accommodation establishment, as promoted by LIBERATE S.L.U., a legally constituted Spanish company registered at Complex Mirall Balear, Camí de Son Fangos, 100; Torre A, 5na planta, C.P. 07007, Palma de Mallorca, with tax identification number (C.I.F.) B-07067465 (hereinafter **Liberate** ). 
 
-Hotelopia and Liberate are part of TUI Group. 
+Hotelopia and Liberate are part of Hotelbeds Group. 
 
 This website is property of Hotelopia, on whose website, www.hotelopia.com (hereinafter, the website), Liberate has licensed non-exclusive use of its name for the promotion of its Hotel direct payment method. 
 
@@ -101,7 +101,7 @@ Hotelopia and/or Liberate have some of the most secure technology available in r
 
 This technology ensures and guarantees that your data cannot be intercepted, manipulated or replaced in any way. Thus, payment via Internet is today as safe as any traditional purchase. 
 
-You hereby authorise Hotelopia and/or Liberate to contact you with information and to offer products and services provided by Hotelopia, Liberate or other companies in the TUI Group. Hotelopia and/or Liberate, in any case, will not pass on information to any person not directly responsible for the travel preparations. Hotelopia and/or Liberate do not intentionally collect personal data from minors. 
+You hereby authorise Hotelopia and/or Liberate to contact you with information and to offer products and services provided by Hotelopia, Liberate or other companies in the Hotelbeds Group. Hotelopia and/or Liberate, in any case, will not pass on information to any person not directly responsible for the travel preparations. Hotelopia and/or Liberate do not intentionally collect personal data from minors. 
 
 Hotelopia and/or Liberate will use your personal information, per your express consent, to invite you to voice your opinion on the accommodations after your stay. 
 
