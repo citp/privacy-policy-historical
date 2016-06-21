@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signup.wordpress.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629231949id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signup.wordpress.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621053906id_/https%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Automattic
 
@@ -15,7 +15,7 @@ Below is our privacy policy which incorporates these goals: (Note, we’ve decid
 
 If you have questions about deleting or correcting your personal data please contact our [support team](http://en.support.wordpress.com/).
 
-Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://automattic.com/), [wordpress.com](http://wordpress.com/), [gravatar.com](http://gravatar.com/), [intensedebate.com](http://intensedebate.com/), and [akismet.com](http://akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](https://automattic.com/), [wordpress.com](http://wordpress.com/), [gravatar.com](http://gravatar.com/), [intensedebate.com](http://intensedebate.com/), and [akismet.com](http://akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -57,12 +57,12 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 
 **Change log:**
 
+  * _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0.
   * _September 18, 2013:_   Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
-  * _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph
-  * _January 3, 2011:_ Added court order and subpoena clarification
-  * _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
-  * _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
-  * _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
-  * _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0
+  * _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph.
+  * _January 3, 2011:_ Added court order and subpoena clarification.
+  * _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators.
+  * _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy.
+  * _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies.
 
 
