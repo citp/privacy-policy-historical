@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617223025id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621020813id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN) for the most accurate reproduction.*
 
 # Arab Marriage friendship zawaj love arablove, arab singles, arab dating, arabic, arab personals, single muslim, dating arab girls, muslim dating, arab chat, chatting, muslim dating service, single muslim women, arab women, arabic christian -arab-dating-privacy:: arabelove.com
 
@@ -22,7 +22,7 @@ Once you have registered, you will be given the option of creating a pseudonymou
 
 **How will this information be used and who has access to it?**
 
-If you choose to have them sent to you, we may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to opt-in to receiving different types of communications from us at the point where we request registration information. You may modify this choice at any time by selecting "My Account" from the member home page. We reserve the right to use your contact information at any time to advise you of any updates that may materially affect your rights or status on our site.
+If you choose to have them sent to you, we may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to opt-in to receiving different types of communications from us at the point where we request registration information. You may modify this choice at any time by selecting "Account" from the member home page. We reserve the right to use your contact information at any time to advise you of any updates that may materially affect your rights or status on our site.
 
 Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search, to compose your personal profile - which is associated with a pseudonymous identity you have created - and to deliver targeted advertising and promotional offers to you from external companies that are of the highest relevance to your demographic profile. Other than your arabelove.com mail box, your contact information is never available to other members or organizations. 
 
@@ -35,7 +35,7 @@ We keep the information you have given us for as long as you are a member on the
 
 **Can I change the information I have already given you?**
 
-You can always verify or request the removal of the personally identifiable information we have collected and change your registration information by selecting "My Account" from the main menu on the site. 
+You can always verify or request the removal of the personally identifiable information we have collected and change your registration information by selecting "Account" from the main menu on the site. 
 
 **Do you monitor online behavior?**
 
