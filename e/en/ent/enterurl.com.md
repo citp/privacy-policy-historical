@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterurl.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113022106id_/http%3A//enterurl.com/promotion/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterurl.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621152649id_/http%3A//www.enterurl.com/privacy.html) for the most accurate reproduction.*
 
 # ENTER URL
 
