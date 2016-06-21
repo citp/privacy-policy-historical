@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216014856id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621024707id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Information | The Daily Californian
 
