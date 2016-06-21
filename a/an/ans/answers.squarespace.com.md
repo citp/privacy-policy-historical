@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answers.squarespace.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231170426id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answers.squarespace.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621105232id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Squarespace Privacy Policy — Squarespace
 
@@ -16,7 +16,7 @@ Squarespace takes your privacy seriously. We will not sell, lease, or exchange y
 
  **Registration**
 
-The Squarespace Service requires a login in order to provide you with a personalized account. During Our account registration process, We will collect an email address, your first and last name, and a password from you. You must provide all of this information in order to obtain an account. After completing Our registration form, you will receive a welcome email describing your new Squarespace account, and how to access that account. You may, at your option, also store your social media credentials as part of your account with Our Service. 
+The Squarespace Service requires a login in order to provide you with a personalized account. During Our account registration process, We will collect an email address, your first and last name, and a password from you. You must provide all of this information in order to obtain an account. After completing Our registration form, you will receive a welcome email describing your new Squarespace account, and how to access that account. You may, at your option, also store your social media credentials as part of your account with Our Service. 
 
  **Communications with Squarespace**
 
@@ -48,7 +48,7 @@ When accessing web pages on the Website, Squarespace may log your IP address, ac
 
 If you post any Comments or User Content on the Website, you should be aware that any personal information you choose to provide there may be read, collected, or used by other users of the Website, as well as other third parties. We cannot guarantee that other users have not made copies of and/or will not use such information outside of the Website. We are not responsible for information you choose to post in this forum. 
 
- **Social Media  **
+ **Social Media**
 
 The Website provides users the opportunity to interact and post content through various social media sites. Your interactions with such tools, and any information you provide in connection with these interactions are publicly viewable outside of the Website domain. Each social media site has its own privacy policies, that may be more or less protective than this Policy. If you do not wish for this information to be disclosed, then you should not use these tools. We are not responsible for information you choose to post with such tools.
 
@@ -94,7 +94,7 @@ We will retain your information for as long as your account is active or as need
 
 ### 5\. COMMUNICATIONS FROM SQUARESPACE, INC.
 
- **Service-related Announcements  **
+ **Service-related Announcements**
 
 We will send you service­related announcements on occasions when it is necessary to do so. For instance, if Our service is temporarily suspended for maintenance, We might send you an email. Generally, you may not opt­out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
@@ -142,7 +142,7 @@ We and Our partners, affiliates, or analytics or service providers use technolog
 
 We use cookies for authentication, tracking user sessions, preferences, and movements around the website, anonymous and aggregated marketing analytics, performance analytics, retargeting, and tracking aggregate trends. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use Our website, but your ability to use some features or areas of Our website may be limited. 
 
-### 9\. **BEHAVIORAL TARGETING / RE­TARGETING  **
+### 9\. **BEHAVIORAL TARGETING / RE­TARGETING**
 
 We partner with third parties to either display advertising on Our Website or to manage Our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest­based ads, you may opt­out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
@@ -176,7 +176,7 @@ We encourage you to be aware when you leave Our site and to read the privacy of 
 
 This Privacy Policy applies only to information collected by this Website. 
 
-### 13.  **CHANGES IN THIS PRIVACY POLICY  **
+### 13.  **CHANGES IN THIS PRIVACY POLICY**
 
 If We decide to change Our privacy policy, We will post those changes to this Privacy Policy, the homepage, and other places We deem appropriate so that you are aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We will not materially change Our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -193,13 +193,13 @@ If you have any questions or suggestions regarding Our privacy policy, please co
 Squarespace is located at: 
 
 Squarespace Inc.  
-459 Broadway 5th Floor  
-New York, NY 10013
+225 Varick Street, 12th Floor  
+New York, NY 10014
 
 All correspondence should be sent to: 
 
 Squarespace Inc.  
-ATTN: Legal Department   
-Re: Privacy Concern   
-459 Broadway, 5th Floor   
-New York, NY 10013 
+ATTN: Legal Department   
+Re: Privacy Concern   
+225 Varick Street, 12th Floor  
+New York, NY 10014
