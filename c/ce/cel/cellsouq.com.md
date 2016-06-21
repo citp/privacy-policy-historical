@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsouq.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217015503id_/http%3A//www.cellsouq.com/about%3Fn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsouq.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621060401id_/http%3A//cellsouq.com/about%3Fn%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | CellSouq.com
 
@@ -55,6 +55,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 CellSouq.com  
 [www.cellsouq.com](http://www.cellsouq.com/)  
 CellSouq Dubai, United Arab Emirates   
-cs@thepremieremedia.com
+info@cellsouq.com
 
-This document was last updated on February 11, 2014
+This document was last updated on January 03, 2016
