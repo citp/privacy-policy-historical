@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easemytrip.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210042332id_/https%3A//www.easemytrip.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easemytrip.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621053727id_/https%3A//www.easemytrip.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EaseMyTrip.com
 
-EaseyTrip.com understands your concern for privacy and makes sure of protecting the personal information of its customers; including their names, addresses, and contact details they share with us. We, being a reliable travel agency of India, take every step to protect your privacy. For visiting EaseMyTrip.com website, you don’t need to reveal your personal information. The individual user exploring our website remains complete anonymous.   
+EaseMyTrip.com understands your concern for privacy and makes sure of protecting the personal information of the customers; including their names, addresses and contact details they share with us. We, being a reliable travel agency of India, take every step to protect your privacy. For visiting EaseMyTrip.com website, you don’t need to reveal your personal information. The individual user exploring our website remains complete anonymous.   
 
 
 For visiting EaseMyTrip.com website, you don’t need to reveal your personal information. The individual user exploring our website remains complete anonymous. 
@@ -25,7 +25,7 @@ If you make any booking/purchasing or sign-up for newsletters of our website, e-
 EaseMyTrip does not share or deal for any of the above sensitive information without the permission of its users or customers. The abovementioned information is collected from the users/customers/travelers for following usage: 
 
 **To Book a Service:-**  
-Names, addresses, phone numbers, and age details are shared with related service providers, including airlines, hotels, or bus services to provide reservation and booking to the customers or travelers.
+Names, addresses, phone numbers and age details are shared with related service providers, including airlines, hotels, or bus services to provide reservation and booking to the customers or travelers.
 
 **To Send Promotional Offers :-** EaseMyTrip.com uses details like mobile numbers and e-mail I’d for sending information about any promotional offers. We often sponsor promotions and lucky draws to give members an opportunity to win discounts on travel or other prizes. This is also optional and the user can unsubscribe for such emails. In such cases, customers remain unaware about ongoing promotional discounts. 
 
@@ -51,7 +51,7 @@ When EaseMyTrip app is installed on your phone, a list of permissions appears. P
 
 **Device & App history:-** We need your device permission to collect details like OS (operating system) name & version, mobile network, preferred language, and few others. On the basis of these inputs, we optimize your travel booking experience.
 
-**Identity:-** Through this permission, you allow us to get the info of your account(s) on your mobile device. This info is used to fill your email ID’s automatically. It allows us mapping email ID’s of users to give them the benefits of exclusive travel discounts and cashback etc. 
+**Identity:-** Through this permission, you allow us to get the info of your account(s) on your mobile device. This info is used to fill your email IDs automatically. It allows us mapping email ID’s of users to give them the benefits of exclusive travel discounts and cashback etc. 
 
 **Location:-** With this permission, you allow us for letting you know the benefits of ongoing specific offers on your location. When you launch EaseMyTrip app for travel booking, we detect your location automatically and your nearest airport or city is auto-filled. For international journeys, this allows us calculating your time zone and providing information consequently.
 
