@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerheroes.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905100831id_/https%3A//flyerheroes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerheroes.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621185950id_/https%3A//flyerheroes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FlyerHeroes
 
