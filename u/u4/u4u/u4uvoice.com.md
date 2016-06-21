@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the u4uvoice.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127010859id_/http%3A//u4uvoice.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u4uvoice.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621100747id_/http%3A//u4uvoice.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - U4UVoice
+# Privacy Policy | U4UVoice
+
+[](https://play.google.com/store/apps/details?id=com.U4U.U4UVoice&hl=en)
 
 **Welcome to U4UVoice**
 
