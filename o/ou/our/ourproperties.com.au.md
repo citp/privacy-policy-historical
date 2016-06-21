@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourproperties.com.au privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910180258id_/http%3A//www.ourproperties.com.au/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourproperties.com.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622010541id_/http%3A//www.ourproperties.com.au/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy - Market and Sell Your Australia Real Estate Properties, Land and Homes to China, Chinese Property Buyers, Chinese Property Investors - ourproperties.com.au
 
