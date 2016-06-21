@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propchill.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220004238id_/http%3A//www.propchill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propchill.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621112402id_/http%3A//www.propchill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Instructions for Website Users - PropChill
 
