@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014041649id_/http%3A//www.spainexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621083823id_/http%3A//www.spainexchange.com/privacy) for the most accurate reproduction.*
 
-# SpainExchange.com Privacy Statement - SpainExchange
+# SpainExchange.com Privacy Statement
 
 We have created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for our Web site.
 
