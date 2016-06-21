@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloyapparel.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108012003id_/http%3A//www.alloyapparel.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloyapparel.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621142226id_/http%3A//www.alloyapparel.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Alloy Apparel & Accessories
 
@@ -26,7 +26,7 @@ We will not share with third parties the personal information you provide except
 
 Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third-party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as email). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third-party service providers. If you want us to stop sharing your personal information with these companies, please go to Edit My Profile on the Site or [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) to email us. 
 
-If you would like to opt-out of receiving offline communications from us, please [email us](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) or let us know in writing via letter addressed to: Attn: Privacy HRSH Acquisitions LLC DBA Alloy Apparel & Accessories, 50 West 23rd Street, New York, NY 10010. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
+If you would like to opt-out of receiving offline communications from us, please [email us](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) or let us know in writing via letter addressed to: Attn: Privacy HRSH Acquisitions LLC DBA Alloy Apparel & Accessories, 15 West 34th Street 6th Floor, New York, NY 10001. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
 
 If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments, and/or deletions will not be exchanged between us and non-affiliated companies. 
 
@@ -67,13 +67,8 @@ If you would like to exercise your rights under California law, please send your
 Email:   
 customerservice@alloymerch.com 
 
-Postal mail:  
-Alloy Customer Privacy  
-PO Box 6143  
-Westerville, OH 43086 
-
 Phone:  
-1-888-502-5569 
+1-855-462-5569 
 
 If you would like to know what information is gathered about you when you visit alloyapparel.com and how it is used, you may review the alloyapparel.com Privacy Policy by clicking here. 
 
@@ -100,8 +95,9 @@ The information you provide pursuant to this privacy policy is owned by HRSH Acq
 If you have any questions or concerns about this privacy policy you may [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) to email us or contact us as follows: 
 
 HRSH Acquisitions LLC DBA Alloy Apparel & Accessories   
-4300 Glendale Milford Rd   
-Cincinnati, OH 45242   
+15 West 34th Street   
+6th Floor   
+New York, NY 10001  
 Attn: Privacy 
 
 Telephone: (212) 590-6200   
@@ -110,9 +106,9 @@ Facsimile: (212) 590-6310
 If you have any questions about how HRSH Acquisitions LLC DBA Alloy Apparel & Accessories or any of its affiliates or subsidiaries will use or share your information you may [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) or contact them as follows: 
 
 HRSH Acquisitions LLC DBA Alloy Apparel & Accessories   
-50 West 23rd Street   
-10th Floor   
-New York, NY 10010  
+15 West 34th Street   
+6th Floor   
+New York, NY 10001  
 Attn: Privacy 
 
 Telephone: (212) 590-6200  
