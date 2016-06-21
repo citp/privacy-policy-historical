@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devilwear.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502160355id_/http%3A//www.devilwear.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devilwear.co.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621161306id_/http%3A//www.devilwear.co.uk/privacy) for the most accurate reproduction.*
 
 # Devilwear | Privacy Policy
 
