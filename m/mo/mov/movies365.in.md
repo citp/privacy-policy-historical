@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movies365.in privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201160347id_/http%3A//www.movies365.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies365.in privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621163819id_/http%3A//www.movies365.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Movies365-The World Most Popular Bollywood-Hollywood Full Movies & Videos Free Download & Watch Online
+# Privacy Policy - Movies365
 
 **At ‘movies365.in’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘movies365.in’, and how we safeguard your information.**
 
@@ -17,3 +17,8 @@ Log Files – As with most other websites, we collect and use the data contained
 Cookies and Web Beacons – We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.
 
 **We can be reached via our contact e-mail to jppilania0003@gmail.com**
+
+[](http://lyricsstuff.com/)
+
+  
+
