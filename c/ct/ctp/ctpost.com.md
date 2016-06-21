@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctpost.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221104650id_/http%3A//www.ctpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctpost.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621030312id_/http%3A//www.ctpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Connecticut Post
 
@@ -57,24 +57,3 @@
 
 
 Last Update: November 20th, 2014
-
-## Top Ads Cars | Jobs | Homes | Rentals
-
-  * #### STRATFORD FURNISHED ROOM Share KIT, bath, W/D. $145/wk, good credit. 203-446-7465
-
-  * #### DANBURY APTS. Bright Studios $600-$700, 1BR, $800-$1000. OSP, LAUNDRY. Security Req'd. NO PETS. Applications...(more)
-
-avail. 203-797-8255 nolanrealestate.org(less)
-
-  * #### DANBURY AREA Large inventory of 1, 2 & 3BRs. DaveLampRealty@yahoo.com 203-240-0219
-
-  * #### BRIDGEPORT 155-211 Birdseye St. Lg., newly renovated 1BRs. New carp, ht/hw, AC, Lndry, appls, off street parking. Starting at...(more)
-
-$850/m. Good loc! 203-455-4838 www.BridgeportCTApts.com(less)
-
-  * #### BRIDGEPORT #1 Newly Renov'd. 1, 2, 3 & 4BRs. Must see! W/D hkup. Section 8 welcomed. Call 203-209-9617
-
-  * #### BRIDGEPORT 2BR apt. Sec. 8 ok. On Pearl Harbor St. (203)520-4502
-
-
-
