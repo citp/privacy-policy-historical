@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912092817id_/https%3A//www.buxfer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621174631id_/https%3A//www.buxfer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Buxfer
 
@@ -50,7 +50,7 @@ Is Personal Information About me Secure?
 
 Your Buxfer account Personal Information is protected by a password for your privacy and security. You need ensure unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
 
-Buxfer endeavors to protect user information to ensure that user account information is kept private, however, Buxfer cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Buxfer uses in connection with buxfer.com, please contact us at support@bbleepuxfer.com. 
+Buxfer endeavors to protect user information to ensure that user account information is kept private, however, Buxfer cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Buxfer uses in connection with buxfer.com, please contact us at support@buxfer.com. 
 
 Buxfer.com contains links to other sites. Buxfer is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on buxfer.com. 
 
@@ -70,7 +70,7 @@ What Other Choices Do I Have?
 
   * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Buxfer features. 
   * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-  * You may request deletion of your Buxfer account by sending an e-mail to our webmaster at support@bbleepuxfer.com. Please note that some information may remain in our records after deletion of your account. 
+  * You may request deletion of your Buxfer account by sending an e-mail to our webmaster at support@buxfer.com. Please note that some information may remain in our records after deletion of your account. 
   * Buxfer may use a user’s e-mail address to send updates, a newsletter or news regarding buxfer.com or Buxfer services. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the buxfer.com, and you are responsible for reviewing such legal notices for changes. 
 
 
@@ -81,6 +81,6 @@ Buxfer may make changes to this Privacy Policy from time to time for any reason.
 
 Questions or Concerns 
 
-If you have any questions or concerns regarding privacy at buxfer.com, please send us a detailed message to support@bbleepuxfer.com. We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at buxfer.com, please send us a detailed message to support@buxfer.com. We will make every effort to resolve your concerns. 
 
 _Adopted July 27, 2007._
