@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceana.org privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121224548id_/http%3A//oceana.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceana.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621101029id_/http%3A//oceana.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oceana
 
@@ -45,11 +45,11 @@ We process Personal Information as described above and also for such internal an
 
 ###  **Children**
 
-Oceana does not knowingly collect, maintain, or use any Personal Information from children under 13 years of age. If we become aware that we have collected any Personal Information from children under 13, we will promptly delete such information from our databases. If you are a parent or guardian and discover that your child under the age of 13 has used the website, then you may alert us at wavemaker@oceana.org and request that we delete that child’s Personal Information from our systems.
+Oceana does not knowingly collect, maintain, or use any Personal Information from children under 13 years of age. If we become aware that we have collected any Personal Information from children under 13, we will promptly delete such information from our databases. If you are a parent or guardian and discover that your child under the age of 13 has used the website, then you may alert us at [wavemaker@oceana.org](mailto:wavemaker@oceana.org) and request that we delete that child’s Personal Information from our systems.
 
 ###  **User Access**
 
-We make a good faith effort to provide you with access to your Personal Information to correct data that may be inaccurate or delete data at your request. If you would like to review the information in our files, correct it, or ask Oceana to refrain from sending you information in the future, please contact us by e-mail at info@oceana.org, by calling Oceana’s membership department at +1.202.833.3900, or by writing to the postal address listed below. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, would be extremely impractical, or where information is required to be retained by law or for legitimate business purposes.
+We make a good faith effort to provide you with access to your Personal Information to correct data that may be inaccurate or delete data at your request. If you would like to review the information in our files, correct it, or ask Oceana to refrain from sending you information in the future, please contact us by e-mail at [info@oceana.org](mailto:info@oceana.org), by calling Oceana’s membership department at +1.202.833.3900, or by writing to the postal address listed below. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, would be extremely impractical, or where information is required to be retained by law or for legitimate business purposes.
 
 ##  **OCEANA TRANSFER AND INFORMATION SHARING POLICY**
 
@@ -78,7 +78,7 @@ This website is hosted in the United States. If you are visiting from the Europe
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy, including encrypting data, using secure HTTPS protocol for transmission and ensuring that all access to data by Oceana staff is limited. No data transmissions over the Internet can be guaranteed to be completely secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems.
 
-If Oceana learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website or providing Personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this website. Oceana may post a notice on our website if a security breach occurs. Oceana may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at info@oceana.org.
+If Oceana learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website or providing Personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this website. Oceana may post a notice on our website if a security breach occurs. Oceana may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [info@oceana.org](mailto:info@oceana.org).
 
 ##  **CHANGES AND UPDATES**
 
@@ -86,7 +86,7 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 
 ##  **CONTACTING OCEANA**
 
-If you have any questions, comments, or concerns about Oceana or this Privacy Policy, please email us at info@oceana.org. In the event that we are still unable to resolve your concerns Oceana is committed to cooperating to achieve a proper resolution of your privacy concerns.
+If you have any questions, comments, or concerns about Oceana or this Privacy Policy, please email us at [info@oceana.org](mailto:info@oceana.org). In the event that we are still unable to resolve your concerns Oceana is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
 ### Postal Mail Address:
 
