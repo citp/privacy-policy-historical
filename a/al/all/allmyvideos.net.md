@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmyvideos.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215131253id_/http%3A//allmyvideos.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyvideos.net privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621104944id_/http%3A//allmyvideos.net/privacy.html) for the most accurate reproduction.*
 
 # allmyvideos.net - Reliable,Fast, Secure video hosting
 
