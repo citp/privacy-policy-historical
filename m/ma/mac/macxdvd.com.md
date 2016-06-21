@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macxdvd.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104220302id_/http%3A//www.macxdvd.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macxdvd.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621030532id_/http%3A//www.macxdvd.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Digiarty Software - Privacy Policy
 
