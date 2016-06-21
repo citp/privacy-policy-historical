@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesfreepress.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210014157id_/http%3A//www.timesfreepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesfreepress.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621032150id_/http%3A//www.timesfreepress.com/privacy-policy) for the most accurate reproduction.*
 
 # Chattanooga News | Times Free Press
 
