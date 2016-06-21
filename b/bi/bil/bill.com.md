@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209230045id_/https%3A//www.bill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621043110id_/https%3A//www.bill.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | Bill.com
 
-[ ](https://privacy.truste.com/privacy-seal/Bill-com-Inc/validation?rid=24365353-4590-473f-a566-b3ad0eec159d "TRUSTe online privacy certification")
-
-_Effective Date: 3/18/15_
-
-### TRUSTe Web Privacy Seal
-
-Bill.com has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-If you have questions or concerns regarding this statement, you should first contact support. You can also reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455) or by mail at 1810 Embarcadero, Palo Alto, California 94303. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-The TRUSTe program covers only information that is collected through this website bill.com, and does not cover the mobile application or information that may be collected through software downloaded from the website.
+_Effective Date: 5/9/16_
 
 ### What Information Bill.com Collects, and How It Is Used
 
@@ -34,7 +24,7 @@ The provided information includes:
     * address, phone number; business tax identification number, and
 
 
-  * The names, work phone numbers and work email addresses of your employees who will be using the webite and services.
+  * The names, work phone numbers and work email addresses of your employees who will be using the website and services.
 
 
   * A credit card to pay for your subscription to Bill.com.
@@ -48,7 +38,7 @@ If you enroll an individual on Bill.com, we will ask that person to provide a na
 
 Bill.com also asks you to provide information about how to contact you not only by email but also by telephone and fax.  We will use this information to provide you with updated information and service your account in other ways. We may also use this information to contact you about additional products or services that may be of interest to you. You will have an opportunity to "opt out" of such offers in the future, if you so choose, by following the instructions set forth in the offer that we send you.
 
-If you sign up your accountant, he or she may use Bill.com to process payables and receivables for you.  Accordingly, your accountant, on your behalf, will be able to enter your PII of the types described above.  Bill.com will use this information for the purposes of verifying identity and creditworthiness, as also described above.  When you send emails or otherwise communicate with Bill.com, we may retain those communications to process your requests and inquiries and improve the quality of our Site.Bill.com also asks you to provide information about how to contact you not only by email but also by telephone and fax.  We will use this information to provide you with updated information and service your account in other ways. We may also use this information to contact you about additional products or services that may be of interest to you. You will have an opportunity to "opt out" of such offers in the future, if you so choose, by following the instructions set forth in the offer that we send you.
+If you sign up your accountant, he or she may use Bill.com to process payables and receivables for you.  Accordingly, your accountant, on your behalf, will be able to enter your PII of the types described above.  Bill.com will use this information for the purposes of verifying identity and creditworthiness, as also described above.  When you send emails or otherwise communicate with Bill.com, we may retain those communications to process your requests and inquiries and improve the quality of our website. Bill.com also asks you to provide information about how to contact you not only by email but also by telephone and fax.  We will use this information to provide you with updated information and service your account in other ways. We may also use this information to contact you about additional products or services that may be of interest to you. You will have an opportunity to "opt out" of such offers in the future, if you so choose, by following the instructions set forth in the offer that we send you.
 
 _Information Collected Using Tracking Technologies We Place._   We use tracking technology such as cookies, scripts, and tags to keep track of who visits our website.  A cookie is an element of data that a website can send to your browser, which may then store it on your system.  You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.  If you do not accept cookies from Bill.com, you will not be able to use our website. Usage of a cookie is in no way linked to any PII while on our website.
 
@@ -56,7 +46,7 @@ In addition to cookies, we collect the following information from all visitors t
 
 _Tracking Technologies Placed by Third Parties._   The use of third party cookies, local storage (HTML 5), beacons, scripts, and tags by our partners, affiliates, tracking utility company and service providers is not covered by this privacy policy.  We do not have access or control over these tracking technologies. Our partners, affiliates, tracking utility company and service providers use tese tracking technologies to store and collect information in order to make it easier for you to navigate our website, to provide certain features on our website, or to display advertising based upon your web browsing activities. Various browsers may offer their own management tools for removing local storage (HTML 5).
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here . Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 _Non- PII._   We may also collect other information as part of the registration and personalization process (e.g., zip code and individual preferences). Certain non-identifying information would be considered a part of your PII if it were combined with other identifiers ( _e.g._ , combining your zip code with your street address) in a way that enables you to be identified. However, the same pieces of information are considered non-identifying information when they are taken alone or combined only with other non-identifying information ( _e.g._ , your viewing preferences). We may combine your PII with non-identifying information and aggregate it with information collected from other users to attempt to provide you with a better experience, to improve the quality and value of the website and to analyze and understand how the website is used.
 
@@ -64,9 +54,11 @@ Bill.com does not share, rent, or trade PII with third parties for their promoti
 
 ### How Information May Be Shared
 
-We will only share personal information with third parties in the ways that are described in the privacy policy.
+We will only share personal information with third parties in the ways that are described in the privacy policy, and we may share personal information as permitted by law. We may share all of the personal information we collect about you, as described above.
 
-_Service Providers._   We share your PII with third parties as needed to maintain, support and operate the website and to perform website-related services (e.g., maintenance services, database management, web analytics and improvement of the website's features) and to assist us in analyzing how our website is used. These third parties have access to your PII only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide PII to our business partners or other trusted entities for the purpose of providing you with information we believe will be of interest to you.
+_Service Providers and Vendors._   We share your PII with third parties as needed to maintain, support and operate the website, to perform website-related services, to undertake the services we are providing and to assist us in analyzing how our website is used (e.g., maintenance services, database management, payment processing, web analytics and improvement of the website's features). These third parties have access to your PII only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may provide PII to your vendors or customers who are party to your Bill.com transaction for the purpose of providing services to you. We may also provide PII to our business partners or other trusted entities for the purpose of providing you with information we believe will be of interest to you.
+
+_Third Parties Unaffiliated with Bill.com._  We may provide PII to your vendors or customers who are party to your Bill.com transaction for the purpose of providing services to you.  Additionally, Bill.com may permit you to use third party services whose products can be supported through the Bill.com website, such as third party data entry service or accounting software providers.  Bill.com will share PII and support the third parties’ services on the Bill.com website at your direction. When you direct Bill.com to share PII with third parties, you agree that Bill.com is not responsible for the third parties’ use, misuse, or handling of that PII.    
 
 _Compliance with Laws and Law Enforcement._   Bill.com cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Bill.com or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
 
@@ -80,7 +72,7 @@ The Bill.com website enables you to update, correct, and delete/remove PII regar
 
 ### Your Profile Visibility – Three Choices
 
-As described and displayed in more detail at [Network Profile Visibility Settings](https://answers.bill.com/app/answers/detail/a_id/1945/kw/public%20profile), your profile, _i.e._ , where you'll display your business contact information, your logo and more, is how you are represented on the internet  and/or within the Bill.com network of customers and vendors (“Network”).
+As described and displayed in more detail in [Network Profile Visibility Settings](https://answers.bill.com/app/answers/detail/a_id/1945/kw/public%20profile), your profile, _i.e._ , where you'll display your business contact information, your logo and more, is how you are represented on the internet  and/or within the Bill.com network of customers and vendors (“Network”).
 
 You can also control your profile **_visibility_** by choosing one of the three different setting options described below:
 
@@ -90,13 +82,13 @@ You can also control your profile **_visibility_** by choosing one of the three 
 
 Bill.com offers a “Public” profile feature that allows you to publish portions of your Bill.com Network profile to the public Internet.  This Public profile will be indexed and displayed through Internet search engines when someone searches for your company’s name.  Then the web surfer will know it can connect with you to send and/or receive electronic payments via Bill.com. 
 
-You may choose the parts of your profile that get indexed and displayed on the public Internet you or completely opt out of this feature in your Bill.com Network Profile settings.  However, third-party search engines may not automatically update their caches, which may contain old public profile information.
+You may choose the parts of your profile that get indexed and displayed on the public Internet or completely opt out of this feature in your Bill.com Network Profile settings.  However, third-party search engines may not automatically update their caches, which may contain old public profile information.
 
 **_If you choose the “Public” option:_**
 
-  * Your profile, including your custom Network profile URL, will be shareable with, and available to anyone, including those: 
-    * other Bill.com members logged into the Bill.com Network ( _see_ “Limited” and “Private” below); and
-    * _also on the public internet_ , including web surfers/searchers who are not logged into, the Bill.com Network and who may not yet be Bill.com users.
+  * Your profile, including your custom Network profile URL, will be shareable with, and available to anyone, including: 
+    * those other Bill.com members logged into the Bill.com Network ( _see_ “Limited” and “Private” below); and
+    * _the general public on the internet_ , including web surfers/searchers who are not logged into, the Bill.com Network and who may not yet be Bill.com users.
 
 
   * You will have some control over how much of your business information is displayed through the service functionality.  Note, though, that: 
@@ -115,7 +107,7 @@ You may choose the parts of your profile that get indexed and displayed on the p
   * **IMPORTANT** :  **REMEMBER** If the home address, cell phone number and/or home phone number for you and/or another individual is used in any of the above categories and you choose the “Public” profile option, then all such address and phone information will be available publicly as part of your profile.
 
 
-  * **2)   Limited** (one of our two “in-Network” option)
+  * **2)   Limited** (one of our two “in-Network” options)
 
 
 
@@ -158,23 +150,21 @@ The website may provide links to other sites. If you choose to visit another sit
 
 ### Social Media Widgets
 
-Our Site includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our website includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 ### Import Contacts
 
 You can import contacts from your Outlook or other email account address book to invite them to become members of our site.  We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
 
-###   
-Forum
+### Forum
 
-Bill.com offers publicly accessible community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@hq.bill.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Bill.com offers publicly accessible community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@hq.bill.com](mailto:support@hq.bill.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-###   
-Referrals
+### Referrals
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the website.  Bill.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at support@hq.bill.com to request that we remove this information from our database.
+Your friend may contact us at [support@hq.bill.com](mailto:support@hq.bill.com) to request that we remove this information from our database.
 
 ### Data Retention
 
@@ -182,11 +172,11 @@ We will retain and use your information in accordance with our internal retentio
 
 ### Modifying Your Information; Cancelling Your Account
 
-The Bill.com website enables you to update, correct, and delete/remove PII regarding you, your employees and your accountant at any time on the website.  The website also permits you to cancel our service at any time.   If you have any concerns about how Bill.com stores or uses PII, please contact us at [support@hq.bill.com](mailto:support@hq.bill.com).
+The Bill.com website enables you to update, correct, and delete/remove PII regarding you, your employees and your accountant at any time on the website.  The website also permits you to cancel our service at any time. This privacy policy will continue to apply if you cancel our service, or if you are no longer our customer for any reason. If you have any concerns about how Bill.com stores or uses PII, please contact us at [support@hq.bill.com](mailto:support@hq.bill.com).
 
-### International Transfer
+### International Transfers
 
-Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Bill.com transfers PII to the United States for processing.  Your submission of such information represents your consent to that transfer.
+Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Bill.com may transfer PII to the United States and / or other jurisdictions for processing.  Your submission of such information represents your consent to that transfer.
 
 ### Our Policy Toward Children
 
@@ -204,9 +194,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Bill.com Data Security
 
-Bill.com is committed to protecting the security and privacy of your information. We know that information regarding you and your company is extremely important and confidential.  Bill.com uses reasonable measures – consistent with industry standard practices – as well as some advanced security and process controls designed to ensure that the security, confidentiality, integrity and availability of your data are protected. However, no method of transmission over the Internet or electronic storage is one hundred percent secure. Therefore we cannot guarantee its absolute security. Bill.com is a U.S.-based corporation, and all storage and processing of data occurs in the US.
+Bill.com is committed to protecting the security and privacy of your information. We know that information regarding you and your company is extremely important and confidential.  Bill.com uses reasonable measures – consistent with industry standard practices – as well as some advanced security and process controls designed to ensure that the security, confidentiality, integrity and availability of your data are protected. However, no method of transmission over the Internet or electronic storage is one hundred percent secure. Therefore we cannot guarantee its absolute security. Bill.com is a U.S.-based corporation, and may store and process data in the US as well as other jurisdictions where our service providers may be located.
 
-**_Best-in-Class Data Security._**   At Bill.com, we follow these practices:
+**_Data Security Practices._**   At Bill.com, our data security practices include:
 
   * Extended Validation (EV) SSL encryption technology designed to achieve privacy of communications between your browser and the Bill.com service.
   * Firewalls that aim to prevent unauthorized electronic access to servers
@@ -216,18 +206,18 @@ Bill.com is committed to protecting the security and privacy of your information
 
 
 
-**_Industry-Leading Controls._**   We take controls seriously, as follows:
+**_Data Security Controls._**   We take controls seriously, including the following:
 
-  * Bill.com undergoes an annual SSAE 16 SOC 1 Type II Audit by a leading national CPA Firm.
+  * Bill.com undergoes an annual SOC 1 Type II Audit by a leading national CPA Firm.
   * Payments are FDIC-insured en route.
   * Our employees may access data only on a “need to know” basis, and then the relevant employees access your information only to the extent necessary to help us provide you with our services.
   * All employees undergo background checks and annual training on handling and securing sensitive data.
-  * We will make any legally required disclosures of any breach of the security, confidentiality, integrity or availability of your information.  Such disclosures will be made to you via email or conspicuous posting on this Site without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+  * We will make any legally required disclosures of any breach of the security, confidentiality, integrity or availability of your information.  Such disclosures will be made to you via email or conspicuous posting on this website without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
 
 
-**_Passwords._**   When you sign up for Bill.com, you provide an email address and password to access our website.  You can help protect your information by using a strong password, keeping your password secret and by changing it from time-to-time. See <https://answers.bill.com/app/answers/detail/a_id/1485> for some tips on choosing and maintaining a strong password.
+**_Passwords._**   When you sign up for Bill.com, you provide an email address and password to access our website.  You can help protect your information by using a strong password, keeping your password secret and by changing it from time-to-time. See [https://support.bill.com](https://support.bill.com/) for some tips on choosing and maintaining a strong password.
 
 ### Contact Us
 
-You can reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455), by email at support@hq.bill.com, or by mail at 1810 Embarcadero, Palo Alto, California 94303.  
+You can reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455), by email at [support@hq.bill.com](mailto:support@hq.bill.com), or by mail at 1810 Embarcadero, Palo Alto, California 94303.  
