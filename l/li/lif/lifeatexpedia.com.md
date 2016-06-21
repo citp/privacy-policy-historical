@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeatexpedia.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130124924id_/http%3A//www.expedia.com/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeatexpedia.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621154014id_/http%3A//www.expedia.com/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Expedia.com
 
