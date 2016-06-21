@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookwidgets.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128182221id_/http%3A//www.bookwidgets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookwidgets.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621091343id_/http%3A//www.bookwidgets.com/privacy) for the most accurate reproduction.*
 
 # BookWidgets - Privacy Policy
 
