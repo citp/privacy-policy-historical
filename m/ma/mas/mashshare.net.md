@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashshare.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919220925id_/https%3A//www.mashshare.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashshare.net privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621052101id_/https%3A//www.mashshare.net/privacy) for the most accurate reproduction.*
 
-# Privay Policy | Mashshare.net - Mashshare.net
+# Privay Policy – Mashshare.net
 
 ### Privacy Policy
 
