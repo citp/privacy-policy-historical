@@ -1,98 +1,68 @@
-> *The following text is extracted and transformed from the jetpack.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720000332id_/http%3A//www.jetpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpack.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621053906id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
-# Jetpack
+# Privacy Policy — Automattic
 
-### Jetpack Digital, LLC ("Jetpack") Privacy Policy and your Ad Preferences
+Your privacy is critically important to us. At Automattic we have a few fundamental principles:
 
-Jetpack is an online service delivering ads to websites across the world and web for brands and advertisers. You can find out more about Jetpack’s suite of services by visiting [http://www.jetpack.com](http://www.jetpack.com/)
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-Jetpack and the advertisers we work with are fully committed to preserving the privacy of internet users who see advertisements delivered by Jetpack. Never during an ad campaign does Jetpack collect any personally identifying information about the internet user.
 
-### For Visitors to the Jetpack Web site (the "site")
 
-Jetpack collects aggregate and Non-Personal Information that is generated automatically as a user navigates through the www.Jetpack.com Site. For example, we collect information about how many times a particular page within our Site is visited and which features of the Site users interact with. This information does not identify an individual, but tells us how many users visited the Site and used its features. By collecting this information, we learn how to best tailor the Site to our visitors. Jetpack may collect Non-Personal Information of users through a variety of technologies and practices including Jetpack’s browser cookies, web beacons or similar technologies, or a third party’s browser cookies. A cookie is a small file that can be automatically stored on a computer when the computer’s browser views an advertisements or a website.
+Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/4.0/) license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
- 
+If you have questions about deleting or correcting your personal data please contact our [support team](http://en.support.wordpress.com/).
 
-Jetpack uses several different cookies for different purposes on this Site. We use our own cookies, also known as “first party” cookies, for various purposes, including analyzing our servers’ interactions with your browser and for our own marketing purposes in marketing Jetpack’s ad development and serving services to our customers.
+Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](https://automattic.com/), [wordpress.com](http://wordpress.com/), [gravatar.com](http://gravatar.com/), [intensedebate.com](http://intensedebate.com/), and [akismet.com](http://akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
- 
+### Website Visitors
 
-Jetpack currently sets cookies to be effective for no more than one year from the last interaction with a Jetpack domain or an Ad served by Jetpack. If you have concerns about historical cookies, we recommend that you clear your cookies using your web browser’s settings.
+Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
- 
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-In addition to our own cookies, we also use a limited number of third-party cookies, which we use for site analytics that allow us to improve this Site and to enable social media sharing, site bookmarking, video functionality, measurements, tracking and re-targeting. Jetpack does not create these cookies, which collect technical information about computers visiting this Site, and these third-party cookies remain active for a period set by the third party entity with which they originate. Please read below for more information regarding our use of cookies with Jetpack Ads.
+### Gathering of Personally-Identifying Information
 
- 
+Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [WordPress.com](http://wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-In addition, Jetpack may collect information (including Personal Information, such as email addresses) that users supply voluntarily on the Site, such as when a user signs up for electronic newsletters or other email from Jetpack. If you do not consent to this collection of your Personal Information and its use as described in this policy, do not provide any Personal Information on this Site.
+### Aggregated Statistics
 
- 
+Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
 
-Jetpack may use any information submitted on the Site by a user for the purpose for which the information was submitted and for its other purposes, including to understand how users interact with the Site, to contact the user for customer service purposes, to inform the user of important changes or additions to the Site or the services offered by the Site, and to send the user administrative notices and any other communications that Jetpack believes may be of interest to the user.
+### Protection of Certain Personally-Identifying Information
 
- 
+Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these communications at any time by clicking the “unsubscribe” link in the email you receive.
+### Cookies
 
- 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
 
-The Site may include links to other websites. Those websites will have their own privacy policies that you may wish to review. Jetpack has no responsibility for these linked websites.
+### Business Transfers
 
-### Advertising Served Through Jetpack and Jetpack Ad Delivery
+If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
 
-### Advertising Cookies and equivalent technology
+### Ads
 
-Jetpack adheres to all applicable privacy and data protection laws and regulations. Jetpack respects the privacy of all Internet users, including individuals who visit the Site and individuals who view Jetpack Ads.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
 
-Jetpack may collect and store Non-Personal Information (including, but not limited to browser type, IP address, operating system and the date and time of requests made to our ad server) that is generated automatically as a Viewer sees and interacts with Jetpack Ads. At the request of Advertisers or Publishers, Jetpack may also assist in the collection of Non-Personal Information of viewers by third parties conducting research.
+### Comments
 
-In certain cases, at the request of an Advertiser or Publisher, a Jetpack Ad may be designed to enable the collection of data such as town of residence, zip code, or gender, as well as personal information such as your email address. If you do not consent to collection of your Personal Information, do not supply any Personal Information in a Jetpack Ad. Any Personal Information about a Viewer that is collected by a Jetpack Ad is provided to the Advertiser or Publisher or its authorized service provider and is not used or retained by Jetpack for any other purpose. The Advertiser or Publisher's collection and use of the Personal Information of Viewers is defined by the Advertiser or Publisher's privacy policy. Jetpack is not responsible for Advertisers' or Publishers' privacy or information practices.
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-In some cases, information that is voluntarily supplied by users within a Jetpack Ad in connection with certain third-party services is provided to the third party. The third party's collection and use of the information of Viewers is defined by that third party's privacy policy. Jetpack is not responsible for the third party's privacy or information practices.
+### Privacy Policy Changes
 
-Jetpack may use Non-Personal Information of Viewers collected within Jetpack Ads to better target advertisements, improve the user experience, including to better direct Jetpack Ads to specific types of visitors, and/or to measure ad effectiveness. We may share non-PII in our Advertiser or Publisher Reports, however, we do not otherwise sell or share any user-level data.
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_Jetpack may collect Non-Personal Information of Viewers through a variety of technologies and practices including Jetpack's or other third party's browser cookies or similar technologies. A cookie is a small file that can be automatically stored on a computer when the computer's browser views an advertisements or a website. For example, Jetpack may use cookies to collect Non-Personal Information, such as the approximate geographic location of the Viewer based on their IP address, and any Jetpack Ads that the Viewer has viewed or on which the Viewer has clicked._
+**Change log:**
 
-Jetpack also utilize HTML5 local storage for mobile and table campaigns, solely to report attributed ads to conversions. Jetpack do not use HTML5 local storage for any form of ad targeting. 
+  * _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0.
+  * _September 18, 2013:_   Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
+  * _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph.
+  * _January 3, 2011:_ Added court order and subpoena clarification.
+  * _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators.
+  * _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy.
+  * _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies.
 
-Jetpack does not collect or use any sensitive data for advertising purposes, including social security numbers or other government issued identifiers, insurance plan numbers, financial account numbers, sexual orientation, or precise information about past, present, or potential future health or medical conditions. We do not target any ads on health-related topics.
 
-The security of your information is very important to us. All information we gather is stored on secure servers and our internal systems. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. You play a role in protecting your information as well.
-
-Jetpack does not knowingly collect any information from a child under 13. 
-
-Jetpack may share the information collected in a Jetpack Ad with the Advertiser. For example, if a user has opted in to receive email marketing from the Advertiser, Jetpack will share information collected in the Advertiser's Jetpack Ad with that Advertiser. Jetpack may occasionally release information that Jetpack collects from Jetpack Ads in order to comply with law, or to protect the rights, property or safety of advertisers, publishers, users, the public or Jetpack. Also, in the event that Jetpack sells some or all of its assets, or Jetpack is acquired by another company, information that Jetpack collects may be among the transferred assets.
-
-### Opt-Out
-
-Although Jetpack does not currently target Jetpack ads based on any known Personally Identifiable Information (PII), a Viewer can Opt Out of receiving cookies that enable the Viewer's browser to receive targeted Jetpack ads by clicking on the Opt-Out image below.
-
- 
-
-If a Viewer changes his or her mind after opting out (because he or she decides receiving tailored advertising is preferable to receiving generic ads), the Viewer can opt in by clicking the Opt-In link below.
-
-Opt-out  
-
-This Opt-Out process provides a Jetpack opt-out cookie to the user's browser. Therefore, if cookies are disabled, erased, or altered, or browser and/or machine software is changed, then the results of this opt-out process may be undone, and the Opt-Out will need to be performed again.
-
- 
-
-Alternatively, the Viewer's web browser may allow a user to disable cookies. To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. To check your cookie setting on Safari, select "Preferences" from the Safari menu, and then select either "Privacy" (versions 5.1 and later) or "Security" (versions 5.0.x and earlier). Jetpack does not use Flash Cookies but Adobe's Flash Player Settings Manager allows you to customize the websites which you allow to use local storage ("Flash Cookies"). If a user chooses to disable cookies, a user may not be able to use or participate in some or all of the features offered through the Jetpack Ads.
-
- 
-
-Depending on the Viewer's individual browser settings, some anti-spyware software programs may erroneously flag Jetpack advertisements or cookies as computer threats. Jetpack does not knowingly distribute viruses or any computer code that monitors or causes changes to users' computer system registries as part of its advertisements or cookies.
-
-### Questions/Concerns:
-
-If you have any questions regarding Jetpack's privacy policy, data security practices, information collection or uses, or have any concerns or disputes regarding your information, please contact:   
-Jetpack Digital, LLC  
-Head of Online Privacy  
-1437 7th Street, Suite 350  
-Santa Monica, CA 90401  
-Phone: (310) 961-4050 Fax: (310) 961-4050
-
-Last Updated 10/2014
