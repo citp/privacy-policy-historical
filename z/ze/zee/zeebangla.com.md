@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeebangla.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007174400id_/http%3A//www.zeebangla.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeebangla.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621043452id_/http%3A//www.zeebangla.com/privacy-policy) for the most accurate reproduction.*
 
-# Zee Bangla Privacy Policy - Zee Bangla Official Website: Zee Bangla Shows & Serials, Watch Full Episodes, Videos, Promos online at http://www.zeebangla.com/
+# Privacy Policy
 
 Zee Entertainment Enterprises Limited ("zeebangla.com ") respects your privacy. This Privacy Policy provides the manner your data is collected and used by zeebangla.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by zeebangla.com you agree to the collection and use of your data by zeebangla.com in the manner provided in this Privacy Policy.
 
