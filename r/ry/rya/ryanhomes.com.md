@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730075701id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621124454id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Ryan Homes Privacy Policy
-
-##### Ryan Homes’ Website Privacy Policy Statement
+## Ryan Homes’ Website Privacy Policy Statement
 
 Ryan Homes is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for data received from you on Ryan Homes’ websites. If you give us personal information, we will treat it according to this policy. We encourage you to read this privacy policy to ensure you understand our privacy practices.
 
-##### Information Collected by Ryan Homes’ Websites
+## Information Collected by Ryan Homes’ Websites
 
 When Ryan Homes collects any personal information on our websites, we will express our need for the personal data at the point of collection. We collect personal information only if you voluntarily provide it.
 
@@ -16,9 +14,9 @@ Personal information is any information that can be used to identify you as an i
 
 Ryan Homes does not collect any information stored on your computer except for the information related to the browsing of Ryan Homes' websites. However, Ryan Homes does store information received from the Google Display Ad Network, which estimates a visitor's general age group, gender, and interests. This information remains strictly anonymous, and is stored solely for NVR's internal statistical purposes.
 
-##### Uses of Your Personal Information
+## Uses of Your Personal Information
 
-Some of the ways we may use personal information collected fromyou on our websites include:
+Some of the ways we may use personal information collected from you on our websites include:
 
 Understanding more about you so we can personalize newsletters and websites to your preferences. For example, allowing you the opportunity to request specific information on products and services that may be of interest to you.
 
@@ -31,12 +29,12 @@ Understanding more about you so we can personalize newsletters and websites to y
 
 
 
-##### Sharing your personal information
+## Sharing your personal information
 
 Our general practice is not to sell or rent our customers’ personal information to third-parties for marketing purposes although we reserve the right to do so.
 
 We may share your personal information with our affiliated companies (NVR Mortgage, NVHomes, Rymarc Homes and Fox Ridge Homes) for the purpose of providing current or future products or services to you.
 
-#####  Social Media Policies
+##  Social Media Policies
 
 Living Room Tailgate Sweepstakes: [Click here to view official rules](https://web.archive.org/content/pdf/Official%20Rules_Living%20Room%20Tailgate.pdf).
