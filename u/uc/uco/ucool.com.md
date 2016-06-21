@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125102958id_/http%3A//ucool.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621103402id_/http%3A//ucool.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Ucool
 
@@ -80,4 +80,4 @@ By using this Website, you signify your assent to this Privacy Policy. If you do
 
 This Privacy Policy was last updated on **November 2, 2013**.
 
-Copyright ©2011-2014 uCool, Inc. All rights reserved.
+Copyright ©2011-2016 uCool, Inc. All rights reserved.
