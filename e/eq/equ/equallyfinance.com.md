@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equallyfinance.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009041343id_/http%3A//equallyfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equallyfinance.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621104713id_/http%3A//equallyfinance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EquallyFinance
 
@@ -48,7 +48,7 @@ We could provide link to sites not related to our service, including merchants a
 
 **Children’s Privacy**
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their childrenâ€™s use of the Internet.
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
 **Change in Company’s Ownership**
 
