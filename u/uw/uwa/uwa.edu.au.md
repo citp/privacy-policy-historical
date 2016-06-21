@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022070602id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwa.edu.au privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621063326id_/http%3A//www.uwa.edu.au/terms) for the most accurate reproduction.*
 
 # Terms of use : The University of Western Australia : The University of Western Australia
 
@@ -13,7 +13,7 @@ In using the website you agree to the following terms of use.
 
 ### Disclaimer
 
-The University strives to keep information stored on its websites up to date, but cannot guarantee the information provided is accurate or of good quality. The information is provided 'as is' with no express or implied warranty. Any mistakes in the information [that are brought to our attention](mailto:weboffice@uwa.edu.au) will be corrected as soon as possible.
+The University strives to keep information stored on its websites up to date, but cannot guarantee the information provided is accurate or of good quality. The information is provided 'as is' with no express or implied warranty. Any mistakes in the information [that are brought to our attention](mailto:digitalandcreative@uwa.edu.au) will be corrected as soon as possible.
 
 Users should consult directly with the authorised officer listed at the bottom of every page to confirm the accuracy, completeness and currency of information found on the website, particularly before taking any step in reliance upon such information.
 
@@ -51,14 +51,14 @@ The University of Western Australia claims copyright ownership of all informatio
 
 Moral rights reside with the author, unless expressly stated otherwise. Please contact the author in the first instance if you wish to copy, use or link to a particular page or article.
 
-Legal queries can be directed to the [University Lawyer](mailto:kim.heitman@uwa.edu.au) at the [Legal Services Office](http://www.legalservices.uwa.edu.au/lso), phone (+61 8) 6488 1965.
+Legal queries can be directed to the [Legal Services Office](http://www.legalservices.uwa.edu.au/lso), phone (+61 8) 6488 2414.
 
 Back to top
 
 ### Complaints
 
-To make a complaint to or about the University of Western Australia refer to the [University's complaint and grievance procedures](http://www.uwa.edu.au/university/complaints).
+To make a complaint to or about the University of Western Australia refer to the [University's complaint and grievance procedures](http://www.web.uwa.edu.au/university/complaints).
 
-All other website queries should be directed to the [University Website Office](http://www.weboffice.uwa.edu.au/).
+All other website queries should be directed to the [Digital and Creative Services](http://www.digital.uwa.edu.au/).
 
 Back to top
