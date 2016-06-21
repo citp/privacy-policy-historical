@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119044622id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621181137id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
 
 # Global privacy policy summary
 
@@ -248,4 +248,4 @@ Attention: General Counsel & Chief Compliance Officer
 
 Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us. 
 
-© 2014 Hay Group. All rights reserved.
+© 2015 Korn Ferry Hay Group. All rights reserved.
