@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthycanadians.gc.ca privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016141133id_/http%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthycanadians.gc.ca privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621224038id_/http%3A//www.canada.ca/en/transparency/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Canada.ca
 
@@ -92,9 +92,6 @@ When a threat to the Canada.ca site or computer systems of the Government of Can
 Any questions, comments, concerns or complaints you may have regarding the administration of the _Privacy Act_ , the _Department of Employment and Social Development Act_ and privacy policies regarding Canada.ca's website may be directed to [ESDC](http://www.esdc.gc.ca/eng/home.shtml)'s Access to Information and Privacy Coordinator.
 
 If you are not satisfied with ESDC's response to your privacy concern, you may wish to contact the [Office of the Privacy Commissioner](http://www.priv.gc.ca/index_e.asp) by telephone at 1-800-282-1376.
-
-Date modified: 
-    2015-07-06
   *[ESDC]: Employment and Social Development Canada
   *[IP]: Internet Protocol
   *[ISP]: Internet Service Providers
