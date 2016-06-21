@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211152043id_/http%3A//www.acm.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621064026id_/http%3A//www.acm.org/about-acm/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Association for Computing Machinery
-
-| 
-
-##### Document Actions
-
-  * 
-
+# ACM Privacy Policy
 
 **ACM Privacy Policy**
 
@@ -23,37 +16,37 @@ Just like any other record keeper, ACM may be required to disclose personal info
 
 Personal data about ACM members and customers may, from time to time, be collected or shared with outside contractors, auditors, consultants, and others hired by ACM to assist in carrying out financial or operational activities. ACM informs recipients about safeguarding personal information, and requires them to use it only for an authorized purpose consistent with this privacy policy, and to return it or destroy it upon completion of the activity.
 
-ACM members may access the information contained in their membership records and correct and update their member profile and mailing information by logging into [myACM](http://www.myacm.org/dashboard.cfm) and clicking on the "My Contact Information" link at left. For futher assistance please contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
+ACM members may access the information contained in their membership records and correct and update their member profile and mailing information by logging into [myACM](http://www.myacm.org/dashboard.cfm) and clicking on the "My Contact Information" link at left. For futher assistance please contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
 
-       **Email Policies**
+**Email Policies**
 
 ACM does not sell, rent, or exchange email addresses of its members and customers. ACM uses email addresses to send the following:
 
-  1. "Must Have" messages that help to service ACM members including answers to member questions; acknowledgments of the receipt of membership applications, renewal notices, and other orders. 
-  2. Occasional "Member Update" announcements about ACM services that we believe to be of some importance to members. These announcements are short, straightforward messages that contain pointers to online resources where members can explore the information more fully. 
-  3. Email messaging that is part of a program for which the member has registered (e.g. an ACM Digital Library early alert email system). 
-  4. Email distribution lists targeted at ACM groups (e.g. special interest group members, chapter officers, etc.). Only ACM headquarters staff can create and support "acm.org" email distribution lists. 
+  1. "Must Have" messages that help to service ACM members including answers to member questions; acknowledgments of the receipt of membership applications, renewal notices, and other orders.
+  2. Occasional "Member Update" announcements about ACM services that we believe to be of some importance to members. These announcements are short, straightforward messages that contain pointers to online resources where members can explore the information more fully.
+  3. Email messaging that is part of a program for which the member has registered (e.g. an ACM Digital Library early alert email system).
+  4. Email distribution lists targeted at ACM groups (e.g. special interest group members, chapter officers, etc.). Only ACM headquarters staff can create and support "acm.org" email distribution lists.
 
 
 
 All ACM created and supported email distribution lists have "unsubscribe" instructions.
 
-       **Postal Mail Policies**
+**Postal Mail Policies**
 
 ACM provides four [postal] mailing list options to its members:
 
-  1. ACM Subscription & Renewal Notices Only: receive only products subscribed to plus renewal invoices. 
-  2. ACM Announcements: information about ACM's Member Value Plus Program (a program offering discounts on products and services other than ACM's), Calls for Papers, Advance Conference Programs, Local Chapter Announcements. 
-  3. ACM Announcements & Sister Society Announcements: receive all of the above plus mailings from other computing societies (e.g. IEEE-CS). 
-  4. ACM Announcements, Sister Society Announcements, and selected Information Technology Offers: receive all of the above, plus selected non-ACM information technology offers from publications, conference sponsors, software/hardware vendors. (This is the default option for members). 
+  1. ACM Subscription & Renewal Notices Only: receive only products subscribed to plus renewal invoices.
+  2. ACM Announcements: information about ACM's Member Value Plus Program (a program offering discounts on products and services other than ACM's), Calls for Papers, Advance Conference Programs, Local Chapter Announcements.
+  3. ACM Announcements & Sister Society Announcements: receive all of the above plus mailings from other computing societies (e.g. IEEE-CS).
+  4. ACM Announcements, Sister Society Announcements, and selected Information Technology Offers: receive all of the above, plus selected non-ACM information technology offers from publications, conference sponsors, software/hardware vendors. (This is the default option for members).
 
 
 
 The names and mailing addresses of members who have selected options #2, #3, or #4 (above) may be rented to outside organizations for the purposes of sending mailing packages that have been carefully screened by authorized ACM staff for their suitability. Managers in ACM's Membership Department are responsible for the screening of materials used by those companies or organizations renting ACM's mailing list. Materials must be of an educational nature for ACM to rent its list. ACM licenses mailing list usage for one-time only -- the standard mailing list rental practice, and renters are asked to sign their agreement to this practice. ACM's Mailing List Manager does not "enhance" or overlay any data on ACM's mailing list. ACM does not rent telephone or email addresses.
 
-In order to update your postal tolerance you will need to contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
+In order to update your postal tolerance you will need to contact ACM's Member Services Department by phone: +1-212-626-0500, 1-800-342-6626, fax: +1-212-944-1318, or email: [acmhelp@acm.org](mailto:acmhelp@acm.org).
 
-       **ACM Web Site**
+**ACM Web Site**
 
 This policy applies to the "acm.org" Web site maintained by ACM.
 
@@ -61,10 +54,12 @@ Other than in the restricted-access portions of ACM's site that requires an ACM 
 
 On some pages of our site we allow individuals to submit information for the purposes of joining ACM; renewing or updating their membership; ordering products and services; or registering for a conference, contest, or other activity. Information collected on these pages will be used according to ACM's Privacy Policy.
 
-       **ACM Web Account Policy**
+**ACM Web Account Policy**
 
 Some portions of the ACM Web site, specifically the ACM Digital Library, require an ACM Web Account for both members and visitors. To create an account, ACM members and customers must provide their name, ACM member number (if applicable), and email address. They are assigned a "username" (which they may change) and asked to create a password and provide the day and month of their birth (for account verification purposes).
 
 Customers must setup an ACM Web account in order to use the "Search" facility in the ACM Digital Library. Non-members are asked for their name, email address, and postal address when they create their account. By default, ACM may send information about ACM products and services to non-member ACM Web account holders via email. Customers may request that they not receive such information via email.
 
 Information collected about ACM Web account usage -- including logs of Web pages visited, searches performed, and Digital Library content downloaded -- will be stored in an anonymized form and used to improve the ACM Digital Library and other ACM Web offerings. Other information provided in the process of creating or using a Web account is used according to the ACM Privacy Policy.
+
+**Questions/Comments:**
