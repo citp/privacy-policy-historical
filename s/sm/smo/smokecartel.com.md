@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smokecartel.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712011831id_/https%3A//www.smokecartel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokecartel.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622014605id_/https%3A//www.smokecartel.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Smoke Cartel
+# Privacy Policy | Smoke Cartel
 
 This site is owned and operated by SmokeCartel. Your privacy on the Internet is of the up most importance to us.  We've partnered with Shopify to present a safe, secure, and easy shopping experience.
 
