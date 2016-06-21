@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefootballnews.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219000946id_/http%3A//collegefootballnews.com/privacy-notice-your-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefootballnews.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622010607id_/http%3A//collegefootballnews.com/privacy-notice-your-california-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Notice / Your California Privacy Rights | College Football News
 
