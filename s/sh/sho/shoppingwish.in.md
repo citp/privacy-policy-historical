@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingwish.in privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221054112id_/http%3A//scandid.in/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingwish.in privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621042017id_/http%3A//scandid.in/help/privacy) for the most accurate reproduction.*
 
 # Scandid - a fast and free barcode scanner based price comparison app for India
 
@@ -96,11 +96,3 @@ Wishpoint Tech Private Limited,
 Senapati Bapat Road, Shivaji Nagar,   
 Pune, 411016  **Customer Service Inquiries**   
 [customercare@shoppingwish.in](mailto:customercare@shoppingwish.in)
-
-Feedback Please tell us what do you think, any kind of feedback is highly appreciated.
-
-Success
-
-We have recieved your question. And we will answer it shortly. 
-
-Lookout for our mail
