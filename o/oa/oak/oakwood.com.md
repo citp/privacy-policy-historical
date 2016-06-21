@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201035902id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621030234id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Oakwood
 
@@ -8,9 +8,9 @@
 
 ## Online Privacy Statement 
 
-(Last Updated May 7, 2014)
+(Last Updated March 9, 2016)
 
-[ Download PDF](http://images.oakwood.com/pdf/OakwoodWorldwideOnlinePrivacyStatementFinal_05072014.pdf)
+[ Download PDF](http://images.oakwood.com/pdf/OakwoodWorldwideOnlinePrivacyStatementFinal_03092016.pdf)
 
 We are dedicated to protecting your privacy and safeguarding your "personally identifiable" information. We are committed to using our customers' information only in a responsible manner. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws.
 
@@ -18,10 +18,10 @@ This Online Privacy Statement is an explanation of the information we collect, h
 
 In order to provide multiple access points to the services and products we offer, R&B Realty, a California Ltd. Partnership DBA Oakwood Worldwide operates directly, or through its affiliates, subsidiaries, or service providers, many websites, including [www.oakwood.com,](http://www.oakwood.com/) [www.execustay.com](http://www.execustay.com/), [www.childactors.net](http://www.childactors.net/), [www.oakwoodnewsletter.com](http://www.oakwoodnewsletter.com/) and other websites listed here (individually, "Website" and collectively, "Websites".)
 
-Oakwood Worldwide is fully committed to providing you with information about the collection and use of personally identifiable information furnished by, or collected from, visitors while using its Websites and services. Oakwood Worldwide collects information about its customers and visitors to its Websites so that it can provide an experience that is responsive to customers' and visitors' needs. 
+Oakwood Worldwide is fully committed to providing you with information about the collection and use of personally identifiable information furnished by, or collected from, visitors while using its Websites and services. Oakwood Worldwide collects information about its customers and visitors to its Websites so that it can provide an experience that is responsive to customers' and visitors' needs.
 
 **Method of Collection of Information**   
-Oakwood Worldwide does not collect personally identifiable information when you browse the Oakwood Worldwide Websites unless you voluntarily and knowingly provide such information. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse the Oakwood Worldwide Websites unless you: 
+Oakwood Worldwide does not collect personally identifiable information when you browse the Oakwood Worldwide Websites unless you voluntarily and knowingly provide such information. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse the Oakwood Worldwide Websites unless you:
 
   * access a Website from a link in an email that we sent;
   * are a myOakwood, eOakwood or eConnectivity member and log-in to your account; or
@@ -72,7 +72,7 @@ We will use your email address to send a confirmation and, if necessary, may use
 
 
 **Consent**  
-As part of our commitment to keep you informed, we may contact you via mail, email, telephone, or by other means to confirm your departure date, ensure your customer satisfaction, notify you of new Oakwood Worldwide products and services, or upcoming Oakwood Worldwide special offers, events, enhancements, or other relevant information that may be of interest to you. You may also receive mailings or other communications from carefully selected partners, such as our referral partners or our customer satisfaction surveyors. We may offer you the option to decline any or all of these communications by following the directions included in our emails or other communications, or by contacting Oakwood Worldwide directly. 
+As part of our commitment to keep you informed, we may contact you via mail, email, telephone, text message, or by other means to confirm your departure date, ensure your customer satisfaction, notify you of new Oakwood Worldwide products and services, or upcoming Oakwood Worldwide special offers, events, enhancements, or other relevant information that may be of interest to you. You may also receive mailings or other communications from carefully selected partners, such as our referral partners or our customer satisfaction surveyors. We may offer you the option to decline any or all of these communications by following the directions included in our emails or other communications, or by contacting Oakwood Worldwide directly. 
 
 Oakwood Worldwide strives to keep all our customers and visitors informed and equally able to take advantage of the benefits offered by Oakwood Worldwide and its strategic marketing partners. However, if you reside outside of the United States, certain data privacy regulations may require us to obtain your permission before we send you information that you have not requested from us. 
 
@@ -83,9 +83,11 @@ The nature of our business and our operations may require us to transfer your in
 
 Oakwood Worldwide complies with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Oakwood Worldwide has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor>.
 
+The EU Safe Harbor program is due to be superseded by the EU Privacy Shield later this year. Until such time any data collected will be in compliance with Safe Harbor.
+
 For the Japan Personal Information Protection Act. For the EU Data Directive, please visit <http://dsv.su.se/jpalme/society/eu-personal-privacy-directive.html>. 
 
-The Websites are hosted in the United States and is intended solely for visitors located within the United States. If you choose to use any Website from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States for storage and processing, and by providing your personally identifiable information on the any Website you consent to that transfer, storage, and processing. Oakwood Worldwide may limit the availability of any Website or any service or product described on any Website to any person or geographic area at any time. If you choose to access any Websites from outside the United States, you do so at your own risk. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. 
+The Websites are hosted in the United States and are intended solely for visitors located within the United States. If you choose to use any Website from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States for storage and processing, and by providing your personally identifiable information on the any Website you consent to that transfer, storage, and processing. Oakwood Worldwide may limit the availability of any Website or any service or product described on any Website to any person or geographic area at any time. If you choose to access any Websites from outside the United States, you do so at your own risk. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. 
 
 **Access**  
 It is Oakwood Worldwide's intent and one of our missions to keep your personal information accurate, complete, and up to date for the purposes for which it is used. You can help us ensure that your contact information and preferences are accurate and complete, you can contact us with the request to correct, update, delete or deactivate it either by emailing our us or by contacting us by telephone or postal mail at the contact information listed below. Please provide your full name and street address and telephone number on your request.
@@ -103,7 +105,7 @@ Los Angeles, CA 90064
 
 
 
-Oakwood Worldwide will take reasonable steps to implement your request to opt out. However, please note that due to production and mailing timelines, it may take around six (6) weeks to make the requested change and, until that change takes effect, you may still receive promotional information from us. Although we will make no more marketing use of information you have asked to be deleted, occasionally, information that you request to be removed will be retained in certain files for a period of time in order to properly resolve disputes or to troubleshoot problems. In addition, some types of information may be stored indefinitely on back-up systems or within log files due to technical, financial or legal requirements.
+Oakwood Worldwide will take reasonable steps to implement your request to opt out. However, please note that due to production and mailing timelines, it may take approximately six (6) weeks to make the requested change and, until that change takes effect, you may still receive promotional information from us. Although we will make no more marketing use of information you have asked to be deleted, occasionally, information that you request to be removed will be retained in certain files for a period of time in order to properly resolve disputes or to troubleshoot problems. In addition, some types of information may be stored indefinitely on back-up systems or within log files due to technical, financial or legal requirements.
 
 **Security**  
 Oakwood Worldwide recognizes the importance of information security, and is constantly reviewing and enhancing all technical, physical, and logical security rules and procedures. Oakwood Worldwide uses reasonable methods to secure your personal information from unauthorized access, use or disclosure. After information reaches Oakwood Worldwide, it is stored in an encrypted format on secure servers that reside behind firewalls designed to block unauthorized access from outside of Oakwood Worldwide. All Oakwood Worldwide owned Websites and servers have security measures in place to help protect your personally identifiable information against loss, misuse, and alteration while under our control. Although guaranteed security does not exist either on or off the internet, we safeguard your information using both procedural and technical safeguards, including the use of a Network Solutions Certificate Authority. Oakwood Worldwide secures the personally identifiable information you provide on computer servers in a controlled, secure environment. When personal information (such as a credit card number, or other financial information) is transmitted through our website, it is protected through the use of encryption by way of a Network Solutions' service known as Secure Sockets Layer (SSL), an encryption method used to help protect your data from interception and hacking while in transit. Oakwood Worldwide protects against unauthorized access of this data by using both technology and comprehensive security policies.
