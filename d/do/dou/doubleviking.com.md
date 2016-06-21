@@ -1,47 +1,71 @@
-> *The following text is extracted and transformed from the doubleviking.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914131920id_/http%3A//www.doubleviking.com/privacy-policy-6806-p.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleviking.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621133837id_/http%3A//www.doubleviking.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 10/17/2007
+# Privacy Policy
 
-**Doubleviking.com Privacy Statement**
+Thank you for visiting this site operated by SK Intertainment, Inc (the “Site”). We are committed to protecting your privacy online and to providing you with the very best experience we can on the Site. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This policy may change from time to time so please check back periodically.
 
-This statement covers the site www.Doubleviking.com (“Doubleviking”). Please read this statement carefully before using proceeding to access Doubleviking. Your use of Doubleviking indicates your agreement to abide by the Terms in effect.
+What information do we collect?
 
-**Information Collection**  
-Double Viking Network, LLC is the sole owner of the information collected on www.Doubleviking.com. Doubleviking may collect information from our users at several different points on our Web site.
+When you visit the Site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve the Site and make your experience on the Site as valuable and efficient as possible.
 
-**Comments**  
-In order to enhance their use of this Web site, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Doubleviking uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
+In addition, we may ask you for personal information at times, including (but not limited to) when you enter promotions or contests, and when you respond to a survey.
 
-**Mailing List**  
-Doubleviking may launch a mailing list in 2005. In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for the mailing list will receive regular emails from Doubleviking including new articles added to the site as well as emails from third party Doubleviking site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.
+What do we do with the information we collect?
 
-**Discussion Group and Cookies**  
-In order to further enhance Doubleviking user experience, Doubleviking may launch a discussion board service where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Doubleviking uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Doubleviking will not pass this information to any other organization except in aggregate form.
+We use the information that we collect to provide our services, to contact you regarding new offers, and for advertising purposes. We also use the information to contact customers to further discuss customer interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. When we send you emails that include a link to the Site, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. If we ever send you emails concerning new products or services that you did not expressly request, we will provide you with an email address by which you may opt out of receiving such emails.
 
-The discussion board service may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+With whom do we share your information and for what purpose?
 
-By setting a cookie on Doubleviking, users will not have to log in a password more than once, thereby saving time while on the Doubleviking discussion board. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Doubleviking products or services that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all Doubleviking services require that you accept cookies.
+The information we collect may also be sold, licensed, transferred, rebranded, updated, appended and/or shared with individuals and companies engaged in the sales, marketing, advertising, and publishing industries for various products and services in which you may be interested. When one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s).
 
-**Third Party Cookies**  
-Some of our business partners may use cookies on our site (for example, advertisers). However, Doubleviking has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Doubleviking only and does not cover the use of cookies by any advertisers.
+We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 
-**Third Party Advertising**  
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, [please click here](http://www.google.com/privacy.html).
+We may contract with third parties to conduct research and marketing on our behalf. Such third parties will be fully bound by an obligation of confidentiality and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities’ use of information. To learn more about your provider's privacy practices, you should consult its privacy policy.
 
-**Legal Disclaimer**  
-Though we make every effort to preserve user privacy, Doubleviking may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+What information do other parties collect?
 
-**Business Transitions**  
-In the event Doubleviking goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+Some advertisers or websites that have links on the Site may collect personally identifiable information about you when you access or utilize those links. We do not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
 
-**Links**  
-The Doubleviking web site contains links to other sites. Please be aware that we, Doubleviking, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Doubleviking.
+What are cookies and how do we use them?
 
-**Notification of Changes**  
-Whenever Doubleviking changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+The Site may use cookies to speed navigation, keep track of items, and provide you with custom-tailored content. We also use cookies to remember information you gave us so you don't have to re-enter it each time you visit the Site. By showing us how and when you use the Site, cookies also help us see which areas are popular and which are not. We also collect IP addresses for system administration and to report aggregate information to our sponsors and advertisers. Some advertisers or websites that have links on the Site may also use their own cookies.
 
-**Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at [doubleviking@gmail.com](mailto:doubleviking@gmail.com).
+Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. You may not be able to access areas of the Site if you turn off the cookies option.
+
+Cooperation with law enforcement
+
+We fully cooperate with law enforcement agencies in identifying those who use the Site for illegal activities. We reserve the right to release information about users who we believe are in violation of applicable laws or regulations. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful.
+
+Users Located Outside of the United States
+
+We make an effort to protect the personal information of all users of the Site. If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to the Site. IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION. Users of the Site located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States.
+
+COPPA compliance
+
+The Site is not directed to children under the age of 13. We have designed this privacy policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties.
+
+If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database.
+
+We believe that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
+
+California User Consumer Rights.
+
+Under California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: http: //www.ftc.gov.
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: SK Intertainment, Privacy Rights, 1625 North Damen Avenue, Floor 2, Chicago, Illinois 60647.
+
+Business transitions
+
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of a portion of our assets, users' personal information will, in most instances, be part of the assets transferred.
+
+Your consent
+
+By using the Site, you consent to the collection and use of your information as described in this policy, and you signify your agreement to this Privacy Policy.
+
+Changes to our Privacy Policy
+
+From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others. It is your responsibility to check this page periodically.
+
+Any questions regarding our Privacy Policy should be directed to privacy@skintertainment.com.
