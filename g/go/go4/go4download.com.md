@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005075140id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621143656id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
 
 # Go4download.com Privacy policy Page
 
@@ -6,7 +6,7 @@
 
 We at go4download.com respects the privacy of all our visitors and for us, the trust of our customers is very important. Our privacy policy page will let you know as to how we use as well as protect the information that you provide us while using our site. There may be changes in our policy from time to time which we will keep you updated through the page. The present policy is effective from: 1 st july 2008.
 
-[](http://i1.wp.com/go4download.com/wp-content/uploads/2014/02/privacy.jpg)
+[](http://go4download.com/wp-content/uploads/2014/02/privacy.jpg)
 
 Your information is collected when you register on our site or when you fill any form on our site. Information that may be collected by us includes:
 
