@@ -1,21 +1,35 @@
-<!--The following is the downloaded HTML source of the dailystar.co.uk privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231233816id_/http%3A//www.dailystar.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailystar.co.uk privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622003927id_/http%3A//www.dailystar.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta property="fb:pages" content="161612017189003">
 
     
-    <script async="" src="http://a.visualrevenue.com/vrs.js"></script><script src="//tags.tiqcdn.com/utag/northern-and-shell/ds/prod/utag.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=I34AE6UY"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://cdn.images.dailystar.co.uk/js/dist/vendor-header.min.js"></script>
-
+    <script async="" src="http://a.visualrevenue.com/vrs.js"></script><script src="//tags.tiqcdn.com/utag/northern-and-shell/ds/prod/utag.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="http://cdn.images.dailystar.co.uk/js/dist/vendor-header.min.js"></script>
+    <!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push(
+{ c1: "2", c2: "12961652" }
+);
+(function()
+{ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); }
+)();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=12961652&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
         <script src="http://cdn.gigya.com/JS/gigya.js?apiKey=3_X9kTtJid0XPDQF-hGyrUNQzw17dkd4R4JN_hPZWT07ppRKkhxAOjte0w7k6v4Blr" type="text/javascript"></script>
     
     <title>Privacy Policy | Daily Star</title>
     <meta name="description" content="Privacy Policy">
 
         <link rel="canonical" href="http://www.dailystar.co.uk/privacy">
-        <!-- Loading utag.sync synchronously -->
+            <!-- Loading utag.sync synchronously -->
 <script type="text/javascript" src="//tags.tiqcdn.com/utag/northern-and-shell/ds/prod/utag.sync.js"></script>
     <meta name="og:description" content="Privacy Policy">
 <meta name="twitter:description" content="Privacy Policy">
@@ -28,6 +42,7 @@
 <meta name="twitter:url" content="http://www.dailystar.co.uk/privacy">
 <meta property="og:site_name" content="Dailystar.co.uk">
 <meta property="twitter:domain" content="dailystar.co.uk">
+<meta property="video_autoplay" content="false">
 <link href="https://chrome.google.com/webstore/detail/onhilelbkklcedgpkkmobnkfljelgpdj" rel="chrome-webstore-item"><meta name="parsely-page" content="{&quot;title&quot;:&quot;Privacy Policy | Daily Star&quot;,&quot;link&quot;:&quot;http://www.dailystar.co.uk/privacy&quot;,&quot;type&quot;:&quot;index&quot;,&quot;section&quot;:&quot;Privacy Policy&quot;}">
 
     
@@ -39,7 +54,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="http://cdn.images.dailystar.co.uk/appletouch114.png">
     <link rel="apple-touch-icon" sizes="144x144" href="http://cdn.images.dailystar.co.uk/appletouch144.png">
 
-    <link rel="stylesheet" type="text/css" href="http://cdn.images.dailystar.co.uk/css/dist/app20151211.min.css?r=20151014"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:400,700,700italic,900,900italic">
+    <link rel="stylesheet" type="text/css" href="http://cdn.images.dailystar.co.uk/css/dist/app20160519.min.css?r=20160404"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:400,700,700italic,900,900italic">
 	<script>
     var unityAnalyticsQueue = null;
     function sendUserIdToAnalytics(loggedIn) {
@@ -66,6 +81,7 @@
     }
     function queueForAnalytics(category, action, customDimension) {
         if (typeof ga === 'function') {
+            customDimension.nonInteraction = true;
             ga('send', 'event', category, action, customDimension);
         } else {
             unityAnalyticsQueue = {category: category, action: action, customDimension: customDimension};
@@ -95,17 +111,27 @@
           gifRequest.style.width="1px";
           gifRequest.style.height="1px";
           gifRequest.onload = function() {
-            window.document.getElementsByTagName('footer')[0].appendChild(gifRequest);
+            window.document.getElementsByTagName('body')[0].appendChild(gifRequest);
           };
           // Send __ua.gif to the local server
           var gifPath = "http://abc.www.dailystar.co.uk/__utm.gif";
           gifRequest.src = gifPath + '?' + payLoad + '&cachebuster=' + Math.floor(Math.random() * 1000000);
+          
+          
+          var backupGifRequest = document.createElement("IMG");
+          backupGifRequest.style.width="1px";
+          backupGifRequest.style.height="1px";
+          backupGifRequest.onload = function() {
+            window.document.getElementsByTagName('body')[0].appendChild(backupGifRequest);
+          };
+          // Send _uta.gif to the local server
+          var backupGifPath = "http://d1pnz0eqd2gtoq.cloudfront.net/_uta.gif";
+          backupGifRequest.src = backupGifPath + '?' + payLoad + '&cachebuster=' + Math.floor(Math.random() * 1000000);
       } 
     });
   });
   // END local backup of GA data request for ABCe Figures
-  
-  ga('send', 'pageview');
+    ga('send', 'pageview');
   
   if(unityAnalyticsQueue) {
      unityAnalyticsQueue.customDimension.nonInteraction = true;
@@ -196,45 +222,12 @@ specialInterest: {
 <script>var AMAZON_ADS = 1;</script><script src="http://tags.crwdcntrl.net/c/7108/cc_af.js?ns=_cc7108" id="LOTCC_7108"></script>
 <script>
     _cc7108.bcp();
-</script><script type="text/javascript" language="JavaScript">
-//name: Northern Shell UK DIRECT 
-//created: 07/21/2015 05:37
-var cb = new Date().getTime();
-var asiPqTag = false;
-try { 
-document.write("<sc" + "ript type='text/javascript' language='JavaScript' src='//pq-direct.revsci.net/pql?placementIdList=adlwo6,vwHqDE,xTAWhM,29g47w&cb=" + cb + "'></sc" + "ript>"); 
-} catch(err) { } 
-</script><script type="text/javascript" language="JavaScript" src="//pq-direct.revsci.net/pql?placementIdList=adlwo6,vwHqDE,xTAWhM,29g47w&amp;cb=1580489828481"></script>
-<script type="text/javascript" language="JavaScript">
-if (typeof asiPlacements != "undefined") { 
-    for(var p in asiPlacements) {
-       window["ASPQ_"+p]=""; for(var key in asiPlacements[p].data) {
-          window["ASPQ_"+p] += "PQ_"+p+"_"+key;
-       }
-    }
-} else {
-  window["ASPQ_adlwo6"] =  window["ASPQ_vwHqDE"] =  window["ASPQ_xTAWhM"] =  window["ASPQ_29g47w"] =  "";
-}
 </script><script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 <script type="text/javascript">
     try {
         amznads.getAds('3053');
     } catch(e) { /*ignore*/}
 </script>
-<!-- BEGIN Krux Control Tag for "Daily Star" -->
-<!-- Source: /snippet/controltag?confid=I34AE6UY&site=Daily%20Star&edit=1 -->
-<script class="kxct" data-id="I34AE6UY" data-timing="async" data-version="1.9" type="text/javascript">
-window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
-(function(){
-  var k=document.createElement('script');k.type='text/javascript';k.async=true;
-  var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
-  k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
-    (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=I34AE6UY"
-;
-  var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
-}());
-</script>
-<!-- END Krux Controltag -->
 <!-- Start: GPT Async -->
 <script type="text/javascript">
 var gptadslots=[];
@@ -248,61 +241,38 @@ googletag.cmd = googletag.cmd || [];
     node.parentNode.insertBefore(gads, node);
 })();
 function ISMScreenRes() {
-    if(screen.width >= 1280 ) {
+    if(screen.width >= 1240 ) {
         return( "true" );
     } else {
         return( "false" );
     }
 }
 </script>
-<script>
-window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
-(function(){
-function retrieve(n){
-var m, k='kx'+n;
-if (window.localStorage) {
-return window.localStorage[k] || "";
-} else if (navigator.cookieEnabled) {
-m = document.cookie.match(k+'=([^;]*)');
-return (m && unescape(m[1])) || "";
-} else {
-return '';
-}
-}
-Krux.user = retrieve('user');
-Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
-})();
-</script>
-
 <script type="text/javascript">
 var crtg_content = crtg_content || '';
 googletag.cmd.push(function() {
     //Adslot 1 declaration
-    gptadslots[1]= googletag.defineSlot('/34722903/', [[1,1],[970,250],[900,250],[728,90],[970,90]],'div-gpt-ad--1').setTargeting('pos',['top']).setTargeting('gwd', [ASPQ_adlwo6]).addService(googletag.pubads());
+    gptadslots[1]= googletag.defineSlot('/34722903/', [[1,1],[970,250],[728,90],[970,90]],'div-gpt-ad--1').setTargeting('pos',['top']).addService(googletag.pubads());
+            //Adslot 2 declaration
+        gptadslots[2]= googletag.defineSlot('/34722903/', [[300,250]],'div-gpt-ad--2').setTargeting('pos',['right']).addService(googletag.pubads());
 
-    //Adslot 2 declaration
-    gptadslots[2]= googletag.defineSlot('/34722903/', [[300,250]],'div-gpt-ad--2').setTargeting('pos',['right']).setTargeting('gwd', [ASPQ_vwHqDE]).addService(googletag.pubads());
+        //Adslot 3 declaration
+        gptadslots[3]= googletag.defineSlot('/34722903/', [[300,250]],'div-gpt-ad--3').setTargeting('pos',['right1']).addService(googletag.pubads());
 
-    //Adslot 3 declaration
-    gptadslots[3]= googletag.defineSlot('/34722903/', [[300,250]],'div-gpt-ad--3').setTargeting('pos',['right1']).setTargeting('gwd', [ASPQ_vwHqDE]).addService(googletag.pubads());
+        //Adslot 4 declaration
+        gptadslots[4]= googletag.defineSlot('/34722903/', [[300,250]],'div-gpt-ad--4').setTargeting('pos',['right2']).addService(googletag.pubads());
 
-    //Adslot 4 declaration
-    gptadslots[4]= googletag.defineSlot('/34722903/', [[300,250]],'div-gpt-ad--4').setTargeting('pos',['right2']).setTargeting('gwd', [ASPQ_vwHqDE]).addService(googletag.pubads());
-
-    //Adslot 6 declaration
-    gptadslots[6]= googletag.defineSlot('/34722903/', [[1,1]],'div-gpt-ad--6').setTargeting('pos',['middle']).addService(googletag.pubads());
-
-        
+        //Adslot 6 declaration
+        gptadslots[6]= googletag.defineSlot('/34722903/', [[1,1]],'div-gpt-ad--6').setTargeting('pos',['middle']).addService(googletag.pubads());
+            
     
-    //Adslot oop declaration
-    gptadslots[0] = googletag.defineOutOfPageSlot('/34722903/', 'div-gpt-ad--oop').setTargeting('pos',['outofpage']).addService(googletag.pubads());
-
+    
+    
+            //Adslot oop declaration
+        gptadslots[0] = googletag.defineOutOfPageSlot('/34722903/', 'div-gpt-ad--oop').setTargeting('pos',['outofpage']).addService(googletag.pubads());
+    
     googletag.pubads().enableSingleRequest();
     googletag.pubads().setTargeting('pagetype',['index']).setTargeting('device',['Desktop']).setTargeting('inskin_yes', ISMScreenRes()).setTargeting('home', ['false']);
-
-    googletag.pubads().setTargeting("ksg", Krux.segments);
-    googletag.pubads().setTargeting("kuid", Krux.user);
-    googletag.pubads().setTargeting("khost",  encodeURIComponent(location.hostname));
 
     var crtg_split = crtg_content.split(';');
     for (var i=1;i<crtg_split.length;i++){
@@ -310,33 +280,49 @@ googletag.cmd.push(function() {
     };
 
         googletag.pubads().enableAsyncRendering();
-        googletag.pubads().collapseEmptyDivs();
+    
+    googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+        var divId = event.slot.getSlotId().getDomId();
+        if (divId === "div-gpt-ad--1" && !event.isEmpty) {
+            var docel = document.getElementById("div-gpt-ad--1");
+            var width = event.size[0];
+            docel.style.width = width+'px';
+            docel.style.marginLeft = 'auto';
+            docel.style.marginRight = 'auto';
+                        if (width != 1) {
+                App.InskinControl.DelayScroll('div-gpt-ad--1', 'superbanner');
+            }
+                    }
+    });
+
+    googletag.pubads().collapseEmptyDivs();
     googletag.enableServices();
 });
 </script>
-<!-- End: GPT --><script type="text/javascript">
+<!-- End: GPT -->
+<script type="text/javascript">
 try {
     amznads.setTargetingForGPTAsync('amznslots');
 } catch(e) { /*ignore*/}
 </script>
-    		    <!-- Included JS Files -->
+<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>    		    <!-- Included JS Files -->
 	    <script src="http://cdn.images.dailystar.co.uk/js/dist/vendor-footer.min.js"></script>
-	    <script src="http://cdn.images.dailystar.co.uk/js/dist/app20151218.min.js"></script>
-	    	</head>
+	    <script src="http://cdn.images.dailystar.co.uk/js/dist/app20160614.min.js"></script>
+	</head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
-   
-	
-	        <!-- Tealium : Universal Data Object -->
+
+
+    <!-- Tealium : Universal Data Object -->
 <script type="text/javascript">
 utag_data = {
 	site : "Daily Star", 	// Example data source
 	page_section_name : "Privacy Policy",  // page section name
 }
-</script>        <script type="text/javascript">
+</script>    <script type="text/javascript">
 (function(a,b,c,d)
 { a='//tags.tiqcdn.com/utag/northern-and-shell/ds/prod/utag.js'; b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); }
 )();
-</script>                            		    
+</script>	                            		    
 <!-- Beginning Async AdSlot oop for Ad unit   ### size:  -->
 <!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
 <div id="div-gpt-ad--oop">
@@ -366,22 +352,22 @@ utag_data = {
         <div class="columns three">
             <h2 class="logo">
                 <a href="/">
-                    <img src="http://cdn.images.dailystar.co.uk/img/static/daily-star-christmas.png" alt="DailyStar" title="Daily Star">
+                    <img src="http://cdn.images.dailystar.co.uk/img/static/daily-star.png" alt="DailyStar" title="Daily Star">
                 </a>
             </h2>
         </div>
         <nav class="columns nine">
             <ul class="header-small-nav right">
                 <li class="site-search right">
-                    <form action="http://www.dailystar.co.uk/search" id="header_search_form">
-                        <input class="left" type="search" name="query" placeholder="Search...">
-                        <button class="left link-button search-button" type="submit"><i class="icon-magnifier"></i></button>
-                    </form>
-                </li>
+                                            <form action="http://www.dailystar.co.uk/search" id="header_search_form">
+                            <input class="left" type="search" name="query" placeholder="Search...">
+                            <button class="left link-button search-button" type="submit"><i class="icon-magnifier"></i></button>
+                        </form>
+                                    </li>
                                     <li class="right">
                         <div id="nse-widget"></div>
                     </li>                <li class="hide-on-phones right"><a href="http://www.dailystar.co.uk/feeds" class="link-button rss"><i class="icon-rss"></i></a></li>
-                <li class="right"><a href="https://plus.google.com/102878321884201520955/posts" class="link-button google" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://plus.google.com/102878321884201520955/posts')"><i class="icon-google-plus"></i></a></li>
+                <li class="right"><a href="https://plus.google.com/102878321884201520955/posts" class="link-button google" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://plus.google.com/102878321884201520955/posts')"><i class="icon-google-plus v2"></i></a></li>
                 <li class="right"><a href="https://twitter.com/daily_star" class="link-button twitter" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://twitter.com/daily_star')"><i class="icon-twitter"></i></a></li>
                 <li class="right"><a href="https://www.facebook.com/thedailystar" class="link-button facebook" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://www.facebook.com/thedailystar')"><i class="icon-facebook"></i></a></li>
             </ul>
@@ -406,12 +392,12 @@ utag_data = {
                                                                     <li><a href="/" class="active item"><span>Home</span></a></li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <li><a href="/news" class="item"><span>News</span></a></li>
                                                                                                                                                                                                                                 <li><a href="/sport" class="item"><span>Sport</span></a></li>
-                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/showbiz-and-tv" class="item"><span>Showbiz &amp; TV</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/showbiz-and-tv" class="item"><span>Showbiz &amp; TV</span></a></li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <li><a href="/travel" class="item"><span>Travel</span></a></li>
                                                                                                                                                                                                                                 <li><a href="/life-style" class="item"><span>Life &amp; Style</span></a></li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/tech" class="item"><span>Tech</span></a></li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/pics" class="item"><span>Pics</span></a></li>
-                                                                                                                                                                        <li><a href="/vids" class="item"><span>Vids</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a href="/tech" class="item"><span>Tech</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="/pics" class="item"><span>Pics</span></a></li>
+                                                                                                                                                                                                                                <li><a href="/vids" class="item"><span>Vids</span></a></li>
                                                                 </ul>
     </div>
         <div class="sub-wrapper">
@@ -427,7 +413,7 @@ utag_data = {
         <div class="row page-content">
         <!--OVOLABS_2 END-->
                         <!--OVOLABS_3 START-->
-            <div class="row">
+            <div class="row" id="maincontentarea">
             <!--OVOLABS_3 END-->
                 <!--OVOLABS_4 START-->
 <article class="eight four-mobile columns story-landing staticPages cancel-margin">
@@ -606,7 +592,7 @@ utag_data = {
                             <a href="/">Home</a>
                         </div>
                                                 <div class="daily-star-cover">
-                            <a href="/our-paper"><img src="http://cdn.images.dailystar.co.uk/dynamic/pixfeed/covers/81x101/front_2015-12-31.jpg" alt="daily-star-paper-front" width="80" height="101"></a>
+                            <a href="/our-paper"><img src="http://cdn.images.dailystar.co.uk/dynamic/pixfeed/covers/81x101/front_2016-06-22.jpg" alt="daily-star-paper-front" width="80" height="101"></a>
                         </div>
                                                                         <nav class="section-nav">
                             <ul class="subsections">
@@ -643,10 +629,10 @@ utag_data = {
                                         <a href="/news/weird-news">Weird News</a>
                                     </li>
                                                                                                                                                                                 <li>
-                                        <a href="/sunday">Daily Star Sunday</a>
+                                        <a href="/columnists">Columnists</a>
                                     </li>
                                                                                                                                                                                 <li>
-                                        <a href="/columnists">Columnists</a>
+                                        <a href="/sunday">Daily Star Sunday</a>
                                     </li>
                                                                                                                                                                                 <li>
                                         <a href="/journalists">Journalists</a>
@@ -668,23 +654,29 @@ utag_data = {
                                                                                                                                                                                                                                                     <li>
                                         <a href="/rugby-league">Rugby League</a>
                                     </li>
-                                                                                                                                                                                <li>
-                                        <a href="/sport/horse-racing">Racing</a>
-                                    </li>
-                                                                                                                                                                                <li>
-                                        <a href="/sport/motorsport">Motorsport</a>
-                                    </li>
                                                                                                                                                                                                                                                     <li>
-                                        <a href="/sport/other-sports">Other</a>
-                                    </li>
-                                                                                                                                                                                <li>
-                                        <a href="/boxing">Boxing</a>
+                                        <a href="/sport/motorsport">Motorsport</a>
                                     </li>
                                                                                                                                                                                 <li>
                                         <a href="/wimbledon-2015">Wimbledon 2015</a>
                                     </li>
                                                                                                                                                                                 <li>
+                                        <a href="/sport/horse-racing">Racing</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/sport/other-sports">Other</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/sport/boxing">Boxing</a>
+                                    </li>
+                                                                                                                                                                                                                                                    <li>
                                         <a href="/rugby-world-cup">Rugby World Cup</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/sport/euro-2016">Euro 2016</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/sport/ufc">UFC </a>
                                     </li>
                                                                                                                                 </ul>
                         </nav>
@@ -704,19 +696,22 @@ utag_data = {
                                         <a href="/showbiz-tv/hot-tv">Hot TV</a>
                                     </li>
                                                                                                                                                                                 <li>
-                                        <a href="/showbiz-tv/im-a-celebrity-get-me-out-of-here">I'm A Celebrity</a>
-                                    </li>
-                                                                                                                                                                                                                                                    <li>
-                                        <a href="/tv/x-factor">X Factor</a>
-                                    </li>
-                                                                                                                                                                                <li>
                                         <a href="/movies">Movies</a>
                                     </li>
                                                                                                                                                                                 <li>
                                         <a href="/showbiz-tv/music">Music</a>
                                     </li>
                                                                                                                                                                                 <li>
+                                        <a href="/showbiz-tv/britain-s-got-talent">Britain's Got Talent</a>
+                                    </li>
+                                                                                                                                                                                <li>
                                         <a href="/tv/big-brother">Big Brother</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/showbiz-tv/im-a-celebrity-get-me-out-of-here">I'm A Celebrity</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/tv/x-factor">X Factor</a>
                                     </li>
                                                                                                                                                                                 <li>
                                         <a href="/showbiz/goss">Wired</a>
@@ -825,13 +820,13 @@ utag_data = {
                                                                         <nav class="section-nav">
                             <ul class="subsections">
                                                                                                                                             <li>
-                                        <a href="/tech/news">Tech News</a>
+                                        <a href="/tech/gaming">Gaming</a>
                                     </li>
                                                                                                                                                                                 <li>
                                         <a href="/tech/reviews">Reviews</a>
                                     </li>
                                                                                                                                                                                 <li>
-                                        <a href="/tech/gaming">Gaming</a>
+                                        <a href="/tech/news">Tech News</a>
                                     </li>
                                                                                                                                 </ul>
                         </nav>
@@ -845,9 +840,18 @@ utag_data = {
                                                                         <nav class="section-nav">
                             <ul class="subsections">
                                                                                                                                             <li>
-                                        <a href="/galleries">Galleries</a>
+                                        <a href="/pics/pictures">Galleries</a>
                                     </li>
-                                                                                                                                                                                                    </ul>
+                                                                                                                                                                                <li>
+                                        <a href="/pics/celebrity-photos">Celebrity Galleries</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/pics/sports-pictures">Sport Galleries</a>
+                                    </li>
+                                                                                                                                                                                <li>
+                                        <a href="/pics/weird-galleries">Weird Galleries</a>
+                                    </li>
+                                                                                                                                </ul>
                         </nav>
                         
 
@@ -876,13 +880,13 @@ utag_data = {
                     </li>
                     <li class="hide-on-phones right"><a href="http://www.dailystar.co.uk/feeds" class="link-button rss"><i class="icon-rss"></i></a></li>
                     <li class="right"><a href="https://www.youtube.com/user/DailyStarOnline" class="link-button youtube" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://www.youtube.com/user/DailyStarOnline')"><i class="icon-youtube"></i></a></li>
-                    <li class="right"><a href="https://plus.google.com/102878321884201520955/posts" class="link-button google" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://plus.google.com/102878321884201520955/posts')"><i class="icon-google-plus"></i></a></li>
+                    <li class="right"><a href="https://plus.google.com/102878321884201520955/posts" class="link-button google" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://plus.google.com/102878321884201520955/posts')"><i class="icon-google-plus v2"></i></a></li>
                     <li class="right"><a href="https://twitter.com/daily_star" class="link-button twitter" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://twitter.com/daily_star')"><i class="icon-twitter"></i></a></li>
                     <li class="right"><a href="https://www.facebook.com/thedailystar" class="link-button facebook" onclick="App.GoogleAnalytics.TrackEvent('offsite', 'https://www.facebook.com/thedailystar')"><i class="icon-facebook"></i></a></li>
                 </ul>
             </nav>
             <div class="footer-copyright">
-                <p>Copyright ©2015 Northern and Shell Media Publications. "Daily Star" is a registered trademark. All rights reserved.</p>
+                <p>Copyright ©2016 Express Newspapers. "Daily Star" is a registered trademark. All rights reserved.</p>
             </div>
         </aside>
     </div>
@@ -904,12 +908,192 @@ utag_data = {
 	</div>
 	<!-- container -->
 	
-    		            <script>
+    		        	    <script>
+    var InskinControls = {
+        InskinControl : {
+            BurgerFunction : {},
+            inskin_delay : 4500,
+            timeSinceWindowLoad : 0,
+            shouldDelayScroll : true,
+            userHasScrolled : true,
+            advertDelayCounter : null,
+            CssFunction : null,
+            SecondayCssFunction : null,
+            advertType : null,
+            divId : null,
+            SecondaryDivId : null,
+            backgroundJob : null,
+            originalBackground : null,
+            hasInskinJoinedUs : false,
+            hasTemplateAndSuperbanner : 0,
+            inskinTop : 0,
+            adslotChanges : 0,
+            DelayScroll : function (divId, type) {
+
+             App.InskinControl.inskinTop =  0;
+             if (App.InskinControl.shouldDelayScroll == true) {
+                    App.InskinControl.advertType = type;
+                    if (!App.InskinControl.divId) {
+                        App.InskinControl.divId = divId;
+                    } else {
+                        App.InskinControl.SecondaryDivId = divId;
+                    }
+                    switch (type) {
+                        case 'superbanner':
+                            $(window).resize(function(){
+                                App.InskinControl.Resize();
+                            });
+                            document.addEventListener('megabanner', function (e) {
+                                if($('#' + App.InskinControl.divId + ' > div > iframe').length !== 0) {
+                                  $('#' + App.InskinControl.divId + ' > div > iframe').contents().bind('DOMSubtreeModified', function(el) {
+                                    if (el.target.innerHTML.length > 0) {
+                                        $iframe = $('#' + App.InskinControl.divId + ' > div > iframe');
+                                        App.InskinControl.adslotChanges++;
+                                        if((($iframe.width() === 970 && $iframe.height() === 250) ||
+                                            $iframe.width() === 728 && $iframe.height() === 90) ) {
+                                               console.log('iframe contents have changed');
+                                               App.InskinControl.StartTheClock();
+                                               App.InskinControl.shouldDelayScroll = true;
+                                               App.InskinControl.RefreshTheClock();
+                                        }
+                                    }
+                                  });
+                                }
+                            }, false);
+                            var megaevent = document.createEvent('Event');
+                            megaevent.initEvent('megabanner', true, true);
+                            document.dispatchEvent(megaevent);
+
+                            $('body').css({backgroundColor: '#f4f4f4'});
+                            $('#maincontainer').css({paddingTop: '3px'});
+                            $('#maincontainer header').css({borderTop: 'none'});
+                            $('#superbanner').css({marginBottom: '0'});
+                            $('.trendingTopics li:first-child').css({marginLeft: '10px'});
+                            $('div#maincontainer.container').css({paddingTop:0});
+                            $('#' + divId).css({padding: '10px 5px'});
+                            $('nav.row.sections.main-navi').css({overflowX: 'hidden'});
+                            App.InskinControl.Resize();
+                            App.InskinControl.hasTemplateAndSuperbanner++;
+                            console.log('superbanner');
+                            App.InskinControl.addShadow();
+                            if (!App.InskinControl.hasInskinJoinedUs) {
+                                App.InskinControl.DoTheSticky();
+                            }
+                            App.InskinControl.hasInskinJoinedUs = true;
+                            console.log(App.InskinControl.hasTemplateAndSuperbanner);
+                        break;
+                    }
+                }
+            },
+            DoTheSticky : function(){
+               if (App.InskinControl.shouldDelayScroll == true ) {
+                   var tmpfunc = setInterval(function(){
+                       App.InskinControl.checkForTwoAdverts('superbanner');
+                       if (App.InskinControl.hasTemplateAndSuperbanner > 1) {
+                       }
+                       if ($(window).scrollTop() > App.InskinControl.inskinTop) {
+
+                           var thediv = App.InskinControl.divId;
+
+                          bannerContainerWidth = $('.page-content').width() + 40;
+                          leftpos = (($(window).width() - Math.max($('#' + thediv + ' div iframe').width(), bannerContainerWidth))/2) - 5;
+                          if ($(window).width() < 800) leftpos = 0;
+                          if ($(window).width() < 980) leftpos = Math.max(leftpos, 0);
+                          heightval = $('#' + thediv).height() + 20;
+                          $('#superbanner').css({marginBottom: '0'});
+                          $('#' + thediv).css({minWidth: bannerContainerWidth + 'px', left: leftpos +'px', top:0, position: 'fixed', zIndex: 9998500, marginBottom: 0, padding: '10px 5px', background: '#f4f4f4'}).parent().css({height : heightval + 1});
+                       }
+                   }, 100);
+                   if (App.InskinControl.hasTemplateAndSuperbanner > 1) {
+                       App.InskinControl.SecondayCssFunction = tmpfunc;
+                       $('#superbanner').css({marginTop: '10px', position: 'relative',zIndex:6000 });
+                       $('.bodywrapper').css({marginTop:  '-' + ($('#superbanner').first('iframe').height() - 10) + 'px'});
+                   } else {
+                       App.InskinControl.removeShadow();
+                       App.InskinControl.CssFunction = tmpfunc;
+                   }
+               }
+            },
+            Resize : function (){
+                bannerContainerWidth = $('.page-content').width() + 40;
+                leftpos = (($(window).width() - Math.max($('#' + App.InskinControl.divId + ' div iframe').width(), bannerContainerWidth))/2) - 5;
+                if ($(window).width() < 800) leftpos = 0;
+                if ($(window).width() < 980) leftpos = Math.max(leftpos, 0);
+                $('#' + App.InskinControl.divId).css('width', 'auto').css('cssText', $('#' + App.InskinControl.divId).attr('style')  + '; margin-bottom:0; box-shadow: rgba(0, 0, 0, 0.13) 0 10px 5px -5px;  width: ' + bannerContainerWidth + 'px !important;left: ' + leftpos +'px');
+            },
+            SplitTheBackground : function(){
+            },
+            addShadow : function(){
+                //$('.headerShell').addClass('shadow');
+                //$('#maincontainer').addClass('shadow');
+            },
+            removeShadow : function(){
+                //$('.headerShell').removeClass('shadow');
+                //$('#maincontainer').removeClass('shadow');
+            },
+            checkForTwoAdverts : function(whichTemplate){
+                if ($('#div-gpt-ad--1 div iframe').width() == 0 || !$('#superbanner').is(':visible')) {
+                    App.InskinControl.hasTemplateAndSuperbanner = 1;
+                    App.InskinControl.removeShadow();
+                }
+            },
+            SetTheBackground : function(){
+            },
+            StartTheClock : function(){
+                if (App.InskinControl.timeSinceWindowLoad === 0) {
+                    App.InskinControl.advertDelayCounter = setInterval(function(){
+                            App.InskinControl.UpdateSeconds();
+                        }, 100);
+                }
+            },
+            RefreshTheClock : function(){
+                this.timeSinceWindowLoad = 1;
+            },
+            UpdateSeconds : function(){
+                if (!App.InskinControl.hasInskinJoinedUs) {
+
+                }
+                if ($(window).scrollTop() > App.InskinControl.inskinTop)  this.timeSinceWindowLoad+=100;
+                if (this.timeSinceWindowLoad > App.InskinControl.inskin_delay && App.InskinControl.hasInskinJoinedUs == true) {
+                    App.InskinControl.PutAdvertBack();
+                }
+            },
+            PutAdvertBack : function (){
+                window.clearInterval(App.InskinControl.CssFunction);
+                window.clearTimeout(App.InskinControl.backgroundJob);
+                if (App.InskinControl.hasTemplateAndSuperbanner > 1) {
+                    window.clearInterval(App.InskinControl.SecondayCssFunction);
+                }
+                App.InskinControl.shouldDelayScroll = false;
+                window.clearInterval(App.InskinControl.advertDelayCounter);
+                switch (App.InskinControl.advertType) {
+                    case 'superbanner':
+                        console.log('putting super banner back at ' + this.timeSinceWindowLoad + 'ms');
+                        var thediv = App.InskinControl.divId;
+                        maxanimation = -1 * $('#' + thediv).height();
+                        if (($(window).scrollTop() - $('#superbanner').offset().top) < $('#' + thediv).height()) maxanimation = -1 * ($(window).scrollTop() - $('#superbanner').offset().top);
+                        $('#' + thediv).animate({top : maxanimation + 'px'}, 1000, function(){
+                           $('#' + thediv).css({zIndex: 500, position: 'static', padding: '10px 0', background: 'transparent', width: 'auto !important', minWidth: '1px', boxShadow: 'none'});
+                        });
+
+                    break;
+                }
+                App.InskinControl.SecondaryDivId = null;
+            }
+        }
+    };
+
+    $.extend(App, InskinControls);
+    $(window).load(function(){
+        App.InskinControl.StartTheClock();
+    });
+</script>
+    <script>
     // <![CDATA[
         App.Config.inProduction = true;
     
     $.extend(App.Weather, {
-        weatherForecastUrl: 'http://www.dailystar.co.uk/weather/forecast/{LOCATION_ID}',
+        weatherForecastUrl: '/weather/forecast/{LOCATION_ID}',
         weatherForecastThumb: 'http://cdn.images.dailystar.co.uk/img/weather/png/{ICO_SIZE}/{SKY_CODE}.png'
     });
     $(function(){
@@ -974,11 +1158,11 @@ twttr.conversion.trackPid('l4exp');
 	})(document, 'script');
 </script>
 <!-- End of VR RR Tracking Script - All rights reserved -->
-                <div class="OUTBRAIN" data-src="http://www.dailystar.co.uk/privacy" data-widget-id="TR_1" data-ob-template="DailyStar"></div>
-<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
-                        <script>var abcf=function(e){var n=document.querySelector("div.type1"),t=document.querySelector("div.type1 div div iframe"),o=null;o=!n||t&&null!==t?"No":"Yes","undefined"!=typeof ga?ga("send","event","Adblock",o,e,{nonInteraction:1}):"undefined"!=typeof _gaq};window.onload=function(){setTimeout(abcf("0.5"),500),setTimeout(abcf("1.0"),1e3),setTimeout(abcf("1.5"),1500)};</script>                        <script type="application/ld+json">
+                                <script>var abcf=function(e){var n=document.querySelector("div.type1"),t=document.querySelector("div.type1 div div iframe"),o=null;o=!n||t&&null!==t?"No":"Yes","undefined"!=typeof ga?ga("send","event","Adblock",o,e,{nonInteraction:1}):"undefined"!=typeof _gaq};window.onload=function(){setTimeout(abcf("0.5"),500),setTimeout(abcf("1.0"),1e3),setTimeout(abcf("1.5"),1500)};</script>                        <script type="application/ld+json">
     { "@context" : "http://schema.org", "@type" : "Organization", "name" : "Daily Star", "logo" : "http://cdn.images.dailystar.co.uk/img/static/daily-star.png", "url" : "http://www.dailystar.co.uk/", "sameAs" : [ "https://twitter.com/daily_star", "https://www.facebook.com/thedailystar", "https://plus.google.com/102878321884201520955/posts", "https://www.youtube.com/user/DailyStarOnline" ] }
-</script>
+</script>    <!-- 
+    IS_SSL: 0<br />isHTTPS: 0<br />HTTPS: <br />HTTP_X_FORWARDED_PROTO: http<br />HTTP_CLOUDFRONT_FORWARDED_PROTO: http<br />SERVER_PORT: 80<br />    -->
+
 
 <!--OVOLABS_11 END-->
 </body></html>
