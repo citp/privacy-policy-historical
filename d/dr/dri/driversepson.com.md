@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the driversepson.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207211752id_/http%3A//www.driversepson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversepson.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621070540id_/http%3A//www.driversepson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy
+* * *
 
 We belong to all the drivers and software manufacturers. After you install the downloaded files for viruses. Our system(webpage) is not responsible for problems that may have downloaded the files to your computer.
 
