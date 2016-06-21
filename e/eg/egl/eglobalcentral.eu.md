@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222035547id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.eu privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621203032id_/http%3A//eglobalcentral.eu/privacy-policy-eu.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,10 +54,14 @@ eGlobal Central may update this privacy policy by posting a new version on this 
 
 https://eglobalcentral.eu
 
-Privacy Policy Supervisor  
-eGlobal Central  
-P.O. Box 80800  
-Cheung Sha Wan Post Office  
+Privacy Policy Supervisor
+
+27/F., E - Trade Plaza,
+
+24 Lee Chung Street,
+
+Chai Wan,
+
 Hong Kong
 
 e-mail: support@eglobalcentral.eu
