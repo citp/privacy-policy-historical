@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208230424id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621190729id_/http%3A//www.tibco.com/company/privacy) for the most accurate reproduction.*
 
-# Mashery Corporate Privacy Policy | Mashery
+# Privacy Policy | TIBCO
 
-TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web sites [community.jaspersoft.com](http://community.jaspersoft.com/),  [www.jaspersoft.com](http://www.jaspersoft.com/), [www.mashery.com](), [developer.mashery.com](http://developer.mashery.com/),  [www.tibco.com](http://www.tibco.com/),  [www.tibcommunity.com](http://www.tibcommunity.com/),  [www.tibbr.com](http://www.tibbr.com/), [www.loyaltylab.com](http://www.loyaltylab.com/), [www.loyaltylibrary.com](http://www.loyaltylibrary.com/), [spotfire.tibco.cloud.com](http://spotfire.tibco.cloud.com/), and [www.spotfire.tibco.com](http://www.spotfire.tibco.com/) (our "Sites"); Loyalty Lab Hosted Service, (our "Services"); and our mobile applications tibbr® and SpotFire Analytics (our "Mobile Apps"); collectively our "Offerings". Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. The Policy also describes the choices available to you regarding how you can access and update this information. Changes to this Policy will be announced on the home page of our Sites and Mobile Apps so please check back periodically.
+TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web sites [community.jaspersoft.com](http://community.jaspersoft.com/),  [www.jaspersoft.com](http://www.jaspersoft.com/),  [www.tibco.com](http://www.tibco.com/),  [www.tibcommunity.com](http://www.tibcommunity.com/),  [www.tibbr.com](http://www.tibbr.com/), [www.loyaltylab.com](http://www.loyaltylab.com/), [www.loyaltylibrary.com](http://www.loyaltylibrary.com/), [spotfire.tibco.cloud.com](http://spotfire.tibco.cloud.com/), and [www.spotfire.tibco.com](http://www.spotfire.tibco.com/) (our "Sites"); Loyalty Lab Hosted Service, (our "Services"); and our mobile applications tibbr® and SpotFire Analytics (our “Mobile Apps”); collectively our "Offerings". Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. The Policy also describes the choices available to you regarding how you can access and update this information. Changes to this Policy will be announced on the home page of our Sites and Mobile Apps so please check back periodically.
 
-TIBCO has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information collected through our Sites, Services, and Mobile Apps and does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@tibco.com](mailto:privacy@tibco.com). If you are not satisfied with our response, or to view TIBCO's certification, you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe")
+TIBCO has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information collected through our Sites, Services, and Mobile Apps and does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@tibco.com. If you are not satisfied with our response, or to view TIBCO's certification, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe").
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=58ccb889-d748-47c2-a435-da1c1c117b43 "TRUSTe Privacy Certification")
-
-TIBCO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TIBCO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://export.gov/safeharbor>
 
 This Policy will explain the following regarding use of our Site:
 
@@ -37,7 +35,7 @@ This Policy will explain the following regarding use of our Site:
 
 In order to better provide you with services, we collect two types of information about its visitors: Personal Information and Non-Personal Information. Our primary goal in collecting information from you is to provide you with a smooth and efficient experience while using our Offerings.
 
- **Personal Information:** Personal Information refers to the specifics of who you are, such as your name, address, telephone number, email address and any other information when needed to provide a service to you while using or that could be used to locate you while using our Offerings. We gather certain information automatically and store it in log files. We log your Internet Protocol ("IP") address to give us an idea of which part of our website you visit and how long you spend there.We may combine this automatically collected information with other information we collect about you to improve services, marketing, analytics, or site functionality.
+**Personal Information:** Personal Information refers to the specifics of who you are, such as your name, address, telephone number, email address and any other information when needed to provide a service to you while using or that could be used to locate you while using our Offerings. We gather certain information automatically and store it in log files. We log your Internet Protocol ("IP") address to give us an idea of which part of our website you visit and how long you spend there.We may combine this automatically collected information with other information we collect about you to improve services, marketing, analytics, or site functionality.
 
 When you download and use our Mobile Apps, we automatically collect information regarding your device system and performance information, such as operating system version, operation system type, hardware usage statistics, and app version. We may also access the device file storage for photos, microphone, camera, and contacts. You can opt out of this at the device level.
 
@@ -73,25 +71,25 @@ You can log into our Sites using sign-in services such as Facebook Connect or an
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
- **Non-Personal Information:** Non-Personal Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon the pages that you access in our offerings using various tracking technologies. This information is compiled and analyzed on both a non-aggregated and an aggregated basis. (See "Cookies" section below)
+**Non-Personal Information:** Non-Personal Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon the pages that you access in our offerings using various tracking technologies. This information is compiled and analyzed on both a non-aggregated and an aggregated basis. (See "Cookies" section below)
 
 ### Communications
 
- _Special Offers and Updates_  
+_Special Offers and Updates_  
 We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out."
 
- _Newsletters_  
+_Newsletters_  
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
- _Push Notifications_  
+_Push Notifications_  
 When you sign up to use our Mobile App tibbr®, we will ask you if you wish to receive push notifications which will use to keep you updated on the activity that occurs within tibbr®. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
- _Service-Related Announcements_  
+_Service-Related Announcements_  
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please see "Choice and Opt-out."
 
- _Customer Service_  
+_Customer Service_  
 Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
 ## 2\. With whom do we share your information?
@@ -161,6 +159,6 @@ Palo Alto, CA 94304
 
 ## 9\. Privacy Policy changes
 
-This Privacy Policy was last changed on August 18, 2015. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Offerings prior to the change becoming effective. Please be sure to check this page before proceeding to use our Offerings.
+This Privacy Policy was last changed on January 6, 2016. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Offerings prior to the change becoming effective. Please be sure to check this page before proceeding to use our Offerings.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=58ccb889-d748-47c2-a435-da1c1c117b43 "TRUSTe Privacy Certification")
