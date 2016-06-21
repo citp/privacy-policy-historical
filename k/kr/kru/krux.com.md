@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krux.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217164410id_/http%3A//www.krux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krux.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621072054id_/http%3A//www.krux.com/privacy) for the most accurate reproduction.*
 
 # Krux Data Privacy - Krux Next-Gen DMP
 
@@ -79,6 +79,8 @@ We process information in a way that is compatible with and relevant for the pur
 **Residents of the European Union or Switzerland**
 
 Krux complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Krux has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  Please click these links to learn more about the [Safe Harbor program](http://www.export.gov/safeharbor/), and to [view our certification page](https://safeharbor.export.gov/companyinfo.aspx?id=27554).
+
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
 [](http://www.export.gov/safeharbor/)
 
