@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top100songshub.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054334id_/http%3A//www.top100songscenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100songshub.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621024355id_/http%3A//www.top100songscharts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.top100songscenter.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
+This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.top100songscharts.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
 
 Personal identification information
 
@@ -66,6 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-<http://www.top100songscenter.com/contact-us/>
+<http://www.top100songscharts.com/contact-us/>
 
 This document was last updated on December 18, 2011
