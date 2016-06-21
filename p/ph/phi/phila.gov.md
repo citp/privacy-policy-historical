@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218163512id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621043639id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
 
 # PHILA.GOV | Welcome to the City of Philadelphia
 
-[**City of Philadelphia eGovernment Privacy statement**](https://web.archive.org/web/20151218163512id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
+[**City of Philadelphia eGovernment Privacy statement**](https://web.archive.org/web/20160621043639id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
 **City of Philadelphia  
 eGovernment and Health Information Privacy Statement**
@@ -35,9 +35,9 @@ Notice of Privacy Practices
   * [ Ambulatory Health Services (AHS)](http://www.phila.gov/health/pdfs/AHSNPPFinalFinal091713.pdf)
   * [ Behavioral Health and Intellectual disAbility Services (DBHIDS)](http://dbhids.org/contact/resources/hipaa-notice-of-privacy-practices/)
   * [ Emergency Medical Services (EMS)](http://www.phila.gov/FIRE//pdfs/notice_privacypractices.pdf)
-  * [Public Health Laboratory](https://web.archive.org/web/20151218163512id_/http%3A//www.phila.gov/privacy/pdfs/LaboratoryNPP.pdf)  
+  * [Public Health Laboratory](https://web.archive.org/web/20160621043639id_/http%3A//www.phila.gov/privacy/pdfs/LaboratoryNPP.pdf)  
 
-  * [STD Control Program (STDCP)](https://web.archive.org/web/20151218163512id_/http%3A//www.phila.gov/privacy/pdfs/STDCP%20NPP.pdf)  
+  * [STD Control Program (STDCP)](https://web.archive.org/web/20160621043639id_/http%3A//www.phila.gov/privacy/pdfs/STDCP%20NPP.pdf)  
 
 
 
