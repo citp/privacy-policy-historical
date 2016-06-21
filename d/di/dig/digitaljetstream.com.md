@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljetstream.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620213603id_/https%3A//www.digitaljetstream.com/2.0/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljetstream.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622003630id_/https%3A//www.digitaljetstream.com/2.0/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,26 +78,7 @@ We cooperate with government and law enforcement officials to enforce and comply
 
 ## Correcting/Updating Personal Information
 
-If a customer's information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at [Client Area](http://www.digitaljetstream.com/whmcs/clientarea.php "DigitalJetstream Billing") or by emailing us at [Support](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy35498%20=%20'isupport'%20+%20'@';%20addy35498%20=%20addy35498%20+%20'digitaljetstream'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy35498%20+%20'\\'%3E'\);%20document.write\(addy35498\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E "Email <script type='text/javascript'>
- <!--
- var prefix = 'ma' + 'il' + 'to';
- var path = 'hr' + 'ef' + '=';
- var addy89979 = 'isupport' + '@';
- addy89979 = addy89979 + 'digitaljetstream' + '.' + 'com';
- document.write\('<a ' + path + '\\'' + prefix + ':' + addy89979 + '\\'>'\);
- document.write\(addy89979\);
- document.write\('<\\/a>'\);
- //-->\\n </script><script type='text/javascript'>
- <!--
- document.write\('<span style=\\'display: none;\\'>'\);
- //-->
- </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
- <script type='text/javascript'>
- <!--
- document.write\('</'\);
- document.write\('span>'\);
- //-->
- </script>").
+If a customer's information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at [Client Area](http://digitaljetstream.com/whmcs/clientarea.php "DigitalJetstream Billing") or by emailing us at This email address is being protected from spambots. You need JavaScript enabled to view it." ' + path + '\'' + prefix + ':' + addy13900 + '\'>'+addy_text13900+'<\/a>'; //--> .
 
 ## Opt Out
 
@@ -105,26 +86,7 @@ By default, customers will receive invoices, any system updates, DigitalJetstrea
 
 ## Public Forums
 
-Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy17146%20=%20'isupport'%20+%20'@';%20addy17146%20=%20addy17146%20+%20'digitaljetstream'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy17146%20+%20'\\'%3E'\);%20document.write\(addy17146\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E "Email <script type='text/javascript'>
- <!--
- var prefix = 'ma' + 'il' + 'to';
- var path = 'hr' + 'ef' + '=';
- var addy46345 = 'isupport' + '@';
- addy46345 = addy46345 + 'digitaljetstream' + '.' + 'com';
- document.write\('<a ' + path + '\\'' + prefix + ':' + addy46345 + '\\'>'\);
- document.write\(addy46345\);
- document.write\('<\\/a>'\);
- //-->\\n </script><script type='text/javascript'>
- <!--
- document.write\('<span style=\\'display: none;\\'>'\);
- //-->
- </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
- <script type='text/javascript'>
- <!--
- document.write\('</'\);
- document.write\('span>'\);
- //-->
- </script>")[isupport@digitaljetstream.com](mailto:isupport@digitaljetstream.com). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so.
+Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at This email address is being protected from spambots. You need JavaScript enabled to view it." ' + path + '\'' + prefix + ':' + addy99366 + '\'>'+addy_text99366+'<\/a>'; //--> . In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so.
 
 ## Data Security
 
@@ -168,25 +130,6 @@ DigitalJetstream will seek to resolve any concerns. DigitalJetstream LLC. has a
 
 ## Questions
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy11629%20=%20'info'%20+%20'@';%20addy11629%20=%20addy11629%20+%20'digitaljetstream'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy11629%20+%20'\\'%3E'\);%20document.write\(addy11629\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E "Email <script type='text/javascript'>
- <!--
- var prefix = 'ma' + 'il' + 'to';
- var path = 'hr' + 'ef' + '=';
- var addy74212 = 'privacy' + '@';
- addy74212 = addy74212 + 'hostgator' + '.' + 'com';
- document.write\('<a ' + path + '\\'' + prefix + ':' + addy74212 + '\\'>'\);
- document.write\(addy74212\);
- document.write\('<\\/a>'\);
- //-->\\n </script><script type='text/javascript'>
- <!--
- document.write\('<span style=\\'display: none;\\'>'\);
- //-->
- </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
- <script type='text/javascript'>
- <!--
- document.write\('</'\);
- document.write\('span>'\);
- //-->
- </script>")[info@digitaljetstream.com](mailto:info@digitaljetstream.com).
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at This email address is being protected from spambots. You need JavaScript enabled to view it." ' + path + '\'' + prefix + ':' + addy59639 + '\'>'+addy_text59639+'<\/a>'; //--> .
 
-[](http://www.digitaljetstream.com/)
+[](http://digitaljetstream.com/)
