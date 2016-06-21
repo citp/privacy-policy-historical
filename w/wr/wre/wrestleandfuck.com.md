@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestleandfuck.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016193613id_/http%3A//wrestlehard.com/index2.php%3Finc%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleandfuck.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621204012id_/http%3A//wrestlehard.com/index2.php%3Finc%3Dpp) for the most accurate reproduction.*
 
 # WRESTLEHARD.COM - Gay wrestling adult videos
 
