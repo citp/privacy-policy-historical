@@ -1,41 +1,84 @@
-> *The following text is extracted and transformed from the mothering.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003085254id_/http%3A//mothering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothering.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622010102id_/http%3A//www.mothering.com/articles/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | mothering
+# Privacy Policy - Mothering
 
-## How and why we collect information from our visitors
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-We collect personally identifying information that users voluntarily provide to us about themselves or others by using services such as subscriptions, renewals, gift subscriptions and our discussion forums. We may use that personal information editorially to improve and customize our content. We do evaluate site usage by analyzing user information in the aggregate, in a way that does not identify any individual user.
+**What this Privacy Statement Covers**
 
-## Subscriptions
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link.
 
-People subscribing, renewing or buying gift subscriptions to Mothering, are asked to provide their name, address, telephone number, e-mail address and billing information, such as a credit card number. This personal information is used by us and by our fulfillment house to manage a subscriber's account, for example, for billing purposes and to fulfill a request for products or services. This information is not shared with third parties except in certain circumstances. From time to time, Mothering may rent our subscriber mailing list for one-time use to compatible companies or organizations. Some of these have included: Families for Natural Living, Music of Little People, Natural Baby Catalog, Holistic Education Press, Biobottoms, Co-op America, Utne Reader, Working Assets, Southern Poverty Law Center, and Organic Style. If you would prefer not to have your name rented, please call us at 800-984-8116 and ask to delete your name our list rental program.
 
-## Mothering's Discussion Forums
 
-Those who wish to use our discussion forums are asked to provide certain personal information when they register, including a user name of your choice, a password, birth name and e-mail address. Mothering does not share this information with any third party. Discussion forum users should be aware that by voluntarily disclosing personal information on the Mothering Forums, they make those details easily collectible by third parties.
+**Collection and Use of Personal Information**
 
-## Cookies
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-Our Web site and discussion forums may use "cookies," which are text files places in your computer's browser to store your preferences. To keep improving our site to meet user demand, we may gather some general information about those who access our sites. Cookies enable us to determine the user's operating system, browser type and version, Internet Service Provider, and other such general information. Cookies, which do not contain any personally identifying information, are a standard industry technology and help readers by saving such information as passwords and editorial preferences on user hard drives. A cookie cannot pass on a computer virus, or even capture e-mail address. Visitors have the ability to configure their browsers to refuse acceptance of cookies.
 
-## E-mail
 
-When visitors send e-mail inquiries to Mothering, the return e-mail address is used to answer the inquiry. Mothering does not use the return e-mail address for any other purpose or share it with any third party.
+**Collection and Use of Non-Personal Information**
 
-## Advertisers and Other Third-Party Sites
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We may share aggregated and non-personally identifying information about our visitors collected on our site with our advertisers. This privacy policy applies only to Mothering Inc. and its web site, [www.mothering.com](http://www.mothering.com/ "www.mothering.com"). Other sites that we link to or that advertise with us may have practices different from ours. Please consult the other sites' privacy notices, as we have no control over those of our advertisers, or any other sites we may link to.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
-## Our Commitment to Security
+**Information Sharing and Disclosure**
 
-We are committed to protecting the information you share with us. Our web site and our host have security measures in place to protect the loss, misuse, and alteration of the information under our control. However, we cannot guarantee that these security measures will prevent third-party "hackers" from illegally obtaining this information.
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
 
-## Special Cases
 
-Mothering may disclose personal information about visitors, or about their uses of the web site, if, in our sole discretion, we believe it is reasonable to do so, including; to satisfy laws such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information, to operate our site properly and to protect Mothering and our visitors.
 
-## How to Contact Us
+**Consent**
 
-If you have any questions or concerns about our policy, please contact us at [webmaster@mothering.com](mailto:webmaster@mothering.com).
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+
+
+**How to Access your Personal Information**
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+**Third Party Cookies**
+
+  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices).
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
+
+
+
+**Security**
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+**Changes to this Privacy Statement**
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network’s Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting.
+
+
