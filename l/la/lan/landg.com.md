@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landg.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211203949id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landg.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621095115id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal & General - Privacy Policy
+# Privacy policy - Legal & General
 
 Legal & General is committed to protecting your privacy and keeping your personal information secure.
 
