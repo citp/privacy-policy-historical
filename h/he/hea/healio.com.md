@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healio.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909083202id_/http%3A//www.healio.com/footer/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healio.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622001808id_/http%3A//www.healio.com/footer/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Healio
+# Privacy Policy
 
 ### Privacy Policy
 
@@ -35,7 +35,7 @@ We may use the information collected for many purposes, including delivering ads
 
 At this time, we do not review the use of our site by individual users unless a user's account is associated with 1) attempts to violate the security of the Wyanoke Group computer networks, 2) activity that degrades the performance of the Wyanoke Group websites, 3) activity that may be related to copyright violation, or 4) if we are required to disclose this information by law.
 
-We may provide your information to relevant third parties interested in communicating with you about information or products relevant to your profession. The Wyanoke Group will not share your email address or mailing address to these third parties. Personal information may be shared with or used for any of the following: accredited CME providers in order to award CME credit; advertisers and sponsors to provide custom service offerings; monitoring, reporting and improvement of website or service performance; delivery of relevant educational and promotional content. By choosing to register or supply information to any Wyanoke Group website or service you are agreeing to the terms and conditions set forth in this privacy policy. If at any time you wish to stop receiving communications or opt out of these services, you may contact the Wyanoke Group at [webmaster@wyanokegroup.com](mailto:webmaster@wyanokegroup.com).
+We may provide your information to relevant third parties interested in communicating with you about information or products relevant to your profession. The Wyanoke Group will not share your email address or mailing address to these third parties, except for CME activities where it is needed for the CME providers’ accreditation requirements. Personal information may be shared with or used for any of the following: accredited CME providers in order to award CME credit; advertisers and sponsors to provide custom service offerings; monitoring, reporting and improvement of website or service performance; delivery of relevant educational and promotional content. By choosing to register or supply information to any Wyanoke Group website or service you are agreeing to the terms and conditions set forth in this privacy policy. If at any time you wish to stop receiving communications or opt out of these services, you may contact the Wyanoke Group at [webmaster@wyanokegroup.com](mailto:webmaster@wyanokegroup.com).
 
 The Wyanoke Group may also release personal information to third parties: 1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; or 2) in special cases, such as a physical threat to you or others.  
 In the event that we are legally compelled to disclose your personal information to a third party, we will notify you unless doing so would violate the law or court order.
@@ -48,11 +48,11 @@ The Wyanoke Group is committed to the security of your transactions. Our secure 
 
 Many advertisements are managed and placed on the Wyanoke Group websites by third parties. Advertisers who place advertisements on our sites may use cookies to collect non-personal information about your visits to our websites and other websites in order to provide advertisements of interest to you.
 
-#### Participation in the Medical Publisher Consortium
+#### Participation in the Healthcare Communication Network
 
-This website is a member of the Medical Publisher Consortium (the “Consortium”), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. If you would like to understand how this website’s participation in the Consortium affects your privacy, please [click here](http://usersupport.dmdconnects.com/PrivacyPolicy.htm).
+This website participates in the Healthcare Communication NetworkSM (the “Network”), and as such has implemented various technologies for universal registration/log-in among all Network member websites. If you would like to understand how this website’s participation in the Network affects your privacy, please [click here](http://usersupport.dmdconnects.com/PrivacyPolicy.htm).
 
-Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this website for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
+Please note that the Network registration/log-in system may be different from the registration/log-in used by this website for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of policy applicable to the Network technologies.
 
 #### Conclusion
 
