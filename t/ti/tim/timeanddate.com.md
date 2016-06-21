@@ -1,20 +1,32 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228221624id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621152037id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
-timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy. This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com.
+We have a firm commitment to privacy at timeanddate.com.
 
-We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
+This page discloses our information gathering and dissemination practices for this website: **www.timeanddate.com.**
 
-If you register with the site, your email address is used as your login name. Your email address will not be shared with a third party. We will only send an email to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
+## IP Address and Cookies
 
-This site contains links to other sites. **timeanddate.com** is not responsible for the privacy practices or the content of such websites.
+We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use [cookies](https://web.archive.org/custom/cookies.html) to deliver content specific to your interests.
+
+## Registration and Servers
+
+If you [register](https://web.archive.org/custom/create.html) with the site, your email address is used as your login name. Your email address will not be sold nor distributed to any third party, but for technical purposes, it is shared with vendors working on our behalf. We will only send mail to your email address when you first register with the site, when you request your password to be reset, or for answering support questions.
+
+Our servers are located in USA, Germany, Singapore, and Norway. We also rely on third parties to host our services and our infrastructure, and to distribute our content. Although we have security measures in place, we cannot guarantee full privacy.
+
+We recommend that you do not add sensitive information to the calendars.
+
+## External Links
+
+This site contains links to other sites. timeanddate.com is not responsible for the privacy practices or the content of such websites.
 
 Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For more information about this practice and your possibility to opt out, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-### Third-party Privacy Policies
+## Third-party Privacy Policies
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
@@ -22,11 +34,27 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact:
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
 
 Time and Date AS  
 PO Box 27 Forus  
 NO-4064 Stavanger  
 Norway  
-[webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)  
-Fax: +47 5163 2711
+[webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)
+
+### timeanddate.com
+
+  1. [ About Us ](https://web.archive.org/company/index.html)
+  2. [ Contact Us ](https://web.archive.org/information/contact.html)
+  3. [ Feedback ](https://web.archive.org/information/feedback.html)
+  4. [ Privacy Statement ](https://web.archive.org/information/privacy.html)
+  5. [ Copyright ](https://web.archive.org/information/copyright.html)
+  6. [ Logo Use ](https://web.archive.org/information/logo.html)
+  7. [ Support Us ](https://web.archive.org/information/contribute.html)
+  8. [ Work Here ](https://web.archive.org/information/jobs.html)
+  9. [ Advertise ](https://web.archive.org/information/advertising.html)
+  10. [ Disclaimer ](https://web.archive.org/information/disclaimer.html)
+
+
+
+[ Index ](https://web.archive.org/information/)
