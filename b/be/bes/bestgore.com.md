@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143004id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621053812id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Gore
 
@@ -62,11 +62,3 @@ Best Gore has the discretion to occasionally update this privacy statement. When
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us by filling up our [convenient contact form](http://www.bestgore.com/contact/).
 
 Best Gore will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-#### What People Searched For To Land Here:
-
-  * best gore legal
-  * is best gore legal
-  * Rape mundo narco sex video 3gp com
-
-
