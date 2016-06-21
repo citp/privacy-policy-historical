@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartkeeda.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122102647id_/http%3A//www.smartkeeda.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartkeeda.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621070316id_/http%3A//www.smartkeeda.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Smart Keeda
+# Privacy Policy | Leading online test preparation website for SSC CGL, SSC CHSL, IBPS PO, IBPS Clerk, SBI PO, SBI Clerk, CDSE, CLAT, MAT, NIFT - Smartkeeda
 
 **Introduction**  
 We, at SmartKeeda.com (" **SmartKeeda** ") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
@@ -57,7 +57,7 @@ Tracking technologies may record information such as Internet domain and host na
 Use of cookies makes web surfing easier by performing certain functions such as saving your Passwords, your personal preferences regarding your use of the particular Website and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly. You may note additionally that if you visit SmartKeeda Web site where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use cookies. We do not control use of these cookies and disclaim responsibility for information collected through them
 
 **Third Party Services**  
-Third parties provide certain services available on [www.SmartKeeda.com](http://www.smartkeeda.com/) on SmartKeeda’s behalf. SmartKeeda may provide information, including Personal Information, that SmartKeeda collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which SmartKeeda maintains its Website and mailing lists. SmartKeeda will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on SmartKeeda’s behalf.
+Third parties provide certain services available on [www.SmartKeeda.com](https://web.archive.org/) on SmartKeeda’s behalf. SmartKeeda may provide information, including Personal Information, that SmartKeeda collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which SmartKeeda maintains its Website and mailing lists. SmartKeeda will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on SmartKeeda’s behalf.
 
 SmartKeeda does not intend to transfer Personal Information without your consent to third parties who are not bound to act on SmartKeeda’s behalf unless such transfer is legally required. Similarly, it is against SmartKeeda 's policy to sell Personal Information collected online without consent.
 
