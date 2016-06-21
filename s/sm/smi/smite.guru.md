@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smite.guru privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217172858id_/http%3A//smite.guru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smite.guru privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621092658id_/http%3A//smite.guru/privacy) for the most accurate reproduction.*
 
 # SmiteGuru - Privacy Policy
 
