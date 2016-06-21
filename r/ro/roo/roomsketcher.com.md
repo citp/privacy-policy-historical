@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231071253id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621130339id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for RoomSketcher | RoomSketcher
 
-Revised as per January 21 2015
+Revised as per April 28 2016
 
-Welcome to the RoomSketcher web site, a web site operated by RoomSketcher.no AS (“us,” “we,” or “RoomSketcher”). This privacy policy (the ‘Privacy Policy’) explains you of our policies with respect to information collected from any services and content, including the web site, provided by RoomSketcher (the “RoomSketcher Services”).
+Welcome to the RoomSketcher app or web site, an app or web site operated by RoomSketcher AS (“us,” “we,” or “RoomSketcher”). This privacy policy (the ‘Privacy Policy’) explains you of our policies with respect to information collected from any services and content, including the web site, provided by RoomSketcher (the “RoomSketcher Services”).
 
 Your use of the RoomSketcher Services constitutes your acceptance of this Privacy Policy and your consent to the practices it describe.
 
