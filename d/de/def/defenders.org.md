@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221104323id_/http%3A//www.defenders.org/defenders-wildlife-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621143046id_/http%3A//www.defenders.org/defenders-wildlife-privacy-policy) for the most accurate reproduction.*
 
 # Defenders of Wildlife Privacy Policy | Defenders of Wildlife
 
@@ -84,11 +84,13 @@ If you choose to make an online donation to Defenders, you will have to provide 
 **Information We Automatically Collect and Store** :  
 As is true of most Web sites you enter, we automatically collect and store some information about your computer and your visit and store it in log files. This information includes information such as your computer's (or your Internet Service Provider's) Internet Protocol (IP) address (this is not your e-mail address); the domain from which you access the Internet (e.g., "AOL.com" or "Princeton.edu"); the name, version, and specifications of your computer and your computer's operating system; the Internet address of the website, if any, from which you came to our site; the date and time you arrived at our site and how long you spent on the site; and which pages you visited.
 
+This site uses Hotjar web analytics service. Hotjar may record mouse clicks, mouse movements and scrolling activity. Hotjar does not collect personally identifiable information that you enter on this website, such as in forms that you fill out. Hotjar does not track your browsing habits across web sites which do not use Hotjar services. For more information see their [Privacy Policy](https://www.hotjar.com/privacy) for Information Collected by the [Hotjar Web Analytics Service](https://www.hotjar.com/privacy). We are using the information collected by the Hotjar service to find out how we can improve the user experience of our website. You may opt-out from having Hotjar collect your information at any time by [using a ‘Do Not Track’ header](https://www.hotjar.com/opt-out). 
+
+[](https://www.hotjar.com/?utm_source=badge)
+
 We use this information to formulate statistics that show the number of visitors to the different sections of our site and to help us make our site more useful to visitors. For example, we use the browser information to help us design our website so that as many people as possible will be able to view the pages correctly. These statistics do not reveal personal information.
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements and scrolling activity . ClickTale does not collect personally identifiable information that you enter on this website, such as in forms that you fill out. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the [ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to find out how we can improve the user experience of our website. You can choose to [disable the Service](http://www.clicktale.net/disable.html). 
-
- **Use of "Cookies" and Disabling "Cookies"** :  
+**Use of "Cookies" and Disabling "Cookies"** :  
 Cookies are small text files that are either placed on your computer's hard drive ("persistent cookies") or in your computer's Random Access Memory ("session cookies"). We use both persistent cookies and session cookies on our websites.
 
  **Session Cookies:** We use session cookies to make it easier for you to navigate certain sections of our websites. If you choose to provide personal information by using an interactive application on our site, such as by signing up for Defenders Wildlife eNews, or joining our activist network, or making an online donation to Defenders, we place a session cookie on your computer so that you will be recognized as you move around the Web pages. This information is only used for fifteen minutes. For example, if you join our activist network and then navigate through different pages of our websites, the cookie may maintain the information you entered when you filled out the activist registration page. As you move through the site, any fields requiring information about you that have already been captured may automatically appear. However, after approximately fifteen minutes, the session cookie times out. If you return to our website later, your personal information fields will not be filled automatically.
@@ -136,6 +138,9 @@ Although Defenders does its best to protect your privacy on this and our other w
 **How to Unsubscribe or Contact Defenders of Wildlife About Your Information:**
 
 If you have any questions about this Privacy Policy, would like to stop receiving email from us in the future or need to update your email or other contact information, you can send an email to: [myprivacy@defenders.org](mailto:myprivacy@defenders.org). Note that your donation and action history will remain in Defenders’ databases, but we will not send you email if you request to be unsubscribed. You also may unsubscribe via the unsubscribe link that we include in every email.
+
+**Regarding information acquired offline:**  
+Defenders occasionally shares mailing list information with like-minded organizations. If you prefer that we not share your name or if you wish to modify communication, call 1-800-385-9712 or email us at [memberservices@defenders.org](mailto:memberservices@defenders.org).
 
 You also can contact us via mail at:
 
