@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213132207id_/http%3A//www.alfy.com%3Fname%3Dmost-popular-free-online-games%26about%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621232041id_/http%3A//www.alfy.com%3Fname%3Dmost-popular-free-online-games%26about%3D2) for the most accurate reproduction.*
 
 # ALFY.com -- the Best Free Online Games - Privacy Policy
 
@@ -97,7 +97,7 @@ The Site may include links to third party web-sites. Our Privacy Policy does not
 
 We reserve the right to change the information, features, products, policies, promotions, disclosures and disclaimers of this Site at any time, including this Privacy Policy. We will notify users of the Site of any material changes to this Privacy Policy by posting on the Site a revised Privacy Policy, which will indicate the new effective date of such Privacy Policy. BY VISITING THE SITE, YOU ACCEPT THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY; UNLESS YOU ARE A CHILD UNDER THE AGE OF 13, IN WHICH CASE, YOUR PARENTS ACCEPT THIS PRIVACY POLICY. Please check this Privacy Policy periodically to determine if any changes were made to it since you last visited us. Your continued use of the Site following the posting of changes to this Privacy Policy is conclusive proof that you have accepted such changes.
 
-_Last updated on July 20, 2012_
+_Last updated on April 18, 2016_
 
 |   
   
