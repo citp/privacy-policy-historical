@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225222108id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622005807id_/http%3A//www.aenetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | A+E Networks
 
