@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixalate.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917042913id_/http%3A//www.pixalate.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixalate.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621173947id_/http%3A//www.pixalate.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixalate
 
@@ -38,8 +38,8 @@ Contact Information
 Pixalate welcomes your questions or comments regarding this Statement of Privacy. If you believe that Pixalate has not adhered to this Statement, please contact Pixalate at: 
 
 Pixalate Inc   
-1639 11th Street, Suite 126   
-Santa Monica, California 90404 
+929 Colorado Ave. #125   
+Santa Monica, California 90401 
 
 Email address: info@pixalate.com   
 Telephone number: 1-888-PIXALATE   
