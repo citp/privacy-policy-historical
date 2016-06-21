@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikr.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231154517id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikr.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621045844id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Quikr
 
@@ -7,6 +7,8 @@ This privacy policy describes how we handle your personal information. We collec
 **Collection.** Information posted on Quikr is obviously publicly available. Our servers are located in Mumbai, India. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information:   
 • email address, physical contact information, and (depending on the service used) sometimes financial information;   
 • computer sign-on data, statistics on page views, traffic to and from Quikr and Ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);   
+• Other apps installed on device   
+• IMEI number   
 • other information, including users IP address and standard web log information.
 
 **Use.** We use users' personal information to:   
