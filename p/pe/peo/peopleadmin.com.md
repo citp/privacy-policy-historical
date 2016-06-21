@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peopleadmin.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208114254id_/http%3A//peopleadmin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleadmin.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621201233id_/https%3A//www.peopleadmin.com/privacy-policy) for the most accurate reproduction.*
 
-# PeopleAdmin Privacy Policy | PeopleAdmin
+# PeopleAdmin Privacy Policy - PeopleAdmin
 
 This policy covers how PeopleAdmin, Inc. handles and uses personal information that we collect when you visit and interact with our web site. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
