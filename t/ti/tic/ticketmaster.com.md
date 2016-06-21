@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231173508id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621110010id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster Privacy Policy
 
-Effective July 20, 2012 (last updated July 24, 2015)
+Effective July 20, 2012 (last updated March 10, 2016)
 
 ## This Privacy Policy applies to the sites and apps where it appears.
 
@@ -50,7 +50,7 @@ This Policy describes how we treat personal information we collect both online a
 
 **We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.
 
 **We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
@@ -78,7 +78,7 @@ To exercise your rights, you can [email us](mailto:privacy@livenation.com) or wr
 
 Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-Learn more about COPPA [here](http://www.business.ftc.gov/privacy-and-security/children's-privacy "opens in a new window").
+Parents, you can also learn more about how to protect your children's privacy online [here](http://www.business.ftc.gov/privacy-and-security/children's-privacy "opens in a new window").
 
 ## We use standard security measures.
 
@@ -86,7 +86,7 @@ We have security measures in place to protect your information. The standard sec
 
 ## We are TRUSTe certified.
 
-TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements "opens in a new window"). The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.
+TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements "opens in a new window"). The seal applies to our practices for information collected on U.S. sites and apps. In order to view our relationship with Truste, click [here](http://privacy.truste.com/privacy-seal/validation?rid=84e9beec-aa90-44e5-80ae-9aa709ca9c75).
 
 We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
 
@@ -115,4 +115,4 @@ If you are not satisfied with our response, you can contact TRUSTe [here](https:
 
 From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2013 Live Nation Entertainment, Inc. All rights reserved.
+© 2016 Live Nation Entertainment, Inc. All rights reserved.
