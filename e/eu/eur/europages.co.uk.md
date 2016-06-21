@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217014918id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622010720id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
 
 # EUROPAGES privacy policy | Europages
 
@@ -56,6 +56,10 @@ When you sign up for an account or to use certain functions, you choose or agree
 Members can send requests for information to the companies listed on the site. If you choose to send a request for information using the contact forms on the EUROPAGES website, your personal data, including your email address and any other information you provide, will be visible to the company contacted.
 
 In additional, these messages may be stored, processed or transferred by our servers.
+
+We use them anonymously in the activity feed for our members available on the home page.
+
+This means that part of these messages may appear on the home pages of the different language versions.
 
 Requests for information made using the EUROPAGES system are available for consultation by the member initially addressed and by our customer service employees, who may communicate information on such requests to members or any other person. When required, we may view messages sent via our platform. We may also occasionally use third-party email servers to send and monitor the reception of messages containing requests for information and analyse the usage patterns provided by third-party monitoring systems.
 
