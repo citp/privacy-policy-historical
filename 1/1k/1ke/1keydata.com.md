@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204121259id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621162225id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
 
 # 1Keydata Privacy Policy
 
@@ -18,12 +18,12 @@ We use third party advertisements on 1keydata.com to support our site. Some of t
 
 DoubleClick DART Cookies 
 
-We may use the Google Adsense program on our pages. Google uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads based on visitor's web browsing history. Visitors may opt out of the user of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
+We may use the Google Adsense program on our pages. Google uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads based on visitor's web browsing history. Visitors may opt out of the user of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/). 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.   
 
 
 * * *
 
-Copyright 2015 1keydata.com.   All Rights Reserved.     [Privacy Policy](http://www.1keydata.com/privacy.php)   [About](http://www.1keydata.com/about.php)   [Contact](http://www.1keydata.com/contact-us.php)  
+Copyright 2016   1keydata.com   All Rights Reserved     [Privacy Policy](https://web.archive.org/web/20160621162225id_/http%3A//www.1keydata.com/privacy.php)   [About](https://web.archive.org/web/20160621162225id_/http%3A//www.1keydata.com/about.php)   [Contact](https://web.archive.org/web/20160621162225id_/http%3A//www.1keydata.com/contact-us.php)  
 
