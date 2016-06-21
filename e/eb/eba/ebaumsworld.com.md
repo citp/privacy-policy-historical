@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003625id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622004421id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
 
-# Funny Videos, Funny Pictures, Flash Games, Jokes
+# Funny Videos, Funny Pictures | eBaum's World | eBaum's World
 
 Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information. 
 
