@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citavi.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618050829id_/http%3A//citavi.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citavi.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621211755id_/http%3A//www.citavi.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Citavi Swiss Academic Software
 
@@ -74,10 +74,12 @@ You acknowledge that the Software connects to our servers for the following purp
 
 4.3
 
-4.3. You acknowledge that we must collect some personally identifiable information in order to issue a license key. Your information will not be shared with any third parties under any circumstances, except with law enforcement officials as required by law, or as you explicitly request. We may communicate with you proactively in matters regarding your license, but will not use your information for advertising or other purposes, except as you explicitly request.
+You acknowledge that we must collect some personally identifiable information in order to issue a license key. Your information will not be shared with any third parties under any circumstances, except with law enforcement officials as required by law, or as you explicitly request. We may communicate with you proactively in matters regarding your license, but will not use your information for advertising or other purposes, except as you explicitly request.
 
-This personally identifiable information comprises: 
+This personally identifiable information comprises:
 
-> a) The user's given and last names  
->  b) The user's email address  
->  c) The user's postal address if provided while ordering 
+> a) The user's given and last names
+> 
+> b) The user's email address
+> 
+> c) The user's postal address if provided while ordering
