@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814031758id_/https%3A//www.eventfarm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621223748id_/https%3A//www.eventfarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Event Farm - Privacy Policy
 
@@ -97,4 +97,4 @@ When You register to create an account with the Service or complete a purchase t
 
 ### Contact Information
 
-If You have any questions or concerns about Our Privacy Policy or the practices of the Service, You can contact Us at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (888) 444-8162, or by mail through our Corporate Office located at Event Farm, Inc., 20331 Irvine Avenue, Suite E2, Newport Beach, CA 92660.
+If You have any questions or concerns about Our Privacy Policy or the practices of the Service, You can contact Us at **legal@eventfarm.com**, by phone at (888) 444-8162, or by mail through our Corporate Office located at Event Farm, Inc., 2403 Main Street, Santa Monica, CA 90405.
