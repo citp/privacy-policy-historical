@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookmates.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314212536id_/http%3A//www.cookmates.com/static/privacy_cookmates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookmates.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621121249id_/http%3A//www.cookmates.com/static/privacy_cookmates.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,3 +65,5 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us. 
+
+﻿ 
