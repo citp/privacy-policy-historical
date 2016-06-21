@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the florenfile.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602221913id_/http%3A//florenfile.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the florenfile.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621191832id_/http%3A//florenfile.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Florenfile.com - Easy way to share your files
 
