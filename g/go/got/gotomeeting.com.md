@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomeeting.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231132428id_/http%3A//www.gotomeeting.com/redirect/citrix/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomeeting.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621151529id_/http%3A//www.gotomeeting.com/redirect/citrix/privacy-policy%3F_ga%3D1.4646774.494681667.1449596018) for the most accurate reproduction.*
 
 # Citrix Online Privacy Policy Overview - Citrix
 
