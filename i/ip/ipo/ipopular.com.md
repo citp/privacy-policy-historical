@@ -1,89 +1,57 @@
-> *The following text is extracted and transformed from the ipopular.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117040706id_/http%3A//www.ipopular.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipopular.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622005229id_/http%3A//ipopular.com/privacy) for the most accurate reproduction.*
 
-# iPopular :: It's the I that makes you popular.
+# Privacy - iPopular
 
-This Policy applies as to all products and services provided by iPopular and yourself the User of iPopular. This Policy applies to our use of any and all Data collected by us in relation to your use of iPopular and any Services or Systems therein.
+**Privacy**
 
-##### 1\. Definitions and Interpretation
+This privacy policy sets out how iPopular uses and protects any information that you give iPopular when you use iPopular. iPopular is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using iPopular, then you can be assured that it will only be used in accordance with this privacy statement. iPopular may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-In this Policy the following terms shall have the following meanings:   
-"Account" means collectively the personal information, payment information and credentials used by Users to access material and / or any communications System on iPopular;   
-"Content" means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of iPopular;   
-"Cookie" means a small text file placed on your computer by iPopular when you visit certain parts of the Web Site. This allows us to identify recurring visitors and to analyze their browsing habits within iPopular.   
-"Data" means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;   
-"IPopular" / "iPopular" means the Web Site iPopular.com   
-"Service" / "Services" means collectively any online facilities, tools, services or information that iPopular makes available through iPopular either now or in the future;   
-"System" means any online communications infrastructure that iPopular makes available through iPopular either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;   
-"User" / "Users" means any third party that accesses iPopular and is not employed by iPopular and acting in the course of their employment;   
-"Web Site" means the website that you are currently using (iPopular.com) and any sub-domains of this site (e.g. support.iPopular.com unless expressly excluded).   
-"IPopular" means IPopular the Web Site, and the provider of the Services. 
+**What we collect  
+**We may collect the following information:
 
-##### 2\. Data Collected
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Without limitation, any of the following Data may be collected:   
-2.1 name;   
-2.2 date of birth;   
-2.3 gender;   
-2.4 business industry;   
-2.5 contact information such as email addresses and telephone numbers;   
-2.6 demographic information such as post code, preferences and interests;   
-2.7 Cookie information (see clause 10 below);   
-2.8 financial information such as purchase history   
-2.9 IP address (automatically collected);   
-2.10 web browser type and version (automatically collected);   
-2.11 operating system (automatically collected);   
-2.12 a list of URLS starting with a referring site, your activity on iPopular, and the site you exit to (automatically collected); and   
-2.13 Twitter profile information provided to us through the Twitter API and your express permission;   
-2.14 Facebook profile information provided to us through the Facebook API and your express permission;   
-2.15 YouTube profile information provided to us through the YouTube API and your express permission;   
-2.16 Website profile information;   
-2.17 Online social connections made or received by you through iPopular. 
 
-##### 3\. Our Use of Data
 
-3.1 Any personal Data you submit will be retained by iPopular for as long as you use the Services and Systems provided on iPopular. Data that you may submit through any communications System that we may provide may be retained for a longer period.   
-3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties.   
-3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.   
-3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:   
-3.4.1 Internal record keeping;   
-3.4.2 Improvement of our products / services;   
-3.4.3 Transmission by email of promotional materials that may be of interest to you;   
-3.4.4 Contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customize or update iPopular. 
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-##### 4\. Third Party Web Sites and Services
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-IPopular may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of iPopular. Any Data used by such parties is used only to the extent required by them to perform the services that iPopular requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998. 
 
-##### 5\. Changes of Business Ownership and Control
 
-5.1 IPopular may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.   
-5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-##### 6\. Controlling Access to your Data
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-6.1 Wherever you are required to submit Data, you will not be given options to restrict our use of that Data. 
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-##### 7\. Your Right to Withhold Information
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
 
-7.1 You may access certain areas of iPopular without providing any Data at all. However, to use all Services and Systems available on iPopular you may be required to submit Account information or other Data.   
-7.2 You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-##### 8\. Accessing your own Data
+**Third-party online advertising**
 
-8.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.   
-8.2 You have the right to ask for a copy of your personal Data on payment of a small administrative fee. 
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
 
-##### 9\. Security
+Please remember that iPopular does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
 
-9.1 Data security is of great importance to iPopular and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online. 
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
 
-##### 10\. Cookies
-
-10.1 IPopular may set and access Cookies on your computer.   
-10.2 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by iPopular that placed it there, not any other sites.   
-10.3 You may delete Cookies; however you may lose any information that enables you to access iPopular more quickly.   
-10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on iPopular. 
-
-##### 11\. Changes to this Policy
-
-IPopular reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on iPopular and you are deemed to have accepted the terms of the Policy on your first use of iPopular following the alterations. 
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
