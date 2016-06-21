@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011153232id_/http%3A//www.sciquest.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622015548id_/http%3A//www.sciquest.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SciQuest
-
-##### Table Of Contents
-
-  1. Personal Information SciQuest Processes
-  2. Use and Disclosure of Personal Information
-  3. Use of Website(s)
-  4. Cookies
-  5. Retargeted Advertising
-  6. Social Media Features and Widgets
-  7. Opt-Out; Access
-  8. Safe Harbor Program Statement
-  9. Complaint Handling; Dispute Resolution
-  10. Contact Details
-  11. Data Retention
-  12. Security
-  13. Changes to the Privacy Policy
-
-
 
 This Privacy Policy describes the information SciQuest collects about you as a visitor to our website(s) and informs you how SciQuest uses this information and describes your choices regarding certain types of processing. This Privacy Policy does not cover any information or data collected by SciQuest when you are using SciQuest's software applications and services. Please see our [Service Privacy Policy](https://web.archive.org/about/service-privacy-policy)
 
