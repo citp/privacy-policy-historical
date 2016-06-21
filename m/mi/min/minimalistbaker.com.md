@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218084309id_/http%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621171911id_/http%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Minimalist Baker
+# Privacy | Minimalist Baker
 
 ## Privacy Policy
 
