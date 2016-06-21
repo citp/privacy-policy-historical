@@ -1,27 +1,38 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225142510id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621121021id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices - About NHS Choices - NHS Choices
 
-We collect information indirectly and directly.
+## Your privacy on NHS Choices 
 
-When you use NHS Choices ([www.nhs.uk](https://web.archive.org/)), we use technology to collect information indirectly - such as your internet address. This is commonplace across all internet services to enable the investigation of issues such as malicious use. This information is then kept in our internet access logs.
+### Personal data collected
 
-We collect information directly from you in a number of ways. One way is by using cookies. Cookies are small files of information that save and retrieve information about your visit to our site, such as how you entered our site, how you navigated through the site and what information was of interest to you. This information is collected for a number of reasons, for example, to help develop the website and associated services.
+**Navigation data  
+**IP address and the website you came from
 
-The cookies we use identify you merely as a number. If you are uncomfortable about the use of cookies, you can disable them by changing the settings in the preferences or options menu in your internet browser. However, disabling cookies may affect our ability to provide services to you; if certain cookies are disabled you may not be able to access the service.
+**Personal information  
+**Includes your first name, last name, email address, postcode and other personal information you provide. 
 
-See our [Cookies policy](https://web.archive.org/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx) for more information on the cookies we use.
+### Use of personal data 
 
-We also collect information when you give it to us. For example, you may register to use the message-posting facility called 'Patient feedback'. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether you provide it, but not providing information may affect our ability to provide services to you.
+**Analytics  
+**Uses navigation data in services provided by NHS Choices and third parties. For more information see our [cookies policy](https://web.archive.org/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx).  
 
-The social media bookmarking sites that NHS Choices links to are third-party sites and NHS Choices does control the way these sites use your information. If you choose to access these sites using the links provided, the operators of these sites may collect information from you that may be used by them in accordance with their privacy policies, which may differ from ours.
+**Advertising  
+**Some health campaigns are supplied with advertising data. ****
 
-You should read their privacy policies carefully to find out what happens to any information that is collected by these services when you use them.
+**Personalisation  
+**Uses navigation data and personal information to enable us, and third parties, to tailor the services provided to you. 
 
-Videos from NHS Choices - whether viewed on the website, in emails or embedded in third-party sites - are supplied (streamed) to users by a third-party company, Brightcove. A product called TubeMogul is used by Brightcove to compile statistics for NHS Choices, such as what videos have been watched and when; it uses an anonymous tracking cookie and stores no personal data. For more information, see the [Brightcove privacy policy](http://www.brightcove.com/en/privacy/) and the [TubeMogul privacy policy](http://www.tubemogul.com/company/privacy).
+### Data sharing
 
-Use of NHS Choices tools on third-party sites will be tracked. No personal data is collected by the tools. Information gathered by NHS Choices includes the user’s IP address, the web page a tool is accessed from, and how many times it is accessed. In some cases, tracking is used to show user journeys through a tool. This information is the sole property of NHS Choices and will not be shared with third parties. All NHS Choices tools store the number of times a user has visited the tool. Some tools also store ‘state’ information so that when a user returns to a tool it is in the ‘state’ they left it in.
+We will never share personal information with any third parties without your consent. Navigation data is shared with trusted third parties providing analytics or advertising.
 
-Information submitted as a part of NHS Choices content held on Twitter and Facebook will be subject to their privacy policies. For more information, see the [Twitter privacy policy](http://twitter.com/privacy) and the [Facebook privacy policy](http://www.facebook.com/about/privacy/).
+## Our privacy policy 
 
-NHS Choices uses Google Maps APIs to provide some location-based information. You should read the [Google privacy policy](http://www.google.co.uk/policies/privacy/ "Goes to external site") to understand how this affects you. 
+The Health and Social Care Information Centre is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.
+
+We want you to feel secure when using the website and associated services. We are committed to respecting your privacy. Below we give an overview of how we do that.
+
+Page last reviewed: 15/03/2016
+
+Next review due: 15/03/2018
