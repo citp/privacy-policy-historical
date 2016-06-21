@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215111222id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621093005id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -139,4 +139,4 @@ We hope that you enjoy using our website, safe in the knowledge that we are comm
 Version 3: January 2012
 
 Do you have any [Feedback](https://web.archive.org/feedback) about this page?  
-© 2015 Columbus Travel Media Ltd. All rights reserved. No part of this site may be reproduced without our written permission, click here for information on [Columbus Content Solutions](https://web.archive.org/about-us#Content_Solutions).
+© 2016 Columbus Travel Media Ltd. All rights reserved. No part of this site may be reproduced without our written permission, click here for information on [Columbus Content Solutions](https://web.archive.org/about-us#Content_Solutions).
