@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtons.co.uk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107151517id_/http%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtons.co.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621124759id_/http%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.*
 
 # Foxtons Terms & Conditions & Privacy Policy
 
@@ -29,6 +29,18 @@ Foxtons makes no representations or warranties of any kind with respect to this 
 ### Law
 
 The user confirms that the terms and conditions and use of this website shall be governed by the laws of England and Wales and that any and all disputes arising therefrom shall be subject to the exclusive jurisdiction of the English courts.
+
+### Anti-Money Laundering
+
+Foxtons is committed to operating its business in a transparent and open manner consistent with our legal and regulatory obligations. We are aware that the real estate industry is a target for organised criminals seeking to launder the proceeds of criminal activity. We always seek to prevent this activity by cooperating fully with the authorities and reporting suspicious activity to National Crime Agency. 
+
+As part of this commitment we adopt a strict compliance of all applicable Anti Money Laundering rules, with specific emphasis on the Proceeds of Crime Act 2002, the Money Laundering Regulations 2007, the Bribery Act 2010 and the Terrorism Act 2000. 
+
+Foxtons policy commitment is applicable to all our customers, including vendors, buyers, landlords and tenants. As a result we obtain and hold for a period of at least five years evidence pertaining to our customers' identity and, where appropriate, we obtain proof of ownership of property and source/ destination of funds. We will be unable to proceed with any work on behalf of our customers if we are unable to obtain this information. Customers' identity will be subject to an electronic identity check, which may also include a credit check. 
+
+For a full list of acceptable identity documents, please [click here](https://web.archive.org/help/aml-documents.html).
+
+Foxtons is registered and supervised by HM Revenue & Customs for compliance with the Money Laundering Regulations 2007.
 
 ### Data Protection Act 1998
 
