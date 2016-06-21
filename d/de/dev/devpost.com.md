@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205054605id_/http%3A//info.devpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621124910id_/http%3A//info.devpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective July 28, 2015
+Effective March 17, 2016
 
 We at Devpost (formerly ChallengePost) have created this Privacy Policy because we know you care about how information you provide to us is used and shared. This Privacy Policy describes how we gather information from you when you visit the Devpost website located at [www.devpost.com](http://www.devpost.com/) and its affiliated websites (collectively referred to as the “Site”), and how we may use and share that information. By visiting our Site, you are accepting the practices described in this Privacy Policy and the accompanying Terms of Service.
 
 In this Privacy Policy, the words “we,” ‘us” and “our” refer to Devpost.
-
-## Safe Harbor Certification
-
-In light of the international nature of our business, Devpost complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Devpost has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more information about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
 
 ## Collected Information and Use
 
@@ -99,11 +95,9 @@ Devpost.com has links to other websites. Once you follow a link to somewhere els
 
 ## Important Notice to Non-U.S. Residents
 
-Devpost abides by the principles set forth in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland.  However, it is important to note that the servers that store the Information are operated in the United States or at one of our other data centers located outside the United States.  If you are located outside of the United States, please be aware that any Information provided to us may be transferred to the United States.  By visiting our Site and/or using our Services, you consent to this transfer.   
+The servers that store Personnally Identifiable Information collected on our Site are operated in the United States or at one of our other data centers located outside the United States.  If you are located outside of the United States, please be aware that any Information provided to us may be transferred to the United States.  By visiting our Site and/or using our Services, you consent to this transfer.   
 
-In order to comply with the Safe Harbor framework, Devpost commits to the resolution of complaints about your privacy and our collection or use of the Information.  We have committed to resolve any complaints by European Union citizens relating to this Privacy Policy, which cannot be resolved directly with our company, through the Council of Better Business Bureaus, Inc.’s Safe Harbor Privacy Dispute Resolution Procedures.
-
-If you have any questions regarding this Privacy Policy, please contact us as set forth in the “How to Contact Us” section below.  We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+If you have any questions regarding this Privacy Policy, please contact us as set forth in the “How to Contact Us” section below.  We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.
 
 ## California Residents
 
@@ -111,4 +105,4 @@ Under California Civil Code Section 1798.83, California residents who have an es
 
 ## Contact Us
 
-If you have any questions about this policy or our site in general, please contact us at support@devpost.com or via mail to Devpost, Inc. • 433 West 14th Street, Suite 3F, NYC 10014.
+If you have any questions about this policy or our site in general, please contact us at [support@devpost.com]() or via mail to Devpost, Inc. • 433 West 14th Street, Suite 3F, NYC 10014.
