@@ -1,100 +1,58 @@
-> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626130359id_/http%3A//www.origins.com/cms/customer_service/cs_privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621152517id_/http%3A//www.origins.com/customer-service-privacy-policy) for the most accurate reproduction.*
 
-# Customer Service Privacy Policy
+# Customer Service - Privacy Policy | Origins
 
-Customer Service
+#### Information We Collect
 
-Origins::US::Resource=HASH(0x328f2340) 
+Information We Collect __
 
-Call Anytime:   
-1-800-ORIGINS (1-800-674-4467)
+We may obtain personal information about you from various sources.  We may collect this information when you provide it at one of our stores, on our website, our social media platforms, or in connection with our social networking or mobile applications, or at one of our events.  Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to us.  This Privacy Policy does not address any data collection at our retail partners. When you visit this site, our social media platforms, or our social networking or mobile applications, we may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons.  
 
-Need Help?  
+#### Information You Provide
+
+Information You Provide __
+
+You may choose to provide personal information to us in a number of ways, such as when you participate in an offer or promotion, or when you make a purchase on our site or in our stores.  The types of personal information you may provide to us includes: 
+
+  * Contact information (such as name, postal address, email address, and mobile or other phone number)
+  * Age and date of birth
+  * Gender
+  * Username and password
+  * Payment information (such as your payment card number, expiration date, delivery address, and billing address)
+  * Your skincare concerns
+  * Contact information for friends or other people you would like us to contact
+  * Content you provide (such as photographs, videos, reviews, articles and comments)
+  * Information provided to us by social networks or mobile applications when you visit our social media platforms or use one of our social networking or mobile applications (such as your name, profile picture, likes, location, friend list and other information described in the social networking application sign-up page, or your geo-location details when using one of our mobile applications)
 
 
-At Your Service
 
-Privacy Policy  
+#### How We Use The Information
 
+How We Use The Information __
 
-Effective Date: 4/30/2014
+We may use the information you provide to:  
+• Send you promotional materials or other communications  
+• Provide services to you  
+• Process your payment card transactions  
+• Create and manage your online account, including access to your online and in-store purchase history  
+• Assist with product selection and replenishment through our in-store customer registry  
+• Respond to your inquiries  
+• Communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, surveys and other offers  
+• Operate and communicate with you about our social networking or mobile applications  
+• Operate, evaluate and improve our business (including developing new products and services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing and other internal functions)  
+• Comply with applicable legal requirements, relevant industry standards and our policies
 
-**Origins Natural Resources Inc.** (“we, us, or our”) respect your concerns about privacy and value the relationship we have with you. This Privacy Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information. We also describe the measures we take to protect the security of the information and how our customers can contact us about our privacy practices.
-
-Click on one of the links below to jump to the listed section:
-
-Information We Collect  
-      • Information You Provide  
-          \- How We Use the Information  
-      • Information We Collect by Automated Means  
-          \- Technologies We Use  
-             º Cookies, Web Server Logs and Web Beacons  
-             º Third Party Web Analytics Services  
-          \- Targeted Advertising  
-          \- How We Use the Information Collected by Automated Means  
-          \- California Do Not Track Notice  
-Information We Share  
-Your Rights And Choices  
-Data Transfers  
-Children’s Privacy  
-How We Protect Personal Information  
-Links To Other Websites  
-Updates To Our Privacy Policy  
-How To Contact Us
-
-Information We Collect
-
-We may obtain personal information about you from various sources. We may collect this information when you provide it at one of our stores, on our website or in connection with our social networking or mobile applications. Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to us. This Privacy Policy does not address any data collection at our retail partners. When you visit this site or our social networking or mobile applications, we may also collect certain information by automated means, using technologies such as cookies, web server logs and web beacons.
-
-back to top
-
-Information You Provide
-
-You may choose to provide personal information to us in a number of ways, such as when you participate in an offer or promotion, or when you make a purchase on our site or in our stores. The types of personal information you may provide to us includes:
-
-• | Contact information (such as name, postal address, email address, and mobile or other phone number)  
----|---  
-• | Age and date of birth  
-• | Gender  
-• | Username and password  
-• | Payment information (such as your payment card number, expiration date, delivery address, and billing address)  
-• | Your skincare concerns  
-•  
-| Contact information for friends or other people you would like us to contact  
-• | Content you provide (such as photographs, articles and comments)  
-• | Information provided to us by social networks or mobile applications when you use one of our social networking or mobile applications (such as your name, profile picture, likes, location, friend list and other information described in the social networking application sign-up page, or your geo-location details when using one of our mobile applications)  
-  
-back to top
-
-How We Use The Information
-
-We may use the information you provide to:
-
-• | Send you promotional materials or other communications  
----|---  
-• | Provide services to you  
-• | Process your payment card transactions  
-• | Create and manage your online account  
-• | Respond to your inquiries  
-• | Communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, surveys and other offers  
-•  
-| Operate and communicate with you about our social networking or mobile applications  
-• | Operate, evaluate and improve our business (including developing new products and services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing and other internal functions)  
-• | Comply with applicable legal requirements, relevant industry standards and our policies  
-  
 We also may use the information in other ways for which we provide specific notice at the time of collection.
 
-back to top
+#### Information We Collect by Automated Means
 
-Information We Collect by Automated Means
+Information We Collect by Automated Means __
 
 When you visit this site or our online advertisements or use one of our social networking or mobile applications, we collect certain information about your usage or device by automated means or by using technologies such as cookies, web server logs and web beacons. For example, if you use one of our mobile applications, we may collect your unique device identifier (or other device identifier) and/or geolocation data in order to offer you certain features or functionalities within that mobile application. As set forth in more detail below, we may also collect information about your usage and browsing habits using various web-based technologies.
 
-back to top
+#### Technologies We Use Cookies, Web Server Logs and Web Beacons
 
-Technologies We Use
-
-Cookies, Web Server Logs and Web Beacons
+Technologies We Use Cookies, Web Server Logs and Web Beacons __
 
 Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies you may not be able to use all of the features of our website.
 
@@ -102,214 +60,370 @@ In conjunction with obtaining information through cookies, our web servers may l
 
 To control which web servers collect this information, we may place tags on our web pages called “web beacons.” These are computer instructions that link web pages to particular web servers and their cookies.
 
-back to top
+#### Third Party Web Analytics Services
 
-Third Party Web Analytics Services
+Third Party Web Analytics Services __
 
-We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Coremetrics and Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of Coremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please [click here](https://web.archive.org/customer_service/coremetrics_optout.tmpl). To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Adobe Site Catalyst and/or Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to collect information (such as IP address) and use that information to help us analyze how visitors use the site. 
 
-back to top
+You may deactivate the ability of these analytics services to analyze your browsing activities on this site.  To exercise your choice with respect to their collection of information on this site:
 
-Targeted Advertising
+· For Adobe Site Catalyst, please [_click here_  ](http://www.adobe.com/privacy/opt-out.html)
 
-We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails and on third-party websites and emails. They use this information to provide advertisements about our products and services tailored to your interests. ests (including for companies not affiliated with us). You may see these advertisements on our websites and other websites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about these and other advertising networks and their opt-out instructions, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+· To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at http://tools.google.com/dlpage/gaoptout?hl=en.  To learn more about privacy and Google Analytics please consult the Google Analytics overview provided by Google at: http://www.google.com/intl/en/analytics/privacyoverview.html.  
 
-back to top
+#### Targeted Advertising
 
-How We Use the Information Collected by Automated Means
+Targeted Advertising __
 
-We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms and Conditions](https://web.archive.org/cms/customer_service/cs_terms.tmpl). We also may use the information in other ways for which specific notice is provided at the time of collection.
+We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails; on third-party websites and emails; and on our advertising placed on third-party websites.  They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us).  You may see these advertisements on other websites.  This process also helps us manage and track the effectiveness of our marketing efforts.  To learn more about these and other advertising networks and their opt-out instructions, [click here](http://www.networkadvertising.org/managing/opt_out.asp).    
 
-back to top
+#### How We Use the Information Collected by Automated Means
 
-California Do Not Track Notice
+How We Use the Information Collected by Automated Means __
+
+We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms and Conditions](http://www.origins.com/cms/customer_service/cs_terms.tmpl).  We also may use the information in other ways for which specific notice is provided at the time of collection.  
+
+#### California Do Not Track Notice
+
+California Do Not Track Notice __
 
 Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection. At this time, we do not track our customers’ personal information over time and across third-party websites and therefore this requirement does not apply to us.
 
 California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
 
-back to top
+#### Information We Share
 
-Information We Share
+Information We Share __
 
-We do not rent lists, or sell or otherwise disclose personal information we collect about you, except as described here. We may share your personal information with:
+We do not rent lists, or sell or otherwise disclose personal information we collect about you, except as described here.  We may share your personal information with:
 
-• | Our affiliates within the **Origins Natural Resources Inc.** umbrella of companies   
----|---  
-• | Service providers who perform services on our behalf based on our instructions. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, fulfill orders, and provide web hosting and marketing services.   
-• | Other third parties with your consent (e.g., some of our Facebook applications may share information collected through those apps with your Facebook friends or other Facebook users).   
-  
+  * Our affiliates within the Origins Natural Resources Inc. umbrella of companies
+  * Service providers who perform services on our behalf based on our instructions.  We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.  Examples of these service providers include entities that process credit card payments, fulfill orders, and provide web hosting and marketing services. 
+  * Other third parties with your consent ( _e.g._ , some of our Facebook applications may share information collected through those apps with your Facebook friends or other Facebook users). 
+
+
+
 In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 
-We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets.  Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy.  Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.  
 
-back to top
+#### Your Rights and Choices
 
-Your Rights and Choices
+Your Rights and Choices __
 
-We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
+We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you.  To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.  
 
-back to top
+#### Email Opt-Out
 
-Email Opt-Out
+Email Opt-Out __
 
-You can at any time tell us not to send you marketing communications by email by clicking on the unsubscribe link within the marketing emails you receive from us or by contacting us as indicated below. You also may opt out of receiving marketing emails from **Origins** by clicking [here](https://web.archive.org/cms/customer_service/cs_myaccount.tmpl#updateOnlineSubscription).
+You can at any time tell us not to send you marketing communications by email by clicking on the unsubscribe link within the marketing emails you receive from us or by contacting us as indicated below.  You also may opt out of receiving marketing emails from Origins by clicking [here](http://www.origins.com/cms/customer_service/cs_myaccount.tmpl#updateOnlineSubscription).  
 
-back to top
+#### Postal Mail Opt-Out
 
-Postal Mail Opt-Out
+Postal Mail Opt-Out __
 
-You can ask **Origins** to stop sending you marketing communications by postal mail by following the instructions that may be included in a particular promotion. You also can request that we refrain from sending you promotional postal mail by contacting us as indicated below.
+You can ask Origins to stop sending you marketing communications by postal mail by following the instructions that may be included in a particular promotion.  You also can request that we refrain from sending you promotional postal mail by contacting us as indicated below.  
 
-back to top
+#### Text Message Opt-Out
 
-Text Message Opt-Out
+Text Message Opt-Out __
 
-If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems (“Text Messages”), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from Origins to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are:
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems (“Text Messages”), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us.  There is no fee from Origins to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider.  Participating Carriers are:
 
-ACS Wireless  
-| Cox Wireless  
-| Pocket Wireless  
+ACS Wireless
+
+| 
+
+Cox Wireless
+
+| 
+
+Pocket Wireless  
   
 ---|---|---  
-Alltel | Cricket Communications  
-| Revol Wireless  
   
-All West Communications  
-| Element Mobile  
-| Silver Star PCS  
+Alltel
+
+| 
+
+Cricket Communications
+
+| 
+
+Revol Wireless  
   
-Appalacian Wireless  
-| Farmers Mutual Telephone Co.  
-| Simmetry Wireless  
+All West Communications
+
+| 
+
+Element Mobile
+
+| 
+
+Silver Star PCS  
   
-AT&T | GCI Wireless  
-| Snake River PCS  
+Appalachian Wireless
+
+| 
+
+Farmers Mutual Telephone Co.
+
+| 
+
+Simmetry Wireless  
   
-Bluegrass Wireless  
-| Golden State Cellular  
-| South Central Communications  
+AT&T
+
+| 
+
+GCI Wireless
+
+| 
+
+Snake River PCS  
   
-Boost | Illinois Valley Cellular  
-| Sprint  
-Boost Unlimited  
-| Inmix | Sprocket Wireless  
+Bluegrass Wireless
+
+| 
+
+Golden State Cellular
+
+| 
+
+South Central Communications  
   
-Breakaway Wireless  
-| Inland Cellular  
-| Strata Networks  
+Boost
+
+| 
+
+Illinois Valley Cellular
+
+| 
+
+Sprint  
   
-Carolina West Wireless  
-| iWireless | Syringa Wireless  
+Boost Unlimited
+
+| 
+
+Immix
+
+| 
+
+Sprocket Wireless  
   
-Cambridge Telephone Company (CTC)  
-| Metro PCS  
-| Thumb Cellular  
+Breakaway Wireless
+
+| 
+
+Inland Cellular
+
+| 
+
+Strata Networks  
   
-Cellcom | Midwest Wireless  
-| T-Mobile  
-Cellular South  
-| Nex-Tech Wireless  
-| United Wireless  
+Carolina West Wireless
+
+| 
+
+iWireless
+
+| 
+
+Syringa Wireless  
   
-Cellular One of East Central Illinois  
-| Nextel | Union Wireless  
+Cambridge Telephone Company (CTC)
+
+| 
+
+Metro PCS
+
+| 
+
+Thumb Cellular  
   
-Cellular One of Montana  
-| Northwest Missouri Cellular  
-| U.S. Cellular  
+Cellcom
+
+| 
+
+Midwest Wireless
+
+| 
+
+T-Mobile  
   
-Cellular One of NEPA  
-| nTelos | Verizon Wireless  
+Cellular South
+
+| 
+
+Nex-Tech Wireless
+
+| 
+
+United Wireless  
   
-Centennial Wireless  
-| Nucla-Naturita Telephone Co.  
-| Viaero Wireless  
+Cellular One of East Central Illinois
+
+| 
+
+Nextel
+
+| 
+
+Union Wireless  
   
-Chat Mobility  
-| Panhandle Telecommunications  
-| Virgin Mobile US  
+Cellular One of Montana
+
+| 
+
+Northwest Missouri Cellular
+
+| 
+
+U.S. Cellular  
   
-Cellular 29  
-| Pioneer Cellular  
-| West Central Wireless  
+Cellular One of NEPA
+
+| 
+
+nTelos
+
+| 
+
+Verizon Wireless  
   
-Cincinnati Bell  
-| Plateau Wireless  
-|   
+Centennial Wireless
+
+| 
+
+Nucla-Naturita Telephone Co.
+
+| 
+
+Viaero Wireless  
   
-Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures. **To receive help with Text Messages, you can either text the word “Help &right; to ORGNS or call 1-800-ORIGINS or email [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com)**.
+Chat Mobility
 
-**You may unsubscribe from receiving Text Messages any time by texting the word “STOP” to ORGNS from your mobile device.** You may also choose not to receive Text Messages by emailing us at [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com) and specifying that this is your preference.
+| 
 
-back to top
+Panhandle Telecommunications
 
-Social Networking Application Opt-Out
+| 
 
-To remove or delete our apps from your social networking account, follow the instructions from the social network:
+Virgin Mobile US  
+  
+Cellular 29
 
-Facebook: <https://www.facebook.com/help/?faq=170585223002660> provided by the Facebook Help Center.
+| 
 
-back to top
+Pioneer Cellular
 
-Geo-Location Information
+| 
 
-We may ask you for your geo-location via our mobile application. You may choose not to share your geo-location details by adjusting your mobile device’s location services settings. To decline from sharing your geo-location details, follow the 
+West Central Wireless  
+  
+Cincinnati Bell
 
-_instructions_ on your mobile device on changing the relevant settings; otherwise, please contact your service provider or device manufacturer.
+| 
 
-back to top
+Plateau Wireless
 
-Withdrawing Consent
+|    
+  
+Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures.  **To receive help with Text Messages, you can either text the word “Help” to ORGNS or call 1-800-ORIGINS or email**[OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com).
 
-You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to our use or disclosure of your personal information will mean that you cannot take advantage of some of our products or services.
+**You may unsubscribe from receiving Text Messages any time by texting the word** **“STOP” to ORGNS from your device.**   You may also choose not to receive Text Messages by emailing us at [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com). and specifying that this is your preference.  
 
-back to top
+#### Social Networking Application Opt-Out
 
-Reviewing, Updating and Modifying Personal Information
+Social Networking Application Opt-Out __
 
-Subject to applicable law, you may have the right to request access to and receive details about the personal information we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. You may request to review, change or delete your personal information by sending an email to [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com).
+To remove or delete our apps from your social networking account, follow the _instructions_ from the social network:
 
-back to top
+Facebook:  provided by the [Facebook Help Center](https://www.facebook.com/help/?faq=170585223002660).  
 
-Data Transfers
+#### Geo-Location Information
 
-We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
+Geo-Location Information __
 
-back to top
+When you use one of our mobile applications, you may be asked for your geo-location via our mobile application.  You may choose not to share your geo-location details by adjusting your mobile device’s location services settings.  To decline from sharing your geo-location details, follow the _instructions_ on your mobile device on changing the relevant settings; otherwise, please contact your service provider or device manufacturer.
 
-Children’s Privacy
+####  Withdrawing Consent
 
-If you are under thirteen years of age, you may browse our site. However, you may not provide personal information to us. This site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records.
+Withdrawing Consent __
 
-back to top
+You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information.  We will apply your preferences going forward.  In some circumstances, withdrawing your consent to our use or disclosure of your personal information will mean that you cannot take advantage of some of our products or services.  
 
-How We Protect Personal Information
+#### Reviewing, Updating and Modifying Personal Information
 
-We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+Reviewing, Updating and Modifying Personal Information __
 
-back to top
+Subject to applicable law, you may have the right to request access to and receive details about the personal information we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate.  The right to access personal information may be limited in some circumstances by local law requirements.  You may request to review, change or delete your personal information by sending an email to [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com).
 
-Links To Other Websites
+#### Data Transfers
 
-Our website may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for the sites’ content, any use of the sites, or the privacy practices of the sites.
+Data Transfers __
 
-back to top
+We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
 
-Updates To Our Privacy Policy
+#### Children’s Privacy
 
-This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our website to notify you of any significant changes to our Privacy Policy and indicate at the top of the Policy when it was most recently updated.
+Children’s Privacy __
 
-back to top
+#### If you are under thirteen years of age, you may browse our site. However, you may not provide personal information to us. This site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records.
 
-How To Contact Us
+#### How We Protect Personal Information
 
-If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com) or telephone at 1-800-ORIGINS. You also may write to:
+How We Protect Personal Information __
 
-**The Estée Lauder Companies Inc.  
-767 Fifth Avenue  
-New York, NY 10153**
+We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. 
 
-back to top
+#### Links To Other Websites
 
+Links To Other Websites __
+
+Our website may provide links to other websites for your convenience and information.  These websites may operate independently from us.  Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites.  To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for the sites’ content, any use of the sites, or the privacy practices of the sites.
+
+#### Updates To Our Privacy Policy
+
+Updates To Our Privacy Policy __
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  We will post a prominent notice on our website to notify you of any significant changes to our Privacy Policy and indicate at the top of the Policy when it was most recently updated.
+
+#### How To Contact Us
+
+How To Contact Us __
+
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at [OriginsOnlineTech@origins.com](mailto:OriginsOnlineTech@origins.com) or telephone at **1-800-ORIGINS**. You also may write to:
+
+**The Estée Lauder Companies Inc.**
+
+**767 Fifth Avenue**
+
+**New York, NY 10153**
+
+#### COREMETRICS OPT-OUT PAGE
+
+COREMETRICS OPT-OUT PAGE __
+
+**ORIGINS** respects your privacy.  We recognize that you may prefer to limit or eliminate the data that our service provider, Coremetrics, collects about your use of our site.  We invite you to indicate your preference by choosing an option below.  No matter which option you choose, we will not provide Coremetrics with your name, phone number, postal address, or e-mail address.  We just assign a random number to your usage so that Coremetrics can identify a unique user of our site.  However, Coremetrics cannot associate that number with your personally identifiable information.  The **_"Anonymous Visitor"_** option below simply eliminates this number.
+
+Please note that because your status is maintained by placement of an "opt-out cookie" on your computer, your status will not be recognized if you visit our site from a different computer than the one you are using now to opt-out.  In addition, if this cookie is removed or deleted, e.g., if you upgrade your browser to a new version or if you choose to clear out all your cookies, you will need to use this form again to opt-out and receive a new "opt-out cookie".  View Current Opt-out Status
+
+| 
+
+**Anonymous Visitor:** Allow Coremetrics to anonymously capture data related to your visit to our site.  
+  
+---|---  
+  
+| 
+
+**Total Opt-out:** Do not allow Coremetrics to capture data related to your visit to our site.  Please note that by selecting this option, you will also opt-out of such data capture on any other websites which use Coremetrics for similar services.  
+  
+| 
+
+**Cancel Opt Out:** Allow Coremetrics to capture data related to your visit to our site.  This excludes transmitting credit card information and personally identifiable information.  
+  
 Copyright © **Origins Natural Resources, Inc.** All worldwide rights reserved.
