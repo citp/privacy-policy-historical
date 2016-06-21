@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the holyhorsepower.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203155301id_/http%3A//holyhorsepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyhorsepower.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621030159id_/http%3A//holyhorsepower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Holy Horse Power
-
-## Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -17,3 +15,9 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+ **COOKIES**
+
+Our detailed cookie policy can be found here:
+
+ **<https://www.iubenda.com/privacy-policy/7828016/cookie-policy>**
