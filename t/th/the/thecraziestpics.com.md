@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecraziestpics.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221235623id_/http%3A//thecraziestpics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecraziestpics.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195101id_/http%3A//www.thecraziestpics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - The craziness is all here !
 
@@ -27,6 +27,6 @@ We can update this policies any time we wish to, we are not always going to stic
   
 
 
-[Terms of service](https://web.archive.org/web/20131221235623id_/http%3A//thecraziestpics.com/terms-of-service.html)    [Privacy policies](https://web.archive.org/web/20131221235623id_/http%3A//thecraziestpics.com/privacy-policy.html)    [DMCA](https://web.archive.org/web/20131221235623id_/http%3A//thecraziestpics.com/copyrights--dmca.html)     [Contact us ](https://web.archive.org/web/20131221235623id_/http%3A//thecraziestpics.com/contact-us.html)  
+[Terms of service](https://web.archive.org/web/20160622195101id_/http%3A//www.thecraziestpics.com/terms-of-service.html)    [Privacy policies](https://web.archive.org/web/20160622195101id_/http%3A//www.thecraziestpics.com/privacy-policy.html)    [DMCA](https://web.archive.org/web/20160622195101id_/http%3A//www.thecraziestpics.com/copyrights--dmca.html)     [Contact us ](https://web.archive.org/web/20160622195101id_/http%3A//www.thecraziestpics.com/contact-us.html)  
  **©2010-2013 thecraziestpics.com**  
 All Rights Reserved.
