@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915134952id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622124616id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
