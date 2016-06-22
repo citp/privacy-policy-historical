@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welcomebc.ca privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218072334id_/http%3A//www2.gov.bc.ca/gov/admin/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welcomebc.ca privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622234647id_/http%3A//www2.gov.bc.ca/gov/content/home/privacy) for the most accurate reproduction.*
 
 # B.C. Government Website Privacy Statement - Province of British Columbia
 
@@ -57,4 +57,4 @@ B.C. government websites may include links to external websites. Once you leave 
 
 **Who can I contact for more information about this privacy statement?**
 
-Questions regarding this privacy statement, including the collection of personal information, can be directed to a Senior Legislative and Policy Advisor at [Legislation, Privacy and Policy Branch](http://www.cio.gov.bc.ca/cio/priv_leg/lpp.page?) in the Ministry of Citizens’ Services and Open Government, PO Box 9493 Stn Prov Govt, Victoria, BC., V8W 9N7, telephone (250) 356-1851. [Privacy.Helpline@gov.bc.ca](mailto:Privacy.Helpline@gov.bc.ca).
+Questions regarding this privacy statement, including the collection of personal information, can be directed to a Senior Privacy Advisor at the Privacy, Compliance and Training Branch in the Ministry of Finance, PO Box 9493 Stn Prov Govt, Victoria, BC., V8W 9N7, telephone (250) 356-1851. [Privacy.Helpline@gov.bc.ca](mailto:Privacy.Helpline@gov.bc.ca).
