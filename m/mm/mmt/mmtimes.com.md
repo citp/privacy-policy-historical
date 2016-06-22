@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132825id_/http%3A//www.mmtimes.com/index.php/component/content/article%3Fid%3D2799) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622182215id_/http%3A//www.mmtimes.com/index.php/component/content/article%3Fid%3D2799) for the most accurate reproduction.*
 
-# The Myanmar Times
+# Myanmar Times
 
 ##  Privacy Policy 
 
