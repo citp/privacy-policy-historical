@@ -1,139 +1,221 @@
-> *The following text is extracted and transformed from the kwch.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055323id_/http%3A//www.schurz.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwch.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195126id_/http%3A//gray.tv/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Schurz Communications Inc.
+# Gray Television - Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-**PRIVACY POLICY**
+**In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
-_Last Modified 12/12/2014_
+Effective Date: May 11 2012.
 
-Schurz Communications Inc. and the companies identified at [http://www.schurz.com/properties](http://www.schurz.com/properties/) (each, a “Company”) strive to offer visitors to its websites identified at [http://www.schurz.com/properties](http://www.schurz.com/properties/) (each, a “Site”) the many advantages of Internet technology and to provide an interactive and personalized experience. In order to do so, we may obtain certain personal information from you. The purpose of this privacy policy (“Privacy Policy”) is to inform you about the types of information we gather about you when you visit the Site, how we may use that information, and the choices you have regarding our use of that information. This Privacy Policy supplements and is incorporated as a part of Company’s Terms of Use, which may be available at <http://www.schurz.com/about/terms-of-use/>. Throughout this Privacy Policy, “we,” “us,” or “our” refers to Company, and “you” or “your” refers to the person or entity who accesses or uses this Site or its content (the “User”).
+This Privacy Policy has been updated; please 
 
-**RIGHT TO CHANGE POLICY**
+[_click here_](https://web.archive.org/index.php?page=summary-of-updates)
 
-Company reserves the right, at its sole discretion, to alter this Privacy Policy at any time without prior notice to any User, including to comply with privacy laws, regulations and/or our own or industry standards or for other reasons as we deem necessary. We encourage you to review this Privacy Policy each time you visit our Site. Your use of our Site at any time, including after any change to this Privacy Policy, indicates your acceptance of this Privacy Policy and the Terms of Use, and any change made to this Privacy Policy or such Terms of Use.
+for details. Our previous Privacy Policy is available 
 
-**COLLECTION AND USE OF INFORMATION FROM USERS**
+[_HERE_](https://web.archive.org/index.php?page=pervious-privacy-policy)
 
-We collect information on our Users in various ways, including by your voluntary submissions, through surveys, contests, sweepstakes and other promotions and through “cookies” and other tracking technology (as explained in more detail below). The information we collect is used in a variety of ways including, but not limited to: fulfilling and providing services requested by you; improving the Site and our services; collecting information about Users and their use of the Site; notifying you about updates to the Site and our services; and/or informing about products, services and promotions in which you may have interest. With your authorization or as otherwise permitted under this Privacy Policy, we may also share the information you provide with third parties.
+.
 
-**PERSONALLY IDENTIFIABLE INFORMATION**
+**_NOTICE_** : This Privacy Policy has been updated to simplify information about our privacy practices and principles and to include new features and activities. Although we offer new features and digital technology to distribute and monitor our content, we have not materially changed your opt-out or opt-in choices for previous features and activities. We remain committed to protecting the privacy, accuracy and reliability of your personally identifiable information (“Personal Information”).
 
-Personally Identifiable Information refers to information that tells us specifically who you are, such as your name, phone number, e-mail, postal address or credit card information, and possibly information relating to certain support or customer service issues (“Personally Identifiable Information”).
+This Privacy Policy governs the Personal Information collected by Gray Television, Inc. ("GTI") or our television stations (“Stations”), (collectively, “our,” “we,” “us”) via the various Web Channels, Apps, and other services owned, operated or provided by us that have an authorized link to this Privacy Policy (collectively, “Services”). (For a list of Web Channels and Stations, 
 
-You generally do not need to provide us with Personally Identifiable Information to use this Site or to obtain information from most of the features on the Site.
+[_CLICK HERE_](http://gray.tv/index.php?page=station-list)
 
-In some cases, however, you may be asked to provide Personally Identifiable Information in order to access certain pages of this Site, to use or subscribe to certain online services on this Site or other products or to allow us to provide you with certain personalized or enhanced services that you have requested. How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. As noted, you can visit many pages on our Site without providing any Personally Identifiable Information. Other pages may prompt you to provide Personally Identifiable Information.
+.
 
-If you do not wish to provide us with Personally Identifiable Information, you can decide not to use such services or access such pages on the Site.
+By visiting or using our Services, you accept the practices described in this Privacy Policy. This Privacy Policy is hereby incorporated into the GTI Terms of Use Agreement (“TOU”) by reference, which also governs our Services. Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the 
 
-Please remember that if you post Personally Identifiable Information in any public areas of the Site, such information may be collected and used by other Users over whom Company has no control. Company is not responsible for any use made by third parties of any information you post or otherwise make available in public areas of the Site.
+[_TOU_](https://web.archive.org/index.php?page=terms-of-use)
 
-**AGGREGATE INFORMATION**
+.
 
-From time to time, we may collect general, non-personal, statistical information about the use of the Site, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they click on. We collect aggregate information through the use of technologies such as cookies or other tracking technologies. This information represents a generic overview of our Users’ collective viewing habits and allows us and other third parties to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior. Please be assured that this aggregate data will in no way personally identify you or any other visitors of the Site.
+**1.Your California privacy rights under the Shine the Light Act  
+2\. Types of information we collect and use  
+3\. How do we actively collect and use Personal Information?  
+4\. Safeguarding Children’s Privacy   
+5\. Disclosure of your Personal Information to third parties  
+6\. Personalized content and advertising how we customize your experience.  
+7\. Your choices for the collection, use and sharing of your Personal Information  
+8\. Links to other websites operated by third parties  
+9\. How to access, update, correct, or delete your Personal Information  
+10\. How we protect your Personal Information  
+11\. Notification of changes to the Privacy Policy and how to contact us  
+** **__General__**
 
-We collect aggregate information: to enhance the Site for visitors; to determine which areas of the Site are most popular; to optimize third-party offers of products and/or services; to analyze the use of the Site and to disclose the results to our partners, service providers, advertisers, existing or potential business partners, or other third parties to enable the provision of targeted or interest-based information, promotions, offers and/or discounts on products and services; and/or in response to a government request.
+Unless we indicate a different age, all users that wish to use our Services and submit Personal Information must be at least 18 years of age. For certain activities, you must also be a United States (“U.S.”) citizen. GTI Services are designed and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S. If you are not a U.S. citizen or do not reside in the U.S., by using these Services and/or providing us with your Personal Information, you voluntarily consent to our collection, transfer, use, and disclosure of your Personal Information to the U.S. You also agree to waive any claims that may arise under your own national laws. 
 
-**COOKIES AND OTHER TRACKING TECHNOLOGIES**
+**1\. Your California privacy rights under the “Shine the Light Act”**
 
-Like most websites, this Site also may collect information automatically and through the use of electronic tools that may be transparent to Users. For example, Company may automatically collect non-personally identifiable information and data through the use of “cookies”. Cookies are small text files a website uses to recognize repeat Users, facilitate the User’s ongoing access to the website and facilitate the use of the website. Cookies also allow a website to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set your browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of our Site may not function or may be slower if you refuse cookies. You may occasionally get cookies from our advertisers or other third parties with links on the Site as described below. We do not control these cookies. The use of advertising cookies sent by third party ad servers is standard in the Internet industry.
+Under the California “Shine the Light Act,” if you reside in California and have an established business relationship with us, you have the right to receive information about our online and offline opt-out/opt-in policies of sharing your Personal Information with affiliated entities or non-affiliated third parties, such as our Advertisers for direct marketing purposes. If you wish to learn about our opt-out/opt-in policies, please send your written request following the instructions below. **We will not accept requests via the telephone or facsimile.**
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that “serve up” web pages, automatically identify your computer by its IP address. We may link the information we record using tracking technologies to Personally Identifiable Information we collect at the Site for our own and our marketing partners’ marketing and advertising purposes. In addition, we reserve the right to use IP addresses and other tracking technologies to identify a visitor when we feel it is necessary to enforce compliance with our Terms of Use, to protect our Site, our customers or others, or when we believe in good faith that the law requires it.
+• We may not be able to respond to requests that are not labeled or sent properly, or do not have complete information.  
+• For all requests, include your full name, street address, city, state and zip code, and the name of the GTI Services to which you are requesting the information.   
+• In your email request, you must state **“Re: Your California Privacy Rights”** in the subject line and send your email to 
 
-The Site may also use technology called “tracer tags”. These may also be referred to as “Clear GIFs” or “Web Beacons”. This technology allows us to understand which pages you visit on the Site. These tracer tags are used to help us optimize and tailor our Site for you and other Users of our Site.
+[privacyrights@gray.tv](mailto:privacyrights@gray.tv).   
+• In your postal request, you must send a letter or post card to:
 
-This Site may also use certain web analytics services provided by Google, Inc. (“Google”). Google Analytics uses cookies to help us analyze information about the Users of this Site and how Users use the Site. Using Google Analytics, this Site may collect data about you and your use of the Site via Google advertising cookies and anonymous identifiers, in addition to data collected through standard Google Analytics implementation. This data may include demographic, interest-based, and other information about you. The Google Analytics and related services utilized by this Site may include: Google Analytics Advertising Features, Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, Google Analytics Demographics and Interest Reporting, and similar services offered by Google and its partners (the “Google Services”). By using this Site, you consent to the processing of data about you by Google and Google’s partners consistent with their general practices and practices in relation to the Google Services.
+Gray Television, Inc.  
+Attn: Mike Braun/Your California Privacy Rights  
+VP, Gray Digital Media  
+126 N. Washington Street  
+Albany, GA 31701
 
-Information generated by cookies about your use of this Site (including your IP address) may be transmitted to and stored by Google on servers. Google may use this information for the purpose of evaluating your use of this Site, compiling reports on Site activity for Site operators and providing other services relating to Site activity and usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf.
+Non-affiliated third parties are independent from GTI and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.
 
-You may be able to opt-out of the Google Services through Google Analytics’ available opt-outs for the web (which may be available at <https://tools.google.com/dlpage/gaoptout/>), through Ads Settings, Ad Settings for mobile apps, or other available means, including the Network Advertising Initiative (NAI) consumer opt-out, which may be available at <http://www.networkadvertising.org/choices/>. You may refuse the use of cookies by selecting the appropriate settings on your particular browser. Please note, however, that if you disable cookies or opt-out of certain services, you may not be able to use the full functionality of this Site.
+**2\. Types of data we collect and use**
 
-We may also use third-party advertising companies to serve ads when you visit our Site or perform remarketing services. These companies may use information (not including your name, address, email address or telephone number) about you and your visits to this Site and other websites in order to provide interest-based advertisements about goods and services of interest to you. More information about interest-based advertising and similar practices may be available at <http://www.networkadvertising.org/consumer/opt_out.asp>.
+GTI collects both 
 
-**DISCLOSURES AND TRANSFERS OF INFORMATION**
+_[Personal Information](https://web.archive.org/index.php?page=privacy-additional)_
 
-We do not disclose Personally Identifiable Information about you to third-parties for their independent use unless:
+and 
 
-  1. You have requested or authorized us to provide such information, including, but not limited to, “opting-in” to a particular service, program or promotion;
-  2. The disclosure is permitted by relevant law;
-  3. The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;
-  4. The Personally Identifiable Information to be disclosed is publicly available;
-  5. The party to whom the disclosure is made controls, is controlled by, or is under common control with Company;
-  6. The disclosure is to persons or entities for whom we are providing services, provided the disclosure is consistent with the purpose for which the personal information was obtained;
-  7. We have your permission to make the disclosure;
-  8. The disclosure is necessary for the purpose for which the Personally Identifiable Information was obtained;
-  9. The disclosure is necessary to fulfill services requested by you;
-  10. The disclosure is to financial service providers in order to fulfill and carry out the purchase and provision of goods and services requested by you;
-  11. The Personally Identifiable Information to be disclosed is otherwise publicly available in accordance with the applicable law;
-  12. The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;
-  13. The disclosure is for our own marketing purposes, or, with your authorization, for the marketing purposes of third parties;
-  14. The party to whom the disclosure is made controls, is controlled by, or is under common control with Company;
-  15. The disclosure is in our sole discretion necessary for the establishment or maintenance of legal claims or legal compliance, to satisfy any law, regulation, subpoena or government request, or in connection with litigation;
-  16. The disclosure is in our sole discretion about users who we believe are engaged in illegal activities or are otherwise in violation of our terms of service, even without a subpoena, warrant or court order; or
+_[Non-Personal Information](https://web.archive.org/index.php?page=privacy-additional)_
 
+. We use a variety of Personal Information either voluntarily submitted by you or collected via our Services. We may also collect and use Personal Information about other people when you participate in certain programs and features or when you submit news stories or nominations for community awards or recognition that involve other people. Individual Stations may also offer additional Web Channel features and services that would also require the submission of Personal Information. 
 
-  * The disclosure is to outside businesses to perform certain services for us, such as maintaining our Site and Services, mailing lists, processing orders and delivering products and services, sending postal mail, processing claims for lost or stolen certificates, providing marketing assistance, and data analysis (“Administrative Service Providers”), including Administrative Service Providers outside the country or jurisdiction in which you reside.
+[_Click here for the specific types of Personal Information we may collect and use_](https://web.archive.org/index.php?page=privacy-additional)
 
+.
 
+We also collect information automatically about your computer, browser, mobile device, visits and use of Services and other online activities that are used to enhance or customize your experience on our various Services. Like most standard websites, we use cookies, web beacons and other similar technology that are generally treated as 
 
-**AS A SERVICE TO OTHERS**
+__Non-Personal Information__
 
-We may provide your Personally Identifiable Information to third parties for their marketing and/or advertising purposes. If you no longer want us to share your information (as discussed below), we will cease sharing your information. However, except as otherwise stated in this Privacy Policy, we do not control the third parties with whom we share such information and you will need to further notify such third parties if you would like them to cease use of your information.
+, unless we are required to do so otherwise under applicable law. Non-Personal Information may be combined with other Personal Information. You may configure your browser to reject cookies. If you do so, you might not be able to access important functions, features and activities or enjoy certain conveniences or customized and personalized features of our Services. 
 
-Notwithstanding the foregoing, we reserve the right to send you certain non-promotional communications to fulfill pending or ongoing services requested by you, relating to the Site (such as service announcements), e-mail related to purchases you have made or information you have submitted, or similar administrative or transactional messages.
+[_Click here for a description of cookies and web beacons_](https://web.archive.org/index.php?page=privacy-additional)
 
-**OUR SERVICE PROVIDERS**
+. Technology is improving every day and to improve the operations and functions of our Services, we will introduce new technologies and monitoring techniques without advance notice or consent from you.
 
-We may sometimes use other businesses to perform certain services for us, such as hosting or maintaining our Site, storing your information, processing orders or subscriptions, or providing marketing assistance and data analysis. We may provide Personally Identifiable Information to service providers when that information is necessary for them to complete a requested transaction or otherwise perform their duties. Company will take reasonable steps to ensure that these service providers are notified of their obligations to reasonably protect Personally Identifiable Information on Company’s behalf.
+We use Personal Information in various ways; 
 
-**BUSINESS TRANSFERS**
+[_click here for an overview_](https://web.archive.org/index.php?page=privacy-additional)
 
-As we continue to develop our business, we may buy other businesses or their assets or sell some or all of our business assets. Personally Identifiable Information and other customer information is generally one of the business assets involved in such transactions. Thus, in the event that Company or all of its assets are acquired, such information may be one of the transferred assets.
+. We use your Personal Information to provide or complete a transaction, and/or customize your experience on our Services and/or other digital technology not yet known or developed.
 
-**PROTECTION OF COMPANY AND OTHERS**
+• Automated News Services and Updates. 
 
-Company fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities, and may in its sole discretion disclose Personally Identifiable Information or other information to satisfy any law, regulation, subpoena, or government request or in connection with litigation. Company reserves the right to release Personally Identifiable Information or other information about Users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Use, even without a subpoena, warrant or court order, if we believe in our sole discretion that such disclosure is necessary or appropriate to comply with any laws, to operate the Site, or to protect the rights or property of Company, its affiliates, or any of their officers, directors, or employees, agents, third party content providers, suppliers, sponsors, or licensors. Company also reserves the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful.
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-**DATA SECURITY AND INTEGRITY**
+• Mobile Apps and Services. 
 
-We take reasonable precautions to protect the privacy, accuracy and reliability of any information you provide and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. The Personally Identifiable Information you provide and we collect is stored within databases that we control directly or through our service providers. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. As a result, you transmit any information to or from the Site at your own risk.
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-If you create an account on this Site, you may be asked to choose a password for your account, in which case your online account information shall be protected by your password. We recommend that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and Site account and are fully responsible for all activities that occur under your password or Site account. You can access and update information in your account profile at any time by logging in to the website with your login name and password. Once you have logged in, you can update certain of your information such as your name, e-mail, password, and/or change your address.
+• Polls and Surveys. 
 
-**ACCESSING AND DELETING PERSONALLY IDENITIFIABLE INFORMATION; OPT-OUT**
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-We welcome you to contact us regarding whether Company is keeping information about you, the information we may be keeping, how we may be using your information or sharing your information with others, to update or delete your information, or to opt-out of the collection and use of your information. If you have submitted Personally Identifiable Information through the Site and you would like access to such information, please send an e-mail to privacy@schurz.com. We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Please also contact us at privacy@schurz.com if you do not want us to disclose your Personally Identifiable Information to third parties or you want us to delete your Personally Identifiable Information from our databases. Keep in mind, however, that there may be residual information within our databases, access logs and other records, which may or may not contain such information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former Users of this Site.
+• Contests/Sweepstakes/Trivia. 
 
-**AFFILIATED SITES, LINKED SITES AND ADVERTISEMENTS**
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-Company expects its partners, advertisers and third-party affiliates to respect the privacy of our Users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. For example, during your visit to our Site you may link to, or view as part of a Company page, certain content that is actually created or hosted by a third party. Also, you may be introduced to, or be able to access, information, websites or advertisement features offered by other parties through the Site. Company is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+• Purchases & Shopping. 
 
-Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our Site, such as completing an online form request or e-mail link, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Company and this Privacy Policy.
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-**CHILDREN’S PRIVACY**
+• Chat/Message Boards/Blogs. 
 
-We understand and share your concerns regarding your children’s access to Internet and the Internet’s access to your children. Consistent with the Children’s Online Privacy Protection Act of 1998 (COPPA), we do not knowingly collect Personally Identifiable Information from children under 13 years of age. If we learn that Personally Identifiable Information of a child under the age of 13 has been submitted to us via the Site or appears on or within the Site, we will take all action necessary to comply with our responsibilities under applicable legal requirements, including deleting any such information.
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-**DO NOT TRACK SIGNALS**
+• Comments/Questions. 
 
-We do not currently employ a process for automatically responding to “Do Not Track” (DNT) signals sent by web browsers, mobile devices, or other mechanisms that may provide consumers a choice regarding the collection of Personally Identifiable Information about an individual consumer’s online activities. As is commonly the case with many other websites, third parties (e.g., advertisers) may be able to collect Personally Identifiable Information about your online activities over time and across different websites or online services when you use the Site.
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
 
-**APPLICABLE LAW**
+We may also combine your Personal Information with additional data obtained from our Facebook Fan pages, Apps, or your use of Facebook, other social network and mobile platforms, GTI Affiliates, our Operational Service Providers (third party owned companies that provide or perform services on our behalf, to help serve you better and to perform functions in order to support our businesses and operations), or other companies, such as credit bureaus, background check firms, marketing research companies, and/or Advertisers.
 
-This Privacy Policy shall be governed by the laws of the State of Indiana, United States of America, without regard to conflicts of law principles. Any action relating to this Privacy Policy must be filed and maintained in a state or federal court located in St. Joseph County, Indiana, United States of America, and each User consents to exclusive jurisdiction and venue in such courts for such purpose.
+We also use your Personal Information (including IP address or mobile device unique identifier if they are linked to or associated with you, or a specific computer or device) and/or other data to deliver customized or personalized content and advertising communications to you, including special product offers, sales, promotions, or other information about us, our GTI Affiliates, or our Advertisers. 
 
-**CONTACT**
+[_Click here for more information about customized or personalized content and advertising_](https://web.archive.org/index.php?page=privacy-additional)
 
-All requests, questions, or concerns about your Personally Identifiable Information or this Privacy Policy should be directed to Schurz Communications Inc.’s Privacy Officer via the following contact information:
+.
 
-_Attn: Privacy Officer_
+We reserve the right to collect Personal Information using any new technology yet to be developed and to use such technology to provide new services and features to you, as well as for marketing and promotional purposes. Specific information regarding your choice to opt-out to such use, or for sharing your Personal Information with Advertisers, will be provided when the new technology, service, or feature is introduced. 
 
-Schurz Communications Inc.
+**3. [_Safeguarding Children’s Privacy_](http://www.jsonline.com/general/31308799.html) **
 
-_1301 E. Douglas Road_
+Generally, we will not knowingly collect online Personal Information or any other identifying data from children under 13 years of age. Should we discover that a child under the age of 13 submitted Personal Information to a Web Channel or other Internet-based Services without first obtaining verifiable parental consent, we will immediately reject any such entry and delete that information from our database (to the extent technically feasible), unless such information meets an exception under the Children’s Online Privacy Protection Act (“COPPA”) or pertains to the programming or operations of Stations. Submissions that pertain to programming or operations of GTI Stations are subject to Federal Communications Commission (“FCC”) regulations that require television licensees to post such comments in the applicable Station’s online FCC Public Inspection File. We retain the right to block out or edit the email address and/or name of the child. Except to meet FCC, other regulatory and legal purposes, we will not knowingly use, distribute or disclose any child's Personal Information to unaffiliated third parties without prior parental consent. Unless we are required to retain a child’s Personal Information for regulatory, tax or other legal purposes we will promptly remove such information from our database (to the extent technically feasible) if a parent withdraws his or her consent to our use of the child’s Personal Information. 
 
-_Mishawaka, IN 46545_
+**4\. Disclosure of your Personal Information to third parties**  
+Your Personal Information will be disclosed to unaffiliated third parties only as listed in this Privacy Policy. In addition to completing or fulfilling your transaction, activity or request, we will also disclose your Personal Information if we have received your consent at the time we collect your Personal Information, if you have consented prior to our disclosure, and/or under the following limited circumstances:
 
-_Phone: 574-287-1001_
+• To GTI Affiliates for business, operational, promotional and marketing purposes.   
+• To Advertisers if you participate in a co-branded, co-sponsored, or jointly presented promotion/contest or service.  
+• To our Operational Service Providers, who are prohibited from using your Personal Information for any purpose not authorized by us or required by law.   
+• To protect the security of our Services and databases; to protect our users, GTI Affiliates, Advertisers, and Operational Service Providers against liability and harm; to implement and enforce our TOU or GTI Copyright Complaint Procedures; to respond to subpoenas, judicial processes, or government requests and investigations; to act in response to an emergency or situation that threatens the life, health or security of an individual; to assist in the investigation of a violation (or presumed violation) of law; or if we believe in good faith that the law requires or authorizes such disclosure.  
+• In connection with any proposed or actual purchase, sale, lease, merger, assignment, re-organization or financing of all or any portion of GTI, our Stations, or any of the business, assets or shares of our parent company(s) and GTI Affiliates.  
+We reserve the right to use, disclose and process any Non-Personal Information collected from you in any manner.
 
-_Fax: 574-247-7238_
+**5\. Personalized content and advertising – how we customize your experience.**
+
+Advertising supports the free Services and free Internet and broadcast content we and our Stations provide to you. GTI, our Stations, Operational Service Providers, and Advertisers use cookies, web beacons and other similar technology to enrich your experience on our Services by serving relevant, tailored and personalized advertising and/or content. (Please note that we do not control Advertiser cookies or web beacons, and such technology is not subject to this Privacy Policy.) Such advertising and content is based on information you provide to us; your use of our content, features and activities; your visits, search, transaction and/or purchase history; visits to our Facebook Fan page, or other social network platforms, and/or estimates made about you based on all of these elements. (
+
+[ _Click here for information about IP address, cookies and web beacons_](https://web.archive.org/index.php?page=privacy-additional)
+
+.) 
+
+[_Click here for examples of advertising featured on our Services and how they deliver personalized and customized advertising_](https://web.archive.org/index.php?page=privacy-additional)
+
+.
+
+Our Advertisers and third party Network Advertising services, such as Google, will also place cookies, web beacons and/or other similar technology on your computer to personalize your experience and advertising content on certain Services. 
+
+[_MORE INFO_](https://web.archive.org/index.php?page=privacy-additional)
+
+Here are opt-out choices for other Network Advertising providers that serve tailored advertising on our Services; please click on the company name and follow the links to each company’s website: **none active at this time**.
+
+The Google Opt-out tool and those of other Network Advertising providers are likely cookie-based. In order for an opt-out tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you may need to perform the opt-out task again. Some browsers are able to opt-out of such advertising using special tools. Please see specifics about your browser on your browser’s own website.
+
+**_Please be aware that opting out of a network advertising service doesn’t mean that you won't receive online ads._** It only means that the network from which you opted out will no longer deliver ads tailored to your preferences and interests, but you will continue to receive advertising.
+
+**6\. Your choices for the collection, use and sharing of your Personal Information**
+
+We may share your Personal Information directly with our Advertisers for their direct marketing and promotional purposes. Depending on the activity, event or feature, you will have an opportunity to either “opt-in” or “opt-out” of such sharing at the time of registration, delivery of the activity, event or feature, or by contacting the Service at 
+
+[privacyrights@gray.tv](mailto:privacyrights@gray.tv). 
+
+We also provide you with an option to “opt-out” of receiving advertising and promotional messages from us about GTI, our Stations and/or our Advertisers in compliance with federal law by installing an opt-out mechanism with all such commercial messages. You must use the designated method in the message to notify us of your opt-out request, as we cannot guarantee that other methods of notification will be effective or timely. Please be aware that we may continue to contact you for administrative, transactional or informational purposes related to your use of our Services, including follow-up messages regarding contests you have entered or other transactions you have undertaken. By law, such messages are not considered to be unsolicited commercial messages.
+
+Please see the 
+
+[_“Personalized content and advertising – how we customize your experience”_](https://web.archive.org/index.php?page=privacy-additional)
+
+section for details about how to opt-out of Network Advertising.
+
+**7. [_Links to other websites operated by third parties_](http://www.jsonline.com/general/31308799.html)**
+
+Our Services may provide links to various external websites or services (collectively referred to as a “Linked Website”). (Please see the Service’s TOU for more information.) Even if a relationship exists between GTI and a third party Linked Website, you understand, acknowledge and agree that we exercise no control and have no responsibility for the content, privacy policies or business practices of a Linked Website. 
+
+_Certain Linked Websites (such as “MyCapture”) maintain their own independent privacy and data collection policies and procedures. If you visit a third party website that is linked to a Web Channel or App, you should consult that website's privacy policy before providing those websites with your Personal Information._
+
+**8\. How to access, update, correct or delete your Personal Information**
+
+If you have submitted Personal Information through our Services and you would like to access, update, correct or delete that information, please send an e-mail to 
+
+[privacyrights@gray.tv](mailto:privacyrights@gray.tv), or access your account, if applicable. We will use reasonable efforts to honor your request. We retain your Personal Information as long as it takes to provide the Services and as required by our corporate policies and laws. Upon your request, we also will remove your Personal Information from our active database(s). Given the limitations of our computer systems, corporate business policies, and the requirements of federal or state laws, we may not be able to delete all of your Personal Information from our internal or back-up files. You may be entitled to access such Personal Information or restrict the use of such Information under local or state laws. Please contact our 
+
+_Privacy Administrator_
+
+. 
+
+_We reserve the right to deny access to any user if we believe there is a question about his/her identity. And if the burden or expense of providing access to a user’s Personal Information is disproportionate to the potential privacy risks to that user, or if the legitimate rights of others would be violated, we may choose to not provide access to such information. In such cases, we will provide you with an explanation and a contact person for further inquiries._
+
+**9\. How we protect your Personal Information**
+
+We take reasonable measures to protect the security and confidentiality of any information you choose to provide to us. We implement and maintain reasonable physical, technical and administrative procedures to protect your Personal Information from unauthorized collection, use, disclosure, and disposal and request our Operational Service Providers to do the same. Despite our best efforts, no security measures are impenetrable, and transmissions over the Internet are not 100% secure or error-free.
+
+**10\. Notification of changes to the Privacy Policy and how to contact us**
+
+We reserve the right, at our discretion, to modify, add, or remove sections from this Privacy Policy from time to time. When we change this Privacy Policy, we will post the Effective Date and notice of such changes on our designated Services. If such changes are material, we will also send a notice to your email address or other contact information (if allowed) currently on file and seek your consent to the extent required by law. 
+
+If you have any questions or comments regarding this Privacy Policy, please contact us by sending an e-mail message to [privacyrights@gray.tv](mailto:privacyrights@gray.tv) or via postal mail to: 
+
+Gray Television, Inc.  
+Attn: Mike Braun  
+VP Digital Media  
+126 N. Washington Street  
+Albany, GA 31701
+
+Copyright © 2015 Gray Television, Inc. All Rights Reserved. 
