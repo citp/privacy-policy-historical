@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the isurveyworld.com privacy policy that was archived on 2013-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130730050818id_/http%3A//www.isurveyworld.com/pol_priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isurveyworld.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623003553id_/http%3A//isurveyworld.com/application/index/pp) for the most accurate reproduction.*
 
 # None
 
-### Last updated: 09/09/11
+### Last updated: 01/10 2016
 
 ## What personally identifiable information does IsurveyWorld collect from me? 
 
@@ -21,6 +21,27 @@ Whenever iSurveyWorld collects personal information we make an effort to include
 
 
 ### A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. As part of offering and providing customizable and personalized services, iSurveyWorld may use cookies to store and sometimes track information about you. Some areas on iSurveyWorld where you are prompted to log-in or that are customizable may require that you accept cookies. This avoids you having to enter your login information many times in one day. 
+
+## Digital Fingerprinting.
+
+  
+
+
+### Generally, digital fingerprinting assigns a unique identifier to your device or computer based upon the device’s or computer’s technical settings, characteristics and IP Address. iSurveyWorld uses digital fingerprinting technology for quality control and validation purposes and fraud detection and/or prevention, including, without limitation, identifying duplicate or fraudulent respondents. iSurveyWorld may implement and use digital fingerprinting directly or through a third party vendor.
+
+## US-EU Safe Harbor
+
+  
+
+
+### We comply with the US-EU Safe Harbor Framework (“Safe Harbor”), which relates to the collection, use and retention of Personal Information collected from users in the European Union. We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and the Safe Harbor Principles, please visit http://www.export.gov/safeharbor Any questions or concerns about our privacy practices should be sent to the address or email below. We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of Personal Information in accordance with the provisions of this Policy.If any complaints cannot be resolved between you and iSurveyWorld, we have agreed to participate in the dispute resolution procedures of JAMS to resolve disputes pursuant to the Safe Harbor Privacy Principles. EU residents with unresolved complaints may refer them to the JAMS as described at http://www.jamsadr.com/file-safe-harbor-claim/. 
+
+## Age Requirementa
+
+  
+
+
+### This Site is neither directed at nor intended for use by children under the age of 13. Further, we do not knowingly collect Personal Information from children under the age of 13. If we learn that we have inadvertently done so, we will promptly delete it and we will remove the child from any mailing lists, registrations, or other means of contacting the child. Do not access or use iSurveyWorld unless you are at least 13 years old or older. 
 
 ## Who is collecting information and for what purpose? 
 
