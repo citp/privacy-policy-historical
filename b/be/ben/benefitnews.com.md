@@ -1,162 +1,97 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041538id_/http%3A//ebn.benefitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622063205id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Employee Benefit News
+# SourceMedia: Privacy Policy
 
-This privacy policy covers BenefitNews's treatment of personally identifiable information we collect when you are on the BenefitNews site, located at http://www.benefitnews.com/. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies BenefitNews does not own or control, or to individuals BenefitNews does not employ or manage, including operators of sites to which you may link from the BenefitNews Web site. 
+**SourceMedia** provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences. Our privacy policy continues our commitment to serve you and explains how we intend to protect your privacy. This Privacy Policy covers SourceMedia’s treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies **SourceMedia** does not own or control, or to individuals **SourceMedia** does not employ or manage, including operators of sites to which you may link from any **SourceMedia** web site. SourceMedia has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use.
 
-This Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**AMERICAN BANKER RESEARCH REFUND POLICY.** All sales of _American Banker Research: Issues + Actions_ are final and no refunds will be issued after purchase is complete.
 
-The full text of our privacy policy is available on the Web at http://www.benefitnews.com/about/privacy.html Users may go to <http://www.benefitnews.com/profile/> for information on how to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy: 
+  * In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the "Digital Offering") without identifying yourself or revealing any personal information. 
+  * As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you. 
+  * Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain SourceMedia trade shows, conferences and events; and (ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, social media groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. 
+  * If you receive relevant newsletters from SourceMedia’s publications and do not opt-out of these communications, we may decide to send you related promotional emails from time to time that we deem relevant to you. 
+  * We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes. 
+  * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy. 
+  * If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc. 
 
-Email: [click here](mailto:custserv@sourcemedia.com)   
-Phone: (800) 221-1809   
-Mail to:  
-SourceMedia   
+
+
+We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will share that information only in the manner described in this privacy Policy. When you register for the Digital Offering or related products and services and are asked for personal information, you are sharing that information with SourceMedia as well as business partners and vendors providing hosting and other services for SourceMedia. Unless you opt-out, we will share your Personal Information with SourceMedia’s affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out; send us an email to [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service.
+
+We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties. Information about your visits to, and activity on, SourceMedia web sites, an IP address, and the number of times you have viewed an advertisement and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We do this to focus our communications and provide you content, services and offers we believe may be of interest to you. Your aggregated information about your visits to, and activity on, SourceMedia web sites may be provided from time to time to our advertisers of Sponsored Content. Refer SourceMedia “Sponsored Content” section in this Privacy Policy. SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web seminars White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for such assets including information on your visits to, and activity on, SourceMedia web sites may be shared with those Sponsors in order to contact you regarding their products and services in their normal course of business.
+
+When receiving email from us, we may place a small piece of code in that email to determine whether or not you can accept HTML images and whether or not you viewed and/or clicked on links contained in the email. This process does not leave any information on your computer, nor does it collect information from your computer. Email opt-outs. In the event you decide to unsubscribe from our newsletters or promotional emails we will honor your request within thirty business days.
+
+As a business-to-business company, we do not knowingly collect information from children under the age of 13. On-line registration and Digital Offering usage is restricted to adults who are professionally engaged in the businesses we serve. Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+
+Registered users have the option of accessing, correcting, updating and modifying Personal and/or Financial Information, or visitor profile, at any time and as often as desired. You may elect to stop receiving marketing material from SourceMedia or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting their member profile page or by following instructions at the end of any such e-mail received.
+
+If you desire to delete your Personal and/or Financial Information please contact us at [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+You can correct or change your print subscription information by sending an email to [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com). Please allow 2-4 weeks for changes to take effect.
+
+Our Digital Offerings contain external links to other Digital Offerings including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other Digital Offerings. We do not endorse any of these Digital Offerings or the products or services associated with such Digital Offerings merely because they are linked to our Digital Offering.
+
+As a SourceMedia customer you can also expect to receive relevant email and postal offers for SourceMedia publications, web seminars, white papers, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customer’s specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web Seminars, White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for these assets will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Sponsors use the information you provide, please contact the Sponsor directly.
+
+If you have any questions, please contact [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+SourceMedia events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.
+
+If you have any questions, please contact [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+SourceMedia Web Seminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Web Seminar Sponsors use the information you provide, please contact the Sponsor directly.
+
+SourceMedia Web Seminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering Web Seminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the Web Seminars service. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor.
+
+If you have any questions, please contact [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
+
+A "cookie" is a bit of data sent by a Web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. SourceMedia uses temporary, session-specific cookies to ensure visits to its Web site are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. SourceMedia also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a SourceMedia Web site.
+
+If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Web site from functioning properly and you may not be able to utilize fully all of the site's features and information.
+
+We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.
+
+Like many web sites, SourceMedia may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small JavaScript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable JavaScript; or there are commercial software packages available that can omit pixel tags and most advertisements.
+
+Visitors to this Digital Offering and related products and services can decide if they want to receive promotional information from SourceMedia. On the visitor registration pages, you are expressly providing your consent to receive advertising and promotional information from SourceMedia and our affiliate partners. Any e-mail you receive will include instructions on how to be removed from SourceMedia’s promotional e-mail list and 3rd party sponsored mailings. If you continue receiving email after opting out, please contact us at [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+This Digital Offering takes commercially reasonable precautions to protect your information. When appropriate, we use SSL encryption technology on our Digital Offering and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our Digital Offering such as credit card and payment information is transmitted using commercially reasonable security over the Internet.
+
+This Digital Offering also uses password encryption to ensure your privacy when registering for newsletters, events, and other SourceMedia related media. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect through all channels. We maintain a secure process to collect, transmit, and store your personally identifiable information. When you provide credit-card information online, we use secure socket layer (SSL) encryption to protect it. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. Subscribers can review or change online subscription or credit-card information at any time at My Account.
+
+We urge you to keep your online password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place, such as a library or Internet cafe.
+
+SourceMedia reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Digital Offering. Any such change, update or modification will be effective immediately upon posting on the Digital Offering. Please check back often to review the latest version of our Privacy Policy.
+
+By using our Digital Offering, products or services, you signify your acceptance of the terms of the SourceMedia Privacy Policy. If you do not agree to the terms of the SourceMedia Privacy Policy, please do not use the Digital Offering, products and/or services and exit the Digital Offering immediately.
+
+You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data. You can also notify us by contacting us at [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+
+The Digital Offering may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that SourceMedia does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites.
+
+The ownership of SourceMedia may change at some point in the future. Should that occur, we want to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of SourceMedia your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in “Changes to Privacy Policy.”
+
+SourceMedia may amend this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent notice in our privacy policy or in other locations on our Web site or by sending you an email to inform you of our updated privacy policy.
+
+We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting Customer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists.
+
+[custserv@sourcemedia.com](mailto:custserv@sourcemedia.com)  
+(800) 221-1809
+
+Mail to:
+
+SourceMedia  
 One State Street Plaza, 27th Floor   
 New York, NY 10004   
 USA 
 
-### Dispute Resolution and Privacy Seals
-
-We have privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, please contact [customer service](mailto:custserv@sourcemedia.com) so they can help you resolve your concern. 
-
-### Additional Information
-
-This policy is valid for 1 day from the time that it is loaded by a client. 
-
-### Data Collection
-
-P3P policies interpret the data collected and divide it into groups (also referred to as "statements"). BenefitNews’s policy contains three data groups. The data practices of each group will be explained as follows: 
-
-### Group "Basic information"
-
-We collect the following information: 
-
-  * Clickstream data
-  * HTTP protocol elements
-  * Search terms
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity
-  * Web site and system administration
-  * Research and development
-
-
-
-This data will be used by BenefitNews and our agents.   
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. Data collected from all Web users: access logs and search strings (if entered).
-
-### Group "Cookies"
-
-At the user's option, BenefitNews will collect HTTP cookies.
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Anonymous user analysis. The user must opt-in to this usage.
-  * Anonymous user profiling and decision-making. The user must opt-in to this usage.
-  * User analysis. The user must opt-in to this usage.
-  * User profiling and decision-making. The user must opt-in to this usage.
-
-
-
-This data will be used by BenefitNews and our agents.   
-The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
-
-### Group "Mailing registration"
-
-At the user's option, we will collect the following data: 
-
-  * Online contact information
-  * Physical contact information
-  * Demographic data
-  * Preference data
-  * Given name (First name)
-  * Family name (Last name) 
-  * User's job title 
-  * Organization name 
-  * State or province 
-  * Postal code 
-  * Country name 
-  * Work email address
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity. 
-  * User analysis. The user must opt-in to this usage. 
-  * White papers and Web Seminars may be sponsored material on the site. By accessing the assets the user information may be shared with the sponsors.
-
-
-
-This data will be used by BenefitNews and our agents. In addition, the following types of entities will receive this information: 
-
-  * Others following the same practices. The user must opt-in to this data sharing.
-
-
-
-The following explanation is provided for why this data is collected: This information is collected so that BenefitNews can send you valuable and useful information which is relevant to your needs and interests.
-
-### Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * Completing the user's current activity
-  * Pseudononymous analysis
-  * Pseudonym-based decision-making
-  * User analysis
-  * Individual-based decision-making
-
-
-
-### Compact Policy Summary
-
-The compact policy which corresponds to this policy is:
-
-CP="CAO DSP LAW CURa ADMa DEVa PSAi PSDi IVAi IVDi CONi OUR SAMi BUS IND PHY ONL UNI COM NAV INT DEM STA PRE"
-
-The following table explains the meaning of each field in the compact policy.
-
-**Field**|  **Meaning**  
----|---  
-CP=| This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-CAO| Access is available to contact and other information.  
-DSP| The policy contains at least one dispute-resolution mechanism.  
-LAW| Privacy law specifies penalties for a violation of this policy.  
-CURa| The data is used for completion of the current activity.  
-ADMa| The data is used for site administration.  
-DEVa| The data is used for research and development.  
-PSAi| The data is used for pseudononymous analysis, if the user selects it.  
-PSDi| The data is used for pseudononymous decision-making, if the user selects it.  
-IVAi| The data is used for analysis, including knowledge of the visitor's identity, if the user selects it.  
-IVDi| The data is used for decision-making, including knowledge of the visitor's identity, if the user selects it.  
-CONi| The data is used for contacting the user, if the user selects it.  
-OUR| The data is given to ourselves and our agents.  
-SAMi| The data is given to other organizations following the same practices, if the user selects it.  
-BUS| Our business practices specify how long the data will be kept.  
-IND| The data will be kept indefinitely.  
-PHY| Physical contact information is collected.  
-ONL| Online contact information is collected.  
-UNI| Unique identifiers are collected.  
-COM| Computer information is collected.  
-NAV| Navigation and clickstream data is collected.  
-INT| Interactive data is collected.  
-DEM| Demographic and soc oeconomic data is collected.  
-STA| State-management data is collected  
-PRE| Preference information is collected.  
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
-
-### Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
-
-**Note** : this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
-
-**Satisfactory policy** : this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
+If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
