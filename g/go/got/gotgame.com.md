@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotgame.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621181638id_/https%3A//gotgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotgame.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622085427id_/https%3A//gotgame.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GotGame
+# Privacy Policy - GotGame
 
 ### Your privacy is critically important to us. At GotGame we have a few fundamental principles:
 
