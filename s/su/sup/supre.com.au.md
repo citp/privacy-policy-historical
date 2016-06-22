@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supre.com.au privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230050730id_/http%3A//www.supre.com.au/customer-service-customer-service-heading/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supre.com.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622133840id_/http%3A//www.supre.com.au/customer-service-customer-service-heading/privacy-policy.html%3Fregion%3DAU) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -75,22 +75,8 @@ If you have any questions about our Privacy Policy or if you have a complaint, p
 
 **Phone:  **
 
-AUS: 1800 420 176
+AUS: 1800 154 147
 
-NZ: 0800 452885
-
-USA 1855 860 4952
-
-RSA: 800 988 824
-
-SING: 800 616 2289
-
-HK: 800 900 939
-
-MLY: 1800 816 086
-
-THAI: 0018 061 21018
-
-GMY: TBC
+NZ: 0800 453 461
 
 **Email:**[ privacyofficer@supre.com.au](mailto:privacyofficer@supre.com.au)
