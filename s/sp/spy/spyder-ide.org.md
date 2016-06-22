@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyder-ide.org privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228171440id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyder-ide.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622132440id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
 
 # GitHub Privacy Policy - User Documentation
 
