@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myilifestyle.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218030814id_/http%3A//www.myilifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myilifestyle.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622020717id_/http%3A//myilifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - -
 
@@ -14,7 +14,7 @@ MyiLifestyle also collects potentially personally-identifying information like I
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to MyiLifestyle websites choose to interact with MyiLifestyle in ways that require MyiLifestyle to gather personally-identifying information. The amount and type of information that MyiLifestyle gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [MyiLifestyle.com](http://www.myilifestyle.com/) to provide a username and email address. Those who engage in transactions with MyiLifestyle are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, MyiLifestyle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with MyiLifestyle. MyiLifestyle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to MyiLifestyle websites choose to interact with MyiLifestyle in ways that require MyiLifestyle to gather personally-identifying information. The amount and type of information that MyiLifestyle gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [MyiLifestyle.com](http://myilifestyle.com/) to provide a username and email address. Those who engage in transactions with MyiLifestyle are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, MyiLifestyle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with MyiLifestyle. MyiLifestyle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
