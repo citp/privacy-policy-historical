@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921150416id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622223210id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | iSeeCars.com
+# Privacy Policy - iSeeCars.com
 
 [ About Us](https://web.archive.org/about-us/) | [ Partnership](https://web.archive.org/partnership.jsp) | [ Help](https://web.archive.org/help.jsp) | [ Feedback](https://web.archive.org/feedback.jsp) | [ Career](https://web.archive.org/careers/) | Privacy Policy | [ Terms of Use](https://web.archive.org/Terms.jsp) | [ Press Releases](http://blog.iseecars.com/category/studies/) | [ News Coverage](http://blog.iseecars.com/news-coverage/)
 
