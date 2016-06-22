@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walmartchecks.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129065651id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartchecks.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622121102id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
 
 # Walmart Privacy Policy
 
@@ -35,9 +35,7 @@ Our Policy focuses on personal information – information that identifies you o
 
 __More
 
-Our Policy covers how and why we collect, use, protect, and share your personal information. This Policy applies to personal information we collect at Walmart and Amigo retail stores in the United States and Puerto Rico and through our websites and mobile services where this Policy is posted. 
-
-Our Policy focuses on personal information – – information that identifies you or reasonably can be linked to information that identifies you. For example, when you place an item on layaway or place an order online, we collect personal information, such as name, address, phone number, and credit or debit card information.  
+For example, when you place an item on layaway or place an order online, we collect personal information, such as name, address, phone number, and credit or debit card information.  
 
 We have additional, specific privacy notices related to some of our specialized operations. For example, our Health & Wellness operations (pharmacy and vision center) have a specific Notice of Privacy Practices for their personal information practices. Our specialized notices can be found [here](http://corporate.walmart.com/privacy-security/notices/ "Link: /privacy-security/notices/").  
 
@@ -57,7 +55,7 @@ We collect two types of information: (1) information we receive from you and (2)
 
 __More
 
-We collect information to deliver the products and services you request and to help improve your shopping experience. Our goal is to limit the information we collect to the information needed to support our business.  We collect information from you in a variety of ways when you interact with our stores, websites, and mobile services. We collect information in two ways: information we receive from you and information we receive from others.
+We collect information to deliver the products and services you request and to help improve your shopping experience. We collect information from you in a variety of ways when you interact with our stores, websites, and mobile services.
 
  **Information We Receive From You  **
 
@@ -75,7 +73,7 @@ You share information with us in various ways in our stores and online. For exam
 
 
 When you engage in these activities, you may share different types of personal information with us, such as your name, email address, physical or postal address, phone number, date of birth, and payment information.  
-You also provide us information in other ways through technology. Some of this information may be linked to you personally. This information helps our websites and mobile services work correctly and supports our customer marketing and analytics efforts – – our work to understand our customers’ needs and provide information about our products and services. Here are some examples:
+You also provide us information in other ways through technology. Some of this information may be linked to you personally. This information helps our websites and mobile services work correctly and supports our customer marketing and analytics efforts – our work to understand our customers’ needs and provide information about our products and services. Here are some examples:
 
   *  **Device Information** : We collect technical information when you visit our websites or use our mobile applications or services. This includes information such as Internet Protocol (IP) address, the type of mobile device you use, your device operating system and browser type, a unique device identifier, the address of a referring websites, the path you take through our websites, and other information about your session on our websites.
   *  **Browsing Information** : We use technologies such as cookies, web beacons, and mobile device identifiers to collect information about the use of our websites and mobile services.  Cookies allow us to provide you relevant information as you use or return to our sites. Web beacons allow us to know if a certain page was visited, an email was opened, or if ad banners on our websites and other sites were effective. We use these tools to provide a continuous and more personalized shopping experience for you.  _See “What Are Your Choices?” below for more information_.
@@ -95,7 +93,7 @@ We use your personal information to provide you products and services, such as t
 
 __More
 
-We use your personal information to offer and provide you products and services and to support our business functions. These business functions include order and service fulfillment, internal business processes, marketing, authentication, loss and fraud prevention, public safety and legal functions.  Some examples include:
+Some examples include:
 
   * To fulfill your requests for products and services and communicate with you about those requests;
   * To register and service your account;
@@ -195,7 +193,7 @@ We provide you with various ways to access or update your personal information, 
 
 __More
 
-We take reasonable steps to keep your personal information accurate and complete. You can access or update your personal information, including contact or account information, in the following ways:
+You can access or update your personal information, including contact or account information, in the following ways:
 
   * If you have created an account on one of our websites, log into your account. Once you do, you will be able to enter and update your own contact information and payment information, as well as contact information for recipients you have designated.
   * Contact us through one of the ways listed in the “ _Contact Us”_  section at the bottom of this Policy. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will provide you the personal information requested if it is reasonably available, unless it infringes on the privacy of other individuals, and subject to reasonable limitations provided by law and internal procedures. Otherwise we will describe the types of information we typically collect. We will provide access and make the changes you request, or will provide an explanation of what actions we will be able to take with regard to the request.
@@ -212,7 +210,7 @@ We recognize the importance of maintaining the security of our customers’ pers
 
 __More
 
-We recognize the importance of maintaining the security of our customer’s personal information. We have a team of associates who are responsible for helping to protect the security of your information. Whether you are shopping on our websites, through our mobile services, or in our stores, we use reasonable security measures, including physical, administrative, and technical safeguards. These measures may include security access controls or other physical security safeguards, information security technologies and policies, procedures to help ensure the appropriate disposal of information, and training programs.  
+We have a team of associates who are responsible for helping to protect the security of your information. Whether you are shopping on our websites, through our mobile services, or in our stores, we use reasonable security measures, including physical, administrative, and technical safeguards. These measures may include security access controls or other physical security safeguards, information security technologies and policies, procedures to help ensure the appropriate disposal of information, and training programs.  
 
 Here are some examples of security measures we use to protect your personal information:  
 
@@ -232,7 +230,7 @@ Our websites and mobile services are intended for a general audience and are not
 
 __More
 
-We recognize the importance of protecting children's online privacy. Our websites and mobile services are intended for a general audience and are not directed to children. In order to protect the privacy of children, Walmart websites and mobile services knowingly collect personal information from children under the age of 13 only with prior parental consent or as permitted by law. Please [Contact Us](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs") if you believe we may have collected information from your child through our websites or mobile services and we will work to delete it.  
+We recognize the importance of protecting children's online privacy. In order to protect the privacy of children, Walmart websites and mobile services knowingly collect personal information from children under the age of 13 only with prior parental consent or as permitted by law. Please [Contact Us](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#ContactUs") if you believe we may have collected information from your child through our websites or mobile services and we will work to delete it.  
 
 
 ## What Are Your Privacy Protections for Specific Types of Personal Information?
@@ -248,6 +246,8 @@ We have additional [specific notices](http://corporate.walmart.com/privacy-secu
   * This policy applies to customer personal information Walmart collects in the United States and Puerto Rico. Walmart maintains separate privacy policies applicable to its international operations.
 
 
+
+## Who Can I Contact at Walmart About the Privacy Policy?
 
 You can contact the Walmart Privacy Office online or by postal mail.
 
@@ -270,8 +270,6 @@ Our Privacy Policy describes how we share information for marketing purposes. Th
 
 __More
 
-Our Privacy Policy describes how we share information for marketing purposes. The Policy and rights apply to all customers, including California residents:
-
   * We share personal information with others outside of Walmart for direct marketing of their products only if we have your affirmative consent (opt in). See  _“How Do We Share Your Personal Information Outside Walmart?”_
   * We share personal information with other businesses within our corporate family, such as Sam's Club and Vudu.  _See “How Do We Use Your Personal Information?”_
 
@@ -286,5 +284,5 @@ We will provide additional notice of significant updates.  We will post the dat
 
 __More
 
-Please check our Privacy Policy periodically for changes. We will provide additional notice of significant updates. We will post the date our Policy was last updated at the top of the Privacy Policy.  
+Please check our Privacy Policy periodically for changes.  
 
