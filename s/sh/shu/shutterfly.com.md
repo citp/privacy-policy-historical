@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218195721id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622075141id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
 
-# Shutterfly, Inc. - Privacy Policy
+# Privacy Policy - Shutterfly, Inc.
 
 Last Updated: July 23, 2015
 
@@ -95,7 +95,7 @@ However, under the following circumstances, we may still be required to share yo
 
 
 
-_California's "Do Not Track" Notice_. "Do Not Track" ("DNT") is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to "Do Not Track" settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/).
+**California's "Do Not Track" Notice:** "Do Not Track" ("DNT") is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to "Do Not Track" settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/).
 
 ## 7\. Children's Information
 
@@ -123,7 +123,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 13\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20151218195721id_/http%3A//shutterflyinc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20160622075141id_/http%3A//shutterflyinc.com/contact.html) page of any of our brands.
 
 ## 14\. Updates to Privacy Policy
 
