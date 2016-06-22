@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815062247id_/http%3A//instaprints.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaprints.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622223709id_/http%3A//instaprints.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Terms of Use - Instaprints
 
 List of Terms and Policies
 
-Effective March 15th, 2014
-
-## Information Collected from Sellers
-
-After opening an account with Instaprints, a seller is able to create a public profile page and upload information and content to the page include, but not limited to, the seller's name, contact information, biography, headshot, images, hometown, and more. All of this information is fully disclosed on the Instaprints website. Any site visitor that visits Instaprints and navigates to the seller's profile page will be able to view all of the public profile information that has been entered by the seller.
+Effective May 24th, 2016
 
 ## Credit Cards
 
