@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvelvscapcom3.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226220119id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelvscapcom3.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622232831id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -8,11 +8,11 @@
 
 **
 
-**CAPCOM USA ONLINE PRIVACY STATEMENT**
+## CAPCOM USA ONLINE PRIVACY STATEMENT
 
-Last updated July 8, 2015
+Last updated May 11, 2016
 
-Here is a [PDF version](https://web.archive.org/web/20151226220119id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202015.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20160622232831id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202016.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
@@ -61,8 +61,8 @@ If Capcom learns that a Child's personally identifiable information has been col
 
 **Capcom USA**  
 Attn.: Privacy Policy Administrator  
-800 Concar Drive, Suite 175  
-San Mateo, CA 94402  
+185 Berry Street, Suite 1200  
+San Francisco, CA 94107  
 (650) 350-6500  
 privacy@capcom.com
 
@@ -140,7 +140,7 @@ _utmz | Google Analytics | 6 months from set/update |  |
 YouTube (Google) | Cookies are used to deliver content on this website using YouTube (Google). Data collected by Google may also be used for other purposes, including advertising. | You can find out more about Google's privacy practices and the cookies that it uses via YouTube here (http://www.google.com/intl/en/policies/privacy/). You can also change your browser settings to accept or refuse these cookies as mentioned below.   
 ---|---|---  
 Twitter | Twitter uses cookies to enable visitors to share website pages and content through third party social networking and other websites. Twitter may also use visitors' information to serve targeted advertising on other websites. | Further information about how Twitter uses cookies, including how you can opt-out is available here (https://twitter.com/privacy). You can also change your browser settings to accept or refuse these cookies as mentioned below.   
-Facebook | Cookies are used to deliver content on this website using Facebook. Data collected by Facebook may also be used for other purposes, including advertising. | You can find out more about Facebook's privacy practices and the cookies that it uses here (https://www.facebook.com/about/privacy/your-info-on-other). You can also change your browser settings to accept or refuse these cookies as mentioned below.   
+Facebook | Cookies are used to deliver content on this website using Facebook. Data collected by Facebook may also be used for other purposes, including advertising. | You can find out more about Facebook's privacy practices and the cookies that it uses here (https://www.facebook.com/about/privacy/your-info-on-other). You can also change your browser settings to accept or refuse these cookies as mentioned below.   
 MediaMind (__atuvs, __atuvc) | Streetfighter.com uses cookies to enhance their marketing campaign analytics gathering. Data collected is only available to marketing team involved with the product and is not shared. | Further information about how Mediamind uses cookies, including how you can opt-out is available here (http://www.mediamind.com/privacy-policy). You can also change your browser settings to accept or refuse these cookies as mentioned below.   
   
 (Back to top)
@@ -191,6 +191,8 @@ We will disclose personal information when we believe in good faith that disclos
   * protect your safety or security, including the safety and security of your property; or 
   * protect the safety and security of our websites or third parties. 
 
+
+
 (Back to top)
 
 ## • Q4. What are your California Privacy Rights?
@@ -199,8 +201,8 @@ Since 2005, California Civil Code Section 1798.83 permits our customers who are 
 
 Capcom USA  
 Attn.: Privacy Policy Administrator  
-800 Concar Drive, Suite 175  
-San Mateo, CA 94402  
+185 Berry Street, Suite 1200  
+San Francisco, CA 94107  
 (650) 350-6500  
 privacy@capcom.com   
 
@@ -218,6 +220,8 @@ The security and confidentiality of your information is extremely important to u
   * We use standard encryption technology when transferring or receiving sensitive personal information like credit card numbers 
   * We maintain written security policies to which all employees must adhere. 
 
+
+
 (Back to top)
 
 ## • Q6. How can you update your personal information and profile?
@@ -232,8 +236,8 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 Capcom USA  
 Attn.: Privacy Policy Administrator  
-800 Concar Drive, Suite 175  
-San Mateo, CA 94402  
+185 Berry Street, Suite 1200  
+San Francisco, CA 94107  
 (650) 350-6500  
 privacy@capcom.com   
 
@@ -255,13 +259,11 @@ privacy@esrb.org
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will send you a private message on Capcom-Unity.com and prominently post a notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the websites covered by the Privacy Policy after the posting will constitute your acceptance of and agreement to be bound by those changes.
 
-  
 (Back to top)
 
 ## • Q9. How is information treated when it is collected from non-US residents?
 
 Personal information collected on our websites may be stored and processed in the United States. By using our websites you consent to any such transfer of information outside of your country. Capcom complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Capcom has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Capcom’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-  
 (Back to top)  
 
