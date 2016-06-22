@@ -1,8 +1,12 @@
-<!--The following is the downloaded HTML source of the acfx.com privacy policy that was archived on 2015-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222051319id_/http%3A//www.acfx.com/legal-documentation/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acfx.com privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622201248id_/http%3A//www.acfx.com/legal-documentation/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+    <!-- Telerik Block Contains Css,Js and some runtime functions -->
+    
         <link rel="shortcut icon" type="image/x-icon" href="../../favico.ico">
+		<meta name="theme-color" content="#000">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
         <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,25 +20,98 @@
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M6QP4B"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="/Custom/MaterPages/js/jquery.min.js"></script>
         <script type="text/javascript" src="/Custom/MaterPages/js/common_inner.js"></script>
         <link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/footer.css">
+		<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/footer-slider.css">
 
-
-
+	<script>
+       adroll_custom_data = { "leadid": '' }
+	</script>
+	
+		<!-- Media Query for Safari Browser only  -->
+		<!---------- By ISHAN 14-03-106 ------------>
+		<style>
+		@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) 
+		{ @media screen and (max-width:789px) {
+			overflow-none{direction:ltr !important;}
+			.open-sidebar #page-topbar{left: -65%; -webkit-transition:left 0.3s ease-out; transition:left 0.3s ease-out;}
+			#page-topbar{left:0; -webkit-transition:left 0.3s ease-out; transition:left 0.3s ease-out;}
+			.new-mb-menu-block{right:-65%; width:65%; -webkit-transition:right 0.3s ease-out; transition:right 0.3s ease-out;}
+			.open-sidebar .new-mb-menu-block{right:0; -webkit-transition:right 0.3s ease-out; transition:right 0.3s ease-out;}
+			.open-sidebar .nav-wrapper ul.nav{right:6%; height:calc(95% - 230px);}
+			.nav-wrapper ul.nav{right:-65%;}
+		}}
+		</style>
+<style>
+#imptnotice{background-color:red;display: block; padding:8px;color:#ff8f21; font-size:12px; line-height:1.4em;text-align: center;letter-spacing: 0.1em;}
+#imptnotice span.imp-flahs{color:#ffffff;}
+#imptnotice span.imp-uline{display: inline-block;}
+#imptnotice a {cursor: default};
+</style>
         <script type="text/javascript">
             $(document).ready(function () {
-
-
+                
                 $(".sidbar-subtytl").remove();
                 $(".preview-tagline").remove();
-                var searchreflang = $(location).attr('href');
+				
+				//Function for China Open live account form Height//
+				$("body.zh #msform .reg-form").css("height","390px");
+					setInterval(function(){
+						if($("body.zh #msform li:nth-child(2)").hasClass("active"))
+						{
+						$("body.zh #msform .reg-form").css("height","950px");
+						}
+					}, 100);
+				
+				//Function for toggle menu button//
+				$("[data-toggle]").click(function() {
+				  var toggle_el = $(this).data("toggle");
+				  $(toggle_el).toggleClass("open-sidebar");
+				  $("body").toggleClass("overflow-none");
+				});
+				
+				//Function to handle overflow-x because of MAIN-NAV//
+				$("#sidebar-toggle").click(function(){
+					if($("#main-nav").hasClass("left-auto")){	
+						setTimeout(function(){
+							$("#main-nav").removeClass("left-auto");
+						},400)
+					}
+					else{
+					$("#main-nav").addClass("left-auto");
+					}
+				});
+				
+				//Function for drop down of sub menu in mobile & tab//
+				$(".nav li a" ).click(function(){ 
+				if($(this).hasClass('drop')) 
+				{
+					$(".nav li a" ).each(function() {
+						$(this).next(".mm-menu").removeClass("max-height-menu"); 
+					});
+					$(this).next(".mm-menu").toggleClass("max-height-menu");
+					$(this).click(function(){
+					if($(this).next(".mm-menu").hasClass("max-height-menu"))
+					{
+						$(this).next(".mm-menu").removeClass("max-height-menu"); 
 
-                if (searchreflang.indexOf("/en/") != -1) {
-                    $('head').append('<link rel="alternate" hreflang="en" href=' + searchreflang + '>');
-                }
-                else if (searchreflang.indexOf("/ar/") != -1) {
-                    $('head').append('<link rel="alternate" hreflang="ar" href=' + searchreflang + '>');
-                }
-				 else { $('head').append('<link rel="alternate" hreflang="en" href=' + searchreflang + '>'); }
-				 
+					}
+					else
+					{
+					$(this).next(".mm-menu").addClass("max-height-menu"); 
+					}
+
+					});
+				}
+				});
+
+                ///*For Href Lang*/
+                //var searchreflang = $(location).attr('href');
+                //if (searchreflang.indexOf("/en/") != -1) {
+                //    $('head').append('<link rel="alternate" hreflang="en" href=' + searchreflang + '>');
+                //}
+                //else if (searchreflang.indexOf("/ar/") != -1) {
+                //    $('head').append('<link rel="alternate" hreflang="ar" href=' + searchreflang + '>');
+                //}
+                //else { $('head').append('<link rel="alternate" hreflang="en" href=' + searchreflang + '>'); }
 				
             });
         </script>
@@ -42,70 +119,37 @@
         
         <script type="text/javascript">
             $(document).ready(function () {
+
+                /*Load Css According to the below language in Url*/
                 var url = $(location).attr('href');
-
-                if (url.indexOf("/el/") != -1) {
-
-
-                    $('head').append('<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arimo:400,700&subset=latin,greek-ext,greek" />');
-                }
-                else if (url.indexOf("/zh/") != -1) {
-
-
-                    $('head').append('<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-zh.css" />');
-                }
+                if (url.indexOf("/el/") != -1) { $('head').append('<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arimo:400,700&subset=latin,greek-ext,greek" />'); }
+                else if (url.indexOf("/zh/") != -1) { $('head').append('<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-zh.css" />'); }
                 else if (url.indexOf("/ja/") != -1) { $('head').append('<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-ja.css" />'); }
-
                 else if (url.indexOf("/ar/") != -1) { $('head').append('<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-ar.css" />'); }
-
                 else if (url.indexOf("/vi/") != -1) { $('head').append('<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-vi.css" />'); }
-
                 else {
                     $('head').append('<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arimo:400,700" />');
                     $('head').append('<link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-global.css" />');
                 }
 
-
-
+                /*Google Analytics*/
                 if (url.indexOf("http://www.acfx.com") != -1) {
-
-
-
                     (function (i, s, o, g, r, a, m) {
                         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                             (i[r].q = i[r].q || []).push(arguments)
                         }, i[r].l = 1 * new Date(); a = s.createElement(o),
                         m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
                     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
                     ga('create', 'UA-55394488-1', 'auto');
                     ga('send', 'pageview');
                     $("#googleanalytics").css({ display: "block" });
-
-
                 }
-
-
 
                 //Spread Comparison
                 //$("a[id$='sprdcompa']").attr('href', 'javascript: void(0)');
             });
         </script>
-        <script type="text/javascript">
-            $(document).ready(function () {
-			
-			
-                var searchreflang = $(location).attr('href');
-                if (searchreflang.indexOf("/en/") != -1) {
-                    $('head').append('<link rel="alternate" hreflang="en" href=' + searchreflang + '>');
-                }
-                else if (searchreflang.indexOf("/ar/") != -1) {
-                    $('head').append('<link rel="alternate" hreflang="ar" href=' + searchreflang + '>');
-                }
-
-
-            });
-        </script>
+        
 
 
 
@@ -116,38 +160,17 @@
 
         <link href="/custom/MaterPages/css/stocks.css" rel="stylesheet" type="text/css">
         
-        <script>
-            $('#search').keypress(function (event) {
-
-                if ((event.keyCode || event.which) == 13) {
-
-                    event.preventDefault();
-                    return false;
-
-                };
-
-            });
-
-
-        </script>
-
-
 
         <script type="text/javascript">
-            $(document).ready(function () {
-
-                // Recreating Structure for Start Trading 
-                // $('ul.nav li').first().addClass('trading-li');
-                // $('.trading-li ul').addClass('trading-first');
-                //$('.trading-li #dd-menu .container').append('<ul class="tranding-second"><li class="hide">&nbsp;</li></ul>');
-                //$('.nav-lnk07').insertAfter('.tranding-second li');
-                //$('.nav-lnk08').insertAfter('.nav-lnk07');
-
-
+            /*Avoid Clickable on empty Search TextBox*/
+            $('#search').keypress(function (event) {
+                if ((event.keyCode || event.keyCode) == 13) {
+                    event.preventDefault();
+                    return false;
+                };
             });
+
         </script>
-
-
         <script type="text/javascript">
             $(document).ready(function () {
 
@@ -170,11 +193,14 @@
         </script>
         <script>
             $(document).ready(function () {
+                /*Hide Pages i.e. Deposit and Redeposit Bonus fron China*/
                 $("a[href$='/zh/优惠/deposit-bonus']").css("display", "none");
                 $("a[href$='/zh/优惠/redeposit-bonus']").css("display", "none");
                 $("a[href$='/zh/promotions/deposit-bonus']").css("display", "none");
                 $("a[href$='/zh/promotions/25-extra-ib-commissions']").css("display", "none");
                 $("a[href$='/zh/promotions/redeposit-bonus']").css("display", "none");
+
+                /*Not Clickable href for Research & Analysis*/
                 //Research & Analysis
                 $("a[itemid$='4ed54dd6-de79-4019-83b8-0e6dd5cd2aa7']").attr('href', 'javascript: void(0)');
             });
@@ -194,7 +220,8 @@
             });
         </script>
         <script type="text/javascript">
-            //jQuery.noConflict();
+
+            /*Cookie Accept Div*/
             jQuery(document).ready(function () {
                 $("#btnfade").click(function () {
                     $("#divfade").fadeOut()
@@ -205,19 +232,28 @@
         </script>
 
         <script type="text/javascript">
+
+            /*Not Clickable href for flymenu*/
             $(window).scroll(function () {
                 var scroll = $(window).scrollTop();
-                if (scroll >= 80) {
-                    $("#main-nav").addClass("flymenu");
-                    //Research & Analysis
-                    $("a[itemid$='4ed54dd6-de79-4019-83b8-0e6dd5cd2aa7']").attr('href', 'javascript: void(0)');
-                } else {
-                    $("#main-nav").removeClass("flymenu");
-                    //Research & Analysis
-                    $("a[itemid$='4ed54dd6-de79-4019-83b8-0e6dd5cd2aa7']").attr('href', 'javascript: void(0)');
-                }
+                if ($(window).width() > 789 ){
+					if (scroll >= 80) {
+						$("#main-nav").addClass("flymenu");
+						//Research & Analysis
+						$("a[itemid$='4ed54dd6-de79-4019-83b8-0e6dd5cd2aa7']").attr('href', 'javascript: void(0)');
+					} else {
+						$("#main-nav").removeClass("flymenu");
+						//Research & Analysis
+						$("a[itemid$='4ed54dd6-de79-4019-83b8-0e6dd5cd2aa7']").attr('href', 'javascript: void(0)');
+					}
+				}
+				else{
+					$("#main-nav").removeClass("flymenu");
+				}
             });
         </script>
+
+        <!--Browser Cookies Start HERE -->
         <script type="text/javascript">
             function setCookie(cname, cvalue, exdays, path) {
                 var d = new Date();
@@ -250,31 +286,37 @@
                 }
             }
         </script>
+        <!--Cookies End HERE -->
+
         <link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/topButtons.css">
     <meta name="Generator" content="Sitefinity 7.1.5200.0 SE"><link rel="canonical" href="http://www.acfx.com/en/legal/privacy-policy"><link href="/Telerik.Web.UI.WebResource.axd?compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d7.1.5200.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3ae8482271-e037-4f4c-9782-d3ef83d41650%3ad271177c%3adff30785" type="text/css" rel="stylesheet"><title>
 	Privacy Policy | Online Forex Trading |ACFX
-</title><meta name="description" content="Excepteur sint occaecat cupidatat non proiden"><link rel="alternate" hreflang="en" href="https://web.archive.org/web/20151222051319id_/http://www.acfx.com/en/legal/privacy-policy"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arimo:400,700"><link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-global.css"><link rel="alternate" hreflang="en" href="https://web.archive.org/web/20151222051319id_/http://www.acfx.com/en/legal/privacy-policy"></head>
-<body id="acfx" class="en" onload="checkCookie()">
+</title><meta name="description" content="Excepteur sint occaecat cupidatat non proiden"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arimo:400,700"><link rel="stylesheet" type="text/css" href="/custom/MaterPages/css/font-global.css"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body id="acfx" class="en" onload="checkCookie()" style="">
+<div id="imptnotice" class="livechat">
+
+<span class="imp-flahs">! Important Announcement ! Our licence has been suspended.</span>
+
+</div>
     <script type="text/javascript">
         jQuery(document).ready(function () {
             if ("en" == "zh") {
+                /*Not Clickable href for twitter and facebook etc*/
                 $("a[class$='tw-icon']").attr('href', 'javascript: void(0)');
                 $("a[class$='fb-icon']").attr('href', 'javascript: void(0)');
                 $("a[class$='category']").attr('href', 'javascript: void(0)');
 
-
+                /*Hide Deposit and Redeposit Bonus fron China*/
                 $("a[id$='Deposit Bonus']").css("display", "none");
                 $("a[href$='/zh/优惠/deposit-bonus']").css("display", "none");
                 $("a[href$='/zh/promotions/deposit-bonus']").css("display", "none");
                 $("a[href$='/zh/promotions/25-extra-ib-commissions']").css("display", "none");
                 $("a[itemid$='093a4e7e-0091-6fac-9941-ff0000615f32']").css("display", "none");
-                $("a[class$='tw-icon']").attr('href', 'javascript: void(0)');
-                $("a[class$='fb-icon']").attr('href', 'javascript: void(0)');
-$("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动");
+
             }
         });
     </script>
-
+    
     <div id="divfade" style="height: 0px; display: block;">
         <div class="bottom-bar">
             <div style="text-align: center;" class="container">
@@ -283,11 +325,15 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
             </div>
         </div>
     </div>
+
     <a href="#" class="scrollToTop"></a>
+
+    
     <div class="topButtons">
-        <a class="menuPop" href="Javascript:;">&nbsp;</a>
+	
+        <a class="menuPop liveChatButton" href="Javascript:;">&nbsp;</a>
         <ul id="navs" data-open="-" data-close="+">
-            <li id="nav1"><a class="academy" href="Javascript:;" id="btnacademy">
+            <li id="nav1" style="display:none;"><a class="academy" href="Javascript:;" id="btnacademy">
                 <span>
                     <span id="Label1" textar="ACFX" textaz="ACFX" textes="ACFX" textid="ACFX" texthu="ACFX" textfr="ACFX" textja="ACFX" textcs="ACFX" textko="ACFX" textru="ACFX" texttr="ACFX" textit-it="ACFX" textth="ACFX" textde="ACFX" textpl="ACFX" textms="ACFX" textvi="ACFX" textsr="ACFX">ACFX</span>
                     <span id="Label2" textar="أكاديمية" textaz="Akademiya" textes="ACADEMIA" textid="AKADEMI" texthu="Akadémia" textfr="Education" textja="アカデミー" textzh="学院" textcs="AKADEMIE" textko="아카데미" textru="Академия" texttr="AKADEMİ" textit-it="ACCADEMIA " textth="Academy" textde="AKADEMIE" textpl="AKADEMIA" texthi="अकादमी" textms="Akademi" textvi="Chuyên sâu" textfa="آکادمی" textsr="AKADEMIJA">Academy</span></span>
@@ -328,6 +374,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
         <script type="text/javascript">
 
             if ("en" == "zh") {
+
+                /*Inner Pages Changes in some classes at runtime*/
                 document.write('<style type="text/css">.three-box-wrap {background: url("../../slide-bg233.jpg") no-repeat scroll center top / cover rgba(0, 0, 0, 0); margin-top: 20px;padding: 14px 0;width: 100%;} </style>');
                 document.write('<style type="text/css">.main_area_homepage {background-color:#F5231F!Important;} </style>');
                 document.write('<style type="text/css">.main_area_homepage h1 {color:WHITE!Important;} </style>');
@@ -350,6 +398,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
             }
 
+            /*Open Chat Window OnClick*/
             if ("en" == "en" || "en" == "fr" || "en" == "az" || "en" == "fil-ph" || "en" == "de" || "en" == "hu" || "en" == "it-IT"
              || "en" == "ar" || "en" == "fa" || "en" == "th" || "en" == "el" || "en" == "hi" ||
                 "en" == "id" || "en" == "ja" || "en" == "ko" || "en" == "ms" || "en" == "pl-pl" ||
@@ -402,72 +451,54 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                 lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
             })();
+			
+			LC_API.on_chat_window_minimized = function()
+{
+
+setInterval(function(){
+//$("#acfx").removeAttr("style");
+$('#acfx')
+.css('position','')
+.css('overflow-y','')
+.css('width','')
+.css('height','')
+.css('left','')
+.css('right','')
+.css('top','')
+.css('bottom','');
+}, 1000);
+
+	
+};
             //  <!--Live Chat Code Per Language End Here -->
+
             jQuery(document).ready(function ($) {
 
                 if ("en" == "ja") {
+                    /*Change Text For Japnese Menu Links*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").text("固定スプレド");
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").text("変動スプレッド");
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").text("STP ロー");
                     $("a[itemid$='4d5c4c7e-0091-6fac-9941-ff0000615f32']").text("アンドロイド トレーダー");
-
                     $("a[itemid$='cd05507e-0091-6fac-9941-ff0000615f32']").text("経済カレンダー");
-
-
-                }
-
-
-                if ("en" == "ja") {
                     $("a[itemid$='99f7507e-0091-6fac-9941-ff0000615f32']").css("display", "block");
                 }
                 else {
                     $("a[itemid$='99f7507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
                 }
-                if ("en" == "en") {
 
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "zh") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "tr") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "de") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "ko") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "az") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "cs") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "el") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-				else if ("en" == "id") {
-
-                   $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "block");
-                }
-                else {
-
-                    $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "none");
-
+                if ("en" == "en") { } 
+				else if ("en" == "ko") { 
+				// For Temporary  : MT4  Android Tablet	
+                    $("a[itemid$='492e517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/platforms/android');
+				}
+				else {
                     // For Temporary  : MT4  Android Tablet	
                     $("a[itemid$='492e517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/platforms/android');
                 }
 
                 if ("en" == "en") {
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=stpraw');
@@ -480,6 +511,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     // StopLossTakeProfit  - Academy>Trader Tools
+                    /*Change Url's For StopLossTakeProfit  - Academy>Trader Tools*/
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/tools/forex-calculators?id=margin-tab');
                     $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/tools/forex-calculators?id=profit-tab');
@@ -491,6 +523,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     // Partner Tools
+                    /*Change Url's For Partner Tools*/
                     $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/tools/marketing-material?id=banner');
                     $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/tools/marketing-material?id=widget');
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/tools/marketing-material?id=rss');
@@ -501,6 +534,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 }
                 else if ("en" == "ar") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ar/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ar/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ar/start-trading/account-types?id=stpraw');
@@ -508,9 +543,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>تحذير المخاطر:</span>  التداول يمكن أن يؤدي إلى خسارة رأس المال المستثمر</em>');
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("اختيار.."));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("اختيار.."));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("اختيار.."));
-
+$(".reg-submit #spnlossinvetsed").text('التداول يمكن أن يؤدي إلى خسارة رأس المال المستثمر');
 
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ar/tools/forex-calculators?id=profitloss-tab');
@@ -528,15 +563,17 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 }
                 else if ("en" == "fa") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/start-trading/account-types?id=stpraw');
                     $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/start-trading/account-types?id=ecnpro');
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>افشای ریسک:</span>  معاملات در بازار سرمایه ممکن است باعث خسران و از دست دادن سرمایه شود</em>');
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("گزینش کشور"));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("گزینش کشور"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("گزینش کشور"));
-
+$(".reg-submit #spnlossinvetsed").text('معاملات در بازار سرمایه ممکن است باعث خسران و از دست دادن سرمایه شود');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/tools/forex-calculators?id=margin-tab');
@@ -552,6 +589,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fa/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "de") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/de/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/de/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/de/start-trading/account-types?id=stpraw');
@@ -559,9 +598,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risikohinweis:</span>Der Handel könnte zu einem Verlust Ihres investierten Kapitals führen.</em>');
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wählen Sie Ihr Land"));
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wählen Sie Ihr Land"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wählen Sie Ihr Land"));
-
+$(".reg-submit #spnlossinvetsed").text('Der Handel könnte zu einem Verlust Ihres investierten Kapitals führen.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/de/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/de/tools/forex-calculators?id=margin-tab');
@@ -577,6 +616,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/de/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "fr") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fr/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fr/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fr/start-trading/account-types?id=stpraw');
@@ -584,9 +625,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Avertissement quant aux risques:</span>  Le trading pourrait entraîner une perte de votre capital investi.</em>');
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Sélectionnez le pays"));
+                    //$("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Sélectionnez le pays"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Sélectionnez le pays"));
-
+$(".reg-submit #spnlossinvetsed").text('Le trading pourrait entraîner une perte de votre capital investi.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fr/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fr/tools/forex-calculators?id=margin-tab');
@@ -602,6 +643,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fr/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "es") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/es/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/es/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/es/start-trading/account-types?id=stpraw');
@@ -609,9 +652,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Advertencia de riesgo:</span> el comercio podría llevar a la pérdida de su capital invertido.</em>');
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Seleccione País"));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Seleccione País"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Seleccione País"));
-
+$(".reg-submit #spnlossinvetsed").text('el comercio podría llevar a la pérdida de su capital invertido.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/es/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/es/tools/forex-calculators?id=margin-tab');
@@ -627,6 +670,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/es/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "sr") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/sr/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/sr/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/sr/start-trading/account-types?id=stpraw');
@@ -635,9 +680,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Odaberite zemlju"));
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Odaberite zemlju"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Odaberite zemlju"));
-
+$(".reg-submit #spnlossinvetsed").text('Trgovanje može dovesti do gubitka vašeg uloženog kapitala.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/sr/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/sr/tools/forex-calculators?id=margin-tab');
@@ -654,6 +699,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 }
                 else if ("en" == "zh") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/zh/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/zh/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/zh/start-trading/account-types?id=stpraw');
@@ -663,9 +710,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#lnkhere').text('更多。');
                     $('#btnfade').text('接受');
 
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("国家"));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("国家"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("国家"));
-
+$(".reg-submit #spnlossinvetsed").text('交易可能导致您损失部分或者全部资金');
                     $("a[itemid$='cb27517e-0091-6fac-9941-ff0000615f32']").css("display", "none");
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
@@ -687,6 +734,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 }
                 else if ("en" == "hi") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hi/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hi/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hi/start-trading/account-types?id=stpraw');
@@ -695,9 +744,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("चुनें..."));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("चुनें..."));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("चुनें..."));
-
+$(".reg-submit #spnlossinvetsed").text('ट्रेडिंग अपने पूंजी निवेश का एक नुकसान के लिए नेतृत्व कर सकता है');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hi/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hi/tools/forex-calculators?id=margin-tab');
@@ -713,6 +762,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hi/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "ms") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ms/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ms/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ms/start-trading/account-types?id=stpraw');
@@ -721,9 +772,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Pilih Negara"));
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Pilih Negara"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Pilih Negara"));
-
+$(".reg-submit #spnlossinvetsed").text('Dagangan boleh menyebabkan kerugian pada modal pelaburan anda.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ms/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ms/tools/forex-calculators?id=margin-tab');
@@ -739,6 +790,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ms/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "ru") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ru/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ru/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ru/start-trading/account-types?id=stpraw');
@@ -747,9 +800,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Выберите..."));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Выберите..."));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Выберите..."));
-
+$(".reg-submit #spnlossinvetsed").text('Торговля может привести к потери вашего инвестиционного капитала');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ru/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ru/tools/forex-calculators?id=margin-tab');
@@ -765,17 +818,19 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ru/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "fil-PH") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/start-trading/account-types?id=stpraw');
                     $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/start-trading/account-types?id=ecnpro');
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Babala sa Risk:</span>Ang Trading ay maaaring humantong sa pagkawala ng iyong puhunan.</em>');
- 
+
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Pumili ng Bansa"));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Pumili ng Bansa"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Pumili ng Bansa"));
-
+$(".reg-submit #spnlossinvetsed").text('Maaaring matalo ang iyong investment capital sa trading.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/tools/forex-calculators?id=margin-tab');
@@ -791,6 +846,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/fil-ph/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "el") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/el/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/el/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/el/start-trading/account-types?id=stpraw');
@@ -798,9 +855,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Προειδοποίηση ρίσκου:</span>Η πραγματοποίηση συναλλαγών μπορεί να οδηγήσει σε απώλεια του επενδυμένου σας κεφαλαίου.</em>');
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Επιλογή Χώρας"));
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Επιλογή Χώρας"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Επιλογή Χώρας"));
-
+$(".reg-submit #spnlossinvetsed").text('Οι συναλλαγές μπορούν να οδηγήσουν σε απώλειες του επενδυμένου κεφαλαίου σας.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/el/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/el/tools/forex-calculators?id=margin-tab');
@@ -816,17 +873,19 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/el/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "vi") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/start-trading/account-types?id=stpraw');
                     $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/start-trading/account-types?id=ecnpro');
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Cảnh báo Rủi ro:</span>Giao dịch có thể dẫn đến tổn thất vốn đầu tư của Quý khách</em>');
- 
+
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Quốc gia"));
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Quốc gia"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Quốc gia"));
-
+$(".reg-submit #spnlossinvetsed").text('Giao dịch có thể dẫn đến tổn thất vốn đầu tư của Bạn');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/tools/forex-calculators?id=margin-tab');
@@ -842,6 +901,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/vi/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "ko") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/start-trading/account-types?id=stpraw');
@@ -849,9 +910,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>위험 경고:</span> 트레이딩을 통해 투자자본을 잃을 수 있습니다.</em>');
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("국가 선택"));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("국가 선택"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("국가 선택"));
-
+$(".reg-submit #spnlossinvetsed").text('Maaaring matalo ang iyong investment capital sa trading.');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/tools/forex-calculators?id=margin-tab');
@@ -867,6 +928,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ko/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "ja") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
                     $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ja/start-trading/account-types?id=fixed');
                     $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ja/start-trading/account-types?id=floating');
                     $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/ja/start-trading/account-types?id=stpraw');
@@ -875,9 +938,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
 
                     //Select Country For Registration Forms
-                    $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("国を選ぶ"));
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("国を選ぶ"));
                     $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("国を選ぶ"));
-
+$(".reg-submit #spnlossinvetsed").text('トレーディングは投資資金を失うことになる場合があります。');
                     // StopLossTakeProfit  - Academy>Trader Tools
                     $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ja/tools/forex-calculators?id=profitloss-tab');
                     $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ja/tools/forex-calculators?id=margin-tab');
@@ -893,232 +956,251 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/ja/tools/marketing-material?id=rss');
                 }
                 else if ("en" == "pl-PL") {
-        $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=fixed');
-        $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=floating');
-        $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=stpraw');
-        $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=ecnpro');
-        $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Ostrzeżenie o ryzyku:</span>Handel może doprowadzić do utraty zainwestowanego kapitału.</em>');
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Ostrzeżenie o ryzyku:</span>Handel może doprowadzić do utraty zainwestowanego kapitału.</em>');
 
 
-        //Select Country For Registration Forms
-        $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wybierz Kraj"));
-        $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wybierz Kraj"));
-
-        // StopLossTakeProfit  - Academy>Trader Tools
-        $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=profitloss-tab');
-        $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=margin-tab');
-        $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=profit-tab');
-        $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=swap-tab');
-        $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=pip-tab');
-        $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=currencyconverter-tab');
-        $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=position-tab');
+                    //Select Country For Registration Forms
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wybierz Kraj"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Wybierz Kraj"));
+$(".reg-submit #spnlossinvetsed").text('Handlowanie może prowadzić do utraty zainwestowanego kapitału.');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/forex-calculators?id=position-tab');
 
                     // Partner Tools
-        $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/marketing-material?id=banner');
-        $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/marketing-material?id=widget');
-        $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/marketing-material?id=rss');
-    }
-    else if ("en" == "tr") {
-                 $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=fixed');
-                 $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=floating');
-                 $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=stpraw');
-                 $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=ecnpro');
-                 $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risk Uyarısı:</span> Yatırım yapmak yatırdığınız parayı kaybetmenize yol açabilir.</em>');
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/pl-pl/tools/marketing-material?id=rss');
+                }
+                else if ("en" == "tr") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risk Uyarısı:</span> Yatırım yapmak yatırdığınız parayı kaybetmenize yol açabilir.</em>');
 
 
-                 //Select Country For Registration Forms
-                 $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ülke seçin"));
-                 $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ülke seçin"));
+                    //Select Country For Registration Forms
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ülke seçin"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ülke seçin"));
+$(".reg-submit #spnlossinvetsed").text('Yatırım yapmak yatırdığınız parayı kaybetmenize yol açabilir.');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=position-tab');
 
-                 // StopLossTakeProfit  - Academy>Trader Tools
-                 $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=profitloss-tab');
-                 $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=margin-tab');
-                 $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=profit-tab');
-                 $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=swap-tab');
-                 $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=pip-tab');
-                 $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=currencyconverter-tab');
-                 $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/forex-calculators?id=position-tab');
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/marketing-material?id=rss');
+                }
+                else if ("en" == "az") {
 
-        // Partner Tools
-                 $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/marketing-material?id=banner');
-                 $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/marketing-material?id=widget');
-                 $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/tr/tools/marketing-material?id=rss');
-             }
-             else if ("en" == "az") {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risk barədə Xəbərdarlıq: </span>  Ticarət sizin sərmayə qoyduğunuz kapitalın itkisinə gətirib çıxara bilər.</em>');
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risk barədə Xəbərdarlıq: </span>  Ticarət sizin sərmayə qoyduğunuz kapitalın itkisinə gətirib çıxara bilər.</em>');
 
-                //Select Country For Registration Forms
-                $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ölkəni Seçin"));
-                $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ölkəni Seçin"));
+                    //Select Country For Registration Forms
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ölkəni Seçin"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Ölkəni Seçin"));
+$(".reg-submit #spnlossinvetsed").text('xəbərdarləq edilən treydinqlə məşğul olmaq sizin investiya kimi yatırdığınız kapitalın itirilməsinə gətirib çıxara bilər.');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=position-tab');
 
-                // StopLossTakeProfit  - Academy>Trader Tools
-                $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=profitloss-tab');
-                $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=margin-tab');
-                $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=profit-tab');
-                $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=swap-tab');
-                $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=pip-tab');
-                $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=currencyconverter-tab');
-                $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/forex-calculators?id=position-tab');
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/marketing-material?id=rss');
+                }
+                else if ("en" == "th") {
 
-                 // Partner Tools
-                $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/marketing-material?id=banner');
-                $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/marketing-material?id=widget');
-                $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/az/tools/marketing-material?id=rss');
-            }
-            else if ("en" == "th") {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>คำเตือนเกี่ยวกับความเสี่ยง:</span> การซื้อขายสามารถทำให้ท่านขาดทุนได้</em>');
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>คำเตือนเกี่ยวกับความเสี่ยง:</span> การซื้อขายสามารถทำให้ท่านขาดทุนได้</em>');
 
-                //Select Country For Registration Forms
-                $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
-                $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
+                    //Select Country For Registration Forms
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
+$(".reg-submit #spnlossinvetsed").text('การเทรดอาจนำไปสู่การสูญเสียเงินลงทุนของท่านได้');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=position-tab');
 
-                // StopLossTakeProfit  - Academy>Trader Tools
-                $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=profitloss-tab');
-                $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=margin-tab');
-                $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=profit-tab');
-                $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=swap-tab');
-                $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=pip-tab');
-                $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=currencyconverter-tab');
-                $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/forex-calculators?id=position-tab');
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/marketing-material?id=rss');
 
-                // Partner Tools
-                $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/marketing-material?id=banner');
-                $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/marketing-material?id=widget');
-                $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/th/tools/marketing-material?id=rss');
-            }
-            else if ("en" == "hu") {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Kockázati figyelmeztetés:</span>  A kereskedés során elveszítheti befektetett tőkéjét.</em>');
+                    //Dynamic Leverage
+                    $("a[itemid$='6f94517e-0091-6fac-9941-ff0000615f32']").css("display", "none");
+                }
+                else if ("en" == "hu") {
 
-                //Select Country For Registration Forms
-                $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("országot"));
-                $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("országot"));
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Kockázati figyelmeztetés:</span>  A kereskedés során elveszítheti befektetett tőkéjét.</em>');
 
-                // StopLossTakeProfit  - Academy>Trader Tools
-                $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=profitloss-tab');
-                $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=margin-tab');
-                $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=profit-tab');
-                $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=swap-tab');
-                $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=pip-tab');
-                $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=currencyconverter-tab');
-                $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=position-tab');
+                    //Select Country For Registration Forms
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("országot"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("országot"));
+$(".reg-submit #spnlossinvetsed").text('A kereskedés során elveszítheti befektetett tőkéjét!');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/forex-calculators?id=position-tab');
 
-                // Partner Tools
-                $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/marketing-material?id=banner');
-                $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/marketing-material?id=widget');
-                $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/marketing-material?id=rss');
-            }
-            else if ("en" == "id") {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Peringatan Risiko:</span>  Perdagangan dapat menyebabkan hilangnya modal yang Anda tanamkan.</em>');
- $("a[itemid$='cb27517e-0091-6fac-9941-ff0000615f32']").css("display", "none");
- 
-  $("a[itemid$='c4944c7e-0091-6fac-9941-ff0000615f32']").css("display", "none");
-   $("a[itemid$='59614f7e-0091-6fac-9941-ff0000615f32']").css("display", "none");
-   $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
-   $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/hu/tools/marketing-material?id=rss');
+                }
+                else if ("en" == "id") {
 
-   
-   
-   
-   
-                //Select Country For Registration Forms
-                $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Negara"));
-                $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Negara"));
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Peringatan Risiko:</span>  Perdagangan dapat menyebabkan hilangnya modal yang Anda tanamkan.</em>');
 
-                // StopLossTakeProfit  - Academy>Trader Tools
-                $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=profitloss-tab');
-                $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=margin-tab');
-                $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=profit-tab');
-                $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=swap-tab');
-                $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=pip-tab');
-                $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=currencyconverter-tab');
-                $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=position-tab');
+                    $("a[itemid$='cb27517e-0091-6fac-9941-ff0000615f32']").css("display", "none");
 
-                // Partner Tools
-                $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/marketing-material?id=banner');
-                $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/marketing-material?id=widget');
-                $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/marketing-material?id=rss');
-            }
-            else if ("en" == "it-IT") {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span> Avvertenze sui rischi:</span> il trading potrebbe portare a una perdita del capitale investito.</em>');
-                $("#spnlossinvetsed").text('il trading potrebbe portare a una perdita del capitale investito.');
+                    $("a[itemid$='c4944c7e-0091-6fac-9941-ff0000615f32']").css("display", "none");
+                    $("a[itemid$='59614f7e-0091-6fac-9941-ff0000615f32']").css("display", "none");
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").css("display", "none");
 
-                // StopLossTakeProfit  - Academy>Trader Tools
-                $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=profitloss-tab');
-                $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=margin-tab');
-                $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=profit-tab');
-                $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=swap-tab');
-                $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=pip-tab');
-                $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=currencyconverter-tab');
-                $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=position-tab');
+                    //Select Country For Registration Forms
+                  //  $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Negara"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Negara"));
+$(".reg-submit #spnlossinvetsed").text('Perdagangan dapat menyebabkan hilangnya modal yang Anda tanamkan.');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/forex-calculators?id=position-tab');
 
-                // Partner Tools
-                $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/marketing-material?id=banner');
-                $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/marketing-material?id=widget');
-                $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/marketing-material?id=rss');
-            }
-            else if ("en" == "cs") {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span> Upozornění na rizika:</span> Obchodování může mít za následek ztrátu investovaného kapitálu</em>');
-                $("#spnlossinvetsed").text('Obchodování může mít za následek ztrátu investovaného kapitálu');
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/id/tools/marketing-material?id=rss');
+                }
+                else if ("en" == "it-IT") {
 
-                // StopLossTakeProfit  - Academy>Trader Tools
-                $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=profitloss-tab');
-                $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=margin-tab');
-                $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=profit-tab');
-                $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=swap-tab');
-                $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=pip-tab');
-                $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=currencyconverter-tab');
-                $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=position-tab');
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span> Avvertenze sui rischi:</span> il trading potrebbe portare a una perdita del capitale investito.</em>');
+                    $("#spnlossinvetsed").text('il trading potrebbe portare a una perdita del capitale investito.');
+					$(".reg-submit #spnlossinvetsed").text('il trading potrebbe portare a una perdita del capitale investito.');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/forex-calculators?id=position-tab');
 
-                // Partner Tools
-                $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/marketing-material?id=banner');
-                $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/marketing-material?id=widget');
-                $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/marketing-material?id=rss');
-            }
-            else {
-                $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=fixed');
-                $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=floating');
-                $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=stpraw');
-                $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=ecnpro');
-                $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risk Warning:</span> Trading could lead to a loss of your invested capital.</em>');
-                //Select Country For Registration Forms
-                $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
-                $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
-            }
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/it-IT/tools/marketing-material?id=rss');
+                }
+                else if ("en" == "cs") {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span> Upozornění na rizika:</span> Obchodování může mít za následek ztrátu investovaného kapitálu</em>');
+                    $("#spnlossinvetsed").text('Obchodování může mít za následek ztrátu investovaného kapitálu');
+					$(".reg-submit #spnlossinvetsed").text('Obchodování může mít za následek ztrátu investovaného kapitálu');
+                    // StopLossTakeProfit  - Academy>Trader Tools
+                    $("a[itemid$='c92b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=profitloss-tab');
+                    $("a[itemid$='e62b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=margin-tab');
+                    $("a[itemid$='f22b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=profit-tab');
+                    $("a[itemid$='fe2b517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=swap-tab');
+                    $("a[itemid$='092c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=pip-tab');
+                    $("a[itemid$='142c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=currencyconverter-tab');
+                    $("a[itemid$='1e2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/forex-calculators?id=position-tab');
+
+                    // Partner Tools
+                    $("a[itemid$='382c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/marketing-material?id=banner');
+                    $("a[itemid$='422c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/marketing-material?id=widget');
+                    $("a[itemid$='4c2c517e-0091-6fac-9941-ff0000615f32']").attr('href', '/cs/tools/marketing-material?id=rss');
+                }
+                else {
+
+                    /*Change Url's For Fixed, Floating StpRaw and Ecnpro*/
+                    $("a[itemid$='7d6e507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=fixed');
+                    $("a[itemid$='136f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=floating');
+                    $("a[itemid$='4a6f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=stpraw');
+                    $("a[itemid$='546f507e-0091-6fac-9941-ff0000615f32']").attr('href', '/en/start-trading/account-types?id=ecnpro');
+                    $('#opendemoaccount').after('<br><br><em id="rskwarning"> <span>Risk Warning:</span> Trading could lead to a loss of your invested capital.</em>');
+                    //Select Country For Registration Forms
+                   // $("#header_C077_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
+                    $("#header_C020_ddlCountries option").eq(0).before($("<option selected='selected'></option>").val("").text("Country"));
+                }
             });
         </script>
 
         <script>
-            //Research & Analysis
+            /*Open Research & Analysis In New Tab*/
             jQuery(function () {
                 jQuery("a[itemid$='4ed54dd6-de79-4019-83b8-0e6dd5cd2aa7']").click(function (e) {
                     window.open('http://academy.acfx.com', '_blank');
 
                 });
             });
+            /*Onclick of logins button open In New Tab*/
             jQuery(function () {
                 $('#logins,#loginaccount').click(function (e) {
                     if ("en" == "zh") { window.open('http://myatlas.acfx.com//?ci=zh', '_blank'); }
@@ -1141,10 +1223,12 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     $('#qqbox').fadeOut();
                 });
 
-                $("#openliveaccount,#opennewaccount, #mobi-newaccount").click(function (e) {
+
+                /*Onclick of OpenLiveAccount button open form in corresponding language*/
+               <!--  $("#openliveaccount,#opennewaccount, #mobi-newaccount").click(function (e) {
                     if ("en" == "zh") {
                         window.location = "/zh/start-trading/accountforms?id=live";
-                    }
+                    } 
                     else if ("en" == "ar") {
                         window.location = "/ar/start-trading/accountforms?id=live";
                     }
@@ -1217,7 +1301,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                 });
 
 
-
+                /*Onclick of OpenDemoAccount button open form in corresponding language*/
 
                 $("#opendemoaccount").click(function (e) {
 
@@ -1294,10 +1378,10 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     }
                     else { window.location = "/start-trading/accountforms?id=demo"; }
 
-                });
+                });-->
 
 
-
+                /*Onclick of logo buttons open form in corresponding language*/
                 $("#mobiLogo,#innerred").click(function (e) {
                     if ("en" == "zh") {
                         window.location = "/zh/";
@@ -1374,6 +1458,8 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
                     else { window.location = "/en/"; }
 
                 });
+
+                /*Onclick of Spreads and Trading Conditions link open form in corresponding language*/
                 $("#Spreads and Trading Conditions").click(function (e) {
                     if ("en" == "zh") {
                         window.location = "";
@@ -1405,6 +1491,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
+                /*Onclick of deposit link open form in corresponding language*/
                 $("#deposit").click(function (e) {
                     if ("en" == "zh") {
                         window.location = "/zh/start-trading/deposit";
@@ -1463,6 +1550,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
+                /*Onclick of right side welcome links open form in corresponding language*/
                 $("#lblwelcomelink").click(function (e) {
                     if ("en" == "zh") {
 
@@ -1522,6 +1610,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
+                /*Onclick of right side redeposit links open form in corresponding language*/
                 $("#lblredepositlink").click(function (e) {
                     if ("en" == "zh") {
 
@@ -1581,7 +1670,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
-
+                /*Onclick of academy button open form in corresponding language in new tab*/
                 $("#btnacademy").click(function (e) {
                     if ("en" == "zh") {
 
@@ -1605,7 +1694,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
-
+                /*Onclick of faq links open form in corresponding language*/
                 $("#faq_").click(function (e) {
                     if ("en" == "zh") {
                         window.location = "/zh/help/frequently-asked-questions";
@@ -1679,6 +1768,7 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
+                /*Onclick of contactus links open form in corresponding language*/
                 $("#contactus_").click(function (e) {
                     if ("en" == "zh") {
                         window.location = "/zh/help/contact-us";
@@ -1762,243 +1852,41 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
 
                 });
 
-                $("#slide1").click(function () {
-                    if ("en" == "zh") {
-                        var Slide1url = "/zh/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else if ("en" == "ar") {
-                        var Slide1url = "/ar/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else if ("en" == "ru") {
-                        var Slide1url = "/ru/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else if ("en" == "hi") {
-                        var Slide1url = "/hi/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else if ("en" == "fa") {
-                        var Slide1url = "/fa/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else if ("en" == "fr") {
-                        var Slide1url = "";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else if ("en" == "sr") {
-                        var Slide1url = "/sr/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-                    else {
-                        var Slide1url = "/start-trading/home";
-                        $(location).attr('href', Slide1url);
-                    }
-
-
-                });
-
-
-                $("#slide2").click(function () {
-
-                    if ("en" == "zh") {
-                        var Slide2url = "/zh/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else if ("en" == "ar") {
-                        var Slide2url = "/ar/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else if ("en" == "ru") {
-                        var Slide2url = "/ru/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else if ("en" == "hi") {
-                        var Slide2url = "/hi/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else if ("en" == "fa") {
-                        var Slide2url = "/fa/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else if ("en" == "fr") {
-                        var Slide2url = "";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else if ("en" == "sr") {
-                        var Slide2url = "/sr/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-                    else {
-
-                        var Slide2url = "/start-trading/deposit";
-                        $(location).attr('href', Slide2url);
-                    }
-
-                });
-                $("#slide3").click(function () {
-                    if ("en" == "zh") {
-                        var Slide3url = "/zh/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else if ("en" == "ar") {
-                        var Slide3url = "/ar/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else if ("en" == "ru") {
-                        var Slide3url = "/ru/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else if ("en" == "hi") {
-                        var Slide3url = "/hi/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else if ("en" == "fa") {
-                        var Slide3url = "/fa/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else if ("en" == "fr") {
-                        var Slide3url = "";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else if ("en" == "sr") {
-                        var Slide3url = "/sr/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-                    else {
-
-                        var Slide3url = "/platforms/home";
-                        $(location).attr('href', Slide3url);
-                    }
-
-
-                });
-                $("#slide4").click(function () {
-                    if ("en" == "zh") {
-                        var Slide4url = "/zh/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else if ("en" == "ar") {
-                        var Slide4url = "/ar/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else if ("en" == "ru") {
-                        var Slide4url = "/ru/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else if ("en" == "hi") {
-                        var Slide4url = "/hi/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else if ("en" == "fa") {
-                        var Slide4url = "/fa/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else if ("en" == "fr") {
-                        var Slide4url = "";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else if ("en" == "sr") {
-                        var Slide4url = "/sr/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-                    else {
-                        var Slide4url = "/academy/home";
-                        $(location).attr('href', Slide4url);
-                    }
-
-                });
-                $("#slide5").click(function () {
-
-                    if ("en" == "zh") {
-                        var Slide5url = "/zh/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else if ("en" == "ar") {
-                        var Slide5url = "/ar/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else if ("en" == "ru") {
-                        var Slide5url = "/ru/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else if ("en" == "hi") {
-                        var Slide5url = "/hi/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else if ("en" == "fa") {
-                        var Slide5url = "/fa/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else if ("en" == "fr") {
-                        var Slide5url = "";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else if ("en" == "sr") {
-                        var Slide5url = "/sr/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                    else {
-                        var Slide5url = "/promotions";
-                        $(location).attr('href', Slide5url);
-                    }
-                });
-               
-			    $('.tw-icon').click(function (e) {
-
-
+                /*Disbaled twitter clickable for china language */
+                $('.tw-icon').click(function (e) {
                     if ("en" == "zh") {
                         $("a[id$='twitter-lnk']").attr('href', 'javascript: void(0)');
                     }
-                    
                 });
+
+                /*Disbaled facebook clickable for china language */
                 $('.fb-icon').click(function (e) {
-
-
-
                     if ("en" == "zh") {
                         $("a[id$='facebook-lnk']").attr('href', 'javascript: void(0)');
                     }
-                   
-                });
-               
-                $('.gplus').click(function (e) {
 
+                });
+
+                /*Disbaled footer google+ clickable for china language */
+                $('.gplus').click(function (e) {
                     if ("en" == "zh") {
                         $("a[id$='followus-lnk']").attr('href', 'javascript: void(0)');
                     }
-					 if ("en" == "zh") {
+                    if ("en" == "zh") {
                         $("a[id$='followus-lnkft']").attr('href', 'javascript: void(0)');
                     }
                 });
-                $('.sina-weibo footericonzh').click(function (e) {
 
-                    if ("en" == "zh") {
-                       // window.open('http://weibo.com/atlascapital', '_blank');
-                    }
-
-                });
-                $('.yoku footericonzh').click(function (e) {
-
-                    if ("en" == "zh") {
-                       // window.open('http://i.youku.com/atlascapital', '_blank');
-                    }
-
-                });
+                /* Hide some pages on inner pages load in navigation after 2 seconds interval*/
                 if ("en" == "zh") {
-
-
                     setTimeout(function () {
                         $(".nav-lnk010").remove();
                         $(".nav-lnk011").remove();
                         $(".nav-lnk21").remove();
                         $(".nav-lnk22").remove();
                     }, 2000);
-
-
-
                 }
+                /* Hide some pages on inner pages load in navigation after 2 seconds interval*/
                 if ("en" == "id") {
                     setTimeout(function () {
                         $(".nav-lnk21").remove();
@@ -2015,10 +1903,9 @@ $("a[itemid$='0128517e-0091-6fac-9941-ff0000615f32']").text("其他优惠活动"
     </div>
     <div id="wechat" class="wchatBg">
         <div class="qrBox">
-
             <div class="qrsmBox">
                 <h3>微信二维码扫描</h3>
-                <img src="/SiteImages/qrCode.jpg">
+                <img alt="qrCode" src="/SiteImages/qrCode.jpg">
                 <div class="redCross" onclick="HideWeChat()"></div>
             </div>
 
@@ -2040,6 +1927,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FD79DB90">
         
             
+
+            
             <script type="text/javascript">
                 function MyPopUpWin() {
                     var iMyWidth;
@@ -2053,6 +1942,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     win2.focus();
                 }
             </script>
+
+            
             <script type="text/javascript">
                 function GetACall(lng) {
                     var iMyWidth;
@@ -2066,15 +1957,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     var win2;
                     if (lng == "ja") {
 
-                        win2 = window.open("/" + lng + "/getacall", "Window2", "status=no,height=750,width=450,resizable=no,left=" + iMyWidth + ",top=" + iMyHeight + ",screenX=" + iMyWidth + ",screenY=" + iMyHeight + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no");
+                        win2 = window.open("/" + lng + "/getacall", "Window2", "status=no,height=490,width=430,resizable=no,left=" + iMyWidth + ",top=" + iMyHeight + ",screenX=" + iMyWidth + ",screenY=" + iMyHeight + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no");
 
                     }
-                    else { win2 = window.open("/getacall", "Window2", "status=no,height=750,width=450,resizable=no,left=" + iMyWidth + ",top=" + iMyHeight + ",screenX=" + iMyWidth + ",screenY=" + iMyHeight + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no"); }
+                    else { win2 = window.open("/getacall", "Window2", "status=no,height=490,width=430,resizable=no,left=" + iMyWidth + ",top=" + iMyHeight + ",screenX=" + iMyWidth + ",screenY=" + iMyHeight + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no"); }
 
                     win2.focus();
                 }
             </script>
             <script type="text/javascript">
+                
                 function GetAFeedback(lng) {
                     var iMyWidth;
                     var iMyHeight;
@@ -2088,6 +1980,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 }
             </script>
 
+            
             <script type="text/javascript">
                 function GetACalls() {
                     $('#qqbox').fadeIn('slow');
@@ -2100,20 +1993,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 }
             </script>
         
-
+        
         <div id="page-topbar">
             <div class="container">
                 <div class="row">
-
+                    
                     <div class="col-sm-3">
                         <div class="main-logo">
-
-                            <a id="mainLogo" class="" href="/en/"> <img src="../../acfx-logo.png"> </a>
+                            <a id="mainLogo" class="" href="/en/"> <img alt="acfx-logo" src="../../acfx-logo.png"> </a>
                         </div>
                     </div>
                     <div class="topbar-rightPart col-sm-9">
-
-
                         <div class="social-box headersb">
                             <!--search -->
                             <div class="search-wrapper">
@@ -2121,12 +2011,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <input type="submit" name="ctl00$Button1" value="Button" id="Button1" class="search-btn">
                                 <div class="clr"></div>
                             </div>
-
+                            
                             <div class="social-div">
                                 <a href="https://www.twitter.com/ACFX1" target="_blank" id="twitter-lnk" class="tw-icon"></a>
                                 <a href="https://www.facebook.com/AtlasCapitalFX" target="_blank" id="facebook-lnk" class="fb-icon"></a>
                                 <a href="https://www.linkedin.com/company/1404851?trk=tyah&amp;trkInfo=idx%3A2-1-3%2CtarId%3A1424074781790%2Ctas%3Aacfx" target="_blank" id="linkedin-lnk" class="in-icon"></a>
-                                <a href="http://academy.acfx.com" target="_blank" id="acfxacademy-lnk" class="blog-icon"></a>
+                                <!-- <a href="http://academy.acfx.com" target="_blank" id="acfxacademy-lnk" class="blog-icon"></a>-->
                                 <a href="https://plus.google.com/103611680103660983576" target="_blank" id="followus-lnk" class="gplus"></a>
                                 <a href="http://weibo.com/atlascapital" target="_blank" id="sina-weibo-lnk" class="sina-weibo footericonzh"></a>
                                 <a href="http://i.youku.com/atlascapital" target="_blank" id="yoku-lnk" class="yoku footericonzh"></a>
@@ -2176,17 +2066,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <span id="Label7" textar="الدردشة الحية" textel="LIVE ΛΟΓΑΡΙΑΣΜΟ" textaz="Funksional hesabı açmaq" textes="Abra una Cuenta Real" textid="Buka Akun Live" texthu="Éles számla nyitása" textfil-ph="MAGBUKAS NG LIVE ACCOUNT" textfr="compte reel" textja="ライブ口座を開設する" textpl="OTWÓRZ KONTO REAL" textcs="Založit živý účet" textko="실전계좌 개설" textru="Открыть Торговый Счет" textzh="开设真实账户" texttr="GERÇEK HESAP AÇ" textit-it="APRI UN CONTO LIVE" textth="เปิดบัญชีจริง" textde="Live Konto eröffnen" textms="BUKA AKAUN LIVE" texthi="खोलें लाइव खाता" textvi="MỞ TÀI KHOẢN LIVE" textfa="افتتاح حساب حقیقی" textsr="Otvorite Live Račun">Open LIVE Account</span></a>
 
                         </div>
-
-
-
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
+        
         <!--HEADER START HERE -->
         <div id="main-header">
 
@@ -2204,9 +2088,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             </div>
 
             <div id="main-nav">
+				<div class="new-mb-menu-block"> <!-- NEW DIV CREATED BY ISHAN 15-02-016-->
+					<div class="mb-buttons">
+					
+						<!--OPEN NEW ACCOUNT BTN GENERATED DYNAMICALLY-->
+						<a href="#" class="tryAc-btn" id="trydemoopendemoaccount">OPEN ACCOUNT</a>
+						<div style="clear:both"></div>
+					</div>
+					<span>Trading could lead to a loss of your<br>invested capital.</span>
+				</div>
                 
                 <div class="nav-wrapper">
-                    <a id="mobiLogo" class="m-logo"> <img src="../../map-tag.png" alt="ACFX Home"> </a>
+                    <a id="mobiLogo" class="m-logo"> <img alt="map-tag" src="../../map-tag.png"> </a>
+                    
                     <ul class="nav">
                         
 <li>
@@ -2297,7 +2191,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 				<li class="nav-lnk">
-				<a id="Spread Comparison" itemid="07b14c7e-0091-6fac-9941-ff0000615f32" href="/en/start-trading/spread-comparison">Spread Comparison</a>
+				<a id="Account Comparison" itemid="07b14c7e-0091-6fac-9941-ff0000615f32" href="/en/start-trading/spread-comparison">Account Comparison</a>
 				
 
 
@@ -2307,7 +2201,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 				</li><li class="nav-lnk">
-				<a id="VIP Services" itemid="5d6b507e-0091-6fac-9941-ff0000615f32" href="/en/start-trading/conditions/vip">VIP Services</a>
+				<a id="VIP Services" itemid="5d6b507e-0091-6fac-9941-ff0000615f32" href="/en/start-trading/vip">VIP Services</a>
 				
 
 
@@ -2317,7 +2211,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 				</li><li class="nav-lnk">
-				<a id="Dynamic Leverage" itemid="6f94517e-0091-6fac-9941-ff0000615f32" href="/en/start-trading/dynamic-leverage" style="display: block;">Dynamic Leverage</a>
+				<a id="Dynamic Leverage" itemid="6f94517e-0091-6fac-9941-ff0000615f32" href="/en/start-trading/dynamic-leverage">Dynamic Leverage</a>
 				
 				</li>
 				
@@ -2497,11 +2391,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 				</li><li class="nav-lnk">
-				<a id="Economic Calendar" itemid="cd05507e-0091-6fac-9941-ff0000615f32" href="/en/academy/economic-calendar">Economic Calendar</a>
-				
-
-
-				</li><li class="nav-lnk">
 				<a id="Forex Ebook for Newbies" itemid="26eb9d71-5e8f-4df1-92e1-a316705285b0" href="/en/academy/forex-ebook-for-newbies">Forex Ebook for Newbies</a>
 				
 
@@ -2527,37 +2416,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 				<li class="nav-lnk">
-				<a id="Stop loss/ Take Profit" itemid="c92b517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=profitloss-tab">Stop loss/ Take Profit</a>
+				<a id="Forex Calculators" itemid="99674f7e-0091-6fac-9941-ff0000615f32" href="/en/academy/forex-calculators">Forex Calculators</a>
 				
 
 
 				</li><li class="nav-lnk">
-				<a id="Margin" itemid="e62b517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=margin-tab">Margin</a>
-				
-
-
-				</li><li class="nav-lnk">
-				<a id="Profit" itemid="f22b517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=profit-tab">Profit</a>
-				
-
-
-				</li><li class="nav-lnk">
-				<a id="Swap" itemid="fe2b517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=swap-tab">Swap</a>
-				
-
-
-				</li><li class="nav-lnk">
-				<a id="Pip" itemid="092c517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=pip-tab">Pip</a>
-				
-
-
-				</li><li class="nav-lnk">
-				<a id="Currency Converter" itemid="142c517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=currencyconverter-tab">Currency Converter</a>
-				
-
-
-				</li><li class="nav-lnk">
-				<a id="Position Size" itemid="1e2c517e-0091-6fac-9941-ff0000615f32" href="/en/tools/forex-calculators?id=position-tab">Position Size</a>
+				<a id="Economic Calendar" itemid="cd05507e-0091-6fac-9941-ff0000615f32" href="/en/academy/economic-calendar">Economic Calendar</a>
 				
 				</li>
 				
@@ -2657,12 +2521,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 				</li><li class="nav-lnk">
-				<a id="The Founder" itemid="f6d39e03-3e1d-4b43-9165-79e781309d9c" href="/en/about-us/the-founder">The Founder</a>
+				<a id="Awards" itemid="27c831b7-640f-4a41-86a5-c126a470dfd9" href="/en/about-us/awards">Awards</a>
 				
 
 
 				</li><li class="nav-lnk">
-				<a id="Awards" itemid="27c831b7-640f-4a41-86a5-c126a470dfd9" href="/en/about-us/awards">Awards</a>
+				<a id="Media Center" itemid="8127527e-0091-6fac-9941-ff0000615f32" href="/en/about/media">Media Center</a>
 				
 				</li>
 				
@@ -2714,17 +2578,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	</div>
         
 
-
                     </li></ul>
-                    <a class="toggleMenu" href="javascript:;"><em>Menu</em><span></span></a>
+                    
+                    <a class="toggleMenu" href="javascript:;" id="sidebar-toggle" data-toggle="#form1"><em>Menu</em><span></span></a>
                     <a href="#" class="openAc-btn" id="mobi-newaccount">
                         <span id="lblOpenLiveAccount" textar="تسجيل حساب حقيقي" textel="LIVE ΛΟΓΑΡΙΑΣΜΟ" textaz="Funksional hesabı açmaq" textes="Abra una Cuenta Real" textid="Buka Akun Live" texthu="Éles számla nyitása" textfil-ph="MAGBUKAS NG LIVE ACCOUNT" textfr="ouvrir un compte reel" textja="ライブ口座を開設する" textpl="OTWÓRZ KONTO REAL" textcs="Založit živý účet" textko="실전계좌 개설" textru="Открыть Торговый Счет" textzh="开设真实账户" texttr="GERÇEK HESAP AÇ" textit-it="APRI UN CONTO LIVE" textth="เปิดบัญชีจริง" textde="Live Konto eröffnen" textms="BUKA AKAUN LIVE" texthi="खोलें लाइव खाता" textvi="MỞ TÀI KHOẢN LIVE" textfa="افتتاح حساب حقیقی" textsr="Otvorite Live Račun">Open LIVE Account</span>
                     </a>
-
-
                 </div>
             </div>
-            
         </div>
         <div class="" id="container_platform_new">
         </div>
@@ -2749,33 +2610,86 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             
 
         </div>
-        <!--Footer Top -->
+        <!-- start of footer -->
 
+        <!--First logo footer -->
         <div id="payment-info">
             <div class="logo-box">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 low-pay">
-                            <img src="/SiteImages/visa.png" alt="">
-                            <img src="/SiteImages/mastercard.png" alt="">
-                            <img src="/SiteImages/Skrill-Logo.png" alt="">
-                            <img src="/SiteImages/neteller.png" alt="">
-                            <img src="/SiteImages/cashU.png" alt="">
-                            <img src="/SiteImages/web-money.png" alt="">
-                            <img src="/SiteImages/wire-transfer.png" alt="">
-                            <img src="/SiteImages/dixi-Pay.png" alt="">
-                            <img src="/SiteImages/net-banx-logo.png" alt="">
-                            <img src="/SiteImages/Fasa-pay.png" alt="">
-                            <img src="/SiteImages/deposit-upay.png" alt="">
-                            <img src="/SiteImages/logo-perfect-mny.png" alt="">
-                            <img src="/SiteImages/Paysbuy_logo.png" alt="">
-                            <img src="/SiteImages/przelewy24-logo.png" alt="">
-                        </div>
+                        <div class="bx-wrapper" style="max-width: 1250px;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 18px;"><div class="col-sm-12 low-pay slider1" style="width: 1515%; position: relative; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);"><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/net-banx-logo.png" alt="Net-banx">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/Fasa-pay.png" alt="Fasa-pay">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/deposit-upay.png" alt="Deposit-upay">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/logo-perfect-mny.png" alt="Perfect-mny">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/Paysbuy_logo.png" alt="Paysbuy">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/przelewy24-logo.png" alt="Przelewy24">
+							</div> <!-- PAYMENT CAROUSEL BY ISHAN 18-03-016 -->
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/visa.png" alt="Visa">
+                            </div>
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+							<img src="/SiteImages/mastercard.png" alt="Mastercard">
+                            </div>
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/Skrill-Logo.png" alt="Skrill">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/neteller.png" alt="Neteller">
+							</div>	
+							<!--
+								<img src="/SiteImages/cashU.png" alt="CashU" />
+							-->
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/web-money.png" alt="Web-money">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/wire-transfer.png" alt="Wire-transfer">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/dixi-Pay.png" alt="Dixi-Pay">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/net-banx-logo.png" alt="Net-banx">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/Fasa-pay.png" alt="Fasa-pay">
+							</div>
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/deposit-upay.png" alt="Deposit-upay">
+							</div>
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/logo-perfect-mny.png" alt="Perfect-mny">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/Paysbuy_logo.png" alt="Paysbuy">
+							</div>	
+							<div class="slide" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/przelewy24-logo.png" alt="Przelewy24">
+							</div>
+                        <div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/visa.png" alt="Visa">
+                            </div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+							<img src="/SiteImages/mastercard.png" alt="Mastercard">
+                            </div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">
+								<img src="/SiteImages/Skrill-Logo.png" alt="Skrill">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/neteller.png" alt="Neteller">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/web-money.png" alt="Web-money">
+							</div><div class="slide bx-clone" style="float: left; list-style: none; position: relative; margin-right: 10px; width: 162.333px;">	
+								<img src="/SiteImages/wire-transfer.png" alt="Wire-transfer">
+							</div></div></div><div class="bx-controls bx-has-pager bx-has-controls-direction"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link active">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div><div class="bx-pager-item"><a href="" data-slide-index="3" class="bx-pager-link">4</a></div><div class="bx-pager-item"><a href="" data-slide-index="4" class="bx-pager-link">5</a></div></div><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>	<!-- PAYMENTS CAROUSEL ENDS HERE -->
                     </div>
                 </div>
             </div>
         </div>
-
+        <!--Second logo footer -->
         <div id="footer-top">
             <div class="logo-box">
                 <div class="container">
@@ -2783,24 +2697,24 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                         <div class="col-sm-12 low-imes">
                             <ul>
+                               <li>
+                                    <img alt="a-awards" src="/SiteImages/image-a-bull.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-a-bull.png"></li>
+                                    <img alt="b-awards" src="/SiteImages/image-b-awards.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-b-awards.png"></li>
+                                    <img alt="c-awards" src="/SiteImages/image-c-foraw.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-c-foraw.png"></li>
+                                    <img alt="d-awards" src="/SiteImages/image-d-awards.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-d-awards.png"></li>
+                                    <img alt="e-awards" src="/SiteImages/image-e-awards.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-e-awards.png"></li>
+                                    <img alt="f-awards" src="/SiteImages/image-f-awards.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-f-awards.png"></li>
+                                    <img alt="g-awards" src="/SiteImages/image-g-awards.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-g-awards.png"></li>
+                                    <img alt="h-awards" src="/SiteImages/image-h-awards.png"></li>
                                 <li>
-                                    <img src="/SiteImages/image-h-awards.png"></li>
-                                <li>
-                                    <img src="/SiteImages/image-i-awards.png"></li>
+                                    <img alt="i-awards" src="/SiteImages/image-i-awards.png"></li>
                             </ul>
                         </div>
                     </div>
@@ -2808,81 +2722,118 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             </div>
         </div>
         <div>
-
             
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="/scripts/combined_2C8F93D47BBF41D214974E31064BC250.js"></script>
 
 
 
-
-
         </div>
-   
+        <!--Third footer desc-->
         <div id="footer">
             <div class="container">
                 <div class="row">
-                    <div class="ext-icons-a">
-                        <div class="col-sm-7">
-                            <div class="fs-sec-a">
-                                <div class="ext-icBox">
-                                    <h4>CySec</h4>
-                                    <h5>Reg: 085/07</h5>
-                                </div>
-                                <div class="ext-icBox fofl-rt">
-                                    <h4>FCA</h4>
-                                    <h5>Reg: 480859</h5>
-                                </div>
-                            </div>
-                            <div class="fs-sec-b">
-                                <div class="ext-icBox">
-                                    <h4>BaFin</h4>
-                                    <h5>Reg: 121359</h5>
-                                </div>
-                                <div class="ext-icBox fofl-rt">
-                                    <h4>MiFID</h4>
-                                    <h5>Markets in Financial Instruments Direct</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-5 right-mv">
-                            <div class="fs-sec-c">
-                                <div class="ext-icBox">
-                                    <h4>I.C.D.</h4>
-                                    <h5>Investor Compensation Fund</h5>
-                                </div>
-                                <div class="ext-icBox fofl-rt">
-                                    <h4>
-                                        <img src="/SiteImages/deloitte.png"></h4>
-                                </div>
-                            </div>
-                            <div class="fs-sec-d verisign">
-                                <div class="ext-icBox fofl-rt">
-                                    <h4>
-                                        <img src="/SiteImages/verisign-logo.png"></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+					<div class="above-789"> <!-- DIV ADDED FOR FUNCTIONING OF CAROUSEL TO HIDE THIS SECTION -->
+						<div class="ext-icons-a">
+							<div class="col-sm-7">
+								<div class="fs-sec-a">
+									<div class="ext-icBox">
+										<h4>CySec</h4>
+										<h5>Reg: 085/07</h5>
+									</div>
+									<div class="ext-icBox fofl-rt">
+										<h4>FCA</h4>
+										<h5>Reg: 480859</h5>
+									</div>
+								</div>
+								<div class="fs-sec-b">
+									<div class="ext-icBox">
+										<h4>BaFin</h4>
+										<h5>Reg: 121359</h5>
+									</div>
+									<div class="ext-icBox fofl-rt">
+										<h4>MiFID</h4>
+										<h5>Markets in Financial Instruments Direct</h5>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-5 right-mv">
+								<div class="fs-sec-c">
+									<div class="ext-icBox">
+										<h4>I.C.D.</h4>
+										<h5>Investor Compensation Fund</h5>
+									</div>
+									<div class="ext-icBox fofl-rt">
+										<h4>
+											<img alt="deloitte" src="/SiteImages/deloitte.png"></h4>
+									</div>
+								</div>
+								<div class="fs-sec-d verisign">
+									<div class="ext-icBox fofl-rt">
+										<h4>
+											<img alt="verisign-logo" src="/SiteImages/verisign-logo.png"></h4>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div> <!-- HIDDEN DIV CLOSED -->
                     <!-- end of ext-icons -->
+					
+					<!-- NEW CROUSEL CODE FOR FOOTER STARTS -->
+					<div class="below-789">
+						<div class="bx-wrapper" style="max-width: 620px;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative;"><div class="bx-loading"></div><div class="slider1 ext-icons-a" style="width: 915%; position: relative;">
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>CySec</h4>
+								<h5>Reg: 085/07</h5>
+							</div>
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>FCA</h4>
+								<h5>Reg: 480859</h5>
+							</div>
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>BaFin</h4>
+								<h5>Reg: 121359</h5>
+							</div>
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>MiFID</h4>
+								<h6>Markets in Financial Instruments Direct</h6>
+							</div>
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>I.C.D.</h4>
+								<h6>Investor Compensation<br>Fund</h6>
+							</div>
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>
+									<img alt="deloitte" src="/SiteImages/deloitte.png" style="margin:auto">
+								</h4>
+							</div>					  
+							<div class="ext-icBox slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+								<h4>
+									<img alt="verisign-logo" src="/SiteImages/verisign-logo.png" style="margin:auto">
+								</h4>
+                            </div>	
+						</div></div><div class="bx-controls bx-has-pager bx-has-controls-direction"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div></div><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>
+					</div>
+					<!-- NEW CROUSEL CODE FOR FOOTER ENDS --->
                 </div>
                 <!-- end of row -->
             </div>
             <!-- end of container -->
             <div class="container">
                 <div class="row">
-                    <div class="ext-icons-b">
+                    <div class="ext-icons-b slider-border">
                         <div class="col-sm-4">
                             <div class="footImage">
                                 <a href="#">
-                                    <img src="/SiteImages/footer-logo-nw.jpg"></a>
+                                    <img alt="footer-logo" src="/SiteImages/footer-logo-nw.jpg"></a>
                             </div>
+                            <!-- Footer Social Icons -->
                             <div class="social-main">
                                 <div class="social-div">
                                     <a href="https://www.twitter.com/ACFX1" target="_blank" id="twitter-lnkft" class="tw-icon"></a>
                                     <a href="https://www.facebook.com/AtlasCapitalFX" target="_blank" id="facebook-lnkft" class="fb-icon"></a>
                                     <a href="https://www.linkedin.com/company/1404851?trk=tyah&amp;trkInfo=idx%3A2-1-3%2CtarId%3A1424074781790%2Ctas%3Aacfx" target="_blank" id="linkedin-lnkft" class="in-icon"></a>
-                                    <a href="http://academy.acfx.com" target="_blank" id="acfxacademy-lnkft" class="blog-icon"></a>
+                                    <!--<a href="http://academy.acfx.com" target="_blank" id="acfxacademy-lnkft" class="blog-icon"></a>-->
                                     <a href="https://plus.google.com/103611680103660983576" target="_blank" id="followus-lnkft" class="gplus"></a>
                                     <a href="http://weibo.com/atlascapital" target="_blank" id="sina-weibo-lnk" class="sina-weibo footericonzh ft"></a>
                                     <a href="http://i.youku.com/atlascapital" target="_blank" id="yoku-lnk" class="yoku footericonzh ft"></a>
@@ -2892,6 +2843,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </div>
                             <!-- end of social main box-->
                         </div>
+                        <!-- Footer Content Get From Resource Files -->
                         <div class="col-sm-8 dclr">
                             <p>
                                 <span id="footeritem1" textar="تحذير من المخاطر: تحمل عقود الفروق والصرف الأجنبي (الفوركس) التي يتم تداولها بحسب هامش درجة عالية من المخاطرة. وبالتالي، قد لا تكون مناسبة لجميع المستثمرين. ينبغي على المستثمرين ضمان فهمهم الكامل للمخاطر المرتبطة بالتداول في عقود الفروق والصرف الأجنبي ذات الرافعة المالية قبل اتخاذ قرار بالتداول. يحق للمستثمرين اختيار طلب المشورة المستقلة، وينبغي ألا يجازفوا بأكثر مما هم مستعدين لخسارته." text1ms="Amaran Risiko: CFD dan Foreign Exchange (FX) diniagakan pada margin yang mempunyai tahap risiko yang tinggi. Oleh itu ia mungkin tidak sesuai untuk kesemua pelabur. Pelabur hendaklah memastikan bahawa mereka benar-benar memahami risiko yang berkaitan dengan leveraj CFD dan dagangan FX sebelum memutuskan untuk berdagang kerana anda boleh kehilangan sebahagian atau kesemua modal yang dilaburkan. Para pelabur boleh memilih untuk mendapatkan nasihat peribadi bagi mengelakkan risiko kerugian pada modal yang dilaburkan." textaz="Risklər barədə xəbərdarlıq: Qiymət fərqinə görə bağlanılan müqavilələr və marjinal treydinq əsasında xarici valyuta əməliyyatları yüksək dərəcədə risklidir.  Beləliklə onlar bütün investorlar üçün münasib ola bilməz. İnvestorlar treydinqə başlamağı qərarlaşdırmadan öncə kreditlər hesabına maliyyələşən qiymət fərqinə görə bağlanılan müqavilələr və  xarici valyutada aparılan əməliyyatlar ilə əlaqəli riskləri tam başa düşdüklərinə əmin olmalıdırlar çünki onlar investiya olunmuş kapitalın bəzi hissəsini və ya hamısını itirə bilərlər. İnvestorlar müstəqil məsləhət ala bilərlər və itirməyə hazır olduqlarından artıq vəsaiti itirməklə risklə üzləşməməlidirlər." textes="Risk Warning: CFD’s and Foreign Exchange (FX) traded on margin carry a high degree of risk. As such they may not be suitable for all investors. Investors should ensure they fully understand the risks associated with leveraged CFD and FX trading before deciding to trade because you can lose some or all invested capital. Investors may choose to seek independent advice and should not risk more than they are prepared to lose." textid="Peringatan Risiko: CFD dan Forex yang diperdagangkan pada margin memiliki risiko tingkat tinggi. Oleh sebab itu, instrumen tersebut mungkin tidak sesuai untuk investor tertentu. Investor harus memastikan bahwa mereka sepenuhnya memahami risiko terkait perdagangan CFD dan Forex dengan leverage sebelum memutuskan untuk melakukan trading karena Anda dapat kehilangan sebagian atau seluruh modal yang ditanamkan. Investor dapat mencari saran independen dan sebaiknya tidak mengeluarkan modal lebih banyak dari apa yang dapat mereka tanggung apabila modal tersebut hilang." texthu="Kockázati figyelmeztetés: A fedezettel ellátott CFD-k és devizák (FX) nagyfokú kockázatot hordoznak, ezért nem minden befektető számára alkalmasak. A befektetőknek a kereskedésről hozott döntés előtt teljes mértékben meg kell ismerniük a tőkeáttételes CFD-vel és devizakereskedéssel járó kockázatokat, mivel befektetett tőkéjük egy részét vagy egészét elveszíthetik. A befektetőknek ajánljuk független tanácsadást igénybevételét, amennyiben szükséges. Nem ajánlott nagyobb összeg kockáztatása, mint amennyinek elvesztését megengedhetik maguknak." textfil-ph="Babala sa Risk: CFD’s at Foreign Exchange (FX) na tinetrade sa margin ay may dalang mataas na antas ng risk. At dahil ditto, hindi ito nababagay sa lahat ng imbestor. Ang mga imbestor ay maniguro na kanilang ganap na naiintindihan ang risks na kaagapay ng leveraged CFD at FX bago magdesisyong magtrade dahil maaaring matalo ang ilan o lahat ng capital. Ang imbestor ay maaaring humanap ng payo at hindi dapat i-risk ang mas marami kaysa sa handang ipatalo." textfr="Avertissement quant aux risques: Le trading des contrats de différence (CFD) et Forex comporte un niveau de risque élevé. Ils peuvent ne pas convenir à tous les investisseurs. Les investisseurs doivent pleinement comprendre le risque associé  au trading des CFD &amp; Forex, étant donné  que l’effet de levier peut tourner à votre avantage ou désavantage. En conséquence les CFD sont susceptibles de ne pas convenir à tous les investisseurs, car vous risquez de perdre tout le capital investi. Demandez si nécessaire des conseils indépendants et vous ne devriez pas risquer, plus que ce que vous pouvez perdre." textja="リスク警告証拠金でトレードされるCFD及び外国為替(FX)は高いリスクがあります。そのため、それは全ての投資家に適さない場合があります。投資家は、全投資資金から損失を出す場合があるため、トレードを行うと判断する前に、レバレッジのかかったCFDやFXのトレーディングに伴うリスクを十分に理解するようにすべきです。投資家は中立な助言を求めることにすることもでき、損失の受け入れられない以上のリスクを取るべきではありません。" textzh="风险提示:
@@ -2944,7 +2896,7 @@ Remarketing tags may not be associated with personally identifiable information 
 --------------------------------------------------->
     
 
-    <div id="googleanalytics" style="display: block;">
+    <div id="googleanalytics" style="margin-top: -35px; display: block;">
         <script type="text/javascript">
             /* <![CDATA[ */
             var google_conversion_id = 954873487;
@@ -2956,7 +2908,7 @@ Remarketing tags may not be associated with personally identifiable information 
         </script>
         <noscript>
             <div style="display: inline;">
-                <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/954873487/?value=0&amp;guid=ON&amp;script=0" />
+                <img height="1" width="1" style="border-style: none;" alt="googleads" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/954873487/?value=0&amp;guid=ON&amp;script=0" />
             </div>
         </noscript>
         <!-- Google Tag Manager -->
@@ -2990,14 +2942,373 @@ Remarketing tags may not be associated with personally identifiable information 
         </script>
         <noscript>
             <div style="display: inline;">
-                <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1051427203/?value=0&amp;guid=ON&amp;script=0" />
+                <img height="1" width="1" style="border-style: none;" alt="googleads" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1051427203/?value=0&amp;guid=ON&amp;script=0" />
             </div>
         </noscript>
 
+        <script type="text/javascript">
 
+            adroll_adv_id = "HMFH7BNMLRHFNMFV6UPWQO";
+
+            adroll_pix_id = "GEXHCIVADRHOHHGFPEDNXM";
+
+            (function () {
+
+                var _onload = function () {
+
+                    if (document.readyState && !/loaded|complete/.test(document.readyState)) { setTimeout(_onload, 10); return }
+
+                    if (!window.__adroll_loaded) { __adroll_loaded = true; setTimeout(_onload, 50); return }
+
+                    var scr = document.createElement("script");
+
+                    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+
+                    scr.setAttribute('async', 'true');
+
+                    scr.type = "text/javascript";
+
+                    scr.src = host + "/j/roundtrip.js";
+
+                    ((document.getElementsByTagName('head') || [null])[0] ||
+
+                        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+
+                };
+
+                if (window.addEventListener) { window.addEventListener('load', _onload, false); }
+
+                else { window.attachEvent('onload', _onload) }
+
+            }());
+
+        </script>
 
     </div>
     <!-- End Google Tag Manager -->
+	<!-- BX CAROUSEL SCRIPT FOR FOOTER BY ISHAN -->
+	<script type="text/javascript" src="/Custom/MaterPages/js/jquery.bxslider.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			// Carousel function for COMPANIES //
+			$('.below-789 .slider1').bxSlider({
+				slideWidth: 200,
+				minSlides: 2,
+				maxSlides: 3,
+				slideMargin: 10,
+				moveSlides: 3,
+				auto: true,
+			});
+			if ($(window).width() < 600 ){
+				$('.below-789 .slider1').bxSlider({
+				slideWidth: 200,
+				minSlides: 2,
+				maxSlides: 2,
+				slideMargin: 10,
+				moveSlides: 2,
+				auto: true,
+				});
+			}
+			// Carousel function for PAYMENTS //
+			$('#payment-info .slider1').bxSlider({
+			slideWidth: 200,
+			minSlides: 6,
+			maxSlides: 6,
+			slideMargin: 10,
+			moveSlides: 3,
+			auto: true,
+			});
+		});
+	</script>
+	<!-- 	<script>
+		$(document).ready(function(){
+		
+var getbodyclasss = $("body").attr("class");
+if($(window).width()<=790)
+{
+        if (getbodyclasss == "zh") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/zh/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "ar") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/ar/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "ru") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/ru/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "hi") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/hi/start-trading/accountform?id=live");
+        }
+        else if (getbodyclasss == "sr") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/sr/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "fa") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/fa/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "vi") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/vi/start-trading/accountforms?id=live");
+
+        } else if (getbodyclasss == "fil-PH") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/fil-ph/start-trading/accountforms?id=live");
+
+        }
+        else if (getbodyclasss == "el") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/el/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "es") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/es/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "fr") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/fr/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "ko") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/ko/start-trading/account-forms?id=live");
+        }
+        else if (getbodyclasss == "ja") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/ja/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "pl-PL") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/pl-pl/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "ms") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/ms/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "tr") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/tr/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "de") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/de/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "az") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/az/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "th") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/th/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "hu") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/hu/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "id") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/id/start-trading/accountforms?id=live");
+        }
+        else if (getbodyclasss == "it-IT") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/it-IT/start-trading/accountforms?id=live");
+        }
+
+        else if (getbodyclasss == "cs") {
+          $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/cs/start-trading/accountforms?id=live");
+        }
+        else { $("#sliderBox #openliveaccount,#openliveaccounts").attr("href", "/start-trading/accountforms?id=live"); }
+
+
+		
+		
+		
+		
+var getbodyclassd = $("body").attr("class");
+
+        if (getbodyclassd == "zh") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/zh/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "ar") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/ar/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "ru") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/ru/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "hi") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/hi/start-trading/accountform?id=demo");
+        }
+        else if (getbodyclassd == "sr") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/sr/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "fa") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/fa/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "vi") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/vi/start-trading/accountforms?id=demo");
+
+        } else if (getbodyclassd == "fil-PH") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/fil-ph/start-trading/accountforms?id=demo");
+
+        }
+        else if (getbodyclassd == "el") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/el/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "es") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/es/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "fr") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/fr/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "ko") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/ko/start-trading/account-forms?id=demo");
+        }
+        else if (getbodyclassd == "ja") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/ja/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "pl-PL") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/pl-pl/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "ms") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/ms/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "tr") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/tr/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "de") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/de/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "az") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/az/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "th") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/th/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "hu") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/hu/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "id") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/id/start-trading/accountforms?id=demo");
+        }
+        else if (getbodyclassd == "it-IT") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/it-IT/start-trading/accountforms?id=demo");
+        }
+
+        else if (getbodyclassd == "cs") {
+          $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/cs/start-trading/accountforms?id=demo");
+        }
+        else { $("#sliderBox #opendemoaccount,#trydemoopendemoaccount").attr("href", "/start-trading/accountforms?id=demo"); }
+
+}		});
+	</script>-->
+	<script>
+		$(document).ready(function(){
+var url_trydemo = $(location).attr('href');
+
+  if (url_trydemo.indexOf("/en/") != -1)
+  {
+  $('#trydemoopendemoaccount').html('OPEN ACCOUNT'); 
+  }  
+else if (url_trydemo.indexOf("/ar/") != -1)
+  {
+     
+$('#trydemoopendemoaccount').html('تسجيل حساب تجريبي');
+ } 
+else if (url_trydemo.indexOf("/fa/") != -1)
+   {
+    
+ $('#trydemoopendemoaccount').html('افتتاح حساب مجازی');
+ }
+
+else if (url_trydemo.indexOf("/de/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('DEMO-KONTO ERÖFFNEN');
+}
+
+else if (url_trydemo.indexOf("/fr/") != -1)
+ 
+  {
+$('#trydemoopendemoaccount').html('ouvrir un compte demo');
+}
+
+else if (url_trydemo.indexOf("/es/") != -1)
+ 
+  {
+$('#trydemoopendemoaccount').html('Abra una Cuenta Demo');
+}
+
+else if (url_trydemo.indexOf("/sr/") != -1)
+ 
+  {
+$('#trydemoopendemoaccount').html('Otvorite Demo Račun');
+}
+
+else if (url_trydemo.indexOf("/zh/") != -1)
+  {
+$('#trydemoopendemoaccount').html('开设模拟账户');
+}
+
+else if (url_trydemo.indexOf("/hi/") != -1)
+  {
+$('#trydemoopendemoaccount').html('खोलें डेमो खाता');
+}
+
+else if (url_trydemo.indexOf("/id/") != -1)
+  {
+$('#trydemoopendemoaccount').html('BUKA AKUN DEMO');
+}
+
+else if (url_trydemo.indexOf("/ms/") != -1)
+  {
+$('#trydemoopendemoaccount').html('BUKA AKAUN DEMO ');
+}
+
+else if (url_trydemo.indexOf("/ru/") != -1)
+  {
+$('#trydemoopendemoaccount').html('Открыть Демо-Счет');
+}
+
+else if (url_trydemo.indexOf("/el/") != -1)
+  {
+$('#trydemoopendemoaccount').html('DEMO ΛΟΓΑΡΙΑΣΜΟ');
+}
+
+else if (url_trydemo.indexOf("/vi/") != -1)
+  {
+$('#trydemoopendemoaccount').html('MỞ TÀI KHOẢN DEMO');
+}
+else if (url_trydemo.indexOf("/fil-ph/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('Magbukas ng Demo Account');
+}
+else if (url_trydemo.indexOf("/pl-pl/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('OTWÓRZ KONTO DEMO');
+}
+else if (url_trydemo.indexOf("/ko/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('모의계좌 개설');
+}
+else if (url_trydemo.indexOf("/ja/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('デモ口座を開設する');
+}
+else if (url_trydemo.indexOf("/az/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('DEMO HESAB AÇIN');
+}
+else if (url_trydemo.indexOf("/th/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('เปิดบัญชีเดโม');
+}
+else if (url_trydemo.indexOf("/tr/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('DEMO HESAP AÇ');
+}
+else if (url_trydemo.indexOf("/hu/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('DEMÓ SZÁMLA NYITÁSA');
+}
+else if (url_trydemo.indexOf("/it-it/") != -1)
+  {
+
+$('#trydemoopendemoaccount').html('APRI UN CONTO DEMO');
+}
+else if (url_trydemo.indexOf("/cs/") != -1)
+  {
+$('#trydemoopendemoaccount').html('ZALOŽIT DEMO ÚČET');
+}
+});
+	</script>
 
 
 </body></html>
