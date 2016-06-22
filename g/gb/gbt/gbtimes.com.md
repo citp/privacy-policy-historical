@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gbtimes.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224230114id_/http%3A//gbtimes.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbtimes.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622045225id_/http%3A//gbtimes.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | gbtimes.com
 
