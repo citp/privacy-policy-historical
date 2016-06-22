@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219155954id_/http%3A//www.tourneau.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622145706id_/http%3A//www.tourneau.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Tourneau Privacy Policy
 
-Last Updated: January 8, 2015
+Last Updated: April 18, 2016
 
 This Privacy Policy describes how Tourneau, LLC (“Tourneau,” “Company,” “we,” or “us”) collects, uses and shares information about you. This Privacy Policy applies to information we collect when you use [tourneau.com](http://www.tourneau.com/) and any other websites and mobile applications that post a link to this Privacy Policy, shop in our stores or otherwise interact with us as described below.
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our websites or sending you an email notification). If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our websites prior to the change becoming effective. We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+
+Intellectual Property Rights  
+California Transparency in Supply Chains Act Disclosure  
+
 
 #### Information You Provide To Us
 
@@ -171,6 +175,10 @@ Certain advertising networks and exchanges may participate in the Digital Advert
 #### Third Party Websites
 
 There may be hyperlinks on our websites or mobile applications to other websites or locations that are operated and controlled by third parties ("Third Party Websites"). These Third Party Websites may use their own cookies, web beacons and other technology to independently collect information about you. In addition, these Third Party Websites may solicit Personal Information from you. We make no representations regarding the policies or business practices of such Third Party Websites and encourage you to familiarize yourself with their privacy policies before providing them with your Personal Information.
+
+#### Intellectual Property Rights
+
+You acknowledge and agree that all copyright, designs, the "look and feel" of the Site, trademarks and all other intellectual property and material rights relating to the Content as herein described, including TOURNEAU Software and all HTML and other code contained in this Site, shall remain at all times vested in TOURNEAU and/or are the property of their respective owners. All such Content, including third party trademarks, designs and related intellectual property rights mentioned or displayed on this Site are protected by federal and state laws and regulations and international treaty provisions. You are permitted to use the Content only as expressly authorized by TOURNEAU and/or its third party licensors. Any reproduction or redistribution of the above listed Content is prohibited and may result in civil and criminal penalties. Violators will be prosecuted to the fullest extent permissible under applicable law. Without limiting the foregoing, copying and use of the above listed materials to any other server, location or support for publication, reproduction or distribution is expressly prohibited.
 
 #### Your California Privacy Rights
 
