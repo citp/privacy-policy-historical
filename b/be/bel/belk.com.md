@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117161312id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622102330id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - belk.com - Belk.com
 
@@ -160,7 +160,7 @@ Please specify that you would like a copy of 'Your Belk California Privacy Right
 
 For any questions regarding this Privacy Policy, please visit: [**Contact Us**](https://web.archive.org/AST/Misc/Belk_Stores/Customer_Service/Contact_Us.jsp) and select **Privacy Policy** from the drop down menu, then fill out the email form. Your questions/comments are very important to us. An acknowledgement of your email request will be sent within 1 business day. Please allow 3-5 business days for us to process your inquiry completely. 
 
-For further assistance, please call **Customer Service** at **[1-866-235-5443](tel:1-866-235-5443)** between 9am - 9pm (EST) Sunday - Saturday. Please note: We are closed (Eastern Time) December 24 from 6:00pm until 12:01am on December 26. 
+For further assistance, please call **Customer Service** at **[1-866-235-5443](tel:1-866-235-5443)**. You can find our current hours at the bottom of the page. Please note: We are closed December 24 from 6PM (ET) until 12:01AM (ET) on December 26. 
 
 **Changes to the belk.com Privacy Policy**
 
