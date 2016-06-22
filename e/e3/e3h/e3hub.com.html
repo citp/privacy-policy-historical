@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231034721id_/http%3A//hubswirl.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e3hub.com privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622220529id_/http%3A//hubswirl.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.-->
 
 <html><!--
 ################################################################################
@@ -7,8 +7,8 @@
 ################################################################################
 --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>HubSwirl - Help is here</title>
-<meta name="description" content="HubSwirl help pages- A new kind of social network that connects friends, colleagues and neighbours to a powerful network of people you know and trust. Network opportunities, market a talent, provide a service, buy and sell things, share a photo, plan an event, send money to a friend. Collaborate with your team, group, classmates, work, community, or local business. 
+<title>&nbsp;HubSwirl&nbsp; - Help is here</title>
+<meta name="description" content="&nbsp;HubSwirl&nbsp;help pages- A new kind of social network that connects friends, colleagues and neighbours to a powerful network of people you know and trust. Network opportunities, market a talent, provide a service, buy and sell things, share a photo, plan an event, send money to a friend. Collaborate with your team, group, classmates, work, community, or local business. 
  ">
 <meta name="keywords" content="auction, classifieds, Buy, sell, Sell books, sell your home, sell Jewelry, sell antiques.">
 <meta http-equiv="Content-Language" content="en-us">
@@ -16,6 +16,7 @@
 <meta name="author" content="RScript">
 <meta name="Copyright" content="hubswirl.com">
 <meta name="Publisher" content="hubswirl.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style style="text/css">
 
 .dcountstyle{ /*Example CSS to style count up output*/
@@ -93,6 +94,12 @@ dcountup.prototype.start=function(){
 	var result={days: dayfield, hours:hourfield, minutes:minutefield, seconds:secondfield}
 	this.oncountup(result)
 	setTimeout(function(){thisobj.start()}, 1000) //update results every second
+}
+
+function redirect_page(pagetoregirect){
+if(pagetoregirect!=""){
+document.location.href=pagetoregirect;
+}
 }
 
 </script>
@@ -415,9 +422,11 @@ background-position:110px 17px;
 <table border="0" bordercolor="#111111" width="100%" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
     <td align="center" class="topheader">
+
 		<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
 		<tbody><tr>
 			<td align="center">
+
 			<div id="welcomediv" style="margin-left: auto; margin-right: auto;width:auto;">
 			<table cellpadding="1" cellspacing="1" border="0" align="center">
 			<tbody><tr>
@@ -473,7 +482,15 @@ background-position:110px 17px;
 								
 								</td>
 								<td class="headerborder" id="menuheader" align="center" width="11%">
-								<div class="menudiv">Menu<img src="http://hubswirl.com/auction/images/header/arrow.png" border="0"></div>
+								<select id="he3hub_pages" class="site_text mySelectBoxClass" style="width:150px;height:40px;-webkit-appearance: none;" name="he3hub_pages" onchange="redirect_page(this.value)">
+										<option value="">Menu</option>
+										<option value="http://hubswirl.com/cgi-bin/Members?cmd=my_profile">Profile</option>
+										<option value="http://hubswirl.com/cgi-bin/MyHub">Network Activity</option>
+<option value="http://hubswirl.com/cgi-bin/MyHub?cmd=mycalendar">Calendar</option>
+<option value="http://hubswirl.com/cgi-bin/Connections?cmd=my_connections">Connections</option>
+<option value="http://hubswirl.com/cgi-bin/MyHub?cmd=userpages">My Groups/Hubsites</option>
+<option value="http://hubswirl.com/cgi-bin/Members">My Account</option>
+										</select>
 								
 								</td>
 							</tr>
@@ -492,30 +509,8 @@ background-position:110px 17px;
 <tr>
  <td align="center">
 		<table cellpadding="3" cellspacing="3" border="0" align="center" id="menudetails" class="menudisp menuborder" width="310px">
-	 	  <tbody><tr>
-				<td colspan="4" align="center" class="menubtitle" nowrap=""><a href="HubPages" class="orange_link">Hubsites</a> | 
-				
-			  
-			 <a href="Community" class="orange_link">Community</a> 
-			  
-			  
-			  | <a href="Blogs" class="orange_link">Blogs</a>
-| <a href="HubSwirl" class="orange_link">Swirls</a>
-				</td>
-			
-		  </tr>
-		  <tr>
-				<td class="menutitle" colspan="4">
-				<table cellpadding="0" cellspacing="0" border="0" width="100%">
-				<tbody><tr>
-					<td colspan="3" style="background-image:url('http://hubswirl.com/auction/images/seperator.png');background-repeat:repeat-x;width:100%;height:7px;float:left;*display: inline;">&nbsp;</td>
-					
-				</tr>
-				</tbody></table>
-				</td>
-				
-		  </tr>
-		  <tr>		<td>&nbsp;</td>
+	 	  
+		  <tbody><tr>		<td>&nbsp;</td>
 				<td class="menutext"><a href="http://hubswirl.com/cgi-bin/MyHub" class="header_link">Network Activity</a></td>
 				<td>&nbsp;</td>
 				<td class="menutext"><a href="http://hubswirl.com/cgi-bin/MyHub?cmd=mycalendar" class="header_link">My Calendar</a></td>
@@ -1110,7 +1105,7 @@ reasonable efforts to notify you of any material changes to this privacy policy.
 			 </tbody></table>
 		    </td>
 		</tr>
-		<tr><td align="center" class="copyright_text" valign="top">Use of this Web site constitutes acceptance of the HubSwirl User <a href="http://hubswirl.com/cgi-bin/Help?cmd=view&amp;pages=policies">Agreement</a> and <a href="http://hubswirl.com/cgi-bin/Help?cmd=view&amp;pages=privacy">Privacy Statement.</a> Designated trademarks, logos and brands are the property of their respective owners. <br>Copyright ©2015 HubSwirl Inc. All rights reserved.</td></tr>
+		<tr><td align="center" class="copyright_text" valign="top">Use of this Web site constitutes acceptance of the HubSwirl User <a href="http://hubswirl.com/cgi-bin/Help?cmd=view&amp;pages=policies">Agreement</a> and <a href="http://hubswirl.com/cgi-bin/Help?cmd=view&amp;pages=privacy">Privacy Statement.</a> Designated trademarks, logos and brands are the property of their respective owners. <br>Copyright ©2016 HubSwirl Inc. All rights reserved.</td></tr>
 	 </tbody></table>
 	</td>
       </tr>
@@ -1198,16 +1193,16 @@ jQuery('.mySelectBoxClass').customStyle(70);
 });
 </script>
 
-<iframe src="http://hubspin.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;" width="1px"></iframe>
-<iframe src="http://hubolu.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://hubswirl.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://hiretree.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://oemnetwork.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://www.hubspin.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://www.hubolu.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://www.hubswirl.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://www.hiretree.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
-<iframe src="http://www.oemnetwork.com/set_cookie.php?session=ih8tybxghv4hsxhuv2ddfu8md6cvtab3" style="display:none;"></iframe>
+<iframe src="http://hubspin.com/set_cookie.php?session=" style="display:none;" width="1px"></iframe>
+<iframe src="http://hubolu.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://hubswirl.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://hiretree.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://oemnetwork.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://www.hubspin.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://www.hubolu.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://www.hubswirl.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://www.hiretree.com/set_cookie.php?session=" style="display:none;"></iframe>
+<iframe src="http://www.oemnetwork.com/set_cookie.php?session=" style="display:none;"></iframe>
 
 
 </td></tr></tbody></table></center></body></html>
