@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsite.co.uk privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923161203id_/http%3A//www.carsite.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsite.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622193000id_/http%3A//www.carsite.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # CarSite - Privacy Policy
 
@@ -62,6 +62,7 @@ For the purpose of the Data Protection Act 1998, you acknowledge that in the cou
   * We use cookies that are strictly necessary to enable you to move around the site or to provide certain basic features. 
   * We use cookies to enhance the functionality of the website by storing your preferences, for example. 
   * We also use cookies to help us to improve the performance of our website to provide you with a better user experience. 
+  * We may use cookies to pre-populate forms and help you when contacting dealers about a vehicle you are interested in. 
 
 
 
