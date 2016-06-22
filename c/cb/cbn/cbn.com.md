@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021220416id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623001220id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
@@ -55,7 +55,7 @@ Some browsers incorporate a “Do Not Track” (DNT) feature that, when activate
 CBN does not endorse any product or service of a third-party advertiser, and has no responsibility for the fulfillment of any order placed, the performance of any product or service offered, or the actions or inactions of any such third-party advertiser.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20151021220416id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20160623001220id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -67,6 +67,9 @@ Examples of the information we collect and analyze include the Internet protocol
 
 **Information You Can Access**  
 Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters.
+
+**Push Notifications  
+**We send push notifications, the delivery of information from a software application to your mobile device through services such as Apple's Push Notification Service for iOS devices and Google's CD2M and Cloud Messaging for Android devices. Both services are standard features of these mobile device operating systems. CBN manages access, use and disclosure of your personal data that results from your use of these services.
 
   
 
