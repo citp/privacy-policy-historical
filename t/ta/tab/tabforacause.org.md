@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabforacause.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141343id_/http%3A//www.tabforacause.org/more/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabforacause.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622093852id_/http%3A//tab.gladly.io/more/privacy_policy) for the most accurate reproduction.*
 
 # Tab for a Cause
 
@@ -10,7 +10,7 @@ Your privacy is very important to us. At Tab for a Cause, we have a few fundamen
 
 
 
-Below is our privacy policy which incorporates these principles. This document is part of Tab for a Cause’s [Terms of Service](https://web.archive.org/more/terms), and by using tabforacause.org (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
+Below is our privacy policy which incorporates these principles. This document is part of Tab for a Cause’s [Terms of Service](https://web.archive.org/more/terms), and by using tab.gladly.io (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
 If you have any questions, please [contact the Tab for a Cause Team](https://web.archive.org/more/contact).
 
