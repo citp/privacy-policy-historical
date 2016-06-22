@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preventionpulse.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101080643id_/http%3A//preventionpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventionpulse.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623012624id_/http%3A//preventionpulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Prevention Pulse
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Prevention Pulse may collect and use Users personal information for the following purposes:
 
-  * \- To improve our Site  
+  * – To improve our Site  
 We may use feedback you provide to improve our products and services.
-  * \- To send periodic emails  
+  * – To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
