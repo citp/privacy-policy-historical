@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietavern.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220044851id_/http%3A//www.movietavern.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietavern.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622145102id_/http%3A//www.movietavern.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Movie Tavern
 
