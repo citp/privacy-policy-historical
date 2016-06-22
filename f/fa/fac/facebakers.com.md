@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebakers.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230041255id_/http%3A//www.socialbakers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebakers.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623003452id_/http%3A//www.socialbakers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Socialbakers
 
@@ -98,7 +98,7 @@ We use cookies so that the users can login into the system and fully navigate wi
 
 Additionally, we use cookies and other technologies (such as site measuring software and user experience software) to enhance your online experience and learn about how you use our services in order to improve the quality of the Services.
 
-Further information relating to the use of cookies is available on: <http://www.socialbakers.com/cookies>. 
+Further information relating to the use of cookies is available on: [http://www.socialbakers.com/cookies](https://www.socialbakers.com/cookies). 
 
   8. ## [Access to your data and your rights]()
 
@@ -152,11 +152,13 @@ your social media performance
 
 []() Premium content
 
+First login to your account
+
 [__Sign In](https://web.archive.org/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fprivacy-policy&ref=www-fe-modal) [Browse Socialbakers.com without sign in]()
 
 ## Just **$50** / Month
 
-For just $50/month, you’ll be the best-prepared marketer around. With **Socialbakers Premium Reports** , you get **exclusive access to deep breakdowns** of top content in your region, 2 weeks earlier than anyone else.
+Get membership rights to exclusive insights, in-depth social marketing tips, and hidden data for every reported country. Become a part of Socialbakers Premium Community!
 
 The content on this page is available only to signed-in users. Simply sign in to gain access to all materials in the Socialbakers Resources. Once signed-in, you will then be able to access and download various types of studies, reports, articles and other types of content for free.
 
