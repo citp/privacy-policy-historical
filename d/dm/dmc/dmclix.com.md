@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dmclix.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826063849id_/http%3A//diablomedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmclix.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622082259id_/http%3A//diablomedia.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy • Diablo MediaDiablo Media
+# Privacy Policy - Diablo Media
 
 **DIABLO MEDIA, LLC, and each of its related web sites (“Diablo Media”) Privacy Policy**
 
-Last Updated: November 5, 2012
+Last Updated: November 5, 2012
 
 This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. Diablo Media provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.
 
