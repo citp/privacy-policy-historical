@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the likelovequotes.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222101307id_/http%3A//likelovequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likelovequotes.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622140500id_/http%3A//likelovequotes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LikeLoveQuotes.com
+# Privacy Policy - LikeLoveQuotes.com
 
 **LikeLoveQuotes.Com Privacy Policy**
 
@@ -55,7 +55,3 @@ LikeLoveQuotes.Com in the future, may contain links to other sites on the Web. W
 **Who can I ask if I have any additional questions?**
 
 If you have any further questions or concerns about LikeLoveQuotes.Com’s privacy policies and use of personal information, please send them to info at LikeLoveQuotes dot Com
-
-### Got Something to Say! Comment below :-
-
-comments
