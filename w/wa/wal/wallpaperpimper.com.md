@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperpimper.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116061002id_/http%3A//www.wallpaperpimper.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperpimper.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622083009id_/http%3A//www.wallpaperpimper.com/info/privacy) for the most accurate reproduction.*
 
 # WallpaperPimper
 
