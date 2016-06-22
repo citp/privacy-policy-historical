@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204134945id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622061026id_/http%3A//zoom.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoom
 
@@ -53,7 +53,7 @@ Unsubscribing and Opting Out
 
 Each promotional email from Zoom or from third parties to whom Zoom has given your email address with your consent includes instructions on how you can unsubscribe from that category of mailing or from receiving email from that third party.
 
-You may also unsubscribe from Zoom's promotional emails by sending an email, including your name and email address to [unsubscribe@zoom.us](mailto:unsubscribe@zoom.us). 
+You may also unsubscribe from Zoom's promotional emails by sending an email, including your name and email address to [unsubscribe@zoom.us](mailto:unsubscribe@zoom.us).
 
 If you have additional questions regarding your disclosure choices and Zoom's policies regarding receipt of promotional email, you may contact Zoom by sending an email with your name and email address to [privacy@zoom.us](mailto:privacy@zoom.us).
 
