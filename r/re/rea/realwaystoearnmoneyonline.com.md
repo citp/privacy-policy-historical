@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realwaystoearnmoneyonline.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225044644id_/http%3A//realwaystoearnmoneyonline.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwaystoearnmoneyonline.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622202314id_/http%3A//realwaystoearnmoneyonline.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,13 @@ Last Updated: Monday, July 20, 2015
 
 At www.realwaystoearnmoneyonline.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.realwaystoearnmoneyonline.com and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.realwaystoearnmoneyonline.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.realwaystoearnmoneyonline.com does not use cookies.
 
-**DoubleClick DART Cookie**  
+ **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.realwaystoearnmoneyonline.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.realwaystoearnmoneyonline.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
@@ -34,7 +34,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
 
-**  
+ **  
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.realwaystoearnmoneyonline.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.**
 
 www.realwaystoearnmoneyonline.com has no access to or control over these cookies that are used by third-party advertisers.
@@ -43,6 +43,12 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Emails**
+ **Emails**
 
 Real Ways to Earn Money Online collects email addresses for the purpose of sending out weekly newsletters. Email addresses are NEVER sold or shared by Real Ways to Earn Money Online. Additionally, the service provider used, Mad Mimi, does not share or sell email addresses. You can see their **privacy policy here**.
+
+### Get Home-Based Job Leads in Your Inbox.
+
+20,000 other subscribers are getting blog updates and new work at home leads in their inbox every Saturday. Want to be one of them?
+
+I'll also send you my FREE eBooklet, **Top 10 Ways to Work at Home**.
