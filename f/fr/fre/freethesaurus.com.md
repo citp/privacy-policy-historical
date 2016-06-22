@@ -1,133 +1,78 @@
-> *The following text is extracted and transformed from the freethesaurus.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429130956id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethesaurus.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622075243id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy Statement
 
-## About Us
+**Farlex, Inc.  
+****Version 3.0  
+****Effective date: December 2004**
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). Domain Development Corporation allows the third party Domdex, Inc. to track users for the purpose of targeting advertisements. Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. The full text of Domdex's privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
+Farlex is a privately owned corporation operating in Pennsylvania, USA. Farlex is committed to providing you with excellent service for all of our products. We respect your right to privacy, and have developed this Privacy Statement to inform you about our privacy practices for the entire Farlex Web site and all its entities (which includes the farlex.com, thefreedictionary.com, thefreelibrary.com, tfd.com, and spellingcenter.com domains).
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+### Overview
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at Farlex are sensitive to the privacy concerns of our subscribers and other visitors to our Web sites. Whether you are a subscriber or a visitor to our site, we assure you that **we do not collect personal information from you unless you provide it to us**. If you are subscribing to our premium products, you may be asked to provide certain personal and credit card information. Please note, however, that we are asking for this information for the limited purposes of managing your subscription. You should also be assured that **we do not provide or sell information about our customers or site visitors to anyone** except our payment gateway provider for the sole purpose of credit card processing.
 
-## Dispute Resolution and Privacy Seals
+Please note that our sites contain links to other sites. Farlex is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
 
-We have no privacy seals or other assurance mechanisms. 
+## Information We Gather from You
 
-## Additional Information
+### Personal Information
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+We do not collect any personal information from a visitor to our sites unless that visitor explicitly and intentionally provides it. Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. If you are simply browsing our sites, we do not gather any personal information about you.
 
-## Data Collection
+### Subscriptions
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+If you choose to register for an account or subscribe to our premium products or services, we will request certain information from you such as your name, address, telephone number, e-mail address, and credit card information.
 
-* * *
+### Statistical Information about your Visit
 
-### Group "Basic information"
+When you visit our sites, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather pertains to your visit to our sites. We may monitor statistics such as how many people visit our sites, the user's IP address, which pages people visit on our sites, from which domains our visitors reach our sites, and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web sites.
 
-We collect the following information: 
+### Our Commitment to Children's Privacy
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
+### Use of Cookies
 
+A "cookie" is a small file that our websites send to your browser, which then is stored on your system. A user can use our web sites without cookies; however, our systems need cookies in order to identify you as a registered user or premium subscriber. By using our sites, products, or apps, you are granting us explicit consent to place cookies or other forms of tracking technology on your device. You may disable or delete the cookies at any time by accessing your browser's privacy settings. Many users prefer to use cookies in order to help them navigate a website as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender any personal or other information from your computer.
 
-This data will be used for the following purposes:
+To find more information about how to manage or delete cookies, consult the support page for your browser, such as: 
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+  * Microsoft Internet Explorer:  
+<http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies>
+  * Mozilla Firefox:  
+<https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+  * Google Chrome:  
+<https://support.google.com/chrome/answer/95647?hl=en>
+  * Safari:  
+<https://support.apple.com/kb/PH17191> or  
+<https://support.apple.com/kb/PH19214>
+  * Opera:  
+<http://www.opera.com/help/tutorials/security/cookies/>
 
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
+We may use third-party advertising companies, such as Google, Yahoo!, Microsoft) to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 
 
-This data will be used for the following purposes:
 
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
+### Disclosure by Law and Protection of Farlex
 
+If we are required by law to disclose certain information to local, state, federal, national or international law enforcement authorities, we will do so. We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, Farlex may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply our agreements.
 
+### Our Security Procedures
 
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
+We consider the protection of all personally identifiable information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss and misuse of any information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering of our premium products using the Secure Sockets Layer (SSL) protocol. We also have partnered with Authorize.net, one of the most reputable and experienced credit card payment companies in the World to handle our users' online transactions.
 
-The following explanation is provided for why this data is collected:
+### Facilitating the Support, Renewal, and Purchase of our Products and Services.
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
+We may use the information you submit to contact you to discuss the support, renewal, and purchase of our premium products and services. You may receive a communication directly from one of our customer care representatives. Please be assured that **we will keep the communications to a minimum and you will have an option to block any communication from us if your subscriptions are cancelled.**
 
-* * *
+Please be aware that we reserve the right to notify our subscribers of any information that affects the status of current subscriptions. You may not opt out of receiving information regarding the expiration and renewal of the subscriptions, account balances or the payment history and status.
 
-## Cookies
+### Changes to this Privacy Statement
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information, a prominent notice of the nature of the change will be posted on this Privacy Statement and the current subscribers will be notified as soon as possible.
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+### Contact Information
 
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+Our contact information is available at the [Farlex home page](http://www.farlex.com/).
