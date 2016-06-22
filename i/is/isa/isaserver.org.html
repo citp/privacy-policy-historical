@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the isaserver.org privacy policy that was archived on 2015-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151221102829id_/http%3A//www.isaserver.org/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the isaserver.org privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622133945id_/http%3A//www.isaserver.org/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="site-isa" lang="en" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,8 +12,8 @@
 	<title>Privacy Policy</title>
 
 
-	<link rel="stylesheet" href="http://cdn.techgenix.com/media/base.isa.20151204154556.css">
-	<script async="" src="http://track.netshelter.net/async/js/sites/isaserver.org-async.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.techgenix.com/static/js/head-script.js"></script>
+	<link rel="stylesheet" href="http://cdn.techgenix.com/media/base.isa.20160219172846.css">
+	<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.techgenix.com/static/js/head-script.js"></script>
 	<!--[if lt IE 9]>
 		<script src="http://cdn.techgenix.com/static/js/IE9.js"></script>
 	<![endif]-->
@@ -26,7 +26,8 @@
 	
 
 	
-	<script type="text/javascript">
+		
+		<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-313036-1']);
 		_gaq.push(['_trackPageview']);
@@ -54,7 +55,8 @@
 			} catch(err){}
 			return true;
 		}
-	</script>
+		</script>
+		
 	
 
 
@@ -112,6 +114,15 @@
 	googletag.enableServices();
 });
 </script>
+
+
+
+
+	
+		<script type="text/javascript" id="nsgpt" data-channel="general" src="//cdn.nsstatic.net/ns/isaserver.org.js" async="true"></script>
+	
+
+
 
 </head>
 
@@ -314,18 +325,6 @@
 	</div>
 
 	
-		<!-- p>&nbsp;</p>
-		<p>&nbsp;</p>
-		< !-- ISASERVER.ORG/stories6 -- >
-		<script type="text/javascript">
-		  var ord = window.ord || Math.floor(Math.random() * 1e16);
-		  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N8659385/adj/ISASERVER.ORG/stories6;sz=600x300;ord=' + ord + '?"><\/script>');
-		</script>
-		<noscript>
-		<a href="http://ad.doubleclick.net/N8659385/jump/ISASERVER.ORG/stories6;sz=600x300;ord=123456789?">
-			<img src="http://ad.doubleclick.net/N8659385/ad/ISASERVER.ORG/stories6;sz=600x300;ord=123456789?" />
-		</a>
-		</noscript -->
 	
 
 
@@ -360,7 +359,7 @@
 	</div>
 
 	<div class="text panel-body">
-		<form id="subscribe-form" class="form-inline" role="form" action="http://www.techgenix.com/newsletter/subscribe.aspx?Task=Join" method="POST">
+		<form id="subscribe-form" class="form-inline" role="form" action="http://newsletter.techgenix.com/newsletter/subscribe.aspx?Task=Join" method="POST">
 			<input type="hidden" name="JoinType" value="Check">
 			<input type="hidden" name="SID" value="{D67B20E7-F97D-4537-AFD6-90940C9D0FED}">
 			<input type="hidden" name="DeliveryFormat" value="HTML">
@@ -392,6 +391,10 @@
 		</form>
 	</div>
 </div>
+
+
+
+
 
 
 	
@@ -973,7 +976,7 @@
 	    
 		ISAserver.org is in no way affiliated with Microsoft Corp.
 		<br>
-		Copyright © 2015, <a href="http://www.techgenix.com/">TechGenix.com</a>. All rights reserved.
+		Copyright © 2016, <a href="http://www.techgenix.com/">TechGenix.com</a>. All rights reserved.
 		Please read our <a href="/pages/privacy.html">Privacy Policy</a> and <a href="/pages/terms.html">Terms &amp; Conditions</a>.
 	    
 	</p>
@@ -984,17 +987,48 @@
 <script src="http://cdn.techgenix.com/static/js/jquery-1.8.2.min.js"></script>
 <script src="http://cdn.techgenix.com/static/js/jquery.modal.min.js"></script>
 <script src="http://cdn.techgenix.com/static/js/jquery.jscroll.min.js"></script>
+<script src="http://cdn.techgenix.com/static/js/js.cookie.js"></script>
 <script src="http://cdn.techgenix.com/static/js/plugins.js"></script>
 
-
-
+<script type="text/javascript" src="//www.gfi.com/template/js/geoip_js.asp"></script>
+<script type="text/javascript" src="//www.gfi.com/blog/geo_class-tg.js"></script>
 <script type="text/javascript">
+$('.ad-modal').on($.modal.BEFORE_OPEN, function(event, modal) {
+	modal.options['escapeClose'] = false;
+	modal.options['clickClose'] = false;
+});
+
+setTimeout(function(){
+	if (! Cookies.get('newsletter-popup')) {
+		$('#subscribe-modal').modal("show");
+	}
+}, 40000);
+
+</script>
+
+
+
+<!-- script type="text/javascript">
 (function() {
     var nstrack = document.createElement("script"), el_nstrack = document.getElementsByTagName("script")[0]; nstrack.async = true;
     nstrack.src = "http://track.netshelter.net/async/js/sites/isaserver.org-async.js";
     el_nstrack.parentNode.insertBefore(nstrack, el_nstrack);
   })();
-</script>
+</script -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
