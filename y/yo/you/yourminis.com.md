@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052741id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622115638id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
 
 # AOL Privacy
 
