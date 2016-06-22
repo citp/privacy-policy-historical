@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080739id_/http%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622192057id_/http%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CatholicMatch.com
 
-###### **Last Updated On:** June 2nd, 2015
+###### **Last Updated On:** January 28th, 2016
 
 The CatholicMatch Privacy Policy covers how CatholicMatch treats personal information that is obtained from its users. Personal information is defined as that which personally identifies you. Examples included, but are not limited to, your name, address, e-mail address, phone number and other information not readily available to the general public. This policy applies strictly to CatholicMatch and not to any other associated firm or person whom CatholicMatch does not control.
 
@@ -56,4 +56,4 @@ If we change our privacy policy, we will notify our members in some form. Our me
 
 **10\. Contacting CatholicMatch**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact the [help desk](https://www.catholicmatch.com/institute/help.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact the [help desk](https://catholicmatch.zendesk.com/hc/en-us/requests/new).
