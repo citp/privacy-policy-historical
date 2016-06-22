@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer-car.eu privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005025605id_/http%3A//www.pioneer-car.eu/eur/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer-car.eu privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622214011id_/http%3A//www.pioneer-car.eu/eur/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer
 
@@ -8,17 +8,17 @@ Your privacy is important to PIONEER EUROPE NV and its national sales subsidiari
 
 This privacy notice applies to following websites :
 
-[www.pioneer-car.eu](http://www.pioneer-car.eu/)  
-[www.pioneer.eu](http://www.pioneer.eu/) [www.pioneer.at](http://www.pioneer.at/) [www.pioneer.be](http://www.pioneer.be/) [www.pioneer.ch](http://www.pioneer-car.eu/eur/www.pioneer.ch)  
-[www.pioneer.de](http://www.pioneer.de/) [www.pioneer.dk](http://www.pioneer.dk/) [www.pioneer.es](http://www.pioneer.es/) [www.pioneer.fi](https://www.pioneer.fi/)  
-[www.pioneer.fr](http://www.pioneer.fr/) [www.pioneer.it](http://www.pioneer.it/) [www.pioneer.nl](http://www.pioneer.nl/) [www.pioneer.no](https://www.pioneer.no/)  
-[www.pioneer.pt](http://www.pioneer.pt/) [www.pioneer-rus.ru](http://www.pioneer-rus.ru/) [www.pioneer.se](http://www.pioneer.se/) [www.pioneer.co.uk](http://www.pioneer.co.uk/)  
-[www.ba.pioneer.eu](http://www.ba.pioneer.eu/) [www.bg.pioneer.eu](http://www.bg.pioneer.eu/) [www.pioneer.com.cy](http://www.pioneer.com.cy/) [http://www.pioneer.eu/cyn](http://http//www.pioneer.eu/cyn)  
-[www.cz.pioneer.eu](http://www.cz.pioneer.eu/) [www.pioneer.gr](http://www.pioneer.gr/) [www.hr.pioneer.eu](http://www.hr.pioneer.eu/) [www.hu.pioneer.eu](http://www.hu.pioneer.eu/)  
-[www.ie.pioneer.eu](http://www.ie.pioneer.eu/) [www.mk.pioneer.eu](http://www.mk.pioneer.eu/) [www.pioneer.com.mt](http://www.pioneer.com.mt/) [www.ro.pioneer.eu](http://www.ro.pioneer.eu/)  
-[www.rs.pioneer.eu](http://www.rs.pioneer.eu/) [www.pioneer.si](http://www.pioneer.si/) [www.sk.pioneer.eu](http://www.sk.pioneer.eu/) [www.pioneer.com.tr](http://www.pioneer-car.eu/eur/www.pioneer.com.tr)  
-[www.pioneerdj.com](http://www.pioneerdj.com/) [secure.pioneer.eu](http://secure.pioneer.eu/)
-
+[www.pioneer-car.eu/eur/](http://www.pioneer-car.eu/eur/) | [www.pioneer.at](http://www.pioneer.at/) | [www.pioneer-car.eu/be](http://www.pioneer-car.eu/be) | [www.pioneer.ch](http://www.pioneer.ch/)  
+---|---|---|---  
+[www.pioneer-car.eu/de](http://www.pioneer-car.eu/de) | [www.pioneer-car.eu/dk](http://www.pioneer-car.eu/dk) | [www.pioneer-car.eu/es](http://www.pioneer-car.eu/es) | [www.pioneer.fi](http://www.pioneer.fi/)  
+[www.pioneer-car.eu/fr](http://www.pioneer-car.eu/fr) | [www.pioneer-car.eu/it](http://www.pioneer-car.eu/it) | [www.pioneer-car.eu/nl](http://www.pioneer-car.eu/nl) | [www.pioneer-car.eu/no](http://www.pioneer-car.eu/no)  
+[www.pioneer-car.eu/pt](http://www.pioneer-car.eu/pt) | [www.pioneer-car.eu/ru](http://www.pioneer-car.eu/ru) | [www.pioneer-car.eu/se](http://www.pioneer-car.eu/se) | [www.pioneer-car.eu/uk](http://www.pioneer-car.eu/uk)  
+[www.ba.pioneer.eu](http://www.ba.pioneer.eu/) | [www.bg.pioneer.eu](http://www.bg.pioneer.eu/) | [www.pioneer.com.cy](http://www.pioneer.com.cy/) | [www.pioneer-ncy.com](http://www.pioneer-ncy.com/)  
+[www.cz.pioneer.eu](http://www.cz.pioneer.eu/) | [www.pioneer.gr](http://www.pioneer.gr/) | [www.hr.pioneer.eu](http://www.hr.pioneer.eu/) | [www.hu.pioneer.eu](http://www.hu.pioneer.eu/)  
+[www.ie.pioneer.eu](http://www.ie.pioneer.eu/) | [www.mk.pioneer.eu](http://www.mk.pioneer.eu/) | [www.pioneer.com.mt](http://www.pioneer.com.mt/) | [www.ro.pioneer.eu](http://www.ro.pioneer.eu/)  
+[www.rs.pioneer.eu](http://www.rs.pioneer.eu/) | [www.pioneer.si](http://www.pioneer.si/) | [www.sk.pioneer.eu](http://www.sk.pioneer.eu/) | [www.pioneer.com.tr](http://www.pioneer.com.tr/)  
+[www.pioneerdj.com](http://www.pioneerdj.com/) | secure.pioneer.eu  
+  
 Your use of these websites implies your agreement and acceptance of the clauses of our Privacy Policy. If this is not the case, then we request you not to provide us with any personal information.
 
 **1\. What personal information do we collect?**
