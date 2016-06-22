@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205213338id_/http%3A//www.postergully.com/pages/privacy-policy-postergully) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622065043id_/http%3A//www.postergully.com/pages/privacy-policy-postergully) for the most accurate reproduction.*
 
 # Privacy Policy + Terms of Use | PosterGully
 
-Welcome to PosterGully.com! By using the website, you agree to be bound by these terms and conditions. Please read them carefully.
+Welcome to PosterGully.com! By using the website to browse, shop and join as a freelance artist/designer/contributor, you agree to be bound by these terms and conditions. Please read them carefully.
 
 ## **    ** **The Quick Read Version**
 
@@ -58,7 +58,7 @@ The website content at PosterGully.com is our property or the property of our co
 
 **Trademarks**
 
-PosterGullyTM is Trademark of PosterGully.com. Certain graphics, logos, page headers, button icons, scripts, and service names are trademarks, service marks, or trade dress of our company or our affiliated companies and may not be used for any commercial or other purposes without our prior written consent. All other trademarks and service marks not owned by PosterGully.com that appear on the website are the property of their respective owners and may or may not be used without their prior written consent.
+Certain graphics, logos, page headers, button icons, scripts, and service names are trademarks, service marks, or trade dress of our company or our affiliated companies and may not be used for any commercial or other purposes without our prior written consent. All other trademarks and service marks not owned by PosterGully.com that appear on the website are the property of their respective owners and may or may not be used without their prior written consent.
 
 **Product Descriptions**
 
@@ -87,6 +87,8 @@ In Cash On Delivery, you will have to pay the order amount to our courier partne
 **Intellectual Property and Publicity Rights  **
 
 By submitting artwork to PosterGully, you grant PosterGully a non-exclusive, worldwide, sub-licenseable and transferable license to use, reproduce, distribute, prepare derivative works of and display the content of such listings in connection with PosterGully's (and its successors' and affiliates') services and business, including without limitation for promoting and redistributing part or all of the PosterGully site (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each user of the PosterGully site a non-exclusive license to access your content through the site, and to use, reproduce, distribute, and display such content as permitted through the functionality of the site and under User Agreement. 
+
+By joining the platform as an artist/designer/contributor you are not under employment of Merchbay Products Pvt. Ltd. at any given position or time. The contributors are free to join the platform and delete their accounts anytime.
 
 **Putting artwork/"images as products" on the PosterGully.com website.  PosterGully ( "PosterGully.com",”PosterGully”, "we", "us", or "our") & Contributors( "You", "Your")**
 
@@ -129,18 +131,14 @@ a statement by you, made under penalty of perjury, that:
 
 For complaints, please mail to  **legal@postergully.com with subject line "Notice and Takedown Complaint - Takedown URL"**
 
-Additionally, in certain circumstances, PosterGully may suspend or terminate contributors who in our opinion infringe the copyrights, trademarks, publicity rights or other rights of others purposely instantly. 
+Additionally, in certain circumstances, PosterGully may suspend or terminate contributors who in our opinion infringe the copyrights, trademarks, publicity rights or other rights of others purposely instantly. All pending payments will be void with immediate effect in a situation where a takedown occurs. 
 
 _By visiting this site and/or contributing artwork to this site, you agree that this site is created and controlled by PosterGully™ in New Delhi, India; as such the laws of India shall apply; courts in New Delhi shall have jurisdiction in respect of all the terms, conditions and disclaimers._
 
 _We reserve the right to make changes to our site, policies, and these Terms of Use at any time and in our sole discretion; therefore, you should review our policies, terms, and conditions each time you visit the website. Your continued use of the website after we make any such changes constitutes your binding acceptance of those changes. If any of the terms or conditions herein shall be deemed invalid, void, or for any reason unenforceable, that term or condition shall be deemed severable and shall not affect the validity and  enforce-ability of any remaining term or condition._
 
-If you ever have any questions regarding our privacy policy please contact us at [help@postergully.com](mailto:requests@postergully.com) or call us at 011-40502860
+If you ever have any questions regarding our privacy policy please contact us at [help@postergully.com](mailto:requests@postergully.com) or call us at  **011 - 65688555**
 
 **Cheers,**
 
 **PosterGully Team**
-
-**Feels good to be loved!**
-
-**13-11-14**
