@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthherbs365.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222011323id_/http%3A//healthherbs365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthherbs365.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622032233id_/http%3A//healthherbs365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Health Herbs365
+# Privacy policy - Health Herbs 365
 
 Privacy Policy for [Health Herbs365](http://www.healthherbs365.com/ "Healthy Food House")
 
