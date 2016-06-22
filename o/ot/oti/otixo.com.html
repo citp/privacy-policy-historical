@@ -1,478 +1,398 @@
-<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2015-07-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150706165231id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622143121id_/http%3A//www.otixo.com/en/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js svg"><head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>Otixo: Privacy Policy</title>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!-- WordPress header --><head><meta name="google-site-verification" content="dIMdNdH2TIf_PPhyBLFN5mXBoj5HTjnk93WLj0ubWCQ">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+	<title>Otixo: Organize, Share and Encrypt Files across Clouds - Online Privacy Policy</title>
+
+	<!-- Startuply favicon -->
 	
-		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="manwriting_regular_macroman/stylesheet.css" type="text/css" charset="utf-8">
-
-	<link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/960.css">
-	<link rel="stylesheet" href="css/otixo_website.css?952">
-	<link rel="stylesheet" href="css/otixo_website_v2.css?472">
-	<link rel="stylesheet" href="css/header_footer_highlight.css?130">
-
-	<!--[if lte IE 8]>
-		<link rel="stylesheet" href="css/otixo_website_v2_ie8.css" />
-	<![endif]-->
-	
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-	<script type="text/javascript" src="./js/modernizr.js"></script>
-	<script type="text/javascript" src="./js/jquery.simpletip.js"></script>
-	<script type="text/javascript" src="./js/jquery.scrollTo-min.js"></script>
-	
-	<!-- Icomoon.io -->
-	<link rel="stylesheet" href="css/icomoon.css">
-	<!--[if lte IE 7]><script src="js/lte-ie7.js"></script><![endif]-->
-	
-	<!-- Google Analytics script -->
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-18269368-3']);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-	<!-- / Google Analytics script -->
-	
-	<script type="text/javascript">
-		var appUrl = "https://app.otixo.com/";
-	</script>
-	
-	<script type="text/javascript" charset="utf-8">
-		
-		$(document).ready(function(){
-		
-			$("#go-up").click(function(event) {
-				event.preventDefault();
-				$.scrollTo('0px', 1000);				
-			});
-		
-			$(".dark-button.disabled").click(function(event) {
-				event.preventDefault();
-			});
-		
-			$('.login_button').click(function(event){
-				event.preventDefault();
-
-				var surl =  appUrl + "logincheck?jsonp_callback=?";
-
-				$.getJSON(surl, function(json) {
-					if (json.loggedin=="false"){
-						$('#glass-panel').css('filter', 'alpha(opacity=40)');
-						$('#glass-panel').fadeIn('fast');
-						$('#login-absolute-wrapper').fadeIn('fast');
-						var tinyLoginFormUrl = appUrl + 'tiny-login-form.jsp';
-						if ($('#login-form-iframe').attr('src') != tinyLoginFormUrl){
-							$('#login-form-iframe').attr('src', tinyLoginFormUrl);
-						}
-					}
-					else {
-						window.location.replace(appUrl + "workspace.jsp");
-					}		
-				});
-
-				$('.login_button').addClass('pressed');
-			});
-
-			$('#login-absolute-wrapper').click(function(){
-				$('#glass-panel').stop();
-				$('#glass-panel').hide();
-				$('#login-absolute-wrapper').stop();
-				$('#login-absolute-wrapper').hide();
-				$('.login_button').removeClass('pressed');
-			});
-
-			$('#login-form-wrapper').click(function(event){
-				event.stopPropagation();
-			});
-
-			if(!Modernizr.svg) {
-        		$('img[src*="svg"]').attr('src', function() {
-        		return $(this).attr('src').replace('.svg', '.png');
-        	  });
-        	}			
-		});
-
-		function stopWheel(e){
-			if(!e) { /* IE7, IE8, Chrome, Safari */ 
-				e = window.event; 
-			}
-			if (e.preventDefault) { /* Chrome, Safari, Firefox */ 
-				e.preventDefault(); 
-			} 
-			e.returnValue = false; /* IE7, IE8 */
-		}
-	</script>
-	
-	<!--[if gte IE 9]>
-	  <style type="text/css">
-		.gradient {
-		   filter: none;
-		}
-	  </style>
-	<![endif]-->
-	
-	
-	
-		
-	
-		
-	</head>
-<body class="licence" id="privacy">
-
-<div class="container_12" id="header">
-	<a class="grid_3 logo_emboss" href="index.html"></a>
-	<!-- end .grid_3 -->
-	<div class="grid_9 menu_container">
-		<div class="emboss_container">
-			<div class="links_child_container">		
-				<a href="register" class="register_button left_button green">Sign Up</a>
-				<a href="#" class="login_button right_button">Login</a>
-			</div>
-		</div>	
-		<div class="links_parent_container">
-			<ul>
-			<li><a href="/" class="selected">Home</a></li>
-			<li><a href="about-otixo">About Otixo</a></li>
-			<li><a href="apps">Mobile</a></li>
-			<li><a href="collaboration">Collaboration</a>		</li>
-			<li><a href="security">Security</a></li>
-			<li><a href="pricing">Pricing</a>		</li>
-			</ul>
-		</div> 
-        
-	</div>
-	<!-- end .grid_9 -->
-	<div class="clear"></div>
-</div>
-<!-- end .container_12 -->
-<div class="clear" id="header_spacer"></div>
-
-<!-- login_form -->
-<div id="glass-panel" class="absolute-snap"></div>
-<div id="login-absolute-wrapper" class="absolute-snap">
-	<div class="container_12">
-		<div class="grid_4 prefix_8">
-			<div class="grid_4 alpha omega" id="login-form-wrapper">
-				<iframe id="login-form-iframe" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-				<div id="login-form-arrow"></div>
-			</div>
-			<!-- end .grid_4 -->
-			<div class="clear"></div>			
-		</div>
-		<!-- end .grid_4 -->
-		<div class="clear"></div>			
-	</div>
-	<!-- end .container_12 -->
-	<div class="clear"></div>
-</div>
-
-<div class="container_12">
-	<h1 class="grid_12 heading">Online Privacy Policy</h1>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-
-	<p class="grid_12 sub_heading strict">&nbsp;</p>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-</div>
-<!-- end .container_12 -->
-<div class="clear"></div>
-
-<div class="container_12">
-	<div class="grid_12 space"></div>	
-	<!-- end .grid_11 -->
-	<div class="clear"></div>
-	<div class="grid_12 space"></div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-	<div class="grid_12 space"></div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-</div>
-<!-- end .container_12 -->
-<div class="clear"></div>
-
-<div class="container_12 include-container">
-	<div class="grid_12">
-
-		<h3>Last Updated: October 7, 2011</h3>
-
-		<div class="mygreyline haslogo"></div>
-		
-		<p class="emboss">Otixo, Inc. (“Otixo,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.</p>
-
-		<p class="emboss">We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy.  You consent to any changes we make to this Privacy Policy if you continue to use the Otixo service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website.</p>
-
-		<div class="mygreyline"></div>
-
-		</div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>		
-</div>
-<!-- end .container_12 -->
-<div class="clear"></div>		
-
-<div class="container_12 include-container container-white">
-	<div class="grid_10 prefix_1 suffix_1">
-
-		<h2>COLLECTING INFORMATION</h2>
-
-		<p>Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see the “Navigation” section of this Privacy Policy below.</p>
-
-		<p>We request information from you (which may include your name, address, telephone number, email address, age, gender and, when necessary, credit card information) when you:</p>
-
-		<ul>
-			<li>Register or set up an account</li>
-			<li>Purchase</li>
-			<li>Request to receive communications or forms (including order forms)</li>
-			<li>Provide feedback</li>
-			<li>Enter into a dialog on the Site</li>
-			<li>Participate in a promotion or other website feature</li>
-			<li>Participate in online discussions or utilize bulletin boards and message boards</li>
-			<li>Contact us</li>
-			<li>Take surveys</li>
-			<li>Utilize chat rooms, instant messaging or forums (including news groups)</li>
-			<li>Modify your account or profile</li>
-		</ul>
-
-		<p>We may also collect non-identifying information like your internet protocol (“IP”) address, browser type and access times through a log of all traffic on our web site.  In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Otixo sources, transactions and communications. We may also combine that information with data that is publicly available and data that we receive from other reputable sources.  All data combined and stored with online data is protected by this Privacy Policy.</p>
-
-		<p>To provide you with certain social features, we may collect information about your contacts or friends from third party websites that provide access to this information, such as Facebook, LinkedIn, Twitter, or email services.  We respect and follow the privacy policies of those third party services with regard to the data we collect from them.</p>
-		 
-		<h2>USING INFORMATION</h2>
-
-		<p>We may use the information we collect to:</p>
-
-		<ul>
-			<li>Check for appropriate usage of the Services as defined in our Terms of Service</li>
-			<li>Customize and/or personalize your communications experience</li>
-			<li>Better respond to your customer service and support inquiries</li>
-			<li>Communicate with you about your purchase, account information, or customer service needs</li>
-			<li>Communicate with you about our products and events, and for other promotional purposes</li>
-			<li>Display targeted advertising, announcements, sponsorships or other messages</li>
-			<li>Notify of new features, answer questions from contact or feedback pages</li>
-			<li>Improve collaboration among users</li>
-			<li>Improve our business and internal operations</li>
-			<li>Administer competitions, contests, promotions, surveys or other website features</li>
-			<li>Improve our software and content</li>
-			<li>Customize the content and/or layout of the web page for each individual visitor</li>
-			<li>Notify you about updates to the Site or the App</li>
-			<li>Contact you for marketing purposes</li>
-			<li>In order to help us rank the importance of future items to build into the Services</li>
-		</ul>
-
-		<p>We will not use your personal information to advertise or communicate promotional offers, directly or indirectly, using direct mail marketing or telemarketing, unless you give us permission to do so.  We allow personally identifiable information to be combined with previously collected non-identifiable information with the consumer's prior affirmative consent (“opt-in”).  We do not create personally identifiable profile information unless consumers are notified and given an opportunity to opt out at the time and place that the personally identifiable information is collected.  We will collect personally identifiable profile information only from web site operators with which we have contractual relationships. We will provide reasonable access to profile information that is personally identifiable or is associated with personally identifiable information.</p>
-
-		<p>We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.</p>
-		 
-		<h2>SHARING INFORMATION</h2>
-
-		<p>We may enable other users of our site and third parties to view or receive information from your profile, subject to your permission to share this information.  These third-parties may include social networking providers such as Facebook, Linked-In, Twitter and MySpace, as well as individual subscribers to these third-party services.  With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.</p>
-
-		<p>For the purpose of operating our business, we may transfer information between Otixo and our preferred service providers who use that information only to conduct Otixo business. For example, they may handle our credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management.  We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information.</p>
-
-		<p>From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please contact us (info@otixo.com) to update your privacy settings.</p>
-
-		<p>We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States.  We may also sell or transfer your personal information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Otixo.</p>
-
-		<p>We may provide information to other companies for purposes such as reporting and marketing.  We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site.</p>
-
-		<p>On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.</p>
-		 
-		<h2>PROTECTING YOUR INFORMATION</h2>
-
-		<p>We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information.  Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure.  Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server.  Credit card numbers allow a user to subscribe to (and thus pay for) our business service. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above.  We will use the information for purposes of processing and completing only those transactions you approve, and the information will be disclosed to third parties only as necessary to complete a specific transaction. This data is protected and stored on our behalf by third party service providers (such as Recurly and PayPal).  When you subscribe to the Service credit card data will be immediately encrypted, used once in a single authorization process and securely stored by the third party service provider.  We and our App are never able to access, see or display more than the card type, the last 4 digits of the credit card number, the name of the holder and the expiration date. Our App does not store or logging numbers.  The service providers do not save the CVV codes.  Credit card numbers are used by Recurly to initiate secure payments through the specific payment gateway at PayPal on a single occasion or a regular basis. PayPal charges the credit card and deposits money to our account. All processes adhere to PCI-DSS Level 1.</p>
-
-		<p>Our site may contain hypertext links to the websites of one or more third parties. We are not responsible for the privacy practices or the content of these other websites.</p>
-
-		<p>Advertising agencies, advertising networks, and other companies who may place advertisements on our site may use their own cookies, pixel tags, web beacons, web bugs and other technology to collect information about you.  We do not control these companies' use of such technology and we have no responsibility for the use of such technology by these companies to gather information about you.</p>
-		 
-		<h2>NAVIGATION</h2>
-
-		<p>Like other interactive websites, we collect information about your use of our site and our services using cookies, log files, and techniques used to track who is reading a web page or e-mail, when, and from what computer, such as web bugs, web beacons or pixel tags.</p>
-
-		<p>A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience.</p>
-
-		<p>For example, we use cookies to:</p>
-
-		<ul>
-			<li>Keep track of shopping cart/record session information</li>
-			<li>Recognize you when you return to our website</li>
-			<li>Keep track of click stream data (record user-specific information on what pages users access or visit)</li>
-			<li>Personalize the Site</li>
-			<li>So that the App will function properly</li>
-			<li>Analyze visitor behavior</li>
-		</ul>
-
-		<p>The marketing page and the application start page are tracking information with pixel images on behalf of Google Analytics.  You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings.</p>
-
-		<p>Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as “GI”) that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to the our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values. </p>
-
-		<p>We use GI to help us analyze your online behavior. We may use GI to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses.  We also use GI to allow us to send you email in a format you can read and to let us know when you have opened an email message from us.</p>
-
-		<p>We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of allowing third party companies to collect non-personally identifiable information about you during your visits to our site, please contact us (info@otixo.com) to update your privacy settings.</p>
-		 
-		<h2>HOW TO REVIEW, MODIFY OR DELETE YOUR INFORMATION</h2>
-
-		<p>We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.</p>
-
-		<p>To modify the information you have provided during registration, please login and update your personal settings.</p>
-
-		<p>To unsubscribe from an email, please follow the instructions in any email you receive.</p>
-
-		<p>If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.</p>
-		 
-		<h2>QUESTIONS AND FEEDBACK </h2>
-
-		<p>We welcome your questions, comments, and concerns about privacy. Please contact us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
-
-		<p style="margin-left: 40px;">
-			<strong>Otixo, Inc.</strong><br>
-			Attn: Privacy Policy<br>
-			4450 Arapahoe Ave.<br>
-			Suite 100<br>
-			Boulder, CO 80304<br>
-			<a href="mailto:info@otixo.com">info@otixo.com </a>
-		</p>
-
-		<h2>COMPLAINTS</h2>
-
-		<p>If you have a data privacy complaint, please contact us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
-
-		<p style="margin-left: 40px;">
-			<strong>Otixo, Inc.</strong><br>
-			Attn: Privacy Policy<br>
-			4450 Arapahoe Ave.<br>
-			Suite 100<br>
-			Boulder, CO 80304<br>
-			<a href="mailto:info@otixo.com">info@otixo.com </a>
-		</p>
-
-		<p>Otixo's Independent Recourse Mechanism</p>
-
-		<p>Otixo has also established an independent recourse mechanism available to European residents with unresolved data privacy complaints.  If you are a European resident and are not satisfied with the decisions rendered by Otixo's internal complaint mechanism, you may raise any such unresolved complaints with the following organization before proceeding to independent recourse mechanisms:</p>
-
-		<h2>TERMS OF USE</h2>
-
-		<p>Please also visit our <a href="./license.html">Terms of Use Agreement</a> that explains other terms governing the use of our website.</p>
-
-	</div>
-	<!-- end .grid_10 -->
-	<div class="clear"></div>		
-</div>
-<!-- end .container_12 -->
-<div class="clear"></div>		
-
-
-<div class="container_12 copyright"></div>	
-<!-- end .container_12 -->
-<div class="clear"></div>
-
-<div class="grey_background">
-	<div class="container_12" id="footer">
-	
-		<div class="grid_12" id="footer_spacer"></div>
-		<!-- end .grid_3 -->
-		<div class="clear"></div>
-		<div class="grid_6 navigation">
-			<h5 class="grid_6 alpha omega section">Navigation</h5>
-			<div class="grid_6 alpha omega section-separator"></div>
-			<ul class="grid_6 alpha omega links-container">
-				<li class="grid_2 alpha"><a href="register" class="green"><span aria-hidden="true" class="icon-user"></span>&nbsp;&nbsp;Sign Up</a></li>
-				<li class="grid_2 fix"><a href="login" class="green"><span aria-hidden="true" class="icon-circ-key"></span>&nbsp;&nbsp;Login</a></li>
-				<li class="grid_2 omega clearfix">
-					<label><select id="language-select">
-						<option selected="">English</option><option>German</option>					</select></label>​
-				</li>
-				<!-- <li class="grid_2 alpha"><a href="/">Home</a></li> -->
-				<li class="grid_2 alpha"><a href="about-otixo">About Otixo</a></li>
-               	<li class="grid_2 fix"><a href="press">Press</a></li>
-				<li class="grid_2 omega"><a href="security">Security</a></li>
-				 <li class="grid_2 alpha"><a href="apps">Mobile</a></li>
-				<li class="grid_2 fix"><a href="stories">User Stories</a></li> 
-				<li class="grid_2 omega"><a href="privacy">Privacy</a></li>
-				<li class="grid_2 alpha"><a href="collaboration">Collaboration</a></li>
-				<li class="grid_2 fix"><a href="pricing">Pricing</a></li>
-				<li class="grid_2 omega"><a href="license">Terms of Use</a></li>
-				<li class="grid_2 alpha"><a href="api">Developers</a></li>
-				<li class="grid_2 fix"><a href="partners">Partners</a></li>
-				<li class="grid_2 omega"><a href="support">Support</a></li>
-			</ul>	
-		</div>
-		<!-- end .grid_6 -->
-
-		<div class="grid_3 social">
-			<h5 class="grid_3 alpha omega section">Social</h5>
-			<div class="grid_3 alpha omega section-separator"></div>
-			<ul class="grid_3 alpha omega links-container">
-				<li class="grid_3 alpha omega wordpress"><a href="blog" target="_blank">Visit Our Blog</a></li>
-				<li class="grid_3 alpha omega twitter"><a href="http://www.twitter.com/otixo" target="_blank">Give Us a Shout</a></li>
-				<li class="grid_3 alpha omega facebook"><a href="http://www.facebook.com/otixo" target="_blank">Otixo Fan Page</a></li> 
-			</ul>	
-		</div>
-		<!-- end .grid_3 -->
-
-		<div class="grid_3 contact_us">
-			<h5 class="grid_3 alpha omega section">Contact Us</h5>
-			<div class="grid_3 alpha omega section-separator"></div>
-			<ul class="grid_3 alpha omega links-container" itemscope="" itemtype="http://data-vocabulary.org/Organization"> 
-				<li style="display: none" itemprop="name">Otixo, Inc.
-				</li><li class="grid_3 alpha omega pin"><p itemprop="address" itemscope="" itemtype="http://data-vocabulary.org/Address"><span itemprop="street-address">954 Pearl St.</span><br>Suite B<br><span itemprop="locality">Boulder</span>,&nbsp;CO&nbsp;80302&nbsp;USA<span style="display: none" itemprop="region">Colorado</span></p></li>
-				<li class="grid_3 alpha omega phone"><p itemprop="tel">(720) 334-8496</p><a style="display: none" href="http://www.example.com" itemprop="url">http://otixo.com</a></li>
-				<li class="grid_3 alpha omega mail">
-					<p>
-						<a class="grn" href="mailto:info@otixo.com">info@otixo.com</a>
-						<br>
-						<a class="grn" href="mailto:support@otixo.com">support@otixo.com</a>
-					</p>
-				</li> 
-			</ul>	
-		</div>		
-		<!-- end .grid_3 -->
-		<div class="clear"></div>
-		
-		<div class="grid_12 bottom_line"></div>
-		<!-- end .grid_12 -->
-
-		<div class="grid_12 bottom_container">
-			<div class="grid_3 alpha">&nbsp;</div>
-			<div class="grid_3 grey_logo"></div>
-			<div class="grid_6 omega copyright_text">Copyright © 
-			<script type="text/javascript">
-					document.write((new Date()).getFullYear());
-				</script>2020
-			, Otixo, Inc. All Rights Reserved.</div>
-		</div>    
-		<!-- end .grid_12 -->
-
-		<div class="clear"></div>
-		
-	</div>
-	<!-- end .container_12 -->
-</div>
+	<link rel="shortcut icon" href="http://www.otixo.com/wp-content/uploads/2016/02/favicon.ico">
+
+	<!-- Wordpress head functions -->
+	<title>Otixo: Organize, Share and Encrypt Files across Clouds - Online Privacy Policy</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.otixo.com/en/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Otixo: Organize, Share and Encrypt Files across Clouds - Online Privacy Policy">
+<meta property="og:url" content="http://www.otixo.com/en/privacy/">
+<meta property="og:site_name" content="Otixo: Organize, Share and Encrypt Files across Clouds">
+<meta property="article:publisher" content="https://www.facebook.com/otixo">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Otixo: Organize, Share and Encrypt Files across Clouds - Online Privacy Policy">
+<meta name="twitter:site" content="@otixo">
+<meta name="twitter:creator" content="@otixo">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Otixo: Organize, Share and Encrypt Files across Clouds » Feed" href="http://www.otixo.com/en/feed/">
+<link rel="alternate" type="application/rss+xml" title="Otixo: Organize, Share and Encrypt Files across Clouds » Comments Feed" href="http://www.otixo.com/en/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Otixo: Organize, Share and Encrypt Files across Clouds » Online Privacy Policy Comments Feed" href="http://www.otixo.com/en/privacy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.otixo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.otixo.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.4" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="dashicons-css" href="http://www.otixo.com/wp-includes/css/dashicons.min.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-jquery-ui-dialog-css" href="http://www.otixo.com/wp-includes/css/jquery-ui-dialog.min.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_lineicons_1-css" href="http://www.otixo.com/wp-content/themes/startuply/fonts/LineIcons/font-lineicons.css?ver=4.9.2" type="text/css" media="screen">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.otixo.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="edd-styles-css" href="http://www.otixo.com/wp-content/themes/startuply/edd_templates/edd.min.css?ver=2.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="prettyphoto-css" href="http://www.otixo.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=4.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://www.otixo.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://www.otixo.com/wp-content/themes/startuply/css/lib/bootstrap.min.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="custom_animate-css" href="http://www.otixo.com/wp-content/themes/startuply/css/animate.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="custom_prettyphoto-css" href="http://www.otixo.com/wp-content/themes/startuply/css/lib/prettyPhoto.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="revolution-css" href="http://www.otixo.com/wp-content/themes/startuply/css/revolution-styles.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_custom-css" href="http://www.otixo.com/wp-content/themes/startuply/style.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_theme_option-css" href="http://www.otixo.com/wp-content/themes/startuply/cache/theme-option.css?ver=1460633646" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_ptsans-css" href="http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&amp;ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_lato-css" href="http://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic&amp;ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_fontawesome-css" href="http://www.otixo.com/wp-content/themes/startuply/fonts/FontAwesome/font-awesome.min.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="startuply_lineicons-css" href="http://www.otixo.com/wp-content/themes/startuply/fonts/LineIcons/font-lineicons.css?ver=4.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="vsc-animation-style-css" href="http://www.otixo.com/wp-content/themes/startuply/engine/extend/animations/css/vivaco-animations.css?ver=4.4.4" type="text/css" media="all">
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript">
-	$("#language-select").change(function() {
-		$("#language-select option:selected").each(function () {
-			if($(this).text() == "German"){
-				window.location.hostname=window.location.hostname.replace("otixo.com", "otixo.de");
-			}
-			else {
-				window.location.hostname=window.location.hostname.replace("otixo.de", "otixo.com");
-			}
-		});
-	});		
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"http:\/\/www.otixo.com\/wp-admin\/admin-ajax.php","position_in_cart":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"","redirect_to_checkout":"0","checkout_page":"http:\/\/www.otixo.com\/en\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+/* ]]> */
 </script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.5.6"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/engine/extend/animations/js/vivaco-animations.js?ver=4.4.4"></script>
+<link rel="https://api.w.org/" href="http://www.otixo.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.otixo.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.otixo.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.4">
+<link rel="shortlink" href="http://www.otixo.com/?p=4057">
+<link rel="alternate" type="application/json+oembed" href="http://www.otixo.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.otixo.com%2Fen%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.otixo.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.otixo.com%2Fen%2Fprivacy%2F&amp;format=xml">
+<meta name="generator" content="Easy Digital Downloads v2.5.6">
+	<style>.edd_download{float:left;}.edd_download_columns_1 .edd_download{width: 100%;}.edd_download_columns_2 .edd_download{width:50%;}.edd_download_columns_0 .edd_download,.edd_download_columns_3 .edd_download{width:33%;}.edd_download_columns_4 .edd_download{width:25%;}.edd_download_columns_5 .edd_download{width:20%;}.edd_download_columns_6 .edd_download{width:16.6%;}</style>
+	<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.otixo.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.otixo.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1439292078496{padding-top: 100px !important}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>		<script src="http://load.sumome.com/" data-sumo-site-id="f5e14d0100182798ae44e8c89954b478bc351c39a22b6514732c693a009a1db4" async="async"></script>
+		<link rel="stylesheet" id="prettyphoto-css" href="http://www.otixo.com/wp-content/themes/startuply/custom.css" type="text/css" media="screen">
+        <link rel="stylesheet" id="prettyphoto-css" href="http://www.otixo.com/wp-content/themes/startuply/fonts/lato/font-lato.css" type="text/css" media="screen">
+		<!--[if IE ]>
+			<style>
+				select:not([multiple='multiple']){padding:0 0px 0 20px;}
+			</style>
+		<![endif]-->
+</head>
+
+<body id="landing-page" class="page page-id-4057 page-template page-template-page-boxed-no-sidebar page-template-page-boxed-no-sidebar-php wpb-js-composer js-comp-ver-4.9.2 vc_responsive">
+
+	<div id="mask">
+	
+			<div class="preloader"><div class="spin base_clr_brd"><div class="clip left"><div class="circle"></div></div><div class="gap"><div class="circle"></div></div><div class="clip right"><div class="circle"></div></div></div></div>
+				
+	</div>
+
+	<header>
+		<nav class="navigation navigation-header inner-menu " role="navigation">
+			<div class="container">
+				<div class="navigation-brand">
+					<div class="brand-logo">
+						<a href="http://www.otixo.com/en/home-otixo" class="logo"><img src="http://www.otixo.com/wp-content/uploads/2016/01/otixo_logo.png" alt=""><img class="retina" src="http://www.otixo.com/wp-content/uploads/2016/01/otixo_logo.png" alt=""></a>
+						<span class="sr-only">Otixo: Organize, Share and Encrypt Files across Clouds</span>
+					</div>
+					<button class="navigation-toggle visible-xs" type="button" data-target=".navbar-collapse">
+						<span class="icon-bar base_clr_bg"></span>
+						<span class="icon-bar base_clr_bg"></span>
+						<span class="icon-bar base_clr_bg"></span>
+					</button>
+				</div>
+				<div class="navbar-collapse collapsed">
+					<div class="menu-wrapper">
+						<!-- Left menu -->
+						<div class="menu-main-menu-en-container"><ul id="menu-main-menu-en" class="navigation-bar navigation-bar-left"><li id="menu-item-3067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3067"><a title="HOME" href="http://www.otixo.com/en/home-otixo#home">HOME</a></li>
+<li id="menu-item-2995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2995"><a title="SERVICES" href="http://www.otixo.com/en/home-otixo#services">SERVICES</a></li>
+<li id="menu-item-2996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2996"><a title="SECURITY" href="http://www.otixo.com/en/home-otixo#security">SECURITY</a></li>
+<li id="menu-item-2997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2997"><a title="PRICING" href="http://www.otixo.com/en/home-otixo#pricing">PRICING</a></li>
+<li id="menu-item-3074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3074"><a title="CONTACT" href="http://www.otixo.com/en/home-otixo#contact">CONTACT</a></li>
+</ul></div>						<!-- Right menu -->
+						<div class="right-menu-wrap">
+						
+						
+							<div class="menu-loginregister-en-container"><ul id="menu-loginregister-en" class="navigation-bar navigation-bar-right top-right-menu"><li id="menu-item-3854" class="signup menu-item menu-item-type-custom menu-item-object-custom menu-item-3854"><a title="Sign up" href="https://app.otixo.com/login.jsp#register">Sign up</a></li>
+<li id="menu-item-3855" class="login menu-item menu-item-type-custom menu-item-object-custom menu-item-3855"><a title="Login" href="https://app.otixo.com/login.jsp">Login</a></li>
+</ul></div>
+												
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+	
+	
+
+<div id="main-content">
+		<div class="container inner">
+			<div class="col-sm-12">
+				<article id="post-4057" class="post-4057 page type-page status-publish hentry language-en">
+										<div class="entry-content">
+						<div id="vsc_row_uqcmdjqdgl" class="  vc_row-fluid darker-overlay row-element vc_custom_1439292078496 light row" style="" data-token="BxL6e"><div class="container">
+	<div class="vc_col-sm-12 wpb_column column_container  aligncenter">
+		<div class="wpb_wrapper">
+			<div class="wpb_animate_when_almost_visible gambit-css-animation slide-to-bottom " style="-webkit-animation-duration: 1s;-moz-animation-duration: 1s;-ms-animation-duration: 1s;-o-animation-duration: 1s;animation-duration: 1s"><div id="vsc_row_uatrrmbld" class="  vc_row-fluid lighter-overlay row-element vsc_inner  dark container" style="" data-token="wNKrO"><div class="wpb_animate_when_almost_visible gambit-css-animation fade-in " style="-webkit-animation-duration: 0.5s;-moz-animation-duration: 0.5s;-ms-animation-duration: 0.5s;-o-animation-duration: 0.5s;animation-duration: 0.5s">
+	<div class="vc_col-sm-12 home-title wpb_column column_container  ">
+		<div class="wpb_wrapper">
+			<div class="section-wrap homeSubtiltle"><h2 style="" class="section-title text-">Online <b>Privacy Policy</b></h2><div class="sub-title text-"><p class="sub-header" style="">IMPORTANT – READ THIS CAREFULLY BEFORE ACCESSING<br>AND USING THE OTIXO SERVICES.</p></div></div><div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+
+		</div> 
+	</div> 
+</div></div></div>
+		</div> 
+	</div> 
+</div></div>
+<div id="vsc_row_aeeubyxeld" class="  vc_row-fluid lighter-overlay row-element dark container" style="" data-token="XTYkD">
+	<div class="vc_col-sm-12 wpb_column column_container  ">
+		<div class="wpb_wrapper">
+			<div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><div class="wpb_text_column-text-style" style=""><p><span style="color: #ee2b74;">Last Updated: December&nbsp;9, 2015</span></p>
+<p><span style="color: #767676;">Otixo, Inc. (“Otixo,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.</span></p>
+<p><span style="color: #767676;">We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. You consent to any changes we make to this Privacy Policy if you continue to use the Otixo service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<dl>
+<dt>
+<h3>COLLECTING INFORMATION</h3>
+</dt>
+</dl>
+<p>Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see the “Navigation” section of this Privacy Policy below.</p>
+<p>We request information from you (which may include your name, address, telephone number, email address, age, gender and, when necessary, credit card information) when you:</p>
+<ul>
+<li>Register or set up an account</li>
+<li>Purchase</li>
+<li>Request to receive communications or forms (including order forms)</li>
+<li>Provide feedback</li>
+<li>Enter into a dialog on the Site</li>
+<li>Participate in a promotion or other website feature</li>
+<li>Participate in online discussions or utilize bulletin boards and message boards</li>
+<li>Contact us</li>
+<li>Take surveys</li>
+<li>Utilize chat rooms, instant messaging or forums (including news groups)</li>
+<li>Modify your account or profile</li>
+</ul>
+<p>We may also collect non-identifying information like your internet protocol (“IP”) address, browser type and access times through a log of all traffic on our web site. In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Otixo sources, transactions and communications. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. All data combined and stored with online data is protected by this Privacy Policy.</p>
+<p>To provide you with certain social features, we may collect information about your contacts or friends from third party websites that provide access to this information, such as Facebook, LinkedIn, Twitter, or email services. We respect and follow the privacy policies of those third party services with regard to the data we collect from them.</p>
+<p>&nbsp;</p>
+<h3>USING INFORMATION</h3>
+<p>We may use the information we collect to:</p>
+<ul>
+<li>Check for appropriate usage of the Services as defined in our Terms of Service</li>
+<li>Customize and/or personalize your communications experience</li>
+<li>Better respond to your customer service and support inquiries</li>
+<li>Communicate with you about your purchase, account information, or customer service needs</li>
+<li>Communicate with you about our products and events, and for other promotional purposes</li>
+<li>Display targeted advertising, announcements, sponsorships or other messages</li>
+<li>Notify of new features, answer questions from contact or feedback pages</li>
+<li>Improve collaboration among users</li>
+<li>Improve our business and internal operations</li>
+<li>Administer competitions, contests, promotions, surveys or other website features</li>
+<li>Improve our software and content</li>
+<li>Customize the content and/or layout of hte web page for each individual visitor</li>
+<li>Notify you about updates to the Site or the App</li>
+<li>Contact you for marketing purposes</li>
+<li>In order to help us rank the importance of future items to build into the Services</li>
+</ul>
+<p>We will not use your personal information to advertise or communicate promotional offers, directly or indirectly, using direct mail marketing or telemarketing, unless you give us permission to do so. We allow personally identifiable information to be combined with previously collected non-identifiable information with the consumer’s prior affirmative consent (“opt-in”). We do not create personally identifiable profile information unless consumers are notified and given an opportunity to opt out at the time and place that the personally identifiable information is collected. We will collect personally identifiable profile information only from web site operators with which we have contractual relationships. We will provide reasonable access to profile information that is personally identifiable or is associated with personally identifiable information.</p>
+<p>We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.</p>
+<p>&nbsp;</p>
+<h3>SHARING INFORMATION</h3>
+<p>We may enable other users of our site and third parties to view or receive information from your profile, subject to your permission to share this information. These third-parties may include social networking providers such as Facebook, Linked-In, Twitter and MySpace, as well as individual subscribers to these third-party services. With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.</p>
+<p>For the purpose of operating our business, we may transfer information between Otixo and our preferred service providers who use that information only to conduct Otixo business. For example, they may handle our credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information.</p>
+<p>From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please contact us (info@otixo.com) to update your privacy settings.</p>
+<p>We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States. We may also sell or transfer your personal information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Otixo.</p>
+<p>We may provide information to other companies for purposes such as reporting and marketing. We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site.</p>
+<p>On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others’ rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.</p>
+<p>&nbsp;</p>
+<h3>PROTECTING YOUR INFORMATION</h3>
+<p>We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. Credit card numbers allow a user to subscribe to (and thus pay for) our business service. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above. We will use the information for purposes of processing and completing only those transactions you approve, and the information will be disclosed to third parties only as necessary to complete a specific transaction. This data is protected and stored on our behalf by third party service providers (such as Recurly and PayPal). When you subscribe to the Service credit card data will be immediately encrypted, used once in a single authorization process and securely stored by the third party service provider. We and our App are never able to access, see or display more than the card type, the last 4 digits of the credit card number, the name of the holder and the expiration date. Our App does not store or logging numbers. The service providers do not save the CVV codes. Credit card numbers are used by Recurly to initiate secure payments through the specific payment gateway at PayPal on a single occasion or a regular basis. PayPal charges the credit card and deposits money to our account. All processes adhere to PCI-DSS Level 1.</p>
+<p>Our site may contain hypertext links to the websites of one or more third parties. We are not responsible for the privacy practices or the content of these other websites.</p>
+<p>Advertising agencies, advertising networks, and other companies who may place advertisements on our site may use their own cookies, pixel tags, web beacons, web bugs and other technology to collect information about you. We do not control these companies’ use of such technology and we have no responsibility for the use of such technology by these companies to gather information about you.</p>
+<p>&nbsp;</p>
+<h3>NAVIGATION</h3>
+<p>Like other interactive websites, we collect information about your use of our site and our services using cookies, log files, and techniques used to track who is reading a web page or e-mail, when, and from what computer, such as web bugs, web beacons or pixel tags.</p>
+<p>A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience.</p>
+<p>For example, we use cookies to:</p>
+<ul>
+<li>Keep track of shopping cart/record session information</li>
+<li>Recognize you when you return to our website</li>
+<li>Keep track of click stream data (record user-specific information on what pages users access or visit)</li>
+<li>Personalize the Site</li>
+<li>So that the App will function properly</li>
+<li>Analyze visitor behavior</li>
+</ul>
+<p>The marketing page and the application start page are tracking information with pixel images on behalf of Google Analytics. You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings.</p>
+<p>Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as “GI”) that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to the our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values.</p>
+<p>We use GI to help us analyze your online behavior. We may use GI to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses. We also use GI to allow us to send you email in a format you can read and to let us know when you have opened an email message from us.</p>
+<p>We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of allowing third party companies to collect non-personally identifiable information about you during your visits to our site, please contact us (info@otixo.com) to update your privacy settings.</p>
+<p>&nbsp;</p>
+<h3>HOW TO REVIEW, MODIFY OR DELETE YOUR INFORMATION</h3>
+<p>We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.</p>
+<p>To modify the information you have provided during registration, please login and update your personal settings.</p>
+<p>To unsubscribe from an email, please follow the instructions in any email you receive.</p>
+<p>If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.</p>
+<p>&nbsp;</p>
+<h3>QUESTIONS AND FEEDBACK</h3>
+<p>We welcome your questions, comments, and concerns about privacy. Please contact us by mail or email at:</p>
+<p style="padding-left: 30px;"><strong>Otixo, Inc.</strong></p>
+<p style="padding-left: 30px;">Attn: Privacy Policy</p>
+<p style="padding-left: 30px;">2443 Fillmore St #380-8035</p>
+<p style="padding-left: 30px;">San Francisco, CA 94115</p>
+<p style="padding-left: 30px;">info@otixo.com</p>
+<p>&nbsp;</p>
+<h3>COMPLAINTS</h3>
+<p>If you have a data privacy complaint, please contact us by mail or email at:</p>
+<p style="padding-left: 30px;"><strong>Otixo, Inc.</strong></p>
+<p style="padding-left: 30px;">Attn: Privacy Policy</p>
+<p style="padding-left: 30px;">2443 Fillmore St #380-8035</p>
+<p style="padding-left: 30px;">San Francisco, CA 94115</p>
+<p style="padding-left: 30px;">info@otixo.com</p>
+<p>&nbsp;</p>
+<p>Otixo’s Independent Recourse Mechanism</p>
+<p>Otixo has also established an independent recourse mechanism available to European residents with unresolved data privacy complaints. If you are a European resident and are not satisfied with the decisions rendered by Otixo’s internal complaint mechanism, you may raise any such unresolved complaints with the following organization before proceeding to independent recourse mechanisms:</p>
+<p>&nbsp;</p>
+<h3>TERMS OF USE</h3>
+<p style="text-align: left;">Please also visit our <a href="http://www.otixo.com/en/license/" target="_blank">Terms of Use Agreement</a> that explains other terms governing the use or our website.</p>
+</div>	</div></div>
+		</div> 
+	</div> 
+</div><div id="vsc_row_lbzziqqwfu" class="  vc_row-fluid lighter-overlay row-element dark container" style="" data-token="5keRJ">
+	<div class="vc_col-sm-12 wpb_column column_container  ">
+		<div class="wpb_wrapper">
+			<div class="vc_empty_space" style="height: 75px"><span class="vc_empty_space_inner"></span></div>
+
+		</div> 
+	</div> 
+</div>
+					</div>
+				</article>
+			</div>
+	</div>
+
+</div>
+
+<footer id="footer" class="footer light">
+		<div class="container">
+
+			
+			<div class="footer-content row">
+
+			<aside id="nav_menu-5" class="widget widget_nav_menu"><div class="widgetBody clearfix"><div class="footer-title">COMMUNITY</div><div class="menu-footer-menu-english-container"><ul id="menu-footer-menu-english" class="menu"><li id="menu-item-4769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4769"><a href="http://www.otixo.com/en/press/">Press</a></li>
+<li id="menu-item-3825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3825"><a href="http://www.otixo.com/en/blog/">Blog</a></li>
+</ul></div></div></aside><aside id="nav_menu-8" class="widget widget_nav_menu"><div class="widgetBody clearfix"><div class="footer-title">Social Media</div><div class="menu-social-menu-container"><ul id="menu-social-menu" class="menu"><li id="menu-item-4685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4685"><a href="https://twitter.com/otixo">Twitter</a></li>
+<li id="menu-item-4686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4686"><a href="https://facebook.com/otixo">Facebook</a></li>
+</ul></div></div></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><div class="widgetBody clearfix"><div class="footer-title">SUPPORT</div><div class="menu-support-menu-en-container"><ul id="menu-support-menu-en" class="menu"><li id="menu-item-4659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4659"><a href="http://otixo.desk.com">Support Center</a></li>
+<li id="menu-item-4660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4660"><a href="mailto:support@otixo.com">Contact us</a></li>
+</ul></div></div></aside><aside id="nav_menu-9" class="widget widget_nav_menu"><div class="widgetBody clearfix"><div class="footer-title">COMPANY</div><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-4852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4852"><a href="http://www.otixo.com/en/team/">Team</a></li>
+<li id="menu-item-4851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4851"><a href="http://www.otixo.com/en/jobs/">Jobs</a></li>
+</ul></div></div></aside>
+			</div>
+
+			                    
+                        			<div id="footer-lang-select">
+                                <select name="lang_choice_1" id="lang_choice_1">
+	<option value="en" selected="selected">English</option>
+	<option value="de">German</option>
+
+</select>
+
+				<script type="text/javascript">
+					//<![CDATA[
+					var urls_1 = {"en":"http:\/\/www.otixo.com\/en\/privacy\/","de":""};
+					document.getElementById( "lang_choice_1" ).onchange = function() {
+						location.href = urls_1[this.value];
+					}
+					//]]>
+				</script>                        </div>
+        </div>
+
+		<div class="copyright">
+			Copyright © 2016 , Otixo, Inc. All Rights Reserved.
+		</div>
+
+	</footer>
+
+	<div class="back-to-top"><a href="#"><i class="fa fa-angle-up fa-3x"></i></a></div>
+
+	<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/wpdialog.min.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.otixo.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/comment-reply.min.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/bootstrap.min.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/jquery.nav.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/social-share.js?ver=4.4.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var locale = {"templateUrl":"http:\/\/www.otixo.com\/wp-content\/themes\/startuply"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/custom-mailing-list.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/jquery.parallax.js?ver=1.1.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var vsc_parallax_BxL6e = {"id":"knx"};
+var vsc_parallax_wNKrO = {"id":"qfa"};
+var vsc_parallax_XTYkD = {"id":"igz"};
+var vsc_parallax_5keRJ = {"id":"mwf"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/custom-parallax.js?ver=1.1.3"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/jquery.isotope.min.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var vals = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/custom-isotope-portfolio.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/headhesive.min.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=4.9.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var themeOptions = {"stickyMenu":"all_pages","menuPosition":"600","mobileMainMenuMod":"","0":"","mobileMenuMod":"","smoothScroll":"","smoothScrollSpeed":"800","1":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/custom.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-includes/js/wp-embed.min.js?ver=4.4.4"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.9.2"></script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=4.9.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ga = {"ga_id":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.otixo.com/wp-content/themes/startuply/js/lib/google-analytics.js?ver=1.0"></script>
+
 
 
 </body></html>
