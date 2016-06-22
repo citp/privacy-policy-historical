@@ -1,47 +1,44 @@
-> *The following text is extracted and transformed from the pacificcitizen.org privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012090020id_/http%3A//pacificcitizen.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacificcitizen.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623011012id_/http%3A//www.pacificcitizen.org/faqs) for the most accurate reproduction.*
 
-# Privacy Statement | pacificcitizen.org
+# Privacy Policy | Pacific Citizen | The National Newspaper of the JACL
 
-Pacific Citizen is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Pacific Citizen Web site and governs data collection and usage. By using the Pacific Citizen website, you consent to the data practices described in this statement.
+**_Pacific Citizen_** **Privacy Policy**
 
-**Collection of your Personal Information**
+This privacy policy discloses the privacy practices for _(www.pacificcitizen.org)_. This privacy policy applies solely to information collected by this website. It will notify you of the following:
 
-Pacific Citizen collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Pacific Citizen also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+  1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
-There is also information about your computer hardware and software that is automatically collected by Pacific Citizen. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Pacific Citizen for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Pacific Citizen Web site.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Pacific Citizen public message boards, this information may be collected and used by others. Note: Pacific Citizen does not read any of your private online communications.
 
-Pacific Citizen encourages you to review the privacy statements of Web sites you choose to link to from Pacific Citizen so that you can understand how those Web sites collect, use and share your information. Pacific Citizen is not responsible for the privacy statements or other content on Web sites outside of the Pacific Citizen and Pacific Citizen family of Web sites.
+**Information Collection, Use and Sharing**  
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-**Use of your Personal Information**
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
 
-Pacific Citizen collects and uses your personal information to operate the Pacific Citizen Web site and deliver the services you have requested. Pacific Citizen also uses your personally identifiable information to inform you of other products or services available from Pacific Citizen and its affiliates. Pacific Citizen may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Unless you ask us not to, we may contact you via email in the future to tell you about new services or changes to this privacy policy.
 
-Pacific Citizen does not sell, rent or lease its customer lists to third parties. Pacific Citizen may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Pacific Citizen may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Pacific Citizen, and they are required to maintain the confidentiality of your information.
+**Your Access to and Control Over Information**  
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Pacific Citizen does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-Pacific Citizen keeps track of the Web sites and pages our customers visit within Pacific Citizen, in order to determine what Pacific Citizen services are the most popular. This data is used to deliver customized content and advertising within Pacific Citizen to customers whose behavior indicates that they are interested in a particular subject area.
 
-Pacific Citizen Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Pacific Citizen or the site; (b) protect and defend the rights or property of Pacific Citizen; and, (c) act under exigent circumstances to protect the personal safety of users of Pacific Citizen, or the public.
 
-**Use of Cookies**
+**Security**  
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-The Pacific Citizen Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Pacific Citizen pages, or register with Pacific Citizen site or services, a cookie helps Pacific Citizen to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Pacific Citizen Web site, the information you previously provided can be retrieved, so you can easily use the Pacific Citizen features that you customized.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Pacific Citizen services or Web sites you visit.
+**Updates**
 
-**Security of your Personal Information**
+Our Privacy Policy may change from time to time, and all updates will be posted on this page.
 
-Pacific Citizen secures your personal information from unauthorized access, use or disclosure. Pacific Citizen secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-**Changes to this Statement**
-
-Pacific Citizen will occasionally update this Statement of Privacy to reflect company and customer feedback. Pacific Citizen encourages you to periodically review this Statement to be informed of how Pacific Citizen is protecting your information.
-
-**Contact Information**
-
-Pacific Citizen welcomes your comments regarding this Statement of Privacy. If you believe that Pacific Citizen has not adhered to this Statement, please contact Pacific Citizen at [admin@pacificcitizen.org](mailto:admin@pacificcitizen.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at _(213) 620-1767_ or _via email_.**
