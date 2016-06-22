@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dohahamadairport.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215054200id_/http%3A//dohahamadairport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dohahamadairport.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622132959id_/http%3A//dohahamadairport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hamad International Airport
 
