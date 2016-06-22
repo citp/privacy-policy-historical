@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215221615id_/http%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622073422id_/http%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AMEInfo AMEInfo
+# Privacy Policy - AMEInfoAMEInfo
 
 This Privacy Policy sets out the policy of Mediaquest FZ LLC of PO Box 72184, Zee Tower, Office 206, Dubai Media City, United Arab Emirates (“AMEinfo.com”), who controls this website (www.ameinfo.com) (“the Website”). The terms of this Privacy Policy apply in addition to the Terms of Use for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website.
 
@@ -187,7 +187,7 @@ _AME Info_ occasionally needs to collect information for convenience, practicali
 
 
 
-Like most websites, _AME Info_ also collects and stores information automatically and through the use of electronic tools that may be transparent to visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. As we adopt additional technology, we may also gather similar information through other means. We may also use â€œcookieâ€ technology for your convenience as we see fit, such as to keep you logged in between visits if we add a login feature.
+Like most websites, _AME Info_ also collects and stores information automatically and through the use of electronic tools that may be transparent to visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. As we adopt additional technology, we may also gather similar information through other means. We may also use “cookie” technology for your convenience as we see fit, such as to keep you logged in between visits if we add a login feature.
 
 We use Emarsys to manage our mailing list. Emarsys says this about its usage of information about our subscribers:
 
@@ -235,7 +235,7 @@ If you have any concerns or questions about any aspect of this policy, you may c
 
 Mediaquest Corp
 
-Address: â€‹P.O. BOX 72184 Dubai Media City, Zee Tower, Office 206 | United Arab Emirates
+Address: ​P.O. BOX 72184 Dubai Media City, Zee Tower, Office 206 | United Arab Emirates
 
 T: +971 4 446 53 01 | F: +971 4 390 87 37
 
@@ -253,4 +253,4 @@ If you have any questions about security or privacy on our website, please conta
 
 #### Mediaquest FZ LLC
 
-Mediaquest FZ LLC of PO Box 72184Zee Tower, Office 206Dubai Media CityUnited Arab EmiratesPhone: +971(4)3902700 â€¢ Facsimile: +971(4)3908015
+Mediaquest FZ LLC of PO Box 72184Zee Tower, Office 206Dubai Media CityUnited Arab EmiratesPhone: +971(4)3902700 • Facsimile: +971(4)3908015
