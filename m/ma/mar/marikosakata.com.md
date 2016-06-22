@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marikosakata.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215192843id_/http%3A//marikosakata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marikosakata.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622070043id_/http%3A//marikosakata.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mariko Sakata | Plant Based Vegan Recipes
+# Privacy Policy | Mariko Sakata | Raw Food and Vegan Recipes
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@marikosakata.com. 
 
