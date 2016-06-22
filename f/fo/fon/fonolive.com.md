@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220222958id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622152752id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
 
 # Privacy, search jobs, events, local business directory, connect and meet locally
-
-**Privacy Policy**
 
 This privacy policy sets out how Fonolive uses and protects any private information when you use this platform. Fonolive is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this platform, then you can be assured that it will only be used in accordance with this privacy statement. Fonolive may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 18th of January, 2010. What we collect 
 
