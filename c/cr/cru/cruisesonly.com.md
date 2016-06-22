@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103030956id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622130852id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.*
 
 # 
 
