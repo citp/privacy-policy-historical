@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concentratemedia.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010022558id_/http%3A//www.concentratemedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concentratemedia.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622162159id_/http%3A//www.secondwavemedia.com/concentrate/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
