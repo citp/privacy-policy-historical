@@ -1,86 +1,211 @@
-> *The following text is extracted and transformed from the insearchofincredible.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231045228id_/http%3A//www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insearchofincredible.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622152123id_/http%3A//www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Terms of Use Notice / Privacy Policy - Privacy Policy
 
-ASUSTeK COMPUTER INC. and its affiliated companies (hereinafter referred to as “ASUS”) are committed to protecting and respecting your privacy. We conduct our business in compliance with applicable laws on privacy protection and personal information security. ASUS Privacy Policy (hereinafter referred to as “Privacy Policy”) outlines what personal information we may collect, how we use and safeguard the collected personal information and with whom we may share it.
+ASUSTeK COMPUTER INC. and its affiliated companies (hereinafter referred to as “ **ASUS** ”, “ **we/our/us** ”) are committed to protecting and respecting your privacy. We endeavor to comply with all applicable laws on privacy protection and personal information security. ASUS Privacy Policy, together with any additional terms and conditions that contain supplementary information in connection with particular services you are using (hereinafter referred to as “Privacy Policy”), outline our privacy practices regarding the collection, use and safeguard of your personal information through ASUS websites, devices, applications and any services, both online and offline we provide (hereinafter referred to as “SERVICE”), along with whom we may share or disclose the collected information. If you are a minor, you shall access or use the SERVICE only after your parents (or your guardian) read and agree our Privacy Policy. 
 
-Your submission of your personal information to ASUS will be deemed that you accept the Privacy Policy.
+The use, access or submission of personal information to the SERVICE by you, or if you are a minor, the submission of your personal information either by your parents (or your guardian) or by you with the permission of your parents (or guardian) to ASUS will be deemed as your acceptance of the Privacy Policy.
 
-#### Information That ASUS Collect and How ASUS Use It
+### Information ASUS Collect
 
-You can log on, place an order, request support service or register with us when you visit/use our service (hereinafter referred to as “SERVICE”), it is completely optional for you to engage in these activities. If you elect to engage in these activities, ASUS may ask you to provide us with certain information including your personal information to perform the SERVICE as identified below:
+When you use our SERVICE, we may need to collect certain information from you when use or interact with our SERVICE (hereinafter referred to as “Information”); we may ask for the following information:
 
-  * We may ask you for your first and last name, mailing/shipping address (including zip code), e-mail address, telephone and facsimile number, and other personally identifiable information: 
-    * to fulfill registration process, technical support, upgrade, discount, payment, shipment and ASUS obligations under any sale and purchase contract or other benefits that may be made available to registered users, when you register, purchase or download our product or SERVICE.
-    * to send marketing information about our products, services and other special offers to you if you choose to regularly receive such information. You may unsubscribe at any time. Subscription to this service is optional and free. 
-    * to qualify the entry and to contact you regarding the event or prize awards if you enter an event.
-    * to customize our support services to your personal needs.
-    * to respond to your inquiries when you submit feedback or questions via e-mail, or contact us for information about our SERVICE.
-    * to complete surveys to be used for customer satisfaction analysis.
-    * to provide and improve our products and SERVICE, to obtain customer feedback and to analysis user experience.
-  * We may collect your device data such as device model/serial number, standby status, crash history, preferred interface, language settings, frequently used software information, the software function usage behavior: 
-    * to provide you with better services, enhance user experience, and continuously discover problems to improve performance.
-    * to obtain customer feedback and to analysis user experience.
+#### Information you provide to us
+
+  * Your e-mail address and country/region when you sign up or log in ASUS Member account; if you use your social media account to log in or sign up for ASUS Member account to use our SERVICE, any publicly available information (including but not limited to your profile picture, gender, date of birth and language setting) associated to your social media account may also be collected by us.
+  * Your name, mailing/shipping/billing address (including zip code), contact information, e-mail address, credit card number or other payment service information when you make a purchase of our devices, paid services or for certain customer service request.
+  * Your name, mailing/shipping address (including zip code), contact information, e-mail, gender, date of birth and ID number when you enter our events or campaigns.
+  * Your age, date of birth, gender, height, weight, body temperature, heart rate, blood pressure as well as certain data about your daily activities, for example, your step taken, calories burned and sleep patterns, when you use our healthcare devices or services.
+
+  
 
 
+#### Information from your use of SERVICE
 
-For such purposes portions of your personal information may be transferred to our agents and/or contractors acting on our behalf and within the scope of the purposes, and we will ensure that those agents and/or contractors are strictly in compliance with the Privacy Policy.
+  * Device information: such as your device model, serial number, the version and type of your operation system, IP Address, MAC Address, IMEI number and other unique device identifiers.
+  * Log information: such as the settings, activation time of your devices, the network you use to connect to our SERVICE, the status of the network, telephony log information, standby status, crash history, preferred interface, type and language settings of browser, diagnose and usage data as well as your usage behavior on our SERVICE.
+  * Location information: such as the version of your devices’ GPS and Wi-Fi module, GPS signal, data identifying nearby Wi-Fi access points and cell towers, the time zone and local time where the device is used.
+  * Application information: such as the type of your installed applications or software, your usage and interaction with content offered through SERVICE, for instance, the install and uninstall time, frequency of your usage, the category of your preferred applications and software.
 
-WE will not use or transfer to third parties your personal information for any unrelated purposes, unless and to the extent it is required by applicable laws or regulations or the competent governmental or judicial authorities, necessary to establish or preserve a legal claim or defense, or necessary to prevent fraud or other illegal activities. 
 
-WE will in particular not sell or market your personal information to any third parties.We will cease using your personal information held by us once the personal information is no longer required for ASUS to carry out the purpose for which the personal information was intended to be used.
 
-#### Transfer of Personal Information to Different Locations
+### How ASUS use information 
 
-When you submit personal information to ASUS, you understand and agree that this personal information may be transferred between ASUS offices and agents and/or contractors of ASUS internationally, and may be stored and processed in any of the countries which ASUS and agents and/or contractors of ASUS locate in. All transfer, storage and use of your personal information shall be subject to and protected by the Privacy Policy. 
+We may use information we collect for the purposes below:
 
-#### How ASUS Use Cookies and Web Beacons
+  * To assess and improve the SERVICE.
+  * To obtain customer feedback and to analyze user experience for the purpose of development and evaluation of new services and devices.
+  * To fulfill the sign-up process of ASUS Member account or device registration.
+  * To deliver and fulfill any requests made by you, including but not limited to, providing information and documentation regarding purchases such as delivering purchase invoices or proof of purchase; provide software updates and technical notices.
+  * To process and fulfill any subscriptions you have signed up for, including ASUS eDMs or newsletters to keep you up to date with the latest ASUS news, promotions and upcoming events. You may unsubscribe it at any time with no charge.
+  * To send you important notifications, such as communications about changes to our terms, conditions and policies. Because of the importance of the communications, you may not opt out of receiving these communications.
+  * To verify your identity, deliver campaign entries and rewards, provide shuttle services and cover you with insurance if it is a necessity when you enter our events or contests. 
+  * To assist you on recording, analyzing, modifying and storing information including data about you, your daily activities and the activity results calculated from the data above. Moreover, we will support you on editing and accessing the data and activity results, when you share this information with your family, caregivers, and health care professionals.
+  * To provide you with recommendation about services you may be interest in based on your use of our SERVICE.
+  * To provide you with marketing communications and advertising that we believe may be of interest of you.
+  * To respond to customer support requests, such as product repair requests and respond to your questions.
+  * To provide you with our customer care and customer satisfaction survey for user experience analysis.
+  * Any other purposes with your consent.
 
-Our web site may use "Cookies", which are text files placed on your computer, to enable you to sign in to the SERVICE and to help personalize your online experience. We use cookies to store your preferences and other information on your computer in order to save your time by eliminating the need to repeatedly enter the same information, and to display your personalized content and appropriate advertising on your later visits to web sites of the SERVICE. We may also use so called “Web beacons” or similar technologies on some ASUS web sites. When you access those pages, an anonymous notice of that visit is being generated on your computer. This notice may be processed by us or others (including but not limited to Google) in order to identify whether a particular page on our website has already been visited or a link clicked by you. We may also include Web beacons in our promotional e-mails or our newsletters in order to determine whether messages have been opened and links contained within clicked on. We use this information to understand how you use our website and how we can improve it for you.
 
-You may refuse the use of Cookies by selecting the appropriate settings on your browser; however, please note that if you do this you may not be able to use the full functionality of this web site of the SERVICE.
+
+### To whom ASUS disclose your information
+
+Your information will not be disclosed to any third parties without the following exceptions:
+
+#### Your Consent
+
+We will only disclose or share your information to other third parties with your consent.
+
+#### Business Partners
+
+We may disclose hashed and anonymized information to our business partners, for example, business partners who provide data analytics services or advertisings and marketing communications based on the hashed and anonymized information.
+
+#### Service Providers
+
+We may disclose and share your information to our service providers that provide services for or on behalf of us, for instance, service providers assist us with sending marketing communications, providing customer support, delivering purchases and billing. These service providers shall only use your information in compliance with our instruction and with the scope of the purposes hereof; Asus ensures that all of our service providers strictly comply with the Privacy Policy.
+
+#### For legal, protection, security purposes
+
+We may disclose or share your information with third parties for legal or security purposes:
+
+  * To the extent it is required by applicable laws or regulations or competent governmental or judicial authorities, necessary to establish or preserve a legal claim or defense, or necessary to prevent fraud or other illegal activities. 
+  * To protect the rights, property or safety of ASUS, our service providers, customers or the public, as required or permitted by law.
+
+
+
+### International transfers of your information
+
+You understand and consent to the transfer, storage, use or process of your information to ASUS and any of its affiliated companies, service providers who may be located in a different country to you. All said transfer, storage, or process of your information, shall be subject to the Privacy Policy and applicable laws on privacy protection and personal information security.
+
+### Cookies and similar technologies
+
+ASUS uses cookies and similar technologies, such as web beacons to provide our SERVICE:
+
+#### Cookies
+
+Cookies are small text files placed on your devices to personalize your user experience on our SERVICE. Cookies will not collect information that identifies you:  
+
+
+  * Sign-up and authentication: We use cookies to store your unique sign-up ID number and authentication information on your device. Cookies allow you to visit and move from page to page within our websites without having to log in again on subsequent visits.
+  * Storing your preferences and settings: Cookies maintain your settings and preferences on your devices, such as your preferred language or location; by storing the settings in cookies, it is not a necessity to reapply your preferences and settings each time you visit our websites.
+  * Analytics: We use cookies to count the number and length of your visit on our websites as well as which part or features you visit the most as well. This information helps us analyze the performance and operation of our SERVICE to improve performance and develop new features, functions and services.
+  * Advertising: We use cookies to collect data about your use on our websites and identify your interests, such as the advertisings you have viewed. ASUS, and our business partners, use this data so that we can provide advertising that is most relevant to you.
+
+
+
+Please note, you can configure cookies preferences by accessing [tools and settings] of the browser to accept, block or delete cookies. The location of the [tools and settings] of the browser may vary depending on the browser you install, please visit browser’s privacy or support page for further information. Certain features of our SERVICE depend on the use of cookies, if you choose to disable cookies, you may not be able to use the all of the features of our websites.
+
+Cookies used on our websites have been categorized below; you may also refer to the charts to know which cookies we use on our websites and who hosts it:
+
+Category 1: performance Cookies  
+Category 2: functionality Cookies  
+Category 3: targeting Cookies or advertising Cookies
+
+###### Category 1: performance cookies
+
+Cookies collect information about how you use our websites, for instance which pages you go to most often, and if you get error messages from our web pages. Cookies will not collect information that identifies you. All information cookies collect is aggregated and anonymous. They are only used to improve the performance of our websites. Cookie Name | Host  
+---|---  
+Google Analytics | Google Inc.  
+TagMan | Ensighten, Inc.  
+eTrack | eTrack Products Pty. Ltd  
+Crazyegg | Crazy Egg, Inc  
+MIGO | MIGO Corp.  
+Yandex Metrica | Yandex Europe AG  
+Optimizely | Optimizely, Inc.  
+  
+
+
+###### Category 2: functionality cookies
+
+Cookies allow our websites to save your settings and preferences (such as your preferred language or the region you are in) in order to provide you with a more personal and consistent experience each time you visit our websites.
+
+For instance, our websites are able to remember the web pages you recently viewed, the number of times you visit the forums listed on our websites or allow you to review the devices you recently compared on our websites. Cookies can also be used to remember changes you have made to text size, fonts and other parts of our websites that you can customize. Cookies may also be used to provide service you have asked for, such as watching a video on our websites. The collected information such as your browsing activities on our websites is anonymized and cannot be tracked by non-ASUS websites.
+
+Cookies Name | Host  
+---|---  
+Popup | ASUS  
+ProductGroup_RelationId | ASUS  
+comparecookiename | ASUS  
+isBusiness | ASUS  
+recently | ASUS  
+Lang | ASUS  
+Google Tag Manager | Google Inc.  
+  
+
+
+###### Category 3: targeting cookies or advertising cookies
+
+Cookies are used to deliver advertising that is more relevant to you and your interests by storing how you use our SERVICE. Cookies are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. ASUS places cookies by using advertising campaign services, such as Hubrus DSP, Google AdWords, and Google DoubleClick. The information cookies collect is only used between ASUS and advertising campaign service providers. Cookie Name | Host  
+---|---  
+Google AdWords: Conversion, and Remarketing Cookies | Google Inc.  
+Google DoubleClick | Google Inc.  
+Facebook: Conversion, and Remarketing Cookies | Facebook, Inc.  
+Adform | Adform  
+Hubrus DSP | HUBRUS  
+  
+
+
+  * Web Beacons  
+A web beacon is an often-transparent graphic 1x1 (pixel) GIF or PNG image that is implemented on websites or in an email to measure the effectiveness of campaigns. ASUS or our service providers may use web beacons to know if you visit certain pages or click links on our websites. We may implement web beacons in our marketing communications such as eDMs or ASUS newsletters to know which communication contents you have clicked or read. We will use the information from web beacons to improve our websites and SERVICE.
+
+  
+
+
+#### Third-party links on our websites
+
+Our SERVICE may contain links to third-party websites. Please be aware that ASUS is not responsible for the security, the privacy practices and the materials of those third-party websites. We encourage you to be aware of when you leave our SERVICE, and to read the privacy statements of those third-party websites carefully. This Privacy Policy applies to ASUS SERVICE only.
 
 #### Security
 
-We take precautions to protect your personal information against unauthorized access or unauthorized alteration, disclosure or destruction. These include internal reviews of our personal information collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store your personal information. 
+We take precautions to protect your information against unauthorized access, alteration, disclosure or destruction. We conduct internal reviews of our information collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store your information.   
+Transmission of information between different locations of ASUS and its affiliated companies is performed through our secured wide area network. When you submit your information to us, your information is protected both online and offline.  
+However, ASUS cannot guarantee perfect security on the internet. To protect your data from unauthorized access, we recommend that you:
 
-Transmission of personal information between different locations of ASUS affiliated companies is performed through our secured wide area network. When you submit personal information via the SERVICE, your information is protected both online and offline. 
+  * To use alphanumerical passwords when signing up ASUS Member account.
+  * To change your passwords on a regular basis.
+  * To keep your devices up to date by applying the latest available security updates for your software and use such tools as virus/spyware scanners.
 
-However, ASUS cannot guarantee a perfect security on the internet. When using the internet, we recommended that you use alphanumerical usernames and passwords and change your passwords on a regular basis, as well as keep your computer up to date by applying the latest available security updates for your software and using such tools as virus/spyware scanners.
+If you become aware of a technical vulnerability affecting ASUS SERVICE, please do not hesitate to contact us through **privacy@asus.com**
 
-#### How You Can Access Your Information
+#### Manage Your Information
 
-We want to help you keep your personal information accurate. You may view and change your registration information by logging in and editing your account settings on the SERVICE. For the security of your account, you will be required to sign in with your login ID and password.For further inquiries about personal information ASUS stores about you, kindly contact us through the email address mentioned in below section “Contacting Us”. 
+We want to help you keep your information accurate. You may view and change your information by logging in your ASUS Member account and editing your account information. 
 
-#### Additional Information Concerning Children’s Privacy
+For further inquiries about information ASUS collect about you, kindly contact us through **privacy@asus.com**
 
-We do not knowingly collect personal information from children without their parent’s or guardian’s consent. We encourage parents and guardians to take an active role in their children’s online activities and interests while using the SERVICE. 
+Whenever you use our SERVICE, we strive to maintain the accuracy of your data and protect your information against any accidental or malicious destruction. We will accommodate your requests regarding your data; however, we may not be able to fulfill all your requests in the following circumstances:
 
-If you are a child, please seek and verify your parent’s or guardian’s consent. Only after we verify your parent’s or guardian’s consent, you may submit personal information to us. Your parent or guardian can revoke any consent previously given.
+  * As required or permitted under application laws;
+  * For legitimate business purposes;
+  * Unreasonably repetitive requests that require
+  * disproportionate technical efforts and resources, for example, developing a new system or fundamentally changing the current practices;
+  * Potentially risks on the privacy of others;
+
+  
+
+
+#### Minor’s Privacy
+
+We do not knowingly collect information from a minor under the age of thirteen (13), or equivalent minimum age in the relevant jurisdiction, without parental consent. We encourage parents (or guardian) to take an active role in a minor’s online activities and interests while using our SERVICE. 
+
+If you are a minor, please seek parental consent before your use of our SERVICE. You may submit your information with parental consent to us only. Your parents (or guardian) can revoke any consent previously given at all times.
 
 #### Sensitive Personal Information
 
-ASUS will never ask you to provide sensitive personal information such as information about your medical or health record, political or religious beliefs, criminal offences alleged or committed criminal conviction background, sexual orientation, sexual life or genetic information. Please refrain from providing us with such information.
+ASUS will never ask you to provide sensitive information such as information about your medical or health records, political or religious beliefs, criminal offences (alleged, or committed), criminal conviction background, sexual orientation, sexual history, behavior or genetic information. Please refrain from providing us with such information.
 
-#### Links to Third Party Web Sites and Service
+#### Changes to ASUS Privacy Policy
 
-This SERVICE may contain links to other web sites, or use service provided by others (including but not limited to Google Service as identified below and Social Plugins) (hereinafter collectively referred to as “Third Party Service”). Please be aware that ASUS is not responsible for the security or the privacy practices of Third Party Service. We encourage you to be aware of when you leave the SERVICE, and to read the privacy statements of Third Party Service that collects personal information. This Privacy Policy applies only to ASUS services. 
-
-This SERVICE may contain Google Service such as AdWords, Google Analytics and Display Advertising(including Remarketing、Google Display Network Impression Reporting、the DoubleClick Campaign Manager Integration and Google Analytics Demographics and Interest Reporting)( collectively referred to as “Google Service”). ASUS only use your information, such as age, gender and interests, which is collected by Google Service, in an aggregated form for the purposes of SERVICE analysis anonymously. Moreover, we may show your favorable items on sites across the internet when we learn more about your internet browsing habit through Google Service.You may refuse the use of AdWords, Google Analytics and Display Advertising by visiting [https://www.google.com/settings/ads.](https://www.google.com/settings/ads)
-
-#### Changes to The Privacy Policy
-
-We may modify the Privacy Policy at any time, so please review it frequently. If we make substantial changes to it, we will notify you by means of a notice on our homepage. 
+We may change the Privacy Policy from time to time, we highly recommend you periodically review the Privacy Policy posted on our websites. By accessing or using our SERVICE after the Privacy Policy has been updated, ASUS will deem that you consent to the Privacy Policy, including any updates. The most current version of the Privacy Policy will always be available on this page; a prominent notice such as email notification will be delivered to you about any significant changes. You can always check the “updated time” at the bottom for the most current version of Privacy Policy.
 
 #### Contacting Us
 
-If you have any inquiries, questions, comments or complaints about the Privacy Policy, or if you believe that ASUS did not comply with the Privacy Policy, please feel free to contact ASUSTeK COMPUTER INC. 
-
-  
-Legal Compliance Department  
+If you have any inquiries, questions, comments or complaints about the Privacy Policy, or if you believe that ASUS did not comply with the Privacy Policy, please feel free to contact us. ASUSTeK COMPUTER INC.   
+Legal Compliance Department   
 Legal Affairs Center   
 15, Li-Te Rd.,   
 Taipei 112,   
 Taiwan  
-[privacy@asus.com](mailto:privacy@asus.com)  
-Updated April 01, 2014 by ASUS Legal Affairs Center
+ **privacy@asus.com**  
+Updated March 23, 2016 by ASUS Legal Affairs Center
