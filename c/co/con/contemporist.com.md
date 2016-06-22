@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contemporist.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210044617id_/http%3A//www.contemporist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contemporist.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622042351id_/http%3A//www.contemporist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CONTEMPORIST
 
