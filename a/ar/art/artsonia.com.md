@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215144913id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623000237id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia - Privacy Policy
 
 #### Privacy Policy
 
-At Artsonia, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Artsonia's Privacy Policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility. All capitalized terms that are not defined in the Privacy Policy below shall have the meanings given in the [Terms and Conditions of Use](https://web.archive.org/web/20151215144913id_/http%3A//www.artsonia.com/terms.asp). 
+At Artsonia, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Artsonia's Privacy Policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility. All capitalized terms that are not defined in the Privacy Policy below shall have the meanings given in the [Terms and Conditions of Use](https://web.archive.org/web/20160623000237id_/http%3A//www.artsonia.com/terms.asp). 
 
 **1\. Information Provided By All Users of the Website**
 
