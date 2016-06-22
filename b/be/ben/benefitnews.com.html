@@ -1,1561 +1,450 @@
-<!--The following is the downloaded HTML source of the benefitnews.com privacy policy that was archived on 2015-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150912041538id_/http%3A//ebn.benefitnews.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benefitnews.com privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622063205id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" moznomarginboxes="" mozdisallowselectionprint=""><head>
+			<title>SourceMedia: Privacy Policy</title>
+	<link rel="shortcut icon" href="/favicon.ico?v=2">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+			<meta name="keywords" content="daily newspaper, national, business, business technology, technology, editorial, books, job market, careers, new york region, charts, market indexes, SourceMedia, media, financial services, business tools, Observer Capital, analytics, capital markets, american banker, banking, accounting, benefits, mortgages">		<meta name="description" content="<p>This Privacy Policy covers SourceMedia’s treatment of information we collect when you are on our site and when you use our services. </p>">
+	<link rel="stylesheet" href="/css/base.css?v=06221601" type="text/css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        
+	<script type="text/javascript" async="" src="//c.lytics.io/api/tag/103fde727a1ea242164d0420f5e2bcdf/lio.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-
-				
-		
-<script>
-		window.showInterstitial = false;
-		window.showWelcomeAd = false;
-</script>
-
-		
-	<link rel="stylesheet" type="text/css" href="http://cdn.benefitnews.com/css/wa-styles.css">
-		<style>		
-											#wait { display: none; }
-			
-	</style><!-- /css overrides -->		
-					
-			
-
-		
-	<script>
-	(function($){ // anon function
-		var debug = false;
-		
-		window.welcomeId = 'ebn';
-		if (debug) console.log("Welcome Id: "+welcomeId);
-		welcomeId += welcomeId ? '_' : '';
-		var waDomain = ".benefitnews.com";
-				
-		// General Cookie functions
-		setCookie = function(cookieName, cookieValue, expire) {
-			if (expire) {
-				var expires = "; expires=" + expire.toGMTString();
-			}
-			else var expires = "";
-			document.cookie = cookieName + "=" +  escape(cookieValue) + "; domain=" + escape(waDomain) + expires + "; path=/";
-		}
-		
-		getCookie = function(cookieName) {
-			var i,x,y,ARRcookies=document.cookie.split(";");
-			for (i=0;i<ARRcookies.length;i++) {
-				x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-				y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-				x=x.replace(/^\s+|\s+$/g,"");
-				if (x==cookieName) {
-					return unescape(y);
-				}
-			}
-			return null;
-		}
 	
-		function deleteCookie (name) {
-			var exp = new Date();
-			exp.setTime (exp.getTime() - 1);
-			var cval = getCookie (name);
-			document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-		}
-		// END - General Cookie functions
-
-		if (debug) console.log('function loaded and called.');
-
-		// check if the welcome ad should fire
-		var userAgent = navigator.userAgent;
-		if (userAgent.indexOf("Sailthru Content Spider") == -1){
-			var now = (new Date()).getTime();
-			var interval = (1-0) * 60000;
-			var maxCount = 1 - 0;
-			var expire = (new Date()).getTime() + (24-0) * 3600000;
-			expire = new Date(expire);
-			if (getCookie(welcomeId + "wa_first") == null) { // never seen
-				setCookie(welcomeId + "wa_first", now, expire);
-				setCookie(welcomeId + "wa_last", now, expire);
-				setCookie(welcomeId + "wa_count", 1, expire);
-				showInterstitial = 'Welcome Ad';
-				showWelcomeAd = true;
-				if (debug) console.log('NEW. now: '+now+', expire: '+expire+', count: 1');
-			} else {
-				var count = getCookie(welcomeId + "wa_count") - 0;
-				var last_seen = getCookie(welcomeId + "wa_last") - 0;
-				if (interval > 0 && last_seen + interval < now && count < maxCount) {
-					setCookie(welcomeId + "wa_last", now, expire);
-					setCookie(welcomeId + "wa_count", count + 1, expire);
-					showInterstitial = 'Welcome Ad';
-					showWelcomeAd = true;
-					if (debug) console.log('now: '+now+', expire: '+expire+', count: '+(count+1)+' of '+maxCount);
-				} else if (debug) {
-					console.log('now: '+now+', expire: '+expire+', count: '+count+' of '+maxCount+', next: '+(last_seen+interval)+', diff: '+(last_seen+interval-now));
-				}
+	<link href="https://plus.google.com/+SourcemediaCo" rel="publisher">
+	<script type="application/ld+json">
+	{
+		"@context" : "http://schema.org",
+		"@type" : "Organization",
+		"name" : "SourceMedia",
+		"url" : "http://www.sourcemedia.com",
+		"logo" : "http://cdn.sourcemedia.com/media/ui/SM_CorpUI.png",
+		"sameAs" : [
+			"https://www.facebook.com/SourceMediaCo",
+			"https://www.linkedin.com/company/sourcemedia",
+			"https://plus.google.com/+SourcemediaCo",
+			"https://twitter.com/SourceMediaCo"
+		],
+		"contactPoint" : [
+			{ "@type" : "ContactPoint",
+				"telephone" : "+1-800-221-1809",
+				"contactType" : "customer service",
+				"contactOption" : "TollFree",
+				"areaServed" : "US"
+			} , {
+				"@type" : "ContactPoint",
+				"telephone" : "+1-212-803-8200",
+				"contactType" : "customer support",
+				"email" : "custserv@sourcemedia.com"
 			}
-			if (debug) console.log('showInterstitial: '+showInterstitial+', showWelcomeAd: '+showWelcomeAd);
-		} // end showWelcomeAd check
-
-		if (showWelcomeAd){
-		
-			$(function(){ // doc ready
-				if (debug) console.log('showing ad');
-			
-				function goBack(){
-					$('.welcome-overlay').hide();
-					$('html, body').css({overflow:""});
-				}
-				
-				var timer = 17000;
-				var count= timer/1000;
-				var timeSpent=0;
-				var counter;
-				function countdown(){
-					timeSpent++;
-					if (count-- <= 0) {
-						clearInterval(counter);
-						ga('send', 'event', 'Overlay Welcome Ad', 'Auto Redirect to Site', {'nonInteraction':1});
-						goBack();
-						return;
-					}
-				}
-				counter=setInterval(countdown, 1000); //1000 will run it every 1 second
-
-				ga('send', 'event', 'Overlay Welcome Ad', 'Impression', {'nonInteraction':1});
-				$('#wait').click(function() {
-					clearInterval(counter);
-					goBack();
-					ga('send', 'event', 'Overlay Welcome Ad', 'Skip Ad', 'Time Spent on Ad',timeSpent, {'nonInteraction':1});
-				});
-								setTimeout(function(){$('#wait').show();},1500);
-							}); // end doc ready
-		} // end if showWelcomeAd		
-
-	})(jQuery);
+		]
+	}
 	</script>
- 
 
-			<script type="text/javascript" src="http://cdn.benefitnews.com/custom/js/jquery.functions.js"></script>
-			
-		
-		<title>
-                                                Privacy Policy | Employee Benefit News
-                                    </title>
-	<link rel="Shortcut Icon" href="http://cdn.benefitnews.com/media/ui/icons/ebn.ico">
-	<link rel="apple-touch-icon" href="http://cdn.benefitnews.com/media/ui/ebn-apple-touch-icon-precomposed.png">
-
-			<meta name="title" content="Privacy Policy | Employee Benefit News">
-			
-				
-															
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-	<meta name="robots" content="noarchive">
-
-	  		<meta name="keywords" content="">
-		<meta name="description" content="">
-
+	<meta property="og:image" content="http://www.sourcemedia.com/media/ui/sourcemedia-og.png">
 	
-					
-	<meta property="og:title" content="Privacy Policy">	<meta property="og:site_name" content="Employee Benefit News">		
-		<meta property="og:image" content="http://cdn.benefitnews.com/media/ui/ebnbenefitnews-socialshare-logo.png">
-	<meta itemprop="image" content="http://cdn.benefitnews.com/media/ui/ebnbenefitnews-socialshare-logo.png">		
-	
-	
-	<link rel="stylesheet" type="text/css" media="Screen" href="http://cdn.benefitnews.com/css/shared-styles.css?v=09111523">
-	<link rel="stylesheet" type="text/css" media="Screen" href="http://cdn.benefitnews.com/css/zoomfixes.css?v=09111523">
-
-	
-	<link rel="stylesheet" href="http://cdn.benefitnews.com/css/print-styles.css?v=09111523" type="text/css" media="print">
-	
-
-	<link rel="stylesheet" type="text/css" href="http://cdn.benefitnews.com/custom/js/jcarousel/skins/tango/skin.css?v=09111523">
-	<link rel="stylesheet" type="text/css" href="http://cdn.benefitnews.com/custom/js/fancybox/jquery.fancybox-1.3.4.css">
-	<link rel="stylesheet" type="text/css" href="http://cdn.benefitnews.com/css/boxes.css">
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	<!--[if IE 7]>
-	<style>
-			#two-col-layout {overflow:visible;}
-			#footer {display:inline-block;}
-			#content {display:inline-block;}
-	</style>
-	<![endif]-->
-
-		
-	<script type="text/javascript">function addClassNames() { return false; }</script>
-		
-		
-
+	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 	
 <!-- Start Google Analytics Code -->
 <!-- Universal GA code for all sites -->
 <script>
-	window.intDomain = 'benefitnews.com';
+	window.intDomain = 'sourcemedia.com';
 </script>
-<script src="http://cdn.benefitnews.com/custom/js/ga-config.js"></script>
-<script src="http://cdn.benefitnews.com/custom/js/ga-pre.js"></script>
+<script src="http://cdn.sourcemedia.com/custom/js/ga-config.js"></script>
+<script src="http://cdn.sourcemedia.com/custom/js/ga-pre.js"></script>
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   
-	ga('create', 'UA-219761-37', 'benefitnews.com', {
+	ga('create', 'UA-219761-56', 'sourcemedia.com', {
 		'allowLinker': true
 	});
 	ga('require', 'linkid', 'linkid.js'); 
 	ga('require', 'linker');
 	ga('require', 'displayfeatures');
 	ga('linker:autoLink', ['sourcemediaconferences.com']);
-	ga('set', 'dimension3', 'non-registered-user');
 	ga('set', 'dimension4', 'No');
 	ga('set', 'dimension8', (new Date()).getHours());
-	ga('set', 'dimension18', 'attend|undefined');
+	ga('set', 'dimension18', 'undefined|undefined');
 	
 	
 	ga('send', 'pageview');
 	
 </script>
-<script src="http://cdn.benefitnews.com/custom/js/jquery.ga-clicks.js"></script>
+<script src="http://cdn.sourcemedia.com/custom/js/jquery.ga-clicks.js"></script>
 
-
-
-						
-		
-			
-			
-				
-					  
-		
+	</head>
+<body><a name="top"></a>
 	
 	
-		
-	
-
-				
-				
-					
-						
-							
-						
-							
-			
-			
-			<script type="text/javascript">
-			(function() {
-				var useSSL = 'https:' == document.location.protocol;
-				var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-				document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-			})();
-		</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-		<script>
-		
-var smallbanner = googletag.defineSlot("/16059533/EBNBenefitNews", [468, 60], "smallbanner")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "smallbanner");
-var skyscraper = googletag.defineSlot("/16059533/EBNBenefitNews", [120, 600], "skyscraper")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "skyscraper");
-var bigbox1 = googletag.defineSlot("/16059533/EBNBenefitNews", [[300, 250],[300,600]], "bigbox1")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "bigbox1");
-var bigbox2 = googletag.defineSlot("/16059533/EBNBenefitNews", [[300, 250],[300,600]], "bigbox2")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "bigbox2");
-var bigbox3 = googletag.defineSlot("/16059533/EBNBenefitNews", [300, 250], "bigbox3")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "bigbox3");
-var bigbox4 = googletag.defineSlot("/16059533/EBNBenefitNews", [300, 250], "bigbox4")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "bigbox4");
-var bigbox5 = googletag.defineSlot("/16059533/EBNBenefitNews", [300, 250], "bigbox5")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "bigbox5");
-if (showWelcomeAd) { var welcomead = googletag.defineSlot("/16059533/EBNBenefitNews", [640, 480], "welcomead")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "welcomead") };
-var leaderboard = googletag.defineSlot("/16059533/EBNBenefitNews", [728, 90], "leaderboard")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "leaderboard");
-var pushdown = googletag.defineSlot("/16059533/EBNBenefitNews", [[970, 66],[970, 90]], "pushdown")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "pushdown");
-var searchsponsor = googletag.defineSlot("/16059533/EBNBenefitNews", [88, 31], "searchsponsor")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "searchsponsor");
-var pillarLeft = googletag.defineSlot("/16059533/EBNBenefitNews", [188, 1050], "pillarLeft")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "pillarLeft");
-var pillarRight = googletag.defineSlot("/16059533/EBNBenefitNews", [188, 1051], "pillarRight")
-	.addService(googletag.pubads())
-	.setTargeting("ebn_pos", "pillarRight");
-googletag.pubads().enableSyncRendering();
-//googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-		</script>
-		
-
-
-
-</head>
-
-<body class="ebn">
-
-
-	
-	
-			
-		<div class="welcome-overlay" style="display:none;">
-			<div class="interstitial_ad_wrapper">
-				<div class="header">
-					<div class="thought_of_the_day">
-						<img class="welcome-logo" src="http://cdn.benefitnews.com/media/newspics/ebn_logo_welcome.gif" alt="">
-					</div>
-					<div class="continue">
-						<div class="holdMe"><a id="wait" class="continue">Continue to Site »</a></div>
-					</div>
-					<div class="clear"></div>
-				</div>
-				<div class="ad_wrapper"><center><p>ADVERTISEMENT</p><div id="welcomead" style="width: 640px;height: 480px;">
-	<script type="text/javascript">
-		if (showWelcomeAd) { googletag.display("welcomead") }
-	</script>
-</div></center></div>
-			</div>
-		</div>
-		<script>
-			if (showWelcomeAd) {
-				$('.welcome-overlay').show();
-				$('html, body').css({overflow: "hidden"});
-			}
-		</script>
-		
-	
-
-	<a id="inline-custom-interstitial" href="/ad_includes/custom_interstitial_toggle.html" class="iframe" rel="nofollow"></a>
-
-<div id="header" class="clearfix">
-<div style="float:right;margin-top: -15px;padding-right: 60px;">
-		</div>
-
-
-	<div id="header-content" class="clearfix">
-		<div class="leaderboard-ad">
-			<div id="leaderboard" style="width: 728px;height: 90px;">
-	<script type="text/javascript">
-		googletag.display("leaderboard")
-	</script>
-</div>
-		</div>
-	</div>
-
-<div id="header-bottom" class="clearfix">
-
-			<div id="logo" class="left">
-			<h4 class="logo"><a href="http://ebn.benefitnews.com"><img src="http://cdn.benefitnews.com/media/ui/ebn-logo-header.png" border="0" alt="Employee Benefit News" style="display:block;"></a></h4>		</div>
-
-		
-
-	<div id="search" class="right">
-		<div class="holder clearfix">
-				<div class="links-holder right">
-					<div class="links top">
-			<a href="/register">Sign Up</a> &nbsp; | &nbsp; <a href="#signInContainer" class="fancybox">Sign In</a>					</div>
-				</div>
-		</div>
-		<div class="holder clearfix">
-						<div id="search-sponsored-by" class="right">
-				<div id="searchsponsor">
-	<script type="text/javascript">
-		googletag.display("searchsponsor")
-	</script>
-</div>
-			</div>
-						<div id="search-box" class="right">
-				<form name="search" id="form1" action="/search/index.html">
-					<input type="hidden" name="zkDo" value="search" id="zkDo">
-					<input type="hidden" name="frommonth" value="03">
-					<input type="hidden" name="fromday" value="11">
-					<input type="hidden" name="fromyear" value="2014">
-					<input type="hidden" name="tomonth" value="09">
-					<input type="hidden" name="today" value="11">
-					<input type="hidden" name="toyear" value="2015">
-					<input type="hidden" name="publication" value="all_articles">
-					<div class="left" id="search-text"><input name="query" id="term" class="web-search-box"></div>
-					<div class="left" id="search-button"><input type="image" src="http://cdn.benefitnews.com/media/ui/mag-glass.png"></div>
-				</form>
-			</div><!-- search box -->
-			<div class="social-media clearfix right">
-																										<a href="http://www.facebook.com/EBNmagazine" target="_blank" rel="me"><img src="http://cdn.benefitnews.com/media/ui/facebook-20x20.png"></a>
-				<a href="http://twitter.com/EBNmagazine" target="_blank" rel="me"><img src="http://cdn.benefitnews.com/media/ui/twitter-20x20.png"></a>
-				<a href="http://www.linkedin.com/groups/Employee-Benefit-News-1749077" target="_blank" rel="me"><img src="http://cdn.benefitnews.com/media/ui/linkedin-20x20.png"></a>
-				<a href="http://plus.google.com/102905249302474538813" target="_blank" rel="me"><img src="http://cdn.benefitnews.com/media/ui/google-20x20.png"></a>
-			</div>
-		</div>
-	</div><!-- search -->
-</div><!-- header-bottom -->
-
-
-<div id="global-menu" class="clearfix">
-	<div class="nav-container">
-		<div id="publication-links" class="left">
-		<a href="http://ebn.benefitnews.com/video/">Videos</a> | <a href="http://ebn.benefitnews.com/gallery/ebn/">Slideshows</a> | <a href="http://ebn.benefitnews.com/podcasts/">Podcasts</a> | <a href="http://ebn.benefitnews.com/newsletters/">Newsletters</a> | <a href="http://ebn.benefitnews.com/magazine/">Current Issue</a> | <a href="http://ebn.benefitnews.com/events/calendar/">Conferences</a>
-		</div>
-		<div id="site-links" class="right">
-		<span class="datetime">Visit</span> <a href="http://ebn.benefitnews.com/eba/" style="font-size:12px;">Employee Benefit Adviser</a>		</div>
-	</div>
-</div>
-
-<div id="wrapper">
-	
-				
-							<style> .wallpaper { margin-left:-135px; position:absolute;margin-top:-196px;z-index:-100; } .wallpaper_fixed { margin-left:-135px; position:fixed;margin-top:-288px;z-index:-100; } .pillar_ad_left { margin-left:-188px; position:fixed;margin-top:-214px; } .pillar_ad_right { margin-left:1026px; position:fixed;margin-top:-214px; } .pillar_ad_fixed_left {  position:fixed; margin-left:-188px; margin-top: -248px; } .pillar_ad_fixed_right {  position:fixed; margin-left:1026px; margin-top: -248px; } .pillar_ad_fixed_left_gallery {  position:fixed; margin-left:-188px; margin-top: -228px; } .pillar_ad_fixed_right_gallery {  position:fixed; margin-left:1026px; margin-top: -228px; } </style> 
-  
- <!--[if lt IE 8]> <style>  
- .fixed_ad { display:none; } .absolute_ad { display:none; } .skin_ad { display:none; } </style> <![endif]-->
-											<div class="pillar_ad_left" id="pillar_left_ad"><div id="pillarLeft" style="width: 188px;height: 1050px;">
-	<script type="text/javascript">
-		googletag.display("pillarLeft")
-	</script>
-</div></div>
-
-<div class="pillar_ad_right" id="pillar_right_ad"><div id="pillarRight" style="width: 188px;height: 1051px;">
-	<script type="text/javascript">
-		googletag.display("pillarRight")
-	</script>
-</div></div>
-									
-	
-
-<div id="primary-menu">
-	<div class="nav-container">
-		<ul class="nav-items">
-										<li class="off nav-item" id="menu-1"><a href="http://ebn.benefitnews.com/employer-strategies/">Employer<br>Strategies</a></li>
-											<li class="off nav-item" id="menu-2"><a href="http://ebn.benefitnews.com/health-care/">Health<br>Care</a></li>
-											<li class="off nav-item" id="menu-3"><a href="http://ebn.benefitnews.com/voluntary/">Voluntary</a></li>
-											<li class="off nav-item no-arrow" id="menu-4"><a href="http://ebn.benefitnews.com/health-care-reform/">Health&nbsp;Care<br>Reform</a></li>
-											<li class="off nav-item" id="menu-5"><a href="http://ebn.benefitnews.com/regulation/">Regulation</a></li>
-											<li class="off nav-item" id="menu-6"><a href="http://ebn.benefitnews.com/retirement/">Retirement</a></li>
-											<li class="off nav-item" id="menu-7"><a href="http://ebn.benefitnews.com/exchanges/">Exchanges</a></li>
-											<li class="off nav-item no-arrow" id="menu-8"><a href="http://ebn.benefitnews.com/insurance-industry-news/">Insurance</a></li>
-													<li class="off nav-item flyout-last" id="menu-9"><a href="http://ebn.benefitnews.com/resource-center/">Resource<br>Center</a></li>
-		</ul>
-	</div><!-- content center -->
-</div><!-- primary-menu -->
-
-
+<!-- Start Lytics -->
 <script type="text/javascript">
-	$(document).ready(function() {
-		var delayAmount=100;
-		$("#menu-1").hover(
-			function () {$("#hidden-1").delay(delayAmount).fadeIn();$("#menu-1").addClass("on");},
-			function () {$("#hidden-1").hide();$("#hidden-1").clearQueue();$("#menu-1").removeClass("on");}
-		);
-		$("#menu-2").hover(
-			function () {$("#hidden-2").delay(delayAmount).fadeIn();$("#menu-2").addClass("on");},
-			function () {$("#hidden-2").hide();$("#hidden-2").clearQueue();$("#menu-2").removeClass("on");}
-		);
-		$("#menu-3").hover(
-			function () {$("#hidden-3").delay(delayAmount).fadeIn();$("#menu-3").addClass("on");},
-			function () {$("#hidden-3").hide();$("#hidden-3").clearQueue();$("#menu-3").removeClass("on");}
-		);
-		$("#menu-4").hover(
-			function () {/*$("#hidden-4").delay(delayAmount).fadeIn();*/$("#menu-4").addClass("on");},
-			function () {/*$("#hidden-4").hide();$("#hidden-4").clearQueue();*/$("#menu-4").removeClass("on");}
-		);
-		$("#menu-5").hover(
-			function () {$("#hidden-5").delay(delayAmount).fadeIn();$("#menu-5").addClass("on");},
-			function () {$("#hidden-5").hide();$("#hidden-5").clearQueue();$("#menu-5").removeClass("on");}
-		);
-		$("#menu-6").hover(
-			function () {$("#hidden-6").delay(delayAmount).fadeIn();$("#menu-6").addClass("on");},
-			function () {$("#hidden-6").hide();$("#hidden-6").clearQueue();$("#menu-6").removeClass("on");}
-		);
-		$("#menu-7").hover(
-			function () {$("#hidden-7").delay(delayAmount).fadeIn();$("#menu-7").addClass("on");},
-			function () {$("#hidden-7").hide();$("#hidden-7").clearQueue();$("#menu-7").removeClass("on");}
-		);
-		$("#menu-8").hover(
-			function () {/*$("#hidden-8").delay(delayAmount).fadeIn();*/$("#menu-8").addClass("on");},
-			function () {/*$("#hidden-8").hide();$("#hidden-8").clearQueue();*/$("#menu-8").removeClass("on");}
-		);
-		$("#menu-9").hover(
-			function () {$("#hidden-9").delay(delayAmount).fadeIn();$("#menu-9").addClass("on");},
-			function () {$("#hidden-9").hide();$("#hidden-9").clearQueue();$("#menu-9").removeClass("on");}
-		);
-		$("#hidden-1").hover(function () {$("#hidden-1").show();},function () {$("#hidden-1").hide();});
-		$("#hidden-2").hover(function () {$("#hidden-2").show();},function () {$("#hidden-2").hide();});
-		$("#hidden-3").hover(function () {$("#hidden-3").show();},function () {$("#hidden-3").hide();});
-		/*$("#hidden-4").hover(function () {$("#hidden-4").show();},function () {$("#hidden-4").hide();});*/
-		$("#hidden-5").hover(function () {$("#hidden-5").show();},function () {$("#hidden-5").hide();});
-		$("#hidden-6").hover(function () {$("#hidden-6").show();},function () {$("#hidden-6").hide();});
-		$("#hidden-7").hover(function () {$("#hidden-7").show();},function () {$("#hidden-7").hide();});
-		/*$("#hidden-8").hover(function () {$("#hidden-8").show();},function () {$("#hidden-8").hide();});*/
-		$("#hidden-9").hover(function () {$("#hidden-9").show();},function () {$("#hidden-9").hide();});
-	});
+window.jstag=function(e){var t={_q:[],_c:{},ts:(new Date).getTime()},e=!1,i=(window,document),n="/static/io",s=".min.js",r=Array.prototype.slice,a="//c.lytics.io",c="//c.lytics.io",o="io";return t.init=function(e){return c=e.url||c,s=e.min===!1?".js":s,o=e.tag||o,t._c=e,this},t.load=function(){var t,r=i.getElementsByTagName("script")[0];return e=!0,i.getElementById(n)?this:(t=i.createElement("script"),n=a+"/static/"+o+s,t.id=n,t.src=n,r.parentNode.insertBefore(t,r),this)},t.bind=function(t){e||this.load(),this._q.push([t,r.call(arguments,1)])},t.ready=function(){e||this.load(),this._q.push(["ready",r.call(arguments)])},t.send=function(){return e||this.load(),this._q.push(["ready","send",r.call(arguments)]),this},t}(),window.jstag.init({ cid: "103fde727a1ea242164d0420f5e2bcdf", url:'//c.lytics.io', min:false }),function(t){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//c.lytics.io/api/tag/"+t+"/lio.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(e,i)}("103fde727a1ea242164d0420f5e2bcdf");
 </script>
+<!-- End Lytics -->	
 
-		<div id="hidden-1" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-													<div class="blog-watch-item">
-						<a href="/employer-strategies/benefits-communication/" class="accent">Benefits Communication</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/employer-strategies/benefits-management/" class="accent">Benefits Management</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/employer-strategies/benefits-strategy/" class="accent">Benefits Strategy</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/employer-strategies/plan-design-admin/" class="accent">Plan Design/Admin</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/employer-strategies/professional-life/" class="accent">Professional Life</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/employer-strategies/quality-of-life/" class="accent">Quality of Life</a>
-					</div>
-													        						</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																															<div class="article-related-links-item">
-									<a href="/news/employer-strategies/what-does-it-take-to-be-a-chro-2747293-1.html">What does it take to be a CHRO?</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/retirement/kraft-heinz-pushes-retirees-to-health-exchanges-to-cut-costs-2747289-1.html">Kraft Heinz pushes retirees to health exchanges to cut costs</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/how-would-uaw-co-op-get-into-gear-2747288-1.html">How would UAW CO-OP get into gear?</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/regulation/can-one-size-fit-all-2747286-1.html">Employment policies: Can one size fit all?</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/insurance-industry-news/ama-calls-for-regulatory-review-of-health-insurance-company-mergers-2747275-1.html">AMA calls for regulatory review of health insurance company mergers</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/retirement/401k-plan-access-seen-to-promote-financial-confidence-2747272-1.html">401(k) plan access seen to promote financial confidence</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/onsite-clinics-appealing-despite-cadillac-tax-uncertainties-2747269-1.html">Onsite clinics appealing, despite Cadillac tax uncertainties</a>
-								</div>
-																																				<div class="article-related-links-item last-item">
-									<a href="/news/retirement/3-ideas-that-could-reshape-the-us-retirement-system-2747266-1.html">3 ideas that could reshape the U.S. retirement system</a>
-								</div>
-																																	</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																			<div class="title left" style="width:100%;"><a href="/blog/ebviews/open-enrollment-if-you-build-it-will-they-come-2747292-1.html">Open enrollment: If you build it, will they come?</a></div>
-								</div>
-							</div>
-																																						
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																			<div class="title left" style="width:100%;"><a href="/blog/ebviews/avoiding-fmla-interference-claims-walking-a-fine-line-between-2747282-1.html">Avoiding FMLA interference claims: Walking a fine line between permissible, impermissible comments</a></div>
-								</div>
-							</div>
-																																						
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																			
-																							<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-				<div id="hidden-2" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-													<div class="blog-watch-item">
-						<a href="/health-care/dental/" class="accent">Dental</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/health-care/vision/" class="accent">Vision</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/health-care/health-plans/" class="accent">Health Plans</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/health-care/pharmacy/" class="accent">Pharmacy</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/health-care/wellness/" class="accent">Wellness</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/health-care/disease-management/" class="accent">Disease Management</a>
-					</div>
-													        						</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																															<div class="article-related-links-item">
-									<a href="/news/health-care/how-would-uaw-co-op-get-into-gear-2747288-1.html">How would UAW CO-OP get into gear?</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/voluntary/sun-life-strives-for-holy-grail-of-voluntary-benefits-with-2747279-1.html">Sun Life strives for ‘holy grail’ of voluntary benefits with Assurant acquisition</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/insurance-industry-news/ama-calls-for-regulatory-review-of-health-insurance-company-mergers-2747275-1.html">AMA calls for regulatory review of health insurance company mergers</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/voluntary/sun-life-to-buy-assurant-benefits-unit-2747274-1.html">Sun Life to buy Assurant benefits unit</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/medical-and-pharmacy-costs-continue-to-escalate-2747271-1.html">Medical and pharmacy costs continue to escalate</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/onsite-clinics-appealing-despite-cadillac-tax-uncertainties-2747269-1.html">Onsite clinics appealing, despite Cadillac tax uncertainties</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/aca-exchange-marketplace-enrollment-falls-to-99-million-us-says-2747267-1.html">ACA exchange marketplace enrollment falls to 9.9 million, U.S. says</a>
-								</div>
-																																				<div class="article-related-links-item last-item">
-									<a href="/news/health-care/bill-ford-says-health-care-co-op-possible-in-union-negotiations-bloomberg-2747246-1.html">Bill Ford says health care co-op possible in union negotiations</a>
-								</div>
-																																	</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																			<div class="title left" style="width:100%;"><a href="/blog/ebviews/open-enrollment-if-you-build-it-will-they-come-2747292-1.html">Open enrollment: If you build it, will they come?</a></div>
-								</div>
-							</div>
-																																						
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/Andrea-Davis-POP.gif">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/what-to-expect-at-this-years-bfe-2747263-1.html">What to expect at this year’s BFE</a></div>
-								</div>
-							</div>
-																																						
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																						<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-				<div id="hidden-3" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-													<div class="blog-watch-item">
-						<a href="/voluntary/disability/" class="accent">Disability</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/voluntary/life-insurance/" class="accent">Life Insurance</a>
-					</div>
-													        						</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																															<div class="article-related-links-item">
-									<a href="/news/voluntary/sun-life-strives-for-holy-grail-of-voluntary-benefits-with-2747279-1.html">Sun Life strives for ‘holy grail’ of voluntary benefits with Assurant acquisition</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/voluntary/sun-life-to-buy-assurant-benefits-unit-2747274-1.html">Sun Life to buy Assurant benefits unit</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/voluntary/how-to-combat-the-misconceptions-of-life-insurance-2747261-1.html">How to combat the misconceptions of life insurance</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/employer-strategies/working-parents-voice-need-for-flexibility-2747182-1.html">Working parents voice need for flexibility</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/voluntary/purchasing-power-jumps-in-to-financial-wellness-arena-2747157-1.html">Purchasing Power jumps in to financial wellness arena</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/regulation/5-tips-for-ada-compliance-2747097-1.html">5 tips for ADA compliance</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/voluntary/discount-purchase-programs-struggle-amid-sea-of-voluntary-offerings-2747066-1.html">Discount purchase programs struggle amid sea of voluntary offerings</a>
-								</div>
-																																				<div class="article-related-links-item last-item">
-									<a href="/news/employer-strategies/netflix-offers-new-parents-up-to-a-year-of-parental-leave-2747031-1.html">Netflix offers new parents up to a year of parental leave</a>
-								</div>
-																																	</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																			<div class="title left" style="width:100%;"><a href="/blog/ebviews/workplace-culture-is-king-2747145-1.html">Workplace culture is king</a></div>
-								</div>
-							</div>
-																																						
-																							
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																						<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-							<div id="hidden-5" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-													<div class="blog-watch-item">
-						<a href="/regulation/legislation/" class="accent">Legislation</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/regulation/compliance/" class="accent">Compliance</a>
-					</div>
-													        						</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																															<div class="article-related-links-item">
-									<a href="/news/regulation/can-one-size-fit-all-2747286-1.html">Employment policies: Can one size fit all?</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/retirement/gao-expresses-concerns-with-unclear-qdia-regulations-2747283-1.html">GAO expresses concerns with ‘unclear’ QDIA regulations</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/retirement/naifa-president-asks-congress-to-urge-dol-to-re-propose-fiduciary-rule-2747278-1.html">NAIFA president asks Congress to urge DOL to re-propose fiduciary rule</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care-reform/irs-allows-employers-to-test-run-aca-reporting-2747268-1.html">IRS allows employers to ‘test run’ ACA reporting</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/regulation/plan-ahead-for-new-dol-overtime-regulations-2747262-1.html">Plan ahead for new DOL overtime regulations</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care-reform/insurers-cant-deny-gender-transition-treatment-under-us-plan-2747254-1.html">Insurers can't deny gender transition treatment under U.S. plan</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/regulation/back-to-school-time-what-employers-need-to-know-about-parental-leave-2747251-1.html">Back to school time: What employers need to know about parental leave</a>
-								</div>
-																																				<div class="article-related-links-item last-item">
-									<a href="/news/practice-management/brokers-arent-serving-up-what-employers-want-2747240-1.html">Brokers aren’t serving up what employers want</a>
-								</div>
-																																	</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																			<div class="title left" style="width:100%;"><a href="/blog/ebviews/avoiding-fmla-interference-claims-walking-a-fine-line-between-2747282-1.html">Avoiding FMLA interference claims: Walking a fine line between permissible, impermissible comments</a></div>
-								</div>
-							</div>
-																																						
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/Andrea-Davis-POP.gif">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/what-to-expect-at-this-years-bfe-2747263-1.html">What to expect at this year’s BFE</a></div>
-								</div>
-							</div>
-																																						
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																						<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-				<div id="hidden-6" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-													<div class="blog-watch-item">
-						<a href="/retirement/defined-contribution-plans/" class="accent">Defined Contribution Plans</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/retirement/defined-benefit-plans/" class="accent">Defined Benefit Plans</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/retirement/personal-finance/" class="accent">Personal Finance</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/retirement/retirement-education/" class="accent">Retirement Education</a>
-					</div>
-													        						</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																		<div class="article-related-links-item">
-								<a href="/news/retirement/paychexs-ron-shaw-wins-benny-award-for-leadership-in-retirement-planning-2747247-1.html">Paychex’s Ron Shaw wins Benny Award for Leadership in Retirement Planning</a>
-							</div>
-																																												<div class="article-related-links-item">
-									<a href="/news/retirement/dols-ambitious-time-frame-for-fiduciary-rule-raises-questions-2747294-1.html">DOL’s ‘ambitious time frame’ for fiduciary rule raises questions</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/retirement/ge-explores-sale-of-pension-manager-overseeing-115-billion-2747290-1.html">GE explores sale of pension manager overseeing $115 billion</a>
-								</div>
-																																																																																																															</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/lawton1.jpg">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/401k-plan-money-market-fund-changes-are-coming-2747276-1.html">401(k) plan money market fund changes are coming</a></div>
-								</div>
-							</div>
-																																						
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/SpencerWilliams.jpg">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/what-to-look-for-in-a-roll-in-service-provider-2747250-1.html">What to look for in a roll-in service provider</a></div>
-								</div>
-							</div>
-																																						
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																						<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-				<div id="hidden-7" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-													<div class="blog-watch-item">
-						<a href="/exchanges/public-exchanges/" class="accent">Public Exchanges</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/exchanges/private-exchanges/" class="accent">Private Exchanges</a>
-					</div>
-														<div class="blog-watch-item">
-						<a href="/exchanges/technology/" class="accent">Technology</a>
-					</div>
-													        							<div class="blog-watch-item">
-            				<a href="/pbe-marketplace/index.html" class="accent">Private Benefits Exchange Marketplace</a>
-          			</div>
-				<div class="blog-watch-item">
-            				<a href="/pbe-marketplace/directory/index.html" class="accent">Private Benefits Exchange Index</a>
-          			</div>
-							</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																															<div class="article-related-links-item">
-									<a href="/news/retirement/kraft-heinz-pushes-retirees-to-health-exchanges-to-cut-costs-2747289-1.html">Kraft Heinz pushes retirees to health exchanges to cut costs</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/exchanges/cciio-to-launch-agent-hotline-for-federal-marketplace-2747287-1.html">CCIIO to launch agent hotline for federal marketplace</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care-reform/irs-allows-employers-to-test-run-aca-reporting-2747268-1.html">IRS allows employers to ‘test run’ ACA reporting</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/aca-exchange-marketplace-enrollment-falls-to-99-million-us-says-2747267-1.html">ACA exchange marketplace enrollment falls to 9.9 million, U.S. says</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/exchanges/cms-awards-67m-in-navigator-grants-for-public-exchange-2747252-1.html">CMS awards $67M in navigator grants for public exchange</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/bill-ford-says-health-care-co-op-possible-in-union-negotiations-bloomberg-2747246-1.html">Bill Ford says health care co-op possible in union negotiations</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care/time-inc-makes-a-bold-move-to-a-private-exchange-2747241-1.html">Time Inc. makes a bold move to a private exchange</a>
-								</div>
-																																				<div class="article-related-links-item last-item">
-									<a href="/news/exchanges/private-benefit-exchanges-face-challenges-on-backend-systems-2747237-1.html">Private benefit exchanges face challenges on backend systems</a>
-								</div>
-																																	</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/Andrea-Davis-POP.gif">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/be-selective-about-communication-technology-2747160-1.html">Be selective about communication technology</a></div>
-								</div>
-							</div>
-																																						
-																							
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																						<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-				<div id="hidden-8" class="hidden-div" style="display:none;">
-		<div class="clear">
-			<div class="col-1 left">
-				<div class="header">Topics</div>
-												        						</div>
-			<div class="col-2 left">
-				<div class="header">Most Recent</div>
-														
-																															<div class="article-related-links-item">
-									<a href="/news/retirement/naifa-president-asks-congress-to-urge-dol-to-re-propose-fiduciary-rule-2747278-1.html">NAIFA president asks Congress to urge DOL to re-propose fiduciary rule</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/insurance-industry-news/ama-calls-for-regulatory-review-of-health-insurance-company-mergers-2747275-1.html">AMA calls for regulatory review of health insurance company mergers</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/health-care-reform/irs-allows-employers-to-test-run-aca-reporting-2747268-1.html">IRS allows employers to ‘test run’ ACA reporting</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/insurance-industry-news/shareholders-sue-towers-watson-over-willis-merger-2747135-1.html">Shareholders sue Towers Watson over Willis merger</a>
-								</div>
-																																																	<div class="article-related-links-item">
-									<a href="/news/practice-management/should-brokers-be-thanking-zenefits-2747014-1.html">Should brokers be thanking Zenefits?</a>
-								</div>
-																																				<div class="article-related-links-item">
-									<a href="/news/exchanges/co-ops-reach-yet-another-tipping-point-2747011-1.html">CO-OPs reach yet another tipping point</a>
-								</div>
-																																														</div>
-			<div class="col-3 left">
-				<div class="header">Blog Posts</div>
-								
-																														
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/TravisTurner2.jpg">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/acos-what-are-they-how-do-they-work-and-are-they-right-for-you-2745940-1.html">ACOs: What are they, how do they work and are they right for you?</a></div>
-								</div>
-							</div>
-																																						
-																			<div class="article-related-links-item">
-								<div class="clearfix">
-									
-																																																																				<div class="left img-holder">
-											<img width="110" src="http://cdn.benefitnews.com/media/newspics/DebDominianni2.jpg">
-										</div>
-																		<div class="title left"><a href="/blog/ebviews/cdhp-transition-troublesome-for-employers-employees-alike-2745829-1.html">CDHP transition troublesome for employers, employees alike</a></div>
-								</div>
-							</div>
-																																						
-																							
-																									<div class="read-more right"><a href="http://ebn.benefitnews.com/blogs/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-			<div class="col-4 left">
-				<div class="header">Multimedia</div>
-																						<div class="article-related-links-item">
-						<p><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a></p>
-					</div>
-					<div class="multimedia-holder"><a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img width="233" src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg"></a></div>								<div class="read-more right"><a href="http://ebn.benefitnews.com/video/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-			</div>
-		</div>
-	</div>
-		
 
-<div id="hidden-9" class="hidden-div hidden-div-resources" style="display:none;">
-	<div class="clear">
-				<div class="col-1 left">
-							
-										<div class="header">Featured Event</div>
-						<div class="sub-col-title"><a href="http://ebn.benefitnews.com/conferences/benefits-forum/">Benefits Forum &amp; Expo</a></div>
-			<div>09/30/2015<br>Orlando, Fla.</div>
+	
+<div class="container_24">
+	<div class="grid_24 alpha omega" id="header">
+		<div class="grid_9 push_1" id="branding">
+			<h4 id="logo"><a href="http://www.sourcemedia.com"><img src="http://cdn.sourcemedia.com/media/ui/SM_CorpUI.png" title="SourceMedia" alt="SourceMedia"></a></h4>
 		</div>
-		<div class="col-3 left">
+		<div class="grid_13 push_1 omega" id="tagline">
+			<img src="http://cdn.sourcemedia.com/media/ui/sm_tagline2.png">
+		</div>
+	</div>
+	<div class="grid_24 alpha omega" id="content">
+		<div class="grid_1">&nbsp;</div>
+		<div class="grid_5" id="column-left">&nbsp;
+			<div id="sticky-left-rail">
+				<ul class="navigation-main">
+					<li><a href="/about/">About</a></li>
+					<li><a href="/announcements/corporate">Announcements</a></li>
+					<li><a href="/media-kits/">Advertising &amp; Media Kits</a></li>
+					<li><a href="/marketing-solutions/">Marketing Solutions</a></li>
+					<li><a href="/research-data/">Research &amp; Data</a></li>
+					<li><a href="/education-training/">Education &amp; Training</a></li>
+					<li><a href="/events/">Professional Events</a></li>
+					<li><a href="/subscribe/">Subscriptions</a></li>
+					<li><a href="https://careers-sourcemedia.icims.com" target="_blank">Careers</a></li>
+				</ul>
+							</div>
+		</div>
+		<div class="grid_12" id="column-main">
 			
-			<div class="header">Conferences</div>
-			
-																																																																																																																																																																																
-										<div class="article-related-links-item">
-												<div class="sub-col-title"><a href="http://ebn.benefitnews.com/conferences/summit/">Workplace Benefits Summit</a></div>
-						<div>September 30, 2015</div>
-						<div>Hilton Orlando Bonnet Creek, Orlando, FL</div>					</div>
 					
-																
-										<div class="article-related-links-item">
-												<div class="sub-col-title"><a href="http://ebn.benefitnews.com/conferences/benefits-forum/">Benefits Forum &amp; Expo</a></div>
-						<div>September 30, 2015</div>
-						<div>Hilton Orlando Bonnet Creek, Orlando, FL</div>					</div>
-					
-										<div class="read-more right"><a href="http://ebn.benefitnews.com/events/calendar/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-		</div>
-		<div class="col-3 left">
-			<div class="header">Web Seminars</div>
-						
-							                    					<div class="article-related-links-item">
-						<div class="article-related-links-title"><a target="_blank" href="http://pages.marketing.eba.benefitnews.com/20151029_eba_vsp_vision_care_ws_lp.html?source=site">Helping Your Clients Move up the Wellness Curve</a></div>
-					</div>
-                    				                    					<div class="article-related-links-item">
-						<div class="article-related-links-title"><a target="_blank" href="http://pages.marketing.sourcemedia.com/20151027_ebn_vsp_vision_care_ws_lp.html?source=site">Moving up the Wellness Curve</a></div>
-					</div>
-                    				                    					<div class="article-related-links-item">
-						<div class="article-related-links-title"><a target="_blank" href="http://pages.marketing.ebn.benefitnews.com/20151008_ebn_health_fitness_ws_lp.html?source=site">Well Beyond the Old College Try: Putting Employee Health into Action</a></div>
-					</div>
-                    				                    					<div class="article-related-links-item">
-						<div class="article-related-links-title"><a target="_blank" href="http://pages.marketing.ebn.benefitnews.com/20150929_ebn_morningstar_ws_lp.html">Solving the Retirement Crisis: Employers Are a Force for Change and Innovation</a></div>
-					</div>
-                    				                    					<div class="article-related-links-item">
-						<div class="article-related-links-title"><a target="_blank" href="http://pages.marketing.ebn.benefitnews.com/20150910_ebn_hub_intl_ws_lp.html?source=site">How New Technology is Changing the Landscape of Employee Benefits and Wellness</a></div>
-					</div>
-                    										<div class="read-more right"><a href="http://ebn.benefitnews.com/web-seminars/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-		</div>
-		<div class="col-3 left">
-			<div class="header">Whitepapers</div>
-						
-																	<div class="article-related-links-item">
-						<div class="article-related-links-title"><a href="/white-papers/steer-clear-of-the-cadillac-tax-2747299-1.html">Steer Clear of the Cadillac Tax</a></div>
-					</div>
-																			<div class="article-related-links-item">
-						<div class="article-related-links-title"><a href="/white-papers/exposing-the-top-5-myths-about-outsourcing-benefits-administration-2747281-1.html">Exposing the Top 5 Myths about  Outsourcing Benefits Administration</a></div>
-					</div>
-																			<div class="article-related-links-item">
-						<div class="article-related-links-title"><a href="/white-papers/a-guide-to-understanding-enterprise-healthcare-management-2747227-1.html">Solving the benefits puzzle: A guide to understanding Enterprise Healthcare Management</a></div>
-					</div>
-																			<div class="article-related-links-item">
-						<div class="article-related-links-title"><a href="/white-papers/avoid-the-benefits-sleepwalkers-2747222-1.html">Avoid the Benefits Sleepwalkers!</a></div>
-					</div>
-															<div class="read-more right"><a href="http://ebn.benefitnews.com/white-papers/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-		</div>
-		<div class="col-3 left">
-			<div class="header">eBooks</div>
-						
-																	<div class="article-related-links-item">
-						<div class="article-related-links-title"><a href="/digital-edition/getting-to-loyal-legal-services-2731106-1.html">Legal services increase employee satisfaction and retention</a></div>
-					</div>
-																			<div class="article-related-links-item">
-						<div class="article-related-links-title"><a href="/digital-edition/HealthMiles-2722077-1.html">Motivate. Measure. Manage.</a></div>
-					</div>
-															<div class="read-more right"><a href="http://ebn.benefitnews.com/digital-edition/"><img src="http://cdn.benefitnews.com/media/ui/hidden-more-btn.png"></a></div>
-		</div>
-			</div>
-</div>
- 
 
-	<div id="content-wrapper">
-		<div id="content" class="clearfix">
+	<h1>Privacy Policy</h1>				<p><b>SourceMedia</b> provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences. Our privacy policy continues our commitment to serve you and explains how we intend to protect your privacy. This Privacy Policy covers SourceMedia’s treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies <b>SourceMedia</b> does not own or control, or to individuals <b>SourceMedia</b> does not employ or manage, including operators of sites to which you may link from any <b>SourceMedia</b> web site. SourceMedia has created this privacy statement to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it. Please note your use of our Digital Offering is also governed by the Terms and Conditions of use.</p>
+<p><b>AMERICAN BANKER RESEARCH REFUND POLICY.</b> All sales of <em>American Banker Research: Issues + Actions</em> are final and no refunds will be issued after purchase is complete.</p>
 
-        
-																<div id="top-ad">
-						<div id="pushdown">
-	<script type="text/javascript">
-		googletag.display("pushdown")
-	</script>
-</div>
-					</div>
-																<div id="two-col-layout">
-									<div id="col-one" class=" left">
-						
+<h1><i>Information Collection and Dissemination</i></h1>
+<h1><i>General Principles</i></h1>
+<ul>
+<li>In general, you may visit this Digital Offering or use the companion mobile applications (collectively referred to as the "Digital Offering") without identifying yourself or revealing any personal information.
+</li><li>As you browse our Digital Offering, the Digital Offering collects log file, IP address of your computer, and other standard tracking data we use to evaluate Digital Offering traffic and usage patterns. Such information is aggregated with tracking data from all Digital Offering visitors. We will use the information to personalize the Digital Offering according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you.
+</li><li>Some portions of this Digital Offering may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation, (i) registration for attendance at certain SourceMedia trade shows, conferences and events; and (ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, social media groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information.
+</li><li>If you receive relevant newsletters from SourceMedia’s publications and do not opt-out of these communications, we may decide to send you related promotional emails from time to time that we deem relevant to you.
+</li><li>We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes.
+</li><li>If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. Other uses of Personal Information are described elsewhere in this Policy.
+</li><li>If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc.
+</li></ul>
 
-	
+<h1><i>Information Sharing</i></h1>
 
+<p>We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will share that information only in the manner described in this privacy Policy. When you register for the Digital Offering or related products and services and are asked for personal information, you are sharing that information with SourceMedia as well as business partners and vendors providing hosting and other services for SourceMedia. Unless you opt-out, we will share your Personal Information with SourceMedia’s affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out; send us an email to <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
 
+<p>Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service.</p>
 
+<h1><i>Aggregated Information</i></h1>
 
+<p>We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties. Information about your visits to, and activity on, SourceMedia web sites, an IP address, and the number of times you have viewed an advertisement and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We do this to focus our communications and provide you content, services and offers we believe may be of interest to you. Your aggregated information about your visits to, and activity on, SourceMedia web sites may be provided from time to time to our advertisers of Sponsored Content. Refer SourceMedia “Sponsored Content” section in this Privacy Policy. SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web seminars White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for such assets including information on your visits to, and activity on, SourceMedia web sites may be shared with those Sponsors in order to contact you regarding their products and services in their normal course of business.</p>
 
+<h1><i>HTML verification and email tracking</i></h1>
 
+<p>When receiving email from us, we may place a small piece of code in that email to determine whether or not you can accept HTML images and whether or not you viewed and/or clicked on links contained in the email. This process does not leave any information on your computer, nor does it collect information from your computer. Email opt-outs. In the event you decide to unsubscribe from our newsletters or promotional emails we will honor your request within thirty business days.</p>
 
+<h1><i>Information on Children</i></h1>
 
+<p>As a business-to-business company, we do not knowingly collect information from children under the age of 13. On-line registration and Digital Offering usage is restricted to adults who are professionally engaged in the businesses we serve. Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.</p>
 
-								
-	
-	
+<h1><i>Updating Visitor Information</i></h1>
 
-	
-					<div class="carousel-header plusbutton nobg clearfix">
-		<div class="title left">Privacy Policy</div>
-	</div>
-	<p class="snippet">
-</p><div id="subchannel-index">  
-<p>This privacy policy covers BenefitNews's treatment of personally identifiable information we collect when you are on the BenefitNews site, located at http://www.benefitnews.com/.  This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies BenefitNews does not own or control, or to individuals BenefitNews does not employ or manage, including operators of sites to which you may link from the BenefitNews Web site. </p>
-<p>This Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
-<p>The full text of our privacy policy is available on the Web at http://www.benefitnews.com/about/privacy.html Users may go to <a href="http://www.benefitnews.com/profile/">http://www.benefitnews.com/profile/</a> for information on how to opt-in or opt-out of use of their information. 
-We invite you to contact us if you have questions about this policy: </p>
-<p>Email: <a href="mailto:custserv@sourcemedia.com">click here</a> <br>
-Phone: (800) 221-1809 <br>
-Mail to:<br>
-SourceMedia <br>
+<p>Registered users have the option of accessing, correcting, updating and modifying Personal and/or Financial Information, or visitor profile, at any time and as often as desired. You may elect to stop receiving marketing material from SourceMedia or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting their member profile page or by following instructions at the end of any such e-mail received.</p>
+
+<p>If you desire to delete your Personal and/or Financial Information please contact us at <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>Update Your Newsletter Subscriptions</i></h1>
+
+<p>You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>Update Your Print Subscription Information</i></h1>
+
+<p>You can correct or change your print subscription information by sending an email to <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>. Please allow 2-4 weeks for changes to take effect.</p>
+
+<h1><i>Third Party and Affiliated Links</i></h1>
+
+<p>Our Digital Offerings contain external links to other Digital Offerings including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other Digital Offerings. We do not endorse any of these Digital Offerings or the products or services associated with such Digital Offerings merely because they are linked to our Digital Offering.</p>
+
+<h1><i>SourceMedia Magazines, Web Seminars, Events, Sites and Other Publications and Services</i></h1>
+
+<p>As a SourceMedia customer you can also expect to receive relevant email and postal offers for SourceMedia publications, web seminars, white papers, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customer’s specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For SourceMedia Digital Offerings not offering the subscription management page, please send your email preferences to <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>SourceMedia Sponsored Assets</i></h1>
+
+<p>SourceMedia produces a range of sponsored assets and custom marketing solutions for a variety of Sponsors including but not limited to; Events, Web Seminars, White Papers, Special reports, e-books, and other custom assets. All data collected during the registration for these assets will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Sponsors use the information you provide, please contact the Sponsor directly.</p>
+
+<p>If you have any questions, please contact <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>SourceMedia Events</i></h1>
+
+<p>SourceMedia events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.</p>
+
+<p>If you have any questions, please contact <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>SourceMedia Web Seminars</i></h1>
+
+<p>SourceMedia Web Seminars produces sponsored webcasts and online trade shows for a variety of Sponsors. All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please be aware you are directly providing your personally identifiable information to that advertiser. Please visit the Sponsor’s web site to review its privacy policy. For details on how SourceMedia’s Web Seminar Sponsors use the information you provide, please contact the Sponsor directly.</p>
+
+<p>SourceMedia Web Seminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering Web Seminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the Web Seminars service. Should you register for a SocurceMedia sponsored Web Seminar, you are consenting to provide your personable identifiable information to that Sponsor.</p>
+
+<p>If you have any questions, please contact <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>Online Ad Serving</i></h1>
+
+<p>We use third-party advertising companies to serve ads when you visit our Digital Offering. These companies may use information (not including your name, address email address or telephone number) about your visits to this Digital Offering and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <a href="http://www.networkadvertising.org/consumer/opt_out.asp">http://www.networkadvertising.org/consumer/opt_out.asp</a></p>
+
+<h1><i>Cookies</i></h1>
+
+<p>A "cookie" is a bit of data sent by a Web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. SourceMedia uses temporary, session-specific cookies to ensure visits to its Web site are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. SourceMedia also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves a SourceMedia Web site.</p>
+
+<p>If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Web site from functioning properly and you may not be able to utilize fully all of the site's features and information.</p>
+
+<p>We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic.</p>
+
+<h1><i>Pixel Tags</i></h1>
+
+<p>Like many web sites, SourceMedia may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small JavaScript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable JavaScript; or there are commercial software packages available that can omit pixel tags and most advertisements.</p>
+
+<h1><i>Opt-out Option</i></h1>
+
+<p>Visitors to this Digital Offering and related products and services can decide if they want to receive promotional information from SourceMedia. On the visitor registration pages, you are expressly providing your consent to receive advertising and promotional information from SourceMedia and our affiliate partners. Any e-mail you receive will include instructions on how to be removed from SourceMedia’s promotional e-mail list and 3rd party sponsored mailings. If you continue receiving email after opting out, please contact us at <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<h1><i>Security and Encryption</i></h1>
+
+<p>This Digital Offering takes commercially reasonable precautions to protect your information. When appropriate, we use SSL encryption technology on our Digital Offering and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our Digital Offering such as credit card and payment information is transmitted using commercially reasonable security over the Internet.</p>
+
+<p>This Digital Offering also uses password encryption to ensure your privacy when registering for newsletters, events, and other SourceMedia related media. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect through all channels. We maintain a secure process to collect, transmit, and store your personally identifiable information. When you provide credit-card information online, we use secure socket layer (SSL) encryption to protect it. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. Subscribers can review or change online subscription or credit-card information at any time at My Account.</p>
+
+<p>We urge you to keep your online password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place, such as a library or Internet cafe.</p>
+
+<h1><i>Notification of Changes</i></h1>
+
+<p>SourceMedia reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Digital Offering. Any such change, update or modification will be effective immediately upon posting on the Digital Offering. Please check back often to review the latest version of our Privacy Policy.</p>
+
+<h1><i>Your Acceptance of these Terms</i></h1>
+
+<p>By using our Digital Offering, products or services, you signify your acceptance of the terms of the SourceMedia Privacy Policy. If you do not agree to the terms of the SourceMedia Privacy Policy, please do not use the Digital Offering, products and/or services and exit the Digital Offering immediately.</p>
+
+<h1><i>Your rights</i></h1>
+
+<p>You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data. You can also notify us by contacting us at <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
+
+<p>The Digital Offering may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that SourceMedia does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites.</p>
+
+<h1><i>In The Event of Sale or Bankruptcy</i></h1>
+
+<p>The ownership of SourceMedia may change at some point in the future. Should that occur, we want to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of SourceMedia your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in “Changes to Privacy Policy.”</p>
+
+<h1><i>Changes to Privacy Policy</i></h1>
+
+<p>SourceMedia may amend this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent notice in our privacy policy or in other locations on our Web site or by sending you an email to inform you of our updated privacy policy.</p>
+
+<h1><i>Spam</i></h1>
+
+<p>We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting Customer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists.</p>
+
+<h1><i>Customer Service</i></h1>
+<a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a><br>
+(800) 221-1809<br>
+<br>
+Mail to:<br><br>
+SourceMedia<br>
 One State Street Plaza, 27th Floor <br>
 New York, NY 10004 <br>
-USA </p>
-<h3>Dispute Resolution and Privacy Seals</h3>
-<p>We have privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, please contact <a href="mailto:custserv@sourcemedia.com">customer service</a> so they can help you resolve your concern. </p>
-<h3>Additional Information</h3>
-<p>This policy is valid for 1 day from the time that it is loaded by a client. </p>
-<h3>Data Collection</h3>
-<p>P3P policies interpret the data collected and divide it into groups (also referred to as "statements"). BenefitNews’s policy contains three data groups. The data practices of each group will be explained as follows: </p>
-<h3>Group "Basic information"</h3>
-<p>We collect the following information: </p>
-<ul><li>Clickstream data</li>
-<li>HTTP protocol elements</li>
-<li>Search terms</li></ul>
-<p>This data will be used for the following purposes:</p>
-<ul><li>Completion and support of the current activity</li>
-<li>Web site and system administration</li>
-<li>Research and development</li></ul>
-<p>This data will be used by BenefitNews and our agents. <br>
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
-Data collected from all Web users: access logs and search strings (if entered).</p>
-<h3>Group "Cookies"</h3>
-<p>At the user's option, BenefitNews will collect HTTP cookies.</p>
-<p>This data will be used for the following purposes:</p>
-<ul><li>Completion and support of the current activity.</li>
-<li>Anonymous user analysis. The user must opt-in to this usage.</li>
-<li>Anonymous user profiling and decision-making. The user must opt-in to this usage.</li>
-<li>User analysis. The user must opt-in to this usage.</li>
-<li>User profiling and decision-making. The user must opt-in to this usage.</li></ul>
-<p>This data will be used by BenefitNews and our agents. <br>
-The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.</p>
-<h3>Group "Mailing registration"</h3>
-<p>At the user's option, we will collect the following data: </p>
-<ul><li>Online contact information</li>
-<li>Physical contact information</li>
-<li>Demographic data</li>
-<li>Preference data</li>
-<li>Given name (First name)</li>
-<li>Family name (Last name)
-</li><li>User's job title
-</li><li>Organization name
-</li><li>State or province
-</li><li>Postal code
-</li><li>Country name
-</li><li>Work email address</li></ul>
-<p>This data will be used for the following purposes:</p>
-<ul><li>Completion and support of the current activity.
-</li><li>User analysis. The user must opt-in to this usage.
-</li><li>White papers and Web Seminars may be sponsored material on the site. By accessing the assets the user information may be shared with the sponsors.</li></ul>
-<p>This data will be used by BenefitNews and our agents. In addition, the following types of entities will receive this information: </p>
-<ul><li>Others following the same practices. The user must opt-in to this data sharing.</li></ul>
-<p>The following explanation is provided for why this data is collected: This information is collected so that BenefitNews can send you valuable and useful information which is relevant to your needs and interests.</p>
-<h3>Cookies</h3>
-<p>Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.</p>
-<p>Our site makes use of cookies. Cookies are used for the following purposes:</p>
-<ul>
-<li>Completing the user's current activity</li>
-<li>Pseudononymous analysis</li>
-<li>Pseudonym-based decision-making</li>
-<li>User analysis</li>
-<li>Individual-based decision-making</li>
-</ul>
-<div style="padding-top: 5px; padding-bottom: 15px;"><hr></div>
-<h3>Compact Policy Summary</h3>
-<p>The compact policy which corresponds to this policy is:</p>
-<p>CP="CAO DSP LAW CURa ADMa DEVa PSAi PSDi IVAi IVDi CONi OUR SAMi BUS IND PHY ONL UNI COM NAV INT DEM STA PRE"</p>
-<p>The following table explains the meaning of each field in the compact policy.</p>
-<table style="padding: 5px;" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td align="center"><b>Field</b></td><td align="center"><b>Meaning</b></td></tr><tr><td>CP=</td><td>This is the compact policy header; it indicates that what follows is a P3P compact policy.</td></tr><tr><td>CAO</td><td>Access is available to contact and other information.</td></tr><tr><td>DSP</td><td>The policy contains at least one dispute-resolution mechanism.</td></tr><tr><td>LAW</td><td>Privacy law specifies penalties for a violation of this policy.</td></tr><tr><td>CURa</td><td>The data is used for completion of the current activity.</td></tr><tr><td>ADMa</td><td>The data is used for site administration.</td></tr><tr><td>DEVa</td><td>The data is used for research and development.</td></tr><tr><td>PSAi</td><td>The data is used for pseudononymous analysis, if the user selects it.</td></tr><tr><td>PSDi</td><td>The data is used for pseudononymous decision-making, if the user selects it.</td></tr><tr><td>IVAi</td><td>The data is used for analysis, including knowledge of the visitor's identity, if the user selects it.</td></tr><tr><td>IVDi</td><td>The data is used for decision-making, including knowledge of the visitor's identity, if the user selects it.</td></tr><tr><td>CONi</td><td>The data is used for contacting the user, if the user selects it.</td></tr><tr><td>OUR</td><td>The data is given to ourselves and our agents.</td></tr><tr><td>SAMi</td><td>The data is given to other organizations following the same practices, if the user selects it.</td></tr><tr><td>BUS</td><td>Our business practices specify how long the data will be kept.</td></tr><tr><td>IND</td><td>The data will be kept indefinitely.</td></tr><tr><td>PHY</td><td>Physical contact information is collected.</td></tr><tr><td>ONL</td><td>Online contact information is collected.</td></tr><tr><td>UNI</td><td>Unique identifiers are collected.</td></tr><tr><td>COM</td><td>Computer information is collected.</td></tr><tr><td>NAV</td><td>Navigation and clickstream data is collected.</td></tr><tr><td>INT</td><td>Interactive data is collected.</td></tr><tr><td>DEM</td><td>Demographic and soc
-oeconomic data is collected.</td></tr><tr><td>STA</td><td>State-management data is collected</td></tr><tr><td>PRE</td><td>Preference information is collected.</td></tr></tbody></table><p>The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <a href="http://www.w3.org/TR/p3pdeployment">http://www.w3.org/TR/p3pdeployment</a>.</p>
-<h3>Policy Evaluation</h3>
-<p>Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.</p>
-<p><b>Note</b>: this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.</p>
-<p><b>Satisfactory policy</b>: this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.</p>
-    <!-- END Privacy Policy special/fragment panel -->
-  
- </div><p></p>
-					</div>
-											<div id="col-two" class=" right">
-															
-
-
-						
-			
-
+USA <br>
+<br>
+<h1><i>Questions?</i></h1>
+<p>If you have any questions on our Privacy Policy, or complaints about our handling of your Personal and/or Financial Information, you can contact us at <a href="mailto:custserv@sourcemedia.com">custserv@sourcemedia.com</a>.</p>
 	
-		
-									<!-- ad start -->
-				<div class="module">
-					<div id="bigbox1">
-	<script type="text/javascript">
-		googletag.display("bigbox1")
-	</script>
+
+		</div>
+		<div class="grid_1 omega">&nbsp;</div>
+		<div class="grid_5 alpha alpha" id="column-right">
+			<div id="sticky-right-rail">
+				<h3>Explore Our Brands</h3>
+				<h4>Banking</h4>
+				<ul>
+					<li><a href="/media-kits/american-banker.html">American Banker</a></li>
+					<li><a href="/media-kits/credit-union-journal.html">Credit Union Journal</a></li>
+				</ul>
+				<h4>MORTGAGES</h4>
+				<ul>
+					<li><a href="/media-kits/national-mortgage-news.html">National Mortgage News</a></li>
+				</ul>
+				<h4>PAYMENTS</h4>
+				<ul>
+					<li><a href="/media-kits/paymentssource.html">PaymentsSource</a></li>
+					<li><a href="/media-kits/collectionsandcreditrisk.html">Collections &amp; Credit Risk</a></li>
+					<li><a href="/media-kits/iso-agent.html">ISO &amp; Agent</a></li>
+				</ul>
+				<h4>MUNICIPAL FINANCE</h4>
+				<ul>
+					<li><a href="/media-kits/bond-buyer.html">The Bond Buyer</a></li>
+				</ul>
+				<h4>WEALTH MANAGEMENT</h4>
+				<ul>
+					<li><a href="/media-kits/financial-planning.html">Financial Planning</a></li>
+					<li><a href="/media-kits/on-wall-street.html">On Wall Street</a></li>
+					<li><a href="/media-kits/bank-investment-consultant.html">Bank Investment Consultant</a></li>
+					<li><a href="/media-kits/money-management-executive.html">Money Management Executive</a></li>
+				</ul>
+				<h4>ACCOUNTING</h4>
+				<ul>
+					<li><a href="/media-kits/accounting-today.html">Accounting Today</a></li>
+					<li><a href="/media-kits/tax-pro-today.html">Tax Pro Today</a></li>
+				</ul>
+				<h4>HEALTHCARE &amp; TECHNOLOGY</h4>
+				<ul>
+					<li><a href="/media-kits/health-data-management.html">Health Data Management</a></li>
+					<li><a href="/media-kits/insurance-networking-news.html">Insurance Networking News</a></li>
+					<li><a href="/media-kits/information-management.html">Information Management</a></li>
+				</ul>
+                <h4>EMPLOYEE BENEFITS</h4>
+                <ul>
+					<li><a href="/media-kits/employee-benefit-news.html">Employee Benefit News</a></li>
+					<li><a href="/media-kits/employee-benefit-adviser.html">Employee Benefit Adviser</a></li>
+                </ul>
+				<h4>Capital Markets</h4>
+				<ul>
+					<li><a href="/media-kits/mergers-acquisitions.html">Mergers &amp; Acquisitions</a></li>
+					<li><a href="/media-kits/asset-securitization-report.html">Asset Securitization Report</a></li>
+					<li><a href="/media-kits/traders-magazine.html">Traders Magazine</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="grid_24 header alpha omega" id="footer">
+		<ul class="navigation-main">
+			<li><a href="/">Home</a></li>
+			<li><a href="/about/">About</a></li>
+			<li><a href="/announcements/">Announcements</a></li>
+			<li><a href="https://careers-sourcemedia.icims.com" target="_blank">Careers</a></li>
+			<li><a href="/marketing_solutions/">Marketing Solutions</a></li>
+			<li><a href="/research-data/">Research &amp; Data</a></li>
+			<li><a href="/education-training/">Education &amp; Training</a></li>
+			<li><a href="/events/">Professional Events</a></li>
+			<li><a href="/media-kits/">Media Kits</a></li>
+			<li><a href="/subscribe/">Subscribe</a></li>
+			<li class="last"><a href="/privacy.html">Privacy</a></li>
+		</ul>
+						<p class="copyright">© 2016 SourceMedia, Inc. All rights reserved. Corporate Headquarters | One State Street Plaza, 27th Floor | New York, New York 10004 | 212.803.8200
+</p>
+		<p class="copyright">SourceMedia is an Observer Capital company. Use, duplication, or sale of this service, or data contained herein, is strictly prohibited.</p>
+ 
+			</div>
 </div>
-				</div>
-				<!-- ad end -->
-						
-							
-					
+
+
+<script type="text/javascript" src="http://cdn.sourcemedia.com/media/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="http://cdn.sourcemedia.com/media/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
+<script type="text/javascript">
+$(document).ready(function(){
+	// Fancy Box
+	if ($('a.fancybox').length > 0) {
+		$("a.fancybox").fancybox({
+			onStart: function() {
+				$(".fancybox-bg").css("display","");
+				$("#fancybox-outer").css("backgroundColor","");
+			},
+			padding:0,
+			titleShow : false,
+			type: 'iframe',
+			width: 750,
+			height: 630
+		});
+	}
+	if ($('a.fancyboxTransparent').length > 0) {
+		$("a.fancyboxTransparent").fancybox({
+			onStart: function() {
+				$(".fancybox-bg").css("display","none");
+				$("#fancybox-outer").css("backgroundColor","transparent");
+			},
+			padding:0,
+			type: 'iframe',
+			width: 750,
+			height: 630
+		});
+	}
+	if ($('a.fancyboxVideo').length > 0) {
+		$("a.fancyboxVideo").fancybox({
+			onStart: function() {
+				$(".fancybox-bg").css("display","");
+				$("#fancybox-outer").css("backgroundColor","");
+			},
+			padding:0,
+			type: 'iframe',
+			width: 1085,
+			height: 618
+		});
+	}
 	
-				
-<!-- most read start -->
+		var offsetAdStart;
+	$(window).scroll(function () {
+		var scrollTop = $(window).scrollTop();
+		if( offsetAdStart == null ) {
+			offsetAdStart = $('#sticky-right-rail').offset().top;
+		}
+		var scrollAd = $(window).scrollTop();
+		var col1Height = $('#sticky-left-rail').height();
+		var col2Height = $('#column-main').height();
+		var col3Height = $('#column-right').height();
+		var adHeight = $('#sticky-right-rail').height();
+		if (col2Height > col3Height) {
+			var stopScroll = col2Height - adHeight+215;
+			if (offsetAdStart > scrollAd) {
+				$('#sticky-right-rail').removeClass('sticky-ad');
+				$('#sticky-right-rail').removeAttr('style');
+				$('#sticky-right-rail').removeClass('sticky-ad-bottom');
+			} else {
+				if (scrollAd >= stopScroll) {
+					$('#sticky-right-rail').addClass('sticky-ad-bottom');
+					$('#sticky-right-rail').css('top', stopScroll);
+					$('#sticky-right-rail').removeClass('sticky-ad');
+				} else {
+					$('#sticky-right-rail').addClass('sticky-ad');
+					$('#sticky-right-rail').removeAttr('style');
+					$('#sticky-right-rail').removeClass('sticky-ad-bottom');
+				}
+			}
+		}
+		if (col2Height > col1Height) {
+			var stopScroll2 = col2Height - col1Height+215;
+			if (offsetAdStart > scrollAd) {
+				$('#sticky-left-rail').removeClass('sticky-ad');
+				$('#sticky-left-rail').removeAttr('style');
+				$('#sticky-left-rail').removeClass('sticky-ad-bottom');
+			} else {
+				if (scrollAd >= stopScroll2) {
+					$('#sticky-left-rail').addClass('sticky-ad-bottom');
+					$('#sticky-left-rail').css('top', stopScroll);
+					$('#sticky-left-rail').removeClass('sticky-ad');
+				} else {
+					$('#sticky-left-rail').addClass('sticky-ad');
+					$('#sticky-left-rail').removeAttr('style');
+					$('#sticky-left-rail').removeClass('sticky-ad-bottom');
+				}
+			}
+		}
+	});
+});
+</script>
 <script type="text/javascript">
 	$(document).ready(function() {
-		$('#most-read').click(function() {
-			$('#most-read').removeClass("tab-off");
-			$('#most-emailed').removeClass("tab-on");
-			$('#most-read').addClass("tab-on");
-			$('#most-emailed').addClass("tab-off");
-			$('#most-read-content').show();
-			$('#most-emailed-content').hide();
-		});
-		$('#most-emailed').click(function() {
-			$('#most-read').removeClass("tab-on");
-			$('#most-emailed').removeClass("tab-off");
-			$('#most-read').addClass("tab-off");
-			$('#most-emailed').addClass("tab-on");
-			$('#most-read-content').hide();
-			$('#most-emailed-content').show();
+		$('.popup').click(function(event) {
+			var width = 575,
+				height = 400,
+				left = ($(window).width() - width) / 2,
+				top = ($(window).height() - height) / 2,
+				url = this.href,
+				opts = 'status=1,width=' + width + ',height=' + height + ',top=' + top + ',left=' + left;
+			window.open(url, 'socialshare', opts);
+			return false;
 		});
 	});
 </script>
 
-<div class="module">
-	<div id="tabs" class="clearfix">
-		<div id="most-read" class="left tab tab-on"><h5 class="mr-module">MOST POPULAR</h5></div>
-		<div class="left"><img src="http://cdn.benefitnews.com/media/ui/tab_divider.png" class="tab-divider"></div>
-		<div id="most-emailed" class="left tab tab-off"><h5 class="mr-module">MOST EMAILED</h5></div>
-	</div>
-	<div id="most-read-content" class="tab-content">
-		<ul>
-		
-																														<li><a href="/blog/ebviews/avoiding-fmla-interference-claims-walking-a-fine-line-between-2747282-1.html">Avoiding FMLA interference claims: Walking a fine line between permissible, impermissible comments</a></li>
-														
-																																								<li><a href="/gallery/ebn/5-signs-of-an-office-culture-thief-2747277-1.html">5 signs of an office culture thief </a></li>
-														
-																																								<li><a href="/news/voluntary/sun-life-strives-for-holy-grail-of-voluntary-benefits-with-2747279-1.html">Sun Life strives for ‘holy grail’ of voluntary benefits with Assurant acquisition</a></li>
-														
-																																								<li style="border-bottom:none;"><a href="/news/health-care-reform/irs-allows-employers-to-test-run-aca-reporting-2747268-1.html">IRS allows employers to ‘test run’ ACA reporting </a></li>
-														
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						</ul>
-	</div>
-	<div id="most-emailed-content" style="display:none;" class="tab-content">
-		<ul>
-		
-																														<li><a href="/news/health-care-reform/irs-allows-employers-to-test-run-aca-reporting-2747268-1.html">IRS allows employers to ‘test run’ ACA reporting </a></li>
-															
-																																																																								<li><a href="/news/practice-management/brokers-arent-serving-up-what-employers-want-2747240-1.html">Brokers aren’t serving up what employers want</a></li>
-															
-																																								<li><a href="/blog/ebviews/small-employers-look-to-alternative-funding-solutions-2747128-1.html">Small employers look to alternative funding solutions</a></li>
-															
-																																								<li style="border-bottom:none;"><a href="/news/employer-strategies/zenefits-alternative-gets-broker-endorsement-2747143-1.html">Zenefits alternative gets broker endorsement</a></li>
-															
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						</ul>
-	</div>
-</div>
-<!-- most read end -->
-			
-		
-									
-																																									
-															<!-- video start -->
-					<div class="module module-video">
-						<h5 class="module"><a href="/video" class="accent">Videos</a></h5>
-													<div class="video">
-								<a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html"><img src="http://cdn.benefitnews.com/media/newspics/Jessica_280.jpg" width="298" border="0" alt="" title=""></a>							</div>
-												<div class="video-caption">
-							<a href="/video/flexibility-is-the-name-of-the-game-2746616-1.html">Benefits: Why Flexibility is the Name of the Game</a>
-						</div>
-					</div>
-																																									<div class="module clearfix">
-											<div class="multimedia-module-item">
-							<div class="multimedia-item-image"><a href="/video/deconstructing-EEOC-attacks-on-corporate-wellness-2746569-1.html"><img width="140" src="http://cdn.benefitnews.com/media/newspics/Brad2_280.jpg" border="0" alt="" title=""></a></div>
-							<div class="multimedia-item-desc"><a href="/video/deconstructing-EEOC-attacks-on-corporate-wellness-2746569-1.html">Deconstructing EEOC's Attacks on Corporate Wellness</a></div>
-						</div>
-																																															<div class="multimedia-module-item last">
-							<div class="multimedia-item-image"><a href="/video/exchanges-an-alternative-to-cobra-2746474-1.html"><img width="140" src="http://cdn.benefitnews.com/media/newspics/Andrea_280a.jpg" border="0" alt="" title=""></a></div>
-							<div class="multimedia-item-desc"><a href="/video/exchanges-an-alternative-to-cobra-2746474-1.html">Exchanges: An Alternative to COBRA</a></div>
-						</div>
-										</div>
-																		  
-						
-		
-									<!-- ad start -->
-				<div class="module">
-						<div id="bigbox2">
-	<script type="text/javascript">
-		googletag.display("bigbox2")
-	</script>
-</div>
-				</div>
-				<!-- ad end -->
-						
-		
-					
-																																									
-															<!-- video start -->
-					<div class="module module-video">
-						<h5 class="module"><a href="/gallery" class="accent">Slideshows</a></h5>
-													<div class="video slideshow-image">
-								<a href="/gallery/ebn/cleaning-a-teens-bathroom-or-open-enrollment-what-2747245-1.html"><img src="http://cdn.benefitnews.com/media/gallery/p19u8mgnpq17uhhla184kp91snu6.jpg" width="298" border="0" alt="" title=""></a>							</div>
-												<div class="video-caption">
-							<a href="/gallery/ebn/cleaning-a-teens-bathroom-or-open-enrollment-what-2747245-1.html">Clean a teen’s bathroom or open enrollment? What employees would rather do</a>
-						</div>
-					</div>
-																																									<div class="module clearfix">
-											<div class="multimedia-module-item">
-							<div class="multimedia-item-image"><a href="/gallery/ebn/how-do-employees-really-feel-about-their-401k-plans-2747219-1.html"><img width="140" src="http://cdn.benefitnews.com/media/gallery/p19u27dcb6glhhgio43nch1t6q6.jpg" border="0" alt="" title=""></a></div>
-							<div class="multimedia-item-desc"><a href="/gallery/ebn/how-do-employees-really-feel-about-their-401k-plans-2747219-1.html">How do employees really feel about their 401(k) plans?</a></div>
-						</div>
-																																															<div class="multimedia-module-item last">
-							<div class="multimedia-item-image"><a href="/gallery/ebn/most-bizarre-late-to-work-excuses-employees-have-used-2745522-1.html"><img width="140" src="http://cdn.benefitnews.com/media/gallery/p19d48av6spd1jf1qh39da12816.jpg" border="0" alt="" title=""></a></div>
-							<div class="multimedia-item-desc"><a href="/gallery/ebn/most-bizarre-late-to-work-excuses-employees-have-used-2745522-1.html">Most bizarre late-to-work excuses employees have used</a></div>
-						</div>
-										</div>
-																		  
-			
-		
-					
-
-
-<div class="current-issue module">
-	<h5 class="module"><a href="/magazine/" class="accent">Current Issue</a></h5>
-	<div class="clearfix">
-					<div class="left img-holder">
-				<a href="http://mydigimag.rrd.com/publication?i=271048"><img width="106" src="http://cdn.benefitnews.com/media/newspics/EBN.09.01.15"></a>
-			</div>
-				<div class="right text-holder">
-			<div class="title">September 1, 2015</div>
-			<div class="links"><a href="/register/">Subscribe to the Magazine</a></div>
-			<div class="links"><a href="/magazine/archives.html">Click here for past issues</a></div>
-			<div class="links"><a href="http://mydigimag.rrd.com/publication?i=271048">View our Digital Edition now!</a></div>
-		</div>
-	</div>
-</div>
-
-
-
-
-
-
-
- 
-																</div>
-										<div style="clear:both;"></div>
-							</div>
-		
-						</div>  <!-- content end -->
-			</div> <!-- wrapper end -->
-
-	 </div><!-- wrapper -->
-
-<div id="footer-wrapper">
-	<div id="footer">
-		<div class="frame clearfix">
-																<div class="left footer-col-1">
-	<ul>
-		<li><a href="http://ebn.benefitnews.com">HOME</a></li>
-		<li><a href="http://ebn.benefitnews.com/about/">About Us</a></li>
-		<li><a href="http://ebn.benefitnews.com/contact/">Contact Us</a></li>
-		<li><a href="http://www.sourcemediareprints.com/" target="_blank">Content Licensing</a></li>
-		<li><a href="http://ebn.benefitnews.com/advertise/">Advertise with Us</a></li>
-		<li><a href="http://ebn.benefitnews.com/register/1104.html?">Subscribe</a></li>
-		<li><a href="http://ebn.benefitnews.com/profile/">My Account</a></li>
-		<li><a href="http://ebn.benefitnews.com/privacy-policy/">Privacy Policy</a></li>
-		<li><a href="http://ebn.benefitnews.com/sitemap/">Site Map</a></li>
-</ul>
-</div>
-<div class="left footer-col-2">
-	<div class="site-footer"><a href="http://www.sourcemedia.com/">sourcemedia<br>corporate site</a></div>
-	<div style="height:10px;"></div>
-	<div class="site-footer">banking</div>
-	<ul>
-		<li><a href="http://www.americanbanker.com">American Banker</a></li>
-		<li><a href="http://www.americanbanker.com/btn">Bank Technology News</a></li>
-		<li><a href="http://www.americanbanker.com/magazine/">American Banker Magazine</a></li>
-		<li><a href="http://www.cujournal.com">Credit Union Journal</a></li>
-	</ul>
-	<div class="site-footer" style="margin: 10px 0 0px;">MORTGAGES</div>
-	<ul>
-		<li><a href="http://www.nationalmortgagenews.com">National Mortgage News</a></li>
-	</ul>
-	<div class="site-footer" style="margin: 10px 0 0;">PAYMENTS</div>
-	<ul>
-		<li><a href="http://www.paymentssource.com">PaymentsSource</a></li>
-		<li><a href="http://www.collectionscreditrisk.com">Collections &amp; Credit Risk</a></li>
-		<li><a href="http://www.isoandagent.com/">ISO &amp; Agent</a></li>
-	</ul>
-</div>
-<div class="left footer-col-3">
-	<div class="site-footer">capital markets</div>
-	<ul>
-		<li><a href="http://www.themiddlemarket.com">Mergers &amp; Acquisitions</a></li>
-		<li><a href="http://www.structuredfinancenews.com">Asset Securitization Report</a></li>
-		<li><a href="http://www.leveragedfinancenews.com">Leveraged Finance News</a></li>
-		<li><a href="http://www.tradersmagazine.com">Traders Magazine</a></li>
-	</ul>
-	<div class="site-footer" style="margin: 10px 0 0;">MUNICIPAL FINANCE</div>
-	<ul>
-		<li><a href="http://www.bondbuyer.com">The Bond Buyer</a></li>
-	</ul>
-	<div class="site-footer" style="margin: 10px 0 0;">accounting</div>
-	<ul>
-		<li><a href="http://www.accountingtoday.com">Accounting Today</a></li>
-		<li><a href="http://www.accountingtoday.com/taxprotoday">Tax Pro Today</a></li>
-	</ul>
-</div>
-<div class="left footer-col-4">
-	<div class="site-footer">HEALTHCARE &amp; BENEFITS</div>
-	<ul>
-		<li><a href="http://ebn.benefitnews.com">Employee Benefit News</a></li>
-		<li><a href="http://eba.benefitnews.com">Employee Benefit Adviser</a></li>
-		<li><a href="http://www.healthdatamanagement.com">Health Data Management</a></li>
-		<li><a href="http://www.insurancenetworking.com">Insurance Networking News</a></li>
-		<li><a href="http://www.information-management.com">Information Management</a></li>
-	</ul>
-	<div class="site-footer" style="margin: 10px 0 0;">INVESTMENT ADVISORY</div>
-	<ul>
-		<li><a href="http://www.financial-planning.com">Financial Planning</a></li>
-		<li><a href="http://www.onwallstreet.com">On Wall Street</a></li>
-		<li><a href="http://www.bankinvestmentconsultant.com">Bank Investment Consultant</a></li>
-		<li><a href="http://www.mmexecutive.com">Money Management Executive</a></li>
-	</ul>
-</div>
-
-
- 
-									 			</div>
-		 <div id="footer-bottom" class="clearfix">
-				<div class="left" id="footer-bottom-logo">
-					<img src="http://cdn.benefitnews.com/media/ui/logo-sourcemedia.png">
-				</div>
-				<div class="left" id="footer-bottom-more-links">
-					<div id="footer-bottom-privacy">
-					© 2015 <a href="http://www.sourcemedia.com/">SourceMedia</a>. All rights reserved.
-					</div>
-				</div>
-		 </div>
-	</div>
-</div>
-
-
-<div style="display: none;">
-	<div id="signInContainer">
-
-		
-		<div class="clearfix" id="logged-out-login">
-
-			<div id="logged-out-login-header">
-		  	Already a subscriber? Log in here
-		  </div>
-
-		  <div id="login-left" class="left">
-		  	<form method="post" action="/profile/">
-				<input type="hidden" name="zkLogin" value="true">
-				<input type="hidden" name="zkLoginRedirectUrl" value="/privacy-policy/">
-				<input type="hidden" name="return_url" value="/privacy-policy/">
-		  	<div id="login-disclaimer">
-
-		    </div>
-		    <div class="login-input login-input-text">
-		    	E-MAIL ADDRESS
-		      <br>
-		      <input type="text" name="login_id" id="login_id" value="" class="text">
-		    </div>
-		    <div class="login-input login-input-text">
-		    	PASSWORD
-		      <br>
-		      <input type="password" name="login_pwd" id="login_pwd" value="" class="text">
-		    </div>
-		    <div class="login-input">
-		    	<input type="image" src="http://cdn.benefitnews.com/media/ui/login.png">
-		    </div>
-		    <div class="login-input login-input-checkbox">
-		    	<input name="zkMaintainState" type="checkbox" class="ckBox" value="1" id="zkMaintainState" checked="checked"> Remember me
-		    </div>
-		    </form>
-		  </div>
-
-		  <div id="login-right" class="left">
-		  	<a href="/profile/password.reminder.html">Forgot your password?</a>
-		    <br><br>
-		    <a href="/contact/">Contact customer service.</a>
-		    <br><br>
-		    <a href="/register/">EBN.BenefitNews.com Site Registration</a>
-		  </div>
-
-		</div>
-
-	</div>
-</div>
- 
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1000201718;
-var google_conversion_label = "5QHQCJrQ0AMQ9rv33AM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000201718/?value=0&amp;label=5QHQCJrQ0AMQ9rv33AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-<script type="text/javascript">
-$.ajax({
-url: document.location.protocol + '//munchkin.marketo.net/munchkin.js',
-dataType: 'script',
-cache: true,
-success: function() {
-Munchkin.init('555-ETU-514');
-}
-});
-</script>
-
-
-				
-				<div id="slider-ad-container">
-			
-		</div>
-				
-
-<script type="text/javascript" src="http://cdn.benefitnews.com/custom/js/jquery.jcarousel.js"></script>
-<script type="text/javascript" src="http://cdn.benefitnews.com/custom/js/utilities.js"></script>
-<script type="text/javascript" src="http://cdn.benefitnews.com/custom/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-
-<img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=41080=941412[8760]" width="1" height="1" border="0">
-		
-
-</div></body></html>
+</body></html>
