@@ -1,100 +1,64 @@
-> *The following text is extracted and transformed from the tabfu.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabfu.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622043404id_/http%3A//www.tabfu.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy and Policy - TabFu
 
-**Go Daddy Respects Your Privacy**
+  * Your privacy and protection of the information you share with us while using our Services are very important to us.  
+This “Privacy Policy” explains what information we gather from our users and how we use it. By using or accessing our Services, you are accepting the practices described in this Privacy Policy. (Capitalized terms not defined herein have the meaning set forth in our Terms of Service).  
+TabFu is not intended for children under 13 years of age. Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (“COPPA”), we will never knowingly gather or use personally identifiable information from anyone under the age of 13, and we do not allow anyone under the age of 13 to register on TabFu.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+  * What information do we collect? 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We collect and stores three types of information about users that are subject to our Privacy Policy: 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+    1. Information users provide to us: 
 
-**Information Collection and Use**
+These are voluntary submissions made when creating an account on TabFu or through your use of the Services, such as name and email address, or payment information provided during purchases. Please understand that when you sign into TabFu or post or upload any content, your information is not anonymous to us. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+    2. Information we collect when users interact with TabFu: 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We keep track of user interactions with our Services, such as visiting a web page, clicking a button, and choosing a form. Also, when users access our Services, we may collect information about their access method (such as hardware and software attributes), location, IP address, and pages they visit. In addition, we store certain information from their browser using “cookies”. (For more on cookies, please see the section “What are cookies?”) 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+    3. Information we receive from third parties: 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We do not own or operate any third-party services offered that you may use or interact with through our Services (collectively, “Third Party Services”). Whenever you visit, use or interact with a Third Party Service, we may receive information from them, including information about actions you take and Content you post on that service. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * Why do we collect your information? 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+TabFu collects information in order to improve the content and quality of our Services and to provide a customized experience tailored to your needs. Any personally identifiable information we collect (including email addresses, physical addresses or phone numbers) is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under special circumstances outlined in this Privacy Policy. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * What are cookies? 
 
-**Security**
+TabFu may place a text file called a “cookie” in the browser files of your computer. These cookies help us make TabFu easier to use, to make our advertising better, and to protect both you and TabFu. For example, a cookie may be used to store or “remember” your Member login information (but not your password) so that you are not required to manually log into the site at every visit. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use some of our Services. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * How secure is my information? 
 
-**Updating Your Information**
+TabFu uses commercially reasonable physical, electronic, and procedural measures to safeguard any information in our possession against loss, theft and unauthorized use, disclosure or modification. We limit access to personal information about you to employees whom we believe reasonably need that information to provide support, products, or services to you or to fulfill their roles within our organization.  
+Although we have established and maintain security procedures to protect your personally identifiable information, please be aware that no security measures are perfect or impenetrable. You can reduce the risk of unauthorized access to your information by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up-to-date antivirus software.  
+Please report any security violations to us on this automated form. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * What control do I have over my information? 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+As a registered Member, you may modify or update your personal account information at any time by logging into your account. Should you desire to do so, you may also delete and close your TabFu account at any time by contacting our support team. Note that removed or deleted information may persist in backup copies for a reasonable period of time. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * How is information shared? 
 
-      iii.      You may call us at: (480) 505-8800
+TabFu will not share your personally identifiable information with others except as described herein and in limited circumstances where we believe such sharing is reasonably necessary to offer the Services, legally required, or permitted by you. For example, we may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the Services at a co-location facility for servers, to send out email updates about the Services, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time.  
+Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the TabFu-specified purposes. We may store personal information in locations outside the direct control of TabFu (for instance, on servers or databases co-located with hosting providers).  
+Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: 
 
-       iv.      You may fax us at: (480) 505-8844
+    1. To conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by TabFu, whether or not a response is required by applicable law. 
+    2. To enforce the TabFu Terms of Service or to protect our rights. 
+    3. To protect the safety or rights of members of the public or users of the Services. 
 
-**Sending Emails**
+TabFu reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of TabFu or substantially all of its assets to that successor in interest. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * How am I notified of changes to this Privacy Policy? 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We may change this Privacy Policy pursuant to the procedures outlined in our Terms of Service. Unless stated otherwise, our current Privacy Policy applies to all information we have about you and your account. If we make changes to this Privacy Policy, we will notify you by publication here. 
 
-**Compliance with Laws and Law Enforcement**
+  * Who can I contact about this Privacy Policy? 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+To submit an inquiry about our Privacy Policy, Please contact our [Support Department](mailto:support@tabfu.zendesk.com?Subject=Privacy%20Policy). 
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
