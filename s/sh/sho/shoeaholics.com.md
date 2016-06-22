@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206162801id_/http%3A//www.shoeaholics.com/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622050052id_/http%3A//www.shoeaholics.com/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Shoeaholics | Cookie & Privacy Policy
 
 Close Window
 
-ENJOY A CHEEKY 15% OFF  
-YOUR FIRST ORDER BY SIGNING UP. 
+Become a Shoeaholic and enjoy an extra 15% off your first order!
+
+Enjoy 15% off your first order. The 15% code applies to any product on site.   
+Code is valid for 14 days from the date of sign up. See [Terms and Conditions](https://web.archive.org/customer-services/competition-and-promos/?ref=sa) for more information. 
 
 Kurt Geiger Limited ("we" and "us") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you to process orders and to provide an improved shopping experience, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. You can visit the Website without disclosing any personally identifiable information about yourself. This notice should be read in conjunction with the terms & conditions of use for Kurt Geiger Ltd (the "Website") of which it forms part (the "Terms"). By using this Website or submitting information to us through or in connection with this Website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you must not use this Website or submit information to us through or in connection with this Website. 
 
@@ -56,34 +58,34 @@ First party cookies are displayed in the below table.
 
 Cookie name | Cookie expiry | Cookie purpose  
 ---|---|---  
-SAH_USER_LOCATION | 27 years |  With the launch of international delivery, this cookie helps to remember where in the world a user is visiting our website from. This cookie prevents users from viewing the international delivery pop up again after they have interacted with the message.   
-CATEGORY_INFO | Browser closed | When browsing any of our product listing pages, this cookie remembers what filtering was applied on previous page views, to enhance the browsing experience.  
-VIEWED_PRODUCT_IDS | Browser closed | This cookie remembers what products were viewed by the customer on previous page views, to enhance the browsing experience.  
+SAH _ USER _ LOCATION | 27 years |  With the launch of international delivery, this cookie helps to remember where in the world a user is visiting our website from. This cookie prevents users from viewing the international delivery pop up again after they have interacted with the message.   
+CATEGORY _ INFO | Browser closed | When browsing any of our product listing pages, this cookie remembers what filtering was applied on previous page views, to enhance the browsing experience.  
+VIEWED _ PRODUCT _ IDS | Browser closed | This cookie remembers what products were viewed by the customer on previous page views, to enhance the browsing experience.  
 CART | 24 hours | A unique id that is associated with a customer's shopping bag is kept in this cookie. This is basically so that our website has got access to this information at all times throughout a customer's visit.  
 CUSTOMER | 24 hours | Once a user is logged in, this cookie remembers a unique id associated with that customer's session, so that the website has got access to it at all times throughout the customer's visit.  
-CUSTOMER_INFO | 24 hours | Once a user is logged in, this cookie remembers a unique id associated with that customer's group that they have been placed in, so that the website has got access to it at all times throughout the customer's visit.  
+CUSTOMER _ INFO | 24 hours | Once a user is logged in, this cookie remembers a unique id associated with that customer's group that they have been placed in, so that the website has got access to it at all times throughout the customer's visit.  
 WISHLIST | 1 hour | This cookie remembers a unique id associated with a customer's wishlist, if the customer had created a wishlist during a particular visit. This is so that the website has got access to it at all times throughout the customer's visit.  
-WISHLIST_CNT | 1 hour | This cookie remembers a unique id associated with the amount of items in a customer's wishlist, if the customer had created a wishlist during a particular visit. This is so that the website has got access to it at all times throughout the customer's visit.  
+WISHLIST _ CNT | 1 hour | This cookie remembers a unique id associated with the amount of items in a customer's wishlist, if the customer had created a wishlist during a particular visit. This is so that the website has got access to it at all times throughout the customer's visit.  
 frontend | 24 hours | This cookie contains a unique id relating to a customer's session on our website. This allows the website to provide continuity between customer visits.  
-sa_affiliate_ls | 2 years | When a customer visits our website from our Linkshare affiliate network, this cookie is used to identify which affiliate the customer found our website through.  
+sa_ affiliate_ls | 2 years | When a customer visits our website from our Linkshare affiliate network, this cookie is used to identify which affiliate the customer found our website through.  
 __utma | 2 years | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
 __utmb | 30 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
 __utmc | Browser closed | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
 __utmz | 6 months | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
-CACHED_FRONT_FORM_KEY | Browser closed | Ensure forms are not submitted by someone outside of the website  
+CACHED_ FRONT _FORM_ KEY | Browser closed | Ensure forms are not submitted by someone outside of the website  
 _ga | 2 years | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
 _gali | 1 minute | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
 _gat | 10 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor informations  
 _gat_rollup | 10 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
 is_returning | 5 years | This cookie is used to remember if the customer has visited the site before and will note you as a returning visitor or new visitor.  
 noWelcomePopup | 47 years | This cookie is used to determine whether a visitor had been displayed with the welcome program popup window previously.  
-LAST_CATEGORY | Browser closed | This cookie is used to store the customers last visited category and notes the category id which was last viewed.  
-CUSTOMER_AUTH | 1 hour | This cookie remembers your login details to keep you logged in when returning to the site, to enhance the browsing experience  
+LAST_ CATEGORY | Browser closed | This cookie is used to store the customers last visited category and notes the category id which was last viewed.  
+CUSTOMER_ AUTH | 1 hour | This cookie remembers your login details to keep you logged in when returning to the site, to enhance the browsing experience  
 COUNTRY | 5 years | This cookie remembers which country the customer has selected from country selector to ensure the customer has an optimum shopping experience.  
-COUNTRY_BANNER_HIDE | Browser closed | This cookie determines if you have already closed the site switcher banner.  
+COUNTRY_ BANNER_ HIDE | Browser closed | This cookie determines if you have already closed the site switcher banner.  
 BTgroup | 1 year | This cookie is sent by signal and allows us to evaluate the performances of any marketing taking place.  
-btpdb.ewz6mRP.X2J0X21mX2R1cmF0aW9u | 1 month | This cookie is sent by signal and allows us to evaluate the performances of any marketing taking place.  
-SAH_SIZE_POPUP | Browser close | This cookie determines if you have already seen the product size popup   
+btpdb .ewz6mRP. X2J0X21mX2R1 cmF0aW9u | 1 month | This cookie is sent by signal and allows us to evaluate the performances of any marketing taking place.  
+SAH_ SIZE_ POPUP | Browser close | This cookie determines if you have already seen the product size popup   
 slim_session | 6 months | This cookie remembers what you have selected from the country selector.  
   
 Third party cookies are displayed in the below table.
