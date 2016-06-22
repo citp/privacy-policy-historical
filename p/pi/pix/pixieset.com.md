@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixieset.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204004002id_/http%3A//pixieset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixieset.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622042939id_/http%3A//pixieset.com/privacy) for the most accurate reproduction.*
 
 # Pixieset - Privacy
 
