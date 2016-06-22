@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203195233id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622111549id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policies | Chatham House
 
@@ -14,13 +14,12 @@ Our site is a UK-based website and takes reasonable care to comply with the requ
 
 We may collect and process the following data about you:
 
-•  Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site. Details of your visits to our site (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own purposes or otherwise) and the resources that you access.
 
-•  If you contact us, we may keep a record of that correspondence.
 
-•  We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-
-•  Details of transactions you carry out through our site. Details of your visits to our site (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own purposes or otherwise) and the resources that you access.
 
 Save as provided below, we will not sell, rent, distribute or disclose information about you as an individual or your personal usage of our site (‘ **Information** ’) without your consent or unless required or permitted to do so by law. The Information we gather may include name, delivery address, email address, telephone number and any personal preferences.
 
@@ -30,23 +29,35 @@ We do not store credit card details nor do we share customer details with any 3r
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of our site. The list below explains the cookies we use and why. 
 
-•  Browser Session Cookie
+  * Browser Session Cookie
+
+
 
 This cookie is set by the website when a user logs into their member secure account and is an essential cookie for the operation of the members’ area. This cookie does not display any identifiable or tracking information and is deleted when the user closes their browser
 
-•  Google Analytics and WebTraffiQ
+  * Google Analytics
 
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve our site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. Click here for an overview of privacy at Google.
 
-•  YouTube Videos
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve our site. These persistent cookies hold the following data: _ga is used to distinguish users and has a lifespan of two years. These cookies are first-party cookies. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. See an overview of [privacy at Google](https://www.google.com/policies/privacy/).
+
+The data collected through Google Analytics will be connected to any existing user data held and this includes the anonymous user ID of logged-in users and this feature will operate across multiple devices.
+
+  * YouTube Videos
+
+
 
 This cookie helps track the number of views for a particular video. The pref cookie will track user preferences and serve up related content or adverts within an embedded YouTube video. Click here for an overview of the privacy and interest based ads set within Youtube videos.
 
-•  Content Management (Drupal) 
+  * Content Management (Drupal) 
+
+
 
 These include cookies to store information about the user’s browser capabilities but which can’t be linked to any identifying information; a PHP session cookie that Drupal uses to identify the visitor with a  logged in user account; a ‘Don’tShowCookieNotice’ to dismiss cookie notice and two cookies for logged in users to securely handle mixed mode sessions.
 
-•  Multi-media related cookies
+  * Multi-media related cookies
+
+
 
 A cookie to detect the initial bandwidth of a viewer’s computer or device and which helps significantly improve rendition selection. Another cookie to collect information about the quality of the video delivery and which enables the multi-media support and development teams to monitor and improve the quality of service and to troubleshoot video quality issues.  
 
@@ -64,15 +75,13 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We use information held about you in the following ways:
 
-•  To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
 
-•  To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
-•  To carry out our obligations arising from any contracts entered into between you and us.
-
-•  To allow you to participate in interactive features of our service, when you choose to do so.
-
-•  To notify you about changes to our service.
 
 We may monitor customer traffic patterns, site usage and related site information in order to optimise your use of our site and we may give aggregated statistics to a reputable third-party, but these statistics will include no information personally identifying you. 
 
@@ -86,11 +95,11 @@ We may disclose your personal information to any member of our group, which mean
 
 We may disclose your personal information to third parties:
 
-•  In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If we or substantially all of our assets are acquired by a third party, in which case personal data held by us about you will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Chatham House (The Royal Institute of International Affairs), our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-•  If we or substantially all of our assets are acquired by a third party, in which case personal data held by us about you will be one of the transferred assets.
 
-•  If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Chatham House (The Royal Institute of International Affairs), our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 In the event of any of the above scenarios occurring, we will endeavour to ensure that your rights and freedoms in respect of the processing of your personal data are adequately and appropriately protected.  By submitting your Information and subscribing to the services available on our site, you consent to such use and transfer.  
 
