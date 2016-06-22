@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221204346id_/http%3A//www.biggerbras.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622200917id_/http%3A//www.biggerbras.com/privacy-and-security) for the most accurate reproduction.*
 
 # Big Girls Bras Privacy Policy and Security Information
 
