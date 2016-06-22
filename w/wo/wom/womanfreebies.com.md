@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womanfreebies.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524212919id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womanfreebies.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622031504id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Woman Freebies
 
@@ -22,6 +22,7 @@ Any of the information we collect from you may be used in one of the following w
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
   * To send periodic emails  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
+  * By subscribing/opting-in you are also agreeing to receive occasional 3rd party advertisements via email to your email address. 
 
 
 
