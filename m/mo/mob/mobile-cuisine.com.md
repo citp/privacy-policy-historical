@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-cuisine.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221183742id_/http%3A//mobile-cuisine.com/about-mobile-cuisine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-cuisine.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622184718id_/http%3A//mobile-cuisine.com/about-mobile-cuisine/privacy-policy) for the most accurate reproduction.*
 
 # Mobile Cuisine Privacy Policy
 
@@ -52,7 +52,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://mobile-cuisine.com  
+> [Mobile Cuisine | Food Truck, Pop-Up & Street Food Coverage](http://mobile-cuisine.com/)
+
+  
 3303 Grove Ave. Unit 302  
 Berwyn, Illinois 60402  
 United States  
