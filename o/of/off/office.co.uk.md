@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905181118id_/http%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622021917id_/http%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@ We also use your information to deliver the goods to you, or we might give your 
 
 We may also use the information to improve our website and personalise your experience during your visit. If we are sold or merged with another company we may transfer, sell or assign information about your relationship with us to third parties, including information that identifies you and other information concerning your relationship with us.
 
-If you opt in to receive information from OFFICE we may periodically contact you by post or electronic mail about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided.
+If you “opt in” to receive information from OFFICE by post and/or email and/or SMS and/or MMS and/or Mobile Push and/or telephone we may periodically contact you about new products, special offers, promotions or other information which we think you may find interesting using the contact details which you have provided.
 
 OFFICE may, from time to time, share your personal information with its affiliated company, Offspring. Offspring may contact you by post or by electronic mail services about new products, special offers or other information which we think you may find interesting using the delivery or email address which you have provided.
 
