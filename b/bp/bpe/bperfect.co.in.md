@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bperfect.co.in privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007043209id_/http%3A//www.bperfect.co.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bperfect.co.in privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622230850id_/http%3A//www.bperfect.co.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
