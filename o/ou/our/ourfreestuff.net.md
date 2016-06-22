@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfreestuff.net privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727133414id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfreestuff.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622031504id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Woman Freebies
 
@@ -22,6 +22,7 @@ Any of the information we collect from you may be used in one of the following w
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
   * To send periodic emails  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
+  * By subscribing/opting-in you are also agreeing to receive occasional 3rd party advertisements via email to your email address. 
 
 
 
@@ -68,14 +69,3 @@ By using our site, you consent to our web site privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 ## Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[http://womanfreebies.com](http://womanfreebies.com/)  
-1338 Wellington Street West, Unit 200  
-Ottawa, ON K1Y 3B7  
-Canada
-
-Email: [sarah@womanfreebies.com](mailto:sarah@womanfreebies.com)  
-Phone: (613) 592-6642  
-FAX: (954) 532-3775
