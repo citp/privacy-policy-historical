@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eastessence.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116023555id_/http%3A//www.eastessence.com/RWD-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastessence.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622235302id_/http%3A//www.eastessence.com/RWD-Policy.html) for the most accurate reproduction.*
 
 # RWD - Privacy Policy
-
-### Your Privacy and the Security of Your Personal Information is Very Important to Us
 
 East Essence and Kilam Inc., value our customers and visitors to our Websites and respect your concerns about the privacy of your personal information and data security. Our Privacy and Security Policy (the "Privacy Policy") is intended to protect your privacy and provide you with a safe and secure experience in fashion, style and shopping. This Privacy Policy applies to our Website, namely, www.eastessence.com. This Privacy Policy protects consumers providing information through our Websites and stores and is not designed to protect business information. By using our Website or providing information to us at our stores, you consent to the collection and use of your personal information. In addition to reviewing our Privacy Policy, you should also read our Terms of Use for our Websites. Your use of our Websites constitutes your agreement to its terms and conditions.
 
@@ -17,7 +15,7 @@ This Privacy Policy explains and summarizes how we collect, use and protect your
   * What information EastEssence gathers from users of our Website.
   * How EastEssence uses the personal information that you share with us and that we learn about you because of our relationship.
   * How EastEssence uses "cookies" and "IP Addresses."
-  * What personal information, if any, EastEssence may share about you with others and the conditions that protect your information if it must be shared.
+  * What personal information, if any, EastEssence may share about you with others and the conditions that protect your information if it must be shared. 
   * What kind of security measures EastEssence takes to protect your information from loss or disclosure and how EastEssence will inform you in the event of a security breach.
   * The circumstances under which you can access your personal information you have shared with EastEssence and have that information corrected, restrict EastEssence's use of that information, and even have it removed from our records.
   * Other things you should know about privacy and EastEssence.
@@ -65,6 +63,6 @@ We may use "cookies" to collect or log certain information. A cookie is a small 
 
 Our Websites may contain links to third party sites. Please be aware, however, that EastEssence is not responsible for and cannot control the privacy policies of these other sites or their practices. We encourage you to read the privacy policies for these other sites, as they may differ from ours. This Privacy Policy applies solely to personal information collected by EastEssence.
 
-### Third-Party Web Beacons:
+### Third-Party Web Beacons
 
 We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm).
