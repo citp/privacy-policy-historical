@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217181449id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622081037id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Civil War Trust's Privacy Policy
 
@@ -67,7 +67,7 @@ You may update, correct or delete your account information at any time by contac
 
 ## Opt Out Policy
 
-The Civil War Trust provides three easy ways for you to opt-out of having any of your personal information provided to other organizations: 
+The Civil War Trust provides three easy ways for you to opt-out of having any of your personal information shared or sold to other organizations: 
 
 1. Email: [info@civilwar.org](mailto:info@civilwar.org) with the subject heading "Membership Confidentiality." 
 
