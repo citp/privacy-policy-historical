@@ -1,31 +1,27 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050902id_/http%3A//www.jobdiagnosis.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622154244id_/http%3A//www.jobdiagnosis.com/privacy-policy.php) for the most accurate reproduction.*
 
 # JobDiagnosis Privacy Policy
 
-_Effective Date: January 6, 2015_
+_Effective Date: February 19, 2016_
 
 **PRIVACY POLICY**  
 
 
 **GENERAL**
 
-Job Diagnosis ("JobDiagnosis") is committed to respecting the privacy rights of users of the Job Diagnosis website, and the Job Diagnosis service, including software applications made available by VHMnetwork, LLC, such as the Job Diagnosis mobile device application, (together, the "Service"), and to demonstrate its commitment to fair information practices and to the protection of privacy.   
+"This Privacy Statement applies to JobDiagnosis owned and operated by VHMnetwork, LLC. This Privacy Statement describes how JobDiagnosis collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information."    
+Job Diagnosis ("JobDiagnosis") , we are committed to respecting the privacy rights of users of the Job Diagnosis website, and the Job Diagnosis service, including software applications made available by VHMnetwork, LLC, such as the Job Diagnosis mobile device application, (together, the "Service"), and to demonstrate its commitment to fair information practices and to the protection of privacy.   
 This Privacy Policy is only applicable to the Service and not to any websites or services of third parties ("Third-Party Websites"), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below. 
 
 BY USING THE SERVICE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY CEASE USING OR ACCESSING THE SERVICE. 
 
 Each time You access the Service, the then-current version of this Privacy Policy will apply. Each time You use the Service, we recommend that you check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Service. For additional information, see the section concerning Updates and Changes to Privacy Policy, below. 
 
-VHMnetwork LLC, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <http://www.truste.com/privacy-program-requirements/> including transparency, accountability and choice regarding the collection and use of your personally identifiable information for consistency. Personally identifiable information is the term most often used in this document. The TRUSTe program covers information collected through this Web site, [www.JobDiagnosis.com](http://www.jobdiagnosis.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+VHMnetwork, LLC has received TRUSTE's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, [http://www.jobdiagnosis.com.](http://www.jobdiagnosis.com./)
 
-Privacy Officer  
-VHMnetwork LLC  
-270 Greenwich Ave  
-Greenwich, CT 06830  
-Fax: [212-430-6360]  
-Email:  [admin@VHMnetwork.com](mailto:admin@VHMnetwork.com)
+If you have questions or concerns regarding this Statement, you should first contact us at [admin@VHMnetwork.com](mailto:admin@VHMnetwork.com)
 
-If you are not satisfied with our response you can contact [https://feedback-form.truste.com/watchdog/request](http://watchdog.truste.com/pvr.php?page=complaint). ****
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog).
 
 **BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONAL IDENTIFIABLE INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.**
 
@@ -33,27 +29,27 @@ As used in this Privacy Policy, "Non-Personally-Identifying Information" is info
 
 **1\. CHILDREN'S PRIVACY**
 
-Job Diagnosis does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Job Diagnosis obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, Job Diagnosis will immediately delete such information from its database. Because Job Diagnosis does not collect personally identifiable information from children under the age of 13, Job Diagnosis has no such information to use or disclose to third parties. Job Diagnosis has designed this Privacy Policy in order to comply with the Children?s Online Privacy Protection Act ("COPPA").
+Job Diagnosis does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Job Diagnosis obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, Job Diagnosis will immediately delete such information from its database. Because Job Diagnosis does not collect personally identifiable information from children under the age of 13, Job Diagnosis has no such information to use or disclose to third parties. Job Diagnosis has designed this Privacy Policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
 
 **2\. INFORMATION COLLECTION PRACTICES**
 
   * **(a) Traffic Data.- Non-Personally Identifiable Information:  **Like most website operators, Job Diagnosis automatically gathers information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Service; and (iv) types of Web browsers accessing the Service (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify You.Job Diagnosis analyzes Traffic Data and information gathered using Cookies to help Job Diagnosis better understand who is using the Service and how they are using it. By identifying patterns and trends in usage, Job Diagnosis is able to better design the Service to improve Your experience, and to serve You more relevant and interesting content and advertisements. From time to time, Job Diagnosis may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Service. Job Diagnosis does not attempt to link information gathered using Cookies to Personally Identifiable Information.
   
 
-  * **(b) Tracking technologies:Technologies such as: cookies, beacons, tags and scripts are used by VHMnetwork LLC and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.**
- **  
+  * (b) Tracking technologies:Technologies such as: cookies, beacons, tags and scripts are used by VHMnetwork LLC and our partners [marketing partners], affiliates, or analytics or service providers [online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+  
 
   * We use cookies for [our shopping cart, to remember users' settings (e.g. language preference), for authentication]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited
   
 
-  * **(c) Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information**
- **  
+  * (c) Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.We use Local Storage, such as HTML5, to store content information and preferences.
+  
 
   * Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:  
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
   
 
-  * We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  * We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
   
 
   * **(d) Personally Identifiable Information.**    
@@ -64,19 +60,13 @@ In order for You to use certain features of the Service, You will be asked to pr
 The Service may contain features (e.g.instant messages, electronic messaging, etc.) that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personally Identifiable Information. Any information that You choose to disclose by means of such features becomes public information over which Job Diagnosis is unable to exercise control. You should exercise caution when deciding to disclose Your Personally Identifiable Information by means of such features, and You agree to assume all responsibility for doing so.
   
 
-  * **(f) Facebook and/or Twitter Authentication**.  
-By signing into the Service using Facebook Connect or Twitter, and/or any equivalent login application programming interface ("API"), you are authorizing Job Diagnosis to collect and store, in accordance with this Privacy Policy and the Privacy Policy of Facebook, Inc. ("Facebook") and the Privacy Policy of Twitter, Inc. ("Twitter"), any and all information that you agreed that Facebook [or Twitter] or could legally provide to Job Diagnosis through Facebook's and/or Twitter's API. Such information may include, without limitation, your first and last name, Facebook and/or Twitter username, Facebook and/or Twitter profile picture, and any unique Facebook and/or Twitter identifier and access token, and e-mail address.
+  * The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email click here (link to <http://privacy.criteoemail.com/us/privacy-policy.html>)
   
-
-  * **(g) The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email click here (link to<http://privacy.criteoemail.com/us/privacy-policy.html>)**
- **  
 
   * You may, instead of logging in through Facebook Connect or Twitter, create login credentials using your name and e-mail address. 
   
-******
 
 
-******
 
 **3\. INFORMATION USE AND DISCLOSURE PRACTICES  **  
 
@@ -99,7 +89,7 @@ Some of the framed pages contain the following disclaimer at the bottom of the p
   
 
     * **Disclosure to Marketing Partners.**  
-Job Diagnosis may utilize any and all Personally Identifiable Information to help our clients better understand the demographics of our target audiences as well as to support our marketing data products and services. Job Diagnosis may also disclosure Personally Identifiable Information to partner firms which may include third party marketing companies, affiliates, advertising agencies, and data aggregation companies. When You elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
+Job Diagnosis may utilize any and all Personally Identifiable Information to help our clients better understand the demographics of our target audiences as well as to support our marketing data products and services. Job Diagnosis may also disclose Personally Identifiable Information to partner firms which may include third party marketing companies, affiliates, advertising agencies, and data aggregation companies. When You elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
   
 
     * **Disclosure to Direct Mail Partners.**  
@@ -111,7 +101,7 @@ Job Diagnosis discloses Personally Identifiable Information to those who help it
   
 
     * **Social Media.**  
-Job Diagnosis discloses Your information and Your use of the Service on social media platforms. Job Diagnosis also uses Your information as provided through Facebook and/or Twitter API?s in compliance with all applicable laws and the applicable Facebook and/or Twitter privacy policies in place at the time of collection of Your information.
+Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
   
 
     * **License to User Content.**  
@@ -119,7 +109,7 @@ As stated in the Terms of Use, by using the Service, You grant the Job Diagnosis
   
 
     * **By Law or to Protect Rights.**  
-Job Diagnosis discloses Personally Identifiable Information when required to do so by law, or in response to a subpoena or court order, or when Job Diagnosis believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Job Diagnosis, third parties or the public at large.
+Job Diagnosis discloses Personally Identifiable Information when required to do so by law, or in response to a subpoena or court order, or similar legal process or when Job Diagnosis believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Job Diagnosis, third parties or the public at large.
   
 
     * **Business Transfers; Bankruptcy.**  
@@ -164,7 +154,7 @@ If You fail to pay any balance owed in consideration of services, Job Diagnosis 
 
 **9\. USER ABILITY TO ACCESS, UPDATE, CORRECT and DELETE PERSONALLY IDENTIFIABLE INFORMATION**
 
-  * Job Diagnosis wants Your Personally Identifiable Information to be complete and accurate. As stated in the Terms of Use, by using the Service, You represent and warrant that all information You provide in connection with Your use of the Service is current, complete, and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to or delete Your Personally Identifiable Information, visit Your personal account.
+  * Job Diagnosis wants Your Personally Identifiable Information to be complete and accurate. As stated in the Terms of Use, by using the Service, You represent and warrant that all information You provide in connection with Your use of the Service is current, complete, and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to or delete Your Personally Identifiable Information, visit Your personal account.We will respond to your request to access within a reasonable timeframe. 
 
 
 * We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -219,10 +209,4 @@ Greenwich, CT 06830
 Fax: [212-430-6360]  
 Email:  [admin@VHMnetwork.com](mailto:admin@VHMnetwork.com)
 
-******
-
-****
-
 ## JobDiagnosis.com has millions of jobs so use this Privacy Policy for any help.
-
-****
