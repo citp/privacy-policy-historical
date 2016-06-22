@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animekon.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216213557id_/http%3A//www.animekon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animekon.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622092112id_/http%3A//www.animekon.com/privacy.html) for the most accurate reproduction.*
 
 # Animekon - Privacy Policy
 
