@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218184617id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622053714id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
-_Effective Date: 01/09/2015_
+_Effective Date: 04/26/2016_
 
 ### Job.com's Privacy Information - Overview
 
@@ -10,7 +10,9 @@ This privacy policy applies to www.job.com owned and operated by Job.com, Inc "J
 
 [](https://privacy.truste.com/privacy-seal/Job-com,-Inc-/validation?rid=b022f04f-526a-437b-a2d1-defdaffa0335 "TRUSTe online privacy certification")
 
-Job.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this site www.Job.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+Job.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this site www.Job.com. 
+
+If you have questions or concerns regarding this Statement, you should first contact Privacy@job.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 ### Information About All Job.com Visitors
 
@@ -28,13 +30,13 @@ We do not disclose, share, sell, trade or rent information about your individual
 
 We may provide your personal information to companies that provide services to help us with our business activities such as a credit card processing company to process payments, a third party customer service company that may offer customer support on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-We use a third party service provider to send text messages to you regarding job alerts, should you choose to use this service. By opting into this service, Job.com will share your information with the third-party for the sole purpose of fulfilling this service on your behalf. To opt-out from receiving text alerts you may follow the unsubscribe instructions located at the bottom of each text message or email our third party service provider directly. 
-
 We offer you the ability to utilize our career tools like resume writing, resume distribution, and education information services which are hosted by third party service providers however framed by Job.com. Although this section of the site has the look and feel of Job.com you are on our third party service provider's site and their privacy policy governs the collection and use of the information collected there. Your information is then shared back with Job.com in order for us to provide you the services you have requested. 
 
 We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
 
-If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+If Job.com, Inc. is involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
+We may also disclose your personal information to any other third party with your prior consent. 
 
 ### Featured Programs
 
@@ -64,15 +66,13 @@ If you believe that an unauthorized profile has been created about you, you can 
 
 ### Cookies and other Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Job.com, Inc. and our partners, affiliates, or analytics or service providers such as customer support or advertising service providers. These technologies are used in analyzing trends, administering the site, tracking usersâ€™ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+Technologies such as: cookies, beacons, tags and scripts are used by Job.com, Inc. and our partners, affiliates, or analytics or service providers such as customer support or advertising service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 We use cookies to remember users' settings, for authentication, and to customize the user experience. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. (We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. 
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 collect and store information. Various browsers may offer their own [management tools](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html) for removing HTML5 LSOs. 
+We use Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html). 
 
 ### Targeted or Behavioral Advertising:
 
@@ -101,10 +101,6 @@ This Web site contains links to other sites that are not owned or controlled by 
 We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personal information. 
 
 This privacy policy applies only to information collected by this Web site. 
-
-### Tell a Friend
-
-We offer you the ability to share job posts and articles with friends through online social networking sites or by using adthis. Your friends email address and name will be collected if you choose to use the email feature and will be used to send them a one- time email asking them to visit the site or the job post you requested. We do not have any access to this information. 
 
 ### Privacy Commitment Changes
 
