@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgadult.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115140id_/http%3A//www.imgadult.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgadult.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622171952id_/http%3A//www.imgadult.com/page-privacy.html) for the most accurate reproduction.*
 
-# Privacy - Free Adult Image Hosting | ImgAdult
+# Privacy - Earn Money Sharing Adult Images | ImgAdult
 
 **imgadult Privacy Policy**
 
