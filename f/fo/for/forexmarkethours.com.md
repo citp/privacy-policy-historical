@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222130603id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622034815id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
 
 # Forex Market Hours
 
 |   
-
-
-[](http://daily60pips.com/markethours.html)
-
 | | | | | | |   
 
 
