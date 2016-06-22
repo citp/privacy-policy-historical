@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansioncasino.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906153314id_/http%3A//www.mansioncasino.com/about/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansioncasino.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622114055id_/http%3A//www.mansioncasino.com/about/security-privacy.html) for the most accurate reproduction.*
 
 # Join MansionCasino.com | Secure and Discreet Casino
 
@@ -6,7 +6,7 @@
 
 MANSIONCASINO.COM is a duly authorised branded casino of Mansion Online Casino Limited, (referred to as "MANSIONCASINO.COM", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar in conjunction with and/or as well as other companies under the same ownership also involved in providing similar or complementary services, (collectively referred to as "the Group").
 
-We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](https://web.archive.org/about/terms-and-conditions.html) for use of this site or any other sites operated by us.
+We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [Terms and Conditions](https://web.archive.org/about/terms-and-conditions.html) for use of this site or any other sites operated by us.
 
 **Personal information**
 
@@ -55,10 +55,14 @@ The services provided on this website are not intended for or directed to minors
 
 It may be necessary to transfer your personal information to other companies within the Group located in countries outside the European Union. This may happen if any of our servers or members of the Group are located or based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your personal information to such companies for purposes regarding which you will receive advance notice. The data protection, privacy and other laws of these non-European Union countries may not be as comprehensive and in these instances we will take steps to ensure that a similar level of protection is given to your information. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation applicable to the Group. By submitting your personally identifiable information to us you consent to the use of that information as set out in this Privacy Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of the service will signify that you agree to any such changes made so please check this page regularly.
 
+**Anti Money Laundering Obligations**
+
+Please note that as a licensed operator under both the UK and Gibraltar jurisdictions, we are legally obliged to comply with European and International Anti Money Laundering laws and regulations. These obligations require us to carry out certain tasks including but not limited to: screening for Politically Exposed Persons (‘PEPs’), Sanction List screening, monitoring of account activity to guard against potential money laundering risks, reporting of suspicious activity to the relevant financial crime authorities, etc. It also means that we are required to retain all customer records for a minimum of 5 years after the relationship between the customer and us has ended. This information is retained securely and confidentially at all times, where we comply with the highest standard of Information Security, being the ISO 27001 certification. Please contact customer support for more details.
+
 **Contact us**
 
 You may request details of your personal information kept by us by following the contact information set out below. Once we receive such a request we will ask you to verify your identity by providing relevant information or documentation. We will then request pre-payment of an administration fee of US$15 per request and upon receipt of this process your request within 40 days.
 
-If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact MansionCasino.com Member Service on +350 20044793 or by email to [support@MansionCasino.com](mailto:support@MansionCasino.com;) or write to MansionCasino.com, Suite 901, Europort, Gibraltar.
+If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact MansionCasino.com Member Service on +44 208 1660060 or by email to [support@mansion.com](mailto:support@mansion.com;) or write to MansionCasino.com, Suite 901, Europort, Gibraltar.
 
-This privacy policy was last revised on the 8th June 2011
+This privacy policy was last revised on 16/05/2016.
