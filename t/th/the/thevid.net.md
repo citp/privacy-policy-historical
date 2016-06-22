@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevid.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222181433id_/http%3A//thevid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevid.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622203256id_/http%3A//thevid.net/privacy) for the most accurate reproduction.*
 
 # TheVid.net
 
