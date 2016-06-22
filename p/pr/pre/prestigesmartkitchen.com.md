@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prestigesmartkitchen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092300id_/http%3A//prestigesmartkitchen.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigesmartkitchen.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622191922id_/http%3A//www.prestigesmartkitchen.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# PrestigeTTK
+# Privacy Policy
 
 We respect your privacy.
 
@@ -15,4 +15,22 @@ Cookies are small pieces of information that are stored by your browser on your 
 
 In summary, we respect the privacy of our customers completely. We use the information we collect on the store to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.
 
-Go ahead and have a great time shopping at TTK Prestige.
+Go ahead and have a great time shopping at TTK Prestige
+
+## ASSURED DELIVERY
+
+All products ordered online at www.prestigesmartkitchen.com get shipped within a period of 2 - 3 days. However, there are some product which have certain geographical and physical restrictions as these are a bit bulky as well as delicate and hence cannot be shipped via a courier. These products are delivered by the nearest Prestige Smart Kitchen outlet. The regions where our outlets cannot reach, these products will not be shipped. These products are validated at the shopping card via pin code for delivery. Wherever the entered pin code is not supported, the purchase for this product will not be allowed.
+
+X
+
+## WARRANTY & SERVICE
+
+Every Prestige product comes with a limited period warranted and with an assured After Sales Service and Customer Support. We value the trust placed in us by our customers and their purchase decision and our team strives to provide customer support and after sales service to ensure that the promised value is delivered to our customers. To deliver this, we have a dedicated call center supported by authorised service centers throughout India. You can read more about our Customer Support initiatives and the methodology followed at [www.ttkprestige.com/products/after-sales-service.](http://www.ttkprestige.com/products/after-sales-service)
+
+X
+
+## Official Brand Store
+
+www.prestigesmartkichen.com is the official web store of TTK Prestige Ltd. Here customers can get the latest launches from the Prestige stable. Our entire range of Prestige products are listed on this site. Fulfillment happens from company warehouses or the nearest Prestige Smart Kitchen dealer outlet, so you can always rest assured about the originality of the products. We cater to all pin codes pan India and also offer Cash on Delivery payment option.
+
+X
