@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealfuel.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222022151id_/http%3A//dealfuel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealfuel.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622023430id_/http%3A//dealfuel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DealFuel | DealFuel
+# Privacy Policy - DealFuel
 
 ### What information do we collect?
 
@@ -61,4 +61,4 @@ This policy was last modified on **31 Jan 2012**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
- **[support@dealfuel.com](mailto:ssupport@dealfuel.com)**
+**[support@dealfuel.com](mailto:ssupport@dealfuel.com)**
