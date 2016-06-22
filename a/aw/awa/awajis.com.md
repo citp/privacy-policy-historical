@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the awajis.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127234638id_/http%3A//www.awajis.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awajis.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622140714id_/http%3A//awajis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Awajis
+# Privacy Policy Awajis
 
 **Effective: April, 2013 | Last Modified: January, 2014**
 
-At Awajis.Com, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by Awajis.Com and how it is used.
+At Awajis.Com, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by Awajis.Com and how it is used.
 
 **Log Files**
 
@@ -18,7 +18,7 @@ Awajis.Com does use cookies to store information about visitors preferences, rec
 
   * Google, as a third party vendor, uses cookies to serve ads on Awajis.Com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to Awajis.Com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
@@ -33,8 +33,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 **Links**  
 Awajis.Com contains links to sites. Awajis.Com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on Awajis.com.
 
-**Changes in Our Privacy Policy**   
-From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
+**Changes in Our Privacy Policy**  
+From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users’ personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
 
-**Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: ibotyle at gmail.com 
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: ibotyle at gmail.com
