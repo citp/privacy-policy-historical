@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giganews.com privacy policy that was archived on 2015-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151231233136id_/http%3A//www.giganews.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giganews.com privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623013408id_/http%3A//www.giganews.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent boxsizing mediaqueries lastchild pointerevents cssresize placeholder formvalidation"><head>
   <title>Privacy Policy - Giganews</title>
@@ -10,6 +10,7 @@
   <meta name="robots" content="index,follow">
   <meta name="com.silverpop.brandeddomains" content="www.pages02.net,giganews.com,goldenfrog.mkt6294.com">
   <meta name="com.silverpop.cothost" content="engage2.silverpop.com">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="https://plus.google.com/110275737366058294882" rel="publisher">
   <link rel="alternate" hreflang="pt" href="http://br.giganews.com/legal/privacy.html">
   <link rel="alternate" hreflang="zh" href="http://cn.giganews.com/legal/privacy.html">
@@ -23,9 +24,10 @@
 
   <link rel="stylesheet" href="/styles/layout.css" title="Giganews" type="text/css">
   <link href="/styles/chat.css" rel="stylesheet" type="text/css">
-  <!--[if IE]>
+  <!--[if lt IE 9]>
   <link rel="stylesheet" href="/styles/ie/gn.css" title="Giganews" type="text/css" />
   <![endif]-->
+  <link rel="stylesheet" href="/styles/gn-responsive.css" type="text/css">
   <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/modernizr.custom.min.js"></script>
   <script type="text/javascript" src="https://use.typekit.com/lav7mbm.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -178,12 +180,30 @@
 </script>
 <!--END OF MARK PARENT PAGE NAV ITEM AS ACTIVE FOR SUBPAGES-->
 
+<!--RESPONSIVE NAV-->
+<script type="text/javascript">
+  $(document).ready(function() {
+    "use strict";
+
+    $('#gnNavToggle').click( function(e){
+      e.preventDefault();
+
+      $('#gnNav').toggleClass( 'hide-on-med' );
+    });
+  });
+</script>
+<!--END OF RESPONSIVE NAV-->
+
 <!-- HEADER -->
 <div id="gnHeader" class="">
   <div class="container clearfix">
-    <a id="gnLogo" title="Giganews" href="/"><img src="/images/giganews_logo.png" alt="Usenet Newsgroups by Giganews"></a>
+    <a id="gnLogo" title="Giganews" href="/">
+      <img class="hide-on-med" src="/images/giganews_logo.png" alt="Usenet Newsgroups by Giganews">
+      <img class="hide show-on-med" src="/images/gn_logo_mobile.png" alt="Usenet Newsgroups by Giganews">
+    </a>
 
-      <ul id="gnNav" class="gnNav">
+      <a id="gnNavToggle" class="gnNavToggle hide show-on-med" href="#"><img src="/images/gn_hamburger.png" alt="Menu"></a>
+    <ul id="gnNav" class="gnNav hide-on-med">
       <li class="nav-item nav-item-features more first"><a class="" href="/why.html">Features</a>
         <ul>
           <li><a href="/why.html">Why Giganews?</a></li>
@@ -208,7 +228,7 @@
 
     <!-- LOGGED OUT -->
     <li id="gnLogin" class="nav-item nav-item-signin more">
-      <a href="https://www.giganews.com/auth?destination=%2Flegal%2Fprivacy.html" title="Sign in" rel="nofollow" class="gnCta-6 bordered">Sign in</a>
+      <a href="https://www.giganews.com/auth?destination=%2Flegal%2Fprivacy.html" title="Sign in" rel="nofollow" class="gnCta-6 bordered">Sign In</a>
       <ul class="dropdown-menu">
         <li>
           <form id="auth" action="https://www.giganews.com/auth/" method="post">
@@ -230,7 +250,7 @@
       </ul>
     </li>
     <li class="nav-item nav-item-signup last" id="freeTrial">
-      <a href="/signup/" title="Sign up" class="gnCta-6 red">Sign up</a>
+      <a href="/signup/" title="Sign up" class="gnCta-6 red">Sign Up</a>
     </li>
     <!-- END OF LOGGED OUT -->
     </ul>
@@ -384,7 +404,7 @@ if ( is_page_for_chat ) {
 <!-- end SnapEngage code -->
 <!--/UdmComment-->
 
-<div id="content">
+<div id="content" class="template-no-banner page-privacy">
   <div id="maincol">
 <h1>Privacy Policy</h1>
 <p>
@@ -464,8 +484,8 @@ Giganews holds personal information about you in the strictest confidence and do
         <span class="price-block">
           <span class="price">$29.99<br><span class="pricesmall">(~22,71€)</span></span>
         </span>
-        <span class="corner-left"></span>
-        <span class="corner-right"></span>
+        <span class="corner-left hide-on-mobile"></span>
+        <span class="corner-right hide-on-mobile"></span>
       </a>
     </li>
     <li class="plan-block" id="platinum-plan">
@@ -512,8 +532,8 @@ Giganews holds personal information about you in the strictest confidence and do
   <h3>What People are Saying</h3>
   <blockquote class="testimonial">
     <p>
-    You are the only usenet provider I know of to throw parties for their users. I aso dont have to pay extra for a VPN service which rocks. You guys are shiny ;-)
-    <cite>Ian - Augusta, Georgia</cite>
+    When your harddrive cant handle the speed from the usenet client, you must be downloading from giganews.
+    <cite>Omar - Amsterdam, Netherlands</cite>
     </p>
   </blockquote>
   <span id="triangle"></span>
@@ -642,7 +662,7 @@ Giganews holds personal information about you in the strictest confidence and do
       </div>
     </div>
     <p class="gnCopyright">
-      Giganews® and the Giganews logo are registered trademarks of Giganews, Inc. ©2015 Giganews, Inc.
+      Giganews® and the Giganews logo are registered trademarks of Giganews, Inc. ©2016 Giganews, Inc.
     </p>
   </div>
 </div>
