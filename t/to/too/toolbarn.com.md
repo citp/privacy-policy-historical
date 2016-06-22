@@ -1,76 +1,92 @@
-> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054416id_/http%3A//www.toolbarn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622052733id_/http%3A//www.toolbarn.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy | ToolBarn.com
+# Privacy Policy | Toolbarn.com
 
-> **Privacy Policy**
+ToolBarn.com values the relationship we have with our customers and we are committed to responsible information handling practices. Your privacy on the Internet is important to us. Because we gather certain types of information to process orders, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. Third-Party Web Analytics: We use third-party web analytics from Google to help analyze where visitors go and what they do while visiting our website. We use this information to improve our shopping experience for our customers. 
 
-This privacy policy applies to ALL websites owned by ToolBarn.com, including this site.
+## What we collect
 
-We value the relationship we have with our customers and we are committed to responsible information handling practices. Your privacy on the Internet is important to us. Because we gather certain types of information to process orders, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
+We may collect the following information:
 
-> **Collection of Information (Personal Data & Aggregated Data)**
-
-We gather two types of information about users:
-
-  1. Personal data, provided through voluntary registration.
-  2. Aggregated data, which tracks users as a whole.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**Personal Data** We collect personal information such as your contact information (name, e-mail address), billing/shipping information (credit card number, shipping address). Credit card numbers are never stored on our system, nor do we have access to that data through our merchant account. When submitting personal information on an online form, we will identify which fields are required in order to fulfill your request.
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-We request information when you purchase products or services, sign up for a drawing, promotion or survey, contact us with a question or concern or participate in other activities. In addition, when using our Web sites, our servers may collect click-stream information (such as the address (or URL) of the Web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site.
+## What we do with the information we gather
 
-Your provision of such additional information is your acknowledgement that you consent to our use of such information to better serve you, our visitor, and others coming to our sites. Except as described below, it is not disclosed to parties in any way that personally identifies you without your prior permission.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-**Aggregated Data** Aggregated data, which tracks website user activity as a whole rather than on an individual basis, is gathered through several methods. This tracking data follows website traffic in general, and is not used to identify you personally. Aggregated tracking information helps us to determine which areas of our site users like and don't like based on traffic to those areas. We do not track what you read, but rather how well each page performs overall. This helps us continue to build a better service for you. We may disclose such aggregated information to third parties such as our vendors.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-> **Do you share the information I've provided?**
 
-We may need to share personal information with third parties in limited circumstances. For example, we may release personal information to third parties to perform services on our behalf such as; fulfilling our customer’s orders, sending marketing communications on our behalf, delivering packages, servicing products, conducting research or surveys, sending regular mail and e-mail, or processing credit card payments. We do not sell or rent customer information to third parties.
 
-> **How is information used?**
+## Security
 
-We use the information you provide in order to 1) fulfill requests for products, services or information, 2) provide customer services, 3) administer drawings or promotions, 4) offer new products and services, 5) measure and improve the effectiveness of our Web sites, our marketing efforts, or our services and offers, 6) tailor our online or in-store offerings to your preferences, 7) administer surveys, 8) send marketing communications or 9) other business purposes.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-> **Contests and Drawings**
+## How we use cookies
 
-We occasionally offer contests and drawings in which we request certain personal information on a voluntary basis. These contests are conducted in full accordance with United States federal and state laws. The full rules and all information about such contests are clearly posted during the event, including how information gathered will be used.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-> **Do you use cookies, other technologies, or third parties to indirectly collect information?**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-A cookie is a small data file that a Web site may send to your browser and which may then be stored on your hard drive. Our Web sites use cookies to simulate a continuous connection -cookies let us "remember" information about your session, such as what has been placed in your shopping cart, and allow you to move within areas of our Web sites without reintroducing yourself. No personally identifiable information is stored in these cookies.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-Our Web server automatically collects the address of the Web site that you came from before visiting our site, which browser you used to view our site and any search terms you have entered on our site.
+## Links to other websites
 
-Our Web site may also use other technologies to track which pages on our Web sites our visitors view. This non-identifiable click-stream data helps us understand how visitors use our Web site and help to identify areas of improvement
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-We may advertise to you on third party sites by identifying you as a previous visitor via cookies. Third party vendors including Google will show you these ads. You can opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). You can opt out of other vendor's use of cookies [here](http://www.networkadvertising.org/managing/opt_out.asp).
+## Controlling your personal information
 
-> **Children and Privacy**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-We request that children under 17 do not submit or post any information to the site without parent’s or guardian's consent. We will not request or knowingly collect from a child any information online that can be traced to the child, such as an e-mail address, name, or information about the child's family. Unless a parent or guardian consents to such use in advance, we will not knowingly use information that a child provides to us for any marketing, selling or promotional purposes.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [marketing@toolbarn.com](mailto:marketing@toolbarn.com)
 
-> **Can I update my information or Opt-out?**
 
-If your information is currently being used to send you marketing communications, you can opt-out at any time. All marketing e-mail and direct mail communications such sale emails, newsletters or exclusive special offers, have easy-to-follow instructions stating how to stop receiving them.
 
-To opt-out of receiving marketing communications from us:   
-1) Follow directions on a marketing e-mail or direct mail communication from us.   
-2) Call toll free (866) 597-3850   
-3) Send e-mail with subject unsubscribe with your current contact information and what you wish to unsubscribe to to us at: [sales@toolbarn.com](mailto:sales@toolbarn.com).   
-4) Send a request with your current contact information to:
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-> Our Mailing Address   
->  7820 l St.   
->  Omaha, NE 68127
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 7820 L St Omaha, NE 68127. 
 
-If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate specifically what type of marketing communications you wish to stop receiving. This will ensure we identify you correctly in our systems and accurately process your opt-out request. Please note that due to production and mailing timelines, it may take up to 10 business days for e-mails and up to six weeks for direct mail to make the requested change. Until that change takes effect, you may still receive marketing communications from us.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
-Also, please note that you may still receive business-related communications such as order confirmations, product recall information or other administrative communications.
+## List of cookies we collect
 
-> **Will this privacy policy change?**
+The table below lists the cookies we collect and what information they store.
 
-Because our Web sites and businesses will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a different manner, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
-
-Last revision date: July 20th, 2012
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
