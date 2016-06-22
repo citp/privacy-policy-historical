@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ealuxe.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219085027id_/http%3A//www.ealuxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ealuxe.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622020652id_/http%3A//www.alux.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EALUXE.COM
+# Privacy Policy - Alux.com
 
-This Privacy Policy governs the manner in which EALUXE collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.EALUXE.com](http://www.generateprivacypolicy.com/account/policies/edit/www.EALUXE.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by EALUXE.
+This Privacy Policy governs the manner in which ALUX collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.ALUX.com](http://www.generateprivacypolicy.com/account/policies/edit/www.ALUX.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by ALUX.
 
  **Personal identification information**
 
@@ -18,15 +18,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-EALUXE may collect and use Users personal information for the following purposes:
+ALUX may collect and use Users personal information for the following purposes:
 
-  *  _\- To improve customer service_  
+  *  _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _\- To personalize user experience_  
+  *  _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
+  *  _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _\- To send periodic emails_  
+  *  _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -49,7 +49,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
  **Changes to this privacy policy**
 
-EALUXE has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ALUX has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -57,6 +57,15 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: **[Contact Page](http://ealuxe.com/contact/ "Contact")**  
-[  
-](http://www.generateprivacypolicy.com/account/policies/edit/www.EALUXE.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: **[Contact Page](http://alux.com/contact/ "Contact")**
+
+#### Hey there!
+
+In order to submit a post to Alux.com you must be logged in.
+
+  * __Sign Up with email
+  * __Sign in with Facebook
+
+
+
+Already have an account? Click here to sign in
