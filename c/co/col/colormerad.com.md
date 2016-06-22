@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212064440id_/http%3A//colormerad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622135657id_/http%3A//www.colormerad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Color Me Rad 5K Run
 
@@ -45,5 +45,4 @@ This policy was last modified on 06/02/2014.
 If there are any questions regarding this privacy policy, you may contact us using the information listed below:
 
 Color Me Rad  
-(202) 656-7723  
 info@colormerad.com
