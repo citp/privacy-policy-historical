@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the palmbeachletter.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720151012id_/http%3A//palmbeachletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachletter.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622023340id_/http%3A//palmbeachgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Palm Beach Research Group
 
-We take your privacy very seriously. If you have any questions on our privacy policy that we do not address below, contact customer service at (888) 501-2598, Monday through Friday, 9 a.m.-11 p.m. EST. You can also email them at [info@cspcustomerservice.com](mailto:info@cspcustomerservice.com).
+We take your privacy very seriously. If you have any questions on our privacy policy that we do not address below, contact customer service at (888) 501-2598, Monday through Friday, 8 a.m.-11 p.m. ET. You can also email them at [support@palmbeachgroup.com](mailto:support@palmbeachgroup.com).
 
 **Links to Other Sites**
 
@@ -16,7 +16,7 @@ By submitting your personal information on our site, you’re giving consent for
 
 When you subscribe, we place your email address in a database. We use it to send you the product you subscribed to, including your monthly issues, special notices from the service, and occasional advertisements. We will not add your name to our email list without your permission. 
 
-You can remove your address from our emailing list by following the instructions at the end of every email we send. You can also unsubscribe by contacting Customer Service at (888) 501-2598 or by emailing them at [info@cspcustomerservice.com](mailto:info@cspcustomerservice.com).
+You can remove your address from our emailing list by following the instructions at the end of every email we send. You can also unsubscribe by contacting Customer Service at (888) 501-2598 or by emailing them at [support@palmbeachgroup.com](mailto:support@palmbeachgroup.com).
 
 **Mailing Address**
 
@@ -26,7 +26,7 @@ Palm Beach Research Group
 Attn: Customer Service  
 55 NE 5th Ave., Suite 100, Delray Beach, FL 33483
 
-You can also contact Customer Service at (888) 501-2598 or by emailing at [info@cspcustomerservice.com](mailto:info@cspcustomerservice.com).
+You can also contact Customer Service at (888) 501-2598 or by emailing at [support@palmbeachgroup.com](mailto:support@palmbeachgroup.com).
 
 **Sensitive Information**
 
@@ -52,12 +52,12 @@ For more information on what our cookies do, please contact customer service.
 
 **Copyright and Disclaimer**
 
-All contents of this website are copyright 2014 by Palm Beach Research Group. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Palm Beach Research Group.
+All contents of this website are copyright 2015 by Palm Beach Research Group. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Palm Beach Research Group.
 
 DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we’ve learned as financial journalists. It may contain errors, and you shouldn’t make any investment decision based solely on what you read here. It’s your money and your responsibility. Palm Beach Research Group expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Palm Beach Research Group (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
 
 **Policy Against Advertising Our Website Using Unsolicited Email Messages**
 
-We require that all emails promoting palmbeachletter.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and website using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+We require that all emails promoting palmbeachgroup.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and website using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([info@cspcustomerservice.com](mailto:info@cspcustomerservice.com)). We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([support@palmbeachgroup.com](mailto:support@palmbeachgroup.com)). We will immediately investigate all allegations made related to unsolicited messages.
