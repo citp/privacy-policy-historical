@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727040256id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622182341id_/http%3A//wap-baze.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Google Policy For Vevobase.com**
+**Our Google Policy For Wapbaze** Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Googles cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Googles own privacy policies.
 
- **Vevobase.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+#### About Google advertising:
+
+What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+**Wapbaze** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -26,8 +30,8 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to contact@vevobase.com for further clarification.
+Concerns or questions about this privacy policy can be directed to info@wapbaze.com for further clarification.
 
-**OUR DISCLAIMER**
+ **OUR DISCLAIMER**
 
-This our policy may be changed at any time in life at the discretion of vevobase.com. If we should update this policy, we will post the updates to this page on our Website only. This policy last updated on November 25th, 2014.
+This our policy may be changed at any time in life at the discretion of Wapbaze. If we should update this policy, we will post the updates to this page on our Website only. This policy last updated on November 25th, 2014.
