@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutbook.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905211525id_/https%3A//www.scoutbook.com/mobile/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutbook.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622101526id_/https%3A//www.scoutbook.com/mobile/help/privacy.asp) for the most accurate reproduction.*
 
 # Scoutbook - Privacy Policy
 
@@ -66,12 +66,13 @@ Scoutbook.com will occasionally update this Statement of Privacy to reflect comp
 Scoutbook.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Scoutbook.com has not adhered to this Statement, please contact Scoutbook.com at: 
 
 Scoutbook.com  
-1001A E. Harmony Rd. #240  
-Fort Collins, Colorado 80525 
+1325 West Walnut Hill Lane  
+Irving, Texas 75015-2079  
+
 
 Email Address:  
-[info@scoutbook.com](mailto:info@scoutbook.com)
+[scoutbook.support@scouting.org](mailto:scoutbook.support@scouting.org)
 
-Updated February 26, 2015
+Updated March 1, 2016
 
  
