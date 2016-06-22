@@ -1,79 +1,69 @@
-> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001647id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623002438id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Steelers Depot
 
-**Privacy Policy for http://www.steelersdepot.com**
+**PRIVACY POLICY**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin**(AT)**steelersdepot.com.
+This Privacy Policy governs the manner in which ENTER URL collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://steelersdepot.com](http://steelersdepot.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by ENTER URL.
 
-Steelers Depot knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+**Personal identification information**
 
-This Privacy Policy covers Steelers Depot’s treatment of personal information that Steelers Depot gathers when you are on the Steelers Depot website and when you use Steelers Depot services. This policy does not apply to the practices of third parties that Steelers Depot does not own or control, or to individuals that Steelers Depot does not employ or manage.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Information Collected by Steelers Depot
+**Non-personal identification information**
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Steelers Depot users:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-1\. Information You Provide to Us:
+**Web browser cookies**
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-2\. Automatic Information:
+**How we use collected information**
 
-We receive and store certain types of information whenever you interact with us. Steelers Depot and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Steelers Depot cookie information, and the page you requested. Steelers Depot uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+ENTER URL may collect and use Users personal information for the following purposes:
 
-Steelers Depot may collect and, on any page, display the total counts that page has been viewed.
+  * _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_
 
-Many companies offer programs that help you to visit websites anonymously. While Steelers Depot will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-3\. E-mail Communications:
 
-Steelers Depot is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Steelers Depot may send out e-mails with Steelers Depot-related news, products, offers, surveys or promotions.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-4\. Cookies:
+**How we protect your information**
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Steelers Depot cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Steelers Depot’s coolest features.
+**Sharing your personal information**
 
-Steelers Depot’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-5\. Sharing Your Information:
+**Third party websites**
 
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensor and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-6\. Steelers Depot Personnel:
+**Advertising**
 
-Steelers Depot personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Steelers Depot business.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-7\. Business Transfers:
+**Google Adsense**
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Steelers Depot, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-8\. Protection of Steelers Depot and Others:
+**Changes to this privacy policy**
 
-We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Steelers Depot, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+[Steelersdepot.com](http://www.steelersdepot.com/) has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-9\. Syndication:
+**Your acceptance of these terms**
 
-Steelers Depot allows for the RSS syndication of all of its public content within the Steelers Depot website.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-10\. With Your Consent:
+**Contacting us**
 
-Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
-
-11\. Children Under 18 Years of Age:
-
-You must be 13 years and older to register to use the Steelers Depot website. As a result, Steelers Depot does not specifically collect information about children. If we learn that Steelers Depot has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Steelers Depot or sending information about themselves or anyone else over the Internet.
-
-12\. Changes to this Privacy Policy:
-
-Steelers Depot may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Steelers Depot website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-13\. Conditions of Use:
-
-If you decide to visit Steelers Depot website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-14\. Effective Date of this Privacy Policy:
-
-This Privacy Policy is effective as of July 21, 2010 and last updated July 21, 2010.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <http://www.steelersdepot.com/2010/01/contact/>
