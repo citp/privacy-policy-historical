@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerpix.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913004050id_/http%3A//www.printerpix.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerpix.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622172810id_/http%3A//www.printerpix.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # 
 
