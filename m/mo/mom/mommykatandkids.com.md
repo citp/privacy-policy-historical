@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211195932id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622192801id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
 
 # Rules and Privacy Policy
 
@@ -8,11 +8,11 @@
 
 2\. Contests are open to Canadian and American residents unless otherwise stated.
 
-3\. Winners will be chosen by Random.org via Rafflecopter
+3\. Winners will be chosen by Random.org via Gleam.
 
-4\. Winners will have 72 hours to claim their prize by replying to the email I send them.  If I do not receive a reply within that time frame, a new winner will be drawn.
+4\. Winners will have 72 hours to claim their prize by replying to the email I send them.  If I do not receive a reply within that time frame, the prize will be forfeited.
 
-5\. It is the sponsor’s responsibility to send the winner their prize.  Mommy Kat and Kids will not be held responsible for events in which winners do not receive their prize. However, if you do not receive your item after 8 weeks, please contact us and we will do everything we can to resolve the issue.
+5\. It is the sponsor’s responsibility to send the winner their prize.  Mommy Kat and Kids will not be held responsible for events in which winners do not receive their prize. However, if you do not receive your item after 8 weeks, please contact me and I will do everything I can to resolve the issue.
 
 **Privacy Policy:**
 
