@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mat4.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810034050id_/http%3A//mat1.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mat4.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623002540id_/http%3A//mat1.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
