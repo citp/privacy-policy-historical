@@ -1,28 +1,59 @@
-> *The following text is extracted and transformed from the onlinedirectoryfree.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206215724id_/http%3A//www.watchmoviesplanet.com/privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinedirectoryfree.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195634id_/http%3A//www.onlinedirectoryfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Online Directory FreeOnline Directory Free
 
-Your Privacy
+**Privacy Policy for onlinedirectoryfree**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Online directory free operates the www.onlinedirectoryfree.com website.
 
-Google Adsense and other ads networkd
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.onlinedirectoryfree.com
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Watchmoviesplanet has no access or control over these cookies that may be used by third party advertisers.
+**Information Collection and Use**
 
-Collection of Personal Information
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number, postal address and other information.
 
-When visiting Watchmoviesplanet, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+**Log Data**
 
-Links to third party Websites
+We collect information that your browser sends whenever you visit our Service . This Log Data may include information such as your computer’s Internet Protocol address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+**Cookies**
 
-Changes to this Privacy Statement  
-The contents of this statement may be altered at any time, at our discretion.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-If you have any questions regarding the privacy policy of Watchmoviesplanet then you may contact us.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Our Service does not address anyone under the age of 13 .
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
