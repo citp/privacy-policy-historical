@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidforu.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220014101id_/http%3A//vidforu.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidforu.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622173213id_/http%3A//vidforu.com/privacypolicy) for the most accurate reproduction.*
 
 # VidForU.com - Watch Online Videos
 
