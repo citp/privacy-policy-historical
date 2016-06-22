@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getprice.com.au privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025030918id_/http%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprice.com.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622203705id_/http%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.*
 
 # Privacy Charter
 
