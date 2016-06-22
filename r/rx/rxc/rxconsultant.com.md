@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rxconsultant.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922165703id_/http%3A//www.rxconsultant.com/index.cfm%3Ffuseaction%3Dhome.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxconsultant.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622140756id_/http%3A//rxconsultant.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Rx Consultant
+# Privacy Policy | The Rx Consultant
 
 We invite you to ask us about any privacy concern you may have by calling 1-800-798-3353. 
 
