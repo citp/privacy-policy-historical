@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128182607id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622094742id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
 
 # SastaSundar.com: Online Pharmacy for Healthcare and Ayurvedic products
 
@@ -11,21 +11,21 @@ IN CASE YOU DISAGREE TO ANY OR ALL OF THESE TERMS, PLEASE LEAVE THIS PAGE AND DO
   
 
 
-#### LANGUAGE OF THE TERMS
+## LANGUAGE OF THE TERMS
 
 The terms are incorporated herein in English language and the website does not provide you with a translation of the English language version of the Terms and if there is any contradiction between what the English language version of the Terms says and what a translation says, then the English language version shall take precedence.
 
   
 
 
-#### CHANGES TO PRIVACY POLICY
+## CHANGES TO PRIVACY POLICY
 
 www.sastasundar.com reserves the right to update this Privacy Policy from time to time as it may deem fit and proper without any prior notice. These changes, introduced to the Privacy Policy upon being posted on www.sastasundar.com, will take effect immediately. So do make sure you are aware of the changes; please review this page periodically to ensure you have the latest version. After such revisions take effect, your continued use of the website, www.sastasundar.com, will indicate your acceptance and acknowledgment of the terms of the revised Privacy Policy.
 
   
 
 
-#### TYPES OF INFORMATION COLLECTED AND USES OF COLLECTED INFORMATION
+## TYPES OF INFORMATION COLLECTED AND USES OF COLLECTED INFORMATION
 
 During your use of www.sastasundar.com, we will collect and store your personal information which is provided by you from time to time. Such information is essential to guarantee you a safe, secure, proficient and personalized shopping experience. 
 
@@ -83,7 +83,7 @@ This information is usually analyzed and assembled on an aggregate basis and is 
   
 
 
-#### SHARING OF PERSONAL INFORMATION
+## SHARING OF PERSONAL INFORMATION
 
 All visitors / Members of this website understand that this website does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. We ensure that we will not disclose your information to anyone, excepting the situations mentioned herein after.
 
@@ -120,7 +120,7 @@ Your medical and prescription information will not be intentionally released to 
   
 
 
-#### DATA SECURITY
+## DATA SECURITY
 
 We take appropriate steps to protect the personal information you share with us. We have implemented reasonable technology and security features to safeguard the privacy of your personal information.
 
@@ -133,7 +133,7 @@ We will permit only authorized employees, who are trained in the proper handling
   
 
 
-#### RELEASE OF NON- PERSONALLY IDENTIFIABLE INFORMATION
+## RELEASE OF NON- PERSONALLY IDENTIFIABLE INFORMATION
 
 We may share or disclose Non-Personally Identifiable Information to our Partners, Affiliates and Advertisers. We may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertising Companies” or “Third Party Advertisers”.
 
@@ -142,7 +142,7 @@ We also use Third Party Service Providers to track and analyze Non-Personally Id
   
 
 
-#### UPDATING PERSONALLY IDENTIFIABLE INFORMATION
+## UPDATING PERSONALLY IDENTIFIABLE INFORMATION
 
 All users have the ability to access, update and delete their Personally Identifiable Information in our website. In fact, we always advise our users to update their Personally Identifiable Information from time to time. To update your information follow the steps below:
 
@@ -158,7 +158,7 @@ If you would like to have some or all of your Personally Identifiable Informatio
   
 
 
-#### DATA TRACKING
+## DATA TRACKING
 
 **Cookies**
 
@@ -188,7 +188,7 @@ Periodically, SastaSundar.com may, at random, record user sessions to help impro
   
 
 
-#### SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION
+## SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION
 
 SastaSundar.com has rigorous security measures in place to protect the loss, misuse and modification of your Personally Identifiable Information. We always provide you the use of a secure server that only selected personnel and contractors can access and thus, track all your account accesses and modifications.
 
@@ -201,7 +201,7 @@ Always remember, SastaSundar.com customer service representatives will never req
   
 
 
-#### PRIVACY POLICY FOR THIRD PARTY SERVICE PROVIDERS
+## PRIVACY POLICY FOR THIRD PARTY SERVICE PROVIDERS
 
 At present, we use third-party advertising companies or service providers to serve advertisements on our website, www.sastasundar.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to SastaSundar.com and other websites in order to provide advertisements about goods and services that you may find interesting and rewarding.
 
@@ -210,14 +210,14 @@ We may work with other companies in the future who may also place cookies or web
   
 
 
-#### PRIVACY POLICY FOR THIRD PARTY WEBSITES
+## PRIVACY POLICY FOR THIRD PARTY WEBSITES
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through www.sastasundar.com have their own privacy policies and data collection methods, uses and disclosure practices. If you link to any such website, we insist on reviewing those websites’ privacy policies. We are not responsible for the policies or practices of the third parties.
 
   
 
 
-#### ADVERTISEMENTS
+## ADVERTISEMENTS
 
 Some of the Services are supported by advertising revenue and may display advertisements and promotions. These advertisements may be targeted to the content of information stored on the Services, queries made through the Services or other information.
 
@@ -228,7 +228,7 @@ In consideration for the website granting you access to and use of the Services,
   
 
 
-#### OTHER CONTENT
+## OTHER CONTENT
 
 The Services may include hyperlinks to other websites or content or resources. The website may have no control over other websites or resources, which are provided by companies or persons other than this website.
 
@@ -239,7 +239,7 @@ You acknowledge and agree that this website is not liable for any loss or damage
   
 
 
-#### MISCELLANEOUS PRIVACY POLICY
+## MISCELLANEOUS PRIVACY POLICY
 
 **Children**
 
@@ -262,7 +262,7 @@ In case you are not interested in receiving promotional e-mails and other market
   
 
 
-#### JURISDICTION
+## JURISDICTION
 
 The Terms, and your relationship with this website, shall be governed by the laws of India, with regard to its conflict of laws.
 
@@ -271,7 +271,7 @@ You and this website agree to submit to the exclusive jurisdiction of the courts
   
 
 
-#### PRECAUTIONS YOU CAN TAKE
+## PRECAUTIONS YOU CAN TAKE
 
 We advice that you take the following precautions to ensure the safety of your data:
 
@@ -282,7 +282,7 @@ We advice that you take the following precautions to ensure the safety of your d
   
 
 
-#### OTHERS
+## OTHERS
 
 You recognize and understand that there is no compulsion on you to provide us with your personal information and any and all personal information provided by you to us is with your full consent, own volition and desire to provide such personal information. You also understand that we are under no obligation to verify the source from which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of fifteen days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent.
 
@@ -295,7 +295,7 @@ We may use technology or other means to protect the service, protect our custome
   
 
 
-#### CONTACT US
+## CONTACT US
 
 **For further details or resolving queries, mail us at :  [care@sastasundar.com](mailto:care@sastasundar.com)  
 You can also share your feedbacks with us (about our policy) at the above email ID. 
