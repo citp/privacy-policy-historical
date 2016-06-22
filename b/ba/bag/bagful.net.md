@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317224113id_/http%3A//bagful.net/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622141447id_/http%3A//bagful.net/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Details of how customer's information is protected
 
 ## [Privacy Statement](http://www.bagful.net/privacy-statement.html)
 
-Bagful knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagful Help Desk](http://www.bagful.net/supporttickets.php).  
-.
+Bagful knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagful Help Desk](http://www.bagful.net/supporttickets.php). .
 
 * * *
 
@@ -37,7 +36,7 @@ Yes, we do share information but only as described below. Otherwise we will not 
 
   * **WHOIS:**
 
-We are required by the Internet Corporation for Assigned Names and Numbers (“ICANN”), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a “port 43″ WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your “WHOIS Information.” Please note that we may not be able to control how members of the public may use the WHOIS Information.
+We are required by the Internet Corporation for Assigned Names and Numbers (“ICANN”), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a “port 43” WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your “WHOIS Information.” Please note that we may not be able to control how members of the public may use the WHOIS Information.
 
 
 
