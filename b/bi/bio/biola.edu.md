@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the biola.edu privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229052926id_/http%3A//www.biola.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biola.edu privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622185603id_/http%3A//www.biola.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Biola University
 
 _[Updated: January 24, 2012]_
 
-Biola University, Inc. (Biola) is committed to the responsible use of personal information collected from and about you while you are using the [www.biola.edu](http://www.biola.edu/) website or any website or online service under the [biola.edu](http://biola.edu/) domain name. Consistent with the California Online Privacy Protection Act of 2003, this privacy statement provides information about how this personal information may be used. Individual web pages under the [biola.edu](http://biola.edu/) domain name may post additional privacy statements addressing more specific information collected on those pages. 
+Biola University, Inc. (Biola) is committed to the responsible use of personal information collected from and about you while you are using the [www.biola.edu](https://www.biola.edu/) website or any website or online service under the biola.edu domain name. Consistent with the California Online Privacy Protection Act of 2003, this privacy statement provides information about how this personal information may be used. Individual web pages under the biola.edu domain name may post additional privacy statements addressing more specific information collected on those pages. 
 
 ### Information We Collect
 
@@ -41,7 +41,7 @@ Biola University does not control the actions of its site visitors nor the use s
 
 ### Links to Other Websites
 
-Our website may include links to other websites outside the [biola.edu](http://biola.edu/) domain, including co-branded or other affiliated sites that may or may not be owned or operated by Biola University. Such sites are not governed by this privacy statement. Users should become familiar with the privacy practices of those other sites. 
+Our website may include links to other websites outside the biola.edu domain, including co-branded or other affiliated sites that may or may not be owned or operated by Biola University. Such sites are not governed by this privacy statement. Users should become familiar with the privacy practices of those other sites. 
 
 ### Contact Information
 
