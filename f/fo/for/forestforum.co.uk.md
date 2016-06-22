@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the forestforum.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227093715id_/http%3A//www.forestforum.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestforum.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622184341id_/http%3A//www.forestforum.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # LTLF Forest Forum - Privacy Policy
 
-Because Forestforum.co.uk gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
-
 ## COMMITMENT TO YOUR PRIVACY 
 
-This site is owned and operated by NGI Interactive Ltd. Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe. 
-
-  
-
+This site is owned and operated by NG Interactive Ltd. Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
@@ -20,10 +15,7 @@ We invite you to contact us if you have questions about this policy. You may con
 
 Or, you may contact us by [eMail](http://www.forestforum.co.uk/sendmessage.php) or via Private Message.
 
-**Additional Information** : [Disclaimer and Indemnities](http://www.forestforum.co.uk/disclaimer.htm "Terms of Service")
-
-  
-
+**Additional Information** : [Terms of Service](http://www.forestforum.co.uk/info.php?do=terms "Terms of Service")
 
 ## INFORMATION THIS SITE GATHERS AND TRACKS 
 
@@ -75,8 +67,9 @@ We may place a text file called a "cookie" in the browser files of your computer
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. 
 
-  
+**Affiliate Marketing**
 
+Our website contains some affiliate marketing links, which means we get paid commission on sales of those products or services we write about. Our content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party to enable these affiliate partnerships. You can read their [Privacy Policy](http://skimlinks.com/privacy-policy#users) and find more information on [the cookies they use](http://skimlinks.com/user-cookies).
 
 ## USE OF INFORMATION
 
@@ -88,15 +81,9 @@ When we use tracking information to determine which areas of our sites users lik
 
 NG Interactive Ltd creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
-  
-
-
 ## SHARING OF THE INFORMATION
 
 NG Interactive ltd uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-  
-
 
 ## OPT-OUT POLICY
 
@@ -106,17 +93,11 @@ Opting not to register to receive our electronic newsletters.
 
 Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
-  
-
-
 ## YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by NG Interactive Ltd. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 We collect the following information: 
-
-  
-
 
   1. Click-stream data 
   2. HTTP protocol elements 
@@ -128,18 +109,12 @@ We collect the following information:
 
 At the user's option, we may also collect the following data: 
 
-  
-
-
   1. Birth Date 
   2. Email Address
 
 
 
 This data will be used for the following purposes: 
-
-  
-
 
   1. Completion and support of the current activity. 
   2. Web site and system administration. 
@@ -155,17 +130,11 @@ Data collected from all Web users: access logs, and search strings (if entered).
 
 At the user's option, we will collect the following data: 
 
-  
-
-
   1. HTTP cookies 
 
 
 
 This data will be used for the following purposes: 
-
-  
-
 
   1. Research and development. 
   2. One-time tailoring. 
@@ -176,9 +145,6 @@ This data will be used by ourselves and our agents.
 
 The following explanation is provided for why this data is collected: 
 
-  
-
-
 ## COOKIES
 
 Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
@@ -186,9 +152,6 @@ Cookies are used to track visitors to our site, so we can better understand what
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
 Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  
-
 
   1. User targeting 
   2. Research and development 
