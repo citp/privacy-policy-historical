@@ -1,30 +1,23 @@
-> *The following text is extracted and transformed from the njconsumeraffairs.gov privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219202111id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njconsumeraffairs.gov privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622171540id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
 
-# The Official Web Site for The State of New Jersey
+# The Official Web Site for The State of New Jersey | Privacy Notice
 
 _August 31, 2007_
 
-**State of New Jersey  
-Privacy Notice**
+### State of New Jersey  
+Privacy Notice
 
 The following notices apply to all web sites of state agencies listed at [www.state.nj.us/nj/deptserv.html](https://web.archive.org/nj/deptserv.html) in the executive branch of state government other than independent state agencies.
 
 Thank you for visiting the State of New Jersey web site and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through the use of the State of New Jersey web site. This notice covers the following topics:
 
-  * Information Collected and How it is Used
-
-  * Personal Information and Choice
-
-  * Public Access to Information
-
-  * Cookies
-
-  * Security
-
-  * Disclaimer
-
-  * Contact Information
-
+  * Information Collected and How it is Used 
+  * Personal Information and Choice 
+  * Public Access to Information 
+  * Cookies 
+  * Security 
+  * Disclaimer 
+  * Contact Information 
 
 
 
