@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateursxposed.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222224651id_/http%3A//www.worldstarblackporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursxposed.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622024415id_/http%3A//www.worldstarblackporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
