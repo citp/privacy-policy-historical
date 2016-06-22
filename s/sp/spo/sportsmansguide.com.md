@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222094524id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622233643id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
 # Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
 
@@ -16,7 +16,7 @@ We use personal information to enhance your overall shopping experience by provi
 
 No! The Sportsman's Guide will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer care support, and to update you on Sportsman's Guide Internet specials that you have requested. 
 
-If you purchase from The Sportsman's Guide, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please email us or call 1-800-888-5222. 
+If you purchase from The Sportsman's Guide, we may share your information with third party direct mail companies. Your name, address and details about products you have purchased from us could be shared so that you can receive direct mail offers for other products that may interest you. If you would not like us to share your information for this intent, please email us or call 1-800-888-5222. 
 
 You can also write us at:  
 The Sportsman's Guide  
