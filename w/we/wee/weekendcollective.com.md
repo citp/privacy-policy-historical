@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekendcollective.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507192156id_/http%3A//weekendcollective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekendcollective.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622222415id_/https%3A//www.weekendcollective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Weekend Collective
 
@@ -57,7 +57,8 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Bright Forest Media LLC.  
-1908 Main st,. floor 1  
+1617 Main Street  
+Floor 3  
 Kansas City, MO 64108  
 WeekendCollective.com
 
