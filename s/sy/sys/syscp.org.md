@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syscp.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628191627id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syscp.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622132440id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
 
-# GitHub Privacy Policy · GitHub Help
+# GitHub Privacy Policy - User Documentation
 
 ###  General Information
 
@@ -13,7 +13,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 ###  Information Gathering and Usage
 
-  * When you register for GitHub we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+  * When you register for GitHub we ask for information such as your name, email address, billing address, or payment information. Members who sign up for the free account are not required to enter any payment details.
   * GitHub uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 
@@ -28,7 +28,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 ###  Data Storage
 
-GitHub uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run GitHub. Although GitHub owns the code, databases, and all rights to the GitHub application, you retain all rights to your data.
+GitHub uses third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run GitHub. Although GitHub owns the code, databases, and all rights to the GitHub application, you retain all rights to your data.
 
 ###  Disclosure
 
@@ -48,4 +48,4 @@ GitHub may periodically update this policy. We will notify you about significant
 
 ###  Questions
 
-Any questions about this Privacy Policy should be addressed to [support@github.com](mailto:support@github.com).
+Any questions about this Privacy Policy should be addressed to [support@github.com](https://github.com/contact).
