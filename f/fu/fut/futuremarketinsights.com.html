@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the futuremarketinsights.com privacy policy that was archived on 2015-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151124023428id_/http%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the futuremarketinsights.com privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622224257id_/http%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -9,7 +9,7 @@
 <meta name="keywords" content="FMI Privacy Policy, future market insights, market research services, market consulting services">
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
 <link rel="stylesheet" type="text/css" href="http://www.futuremarketinsights.com/media/style/stylesheet.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.futuremarketinsights.com/media/js/all-script.js" type="text/javascript"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NCFNXW"></script><script src="http://www.futuremarketinsights.com/media/js/all-script.js" type="text/javascript"></script>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> <link rel="icon" href="favicon.ico" type="image/x-icon">
 
 <meta http-equiv="X-UA-Compatible" content="IE=7;IE=8;IE=9;">
@@ -18,29 +18,30 @@
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
 <![endif]-->
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-55954255-1', 'auto');
-  ga('send', 'pageview');
-</script>
 </head><body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NCFNXW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCFNXW');</script>
+<!-- End Google Tag Manager -->
 <div id="wrapper">
 	<header>
 		<div class="top-search-box">
 	<ul class="top-links dispInline">
-		<li><a href="http://www.futuremarketinsights.com/pressreleases" rel="dofollow">Press Release</a></li>
+		<li><a href="http://www.futuremarketinsights.com/pressreleases" rel="dofollow">Press Releases</a></li>
     	<li><a href="http://www.futuremarketinsights.com/articles" rel="dofollow">Articles</a></li>
     	<li><a href="http://www.futuremarketinsights.com/blogs" rel="dofollow">Blog</a></li>
 	</ul>
 	<div class="search-box">
     	<form name="form" id="form" method="post" action="http://www.futuremarketinsights.com/reports/search">
 		<input type="text" id="topSearchBox" name="searchtext" value="" placeholder="Search Keyword" class="borderR">
-		<input type="submit" id="topSearchBtn" name="submitbutton" value="" title="Search Any Keyword">
+		<input type="submit" id="topSearchBtn" name="submitbutton" value="" title="Search Any Keyword" onclick="submitFrmSearch()">
         </form>
 	</div>
+	
 </div>
 <!--[if IE 8]>
 <div class="center">
@@ -156,7 +157,8 @@
 				<li><a href="http://www.futuremarketinsights.com/casestudy">Case Studies</a></li>
 				<li><a href="http://www.futuremarketinsights.com/events">Events</a></li>					
 				<li><a href="http://www.futuremarketinsights.com/newsletters">Newsletters</a></li>
-				<li><a href="http://www.futuremarketinsights.com/page/knowledgecenter-thought-leadership">Thought Leadership</a></li>
+				<!--<li><a href="http://www.futuremarketinsights.com/page/knowledgecenter-thought-leadership">Thought Leadership</a></li> -->
+				<li><a href="http://www.futuremarketinsights.com/expert-talk">Expert Talk</a></li>
 				<li><a href="http://www.futuremarketinsights.com/page/white-paper">White Paper</a></li>
 				<li><a href="http://www.futuremarketinsights.com/page/press-kit">Press kit</a></li>				
 				</ul>
@@ -257,10 +259,35 @@
 	<div class="m-search-box">
 	<form name="form" id="form" method="post" action="http://www.futuremarketinsights.com/reports/search">
 		<input type="text" id="topSearchBox" name="searchtext" value="" placeholder="Search Keyword" class="borderR">
-		<input type="submit" id="topSearchBtn" name="submitbutton" value=">">
+		<input type="submit" id="topSearchBtn" name="submitbutton" value=">" onclick="submitFrmSearch()">
 	</form>
 	</div>
-</div>	
+</div>
+<script>
+function submitFrmSearch() {
+	var host = "http://"+window.location.hostname+"/search";
+
+		var str_text = document.getElementById("topSearchBox").value;		
+		//str = str.replace(" ","+");
+		
+		str = str_text.trim();
+		str = str.split(" ").join("+");
+		document.getElementById("form").action = host+'?s='+str;
+		
+		//window.location = host+'s='+str;
+		document.getElementById("form").submit();
+}
+
+
+
+$('#topSearchBox').keydown(function(event){ 
+    var keyCode = (event.keyCode ? event.keyCode : event.which);   
+    if (keyCode == 13) {
+        $('#topSearchBtn').trigger('click');
+    }
+});
+
+</script>	
 	</header>
 	<div id="center">
 		<div class="center">
@@ -667,6 +694,8 @@
 	</ul>
 	<ul class="footer-research-links">
 		<li class="no-arrow"><b class="footer-h6">FMI Media Services</b></li>
+		
+		<li><a href="http://www.futuremarketinsights.com/expert-talk" rel="nofollow">Expert Talk</a></li>
 		<li><a href="http://www.futuremarketinsights.com/events" rel="nofollow">Events</a></li>
 					<li><a href="http://www.futuremarketinsights.com/blogs" rel="nofollow">Blogs</a></li>
 	    	    		
@@ -681,15 +710,6 @@
 </div>
 <div class="company-info">
 	<ul class="footer-research-links">
-		<li class="no-arrow">
-			<address>
-			<b class="footer-h6">Registered Office</b><br>
-			Unit No.701,<br>
-			NSG IT Park, 7th floor,<br>
-			S. No. 127/2 B, Aundh,<br> Pune - 411007 <br>
-			India <br>
-			</address>
-		</li>
 		<li class="no-arrow">
 			<address>
 			<b class="footer-h6">Delivery Center</b><br>
@@ -723,7 +743,6 @@
 		<li class="no-arrow">
 		<div class="smm">
 		<b class="no-arrow footer-h6">Follow Us</b>
-		<!--<a rel="nofollow" href="https://www.facebook.com/pages/Future-Market-Insights/1489213648018908?ref=hl" target="_blank"></a>!-->
 		<a rel="nofollow" href="https://www.facebook.com/futuremarketinsights" target="_blank"></a>
 		<a rel="nofollow" href="https://twitter.com/futuremarketins" target="_blank"></a>
 		<a rel="nofollow" href="https://www.linkedin.com/company/future-market-insights" target="_blank"></a>
@@ -737,7 +756,7 @@
 </div>
 <script type="text/javascript">
 function testCaptach () {
-	var sc = '';
+	var sc = '221';
 	
 	if(  $('#idCaptcha').val() != sc ){
 		alert('Please type valid captcha!');
