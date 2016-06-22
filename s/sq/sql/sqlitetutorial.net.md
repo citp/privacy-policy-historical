@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sqlitetutorial.net privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211100632id_/http%3A//www.sqlitetutorial.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlitetutorial.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622173628id_/http%3A//www.sqlitetutorial.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **The privacy of our visitors to www.sqlitetutorial.net is very important to us.**
 
-## What information do we collect?
+##  What information do we collect?
 
 We collect information from you when you subscribe to our newsletter.
 
