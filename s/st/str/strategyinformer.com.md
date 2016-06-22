@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategyinformer.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123411id_/http%3A//www.gamewatcher.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategyinformer.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622230232id_/http%3A//www.gamewatcher.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GameWatcher
 
@@ -20,7 +20,7 @@ Use of Information
 
 Game Watcher does not reveal any personal information that users provide to us to any third party without their permission.
 
-Game Watcher uses users' IP addresses to help diagnose problems with our server and to administer our website. We also use it to gather broad demographic information about our users in general. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers to help them better understand our services, but Game Watcher does not give advertisers information about individual users of Strategy Informer.
+Game Watcher uses users' IP addresses to help diagnose problems with our server and to administer our website. We also use it to gather broad demographic information about our users in general. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers to help them better understand our services, but Game Watcher does not give advertisers information about individual users of Game Watcher.
 
 Game Watcher uses cookies to deliver content specific to users' interests and to honor their preferences. This information is used to assist us in creating a site that will serve the needs of our users.
 
@@ -38,7 +38,7 @@ Children's Guidelines
 Contacting the Web Site
     
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Strategy Informer, you can contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Game Watcher, you can contact:
 
 Crypta d.o.o
 
