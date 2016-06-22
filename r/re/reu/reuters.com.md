@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reuters.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231232442id_/http%3A//www.reuters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reuters.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622081726id_/http%3A//www.reuters.com/privacy-policy) for the most accurate reproduction.*
 
-# Business & Financial News, Breaking US & International News | Reuters.com
+# Business & Financial News, Breaking US & International News | Reuters
 
 Below is the main Privacy Statement for Reuters. There will be additional Privacy Statements that apply to other services connected with this site offered by Thomson Reuters Corporation. Please read these at the time you register or subscribe for these services.
 
