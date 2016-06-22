@@ -1,18 +1,14 @@
-<!--The following is the downloaded HTML source of the cruisesonly.com privacy policy that was archived on 2015-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151103030956id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruisesonly.com privacy policy that was archived on 2016-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622130852id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head> 	
-	
-		
 
         <meta charset="UTF-8">		
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="format-detection" content="telephone=no">	
 
 		<link type="text/css" rel="stylesheet" href="/includes/desktop/css/jqm1.4.3/jquery.mobile-1.4.3.min.css">     
-      	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/wth.css">
-      	
-      	
+      	<link type="text/css" rel="stylesheet" href="/includes/desktop/css/wth.css">      	
       	
       	
       	
@@ -21,9 +17,10 @@
 		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KV8H5"></script><script src="/lib/javascript/desktop/jquery-1.11.1.min.js"></script>	
         <script src="/lib/javascript/desktop/jqm1.4.3/jquery.mobile-1.4.3.min.js"></script>  
         <script src="/lib/javascript/desktop/html5-fix/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script> 
-        <script src="/lib/javascript/desktop/custom.js"></script>        	
-        <script src="/Code/javascript/ajax/logerror.js"></script>      
-
+        
+       		<script src="/lib/javascript/desktop/custom.js"></script>   
+       		
+        <script src="/Code/javascript/ajax/logerror.js"></script>
         
         <script>		
 		//Ajax Spinner code
@@ -158,7 +155,9 @@ $(document).ready(function() {
 
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-30167-2");
+		if(document.URL.indexOf("/css/guest") < 0) {
 		pageTracker._trackPageview();
+		}
 	</script>
 
 
@@ -174,6 +173,12 @@ $(document).ready(function() {
     function CallTracker(cat, cat2, value)
     {
     		pageTracker._trackEvent(cat, cat2, value);
+			/*alert(event_name);*/
+		return true;
+    }
+    function CallTrackerNonInteraction(cat, cat2, value)
+    {
+    		pageTracker._trackEvent(cat, cat2, value, null ,true);
 			/*alert(event_name);*/
 		return true;
     }
@@ -304,10 +309,10 @@ $(document).ready(function() {
 
 	</head> 
 	
-	<body> 		
-        
+	<body>
+		 
 		<!--
-		server and timestamp info:blweb24:Mon Nov 02 22:09:56 EST 2015
+		server and timestamp info:blweb24:Wed Jun 22 09:08:52 EDT 2016
 		  -->	
 		
 			<div data-role="page" id="<s:property value='%{page.id}' />" data-dom-cache="true">		        
@@ -316,13 +321,11 @@ $(document).ready(function() {
                 	<div class="wth2-persist-area">
                 		
                 		
-	            		<div class="wth2-header" data-ajax="false">  
-	            			
-	            		    
-	          			
+	            		<div class="wth2-header">  
+	            				            		             			
 	            			
 
-
+<div class="wth2-desktopOnly" data-ajax="false">
     <!--  floating masthead UI <div class="persist-header"> -->
     <div id="floatHeaderNew" class="floatingHeader">
     	<div class="floatingHeaderInner" style="visibility:hidden">						
@@ -340,8 +343,10 @@ $(document).ready(function() {
     </div>
     <!--  end floating masthead UI -->
     
-
-<div class="container">
+	
+		<div class="container">
+	
+		
 		<nav class="navbar" role="navigation">		
 
 			<div class="navbar-default row">
@@ -358,14 +363,19 @@ $(document).ready(function() {
 										<span id="headerPhoneFunction" class="header_phonetext">1-800-CRUISES</span><br>
 									
 																			
-												
+							
+											
 							<span class="call247">Call 24/7/365 &nbsp;&nbsp;</span><span class="lgphonetext">(<span id="headerPhoneFunction2">1-800-278-4737</span>)</span>
+							
 						</div>
-					 
-		               
+						
+	            			
 						<div class="header-links span5 right">
-							<a href="http://www.cruisesonly.com/promotion/customer-care.do" id="c_header_customerserv" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Customer Happiness');">Customer Happiness</a> |
-							<a href="http://www.cruisesonly.com/cs/default.asp" id="c_header_payment" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Customer Service');">Access Reservation</a>
+							
+							
+							
+							<a href="http://www.cruisesonly.com/promotion/customer-care.do" rel="nofollow" id="c_header_customerserv" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Customer Happiness');">Customer Happiness</a> |
+							<i class="fa fa-suitcase"></i> <a href="https://www.cruisesonly.com/css/login.do" rel="nofollow" id="c_header_payment" onclick="CallTracker('Header/', 'Navigation/', 'Customer Service');" class="link">My Cruise Reservation</a>
 							
 						</div>
 						
@@ -383,11 +393,12 @@ $(document).ready(function() {
 						</a>
 
 						<div class="navigation collapse navbar-collapse navHeaderCollapse" id="collapse">
-							   
+								
 				               
 									<ul class="nav navbar-nav navbar-left" id="nav">
 										<li class="dropdown" id="dropdown"><a href="#" class="dropdown-toggle" xxdata-toggle="dropdown" id="c_header_deals">Deals</a>
 											<ul class="dropdown-menu">
+												<li><a href="http://www.cruisesonly.com/promotion/2016-cruise-deals.do" onclick="CallTracker('Header/', 'Navigation/', 'Themes_2016_Cruise_Deals');">2016 Cruise Deals</a></li>			
 												<li><a href="http://www.cruisesonly.com/promotion/balcony-suite-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'Themes_Balcony');">Balcony &amp; Suite Deals</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/cheap-cruises.do" onclick="CallTracker('Header/', 'Navigation/', 'Themes_CheapCruises');">Cheap Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/ports/regional-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Themes_NearbyCruises');">Cruise From A Port Near You</a></li>
@@ -413,6 +424,7 @@ $(document).ready(function() {
 												<li><a href="http://www.cruisesonly.com/promotion/celebrity-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Celebrity');">Celebrity Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/costa-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Costa');">Costa Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/disney-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Disney');">Disney Cruise Line</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/fathom-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Fathom');">Fathom</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/holland-america-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_HollandAmerica');">Holland America Line</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/msc-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_MSC');">MSC Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/promotion/norwegian-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Norwegian');">Norwegian Cruise Line</a></li>
@@ -428,6 +440,7 @@ $(document).ready(function() {
 												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=avalon-river-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Avalon');">Avalon Waterways River Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=azamara-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Azamara');">Azamara Club Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=crystal-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Crystal');">Crystal Cruises</a></li>
+												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=crystal-river-cruises.do" class="link" title="Cheap Luxury Cruises: Crystal River Cruises" onclick="CallTracker('Header/', 'Navigation/', 'Crystal River Cruises');">Crystal River Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=cunard-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Cunard');">Cunard Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=oceania-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Oceania');">Oceania Cruises</a></li>
 												<li><a href="http://www.cruisesonly.com/interstitial.do?lodest=paul-gauguin-cruises.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'CruiseLines_Paul_Gauguin');">Paul Gauguin Cruises</a></li>
@@ -459,22 +472,22 @@ $(document).ready(function() {
 											</ul>
 										</li>
 										<li class="dropdown"><a href="/promotion/cruise-videos.do" class="dropdown-toggle nolink" id="c_header_cruise_videos">Cruise Videos</a></li>
-										<li class="dropdown"><a href="#" class="dropdown-toggle link" xxdata-toggle="dropdown" id="c_header_about">About Cruising</a>
+										<li class="dropdown"><a href="#" rel="nofollow" class="dropdown-toggle link" xxdata-toggle="dropdown" id="c_header_about">About Cruising</a>
 											<ul class="dropdown-menu">
-												<li><a href="http://www.cruisesonly.com/promotion/customer-care/tabs/awards.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_AwardsAccreditations');">Awards &amp; Accreditations</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/advice.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruisingAdvice');">Cruising Advice</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/interest.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruisebyInterest');">Cruise By Interest</a></li>
-												<li><a href="http://www.cruisesonly.com/cs/default.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_FAQs');">Cruise FAQs</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/cruising.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruisingOverview');">Cruising Overview</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/customer-care/tabs/partners.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruiseLineTestimonials');">Cruise-Line Testimonials</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/customer-care.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CustomerCare');">Customer Care</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/customer-care/tabs/testimonials.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CustomerTestimonials');">Customer Testimonials</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/firsttime.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_FirstTimeCruisers');">First-Time Cruisers</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/customer-care.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_ServicesExpertise');">Our Services &amp; Expertise</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/preparing.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_PreparingforCruise');">Preparing For Your Cruise</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/safety-at-sea.do" onclick="CallTracker('Header/', 'Navigation/', 'About_SafetyatSea');">Safety At Sea</a></li>
-												<li><a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_ShoreExcursions');">Shore Excursions</a></li>
-												<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/why.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_WhyCruise');">Why Cruise</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/customer-care/tabs/awards.do" rel="nofollow" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_AwardsAccreditations');">Awards &amp; Accreditations</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/about-cruising.do?resorttab=advice" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruisingAdvice');">Cruising Advice</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/about-cruising.do?resorttab=byinterest" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruisebyInterest');">Cruise By Interest</a></li>
+												<li><a href="https://www.cruisesonly.com/promotion/faq.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_FAQs');">Cruise FAQs</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/about-cruising.do?resorttab=overview" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruisingOverview');">Cruising Overview</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/customer-care/tabs/partners.do" rel="nofollow" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CruiseLineTestimonials');">Cruise-Line Testimonials</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/customer-care.do" rel="nofollow" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CustomerCare');">Customer Care</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/customer-care/tabs/testimonials.do" rel="nofollow" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_CustomerTestimonials');">Customer Testimonials</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/about-cruising.do?resorttab=firsttimecruisers" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_FirstTimeCruisers');">First-Time Cruisers</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/customer-care.do" rel="nofollow" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_ServicesExpertise');">Our Services &amp; Expertise</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/about-cruising.do?resorttab=preparations" rel="nofollow" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_PreparingforCruise');">Preparing For Your Cruise</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/cruise-loyalty-programs.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Cruise Loyalty Programs');">Cruise Line Loyalty Programs</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/safety-at-sea.do" rel="nofollow" onclick="CallTracker('Header/', 'Navigation/', 'About_SafetyatSea');">Safety At Sea</a></li>
+												<li><a href="http://www.cruisesonly.com/promotion/about-cruising.do?resorttab=whycruise" class="link" onclick="CallTracker('Header/', 'Navigation/', 'About_WhyCruise');">Why Cruise</a></li>
 											</ul>
 										</li>
 		
@@ -483,21 +496,17 @@ $(document).ready(function() {
 												<li><a href="http://www.cruisesonly.com/groupcruises/corporate-events.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Groups_CorporateEvents');">Corporate Events</a></li>
 												<li><a href="http://www.cruisesonly.com/groupcruises/social-events.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Groups_SocialEvents');">Social Events</a></li>
 												<li><a href="http://www.cruisesonly.com/groupcruises/charter-events.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Groups_CharterEvents');">Charter Events</a></li>
+												<li><a href="http://www.cruisesonly.com/groupcruises/ambassador-at-sea.asp" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Groups_Ambassador');">Cruise For Free</a></li>
 												<li><a href="http://www.cruisesonly.com/groupcruises/" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Groups_SeeAllEvents');">&gt;&gt;See All Group Cruises</a></li>
 		
 											</ul>
 										</li>
-										<li class="dropdown"><a href="#" class="dropdown-toggle link" xxdata-toggle="dropdown" id="c_header_packages">Vacations</a>
-											<ul class="dropdown-menu">
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/all-inclusive-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_AllInclusive');">All-Inclusive Vacations</a></li>
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/cancun-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_Cancun');">Cancun Vacations</a></li>
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/caribbean-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_Caribbean');">Caribbean Vacations</a></li>
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/jamaica-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_Jamaica');">Jamaica Vacations</a></li>
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/last-minute-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_LastMinute');">Last-Minute Vacations</a></li>
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/mexico-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_Mexico');">Mexico Vacations</a></li>
-												 <li><a href="http://www.cruisesonly.com/promotion/vacations/punta-cana-vacations.do" class="link" onclick="CallTracker('Header/', 'Navigation/', 'Vacations_PuntaCana');">Punta Cana Vacations</a></li>
-											</ul>
-										</li>
+										<li class="dropdown"><a href="#" class="dropdown-toggle link" data-toggle="dropdown" id="c_header_group">On Shore</a>
+										<ul class="dropdown-menu">
+											<li><a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" rel="nofollow" target="_blank" class="link" onclick="CallTracker('Header/', 'Navigation/', 'On_Shore_Excursions');">Shore Excursions</a></li>
+											<li><a href="http://www.resortforaday.com?cm_mmc=Third_Party-_-RFAD-CruisesOnly-_-ThirdPartySite-_-Homepage_Ad" class="link" target="newWindow" onclick="CallTracker('Header/', 'Navigation/', 'On_Shore_Resort_For_A_Day');">Resort For A Day</a></li>
+										</ul>
+									</li>
 									</ul>
 								
 						</div><!-- end navigation collapse -->
@@ -510,8 +519,8 @@ $(document).ready(function() {
 		
 			<div class="clear"></div>
 
-
-	  
+		
+			  
 <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT ad_promo_header -->
 <div class="wth2-google-header-ad" align="center" style="margin-bottom: 0px;">	
 <script>
@@ -523,17 +532,22 @@ $(document).ready(function() {
 
 </script></div>
 <!-- END OF TAG FOR SLOT ad_promo_header -->
-	  <div style="margin-bottom:3px"></div>
-
-</nav>
+			  <div style="margin-bottom:3px"></div>
+		
+		</nav>
+	</div>    
 </div>    
+	            			
 
 
-         
+
+
+
+
+	    
 	  					</div>					
 						
-                    	<div class="wth2-content">   
-                    	
+                    	<div class="wth2-content">     
                     		
                     	   	
 							  
@@ -545,6 +559,7 @@ $(document).ready(function() {
 
 <div class="wth2-breadcrumbs" data-ajax="false">
  	
+	
 	
 	
 	
@@ -632,18 +647,21 @@ $(document).ready(function() {
 </div>  
 			
 	
-														
-                             	
+									
+								
 
-		<div class="wth2-adminSection">	
+		<div id="admin" class="wth2-adminSection">	
 			<div class="wth2-adminSectionPadding">
 			<ul>
 		
 				
 									
 					<li class="wth2-adminCsSection">
+					<i class="fa fa-suitcase"></i>
+					<span class="wth2-adminEmailWrapper">
 					<span class="wth2-adminCsHeader">Already Booked?</span><br>
-					<a id="adminCsLink" rel="nofollow" class="wth2-adminCsLink" href="http://www.cruisesonly.com/cs/default.asp" data-ajax="false" title="Admin: Access Cruise Reservation">Access Your Cruise Reservation</a>
+					<a id="adminCsLink" rel="nofollow" class="wth2-adminCsLink" href="http://www.cruisesonly.com/cs/default.asp" data-ajax="false" title="Admin: Access Cruise Reservation">My Cruise Reservation</a>
+					</span>
 					</li>
 					
 				
@@ -652,7 +670,7 @@ $(document).ready(function() {
 				<i class="fa fa-comments-o"></i>
 				<span class="wth2-adminPhoneWrapper">
 					<span class="wth2-adminPhoneHeader">Need Help Planning?</span><br>
-					<span id="adminPhoneNumber" class="wth2-adminPhoneNbr">
+					<span id="adminPhoneNumber" class="wth2-adminPhoneNbr wth2-phoneNbrDesktop">
 					 																				
                     
                         
@@ -661,6 +679,19 @@ $(document).ready(function() {
                            
                  	
 					</span>
+
+					<span class="wth2-adminPhoneNbr wth2-phoneNbrResponsive">
+					 																				
+                    
+                        
+                            
+                            <a id="adminPhoneNumberResponsive" href="tel:800-2784737" title="Admin: Phone Number">	
+                            1-800-CRUISES
+                            </a>
+                           
+                 	
+					</span>
+					
 				</span>
 				</li>	
 							
@@ -673,6 +704,7 @@ $(document).ready(function() {
 				</span>
 				</li>
 					
+				
 				
 			</ul>		
 			<a id="adminTopLink" class="wth2-adminTopLink" rel="nofollow" href="#top" title="Admin: Back to Top">Top<i class="fa fa-chevron-up"></i></a>
@@ -745,6 +777,8 @@ $(document).ready(function() {
 </div>
 				</div>
 			
+								
+                             	
                              	
                              
                                 
@@ -766,70 +800,133 @@ $(document).ready(function() {
                             
                             
 
-
-<div class="footer_container">
-	<div class="wth2-floatLeft">
-		<div class="footerbottxt">			
-			
-	        
-			<a href="http://www.cruisesonly.com/cs/default.asp">Customer Care</a> &nbsp;|&nbsp;
-			<a href="http://www.cruisesonly.com/cs/default.asp">Contact Us</a> &nbsp;|&nbsp;
-			<a href="http://www.cruisesonly.com/promotion/CruisesOnly/aboutus.asp">About Us</a> &nbsp;|&nbsp;
-			<a href="http://www.cruisesonly.com/privacy.do">Privacy Policy</a> &nbsp;|&nbsp;
-			<a href="http://www.cruisesonly.com/cruisesonly-sitemap.asp">Site Map</a>
-			
-		</div>
-		<div class="footerbottxt">
-			CruisesOnly has specialized in cruising for more than 25 years.<br>
-			<a href="http://www.cruisesonly.com/promotion/cruisesonly/about/difference.asp#expert">Our experts</a> are available
-			24/7 to help you choose just the right trip from our extensive selection of top-brand
-			discount cruise vacations, including the Caribbean, Bahamas, Bermuda, Mexico, Alaska, and Europe.<br>	
-			As always, <a href="http://www.cruisesonly.com/promotion/cruisesonly/about/difference.asp#guaranteed">your satisfaction is guaranteed</a> on every voyage.
-		</div>
-		<div class="footerbottxt">
-		©2015  CruisesOnly is a trademark of WTH. All rights reserved. <a href="http://www.cruisesonly.com/selleroftravel.do">Seller of Travel Info</a><br><br>
-		</div>
-	</div>
 	
+		
+		<div id="abandonmentPopup" class="abandonmentContainer wth2-popupLightboxLarge wth2-emailThisItinLightbox ui-popup ui-body-a ui-overlay-shadow ui-corner-all" data-theme="a" data-overlay-theme="b" data-shadow="true" data-corners="true" data-role="popup" data-history="false">
+			<a href="#" id="closeabandonmentPopup" data-rel="back" data-role="button" data-theme="d" data-icon="delete" data-iconpos="notext" title="Abandonment Popup Close" class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right wth2-closeBtn"></a>
+			<div class="simplePopup ui-corner-all">
+				<div class="simplePopUpHeader" id="abandon_header">
+					Did You Know?
+				</div>
+				<div class="simplePopUpSubHeader">
+					<div id="abandon_subheader">Our cruise experts have <span class="wth2-bold">unpublished fares</span> and <span class="wth2-bold">exclusive offers!</span></div>
+					<div id="abandon_callmessage">Call us now at</div>
+				</div>
+				<div class="phoneNumber wth2-bucketPrice" id="abandon_phonenumber">
+						
+							1-800-CRUISES
+						
+						
+	   		 	</div>
+				<div class="continue">
+					<a class="searchTag ui-btn ui-btn-inline ui-shadow ui-corner-all ui-mini wth2-ui-btn" title="Email Signup: Submit Button" data-role="button" data-inline="false" data-mini="true" data-corners="false" data-theme="g" id="continueOnline">Continue Online</a>
+				</div>
+			</div>
+		</div>
+	
+	
+		<script type="text/javascript">
+			var windowSize = jQuery(window).width();	
+			var abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
+			
+			function isIE(userAgent) {
+				  userAgent = userAgent || navigator.userAgent;
+				  return userAgent.indexOf("MSIE ") > -1 || userAgent.indexOf("Trident/") > -1;
+			}
+			
+			$(document).ready(function(){
+				$("#continueOnline").click(function(){
+					$( "#abandonmentPopup" ).popup( "close" );
+				});
+
+				$('body').mouseleave(function(e) {
+					if(isIE()){
+						var target = e.target || e.srcElement;
+						if(e.clientY < 0 && target.nodeName != "SELECT"){
+							windowSize = jQuery(window).width();	
+							abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
+							if(abandonmentOverlayViewedPopup != "Yes" && windowSize >= 1024){
+								$( "#abandonmentPopup" ).popup( "open" );
+								document.cookie = 'abandonmentOverlayViewedPopup=Yes';
+							}
+						}
+					} else {
+						if(e.clientY < 0){
+							windowSize = jQuery(window).width();	
+							abandonmentOverlayViewedPopup = wthApp.getCookie("abandonmentOverlayViewedPopup");	
+							if(abandonmentOverlayViewedPopup != "Yes" && windowSize >= 1024){
+								$( "#abandonmentPopup" ).popup( "open" );
+								document.cookie = 'abandonmentOverlayViewedPopup=Yes';
+							}
+						}
+					}
+				});
+
+				$(window).resize(function(){
+					var windowSizeResize = jQuery(window).width();
+					if (windowSizeResize < 1024) {
+						$( "#abandonmentPopup" ).popup( "close" );
+					}
+				});
+			});
+		</script>
+		
+		
+	
+
+
+		
+
+
+                            
+
+
+<div class="footer_container wth2-responsiveFooter">
+	<div class="wth2-beFooter">
+		<div class="wth2-floatLeft">
+			<div class="footerbottxt">
+						
+				<a href="https://www.cruisesonly.com/css/login.do" rel="nofollow">My Cruise Reservation</a> &nbsp;|&nbsp;
+				<a href="https://www.cruisesonly.com/css/login.do" rel="nofollow">Contact Us</a> &nbsp;|&nbsp;
+				<a href="http://www.cruisesonly.com/promotion/CruisesOnly/aboutus.asp" rel="nofollow">About Us</a> &nbsp;|&nbsp;
+				
+				<a href="http://www.cruisesonly.com/privacy.do" rel="nofollow">Privacy Policy</a> &nbsp;|&nbsp;
+				
+					
+				<a href="http://www.cruisesonly.com/cruisesonly-sitemap.asp">Site Map</a>
+								
+			</div>
+				
+			<div class="footerbottxt">
+				CruisesOnly has specialized in cruising for more than 25 years.<br>
+				<a href="http://www.cruisesonly.com/promotion/cruisesonly/about/difference.asp#expert" rel="nofollow">Our experts</a> are available
+				24/7 to help you choose just the right trip from our extensive selection of top-brand
+				discount cruise vacations, including the Caribbean, Bahamas, Bermuda, Mexico, Alaska, and Europe.<br>	
+				As always, <a href="http://www.cruisesonly.com/promotion/cruisesonly/about/difference.asp#guaranteed" rel="nofollow">your satisfaction is guaranteed</a> on every voyage.
+			</div>
+			
+			<div class="footerbottxt">
+			©2016  CruisesOnly is a trademark of WTH. All rights reserved. 	<a href="http://www.cruisesonly.com/selleroftravel.do" rel="nofollow">Seller of Travel Info</a><br><br>
+			</div>
+		</div>
+				
+		
 <div id="crosslinks">
-	<a href="http://www.worldtravelholdings.com/" target="blank" class="smlink">World Travel Holdings</a> <span>Brand Sites</span><br><!--<a href="http://www.creativeleisure.com" target="blank" class="smlink">CreativeLeisure.com</a> | -->
-	<!-- <a href="http://www.rooms.com" target="blank" class="smlink">Rooms.com</a> -->
+	<a href="http://www.worldtravelholdings.com/" target="blank" class="smlink">World Travel Holdings</a> <span>Brand Sites</span><br>
 	
 		<a href="http://www.vacationoutlet.com" target="blank" class="smlink">VacationOutlet.com</a>
 	 
 	| <a href="http://www.villasofdistinction.com" target="blank" class="smlink">VillasOfDistinction.com</a> |
-	<a target="blank" href="http://www.resortforaday.com">ResortForADay.com</a> |
-	<a target="blank" href="http://www.bahamasdaypass.com">BahamasDayPass.com</a>
+	<a href="http://www.resortforaday.com" target="blank" class="smlink">ResortForADay.com</a> |
+	<a href="http://www.bahamasdaypass.com" target="blank" class="smlink">BahamasDayPass.com</a>
 </div>
-</div><!-- ends footer_container -->
-
-<!-- Advertiser 'CruisesOnly.com',  Include user in segment 'Remarketing
-Pixel1' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
-
-<img src="https://ad.yieldmanager.com/pixel?id=1163079&amp;t=2" width="1" height="1">
-
-<!-- End of segment tag -->
-
-<!-- Bold Software Visitor Monitor HTML v2.00 (Website=CruisesOnly.com,ChatWindow=CruisesOnly_LiveChat_Window,ChatInvitation=My Invite Ruleset) -->
-<script language="JavaScript" type="text/javascript">
-document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/664584437666327480/bc.vms2/vms.js"%3E%3C/script%3E'));
-</script><script language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/664584437666327480/bc.vms2/vms.js"></script>
-<script language="JavaScript" type="text/javascript">
-try {
-  var pageViewer = _bcvm.getPageViewer("664584437666327480");
-  pageViewer.setParameter("WebsiteDefID", "799941433861287185");
-  pageViewer.setParameter("ChatWindowDefID", "3337604845439439885");
-  pageViewer.setParameter("ChatWidth", "640");
-  pageViewer.setParameter("ChatHeight", "480");
-  pageViewer.setParameter("InvitationDefID", "4847453588748636378");
-  pageViewer.setParameter("WindowScheme", "https");
-  pageViewer.pageViewed();
-} catch(error) {}
-</script>
-<noscript>
-<a href="http://www.boldsoft.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/664584437666327480/bc.vmi?wdid=799941433861287185" border="0" width="1" height="1" /></a>
-</noscript>
-<!-- /Bold Software Visitor Monitor HTML v2.00 -->
+		
+		
+		
+		<img src="//ad.yieldmanager.com/pixel?id=1163079&amp;t=2" width="1" height="1">
+		
+	</div>	
+</div>
                     	</div>
                     </div>
 				</div><!-- /content -->
@@ -840,7 +937,7 @@ try {
 		
 		
 		
- <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">	
+ <link href="//netdna.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.css" rel="stylesheet">	
 				
 		
 
@@ -875,6 +972,10 @@ try {
 		
 				
 	
+
+
+
+
 
 
 
