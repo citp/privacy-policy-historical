@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224184619id_/http%3A//www.yatra.com/online/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623011559id_/http%3A//www.yatra.com/online/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Yatra : Online Travel Services Company in India
 
@@ -34,29 +34,43 @@ Yatra will continue to enhance its security procedures as new technology becomes
 
 If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies.
 
+Android App Permissions required to use various features in our app:
+
+In order to have a better experience and to use all features in the app, we need below permissions to be used in our android app:
+
+**\- Account Identity & Contacts: **  
+We use it to enable you to do login using facebook account.  
+We also pre-fill your information by showing auto-suggestion so that you type less.   
+It also enables to do social sharing of the app with your friends by inviting them to download the app using your unique referral link. By doing this we map user's email id with the device and provide rewards on successful referral. We will store this information in the servers so as to run refer & earn program and map all user’s interactions.
+
+**-Device & App history: **  
+We need your device permission to get information about your device, like OS (operating system) name, OS version, mobile network, hardware model, unique device identifier etc.We also need it to detect critical crashes and recover the app state.
+
+**\- Location:**  
+To provide location specific functionality like airport near you or hotels near you or cabs available near your current location.
+
+**\- SMS:**  
+To auto-verify One-Time Password required for authentication during payments. Doing this helps you save time as you don’t need to go out of the app.
+
+**-Calendar:**  
+This permission enables us to put your booking details in your calendar.
+
+**\- Phone:**  
+We require access to make phone calls through app. You can call us or airlines,hotels etc directly through the app.
+
+**-Photo/ Media/ Files:**  
+We allow you to install our app on your SD card and save your device memory. This permission is also required by the Google Maps service, to cache map data in hotels. This provides you a seamless Map based Hotel selection experience, even on low bandwidth network.
+
+**\- Storage:**  
+By using this permission, we allow you to install our app on your SD card and save your phone device memory.
+
+**-Wi-Fi connection information:**  
+By using Wi-Fi connection details, we provide you a seamless experience depending upon your network such as image loading process. We try to use this information to optimise the app's performance on slow networks.
+
+**-Device ID & Call information: **  
+This permission is used to detect your Android ID using which we uniquely identify every user and map user related activities. Using your details using which we pre-populate your email id to ensure a seamless experience.
+
+**-Prevent phone from sleeping:**  
+We use this so as to keep your device awake while we perform any operation to get data from servers. This ensures to have a smoother experience as device does not get locked automatically.
+
 Thank you for using Yatra!
-
-  * [Cheap Air Tickets](http://www.yatra.com/travel/cheap-air-tickets/)
-  * [Cheap Flights](http://www.yatra.com/)
-  * [AirDeccan](http://www.yatra.com/YT/airlines/air-deccan.html)
-  * [Paramount Airline](http://www.yatra.com/YT/airlines/paramount-airways.html)
-  * [Spicejet Airline](http://www.yatra.com/YT/airlines/spicejet-airline.html)
-  * [Indian Airlines](http://www.yatra.com/YT/airlines/indian-airline.html)
-
-
-  * [Indigo Airline](http://www.yatra.com/YT/airlines/indigo-airline.html)
-  * [Kingfisher Airline](http://www.yatra.com/YT/airlines/kingfisher-airline.html)
-  * [Jet Airways](http://www.yatra.com/YT/airlines/jet-airways.html)
-  * [GoAir Airlines](http://www.yatra.com/YT/airlines/goair-airline.html)
-  * [Air India Airlines](http://www.yatra.com/YT/airlines/air-india.html)
-  * [Bangalore Hotel ](http://www.yatra.com/HOTEL/hotel/bangaloreHotel.html)
-
-
-  * [Jaipur Hotel](http://www.yatra.com/HOTEL/hotel/googlejaipurHotel.html)
-  * [Chennai Hotel](http://www.yatra.com/HOTEL/hotel/googlechennaiHotel.html)
-  * [Goa Hotel](http://www.yatra.com/HOTEL/hotel/googlegoaHotel.html)
-  * [Delhi Hotel](http://www.yatra.com/HOTEL/hotel/googledelhiHotel.html)
-  * [Hyderabad Hotel](http://www.yatra.com/HOTEL/hotel/googlehyderabadHotel.html)
-  * [Mumbai Hotel](http://www.yatra.com/HOTEL/hotel/googlemumbaiHotel.html)
-
-
