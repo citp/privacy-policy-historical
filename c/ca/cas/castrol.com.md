@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the castrol.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021040820id_/http%3A//www.castrol.com/content/castrol-country/en/home/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castrol.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622135547id_/http%3A//www.castrol.com/en/home/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Notice | Castrol Global Home
+# Privacy Statement | Castrol United Kingdom | Castrol Global Home
 
 ## Information about our Organisation and Website 
     
@@ -14,6 +14,7 @@
     
     
     This Privacy Statement sets out the basis on which Castrol collects and usesyour personal information.  Personal information is data that can identify a specific individual such as name, physical and/or email address and telephone number. If during your visit to this website you order products or services, enter a competition or promotion or otherwise submit information to us e.g., by filling in forms or responding to surveys, you are choosing to provide us with your personal information.  We will use it to provide the information, products or services you request. We may also use your personal information to contact you with information on additional products and/or services which Castrol reasonably thinks may be of interest to you.  For more information see the “Direct Marketing” section below.  
+    Where you have subscribed to receive our newsletter(s), we are able to ensure you receive further relative and informative communications by following your interactions with that communication, such as whether you receive, open or click on a link within an email communication.  We offer you an unsubscribe in all our further communications. 
 
 ### Direct Marketing
     
@@ -35,7 +36,7 @@
     
     Servers located within Castrol and hosted by third party service providers (which may be located outside the EEA) automatically log data about your visit to this website based on your IP address.  Castrol uses this information to see where the website is being used in the world to ensure seamless coverage.
     
-    Castrol uses cookies for a number of purposes to improve the functionality of this website. These are discussed in more detail below. To delete or stop cookies being placed on your computer refer to the help menu on your internet browser. In a few cases, blocking cookies may reduce the functionality of some websites or prevent access to them depending on your chosen browser options. Cookies can be “session cookies” (which are deleted when you close your browser) and/or “persistent cookies” which remain on your computer for a longer period of time.For further information about cookies, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)  
+    Castrol uses cookies for a number of purposes to improve the functionality of this website. These are discussed in more detail below. To delete or stop cookies being placed on your computer refer to the help menu on your internet browser. In a few cases, blocking cookies may reduce the functionality of some websites or prevent access to them depending on your chosen browser options. Cookies can be “session cookies” (which are deleted when you close your browser) and/or “persistent cookies” which remain on your computer for a longer period of time.For further information about cookies, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/ "Opens in new window")  
     
     This website uses cookies which:
     
