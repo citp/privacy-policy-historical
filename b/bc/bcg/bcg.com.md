@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217095028id_/http%3A//www.bcg.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623003011id_/https%3A//www.bcg.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Home
+Choose your location to get a site experience tailored for you.
 
 The Boston Consulting Group ("BCG") understands that your privacy is important to you. BCG is strongly committed to protecting your privacy and the personal information that you may provide to BCG as you access and use the materials on BCG.com (the "Site"), including the subscription pages of the Site. In addition, information that you submit to BCG in response to an email request for information or other outreach from BCG, or through BCG’s employment application processes, will also be treated in accordance with this Privacy Policy. In this written Privacy Policy, BCG describes the scope and breadth of our commitment to privacy. BCG may, in its discretion, amend this Privacy Policy from time to time. Any material changes to our policy will be reflected on this page, so that you remain informed about the information we collect and how we use it. By exploring and using this Site, and by submitting information to BCG, you agree to BCG's use of such information as described herein. This Site may contain links to external sites, which sites are not governed by this privacy policy, and BCG does not take responsibility for the privacy practices of any third party sites to which we link. We encourage you to review the privacy policies of any such sites before you submit information there.
 
@@ -53,3 +53,5 @@ Your access to and use of the Site are subject to certain terms and conditions, 
 ### Contact Us
 
 If you have any questions about this privacy policy, or BCG's collection and use of information, please [contact us](mailto:webmaster@bcg.com "Contact Us").
+
+This website uses cookies to improve functionality and performance. If you continue browsing the site, you are giving implied consent to the use of cookies on this website. See our [Cookie Policy](https://web.archive.org/privacy-policy.aspx "Privacy Policy") for details.
