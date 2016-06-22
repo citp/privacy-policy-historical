@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225003731id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622113325id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cool Text
 
 |  [](https://web.archive.org/)
 
-  * [Logos ▼](https://web.archive.org/web/20151225003731id_/http%3A//cooltext.com/Logos)
+  * [Logos ▼](https://web.archive.org/web/20160622113325id_/http%3A//cooltext.com/Logos)
 
 
-  * [Fonts ▼](https://web.archive.org/web/20151225003731id_/http%3A//cooltext.com/Fonts)
+  * [Fonts ▼](https://web.archive.org/web/20160622113325id_/http%3A//cooltext.com/Fonts)
 
-[Login](https://web.archive.org/web/20151225003731id_/http%3A//cooltext.com/Login) |   
+[Login](https://web.archive.org/web/20160622113325id_/http%3A//cooltext.com/Login) |   
 | 
 
 ## Cool Text Privacy Policy
@@ -32,5 +32,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
   
 |   
-[Live Logo Stream](https://web.archive.org/Dashboard/Stream)   [ Contact Us](https://web.archive.org/web/20151225003731id_/http%3A//cooltext.com/Contact)   [ Link to this Site](https://web.archive.org/web/20151225003731id_/http%3A//cooltext.com/Link)   [Cool Text on Twitter](http://twitter.com/cool_text)   [Blog](http://blog.cooltext.com/)   
+[Live Logo Stream](https://web.archive.org/Dashboard/Stream)   [ Contact Us](https://web.archive.org/web/20160622113325id_/http%3A//cooltext.com/Contact)   [ Link to this Site](https://web.archive.org/web/20160622113325id_/http%3A//cooltext.com/Link)   [Cool Text on Twitter](http://twitter.com/cool_text)   [Blog](http://blog.cooltext.com/)   
 [الْعَرَبيّة](http://ar.cooltext.com/Privacy) \- [Deutsch](http://de.cooltext.com/Privacy) \- [Español](http://es.cooltext.com/Privacy) \- [Français](http://fr.cooltext.com/Privacy) \- [日本](http://ja.cooltext.com/Privacy) \- [한국말](http://ko.cooltext.com/Privacy) \- [Português](http://pt.cooltext.com/Privacy) \- [Türkçe](http://tr.cooltext.com/Privacy) \- [中文](http://zh-cn.cooltext.com/Privacy)
