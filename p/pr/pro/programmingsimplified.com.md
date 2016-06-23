@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115083927id_/http%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingsimplified.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623193512id_/http%3A//www.programmingsimplified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Programming Simplified
 
