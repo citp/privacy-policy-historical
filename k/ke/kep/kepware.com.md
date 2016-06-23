@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kepware.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924172210id_/https%3A//www.kepware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kepware.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623212216id_/https%3A//www.kepware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Kepware Technologies
 
