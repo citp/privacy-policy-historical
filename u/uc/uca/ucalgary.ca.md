@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucalgary.ca privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811013630id_/http%3A//www.ucalgary.ca/policies/files/policies/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucalgary.ca privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623205022id_/http%3A//www.ucalgary.ca/policies/files/policies/privacy-policy.pdf) for the most accurate reproduction.*
 
-# 
+# University Policy
 
                                                                            University Policy
                                                                                      University Procedure
@@ -16,7 +16,7 @@
                                                                                  Responsibilities       5
                          Access and Privacy Coordinator
                                                                                  Appendices             6
-             Effective Date                                                      Procedures             7
+             Effective Date                                                      Procedure              7
                          May 1, 2007                                             Instructions/Forms 8
                                                                                  Parent Policy          9
              Latest Revision
@@ -40,10 +40,10 @@ Definitions 3      In this policy:
                          c) “Disclosure” means making Personal Information available to a Third
                               Party.
                          d) “FOIP” refers to the Freedom of Information and Protection of Privacy
+                              Act.
             The electronic version is the official version of this policy.                                 Page 1 of 6
 
 
-                                 Act.
                             e) “Formal Access Request” refers to a request for access to information
                                  which cannot be answered through existing or established processes. A
                                  Formal Access Request is processed under terms and conditions set out
@@ -85,10 +85,10 @@ Policy Statement 4     Accountability
                                a) the information relates directly to and is necessary for an operating
                                      program or activity of the University;
                                b) the Collection of information is expressly authorized by an enactment
+                                     of Alberta or Canada; or
                  The electronic version is the official version of this policy.                       Page 2 of 6
 
 
-                    of Alberta or Canada; or
               c) the information is collected for the purposes of law enforcement.
       4.5     The University will collect Personal Information directly from the individual
               the information is about unless there is a reasonable requirement to
@@ -131,10 +131,10 @@ Policy Statement 4     Accountability
               a) employment status;
               b) business address, telephone number, e-mail address;
               c) job title;
+              d) job profile;
 The electronic version is the official version of this policy.                        Page 3 of 6
 
 
-              d)   job profile;
               e)   rank, job family;
               f)   salary range;
               g)   discretionary benefits;
@@ -174,10 +174,10 @@ The electronic version is the official version of this policy.                  
       4.18 The University will take reasonable steps to protect information from
               unauthorized access, collection, use, disclosure or destruction.
       4.19 When the University retains an external organization to undertake work on
+              its behalf that involves the disclosure of Personal Information, the
 The electronic version is the official version of this policy.                       Page 4 of 6
 
 
-              its behalf that involves the disclosure of Personal Information, the
               University will enter into an information sharing agreement with that
               organization. The information sharing agreement will set out conditions
               that ensure that the University’s responsibility for the protection of
@@ -217,10 +217,10 @@ The electronic version is the official version of this policy.                  
               Personal Information of another individual will be assessed in accordance
               with the Fees Schedule (Schedule 2) attached to the FOIP Regulation
               (Alberta Regulation 200/95).
+      Questions, Complaints
 The electronic version is the official version of this policy.                     Page 5 of 6
 
 
-                         Questions, Complaints
                          4.28 The Access and Privacy Coordinator will respond to questions or concerns
                                  about the University’s management or treatment of personal information.
                          Violations
@@ -238,8 +238,8 @@ Responsibilities   5     5.1 Approval Authority
                               d) sponsor the revision of this policy and related procedures when
                                    necessary;
                               e) appoint a Policy Advisor to administer and manage these activities.
-Appendices         6     FOIP Delegation of Authority
-Procedures         7     Formal Access Request Procedures
+Appendices         6     Delegation of Authority
+Procedure          7     Formal Access Request Procedures
 Instructions/Forms 8     Request to Access Information Form
                          Request to Correct Personal Information Form
                          Reference Consent Form
@@ -253,4 +253,9 @@ Information              Dealing with Confidential Records
                          Duty to Assist
                          Recruitment and Selection
 References         11    Freedom of Information and Protection of Privacy Act (RSA 2000, Chapter F-25)
+History            12    Approved: April 15, 2007
+                         Effective: April 15, 2007
+                         Revised: s. 4.9(b) revised to include the terms ‘department’ and ‘program’;
+                         February 24, 2010.
+                         Revised: s. 4.29 added, March 15, 2011.
                    The electronic version is the official version of this policy.                  Page 6 of 6
