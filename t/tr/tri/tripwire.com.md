@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217235210id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623145630id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripwire
 
@@ -67,4 +67,4 @@ Tripwire Headquarters
 101 SW Main St., Ste. 1500  
 Portland, OR 97204
 
-We can be reached via e-mail at [webmaster@tripwire.com](mailto:webmaster@tripwire.com "webmaster@tripwire.com") or you can reach us by telephone at 503.276.7500
+We can be reached via e-mail at [webmaster[ at ]tripwire[ dot ]com](mailto:webmaster\[%20at%20\]tripwire\[%20dot%20\]com) or you can reach us by telephone at 503.276.7500
