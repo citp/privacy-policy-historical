@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukip.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131900id_/http%3A//www.ukip.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukip.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624012158id_/http%3A//www.ukip.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UKIP
 
@@ -27,6 +27,8 @@ http://ukip.org reserves the right, but has no obligation, to monitor the user 
 Any information you provide, including your email address, will not be passed onto any third party (other than firms working on our behalf), except where you have signed a petition or similar, where the petition will be presented to a third party.
 
 ### Queries
+
+[You can read UKIP's Data Protection Policy here.](https://d3n8a8pro7vhmx.cloudfront.net/ukipdev/pages/286/attachments/original/1449501668/UKIP_Data_Protection_Policy.pdf?1449501668 "UKIP Data Protection Policy")
 
 If you have any queries about our privacy policy you may contact us:
 
