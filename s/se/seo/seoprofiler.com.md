@@ -1,83 +1,37 @@
-> *The following text is extracted and transformed from the seoprofiler.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515122655id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoprofiler.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623143943id_/https%3A//www.seoprofiler.com/seo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-At Axandra GmbH we respect and protect your privacy. Our site is a safe environment for anyone who visits and purchases.
+### The short version
 
-We are committed to providing you with the best possible online service and experience as well as the best products. We never rent, sell or share any information you give us.
+Your privacy matters to us. We don't even know the password that you use to login to your SEOprofiler account because it is stored as a [salted hash value](https://en.wikipedia.org/wiki/Cryptographic_hash_function). That is why you have to [reset](https://web.archive.org/account/reset_password) your password if you forget it. Privacy protection is a top priority for us. Your data is safe.
 
-  * General information
-  * Credit card processing and security
-  * Our commitment to data security
-  * Other
-  * Our 100% guarantee
-  * Unsubscribe from the search engine facts newsletter
+This website uses cookies. A cookie is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience.
 
+* * *
 
+### The long version
 
-Your privacy is important to us!
+We use collected information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, and research.
 
-### General information
+We do not share your email address or other personally identifying information with any third parties, except our service providers, such as credit-card payment processors, performing services on our behalf. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-When you visit the Axandra site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then collate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
+Your browser installs a cookie on your computer when you visit our site. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the SEOprofiler services. They facilitate access to our website and personalize your online experience.
 
-On some pages, you can order products, make requests, and register to receive unlock codes. The types of personal information collected on these pages are:
+In addition, our server logs automatically collect information, such as your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
 
-  * First and last name 
-  * Billing address 
-  * Shipping address(es) 
-  * Email address 
-  * Phone number 
-  * Credit card account number 
-  * Titles of items you purchase from us 
+We also use standard internet tools, such as third-party analytics from Clicky, to help analyze where visitors go and what they do while visiting our website. We also use "Like" buttons from Facebook and other providers. Information might be send to Facebook and other providers if you load or use these buttons. Cookies can be deleted in your web browser. To delete Flash cookies, visit this [page](https://www.macromedia.com/support/documentation/de/flashplayer/help/settings_manager07.html).
 
+We use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, partner program, contact, enforce our Terms of Use, and research.
 
+We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run SEOprofiler. The technical processing and transmission of the Service, including your content, may involve (a) transmissions over various networks, and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
 
-We use the information you provide about yourself when placing an order only to complete that order, to send you our announement newsletter (we'll inform you when updates are available) and to use it internally for statistical reasons. We do not share this information with outside parties except to the extent necessary to complete that order.
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. Our servers are hosted in the USA. That means that your data will be processed in the USA.
 
-We use return email addresses to answer the emails we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, other valid legal processes, or when your actions violate the terms and conditions. In addition, we may disclose certain information to our service providers, such as credit-card payment processors, performing services on our behalf. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above, without also providing you with an opportunity to opt-out or otherwise prohibit such unrelated uses.
+It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, or as otherwise permitted or required by law.
 
-### Credit dard processing and security
+We do not share your email information with third parties, except our service providers, such as credit-card payment processors, performing services on our behalf. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-Shopping with Axandra GmbH is absolutely safe - you never have to worry about credit card safety when you shop at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay them.
-
-Axandra GmbH uses the services of SWREG.org to provide the highest level of secure online transactions. Your credit card information cannot be read as it travels to our ordering system. SWREG.org maintains their own privacy and security policies. If you have questions about these services, or how they handle the information they receive, please contact [SWREG](http://www.swreg.org/).
-
-All information you enter in the SWREG.org order form will be shared with Axandra GmbH in order to send you the unlock code for the software. This does not apply to your credit card information. We never get your credit card number. SWREG will send you a single additional email message one week after your purchase.
-
-You can access all your personally identifiable information, that we collect online and maintain, by sending us an email with your name and the unlock code for the Axandra product you purchased. The exception, as explained above or in the "Credit Card Processing and Security" section, is your credit information, since it is not kept.
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-### Our commitment to data security 
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-### Other
-
-We link to other websites. Any data that you supply on these websites is beyond our reach and will be the responsibility of the linked-to entity and not Voget Selbach Enterprises GmbH. We do not have access to the information you give them. Axandra GmbH is not responsible for the content published on these sites. To run our affiliate program, we use cookies so that we are able to pay our affiliates their commission fees. These cookies don't contain any personal information.
-
-By using the Axandra site, you consent to the collection and use of your information by Voget Selbach Enterprises GmbH as described in this policy. Any legal disclaimer statements (i.e., terms and conditions, etc.) on our website and in our software do not negate the promises made in the privacy policy.
-
-Axandra GmbH fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to release information about members who we believe are in violation of our content guidelines. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful.
-
-Axandra GmbH wants you to be aware that when you click on links that take you to third-party websites, you will be subject to the third parties’ privacy policies. While we support the protection of privacy on the Internet, Axandra GmbH cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any website.
-
-### Our 100% guarantee
-
-We believe in what we do. We'll gladly give you a complete refund of the purchase price if you decide within 30 days of purchase that you don't like our software products.
-
-Shopping with Axandra is 100% safe - you never have to worry about credit card safety when you shop at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay them.
-
-  * Safety in Numbers: Axandra products are sold by SWREG, Inc. USA. SWREG is one of the oldest and biggest online stores on the Internet. When you shop at SWREG, you'll be one of thethousands of customers who have safely shopped with SWREG without credit card fraud.
-  * Safe Technology: SWREG's secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts your credit card number, so that it cannot be read while the information travels over the Internet. 
-
-
-
-In general, under federal law of the United States, you will not be liable for more than $50 of fraudulent charges. In the unlikely event that you are subject to fraudulent charges, remember to first notify your credit card provider in accordance with its reporting rules and procedures. If, for whatever reason, you are held responsible for this amount, Axandra will cover the entire liability for you, up to $50, as long as the unauthorized use of your credit card resulted through no fault of your own from purchases made from Axandra while using the secure SWREG.org server.
-
-### Unsubscribe from the search engine facts newsletter
-
-If you don't want to receive our [newsletter](http://www.free-seo-news.com/) anymore, click the unsubscribe link at the bottom of the newsletter that you have received.
+If you sign up for an account, we collect your email address. We may occasionally use this email to contact you for site-related issues. If you do not want us to contact you for commercial purposes, you can change the settings in your account. SEOprofiler complies with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.).
