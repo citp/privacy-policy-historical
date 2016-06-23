@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plandisc.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114223741id_/http%3A//plandisc.com/about-us/privacy-and-confidentiality-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plandisc.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623144744id_/http%3A//plandisc.com/about-us/privacy-and-confidentiality-policy) for the most accurate reproduction.*
 
 # Privacy and Confidentiality Policy - Plandisc
 
@@ -23,7 +23,8 @@ Only the subscriber is able to delete the Annual Operating Plan.
 We reserve our right to contact you via E-mail or telephone regarding the administration of your subscription.  
 PLANDISC will, at your request, remove any subscription (and the personal data connected to this) from our database.  
 In order to be able to run the systems correctly and to protect ourselves and our other subscribers, we reserve our right to get access and to present individually identifying information with regard to meeting any applicable law, any decisions made by the Court of Law, and legal requirements made by the authorities.  
-Furthermore, in case any information regarding your person will be released to third parties, you will receive a notification, and you will then have the choice of not sharing this information. If you have not earlier opposed to the fact that your personal data have been used for direct marketing purposes fx your logo used as reference on our site, you can change your mind any time by writing or sending us an E-mail.
+Furthermore, in case any information regarding your person will be released to third parties, you will receive a notification, and you will then have the choice of not sharing this information. You give us the right to publish your company logo as reference on our website, but you can change you mind any time by writing or sending us an e-mail.  
+If you have not earlier opposed to the fact that your personal data have been used for direct marketing purposes fx your logo used as reference on our site, you can change your mind any time by writing or sending us an E-mail. 
 
 **Cookies**  
 A cookie is a simple computer file made of text asking for permission to be transferred to your computer. If you have accepted this (or if your browser has, in case it has been programmed to do so), your browser will add this cookie file.  
@@ -35,4 +36,4 @@ This homepage may contain links to other homepages. Please be aware that PLANDIS
 **Information about changes**  
 If we should decide to make any changes in our policy concerning protection of personal data, you could read about this on our homepage.
 
-Plandisc.com use cookies to give you a better experience. Vi aassume that is okay with you. Ok
+Plandisc.com use cookies to give you a better experience. Vi assume that is okay with you. Ok
