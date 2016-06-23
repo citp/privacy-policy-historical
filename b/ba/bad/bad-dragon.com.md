@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909223607id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623023316id_/http%3A//bad-dragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Bad Dragon
 
