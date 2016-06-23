@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney.com.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225063841id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623173651id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
 
 # Privacy Policy - Disney Privacy Center
 
