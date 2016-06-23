@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228182200id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624011058id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
