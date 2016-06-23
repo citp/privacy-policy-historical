@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the affordablehousingonline.com privacy policy that was archived on 2015-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151005140424id_/http%3A//affordablehousingonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the affordablehousingonline.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624002822id_/http%3A//affordablehousingonline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head itemscope="" itemtype="http://schema.org/WebSite">
 	<title itemprop="name">Affordable Housing Online's Privacy Policy</title>
@@ -44,9 +44,12 @@
 	    <!-- Bootstrap -->
 
  
-    
+        <link async="" href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+	<link href="/custom/css/style.css" rel="stylesheet">
+
     <script src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.0" id="undefined"></script><script type="text/javascript" async="" src="//apis.google.com/js/platform.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/custom/js/jquery.1.11.0.min.js"></script>
-    <link async="" href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -67,13 +70,13 @@
   ga('send', 'pageview');
 
 </script>
-<script>
+<!--<script>
 
 jQuery(function ($) {
     $(".tooltip-marker").tooltip()
 });
 
-</script>
+</script>-->
   
   <!-- Quantcast Tag, part 1 --> 
 <script type="text/javascript">
@@ -116,15 +119,15 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 	})(); 
 </script>
 
-<!-- anchor ad -->
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- anchor ad 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-6793518635702975",
     enable_page_level_ads: true
   });
 </script>
-
+-->
 
 
   <style type="text/css" id="notify-bootstrap">.notifyjs-bootstrap-base {
@@ -323,6 +326,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			 
 
 
+
+
 <div class="container" style="min-height: 500px;" id="">
 <div class="col-xs-12 ac" style="margin: 15px;">
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -431,6 +436,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 					|
 					<a href="/about-us">About Us</a>
 					|
+					<a href="/affordable-housing-data">About Our Data</a>
+					|
 					<a href="/housing-common-questions">Housing Q &amp; A</a>
 					|
 					<a href="/section-8-housing">Section 8 Q &amp; A</a>
@@ -451,7 +458,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 		</div>	
 			<br>
 			<div id="copyright" class="ac col-xs-12">
-			Copyright 2002-2015, David Layfield and ApartmentSmart.com, Inc.
+			Copyright 2002-2016, David Layfield and ApartmentSmart.com, Inc.
 			</div>
 			
 			
@@ -465,10 +472,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 		<script src="/custom/js/cat.js"></script>
 
 
-	<!-- Custom -->
-    <link href="/custom/css/style.css" rel="stylesheet">
 
-	<script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.0/js/jquery.dataTables.js"></script>
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.0/js/jquery.dataTables.js"></script>
 <script>
 $('.datatable').dataTable();
 $('document').ready(function(){ $('.paginate_button').addClass('btn btn-info');		});
@@ -493,7 +498,7 @@ jQuery(function ($) {
 		    displayKey: 'Cities',
 			name: 'Cities',
 			valueKey: 'SearchString',
-			remote: { url :'/places.php?v=706115849&query=%QUERY',
+			remote: { url :'/places.php?v=1619785306&query=%QUERY',
        			filter: function (parsedResponse) { return parsedResponse; }
        		},
 			header: '<h4>Cities</h4>',template: ['<p class="name">{{SearchString}}</p>'].join(''),engine: Hogan
@@ -502,7 +507,7 @@ jQuery(function ($) {
 		    displayKey: 'ZipCodes',
 			name: 'ZipCodes',
 			valueKey: 'SearchString',
-			remote: { url :'/zipcodes.php?v=1831853892&query=%QUERY',
+			remote: { url :'/zipcodes.php?v=1404675446&query=%QUERY',
        			filter: function (parsedResponse) { return parsedResponse; }
        		},
 			header: '<h4>Zip Codes</h4>',template: ['<p class="name">{{SearchString}}</p>'].join(''),engine: Hogan
@@ -511,7 +516,7 @@ jQuery(function ($) {
 		    displayKey: 'Counties',
 			name: 'Counties',
 			valueKey: 'SearchString',
-			remote: { url :'/counties.php?v=2064168613&query=%QUERY',
+			remote: { url :'/counties.php?v=1608154121&query=%QUERY',
        			filter: function (parsedResponse) { return parsedResponse; }
        		},
 			header: '<h4>Counties</h4>',template: ['<p class="name">{{SearchString}}</p>'].join(''),engine: Hogan
@@ -520,7 +525,7 @@ jQuery(function ($) {
 		    displayKey: 'HousingAuthorities',
 			name: 'HousingAuthorities',
 			valueKey: 'SearchString',
-			remote: { url :'/hasearch.php?v=1199306781&query=%QUERY',
+			remote: { url :'/hasearch.php?v=2063550654&query=%QUERY',
        			filter: function (parsedResponse) { return parsedResponse; }
        		},
 			header: '<h4>Housing Authorities</h4>',template: ['<p class="name">{{SearchString}}</p>'].join(''),engine: Hogan
@@ -626,6 +631,7 @@ $('.nav-search .twitter-typeahead').removeClass('col-lg-10').addClass('col-xs-12
 
 
   
+
 
 
 	  
