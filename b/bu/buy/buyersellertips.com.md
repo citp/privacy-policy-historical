@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyersellertips.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026035247id_/http%3A//www.buyersellertips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyersellertips.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623235523id_/http%3A//www.buyersellertips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BuyerSellerTips
 
