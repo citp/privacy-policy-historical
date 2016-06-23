@@ -1,97 +1,88 @@
-> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107183233id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623020129id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-## Mercer LLC Privacy Policy for Web Site Users
+## Privacy Statement: mercer.com
 
-By using this Web Site, you consent to the collection, use, and transfer of your personal information as described in this Privacy Policy.
+Mercer LLC and its affiliates (the “Company”) believe strongly in protecting the privacy of Internet users who visit our website, located at www.mercer.com (the "Site”). This Privacy Statement is intended to inform you of the ways in which this Site collects personal information, the uses to which that information will be put, and the ways in which we will protect any personal information you choose to provide us. Generally, personal information is information that can be used to identify you or your activities on the Site or information about you which you provide to us through services offered on the Site.
 
-Clicking on the following links will take you to each section of the Privacy Policy.
+This Privacy Statement applies solely to data collected via the Site. There may be additional personal (and other) information that we have or collect about you or your company pursuant to other relationships which is subject to other agreements and rules. 
 
-### Mercer LLC Privacy Policy for Web Site Users
+**What Data Do We Collect?**
 
-### General
+The information collected by the Company through the Site falls into two categories: (1) information voluntarily supplied by visitors to our Site and (2) information gathered via automated means as visitors navigate through our Site.
 
-This document describes the privacy policy (“Privacy Policy”) of Mercer LLC, 1166 Avenue of the Americas, New York, NY 10036-2774, United States of America and its affiliated companies (“Mercer,” “we” or “us”) related to information collected and held by Mercer from visitors (“you,” “your”) to its public Internet sites (each a “Web Site” and collectively the “Web Sites”).
+**Information Voluntarily Provided by You:**
 
-Mercer takes your privacy seriously because we know you do. Mercer is committed to processing the personal information it collects from Web Site users (“User Information”), including information concerning Web Site usage, in accordance with this Privacy Policy.
+In the course of using this Site, you may choose to provide us with information to help us serve your needs. For example, you may provide us your e-mail address to request information, or you may send us your mailing address so we may send you the material you have requested. You may also choose to apply for a job at the Company and submit a job application via our careers site http://www.mmc.com/join-us/overview.html.  Any personal information you send us will be used only for the purpose indicated on the careers site or in this Statement.
 
-The Web Sites are intended for adults. If you are not yet 18 years old or lack the legal authority to form legally binding contracts under applicable law, please do not use any of the Web Sites. We do not solicit or knowingly collect any information from visitors under 18 years of age.
+**Information Collected by Automated Means:**
 
-By accessing or using any Web Site, you acknowledge that you have read, understood, and accepted the practices described in this Privacy Policy. Please read this Privacy Policy carefully and be aware that we may change it at any time. As a result, we recommend that you check back regularly to this page to be apprised of any updates of changes.
+We use various tools to enhance the Site user experience and track users of the Site, including cookies and web beacons. Cookies are small pieces of text that a website places on your computer to help remember information about your visit. Web beacons are tiny graphics with a unique identifier that are embedded invisibly on the web pages. Neither cookies nor web beacons can read data off your computer's hard drive or collect your personal information. We use information collected from cookies and web beacons to improve your experience and the overall quality of our services. We may also use cookies and web beacons to collect information from third parties (such as Google) to help advertise our products and services, to analyze the effectiveness of our marketing or the performance of this Site, and to determine whether you may be interested in other products or services. We also use web beacons to help deliver cookies and compile analytics. Our cookies and web beacons may also come from third-party service providers who have permission to place such tools on our Site.
 
-### Information We Collect from Web Site Users and How We Use It
+You can refuse to accept and delete cookies by adjusting your browser setting.  Please note that refusing or deleting cookies may impact your browsing experience on the Site, or prevent you from using some of its services, and it may result in the deletion of any preferences you have set. For more information on how to reject or delete cookies, you should consult with your browser's or device’s help documentation or visit www.aboutcookies.org. The Company does not use technology that recognizes do-not-track signals from your browser. You can also opt out of Internet based advertising by installing a browser plugin from the third party where available. For more information about interest-based advertising, please see: http://www.networkadvertising.org/managing/opt_out.asp.
 
-Mercer collects the domain names of visitors to its Web Sites to measure the number of visits, pages visited, and average time spent on each Web Site. This information is used to improve the design of our Web Sites and make them more user-friendly. Mercer also collects the e-mail addresses and other contact information you provide when you send us e-mail messages. This information is used solely to reply to your original e-mail message.
+In addition, in the course of ensuring network security and consistent service for all users, the Company employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage the Company’s computers or the network, and monitor and fine-tune the performance of the Company network and this Site. In the course of such monitoring, these programs may detect additional information from your computer such as your IP address, addresses from network packets, and other technical information. Any such information is used only for the purpose of maintaining the security and performance of the Company’s networks and computer systems.
 
-We may also collect information from you passively using “cookies” and “action tags.” “Cookies” are small text files that are placed on your computer in order to identify your Web browser and the activities of your computer on our Web Sites.
+**How Do We Use the Data We Collect?**
 
-Cookies may be used to:
+We will use the information provided by you in order to serve your needs. This may include things such as sending you electronic or written materials or, for example, if you supply us with your telephone number, you may receive telephone contact from us in response to your request.
 
-  * personalize your experience on our Web Sites,
-  * assist you in using our products (such as saving time by not having to reenter your name upon each visit to our Web Sites),
-  * allow us to statistically monitor how you are using our Web Sites to help us improve our online offerings.
+**Who Do We Share Your Data With?**
 
+We will not disclose, share, sell, or otherwise use your personal information without your consent, except to the extent required by law, in accordance with your instructions, or as identified in this Privacy Statement:
 
-
-You may set your web browser to not accept cookies. If you do, you may still use our Web Sites, however, certain products, offerings, features, or resources of our Web Sites may not work properly and you may experience some loss of convenience.
-
-“Action tags,” also known as web beacons or gif tags, are a web technology used to help track web site usage, such as how many times a specific page has been viewed. Action tags are invisible to you. Unlike cookies, action tags are not placed on your computer. Information collected using cookies and action tags is not used by Mercer to market its services directly to you (other than to improve the quality and usability of our Web Sites).
-
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to this  Website.  Any data collected will be used in accordance with this privacy policy and Google’s privacy policy. 
-
-You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
-
-### Information We Collect from Registered Users and How We Use It
-
-Certain Web Sites require users to register with Mercer by supplying their names and other personal information in order to have access to specific Web Site features (“Registered Users”). All Registered Users receive a username and password. When you register on a Web Site, Mercer may use your data to provide you with information reports as well as information about goods and services offered by Mercer. Mercer may also use the information provided by Registered Users to perform statistical analyses on our clients and understand client demographics.
-
-Occasionally, we may transfer to our global client contact database certain information about Registered Users, in which case it will be governed by [Mercer’s Privacy Policy for Contact Data](https://web.archive.org/privacy/privacy-policy-for-clients.html)
-
-_Information Related to Employment_
-
-As a Registered User, you can use some Web Sites to inform us of your interest in employment with Mercer, to send us your resume or other information about yourself. This information may include your name, address, e-mail address, and information about your job history, experience, and education. We may also ask you for other information to help us tell whether you would be eligible under local immigration or employment laws to work in a particular country. You are able to provide us additional information that you think may be useful for us to evaluate your experience as it relates to potential employment with Mercer.
-
-We will use the information you supply to evaluate your qualifications for positions offered by Mercer and possibly to contact you regarding any positions in which we believe you may be interested.
-
-### Your Rights
-
-As a Registered User you may review, correct, update, or disable the information that we maintain about you, including your preferences, at any time on the user profile area. We may retain such information for a period in our backup systems as a precaution against system failures. We may retain some information for longer periods as required by law, contract, or auditing requirements.
-
-If you wish to stop receiving e-mails from us, simply tell us so in a reply to any e-mail we send you or contact us at the e-mail address listed below.
-
-### Geographic Transfer and Storage of Information
-
-Information that you submit through the Web Sites may be collected, stored, and processed in the United States or in other countries. We may transfer your information internationally to Mercer’s offices or third party service providers to fulfill a request to purchase goods, services or information from us, to respond to your questions, or (if you are applying for a position at Mercer) to evaluate your experience and qualifications in connection with our recruitment process. Such transfers and other processing of the information will be in accordance with this Privacy Policy.
-
-### Sharing and Disclosure of Information to Third Parties
-
-Mercer is not in the business of selling User Information to others. Mercer may, however, share or disclose information you provide us to other companies and people under the following circumstances:
-
-  * Agents and Service Providers. We sometimes employ or contract with other companies and individuals to perform functions on our behalf, such as supporting our systems infrastructure, arranging conferences, etc. Such information will be used solely to provide the contracted services for Mercer.
-  * Business Transfers. As we continue to develop our business, we might sell or buy assets. If any Mercer business unit is sold or substantially all of Mercer is acquired, User Information relevant to the operation sold could be one of the transferred assets.
-  * Other. Mercer has the right to disclose any User Information without your prior permission if Mercer has a good faith belief that such action is necessary to protect and defend the rights, property, or safety of Mercer, its clients, suppliers, or the public; or respond to claims that any content violates the rights of third parties. We may also disclose User Information as we deem necessary to satisfy any applicable law, regulation, legal process, or governmental request. In this we will strictly adhere to the privacy laws and regulations in the relevant jurisdictions.
+  * Affiliates: To enable them to provide services to you and to enable them to contact you regarding additional products and services that you have expressed an interest in.
+  * Agents and Service Providers: We sometimes contract with other companies and individuals to perform functions or services for us or on our behalf, such as hosting this Site, sending e-mail messages, and making phone calls. They may have access to personal information, such as addresses, needed to perform their functions, but are contractually restricted from using it for purposes other than providing services for the Company or on our behalf.
+  * Business Transfers: As we continue to develop our business, we might sell or buy assets. In such transactions, user information generally is one of the transferred business assets. Also, if either the Company itself or any of the Company’s assets were acquired (including through bankruptcy proceedings), your personal information may be one of the transferred assets.
+  * Legal Matters: The Company may preserve, and has the right to disclose any information about you or your use of this Site without your prior permission if the Company has a good faith belief that such action is necessary to: (a) protect and defend the rights, property, or safety of the Company or its affiliates, other users of this Site, or the public; (b) enforce the terms and conditions that apply to use of this Site; (c) respond to claims that any content violates the rights of third parties; (d) respond to claims of suspected or actual illegal activity; (e) respond to an audit or investigate a complaint or security threat; or (f) comply with applicable law, regulation, legal process, or governmental requests.
 
 
 
-Mercer may aggregate User Information and may disclose aggregated information to third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you.
+**  
+What Steps Do We Take to Protect Your Information?**
 
-### Legal Matters
+This Site and all information that you submit through this Site is collected, stored, and processed in the United States within Company-controlled databases. We restrict access to your personal information to those employees of ours, and our affiliates, and to those service providers who need to use it to provide this Site and our products or services. We have implemented physical, administrative, and technical safeguards to protect your personal information from unauthorized access. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our systems, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
-This Privacy Policy is designed to establish a uniform minimum standard for how Mercer handles information you submit to us through the Web Sites. Where local law requires stricter standards than those set forth herein, Mercer will handle your information in accordance with these stricter standards.
+##   
+Some Other Matters
 
-### Links to Other Sites
+  
+Accessing and Correcting Your Information:
 
-The Web Sites contain links to other sites. The privacy policies at these other sites may be different from this Privacy Policy. Those sites’ privacy policies will govern the use of information you provide to them.
+Keeping your information accurate and up-to-date is very important. Inaccurate or incomplete information could impact our ability to deliver relevant services to you.  Please let us know about any changes that may be required to your personal information using the “contact us” feature of this website.
 
-### Security
+**External Links:**
 
-Mercer places a high priority on the security of User Information. We utilize appropriate technical, administrative, and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification, and improper disclosure. Mercer securely stores the information you enter on the Web Sites, including registration information and your account password, on our data servers. However, no computer system or information can ever be fully protected against every possible hazard. As a result, we cannot ensure or warrant the security and privacy of any information you provide to us and you do so at your own risk.
+This Site includes links to other sites that are operated by organizations other than the Company.  If you access another organization’s website using a link provided, the other organization may collect information from you.  The Company is not responsible for the content or privacy practices of linked websites or their use.  Once you have left this Site via such a link (you can tell where you are by checking the URL in the location bar on your browser), you should refer to those websites' privacy policies, terms of use, and practices to determine how they will handle any information they collect from you.
 
-You must maintain the confidentiality of your username and password, and are responsible for restricting unauthorized access to your computer.
+**Applicability of This Privacy Statement to International Users:**
 
-### Contacts and Complaints
+This Privacy Statement is provided in accordance with and subject to U.S. law.  If you access this Site from a location outside of the United States, you agree that your use of this Site is subject to the terms of this Privacy Statement and the Terms of Use and you recognize and accept that your personal information may be transferred to and processed in the U.S. and other countries that may not be deemed to provide the same level of data protection as your home country and that may have been deemed to have inadequate data privacy laws under the laws of your jurisdiction.  See also the Privacy Statement or Policy available on other Mercer sites, such as country specific sites like mercer.xx or special purposes sites such as imercer.com, for information about privacy treatments for users of these sites.
 
-If you have any questions or concerns about this Privacy Policy, please e-mail us at [P...@mercer.com](mailto:PrivacyCoordinator@mercer.com)
+**Children:**
 
-[](mailto:PrivacyCoordinator@mercer.com)[](mailto:PrivacyCoordinator@mercer.com)
+This Site it not intended for children, and we do not knowingly collect, use, or disclose information of children under the age of thirteen (13) without the consent of their parents or legal guardians. In an instance where such information was collected, it would be purely accidental and unintentional.
+
+**Rights of California Residents:**
+
+Under California’s “Shine the Light” law, Site visitors who are California residents may request and obtain a notice once a year about the personal information the Company shared with other businesses for their own direct marketing purposes. Such a notice will include a list of the categories of personal information that was shared (if any) and the names and addresses of all third parties with which the personal information was shared (if any).  The notice will cover the preceding calendar year.  To obtain such a notice, please contact us as described below. In addition, under this law you are entitled to be advised how our Site handles “do not track” browser signals. As described above, the Company does not use technology that recognizes do-not-track signals from your browser.
+
+**For Company Career Candidates**
+
+Please read our Candidate Privacy Statement  posted on our careers websites, available at http://www.mmc.com/join-us/overview.html
+
+**Changes to Privacy Statement**
+
+The Privacy Statement is subject to change at any time. It was last changed on March 1, 2016 . If we make changes to this Privacy Statement, we will update the date it was last changed.  Any changes we make to this Privacy Statement become effective immediately when we post the revised Privacy Statement on this Site. We recommend that you review this Privacy Statement regularly for changes.
+
+**Questions or Concerns?**
+
+If you have any questions, concerns, or complaints about this Privacy Statement, or our privacy practices in general, they should be directed to the Company at webmaster@mercer.com or by contacting the Company at:
+
+Mercer LLC  
+1166 Avenue of Americas,  
+New York, New York 10036  
+USA
+
+© 2016, MERCER LLC. ALL RIGHTS RESERVED
