@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npnr.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093617id_/http%3A//npnr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npnr.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623222347id_/http%3A//npnr.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NPNR
 
