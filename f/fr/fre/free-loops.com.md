@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-loops.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815080644id_/http%3A//free-loops.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-loops.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623234556id_/http%3A//free-loops.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
