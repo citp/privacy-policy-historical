@@ -1,78 +1,87 @@
-> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602181452id_/http%3A//girlscouts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623082302id_/http%3A//www.girlscouts.org/en/help/help/privacy-policy.html) for the most accurate reproduction.*
 
-# Girl Scouts: Privacy Policy
+# Privacy Policy - Girl Scouts
 
-Privacy Policy
+This Web site is owned and operated by Girl Scouts of the USA, a 501(c)(3) non-profit organization headquartered in New York, New York. Our online properties comprise of, but are not limited to, all pages found under [www.girlscouts.org](http://www.girlscouts.org/), our official online store ([www.girlscoutshop.com](http://www.girlscoutshop.com/)), and certain partner sites. This privacy policy applies to these sites and other sites, mobile apps or other online services we operate that link to this policy (collectively, referred to below as the site).
 
-Welcome to the official Web site of Girl Scouts of the USA. This Web site is owned and operated by Girl Scouts of the USA, a 501(c)(3) non-profit organization headquartered in New York City, New York.
+Girl Scouts of the USA is committed to respecting and protecting the privacy of our visitors. This privacy policy discloses how we collect, protect, and use information you provide or we collect online, as well as how we protect children's privacy. If our policy practices change in the future, we will let you know by posting our revised privacy policy on our Web site. By using the pages on this site or other services covered by the posted Privacy Policy, you are accepting the practices described in the Privacy Policy.
 
-Girl Scouts of the USA is committed to protecting the privacy of our visitors. This privacy policy discloses how we collect, protect, and use information you provide us online, as well as how we protect children's privacy. By using the pages on this site, you are accepting the practices described in the Privacy Policy.
+**INFORMATION COLLECTION**
 
-If our policy practices change in the future, we will let you know by posting the policy changes on our Web site. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected.
+Personally Identifiable Information. At our site, we do not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view our site. Girl Scouts of the USA only gathers personally identifiable data on our site, such as names, addresses, Zip/postal codes, email addresses, etc., when voluntarily submitted by a visitor. Once collected, we may combine this information with other information collected from external sources.
 
-Girl Scouts' online properties comprise of, but are not limited to, all pages found under www.girlscouts.org, including our online shop and our destination sites for girls and teens, called Girl Scouts _for girls_ ([forgirls.girlscouts.org](http://forgirls.girlscouts.org/)) and LMK (lmk.girlscouts.org) respectively.
+Non-Personally Identifiable Information. Girl Scouts of the USA may automatically collect certain technical information from your computer such as your Internet service provider, your Internet Protocol address, your browser type, your operating system, the pages viewed, the pages viewed immediately before and after accessing the Web site, and the search terms entered to get to our site. This information allows us to improve and customize our services. We and our service providers may collect this information using "cookies," which are small text files that many websites save on your computer, or similar technologies. See the section on "Use of Cookies and Similar Technology" below for more information.
 
-DATA COLLECTION
+**USE AND SHARING OF PERSONALLY IDENTIFIABLE INFORMATION**
 
-Girl Scouts of the USA uses its best efforts to respect and protect the privacy of its online visitors. At our site, we do not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view our site. Girl Scouts of the USA only gathers personally identifiable data, such as names, addresses, Zip/postal codes, email addresses, etc., when voluntarily submitted by a visitor. For example, personally identifiable information is collected in order to process online transactions, online donations, or job applications. This information is used solely by Girl Scouts of the USA or other entities who are involved in the operation of this site for internal purposes. We do not sell information you provide to us online to third parties. We will only share personally identifiable information with third parties when (i) the person submitting the information authorizes us to share it; (ii) sharing the information is a necessary operation of the site, for instance, to process a credit card transaction, or (iii) we are required to by law. Girl Scouts of the USA has no control over or responsibility for the data collection and use practices of third parties that process online transactions.
+The personally identifiable information you provide is used by Girl Scouts of the USA and other entities who are involved in the operation of this site or who provide support for the Girl Scouts of the USA mission and programs, for general business purposes and for the purposes for which you provided the information. General business purposes include, for example, Girl Scouts of the USA membership activities, program participation, marketing, promotions, and fundraising activities and communications. The purposes for which you provide information includes our use of your personally identifiable information to process online transactions, purchases, and donations, facilitate participation in Girl Scouts of the USA programs, promotions and services, or process job applications.
 
-CHILDREN'S PRIVACY
+We do not sell information you provide to us online with third parties. We may share personally identifiable information with third parties including: (i) with Girl Scout Councils; (ii) when the person submitting the information authorizes us to share it; (iii) when sharing the information is with a service provider in furtherance of our operations or the operation of the site, for instance, to process a purchase or other transaction you make; (iv) to facilitate participation in Girl Scouts of the USA programs, promotions, and services, or to engage in Girl Scouts fund raising, marketing communications and promotions; (v) to comply with legal processes such as a subpoena or court order or to otherwise protect your or our legal rights; or (vi) for other purposes for which you provided the information. Girl Scouts of the USA has no control over or responsibility for the data collection and use practices of third parties that process online transactions. For example, if you make a purchase on our site using a PayPal account or similar account of a third party payment provider, certain information is transmitted to the payment provider and is subject to the third party's own privacy policy. We do not share or exchange your information collected online or offline with third parties (other than our chartered Girl Scout Councils) for their fundraising or marketing purposes.  
 
-The Children's Online Privacy Protection Act (COPPA) protects the personal information of children under the age of 13. This applies to individually identifiable information about a child that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact the child. The Act and Rule also cover other types of information—for example, hobbies, interests and information collected through cookies or other types of tracking mechanisms—when they are tied to individually identifiable information. It is important for you to understand this law; we encourage you to read more about COPPA.
+**CHILDREN'S PRIVACY**
 
-Note to Parents on Our Privacy Policy
+Girl Scouts of the USA is committed to providing a safe, secure, and fun online experience for children who visit our site. We are dedicated to safeguarding any personally identifiable information collected online and to helping parents and children have positive experiences on the Internet.
 
-Girl Scouts of the USA is committed to providing a safe, secure, and fun online experience for children who visit our site. We are dedicated to safeguarding any personal information collected online and to helping parents and children have positive experiences on the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
+We will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. With parental consent, we may collect information from children under the age of 13 such as: name, address, email address, account information, and user generated content. This information allows us to fulfill a requested transaction and facilitate participation in online programs, keep records, undertake certain marketing activities, or to otherwise customize or enhance the Web site experience for children.
 
-Parents can revoke their consent and ask that information about their children be deleted from the site by contacting our offices by phone at (800) GSUSA 4 U or via [email](https://web.archive.org/contact/email.asp). To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
+Children under the age of 13 may be able to make certain content such as user generated content visible to others or the public. This could include, for example, a webpage or parts of webpages operated by children that have been designed for group or public viewing. However, absent parental consent, children under 13 would be allowed to display only limited information such as a first name or unique user name or other information that does not allow for online contacting by third parties.
 
-Girl Scouts believes it is good policy not to collect more personally identifiable information from children under 13 than is necessary for them to participate in our online activities. In addition, be aware that all sites that are targeted to children under 13 are prohibited by law from collecting more information than they need.
+Regardless of what information is displayed, parents can revoke their consent and ask that information about their children be deleted from the site by contacting our offices by phone at (800) GSUSA.4.U or via email. To do this or to review personally identifiable information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
 
-Submissions
+The information collected from or about children under the age of 13 or otherwise may be collected by or shared with the child's Girl Scout Council and troop. To find contact information for the relevant Council with whom information may be shared, please visit our [Council Finder](https://web.archive.org/en/about-girl-scouts/join/council-finder.html).
+
+**Submissions**
 
 Girl Scouts of the USA welcomes children to learn more about our organization and, where appropriate, participate in polls and surveys, as well as submit comments, artwork, writings, and other submissions for posting on our Web site. For this reason, Girl Scouts of the USA follows the guidelines for interactive electronic media published by the Children's Advertising Review Unit (CARU) of the Better Business Bureau for pages targeted to children under 13. However, we encourage this be done only with their parent's knowledge and supervision. We also encourage children to use an alias (e.g., "Bookworm", "Skater", etc.), first name, nickname, initials, or other alternative to full names or screen names which correspond with an email address for any activities which will involve public posting.
 
 In keeping with CARU's Principle regarding respecting and fostering the parents' role in providing guidance for their children, we encourage parents to check and monitor their children's use of email and other online activities regularly.
 
-USE OF COOKIES
+**USE OF COOKIES AND SIMILAR TECHNOLOGIES**
 
-Visitors should be aware that non-personal information and data may be automatically collected by the Girl Scouts of the USA Web site through the use of "cookies." "Cookies" are small text files a Web site can use to recognize repeat visitors, facilitate the visitor's ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. Cookies are not programs that come onto a visitor's system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. Girl Scouts of the USA uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitors' online experience and facilitate their visit within our site.
+Visitors should be aware that non-personal information and data may be automatically collected by the Girl Scouts of the USA Web site through the use of "cookies" or other similar technologies such as web beacons. "Cookies" are small text files a Web site can use to recognize repeat visitors, facilitate the visitor's ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. Cookies are not programs that come onto a visitor's system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. "Web beacons" are a small snippet of code embedded in webpages typically used to monitor activity on a webpage and transfer or collect information, such as information about your Internet Protocol address, the URL of the page on which the beacon is located, the browser type that is accessing the site, and the ID number of cookies placed on your computer.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use _non-personally identifiable_ information ( _that is_ , not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you _on this or other websites_. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Girl Scouts of the USA uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitors' online experience and facilitate their visit within our site. Girl Scouts of the USA may use web beacons to improve website services, conduct website analytics, first party advertising relating to us and our sponsors, and to optimize the browsing experience.
 
-LINKS TO OTHER WEB SITES AND SERVICES
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personally identifiable information (that is, not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you on this or other websites. Read more information about [this practice](http://www.networkadvertising.org/choices/) at [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.aboutads.info/choices/> to know your choices about not having this information used by these companies.
+
+**LINKS TO OTHER WEB SITES AND SERVICES**
 
 This site may be linked to other sites and services that are not maintained by Girl Scouts of the USA. These Web sites have their own privacy policies, which you should review prior to visiting them. We have no responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors.
 
-OUR SECURITY SAFEGUARD
+**OUR SECURITY SAFEGUARD**
 
-The safety and security of your online experience is of the utmost concern to us. We ensure the appropriate physical, electronic, and managerial procedures are in place to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+The safety and security of your online experience is of the utmost concern to us. We take measures to implement reasonable physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-Credit Card Safety
+**Credit Card Safety**
 
-Protecting the safety of your credit card information is also important to us. We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. SSL is the industry standard in Internet encryption technology, which is a highly sophisticated method of scrambling data as it travels from your computer to our Web site servers. We also encrypt your credit card number when we store your order and whenever we transfer that information to participating merchants.
+Protecting the safety of your credit card information is also important to us. For card transactions we process, we use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. SSL is an Internet encryption technology, and a method of scrambling data as it travels from your computer to our Web site servers. We also encrypt your credit card number when we store your order and whenever we transfer that information to participating merchants.
 
-To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Address line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
+To make sure you are accessing our secure server before you submit sensitive information, check the document for your browser for indication of an SSL connection (most browsers utilize an unbroken or closed padlock). Verify that SSL is active before submitting sensitive information to our server. To double-check, verify that the URL or Address line of your browser for our site begins with "https."
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-Children
+**Children**
 
 If you are under 18, you need parent/guardian permission to use a credit card to make purchases online.
 
-HOW TO CONTACT US
+**HOW TO CONTACT US**
 
 If you have any questions about our Privacy Policy, you can contact us at:
 
 Girl Scouts of the USA  
 420 Fifth Avenue  
-New York, NY 10018  
-Phone: (800) GSUSA 4 U [(800) 478-7248] or (212) 852-8000
+New York, NY 10018
 
-If needed, the Information and Referral Center representative can guide you through the Language Line Service, which provides telephone interpretation in 140 languages Monday-Friday, 8:00 a.m.-7:30 p.m. EST.
+Phone: (800) GSUSA4U [(800) 478-7248] or (212) 852-8000
 
-**E-mail**
+Monday-Friday, 8:30 a.m. – 7:30 p.m. Eastern Time.
 
-You can [e-mail](https://web.archive.org/contact/email.asp) us your question and we will get back to you as soon as possible.
+If needed, we can guide you through the Language Line Service, which provides telephone interpretation in 140 languages.
+
+**Email**
+
+You can contact us via [e-mail](http://www.girlscouts.org/en/contact-us/contact-us/contact-us.html). Send us your question and we will get back to you as soon as possible.
 
 Thank you for visiting our site.
+
+This Privacy Policy was last updated in March 2016.
