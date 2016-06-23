@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the hdsport.net privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016053812id_/http%3A//hdsport.net/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdsport.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623102116id_/https%3A//hdsport.net/about.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# HDSport.net - FREE HD LIVE SPORTS STREAMING
 
-This document describes what information is collected by HDSPORT.net site and how this information is used. If you do not agree with the way in which we collect and use information, please don't visit this site.
+## About us
 
-## Personal information
+HDSport.net provides links to external live sports streaming providers. You can watch for free football, tennis, basketball, volleyball, hockey and other sports. None of the video content is hosted or streamed through this website. If you have any questions, comments or anything do not hesitate to contact us via the contact us.
 
-HDSPORT.net site does not collect or store personal contact information for its visitors - name, email, address, date of birth and more. Our webserver logs collect the IP addresses of visitors to HDSPORT.net, as well as additional information about the used operating system, device and Internet browser.
+## Copyright
 
-## General Information
+All content included on this web site, such as text, graphics, logos, button icons, images, audio clips, and software, is the property of hdsport.net or its content suppliers and protected by EU and international copyright laws. Parts of the website design and source code are created by 3rd party providers and licensed to hdsport.net. Any reproduction of material from this web site or portion thereof is forbidden.
 
-HDSPORT uses Google Analytics - of Google Inc. ("Google") for the purpose of anonymous collection of IP addresses. Google Analytics and HDSPORT.net use so-called "Cookies" - text files. Information about how you  use this website is sent and stored on Google servers.
+## Privacy Policy
 
-Through the advanced features of Google Analytics, HDSPORT collect information about demographics and interests of your visitors. These features allow us to receive anonymous and comprehensive data on gender, age and interests of the visitors of the page. Data is collected using the first-party Cookies (as Google-Analytics-Cookies) and third-party Cookies (as DoubleClick-Cookies). The data is used to run retargeting or remarketing campaigns via Google Adwords, Google DoubleClick or Google Display Network.
+hdsport.net does not collect any personal information. We are not going to ask you for your name, email, address, phone or anything else which might be considered a personal information. hdsport.net uses cookies to improve your experience on our websites and for functionality purposes. Our cookies are not used for collection personal information. We might show 3rd party banners (adserver javascript tags) which could collect personal information according to their privacy policy. We do use Google Analytics and Google DoubleClick Demographics reports. If you don't want to be track by these web analytics tools, please visit https://tools.google.com/dlpage/gaoptout?hl=en . Our hosting provider collects information about your IP address through its web server logs. This information is not shared with third parties, except with legal entities as required by EU laws.
 
-You can object to the collection of data from Google Analytics by visiting: http://tools.google.com/dlpage/gaoptout?hl=en.
+## Terms and Conditions
 
-## 3rd party tools used on this website
+Although we try to publish information which is accurate, we can not offer any guarantee. For the most recent and actual list of sport events that can be streamed, please visit the websites of the live streaming providers listed on hdsport.net. As they are independent organizations, they might change their live streaming offer and terms and conditions at any time.
 
-For the purposes of advertising and promoting HDSPORT.net, we use external software tools from Google Adsense, DoubleClick, Facebook, Perfectaudience.com, Bing, Twitter, Yandex, YouTube, DailyMotion, VKontakte and others. Each of them may collect information about visitors HDSPORT.net. To familiarize yourself with the Privacy Policy, please visit their website.
+## Contact us
 
-By watching a video on this website, as all videos are hosted on 3rd party websites, you are actually watching a video from 3rd party website like YouTube.com. These 3rd party video hosting providers do have their own privacy policy and they might also collect information about you and your viewing habits. More information can be found in the corresponding 3rd party video hosting provider.
+To get in touch with us, please send an email to info @ hdsport.net 
