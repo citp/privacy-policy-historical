@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the twinkl.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122023025id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623110702id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Primary Resources - FREE for Early Years (EYFS) KS1 & KS2 |
 
   
 
 
-## A message from Jon Seaton about Twinkl’s commitment to your security and privacy.
+## A message from Jon Seaton, Twinkl's CEO, about our commitment to your security and privacy.
 
   At Twinkl, your trust means **everything** to us. That’s why we respect your privacy and protect it with the strongest form of commercial encryption available, plus we ensure that there are strict policies that govern how all data is handled.
 
@@ -13,13 +13,20 @@
 
   You may have noticed that we used to feature advertising on the website, which has now been removed. This decision has a financial impact for the business and all our staff who depend financially on the materials you purchase from us, but we felt it was the right thing to do – because it was the right thing for you. No more annoying adverts and flashing banners – just 100% timesaving and life-enhancing resources.
 
+Daily site scans for vulnerabilities and malware/viruses are undertaken by a leading specialist third party, Norton, and we have passed Extended Validation vetting checks designed to verify, and provide assurance, to our users of the legitimacy of our website and business. You can verify our current Secure Site status anywhere on the site where you see the Norton Site Seal.
+
   Our business model is very straightforward: we sell beautifully designed and unique products, and we rely on you to purchase from us. We don’t build a profile based on your web browsing habits to sell to advertisers. Our website and services are designed to make the site experience and our teaching materials, better. Plain and simple.
 
-  Our commitment to protecting your privacy comes from the fact that Twinkl is a unique business – driven by teachers, for teachers. We know that your trust doesn’t come easy. That’s why we have and always will work as hard as we can to earn and keep it.
+  Our commitment to protecting your privacy comes from the fact that Twinkl is a unique business – driven by teachers, for teachers. We know that your trust doesn’t come easily. That’s why we have and always will work as hard as we can to earn and keep it.
 
-  We ask that you continue to support and promote our hard work and beautiful teaching materials and we will continue to support you in every way we can. **We care about you.** We care about the children you teach and the path that primary education is taking. We’re here to support and fight with you in every step of that journey – that’s our promise.
+  We ask that you continue to support and promote our hard work and beautiful teaching materials and we will continue to support you in every way we can. **We care about you.** We care about the children you teach and the path that education is taking. We’re here to support and fight with you in every step of that journey – that’s our promise.
 
   Jon
+
+  
+
+
+* * *
 
 _Twinkl Limited_ __ takes your privacy very seriously and we are fully compliant with the principles of the Data Protection Act 1998 and are additionally a registered data controller under the Act. We ask that you read this privacy policy carefully as it contains important information about what to expect when _Twinkl Limited_ collects personal information about you and how _Twinkl Limited_ __ will use your personal data. This policy applies to information we collect about:
 
@@ -46,11 +53,11 @@ _Twinkl Limited_ __ takes your privacy very seriously and we are fully compliant
 
 2.5 From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services **** we provide. We or our agents and sub-contractors may contact you to ask you for your feedback and comments on our services.
 
-## 3\. Marketing
+## 3\. Product Information
 
-3.1 We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. If you agree to us providing you with marketing information, you can always opt out at a later date.
+3.1 We may also provide you with information about special features of our website or any other service or products we think may be of interest to you. If you agree to us providing you with this information, you can always opt out at a later date.
 
-3.2 To unsubscribe from any _Twinkl marketing, please use the 'unsubscribe' link at the end of the email received._
+3.2 To unsubscribe from any _Twinkl emails, please use the 'unsubscribe' link at the end of the email received._
 
 ## 4\. Our use of cookies and other information-gathering technologies
 
@@ -66,13 +73,11 @@ _Twinkl Limited_ __ takes your privacy very seriously and we are fully compliant
 
 6.1  The information you provide may be transferred to countries outside the European Economic Area ('EEA') that do not have similar protections in place regarding your data and restrictions on its use as set out in this policy. However, we will take steps to ensure adequate protections are in place to ensure the security of your information. The EEA comprises the EU member states plus Norway, Iceland and Liechtenstein. By submitting your information you consent to these transfers for the purposes specified above.
 
-## 7\. Access to your information and updating and correcting your
+## 7\. Access to your information and updating and correcting your information
 
-  information
+7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to dpa@twinkl.co.uk __ or send a letter to Twinkl Global HQ, Wards House, 195-199 Ecclesall Road, Sheffield, S11 8HW, United Kingdom. We may make a small charge for this service to cover our administrative costs.
 
-7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to dpa@twinkl.co.uk __ or send a letter to Twinkl Limited of Nursery Works, 100 Little London Road, Sheffield, S8 0UJ, United Kingdom. We may make a small charge for this service to cover our administrative costs.
-
-7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl _  Limited_ __ changes, for example if you change your email address, name or payment details, or if you wish to cancel your registration, please let us know the correct details by sending an email to info@twinkl.co.uk. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
+7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl _Limited_ changes, for example if you change your email address, name or payment details, or if you wish to cancel your registration, please let us know the correct details by sending an email to privacy@twinkl.co.uk. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
 
 ## 8\. Sale of business
 
@@ -86,9 +91,9 @@ By submitting your personal information you consent to the use of that informati
 
 We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times.
 
-## 11\. How to contact Twinkl Limited
+## 11\. How to contact Twinkl
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email info@twinkl.co.uk __ or send a letter to Twinkl Limited of Nursery Works, 100 Little London Road, Sheffield, S8 0UJ, United Kingdom.
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email privacy@twinkl.co.uk __ or send a letter to Twinkl Global HQ, Wards House, 195-199 Ecclesall Road, Sheffield, S11 8HW, United Kingdom.
 
 ## 12\. Links to other websites
 
