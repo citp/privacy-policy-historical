@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indiegogo.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128192509id_/https%3A//learn.indiegogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegogo.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623232107id_/https%3A//learn.indiegogo.com/privacy-policy-en) for the most accurate reproduction.*
 
 # Privacy Policy - Indiegogo
 
 ## Indiegogo, Inc.
 
-This Privacy Policy was last modified on and is effective as of June 26, 2015.
+This Privacy Policy was last modified on and is effective as ofFebruary 19, 2016.
 
 Indiegogo, Inc. (“ **Indiegogo** ,” “ **we** ,” or “ **us** “) knows that you care how Personal Information about you is collected, used, shared and stored. “ **Personal Information** ” means information which personally identifies you or another.
 
@@ -14,9 +14,9 @@ This Privacy Policy should be read along with our Terms of Use posted at: <https
 
 ### TRUSTe
 
-Indiegogo, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this English language Website [https://www.indiegogo.com/](https://web.archive.org/) and the related Service, but does not cover information that may be collected through mobile devices, mobile applications, or any 3rd party business affiliates of Indiegogo.
+Indiegogo, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this English language Website [https://www.indiegogo.com/](https://web.archive.org/), but does not cover information that may be collected through mobile devices, mobile applications, or any 3rd party business affiliates of Indiegogo.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at: [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at: 965 Mission Street, 6th Floor, San Francisco, CA 94103. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at: [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at: 965 Mission Street, 6th Floor, San Francisco, CA 94103. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ### E.U. Safe Harbor
 
@@ -77,7 +77,7 @@ You can sign up for or sign in to your Indiegogo account using Facebook Connect.
 
 Any Personal Information you Post as User Content is available to the public without any expectation of privacy or confidentiality. Copies may remain viewable in cached and archived pages or if other Users have copied or stored your User Content even if you remove the User Content. Your name and location are publicly displayed in your profile page. To request removal of your personal information from these areas of the site, contact us using the information below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. The profile you create on our site will be publically visible. You may change the visibility settings of your Contributions, and the types of information it may disclose, on the “My Contributions” page, and/or when you take specific actions on the site that provide you the option of anonymity.
 
-We display personal testimonials of satisfied users on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below.
+We display personal testimonials of satisfied users on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below. We collect your location based information for the purpose of tailoring search to reflect results in your area. We will only share this information with our mapping provider for the sole purpose of providing you with this service.
 
 When you use our mobile site, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, search results, and other personalized content. Most mobile devices allow you to control or disable location services in the device’s setting’s menu. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or the manufacturer of your particular device.
 
