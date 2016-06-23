@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928052535id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623153954id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
 
 # Information | Privacy & Cookie Policy | Center Parcs
 
@@ -73,3 +73,6 @@ We currently contract with several online partners to help manage and optimize o
 Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile.
 
 You can set most web browsers to notify you of cookie placement requests or decline cookies completely by configuring your browser to suit your personal preference in relation to cookie management.
+
+**ODR enquiries**  
+The Online Dispute Resolution service can be accessed via [_http://ec.europa.eu/odr._](http://ec.europa.eu/odr) Our email address for Online Dispute Resolution is [_odr@centerparcs.co.uk_](mailto:odr@centerparcs.co.uk)
