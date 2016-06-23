@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212163409id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005434id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy : Barry University, Miami Shores, Florida
+
+  * [Barry University](https://web.archive.org/)
+  * Website Privacy Policy
+
+
 
 This site is owned and operated by Barry University. Your privacy on the Internet is of the utmost importance to us. At Barry University, we want to make your experience online satisfying and safe.
 
