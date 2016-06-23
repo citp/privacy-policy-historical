@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pronfl.net privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004124113id_/http%3A//pronfl.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronfl.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623040355id_/http%3A//www.nflstreaming.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Terms & Conditions
 
-This Privacy Policy governs the manner in which ProNFL.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pronfl.net/](https://web.archive.org/web/20151004124113id_/http://pronfl.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by ProNFL.net.
+This Privacy Policy governs the manner in which Nflstreaming.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.nflstreaming.net/> website (“Site”). This privacy policy applies to the Site and all products and services offered by ProNFL.net.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-ProNFL.net may collect and use Users personal information for the following purposes:
+Nflstreaming.net may collect and use Users personal information for the following purposes:
 
   * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -57,7 +57,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-ProNFL.net has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Nflstreaming.net has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -66,9 +66,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[ProNFL.net](https://web.archive.org/web/20151004124113id_/http://pronfl.net/)  
-[http://www.pronfl.net/](https://web.archive.org/web/20151004124113id_/http://pronfl.net/)  
+[NFLStreaming.net](https://web.archive.org/web/20160623040355id_/http://www.nflstreaming.net/)  
+<http://www.nflstreaming.net/>  
 New York, USA  
 pronflnet@gmail.com
 
-This document was last updated on June 11, 2015
+This document was last updated on October 13, 2015
