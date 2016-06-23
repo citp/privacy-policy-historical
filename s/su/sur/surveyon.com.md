@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224053438id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623112950id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
-
-"Christmas Gift Points" is waiting for you!
-
-Hurry! Just complete the "Christmas Gift Survey"!  
-You will Get a Chance to Receive the "Christmas Gift Points"!
-
-  * Event period: 2015-12-21 ~ 2016-01-04
-  * Winner announcement: 2016-01-05
-
-[ Back to Home ](https://web.archive.org/home)
 
 ##  Privacy Policy Effective January 1, 2014
 
