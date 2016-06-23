@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 977music.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117095233id_/http%3A//www.977music.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 977music.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623093055id_/http%3A//www.977music.com/privacy.html) for the most accurate reproduction.*
 
 # 977 Music - Our Privacy Policy
 
