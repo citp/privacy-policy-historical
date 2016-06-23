@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alive.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220090114id_/http%3A//www.alive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alive.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623124413id_/http%3A//www.alive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - alive
+# Privacy Policy | alive
 
 We pledge to fully meet and, where possible, exceed internationally recognized standards of personal data privacy protection. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality.
 
