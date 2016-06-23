@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908043043id_/http%3A//www.ceridian.com/about-us/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623025856id_/http%3A//www.ceridian.com/about-us/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Ceridian Privacy Policy
 
@@ -19,7 +19,7 @@
 
 
 
-[Corporate Privacy Policy](https://web.archive.org/about-us/corporate/corporate-privacy-policy.html "Corporate Privacy Policy") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Corporate%20Privacy%20Policy.pdf "Corporate Privacy Policy")]
+[Corporate Privacy Policy](https://web.archive.org/about-us/corporate/corporate-privacy-policy.html "Corporate Privacy Policy") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Corporate%20Global%20Privacy%20Policy%202016-04-05.pdf "Corporate Privacy Policy.pdf")]
 
 [Web Privacy Notice](https://web.archive.org/about-us/corporate/web-privacy-notice.html "Web Privacy Notice") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Web%20Privacy%20Notice.pdf "Web Privacy Notice")]
 
