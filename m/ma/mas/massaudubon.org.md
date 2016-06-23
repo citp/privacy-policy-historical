@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218091144id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623234120id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,15 @@ In 2010, the Commonwealth of Massachusetts instituted “Standards for the Prote
 
 ## Collection of Information Online
 
+### Personal Information
+
 If during your visit to our site you only browse, read pages, or download material, we cannot collect any information that will identify you personally or determine your e-mail address. Other areas of our site may request that you provide personal information such as your name, address, or e-mail address. Mass Audubon may use this information to provide information you have requested, or to extend special offers or other invitations. E-mail sent out by Mass Audubon, other than donation and program registration confirmations, includes a link that enables the recipient to unsubscribe from future  Mass Audubon e-mailings  if they so choose.
 
-## Cookies and Aggregate Information
+### Other Information
 
-Mass Audubon's website uses a technology called "cookies." A cookie is a small text file that is temporarily stored on your hard drive. When you return to our site, your web browser passes the cookie from your computer back to our website, so we can recognize you as you move through our site. At no time will the cookie reveal to others any personal information about you, including your name, address, or e-mail address, even if you have submitted this information to other areas of the site.
+Mass Audubon's website uses "cookies" and pixel tags to help us understand how people are using our media platforms. A cookie is a small text file that is temporarily stored on your hard drive. When you return to our site, your web browser passes the cookie from your computer back to our website, so we can recognize you as you move through our site. At no time will the cookie reveal to others any personal information about you, including your name, address, or e-mail address, even if you have submitted this information to other areas of the site. Pixel tags are a piece of JavaScript code on our website that may be used to track the actions of users moving back and forth from our website to other media platforms such as Facebook.
 
-Our website automatically logs information such as IP address and browser type of all visitors in order to measure the usage of our website. We use this information to analyze how visitors use our site, which helps us improve our visitors' experiences.
+Our website automatically logs information such as IP address and browser type of all visitors in order to measure the usage of our website. We also use some Google Analytics Advertising Features, such as Demographics and Interest Reporting, which collect data via [Google advertising cookies](http://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier). We use this information to analyze how visitors use our site, which helps us improve our visitors' experiences. You can opt-out of Google Analytics Advertising Features by downloading and [installing the add-on for your web browser](https://tools.google.com/dlpage/gaoptout/).
 
 ## E-mail Addresses
 
@@ -48,4 +50,4 @@ From time to time, we may use information from website visitors for new, unantic
 
 Mass Audubon does not knowingly collect personal information from children under the age of 13.  On-line visitors under 13 years of age should not submit personal information to us without permission from a parent or legal guardian.  If you believe that we may have collected information from a child under 13 without the permission of a parent or legal guardian, please [contact us](https://web.archive.org/contact-us).
 
- _Last Update: March 2014_
+ _Last Update: January 2016_
