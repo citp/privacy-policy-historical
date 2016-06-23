@@ -1,101 +1,173 @@
-> *The following text is extracted and transformed from the babynames.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217191322id_/http%3A//babynames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623121649id_/http%3A//babynames.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Our Commitment to Privacy
+(As of: January, 1 2016)
 
-ModernMom, LLC (“BB,” “we,” “our”), which owns and operates Babynames.net and other websites (collectively, the “Site”), values your trust and is committed to respecting your privacy. Below we outline our Privacy Policy so that you can make an informed decision about what information to share with us and when. This Privacy Policy explains important information regarding the use and disclosure of information provided by our website visitors (individually and/or collectively “User” or “you”) collected on the Site. By using the Site, you consent to our collection and use of your information as described in this Privacy Policy.
+Thank you for visiting Belly Ballot found at the website babynames.net (the "Site"), an IAC Search & Media, Inc. website ("we", "us" or "our"). We respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected through our website (whether existing now or in the future, collectively, the "Services"). Below we describe what information we collect when you use the Services, how we protect that information, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
 
-## The Information We Collect:
+This Privacy Policy only applies to properties we own and operate. Our properties, including the Site, may provide links to third party websites and this Privacy Policy will not apply to any information you may provide while on such third party websites. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by means of a notice on our website.
 
-**Visitor-Supplied Data:** We collect personal information provided voluntarily by visitors to the Site, such as e-mail address, name, address, telephone number, birthday, baby shower date, expected pregnancy date, comments and postings, survey data, and newsletter subscriptions. Your visitor-supplied information is collected in a variety of ways; for example, by participating in a “Belly Ballot” or through:
+## 1\. What information do we collect about you?
 
-  * E-mail Alerts: You may sign up to receive deal alerts and promotional offers by e-mail from us. In addition to collecting your e-mail address, we use clear gifs to collect information about when you open our e-mails, click on any links in the e-mails, or when you forward any e-mails to others. We may combine this information with your e-mail address and other information we collect about you.
-  * Message Boards/Content Submission Forms: Our Site may allow you to create a “Belly Ballot,” fill out online forms, participate in contests or promotions, and post comments, opinions, or other content on message boards or other publicly accessible areas of the Site. We may collect information from the forms, Belly Ballot and contest/promotion entries, and through the content you post, and may combine that information with other personal information that we collect about you.
-  * Other Information: We may also collect information from any inquiries or communication between you and BB or any communications we may receive from third parties about your use of the Site or services. We may combine this information with the other personal information we have collected about you.
+We explain below the main ways that we collect and process information about you.
 
+#### Information You Provide To Us:
 
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, phone number, username, pregnancy expectancy date potentially along with other related information, and password.  You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, birthday, baby shower date, and communications preferences. 
 
-**Non-Personal Data Collected:** We use cookies, beacons, and other tracking technologies to automatically collect information about you when you visit our Site or use our services. This information may include your IP address, web pages visited, browser type, web requests, browser language, operating system, exit/referring pages, number of clicks, platform information, date and time of a page visit or request, time spend on and/or logged in to the Site, links clicked, and other Site activity. We may combine such site information with the personal information we have collected from users.
+You may also provide personal information to us, if you choose to:
 
-## The Way We Use Information:
-
-Any personal information you supply to BB through our Site is used to supply you with services and/or information, including creating a baby name voting page for friends and family, advertising, and content. If you provide information to us, we then use this information for our operation, maintenance, and the features and functionality of the Site. If you provide any personal information or content that is voluntarily online (such as comments posted on discussion boards, messages and comments, information on your voting belly ballot, etc.), then this information will become publicly available and may be collected and used by other parties unrelated to BB. Your name is displayed to other Users when you submit comments, articles or send messages through our Site. Any content that you submit to a BB Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
-
-We will only send you communications, such as marketing communications, site launch information, customer service, prize giveaway notifications, friend and family interaction with your belly ballot, confirmations and/or update information, if you agree to this Privacy Policy by not opting-out.
-
-In general we use the information we collect, including personal information, about you for the following purposes, including, without limitation:
-
-  * To provide our services to you
-  * To send you deals and promotions
-  * To communicate with you about your account
-  * To provide troubleshooting and technical support and for other customer service purposes
-  * To develop and provide products and services tailored to your interests
-  * To provide you with customized offers and information about our products and services
-  * To display targeted advertisements to you or, in some cases, to send you news and newsletters, special offers and promotions
-  * To otherwise personalize your experiences while using the Site or our services
-  * To improve the Site and services
-  * To better understand how Users access and use our Site and services, both on an aggregated and individualized basis, for the purposes of improving our Site and services and responding to User desires and preferences
-  * For research purposes
+  * sign up to receive any information and/or services from any Service Professional (as defined in our Terms of Service) using our Site (If you submit information to a Service Professional, please note that their use and disclosure of your information is subject to their own privacy policy); 
+  * sign up to receive any of our Services and/or any of our additional services or request to receive certain communications from us (including, without limitation, the service of providing your information that you provide us to partners or third parties that may contact you to offer you pregnancy, baby care or other products, services and/or information); 
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services; 
+  * participate in some of the features accessible via the Services (for example receiving information from our Service Professionals, participating in/on our message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes); 
+  * contact us about employment opportunities posted to the Services; or 
+  * otherwise use the Services in a manner that you have requested. 
 
 
 
-## Information Disclosure to Third Parties
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature via a social networking site, you are granting us permission to access and use information about you provided by the social network.  For example, if you use a social network feature to login to a product, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an "Everyone" or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public.  You should be careful about revealing any sensitive details about yourself. 
 
-Your privacy is paramount to us. We will only share your information under the circumstances described below:
+#### Information We Collect When You Use The Services:
 
-**Agents and contractors:** Contractors and other service providers may have access to your personal information in the course of assisting in operating our business and providing products or services to you. These contractors include vendors and suppliers that provide us with technology, services, and/or content for the operation and maintenance of our Site.
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
-**Affiliates and Business Partners:** We may disclose the information we collect from you (which includes personal information) to our affiliates or business partners, including through the sale, share, or lease of said information. These affiliates and business partners may use the information for, among other things, general marketing purposes or to send you information about their products or services. These third parties may have different standards of security and confidentiality than we have and BB is not responsible for their privacy practices. If you do not want us to share your information with third parties, please e-mail us at [info@bellyballot.com](mailto:info@bellyballot.com), but please understand that such a request will likely limit your ability to take advantage of all of the features and services we offer.
+  * IP address of your computer; 
+  * Unique mobile device identifier; 
+  * Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.); 
+  * Your preferences and settings (time zone, language, etc.); 
+  * Internet provider or mobile carrier name; 
+  * The URL of the last webpage you visited before visiting the Website; 
+  * Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments); and 
+  * If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).  Please see the section "Mobile Device Location Information" below for further information. 
 
-**Disclosure for legal reasons:** We may release personal information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, or illegal conduct. In the event that we are legally compelled to disclose your personal information to a third party, we will make a reasonable effort to notify you unless doing so would violate the law or court order.
 
-**Aggregated, non-personal information:** We may share aggregated information about you with third parties, including for marketing, advertising, research, or other purposes. This is information that is combined with the non-personal information of other Users and does not allow you to be identified or contacted. For example, if we display advertisements on behalf of a third party, we may share aggregate, demographic information with that third party about the Users to whom we displayed the advertisements. Depending on the circumstances, we may or may not charge third parties for this aggregated information, and we may or may not limit the third parties’ use of the aggregated information.
 
-**Changes in our corporate structure:** If all or part of our company is sold, merged or otherwise transferred to another entity, the personal information you have provided at this site will be transferred as part of that transaction.
+#### Email and Social Media Invites:
 
-## Your Choices
+We have features that allow you to send an email to yourself and/or others and to invite others via social media (e.g., Facebook) to interact with you and/or our Site. If you choose to use to invite others in connection with your use of the Site, you will be required to provide the e-mail address or addresses that will be used in the notification. Upon form submission an email will be generated to your recipient(s) inviting them to visit the URL you have recommended.
 
-We offer you choices when collecting your personal information whenever reasonably possible. You are free to decline to provide any personal information, though failure to do so may hinder our ability to provide you with certain services or options available through our Site. User-submitted content to our Site cannot be removed and will remain subject to this Privacy Policy. You are free to refuse cookies and/or use or disable other tracking technologies in your browser; however, doing so doing so may affect and/or diminish certain features and services offered through our Sites.
+## 2\. How do we use the information we collect?
 
-#### You Unsubscribe from BB E-mails
+We use the information we collect from and about you for a variety of purposes, including to:
 
-If you have signed up for our services, we may send you daily e-mails about current deals and promotional offers. We may also, from time to time, solicit your feedback or send you informational e-mails notifying you of updates to Site and services and the like. If you do not wish to receive e-mails from us, you may opt out of future e-mails by clicking the unsubscribe link in any such e-mail, or by e-mailing us at [info@bellyballot.com](mailto:info@bellyballot.com).
+  * verify your eligibility for our Services; 
+  * provide you the Services, including providing your information to third parties who may contact you to offer you goods or services related to the information you provided and/or enabling you to contact Service Professionals through our listing services, advertising and content services (for example, Service Professional will be able to contact you via e-mail, postal mail, telephone, and/or mobile devices if you fill out a request for more information about their services); 
+  * respond to your queries with the best possible answers and search results; 
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions (included through targeted advertising); 
+  * administer our Services, diagnose technical problems and otherwise manage our business; 
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section "Reviewing, changing or deleting information" for further information about how you can control these communications; 
+  * send you questions from other users that you may be able to answer if you have registered with our Services; 
+  * to send you deals and promotions; 
+  * deliver prizes in connection with contests and sweepstakes, or otherwise facilitate the use of our Services; 
+  * provide you with customer support; 
+  * enable us to show you ads that are more relevant to you; and 
+  * perform functions as otherwise described at the time of collection. 
 
-#### Public Forums and Discussion Boards
 
-Our Site also offers publicly accessible message boards and similar forums. You should be aware that any information you provide in these areas is visible to and may be read, collected, used or disclosed by other Users or public visitors to the Site. We may collect information about the content you post and may combine it with other personal information that we collect about you. In addition, you are solely responsible for any content you post to the Site. Although we do not review User content before it is posted, we reserve the right to remove any content at any time, and without any notice.
 
-#### How We Respond to Do Not Track Signals
+Please note that if you voluntarily provide any personal information or content through the Services and/or Site (e.g., profiles, username, in comments, on message boards, etc.) this information will be publicly available and may be used by unrelated third parties. 
 
-Certain web browsers offer a privacy preference, sometimes referred to as “do not track,” allowing the user to attempt to inform a website of his/her privacy preferences in an effort to limit the information collected as he/she visits websites over time. BB attempts to recognize and respond to your web browser’s “do not track” signal. However, because the internet and technology is still developing, and despite your use of a “do not track” signal, we may still collect your information and use it in the manner detailed in this Privacy Policy. To the extent we do recognize and respond to your “do not track” signal, and, as a result, not collect certain information, your use of a “do not track” signal may affect and/or diminish certain features and services offered through our Site.
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. In those instances, and excluding information you provide through the Site for the purposes of contacting a physician, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
 
-## Our Commitment To Data Security
+## 3\. How do we share the information we collect?
 
-We take reasonable measures to preserve the privacy of your personal information, including physical and technical safeguards. However the personal information you submit to us is transmitted through channels outside of our control and is done so at your own risk. Personal information may be relayed to entities listed on our Site for the purpose of providing this information to the entity intended by the User to receive it. We do make an effort to provide data security, however we cannot guaranty that your information will not be accessed, disclosed, altered, or destroyed by breach of any of our safeguards. Please be aware that despite our efforts, no data security measures can guaranty 100% security all of the time.
+We will share your information in the following ways:
 
-#### Third-Party Links
+  * **Our suppliers, subcontractors and business partners ("service providers"):** We may share your data with our service providers who process your personal information to provide services to us or on our behalf. 
+  * **Service Professionals:** We enable you to request information and/or services from Service Professionals by filling out a registration or similar service request form for specific services from those Service Professionals. When you fill out and submit a service request form through our Site, you consent to our providing your personal information and request to the Service Professionals. Sharing this information with the Service Professionals allows them to contact you using the contact information you provided. Additionally, we have other contractual partners that fulfill service requests or that utilize their own Service Professionals to supplement our offering, and we share your information with them in order to attempt to provide the services requested. 
+  * **Companies within the IAC Group of Companies:** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp. 
+  * **Fraud prevention:** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. 
+  * **Law enforcement purposes:** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. 
+  * **Sale or merger of our business:** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets). 
+  * **Advertisers and advertising networks:** Advertisers and advertising service providers place ads (including sponsored links in search results) on our Site, in our mobile applications and elsewhere. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Site and Services.  They also may use cookies and other technologies to collect this information when you visit our site as described below. 
 
-The Site may contain links to other sites that are not owned or controlled by BB. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to review the privacy statements of each site that you visit. This Privacy Policy applies only to information collected through the Site and the services provided through the Site by BB.
 
-## Our Commitment to Children’s Privacy:
 
-Protecting the privacy of the very young is especially important. For that reason, we do not collect or maintain information at our website from those we actually know are under 13, and our website content is not structured to attract anyone under 13. We do not knowingly collect personally identifiable information from, or target our Site to, children under the age 13. In accordance with the Children’s Online Privacy Protection Act of 1998, if we discover that a child under 13 has provided us with personally identifiable information, we will promptly remove it from our systems.
+Please note that any third parties to whom we disclose personal information may have their own privacy policies that describe how they use and disclose personal information. These third parties may also have serves located inside or outside the U.S. Those policies will govern the use, handling, and disclosure of your personal information once we have shared it with those third parties. We encourage you to visit those third parties websites to learn more about their privacy practices.
 
-## International Users
+## 4\. Cookies and Online Advertising:
 
-BB websites are hosted in the United States and are intended for and directed to users in the United States. If you are accessing the Site from any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which is governed by U.S. law and this Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer.
+#### Cookies:
 
-## Changes to this Policy
+We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small file that is stored on your device and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term "cookies" in this policy to refer to cookies and all such similar technologies.
 
-We reserve the right to, at any time, add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review our Privacy Policy from time to time to ensure that you continue to agree with all of its terms. That being said, we will continue to notify you about material changes in the way we treat personal information by sending a notice to the e-mail address specified in your account.   If you don’t agree with the new policy, you always have the option of ceasing to use the Site an e-mailing us at [info@bellyballot.com](mailto:info@bellyballot.com) to request that we delete your personal information. Our current policy, identified by its effective date, will be posted on the Site, and you should check it frequently.
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your device, and (2) third party cookies, which are served by a third party on our behalf.  Cookies have a lot of jobs.  For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings.  We use third party cookies for functionality, performance / analytics, advertising and social media purposes.  Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests.  To understand more about certain types of cookies and pixel tags, click [here](http://www.allaboutcookies.org/).
 
-#### Anti-Spam Policy
+#### How To Control Or Delete Cookies:
 
-BB has a no tolerance spam policy. BB does send a significant volume e-mail newsletters to our Users or subscribers. Every e-mail contains a mandatory unsubscribe link – which allows for any User to easily unsubscribe from all future mailings from BB. Our customer support team actively monitors e-mails going to a large number of contacts and proactively removes bounced e-mail addresses. In the unlikely event that you receive any message from us or sent using our systems that may be considered to be spam, please contact us via e-mail at [info@bellyballot.com](mailto:info@bellyballot.com).
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block certain third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block certain cookies (including certain first-party cookies such as the ones we use to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the "options" or "preferences" menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the "Help" option in your browser for more details.
 
-## How To Contact Us
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677)
 
-For any inquiries, please e-mail us at [info@bellyballot.com](mailto:info@bellyballot.com)
 
-Last Modified: October 6, 2015
+
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website.  Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
+
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.
+
+#### Online Behavioral Advertising and Mobile:
+
+Advertisers and advertising service providers place ads (including sponsored links in search results) on our Site and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you.  They use the data to enable them to track your activity across various sites and applications where they display ads or record your activities, so they can show ads that they or their partners consider relevant to you.  You may opt-out of receiving targeted online advertising from certain advertising service providers that is delivered on our Site and other websites by visiting the following websites:
+
+  * Network Advertising Initiative (<http://www.networkadvertising.org/>) 
+  * Digital Advertising Alliance (<http://www.aboutads.info/consumers>) 
+
+
+
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our Site.
+
+If you are using an IACSAM mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
+
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: [http://oo.apple.com](http://oo.apple.com/). If you are using an iOS6 device, you also may limit the delivery of tailored in-application ads by: Open Settings and tap "General" then tap "About"; Scroll to the bottom of About and tap "Advertising"; Flip "Limit Ad Tracking" to ON.  For iOS7 and above, you can find the "Limit Ad Tracking" option by tapping "Settings", "Privacy" and then "Advertising". If you are using an Android device and you do not wish to receive tailored in-application ads, you can open the Google Settings app on your device, select "Ads" and follow the instructions.  We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
+
+#### Mobile Device Location Information:
+
+When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded.  Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you.  If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
+
+  * If you are using an Apple device, open Settings and then click on "General," then "Reset," then "Reset Location and Privacy." This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information. App-specific location settings may be available by opening Settings and clicking on "Privacy" and then "Location". 
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services. 
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information. 
+
+
+
+## 5\. Reviewing, changing or deleting information
+
+If you would like to review or request a change to or deletion of personal information we have collected from you, please contact the IACSAM Privacy Officer:
+
+IAC Search & Media, Inc.   
+Attn: Privacy Officer   
+555 12th Street, 11th Floor   
+Oakland, CA 94607 
+
+**Do Not Track.** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. Third parties may collect personally identifiable information about an individual consumer's online activities over time and across different Web sites when a consumer uses our Site; we do not control whether or how they respond to DNT signals. 
+
+## 6\. How do we keep the information we collect secure?
+
+We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage.  We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs.  However, because no security system can be 100% effective, we cannot guarantee the security of any information we may have collected from or about you.
+
+## 7\. How long do we keep the information we collect?
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request.  We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
+
+## 8\. Children under 13
+
+The Services are not intended for users under the age of 13.  We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.
+
+## 9\. Your California Privacy Rights
+
+If you are a resident of California, in addition to the rights set forth above, you have the right to send us a request at the designated address to receive the following information, with certain exceptions:
+
+  * the categories of personal information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; 
+  * the names and addresses of the third parties that received that information’ and 
+  * if the nature of any such third party’s business cannot be determined from their name, examples of the products or services marketed. 
+
+
+
+## 10\. Consent to Transfer of Information
+
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in servers in the U.S. or other countries that have privacy laws that may differ significantly from those of your location. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
