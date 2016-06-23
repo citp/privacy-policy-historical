@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075511id_/https%3A//www.psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623120111id_/http%3A//www.psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - National Psoriasis Foundation
+# Privacy Policy | National Psoriasis Foundation
 
 The National Psoriasis Foundation (NPF) respects the privacy of each individual who contacts us. We are grateful for your support and the critical role you play in helping us continue our valuable work. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
