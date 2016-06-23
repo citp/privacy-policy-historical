@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocode4share.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223044144id_/http%3A//promocode4share.com/privacy-policy-for-promocode4share-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocode4share.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623210447id_/http%3A//promocode4share.com/privacy-policy-for-promocode4share-com) for the most accurate reproduction.*
 
 # Privacy Policy for PromoCode4Share.com | Promocode 4 Share
 
