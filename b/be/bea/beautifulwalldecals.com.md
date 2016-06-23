@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautifulwalldecals.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211132005id_/http%3A//www.beautifulwalldecals.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulwalldecals.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623220310id_/http%3A//www.beautifulwalldecals.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement
 
