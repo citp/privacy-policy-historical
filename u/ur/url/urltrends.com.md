@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urltrends.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316233937id_/https%3A//www.urltrends.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urltrends.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623145430id_/https%3A//www.urltrends.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UrlTrends
 
