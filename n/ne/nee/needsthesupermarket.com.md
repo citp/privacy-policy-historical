@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the needsthesupermarket.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718011800id_/http%3A//www.needsthesupermarket.com/content/5-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needsthesupermarket.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623183840id_/http%3A//www.needsthesupermarket.com/content/5-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Needsthesupermarket.com
 
 **Privacy Policy**
 
