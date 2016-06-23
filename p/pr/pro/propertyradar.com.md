@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyradar.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316005316id_/http%3A//www.propertyradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyradar.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623203832id_/https%3A//www.propertyradar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyRadar - previously ForeclosureRadar
 
@@ -12,17 +12,17 @@ PropertyRadar understands that privacy is important. This Privacy Policy applies
 
 **Email Alerts, News or Reports** – When you sign up for Email Alerts, News or Reports we request your email address and demographic information (such as your occupation or interest in real estate). We use this information to provide the requested alerts and to enhance our services and provide a more personalized experience.
 
-**Referrals -** If you choose to use our referral services to tell another party about our site, or send them information from our site, we will ask you for the parties name and email address. We will automatically send the party a one-time email with the information you requested we send, and an invitation to visit the site. We do not store this information and use it for the sole purpose of fulfilling your request. 
+**Referrals –** If you choose to use our referral services to tell another party about our site, or send them information from our site, we will ask you for the parties name and email address. We will automatically send the party a one-time email with the information you requested we send, and an invitation to visit the site. We do not store this information and use it for the sole purpose of fulfilling your request. 
 
 **User Communication** – When you send email or other communication to PropertyRadar, we may retain those communications in order to respond to your inquiry.
 
-**Cookies -** When you visit PropertyRadar we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. Cookies are used to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some PropertyRadar features and services may not function properly if your cookies are disabled.
+**Cookies –** When you visit PropertyRadar we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. Cookies are used to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some PropertyRadar features and services may not function properly if your cookies are disabled.
 
 **Web Beacons** – We may use clear gifs or other technology to monitor your use of our site or if you have viewed an HTML-based email that we send you. This allows us to gauge how you use our site and the effectiveness of our advertising and communications.
 
 **Log information** – When you use PropertyRadar services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We use this information to enhance our services.
 
-**Links -** PropertyRadar may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
+**Links –** PropertyRadar may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
 
 ## Communications from the Site
 
