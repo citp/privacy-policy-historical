@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilmoviegallery.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601034539id_/http%3A//www.tamilmoviegallery.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilmoviegallery.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623152517id_/http%3A//www.tamilmoviegallery.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer - Tamil Movie Gallery
 
