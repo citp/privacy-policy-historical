@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the womansday.com.au privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222131113id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansday.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065407id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Bauer Media Group
 
 ### BAUER MEDIA PTY LTD: PRIVACY POLICY
 
-In this policy “we”, “us’ and “our” means Bauer Media Pty Limited, its subsidiaries and affiliated companies.Please read this policy carefully as it describes the way in which we collect and handle your personal information. We may update or revise this policy from time to time. If we elect to update or revise this policy, we will post the date on which that revision takes effect at the end of this policy. Please be aware that you have no obligation to provide any personal information requested by us.  However, if you choose to withhold your personal information, we may not be able to provide you with the services or products that depend on the collection and use of that information.
+In this policy “we”, “us’ and “our” means Bauer Media Pty Limited, its subsidiaries and affiliated companies.  Please read this policy carefully as it describes the way in which we collect and handle your personal information. We may update or revise this policy from time to time. If we elect to update or revise this policy, we will post the date on which that revision takes effect at the end of this policy. Please be aware that you have no obligation to provide any personal information requested by us.  However, if you choose to withhold your personal information, we may not be able to provide you with the services or products that depend on the collection and use of that information.
 
 1 OUR PRIVACY COMMITMENT
 
