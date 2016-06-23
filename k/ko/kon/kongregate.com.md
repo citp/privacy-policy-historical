@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225002917id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623053146id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -52,11 +52,11 @@ From time to time we may include on the Site, Mobile Applications and/or SM Game
 
 We sometimes work with third parties to add features, advertisements, or offers to our Site, Mobile Applications, or SM Games. These third parties may place cookies on your browser when you visit certain pages, or collect cookies that they have previously placed, along with the URL of the page you visited. We may have to pass these providers a non-personally identifiable user number specific to your Mobile Application to properly credit your account. Additionally, the Site, Mobile Applications, and/or SM Games may utilize third party tracking services to anonymously analyze your usage activity, which will be used to improve the Site, Mobile Application, and SM Games experiences. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This Privacy Policy does not cover those third parties’ use of data.
 
-To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Kongregate users who are your friends on Facebook will be shown your Kongregate username if you have both linked your Facebook accounts. For more detail on how this feature works, please see our [FAQ](https://kong.zendesk.com/).
+To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Kongregate users who are your friends on Facebook will be shown your Kongregate username if you have both linked your Facebook accounts. For more detail on how this feature works, please see our [FAQ](https://kong.zendesk.com/?external-link=true).
 
 ## Security
 
-We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government’s website at [www.onguardonline.gov](http://www.onguardonline.gov/).
+We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government’s website at [www.onguardonline.gov](http://www.onguardonline.gov/?external-link=true).
 
 ## Children’s Privacy
 
@@ -64,9 +64,9 @@ The Site, Mobile Applications, and SM Games are designed for and directed at peo
 
 For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
 
-  * [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
-  * [www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm)
-  * [www.onguardonline.gov/features/feature-0002-featured-info-parents](http://www.onguardonline.gov/features/feature-0002-featured-info-parents)
+  * [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html?external-link=true)
+  * [www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm?external-link=true)
+  * [www.onguardonline.gov/features/feature-0002-featured-info-parents](http://www.onguardonline.gov/features/feature-0002-featured-info-parents?external-link=true)
 
 
 
