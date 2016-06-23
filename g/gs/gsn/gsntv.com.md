@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsntv.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209235303id_/http%3A//www.gsntv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsntv.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151226id_/http%3A//www.gsntv.com/privacy) for the most accurate reproduction.*
 
 # GSNTV | Privacy
 
@@ -40,7 +40,7 @@ IP Addresses: An IP address is a number that is assigned to your computer or net
 
 2\. Use of Information Collected
 
-Except as specifically outlined in this Privacy Policy, we do not share your PII with non-affiliated third parties without your permission. We may, however, share your PII with our owners and other related entities, including Sony Pictures Entertainment, DirecTV, and their parents, subsidiaries, or affiliated companies, in order to provide portions of the Services (e.g., to provide fulfillment for prizes won in a GSN sweepstakes or contest), or to provide other support for a GSN promotion. Please refer to the individual privacy policies of our related entities for details concerning how they handle your PII and non-personal information.
+Except as specifically outlined in this Privacy Policy, we do not share your PII with non-affiliated third parties without your permission. We may, however, share your PII with our owners and other related entities, including Sony Pictures Entertainment, AT&T Entertainment Group, and their parents, subsidiaries, or affiliated companies, in order to provide portions of the Services (e.g., to provide fulfillment for prizes won in a GSN sweepstakes or contest), or to provide other support for a GSN promotion. Please refer to the individual privacy policies of our related entities for details concerning how they handle your PII and non-personal information.
 
 We may, however, provide information to select outside companies when we believe their products or services may be of interest to you. If you provide your PII directly to a third party, your direct interactions with that third party will be subject to the third party’s privacy policy and not this Privacy Policy. Therefore, if you later decide that you do not want that third party to use your information, you will need to contact the third party directly. In addition, GSN may share your PII or other information with third parties under the following circumstances:
 
