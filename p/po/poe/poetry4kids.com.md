@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126235209id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623155645id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
 
 # Kenn Nesbitt's Poetry for Kids - Content
 
@@ -63,6 +63,6 @@ kenn@poetry4kids.com
 
 Copyright © by Kenn Nesbitt's Poetry for Kids All Right Reserved.
 
-Published on: 2004-06-21 (89085 reads)
+Published on: 2004-06-21 (93185 reads)
 
 [ Go Back ]
