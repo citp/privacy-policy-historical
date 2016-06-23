@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229030604id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623094419id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-This site http://www.cyberciti.biz and http://nixcraft.com [ our forum ] ("nixCraft") hosts the project, documents, and tutorials related to open source software's, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:
+This site http://www.cyberciti.biz and http://nixcraft.com [ our forum ] (“nixCraft”) hosts the project, documents, and tutorials related to open source software’s, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:
 
   * You wish to post your message on our forum.
   * You wish to post comments on our blogs or tutorials.
@@ -25,7 +25,7 @@ nixCraft collect and use the data contained in server log files. The information
 
 ### Google Analytics
 
-We also use Google Analytics on this website. A small amount of **anonymous data** is sends to the Google's servers such as your ISP, browser, operating system, geo-location and so on. We use this reports to improve our site's articles (content), and design for our visitors. Google Analytics put cookies on your computer. Please see the [Google Analytics Terms of Service](http://www.google.com/analytics/terms/us.html) for more information.
+We also use Google Analytics on this website. A small amount of **anonymous data** is sends to the Google’s servers such as your ISP, browser, operating system, geo-location and so on. We use this reports to improve our site’s articles (content), and design for our visitors. Google Analytics put cookies on your computer. Please see the [Google Analytics Terms of Service](http://www.google.com/analytics/terms/us.html) for more information.
 
 ### Cookies and Web Beacons
 
@@ -61,7 +61,7 @@ We use third-party advertising companies to serve ads when you visit our website
 ##### Google Advertising Cookie and Privacy Policies
 
   * Google, as a third party vendor, uses cookies to serve ads on Site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Site and other sites on the Internet.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to Site and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy](http://www.google.com/privacy_ads.html) policy.
 
 
@@ -80,7 +80,7 @@ No. This site is not directed to children under the age of 13. nixCraft does not
 
 We don’t.
 
-### How do you use information collected from "Google Analytics" and log files?
+### How do you use information collected from “Google Analytics” and log files?
 
 nixCraft may use the anonymous data or information to improve this site, including, but not limited to:
 
