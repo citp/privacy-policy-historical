@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220135503id_/http%3A//www.eastman.com/Pages/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623050746id_/http%3A//www.eastman.com/Pages/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
