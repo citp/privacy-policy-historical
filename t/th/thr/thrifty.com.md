@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905215101id_/https%3A//www.thrifty.com/AboutUs/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623190310id_/https%3A//www.thrifty.com/AboutUs/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Thrifty Online Privacy Policy
 
@@ -76,8 +76,6 @@ We operate a network of licensees in provision of our services worldwide and ar
 
 We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
 
-The Hertz Corporation and those of its subsidiaries operating within the United States of America, including us, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  On behalf of itself and such subsidiaries, The Hertz Corporation has certified that it and we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  You can visit http://www.export.gov/safeharbor/ to learn more about the U.S.-E.U. and U.S.-Swiss Safe Harbor programs.
-
 **Changes  ** **  
 ** \--------------------------------------------------------
 
@@ -96,17 +94,17 @@ We collect the personal data and the non-personal data we need to process your r
 
   * Name, address and contact details, including telephone and mobile number, and email address; 
   * Date and place of birth, passport number and driver’s license number and, upon our request, a copy of your driver’s license; 
-  * Your gender and photo;
+  * Your gender and photo; 
   * Employer(s) name, address and phone number; 
   * Credit card information; 
-  * Frequent flyer and other membership reward or loyalty program information;
-  * Affiliations with or sponsorships by companies, associations, colleges or cities;
-  * Location data such as geographic location of electronic devices used to contact us or to access our mobile “apps” or of the vehicle you have rented;
-  * Information regarding the vehicle rented and its operation during your rental;
+  * Frequent flyer and other membership reward or loyalty program information; 
+  * Affiliations with or sponsorships by companies, associations, colleges or cities; 
+  * Location data such as geographic location of electronic devices used to contact us or to access our mobile “apps” or of the vehicle you have rented; 
+  * Information regarding the vehicle rented and its operation during your rental; 
   * Rental charges you incur and other information relating to your transactions; 
   * Information transmitted by your computer’s browser software; 
-  * Itinerary information, including airline and/or flight information; and
-  * Information about your credit history or other publicly available information about you from consumer reporting agencies.
+  * Itinerary information, including airline and/or flight information; and 
+  * Information about your credit history or other publicly available information about you from consumer reporting agencies. 
 
 
 
@@ -125,23 +123,23 @@ We collect personal data directly **from you** in connection with a reservation
 
   * When you call our reservation, customer service, emergency road-side assistance, customer contact or member care centers; 
   * On our websites; 
-  * On our mobile “apps”;
-  * On our official third party social network pages;
-  * Through your computer’s web browser;
+  * On our mobile “apps”; 
+  * On our official third party social network pages; 
+  * Through your computer’s web browser; 
   * At rental locations; 
-  * Through our in-vehicle technology or through other telematic devices; and
-  * When you join our membership programs.
+  * Through our in-vehicle technology or through other telematic devices; and 
+  * When you join our membership programs. 
 
 
 
 We also gather personal data about you from a variety of **other sources** , which may include:
 
   * Reservations you make with us through licensees, travel agents or brokers; 
-  * Transactions you complete with us and our licensees, including options you take, charges you incur and any incidents or accidents that may occur;
-  * Corporate account sponsors, CDP sponsors, sponsors of promotion codes and sponsors of special discount codes;
-  * To the extent you have made such information available, from third party social networks;
-  * Consumer reporting agencies; and
-  * Other companies that have business relationships with us, such as our licensees, affiliates and business partners, including airlines, hotels and insurance companies.
+  * Transactions you complete with us and our licensees, including options you take, charges you incur and any incidents or accidents that may occur; 
+  * Corporate account sponsors, CDP sponsors, sponsors of promotion codes and sponsors of special discount codes; 
+  * To the extent you have made such information available, from third party social networks; 
+  * Consumer reporting agencies; and 
+  * Other companies that have business relationships with us, such as our licensees, affiliates and business partners, including airlines, hotels and insurance companies. 
 
 
 
@@ -160,25 +158,25 @@ Cookies help improve the quality of your visits to websites, for example, but 
 
 We use cookies to: 
 
-  * Track your use of our websites during a single visit, remember the data you provide and the choices you make as you progress from page to page (“ **session cookies** ”); and
+  * Track your use of our websites during a single visit, remember the data you provide and the choices you make as you progress from page to page (“ **session cookies** ”); and 
 
 
-  * Recognize you at your next visit (“ **persistent cookies** ”).
+  * Recognize you at your next visit (“ **persistent cookies** ”). 
 
 
 
 Third party cookies may also be used on our websites for the purpose of:
 
-  * Such third parties providing goods or services to you (for example, but without limitation, an insurance carrier paying or reimbursing you for a vehicle or equipment in connection with insurance replacement rentals);
+  * Such third parties providing goods or services to you (for example, but without limitation, an insurance carrier paying or reimbursing you for a vehicle or equipment in connection with insurance replacement rentals); 
 
 
-  * Performing services on our behalf;
+  * Performing services on our behalf; 
 
 
-  * Facilitating business transactions with or through such third parties; or
+  * Facilitating business transactions with or through such third parties; or 
 
 
-  * Providing advertisements to you.
+  * Providing advertisements to you. 
 
 
 
@@ -236,7 +234,7 @@ As you may be aware, there is no completely secure method of transmitting or sto
 We take commercially reasonable measures to protect against the loss, misuse and unauthorized access or disclosure, alteration and destruction of your personal data by aiming to maintain appropriate physical, procedural and electronic safeguards to protect your personal data, including:
 
   * Restricting access to personal data to our employees and service providers on a “need to know” basis; 
-  * Enforcing policies and procedures for our employees in their handling of personal data; and
+  * Enforcing policies and procedures for our employees in their handling of personal data; and 
   * Using technologies designed to safeguard data during its transmission, such as [SSL encryption](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#SSL_encryption "SSL encryption") for the data you provide on our websites. 
 
 
@@ -255,7 +253,7 @@ We try to strike a balance between the security of your data and your convenienc
 
 For example, but not limitation, we will send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that our message, if misrouted or intercepted, could be read more easily than encrypted messages. For this reason, please do not include confidential information, such as your credit card number or account passwords, in any e-mail or text you send to us or on any posting you make to a public area of a third party social network page, especially since any such posting immediately becomes public.
 
-For a more secure way to communicate with us over the Internet, please click on the “ **Contact Us** ” link on any page of www.thrifty.com, and follow our instructions.[EW2] 
+For a more secure way to communicate with us over the Internet, please click on the “ **Contact Us** ” link on any page of www.thrifty.com, and follow our instructions. 
 
 **Access and Correction**
 
@@ -263,7 +261,7 @@ For a more secure way to communicate with us over the Internet, please click on 
 
 You may access and review your personal data, change it and correct factual errors as follows:
 
-  * If you are a member of Blue Chip, you may log into your member profile through under the “My Blue Chip” tab on [www.thrifty.com](http://www.thrifty.com/).
+  * If you are a member of Blue Chip, you may log into your member profile through under the “My Blue Chip” tab on [www.thrifty.com](http://www.thrifty.com/). 
 
 
 
@@ -286,11 +284,11 @@ We will share your personal data among ourselves, our agents, our licensees and
 
   * Make your rental reservations; 
   * Process and/or confirm your transactions; 
-  * Provide you with the services you have requested or, where applicable, enhanced rental services, such as services provided in connection with our membership programs and similar services;
+  * Provide you with the services you have requested or, where applicable, enhanced rental services, such as services provided in connection with our membership programs and similar services; 
   * Provide you services in connection with your rental;; 
   * Provide you with customer assistance, including, but not limited to, assistance after you have initiated but not completed a reservation;  
-  * Bill and collect amounts owed in connection with your rentals and membership(s); and
-  * For customer satisfaction and market research purposes and to otherwise help us improve our services.
+  * Bill and collect amounts owed in connection with your rentals and membership(s); and 
+  * For customer satisfaction and market research purposes and to otherwise help us improve our services. 
 
 
 
@@ -298,9 +296,9 @@ We will share your personal data among ourselves, our agents, our licensees and
 
 We may use your personal data to communicate with you regarding:
 
-  * Any reservation you initiate or rental transaction;
-  * Your membership/status in one of our membership programs; or
-  * Changes to the terms or features of any of our membership programs to which you belong.
+  * Any reservation you initiate or rental transaction; 
+  * Your membership/status in one of our membership programs; or 
+  * Changes to the terms or features of any of our membership programs to which you belong. 
 
 
 
@@ -313,7 +311,7 @@ We will also share your information with companies you use in connection with yo
   * Your credit card provider and other companies that process your charges; 
   * Any company or organization that is paying all or part of your rental charges; 
   * Any intermediary you use, such as a travel agent or broker, in relation to any aspect of your rental; and 
-  * Any operator of a membership program for which you are rewarded for renting with us, such as a frequent flyer program.
+  * Any operator of a membership program for which you are rewarded for renting with us, such as a frequent flyer program. 
 
 
 
@@ -351,16 +349,16 @@ _If you do not wish us to disclose your personal data to the sponsor of a promot
 
 We may use, share and disclose your personal data for legal reasons as we believe necessary or appropriate, including:
 
-  * under applicable law, including laws outside your country of residence;
-  * to process, handle or otherwise respond to claims for damages, including claims or demands for bodily injury or property damage;
-  * to comply with legal process;
-  * to respond to requests from public and government authorities including public and government authorities outside your country of residence;
-  * to enforce our terms and conditions;
-  * to recover our vehicles, equipment or any monies due, such as through debt collection agencies;
-  * to protect our operations or those of any of our affiliates;
-  * to assess your credit worthiness
-  * to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and
-  * to allow us to pursue available remedies or limit the damages that we may sustain.
+  * under applicable law, including laws outside your country of residence; 
+  * to process, handle or otherwise respond to claims for damages, including claims or demands for bodily injury or property damage; 
+  * to comply with legal process; 
+  * to respond to requests from public and government authorities including public and government authorities outside your country of residence; 
+  * to enforce our terms and conditions; 
+  * to recover our vehicles, equipment or any monies due, such as through debt collection agencies; 
+  * to protect our operations or those of any of our affiliates; 
+  * to assess your credit worthiness 
+  * to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and 
+  * to allow us to pursue available remedies or limit the damages that we may sustain. 
 
 
 
@@ -420,7 +418,7 @@ Please note the following points about the marketing choices you make:
   * If you change your address, we will continue to follow your directions for your most recent address provided from your ‘unsubscribe’ click noted above, your Profile, or the My Privacy Choices form you completed that is associated with you for the implicated  membership program. In order for us to continue to follow your directions at a new address, you will need to update your Profile online or complete another My Privacy Choices form with your updated information and provide it to us with your changed contact information; and 
 
 
-  * If you choose not to receive marketing messages from us, you may not be able to receive certain benefits connected to any program to which you belong, such as promotions involving free rental days (if applicable). You will, however, to the extent permitted by law continue to receive applicable program updates and other membership information.
+  * If you choose not to receive marketing messages from us, you may not be able to receive certain benefits connected to any program to which you belong, such as promotions involving free rental days (if applicable). You will, however, to the extent permitted by law continue to receive applicable program updates and other membership information. 
 
 
 
@@ -436,12 +434,10 @@ We hope this policy answers your questions about our collection, use and disclos
 
 **_Security:_**  If you have reason to believe that the personal data we hold about you, such as your member number in any of our membership programs, is no longer secure, you must immediately notify us of the problem by either clicking **“Contact Us”**  on any page of [www.thrifty.com](http://www.thrifty.com/); or calling as follows:
 
-  * Customers in the United States contact Customer Care at : 1-800-334-1705
-  * Customers outside the United States:  1-405-775-3400
+  * Customers in the United States contact Customer Care at : 1-800-334-1705 
+  * Customers outside the United States:  1-405-775-3400 
 
 
-
-**_US-EU and US-Swiss Safe Harbor Enforcement:_** Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of [www.thrifty.com](http://www.thrifty.com/); or writing to us at any of the addresses below.   As a subsidiary of The Hertz Corporation, we have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 **_Contact addresses:_**
 
