@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215103048id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623055458id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
@@ -9,7 +9,7 @@ Welcome to Judy's Book! This agreement describes the legal framework in which yo
 Business Owner paid plans  
 **
 
-  * I understand that I will be charged a **non-refundable** fee and billed on a recurring basis unless I cancel within before the anniversary.
+  * I understand that I will be charged a **non-refundable** fee and that my subscription will be automatically renewed and billed on a recurring basis on the same day the following month or year depending on the plan, unless I cancel before the anniversary. After renewal, cancellation will apply only for future billing cycle.
   * I understand that Judy's Book editors, in their sole and final judgment, shall determine the suitability, placement, title and description of the business listings listed in the Judy's Book directory.
   * The business I am submitting is operating in the United States of America and a Legal business.
   * By signing up to this service, you are agreeing that you are the owner of the business you are claiming
@@ -151,7 +151,8 @@ We welcome your feedback. If you have any comments or concerns about this privac
 Help: [Send feedback](https://web.archive.org/HelpPages/Custom/Cannot-find-what-I-am-looking-for.aspx)
 
 Postal Mail:  
-733 7th Ave, STE 212  
+ADG Holdings Inc.  
+733 7th Ave, STE 204  
 Kirkland, WA 98037
 
 **Data Changes  
