@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the materialup.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231153803id_/http%3A//www.materialup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the materialup.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623104358id_/http%3A//www.uplabs.com/privacy) for the most accurate reproduction.*
 
-# MaterialUp Privacy Policy – MaterialUp
+# MaterialUp Privacy Policy – UpLabs
 
   * ## TYPES OF DATA COLLECTED
 
@@ -97,7 +97,7 @@ For operation and maintenance purposes, this Application and any third party ser
 
   * #### The rights of Users
 
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to support@materialup.com
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to matt@uplabs.com
 
   * #### This Application does not support “Do Not Track” requests.
 
