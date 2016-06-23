@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookoo.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103020210id_/http%3A//www.bookoo.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookoo.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623024835id_/http%3A//www.bookoo.com/privacy.jsp) for the most accurate reproduction.*
 
 # bookoo! the world's funnest darn tootin' yard sales!
 
