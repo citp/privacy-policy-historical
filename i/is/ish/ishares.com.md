@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909165938id_/http%3A//www.ishares.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623202904id_/https%3A//www.ishares.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
