@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922113444id_/https%3A//www.virtualpbx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005131id_/http%3A//www.virtualpbx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[SIGN UP](https://web.archive.org/products/office-plans/ "Sign-Up")
 
 VirtualPBX.com, Inc.® respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site.
 
