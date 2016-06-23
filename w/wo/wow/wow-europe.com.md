@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wow-europe.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119153727id_/http%3A//eu.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-europe.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623120411id_/http%3A//eu.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment: Privacy Policy
 
 ### Blizzard Entertainment® Online Privacy Policy
 
-Blizzard Entertainment Inc. (referred to herein as "Blizzard"), a US company located at 16215 Alton Parkway,Irvine, CA 92618, United States adhering to the Safe Harbor principles (for more information [click here](http://www.export.gov/safeharbor/SH_Overview.asp)), its parent company and its subsidiary companies, including Blizzard Entertainment SAS in France, respect the privacy rights of their on-line visitors and recognize the importance of providing a secure environment for the information they collect.
+Blizzard Entertainment Inc. (referred to herein as "Blizzard"), a US company located at 16215 Alton Parkway,Irvine, CA 92618, United States adhering to the Safe Harbor principles (for more information [click here](http://www.export.gov/safeharbor/)), its parent company and its subsidiary companies, including Blizzard Entertainment SAS in France, respect the privacy rights of their on-line visitors and recognize the importance of providing a secure environment for the information they collect.
 
-It is therefore important to make available to on-line visitors an explanatory document outlining how their personal details are collected, processed and utilized (hereafter the "Privacy Policy"). This Priva-cy Policy explains the ways in which Blizzard safeguards the privacy rights of its on-line visitors. By using this website, you accept this Privacy Policy. Please note that the Blizzard Privacy Policy does not apply when you access other sites via the web links located on Blizzard internet sites, as we have no control over the activities of these other sites. Furthermore, this Privacy Policy may vary from time to time; please consult this document periodically so that you are aware of any changes. The date of the last update indicates the date of the most recent modifications. 
+It is therefore important to make available to on-line visitors an explanatory document outlining how their personal details are collected, processed and utilized (hereafter the "Privacy Policy"). This Privacy Policy explains the ways in which Blizzard safeguards the privacy rights of its on-line visitors. By using this website, you accept this Privacy Policy. Please note that the Blizzard Privacy Policy does not apply when you access other sites via the web links located on Blizzard internet sites, as we have no control over the activities of these other sites. Furthermore, this Privacy Policy may vary from time to time; please consult this document periodically so that you are aware of any changes. The date of the last update indicates the date of the most recent modifications. 
 
 This Privacy Policy respects all applicable laws on data protection. 
 
@@ -19,13 +19,13 @@ Blizzard also has other domain names which link to the Internet sites listed abo
   
 Blizzard only collects personal information in accordance with the applicable laws. An on-line visitor generally submits data to Blizzard for the following purposes: (1) to purchase goods and services from our on-line stores; (2) to register for a product or an account, or to participate in network games; (3) to access personalized services for players; (4) to register a warranty; (5) to enter a competition; (6) to register a complaint; (7) for customer service or technical support; (8) a site visit, (9) use of the forums; and/or (10) eCards and Recruit-a-Friend e-mails. 
 
-For the purposes outlined above, Blizzard may require that you submit certain personal information, which may include your name, your street address, your telephone number, your email address, your age and/or your date of birth. We do not require this information if you are just visiting our sites, but you may be unable to access certain areas of the sites or use certain features, such as the forums, without registering, or receive certain materials such as our information bulletins without providing a certain amount of per-sonal information. 
+For the purposes outlined above, Blizzard may require that you submit certain personal information, which may include your name, your street address, your telephone number, your email address, your age and/or your date of birth. We do not require this information if you are just visiting our sites, but you may be unable to access certain areas of the sites or use certain features, such as the forums, without registering, or receive certain materials such as our information bulletins without providing a certain amount of personal information. 
 
 Any visitors purchasing products or services will be required to submit additional information, such as a valid credit card number and credit card expiration date. Blizzard has adopted the PCI Data Security Standard (PCI DSS). The PCI DSS is a multifaceted security standard that includes requirements for security management, policies, procedures, network architecture, software design and other critical protective measures. This comprehensive standard is intended to help organizations proactively protect customer account data; particularly with regard to credit card payments (for more information regarding the PCI DSS please [click here](https://www.pcisecuritystandards.org/)). We will only collect, store and/or use your credit card data in accordance with the PCI DSS. 
 
 ### What other information we will collect and how we will use it?
 
-Your web browser or your client software will forward to Blizzard geographical information, data con-cerning your computer (e.g. capabilities, game data processing, and browser type,) and data concerning the way you use the products and services (e.g. log in and log out time). Blizzard will use this data to generate aggregate statistics about its user community. In addition, Blizzard will use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes. Please note that the use of your data may differ from product to product and from service to service. Please review the game specific documentation. We will sometimes link this information with your personal information if we feel that the conditions of use have been violated or at the request of the legal authorities. 
+Your web browser or your client software will forward to Blizzard geographical information, data concerning your computer (e.g. capabilities, game data processing, and browser type,) and data concerning the way you use the products and services (e.g. log in and log out time). Blizzard will use this data to generate aggregate statistics about its user community. In addition, Blizzard will use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes. Please note that the use of your data may differ from product to product and from service to service. Please review the game specific documentation. We will sometimes link this information with your personal information if we feel that the conditions of use have been violated or at the request of the legal authorities. 
 
 Blizzard will also ask you to enter a user name and a password. We would ask that you do not use your real name, the name of another person, or a name protected by copyright or trademark as a user name. 
 
@@ -45,16 +45,16 @@ Most web browsers are set to accept cookies. You can block cookies or set your b
 ### What IP (Internet Protocol) addresses are and how we use them?
 
   
-An IP address is the number assigned to your server or your computer by your Internet Service Pro-vider ("ISP"). Blizzard may require these IP addresses for account authentication, system administra-tion purposes, or for sending out information collectively. Blizzard may also use IP addresses to limit the use of its servers by any other system in order to avoid any misuse of its servers. 
+An IP address is the number assigned to your server or your computer by your Internet Service Provider ("ISP"). Blizzard may require these IP addresses for account authentication, system administration purposes, or for sending out information collectively. Blizzard may also use IP addresses to limit the use of its servers by any other system in order to avoid any misuse of its servers. 
 
 We may sometimes use these IP addresses and associate them with a particular account or user if we feel that the conditions of use have been violated or at the request of the legal authorities.
 
 ### Who collects, processes and uses your information?
 
   
-When you visit a Blizzard site and you are asked to provide information, you only share this informa-tion with Blizzard except where clearly indicated to the contrary. Some services are, however, pro-vided in conjunction with affiliated companies, and for the provision of these services, Blizzard may share your personal information with its affiliated companies, in particular Blizzard Entertainment SAS in France and Blizzard Entertainment Ireland Limited. If a company other than Blizzard receives your personal data, you will be notified before this operation takes place. In any case, the transfer of per-sonal data to another company will only be carried out with your express authorization. 
+When you visit a Blizzard site and you are asked to provide information, you only share this information with Blizzard except where clearly indicated to the contrary. Some services are, however, provided in conjunction with affiliated companies, and for the provision of these services, Blizzard may share your personal information with its affiliated companies, in particular Blizzard Entertainment SAS in France and Blizzard Entertainment Ireland Limited. If a company other than Blizzard receives your personal data, you will be notified before this operation takes place. In any case, the transfer of personal data to another company will only be carried out with your express authorization. 
 
-The information you enter on forms on Blizzard’s websites will only be sent to Blizzard once you have clicked the "Send" or the "OK" button. You can halt the transfer of data at any time by quitting the form screen, i.e. by closing your web browser prior to clicking the "Send" or the "OK" buttons; no in-formation will then be sent to Blizzard. 
+The information you enter on forms on Blizzard’s websites will only be sent to Blizzard once you have clicked the "Send" or the "OK" button. You can halt the transfer of data at any time by quitting the form screen, i.e. by closing your web browser prior to clicking the "Send" or the "OK" buttons; no information will then be sent to Blizzard. 
 
 Please bear in mind that message boards and Internet sites linked to our sites could obtain some of your personal information. We would remind you that Blizzard’s Privacy Policy does not apply to these message boards or to these other sites, as we have no control over their activities. 
 
@@ -89,7 +89,7 @@ When you and a friend mutually agree to become Real ID friends, you will have ac
   
 As a general rule, Blizzard will not forward your information to a third party without your permission. However, we may divulge this data to third party vendors in response to a product order or to add you to a vendor’s commercial bulletin circulation list. In some cases, we can also disclose this information if our License Agreements or Terms of Service have been violated or if, in all good faith, we judge it is legally justified 
 
-As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, in the event of a merger, acquisition, reorganization, bank-ruptcy, or other similar event, your personal information may be transferred to Blizzard ’s successor or assignee. 
+As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Blizzard ’s successor or assignee. 
 
 ### What is Global Play?
 
@@ -99,7 +99,7 @@ Certain Blizzard games playable on Blizzard’s Battle.net service feature “Gl
 ### What your rights are concerning the collection, use and distribution of your personal data?
 
   
-Blizzard allows you to monitor the way in which we use the personal information we obtain. Any pro-motional materials which Blizzard may send to you (e.g. "newsletters" or "information bulletins") con-tain internal mechanisms that allow you to block future mailings (Opt-out). 
+Blizzard allows you to monitor the way in which we use the personal information we obtain. Any promotional materials which Blizzard may send to you (e.g. "newsletters" or "information bulletins") contain internal mechanisms that allow you to block future mailings (Opt-out). 
 
 You can also contact us if you wish to change the way in which we use your personal information, i.e. whether Blizzard, the parent company or any subsidiary company can send you e-mails or standard mail regarding our products or services. 
 
