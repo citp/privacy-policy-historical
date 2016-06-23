@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kubota.com privacy policy that was archived on 2015-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222162451id_/http%3A//www.kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kubota.com privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623220101id_/http%3A//kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Kubota Tractor USA - KTC Policy</title>
@@ -11,9 +11,55 @@
 <link href="../css/style.css" rel="stylesheet" type="text/css">
 <link type="text/css" href="/part/css/part.css" rel="stylesheet"> 
 <link rel="stylesheet" type="text/css" href="/topmenu/top_menu_2014.css">
-<script type="text/javascript" src="/jquery/jquery-1.8.3.js"></script>
+<script type="text/javascript" async="" data-ev-tag-pid="6901" data-ev-tag-ocid="3886" src="https://c.betrad.com/pub/tag.js"></script><script type="text/javascript" src="/jquery/jquery-1.8.3.js"></script>
 <script type="text/javascript">
     var topNavId = "";
+	
+	$(document).ready(function() {
+		
+		$(".adChoices").hover(function() {changeAdChoicesId();}, function() {unchangeAdChoicesId();} );
+		
+		$(".contactFormLink").colorbox({ width: "90%", maxWidth: "850px", height: "97%", maxHeight: "600px;", iframe: true, title: "<span class='h3_header3'>Contact Us</span>" });
+		
+		var currentLink = $(".contactFormLink").attr('href');
+		
+		if (window.location.host == "www.kubota.com") {
+			$(".contactFormLink").attr('href', 'https://' + window.location.host + currentLink);
+		}
+
+	});
+	
+	function changeAdChoicesId () {
+		var newAdChoices = $(".adChoices");
+		var orgAdChoices = $(".orgAdChoices");
+		
+		if (newAdChoices.attr("id") != "_bapw-link") {
+			newAdChoices.attr("id", "_bapw-link");
+			orgAdChoices.attr("id", "tempID");
+		}
+		
+		(function() {
+		var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 6901); ev.setAttribute('data-ev-tag-ocid', 3886);
+		ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+		})();
+	}
+	
+	function unchangeAdChoicesId () {
+		var newAdChoices = $(".adChoices");
+		var orgAdChoices = $(".orgAdChoices");
+		
+		if (newAdChoices.attr("id") == "_bapw-link") {
+			newAdChoices.attr("id", "adChoices");
+			orgAdChoices.attr("id", "_bapw-link");
+		} 
+		
+		(function() {
+		var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 6901); ev.setAttribute('data-ev-tag-ocid', 3886);
+		ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+		})();
+	}
 </script>
     
     
@@ -48,7 +94,7 @@
 		window.location.href = '/AboutKubota/KubotaFirst.aspx';
 	});
 	$("#moreCareer").click(function(){
-		window.location.href = '/kubotacareers/default.aspx';
+		window.location.href = '/AboutKubota/KubotaCareers.aspx';
 	});
 	$("#moreFinance").click(function(){
 		window.open("/FinancingPreApproval/default.aspx","_blank");
@@ -73,6 +119,10 @@
 	$('#GRSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#FSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#ZSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
+	$('#WGSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
+	$('#WHSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
+	$('#WHFSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
+	
 	$('#RTVSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#RTVXSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
 	$('#KXSeries').hover(function(){$(this).addClass('selectedMask')},function(){$(this).removeClass('selectedMask')});
@@ -105,7 +155,10 @@
 	function(){$(this).poshytip('hide')});
 	*/
 
-	$('#buildSSVSeries').hover(	function(){$('#SSVHidden').css('display','block')},	function(){$('#SSVHidden').css('display','none')});
+	//$('#buildSSVSeries').hover(	function(){$('#SSVHidden').css('display','block')},	function(){$('#SSVHidden').css('display','none')});
+	//$('#buildWGSeries').hover(	function(){$('#WGHidden').css('display','block')},	function(){$('#WGHidden').css('display','none')});
+	//$('#buildWHSeries').hover(	function(){$('#WHHidden').css('display','block')},	function(){$('#WHHidden').css('display','none')});
+	//$('#buildWHFSeries').hover(	function(){$('#WHFHidden').css('display','block')},	function(){$('#WHFHidden').css('display','none')});
 	
 	$('#searchTerm').focus(function() {
 	$(this).val("");
@@ -259,6 +312,16 @@
 	$('#mMowers').hover(function(){$('#mMowersMenu').addClass('productMenu_bg')},function(){});
 	break;
 
+	case 'mWBMowersMenu':
+	if (preProduct == 'mWHMowers') {
+	} else {
+	$('#'+preProduct).fadeOut(100);
+	$('#mWBMowers').fadeIn(500);
+	preProduct = 'mWBMowers';
+	}
+	$('#mWBMowers').hover(function(){$('#mWBMowersMenu').addClass('productMenu_bg')},function(){});
+	break;
+
 	case 'mUtilityVehiclesMenu':
 	if (preProduct == 'mUtilityVehicles') {
 	} else {
@@ -330,7 +393,7 @@
 
 	function topnavBrochure() {
         //var topnavBrochure = $(".topBrochure");
-        $(".topBrochure").colorbox({ width: "90%", maxWidth: "850px", height: "97%", maxHeight: "610px;", minHeight: "590px", iframe: true, title: "<span class='h3_header3'>Kubota Product Literature Request</span>" });
+        $(".topBrochure").colorbox({ width: "90%", maxWidth: "850px", height: "97%", maxHeight: "710px;", minHeight: "590px", iframe: true, title: "<span class='h3_header3'>Kubota Product Literature Request</span>" });
 
         $(document).bind('cbox_complete', function () {
             var checkAttr = $($.fn.colorbox.element()).attr('frel');
@@ -499,6 +562,47 @@
 										</div>
 									</div>
 								</div>
+								<div id="mWBMowers">
+									<div id="WGSeries" onclick="window.location='/product/WGSeries.aspx'" style="position:absolute;width:315px;height:258px;top:2px;left:2px;border:0px solid blue;cursor:pointer;">
+										<div id="learnWGSeries" class="buttonOff" onclick="window.location='/product/WalkBehindMowerSeries.aspx'">
+											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
+										</div>
+										<div id="buildWGSeries" class="buttonOff">
+											<a href="/configurator/BuildMyKubota.aspx?pgId=1091&amp;bmId=1096&amp;sId=1092"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											
+										</div>
+										<div id="WGHidden" style="display:none;position:absolute;bottom:39px;left:165px; width:115px; height:30px;line-height:30px;border:1px solid #777;border-radius:5px;background-color:#fff;">
+											&nbsp;&nbsp;Coming Soon...
+										</div>
+									</div>
+
+									<div id="WHSeries" onclick="window.location='/product/WHSeries.aspx'" style="position:absolute;width:314px;height:258px;top:2px;left:323px;border:0px solid red;cursor:pointer;">
+										<div id="learnWHSeries" class="buttonOff" onclick="window.location='/product/WalkBehindMowerSeries.aspx'">
+											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
+										</div>
+										<div id="buildWHSeries" class="buttonOff">
+											<a href="/configurator/BuildMyKubota.aspx?pgId=1091&amp;bmId=1097&amp;sId=1093"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											
+										</div>
+										<div id="WHHidden" style="display:none;position:absolute;bottom:39px;left:165px; width:115px; height:30px;line-height:30px;border:1px solid #777;border-radius:5px;background-color:#fff;">
+											&nbsp;&nbsp;Coming Soon...
+										</div>
+									</div>
+
+									<div id="WHFSeries" onclick="window.location='/product/WHFSeries.aspx'" style="position:absolute;width:315px;height:258px;top:2px;left:643px;border:0px solid green;cursor:pointer;">
+										<div id="learnWHFSeries" class="buttonOff" onclick="window.location='/product/WalkBehindMowerSeries.aspx'">
+											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
+										</div>
+										<div id="buildWHFSeries" class="buttonOff">
+											<a href="/configurator/BuildMyKubota.aspx?pgId=1091&amp;bmId=1098&amp;sId=1094"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											
+										</div>
+										<div id="WHFHidden" style="display:none;position:absolute;bottom:39px;left:165px; width:115px; height:30px;line-height:30px;border:1px solid #777;border-radius:5px;background-color:#fff;">
+											&nbsp;&nbsp;Coming Soon...
+										</div>
+									</div>
+
+								</div>
 								<div id="mUtilityVehicles">
 									<div id="RTVSeries" onclick="window.location='/product/UtilityVehicles/RTVSeries.aspx'" style="position:absolute;width:475px;height:258px;top:2px;left:2px;border:0px solid red;cursor:pointer;">
 										<div id="learnRTVSeries" class="buttonOff" onclick="window.location='/product/UtilityVehicles/RTVSeries.aspx'">
@@ -551,12 +655,10 @@
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
 										<div id="buildSSVSeries" class="buttonOff">
+											<a href="/configurator/productselector.aspx?pgId=4"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
 											
-											<a href="#"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgoverx"></a>
 										</div>
-										<div id="SSVHidden" style="display:none;position:absolute;bottom:39px;left:40px; width:115px; height:30px;line-height:30px;border:1px solid #777;border-radius:5px;background-color:#fff;">
-											&nbsp;&nbsp;Coming Soon...
-										</div>
+										
 									</div>
 
 									<div id="RSeries" onclick="window.location='/product/RSeries.aspx'" style="position:absolute;width:318px;height:129px;top:2px;left:639px;border:0px solid red;cursor:pointer;">
@@ -591,7 +693,7 @@
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
 										<div id="buildDMCSeries" class="buttonOff">
-											<a onclick="return BuildMyKubotaComingSoon();"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											<a href="/configurator/productselector.aspx?pgId=1017"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
 										</div>
 									</div>
 									
@@ -609,7 +711,8 @@
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
 										<div id="buildRASeries" class="buttonOff">
-											<a onclick="return BuildMyKubotaComingSoon();"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											
+											<a href="/configurator/productselector.aspx?pgId=1017"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
 										</div>
 									</div>
 									
@@ -618,7 +721,7 @@
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
 										<div id="buildTESeries" class="buttonOff">
-											<a onclick="return BuildMyKubotaComingSoon();"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											<a href="/configurator/productselector.aspx?pgId=1017"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
 										</div>
 									</div>
 									
@@ -627,7 +730,7 @@
 											<img src="/topmenu/images/buttonLearn.png" border="0" class="imgover">
 										</div>
 										<div id="buildRASeries" class="buttonOff">
-											<a onclick="return BuildMyKubotaComingSoon();"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
+											<a href="/configurator/productselector.aspx?pgId=1017"><img src="/topmenu/images/buttonBuild.png" border="0" class="imgover"></a>
 										</div>
 									</div>
 									
@@ -646,12 +749,13 @@
 							<div id="productCat">
 								<div id="currentProducts">
 									<ul id="currentProductsMenu">
-										<li id="mTractorsMenu" style="width:110px;" class="productMenu_bg">TRACTORS</li>
-										<li id="mMowersMenu" style="width:100px;">MOWERS</li>
-										<li id="mUtilityVehiclesMenu" style="width:165px;">UTILITY VEHICLES</li>
-										<li id="mConstructionEquipmentMenu" style="width:240px;">CONSTRUCTION EQUIPMENT</li>
-										<li id="mHayToolsMenu" style="width:120px;">HAY TOOLS</li>
-										<li id="mSpreadersMenu" style="width:125px;margin:0;">SPREADERS</li>
+										<li id="mTractorsMenu" style="width:94px;" class="productMenu_bg">TRACTORS</li>
+										<li id="mMowersMenu" style="width:80px;">MOWERS</li>
+										<li id="mWBMowersMenu" style="width:180px;">WALK-BEHIND MOWERS</li>
+										<li id="mUtilityVehiclesMenu" style="width:140px;">UTILITY VEHICLES</li>
+										<li id="mConstructionEquipmentMenu" style="width:210px;">CONSTRUCTION EQUIPMENT</li>
+										<li id="mHayToolsMenu" style="width:100px;">HAY TOOLS</li>
+										<li id="mSpreadersMenu" style="width:95px;margin:0;">SPREADERS</li>
 									</ul>
 								</div>
 								<div id="priorProducts">
@@ -680,14 +784,14 @@
 						</li>
 						<li class="financeMenu" id="financeOptions">Featured Offers
 							<ul class="subFinanceDropdown">								
-								<li class="financeSubMenu">
+								<!--li class="financeSubMenu">
 									<a href="/product/BX70/BXSeriesOffer.aspx">BX Series</a>
 								</li>
 								<li class="financeSubMenu">
 									<a href="/product/HayTools/PreSeasonHayOffer.aspx">Pre-Season Hay Days</a>
-								</li>
+								</li-->
 								<li class="financeSubMenu">
-									<a href="/product/Z700/Z700Offer.aspx">Z700 Series</a>
+									<a href="/product/promotion/promotionLandingPage.aspx">Powertrain Warranty</a>
 									<hr>
 								</li>
 								
@@ -761,10 +865,10 @@
 								</div>
 								<div class="moreSubmenu" style="position:absolute;top:25px; left:177px;text-align:left;">
 									<div class="moreSubmenuHeader">MORE ABOUT KUBOTA</div>
-									<a href="/AboutKubota/CompanyInfo.aspx" class="moreLink">About Us</a><br>
-									<a href="/contactus/ContactKubota.aspx" class="moreLink">Contact Us</a><br>
+									<a href="/AboutKubota/GetToKnowKubota.aspx" class="moreLink">Get to Know Kubota</a><br>
+									<a href="/AboutKubota/ContactKubota.aspx" class="moreLink">Contact Us</a><br>
 									<a href="/events/default.aspx" class="moreLink">Calendar of Events</a><br>
-									<a href="/kubotacareers/default.aspx" class="moreLink">Careers</a>
+									<a href="/AboutKubota/KubotaCareers.aspx" class="moreLink">Careers</a>
 								</div>
 								<div class="moreSubmenu" style="position:absolute;top:25px; left:354px;text-align:left;">
 									<div class="moreSubmenuHeader">KUBOTA AFFILIATES</div>
@@ -808,30 +912,7 @@
 		
 </div>
 <form method="post" action="KTCPrivacy.aspx" id="form1" style="margin-top:0;">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjk1MjE1NDE3D2QWAgIHD2QWBAIDD2QWAmYPFgIeCWlubmVyaHRtbAVVDQo8ZGl2PjxpbWcgc3JjPSIvcG9saWN5L2ltYWdlcy9Qcml2YWN5UG9saWN5X2hlYWRlci5qcGciIGFsdD0iIiB3aWR0aD0iOTYwIiAvPjwvZGl2PmQCBQ9kFgJmDxYCHwAFvwcgDQo8ZGl2Pkt1Ym90YSBUcmFjdG9yIENvcnBvcmF0aW9uIHJlc3BlY3RzIHRoZSBvbmxpbmUgcHJpdmFjeSBvZiBhbGwgaW5kaXZpZHVhbHMgd2hvIHZpc2l0IG91ciB3ZWJzaXRlLiBUaGUgS3Vib3RhIFRyYWN0b3IgQ29ycG9yYXRpb24gd2Vic2l0ZSBoYXMgYSBndWVzdCByZWdpc3RyeSwgYW5kIG1heSBmcm9tIHRpbWUgdG8gdGltZSBpbmNsdWRlIHN1cnZleXMgb3Igb3RoZXIgZmVlZGJhY2sgZm9ybXMgd2hpY2ggcmVxdWVzdCBjZXJ0YWluIHBlcnNvbmFsIGlkZW50aXR5IGluZm9ybWF0aW9uLiBUaGUgcGVyc29uYWwgaWRlbnRpdHkgaW5mb3JtYXRpb24gY29sbGVjdGVkIG1heSBiZSB1c2VkIHRvIHByb3ZpZGUgaW5mb3JtYXRpb24gdG8gc2l0ZSByZWdpc3RyYW50cyByZWdhcmRpbmcgb3VyIHByb2R1Y3RzLCBjb21wYW55IG9yIHByb21vdGlvbmFsIG9mZmVycy4gVGhpcyBwZXJzb25hbCBpZGVudGl0eSBpbmZvcm1hdGlvbiBtYXkgYmUgdHJhbnNtaXR0ZWQgdG8gb3VyIGRlYWxlcnMgb3Igb3RoZXIgYnVzaW5lc3MgcGFydG5lcnMuIFdlIHdpbGwgbm90IGdpdmUsIHJlbnQgb3Igc2VsbCBwZXJzb25hbCBpZGVudGl0eSBpbmZvcm1hdGlvbiB0byBhbnkgb3RoZXIgb3V0c2lkZSBjb21wYW55IGZvciB1c2UgaW4gbWFya2V0aW5nIG9yIHNvbGljaXRhdGlvbi4gV2Ugd2lsbCBleGVyY2lzZSByZWFzb25hYmxlIGVmZm9ydHMgdG8gbWFpbnRhaW4gdGhlIGNvbmZpZGVudGlhbGl0eSBvZiB5b3VyIHBlcnNvbmFsIGlkZW50aXR5IGluZm9ybWF0aW9uLjwvZGl2Pg0KPHA+Q3VzdG9tZXJzIG9mIEt1Ym90YSBDcmVkaXQgQ29ycG9yYXRpb24gY2FuIGNsaWNrIDxhIGhyZWY9Ii9maW5hbmNlL0tDQ1BvbGljeS5hc3B4Ij5oZXJlPC9hPiB0byBzZWUgdGhlIENvbmZpZGVudGlhbGl0eSBQb2xpY3kgb2YgS0NDIHJlbGF0aW5nIHRvIHRoYXQgZmluYW5jaWFsIHJlbGF0aW9uc2hpcC48L3A+IGRkfD7CZoDuw76Jl/afk9SOgypof8g=">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=6a2j3udhJfMKyfzmXiiKoZRdfB6xKdx0KV2QwtKomLXpxx9x0poAq19zuMPcdNdRZ8PQVDG_TjfCTJtchOFWphCILBU1&amp;t=634773866700000000" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjk1MjE1NDE3D2QWAgIHD2QWBAIDD2QWAmYPFgIeCWlubmVyaHRtbAVVDQo8ZGl2PjxpbWcgc3JjPSIvcG9saWN5L2ltYWdlcy9Qcml2YWN5UG9saWN5X2hlYWRlci5qcGciIGFsdD0iIiB3aWR0aD0iOTYwIiAvPjwvZGl2PmQCBQ9kFgJmDxYCHwAF350BPHAgc3R5bGU9IndpZHRoOjEwMCU7IHRleHQtYWxpZ246Y2VudGVyOyI+PHN0cm9uZz48c3BhbiBjbGFzcz0ic2l6ZTExX2JsYWNrIj5LVUJPVEEgVFJBQ1RPUiBDT1JQT1JBVElPTiwgS1VCT1RBIENSRURJVCBDT1JQT1JBVElPTiBBTkQgS1VCT1RBIFRSQUNUT1I8YnIgLz4NCkFDQ0VQVEFOQ0UgQ09SUE9SQVRJT04gQU5EIEFGRklMSUFURVMgT05MSU5FIFBSSVZBQ1kgUE9MSUNZPC9zcGFuPjwvc3Ryb25nPjxiciAvPg0KRWZmZWN0aXZlIERhdGU6IDxzdHJvbmc+MDEvMDEvMjAxNjwvc3Ryb25nPjwvcD4NCg0KPGRpdj48c3Ryb25nPjxzcGFuIGNsYXNzPSJzaXplMTFfYmxhY2siPk9VUiBBUFBST0FDSCBUTyBQUklWQUNZPC9zcGFuPjwvc3Ryb25nPjxiciAvPg0KS3Vib3RhIFRyYWN0b3IgQ29ycG9yYXRpb24gKCZsZHF1bztLVEMmcmRxdW87KSwgS3Vib3RhIENyZWRpdCBDb3Jwb3JhdGlvbiwgVS5TLkEgKCZsZHF1bztLQ0MmcmRxdW87KSwgS3Vib3RhIFRyYWN0b3IgQWNjZXB0YW5jZSBDb3Jwb3JhdGlvbiAoJmxkcXVvO0tUQUMmcmRxdW87KSBhbmQgdGhlaXIgYWZmaWxpYXRlcyAoY29sbGVjdGl2ZWx5LCAmbGRxdW87S3Vib3RhJnJkcXVvOykgdGFrZSB5b3VyIHByaXZhY3kgc2VyaW91c2x5LiBLdWJvdGEgdW5kZXJzdGFuZHMgdHJhbnNwYXJlbmN5IGFuZCByZXNwZWN0IGFyZSBmb3VuZGF0aW9uYWwgYXNwZWN0cyBvZiBsb25nc3RhbmRpbmcgcmVsYXRpb25zaGlwcyBhbmQsIHRoZXJlZm9yZSwgdGFrZXMgZXZlcnkgcmVhc29uYWJsZSBlZmZvcnQgdG8gcHJvdGVjdCB0aGUgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgdG8gdXMuPC9kaXY+DQoNCjxkaXY+Jm5ic3A7PC9kaXY+DQoNCjxkaXY+T3VyIE9ubGluZSBQcml2YWN5IFBvbGljeSAodGhlICZxdW90O1BvbGljeSZxdW90Oykgb3V0bGluZXM6DQo8dWwgc3R5bGU9Imxpc3Qtc3R5bGU6ZGlzYyBvdXRzaWRlOyI+DQoJPGxpPkhvdyB3ZSBjb2xsZWN0IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb248L2xpPg0KCTxsaT5XaGF0IHBlcnNvbmFsIGluZm9ybWF0aW9uIHdlIGNvbGxlY3Q8L2xpPg0KCTxsaT5Ib3cgd2UgdXNlIHRoYXQgcGVyc29uYWwgaW5mb3JtYXRpb248L2xpPg0KCTxsaT5Ib3cgd2UgbWF5IHNoYXJlIHRoYXQgcGVyc29uYWwgaW5mb3JtYXRpb248L2xpPg0KCTxsaT5Ib3cgd2UgcHJvdGVjdCB5b3VyIGluZm9ybWF0aW9uPC9saT4NCgk8bGk+WW91ciBjaG9pY2VzIHJlZ2FyZGluZyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uPC9saT4NCjwvdWw+DQo8L2Rpdj4NCg0KPGRpdj5QbGVhc2UgcmVhZCB0aGlzIFBvbGljeSBhbmQgdGhlIFRlcm1zIG9mIFVzZSBjYXJlZnVsbHkgdG8gdW5kZXJzdGFuZCBvdXIgcG9saWNpZXMgYW5kIHByYWN0aWNlcyByZWdhcmRpbmcgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbi4gQnkgYWNjZXNzaW5nLCB1c2luZyBvciBzdWJtaXR0aW5nIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gb3VyIHdlYnNpdGVzLCB5b3UgYWdyZWUgdG8gdGhpcyBQb2xpY3kgYW5kIG91ciBUZXJtcyBvZiBVc2UuPC9kaXY+DQoNCjxkaXY+Jm5ic3A7PC9kaXY+DQoNCjxkaXY+SWYgeW91IGhhdmUgdmlzaXRlZCBvdXIgPGEgaHJlZj0iaHR0cHM6Ly93d3cua3Vib3RhY3JlZGl0dXNhLmNvbS9ob21lUHJlcGFyZS5kbyIgdGFyZ2V0PSJfYmxhbmsiPmZpbmFuY2Ugd2Vic2l0ZTwvYT4gb3IgaGF2ZSBhcHBsaWVkIGZvciBmaW5hbmNpbmcgdGhyb3VnaCBLQ0MsIHBsZWFzZSByZWZlciB0byB0aGUgPGEgaHJlZj0iaHR0cHM6Ly93d3cua3Vib3RhY3JlZGl0dXNhLmNvbS9wcml2YWN5UG9saWN5LmpzcCIgdGFyZ2V0PSJfYmxhbmsiPktDQyBDb25zdW1lciBQcml2YWN5IE5vdGljZTwvYT4gZm9yIG1vcmUgaW5mb3JtYXRpb24gb24gaG93IHdlIGNvbGxlY3QsIHNoYXJlIGFuZCBwcm90ZWN0IGNlcnRhaW4gb2YgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbi4gS3Vib3RhIHByb2R1Y3RzIGFyZSBkaXN0cmlidXRlZCB0aHJvdWdoIG91ciBuZXR3b3JrIG9mIEt1Ym90YSBkZWFsZXJzLCBpbmRlcGVuZGVudGx5IG93bmVkIGFuZCBvcGVyYXRlZCBidXNpbmVzc2VzLCB3aGljaCBtYXkgaGF2ZSB0aGVpciBvd24gcHJpdmFjeSBwb2xpY2llcy48L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj5JZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zIHJlZ2FyZGluZyB0aGlzIFBvbGljeSBvciBvdXIgcHJpdmFjeSBwcmFjdGljZXMsIHBsZWFzZSBlLW1haWwgPGEgaHJlZj0ibWFpbHRvOkt1Ym90YVByaXZhY3lAa3Vib3RhLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPkt1Ym90YVByaXZhY3lAa3Vib3RhLmNvbTwvYT4uPC9kaXY+DQoNCjxkaXY+Jm5ic3A7PC9kaXY+DQoNCjxkaXY+PHN0cm9uZz48c3BhbiBjbGFzcz0ic2l6ZTExX2JsYWNrIj5DT0xMRUNUSU9OIE1FVEhPRFM8L3NwYW4+PC9zdHJvbmc+PGJyIC8+DQpJbmZvcm1hdGlvbiBpcyBjb2xsZWN0ZWQgZnJvbSB5b3UgaW4gdGhlIGZvbGxvd2luZyB3YXlzOjwvZGl2Pg0KDQo8ZGl2PiZuYnNwOzwvZGl2Pg0KDQo8ZGl2PjxzdHJvbmc+PHNwYW4gc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij5EaXJlY3RseSBmcm9tIFlvdTwvc3Bhbj48L3N0cm9uZz4NCg0KPHVsIHN0eWxlPSJsaXN0LXN0eWxlOmRpc2Mgb3V0c2lkZTsiPg0KCTxsaT5HZW5lcmFsICZxdW90O0NvbnRhY3QgVXMmcXVvdDsgRm9ybXM8L2xpPg0KCTxsaT5GaW5hbmNlIGFwcGxpY2F0aW9uczwvbGk+DQoJPGxpPlByb2R1Y3QgYW5kIHNlcnZpY2UgaW5xdWlyeSBmb3JtczwvbGk+DQoJPGxpPkRlYWxlciBMb2NhdG9yLCBEZWFsZXIgQ29udGFjdCBSZXF1ZXN0LCBhbmQgQnVpbGQgTXkgS3Vib3RhIHBhZ2VzPC9saT4NCgk8bGk+U29jaWFsIG1lZGlhIGFjY291bnRzPC9saT4NCgk8bGk+Q29udGVzdHMgb3Igc3dlZXBzdGFrZXM8L2xpPg0KPC91bD4NCjwvZGl2Pg0KDQo8ZGl2Pg0KPHAgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij48c3Ryb25nPkZyb20gWW91IFRocm91Z2ggVGhpcmQgUGFydGllczwvc3Ryb25nPjwvcD4NCg0KPHA+VGhlIGZvbGxvd2luZyB0aGlyZCBwYXJ0aWVzIHByb3ZpZGUgc2VydmljZXMgd2l0aGluIEt1Ym90YSB3ZWJzaXRlcyB0aHJvdWdoIGEgdGVjaG5vbG9neSBjYWxsZWQgaUZyYW1lcy4gSWYgeW91IGNob29zZSB0byB1c2UgdGhlc2Ugc2VydmljZXMsIHdlIHN1Z2dlc3QgeW91IHJldmlldyB0aG9zZSB0aGlyZCBwYXJ0aWVzJnJzcXVvOyBwcml2YWN5IHBvbGljaWVzIHRvIGJldHRlciB1bmRlcnN0YW5kIHdoYXQgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkLCB3aGVuIGl0IGlzIGNvbGxlY3RlZCwgaG93IGl0IGlzIHVzZWQgYW5kIGhvdyBpdCBpcyBwcm90ZWN0ZWQgYXMgd2VsbCBhcyB3aGVuIGFuZCB3aXRoIHdob20geW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBpcyBzaGFyZWQgb3IgZGlzY2xvc2VkIGJ5IHRob3NlIHRoaXJkIHBhcnRpZXMuIEt1Ym90YSBkb2VzIG5vdCBjb250cm9sIHRoZXNlIGVudGl0aWVzIG9yIHdoYXQgdGhleSBkbyB3aXRoIHlvdXIgaW5mb3JtYXRpb24uPC9wPg0KDQo8dWwgc3R5bGU9Imxpc3Qtc3R5bGU6ZGlzYyBvdXRzaWRlOyI+DQoJPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RhcGxlc3Byb21vdGlvbmFscHJvZHVjdHMuY29tL1ByaXZhY3lQb2xpY3kuYXNweCIgdGFyZ2V0PSJfYmxhbmsiPlN0YXBsZXM8L2E+IChtZXJjaGFuZGlzZSBwdXJjaGFzZSk6IFlvdSBjYW4gcHVyY2hhc2UgaGlnaC1xdWFsaXR5IEt1Ym90YSBtZXJjaGFuZGlzZSB0aHJvdWdoIFN0YXBsZXMgdmlhIHRoZSBLdWJvdGEgd2Vic2l0ZS4gT3RoZXIgdGhhbiB0aGUgZmFjdCB0aGF0IHlvdSBoYXZlIHB1cmNoYXNlZCBLdWJvdGEgbWVyY2hhbmRpc2UgdGhyb3VnaCBTdGFwbGVzLCBLdWJvdGEgZG9lcyBub3QgaGF2ZSBhY2Nlc3MgdG8gYW55IG90aGVyIGluZm9ybWF0aW9uIHJlbGF0aW5nIHRvIHN1Y2ggcHVyY2hhc2VzLCBzdWNoIHlvdXIgY3JlZGl0IGNhcmQgaW5mb3JtYXRpb24sIHRoYXQgeW91IHByb3ZpZGUgdG8gU3RhcGxlcy48L2xpPg0KCTxsaT48YSBocmVmPSJodHRwOi8vd3d3LmNlcmlkaWFuLmNvbS9hYm91dC11cy9jb3Jwb3JhdGUvcHJpdmFjeS1wb2xpY3kuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiPkNlcmlkaWFuPC9hPiAoS3Vib3RhIENhcmVlcnMgam9iIHBvcnRhbCk6IEt1Ym90YSB1c2VzIENlcmlkaWFuIHRvIHN1cHBvcnQgb3VyIGVtcGxveWVlIGFwcGxpY2F0aW9uIHBvcnRhbCwgS3Vib3RhIENhcmVlcnMuIEt1Ym90YSBIdW1hbiBSZXNvdXJjZXMgaGFzIGFjY2VzcyB0byBhbGwgaW5mb3JtYXRpb24gc3VibWl0dGVkIHZpYSBDZXJpZGlhbiwgYnV0IG9ubHkgdXNlcyBzdWNoIGluZm9ybWF0aW9uIGZvciByZWNydWl0bWVudCBhbmQgaW50ZXJ2aWV3aW5nIHByb2Nlc3Nlcy48L2xpPg0KPC91bD4NCjwvZGl2Pg0KDQo8ZGl2Pg0KPHAgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij48c3Ryb25nPkluZm9ybWF0aW9uIENvbGxlY3RlZCBmcm9tIEJ1c2luZXNzIFBhcnRuZXJzIGFuZCBBZmZpbGlhdGVzPC9zdHJvbmc+PC9wPg0KDQo8cD5LdWJvdGEgbWF5IGNvbGxlY3QgaW5mb3JtYXRpb24gZnJvbSBjZXJ0YWluIG9mIG91ciBidXNpbmVzcyBwYXJ0bmVycyB0aGF0IHN1cHBvcnQgdHJhbnNhY3Rpb25zIHdpdGggdXMgb3IgaGF2ZSBhIHJlbGF0aW9uc2hpcCB3aXRoIHlvdS4gVGhpcyBpbmNsdWRlcywgYnV0IGlzIG5vdCBsaW1pdGVkIHRvIGRlYWxlcnMsIEt1Ym90YSBhZmZpbGlhdGVzLCBvciAzcmQgcGFydHkgZmluYW5jaWFsIHNlcnZpY2UgY29tcGFuaWVzIGlmIHlvdSBhcHBseSBmb3IgY3JlZGl0LjwvcD4NCjwvZGl2Pg0KDQo8ZGl2Pg0KPHAgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij48c3Ryb25nPkluZm9ybWF0aW9uIENvbGxlY3RlZCBUaHJvdWdoIFVzZSBvZiBPdXIgV2Vic2l0ZXMgYW5kIEhvdyBXZSBSZXNwb25kIHRvICZxdW90O0RvIE5vdCBUcmFjayZxdW90OyBTaWduYWxzPC9zdHJvbmc+PC9wPg0KDQo8cD5CeSB1c2luZyBvdXIgd2Vic2l0ZXMsIHlvdSBjb25zZW50IHRvIHRoZSBjb2xsZWN0aW9uIG9mIGluZm9ybWF0aW9uIGFib3V0IHlvdXIgb25saW5lIGFjdGl2aXRpZXMgd2hlbiB5b3UgdXNlIG91ciB3ZWJzaXRlIHRocm91Z2ggY2VydGFpbiBvbmxpbmUgdHJhY2tpbmcgbWVjaGFuaXNtcyBkZXBsb3llZCBvbiBvdXIgd2Vic2l0ZXMuIFRoZXkgY29sbGVjdCBpbmZvcm1hdGlvbiByZWdhcmRpbmcgeW91ciBicm93c2luZyBhY3Rpdml0aWVzIHRoYXQgaW5jbHVkZSwgYnV0IGFyZSBub3QgbGltaXRlZCB0bywgeW91cjo8L3A+DQoNCjx1bCBzdHlsZT0ibGlzdC1zdHlsZTpkaXNjIG91dHNpZGU7Ij4NCgk8bGk+SVAgYWRkcmVzczwvbGk+DQoJPGxpPkRldmljZSB0eXBlPC9saT4NCgk8bGk+T3BlcmF0aW5nIHN5c3RlbTwvbGk+DQoJPGxpPkJyb3dzZXIgbGFuZ3VhZ2U8L2xpPg0KCTxsaT5XZWIgcGFnZXMgdmlzaXRlZCwgdGltZSBvbiB0aGUgd2Vic2l0ZSwgYW5kIHRvdGFsIG51bWJlciBvZiBwYWdlcyB2aWV3ZWQ8L2xpPg0KCTxsaT5OZXR3b3JrIHNlcnZpY2UgcHJvdmlkZXI8L2xpPg0KPC91bD4NCg0KPHA+V2UgbWFpbnRhaW4gYSA8YSBjbGFzcz0iYWRDaG9pY2VzIiBocmVmPSIjIiB0YXJnZXQ9Il9ibGFuayI+ZnVsbCBsaXN0IG9mIG9ubGluZSB0cmFja2luZyB0ZWNobm9sb2dpZXM8L2E+IGluIHVzZSBvbiBvdXIgd2Vic2l0ZXMgc28geW91IGNhbiBiZXR0ZXIgdW5kZXJzdGFuZCB3aGF0IGluZm9ybWF0aW9uIGlzIGJlaW5nIGNvbGxlY3RlZCB3aGVuIHlvdSB1c2Ugb3VyIHdlYnNpdGVzLiBLdWJvdGEgZG9lcyBub3QgdHJhY2sgaXRzIGN1c3RvbWVycyBvdmVyIHRpbWUgYW5kIGFjcm9zcyB0aGlyZCBwYXJ0eSB3ZWJzaXRlcyB0byBwcm92aWRlIHRhcmdldGVkIGFkdmVydGlzaW5nIGFuZCB0aGVyZWZvcmUgb3VyIHdlYnNpdGVzIGRvIG5vdCByZXNwb25kIHRvIHlvdXIgd2ViIGJyb3dzZXIgJnF1b3Q7RG8gTm90IFRyYWNrJnF1b3Q7IHNpZ25hbHMuPC9wPg0KPC9kaXY+DQoNCjxkaXY+DQo8cCBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPjxzdHJvbmc+U29jaWFsIE1lZGlhLCBTdXJ2ZXlzIGFuZCBDb250ZXN0czwvc3Ryb25nPjwvcD4NCg0KPHA+S3Vib3RhIHVzZXMgc29jaWFsIG1lZGlhIHRvIGludGVyYWN0IHdpdGggb3VyIGN1c3RvbWVycyBhbmQgb3RoZXIgY29uc3VtZXJzIGluIHZhcmlvdXMgd2F5cy4gS3Vib3RhIG1heSB1c2UgYWdncmVnYXRlIGluZm9ybWF0aW9uIGdhdGhlcmVkIHRocm91Z2ggaW50ZXJhY3Rpb24gd2l0aCBzb2NpYWwgbWVkaWEgYWNjb3VudHMgb3IgdGhyb3VnaCBzdXJ2ZXlzIGFuZCBjb250ZXN0cy4gV2UgdXNlIHRoaXMgaW5mb3JtYXRpb24gdG8gaW1wcm92ZSBvdXIgcHJvZHVjdHMsIHNlcnZpY2VzIGFuZCBtYXJrZXRpbmcgZWZmZWN0aXZlbmVzcy4gV2UgbWF5IG9mZmVyIG91ciBwcm9kdWN0cyBhbmQgc2VydmljZXMgdG8geW91IHZpYSBzb2NpYWwgbWVkaWEsIGJhc2VkIG9uIGluZm9ybWF0aW9uIHlvdSBoYXZlIHZvbHVudGFyaWx5IHByb3ZpZGVkIGluIGFjY29yZGFuY2Ugd2l0aCB0aGUgc29jaWFsIG1lZGlhIHNpdGUmcnNxdW87cyB0ZXJtcyBhbmQgY29uZGl0aW9ucy48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj48c3Ryb25nPjxzcGFuIGNsYXNzPSJzaXplMTFfYmxhY2siPldIQVQgSU5GT1JNQVRJT04gV0UgQ09MTEVDVDwvc3Bhbj48L3N0cm9uZz48YnIgLz4NCk91ciB3ZWJzaXRlcyBjb2xsZWN0IHNldmVyYWwgY2F0ZWdvcmllcyBvZiBpbmZvcm1hdGlvbiwgaW5jbHVkaW5nICZxdW90O1BlcnNvbmFsIEluZm9ybWF0aW9uJnF1b3Q7LCAmcXVvdDtBbm9ueW1vdXMgSW5mb3JtYXRpb24mcXVvdDssIGFuZCAmcXVvdDtQcm9kdWN0IG9yIElucXVpcnkgSW5mb3JtYXRpb24uJnF1b3Q7IEt1Ym90YSBjb2xsZWN0cyB5b3VyIGluZm9ybWF0aW9uIHRvIHByb3ZpZGUgdGhlIHNlcnZpY2VzIG91dGxpbmVkIGluIHRoaXMgUG9saWN5IG9yIHRvIHNlcnZlIHlvdSBhcyBhIGN1c3RvbWVyLjwvZGl2Pg0KDQo8ZGl2Pg0KPHAgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij48c3Ryb25nPlBlcnNvbmFsIEluZm9ybWF0aW9uPC9zdHJvbmc+PC9wPg0KDQo8cD5EZXBlbmRpbmcgb24gdGhlIGZ1bmN0aW9uYWxpdHkgeW91IHVzZSBvbiBvdXIgd2Vic2l0ZXMsIEt1Ym90YSBtYXkgY29sbGVjdCB0aGUgZm9sbG93aW5nIHR5cGVzIG9mIHBlcnNvbmFsIGluZm9ybWF0aW9uOjwvcD4NCg0KPHVsIHN0eWxlPSJsaXN0LXN0eWxlOm5vbmUgb3V0c2lkZTsiPg0KCTxsaT48aT48c3BhbiBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPlBoeXNpY2FsIExvY2F0aW9uIGFuZCBDb250YWN0IEluZm9ybWF0aW9uPC9zcGFuPjwvaT48YnIgLz4NCglUaGlzIGluZm9ybWF0aW9uIGFsbG93cyB1cyB0byBpZGVudGlmeSBhbmQgY29tbXVuaWNhdGUgd2l0aCB5b3UsIGFuZCBpbmNsdWRlcyBpbmZvcm1hdGlvbiBzdWNoIGFzIHlvdXIgbmFtZSwgbWFpbGluZyBhZGRyZXNzLCBlLW1haWwgYWRkcmVzcyBhbmQgcGhvbmUgbnVtYmVyLjxiciAvPg0KCSZuYnNwOzwvbGk+DQoJPGxpPjxpPjxzcGFuIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lOyI+UmVsYXRpb25zaGlwIEluZm9ybWF0aW9uPC9zcGFuPjwvaT48YnIgLz4NCglUaGlzIGluZm9ybWF0aW9uIGFsbG93cyB1cyB0byBvZmZlciB5b3UgYmVuZWZpY2lhbCBwcm9kdWN0cyBhbmQgc2VydmljZXMgdGhhdCBtYXkgaW50ZXJlc3QgeW91LCBzdWNoIGFzIGluZm9ybWF0aW9uIHJlZ2FyZGluZyB5b3VyIHB1cmNoYXNlcywgcmVnaW9uYWwgbG9jYXRpb24sIGlucXVpcmllcyBhbmQgZGVhbGVyIHRyYW5zYWN0aW9ucy48YnIgLz4NCgkmbmJzcDs8L2xpPg0KCTxsaT48aT48c3BhbiBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPkZpbmFuY2lhbCBBY2NvdW50IEluZm9ybWF0aW9uPC9zcGFuPjwvaT48YnIgLz4NCglUaGlzIGluZm9ybWF0aW9uIGlzIG5lZWRlZCB0byBjb21wbGV0ZSB5b3VyIHB1cmNoYXNlLCBzdWNoIGFzIHlvdXIgY3JlZGl0IGNhcmQgaW5mb3JtYXRpb24gYW5kIGluZm9ybWF0aW9uIGFib3V0IGVxdWlwbWVudCBmaW5hbmNpbmcgYW5kIGxlYXNpbmcgYWN0aXZpdGllcy48YnIgLz4NCgkmbmJzcDs8L2xpPg0KCTxsaT48aT48c3BhbiBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPkZpbmFuY2luZyBJbmZvcm1hdGlvbjwvc3Bhbj48L2k+PGJyIC8+DQoJSWYgeW91IGFwcGx5IGZvciBmaW5hbmNpbmcgdGhyb3VnaCBLQ0MsIHlvdSBwcm92aWRlIHVzIHdpdGggcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gdGhyb3VnaCBvdXIgd2Vic2l0ZS4gSXQgaW5jbHVkZXMgZGF0YSBzdWNoIGFzIHlvdXIgZmlyc3QgYW5kIGxhc3QgbmFtZSwgZGF0ZSBvZiBiaXJ0aCwgU29jaWFsIFNlY3VyaXR5IG51bWJlciwgbWFpbGluZyBhZGRyZXNzLCBlLW1haWwgYWRkcmVzcywgaG9tZSBwaG9uZSBudW1iZXJzIGFuZCBjZWxsIHBob25lIG51bWJlciwgYXMgd2VsbCBhcyBjZXJ0YWluIGVtcGxveW1lbnQgYW5kIGluY29tZSBpbmZvcm1hdGlvbi4gV2UgYWxzbyBjb2xsZWN0IGNyZWRpdCBpbmZvcm1hdGlvbiBmcm9tIGNyZWRpdCByZXBvcnRpbmcgYWdlbmNpZXMgdG8gZmFjaWxpdGF0ZSB0aGUgZmluYW5jaW5nIHRyYW5zYWN0aW9uIGFuZCBvbmdvaW5nIHJlbGF0aW9uc2hpcC48L2xpPg0KPC91bD4NCjwvZGl2Pg0KDQo8ZGl2Pg0KPHAgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij48c3Ryb25nPkFub255bW91cyBJbmZvcm1hdGlvbjwvc3Ryb25nPjwvcD4NCg0KPHA+QnkgdXNpbmcgb3VyIHdlYnNpdGVzIGFuZCBvbmxpbmUgc2VydmljZXMsIHlvdSBhZ3JlZSB0byB0aGUgY29sbGVjdGlvbiBvZiBjZXJ0YWluIGluZm9ybWF0aW9uIHRoYXQgS3Vib3RhIHVzZXMgdG8gaW1wcm92ZSBvdXIgd2Vic2l0ZXMmcnNxdW87IGZ1bmN0aW9uYWxpdHkuIFRoaXMgaW5mb3JtYXRpb24gaXMgbm90IHRpZWQgdG8geW91IHBlcnNvbmFsbHksIGFuZCBpcyB1c2VkIGluIGFnZ3JlZ2F0ZSB0byBiZXR0ZXIgdW5kZXJzdGFuZCB3aGF0IHdlYnBhZ2VzIG91ciB2aXNpdG9ycyBhcmUgYnJvd3NpbmcgdG8sIHRoZSBhbW91bnQgb2YgdGltZSB0aGV5IHNwZW5kIG9uIGVhY2ggcGFnZSwgdGhlIGRldmljZSB0eXBlIHRoZXkgYXJlIHVzaW5nIHRvIHZpc2l0IHRoZSB3ZWJzaXRlLCBhbmQgb3RoZXIgdGVjaG5pY2FsbHkgcmVsZXZhbnQgaW5mb3JtYXRpb24uPC9wPg0KPC9kaXY+DQoNCjxkaXY+DQo8cCBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPjxzdHJvbmc+UHJvZHVjdCBvciBJbnF1aXJ5IEluZm9ybWF0aW9uPC9zdHJvbmc+PC9wPg0KDQo8cD5LdWJvdGEgdXNlcyBpbnF1aXJ5IGZvcm1zIHRocm91Z2hvdXQgaXRzIHdlYnNpdGVzIHRvIGFsbG93IHlvdSB0byByZXF1ZXN0IGluZm9ybWF0aW9uLCBpbmNsdWRpbmcgcHJvZHVjdCwgc2VydmljZSBvciBkZWFsZXIgcXVvdGUgaW5mb3JtYXRpb24uIEFueSBwZXJzb25hbCBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgaW4gdGhlc2UgZm9ybXMgaXMgdXNlZCB0byBmdWxmaWxsIHlvdXIgcmVxdWVzdCBvciB0byBiZXR0ZXIgdW5kZXJzdGFuZCB5b3VyIHJlcXVlc3QuIFdlIGRvIG5vdCBjb2xsZWN0IHNlbnNpdGl2ZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBzdWNoIGFzIFNvY2lhbCBTZWN1cml0eSBudW1iZXJzIG9yIGZpbmFuY2lhbCBpbmZvcm1hdGlvbiBpbiB0aGVzZSBpbnF1aXJ5IGZvcm1zLjwvcD4NCjwvZGl2Pg0KDQo8ZGl2PiZuYnNwOzwvZGl2Pg0KDQo8ZGl2PjxzdHJvbmc+PHNwYW4gY2xhc3M9InNpemUxMV9ibGFjayI+T1VSIFVTRSBPRiBZT1VSIElORk9STUFUSU9OPC9zcGFuPjwvc3Ryb25nPjxiciAvPg0KWW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBtYXkgYmUgdHJhbnNmZXJyZWQgdG8gYW5kIHN0b3JlZCBvbiBzZXJ2ZXJzIGxvY2F0ZWQgaW4gYW55IGNvdW50cnkgaW4gd2hpY2ggd2Ugb3Igb3VyIGFmZmlsaWF0ZWQgY29tcGFuaWVzIGRvIGJ1c2luZXNzLiBXZSB1c2UgdGhlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIGZvciB0aGUgZm9sbG93aW5nIGZ1bmN0aW9uczo8L2Rpdj4NCg0KPGRpdj4NCjxwIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lOyI+PHN0cm9uZz5GdWxmaWxtZW50IG9mIFlvdXIgUmVxdWVzdDwvc3Ryb25nPjwvcD4NCg0KPHA+V2hlbiB5b3UgdXNlIG91ciBpbnF1aXJ5LCBjb250ZXN0IG9yIHN1cnZleSBmdW5jdGlvbmFsaXR5IG9uIG91ciB3ZWJzaXRlcywgd2UgbWF5IHVzZSBzdWJtaXR0ZWQgaW5mb3JtYXRpb24gaW4gY29uanVuY3Rpb24gd2l0aCBvdGhlciBpbmZvcm1hdGlvbiB3ZSBoYXZlIGFib3V0IHlvdSB0byBzdXBwbHkgeW91IHdpdGggcmVsZXZhbnQgcHJvZHVjdCBhbmQgc2VydmljZSBvZmZlcmluZ3MgdG8gYmV0dGVyIHJlc3BvbmQgdG8geW91ciBzcGVjaWZpYyBwcm9kdWN0IG9yIHNlcnZpY2UgaW5xdWlyaWVzIG9yIHJlc3BvbmQgdG8gY29tcGxhaW50cy4gSWYgdXNpbmcgdGhlIERlYWxlciBMb2NhdG9yIG9yIEJ1aWxkIE15IEt1Ym90YSBmdW5jdGlvbmFsaXR5LCB5b3VyIGluZm9ybWF0aW9uIG1heSBiZSBwcm92aWRlZCB0byBvdXIgZGVhbGVycyB0byBzYXRpc2Z5IHlvdXIgcmVxdWVzdC48L3A+DQo8L2Rpdj4NCg0KPGRpdj4NCjxwIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lOyI+PHN0cm9uZz5NYXJrZXRpbmcgYW5kIFByb21vdGlvbnM8L3N0cm9uZz48L3A+DQoNCjxwPkt1Ym90YSBtYXkgdXNlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRocm91Z2ggdHJhbnNhY3Rpb25zIGFuZCB0aHJvdWdoIG91ciB3ZWJzaXRlcyB0byBtYXJrZXQgbmV3IHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyB0byB5b3UuPC9wPg0KPC9kaXY+DQoNCjxkaXY+DQo8cCBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPjxzdHJvbmc+Q3VzdG9tZXIgU2VydmljZSBhbmQgU3VwcG9ydDwvc3Ryb25nPjwvcD4NCg0KPHA+V2UgY29sbGVjdCBhbmQgdXNlIGluZm9ybWF0aW9uIGFib3V0IHlvdSB0byBzdXBwb3J0IG91ciBjdXN0b21lciBzZXJ2aWNlIGFuZCBzdXBwb3J0IGFjdGl2aXRpZXMgb3IgcmVsYXRlZCB0cmFuc2FjdGlvbnMuIFRoaXMgY2FuIGluY2x1ZGUsIGJ1dCBpcyBub3QgbGltaXRlZCB0bywgd2FycmFudHkgc2VydmljZXMsIGZpbmFuY2luZyBvciBwdXJjaGFzaW5nLCBwcm9kdWN0IGRlbGl2ZXJ5IGFuZCBtYWludGVuYW5jZSBzdXBwb3J0LjwvcD4NCjwvZGl2Pg0KDQo8ZGl2Pg0KPHAgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7Ij48c3Ryb25nPkVtcGxveW1lbnQgT3Bwb3J0dW5pdGllczwvc3Ryb25nPjwvcD4NCg0KPHA+SW5mb3JtYXRpb24gY29sbGVjdGVkIHRocm91Z2ggdGhlIEt1Ym90YSBDYXJlZXJzIHBvcnRhbCBpcyB1c2VkIGluIG91ciByZWNydWl0bWVudCBwcm9jZXNzLiBJdCBpcyBvbmx5IHNoYXJlZCB3aXRoIEt1Ym90YSBIdW1hbiBSZXNvdXJjZXMgYW5kIHNwZWNpZmljIG1hbmFnZW1lbnQgdGhhdCBoYXZlIGEgbmVlZCB0byB2aWV3IHRoZSBpbmZvcm1hdGlvbiBhcyBpdCByZWxhdGVzIHRvIGFuIGVtcGxveW1lbnQgb3Bwb3J0dW5pdHkuPC9wPg0KPC9kaXY+DQoNCjxkaXY+DQo8cCBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPjxzdHJvbmc+V2Vic2l0ZSBJbXByb3ZlbWVudDwvc3Ryb25nPjwvcD4NCg0KPHA+QW5vbnltaXplZCBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgdGhyb3VnaCBnZW5lcmFsIHVzZSBvZiBvdXIgd2Vic2l0ZXMgaXMgdXNlZCB0byBiZXR0ZXIgdW5kZXJzdGFuZCBvdXIgdmlzaXRvcnMgYW5kIHRvIGltcHJvdmUgdGhlIG92ZXJhbGwgYnJvd3NpbmcgZXhwZXJpZW5jZS48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj48c3Ryb25nPjxzcGFuIGNsYXNzPSJzaXplMTFfYmxhY2siPlRISVJELVBBUlRZIFVTRSBBTkQgRElTQ0xPU1VSRTwvc3Bhbj48L3N0cm9uZz48YnIgLz4NCkt1Ym90YSB1bmRlcnN0YW5kcyBjb25zdW1lciBjb25jZXJuIG92ZXIgdGhlIHNoYXJpbmcgb2YgdGhlaXIgaW5mb3JtYXRpb24gd2l0aCBvdGhlciBwYXJ0aWVzLiBGb3IgdGhpcyByZWFzb24sIEt1Ym90YSBkb2VzIG5vdCBzaGFyZSB5b3VyIGluZm9ybWF0aW9uIGV4Y2VwdCBhcyBkZXNjcmliZWQgaW4gdGhpcyBQb2xpY3kuIFdlIG1heSBhbHNvIHNoYXJlIHlvdXIgaW5mb3JtYXRpb24gd2l0aCB0aGUgZm9sbG93aW5nIHBhcnRpZXM6PC9kaXY+DQoNCjxkaXY+DQo8dWwgc3R5bGU9Imxpc3Qtc3R5bGU6ZGlzYyBvdXRzaWRlOyI+DQoJPGxpPkJ1c2luZXNzIHBhcnRuZXJzLCBkZWFsZXJzIGFuZCBzZXJ2aWNlIHByb3ZpZGVycyB0byBwcm92aWRlIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyByZWxhdGluZyB0byB0aGUgc2FsZSBvZiBLdWJvdGEgcHJvZHVjdHMsIGludGVybmFsIGNvbXBhbnkgcHJvY2Vzc2VzIG9yIHRoZSBzZXJ2aWNpbmcgb2YgeW91ciBhY2NvdW50cyBvciB0cmFuc2FjdGlvbnM8L2xpPg0KCTxsaT5NYXJrZXRpbmcgcGFydG5lcnMgdG8gbWFya2V0IHRvIHlvdSBkaXJlY3RseTwvbGk+DQoJPGxpPkF1ZGl0b3JzLCByZWd1bGF0b3JzIGFuZCBvdGhlciBlbnRpdGllcywgd2hlcmUgbGVnYWxseSByZXF1aXJlZDwvbGk+DQoJPGxpPkFzIG5lZWRlZCB0byBwcm90ZWN0IG91ciByaWdodHMgb3IgcHJvcGVydHk8L2xpPg0KCTxsaT5PdXIgYWZmaWxpYXRlZCBjb21wYW5pZXMgKGkuZS4sIGNvbXBhbmllcyB1bmRlciBjb21tb24gY29udHJvbCBvciBtYW5hZ2VtZW50IHdpdGggdXMpLjwvbGk+DQo8L3VsPg0KPC9kaXY+DQoNCjxkaXY+S3Vib3RhIGRvZXMgbm90IHNoYXJlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2l0aCBvdGhlciB1bmFmZmlsaWF0ZWQgdGhpcmQtcGFydGllcyBmb3IgdGhlaXIgb3duIGRpcmVjdCBtYXJrZXRpbmcgcHVycG9zZXMuIEFsbCBvZiBvdXIgdmVuZG9ycyBhcmUgcmVxdWlyZWQgdG8gcHJvdGVjdCB5b3VyIGluZm9ybWF0aW9uIGluIGFueSB3YXkgdGhleSBpbnRlcmFjdCB3aXRoIGl0LCBhbmQgYXJlIGxpbWl0ZWQgdG8gdXNpbmcgaXQgb25seSBpbiBhY2NvcmRhbmNlIHdpdGggdGhlaXIgaW50ZW5kZWQgcHVycG9zZS4NCjxwPkt1Ym90YSBtYXkgYWxzbyBzaGFyZSBvciB0cmFuc2ZlciB5b3VyIGluZm9ybWF0aW9uIHRvIHRoaXJkIHBhcnRpZXM6IChhKSB3aGVuIG5lY2Vzc2FyeSB0byBjb21wbHkgd2l0aCBmZWRlcmFsIG9yIHN0YXRlIGxhdywgYSBjb3VydCBvcmRlciBvciBvdGhlciBsZWdhbCBvciByZWd1bGF0b3J5IHByb2Nlc3M7IChiKSB0byBwcm90ZWN0IG91ciByaWdodHMgb3IgcHJvcGVydHk7IG9yIChjKSBpbiBjb25uZWN0aW9uIHdpdGggdGhlIHNhbGUgb2YgYXNzZXRzIGFuZC9vciB0aGUgY29tcGFueS48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj48c3Ryb25nPjxzcGFuIGNsYXNzPSJzaXplMTFfYmxhY2siPk5PVElDRSwgQ0hPSUNFIEFORCBDT05TRU5UPC9zcGFuPjwvc3Ryb25nPjxiciAvPg0KV2hlcmUgYWxsb3dlZCBieSBzdGF0ZSBhbmQgZmVkZXJhbCBsYXcsIHlvdSBtYXkgb3B0IG91dCBvZiBvdXIgdXNlIG9mIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gY29sbGVjdGVkIHRocm91Z2ggdGhlIEt1Ym90YSB3ZWJzaXRlcyB0byBtYXJrZXQgS3Vib3RhIHNlcnZpY2VzLCBieSB1c2luZyBvdXIgPGEgY2xhc3M9ImNvbnRhY3RGb3JtTGluayIgaHJlZj0iL2NvbnRhY3R1cy9Db250YWN0S3Vib3RhRm9ybS5hc3B4P3M9Y3MiPkNvbnRhY3QgVXM8L2E+IGZvcm0gYW5kIHNlbGVjdGluZyAmcXVvdDtLVEMgTWFya2V0aW5nIE9wdCBPdXQmcXVvdDsgaW4gdGhlIHN1YmplY3QgbGluZSBkcm9wIGRvd24gbWVudS4gSWYgeW91IGZpbmFuY2VkIHlvdXIgZXF1aXBtZW50IHRocm91Z2ggS0NDLCBjYWxsICg4ODgpIDQ2NS04MjY4IHRvIG9wdCBvdXQuIFBsZWFzZSBub3RlIHRoYXQgZXZlbiBpZiB5b3Ugb3B0LW91dCBvZiByZWNlaXZpbmcgbWFya2V0aW5nIG1hdGVyaWFsLCB3ZSBtYXkgc3RpbGwgbmVlZCB0byBjb250YWN0IHlvdSB3aXRoIGltcG9ydGFudCBpbmZvcm1hdGlvbiBhYm91dCB5b3VyIGFjY291bnQgb3IgeW91ciBlcXVpcG1lbnQuIEZvciBleGFtcGxlLCBldmVuIGlmIHlvdSBvcHQtb3V0IG9mIG1hcmtldGluZyBlLW1haWxzLCB3ZSB3aWxsIHN0aWxsIHNlbmQgeW91IGEgY29uZmlybWF0aW9uIHdoZW4geW91IHB1cmNoYXNlIHNvbWV0aGluZyBmcm9tIG91ciB3ZWJzaXRlLCBhcyB3ZWxsIGFzIHByb2R1Y3Qgc2FmZXR5IGNvbW11bmljYXRpb25zLg0KDQo8cD5JZiB5b3Ugd291bGQgbGlrZSB0byBtaW5pbWl6ZSB0aGUgaW5mb3JtYXRpb24gY29sbGVjdGVkIG9uIHlvdXIgYnJvd3Npbmcgb2Ygb3VyIHdlYnNpdGVzLCB5b3UgbWF5IGNob29zZSBub3QgdG8gdXNlIGFsbCBmZWF0dXJlcyBvbiBvdXIgd2Vic2l0ZXMuIFRoaXMgbWF5IGxpbWl0IHlvdXIgb25saW5lIGV4cGVyaWVuY2UgYW5kIGF2YWlsYWJsZSBmdW5jdGlvbmFsaXR5IG9uIHRoZSB3ZWJzaXRlcy4gWW91IG1heSBhbHNvIG1hbmFnZSB0aGUgaW5mb3JtYXRpb24gd2UgY29sbGVjdCB0aHJvdWdoIG91ciB3ZWJzaXRlcyBieSBhZGp1c3RpbmcgdGhlIGNvb2tpZSBhbmQgcHJpdmFjeSBzZXR0aW5ncyBpbiB5b3VyIHdlYiBicm93c2VyIG9yIHlvdXIgbW9iaWxlIGRldmljZS48L3A+DQoNCjxwPkt1Ym90YSBtYXkgc3RpbGwgY29udGFjdCB5b3UgZm9yIGluZm9ybWF0aW9uIG5lZWRlZCB0byBzZXJ2aWNlIHlvdXIgYWNjb3VudCwgbWFjaGluZSBvciB0byBzdXBwb3J0IG9uZ29pbmcgdHJhbnNhY3Rpb25zIHJlbGF0ZWQgdG8geW91ciBhY2NvdW50LjwvcD4NCjwvZGl2Pg0KDQo8ZGl2PiZuYnNwOzwvZGl2Pg0KDQo8ZGl2PjxzdHJvbmc+PHNwYW4gY2xhc3M9InNpemUxMV9ibGFjayI+UkVRVUVTVFMgVE8gUkVWSUVXIEFORCBSRVFVRVNUIENIQU5HRVMgVE8gWU9VUiBQRVJTT05BTCBJTkZPUk1BVElPTjwvc3Bhbj48L3N0cm9uZz48YnIgLz4NCktlZXBpbmcgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBhY2N1cmF0ZSBhbmQgdXAtdG8tZGF0ZSBpcyB2ZXJ5IGltcG9ydGFudC4gUGxlYXNlIGVtYWlsIHVzIGF0IDxhIGhyZWY9Im1haWx0bzpLdWJvdGFQcml2YWN5QGt1Ym90YS5jb20iIHRhcmdldD0iX2JsYW5rIj5LdWJvdGFQcml2YWN5QGt1Ym90YS5jb208L2E+IGlmIHlvdSB3YW50IHRvIHJlcXVlc3QsIGNvcnJlY3Qgb3IgdXBkYXRlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgcG9zc2Vzcy4NCg0KPHA+VG8gcHJvdGVjdCB5b3VyIHByaXZhY3ksIHlvdSB3aWxsIGJlIHJlcXVpcmVkIHRvIHByb3ZpZGUgYXV0aGVudGljYXRpbmcgaW5mb3JtYXRpb24gcHJpb3IgdG8gbWFraW5nIGNoYW5nZXMgb3IgZ2FpbmluZyBhY2Nlc3MgdG8geW91ciBpbmZvcm1hdGlvbi4gV2Ugd2lsbCByZXNwb25kIHRvIGFsbCBpbnF1aXJpZXMgYW5kIHJlcXVlc3RzIHRvIHJldmlldyBhbmQgcmVxdWVzdCBjaGFuZ2VzIHRvIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpdGhpbiBhIHJlYXNvbmFibGUgdGltZS48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj48c3Ryb25nPjxzcGFuIGNsYXNzPSJzaXplMTFfYmxhY2siPlNFQ1VSSVRZIE9GIFlPVVIgSU5GT1JNQVRJT048L3NwYW4+PC9zdHJvbmc+PGJyIC8+DQpObyBkYXRhIHRyYW5zbWlzc2lvbiBvdmVyIHRoZSBJbnRlcm5ldCBjYW4gYmUgZ3VhcmFudGVlZCB0byBiZSAxMDAlIHNlY3VyZS4gQWNjb3JkaW5nbHksIGRlc3BpdGUgb3VyIGVmZm9ydHMgdG8gcHJvdGVjdCB5b3VyIGluZm9ybWF0aW9uLCBLdWJvdGEgY2Fubm90IGVuc3VyZSBvciB3YXJyYW50IHRoZSBzZWN1cml0eSBvZiBhbnkgaW5mb3JtYXRpb24geW91IHRyYW5zbWl0IHRvIHVzIG9ubGluZS4gWW91IHRyYW5zbWl0IGFsbCBzdWNoIGluZm9ybWF0aW9uIGF0IHlvdXIgb3duIHJpc2suDQo8cD5LdWJvdGEgbWFpbnRhaW5zIGNvbW1lcmNpYWxseSByZWFzb25hYmxlIGFkbWluaXN0cmF0aXZlLCBwaHlzaWNhbCBhbmQgdGVjaG5pY2FsIHNhZmVndWFyZHMgaW50ZW5kZWQgdG8gcHJvdGVjdCB0aGUgY29uZmlkZW50aWFsaXR5LCBpbnRlZ3JpdHkgYW5kIGF2YWlsYWJpbGl0eSBvZiB0aGUgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgdG8gdXMuIFdlIHBlcmlvZGljYWxseSBhc3Nlc3Mgcmlza3MgdG8geW91ciBpbmZvcm1hdGlvbiBhbmQgdXBkYXRlIG91ciBwb2xpY2llcywgcHJvY2VkdXJlcyBhbmQgdGVjaG5vbG9neSBhY2NvcmRpbmdseS48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj4NCjxwPjxzdHJvbmc+PHNwYW4gY2xhc3M9InNpemUxMV9ibGFjayI+Q0hJTERSRU4mIzM5O1MgUFJJVkFDWTwvc3Bhbj48L3N0cm9uZz48YnIgLz4NCkt1Ym90YSBkb2VzIG5vdCBrbm93aW5nbHkgY29sbGVjdCBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBmcm9tIG9yIG1hcmtldCB0byBjaGlsZHJlbiB1bmRlciB0aGUgYWdlIG9mIDEzLiBJZiBhIGNoaWxkIHVuZGVyIHRoZSBhZ2Ugb2YgMTMgaGFzIHByb3ZpZGVkIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIHRvIEt1Ym90YSB0aHJvdWdoIG91ciB3ZWJzaXRlLCBhIHBhcmVudCBvciBndWFyZGlhbiBtYXkgY29udGFjdCA8YSBocmVmPSJtYWlsdG86S3Vib3RhUHJpdmFjeUBrdWJvdGEuY29tIiB0YXJnZXQ9Il9ibGFuayI+S3Vib3RhUHJpdmFjeUBrdWJvdGEuY29tPC9hPiByZXF1ZXN0IHRoZSBpbmZvcm1hdGlvbiBiZSBkZWxldGVkIGZyb20gb3VyIHJlY29yZHMuIEZvbGxvd2luZyByZWNlaXB0IG9mIHN1Y2ggYSByZXF1ZXN0LCB3ZSB3aWxsIG1ha2UgcmVhc29uYWJsZSBlZmZvcnRzIHRvIGRlbGV0ZSB0aGUgY2hpbGQmIzM5O3MgaW5mb3JtYXRpb24gZnJvbSBvdXIgcmVjb3Jkcy48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCg0KPGRpdj48c3Ryb25nPjxzcGFuIGNsYXNzPSJzaXplMTFfYmxhY2siPkxJTktTIFRPIE9USEVSIFNJVEVTPC9zcGFuPjwvc3Ryb25nPjxiciAvPg0KS3Vib3RhIG1heSB1c2UgdGhpcmQtcGFydHkgaW50ZWdyYXRpb24gaW4gdG8gb3VyIHdlYnNpdGVzIHRocm91Z2ggYSB0ZWNobm9sb2d5IGNhbGxlZCBpRnJhbWVzIHRvIGJldHRlciBzZXJ2ZSB5b3VyIG5lZWRzIHdoaWxlIHlvdSBhcmUgb24gS3Vib3RhJnJzcXVvO3Mgd2Vic2l0ZS4gU29tZSB1c2Ugb2YgaUZyYW1lcyByZXByZXNlbnRzIHRoZSB0aGlyZC1wYXJ0eSZyc3F1bztzIHNlcnZpY2VzIHdlIHVzZSB0byBwZXJmb3JtIGEgc3BlY2lmaWMgZnVuY3Rpb24uIFdlIGFsc28gdXNlIHNvY2lhbCBtZWRpYSBwYWdlcyBsaWtlIEZhY2Vib29rLCBhbmQgbWF5IGludGVncmF0ZSBpbmZvcm1hdGlvbiBwcm92aWRlZCB0aGVyZWluIHRvIG91ciBtYXJrZXRpbmcgcHJhY3RpY2VzLiBXZSBlbmNvdXJhZ2UgeW91IHRvIHJlYWQgdGhlIGZvbGxvd2luZyBjb21wYW5pZXMmIzM5OyBwcml2YWN5IHBvbGljaWVzIHRvIGJldHRlciB1bmRlcnN0YW5kIHRoZWlyIGNvbGxlY3Rpb24sIHVzZSBhbmQgZGlzY2xvc3VyZSBvZiB5b3VyIGluZm9ybWF0aW9uOg0KPHVsIHN0eWxlPSJsaXN0LXN0eWxlOmRpc2Mgb3V0c2lkZTsiPg0KCTxsaT48YSBocmVmPSJodHRwOi8vd3d3LmNlcmlkaWFuLmNvbS9hYm91dC11cy9jb3Jwb3JhdGUvcHJpdmFjeS1wb2xpY3kuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiPkNlcmlkaWFuPC9hPiAoS3Vib3RhIENhcmVlcnMpPC9saT4NCgk8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdGFwbGVzcHJvbW90aW9uYWxwcm9kdWN0cy5jb20vUHJpdmFjeVBvbGljeS5hc3B4IiB0YXJnZXQ9Il9ibGFuayI+U3RhcGxlczwvYT4gKE1lcmNoYW5kaXNlIFB1cmNoYXNlcyk8L2xpPg0KCTxsaT48YSBocmVmPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vYWJvdXQvcHJpdmFjeS8iIHRhcmdldD0iX2JsYW5rIj5LdWJvdGEgRmFjZWJvb2sgUGFnZTwvYT4gKFNvY2lhbCBNZWRpYSk8L2xpPg0KPC91bD4NCjwvZGl2Pg0KDQo8ZGl2PiZuYnNwOzwvZGl2Pg0KDQo8ZGl2Pg0KPHA+PHN0cm9uZz48c3BhbiBjbGFzcz0ic2l6ZTExX2JsYWNrIj5QUklWQUNZIFBPTElDWSBVUERBVEVTPC9zcGFuPjwvc3Ryb25nPjxiciAvPg0KQXMgd2UgY29udGludWUgdG8gaW1wcm92ZSB0aGUgcHJvZHVjdHMsIHNlcnZpY2VzLCBhbmQgb2ZmZXJpbmdzIHRvIGNvbnN1bWVycywgd2Ugb2NjYXNpb25hbGx5IHdpbGwgdXBkYXRlIHRoaXMgUG9saWN5LiBLdWJvdGEgcmVzZXJ2ZXMgdGhlIHJpZ2h0LCBhdCBpcyBzb2xlIGRpc2NyZXRpb24sIHRvIGNoYW5nZSwgbW9kaWZ5LCBhZGQgb3IgcmVtb3ZlIGFueSBwb3J0aW9uIG9mIHRoaXMgUG9saWN5IGluIHdob2xlIG9yIGluIHBhcnQsIGF0IGFueSB0aW1lIGFuZCB3aXRob3V0IGdpdmluZyBwcmlvciBub3RpY2UuIEFjY29yZGluZ2x5LCB3ZSByZWNvbW1lbmQgY2hlY2tpbmcgYmFjayB0byB0aGlzIHBhZ2UgcGVyaW9kaWNhbGx5IHRvIHN0YXkgYWJyZWFzdCBvZiBvdXIgbmV3IHByaXZhY3kgcHJhY3RpY2VzIG9yIGNoYW5nZXMgdG8gdGhpcyBQb2xpY3kuPC9wPg0KPC9kaXY+DQoNCjxkaXY+Jm5ic3A7PC9kaXY+DQoNCjxkaXY+PHN0cm9uZz48c3BhbiBjbGFzcz0ic2l6ZTExX2JsYWNrIj5PVEhFUiBJTVBPUlRBTlQgSU5GT1JNQVRJT048L3NwYW4+PC9zdHJvbmc+PC9kaXY+DQoNCjxkaXY+DQo8cCBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTsiPjxzdHJvbmc+Q2FsaWZvcm5pYSBSZXNpZGVudHMgT25seTo8L3N0cm9uZz48L3A+DQoNCjxwPlRoZSBDYWxpZm9ybmlhICZxdW90O1NoaW5lIHRoZSBMaWdodCBMYXcsJnF1b3Q7IENhbGlmb3JuaWEgQ2l2aWwgQ29kZSBTZWN0aW9uIDE3OTguODMsIHBlcm1pdHMgQ2FsaWZvcm5pYSByZXNpZGVudHMgdG8gcmVxdWVzdCBhbmQgb2J0YWluIG9uY2UgYSB5ZWFyLCBmcmVlIG9mIGNoYXJnZSwgaW5mb3JtYXRpb24gYWJvdXQgUGVyc29uYWwgSW5mb3JtYXRpb24gKGFzIGRlZmluZWQgYnkgQ2FsaWZvcm5pYSBsYXcpLCBpZiBhbnksIHRoYXQgd2UgZGlzY2xvc2UgdG8gY2VydGFpbiB0aGlyZCBwYXJ0aWVzIGZvciBkaXJlY3QgbWFya2V0aW5nIHB1cnBvc2VzIGluIHRoZSBwcmVjZWRpbmcgY2FsZW5kYXIgeWVhci4gQ2FsaWZvcm5pYSByZXNpZGVudHMgbWF5IG1ha2Ugc3VjaCBhIHJlcXVlc3QgaW4gd3JpdGluZyBieSBlbWFpbGluZyA8YSBocmVmPSJtYWlsdG86S3Vib3RhUHJpdmFjeUBrdWJvdGEuY29tIiB0YXJnZXQ9Il9ibGFuayI+S3Vib3RhUHJpdmFjeUBrdWJvdGEuY29tPC9hPiB3aXRoIHlvdXIgbmFtZSBhbmQgYWRkcmVzcywgYW5kIG5vdGluZyAmbGRxdW87Q2FsaWZvcm5pYSBTaGluZSB0aGUgTGlnaHQgUmVxdWVzdCZyZHF1bzsgaW4gdGhlIHN1YmplY3QgbGluZSBvZiB0aGUgZS1tYWlsLiBXaXRoaW4gdGhpcnR5ICgzMCkgZGF5cyBvZiByZWNlaXZpbmcgeW91ciByZXF1ZXN0LCBhbmQgd2hlcmUgcmVxdWlyZWQgYnkgbGF3LCBLdWJvdGEgd2lsbCBzZW5kIHlvdSBhIGxpc3Qgb2YgdGhlIGNhdGVnb3JpZXMgb2YgcGVyc29uYWwgaW5mb3JtYXRpb24gZGlzY2xvc2VkIGZvciB0aGlyZC1wYXJ0eSBkaXJlY3QgbWFya2V0aW5nIHB1cnBvc2VzIGR1cmluZyB0aGUgaW1tZWRpYXRlbHkgcHJlY2VkaW5nIGNhbGVuZGFyIHllYXIsIGFsb25nIHdpdGggdGhlIG5hbWVzIGFuZCBhZGRyZXNzZXMgb2YgdGhlc2UgdGhpcmQgcGFydGllcy48L3A+DQo8L2Rpdj4NCg0KPGRpdj4NCjxwIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lOyI+PHN0cm9uZz5Db25uZWN0aWN1dCBSZXNpZGVudHMgT25seTo8L3N0cm9uZz48L3A+DQoNCjxwPkt1Ym90YSYjMzk7cyBTb2NpYWwgU2VjdXJpdHkgTnVtYmVyIFBvbGljeSAoMSkgcHJvdGVjdHMgdGhlIGNvbmZpZGVudGlhbGl0eSBvZiBTb2NpYWwgU2VjdXJpdHkgbnVtYmVycywgKDIpIHByb2hpYml0cyB1bmxhd2Z1bCBkaXNjbG9zdXJlIG9mIFNvY2lhbCBTZWN1cml0eSBudW1iZXJzIGFuZCAoMykgbGltaXRzIGFjY2VzcyB0byBTb2NpYWwgU2VjdXJpdHkgbnVtYmVycy48L3A+DQo8L2Rpdj4NCg0KPGRpdj4mbmJzcDs8L2Rpdj4NCmRk5WvxGm+OT8uQP4eL50ylRzJdE0A=">
 
 
 <script src="/ScriptResource.axd?d=2P-vMImz2V8GUisOa47UJFpmnHoCUIfuE3QRIrzIHms5EqRE2fI5yiz6q4D73Dcx_JzD4sR1FZ6pGCFQ3EY4BiP2Js4ObFFYGJkxsjRjhh0frf33K8JyA-aLzd-KyxMakkS9GGRM9YLZkjYgDC6s5ktvz77Yhvhv6fUl2TU68IXlhv8L0&amp;t=6119e399" type="text/javascript"></script>
@@ -840,14 +921,8 @@ function __doPostBack(eventTarget, eventArgument) {
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
-
-<script src="/ScriptResource.axd?d=9eYeuSn5uCRtiasnQU9P_5iSbtLWGXqj3cE5afHIo5kW-jUhJ4K2MESLlrs5Ez1R-RA_Rx0jxqDknWIX0C9HYf4vhbt93hjqhsNOvZy3MlJjMJJtL1Z52a0E8EZmIefRN314hUGMvmZFH746wVNjPtrWBlPW1IL90G1kCH9s0ri7BcbuwIdmkTR1vRBCLXnlMm3uZQ2&amp;t=6119e399" type="text/javascript"></script>  
-		<script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [], 90, '');
-//]]>
-</script>
   
+		  
 			
 		<div style="margin:0 auto;width:960px;">
 			<div style="height:54px;background-color:#EAF3F5;">
@@ -858,9 +933,254 @@ Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [
 			</div>
 			<div style="min-height:400px !important;background-color:#EAF3F5;padding:20px;">
 			
-				<div id="KTCprivacy_privacyContent_LblText"> 
-<div>Kubota Tractor Corporation respects the online privacy of all individuals who visit our website. The Kubota Tractor Corporation website has a guest registry, and may from time to time include surveys or other feedback forms which request certain personal identity information. The personal identity information collected may be used to provide information to site registrants regarding our products, company or promotional offers. This personal identity information may be transmitted to our dealers or other business partners. We will not give, rent or sell personal identity information to any other outside company for use in marketing or solicitation. We will exercise reasonable efforts to maintain the confidentiality of your personal identity information.</div>
-<p>Customers of Kubota Credit Corporation can click <a href="/finance/KCCPolicy.aspx">here</a> to see the Confidentiality Policy of KCC relating to that financial relationship.</p> </div>
+				<div id="KTCprivacy_privacyContent_LblText"><p style="width:100%; text-align:center;"><strong><span class="size11_black">KUBOTA TRACTOR CORPORATION, KUBOTA CREDIT CORPORATION AND KUBOTA TRACTOR<br>
+ACCEPTANCE CORPORATION AND AFFILIATES ONLINE PRIVACY POLICY</span></strong><br>
+Effective Date: <strong>01/01/2016</strong></p>
+
+<div><strong><span class="size11_black">OUR APPROACH TO PRIVACY</span></strong><br>
+Kubota Tractor Corporation (“KTC”), Kubota Credit Corporation, U.S.A (“KCC”), Kubota Tractor Acceptance Corporation (“KTAC”) and their affiliates (collectively, “Kubota”) take your privacy seriously. Kubota understands transparency and respect are foundational aspects of longstanding relationships and, therefore, takes every reasonable effort to protect the information you provide to us.</div>
+
+<div>&nbsp;</div>
+
+<div>Our Online Privacy Policy (the "Policy") outlines:
+<ul style="list-style:disc outside;">
+	<li>How we collect your personal information</li>
+	<li>What personal information we collect</li>
+	<li>How we use that personal information</li>
+	<li>How we may share that personal information</li>
+	<li>How we protect your information</li>
+	<li>Your choices regarding your personal information</li>
+</ul>
+</div>
+
+<div>Please read this Policy and the Terms of Use carefully to understand our policies and practices regarding your personal information. By accessing, using or submitting your personal information to our websites, you agree to this Policy and our Terms of Use.</div>
+
+<div>&nbsp;</div>
+
+<div>If you have visited our <a href="https://www.kubotacreditusa.com/homePrepare.do" target="_blank">finance website</a> or have applied for financing through KCC, please refer to the <a href="https://www.kubotacreditusa.com/privacyPolicy.jsp" target="_blank">KCC Consumer Privacy Notice</a> for more information on how we collect, share and protect certain of your personal information. Kubota products are distributed through our network of Kubota dealers, independently owned and operated businesses, which may have their own privacy policies.</div>
+
+<div>&nbsp;</div>
+
+<div>If you have any questions regarding this Policy or our privacy practices, please e-mail <a href="mailto:KubotaPrivacy@kubota.com" target="_blank">KubotaPrivacy@kubota.com</a>.</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">COLLECTION METHODS</span></strong><br>
+Information is collected from you in the following ways:</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span style="text-decoration:underline;">Directly from You</span></strong>
+
+<ul style="list-style:disc outside;">
+	<li>General "Contact Us" Forms</li>
+	<li>Finance applications</li>
+	<li>Product and service inquiry forms</li>
+	<li>Dealer Locator, Dealer Contact Request, and Build My Kubota pages</li>
+	<li>Social media accounts</li>
+	<li>Contests or sweepstakes</li>
+</ul>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>From You Through Third Parties</strong></p>
+
+<p>The following third parties provide services within Kubota websites through a technology called iFrames. If you choose to use these services, we suggest you review those third parties’ privacy policies to better understand what personal information is collected, when it is collected, how it is used and how it is protected as well as when and with whom your personal information is shared or disclosed by those third parties. Kubota does not control these entities or what they do with your information.</p>
+
+<ul style="list-style:disc outside;">
+	<li><a href="http://www.staplespromotionalproducts.com/PrivacyPolicy.aspx" target="_blank">Staples</a> (merchandise purchase): You can purchase high-quality Kubota merchandise through Staples via the Kubota website. Other than the fact that you have purchased Kubota merchandise through Staples, Kubota does not have access to any other information relating to such purchases, such your credit card information, that you provide to Staples.</li>
+	<li><a href="http://www.ceridian.com/about-us/corporate/privacy-policy.html" target="_blank">Ceridian</a> (Kubota Careers job portal): Kubota uses Ceridian to support our employee application portal, Kubota Careers. Kubota Human Resources has access to all information submitted via Ceridian, but only uses such information for recruitment and interviewing processes.</li>
+</ul>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Information Collected from Business Partners and Affiliates</strong></p>
+
+<p>Kubota may collect information from certain of our business partners that support transactions with us or have a relationship with you. This includes, but is not limited to dealers, Kubota affiliates, or 3rd party financial service companies if you apply for credit.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Information Collected Through Use of Our Websites and How We Respond to "Do Not Track" Signals</strong></p>
+
+<p>By using our websites, you consent to the collection of information about your online activities when you use our website through certain online tracking mechanisms deployed on our websites. They collect information regarding your browsing activities that include, but are not limited to, your:</p>
+
+<ul style="list-style:disc outside;">
+	<li>IP address</li>
+	<li>Device type</li>
+	<li>Operating system</li>
+	<li>Browser language</li>
+	<li>Web pages visited, time on the website, and total number of pages viewed</li>
+	<li>Network service provider</li>
+</ul>
+
+<p>We maintain a <a class="adChoices" href="#" target="_blank">full list of online tracking technologies</a> in use on our websites so you can better understand what information is being collected when you use our websites. Kubota does not track its customers over time and across third party websites to provide targeted advertising and therefore our websites do not respond to your web browser "Do Not Track" signals.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Social Media, Surveys and Contests</strong></p>
+
+<p>Kubota uses social media to interact with our customers and other consumers in various ways. Kubota may use aggregate information gathered through interaction with social media accounts or through surveys and contests. We use this information to improve our products, services and marketing effectiveness. We may offer our products and services to you via social media, based on information you have voluntarily provided in accordance with the social media site’s terms and conditions.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">WHAT INFORMATION WE COLLECT</span></strong><br>
+Our websites collect several categories of information, including "Personal Information", "Anonymous Information", and "Product or Inquiry Information." Kubota collects your information to provide the services outlined in this Policy or to serve you as a customer.</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Personal Information</strong></p>
+
+<p>Depending on the functionality you use on our websites, Kubota may collect the following types of personal information:</p>
+
+<ul style="list-style:none outside;">
+	<li><i><span style="text-decoration:underline;">Physical Location and Contact Information</span></i><br>
+	This information allows us to identify and communicate with you, and includes information such as your name, mailing address, e-mail address and phone number.<br>
+	&nbsp;</li>
+	<li><i><span style="text-decoration:underline;">Relationship Information</span></i><br>
+	This information allows us to offer you beneficial products and services that may interest you, such as information regarding your purchases, regional location, inquiries and dealer transactions.<br>
+	&nbsp;</li>
+	<li><i><span style="text-decoration:underline;">Financial Account Information</span></i><br>
+	This information is needed to complete your purchase, such as your credit card information and information about equipment financing and leasing activities.<br>
+	&nbsp;</li>
+	<li><i><span style="text-decoration:underline;">Financing Information</span></i><br>
+	If you apply for financing through KCC, you provide us with personally identifiable information through our website. It includes data such as your first and last name, date of birth, Social Security number, mailing address, e-mail address, home phone numbers and cell phone number, as well as certain employment and income information. We also collect credit information from credit reporting agencies to facilitate the financing transaction and ongoing relationship.</li>
+</ul>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Anonymous Information</strong></p>
+
+<p>By using our websites and online services, you agree to the collection of certain information that Kubota uses to improve our websites’ functionality. This information is not tied to you personally, and is used in aggregate to better understand what webpages our visitors are browsing to, the amount of time they spend on each page, the device type they are using to visit the website, and other technically relevant information.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Product or Inquiry Information</strong></p>
+
+<p>Kubota uses inquiry forms throughout its websites to allow you to request information, including product, service or dealer quote information. Any personal information collected in these forms is used to fulfill your request or to better understand your request. We do not collect sensitive personal information such as Social Security numbers or financial information in these inquiry forms.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">OUR USE OF YOUR INFORMATION</span></strong><br>
+Your personal information may be transferred to and stored on servers located in any country in which we or our affiliated companies do business. We use the information you provide for the following functions:</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Fulfilment of Your Request</strong></p>
+
+<p>When you use our inquiry, contest or survey functionality on our websites, we may use submitted information in conjunction with other information we have about you to supply you with relevant product and service offerings to better respond to your specific product or service inquiries or respond to complaints. If using the Dealer Locator or Build My Kubota functionality, your information may be provided to our dealers to satisfy your request.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Marketing and Promotions</strong></p>
+
+<p>Kubota may use information you provide through transactions and through our websites to market new products and services to you.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Customer Service and Support</strong></p>
+
+<p>We collect and use information about you to support our customer service and support activities or related transactions. This can include, but is not limited to, warranty services, financing or purchasing, product delivery and maintenance support.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Employment Opportunities</strong></p>
+
+<p>Information collected through the Kubota Careers portal is used in our recruitment process. It is only shared with Kubota Human Resources and specific management that have a need to view the information as it relates to an employment opportunity.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Website Improvement</strong></p>
+
+<p>Anonymized information collected through general use of our websites is used to better understand our visitors and to improve the overall browsing experience.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">THIRD-PARTY USE AND DISCLOSURE</span></strong><br>
+Kubota understands consumer concern over the sharing of their information with other parties. For this reason, Kubota does not share your information except as described in this Policy. We may also share your information with the following parties:</div>
+
+<div>
+<ul style="list-style:disc outside;">
+	<li>Business partners, dealers and service providers to provide products and services relating to the sale of Kubota products, internal company processes or the servicing of your accounts or transactions</li>
+	<li>Marketing partners to market to you directly</li>
+	<li>Auditors, regulators and other entities, where legally required</li>
+	<li>As needed to protect our rights or property</li>
+	<li>Our affiliated companies (i.e., companies under common control or management with us).</li>
+</ul>
+</div>
+
+<div>Kubota does not share your personal information with other unaffiliated third-parties for their own direct marketing purposes. All of our vendors are required to protect your information in any way they interact with it, and are limited to using it only in accordance with their intended purpose.
+<p>Kubota may also share or transfer your information to third parties: (a) when necessary to comply with federal or state law, a court order or other legal or regulatory process; (b) to protect our rights or property; or (c) in connection with the sale of assets and/or the company.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">NOTICE, CHOICE AND CONSENT</span></strong><br>
+Where allowed by state and federal law, you may opt out of our use of your personal information collected through the Kubota websites to market Kubota services, by using our <a class="contactFormLink cboxElement" href="/contactus/ContactKubotaForm.aspx?s=cs">Contact Us</a> form and selecting "KTC Marketing Opt Out" in the subject line drop down menu. If you financed your equipment through KCC, call (888) 465-8268 to opt out. Please note that even if you opt-out of receiving marketing material, we may still need to contact you with important information about your account or your equipment. For example, even if you opt-out of marketing e-mails, we will still send you a confirmation when you purchase something from our website, as well as product safety communications.
+
+<p>If you would like to minimize the information collected on your browsing of our websites, you may choose not to use all features on our websites. This may limit your online experience and available functionality on the websites. You may also manage the information we collect through our websites by adjusting the cookie and privacy settings in your web browser or your mobile device.</p>
+
+<p>Kubota may still contact you for information needed to service your account, machine or to support ongoing transactions related to your account.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">REQUESTS TO REVIEW AND REQUEST CHANGES TO YOUR PERSONAL INFORMATION</span></strong><br>
+Keeping your personal information accurate and up-to-date is very important. Please email us at <a href="mailto:KubotaPrivacy@kubota.com" target="_blank">KubotaPrivacy@kubota.com</a> if you want to request, correct or update your personal information we possess.
+
+<p>To protect your privacy, you will be required to provide authenticating information prior to making changes or gaining access to your information. We will respond to all inquiries and requests to review and request changes to personal information within a reasonable time.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">SECURITY OF YOUR INFORMATION</span></strong><br>
+No data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your information, Kubota cannot ensure or warrant the security of any information you transmit to us online. You transmit all such information at your own risk.
+<p>Kubota maintains commercially reasonable administrative, physical and technical safeguards intended to protect the confidentiality, integrity and availability of the information you provide to us. We periodically assess risks to your information and update our policies, procedures and technology accordingly.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div>
+<p><strong><span class="size11_black">CHILDREN'S PRIVACY</span></strong><br>
+Kubota does not knowingly collect personally identifiable information from or market to children under the age of 13. If a child under the age of 13 has provided personally identifiable information to Kubota through our website, a parent or guardian may contact <a href="mailto:KubotaPrivacy@kubota.com" target="_blank">KubotaPrivacy@kubota.com</a> request the information be deleted from our records. Following receipt of such a request, we will make reasonable efforts to delete the child's information from our records.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">LINKS TO OTHER SITES</span></strong><br>
+Kubota may use third-party integration in to our websites through a technology called iFrames to better serve your needs while you are on Kubota’s website. Some use of iFrames represents the third-party’s services we use to perform a specific function. We also use social media pages like Facebook, and may integrate information provided therein to our marketing practices. We encourage you to read the following companies' privacy policies to better understand their collection, use and disclosure of your information:
+<ul style="list-style:disc outside;">
+	<li><a href="http://www.ceridian.com/about-us/corporate/privacy-policy.html" target="_blank">Ceridian</a> (Kubota Careers)</li>
+	<li><a href="http://www.staplespromotionalproducts.com/PrivacyPolicy.aspx" target="_blank">Staples</a> (Merchandise Purchases)</li>
+	<li><a href="https://www.facebook.com/about/privacy/" target="_blank">Kubota Facebook Page</a> (Social Media)</li>
+</ul>
+</div>
+
+<div>&nbsp;</div>
+
+<div>
+<p><strong><span class="size11_black">PRIVACY POLICY UPDATES</span></strong><br>
+As we continue to improve the products, services, and offerings to consumers, we occasionally will update this Policy. Kubota reserves the right, at is sole discretion, to change, modify, add or remove any portion of this Policy in whole or in part, at any time and without giving prior notice. Accordingly, we recommend checking back to this page periodically to stay abreast of our new privacy practices or changes to this Policy.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div><strong><span class="size11_black">OTHER IMPORTANT INFORMATION</span></strong></div>
+
+<div>
+<p style="text-decoration:underline;"><strong>California Residents Only:</strong></p>
+
+<p>The California "Shine the Light Law," California Civil Code Section 1798.83, permits California residents to request and obtain once a year, free of charge, information about Personal Information (as defined by California law), if any, that we disclose to certain third parties for direct marketing purposes in the preceding calendar year. California residents may make such a request in writing by emailing <a href="mailto:KubotaPrivacy@kubota.com" target="_blank">KubotaPrivacy@kubota.com</a> with your name and address, and noting “California Shine the Light Request” in the subject line of the e-mail. Within thirty (30) days of receiving your request, and where required by law, Kubota will send you a list of the categories of personal information disclosed for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.</p>
+</div>
+
+<div>
+<p style="text-decoration:underline;"><strong>Connecticut Residents Only:</strong></p>
+
+<p>Kubota's Social Security Number Policy (1) protects the confidentiality of Social Security numbers, (2) prohibits unlawful disclosure of Social Security numbers and (3) limits access to Social Security numbers.</p>
+</div>
+
+<div>&nbsp;</div>
+</div>
  
 
 				
@@ -894,8 +1214,9 @@ Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [
         
         <div id="footer-inner" class="group">
             <ul class="utility">
-                <li class="!last"><a href="/AboutKubota/legal.aspx">Legal Disclaimer</a></li>
+                <li class="!last"><a href="/AboutKubota/legal.aspx">Terms of Use</a></li>
                 <li><a href="/policy/KTCPrivacy.aspx">Privacy Policy</a></li>
+                <li><a class="orgAdChoices" id="_bapw-link" href="#" target="_blank">AdChoices</a></li>
                 <li class="last"><a href="/sitemap.aspx">Site map</a></li>
             </ul>
 
@@ -908,9 +1229,9 @@ Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [
   	<!-- compact footer-->
     <div id="footer-compact" class="footer ui-footer ui-bar-a" data-role="footer" role="contentinfo" style="xdisplay:none;">
         <div>
-            <a href="http://m.kubota.com/Home/Legal" class="ui-link">Legal</a> | <a href="http://m.kubota.com/Home/Privacy" data-ajax="false" class="ui-link">KCC Privacy</a> | <a href="http://m.kubota.com/Home/Contact" data-ajax="false" class="ui-link">Contact Kubota</a>
+            <a href="http://m.kubota.com/Home/Legal" class="ui-link">Terms of Use</a> | <a href="http://m.kubota.com/Home/Privacy" data-ajax="false" class="ui-link">Privacy Policy</a> | <a class="orgAdChoices" id="_bapw-link2" href="http://info.evidon.com/pub_info/6901?v=1&amp;nt=0&amp;nw=false" target="_blank">AdChoices</a> | <a href="http://m.kubota.com/Home/Contact" data-ajax="false" class="ui-link">Contact Kubota</a>
         </div>
-        <div class="copyright">© 2015 Kubota Tractor Corporation. All rights reserved.</div>
+        <div class="copyright">© 2016 Kubota Tractor Corporation. All rights reserved.</div>
     </div>
 
 
@@ -924,7 +1245,13 @@ Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [
     jQuery(document).ready(function () {
         
         siteFooterBrochure();
-         
+        
+		(function() {
+		var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 6901); ev.setAttribute('data-ev-tag-ocid', 3886);
+		ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+		})();
+		
     });
 
     function siteFooterBrochure() {
@@ -969,6 +1296,59 @@ Sys.WebForms.PageRequestManager._initialize('Scriptmanager1', 'form1', [], [], [
     </script>
 
 <script type="text/javascript"> rlrctTRKDOM="rtsys.rtrk.com"; (function() { var rct_load = document.createElement("script"); rct_load.type = "text/javascript"; rct_load.src = document.location.protocol+"//"+rlrctTRKDOM+"/rct_lct/js/rlrct1.js"; (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(rct_load); } )(); </script>
+
+
+
+
+<script type="text/javascript">
+//alert("url: " + "HTTP://WWW.KUBOTA.COM/POLICY/KTCPRIVACY.ASPX");
+// INSTRUCTIONS
+// The VersaTag code should be placed at the top of the <BODY> section of the HTML page.
+// To ensure that the full page loads as a prerequisite for the VersaTag
+// being activated (and the working mode is set to synchronous mode), place the tag at the bottom of the page. Note, however, that this may
+// skew the data for slow-loading pages, and in general is not recommended.
+// If the VersaTag code is configured to run in async mode, place the tag at the bottom of the page before the end of the <BODY > section.
+
+//
+// NOTE: You can test if the tags are working correctly before the campaign launches
+// as follows:  Browse to http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=at, which is 
+// a page that lets you set your local machine to 'testing' mode.  In this mode, when
+// visiting a page that includes a VersaTag, a new window will open, showing you
+// the tags activated by the VersaTag and the data sent by the VersaTag tag to the Sizmek servers.
+//
+// END of instructions (These instruction lines can be deleted from the actual HTML)
+
+var versaTag = {};
+versaTag.id = "5416";
+versaTag.sync = 0;
+versaTag.dispType = "js";
+versaTag.ptcl = "HTTPS";
+versaTag.bsUrl = "http://bs.serving-sys.com/BurstingPipe";
+//VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty.
+versaTag.activityParams = {
+//Predefined parameters:
+"Session":""
+//Custom parameters:
+};
+//Static retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
+versaTag.retargetParams = {};
+//Dynamic retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty.
+versaTag.dynamicRetargetParams = {};
+// Third party tags conditional parameters and mapping rule parameters. Syntax: "CondParam1":"ParamValue1", "CondParam2":"ParamValue2". ParamValue can be empty.
+versaTag.conditionalParams = {};
+</script>
+<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+<noscript>
+<iframe src="https://bs.serving-sys.com/BurstingPipe?
+cn=ot&amp;
+onetagid=5416&amp;
+ns=1&amp;
+activityValues=$$Session=[Session]$$&amp;
+retargetingValues=$$$$&amp;
+dynamicRetargetingValues=$$$$&amp;
+acp=$$$$&amp;"
+style="display:none;width:0px;height:0px"></iframe>
+</noscript>
 
 		</div>
 		
