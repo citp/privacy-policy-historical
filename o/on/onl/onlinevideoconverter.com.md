@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinevideoconverter.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504050650id_/http%3A//www.onlinevideoconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevideoconverter.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623233122id_/http%3A//www.onlinevideoconverter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - N°1 Free Online Video Converter
+# Política de privacidad - OnlineVideoConverter.com
 
 ### 1\. Logging IP Addresses
 
@@ -28,4 +28,4 @@ OnlineVideoConverter.com may contain links to other websites of interest. Howeve
 
 ### 7\. Collected Information
 
-OnlinevideoConverter.com receives and stores information that you enter on the website. This includes requested resources, and video data like the requested filename. This information is stored to improve our processes and track and analyze user activity and is associated with **anonymized** IP addresses. All information you enter is voluntary. None of this information is shared with third parties.
+OnlineVideoConverter.com receives and stores information that you enter on the website. This includes requested resources, and video data like the requested filename. This information is stored to improve our processes and track and analyze user activity and is associated with **anonymized** IP addresses. All information you enter is voluntary. None of this information is shared with third parties.
