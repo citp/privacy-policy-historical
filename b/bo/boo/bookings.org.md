@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127022239id_/http%3A//www.booking.com/general.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624011409id_/http%3A//www.booking.com/general.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
 
-# Booking.com: Privacy and Cookies.
+# Booking.com: Privacy & Cookies.
 
-2015-11-27 03:22:39
+2016-06-24 03:14:10
 
 Your privacy is important to us. We value your trust and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal data and how we use cookies. It also tells you how you can contact us if you have questions about your personal information.
 
@@ -151,6 +151,16 @@ Your credit card details—when they're needed as part of the reservation proces
 
 The services offered by Booking.com are not directed at children under 18 years old. The use of any of our services is only allowed with the valid consent of a parent or a guardian. If we receive information from a child under 18 years old, we reserve the right to delete it.
 
+## Direct communication:
+
+We offer direct communication facilities to properties and guests. For more information, read “How does Booking.com process direct communication between you and the property you booked?”
+
+In cases of reservation-related disputes, we may provide the accommodation provider, upon request, information about the reservation process (for example, a copy of your reservation confirmation as proof that a reservation was made).
+
+**How does Booking.com process direct communication between you and the property you booked?**
+
+Booking.com offers you and accommodation providers different ways to communicate about existing reservations. You can either contact Booking.com for questions about your reservation, or communicate directly with an accommodation provider through dedicated messaging fields or by making use of alias emails. For security purposes, Booking.com has an automated system that screens all communications for malicious content. That includes spam and the limitation of certain file types, such as .zip, .rar and .exe files. Any sensitive information such as full credit card numbers that can be used for fraud may be masked automatically to ensure your security and that of the accommodation provider you booked. In the event communications with malicious content are detected, the communication may be blocked and/or forwarded to the Booking.com Fraud Team for further investigations. Note that all communications sent and received using Booking.com communication tools will be stored by Booking.com. To the extent permitted by law, Booking.com will only access communication between you and accommodation providers upon your or the provider's request, when required by law, when strictly necessary for security or law enforcement purposes, or when Booking.com otherwise has a legitimate interest, such as detecting and preventing fraud and misuse. Booking.com may analyze the anonymized content of communications to improve its services.
+
 ## Contact
 
 How can you control the personal data you've given to Booking.com?
@@ -163,4 +173,4 @@ Who's responsible for the processing of personal data on the Booking.com website
 
 Booking.com B.V. controls the processing of personal data on its websites and mobile apps. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or comments about this privacy notice, please send an email to [customer.service@booking.com](mailto:customer.service@booking.com).
 
-_Last updated, August 2014_
+_Last updated January 2016_
