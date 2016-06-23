@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906131123id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623175618id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hired
+# Privacy Policy - Hired
 
 ## 1\. Questions; Contacting Hired; Reporting Violations
 
 If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
-Hired, Inc. 460 Bryant St, 3rd Floor San Francisco, CA 94107 help@hired.com
+Hired, Inc. 1455 Market St, Floor 19 San Francisco, CA 94103 help@hired.com
 
 ## 2\. User Consent
 
@@ -62,7 +62,7 @@ We allow you to use your Google ID to set up an Account. If you wish to use your
 
 ### F. Information Collected From Third Party Companies
 
-We may receive Personal and/or Anonymous Data about you from companies that provide our Service by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site. These third party companies may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Service we provide.
+We may receive Personal and/or Anonymous Data about you from companies that provide our Service by way of a co-branded or private-labeled website, companies that offer their products and/or services on our Site, and/or companies that otherwise collect such information. These third party companies may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Service we provide.
 
 ## 6\. Use Of Your Personal Data
 
