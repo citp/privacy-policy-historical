@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbogroup.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703081137id_/https%3A//help.habbo.com/entries/23029106-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbogroup.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623125507id_/https%3A//help.habbo.com/entries/23029106-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy : Habbo.com Customer Support
 
