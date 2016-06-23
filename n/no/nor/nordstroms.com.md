@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordstroms.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231081416id_/http%3A//shop.nordstrom.com/c/nordstrom-privacy%3Forigin%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordstroms.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624015451id_/http%3A//shop.nordstrom.com/c/nordstrom-privacy%3Forigin%3Dfooter%26cm_sp%3Dcorp-_-corp_legal-_-globalfooternav_yourprivacyrights) for the most accurate reproduction.*
 
 # Nordstrom Customer Privacy
 
@@ -14,4 +14,4 @@ The Nordstrom family of companies is happy to provide further details of our pri
 
 If you have any other questions or concerns regarding how Nordstrom manages, accesses or uses your personal information, please write us at PO Box 21986, Seattle, WA 98111-3986, email us at [privacy@nordstrom.com](mailto:privacy@nordstrom.com "privacy@nordstrom.com") or call 1.866.554.6591.
 
- _Effective Date 10/1/2015_
+_Effective Date 6/20/2016_
