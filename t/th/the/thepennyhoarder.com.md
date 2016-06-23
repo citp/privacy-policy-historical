@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepennyhoarder.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224034623id_/http%3A//www.thepennyhoarder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepennyhoarder.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623070959id_/http%3A//www.thepennyhoarder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for The Penny Hoarder
 
@@ -9,8 +9,8 @@ At ThePennyHoarder.com, we recognize that privacy of your personal information i
 If you have any questions, feel free to reach us at:
 
 Taylor Media Corp  
-2637 E Atlantic Blvd, Suite 19140  
-Pompano Beach, FL 33062
+616 Central Ave #B  
+Saint Petersburg, FL 33701
 
  **Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
