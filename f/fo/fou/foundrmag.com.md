@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foundrmag.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429233031id_/http%3A//foundrmag.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundrmag.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005721id_/https%3A//foundrmag.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Foundr
 
