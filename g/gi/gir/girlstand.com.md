@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlstand.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219123153id_/http%3A//www.girlstand.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlstand.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623172455id_/http%3A//www.girlstand.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,9 +7,9 @@ GirlStand.com is committed to providing an entertaining, fun and educational ser
 **Information we collect and how we use it  
 **On your visit to our website there is certain information that we collect from traffic references of hosting servers and from cookies.
 
-From traffic references of hosting servers – every time you visit a website, there is certain information you make available for collection such as IP address, time of visit, location, internet domain, type of browser and operating system used to access our site, pages you visit, if you linked to our website from another website, the address of that website etc . We, like other operators, collect this information and use it for visitors’ statistics and to improve our services to you.
+From traffic references of hosting servers â€“ every time you visit a website, there is certain information you make available for collection such as IP address, time of visit, location, internet domain, type of browser and operating system used to access our site, pages you visit, if you linked to our website from another website, the address of that website etc . We, like other operators, collect this information and use it for visitorsâ€™ statistics and to improve our services to you.
 
-From Cookies – the sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from GirlStand.com is only accessible by the GirlStand.com Web site. This information enables us to run our affiliate programs, allows customized advertising and offers other operational site activities. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of GirlStand.com website can only be normally seen if your browser allows cookies.
+From Cookies â€“ the sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from GirlStand.com is only accessible by the GirlStand.com Web site. This information enables us to run our affiliate programs, allows customized advertising and offers other operational site activities. Most of browsers are set to accept cookies. But if you prefer, you can reset your browser so as to let you know whenever you receive a cookie or even to refuse cookies. However, you should know that some parts of GirlStand.com website can only be normally seen if your browser allows cookies.
 
 GirlStand.com will not share your information with anyone. The only exception shall be in the event that disclosure of information is required by law enforcement or other government officials in connection with investigation of fraud, intellectual property infringements, or other activity that is illegal or that may expose you or us to legal liability. 
 
@@ -25,6 +25,8 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
   * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
 
+
+Â 
 
 **Security  
 **All data that we collect is stored on one or more database servers. We are taking any reasonable precaution to secure the data, but you have to understand that the internet is not 100% safe and we cannot guarantee the safety of your information. All this kind of transmission whatsoever is made on your own risk.   
