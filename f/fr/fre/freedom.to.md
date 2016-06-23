@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the freedom.to privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919091420id_/https%3A//freedom.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.to privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623153633id_/https%3A//freedom.to/privacy) for the most accurate reproduction.*
 
 # Freedom | Privacy
 
-#### Privacy Policy
-
-This Privacy Policy describes the policies of Eighty Percent Solutions Corporation regarding the information we collect or receive about our customers. It is applicable to the main Eighty Percent Solutions (http://80pct.com), Freedom Software (http://macfreedom.com, http://freedomapp.us, http://freedomforandroid.com, http://freedom.to), and Anti-Social (http://anti-social.cc) websites, as well as other interactive features, applications, services, or downloads that are operated by Eighty Percent Solutions Corporation and which are available through the websites produced and maintained by us ("site/s").
+This Privacy Policy describes the policies of Eighty Percent Solutions Corporation regarding the information we collect or receive about our customers. It is applicable to the main Eighty Percent Solutions (http://80pct.com), Freedom Software (http://macfreedom.com, http://freedomapp.us, http://freedomforandroid.com, http://freedom.to), and Anti-Social (http://anti-social.cc) websites, as well as other interactive features, applications, services, or downloads that are operated by Eighty Percent Solutions Corporation and which are available through the websites produced and maintained by us ("site/s"). 
 
 We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. For questions or concerns, we can always be contacted via email at support@80pct.com or via phone at +1-415-968-9172 (full contact information, including mailing address, is at the end of this policy). 
 
 ###### Information Ownership, Collection and Use
 
-One of the basic principles we’ve tried to follow in designing this site is that we ask for only the information we need to provide the service you’ve requested. As a result, what information we collect and store depends almost entirely on how you choose to make use of our site and our services. You retain ownership of information you personally author and collected through the sites (the "user content"); provided. We will not sell, share, or rent this information to others in ways different from those disclosed in this policy. We may collect information from users at several different points on a site.
+One of the basic principles we’ve tried to follow in designing this site is that we ask for only the information we need to provide the service you’ve requested. As a result, what information we collect and store depends almost entirely on how you choose to make use of our site and our services. You retain ownership of information you personally author and collected through the sites (the "user content"); provided. We will not sell, share, or rent this information to others in ways different from those disclosed in this policy. We may collect information from users at several different points on a site. 
 
 This privacy policy addresses some types of information, means of collecting information, and uses of information that may not presently apply to one or more of the sites. We tell you about these types of information, means of collecting information, and uses of information anyway because we want to maintain flexibility in offering additional features without having to revisit our terms and conditions or privacy policy every time we revise a site or offer new functions. 
 
@@ -28,15 +26,15 @@ The analytics services and requisite cookies/beacons we use, if any, are not lin
 
 One or more of the organizations with which we do business, or to which we provide links from a site, may also use cookies. We have no control over such organizations' uses of cookies and users should review the privacy policies of such organizations to determine the uses such organizations make of cookies. 
 
-We utilizes the following services: 
+We utilize the following services: 
 
 **Google Analytics:** Google analytics, and the Google Analytics cookie, allows us to see information on user website activities including, but not limited to page views, source and time spend on website. The information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching. 
 
 To opt out of Google’s use of cookie tracking, please visit Google’s ad settings page (http://www.google.com/settings/ads) or the Network Advertising Initiative’s opt-out page (http://www.networkadvertising.org/managing/opt_out.asp). 
 
-**Mixpanel:** We use Mixpanel, a service for the marketing analysis of the Application owned by Mixpanel Inc., incorporated under the laws of the State of Delaware, USA.
+**Mixpanel:** We use Mixpanel, a service for the marketing analysis of the Application owned by Mixpanel Inc., incorporated under the laws of the State of Delaware, USA. 
 
-Mixpanel uses cookies to help analyse how visitors arrive at and use the Service, and provides us with statistical reports on Services activity. The information generated by the cookies or other technologies about your use of the Services (including IP address) (the “Analytics Services Information”) is transmitted to Mixpanel and potentially stored on servers in the United States. Mixpanel will use the Analytics Services Information to compile reports on the activity on the Services for us.
+Mixpanel uses cookies to help analyse how visitors arrive at and use the Service, and provides us with statistical reports on Services activity. The information generated by the cookies or other technologies about your use of the Services (including IP address) (the “Analytics Services Information”) is transmitted to Mixpanel and potentially stored on servers in the United States. Mixpanel will use the Analytics Services Information to compile reports on the activity on the Services for us. 
 
 Further information on Mixpanel’s use of the Analytics Services Information is governed by the Mixpanel Terms of Use and the Mixpanel Privacy Policy (http://mixpanel.com/privacy). You may refuse the transmission of your Analytics Service Information by opting out on http://mixpanel.com/optout, however please note that you will delete the opt out cookie when you delete your Cookies in your browser settings. Please note that we cannot control the use of your Analytics Service Information by Mixpanel.
 
@@ -52,7 +50,7 @@ We may collect traffic information from visitors for statistical analysis and si
 
 ###### Security
 
-We are committed to protecting your personal information We use a variety of technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. Personal information we collect or receive is stored in protected operating environments that are not available to the public and, when transmitted, is protected using strong cryptography. Our sites are routinely checked for security compliance, and multi-factor authentication is required for all administrative access to data.
+We are committed to protecting your personal information We use a variety of technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. Personal information we collect or receive is stored in protected operating environments that are not available to the public and, when transmitted, is protected using strong cryptography. Our sites are routinely checked for security compliance, and multi-factor authentication is required for all administrative access to data. 
 
 ###### Changes to This Privacy Policy
 
@@ -64,7 +62,7 @@ Notwithstanding anything else in this privacy policy to the contrary, we may col
 
 ###### Corrections/Opt-out/Contact
 
-If your personal information changes, if you have reason to believe that your personal information as we maintain it is incorrect, or if you no longer desire service, you may contact us using the contact information below and we will accommodate all reasonable requests for such changes.
+If your personal information changes, if you have reason to believe that your personal information as we maintain it is incorrect, or if you no longer desire service, you may contact us using the contact information below and we will accommodate all reasonable requests for such changes. 
 
 Users who no longer wish to receive newsletters or promotional materials or have their information provided to third parties may opt to not receive such communications or have information shared by contacting us using the information below. We will comply with such requests as soon as is commercially practicable. 
 
