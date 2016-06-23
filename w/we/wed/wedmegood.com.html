@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wedmegood.com privacy policy that was archived on 2015-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150713215122id_/https%3A//www.wedmegood.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wedmegood.com privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623185020id_/https%3A//www.wedmegood.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-gb" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQIGVFRTGwsCXFJWDgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html lang="en-gb" class="no-js"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0039/9085.js?438994" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5&amp;appId=400046146843075"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBRSM4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQIGVFRTGwIEVldWBgYF"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 	<meta name="geo.region" content="India">
 	<meta name="robots" content="index,follow">
 	<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
@@ -10,28 +10,31 @@
 	<meta name="robots" content="ALL">
 
 	
-		<link rel="icon" href="http://www.wedmegood.com/favicon.ico" type="image/x-icon">
-		<link rel="shortcut icon" href="http://www.wedmegood.com/favicon.ico" type="image/x-icon">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-		
-		<title>Privacy | WedmeGood</title>		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="p:domain_verify" content="06ce40d9888c69c53befbce0f2ad5ad2">
+		<meta property="og:type" content="article">
+		<meta name="msvalidate.01" content="F0F70C099AC1F6559608E20FF9C5DCE5">
+		<title>Privacy | WedMeGood</title>		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta charset="UTF-8">
 <meta name="keywords">
-<meta name="description" content="WedmeGood">
+<meta name="description" content="WedMeGood">
 <meta name="geo.region">
 <meta name="robots">
 <meta name="GOOGLEBOT">
 <meta name="language">
 <meta name="country" content="IN">
 <meta name="viewport">
-<meta property="og:title" content="Privacy | WedmeGood">
-<meta property="og:description">
-<meta property="og:image">
+<meta property="og:title" content="Privacy | WedMeGood">
+<meta property="og:description" content="WedMeGood">
+<meta property="og:image" content="https://d1hpn7r5i0azx7.cloudfront.net/images/logo_pink.jpg">
 
         
         
-		
-	
+    <meta property="og:type" content="article">
+
 			        <script type="text/javascript">
 	            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -41,17 +44,27 @@
 	            ga('create', 'UA-48097354-1', 'auto');
 	            ga('send', 'pageview');
 	        </script>
-	        <!-- Start Alexa Certify Javascript -->
+	        <!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBRSM4"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-WBRSM4');</script>
+			<!-- End Google Tag Manager -->
+
+			<!-- Start Alexa Certify Javascript -->
 			<script type="text/javascript">
 			_atrk_opts = { atrk_acct:"y+Rnk1a0Sn00EF", domain:"wedmegood.com",dynamic: true};
 			(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 			</script>
 			<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=y+Rnk1a0Sn00EF" style="display:none" height="1" width="1" alt="" /></noscript>
-			<!-- End Alexa Certify Javascript --> 
+			<!-- End Alexa Certify Javascript -->
 
 			<!-- Please call pinit.js only once per page -->
 			<script defer="" type="text/javascript" async="" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
-			
+
 			<script type="text/javascript">
 			/**
 			* Function that tracks a click on an outbound link in Google Analytics.
@@ -60,50 +73,128 @@
 			var trackOutboundLink = function(url) {
 			   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
 			     function () {
-			     document.location = url;
+			     window.open(url,'_blank');
 			     }
 			   });
 			}
 			</script>
-              
+        
 
-                	<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/css/bootstrap-3.2.min.css" type="text/css">
+                	<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/bootstrap-3.2.min.css" type="text/css">
         	<!-- icon style -->
-			<link rel="stylesheet" type="text/css" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/iconstyle.css">
+			<link rel="stylesheet" type="text/css" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/iconstyle.css">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/DateTimePicker.css" type="text/css">
 
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newUI/common.css?v=1.0.16" type="text/css">
+			<link rel="stylesheet" href="/newUI/common.css?v=1.1.10" type="text/css">
+			<!-- <link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/common.css?v=1.0.40" type="text/css" /> -->
+			 <link rel="stylesheet" media="only screen and (min-width:320px) and (max-width: 767px)" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/mobile.css?v=1.0.3">
+			<link rel="stylesheet" media="only screen and (min-width:480px) and (max-width: 2600px)" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/desktop.css?v=1.0.3">
 
-			<link rel="stylesheet" type="text/css" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/form.css?v=1.0.4">	
-	
-            <link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/font-awesome.min.css">
+			<!-- <link rel="stylesheet" media="only screen and (min-width:320px) and (max-width: 767px)" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/mobile.css?v=0.5" />  -->
+			<!-- <link rel="stylesheet" media="only screen and (min-width:480px) and (max-width: 2600px)" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/desktop.css?v=0.2" /> -->
 
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/zebra_pagination.css?v=1.0.3" type="text/css">
 
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/easy-responsive-tabs.css" type="text/css">
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/font.css?v=1.0.1" type="text/css">
-			
+			<!-- <link rel="stylesheet" type="text/css" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/form.css?v=1.0.8">-->
+			<link rel="stylesheet" type="text/css" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/form.css?v=1.0.8">
+	  		<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/appinvite.css?v=1.0.2">
+	  		<!-- <link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/appinvite.css?v=1.0.2" type="text/css"> -->
+            <!-- <link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/font-awesome.min.css"Fc> -->
+           	<link rel="stylesheet" href="/newUI/style.css?v=1.0.5">
+            <!-- <link rel="stylesheet" type="text/css" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/style.css?v=1.0.3"> -->
+
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/easy-responsive-tabs.css?v=1.0.1" type="text/css">
+			<link rel="stylesheet" href="/newcss/font.css?v=1.0.5" type="text/css">
+
 
 			<!-- Gallery Css & Js Start-->
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/slider.css?v=1.0.1" type="text/css">
-
+			<!-- <link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/slider.css?v=1.0.2" type="text/css"> -->
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/slider.css?v=1.0.6" type="text/css">
 			<!-- tiny box code start here -->
-			<link rel="stylesheet" type="text/css" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/reveal.css">
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/css/tinybox/style.css" type="text/css">
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/magnificpopup.css" type="text/css"> 
-			<link rel="stylesheet" href="http://d2eanzqpmoo3ec.cloudfront.net/newcss/jquery-ui.css">
-			
+			<link rel="stylesheet" type="text/css" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/reveal.css?v=1.0.4">
+			<!-- <link rel="stylesheet" type="text/css" href="/newcss/modal.css?v=1.0.2">	 -->
+			<link rel="stylesheet" type="text/css" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/modal.css?v=1.0.4">
+
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/tinybox/style.css?v=1.0.3" type="text/css">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/magnificpopup.css?v=1.0.1" type="text/css">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newcss/jquery-ui.css?v=1.0.1">
+			<!--perfect scrollbar css-->
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/perfect-scrollbar.min.css?v=1.0.2">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/ngDialog.min.css?v=1.0.3">
+			<link rel="stylesheet" href="/css/ngToast.min.css" type="text/css">
+			<link rel="stylesheet" type="text/css" href="/css/angular-tooltips.min.css">
+			<link rel="stylesheet" type="text/css" href="/css/loading-bar.css">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/ngDialog-theme-default.min.css?v=1.0.1">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/inbox.css?v=1.0.3">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/searchFeed.css?v=1.0.3">
+
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/css/swiper.css">
+			<link rel="stylesheet" href="https://d2eanzqpmoo3ec.cloudfront.net/newUI/vendordashboard.css?v=1.0.2" type="text/css">
+			<link rel="stylesheet" href="/css/tinybox/vendorCategory.css?v=1.1.9">
+
 
         
+        <script src="//use.typekit.net/xoi8dvy.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
+        <script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0039/9085.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+		</script>
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '461907450669369');
+		fbq('track', "PageView");</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=461907450669369&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
 	</head>
 
 	<body class="" data-pin-hover="true">
+	<div id="fb-root"></div>
+	<script>
+  	window.fbAsyncInit = function() {
+	    FB.init({
+	      appId      : '400046146843075',
+	      xfbml      : true,
+	      version    : 'v2.5'
+	    });
+	  };
+
+	  // (function(d, s, id){
+	  //    var js, fjs = d.getElementsByTagName(s)[0];
+	  //    if (d.getElementById(id)) {return;}
+	  //    js = d.createElement(s); js.id = id;
+	  //    js.src = "//connect.facebook.net/en_US/sdk.js";
+	  //    fjs.parentNode.insertBefore(js, fjs);
+	  //  }(document, 'script', 'facebook-jssdk'));
+
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=400046146843075";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?signed_in=false&amp;libraries=places" async="" defer=""></script>
         <!--Navigation Panel -->
-        <div class="container-fluid">
+        <header id="header">
+<div class="container-fluid" id="header-container">
     <div class="wmg-container">
-        <div class="row-fluid">
-            <header class="wmg-paddingtop20">
+        <div class="row-fluid" ng-app="navApp" ng-controller="navController" id="navApp">
+
 
                 <!-- Mobile Menu -->
-                <ul class="nav nav-pills wmg-marginbottom10 mobile-nav visible-xs-block">
+                <ul class="nav nav-pills mobile-nav visible-xs-block">
                     <li class="quarter">
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-navbar" aria-expanded="false" aria-controls="navbar">
                                 <span class="icon-bar"></span>
@@ -112,75 +203,523 @@
                             </button>
                             <div id="mobile-navbar" class="navbar-collapse collapse" aria-expanded="true">
                                 <ul class="nav navbar-nav">
+
+                                    <li style="position:relative"><a href="/vendors#/" class="mob-list">
+                                    <i class="fa fa-user icon"></i><span class="mob-nav-text">VENDORS</span><i class="fa fa-chevron-right"></i></a></li>
                                     <li>
-                                        <a href="/vendors/">WEDDING VENDORS</a>
+                                        <a href="/explore_browse" class="mob-list">
+                                        <i class="fa fa-picture-o icon"></i><span class="mob-nav-text">PHOTOS</span><i class="fa fa-chevron-right"></i></a>
                                     </li>
+                                    <li><a href="/real_wedding" class="mob-list">
+                                     <i class="fa fa-heartbeat icon"></i><span class="mob-nav-text">REAL WEDDINGS</span><i class="fa fa-chevron-right"></i></a></li>
                                     <li>
-                                        <a href="/real_wedding/">REAL WEDDINGS</a>
+                                        <a href="/blog" class="mob-list">
+                                        <i class="fa fa-newspaper-o icon"></i><span class="mob-nav-text">BLOG</span><i class="fa fa-chevron-right"></i></a>
                                     </li>
-                                    <li>
-                                        <a href="/blog">BLOG</a>
-                                    </li>
-                                    <li>
-                                        <a href="/explore">WHAT’S NEW</a>
-                                    </li>
-                                    <li>
-                                        <a href="/explore_browse">GALLERY</a>
-                                    </li>
+                                    <div ng-if="navProfile.logged_in &amp;&amp; !navProfile.vendor_logged_in">
+                                        <div ng-include="" src="'LoggedMobDropDown.html'"></div>
+                                    </div>
+                                    <div ng-if="navProfile.vendor_logged_in">
+                                      <div ng-include="" src="'LoggedVMobDropDown.html'"></div>
+                                    </div>
                                 </ul>
                             </div>
-                        
+
                     </li>
+                    <div class="searchBlock">
+                      <li style="margin: 0px;margin-top: -10px;position: absolute;right:65%;width:18%">
+                        <form class="navbar-form" role="search" style="margin-bottom:0px;top:15px;padding:0px;width:0">
+                          <div class="input-group add-on searchBox">
+                            <input type="text" class="form-control search-input-mobile" autocomplete="off" placeholder="Search" name="srch-term" id="srch-term" ng-model="searchValue.inputvalue" style="padding-top: 0px;
+                                                                                        padding-bottom: 0px;
+                                                                                        font-size: 12px;
+                                                                                        height: 30px;
+                                                                                        background-color: #E32261;
+                                                                                        color: white;
+                                                                                        border: 0px;
+                                                                                        display:none;
+                                                                                        width:150px">
+                            <div class="input-group-btn search-icon-button">
+                              <button class="btn btn-default search-mobile" style="height: 30px;color: white;
+                                                                                  background-color: #E32261;
+                                                                                  border: 0px;
+                                                                                  z-index:1"><i class="fa fa-search"></i></button>
+                            </div>
+                          </div>
+                          <ul class="sub-search">
+                              <div sub-search=""></div>
+                          </ul>
+                        </form>
+
+                      </li>
+                    </div>
                     <li id="logo-small">
-                        <a href="/"><img src="/images/top-logo.png" alt="Wed me Good Menu"></a>
+                        <a href="/"><span>Wed<b>Me</b>Good</span></a>
                     </li>
-                                            <li class="quarter">
-                            <a class="wmg-common-btn login-btn" onclick="showForm('#login_panel');">LOGIN</a>
-                        </li>
-                                    </ul>
+                    <div ng-if="!navProfile.logged_in &amp;&amp; !navProfile.vendor_logged_in">
+                        <div ng-include="" src="'NotLoggedMob.html'"></div>
+                    </div>
+                    <li class="quarter">
+
+                    <div ng-if="navProfile.vendor_logged_in">
+                        <div ng-include="" src="'LoggedVendorMob.html'"></div>
+                    </div>
+                    <div ng-if="navProfile.logged_in &amp;&amp; !navProfile.vendor_logged_in">
+                             <div ng-include="" src="'LoggedUserMob.html'"></div>
+                    </div>
+
+                    </li>
+
+                        <div id="mobile-navbar1" class="navbar-collapse collapse" aria-expanded="true">
+                                <ul class="nav navbar-nav">
+
+                                    <li><a href="/logout">
+                                   logout</a></li>
+
+                                </ul>
+                        </div>
+                </ul>
+                <script type="text/ng-template" id="LoggedMobDropDown.html">
+                    <li style="position:relative;padding:5px;padding-left:10px"><a href="/dashboard/no-shortlists" class="f-w700">My Shortlist<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                    <li style="position:relative;padding:5px;padding-left:10px"><a href="/dashboard/no-loves" class="f-w700">My Loves<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                    <li style="position:relative;padding:5px;padding-left:10px"><a href="/dashboard/minbox" class="f-w700">Inbox<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                    <li style="position:relative;padding:5px;padding-left:10px"><a href="/dashboard/user/booking" class="f-w700">Booking<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                    <li style="position:relative;padding:5px;padding-left:10px"><a ng-href="{[settingsUrl]}" class="f-w700">Settings<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                    <li style="position:relative;padding:5px;padding-left:10px">
+                    <a ng-click="logOut()" class="f-w700">Logout<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                </script>
+                <script type="text/ng-template" id="LoggedVMobDropDown.html">
+                    <li style="position:relative;padding:5px;padding-left:10px"><a href="/vendor-mobile" class="f-w700">Dashboard<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                    <li style="position:relative;padding:5px;padding-left:10px">
+                    <a ng-click="logoutVendor()" class="f-w700">Logout<i class="fa fa-chevron-right" style="right: 6px;top: 40%;"></i></a></li>
+                </script>
+                <script type="text/ng-template" id="NotLoggedMob.html">
+                    <li class="quarter mobile-login f-l">
+                        <a class="wmg-common-btn login-btn usr-login-btn login-color" onclick="openLoginModal()">LOGIN</a>
+                    </li>
+                </script>
+                <script type="text/ng-template" id="LoggedUserMob.html">
+                     <div class="nav-pro-image collapsed" data-toggle="collapse" aria-expanded="false" aria-controls="navbar"> <i class="fa fa-user"></i></div>
+                </script>
+                <script type="text/ng-template" id="LoggedVendorMob.html">
+                    <div class="nav-pro-image collapsed" data-toggle="collapse" aria-expanded="false" aria-controls="navbar"> <i class="fa fa-user"></i></div>
+                </script>
                 <!-- Mobile Menu Ends -->
 
-                <!-- START TOP MENU -->
-                <ul class="nav hidden-xs nav-pills wmg-nav wmg-marginbottom20">
-                    <li class="pull-left">
-                        <a href="/"><img src="http://d2eanzqpmoo3ec.cloudfront.net/newimages/home.png" height="20" width="20"></a>
-                    </li>
-
-                                            
-                        <li class="pull-right wmg-marginright50">
-                            <a class="wmg-common-btn login-btn" onclick="showForm('#login_panel');">LOGIN</a>
-                        </li>
-                        <li id="register-text" class="pull-right wmg-marginright50">
-                            <a onclick="showForm('#vendorregister_panel');">REGISTER AS A VENDOR</a>
-                        </li> 
-                                    </ul>
-                <!-- END TOP MENU -->
-
-                <!-- START PRIMARY MENU -->
-                <div class="navbar hidden-xs wmg-navigation-bar">
-                    <div class="navbar-inner">
-                        <ul class="nav wmg-nav">
-                            <li><a href="/vendors/">WEDDING VENDORS</a></li>
-                            <li><a href="/real_wedding/">REAL WEDDINGS</a></li>
-                            <li><a class="noBorder" href="/blog">BLOG</a></li>
-                            <li id="logo"><a href="/"><img src="http://d2eanzqpmoo3ec.cloudfront.net/newimages/top-logo.png" alt="Wed me Good Menu"></a></li>
-                            <li><a href="/explore">WHAT'S NEW</a></li>
-                            <li><a href="/explore_browse">GALLERY</a></li>
-                            <li class="dropdown">
-                                <a class="noBorder dropdown-toggle" href="#" data-toggle="dropdown">ADVICE ↓</a>
-                                <ul class="dropdown-menu" role="menu">
-                                                                        <li><a class="noBorder open-wedding-consulting" href="#wedding_consulting" data-effect="mfp-zoom-in">WEDDING CONSULTING</a></li>
-                                    <li><a class="noBorder" target="_blank" href="http://bridesbypb.com/">BRIDAL SHOPPING</a></li>
-                                </ul>
-                            </li>
-                        </ul>
+                <!-- Modal download view -->
+                <div id="downloadModal" class="modal">
+                    <div class="modal-dialog ta-c">
+                        <div class="modal-content modal-size">
+                            <div class="modal-body ta-c">
+                            <button type="button" class="close f-s30" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <img src="https://d2eanzqpmoo3ec.cloudfront.net/images/wedlogo.png" class="app-modal-logo">
+                                    <p class="f-w700">DOWNLOAD OUR APP!</p>
+                                    <div id="modal-download-link">
+                                    <a href="https://play.google.com/store/apps/details?id=com.wedmegood.planner" target="_blank"><img src="https://d2eanzqpmoo3ec.cloudfront.net/images/androidDownload.png" alt="android logo" class="h-35"></a>
+                                    <a href="https://appsto.re/in/TPdo-.i" target="_blank"><img src="https://d2eanzqpmoo3ec.cloudfront.net/images/appleDownload.png" alt="apple logo" class="h-35"></a>
+                                    </div>
+                                    <p class="f-stext">GET LINK VIA SMS</p>
+                                    <form style="position:relative">
+                                    <input type="text" class="sms-val access-input form-control" id="modal-sms-input">
+                                    <input type="submit" id="modal-sms-button" onclick="submitSms(event)" value="GET SMS">
+                                    <p id="no-placeholder">+91</p>
+                                    <img src="https://d2eanzqpmoo3ec.cloudfront.net/images/spin.svg" class="status-icon spin-loader">
+                                    <i class="fa fa-check status-icon tick-sms"></i>
+                                    </form>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <div id="signupPromptModal" class="modal fade in">
+                  <div class="modal-dialog">
+                      <div class="modal-content">
+                          <div class="modal-body ">
+                              <button type="button" class="close close-ltn" data-dismiss="modal" aria-label="Close" style="margin-right:10px"><span aria-hidden="true">×</span></button>
+                              <form id="register_form" name="registerForm" novalidate="">
+                                <div class="prmptCntrDiv">
+                                  <p id="signUpText">Sign Up</p>
+                                  <p> Simplify and organize the wedding planning process</p>
+                                  <a class="login_facebook form-control loginFacebookPrompt" onclick="fblogin()">
+                                    <i class="fa fa-facebook" style="margin-right:10px;"></i>Connect with Facebook
+                                  </a>
+                                  <p id="signUpwEmail">--------- OR SIGN UP BY EMAIL ----------</p>
+                                  <button class="create_account" id="cnaButton" onclick="showRegisterPrompt()">Create new account</button>
+                                  <div id="registerPromptDiv">
+                                        <p id="signupsubmitmsg"></p>
+                                        <div class="signupidiv">
+                                        <input type="text" id="fos_user_registration_form_name" name="fos_user_registration_form[name]" required="required" class="form-control b-r0" data-error-message="Please enter a valid email Id" placeholder="Name">
+                                        <p class="signupepos l-0" id="namesignuperror">*required</p>
+                                        </div>
+                                        <div class="signupidiv">
+                                        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="form-control b-r0" data-error-message="Please enter a valid email Id" placeholder="Email">
+                                        <p class="signupepos l-0" id="emailsignuperror">*required</p>
+                                        <p class="signupepos l-0" id="invEmailSgUp">*invalid email</p>
+                                        </div>
+                                        <div class="signupidiv">
+                                        <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="form-control b-r0" placeholder="Password" data-error-message="Password length should be atleast 2" data-validation-minlength="2">
+                                        <p class="signupepos l-0" id="passsignuperror">*required</p>
+                                        <p class="signupepos l-0" id="passlenerror">*password length too short</p>
+                                        <p class="signupepos l-0" id="passmatcherror">*passwords do not match</p>
+                                        </div>
+                                        <div class="signupidiv">
+                                        <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="form-control b-r0" placeholder="Confirm Password" data-error-message="Please repeat the password" data-validation-minlength="2">
+                                        <p class="signupepos l-0" id="cpasssignuperror">*required</p>
+                                        </div>
+                                        <button type="submit" onclick="registerUser(event);ga('send', 'event', 'user-register', 'click', 'popup', 0);" id="signup" name="submit" class=" create_account">SIGN UP</button>
+                                  </div>
+                                  <i data-dismiss="modal" aria-hidden="true" style="font-size:14px;cursor:pointer">Skip</i>
+                                </div>
+                              </form>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+         <!--     <div id="airbnb_sticky">
+                <button type="button" class="close close-ltn airbnb-close" aria-label="Close" style="margin-right:10px;color: #ffffff;font-size: 24px;opacity: 1;"><span aria-hidden="true">×</span></button>
+                <div class="step-one">
+                  <div class="wmg-airbnb-logo">
+                    <img src="../../images/popupLogo.png" alt="wedmegood-airbnb">
+                  </div>
+                  <div class="text">
+                    <p>Win The Romantic Vacay Of Your Dreams</p>
+                  </div>
+                  <a href="/airbnb"><div class="take-me-there">
+                    TAKE ME THERE
+                  </div></a>
+                </div>
+              </div> -->
+
+                <!-- End Modal download view -->
+
+                <!-- START PRIMARY MENU -->
+                <div class="navbar hidden-xs wmg-navigation-bar new-nav" style="padding-left: 5%;
+    padding-right: 5%;">
+                    <div id="joinAwModal" class="modal">
+                      <div class="modal-dialog ta-c">
+                          <div class="modal-content modal-size">
+                              <div class="modal-body ta-c" style="
+                      padding-bottom: 70px;
+                      position: relative;">
+                                  <button type="button" class="close close-ltn f-s30" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                  <p style="margin-bottom: 20px;margin-top:50px;">Join an existing wedding</p>
+                                  <form novalidate="" ng-submit="submitWedCode(navProfile.inviteCode)">
+                                  <input type="text" style="width: 70%;
+                      font-size: 10px;
+                      padding-left: 35px;
+                      padding-top: 5px;
+                      padding-bottom: 5px;
+                      border-radius: 4px;
+                      /* outline: none; */
+                      border: 1px solid grey;text-transform:uppercase" ng-model="navProfile.inviteCode" placeholder="ENTER YOUR INVITE CODE">
+                      <p class="join-error" style="color: red;
+    font-size: 12px;display:none;" data-ng-cloak=""></p>
+                       <p class="required-error" style="color: red;
+    font-size: 12px;display:none;" data-ng-cloak="">*required</p>
+                                <button type="submit" class="inviteWbutton" style="    width: 100%;
+    color: white;
+    height:35px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #E92465;
+    border: none;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 0px 0px 5px 5px;line-height:35px;">JOIN</button>
+                                </form>
+                                <img ng-src="{[S3_URL]}images/rolling.svg" class="invite-spin" style="position: absolute;
+    bottom: 6px;
+    right: 46%;
+    height: 20px;
+    display: none;">
+                    <span class="invite-done" style="position: absolute;
+    bottom: 10px;
+    display: none;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: white;
+    font-size: 14px;
+    right: 43%;">SENT</span>
+                    <span></span>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                      <div id="joinedModal" class="modal">
+                        <div class="modal-dialog">
+                            <div class="modal-content modal-size" style="width: 350px;">
+                                <div class="modal-body ta-c p-b0">
+                                <button type="button" class="close close-ltn f-s30" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                  <div class="ta-c" style="padding-top: 40px;
+    padding-bottom: 55px;">
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve" style="fill: #DC205D;
+    width: 150px;"><path d="M50,5C25.147,5,5,25.147,5,50s20.147,45,45,45s45-20.147,45-45S74.853,5,50,5z M50,91.5C27.08,91.5,8.5,72.92,8.5,50  C8.5,27.08,27.08,8.5,50,8.5S91.5,27.08,91.5,50C91.5,72.92,72.92,91.5,50,91.5z"></path><g><g><rect x="29.181" y="55.619" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 22.6988 124.1405)" width="15.757" height="3.5"></rect><circle cx="31.489" cy="51.798" r="1.75"></circle><circle cx="42.631" cy="62.94" r="1.75"></circle></g><g><path d="M69.749,38.297c-1.385,1.385-25.88,25.88-25.88,25.88l-2.475-2.475c0,0,24.511-24.511,25.88-25.88L69.749,38.297z"></path><circle cx="68.511" cy="37.06" r="1.75"></circle><circle cx="42.631" cy="62.94" r="1.75"></circle></g></g></svg>
+                                      <h2 style="font-size: 30px;
+    color: #D91F5C;
+    font-family: proxima-nova;margin-top: 10px;">WOOHOO!</h2>
+                                      <p>You have successfully joined the wedding</p>
+                                      <b data-ng-cloak="">{[navProfile.joinedWWeddingTitle]}</b>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-inner">
+                        <ul class="nav wmg-nav wmg-paddingtop10 ">
+                        <li id="logo"><a href="/"><img src="https://d2eanzqpmoo3ec.cloudfront.net/images/logo.png" alt="Wed me Good Menu"><span style="font-size:17px">Wed<b>Me</b>Good</span></a></li>
+                            <li><a href="/vendors#/">
+                               <img src="https://d2eanzqpmoo3ec.cloudfront.net/images/vendor.png" alt="vendor">
+                               <span style="font-size: 12.5px;">VENDORS</span>
+                            </a></li>
+                             <li><a href="/explore_browse">
+                             <img src="https://d2eanzqpmoo3ec.cloudfront.net/images/photos.png" alt="photos">
+                               <span style="font-size: 12.5px;">PHOTOS</span></a></li>
+                            <li>
+                                <a href="/real_wedding">
+                            <img src="https://d2eanzqpmoo3ec.cloudfront.net/images/realweddings.png" alt="realweddings">
+                               <span style="font-size: 12.5px;">REAL WEDDINGS</span></a></li>
+                            <li><a href="/blog">
+
+                           <img src="https://d2eanzqpmoo3ec.cloudfront.net/images/articles.png" alt="articles">
+                               <span style="font-size: 12.5px;">BLOG</span></a></li>
+
+
+                        <div ng-if="!navProfile.logged_in &amp;&amp; !navProfile.vendor_logged_in">
+                          <div ng-include="" src="'NotLoggedNav.html'"></div>
+                        </div>
+
+                        <div ng-if="navProfile.logged_in &amp;&amp; !navProfile.vendor_logged_in">
+                            <div ng-include="" src="'loggedInNav.html'"></div>
+                        </div>
+                        <div ng-if="navProfile.vendor_logged_in">
+                            <div ng-include="" src="'LoggedInVendorNav.html'"></div>
+                        </div>
+                        <div class="searchBlock">
+                                <li style="margin: 0px;margin-top: -10px;position: absolute;right: 5%;width:18%">
+                                  <form class="navbar-form" role="search" style="margin-bottom:0px;margin-top:5px;padding:0px">
+                                    <div class="input-group add-on searchBox">
+                                      <input type="text" class="form-control" autocomplete="off" placeholder="Search" name="srch-term" id="srch-term" ng-model="searchValue.inputvalue" style="padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 12px;
+    height: 30px;
+    background-color: #C50D47;
+    color: white;
+    border: 0px;">
+                                      <div class="input-group-btn search-icon-button">
+                                        <button class="btn btn-default" type="submit" style="height: 30px;color: white;
+    background-color: #C50D47;
+    border: 0px;"><i class="fa fa-search"></i></button>
+                                      </div>
+                                    </div>
+                                    <ul class="sub-search">
+                                        <div sub-search=""></div>
+                                    </ul>
+                                  </form>
+
+                                </li>
+                            </div>
+                        <script type="text/ng-template" id="LoggedInVendorNav.html">
+                            <li class="nav-login" style="position: absolute;right: 27%;">
+                             <a ng-href="{[vendorFeedUrl]}"><span style="font-size: 11px;" ng-cloak>{[ navProfile.vendorInfo.name | trncate ]}</span></a>                  </li>
+                            <li class="nav-account user-nav-account nav-account-log" style="margin-top: -5px;position:static">
+                                <div style="    position: absolute;right: 24%">
+                                    <img ng-src="{[navProfile.vendorInfo.thumb_status == '0' && navProfile.vendorInfo.original_pic_url || navProfile.vendorInfo.profile_pic_url | setwidth:40]}" class="nav-profile-image" />
+                                    <ul class="sub-nav">
+                                    <i class="fa fa-caret-up nav-arrow" style="margin-left:34%"></i>
+                                    <li><a ng-href="{[vendorFeedUrl]}">Dashboard</a></li>
+                                    <li><a ng-click="logoutVendor()">Logout</a></li>
+                                    </ul>
+                                </div>
+                                </li>
+                        </script>
+                        <script type="text/ng-template" id="NotLoggedNav.html">
+                             <li class="nav-login nav-dynamic" style="font-size: 11px; position: absolute; right: 29%;">
+                            <a onclick="openModal()" style="font-size:12px"><i class="fa fa-2x fa-mobile" id="app-download-logo"></i><span>Download App</span></a>                  </li>
+                            
+                           <li class="nav-login" style="font-size: 14px; position: absolute;    right: 24%;">
+                            <a class="usr-login-btn" onclick="openLoginModal()" style="font-size:12px;">
+                                  Login
+                                </a>
+                            </li>
+                        </script>
+
+                        <script type="text/ng-template" id="loggedInNav.html">                                          <li style="position: absolute;right: 27%;" ng-if="!navProfile.userInfo.my_wedding"><a href="/dashboard/profile/createwedding" style="font-size:11px">{[ createWedding ]}</a></li>
+                            <li class="nav-login" style="position: absolute;right: 27%;" ng-if="navProfile.userInfo.weddings[0].role != 'me'">
+                             <a ng-href="{[profileFeedUrl]}"><span style="font-size: 11px;" ng-cloak>{[ navProfile.weddingTitle | trncate ]}</span></a>                  </li>
+                            <li class="nav-account user-nav-account nav-account-log" style="margin-top: -5px;position:static">
+                                                                                                <div ng-if="navProfile.role == 'user'" style="    position: absolute;right: 24%">
+                                                                        <img ng-src="{[ navProfile.profile_pic | setwidth:40 ]}" class="nav-profile-image" />
+                                    <ul class="sub-nav">
+                                      <div sub-nav></div>
+                                    </ul>
+                                </div>
+                                <div ng-if="navProfile.role == 'admin'">
+                                  <div class="nav-pro-image"> <i class="fa fa-user"></i></div>
+                                    <p class="nav-user-name">Admin</p>
+                                    <p class="nav-user-dot"></p>
+
+                                    <ul class="sub-nav">
+                                    <i class="fa fa-caret-up nav-arrow"></i>
+
+                                    <li><a style="color:#333;" href="/logout">Logout</a>
+                                    </li>
+                                    </ul>
+                                </div>
+                                                                    <!-- <div class="nav-pro-image"> <i class="fa fa-user"></i></div> -->
+                                    <!-- <img ng-src="{[navProfile.userInfo[0].profile_pic_url]}" class="nav-profile-image" /> -->
+                                    <!-- <p class="nav-user-dot"></p> -->
+
+                                    <!-- <ul class="sub-nav"> -->
+                                        <!-- <div ng-view></div> -->
+                                    <!-- </ul> -->
+                                                            </li>
+                            <li class="search-nav vendor-search-nav" style="width: 200px; margin-left: 0px;  margin-right: 0px;display:none;">
+                                <div class="p-r">
+                                    <input type="text" name="search-value" id="search-value" class="form-control" placeholder="Search.."/>
+                                    <span class="nav-search-icon">
+                                        <i class="fa fa-search"></i>
+                                    </span>
+                                    <div id="search-results" class="hidden"></div>
+                                </div>
+                            </li>
+                        </script>
+                            </ul>
+
+                        </div>
+                    </div>
                 <!-- END PRIMARY MENU -->
-            </header>   
+
         </div>
     </div>
 </div>
+<div class="fb-like" data-href="https://www.facebook.com/wedmegood/likes" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false" style="display:none"></div>
+</header>
+
+<!-- <div class="secondHeader nav-down">
+    <ul>
+        <li class="secondhead-menu"><a href="/vendors/browse/type/1"> Photography</a>  <ul>
+                      <li><a href="/vendors/browse/type/12" class="menu-heading"> <img src="/images/vendor.png" alt="vendor">Find Photography Vendors:</a></li>
+              <li><a href="/vendors/browse/type/13">Candid Photographers </a></li>
+              <li><a href="/vendors/browse/type/7"> Cinema Specialists</a></li>
+
+              <li class="browse-border"><a href="/vendors/browse/type/14" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse Photos:</a></li>
+              <li><a href="/vendors/browse/type/17">Bridal Portraits</a></li>
+              <li><a href="/vendors/browse/type/19">Pre Wedding Shoots</a></li>
+              <li><a href="/vendors/browse/type/15">Save the dates</a></li>
+              <li><a href="/vendors/browse/type/16">Getting ready shots</a></li>
+              <li><a href="/vendors/browse/type/18">Couple portraits</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/18" class="menu-heading"> <img src="/images/articles.png" alt="articles">Read photography advice & ideas</a></li>
+            </ul>
+        </li>
+
+        <li class="secondhead-menu"><a href="/vendors/browse/type/4"> Outfits </a>
+            <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"> <img src="/images/vendor.png" alt="vendor">Find Outfit stores:</a></li>
+              <li><a href="/vendors/browse/type/13">Bridal Lehenga stores </a></li>
+              <li><a href="/vendors/browse/type/7"> Light Lehenga Stores</a></li>
+              <li><a href="/vendors/browse/type/14">Gowns & Indo Westerns</a></li>
+              <li><a href="/vendors/browse/type/17">Groom wear stores</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/19" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse all outfit  Photos:</a></li>
+              <li><a href="/vendors/browse/type/15">Bridal Lehengas</a></li>
+              <li><a href="/vendors/browse/type/16">Gowns and Indo Westerns</a></li>
+              <li><a href="/vendors/browse/type/18">Sister of the bride outfits</a></li>
+              <li><a href="/vendors/browse/type/18"> Mehendi outfits</a></li>
+              <li><a href="/vendors/browse/type/18">Engagement outfits</a></li>
+               <li class="browse-border"><a href="/vendors/browse/type/18" class="menu-heading"> <img src="/images/articles.png" alt="articles">Read Style Advice & Ideas</a></li>
+            </ul>
+        </li>
+
+        <li class="secondhead-menu"><a href="/vendors/browse/type/6"> Decor </a>
+            <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"><img src="/images/vendor.png" alt="vendor">Find Decorators</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/13" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse all decor  Photos:</a></li>
+              <li><a href="/vendors/browse/type/7">Stage Decor</a></li>
+              <li><a href="/vendors/browse/type/14">Mandap Decor</a></li>
+              <li><a href="/vendors/browse/type/17">Unique Props</a></li>
+              <li><a href="/vendors/browse/type/19">Photo booths</a></li>
+              <li><a href="/vendors/browse/type/15">Engagement Decor</a></li>
+              <li><a href="/vendors/browse/type/16">Mehendi Decor</a></li>
+              <li><a href="/vendors/browse/type/18">Wedding Decor</a></li>
+              <li><a href="/vendors/browse/type/18">Personalised Elements</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/18" class="menu-heading"><img src="/images/articles.png" alt="articles">Browse Decor advice & ideas</a></li>
+            </ul>
+        </li>
+        <li class="secondhead-menu"><a href="/vendors/browse/type/10"> Venues </a>
+             <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"><img src="/images/vendor.png" alt="vendor">Find Venues:</a></li>
+              <li><a href="/vendors/browse/type/13">Delhi</a></li>
+              <li><a href="/vendors/browse/type/7">Mumbai</a></li>
+            </ul>
+        </li>
+
+        <li class="secondhead-menu"><a href="/vendors/browse/type/3"> Makeup </a>
+            <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"><img src="/images/vendor.png" alt="vendor">Find Makeup Artists</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/13" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse Photos:</a></li>
+              <li><a href="/vendors/browse/type/7">Hairstyle Inspiration</a></li>
+              <li><a href="/vendors/browse/type/14">Makeup Inspiration</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/17" class="menu-heading"><img src="/images/articles.png" alt="articles">Read Makeup Advice & ideas</a></li>
+            </ul>
+
+        </li>
+        <li class="secondhead-menu"><a href="/vendors/browse/type/2"> Jewellery </a>
+            <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"><img src="/images/vendor.png" alt="vendor">Find Jewellers:</a></li>
+              <li><a href="/vendors/browse/type/13">Artificial Jewellery</a></li>
+              <li><a href="/vendors/browse/type/7">Precious Jewellery</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/14" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse Photos</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/17" class="menu-heading"><img src="/images/articles.png" alt="articles">Read advice & ideas</a></li>
+            </ul>
+        </li>
+
+        <li class="secondhead-menu"><a href="/vendors/browse/type/8"> Invitations </a>
+             <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"><img src="/images/vendor.png" alt="vendor">Find Invitation vendors:</a></li>
+              <li><a href="/vendors/browse/type/13">Wedding card vendors </a></li>
+              <li><a href="/vendors/browse/type/7"> Wedding giveaways & favors</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/14" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse Photos:</a></li>
+              <li><a href="/vendors/browse/type/17">Boxes</a></li>
+              <li><a href="/vendors/browse/type/19">Packaging</a></li>
+              <li><a href="/vendors/browse/type/15">Gifts</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/16" class="menu-heading"><img src="/images/articles.png" alt="articles">Read advice and Ideas</a></li>
+            </ul>
+        </li>
+
+        <li class="secondhead-menu"><a href="/vendors/browse/type/9"> Cakes </a>
+            <ul>
+              <li><a href="/vendors/browse/type/12"class="menu-heading"><img src="/images/vendor.png" alt="vendor">Find Cake vendors</a></li>
+                            <li class="browse-border"><a href="/vendors/browse/type/13" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse Cake photos</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/7" class="menu-heading"><img src="/images/articles.png" alt="articles">Read Wedding cake advice</a></li>
+             </ul>
+        </li>
+        <li class="secondhead-menu"><a href="#"> Ideas </a>
+             <ul>
+              <li><a href="/vendors/browse/type/12" class="menu-heading"><img src="/images/photos.png" alt="photos">Browse Unique Ideas:</a></li>
+              <li><a href="/vendors/browse/type/13">Bridal Entry Ideas</a></li>
+              <li><a href="/vendors/browse/type/7">Unique details</a></li>
+              <li><a href="/vendors/browse/type/12">Entertainment Ideas:</a></li>
+              <li><a href="/vendors/browse/type/13">Mehendi Ideas</a></li>
+              <li><a href="/vendors/browse/type/7">Sangeet Ideas</a></li>
+              <li class="browse-border"><a href="/vendors/browse/type/7" class="menu-heading"><img src="/images/articles.png" alt="articles">Read latest unique ideas</a></li>
+             </ul>
+        </li>
+        <li class="secondhead-menu"><a href="#"> More</a>
+            <ul>
+              <li><a href="/vendors/browse/type/12">Cinema/Video</a></li>
+              <li><a href="/vendors/browse/type/13">Mehendi </a></li>
+              <li><a href="/vendors/browse/type/7">Catering</a></li>
+              <li><a href="/vendors/browse/type/14">Packaging</a></li>
+              <li><a href="/vendors/browse/type/17">Wedding Planners</a></li>
+              <li><a href="/vendors/browse/type/19">DJs</a></li>
+              <li><a href="/vendors/browse/type/15">Choreographer</a></li>
+              <li><a href="/vendors/browse/type/16"> Favors</a></li>
+              <li><a href="/vendors/browse/type/18">Accessories</a></li>
+            </ul>
+        </li>
+    </ul>
+</div> -->
+
 
             		<div class="wmg-container" id="breadcrumbs">
 	    		<div class="row-fluid">
@@ -192,32 +731,37 @@
 
 
     </ul>
-		
+
 	    			</div>
 	    		</div>
     		</div>
     	        <!--END-->
-        
-        <div class="container">
-        	<div class="row">
-        		<div class="col-md-6 col-md-offset-3">
-    		        																			</div>
-        	</div>
-        </div>
-        
-                
-        <!--Login Panel -->
-        <div id="login_panel" style="display: none;">
-    <div class="inner-container login-panel" id="user-login">
-        <h3 class="alternate-option"><a onclick="showForm('#register_panel');" class="">New to Wed Me Good? <span class="sign-up-option">Create Account</span></a></h3>
-        
 
-    <form id="login_form" action="/loginCheck" method="post" class="wmg-form">
+        
+        <!--Login Panel -->
+        <div id="loginModal" class="modal" ng-app="formApp" ng-controller="formController">
+	<div class="modal-dialog">
+		<div class="modal-content" style="margin-top: 70px">
+			<div class="modal-body" style="padding:0px;padding-bottom: 20px;">
+			    <button type="button" class="close close-ltn" data-dismiss="modal" aria-label="Close" style="    margin-top: -3%;margin-right: -6%;color: grey; opacity: 1;"><span aria-hidden="true">×</span></button>
+				<div id="login_panel">
+					<ul class="nav nav-tabs nav-t">
+						<li class="active" style="width:50%"><a href="#tab1" data-toggle="tab" style="padding: 15px;text-align:center" class="nav-tabs-user">USERS</a></li>
+						<li style="width:50%"><a href="#tab2" data-toggle="tab" style="padding: 15px;text-align:center" class="nav-tabs-user">VENDORS</a></li>
+					</ul>
+					<div class="tab-pane active" id="tab1" style="display:none">
+						<div class="inner-container login-panel" id="user-login">
+				        <h3 class="alternate-option" style="margin-right: 10px;
+    margin-left: 10px;width:90%"><a onclick="showForm('#register_panel');" class="">New to Wed Me Good? <span class="highlight">Create Account</span></a></h3>
+				        
+
+    <form id="login_form" ng-submit="submitForm(credentials,'user')" class="wmg-form">
             <h3 class="form-title">Sign in your account to have access to different features</h3>
             
             <div class="left-panel">
-                <a href="/facebook/authentication" class="login_facebook form-control">
-                    <i class="fa fa-facebook"></i>Connect with Facebook
+                <p id="fb_email_error"></p>
+                <a class="login_facebook form-control" onclick="fblogin()" style="position:relative">
+                    <i class="fa fa-facebook login_left_i_pos"></i><span class="login_left_i_pos" style="left:15%;top:15%">Connect with Facebook</span>
                 </a>
 
             </div>
@@ -225,22 +769,78 @@
                 <span class="circular-option">OR</span>
             </div>
             <div class="right-panel">
-                
-                <input type="text" id="username" name="_username" class="form-control input-sm " placeholder="Email" required="true">
-                
-                <input type="password" id="password" name="_password" class="form-control input-sm" placeholder="Password" required="true">
-
-                <input type="submit" id="_submit" name="_submit" class="form-control" value="LOG IN">
+                 <p style="margin-left: 35px;
+    font-size: 12px;
+    color: red;
+    margin-bottom: 5px;" id="login_error_msg"></p>
+                <input type="text" id="username" name="_username" ng-model="credentials.username" class="form-control input-sm " style="margin-bottom:0px" placeholder="Email" required="true">
+                <p style="margin-left: -90px;
+    font-size: 12px;
+    color: red;
+    display:none;" id="login_email_error">*Email does not exist</p>
+                <input type="password" id="password" name="_password" ng-model="credentials.password" class="form-control input-sm" style="margin-bottom:0px;margin-top: 20px;" placeholder="Password" required="true">
+                <p style="margin-left: -90px;
+    font-size: 12px;
+    color: red;
+    display:none" id="login_password_error">*Password is wrong</p>
+                <input type="submit" style="margin-top: 20px;" id="_submit" name="_submit" class="form-control" value="LOG IN">
 
                 <div class="help-link">
                     <a onclick="showForm('#forgot_panel');">FORGOT YOUR PASSWORD?</a>
                 </div>
             </div>
-        <div class="note wmg-paddingtop20">Your contact details will not be shared with any external agencies</div>      
+              
     </form>
     
-    </div>
+				    	</div>	
+					</div>
+					<div class="tab-pane" id="tab2" style="display:none">
+						<div class="inner-container" id="user-login">
+						<h3 class="alternate-option" style="margin-right: 10px;
+    margin-left: 10px;width:90%"><a onclick="showForm('#vendorregister_panel');" class="">Register as a <span class="highlight">Vendor</span></a></h3>
+						 <form id="login_form" ng-submit="submitForm(vendorCred,'vendor')" class="wmg-form">
+					            <h3 class="form-title">Sign in your account to have access to different features</h3>
+					            <div class="right-panel" style="float:none">
+					                <p style="margin-left: 35px;
+								    font-size: 12px;
+								    color: red;
+								    margin-bottom: 5px;" id="vlogin_error_msg"></p>
+					                <input type="text" id="username" name="_username" class="form-control input-sm m-b0" placeholder="Email" ng-model="vendorCred.username" required="true">
+					                 <p style="text-align: left;
+    								margin-left: 45px;
+								    font-size: 12px;
+								    color: red;
+								    display:none;" id="vlogin_email_error">*Email does not exist</p>
+								    <p style="text-align: left;
+    								margin-left: 45px;
+								    font-size: 12px;
+								    color: red;
+								    display:none;" id="vlogin_email_validity">*Email is not valid</p>
+					                <input type="password" id="password" name="_password" class="form-control input-sm m-b0 m-t20" ng-model="vendorCred.password" placeholder="Password" required="true">
+					                <p style="text-align: left;
+    								margin-left: 45px;
+								    font-size: 12px;
+								    color: red;
+								    display:none" id="vlogin_password_error">*Password is wrong</p>
+					                <input type="submit" id="_submit" name="_submit" class="form-control m-t20" value="LOG IN">
+
+					                <div class="help-link">
+					                    <a onclick="showForm('#forgot_panel');">FORGOT YOUR PASSWORD?</a>
+					                </div>
+					            </div> 
+					    </form>
+					    </div>
+					</div>
+				</div> 
+			</div>
+		</div>
+	</div>
 </div>
+<style type="text/css">
+	.active {
+		display: block!important;
+	}
+</style>
 
 
         <!--END-->
@@ -250,36 +850,66 @@
 <div id="vendorregister_panel" style="display: none;">
     <div class="inner-container register-panel" id="vendor-register">
       <h3 class="alternate-option">
-        <a onclick="showForm('#login_panel');">ALREADY HAVE AN ACCOUNT? LOG IN</a>
+        <a onclick="openLoginModal()">ALREADY HAVE AN ACCOUNT? <span class="highlight">LOG IN</span></a>
       </h3>
-        <form role="form" id="vendor-register-form" class="wmg-form" action="/register/vendor" method="POST">
+        <form role="form" id="vendor-register-form" class="wmg-form">
     <h3 class="form-title">Please share the following details to create your profile</h3>
-        <input type="text" id="fos_user_registration_form_name" name="fos_user_registration_form[name]" required="required" class="vendor-register-form form-control" data-error-message="Please enter a valid email Id" placeholder="Brand Name">
-        <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="vendor-register-form form-control" data-error-message="Please enter a valid email Id" placeholder="Email">
-        <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="vendor-register-form form-control" placeholder="Password" data-error-message="Password length should be atleast 2" data-validation-minlength="2">
-        <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="vendor-register-form form-control" placeholder="Confirm Password" data-error-message="Please repeat the password" data-validation-minlength="2">
-        <input type="submit" id="signup" name="submit" class="form-control" value="CREATE MY ACCOUNT">
-    <input type="hidden" id="fos_user_registration_form__token" name="fos_user_registration_form[_token]" value="03dd46d3863c5aabb2cf649dcbe6a6a691199ecd">
-</form>
- 
+     	<p id="signupsubmitvmsg"></p>
+     	<div class="signupidiv">
+        <input type="text" id="vfos_user_registration_form_name" name="fos_user_registration_form[name]" required="required" class="vendor-register-form form-control" data-error-message="Please enter a valid email Id" placeholder="Brand Name">
+        <p class="vsignupepos" id="vnamesignuperror">*required</p>
+        </div>
+        <div class="signupidiv">
+        <input type="email" id="vfos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="vendor-register-form form-control" data-error-message="Please enter a valid email Id" placeholder="Email">
+        <p class="vsignupepos" id="vemailsignuperror">*required</p>
+        <p class="vsignupepos" id="vinvEmailSgUp">*invalid email</p>
+        </div>
+        <div class="signupidiv">
+        <input type="password" id="vfos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="vendor-register-form form-control" placeholder="Password" data-error-message="Password length should be atleast 2" data-validation-minlength="2">
+        <p class="vsignupepos" id="vpasssignuperror">*required</p>
+        <p class="vsignupepos" id="vpasslenerror">*password length too short</p>
+        <p class="vsignupepos" id="vpassmatcherror">*passwords do not match</p>
+        </div>
+        <div class="signupidiv">
+        <input type="password" id="vfos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="vendor-register-form form-control" placeholder="Confirm Password" data-error-message="Please repeat the password" data-validation-minlength="2">
+        <p class="vsignupepos" id="vcpasssignuperror">*required</p>
+        </div>
+        <div class="signupidiv">
+            <div id="vendor-categories" onclick="showUlCat(event)">
+                     <ul class="customdropdown" style="border-right: 0px;list-style-type: none;
+    padding-left: 3px;
+    text-align: left;">
+                        <li id="categoryInit" class="customdropselect" style="color: #555">Select vendor type
+                        <i class="fa svt-arrow fa-chevron-down" style="top: 8px"></i>
+                        </li>
+                        <ul style="list-style-type: none; padding-left: 0px; height: 150px; overflow-y: auto;" class="vendor-cat-ul">
+                                                </ul>
+                       
+                    </ul>
+            </div>
+            <p class="vsignupepos" id="vcatError" style="bottom:85px;">*Please select a category</p>
+        </div>
+         <input type="submit" onclick="registerVendor(event);ga('send', 'event', 'register', 'click', 'popup', 0);" id="signup" name="submit" class="form-control" value="CREATE MY ACCOUNT" style="margin-top: 71px;">
+    <input type="hidden" id="fos_user_registration_form__token" name="fos_user_registration_form[_token]" value="adc50496bea15c729006082b659343b52f4176a9">
+</form> 
     </div>
 </div>
           
         <!--END-->
-        
+
         <!--User Register Panel -->
          <div id="register_panel" style="display: none;">
     <div class="inner-container register-panel" id="user-sign-up">
         <h3 class="alternate-option">
-            <a onclick="showForm('#login_panel');">ALREADY HAVE AN ACCOUNT? LOG IN</a>
+            <a onclick="openLoginModal()">ALREADY HAVE AN ACCOUNT? <span class="highlight">LOG IN</span></a>
         </h3>
-         <form role="form" action="/register/user" method="POST" id="register_form" class="wmg-form">
+         <form role="form" id="register_form" class="wmg-form user-register-form" novalidate="">
 
     <h3 class="form-title">Please share the following details to create your profile
             <span class="help-text"><i class="fa fa-check"></i>Takes less than 20 seconds</span>
     </h3>
     <div class="left-panel">
-        <a href="http://www.wedmegood.com/facebook_login.php" class="login_facebook form-control">
+        <a class="login_facebook form-control" onclick="fblogin()">
             <i class="fa fa-facebook"></i>Connect with Facebook
         </a>
     </div>
@@ -287,17 +917,32 @@
         <span class="circular-option">OR</span>
     </div>
     <div class="right-panel">
+        <p id="signupsubmitmsg"></p>
+        <div class="signupidiv">
         <input type="text" id="fos_user_registration_form_name" name="fos_user_registration_form[name]" required="required" class="form-control" data-error-message="Please enter a valid email Id" placeholder="Name">
+        <p class="signupepos" id="namesignuperror">*required</p>
+        </div>
+        <div class="signupidiv">
         <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="form-control" data-error-message="Please enter a valid email Id" placeholder="Email">
+        <p class="signupepos" id="emailsignuperror">*required</p>
+        <p class="signupepos" id="invEmailSgUp">*invalid email</p>
+        </div>
+        <div class="signupidiv">
         <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="form-control" placeholder="Password" data-error-message="Password length should be atleast 2" data-validation-minlength="2">
+        <p class="signupepos" id="passsignuperror">*required</p>
+        <p class="signupepos" id="passlenerror">*password length too short</p>
+        <p class="signupepos" id="passmatcherror">*passwords do not match</p>
+        </div>
+        <div class="signupidiv">
         <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="form-control" placeholder="Confirm Password" data-error-message="Please repeat the password" data-validation-minlength="2">
-        <input type="submit" id="signup" name="submit" value="CREATE MY ACCOUNT" class="form-control">
+        <p class="signupepos" id="cpasssignuperror">*required</p>
+        </div>
+        <input type="submit" onclick="registerUser(event);ga('send', 'event', 'user-register', 'click', 'popup', 0);" id="signup" name="submit" value="CREATE MY ACCOUNT" class="form-control">
     </div>
     <div class="note">
             <a onclick="showForm('#vendorregister_panel');">ARE YOU A VENDOR?</a>
     </div>
 
-    <input type="hidden" id="fos_user_registration_form__token" name="fos_user_registration_form[_token]" value="03dd46d3863c5aabb2cf649dcbe6a6a691199ecd">
 </form>
  
     </div>
@@ -308,11 +953,17 @@
         <!--Forget Panel -->
         <div id="forgot_panel" style="display: none;">
     <div class="inner-container forgot-panel" id="forgot-user">
-      <form id="forgot_form" action="/resetting/send-email" name="forgot_form" method="post" class="wmg-form">
+      <form id="forgot_form" name="forgot_form" class="wmg-form">
         <h3 class="form-title">FORGOT YOUR DETAILS?</h3>
-      	<input type="text" id="username" name="username" class="form-control" placeholder="Email Address" required="required">
-        <input type="submit" id="recover" name="submit" class="form-control" value="SEND MY DETAILS!">
-        <div class="help-link"><a onclick="showForm('#login_panel');">AAH, WAIT, I REMEMBER NOW!</a></div>
+        <div style="margin-bottom:15px">
+      	<input type="text" id="username" name="username" class="form-control" placeholder="Email Address" required="required" style="margin-bottom:0px">
+      	<p id="forgot-error" style="text-align: left;
+    margin-left: 55px;
+    color: red;
+    font-size: 12px;"></p>
+      	</div>
+        <input type="submit" onclick="forgotPass(event)" id="recover" name="submit" class="form-control" value="SEND MY DETAILS!">
+        <div class="help-link"><a onclick="openLoginModal('forgot_panel')">AAH, WAIT, I REMEMBER NOW!</a></div>
       </form>
     </div>  
 </div>
@@ -320,23 +971,23 @@
 
     
         <!--END-->
-        
-        
 
-        
+
+
+
         <!--Contact View Panel -->
         <div id="contact_view_panel" style="display:none;">
     <div class="inner-container register-panel" id="view-contact-details">
       <h3 class="alternate-option">
-          <a onclick="showForm('#login_panel');">ALREADY HAVE AN ACCOUNT?</a>
+          <a onclick="openLoginModal()">ALREADY HAVE AN ACCOUNT?</a>
       </h3>
-       <form role="form" action="/register/user" method="POST" id="register_form" class="wmg-form">
+       <form role="form" id="register_form" class="wmg-form user-register-form" novalidate="">
 
     <h3 class="form-title">Please share the following details to create your profile
             <span class="help-text"><i class="fa fa-check"></i>Takes less than 20 seconds</span>
     </h3>
     <div class="left-panel">
-        <a href="http://www.wedmegood.com/facebook_login.php" class="login_facebook form-control">
+        <a class="login_facebook form-control" onclick="fblogin()">
             <i class="fa fa-facebook"></i>Connect with Facebook
         </a>
     </div>
@@ -344,86 +995,72 @@
         <span class="circular-option">OR</span>
     </div>
     <div class="right-panel">
+        <p id="signupsubmitmsg"></p>
+        <div class="signupidiv">
         <input type="text" id="fos_user_registration_form_name" name="fos_user_registration_form[name]" required="required" class="form-control" data-error-message="Please enter a valid email Id" placeholder="Name">
+        <p class="signupepos" id="namesignuperror">*required</p>
+        </div>
+        <div class="signupidiv">
         <input type="email" id="fos_user_registration_form_email" name="fos_user_registration_form[email]" required="required" class="form-control" data-error-message="Please enter a valid email Id" placeholder="Email">
+        <p class="signupepos" id="emailsignuperror">*required</p>
+        <p class="signupepos" id="invEmailSgUp">*invalid email</p>
+        </div>
+        <div class="signupidiv">
         <input type="password" id="fos_user_registration_form_plainPassword_first" name="fos_user_registration_form[plainPassword][first]" required="required" class="form-control" placeholder="Password" data-error-message="Password length should be atleast 2" data-validation-minlength="2">
+        <p class="signupepos" id="passsignuperror">*required</p>
+        <p class="signupepos" id="passlenerror">*password length too short</p>
+        <p class="signupepos" id="passmatcherror">*passwords do not match</p>
+        </div>
+        <div class="signupidiv">
         <input type="password" id="fos_user_registration_form_plainPassword_second" name="fos_user_registration_form[plainPassword][second]" required="required" class="form-control" placeholder="Confirm Password" data-error-message="Please repeat the password" data-validation-minlength="2">
-        <input type="submit" id="signup" name="submit" value="CREATE MY ACCOUNT" class="form-control">
+        <p class="signupepos" id="cpasssignuperror">*required</p>
+        </div>
+        <input type="submit" onclick="registerUser(event);ga('send', 'event', 'user-register', 'click', 'popup', 0);" id="signup" name="submit" value="CREATE MY ACCOUNT" class="form-control">
     </div>
     <div class="note">
             <a onclick="showForm('#vendorregister_panel');">ARE YOU A VENDOR?</a>
     </div>
 
-    <input type="hidden" id="fos_user_registration_form__token" name="fos_user_registration_form[_token]" value="03dd46d3863c5aabb2cf649dcbe6a6a691199ecd">
 </form>
  
       
     </div>
   </div>
-        <!--END-->     
-            
+        <!--END-->
+
         <!--Content Panel -->
         
                 <!--END-->
 
         <!--Body Panel -->
-        <div class="wmg-container">
+        <div class="bodycontainer">
+        	
+        	        	<div class="wmg-container">
     <div class="wmg-text-container">
         <div class="wmg-text-container">
 
             <h1>Privacy Policy</h1>
 
-                                <p class="wmg-dancing">Our management has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.</p>
-
-            <p>The terms "We, Wedmegood, Us" refer to Wedmegood.com and the terms "You, Your" refer to a user of Wedmegood.com.&nbsp;</p>
-
-
-
-            <p>In the course of our business of helping our viewers&nbsp;plan their wedding, we collect certain information from you.</p>
-
-            <p>In the course of registering for and availing various services we provide from time to time through our website :<strong>Wedmegood, </strong>you may be required to give your Name, address, Email address, phone number.</p>
-
-            <p>The Personal Information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media.</p>
-
-            <h5 class="wmg-content-style">Security</h5>
-
-            <p>Personal Information will be kept confidential and we do not disclose the information except that in case you have specifically made an enquiry . Further, the vendors / advertisers who are listed with us, may call you, based on the query or enquiry that you make with us, enquiring about any Product / Service they might offer</p>
-
-            <p>We will share Personal Information only under one or more of the following circumstances: - If we have your consent or deemed consent to do so - If we are compelled by law (including court orders) to do so.</p>
-
-            <p>&nbsp;</p>
-
-            <p>In furtherance of the confidentiality with which we treat Personal Information we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
-
-            <p>We give you the ability to edit your account information and preferences at any time, including whether you want us to contact you regarding any services. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
-
-            <p>We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet, or anywhere else in the world!&nbsp;You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion.</p>
-
-            <h5 class="wmg-content-style">Links to other Websites</h5>
-
-            <p>We have affiliate links to many other online resources. We are not responsible for the practices employed by these affiliates or their websites linked to or from Wedmegood.com nor the information or content contained on these third party websites. You should carefully review their privacy statements and other conditions of use and you agree you provide information or engage in transactions with these affiliates at your own risk.</p>
-
-            <p><strong>CONTROL OF YOUR PASSWORD</strong></p>
-
-            <p>You are responsible for all actions taken with your login information and password, including fees. Therefore we do not recommend that you disclose your account password or login information to any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.</p>
-
-            <h5 class="wmg-content-style">CONTENT ON THE SITE</h5>
-
-            <p class="wmg-content-style-small">Wedmegood.com &nbsp;features some of the latest trends in Indian weddings around the world, and tries to give its users exposure to quality hand-picked content.&nbsp; In our endeavor, we feature pictures and stories from various real weddings and vendors. Vendors are expected to take utmost care to take permission / hold copyright of images given to us. We also feature weddings and articles where users have given us permission to use the same.</p>
-
-            <p class="wmg-content-style-small">However, in the unlikely event of anyone having any objection to content put up on our site, they are free to contact us immediately and we ll be happy to consider their request and take necessary action</p>
-
-            <h5 class="wmg-content-style">Updates on Privacy Policy</h5>
-
-            <p>We reserve the right to revise these Privacy Policies of Wedmegood.com from time to time by updating this posting. Such revised policies will take effect as of the date of posting</p>
-
-            <p><strong>Contact us</strong></p>
-
-            <p>If you have any further queries to the privacy policy, feel free to contact us – <a href="mailto:info@wedmegood.com">info@wedmegood.com</a></p>
+                                <p>Our management has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.</p><p>The terms "We, WedMeGood, Us" refer to Wedmegood.com and the terms "You, Your" refer to a user of Wedmegood.com. </p><p>In the course of our business of helping our viewers plan their wedding, we collect certain information from you.</p><p>In the course of registering for and availing various services we provide from time to time through our website: <strong>WedMeGood</strong>, you may be required to give your Name, address, Email address, phone number.</p><p>The Personal Information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media.</p><h3>Security</h3><p>Personal Information will be kept confidential and we do not disclose the information except that in case you have specifically made an enquiry . Further, the vendors / advertisers who are listed with us, may call you, based on the query or enquiry that you make with us, enquiring about any Product / Service they might offer</p><p>We will share Personal Information only under one or more of the following circumstances: - If we have your consent or deemed consent to do so - If we are compelled by law (including court orders) to do so.</p><p>In furtherance of the confidentiality with which we treat Personal Information we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p><p>We give you the ability to edit your account information and preferences at any time, including whether you want us to contact you regarding any services. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p><p>We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet, or anywhere else in the world! You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion.</p><h3>Links to other Websites</h3><p>We have affiliate links to many other online resources. We are not responsible for the practices employed by these affiliates or their websites linked to or from Wedmegood.com nor the information or content contained on these third party websites. You should carefully review their privacy statements and other conditions of use and you agree you provide information or engage in transactions with these affiliates at your own risk.</p><h3>Control Of Your Password</h3><p>You are responsible for all actions taken with your login information and password, including fees. Therefore we do not recommend that you disclose your account password or login information to any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.</p><h3>Content On The Site</h3><p>Wedmegood.com features some of the latest trends in Indian weddings around the world, and tries to give its users exposure to quality hand-picked content. In our endeavor, we feature pictures and stories from various real weddings and vendors. Vendors are expected to take utmost care to take permission / hold copyright of images given to us. We also feature weddings and articles where users have given us permission to use the same.</p><p>However, in the unlikely event of anyone having any objection to content put up on our site, they are free to contact us immediately and we ll be happy to consider their request and take necessary action</p><h3>Updates on Privacy Policy</h3><p>We reserve the right to revise these Privacy Policies of Wedmegood.com from time to time by updating this posting. Such revised policies will take effect as of the date of posting</p><h3>Contact Us</h3><p>If you have any further queries regarding the privacy policy, feel free to contact us at <a href="mailto:info@wedmegood.com" target="_blank">info@wedmegood.com</a></p>
                  
         </div>
     </div>
 </div>
+            <div class="container">
+            	<div class="row">
+            		<div class="col-md-6 col-md-offset-3">
+        		        
+    					
+    					
+    					
+    					
+			        	
+                                            				</div>
+            	</div>
+            </div>
+
+
+        </div>
         <!--END-->
 
         <!-- **************modal window********************************************** -->
@@ -434,37 +1071,231 @@
              <a class="close-reveal-modal">×</a>
         </div>
 
+		        <!--*********** vendor prompt modal *********-->
+		<div id="verrorModal" class="modal">
+		    <div class="modal-dialog">
+		        <div class="modal-content" style="margin-top: 190px">
+		            <div class="modal-body" style="text-align:center">
+		                <button type="button" class="close close-ltn" data-dismiss="modal" aria-label="Close" style="margin-right:10px"><span aria-hidden="true">×</span></button>
+		                <p style="margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 19px;">Sorry! This action cannot be performed by a vendor.</p>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+
+		<!-- facebook modal -->
+		<div id="fbModal" class="modal">
+		    <div class="modal-dialog" style="width:300px">
+		        <div class="modal-content" style="margin-top: 190px">
+		            <div class="modal-body" style="text-align:center">
+		                <button type="button" class="close close-ltn" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		                <p style="margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;font-weight:600">Please enter your email id</p>
+    <p style="font-size: 12px;
+    text-align: left;
+    margin-left: 15px;
+    color: red;" class="req-error">*required</p>
+    <p style="font-size: 12px;
+    text-align: left;
+    margin-left: 15px;
+    color: red;" class="email-error">*invalid email</p>
+    					<input type="email" id="fbemail" style="border-radius: 4px;
+    border: 2px solid #d5d5d5;padding-left: 10px;
+    width: 90%;">
+    					<button style="MARGIN-TOP: 15PX;
+    BORDER: 0PX;
+    COLOR: WHITE;
+    BACKGROUND-COLOR: #DC205D;
+    FONT-SIZE: 12PX;
+    /* DISPLAY: BLOCK; */
+    PADDING: 5PX;
+    PADDING-LEFT: 12PX;
+    PADDING-RIGHT: 12PX;
+    BORDER-RADIUS: 4PX;" onclick="continueFbLogin()">SUBMIT</button>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+		<!-- -->
+
+				<!--*********** signup modal *********-->
+		<div id="confirmSignUp" class="modal" style="z-index:100000">
+		    <div class="modal-dialog">
+		        <div class="modal-content" style="margin-top: 190px">
+		            <div class="modal-body row" style="text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;padding-bottom: 20px;">
+		            <p style="margin-top: 20px;font-weight:600"> Glad to have you on board! All that's left to do now is to verify your account using the link that has been emailed to you. </p>
+		            <button id="confirmGotIt" onclick="SignedUpPrompt()">Got It</button>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+		<!-- -->
+
 <!-- **********************************end of modal window*********************************** -->
 
         <!--Footer Panel -->
         <!-- new code start here -->
 <!-- footer start -->
 <div class="clear"> </div>
-<footer>
+ <div id="app-fixed-footer">
+ 	<i class="fa fa-close app-fixed-close" onclick="closeFooter()"></i>
+	<img src="https://d2eanzqpmoo3ec.cloudfront.net/images/logo-pink-small.png" id="app-fixed-logo">
+	<div id="app-fixed-text">
+		<p>Get the WedMeGood App</p>
+		<p id="app-fixed-subtext" class="iphone-show">Available on the App Store</p>
+		<p id="app-fixed-subtext" class="android-show">Available on the Play Store</p>
+	</div>
+    <button onclick="appBtn()" id="app-fixed-button">GET</button>
+</div> 
+<div id="test-hey"></div><!-- this div is for sexy purposes  -->
+<footer style="padding-bottom: 10px;">
 	<div class="row-fluid">
-		<div class="col-xs-10">
+		<div class="col-md-12 col-xs-12">
+			<div class="favorsDiv" style="display:none;text-align:left;margin-bottom:20px">
+				<p>Searches leading to this page: </p>
+				<p class="tagsCSeo"><a href="">Chocolates for weddings</a> ,  <a href="">Mithai boxes for weddings</a> , <a href="">Flavoured tea</a> ,<a href=""> Dry fruit for weddings</a> , <a href="">Mehendi favors</a>	
+				</p>
+			</div>
+		</div>
+		<div class="col-md-12 col-xs-12">
+			<div class="venueSDiv" style="display:none;text-align:left;margin-bottom: 20px;">
+				<p>Searches leading to this page: </p>
+				<p class="tagsCSeo">
+					<a href=""><span class="venueSeo"></span> in <span class="citySeo"></span></a><a>, </a><a href=""><span class="venueSeo"></span> <span class="citySeo"></span></a>,<a href=""><span class="citySeo"></span> <span class="venueSeo"></span></a>, <a href="">top <span class="venueSeo"></span> in <span class="citySeo"></span></a>,<a href=""> top <span class="venueSeo"></span> <span class="citySeo"></span></a>, <a href="">best <span class="venueSeo"></span> <span class="citySeo"></span></a>, <a href="">best <span class="venueSeo"></span> in <span class="citySeo"></span></a>
+				</p>					
+			</div>
+		</div>
+		<div class="col-md-12 col-xs-12">
+			<div class="outfitSDiv" style="display:none;text-align:left;margin-bottom: 20px;">
+				<p>Searches leading to this page: </p>
+				<p class="tagsCSeo">
+					<a href=""><span class="outfitSeo"></span> in <span class="citySeo"></span></a><a>, </a><a href=""><span class="outfitSeo"></span> <span class="citySeo"></span></a>, <a href=""><span class="citySeo"></span> <span class="outfitSeo"></span></a>, <a href="">top <span class="outfitSeo"></span> in <span class="citySeo"></span></a>, <a href="">top <span class="outfitSeo"></span> <span class="citySeo"></span></a>, <a href="">best <span class="outfitSeo"></span> <span class="citySeo"></span></a>, <a href="">best <span class="outfitSeo"></span> in <span class="citySeo"></span></a> 
+				</p>
+			</div>
+		</div>
+		<div class="col-md-12 col-xs-12">
+		<div class="fsDiv">
+			<p>Frequent searches leading to this page : </p>
+			<p class="fswedding-photographers tagsCSeo">
+			<a href="" class="fstext">Wedding Photographers in <span class="citySeo"></span></a>, <a href="" class="fstext"><span class="citySeo"></span> Wedding Photographers</a>,<a href="" class="fstext"> Best Wedding Photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Candid wedding photographers <span class="citySeo"></span></a>, <a href="" class="fstext">Candid wedding photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Traditional Wedding Photographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Traditional Wedding Photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Traditional Wedding Photographers</a>,<a href="" class="fstext">Candid Wedding Photographers in <span class="citySeo"></span>,</a>,<a href="" class="fstext"> Budget Wedding Photographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Portrait Photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Pre-Wedding Photographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Portrait Photographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Pre-Wedding Photographers <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-jewellery tagsCSeo">
+				<a href="" class="fstext">Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Jewellers</a>,<a href="" class="fstext"> Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Artificial Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Artificial Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Floral Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Floral Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Floral Wedding Jewellers</a>,<a href="" class="fstext"> <span class="citySeo"></span> Artificial Wedding Jewellers</a>,<a href="" class="fstext"> Budget Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Polki Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Kundan Wedding Jewellers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Polki Wedding Jewellers <span class="citySeo"></span></a>,<a href="" class="fstext"> Kundan Wedding Jewellers <span class="citySeo"></span></a>
+			</p>
+			<p class="fsbridal-makeup tagsCSeo">
+				<a href="" class="fstext">Bridal Makeup Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Bridal Makeup Artists</a>,<a href="" class="fstext"> Bridal Makeup Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Bridal Makeup Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Bridal Makeup Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Bridal Makeup Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Bridal Makeup Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Airbrush Makeup Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Airbrush Makeup Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Venue Travelling Makeup Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Venue Travelling Makeup Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Groom Makeup Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Groom Makeup Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Hairstylists <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Hairstylists <span class="citySeo"></span></a>
+			</p>
+			<p class="fssangeet-choreographers tagsCSeo"> 
+				<a href="" class="fstext">Wedding Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Choreographers</a>,<a href="" class="fstext"> Wedding Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Sangeet Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Sangeet Choreographers</a>,<a href="" class="fstext"> Sangeet Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Sangeet Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Sangeet Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Sangeet Choreographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Sangeet Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Sangeet Choreographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Sangeet Choreographers in <span class="citySeo"></span></a>
+			</p>
+			<p class="fsbridal-wear tagsCSeo">
+				<a href="" class="fstext">Bridal Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Bridal Wear Designers</a>,<a href="" class="fstext"> Bridal Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Bridal Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Bridal Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Bridal Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Bridal Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Lehenga Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Lehenga Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Cocktail Outfits <span class="citySeo"></span></a>,<a href="" class="fstext"> Cocktail Outfits in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Anarkalis <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Anarkalis in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Saris in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Saris <span class="citySeo"></span></a>,<a href="" class="fstext"> Light Lehengas <span class="citySeo"></span></a>,<a href="" class="fstext"> Light Lehengas in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Stores <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Stores in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Boutiques in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bridal Boutiques <span class="citySeo"></span></a>
+			</p>
+			<p class="fsgroom-wear tagsCSeo">
+				<a href="" class="fstext">Groom Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Groom Wear Designers</a>,<a href="" class="fstext"> Groom Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Groom Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Groom Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Groom Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Groom Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Sherwanis <span class="citySeo"></span></a>,<a href="" class="fstext"> Sherwanis in <span class="citySeo"></span></a>,<a href="" class="fstext"> Bandhgalas <span class="citySeo"></span></a>,<a href="" class="fstext"> Bandhgalas in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Sherwanis</a>,<a href="" class="fstext"><span class="citySeo"></span> Bandhgalas</a>,<a href="" class="fstext"> Budget Groom Wear Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Groom Wear Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Tuxedos in <span class="citySeo"></span></a>,<a href="" class="fstext"> Tuxedos <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-decor tagsCSeo">
+				<a href="" class="fstext">Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Decorators</a>,<a href="" class="fstext"> Wedding Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Banquet Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Banquet Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> Outdoor Wedding Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Outdoor Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Indoor Wedding Decorators</a>,<a href="" class="fstext"> <span class="citySeo"></span> Outdoor Wedding Decorators</a>,<a href="" class="fstext"> Budget Wedding Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> Quirky Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> Floral Wedding Decorators in <span class="citySeo"></span></a>,<a href="" class="fstext"> Quirky Wedding Decorators <span class="citySeo"></span></a>,<a href="" class="fstext"> Floral Wedding Decorators <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-catering tagsCSeo">
+				<a href="" class="fstext">Wedding Caterers in <span class="citySeo"></span>, <span class="citySeo"></span> Wedding Caterers</a>,<a href="" class="fstext"> Wedding Caterers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Caterers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Caterers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Caterers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Caterers <span class="citySeo"></span></a>,<a href="" class="fstext"> Jain wedding Caterers <span class="citySeo"></span></a>,<a href="" class="fstext"> Jain Wedding Caterers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Vegetarian Wedding Caterers <span class="citySeo"></span></a>,<a href="" class="fstext"> Vegetarian Wedding Caterers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Vegetarian Wedding Caterers</a>,<a href="" class="fstext"> <span class="citySeo"></span> Jain Wedding Caterers</a>,<a href="" class="fstext"> Budget Wedding Caterers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Caterers in <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-cards tagsCSeo">
+				<a href="" class="fstext">Wedding Invitation Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Invitation Designers</a>,<a href="" class="fstext"> Wedding Invitation Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Invitation Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Invitation Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Invitation Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Invitation Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Card Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Card Designers</a>,<a href="" class="fstext"> Wedding Card Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Card Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Card Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Card Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Card Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Box Cards <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Box Cards in <span class="citySeo"></span></a>,<a href="" class="fstext"> Digital Wedding Invites <span class="citySeo"></span></a>,<a href="" class="fstext"> Digital Wedding Invites in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Box Cards</a>,<a href="" class="fstext"> <span class="citySeo"></span> Digital Wedding Invites</a>,<a href="" class="fstext"> Budget Wedding Invitation Designers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Invitation Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Card Designers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Card Designers <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-cakes tagsCSeo">
+				<a href="" class="fstext">Wedding Cakes in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Cakes</a>,<a href="" class="fstext"> Wedding Cakes <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Cakes in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Cakes <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Cakes in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Cakes <span class="citySeo"></span></a>,<a href="" class="fstext"> Engagement Cakes <span class="citySeo"></span></a>,<a href="" class="fstext"> Engagement Cakes in <span class="citySeo"></span></a>,<a href="" class="fstext"> Reception Cakes <span class="citySeo"></span></a>,<a href="" class="fstext"> Reception Cakes in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Engagement Cakes</a>,<a href="" class="fstext"> <span class="citySeo"></span> Reception Cakes</a>,<a href="" class="fstext"> Budget Wedding Cakes <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Cakes in <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-venues tagsCSeo">
+				<a href="" class="fstext">Wedding Venues in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Venues</a>,<a href="" class="fstext"> Wedding Venues <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Venues in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Venues <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Venues in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Venues <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Banquets <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Banquets in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Halls <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Halls in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Banquets</a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Halls</a>,<a href="" class="fstext"> Budget Wedding Venues <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Venues in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Farmhouses <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Farmhouses in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Resorts <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Resorts in <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-videography tagsCSeo">
+				<a href="" class="fstext">Wedding Videographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Videographers</a>,<a href="" class="fstext"> Wedding Videographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Videographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Videographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Videographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Videographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Videographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Videographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Cinematographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Cinematographers</a>,<a href="" class="fstext"> Wedding Cinematographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Cinematographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Cinematographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Cinematographers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Cinematographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Cinematographers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Cinematographers in <span class="citySeo"></span></a>				
+			</p>
+			<p class="fsmehendi-artists tagsCSeo">
+				<a href="" class="fstext">Mehendi Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Mehendi Artists</a>,<a href="" class="fstext"> Mehendi Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Mehendi Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Mehendi Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Mehendi Artists in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Mehendi Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Mehendi Artists <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Mehendi Artists in <span class="citySeo"></span></a>
+			</p>
+			<p class="fstrousseau-packers tagsCSeo">
+				<a href="" class="fstext">Trousseau Packers in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Trousseau Packers</a>,<a href="" class="fstext"> Trousseau Packers <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Trousseau Packers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Trousseau Packers <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Trousseau Packers in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Trousseau Packers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Trousseau Packers <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Trousseau Packers in <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-favors tagsCSeo">
+				<a href="" class="fstext">Wedding Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Favors</a>,<a href="" class="fstext"> Wedding Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Mehendi Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Mehendi Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> Sangeet Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Sangeet Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Mehendi Favors</a>,<a href="" class="fstext"> <span class="citySeo"></span> Sangeet Favors</a>,<a href="" class="fstext"> Budget Wedding Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> Mithai Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> Mithai Favors in <span class="citySeo"></span></a>,<a href="" class="fstext"> Quirky Favors <span class="citySeo"></span></a>,<a href="" class="fstext"> Quirky Favors <span class="citySeo"></span></a>
+			</p>
+			<p class="fsplanners tagsCSeo">
+				<a href="" class="fstext">Wedding Planners in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Planners</a>,<a href="" class="fstext"> Wedding Planners <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Planners in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Planners <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Planners in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Planners <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Planners <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Planners in <span class="citySeo"></span></a>
+			</p>
+			<p class="fswedding-accessories tagsCSeo">
+				<a href="" class="fstext">Wedding Accessories in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Accessories</a>,<a href="" class="fstext"> Wedding Accessories <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Accessories in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding Accessories <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Accessories in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding Accessories <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Shoes <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Shoes in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Clutches <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Clutches in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Shoes</a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding Clutches</a>,<a href="" class="fstext"> Budget Wedding Accessories <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding Accessories in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Bags in <span class="citySeo"></span></a>,<a href="" class="fstext"> Wedding Bags <span class="citySeo"></span></a>
+			</p>
+			<p class="fsdjs tagsCSeo">
+				<a href="" class="fstext">Wedding DJs in <span class="citySeo"></span></a>,<a href="" class="fstext"> <span class="citySeo"></span> Wedding DJs</a>,<a href="" class="fstext"> Wedding DJs <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding DJs in <span class="citySeo"></span></a>,<a href="" class="fstext"> Best Wedding DJs <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding DJs in <span class="citySeo"></span></a>,<a href="" class="fstext"> Top Wedding DJs <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding DJs <span class="citySeo"></span></a>,<a href="" class="fstext"> Budget Wedding DJs in <span class="citySeo"></span></a>
+			</p>
+			</div>
+		</div>
+		<div class="footerCities col-md-6 col-xs-12" style="text-align:left;margin-bottom:15px">
+			<p class="m-b10" style="font-weight: 600;">CITIES</p>
+			<p class="m-b10" style="font-size:82%">Featuring vendors in <span style="color:#FA296F">50+ cities</span> around the globe including:</p>
+			<div class="col-md-6 col-xs-6" style="padding-left:0px">
+			<ul class="citiesUl">
+				<li><a href="/vendors#/delhi-ncr">Delhi NCR</a></li>
+				<li><a href="/vendors#/mumbai">Mumbai</a></li>
+				<li><a href="/vendors#/bangalore">Bangalore</a></li>
+				<li><a href="/vendors#/hyderabad">Hyderabad</a></li>
+				<li><a href="/vendors#/chandigarh">Chandigarh</a></li>
+				<li><a href="/vendors#/pune">Pune</a></li>
+				<li><a href="/vendors#/jaipur">Jaipur</a></li>
+				<li><a href="/vendors#/kolkata">Kolkata</a></li>
+			</ul>
+			</div>
+			<div class="col-md-6 col-xs-6">
+			<ul class="citiesUl">
+				<li><a href="/vendors#/goa">Goa</a></li>
+				<li><a href="/vendors#/ahmedabad">Ahmedabad</a></li>
+				<li><a href="/vendors#/kerala">Kerala</a></li>
+				<li><a href="/vendors#/lucknow">Lucknow</a></li>
+				<li><a href="/vendors#/ludhiana">Ludhiana</a></li>
+				<li><a href="/vendors#/amritsar">Amritsar</a></li>
+				<li><a href="/vendors#/chennai">Chennai</a></li>
+				<li><a href="/vendors#/udaipur">Udaipur</a></li>
+			</ul>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<button id="l_y_b" onclick="showForm('#vendorregister_panel');">List your Business</button>
+			<button id="submit_W"><a href="/blog/submit-a-wedding/">Submit Wedding</a></button>
+		</div>
+	</div>
+	<hr style="background-color: rgba(0, 0, 0, 0.12);margin-bottom: 15px;">
+	<div class="row-fluid clearfix">
+		<div class="col-xs-8 col-md-8">
 			<ul>
-				<li><a href="/">HOME</a></li>
+				<li><a href="/">Home</a></li>
 				<li>|</li>
-				<li><a href="/contact_us">CONTACT US</a></li>
+				<li><a href="/about_us">About Us</a></li>
 				<li>|</li>
-				<li><a href="/terms">TERMS</a></li>
+				<li><a href="/contact_us">Contact Us</a></li>
 				<li>|</li>
-				<li><a href="/privacy">PRIVACY POLICY</a></li>
+				<li><a href="/careers">Careers</a></li>
 				<li>|</li>
-				<li><a href="/about_us">ABOUT US</a></li>
+				<li><a href="/terms">Terms</a></li>
 				<li>|</li>
-				<li class="wmg-highlight-link"><a onclick="showForm('#vendorregister_panel');">REGISTER AS A VENDOR</a></li>
+				<li><a href="/privacy">Privacy Policy</a></li>
 				<li>|</li>
-				<li class="wmg-highlight-link"><a href="http://www.wedmegood.com/blog/submit-a-wedding/">SUBMIT WEDDING</a></li>
+				<li><a href="/sitemap">Site Map</a></li>
 			</ul>
 		</div>
 
-		<div class="col-xs-2">
-			<ul class="pull-right">
-				<li><a href="https://twitter.com/wedmegood" target="blank"><img src="http://d2eanzqpmoo3ec.cloudfront.net/newimages/twitter.png" width="20px" height="20px" alt="Wed Me Good Twitter"></a></li>
-				<li><a href="https://www.facebook.com/wedmegood" target="blank"><img src="http://d2eanzqpmoo3ec.cloudfront.net/newimages/facebook.png" width="20px" height="20px" alt="Wed Me Good Facbook"></a></li>
-				<li><a href="https://www.pinterest.com/wedmegood" target="blank"><img src="http://d2eanzqpmoo3ec.cloudfront.net/newimages/pinterest.jpg" width="20px" height="20px" alt="Wed Me Good Pinterest"></a></li>
+		<div class="col-xs-4 col-md-4">
+			<ul class="footerFloat">
+				<li><a href="https://twitter.com/wedmegood" target="blank"><img src="https://d2eanzqpmoo3ec.cloudfront.net/newimages/twitter.png" width="20px" height="20px" alt="Wed Me Good Twitter"></a></li>
+				<li><a href="https://www.facebook.com/wedmegood" target="blank"><img src="https://d2eanzqpmoo3ec.cloudfront.net/newimages/facebook.png" width="20px" height="20px" alt="Wed Me Good Facbook"></a></li>
+				<li><a href="https://www.pinterest.com/wedmegood" target="blank"><img src="https://d2eanzqpmoo3ec.cloudfront.net/newimages/pinterest.jpg" width="20px" height="20px" alt="Wed Me Good Pinterest"></a></li>
+				<li><a href="https://www.instagram.com/wedmegood" target="blank"><img src="https://d2eanzqpmoo3ec.cloudfront.net/images/instagram.jpg" width="20px" height="20px" alt="Wed Me Good Pinterest"></a></li>						
 			</ul>
 		</div>
 	</div>
@@ -485,23 +1316,42 @@
 
 
 
-
         <!--END-->
 
-                <script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/jquery-1.11.min.js"></script>
-        <script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/jquery.flexisel.js"></script>
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/responsiveslides.min.js"></script>
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/easyResponsiveTabs.js"></script>
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/bootstrap-3.2.min.js"></script> 
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/js/tinybox/tinybox.js"></script>
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/reveal.js"></script>
-    	<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/modal.js?v=1.0.3"></script>   
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/js/custom.js"></script> 
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/jquery-ui.js"></script>
+        
+        <script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/jquery-1.11.min.js"></script>
+        <script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/jquery.flexisel.js"></script>
+        <!-- <script type="text/javascript" src="/newjs/jquery.flexisel.js"></script> -->
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/responsiveslides.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-animate.min.js"></script>
+		<script src="https://d2eanzqpmoo3ec.cloudfront.net/js/tripledes.js"></script>
+
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/js.cookie.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/easyResponsiveTabs.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/bootstrap-3.2.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/tinybox/tinybox.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/reveal.js?v=1.0.1"></script>
+		<script src="https://d2eanzqpmoo3ec.cloudfront.net/js/swiper.min.js"></script>
+    <script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/modal.js?v=1.0.10"></script>
+    	<!--<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/modal.js?v=1.0.7"></script>-->
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/custom.js?v=1.0.3"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/jquery-ui.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/jquery.imagedrag.min.js"></script>
+		<!--Perfect scrollbar-->
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/perfect-scrollbar.jquery.min.js?v=1.0.1"></script>
+		<!-- <script src="https://listjs.com/no-cdn/list.js"></script> -->
+		<!-- <script src="https://listjs.com/no-cdn/list.fuzzysearch.js"></script> -->
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/vendorinbox.js?v=1.0.1"></script>
+
+
+		<!-- *******************************event INTEGRATION************************** -->
+		<!--<script type="text/javascript" src="/newjs/custom/events.js"></script>-->
 		<!-- *******************************MISHTAG INTEGRATION************************** -->
-		<script src="http://mypiccoin.appspot.com/mtgck/6296331056316416"></script>
+
+		<!--<script src="http://mypiccoin.appspot.com/mtgck/6296331056316416"></script>
 		<script src="https://apis.google.com/js/client.js?onload=mishtaginit"></script>
-		<script>mishtagsetpid('6296331056316416');</script>
+		<script>mishtagsetpid('6296331056316416');</script>-->
 		<!-- **********************//MISHTAG INTEGRATION******************** -->
 
 		<!-- *******************************Boot strap Multiselect INTEGRATION************************** -->
@@ -509,23 +1359,148 @@
 
 
 		<!-- more less code start -->
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/hideMaxListItem-min.js"></script>
-		<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/common.js?v=1.0.2"></script>   
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/hideMaxListItem-min.js"></script>
+
+		<script type="text/javascript" src="/newjs/common.js?v=1.1.9"></script>
+		<!--<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/common.js?v=1.1.1"></script>-->
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/tracking.js?v=1.0.8"></script>
+		<script type="text/javascript">
+		    //$(document).ready(function() {
+		      //calculate the height and give min height to bodycontainer to remove flash of footer
+				// var winHeight = screen.height;
+				// console.log(winHeight);
+				// var obj = document.getElementsByClassName('bodycontainer');
+				// console.log(obj);
+				// obj[0].style.minHeight= winHeight+'px';
+		   // });
+		</script>
+
 		<script type="text/javascript">
 			$("#errorOnRegistration").fadeTo(5000, 500).slideUp(500, function(){
 	            $("#errorOnRegistration").alert('close');
 	        });
 	        $("#errorOnLogin").fadeTo(5000, 500).slideUp(500, function(){
 	            $("#errorOnLogin").alert('close');
-	        });	
+	        });
 	        $("#realwedding-consult").fadeTo(5000, 500).slideUp(500, function(){
             	$("#realwedding-consult").alert('close');
-        	});	
+        	});
         	$("#wrongCaptcha").fadeTo(5000, 500).slideUp(500, function(){
             	$("#wrongCaptcha").alert('close');
-        	});		
+        	});
+        	var openLoginModal = function(modalname) {
+        		clearTimeout(window.signUpPrompt);
+        		// if(modalname == 'forgot_panel') {
+        			$('.reveal-modal').trigger('reveal:close');
+        		// }
+        		$('#loginModal').modal('show');
+        		$('#fb_email_error').html('');
+        	}
+        	var openVendorError = function() {
+        		$('#verrorModal').modal('show');
+        	}
 		</script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/DateTimePicker.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-messages.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-socialshare.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/ng-infinite-scroll.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-ui-router.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-route.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-cookies.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/update-meta.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/event.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-deckgrid.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/angulargrid.js"></script>
+		<script type="text/javascript" src="/js/ngToast.min.js"></script>
+		<script type="text/javascript" src="/js/loading-bar.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/ng-file-upload.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/ui-bootstrap-tpls.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/ngDialog.min.js"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/profile-feed/config.js?v=1.0.3"></script>
+		<script type="text/javascript" src="/js/profile-feed/sharedServices.js?v=1.1.3"></script>
+		<script type="text/javascript" src="/js/vendor-feed/vendorServices.js?v=1.1.6"></script>
+		<script type="text/javascript" src="/js/profile-feed/sharedFilters.js?v=1.1.6"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/profile-feed/searchData.js?v=1.0.2"></script>
+		<script src="https://d2eanzqpmoo3ec.cloudfront.net/js/angular-tooltips.min.js"></script>
+		<script type="text/javascript" src="/js/profile-feed/navProfile.js?v=1.1.1"></script>
 
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/profile-feed/searchFeed.js?v=1.0.3"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/vendor-category/vendorCategoryServices.js?v=1.1.2"></script>
+		<script type="text/javascript" src="/js/vendor-category/vendorCategory.js?v=1.1.7"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/vendor-category/vendorFeedNew.js?v=1.1.4"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/venue/venueMenu.js?v=1.0.1"></script>
+		<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/js/profile-feed/inbox.js?v=1.0.2"></script>
+				<script type="text/javascript">
+			if( /Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+				if(!Cookies.get('downloadpopup')) {
+				  $('#app-fixed-footer').css({"display":"block","z-index":"3"});
+				}
+			};
+		 	var openModal = function() {
+		 		$('.reveal-modal').trigger('reveal:close');
+				$('#loginModal').modal('hide');
+		 		$('#downloadModal').modal('show');
+		 	};
+		 	var appBtn = function() {
+		 		if(/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+		 			window.location.href ='https://appsto.re/in/TPdo-.i';
+		 		} else {
+		 			window.location.href = 'https://play.google.com/store/apps/details?id=com.wedmegood.planner';
+		 		}
+		 	};
+
+		 	var closeFooter = function() {
+		 		$('#app-fixed-footer').css('display','none');
+		 		var date = new Date();
+				var minutes = 7;
+				date.setTime(date.getTime() + (minutes * 60 * 1000));
+				Cookies.set("downloadpopup", "true", { expires: date });
+		 	};
+		 	var submitSms = function(e) {
+		 		e.preventDefault();
+		 		var $input = $(e.target).parents('form').find('.sms-val');
+		 		var $arrowaccess = $(e.target).parents('form').find('#arrowaccess');
+		 		var $spin_loader = $(e.target).parents('form').find('.spin-loader');
+		 		var $tick_sms = $(e.target).parents('form').find('.tick-sms')
+		 		var phNo = $input.val();
+
+		 		if(isNaN(phNo)|| phNo.length != 10 ) {
+		 			$input.css('border','1px solid red');
+		 		} else {
+		 			$arrowaccess.css('display','none');
+		 			$spin_loader.css('display','block');
+		 			$input.css('border','1px solid #d5d5d5');
+		 			$.ajax({
+			 			method: 'post',
+			 			url: 'https://www.wedmegood.com/download_link_sms',
+			 			data: {
+			 				'mobile_number': phNo
+			 			},
+			 			success: function(data) {
+				 			$spin_loader.css('display','none');
+				 			$tick_sms.css('display','block');
+				 			$input.val('');
+				 		}
+			 		})
+		 		}
+		 	};
+		    $(function() {
+		    	var today = new Date();
+		    	var dd = today.getDate();
+		    	var mm = today.getMonth()+1; //January is 0!
+		    	var yyyy = today.getFullYear();
+		    	today = dd+'-'+mm+'-'+yyyy;
+		    	$("#hired_date").DateTimePicker({
+		    		parentElement: '#hired-date'
+		    	});
+		        $( "#functionDate" ).datepicker();
+		     /*   $( ".hired_date" ).datepicker({
+		            showOn: "both",
+		            buttonText: "<i class='fa fa-calendar'></i>",
+		            maxDate:0
+		        });*/
+		    });
+		</script>
 				<!--Wedding Consultant Panel -->
         <div id="wedding_consulting_panel" style="display: none;"> 
 
@@ -534,32 +1509,7 @@
           <p class="alternate-option wmg-marginbottom10 center">Finding Mr right turning out easier than finding the right vendor? Need a bridal makeup artist that suits your style or a photographer that fits the bill ?? Relax , take a deep breath and leave it to us. Just fill the form in below and we shall be in touch with you to understand your requirements soon. This is a free service during our launch, but will soon be chargeable!</p>
        
         <center>
-            <form action="/real_wedding/realweddingConsulting" method="POST" class="wmg-form">
-    
-           
-    <input type="text" id="webmuch_realweddingbundle_weddingconsulting_name" name="webmuch_realweddingbundle_weddingconsulting[name]" required="required" placeholder="Name" class="form-control input-sm" data-error-message="Please enter  Name">
-
-    <input type="text" id="webmuch_realweddingbundle_weddingconsulting_contactNumber" name="webmuch_realweddingbundle_weddingconsulting[contactNumber]" required="required" placeholder="Contact number" class="form-control input-sm" data-error-message="Please enter  Contact">
-
-    <input type="text" id="webmuch_realweddingbundle_weddingconsulting_email" name="webmuch_realweddingbundle_weddingconsulting[email]" required="required" placeholder="Email" class="form-control input-sm" data-error-message="Please enter  Email">
-
-    <input type="text" name="weddingDate" id="weddingDate" value="" class="form-control input-sm" placeholder="Select wedding date">
-
-    <select id="webmuch_realweddingbundle_weddingconsulting_vendorType" name="webmuch_realweddingbundle_weddingconsulting[vendorType][]" required="required" class="form-option" data-error-message="Please enter Vendor Type" placeholder="Vendor type" multiple="multiple"><option value="1">Photographer</option><option value="2">Jewellery</option><option value="3">MakeUp Artist</option><option value="4">Bridal Wear</option><option value="5">Groom Wear</option><option value="6">Decor </option><option value="7">Catering</option><option value="8">Invitations</option><option value="9">Cake</option><option value="10">Venue</option><option value="11">Stores</option><option value="12">Cinema/Video</option><option value="13">Mehendi </option><option value="14">Packaging</option><option value="15">Choreographer</option><option value="16"> Favors</option><option value="17">Wedding Planners</option><option value="18">Accessories</option><option value="19">DJs</option></select>
-
-    <input type="text" id="webmuch_realweddingbundle_weddingconsulting_yourCity" name="webmuch_realweddingbundle_weddingconsulting[yourCity]" placeholder="City of wedding" class="form-control input-sm" data-error-message="Please enter City">
-  
-    <textarea id="webmuch_realweddingbundle_weddingconsulting_comments" name="webmuch_realweddingbundle_weddingconsulting[comments]" placeholder="Details of query" cols="5" rows="5" class="form-control input-sm" maxlength="2000"></textarea>
-
-    <div class="custom-captcha">            
-        <img id="captcha_55a432c119b2c" src="data:image/jpeg;base64,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" alt="" title="captcha" width="200" height="70"><input type="text" id="webmuch_realweddingbundle_weddingconsulting_captcha" name="webmuch_realweddingbundle_weddingconsulting[captcha]" required="required" class="form-control input-sm">
-        
-    </div>
-
-    <input type="submit" id="signup" class="form-control" name="submit" value="SUBMIT">
-
-    <input type="hidden" id="webmuch_realweddingbundle_weddingconsulting__token" name="webmuch_realweddingbundle_weddingconsulting[_token]" value="4f405ef1ccda29ee79d82e8985883e1c0bcc160c"></form>
- 
+             
         </center> 
    </div>
 
@@ -567,14 +1517,14 @@
 </div>
 
 
-<script type="text/javascript" src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/bootstrap-multiselect.js"></script>
+<script type="text/javascript" src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/bootstrap-multiselect.js"></script>
 
 <script type="text/javascript">
     $('#webmuch_realweddingbundle_weddingconsulting_vendorType').multiselect();
 </script>
         <!--END-->
         <!-- Magnific Popup core JS file -->
-		<script src="http://d2eanzqpmoo3ec.cloudfront.net/newjs/magnificpopup.js"></script>
+		<script src="https://d2eanzqpmoo3ec.cloudfront.net/newjs/magnificpopup.js"></script>
 		<script type="text/javascript">
 		    // Example 1: From an element in DOM
 		    $('.open-wedding-consulting').magnificPopup({
@@ -587,11 +1537,87 @@
 		        midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
 		    });
 		</script>
-		
+
 		<script type="text/javascript">
 		    $(function() {
 		        $( "#weddingDate" ).datepicker();
-		    });  
+		    });
 		</script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"22279d1a26","applicationID":"8283495","transactionName":"b1dXZkBSDUpTVhVbV1YddFFGWgxXHWcEU1RvV1FWW10Ee0dbBV5dAmBQU15kBl1WXA9VAkpXVF5FVgddW1sGcVdWQUBeRloNXnxQFg==","queueTime":0,"applicationTime":400,"atts":"QxBUEAhIHkQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+		<script type="text/javascript">
+		    $(function() {
+		        $(".secondHeader ul li ul li").hover(function(){
+		        	 $(this).parent().parent().addClass('nav-hover');
+			       // $(".secondHeader ul .secondhead-menu>a").addClass("nav-hover");
+			        }, function(){
+			        $(this).parent().parent().removeClass("nav-hover");
+			    });
+		    });
+		</script>
+		<script type="text/javascript">
+			var didScroll;
+			var lastScrollTop = 0;
+			var delta = 5;
+			var navbarHeight = $('.secondHeader').outerHeight();
+
+			$(window).scroll(function(event){
+			    didScroll = true;
+			});
+
+			setInterval(function() {
+			    if (didScroll) {
+			        hasScrolled();
+			        didScroll = false;
+			    }
+			}, 250);
+
+			function hasScrolled() {
+			    var st = $(this).scrollTop();
+
+			    // Make sure they scroll more than delta
+			    if(Math.abs(lastScrollTop - st) <= delta)
+			        return;
+
+			    // If they scrolled down and are past the navbar, add class .nav-up.
+			    // This is necessary so you never see what is "behind" the navbar.
+			    if (st > lastScrollTop && st > navbarHeight && screen.width >= 768){
+			        // Scroll Down
+			        $('.secondHeader').removeClass('nav-down').addClass('nav-up');
+			        $(".nav-up").slideUp();
+			    } else {
+			        // Scroll Up
+			        if(st + $(window).height() < $(document).height() && screen.width >= 768) {
+			            $('.secondHeader').removeClass('nav-up').addClass('nav-down');
+			              $(".nav-down").slideDown();
+			        }
+			    }
+
+			    lastScrollTop = st;
+			}
+
+			$(function() {
+
+			    $('#wmg-messenger-box,#inbox-thread-box').perfectScrollbar();
+
+			    // with vanilla JS!
+			  //  Ps.initialize(document.getElementById('Demo'));
+			});
+
+		</script>
+
+		<script>
+		var $psClick = $('.psClick');
+		var searchType = window.location.hash.split('/')[1];
+		$(window).on('hashchange', function() {
+		  searchType = window.location.hash.split('/')[1];
+		});
+		$psClick.mousedown(function(event) {
+			var $this = $(this).text();
+			$psClick.attr('href','/search/'+$this+'#/'+searchType);
+
+		});
+		</script>
+
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"22279d1a26","applicationID":"14264172","transactionName":"b1dXZkBSDUpTVhVbV1YddFFGWgxXHWASV0p6R1tWXlZZa1dSCEFMXUB0R0ZbBldGXAJTTFFdWwhHQAZLYFAGW0tMV0d0XUEO","queueTime":0,"applicationTime":83,"atts":"QxBUEAhIHkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
