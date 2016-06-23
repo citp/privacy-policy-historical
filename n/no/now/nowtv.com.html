@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208163657id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623231054id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="ng-app" ng-app="nowtv" ng-controller="AppCtrl" class="no-js" lang="en" data-version="2"><!--<![endif]--><head>
+<!DOCTYPE html><html id="ng-app" ng-controller="AppCtrl" class="no-js" lang="en" data-version="2"><!--<![endif]--><head>
     <title>Privacy &amp; Cookies | NOW TV</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -11,6 +11,8 @@
 <meta name="apple-itunes-app" content="app-id=512266300">
 <meta name="fragment" content="!">
 
+
+<link rel="stylesheet" href="//web.static.nowtv.com/web-toolkit/fonts.css">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-retina.png">
@@ -18,147 +20,150 @@
 <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
 
 <script>
-    
-var NOWTV = NOWTV || {};
 
-(function(ntv) {
-    ntv.env = {
-  "clientHttpTimeout": 65000,
-  "cookieDomain": ".nowtv.com",
-  "serverURL": "http://watch.nowtv.com",
-  "clientUrl": "http://client.nowtv.com",
-  "proxyClientUrl": "/proxy/client",
-  "secureServerURL": "https://watch.nowtv.com",
-  "secureSignupURL": "https://signup.nowtv.com/identity",
-  "searchServiceUrl": "https://search.nowtv.com",
-  "personalisationUrl": "https://my.nowtv.com",
-  "marlinURL": "https://signup.nowtv.com/identity",
-  "cmsUrls": {
-    "home": "http://www.nowtv.com",
-    "geo": "http://www.nowtv.com/geo",
-    "sports": "http://www.nowtv.com/sports",
-    "movies": "http://www.nowtv.com/movies",
-    "entertainment": "http://www.nowtv.com/entertainment",
-    "identityIssues": "http://www.nowtv.com/identity-issues",
-    "walletIssues": "http://www.nowtv.com/wallet-issues"
-  },
-  "epg": {
-    "domain": "nowtv.com",
-    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?channelList=1314,1301,1302,1333,1322,1303,1306&domain=nowtv.com&externalCss=http://watch.nowtv.com/listings.css&externalJs=http://watch.nowtv.com/assets/epgOverrides-95edbc8013d9eb0771c29262e161ac25.js",
-    "imageServerURL": "http://epgstatic.sky.com/epgdata/1.0/paimage/81/0/",
-    "defaultChannel": "1314"
-  },
-  "webServices": {
-    "customer": "/webservices/customer",
-    "devices": "/webservices/devices",
-    "createUserAccount": "/webservices/createUserAccount",
-    "epg": {
-      "programmeDetails": "/proxy/client/schedule/channels/:channelId/descriptions/:eventId"
-    }
-  },
-  "payment": {
-    "mppOpenSession": {
-      "path": "/payment/mpp/"
-    }
-  },
-  "skyId": {
-    "signIn": "https://skyid.sky.com/signin/nowtv",
-    "signUp": "https://skyid.sky.com/signup/nowtv",
-    "resetPassword": "https://skyid.sky.com/resetpassword/nowtv",
-    "signOut": "https://skyid.sky.com/signout/nowtv?successUrl=http%3A%2F%2Fwatch.nowtv.com%2Fsignout"
-  },
-  "urls": {
-    "sports": "http://watch.nowtv.com/sports",
-    "sportsListings": "http://watch.nowtv.com/sports/listings",
-    "sportsExplorer": "http://watch.nowtv.com/sports/explorer",
-    "movies": "http://watch.nowtv.com/movies",
-    "entertainment": "http://watch.nowtv.com/entertainment",
-    "genres": "http://watch.nowtv.com/movies/genres",
-    "moviesExplorer": "http://watch.nowtv.com/movies/explorer",
-    "collections": "http://watch.nowtv.com/movies/collections",
-    "liveTv": "http://watch.nowtv.com/movies/livemovies",
-    "entsGenres": "http://watch.nowtv.com/entertainment/genres",
-    "entsChannels": "http://watch.nowtv.com/entertainment/channels",
-    "entsLiveTv": "http://watch.nowtv.com/entertainment/livetv",
-    "entertainmentExplorer": "http://watch.nowtv.com/entertainment/explorer",
-    "myTv": "http://watch.nowtv.com/mytv/viewing-history",
-    "community": "http://watch.nowtv.com/community",
-    "myAccount": "https://watch.nowtv.com/account",
-    "terms": "http://watch.nowtv.com/terms",
-    "blog": "http://watch.nowtv.com/blog",
-    "nowTvBoxLink": "http://shop.nowtv.com",
-    "almostDone": "https://watch.nowtv.com/setup/almostdone",
-    "watch": "http://watch.nowtv.com/",
-    "accountDetails": "https://account.nowtv.com/account-details",
-    "myPasses": "https://account.nowtv.com/passes",
-    "manageDevices": "https://account.nowtv.com/device-management",
-    "paymentPin": "https://account.nowtv.com/payment-pin",
-    "parentalPin": "https://account.nowtv.com/parental-pin",
-    "updateCardDetails": "http://watch.nowtv.com/account/cardDetails",
-    "purchaseHistory": "http://watch.nowtv.com/account/orderHistory",
-    "inviteAFriend": "https://account.nowtv.com/invite-a-friend",
-    "signOut": "https://skyid.sky.com/signout/nowtv?successUrl=http://nowtv.com/signout",
-    "helpCentre": "http://help.nowtv.com/",
-    "askCommunity": "http://community.nowtv.com/"
-  },
-  "features": {
-    "nowTvBoxLink": true,
-    "marlin": true
-  },
-  "player": {
-    "version": "2.1.5792.27600",
-    "domain": ".nowtv.com",
-    "playerXap": "/xap/2.1.5792.27600/player.xap",
-    "miniClientExtensionXap": "/xap/2.1.5792.27600/MiniClientExtension.xap",
-    "convivaConfigEnabled": false
-  },
-  "channelColours": "",
-  "mentionMe": {
-    "urls": {
-      "dashboard": "https://tag.mention-me.com/api/v2/dashboard/mmfe2eed5d",
-      "convert": "https://tag.mention-me.com/api/v2/order/mmfe2eed5d"
-    }
-  },
-  "signup": {
-    "rango": "https://mockserver.localhost.nowtv.bskyb.com:8091/rango"
-  },
-  "esuite": {
-    "url": "https://mockserver.localhost.nowtv.bskyb.com:8091",
-    "token": "CA34DD18977C42438D20C4D7DD58B0BB"
-  },
-  "clientId": "web secret-web 1.136.0"
-};
-})(NOWTV);
-               
+    window.NOWTV = window.NOWTV || {};
 
     
+        (function (w){
 
-        (function(w){w.EventCollector=function(rethrowOriginalError){this.rethrowOriginalError=rethrowOriginalError===undefined?true:rethrowOriginalError;this.bindOnErrorHandler()};w.EventCollector.prototype={LOG_URL:"http://log.nowtv.com/log",LOG_ORIGIN:"nowtv-prod",METHOD:"post",SEVERITY:{ERROR:"error"},TYPE:{GLOBAL:"global"},previousHandler:null,destroy:function(){this.unbindOnErrorHandler()},onError:function(){try{var xhr=this.getXhrObject(),payload=this.createLogPayload.apply(this,arguments);xhr.send(JSON.stringify(payload))}catch(err){}},sendError:function(severity,type,message,errorCode){try{var xhr=this.getXhrObject(),payload=this.createLogPayload(severity,type,message);if(errorCode){payload.errorCode=errorCode}xhr.send(JSON.stringify(payload))}catch(err){}},getProfileId:function(){var profileId=document.cookie.replace(/(?:(?:^|.*;\s*)just\s*\=\s*([^;]*).*$)|^.*$/,"$1");return profileId?parseInt(profileId,10):null},createLogPayload:function(severity,type,message,fileName,lineNumber){return{origin:this.LOG_ORIGIN,severity:severity,type:type,message:message,location:fileName?fileName+":"+lineNumber:"",profileId:this.getProfileId(),href:this._getWindowLocationHref()}},_getWindowLocationHref:function(){return window.location.href},bindOnErrorHandler:function(){if(!this.previousHandler){var self=this;this.previousHandler=w.onerror;w.onerror=function(message,fileName,lineNumber){try{self.onError.call(self,self.SEVERITY.ERROR,self.TYPE.GLOBAL,message,fileName,lineNumber)}catch(ex){self.triggerPreviousOnError(ex.message,ex.fileName,ex.lineNumber)}if(self.rethrowOriginalError){self.triggerPreviousOnError(message,fileName,lineNumber)}}}},triggerPreviousOnError:function(){if(typeof this.previousHandler==="function"){this.previousHandler.apply(window,arguments)}},unbindOnErrorHandler:function(){if(this.previousHandler){w.onerror=this.previousHandler;this.previousHandler=null}},getXhrObject:function(){var xhr=new XMLHttpRequest;if(!("withCredentials"in xhr)&&typeof XDomainRequest!="undefined"){xhr=new XDomainRequest;xhr.open(this.METHOD,this.LOG_URL)}else{xhr.open(this.METHOD,this.LOG_URL,true);xhr.setRequestHeader("Content-Type","application/json")}return xhr}}})(window)
+    w.EventCollector = function (rethrowOriginalError) {
+        this.rethrowOriginalError = rethrowOriginalError === undefined ? true : rethrowOriginalError;
+        this.bindOnErrorHandler();
+    };
+
+    w.EventCollector.prototype = {
+
+        LOG_URL: "http://log.nowtv.com/log",
+        LOG_ORIGIN: "nowtv-prod",
+        METHOD:  "post",
+        SEVERITY: {
+            ERROR: "error"
+        },
+        TYPE: {
+            GLOBAL: "global"
+        },
+
+        previousHandler: null,
+
+        destroy: function () {
+            this.unbindOnErrorHandler();
+        },
+
+        onError: function () {
+            try {
+                var xhr = this.getXhrObject(),
+                    payload = this.createLogPayload.apply(this, arguments);
+
+                xhr.send(JSON.stringify(payload));
+            } catch (err) {}
+        },
+
+        sendError: function (severity, type, message, errorCode) {
+            try {
+                var xhr = this.getXhrObject(),
+                    payload = this.createLogPayload(severity, type, message);
+
+                if (errorCode) {
+                    payload.errorCode = errorCode;
+                }
+
+                xhr.send(JSON.stringify(payload));
+            } catch (err) {}
+        },
+
+        getProfileId: function () {
+            var profileId = document.cookie.replace(/(?:(?:^|.*;\s*)just\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+            return profileId ? parseInt(profileId,10) : null;
+        },
+
+        createLogPayload: function (severity, type, message, fileName, lineNumber) {
+            return {
+                origin: this.LOG_ORIGIN,
+                severity: severity,
+                type: type,
+                message: message,
+                location: fileName ? fileName + ":" + lineNumber : '',
+                profileId: this.getProfileId(),
+                href: this._getWindowLocationHref()
+            };
+        },
+
+        _getWindowLocationHref: function() {
+            return window.location.href;
+        },
+
+        bindOnErrorHandler: function () {
+            if (!this.previousHandler) {
+                var self = this;
+                this.previousHandler = w.onerror;
+                w.onerror = function (message, fileName, lineNumber) {
+                    try {
+                        self.onError.call(self, self.SEVERITY.ERROR, self.TYPE.GLOBAL, message, fileName, lineNumber);
+                    }
+                    catch(ex) {
+                        self.triggerPreviousOnError(ex.message, ex.fileName, ex.lineNumber );
+                    }
+
+                    if (self.rethrowOriginalError) {
+                        self.triggerPreviousOnError(message, fileName, lineNumber );
+                    }
+                };
+            }
+        },
+
+        triggerPreviousOnError: function () {
+            if (typeof this.previousHandler === "function") {
+                this.previousHandler.apply(window, arguments);
+            }
+        },
+
+        unbindOnErrorHandler: function () {
+            if (this.previousHandler) {
+                w.onerror = this.previousHandler;
+                this.previousHandler = null;
+            }
+        },
+
+        getXhrObject: function () {
+            var xhr = new XMLHttpRequest();
+            if ( !("withCredentials" in xhr) && (typeof XDomainRequest != "undefined")) {
+                xhr = new XDomainRequest();
+                xhr.open(this.METHOD, this.LOG_URL);
+            } else {
+                xhr.open(this.METHOD, this.LOG_URL, true);
+                xhr.setRequestHeader("Content-Type", "application/json");
+            }
+            return xhr;
+        }
+    };
+
+}(window));
         window.PRE_NOWTV = {};
         window.PRE_NOWTV.ec = new EventCollector();
-
     
-    window.universal_variable = window.universal_variable || {}; universal_variable.events = universal_variable.events || [];
+
+    window.universal_variable = window.universal_variable || {};
+    window.universal_variable.events = universal_variable.events || [];
+
 </script>
 
 
 <script src="//d3c3cq33003psk.cloudfront.net/opentag-95091-1126102.js" async="" defer="" type="text/javascript"></script>
 <script src="//web.static.nowtv.com/ice/3.0.4/js/iceberg.widget.bundle.js"></script>
 
-    <script src="/assets/base-head-5839fab7d93555ac49cb6aa171d44f6c.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/screen.css" type="text/css">
+    <script src="/assets/dist/vendors-a2ceecc6fe41ab15cbf8bc72b466cdc4.js" type="text/javascript"></script>
+    <script src="/assets/dist/head-d8de8b383603c3044e81bf5442b36816.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/assets/screen-2d3212d7fdef5975ebbfe2a19fc92952.css">
 
     <script>
         (function(ntv) {
-
-            ntv.dfa = { trackingURL: '//fls.doubleclick.net/activityi;src=3662759;', env: '' };
 
             var supportsPlaceholder = Modernizr.input.placeholder;
 
 ntv.load([
     {
         test: supportsPlaceholder,
-        nope: [ '/assets/polyfills/placeholder-ed18faa1b83ed3f3995a984a515f0cb4.js' ]
+        nope: [ '/assets/polyfills/placeholder-7d2f441acfd6ec385ff2b867028fbbbc.js' ]
     }
 ]);
 
@@ -191,249 +196,7 @@ ntv.session = ntv.session || {};
     </div>
 </div>
 
-    <script type="text/ng-template" id="partials/maintenance.html"><div class="t-moody l-curtain">
-    <section class="l-fixed-container">
-        <div class="l-full-body l-firstblock">
-            <h1>Maintenance Message</h1>
-            <p>This section of the site is currently down for maintenance. We will be back soon.</p>
-        </div>
-    </section>
-</div></script>
-    <script type="text/ng-template" id="partials/notFound.html"><div class="t-moody l-curtain">
-    <section class="l-fixed-container">
-        <div class="l-full-body l-firstblock">
-            <h1>Not Found</h1>
-            <p>The page you've requested couldn't be found. Please try another link or click the back button on your browser.</p>
-        </div>
-    </section>
-</div>
-</script>
-    <script type="text/ng-template" id="partials/searchSuggestions.html"><div data-t-search>
-    <input class="search-input_resizeable" ng-class="{ 'is-focused': inputHasFocus }" ng-model="query" name="query" ng-keydown="keydown($event)" data-search-query />
-    <ul class="l-list-stacked search-suggest" data-search-suggest ng-mouseenter="setSuggestionsInUse(true)" ng-mouseleave="setSuggestionsInUse(false)">
-        <li ng-repeat="suggestion in suggestions"
-            ng-class="{ 'is-selected': suggestion.isSelected }"
-            ng-mouseover="selectSuggestion(suggestion)"
-            class="search-suggest-item"
-            data-t-search-suggest-item>
-            <a ng-bind-html="suggestion.getTitle() | suggestion:query" ng-href="{{ getSuggestionUrl(suggestion) }}"></a>
-        </li>
-    </ul>
-</div></script>
-    <script type="text/ng-template" id="partials/navigationMenu.html"><nav class="l-leftcolumn nav" data-nav-target ng-mouseenter="show($event)" ng-mouseleave="hide($event)" ng-class="{ 'is-open': open }">
-    <ul class="nav-links">
-        <li ng-repeat="link in navigation" ntv-navigation-item link="link"></li>
-    </ul>
-</nav></script>
-    <script type="text/ng-template" id="partials/navigation/navigationCurrent.html"><nav class="l-leftbar" data-t-nav-current>
-    <a href="#" data-nav-trigger class="l-leftbar-primary menubar-navlink" ng-class="{ 'is-menu-open': isMenuOpen }">
-        <h1 class="menubar-pagename">
-            <i class="icon-menu"></i>{{currentPage}}
-        </h1>
-    </a>
-</nav>
-</script>
-    <script type="text/ng-template" id="partials/navigation/navigationItem.html"><li class="t-{{ link.title | lowercase | removeWhiteSpaces }}" data-t="{{link.title}}" >
-    <a ng-href="{{ link.url }}" class="nav-links-heading" ng-class="{'is-active': isActive, 'is-selected': isSelected}" ng-click="changeState(link)">{{ link.title }}
-    </a>
-    <ul ng-show="link.subNav">
-        <li ng-repeat="subLink in link.subNav">
-            <a ng-href="{{ subLink.url }}" ng-class="{'is-selected': subLink.isSelected }"  ng-click="changeState(subLink)" data-t="{{subLink.title}}">{{ subLink.title }}</a>
-        </li>
-    </ul>
-</li></script>
-    <script type="text/ng-template" id="partials/navigation/navigationDropDown.html"><div class="navigation-dropDown" ng-class="getVisibilityStyleClasses()">
-    <div class="navigation-dropDown-mask" data-t-dropDown-mask></div>
-    <data-ng-include data-src="templateUrl" data-dropDown-content></data-ng-include>
-</div></script>
-    <script type="text/ng-template" id="partials/navigation/navigationDropDownMyAccount.html"><ul class="accountMenu" data-dropDown-account>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.watch')}}" class="accountMenu-link" data-page-watch="">Watch NOW TV</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.accountDetails')}}" class="accountMenu-link" data-page-account_details="">My account details</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.myPasses')}}" class="accountMenu-link" data-page-passes="">My passes</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.manageDevices')}}" class="accountMenu-link" data-page-device_management="">Manage devices</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.paymentPin')}}" class="accountMenu-link" data-page-payment_pin="">Payment PIN</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.parentalPin')}}" class="accountMenu-link" data-page-parental_pin="">Parental PIN</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.updateCardDetails')}}" class="accountMenu-link" data-page-card_details="">Update card details</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.purchaseHistory')}}" class="accountMenu-link" data-page-purchase="">Purchase history</a>
-    </li>
-    <li>
-        <a ng-href="{{::getUrlFromConfig('urls.inviteAFriend')}}" class="accountMenu-link" data-page-invite_a_friend="">Invite a friend</a>
-    </li>
-    <div class="accountMenu-skyid" data-skyid="">
-        <a ng-href="{{::getUrlFromConfig('skyId.signOut')}}" class="accountMenu-button" data-skyid-button="">Sign out</a>
-    </div>
-</ul></script>
-    <script type="text/ng-template" id="partials/navigation/navigationDropDownHelp.html"><ul class="helpMenu" role="menubar" data-dropDown-help>
-    <li role="menuitem">
-        <a ng-href="{{::getUrlFromConfig('urls.helpCentre')}}" class="helpMenu-link" data-page-help_centre="">Help Centre</a>
-    </li>
-    <li role="menuitem">
-        <a ng-href="{{::getUrlFromConfig('urls.askCommunity')}}" class="helpMenu-link" data-page-community="">Ask the Community</a>
-    </li>
-</ul></script>
-    <script type="text/ng-template" id="partials/globalUserMenu.html"><nav id="userMenu" class="l-rightbar menubar-statenav" ng-class="getAuthenticathedUserStyleClass()" data-t-user-menu>
-    <ul class="l-list-inline menubar-statenav-list">
-        <li class="userMenu-item menu-bar-search">
-            <div ntv-search-suggest></div>
-        </li><li class="menubar-statenav-list-item">
-            <a class="menubar-statenav-link" ng-show="customer.hasWallet()" ng-href="#"
-               ng-click="toggleMyAccountNavigationDropDown($event)" data-t-account
-               ng-class="{'is-active': myAccount }">{{titles.myAccount}}</a>
-        </li><li class="menubar-statenav-list-item">
-            <a class="menubar-statenav-link" ng-click="toggleHelpNavigationDropDown($event)"  data-t-help>{{titles.help}}</a>
-        </li><li class="menubar-statenav-list-item">
-            <a class="menubar-statenav-link" ng-show="!customer.isAuthenticated()" ng-href="{{signInUrl()}}" data-t-sign-in>{{titles.signIn}}</a>
-        </li><li class="menubar-statenav-list-item">
-            <a class="menubar-statenav-link" ng-show="customer.isAuthenticated()" ng-href="{{signOutUrl()}}" data-t-sign-out>{{titles.signOut}}</a>
-        </li>
-    </ul>
-    <data-ntv-navigation-drop-down data-template-url="partials/navigation/navigationDropDownMyAccount.html"
-                                   data-ng-show="customer.hasWallet()"
-                                   data-is-visible="isMyAccountNavigationDropDownVisible"
-                                   data-t-dropDown="my-account"></data-ntv-navigation-drop-down>
-    <data-ntv-navigation-drop-down data-template-url="partials/navigation/navigationDropDownHelp.html"
-                                   data-is-visible="isHelpNavigationDropDownVisible"
-                                   data-t-dropDown="help"></data-ntv-navigation-drop-down>
-</nav></script>
-    <script type="text/ng-template" id="partials/overlay.html"><div ng-show="show">
-    <div class="l-curtain overlay-shim" data-t-overlay-shim>
-        <div class="l-overlay-progress overlay-progress" ng-show="spinner"></div>
-    </div>
-    <div class="l-wrapper overlay" id="{{id}}" data-t-overlay>
-        <div class="l-overlay-container">
-            <div ng-class="{'t-moody': defaultStyle }" class="l-overlay {{style}}">
-                <a class="l-overlay-close overlay-close" ng-if="defaultStyle" ng-click="close()" data-t-overlay-close><i class="icon-close"></i></a>
-                <div ng-class="{'box no-spacing box-section': defaultStyle}" data-overlay-content></div>
-            </div>
-        </div>
-    </div>
-</div></script>
-    <script type="text/ng-template" id="partials/progress.html"></script>
-    <script type="text/ng-template" id="partials/deviceSlots.html"><ul class="devices">
-    <li ng-repeat="device in devices"
-        id="device_{{device.id}}"
-        data-device-id="{{device.id}}"
-        data-t-device
-        ntv-device-slot device="device" index="{{$index}}" changesleft="{{changesLeft}}">
-    </li>
-</ul></script>
-    <script type="text/ng-template" id="partials/deviceSlot.html"><li>
-    <div class="device" ng-cloak ng-show="isLoaded() && !isRenaming()">
-        <div class="l-list-icon device-icon">
-            <i data-t-device-icon class=" icon-{{device().type.toLowerCase()}}"></i>
-        </div>
-        <div class="l-list-label">
-            <span class="device-name" data-t-device-name>{{device().name}}</span>
-            <p ng-show="device().firstUsed" class="no-spacing" data-t-device-added>Added: {{device().firstUsed | dayMonthYear}}</p>
-        </div>
-        <button class="l-list-action button" data-t-remove-btn data-device-id="{{device().id}}" ng-click="removeDevice()">Delete</button>
-        <button class="l-list-action l-omega button" data-t-rename-link data-device-id="{{device().id}}" ng-click="renameDevice()">Rename</button>
-    </div>
-
-    <div class="device" ng-show="isRenaming()" data-t-renaming>
-        <div class="l-list-icon device-icon">
-            <i data-t-device-icon class="icon-{{device().type.toLowerCase()}}"></i>
-        </div>
-        <form name="renameForm" novalidate>
-            <div class="l-list-label">
-                <input type="text" name="renameDevice" autocomplete="off" maxlength="18" class="device-newname"
-                   ng-model="device().name"
-                   required
-                   ng-pattern="deviceNameRegex"
-                   data-t-rename-device/>
-                <p class="device-rename-msg no-spacing" data-t-invalid ng-show="renameForm.$invalid || device().invalidDeviceName">
-                    Up to 18 characters. Letters and numbers only</p>
-            </div>
-            <button type="submit" class="l-list-action button device-rename" ng-click="saveRename()" ng-disabled="renameForm.$invalid || device().invalidDeviceName" data-t-save-btn>Save</button>
-            <button class="l-list-action l-omega button" ng-click="cancelRename()" data-t-cancel-btn>Cancel</button>
-            <div>
-            </div>
-        </form>
-    </div>
-
-    <div ng-show="isUnassigned()" class="device is-unassigned l-list-message" data-t-unassigned>
-        <h4 class="box-heading_small">Unused slot</h4>
-        <p class="no-spacing">A new device will be automatically registered the first time you watch from it.</p>
-    </div>
-
-    <span ng-if="!isLoaded() && !isUnassigned()" ng-transclude></span>
-</li></script>
-    <script type="text/ng-template" id="partials/content/show.html"><a ng-href="{{ show.getContentUrl() }}" data-t-link="show" ntv-popover="show" wrapper-element="[data-popover-wrapper]" target-element="[data-popover-image]">
-    <div class="poster_with-logo">
-        <div class="poster-img-overlay"></div>
-        <img class="poster-img_landscape" ntv-lazy-load="{{ show.getStillImageUrl(carousel.getImageSize()) }}" src="/assets/still-trans.png" alt="{{ show.getTitle() }}" data-t-poster-img data-popover-image />
-        <img class="branding_overlay" ng-src="{{ show.getLogoUrl() }}" alt="Channel logo for {{ show.getChannel() }}" data-t-channel-logo />
-    </div>
-    <span class="poster-name" ng-href="{{ show.getContentUrl() }}" data-t-item-title data-t-title>
-        {{ show.getTitle() | ellipsis:60 }}
-    </span>
-</a></script>
-    <script type="text/ng-template" id="partials/pins/pins.html"><section ng-form="{{id}}Form" ng-model="allPins" ntv-pins-match>
-    <div ntv-pin="0"  pin="allPins[0]" description="Enter 4 digits" start-idx="startIdx()" ng-class="{'is-error': isError }" current-tab-index="currentTabIndex"></div>
-    <div ntv-pin="1" ng-if="requiresConfirmRow && isPinValid[0]" pin="allPins[1]" description="Re-Enter PIN" start-idx="startIdx() + 4" current-tab-index="currentTabIndex"></div>
-    <p ng-show="requiresConfirmRow && isError" class="pin-error-msg" data-t-pin-error>That's not it, please try again</p>
-    <input type="hidden" ng-value="pinNumber" id="{{id}}" name="{{id}}" data-t-pin-number />
-</section></script>
-    <script type="text/ng-template" id="partials/pins/pin.html"><div ng-form class="almost-done-payment-pin" data-t-pin-form>
-    <div class="paymentPinRow" data-t-row>
-        <span class="pin-label-reset" ng-show="description">{{description}}</span>
-        <input ng-if="mobileOrConsole"
-               data-t-pin-input="0"
-               data-t-mobile-or-ps3
-               type="password"
-               ng-model="pin.value"
-               ntv-multiple-int-input
-               ntv-string-to-array
-               tabindex="0"
-               size="4"
-               class="pin-input_touch"
-        />
-        <input ng-if="!mobileOrConsole"
-               data-t-pin-input="{{i}}"
-               data-t-not-mobile-or-ps3
-               ng-repeat="i in noOfDigits"
-               class="pin-input"
-               ng-change="focusNextPinInput(i)"
-               ng-keyup="keyPress($event, i)"
-               ng-click="resetRow()"
-               type="password"
-               ng-model="pin.value[$index].value"
-               ntv-single-int-input
-               ng-required
-               tabindex="{{i}}" />
-    </div>
-</div></script>
-
-    <div class="l-fluid-container">
-    <header class="l-full-body-floaty menubar" data-menubar="">
-        <div class="menubar-background"></div>
-        <div class="menubar-logo">
-            <a href="http://watch.nowtv.com" class="logo-link" title="NOW TV">
-                <img ntv-image="" png-src="/assets/nowtv-logo.png" svg-src="/assets/nowtv-logo.svg" width="105" height="24">
-            </a>
-        </div>
-
-        <div ntv-navigation-current=""></div>
-        <div ntv-user-menu=""></div>
-    </header>
-
-    <div ntv-navigation-menu=""></div>
-</div>
+    <div ntv-global-nav="" class="n-global-nav" id="nav"></div>
 
 
     
@@ -447,7 +210,7 @@ ntv.session = ntv.session || {};
 
                 <div class="l-full-width">
 
-                    <p>This privacy notice applies to the use of personal information and other information by Sky UK Limited and its group companies.</p>
+                    <section id="ib-section-section-1" class="ib-section       "><div><p>This privacy notice applies to the use of personal information and other information by Sky UK Limited and its group companies.</p>
 
                     <p>Any member of the Sky group may use and share, within that group and with its advisors, the information you provide and other information it holds about you for the purposes set out below.</p>
 
@@ -602,7 +365,7 @@ ntv.session = ntv.session || {};
 
                     <p>We will occasionally update this privacy notice. We will post a notice of any material changes on our website prior to implementing the changes, and, where appropriate, notify you using any of the contact details we hold for you for this purpose. We encourage you to periodically review this notice to be informed of how we use your information.</p>
 
-                    <p>This Privacy and Cookies Notice was last updated on 16 March 2015.</p>    
+                    <p>This Privacy and Cookies Notice was last updated on 16 March 2015.</p>         </div></section>
 
                 </div>
             </section>
@@ -644,21 +407,25 @@ ntv.session = ntv.session || {};
                     <h5 class="footer-terms-header">The Legal bit:</h5>
                     <small>
                         <div class="footer-terms-legal">
-                            <p>*On Mobile: Available on iPhone and selected Android devices.</p><p>More of the year's biggest blockbusters: Comparison against online movie subscription services using top 100 from UK box office films from past 12 months. See <a href="http://watch.nowtv.com/compare">nowtv.com/compare</a>.</p>
+                            <section id="ib-section-section-1" class="ib-section       "><div><p><strong>More of the year's biggest blockbusters:</strong> Comparison against online movie subscription services using top 100 from UK box office films from past 12 months. See <a href="http://watch.nowtv.com/compare">nowtv.com/compare</a>.</p>
 
-<p>Sky Movies Month Pass 14 day free trial: Available to new Sky Movies Month Pass customers joining NOW TV online. Not available to previous Sky Movies Month Pass customers re-joining. When your free trial ends, Sky Movies Month Pass auto renews at its standard price (currently £9.99 a month). Or simply cancel at any time. One per person. Not available to new customers who buy a NOW TV Box Movies pack a partner pack which includes a Sky Movies Pass or with any other offer. Live and some on demand content not available on YouView.</p>
+<p><strong>14 Day Free Trial:</strong> Available when you sign up at nowtv.com without a voucher. Thereafter your month pass automatically renews at its standard price (£2.99-£9.99 per month (pm)), unless cancelled. You can cancel anytime. One per person. Not available to previous customers re-joining with the same content pass and/or with any other offers.</p>
 
-<p>Entertainment Month Pass 14 day free trial: Available to new Entertainment Month Pass customers joining NOW TV online. Not available to previous Entertainment Month Pass customers re-joining. When your free trial ends, Entertainment Month Pass auto renews at its standard price (currently £6.99 a month). Or simply cancel at any time. One per person. Not available to new customers who buy a NOW TV Box Movies pack, a partner pack which includes an Entertainment Pass or with any other offer. Currently not available on YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">nowtv.com/slating</a>. Shows only available on catch up for up to 30 days from date first shown.</p>
+<p><strong>Month Passes:</strong> Unless cancelled, automatically renew at (<strong>Kids</strong> £2.99pm; <strong>Entertainment</strong> £6.99pm; <strong>Sky Movies</strong> £9.99pm; <strong>Sky Sports</strong> £33.99pm).</p>
 
-<p>NOW TV STACKS: New NOW TV customers only. Not available to customers who have taken a free trial. After pre-paid period, you will pay standard price for the relevant pass(es) (which renew automatically each month (currently £9.99 a month for Sky Movies Month Pass and £6.99 a month for Entertainment Month Pass), unless cancelled). You can stop renewals at any time.</p>
+<p><strong>Other Sky Sports Passes:</strong> Day/Week. £6.99/£10.99. Lasts for 24 hours/7 days after you start watching.</p>
 
-<p>Sky Sports Day and Sky Sports Week Passes: Each Sky Sports Day Pass costs £6.99. Each Sky Sports Week Pass costs £10.99. Viewing period ends either 24 hours or 7 days after you start watching, depending on pass purchased. Passes must be redeemed within 365 days of purchase. You can only have one Sky Sports Day Pass, Sky Sports Week Pass or Sky Sports Month Pass in your account at any one time. Red button and interactive services are unavailable.†Currently not available on YouView.</p>
+<p><strong>Sky Sports General:</strong> You can only have one Sky Sports Pass in your account at a time. Sky Sports Day and Week Passes must be activated within 1 year of purchase. Red button and interactive services aren’t available. Live scheduling may be subject to change.</p>
 
-<p>Sky Sports Month Pass: £31.99 a month unless cancelled and you can stop renewal at any time. You can only have one Sky Sports Day Pass, Sky Sports Week Pass or Sky Sports Month Pass in your account at any one time. Red button and interactive services are unavailable. †Currently not available on YouView and only available to purchase via nowtv.com.</p>
+<p><strong>NOW TV Box:</strong> NOW TV pass and account set up with debit/credit card required to activate box. Connects to TV via HDMI (cable supplied). BBC iPlayer, The ITV Hub, All 4, Demand 5 apps offer a selection of content available on BBC/ITV/Channel 4 and Channel 5 websites. Some apps (such as Spotify and Sky Store) cost extra.</p>
 
-<p>NOW TV Box: Connects to TV via HDMI (cable supplied).  BBC iPlayer, ITV Player, 4oD and Demand 5 apps offer a wide selection of the catch up content available on the BBC/ITV/4oD/Channel 5 websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box. Sky Store costs extra.</p>
+<p><strong>Other devices:</strong> Smartphones: Requires iOS 8 and Android 4, or later. For other device compatibility see <a href="http://community.nowtv.com/t5/NOW-TV-FAQs/NOW-TV-Device-Help-and-Info/td-p/51688">here</a>.</p>
 
-<p>General: 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the <a href="http://help.nowtv.com">FAQs</a>. Full terms of service <a href="http://www.nowtv.com/terms">here</a>. Updated in October 2015.</p><p>NOW TV accepts Visa and MasterCard</p>    
+<p><strong>General:</strong> 18+. UK Only. Streamed via broadband/3G/4G/Wi-Fi (charges may apply). Register up to four compatible devices, and watch on two at the same time. Chromecast counts as two devices. Some content is unavailable on live channels and/or catch up, see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">here</a>. Shows are available on catch up for at least 7 days from date first shown. Some content unavailable on some devices, see <a href="http://help.nowtv.com/">here</a>. Roku LT, XS or 3 and UK account required to watch on Roku. Ongoing monthly prices and channels subject to change. <a href="http://watch.nowtv.com/terms">Terms of Use</a>.</p>
+
+<p>NOW TV accepts Visa and MasterCard.</p>
+
+<p>Last updated: June 2016.</p>         </div></section>
                         </div>
                     </small>
                 </div>
@@ -694,294 +461,16 @@ ntv.session = ntv.session || {};
     }
 </script>
 
-
-
-    <script type="text/html" id="customerDetailsErrorOverlayTmpl"><div id="customerDetailsErrorMessage">
-    <div class="l-full-width">
-        <h1 class="box-heading">We've encountered a problem</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        <p>We could not load your details, please refresh the page or contact customer support at <a href="{{help}}" data-t-help-link>http://help.nowtv.com</a>.</p>
-
-        <div class="overlay-actions">
-            <button class="button_overlay" data-reload>Refresh page</button>
-        </div>
-    </div>
-</div></script>
-    <script type="text/html" id="purchaseWithPaymentPinOverlayTmpl"><div id="confirmPaymentPinForm">
-    <div class="l-full-width">
-        <h1 class="box-heading">Complete Purchase</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        <p>Please enter your 4 digit payment PIN.</p>
-
-        <form action="" method="post" name="paymentPin">
-            <fieldset class="pin-group">
-                {{>pinEntry pinEntryModel}}
-            </fieldset>
-        </form>
-
-        <p>
-            <a class="forgotten-pwd"><span>Forgotten your PIN?</span></a>
-            <a class="forgotten-pwd-syndicated-player" target="_blank"><span>Forgotten your PIN?</span></a>
-        </p>
-    </div>
-</div>
-</script>
-    <script type="text/html" id="moviesSummaryOverlayTmpl"><div id="purchaseSubscription">
-    <div class="l-full-width">
-        <h1 class="box-heading">Sky Movies Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        {{#if product.futurePrice}}
-            <p>&pound;{{product.price}} a month until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month</p>
-        {{else}}
-            <p>&pound;{{product.price}} a month.</p>
-        {{/if}}
-        <p data-t-ecrd>By clicking "Pay Now" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
-
-        <div class="overlay-actions t-movies">
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
-            <button class="button_purchase" id="confirm" title="Pay Now">Pay Now</button>
-        </div>
-
-        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
-    </div>
-</div></script>
-    <script type="text/html" id="moviesSummaryFreeTrialOverlayTmpl"><div id="moviesFreeTrialSubscription">
-    <div class="l-full-width">
-        <h1 class="box-heading">Sky Movies Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        {{#if product.futurePrice}}
-            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month (until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month).</p>
-        {{else}}
-            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month.</p>
-        {{/if}}
-        <p data-t-ecrd>By clicking "Pay After Trial" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
-
-        <div class="overlay-actions t-movies">
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
-            <button class="button_purchase" id="confirm" title="Pay After Trial">Pay After Trial</button>
-        </div>
-
-        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
-    </div>
-</div></script>
-    <script type="text/html" id="entertainmentSummaryFreeTrialOverlayTmpl"><div id="entertainmentFreeTrialSubscription">
-    <div class="l-full-width">
-        <h1 class="box-heading">Entertainment Month Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        {{#if product.futurePrice}}
-            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month (until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month).</p>
-        {{else}}
-            <p data-t-purchase-price>{{freeTrialDuration}} free trial then &pound;{{product.price}} a month.</p>
-        {{/if}}
-        <p data-t-ecrd>By clicking "Pay After Trial" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
-
-        <div class="overlay-actions t-entertainment">
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
-            <button class="button_purchase" id="confirm" title="Pay After Trial">Pay After Trial</button>
-        </div>
-
-        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
-
-        <p>Please note: The Entertainment Month Pass is currently not available on YouView.</p>
-    </div>
-</div></script>
-    <script type="text/html" id="entertainmentSummaryOverlayTmpl"><div id="purchaseSubscription">
-    <div class="l-full-width">
-        <h1 class="box-heading">Entertainment Month Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-
-        {{#if product.futurePrice}}
-            <p>&pound;{{product.price}} a month until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month</p>
-        {{else}}
-            <p>&pound;{{product.price}} a month.</p>
-        {{/if}}
-
-    <p data-t-purchase-price>Click "Pay Now" to purchase your Entertainment Month Pass</p>
-    <p data-t-ecrd>By clicking "Pay Now" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel</p>
-
-        <div class="overlay-actions t-entertainment">
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
-            <button class="button_purchase" id="confirm" title="Pay Now">Pay Now</button>
-        </div>
-
-        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
-
-        <p>Please note: The Entertainment Month Pass is currently not available on YouView.</p>
-    </div>
-</div></script>
-    <script type="text/html" id="sportsSummaryOverlayTmpl"><div id="purchaseSubscription">
-    <div class="l-full-width">
-        <h1 class="box-heading">Sky Sports Month Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-
-        {{#if product.futurePrice}}
-            <p>&pound;{{product.price}} a month until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month</p>
-        {{else}}
-            <p>&pound;{{product.price}} a month.</p>
-        {{/if}}
-
-    <p data-t-purchase-price>Click "Pay Now" to purchase your Sky Sports Month Pass</p>
-    <p data-t-ecrd>By clicking "Pay Now" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel</p>
-
-        <div class="overlay-actions t-sports">
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
-            <button class="button_purchase" id="confirm" title="Pay Now">Pay Now</button>
-        </div>
-
-        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
-
-    </div>
-</div></script>
-    <script type="text/html" id="moviesVoucherEntryTmpl"><div id="voucherEntry">
-    <div class="l-full-width">
-        <h1 class="box-heading">Sky Movies Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-
-        <p data-t-purchase-instructions>To use a voucher, enter it below and click "Apply Voucher".</p>
-
-        <form id="voucher">
-            <p>
-                <input type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..." class="overlay-input_voucher" />
-            </p>
-        </form>
-
-        <div id='voucherErrorPlaceholder'></div>
-
-        <div class="overlay-actions">
-            {{#if isFirst }}
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            {{else}}
-            <button class="button_overlay" id="back" title="Back">Back</button>
-            {{/if }}
-            <button class="button_overlay" id="confirm" title="Apply voucher">Apply voucher</button>
-        </div>
-    </div>
-</div></script>
-    <script type="text/html" id="sportsVoucherEntryTmpl"><div id="voucherEntry">
-    <div class="l-full-width">
-        <h1 class="box-heading">Live Sky Sports {{name}}</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-
-        <p data-t-purchase-instructions>To use a voucher, enter it below and click "Apply Voucher".</p>
-
-        <form id="voucher">
-            <p>
-                <input type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..." class="overlay-input_voucher" />
-            </p>
-        </form>
-
-        <div id='voucherErrorPlaceholder'></div>
-
-        <div class="overlay-actions day-pass">
-            {{#if isFirst }}
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            {{else}}
-            <button class="button_overlay" id="back" title="Back">Back</button>
-            {{/if }}
-            <button class="button_overlay" id="confirm" title="Apply voucher">Apply voucher</button>
-        </div>
-    </div>
-</div></script>
-    <script type="text/html" id="entertainmentVoucherEntryTmpl"><div id="voucherEntry">
-    <div class="l-full-width">
-        <h1 class="box-heading">Entertainment Month Pass</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-
-        <p data-t-purchase-instructions>To use a voucher, enter it below and click "Apply Voucher".</p>
-
-        <form id="voucher">
-            <p>
-                <input type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..." class="overlay-input_voucher" />
-            </p>
-        </form>
-
-        <div id='voucherErrorPlaceholder'></div>
-
-        <div class="overlay-actions">
-            {{#if isFirst }}
-            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
-            {{else}}
-            <button class="button_overlay" id="back" title="Back">Back</button>
-            {{/if }}
-            <button class="button_overlay" id="confirm" title="Apply voucher">Apply voucher</button>
-        </div>
-    </div>
-</div></script>
-    <script type="text/html" id="subscriptionConfirmPurchaseTmpl"><div id="subscriptionConfirmPurchase">
-
-    <div class="l-full-width">
-        <h1 class="box-heading">Confirm Purchase</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        <p data-t-purchase-instructions>{{purchaseInstructions}}</p>
-        <p data-t-ecrd>By clicking "{{ctaText}}" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel</p>
-
-
-        <div class="overlay-actions">
-            <button class="button_overlay" id="back" title="Back">Back</button>
-            <button class="button_overlay" id="confirm" title="{{ctaText}}">{{ctaText}}</button>
-        </div>
-    </div>
-</div></script>
-    <script type="text/html" id="setPinsPromptTmpl"><div id="setPinsPrompt">
-    <div class="l-full-width">
-        <h1 class="box-heading">Nearly there</h1>
-    </div>
-    <hr />
-    <div class="l-full-width box-content">
-        <p>We need you to finish setting up your NOW TV account before you can start watching.</p>
-        <p>Please click the Continue button below to finish setting up your account. You’ll be sent back here when you are done.</p>
-
-        <div class="overlay-actions">
-            <button class="button_overlay" id="cancel">Cancel</button>
-            <button class="button_overlay" id="continue">Continue</button>
-        </div>
-    </div>
-</div>
-</script>
-    <script type="text/html" id="pinEntryPartialTmpl"><p id="{{ id }}Row" class="{{rowClassname}}" data-t-row="">
-    <label for="{{id}}" class="l-overlay-label pin-label">{{label}}</label>
-    <input type="tel" maxlength="4" pattern="[0-9]{1}" min="0" max="9" class="pin-input" name="{{name}}" id="{{id}}"
-           autocomplete="off"/>
-</p>
-</script>
-
     
-
-    <script src="/assets/base-angular-f537dcc8e008320654fb9c380b8c11b4.js" type="text/javascript"></script>
-    <script src="/assets/base-defer-2a82ad95acbd947494ffcae6e7c95d49.js" type="text/javascript"></script>
     
     
         <script src="//cdn.optimizely.com/js/562540257.js"></script>
     
 
 
+
+    <script src="/assets/dist/angularVendors-34da19d40feb008685d24316133cb169.js" type="text/javascript"></script>
+    <script src="/assets/dist/baseDefer-1289c9c8d9c5e84b1ff1b6cbd2113514.js" type="text/javascript"></script>
     
 
 </body></html>
