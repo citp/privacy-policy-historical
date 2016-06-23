@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208163657id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623231054id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | NOW TV
-
-* * *
 
 This privacy notice applies to the use of personal information and other information by Sky UK Limited and its group companies.
 
