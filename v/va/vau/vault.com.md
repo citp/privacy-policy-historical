@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122135318id_/http%3A//www.vault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623105622id_/http%3A//www.vault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|Vault.com
 
@@ -105,7 +105,7 @@ Please take some time to familiarize yourself with the different ways we may use
 Vault provides you the opportunity to opt out of receiving most communications from Vault, and/or, if applicable, its affiliates, advertisers, and other business partners in My Vault Account. You have the option to remove your information from our database and to not receive future promotional communications from Vault or to no longer receive our service altogether (i.e., end or cancel your Membership). We also give you the option to change or modify the information you have previously provided to us. To exercise any of the foregoing options, you can visit My Vault Account to adjust your preferences, or:
 
   * Go to the [contact us](https://web.archive.org/contact-us.aspx) page.
-  * You can send mail to the following postal address: Vault.com Inc. 132 W. 31st St, 17th Floor, New York, NY 10001.
+  * You can send mail to the following postal address: Vault.com Inc. 132 W. 31st St, 16th Floor, New York, NY 10001.
 
 
 
@@ -185,7 +185,7 @@ You may view and, if you wish, change certain personally identifiable informatio
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, [contact us](https://web.archive.org/contact-us.aspx) through our site or write to us at:
 
 Vault.com, LLC  
-132 W. 31st St, 17th Floor  
+132 W. 31st St, 16th Floor  
 New York, NY 10001  
 USA
 
