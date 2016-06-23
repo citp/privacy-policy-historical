@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cashrevelations.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810171104id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashrevelations.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623235204id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
-# Generic Privacy Policy
+# None
 
-Last updated: April 2015
+Last updated: November 2014
 
 > Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
