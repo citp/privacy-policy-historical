@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231004128id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623021621id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
 
 # Free College Scholarships // Privacy Policy
 
@@ -6,7 +6,7 @@ freecollegescholarships.net ("the site") is owned and operated by Free College S
 
 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
 [](https://privacy.truste.com/privacy-seal/Vinyl-Interactive,-LLC-/validation?rid=1a01a882-1d77-4f9b-9a2c-c472eb191c0c "TRUSTe online privacy certification")
 
@@ -18,7 +18,7 @@ The site only collects information that is volunteered during the registration p
 
 FreeCollegeScholarships reserves the right to use this information provided by you for:
 
-  1. The specific purpose for which such information was provided (including matching registrants with the education providers and other advertisers on our site;
+  1. The specific purpose for which such information was provided (including matching registrants with the education providers and other advertisers on our site);
   2. Personal, demographic and profile data to improve our site;
   3. Our marketing and promotional purposes;
   4. As disclosed at the time such information is provided; and/or as disclosed in this Policy.
@@ -55,7 +55,7 @@ We use cookies to remember users’ settings (e.g. your prior registration infor
 
 ### Log Files:
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 ### Widgets:
 
@@ -67,7 +67,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 ### Registry Compliance:
 
-By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from freecollegescholarships.net, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls.
+By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from freecollegescholarships.net, our affiliates, and our partners for contact via telephone.
 
 ### LSOs
 
@@ -117,12 +117,12 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: July 10th, 2015
+Effective: April 1, 2016
 
 ### Contact Information
 
 Email us at: [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net)  
-Or write to us at: Free College Scholarships LLC, 135 Townsend St, Ste 615, San Francisco, CA 94107
+Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
 
 [Register Now](https://web.archive.org/reg)
 
