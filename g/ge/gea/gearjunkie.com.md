@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gearjunkie.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223065014id_/http%3A//gearjunkie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearjunkie.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623143929id_/https%3A//gearjunkie.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Gear Junkie
+# Privacy - GearJunkie
 
 This privacy policy sets out how GearJunkie uses and protects any information that you give while using http://gearjunkie.com.
 
