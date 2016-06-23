@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215031620id_/http%3A//www.uark.edu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623224009id_/http%3A//www.uark.edu/privacy-policy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy | University of Arkansas
 
@@ -8,15 +8,15 @@ This policy defines the official websites of the University of Arkansas, address
 
 The university adheres to all applicable federal and state laws, as well as general university policies that are applicable to the use of computing resources. These include, but are not limited to, the laws and policies contained in Appendix A. 
 
-## **Official University Websites**
+## Official University Websites
 
 Except as noted, the information in this privacy policy applies to all official University of Arkansas websites, which are defined as those administered through the university content management system, such as university colleges and schools, main departments, divisions, or other units typically reporting to or deemed official by the chancellor, provost, vice chancellors, deans, directors and/or department heads/chairs. These sites comply with the university template, graphics and Web standards as managed by the Office of University Relations. Certain official websites may have their own or supplementary privacy policies appropriate to their function or as required by law 
 
-## **Other Websites**
+## Other Websites
 
 Within the university domain (uark.edu) are various websites that are not maintained by the university. These unofficial sites include, but are not limited to, RSO sites, personal websites of faculty, staff or students, and other campus entities. This privacy policy only applies to official university websites. 
 
-## **Access Information Collected**
+## Access Information Collected
 
 The university, while reserving its right to monitor communications via university websites for legal, policy or business reasons, including security and functionality, will not monitor the content of communications as a matter of normal business practice. However, the fact that communication occurred (such as when a user visits a university website or utilizes university websites to search for information or submit a form), may be routinely logged as a normal business practice. 
 
