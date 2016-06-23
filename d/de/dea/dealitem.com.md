@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421070951id_/http%3A//www.dealitem.com/view/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623210008id_/http%3A//dealitem.com/Site/Privacy) for the most accurate reproduction.*
 
-# Dealitem.com - Privacy
+# Privacy
 
 Dealitem.com respects the privacy and security of its users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. 
 
@@ -30,7 +30,7 @@ Cookies: We use cookies to let you use our services more easily and to let us ke
 
 Your Email Address: We use your email address to send you information about your dealighted account, such as your username and password, and confirmations of reviews that you have submitted to the site. From time to time, we may email you to let you know about new site features no more frequently than once per month but generally only a few times per year. Your email address is never sold or otherwise provided to a 3rd party.
 
- **How We Protect Your Information:**
+**How We Protect Your Information:**
 
 The privacy and protection of your personal information is vitally important to us. Dealitem.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your Dealitem.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
 
@@ -46,13 +46,8 @@ When you are at the Dealitem.com site and asked for personal information, you sh
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other interactive media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
- **How to Correct Inaccuracies**
+**How to Correct Inaccuracies**
 
 If you use another Dealitem.com service, we may send you a confirmation e-mail confirming your new account and/or service. The message will be sent to the address that you supplied us and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services. 
 
-We welcome any questions or comments you have about Dealitem.com: please direct them to [our Contact Us Page](https://web.archive.org/EmailLink/?feedback=1). 
-
-|   
----|---  
-  
-
+We welcome any questions or comments you have about Dealitem.com: please direct them to [our Contact Us Page](https://web.archive.org/Site/Contact) or send us an email at pr@dealitem.com. 
