@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc-cleaners.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216095539id_/http%3A//www.pc-cleaners.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-cleaners.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623220616id_/http%3A//www.pc-cleaners.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PC Cleaner
 
