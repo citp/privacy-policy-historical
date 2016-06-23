@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcomet.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611100853id_/http%3A//www.fastcomet.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcomet.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623050733id_/http%3A//www.fastcomet.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # FastComet - Web Hosting Services
 
@@ -34,6 +34,14 @@ We may disclose User's personal information if required by law. We may disclose 
 
   
 Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. FastComet INC. has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+
+**Promotions and Newsletters**
+
+FastComet sends monthly and promotional newsletters. The customer understands and agrees that by signing up for FastComet services their email will be automatically added in our marketing mailing list. The customer can unsubscribe from FastComet Marketing mailing list via one of the following options:
+
+\- Uncheck the Marketing option under the mail settings under their client area  
+\- Use the unsubscribe link, included in every Marketing email  
+\- Submit a ticket via their client area and state that their email should be excluded from the Marketing mailing list.
 
 **Changes To This Privacy Policy**
 
