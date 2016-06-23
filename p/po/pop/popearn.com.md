@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popearn.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105000335id_/http%3A//popearn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popearn.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623174721id_/http%3A//www.popearn.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pop Earn
 
