@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytime.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117150326id_/http%3A//www.mytime.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytime.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623163341id_/https%3A//www.mytime.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy - MyTime
 
@@ -18,8 +18,8 @@ Please contact us if you have any questions or comments about our privacy practi
 
 MyTime   
 Attention: Privacy Policy Agent  
-988 Market Street, Suite 600   
-San Francisco, CA 94102
+4053 18th Street   
+San Francisco, CA 94114
 
 **Types of Personal Information We Collect**
 
@@ -213,8 +213,8 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 
 MyTime   
 Attention: Privacy Policy Agent   
-988 Market Street, Suite 600   
-San Francisco, CA 94102   
+4053 18th Street   
+San Francisco, CA 94114   
 Phone Number: 1-888-423-1944
 
 Please allow 30 days for a response.
