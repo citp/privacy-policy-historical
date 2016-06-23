@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the area-codes.org.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120554id_/http%3A//www.area-codes.org.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the area-codes.org.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623120428id_/http%3A//www.area-codes.org.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy / Cookies - UK Area Codes
 
