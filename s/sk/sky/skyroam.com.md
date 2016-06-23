@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyroam.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223034515id_/http%3A//www.skyroam.com/Learn_about_Skyroams_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyroam.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623111246id_/http%3A//www.skyroam.com/Learn_about_Skyroams_Privacy) for the most accurate reproduction.*
 
 # "Skyroam | Skyroam Hotspot global mobile hotspot keeps you connected on the road - for only $10 a day."
 
