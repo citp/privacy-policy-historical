@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221202759id_/http%3A//www.sdge.com/node/231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065012id_/http%3A//sdge.com/node/231) for the most accurate reproduction.*
 
 # Website Privacy Policy | San Diego Gas & Electric
 
 [Para la versión en español](https://web.archive.org/pol%C3%ADtica-de-privacidad)
 
-Please also see our [Privacy Notice](http://www.sdge.com/privacy-notices) regarding the privacy of your energy usage information. 
+Please also see our [Privacy Notice](http://www.sdge.com/customer-privacy/privacy-notices) regarding the privacy of your energy usage information. 
 
 San Diego Gas and Electric Company (“SDG&E”) is committed to keeping our visitors informed about how we use the information we gather on our web site, at our mobile optimized web site, and in our mobile apps (collectively, the “web site”).  By using our web site or obtaining any product or service through our web site, you agree to the collection and use of information as set forth in this policy.  If you do not agree to this policy, please do not use the web site.
 
@@ -25,7 +25,7 @@ In order to better provide you with products and services, SDG&E’s web site co
 
 
 
-Examples of Personal Information you may submit include your name, mailing address, telephone number, mobile phone number, email address, and other identification and contact information.  We may also collect certain financial account information (if you choose to provide it), as well as other types of information that you may have entered into employment applications.  In the event that you apply to the CARE program, you may also be requested to disclose your enrollment in other governmental programs (such as food stamps/SNAP, Supplemental Security Income, and the National School Lunch Program).
+Examples of Personal Information you may submit include your name or, when combined with your name or other information which could reasonably be used to identify you, your mailing address, telephone number, mobile phone number, email address, and other identification and contact information.  We may also collect certain financial account information (if you choose to provide it), as well as other types of information that you may have entered into employment applications.  In the event that you apply to the CARE program, you may also be requested to disclose your enrollment in other governmental programs (such as food stamps/SNAP, Supplemental Security Income, and the National School Lunch Program).
 
 SDG&E uses this Personal Information to provide services, conduct its business, and improve our visitors’ experience on our web site.
 
@@ -91,7 +91,7 @@ This web site may provide links to various governmental, industry association an
 
 ## VII. Changes to This Privacy Policy
 
-(last updated December 5, 2013)
+(last updated February 5, 2016)
 
 SDG&E reserves the right, at any time, and without notice, to add to, change, modify, or update this Privacy Policy by posting a revised policy on this web site.  Any revised Privacy Policy shall be effective immediately on posting.  However, any time this policy is updated, the date of modification will be posted.
 
@@ -108,7 +108,7 @@ Please note, however, that information regarding these contacts or correspondenc
 ## Other Languages
 
   * [Arabic](http://www.sdge.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)
-  * [Armenian](https://web.archive.org/web/20151221202759id_/http://www.sdge.com/our-company/node/2196)
+  * [Armenian](https://web.archive.org/web/20160623065012id_/http://www.sdge.com/customer-privacy/node/2196)
   * [Farsi](http://www.sdge.com/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AD%D9%81%D8%B8-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C)
   * [Hmong](http://www.sdge.com/txoj-cai-hais-txog-ntiag-tug)
   * [Kmer](http://www.sdge.com/ekalkarn%C3%A9kcnpab)
