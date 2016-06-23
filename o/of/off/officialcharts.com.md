@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialcharts.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223071016id_/http%3A//www.officialcharts.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialcharts.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623074427id_/http%3A//www.officialcharts.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
