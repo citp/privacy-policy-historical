@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213012028id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623070851id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Details | Target Sports USA.com
 
@@ -68,9 +68,9 @@ If you interested in viewing the status of your order, please visit [Order Statu
 
 * * *
 
-**Target Sports USA                                                         ****1-860-676-0610  
-504 Main Street                                                                             
-Farmington,CT 06032                                                                                                                                     
+**Target Sports USA                                                         ****1-860-426-9886  
+24A Robert Porter Rd                                                                             
+Southington, CT 06489                                                                                                                                     
 United States of America   ** 
 
 **Team TargetSportsUSA.com**
