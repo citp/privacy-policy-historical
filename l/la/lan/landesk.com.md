@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landesk.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217041105id_/http%3A//www.landesk.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landesk.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623214140id_/http%3A//www.landesk.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LANDESK
+# Privacy Policy - Legal | LANDESK
 
 LANDESK is committed to user privacy in all of its communications regarding its products and services. This policy outlines LANDESK's information-handling practices. If you give us information, it will be treated according to this policy. By downloading any materials from LANDESK Web sites or by providing any personal information to LANDESK via LANDESK Web sites or e-mail addresses, you agree to these terms. If you do not agree to these terms, do not use LANDESK Web sites, download any materials from them or provide information to LANDESK or its affiliated companies by e-mail or other means.
 
