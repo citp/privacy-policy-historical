@@ -1,176 +1,151 @@
-> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208165809id_/http%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623092052id_/http%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Goop
 
-## About Us
+## **Welcome to Goop**
 
-We are Goop Inc., a company registered in Delaware, USA with registered number 5406040 whose registered office is at 200 Park Avenue South, 8th Floor, New York, NY 10003. (and we refer to ourselves as “ **we** ”, “ **us** ” or “ **our** ” in this document). We own and operate this “ **Website** ” (meaning the www.goop.com website) and any “ **App** ” (meaning applications that we provide for mobile devices, including, without limitation, Apple iOS and Android) on our own behalf.
+Goop Inc., a Delaware corporation _(“Goop”, “we”, “our”, “us”),_ operates the website located at the URL www.goop.com (together with the App (as defined in our Terms of Service) and any other websites or applications branded as Goop, the “ _Website_ ”). Goop respects your privacy rights and is committed to protecting the information we collect from you online.
 
-### About this Privacy Policy
+Effective date: May 23, 2016
 
-In this Privacy Policy, references to “ **you** ” means any person submitting any data to us, to the Website or through an App about himself or herself or about any other living individual in respect of any use of the Website or any products available through the Website (each being a “ **Product** ”) or use of an App.
+### **Scope of Policy**
 
-When you use different aspects of the Website or an App, we may ask you to supply us with various information about you or anyone whom you represent. This Privacy Policy sets out the way in which we may use such information.
+This Privacy Policy explains how we collect, use, disclose and manage your personal, company, financial and other information that you provide to us on the Website or otherwise, as well as how we care for your privacy and protect such information. This Privacy Policy applies, without limitation, to any individual or entity that (i) uses the Website, (ii) creates an Account (as defined in our Terms of Service), or (iii) otherwise provides any personal, company, financial or other information to us.
 
-We are committed to protecting and respecting your privacy. This Privacy Policy (together with our “[Website Terms of Use](http://www.goop.com/about/terms-of-use)“, “[Terms & Conditions](http://www.goop.com/about/terms-and-conditions)“, the relevant “[App Terms of Use](http://www.goop.com/about/app-terms-of-use)” and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+**WHEN YOU ACCESS OR USE THE WEBSITE, OR OTHERWISE PROVIDE ANY INFORMATION TO US, YOU AGREE TO THIS PRIVACY POLICY, INCLUDING THE MANNER IN WHICH WE USE YOUR INFORMATION, WHETHER OR NOT YOU HAVE AN ACCOUNT WITH GOOP. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE TO THIS PRIVACY POLICY, YOU MUST IMMEDIATELY STOP USING THE WEBSITE OR OTHERWISE PROVIDING ANY INFORMATION TO US.**
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+The Website may contain links to other websites. This Privacy Policy does not apply to information collected on or through any such third party websites. We are not responsible for the privacy practices of such third parties or the content of their websites. Such third parties may have their own privacy policies and you should review those privacy policies to determine their privacy practices.
 
-### Contacting us
+### **Information Collected**
 
-Questions, comments, requests or suggestions regarding this Privacy Policy are welcomed and should be addressed to [customerservices@goop.com](mailto:customerservices@goop.com).
+We may collect the following information:
 
-### Your Privacy
+  * Your name, addresses, telephone numbers, e-mail addresses, date of birth, username, password and other personally identifiable information;
+  * Certain financial or demographic profile information to be used in the aggregate, such as your age, gender, hobbies, interests, zip/postal code or country. Demographic information is not considered personal information unless it is linked to personal information about a specific user;
+  * Service provider name and the date, time and content of any messages sent from you to us;
+  * IP address and other technical information collected from the servers utilized by you or your vendors, such as information and data that is automatically collected upon visiting the Website (i.e., webpage http headers (home server domain names, internet protocol address, operating system type, browser type and language) and user-specific or aggregate information on what pages you access on the Website). Technical information is not considered personal information unless it is linked to personal information about a specific user;
+  * Credit/debit card and other billing information, including cardholder transaction data, card numbers, expiration dates, billing addresses and CVV codes;
+  * Information provided on any application (including the App) or authorization, such as your location, your handset type, your UDID (unique handset code) and any other information you or your mobile device provides to us;
+  * Information regarding uses of the services; and
+  * Other information provided to us in any way, shape or form.
 
-Your privacy is very important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy.
 
-We will only use your personal data in a way that is fair to you. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
 
-### Data that we collect
+### **How Information is Collected**
 
-We may collect and process your personal data for reasons set out in the “Why we collect your personal data” section of this Privacy Policy below. We may obtain the following information about you:
+We may collect information in one or more of the following ways:
 
-> 1\. your title, name, date of birth, address, email address, telephone numbers, username, password and such other contact details as we require. This includes:
->
->> a. information provided at the time that you subscribe to any newsletter or email or any other marketing or promotional communications that we make available from time to time;
->> 
->> b. information that you provide at the time of registering for an account to purchase Products via or through the Website. We may also store information relating to any Products that you purchase; and
->> 
->> c. any information (including your location, your handset type, your UDID (unique handset code), your e-mail address and your mobile phone number) you or your mobile device provides to us at the time that you download or install an App and each time you use an App to add value to your use of the App; and
-> 
-> 2\. payment information provided by you, for example, on placing an order for a Product available on the Website. This may include the last four digits of the credit or debit card with which you make your payment. However, the payment provider that we use will obtain all of your payment information in relation to an order that you place on the Website.
+  * Through the completion of electronic forms found on the Website or on a third party-hosted website, whether via computer or mobile device;
+  * Through the completion of paper forms provided to us;
+  * Through SMS (Short Message Service) messages sent via cell phone, or through e-mail and other communications;
+  * Through telephone calls made to us, or vice versa;
+  * Through surveys;
+  * Through referring websites or third parties, including social media sites such as Facebook, Twitter, Tumblr, Instagram, Pinterest, YouTube, Google+ and others;
+  * Through the maintenance and analysis of Website server logs; and
+  * Via “ _cookies_ ” (small text files placed by us on your computer(s)), single pixel GIF image files (also called “ _Web beacons_ ”), Website server log analysis and other similar technological means.
 
-### Why we collect your personal data
 
-We use the information collected for the purpose of sending you emails to which you may subscribe and emails with or about other information about us as well as to properly make available to you the Website, Products and sales promotions, fulfilling any order for a Product that you make through or via the Website, to allow you to access any information or services that we may provide through an App, in case we have any queries and for our record keeping. We may also use that data to prove payment for a Product that you order through or via the Website and deliver that Product to you. We also use that data to inform you when a Product is about to be delivered.
 
-We may pass your name and address on to a third party in order to make delivery of a Product that you order through or via the Website to you (for example, to our courier or supplier).
+Certain portions of the Website may require that you register for an Account before being able to access them. On those portions of the Website that require registration, we may collect information to create your account, as well as to determine specific content, products and services that may be of particular interest to you. By collecting and maintaining accurate information, we learn more about your interests and needs and are better able to provide you with such content and with offers for such products and services.
 
-We may also use your data in order to manage the Website and an App, collect payment from you, detect fraud or Website or App abuses and send you information relevant to an App, the Website or the Products. We also need your email address and other contact details, in particular, for sending you information relating to the Website and an App and the services we offer. This includes (without limitation) the following:
+### **Use of Information / Data Collected**
 
-> 1\. To allow you to go ahead and register for an account on the Website, which allows you to purchase Products. This may include sending an email to you to confirm your details, to give you initial information about the service we offer, and to enable you to commence ordering Products.
-> 
-> 2\. To respond to you over any queries you raise with us.
-> 
-> 3\. To give you a link to enable you to have a password resent to you if you tell us or the Website that you have forgotten it.
-> 
-> 4\. To record and track details of transactions you carry out through or via the Website and of the fulfilment of your orders.
-> 
-> 5\. To collect details of your visits to the Website and use of an App including, but not limited to, traffic data, location data, web blogs and other communication data, whether this is required for our own purposes or otherwise and the resources that you access.
-> 
-> 6\. To provide you with information, products or services that you request from us or which we feel may interest you.
-> 
-> 7\. To allow us and our suppliers to use your data, to provide you with information about goods and services which may be of interest to you.
+We may use the information we collect to identify the parties with whom we are dealing and to provide customized information and offers of products and services. While we do not currently use third party services that display customized content and advertising provided by us, we may do so in the future. We may also use the information for statistical and/or marketing purposes, to improve our technologies, to provide information about our company and to deliver advertising and promotional information from our partners and third party vendors. We may track your use of the Website over time for the purpose of, among other things, enhancing your experience on the Website and providing marketing messages, promotions, offers of products and services and other content which we think may be of specific interest to you.
 
-We also need to use your contact details and other information for any aspect of the Website and an App (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the “[Terms and Conditions](http://www.goop.com/about/terms-and-conditions)“, the “[Website Terms of Use](http://www.goop.com/about/terms-of-use)” and the relevant “[App Terms of Use](http://www.goop.com/about/app-terms-of-use)“, and verifying information).
+We reserve the right to share, rent, sell or otherwise disclose the information we collect from you to third parties. We may also share your information with certain third parties in other circumstances, including when complying with legal process, preventing fraud or imminent harm and/or ensuring the security of our network and services. We may also use the information you provide to market products and services to you. We may obtain your information through third parties by virtue of advertisements placed by us on websites maintained by those third parties. We will collect and/or share certain of your information with third parties for the purposes of fulfilling orders for products or services placed by you and for providing you with newsletters or other communications. We may also use information provided by you to manage your Account.
 
-You acknowledge that we have no obligations to monitor your access to or use of the Website or an App, but that we have the right to do so for the purposes set out in this Privacy Policy.
+We may store or transfer your credit/debit card data in order to more easily provide services to you. If such credit/debit card and other billing information is collected and/or stored, such credit/debit card and other billing information will be collected and transferred over a secure connection in accordance with applicable regulatory requirements, and is used only for processing underlying transactions. We will share this information only with those directly involved in the processing of the underlying transaction, and who maintain appropriate security measures designed to safeguard such information.
 
-### Your obligations as to your data
+When we use third parties to assist us in collecting and/or processing your personal information, we typically request that they comply with this Privacy Policy and any other appropriate confidentiality and security measures. However, we make no representation or warranty that such third parties will comply with any such request.
 
-You must only submit to us, the Website or an App, information which is accurate and not misleading and you must keep it up-to-date and inform us of changes. You may do that through the “[My Account](http://shop.goop.com/customer/account/)” part of the Website or by email to [customerservices@goop.com](mailto:customerservices@goop.com). By submitting data in respect of you and anyone else, you must ensure that you have full authority and consent to supply us with that data on their behalf and you warrant to us that you have that authority.
+We may provide you with direct access to functionality from other third parties, including Facebook, Twitter, Instagram, YouTube, Pinterest, Spotify, advertising networks and others. The placement of social media widgets, or advertising units on the Website may permit these third parties to see information about you and your activities via cookies, web beacons and other technologies they place and/or access on your browser or device, even if you do not interact with them **.**
 
-### Third Parties and Links
+We may add your information to our databases to contact you through future e-mails, postal mailings and SMS text-messaging regarding site updates, upcoming events, new products and services and/or the status of orders placed online. We do not currently use geolocation for purposes of tracking your location when you use the Website, but we reserve the right to do so in the future in order to better target product and service offerings and other information to you.
 
-We will disclose your personal data (including details of your credit or debit card or bank account) to our suppliers should you wish to make an order for a product or service made available by that supplier.
+We reserve the right to release information to law enforcement or other governmental officials as we, in our sole discretion, deem necessary to comply with applicable law.
 
-We may pass your details to our agents, subcontractors, licensors and licensees to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to enable us to collect payments from you, to analyse data and to provide us with marketing or customer service assistance.
+## **Use of Web Technologies**
 
-We may exchange information with third parties for the purposes of fraud protection and credit risk reduction.
+### **Cookies**
 
-We may transfer your data to other companies in our group.
+A cookie is a small text file that is stored on a user’s computer for record keeping purposes. We use cookies on the Website. We may link the information we store in cookies to personally identifiable information that you submit while on the Website. We use both session ID cookies and persistent cookies. A session ID cookie expires when a browser is closed. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on the Website. You can remove the persistent cookies by following the directions provided in your internet browser’s “help” file. If you reject cookies, you may still use the Website but your ability to use some areas of the Website may be limited.
 
-We may transfer our databases containing your personal information if we sell, or discuss the sale of, our business or part of it to an actual or potential purchaser.
+### **Tracking Pixels**
 
-We may also disclose your details as described elsewhere in this Privacy Policy.
+We employ a software technology called tracking pixels (a/k/a web beacons/web bugs/clear gifs) that enables us to better manage the content on the Website by informing us what content is effective. Tracking pixels are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of visitors to a website. In contrast to cookies, which are stored on a user’s computer hard drive, tracking pixels are embedded invisibly on website pages and are about the size of the period at the end of a sentence. We do not tie the information gathered by tracking pixels to your personally identifiable information.
 
-Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law.
+We use tracking pixels in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these e-mails, please see the “Opting Out” section of this Privacy Policy below.
 
-### IP addresses and cookies
+### **Log Files**
 
-The Website and Apps use cookies. When you login to your account on the Website, we place cookies which store details relating to your session on the Website, details relating to your Facebook account if you have accessed the Website through Facebook, and details of whether you logged in to your account by inserting your details or whether your details were saved for easy login.
+As is true of most websites, we gather information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Website, to track the movements of users around the Website and to gather demographic information about our user base as a whole.
 
-Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Website and an App and they are stored by your Internet browser on your computer’s or mobile device’s hard drive. Cookies can be used to recognise your Internet Protocol address, saving you time while you are on, or want to enter, the Website or an App. We only use cookies for your convenience in using the Website and an App and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Website and an App. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/>.
+### **Do Not Track**
 
-The Website and an App may, from time to time, contain links to and from the websites or mobile applications of suppliers, partner networks, advertisers and affiliates. Please note that those websites and mobile applications may also use cookies and that we do not accept any responsibility or liability for their use of cookies. Please check those websites and mobile applications and their privacy policies before using them.
+When you use the Website, we may receive “do not track” requests from you, whether via signals from web browsers or other mechanisms. At this time, we do not respond to such “do not track” requests, although we may choose to do so in the future.
 
-List of Cookies We Collect
+### **Security**
 
-The table below lists the cookies we collect and what information they store.
+We take reasonable precautions to protect the confidentiality and security of your personally identifiable information by using industry recognized security safeguards such as site monitoring, secured networks and servers, firewalls and encryption. When we ask for sensitive information, we protect it through the use of encryption during transmission, such as SSL (Secure Socket Layer). Unfortunately, no method of transmission over the Internet is completely secure. Therefore, while we strive to protect your personally identifiable information within industry standards, we cannot guarantee its absolute security.
 
-eCommerce cookies
-    
-    
-      Name			COOKIE Description
-      CART			The association with your shopping cart.
-      CATEGORY_INFO		Stores the category info on the page, that allows to display pages more quickly.
-      COMPARE		The items that you have in the Compare Products list.
-      CURRENCY		Your preferred currency
-      CUSTOMER		An encrypted version of your customer id with the store.
-      CUSTOMER_AUTH		An indicator if you are currently logged into the store.
-      CUSTOMER_INFO		An encrypted version of the customer group you belong to.
-      CUSTOMER_SEGMENT_IDS	Stores the Customer Segment ID
-      EXTERNAL_NO_CACHE	A flag, which indicates whether caching is disabled or not.
-      FRONTEND		You sesssion ID on the server.
-      GUEST-VIEW		Allows guests to edit their orders.
-      LAST_CATEGORY		The last category you visited.
-      LAST_PRODUCT		The most recent product you have viewed.
-      NEWMESSAGE		Indicates whether a new message has been received.
-      NO_CACHE		Indicates whether it is allowed to use cache.
-      PERSISTENT_SHOPPING_CART	A link to information about your cart and viewing history if you have asked the site.
-      POLL			The ID of any polls you have recently voted in.
-      POLLN			Information on what polls you have voted on.
-      RECENTLYCOMPARED	The items that you have recently compared.
-      STF			Information on products you have emailed to friends.
-      STORE			The store view or language you have selected.
-      USER_ALLOWED_SAVE_COOKIE	Indicates whether a customer allowed to use cookies.
-      VIEWED_PRODUCT_IDS	The products that you have recently viewed.
-      WISHLIST		An encrypted list of products added to your Wishlist.
-      WISHLIST_CNT		The number of items in your Wishlist.
-      heartBeat		Checks if session is still active.
-      noMoreModal		Disable the signup modal window if it has already been displayed
-    
+We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your personally identifiable information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorized access to your password and to your computer/mobile device. We ask you not to share your password with anyone.
 
-Cookies Set By Google Analytics Google Analytics sets the following cookies as described in the table below
-    
-    
-      
-       Name		Description	        
-      __utma	This cookie is typically written to the browser upon the first visit to your site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to your site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.	       
-      __utmb	This cookie is used to establish and continue a user session with your site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on your site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on your site for longer than 30 minutes. You can modify the default length of a user session with the _setSessionCookieTimeout() method.
-      __utmc	Historically, this cookie operated in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user. For backwards compatibility purposes with sites still using the urchin.js tracking code, this cookie will continue to be written and will expire when the user exits the browser. However, if you are debugging your site tracking and you use the ga.js tracking code, you should not interpret the existence of this cookie in relation to a new or expired session.	       
-      __utmz	This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site.	   
-      __utmv	This cookie is not normally present in a default configuration of the tracking code. The __utmv cookie passes the information provided via the _setVar() method, which you use to create a custom user segment. This string is then passed to the Analytics servers in the GIF request URL via the utmcc parameter. This cookie is only written if you have added the _setVar() method for the tracking code on your website page.	    
-    
+Our employees are trained and required to safeguard your information. Our internal controls limit access to personally identifiable information based on job functionality.
 
-### Where we store your personal data
+### **No Information Collected from Children**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers, partners, advertisers and affiliates. Such staff maybe engaged in, among other things, the fulfilment of any order for a Product that you make via or through the Website, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy but, in any event, the person or entity storing or processing your data will be part of the EEA or part of the United States “Safe Harbor” framework.
+The content and services provided by us or our affiliates, sponsors and advertisers are not intended for children under the age of 13. If you are under the age of 18 or otherwise not of legal age to form a binding contract in your place of residence, you must have your parent or legal guardian’s permission to use the Website. No information is knowingly collected or retained from children under the age of 13, nor is any such information knowingly used for any marketing or promotional purposes whatsoever, either inside or outside the Website. No part of the Website is designed to attract anyone under the age of 13. Children are not eligible to use any services provided by us and we ask that children under the age of 13 not submit any personal information to us or visit the Website.
 
-We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss of or destruction or damage to your information.
+### **Communications**
 
-We store your personal details on a secure server. We use industry standard security and firewalls on our servers. When we collect payment card details electronically, we use encryption by using a third party payment provider which will use encryption software. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details.
+Based upon the personally identifiable information that you provide to us, we may send you a welcome e-mail. We will also communicate with you in response to your inquiries, to provide any services you request, to provide newsletters or other updates that you request and to manage your Account. In addition, when you register an Account with us, you may choose to consent to our contacting you by e-mail and to receiving our e-mail subscriptions, editorial e-mails and advertorial e-mails (see below) from us. If, at any time, you no longer want us to contact you by e-mail and/or receive our e-mail subscriptions, editorial e-mails and advertorial e-mails, you may opt out of these functions by changing the preferences in your Account. You can contact customer service by e-mail, telephone or postal mail at the contact information listed below to assist you with any such changes to your Account.
 
-We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+If you have an Account with us, then from time to time, and in addition to e-mails or e-mail subscriptions sent by us, we may send you e-mails that contain advertising or other content sponsored by third party retailers or businesses (“ _advertorial e-mails_ ”). These advertorial e-mails are clearly marked as such in the subject line and a note at the top of the article itself. The content is paid for by our sponsors and does not reflect the opinions of our editorial staff. If you prefer not to receive these e-mails, you may deactivate your Account or otherwise opt-out as provided in the “Opting Out” section of this Privacy Policy below. We send advertorial e-mails on behalf of the third party sponsors. We do not share your personally identifiable information with such sponsors, except as otherwise provided in this Privacy Policy, but we may sell or share aggregate, non-personal information with such sponsors for any legally permissible purpose.
 
-You are responsible for protecting against unauthorised access to your password and to your computer.
+### **Third Party Ad Server Networks**
 
-### Security
+Our Website may use third parties such as network advertisers to serve advertisements on our Website and may use traffic measurement services to analyze traffic on our Website. Network advertisers are third parties that display advertisements based on your visits to our Website and other websites you have visited. Third party ad serving enables us to target advertisements to you for products and services in which you might be interested. Our Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your computer and track certain behavioral information regarding users of your computer via an IP address or other device identifier. These third party cookies and other technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons and other third party technologies are governed by each third party’s specific privacy policy, not this one.
 
-Any payment transactions will be encrypted in the payment information you provide to us to pass on to a third party to make an order for a product or service; the encryption will be completed by the third party payment provider who we use from time to time which will use encryption software. Where we have given you (or where you have chosen) a password which enables you to access an App or certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+### **To opt out of third-party tracking on our Website use the following tools**
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will take reasonable steps to protect your personal data, we cannot guarantee the security of your data transmitted over the Internet; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+You may opt out of the Ad Tech Network by clicking <http://www.youronlinechoices.com/opt-out-interface>.
 
-### Your Rights
+If you would like to opt out of having interest-based information collected during your visits to our Website or other sites, both the National Advertising Initiative (the “ _NAI_ ”) and the Digital Advertising Alliance (the “ _DAA_ ”) offer opt out tools to assist you in managing your choices. Click <http://www.networkadvertising.org/choices/> to visit the NAI opt out page and click <http://www.aboutads.info/choices/> for the DAA opt out page.
 
-You have the right to ask us not to process your personal data, to provide information to you (whether by email or otherwise) or marketing information about the Products, the Website or Apps. You can email us on[customerservices@goop.com](mailto:customerservices@goop.com) to make these changes, or follow the “unsubscribe” link in any marketing communication that we send to you by email. You can also make changes to your privacy settings at the “[My Account](http://shop.goop.com/customer/account/)” part of the Website. We will change what you receive within a reasonable time. However, changing your privacy settings may inhibit your ability to use the Website or receive any information or email that we offer or use an App, so we do not recommend that you do this.
+You may wish to visit <http://www.networkadvertising.org/understanding-online-advertising/> to learn more about interest-based advertising and your choices regarding having this information used by third parties and your “opt out” choices. Opting out through the DAA or the NAI only means that those DAA or NAI members will no longer be able to deliver targeted content and/or ads to you, which will affect our Website as well as other unaffiliated websites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit these opt out pages, or you subsequently erase your cookies, use a different computer or change web browsers, your opt out choices may not, or may no longer, be effective.
 
-The Website and an App may, from time to time, contain links to and from the websites or mobile applications of suppliers, partner networks, advertisers and affiliates. If you follow a link to any of those websites or mobile applications, please note that those websites and mobile applications have their own privacy policies and that we do not accept any responsibility or liability for those policies. Please check those privacy policies before you submit any personal data to those websites or mobile applications. Changes to this Privacy Policy We may amend this Privacy Policy from time to time. Any amended Privacy Policy will be posted on the Website. The amended Privacy Policy will apply immediately for new users and 30 days (or such other timeframe as we say when posting) after first posting for all existing users. Each time you enter the Website, order a Product or download, install, access or use an App, you agree that the Privacy Policy current at that time shall apply to all information which we hold about you.
+### **Opting Out**
 
-### Consent
+If you want to be removed from our marketing list and do not want us to send you e-mail, postal mail or other messages about our products and services, you can opt out. To do so, please send an e-mail to unsubscribe@goop.com, with the word “REMOVE” in the subject line, or unsubscribe by clicking here.
 
-By submitting data to us, using the Website or downloading, installing, accessing or using an App, you consent to our use of your data and of anyone you represent (including, but not limited to, data relating to your then current location) in the manner set out in this Privacy Policy (as amended from time to time, as described above) and you are responsible for ensuring that you have authority to consent on behalf of anyone about whom you submit data to us.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of such residents’ personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please e-mail us at [customerservice@goop.com](mailto:customerservice@goop.com).
 
-You also consent to us (or third party advertisers working through the Website or an App) placing cookies on your hard drive or mobile device. You can turn these off if you want, through the settings on your browser. See the “IP addresses and cookies” section above. Please note that we will not place cookies on your hard drive by which you can be personally identified; if we do, we will ask for more, further, specific consent from you.
+### **Privacy Policy Updates**
 
-_This Privacy Policy was most recently updated on 01 June 2014._
+We reserve the right to change this Privacy Policy at any time, so please review it on a regular basis. Any changes made to this Privacy Policy will be posted here. The date stamp at the top of the page represents the last day this Privacy Policy was updated. If you have questions about this Privacy Policy, you can contact us at customerservice@goop.com. By maintaining an Account with us, or by using or accessing any services provided by us or the Website, you will be deemed to have agreed to and accepted this Privacy Policy.
+
+### **Manage Accurate Information**
+
+If your personally identifiable information changes, or if you no longer choose to use our services or the Website, you can contact customer service by e-mail, telephone or postal mail at the contact information listed below to assist you with changes to your Account. To the extent your Account closes or becomes inactive, we will continue to protect your information as described in this Privacy Policy.
+
+### **International Users**
+
+Goop is based in the United States, with our servers and offices headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of the Website, an Account, or any services provided by us may be processed and transferred to, and be subject to the laws of, the United States. The privacy and data protection laws in the United States may not be equivalent to similar laws in your country of residence. By using the Website or an Account, or by providing us with your information, you consent to the collection, transfer, storage and processing of information to and within the Untied States. If our cookies or other software detects IP addresses located in a country outside the United States, we reserve the right to deny access to any and all of our services.
+
+### **Business Transitions**
+
+In the event that we go through a business transition, such as a merger, acquisition or sale of our assets, your personal information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information. We may transfer your information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
+
+We may also use and disclose your information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. Other than to the extent use and disclosure is pursuant to a court order, we will require such parties and successors in interest to treat your information in accordance with this Privacy Policy and to use and disclose it only for the purposes for which it was collected.
+
+### **Contact Us**
+
+If you have any questions or suggestions regarding this Privacy Policy, please contact us as follows:
+
+By mail:  
+Goop Inc.  
+745 Fifth Avenue, Suite 500  
+New York, New York 10151  
+Attn: Customer Service
+
+By e-mail: [customerservice@goop.com](mailto:customerservice@goop.com)
