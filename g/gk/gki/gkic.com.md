@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gkic.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216054911id_/http%3A//gkic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gkic.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623082013id_/http%3A//gkic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GKIC.com
 
