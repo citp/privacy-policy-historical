@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superamart.com.au privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213030013id_/http%3A//www.superamart.com.au/customer-care/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superamart.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623140218id_/http%3A//www.superamart.com.au/customer-care/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,21 +66,14 @@ We may collect your personal information for a number of purposes, including:
   * Sales and delivery of our products\- including preparing sales documentation, obtaining credit/debit card information to complete a sale and arranging delivery.
   * Marketing- to communicate with you about products and services.
   * Fraud risk mitigation- to confirm identities when payment is made using credit card.
-  * **Market Research** \- for understanding our customers and improving their experience.
 
 
 
 ### Opting out of direct marketing communications 
 
-Where we use your personal information to send you direct marketing communications by post, email or otherwise, we will provide you with an opportunity to "opt out" of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt out notices are clear, conspicuous and easy to take up.
+Where we use your personal information to send you marketing and promotional information by post, email or otherwise, we will provide you with an opportunity to “opt out” of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt-out notices are clear, conspicuous and easy to take up.
 
-If you do not wish to receive further communication, please email [privacy@superamart.com.au](mailto:privacy@superamart.com.au).
-
-### Opting out of market research surveys
-
-Where we use your personal information to send you market research surveys by email or SMS, we will provide you with an opportunity to "opt out" of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt out notices are clear, conspicuous and easy to take up.
-
-If you do not wish to receive further communication, please email [privacy@superamart.com.au](mailto:privacy@superamart.com.au).
+If you do not wish to receive direct marketing communications from us, please contact us at [privacy@superamart.com.au](mailto:privacy@superamart.com.au).
 
 ### To whom do we disclose your personal information? 
 
