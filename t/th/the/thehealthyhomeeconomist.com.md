@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthyhomeeconomist.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223222707id_/http%3A//www.thehealthyhomeeconomist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyhomeeconomist.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623145054id_/http%3A//www.thehealthyhomeeconomist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Healthy Home Economist
 
@@ -10,11 +10,11 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 
 1.
 
-**Types of Information Collected**
+ **Types of Information Collected**
 
 In order to better provide you with our numerous services, we collect two types of information about our users: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
 
-**In compliance with the U.S. Children’s Online Privacy Protection Act (COPPA), our products are not directed to users under 13 years of age unless accessed under the careful supervision and consent of a parent or legal guardian. Any use by someone under this age is strictly prohibited and will be terminated immediately upon discovery. Further, any personally identifiable information provided by someone under 13 or that identifies someone under this age, will be deleted immediately upon discovery if in violation of this restriction.**
+ **In compliance with the U.S. Children’s Online Privacy Protection Act (COPPA), our products are not directed to users under 13 years of age unless accessed under the careful supervision and consent of a parent or legal guardian. Any use by someone under this age is strictly prohibited and will be terminated immediately upon discovery. Further, any personally identifiable information provided by someone under 13 or that identifies someone under this age, will be deleted immediately upon discovery if in violation of this restriction.**
 
 Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this site, such as registering for a membership, ordering a product or service, submitting content and/or posting content in discussion forums or other public areas, entering a contest or sweepstakes, filling out a survey, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to elect to engage in these activities; however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), E-mail address, and telephone and facsimile numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
@@ -22,7 +22,7 @@ Non-Personally Identifiable Information: This refers to information that does no
 
 2.
 
-**Collection Methods and Use of Information**
+ **Collection Methods and Use of Information**
 
 We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You may be asked to provide certain Personally Identifiable Information to us when you register for our newsletter. We may also collect information from you at other points on our site that state that such information is being collected.
 
@@ -32,7 +32,7 @@ We will primarily use your Personally Identifiable Information to provide our se
 
 3.
 
-**Release of Information**
+ **Release of Information**
 
 We do not sell, trade, or rent your Personally Identifiable Information to others. We do provide some of our services through contractual arrangements with affiliates, services providers, partners, and other third parties. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver our services.
 
@@ -44,7 +44,7 @@ We may also provide Non-Personally Identifiable Information about our customers�
 
 4.
 
-**Updating and Correcting Information**
+ **Updating and Correcting Information**
 
 We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:
 
@@ -56,7 +56,7 @@ We encourage you to promptly update your Personally Identifiable Information if 
 
 5.
 
-**User Choices on Collection and Use of Information**
+ **User Choices on Collection and Use of Information**
 
 We may, from time to time, send you E-mail regarding our products and services or shipment updates. Newsletters are sent via MailChimp, a third party service. If you do not want to receive such mailings, simply tell us when you initially give us your personal information. Or, at any time you can easily edit your MailChimp preferences by following the link in the newsletter.
 
@@ -64,7 +64,7 @@ You also have choices with respect to cookies, as described below. By modifying 
 
 6.
 
-**Security of Information**
+ **Security of Information**
 
 At our site you can be assured that your Personally Identifiable Information is secure, consistent with current industry standards. Your Personally Identifiable Information resides on a secure server that only selected AustUS Media, LLC personnel and contractors have access to via password.
 
@@ -72,19 +72,19 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 7.
 
-**Cookies**
+ **Cookies**
 
 When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you to us. The cookies make your use of the site easier, make the site run more smoothly, and help us to maintain a secure site. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly in that case.
 
 8.
 
-**Privacy Policies of Third Party Sites**
+ **Privacy Policies of Third Party Sites**
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
 
 9.
 
-**Miscellaneous Privacy Issues**
+ **Miscellaneous Privacy Issues**
 
 You must be at least 13 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 13 years of age.
 
