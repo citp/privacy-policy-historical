@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023201440id_/http%3A//www.oztix.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623195445id_/http%3A//www.oztix.com.au/privacy) for the most accurate reproduction.*
 
 # Oztix | Privacy Statement, Privacy Policy And Collection Notification Statement
 
