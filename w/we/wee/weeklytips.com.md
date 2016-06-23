@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklytips.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019133908id_/http%3A//www.multiplestreammktg.com/advertising/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklytips.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623072603id_/http%3A//www.multiplestreammktg.com/advertising/privacy-policy.html) for the most accurate reproduction.*
 
 # Multiple Stream Media. Internet Advertising Services. Online Advertising Network.
 
