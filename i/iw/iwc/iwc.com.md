@@ -1,54 +1,126 @@
-> *The following text is extracted and transformed from the iwc.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228112316id_/http%3A//www.iwc.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwc.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623094613id_/http%3A//www.iwc.com/en/privacy) for the most accurate reproduction.*
 
-# IWC Schaffhausen | Fine Timepieces From Switzerland | Privacy Policy
+# Privacy Policy | IWC Schaffhausen
 
-### USE OF PERSONAL INFORMATION, PRIVACY POLICY
+**Last updated: April 2016**
 
-Any personally identifiable information such as your name, address, contact numbers and preferences etc. (“Personal Information”) you make available to IWC is done so voluntarily, with your knowledge and consent when making a request, submission or registration for services from IWC. Registration forms contain both mandatory fields (indicated with an asterisk (*)) and non-mandatory fields; if you choose not to complete the mandatory fields then IWC or one of its subsidiaries and affiliated companies, may not be able to respond to your request or activate your option choices.
+### About IWC Schaffhausen and this Privacy Policy
 
-Requests for information made by telephone may be recorded for quality control and to ensure the accuracy of your Personal Information.
+IWC Schaffhausen, branch of Richemont International SA, has its registered offices at Baumgartenstrasse 15, CH-8201 Schaffhausen, Switzerland. In this Privacy Policy, we use the term IWC Schaffhausen (and **“we”** , **“us”** and **“our”** ) to refer to the head office of IWC Schaffhausen at the registered address above, its affiliates and our boutiques. 
 
-Personal Information provided to IWC by you will be made available for joint use by duly authorised IWC personnel in Switzerland, its subsidiaries and affiliated companies worldwide, its Customer Relations management agencies and occasionally to other persons or companies who carry out operations in relation to our business, joint marketing operations and data cleansing. Our subsidiaries and some of our business partners are located outside Switzerland and consequently you accept and consent that your Personal Information may be either imported to Switzerland and/or transferred abroad for the purposes set out herein. All such persons and companies are subject to confidentiality agreements, and protection of your Personal Information shall be ensured at all times in accordance with applicable data protection and privacy laws.
+Please take a moment to read the following policy which explains how we collect, use, disclose and transfer the personal information that you provide to us on our websites, mobile applications (together the **“Platforms”** ), when you visit a IWC Schaffhausen boutique or contact the IWC Schaffhausen concierge by telephone or when you interact with us over social media platforms. It also explains how we collect information through the use of cookies and related technologies when you use our Platforms. 
 
-The Personal Information made available by you will be used exclusively to provide the requested services and may be used both for marketing research purposes relating to IWC’s business and to provide you with information on IWC’s products, services and events. If you have registered for an e-mail service you no longer wish to receive, you can opt-out through an automated service by following the instructions at the end of the e-mail
+### Updates to this Privacy Policy
 
-### NOTE TO CHILDREN
+From time to time we may update this Privacy Policy. When we do we will publish the changes on this Platform.
 
-Children who are under age (minors), especially those under the age of 13, should not send any information about themselves or their friends and should not register for any of the IWC online services, nor should they make requests to receive further information from IWC by clicking consent or request buttons on the website. Should we discover or be informed that a child has registered his/her or another child’s personal details, we will delete such information from our records.
+### Information you provide to us and how we use it
 
-### NOTE TO PARENTS
+To access certain areas of our Platform, you will need to register with us. During the registration process you will be asked to submit personal information about yourself (including your name and address, date of birth, e-mail address and telephone number, and, if you make a purchase with us, payment details). By entering your details in the fields requested, you enable IWC Schaffhausen to provide you with the services you select. 
 
-IWC will not intentionally collect personally identifiable information from children under age. If you, as a parent or legal guardian are concerned that your child has registered for one of our services, wish to cancel your child’s registration and have all details deleted, please contact us by e-mail: [privacy-policy@iwc.com](mailto:privacy-policy@iwc.com "mailto") or write to us at the address below providing official documents proving parental or guardian status:
+In addition, we may also collect personal information from you when you correspond with us (for example, if you contact us with a query about one of our products or services), when you provide your details when you visit a IWC Schaffhausen boutique or contact the IWC Schaffhausen concierge by telephone. Please note that calls to the IWC Schaffhausen concierge may be recorded for security, training and development purposes. 
+
+If you choose to interact with IWC Schaffhausen via a social media platform or other third party service, we will collect the information you have provided to us through that platform. 
+
+We also collect certain information automatically about visitors to our Platform, described in the section headed _“Cookies and other information that we automatically collect”_ , below. 
+
+We will use the information we collect from you to: 
+
+  * manage and fulfil purchase and repair orders and to provide after service care;
+  * deal with your enquiries and requests;
+  * send service related communications, including announcements and administrative messages such as order confirmation;
+  * send you marketing communications (including e-mails) relating to us and other third party partners in accordance with your communications preferences (please see the _“Editing or deleting your personal information”_ section below for further information about how you can control these updates);
+  * conduct market research so that we can continuously improve the services we provide to our customers;
+  * prevent fraud and other prohibited or illegal activities and as part of our efforts to keep our Platform secure; and
+  * understand how our Platform is used so that we can continuously improve our Platform and services and other offerings. 
+
+
+
+### Cookies and other information that we automatically collect
+
+Like most Platforms, IWC Schaffhausen logs IP addresses and uses cookies and similar technologies that allow us to recognise you and to customise your experience, and provide us with information about the way our Platform visitors access our Platform. You can find out more about how we use cookies and related technologies below. 
+
+#### What is a cookie?
+
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website or mobile application. They are used to recognise your computer as you move between pages on a website, or when you return to a website or mobile application you have visited previously. Cookies are widely used in order to make platforms work, or to work more efficiently, as well as to provide information to the owners of the platform. 
+
+We use cookies to enhance the online experience of our visitors (for example, by remembering your language and/or product preferences) and to better understand how our Platform is used. Cookies may tell us, for example, whether you have visited our Platform before or whether you are a new visitor. They can also help to ensure that adverts you see online are more relevant to you and your interests.
+
+There are two broad categories of cookies: 
+
+  * **First party cookies,** served directly by IWC Schaffhausen to your computer or mobile device. They are used only by IWC Schaffhausen to recognise your computer or mobile device when it revisits our Platform.
+  * **Third party cookies,** which are served by a third party service provider on our Platform, and can be used by the service provider to recognise your computer or mobile device when it visits other platforms. Third party cookies are most commonly used for platform analytics or advertising purposes. 
+
+
+
+Cookies can remain on your computer or mobile device for different periods of time. IWC Schaffhausen uses both 'session cookies’ and ‘permanent cookies’. Session cookies exist only while your browser is open and are deleted automatically once you close your browser. Permanent cookies survive after your browser is closed, and can be used to recognise your computer or mobile device when you open your browser and browse the internet again. 
+
+#### What cookies does IWC Schaffhausen use?
+
+The Platform serves only the following types of cookies to your computer or mobile device: 
+
+  * **Cookies necessary for essential purposes:** These cookies are essential to provide you with services available through this Platform and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like transactional pages and secure login accounts, would not be possible.
+  * **Functionality Cookies:** These cookies serve a variety of purposes related to the presentation, performance and functionality of this Platform. Their overall purpose, however, is to enhance visitors’ experience and enjoyment of this Platform. For example, some of these cookies enable visitors to specify language, product or other platform preferences. 
+  * **Analytics Cookies:** These cookies are used to collect information about how visitors use our Platform. The information gathered does not identify any individual visitor and is aggregated. It includes the number of visitors to our Platform, the platforms that referred them to our Platform and the pages that they visited on our Platform. We use this information to help run our Platform more efficiently, to gather broad demographic information and to monitor the level of activity on our Platform.
+  * **Advertising Cookies:** When you visit our Platform or click on advertisements or promotional areas on the Platform these cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help to evaluate the effectiveness of advertising and promotion. They are usually placed by advertising networks with our permission. They remember that you have visited a platform and this information is shared with other organisations such as advertisers. 
+  * **Content sharing and social networking cookies:** These cookies enable users to share pages and content through third party social networking and other platforms. The companies that serve these cookies may also use your information to serve targeted advertising on other platforms.
+
+
+
+#### How to control or delete cookies
+
+You have the right to choose whether or not to accept cookies and we have explained how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Platform. 
+
+You can set your cookie preferences by changing your browser settings so that cookies from this Platform cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility). 
+
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+#### IP addresses
+
+We may collect information about your computer or mobile device, including where available your IP address, operating system, log in times and browser type. We use this information to better understand how visitors use our Platform and for internal reporting purposes. We may anonymise and share this information with advertisers, sponsors or other businesses.
+
+### About Advertising
+
+The Platforms may use third parties such as network advertisers and ad exchanges to serve you ads on third party platforms after you leave our Platforms, and we may use third party analytics and other service providers to evaluate and provide us and/or third parties with information about the use of the Platforms and viewing of ads and of our content. Network advertisers are third parties that display advertisements, which may be based on your visits to the Platforms and other apps and sites you have visited. Third party ad serving enables us to target advertisements to you for products and services that you might be interested. 
+
+Third party tracking technologies are not controlled by us, even if they are associated with our Platforms or our ads. Statements regarding our practices do not apply to the methods for collecting information used by these third parties and others or the use of the information that such third parties collect. The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices. We make no representations regarding the policies or practices of third party advertisers or advertising networks or exchanges or related third parties. 
+
+You have choices in respect of the delivery of ads. You may opt-out of receiving certain types of behavioural ads by visiting the third party websites described in the section headed _“How to control or delete cookies”_ above. We are not responsible for effectiveness of or compliance with any third parties’ opt-out options.
+
+### Sharing your information
+
+We do not rent, sell or share personal information about you with other people or non-affiliated companies except under the following circumstances: 
+
+  * to third party providers who provide services on our behalf such as online and other payments, processing credit card transactions and handling credit checks and fraud prevention;
+  * we may disclose your personal information to any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party; and
+  * we may disclose your personal information to any third party that purchases, or to which we transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this Privacy Policy.
+
+
+
+### International Transfers
+
+Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated companies or third party service providers are located or maintain facilities. While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy.
+
+### Protecting your information
+
+We want you to feel confident about using our Platform, and we are committed to protecting the personal information we collect. We limit access to personal information about you to employees who reasonably need access to it, to provide products or services to you or in order to do their jobs. We have appropriate technical and organisational physical, electronic, and procedural safeguards to protect the personal information that you provide to us against unauthorised or unlawful processing and against accidental loss, damage or destruction.
+
+### How to edit, delete or access your personal information
+
+You have the right to ask for access to any personal information that we hold about you in our records, to correct any inaccuracies and to update any out-of-date information. You can also ask us not to send you direct marketing communications (however please note that we may continue to send you service related (i.e. non-marketing) communications, such as e-mail updates on your order status). If you wish to exercise any of these rights, please write to us at the address listed below. 
+
+You may unsubscribe from e-mail marketing communications at any time by e-mailing the address below in the section headed _“Contact us”_ or clicking on the ‘unsubscribe’ link in any IWC Schaffhausen marketing e-mails. 
+
+### Contact us
+
+If you have any questions or comments about this Privacy Policy, or privacy matters generally, please contact us at the address provided below. You can also use this address if you wish to request access to the personal data we hold about you or to unsubscribe from any further e-mail marketing communications.
+
+[privacy-policy@iwc.com](mailto:privacy-policy@iwc.com)
+
+[+41 (0)52 235 75 65](tel:+41522357565)
 
 IWC Schaffhausen  
 Branch of Richemont International SA  
-Baumgartenstrasse 15  
-CH-8201 Schaffhausen  
+Baumgartenstrasse 15,   
+CH-8201 Schaffhausen,   
 Switzerland
-
-Other than as stated above, IWC will not use your Personal Information for unsolicited communications. We do not sell, rent or otherwise make available any Personal Information submitted to us to other third parties unless it is to our business partners, our legal advisors or where so required by law or a court decision.
-
-In order to provide certain services we use cookies. These are small text files that the web site transfers to a web site user’s browser for added functionality or for tracking web site usage. We use session cookies. These are saved to the browser only and disappear when the browser is closed. We use permanent cookies when you choose your preferences in order to track these preferences and provide you with customised content. These cookies are retained on your computer. You can reject cookies using your browser preferences or settings. Should you require help, please look for the information in your browser “Help”. Please note that by deactivating cookies, we may not be able to provide the services requested or you may have to re-register each time you visit the web site. For more information on cookies, please see the IWC Terms of Use.
-
-IWC will protect personal data by adequate technical and organisational measures against unlawful processing or disclosure to unauthorized third parties in accordance with the applicable data protection and privacy laws.
-
-Upon written request, IWC will remove your Personal Information from its database thereby cancelling your registration to any of the IWC services. You are also advised that upon written request you may inspect your Personal Information and/or request that any erroneous information about you be corrected, amended or deleted. To help us keep your information up to date, please let us know of any changes.
-
-Any requests relating to your Personal Information as well as any request to cancel your registration for services offered by IWC can be sent by e-mail:
-
-[privacy-policy@iwc.com](mailto:privacy-policy@iwc.com "mailto") or write to us at the following address:
-
-IWC Schaffhausen  
-Branch of Richemont International SA  
-c/o Data Protection  
-Baumgartenstrasse 15  
-CH-8201 Schaffhausen  
-Switzerland
-
-From time to time, IWC may amend this Privacy Statement in accordance with modified legislative obligations and IWC’s business objectives. Our Privacy Statement can be consulted at any time from our Web Site at [www.iwc.com](http://www.iwc.com/ "iwc.com").
-
-Our main database and server is managed and located in Switzerland at Richemont International SA, Global Infrastructure Services, GIS in Fribourg, Switzerland. Our Privacy Statement is exclusively governed by the laws of Switzerland without regard to its conflicts of law provisions. The competent courts of Schaffhausen, Switzerland shall have exclusive jurisdiction over any differences or disputes arising out of or in connection with our Privacy Statement.
-
-IWC trusts that its Privacy Statement demonstrates its commitment to managing your Personal Information in accordance with applicable data protection and privacy laws in such a way as to fully protect your privacy. From time to time, IWC may amend this Privacy Policy in accordance with modified legislative obligations and IWC’s business objectives.
-
-**Date: 1st July, 2010**
