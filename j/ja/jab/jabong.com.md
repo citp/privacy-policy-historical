@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231132708id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151538id_/http%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jabong.com
 
@@ -87,3 +87,7 @@ terms and conditions
 [ vendors code of conduct ](https://web.archive.org/vendor-code-conduct)
 
 vendors code of conduct
+
+[ Offers Terms and Conditions ](https://web.archive.org/offers-terms-and-conditions)
+
+Offers Terms and Conditions
