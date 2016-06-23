@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bazaarandroid.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927072320id_/http%3A//www.aptoide.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarandroid.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623190049id_/http%3A//www.aptoide.com/page/privacy) for the most accurate reproduction.*
 
-# Aptoide - Android Apps Store
+# Aptoide - Privacy Policy
 
 Aptoide provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of aptoide.com (this "Site") and our Android Marketplace Application.  
 This Privacy Policy applies only to information that you provide to us through this Site or through our Android Marketplace Application. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
