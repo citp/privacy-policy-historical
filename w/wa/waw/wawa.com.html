@@ -1,28 +1,43 @@
-<!--The following is the downloaded HTML source of the wawa.com privacy policy that was archived on 2015-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151007190916id_/https%3A//www.wawa.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wawa.com privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623234214id_/https%3A//www.wawa.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head id="ctl00_Head1"><title>
 	Wawa - Privacy Policy
-</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="description"><meta name="keywords"><meta name="author"><meta name="HandheldFriendly" content="true"><meta name="MobileOptimized" content="width"><meta name="viewport" content="width=device-width, target-densityDpi=160dpi, initial-scale=1"><meta name="apple-mobile-web-app-capable" content="yes"><link rel="shortcut icon" href="images/wawa.web/favicon.ico"><link rel="apple-touch-icon" href="images/wawa.web/apple-touch-icon.png"><link rel="stylesheet" href="cms_docs/styles.css?v=1" type="text/css" media="screen, print"><link rel="stylesheet" href="cms_docs/flexslider.css" type="text/css" media="screen"><link rel="stylesheet" href="cms_docs/responsive.css?v=1" type="text/css" media="screen"><link rel="stylesheet" href="cms_docs/webparts.css" type="text/css" media="screen"><link rel="stylesheet" href="//s3.amazonaws.com/Wawa.com/sliderkit-core.css" type="text/css" media="screen">
-        <!--[if IE 7 ]>
-        <link rel="stylesheet" href="cms_docs/ie7_fix.css" type="text/css" media="screen" />
-        <![endif]-->
-        <!--[if IE 8 ]>
-        <link rel="stylesheet" href="cms_docs/ie8_fix.css" type="text/css" media="screen" />
-        <![endif]-->
+</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="description"><meta name="keywords"><meta name="author"><meta name="HandheldFriendly" content="true"><meta name="MobileOptimized" content="width"><meta name="viewport" content="width=device-width, target-densityDpi=160dpi, initial-scale=1"><meta name="apple-mobile-web-app-capable" content="yes"><link rel="shortcut icon" href="images/wawa.web/favicon.ico"><link rel="apple-touch-icon" href="images/wawa.web/apple-touch-icon.png"><link rel="stylesheet" href="cms_docs/styles.css?v=1" type="text/css" media="screen, print"><link rel="stylesheet" href="cms_docs/flexslider.css" type="text/css" media="screen"><link rel="stylesheet" href="cms_docs/responsive.css?v=1" type="text/css" media="screen"><link rel="stylesheet" href="cms_docs/webparts.css" type="text/css" media="screen"><link rel="stylesheet" href="//s3.amazonaws.com/WawaPromotions/2015/reskin/css/jquery.mmenu.css" type="text/css" media="screen"><link rel="stylesheet" href="//s3.amazonaws.com/WawaPromotions/2015/reskin/css/jquery.mmenu.pageshadow.css" type="text/css" media="screen">
 
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PGHSP9"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	    <script>window.jQuery || document.write('<script src="scripts/wawa.web/jquery-1.7.1.min.js"><\/script>')</script><script src="scripts/wawa.web/jquery-1.7.1.min.js"></script>
 	    <script src="scripts/wawa.web/modernizr-2.6.2.min.js"></script>
-        <script src="scripts/wawa.web/jquery.sliderkit.1.9.2.js"></script>
+        <script src="//s3.amazonaws.com/WawaPromotions/2015/reskin/js/jquery.mmenu.min.js"></script>
 	    <script src="scripts/wawa.web/dwstate.js"></script>
 	    <script src="scripts/wawa.web/scripts.js"></script>
         <script src="scripts/wawa.web/jquery.validate.min.js"></script>
         <script src="scripts/wawa.web/additional-methods.min.js"></script>
 	    <script src="scripts/wawa.web/jquery.flexslider-min.js"></script>
 	    <script type="text/javascript">
+	        var homeslider;
+	        var slideshow = true;
 	        $(window).load(function () {
-	            $('.flexslider').flexslider({ touch: true, video: false });
+	            $('.flexslider#hero').flexslider({
+	                touch: true,
+	                video: false,
+	                after: function () {
+	                    var currentLinkTitle = $(".flex-active-slide a").attr("title");
+	                    if (slideshow == true) {
+	                        _gaq.push(['_trackEvent', 'HP Hero Carousel', 'Auto-Play Switch', homeslider.currentSlide.toString() + " | " + currentLinkTitle, , true]);
+	                    } else {
+	                        _gaq.push(['_trackEvent', 'HP Hero Carousel', 'Manual Switch', homeslider.currentSlide.toString() + " | " + currentLinkTitle]);
+	                    }
+	                }
+	            });
+	            homeslider = $(".flexslider#hero").data("flexslider");
+	            $(".flexslider#hero .flex-control-nav a").on("click", function () {
+	                slideshow = false;
+	            });
+	            $(".flexslider#hero .slides a").on("click", function () {
+	                var linkTitle = $(this).attr("title");
+	                _gaq.push(['_trackEvent', 'HP Hero Carousel', 'Click', homeslider.currentSlide.toString() + " | " + linkTitle]);
+	            });
 	        });
 	    </script>
 		<script>
@@ -53,18 +68,6 @@
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
         </script>
-        <!-- KC tags ARCHER2 -->
-        <script type="text/javascript">
-            (function () {
-                var s = document.createElement('script');
-                window.vocVar = (window.vocVar || 'voc504f8b5b42ee5');
-                s.type = 'text/javascript';
-                s.async = true;
-                s.src = ('https:' == document.location.protocol ? 'https://archerv2' : 'http://archerv2') + '.voice-of-customers.com/script/voc504f8b5b42ee5.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
-            })();
-        </script><script type="text/javascript" async="" src="https://archerv2.voice-of-customers.com/script/voc504f8b5b42ee5.js"></script>
-        <!-- KC ARCHER2 tags END -->
         </head>
     <body>
     <!-- Google Tag Manager -->
@@ -81,14 +84,14 @@
     <!-- End Google Tag Manager -->
     <div id="fb-root"></div>
         
-        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+        <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
 <div>
 <input type="hidden" name="__WPPS" id="__WPPS" value="s">
 <input type="hidden" name="ctl00_Header1_ajaxScriptManager_HiddenField" id="ctl00_Header1_ajaxScriptManager_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+aCbQY8r2D1AguIA4eXkr4hGuteYBZzuqiMcM8MkRPs3nQZGQW0NpUhZXETN2FVm9Usc5GGsFWupyaS3yCHmkd6yDPvJvHeQcF5wxezG2YRyakAUgJvLcxkaHLxxnY6rh43WSKlB+bSRR7HL4JGn3Qnjutr25UdVCh9cZCYyWlYsR769J5O5v6gCmfE+IgzC2zqWuA3j/cEXs45FQoIc6S0nEIORmO8LsUgzhd298BwRLtdY154vw/VQdIWwS2igqKPzZdZn6H6g7nvO8X2E5Ya5xiM06iBte10rKaZ9tcAhO9Na1VoF4bgu2J3LnnxUlTaP9jlCDWggkiTPrpmo3LGKkuSOcD6Nwj/aKqD9g+5452SXpYIDb9RqyQYvzU6y6C/mF+LfD0ILeDPo4MSyNSXcq/ryN6IwtywpBq0K+ly/nHzb/qWkItA28bqv4XEyCtK2sASCygzGlArh4yH3cXRmUfNekrUvhV2AfVCkNqdKekGDtxRn5YgH46XgCgUaxCD8SYUY+q4kdxcrvrRUt/PRbHyZB3HG1Sgb5EH8bqabZ0CWDSUwVzJqz34qhvKOm8l4FoIkkm4APvMUiqXi7iBAm0NH7L4Ox/4U4DeD2DsrNIO+3giC/sbXzahVp866eXsjkEAolmEcwsFzptMIdlbTmmAIGdCk4l5aLYencKo31ROvaoj6hocRG26nQQ68CK0d1GzERgwdUBuxJSvuEgQWx1ChAoM3TcqXdxbFUcuEXgjDF+tUiVT6mPSyJwyfiDKX+Bqd4lHUS4TkmVSayC0Yncth0hFJgtWqoHX8BaN5IT4Fz1hGF75+NI9mtIx1e33tjNX1KprvNKSg/llHYhTQJ70uSqr8LZW+PFaAC/+fn1jotnFzVk9bvv4HyB2Vyav50EoWqYEb1vrxpdzpq04LZ+2NPO7GqfL0llAq7T4f+Ttfa3qoX55Q2psptto1q9CrIzp0xS6Ruuk8bLcrnVyc6hDSlDPw5bjoq+TFcz93+uwhimRc0BsgPwl0MVEH1KewScn3qKZsLHWrMuk/EQWMgks5vBdMAiPPNB8cVn3DwaIEQJjF1YozZubo2IVXO05J1JmThnQ4PzemDfjpCykqnfTi0AoSreQLY0//EzrY4oFxNtxho0JW7VduF3WLltVLILTLoZlsD4qD+Ca5hpBBfJR+IuKXkrsbOBUuyLZxRu1w6+U7IHo5k6cUkgLu8YPFHpu5Dqt/bM6/+RKasc9EbqFbJay7m9zooxJtr2bf4zuGPnn3gV0CqRaXhmYGIXda6w==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/6UCgotxV/IDEjFRQTMM2Ih5ynAk06h4A65PHH0woaPAB7Mf+t3UFwGCufMcDf9A0OSCpvTQGjRfPSvYmYUkpK0J+X/Z82U/MkHwCXUBn5KFlGfRj/w/0sg1XHqBHIHlWQ+Tnc+EoSGuw439kpM4rMNVje8zEvTrVDQPkaWrRcVPWr87nCU0+pb+glkOwcTJ9XTcdbwnwkuFDKzlew88lr8zO4ZjHcRAIFOPM9jkQPaCaf3wTGY43tl4RFGgc98Uz9k8uGZONcZ1wRS4xP+L5HVpeWfbBy6eXvtOO4d8w36gT6JK0Z/oSwHawjWKzr7aqnBmJuwKACJ11uEyGxqAHtKovOaZOJW9czsF1Mh5d7po3IeQvtoUqoGsHWDjeaf2jrRKbtqbU1Jo+eN3Mqu9uOMUehUvI8ef44hA2bCzkfxhstiJyK7oqbh3Fe+Xjjc8aTqPMkbajn/QoGqI64jo6CGvbb5+7pCugiy8xDWUOWAjY9MeEB3uvckOEvEwylYTh4seRcbyPj51rS2bvCykr0hTC9upZa0jNv+yXi9LM0IESjfdwkPKG8nzg5WU26HyywPrf3285cXptAck8j+GEjEI0l4dm63KG2G1mZ9jrpUBqWc9SJctlpo1/SSFrz3yV18gRt9rSUN5tBgLQtpm+NzLTrjNGKmtjzFMz+QPZRWWZItOhNUREvqOyeOkZN3SaZViLTFQp4kOFAX2SFSPObBnCJLRbtUhMq6JU78MDe643a7zduTsXJyOpkn/tOWIDxFlx9TyVPXCMjvdjGNEVWte69IGh/ulOdM0TjVnwOQpS6dFo2W1GjUZAnHzmcAly4jvQ1Xdhd9skjUtKNJAGnBckPJs0qAuQVgT6fBWRKqoJ7yIS6dSMjhL3JwSDmWWKbZt87xpZXv5zKTnA0XZcFNBCFVHxNjOg9Of2ttZNJrj8M9bdtvUMzevivYS3ybdOE1RvkSGRQpvACBAV4hqhm3fQV8KBrAJ8bY7AfQ5JkTrnnC3mlpotZZVlHBL/75FZSQkGi4LoVc7CYBUMYiK+R48PLWrMQY44obWudFNZzG1HuiBOc/y4EkkyHnEXwRSCsLfVEFbXrgKOhOx6VZraiuVcmKoNs+91z2Cdj+6ZQEuemssyguXDY+fk+4Fz0PMGpz+P5tDiaz3Fb6QB/fr3tuXc+JpcdJioWDIT8WhHjx7WHcMlDOaYrYDjZWK+pbjpH9MWsOim72rSeOXpA6IBeiy6y97S4xS/wMgzGZG3czF85duY9LLShDju9x2hmvvmvZMtZDBC7OlmmXD5D7JqLo8QBBybEblZbBNYgmKpgqX1wiFthCLHkvwCrpPAGxIn30ruVQiJcyQT0A5pGp4hUN0eD+Wq47c3NDVCoNQ0nLIYH5FunSbBDwqTcG0lZ956GLeFw2LnBtKtPel6wM2C0aeYgxRcLlZjEGhYqLubVbBKkdWNGaVtB73QQ8cL31HTXQyFpKmdEAiJxg0y0xB6laLEHA8/Iwa8SzIjnpgAB6PIR0wUHR9uK7mLX/2OaDqprX6uCWIxMJd9o6jWqC9uiKMOzmMrZ0WdpsDAICL2c+ogj19bkwLqkq94iBcGz/D6t7M5CrWMoajbD0dEpAVBjHTeGYN+stvsNinzS7BGg4MORId+Idh1rXL45rvGWdbU2b1q50RrOOOSmv+huPAD5k2SEH5qfP4nhC2+OCdM2TGw0TWpZe4KQeOo3K7oyb5QedEb/FRKROG/Zdmcj+B3mIxksbAl8EfAihUijNX80DXHFTGDMcIxlZi6O6eaePZCfg5g9yM2I6sChkdx+zVolYezsHL+hBiDwJxGO4ws8EpXU9C">
 </div>
 
 <script type="text/javascript">
@@ -108,16 +111,17 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=YdjXZ4HIogw5vpqPNQBlC9BeVUod5eVIkSyC15RLF0yxX7jU1CBO1tDJkQJnaPycVem7DvozHkgmkJPgajFmxxpL-gk1&amp;t=635195457660000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=sROcwll5Dw2hn76OgHAOl5l4IE_6gxLfd8ctRGlc9LYuxJucfN1YqNoM-_eGxEyI6EorXO0ExuRqSgv8HrdyAARTwmk1&amp;t=635802997220000000" type="text/javascript"></script>
 
 <!-- Keyoti2.SearchEngine.Web, Version=2010.4.14.1118, Culture=neutral, PublicKeyToken=58d9fd2e9ec4dc0e-->
-<script src="/ScriptResource.axd?d=xbqY5hY_G1wc8cIORPlm3Bc7zfV8U4UhXy8cTzIo2Q9FR993zpv7mL8lKqrowPi9sV0pHnBxRJja8XfO78gf-fqwQDymQBsY9ne48_z1FPnuLrVPOWWiPMqF6iBXEBtBG8Kd0cxjHh53fzdZUTYLRnKLSPU1&amp;t=ca758f3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Q7RB3z5S-mQDhDUNwSAFCuAs1zim8vuEwB88lR0kqb1doBEGb5l3XrOVA0caK3O_DQcoSZvcyudILUkSTDmsxpMJd2Usc87wJcLmvusfnUHjm_Na5egxxqyoIzmqLOD9dMA1P_c75M9-BR_9NQD9ZG1sSOZBx22v6MB4nYwIPIGk4dla0&amp;t=ca758f3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=pnps4hpkf_SJuKIQLFuanbKDZ-8O5wvpnxKwk6X13nKRT2uUnYEVdLNIENqiqSxWKGzg4NwwjDRbftR2p3YP3epcwJml3NOJzHhUvB1VOoKwdfLSIGIoiUmoUTdgkrgVLYnBmg2&amp;t=6fd2091f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=K2-vlSEDvBYX08V50DWASU6_OnESp2mHgT7vXds8J3l86qVvuUKTJqgxhBCnx6uG1-o2PstCo-gqn3sFqScxxlSYXVmRJTuzxdPglKGIp5cYF-qgUsPhcnwtzePum6wrxBnv7w2&amp;t=6fd2091f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=6IawwR57UypgwFnvUIWjW4mKTxuxwP1fGBzxI9kVy_HBQipGDuab1Winx7XEbYu9IHyTp7BC-s7WvJ2VFL_EXOLX-MModROnL1_VP6K6EjzJeHpylXsB8YIyQSrW85jEw_hLmg2&amp;t=2ff408ce" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PMeZn7YftVw93pt3ewxPdZSPZdiNjo0qDtfxLc838H7869cy9N7ijeu_ynsxw-DjfAieV-rLKhujtYe-NY7E0lJoQPiXe-pehs9hsAGY3L_e9JVBDgHn0LjFu5RnAjLWStFfBe0WOfuZzq8NwbxSDXKcGkY1&amp;t=5f9d5645" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=B4T8RwmoCFNbWPaYrkF-MGKO-rx8rCrXHs83LbyvWDZJpVjj5S238ScNpWoadkWRCG7PS0k8MWBzJC58aBaS_vPdo7FsbtjdwR1DgVd3FQuM86b3O8Y2QuFfZRYJmm-5iuhejwwxyKv_9k9Nu3qg4LNUfpZ8-R65t1oO-RXv38c6lhur0&amp;t=5f9d5645" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=S-pR3Fnu8SA4T4O-_7Kfuhaoi2HvxCyaKfHHspH17N9bbNldEt3PZMaLKFVE_Afc8gz2cnw0jFvKQ6sQ0V9t0Sz1qGKLcLPkWzhF-e8Zx2c6S89FIDRoG4QvKnZ5blELxVrBTQ2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=enx3dapTQV-g23ib2-AytmusH-s0IhNz9I1vZ7sOgwfcGE5xvHRCTOLggt2ZhxAFDxRIt-br7SYDfwNgMRKkZzNrm-0PxqXVy93NIoMOnDCZUgoXlSFjSwIIdIpn78laxS_lHg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EATXw6Z5aC6_NKEKVcQ6MaXfbX_xCNVLuAZLg_ahuekRu73t1xqHeu1XewG5QHfQQ_YUW_6AaRWL8DlpIEEv_yQ5Wb3GwiLolIF8uOf-AmT293Drgis-GRgiwSnIf-Txe8zi_w2&amp;t=91f913a" type="text/javascript"></script>
 <div>
 
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
 </div>
             
@@ -126,6 +130,140 @@ function __doPostBack(eventTarget, eventArgument) {
                      
             </div>
             
+<div class="hide">
+    <nav id="menu">
+	    <ul id="nav-m">
+            <li>
+                <a id="ctl00_NavigationMobile1_navHome" title="Home" href="./">Home</a>
+            </li>
+            <li>
+                <a id="ctl00_NavigationMobile1_navLocations" title="Locations &amp; Fuel Prices" href="StoreLocator.aspx">Locations &amp; Fuel Prices</a>
+            </li>
+            <li>
+                <a id="ctl00_NavigationMobile1_navWawaRewards" title="Wawa Rewards" onclick="window.open(_tracker._getLinkerUrl($(this).attr('href')));return false;" href="//www.wawarewards.com">Wawa Rewards</a>
+                <span class="ext-icon"></span>
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navFreshFood" title="Fresh Food" href="Freshfood.aspx">Fresh Food</a>
+			    <ul class="subnav">
+				    <li><a id="ctl00_NavigationMobile1_navBreakfast" title="Breakfast" href="Breakfast.aspx">Breakfast</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navBowls" title="Soups, Sides &amp; Bowls" href="Bowls.aspx">Soups, Sides &amp; Bowls</a></li>
+                    <li><a id="ctl00_NavigationMobile1_navHoagiefest" title="Hoagiefest" href="Hoagiefest.aspx">Hoagiefest</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navHoagies" title="Hoagies &amp; Sandwiches" href="Hoagies.aspx">Hoagies &amp; Sandwiches</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navSaladsWraps" title="Salads &amp; Wraps" href="SaladsWraps.aspx">Salads &amp; Wraps</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navSnacks" title="Snacks" href="Snacks.aspx">Snacks</a></li>
+			    </ul>
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navBeverages" title="Coffee &amp; Beverages" href="Beverages.aspx">Coffee &amp; Beverages</a>
+			    <ul class="subnav">
+				    <li><a id="ctl00_NavigationMobile1_navCoffee" title="Freshly Brewed Coffee" href="Coffee.aspx">Freshly Brewed Coffee</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navBottled" title="Bottled Beverages" href="Bottled.aspx">Bottled Beverages</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navCold" title="Frozen Blended Beverages" href="Frozen.aspx">Frozen Blended Beverages</a></li>
+                    <li><a id="ctl00_NavigationMobile1_navLatte" title="Lattes &amp; More" href="Lattes.aspx">Lattes &amp; More</a></li>
+			    </ul>
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navDairy" title="Dairy" href="Dairy.aspx">Dairy</a>
+			    <ul class="subnav">
+				    <li><a id="ctl00_NavigationMobile1_navDairyHeritage" title="Dairy Heritage" href="DairyHeritage.aspx">Dairy Heritage</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navWawaMilk" title="Wawa Milk" href="WawaMilk.aspx">Wawa Milk</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navIceCream" title="Ice Cream" href="IceCream.aspx">Ice Cream</a></li>
+			    </ul>
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navNutrition" title="Nutrition" href="Nutrition.aspx">Nutrition</a>
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navWawaFuel" title="Fuel" href="Fuel.aspx">Fuel</a>
+			    <ul class="subnav">
+				    <li><a id="ctl00_NavigationMobile1_navFuelFaqs" title="FAQs" href="FuelFaqs.aspx">FAQs</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navFuelGuarantee" title="Fuel Quality Guarantee" href="FuelGuarantee.aspx">Fuel Quality Guarantee</a></li>
+                    <li><a href="/wawacreditcard/?source=WD32" title="Wawa Credit Card">Wawa Credit Card</a></li>
+                    <li><a id="ctl00_NavigationMobile1_navWawaFleet" title="Commercial Fleet Program" href="http://www.wawafleet.com/?promoCode1=W3A" target="_blank">Commercial Fleet Program</a></li>
+			    </ul>                
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navAboutWawa" title="About Wawa" href="About.aspx">About Wawa</a>
+			    <ul class="subnav">
+                    <li><a id="ctl00_NavigationMobile1_navLocation" title="Locations" href="Locations.aspx">Locations</a>
+                        <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navStoreLocator" title="Find a Wawa" href="StoreLocator.aspx">Find a Wawa</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navComingSoon" title="Coming Soon" href="ComingSoon.aspx">Coming Soon</a></li>
+                            <li><a id="ctl00_NavigationMobile1_navGrandOpenings" title="Grand Openings" href="StoreGrandOpenings.aspx">Grand Openings</a></li>
+                            <li><a id="ctl00_NavigationMobile1_navRemodels" title="Store Remodels" href="/Remodels.aspx">Store Remodels</a></li>
+                        </ul>
+				    </li>
+                    <li><a id="ctl00_NavigationMobile1_navMobileApp" title="Wawa Mobile App" href="MobileApp.aspx">Wawa Mobile App</a></li>
+                    <li><a id="ctl00_NavigationMobile1_navWawaTimeline" title="Wawa Timeline" href="WawaTimeline.aspx">Wawa Timeline</a></li>
+				    <li><a id="ctl00_NavigationMobile1_navCommunity" title="Community" href="Community.aspx">Community</a>
+                        <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navFundraising" title="Fundraising" href="Fundraising.aspx">Fundraising</a></li>
+                            <li><a id="ctl00_NavigationMobile1_navFundraisingFAQs" title="Fundraising FAQs" href="/FAQs.aspx?c=fundraising">Fundraising FAQs</a></li>
+                        </ul>
+				    </li>
+				    <li><a id="ctl00_NavigationMobile1_navPublicRelations" title="Public Relations" href="PublicRelations.aspx">Public Relations</a>
+					    <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navNews" title="Press Releases &amp; News" href="PressReleases.aspx">Press Releases &amp; News</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navGallery" title="Gallery" href="Gallery.aspx">Gallery</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navFaqs" title="Frequently Asked Questions" href="Faqs.aspx">FAQs</a></li>
+                        </ul>
+				    </li>
+				    <li><a id="ctl00_NavigationMobile1_navRealEstate" title="Real Estate" href="realestate/RealEstate.aspx">Real Estate</a>
+					    <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navReAboutUs" title="About Us" href="realestate/AboutUs.aspx">About Us</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navRePropertiesForSale" title="Available Properties" href="realestate/PropertiesForSale.aspx">Available Properties</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navRePropertiesLogin" title="Properties Login" href="realestate/Login.aspx">Properties Login</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navReSiteSubmission" title="Submit A Site" href="realestate/SiteSubmission.aspx">Submit a Site</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navReFaqs" title="FAQs" href="realestate/FAQs.aspx">FAQs</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navReContactUs" title="Contact Real Estate" href="realestate/ContactUs.aspx">Contact Real Estate</a></li>
+                        </ul>
+				    </li>
+				    <li><a id="ctl00_NavigationMobile1_navWholesale" title="Wholesale" href="Wholesale.aspx">Wholesale</a>
+					    <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navWholesaleForm" title="Wholesale Form" href="WholesaleForm.aspx">Wholesale Form</a></li>
+						    <li><a id="ctl00_NavigationMobile1_navWholesaleCoffeeForm" title="Office Coffee" href="WholesaleCoffeeForm.aspx">Office Coffee</a></li>
+                        </ul>
+				    </li>
+				    <li><a id="ctl00_NavigationMobile1_navVendors" title="Vendors" href="Vendors.aspx">Vendors</a></li>
+                    <li><a id="ctl00_NavigationMobile1_navEaglesSweeps" title="Eagles Partnership" href="EaglesSweeps.aspx">Eagles Partnership</a></li>
+				    <li>
+                        <a id="ctl00_NavigationMobile1_navPromotions" title="Promotions" href="Promotions.aspx">Promotions</a>
+                        <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navPromotionsWelcomeAmerica" title="Welcome America!" href="WelcomeAmerica.aspx">Welcome America!</a></li>
+                        </ul>
+				    </li>
+			    </ul>
+            </li>
+		    <li>
+                <a id="ctl00_NavigationMobile1_navCareers" title="Careers" href="Careers.aspx">Careers</a>
+			    <ul class="subnav">
+                    <li><a id="ctl00_NavigationMobile1_navWorkAtWawa" title="Why Work at Wawa?" href="WorkAtWawa.aspx">Why Work at Wawa?</a></li>
+                    <li>
+                        <a id="ctl00_NavigationMobile1_navStudentsAndGrads" title="Students &amp; Recent Graduates" href="StudentsAndGraduates.aspx">Students &amp; Recent Graduates</a>
+                        <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navCareerEvents" title="Career Events" href="CareerEvents.aspx">Career Events</a></li>
+                        </ul>
+                    </li>
+                    <li><a id="ctl00_NavigationMobile1_navStoreOpportunities" title="Store Opportunities" href="StoreOpportunities.aspx">Store Opportunities</a></li>
+                    <li><a id="ctl00_NavigationMobile1_navCorporateOpportunities" title="Corporate Opportunities" href="CorporateOpportunities.aspx">Corporate Opportunities</a></li>
+                    <li>
+                        <a id="ctl00_NavigationMobile1_navApplicantHelp" title="Applicant Help" href="ApplicantHelp.aspx">Applicant Help</a>
+                        <ul class="subnav">
+                            <li><a id="ctl00_NavigationMobile1_navCareersContact" title="Contact" href="CareersContact.aspx">Contact</a></li>
+                        </ul>
+                    </li>
+			    </ul>
+            </li>
+		    <li>
+                <a onclick="return trackStoreLink(true, 'https://store.wawa.com');">Shop Online</a>
+                <ul class="subnav">
+                    <li><a href="/CardBalance.aspx" title="Check Wawa Gift Card Balance">Check Wawa Gift Card Balance</a></li>
+                </ul>
+            </li>
+	    </ul>
+    </nav>
+</div>
             <section id="wrapper" class="main">
                 <script type="text/javascript">
 //<![CDATA[
@@ -137,6 +275,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
 
 <div style="display:none;" aria-label="for-help-with-accessibility">If you cannot access this information, please call 1.800.444.9292 for assistance</div>
 <header class="main">
+    <a class="toggle-button" href="#menu"></a>
+    <a href="/StoreLocator.aspx" class="locator-button-m"></a>
 	<div id="logo"><a href="/Default.aspx" title="Wawa">Wawa</a></div>
     <nav class="main">
 	    <div class="nav-collapse">
@@ -147,6 +287,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                         <li class="top-item-hide"><a href="/Freshfood.aspx" class="mobile-nav-top-item" title="Freshfood" aria-hidden="true">Freshfood</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navBreakfast" title="Breakfast" href="Breakfast.aspx">Breakfast</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navBowls" title="Soups, Sides &amp; Bowls" href="Bowls.aspx">Soups, Sides &amp; Bowls</a></li>
+                        <li><a id="ctl00_Header1_HeaderA_navHoagiefest" title="Hoagiefest" href="Hoagiefest.aspx">Hoagiefest</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navHoagies" title="Hoagies &amp; Sandwiches" href="Hoagies.aspx">Hoagies &amp; Sandwiches</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navSaladsWraps" title="Salads &amp; Wraps" href="SaladsWraps.aspx">Salads &amp; Wraps</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navSnacks" title="Snacks" href="Snacks.aspx">Snacks</a></li>
@@ -162,7 +303,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                         <li><a id="ctl00_Header1_HeaderA_navLatte" title="Lattes &amp; More" href="Lattes.aspx">Lattes &amp; More</a></li>
 				    </ul>
                 </li>
-			    <li id="nav_dairy" class="mnav_item">
+			    <li id="nav_dairy">
                     <a id="ctl00_Header1_HeaderA_navDairy" title="Dairy" href="Dairy.aspx">Dairy</a>
 				    <ul class="subnav">
                         <li class="top-item-hide"><a href="/Dairy.aspx" class="mobile-nav-top-item" title="Dairy" aria-hidden="true">Dairy</a></li>
@@ -170,9 +311,6 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
 					    <li><a id="ctl00_Header1_HeaderA_navWawaMilk" title="Wawa Milk" href="WawaMilk.aspx">Wawa Milk</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navIceCream" title="Ice Cream" href="IceCream.aspx">Ice Cream</a></li>
 				    </ul>
-                </li>
-			    <li id="nav_btnmore" class="mnav_item" data-toggle="collapse" data-target=".nav-collapse" aria-hidden="true">
-                    <a id="ctl00_Header1_HeaderA_navMore" title="More"><span></span></a>
                 </li>
 			    <li id="nav_nutrition">
                     <a id="ctl00_Header1_HeaderA_navNutrition" title="Nutrition" href="Nutrition.aspx">Nutrition</a>
@@ -183,6 +321,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                         <li class="top-item-hide"><a href="/Fuel.aspx" class="mobile-nav-top-item" title="Fuel" aria-hidden="true">Fuel</a></li>
 					    <li><a id="ctl00_Header1_HeaderA_navFuelFaqs" title="FAQs" href="FuelFaqs.aspx">FAQs</a></li>
 				        <li><a id="ctl00_Header1_HeaderA_navFuelGuarantee" title="Fuel Quality Guarantee" href="FuelGuarantee.aspx">Fuel Quality Guarantee</a></li>
+                        <li><a href="/wawacreditcard/?source=WD32" title="Wawa Credit Card">Wawa Credit Card</a></li>
                         <li><a id="ctl00_Header1_HeaderA_navWawaFleet" title="Commercial Fleet Program" href="http://www.wawafleet.com/?promoCode1=W3A" target="_blank">Commercial Fleet Program</a></li>
 				    </ul>                
                 </li>
@@ -190,7 +329,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                     <a id="ctl00_Header1_HeaderA_navAboutWawa" title="About Wawa" href="About.aspx">About Wawa</a>
 					<ul class="subnav">
                         <li class="top-item-hide"><a href="/About.aspx" class="mobile-nav-top-item" title="About Wawa" aria-hidden="true">About Wawa</a></li>
-                        <li><a id="ctl00_Header1_HeaderA_navLocation" title="Locations" href="Locations.aspx">Locations</a>
+                        <li><a id="ctl00_Header1_HeaderA_navLocation" class="has-sub" title="Locations" href="Locations.aspx">Locations</a>
                             <ul class="subnav">
                                 <li class="top-item-hide"><a href="/Locations.aspx" class="mobile-nav-top-item" title="Locations" aria-hidden="true">Locations</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navStoreLocator" title="Find a Wawa" href="StoreLocator.aspx">Find a Wawa</a></li>
@@ -199,16 +338,16 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                                 <li><a id="ctl00_Header1_HeaderA_navRemodels" title="Store Remodels" href="/Remodels.aspx">Store Remodels</a></li>
                             </ul>
 						</li>
-                        <li><a onclick="_gaq.push(['_link', this.href]);return false;" id="ctl00_Header1_HeaderA_navMobileApp" title="Wawa Mobile App" href="//www.wawa.com/MobileApp.aspx">Wawa Mobile App</a></li>
+                        <li><a id="ctl00_Header1_HeaderA_navMobileApp" title="Wawa Mobile App" href="MobileApp.aspx">Wawa Mobile App</a></li>
                         <li><a id="ctl00_Header1_HeaderA_navWawaTimeline" title="Wawa Timeline" href="WawaTimeline.aspx">Wawa Timeline</a></li>
-					    <li><a id="ctl00_Header1_HeaderA_navCommunity" title="Community" href="Community.aspx">Community</a>
+					    <li><a id="ctl00_Header1_HeaderA_navCommunity" class="has-sub" title="Community" href="Community.aspx">Community</a>
                             <ul class="subnav">
                                 <li class="top-item-hide"><a href="/Community.aspx" class="mobile-nav-top-item" title="Community" aria-hidden="true">Community</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navFundraising" title="Fundraising" href="Fundraising.aspx">Fundraising</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navFundraisingFAQs" title="Fundraising FAQs" href="/FAQs.aspx?c=fundraising">Fundraising FAQs</a></li>
                             </ul>
 						</li>
-						<li><a id="ctl00_Header1_HeaderA_navPublicRelations" title="Public Relations" href="PublicRelations.aspx">Public Relations</a>
+						<li><a id="ctl00_Header1_HeaderA_navPublicRelations" class="has-sub" title="Public Relations" href="PublicRelations.aspx">Public Relations</a>
 							<ul class="subnav">
                                 <li class="top-item-hide"><a href="/PublicRelations.aspx" class="mobile-nav-top-item" title="Public Relations" aria-hidden="true">Public Relations</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navNews" title="Press Releases &amp; News" href="PressReleases.aspx">Press Releases &amp; News</a></li>
@@ -216,7 +355,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
 								<li><a id="ctl00_Header1_HeaderA_navFaqs" title="Frequently Asked Questions" href="Faqs.aspx">FAQs</a></li>
                             </ul>
 						</li>
-						<li><a id="ctl00_Header1_HeaderA_navRealEstate" title="Real Estate" href="realestate/RealEstate.aspx">Real Estate</a>
+						<li><a id="ctl00_Header1_HeaderA_navRealEstate" class="has-sub" title="Real Estate" href="realestate/RealEstate.aspx">Real Estate</a>
 							<ul class="subnav">
                                 <li class="top-item-hide"><a href="/realestate/RealEstate.aspx" class="mobile-nav-top-item" title="Real Estate" aria-hidden="true">Real Estate</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navReAboutUs" title="About Us" href="realestate/AboutUs.aspx">About Us</a></li>
@@ -227,7 +366,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
 								<li><a id="ctl00_Header1_HeaderA_navReContactUs" title="Contact Real Estate" href="realestate/ContactUs.aspx">Contact Real Estate</a></li>
                             </ul>
 						</li>
-						<li><a id="ctl00_Header1_HeaderA_navWholesale" title="Wholesale" href="Wholesale.aspx">Wholesale</a>
+						<li><a id="ctl00_Header1_HeaderA_navWholesale" class="has-sub" title="Wholesale" href="Wholesale.aspx">Wholesale</a>
 							<ul class="subnav">
                                 <li class="top-item-hide"><a href="/Wholesale.aspx" class="mobile-nav-top-item" title="Wholesale" aria-hidden="true">Wholesale</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navWholesaleForm" title="Wholesale Form" href="WholesaleForm.aspx">Wholesale Form</a></li>
@@ -235,8 +374,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                             </ul>
 						</li>
 						<li><a id="ctl00_Header1_HeaderA_navVendors" title="Vendors" href="Vendors.aspx">Vendors</a></li>
+                        <li><a id="ctl00_Header1_HeaderA_navEaglesSweeps" title="Eagles Partnership" href="EaglesSweeps.aspx">Eagles Partnership</a></li>
 						<li>
-                            <a id="ctl00_Header1_HeaderA_navPromotions" title="Promotions" href="Promotions.aspx">Promotions</a>
+                            <a id="ctl00_Header1_HeaderA_navPromotions" class="has-sub" title="Promotions" href="Promotions.aspx">Promotions</a>
+                            <ul class="subnav">
+                                <li><a id="ctl00_Header1_HeaderA_navPromotionsWelcomeAmerica" title="Welcome America!" href="WelcomeAmerica.aspx">Welcome America!</a></li>
+                            </ul>
 						</li>
 					</ul>
                 </li>
@@ -246,7 +389,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                         <li class="top-item-hide"><a href="/Careers.aspx" class="mobile-nav-top-item" title="Careers" aria-hidden="true">Careers</a></li>
                         <li><a id="ctl00_Header1_HeaderA_navWorkAtWawa" title="Why Work at Wawa?" href="WorkAtWawa.aspx">Why Work at Wawa?</a></li>
                         <li>
-                            <a id="ctl00_Header1_HeaderA_navStudentsAndGrads" title="Students &amp; Recent Graduates" href="StudentsAndGraduates.aspx">Students &amp; Recent Graduates</a>
+                            <a id="ctl00_Header1_HeaderA_navStudentsAndGrads" class="has-sub" title="Students &amp; Recent Graduates" href="StudentsAndGraduates.aspx">Students &amp; Recent Graduates</a>
                             <ul class="subnav">
                                 <li class="top-item-hide"><a href="/StudentsAndGraduates.aspx" class="mobile-nav-top-item" title="Students &amp; Grads" aria-hidden="true">Students &amp; Recent Graduates</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navCareerEvents" title="Career Events" href="CareerEvents.aspx">Career Events</a></li>
@@ -255,21 +398,28 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
                         <li><a id="ctl00_Header1_HeaderA_navStoreOpportunities" title="Store Opportunities" href="StoreOpportunities.aspx">Store Opportunities</a></li>
                         <li><a id="ctl00_Header1_HeaderA_navCorporateOpportunities" title="Corporate Opportunities" href="CorporateOpportunities.aspx">Corporate Opportunities</a></li>
                         <li>
-                            <a id="ctl00_Header1_HeaderA_navApplicantHelp" title="Applicant Help" href="ApplicantHelp.aspx">Applicant Help</a>
+                            <a id="ctl00_Header1_HeaderA_navApplicantHelp" class="has-sub" title="Applicant Help" href="ApplicantHelp.aspx">Applicant Help</a>
                             <ul class="subnav">
                                 <li class="top-item-hide"><a href="/ApplicantHelp.aspx" class="mobile-nav-top-item" title="Applicant Help" aria-hidden="true">Applicant Help</a></li>
                                 <li><a id="ctl00_Header1_HeaderA_navCareersContact" title="Contact" href="CareersContact.aspx">Contact</a></li>
                             </ul>
                         </li>
-                        <li><a id="ctl00_Header1_HeaderA_navTestimonials" title="Testimonials" href="Testimonials.aspx">Testimonials</a></li>
 					</ul>
                 </li>
 			    <li id="nav_store">
-                    <a onclick="_gaq.push(['_link', this.href]);return false;" id="ctl00_Header1_HeaderA_navShopOnline" title="Shop Online" href="https://store.wawa.com/">Shop Online</a>
+                    <a onclick="return trackStoreLink(true, 'https://store.wawa.com');">Shop Online</a>
                     <ul class="subnav">
-                        <li class="top-item-hide"><a onclick="_gaq.push(['_link', this.href]);return false;" id="ctl00_Header1_HeaderA_WawaStoreLink1" class="mobile-nav-top-item" title="Shop Online" aria-hidden="true" href="https://store.wawa.com/Default.aspx">Shop Online</a></li>
-                        <li><a href="/CardBalance.aspx" title="Check Gift Card Balance">Check Gift Card Balance</a></li>
+                        <li class="top-item-hide"><a onclick="return trackStoreLink(true, 'https://store.wawa.com');">Shop Online</a></li>
+                        <li><a href="/CardBalance.aspx" title="Check Wawa Gift Card Balance">Check Wawa Gift Card Balance</a></li>
                     </ul>
+                </li>
+                <li id="nav_rewards" class="mnav_item">
+                    <!--<a id="ctl00_Header1_HeaderA_navWawaRewards" title="Wawa Rewards" onclick="window.open(_tracker._getLinkerUrl($(this).attr(&#39;href&#39;)));return false;">Wawa Rewards</a>-->
+                    <a title="Wawa Rewards" onclick="window.open(_tracker._getLinkerUrl('https://www.wawarewards.com'));return false;" href="javascript:void(0);">Wawa Rewards</a>
+                    <span class="ext-icon"></span>
+                </li>
+                <li id="nav_btnmore" class="mnav_item" data-toggle="collapse" data-target=".nav-collapse" aria-hidden="true">
+                    <a id="ctl00_Header1_HeaderA_navMore" title="More"><span></span></a>
                 </li>
 		    </ul>
 	    </div>
@@ -285,37 +435,41 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
 		    <li id="nav_search">
                 <span id="ctl00_Header1_HeaderA_button_go"><input type="text" value="" id="ctl00_Header1_HeaderA_button_go_ctl00" style="vertical-align:middle;" onkeypress="if(event)if (event.keyCode) if( event.keyCode==13){if(event.preventDefault)event.preventDefault();__doPostBack('ctl00$Header1$HeaderA$button_go','');return false;}" name="ctl00:Header1:HeaderA:button:go:ctl00"><script>ctl00_Header1_HeaderA_button_go_ctl01Out=new Image();ctl00_Header1_HeaderA_button_go_ctl01Out.src="//s3.amazonaws.com/WawaPromotions/cms/2015/01/01-28/btn_search.png";ctl00_Header1_HeaderA_button_go_ctl01Over=new Image();ctl00_Header1_HeaderA_button_go_ctl01Over.src="//s3.amazonaws.com/WawaPromotions/cms/2015/01/01-28/btn_search.png";ctl00_Header1_HeaderA_button_go_ctl01Down=new Image();ctl00_Header1_HeaderA_button_go_ctl01Down.src="//s3.amazonaws.com/WawaPromotions/cms/2015/01/01-28/btn_search.png";</script><a href="javascript:__doPostBack('ctl00$Header1$HeaderA$button_go','')"><img style="vertical-align:middle" border="0" src="//s3.amazonaws.com/WawaPromotions/cms/2015/01/01-28/btn_search.png" onmouseover="this.src=ctl00_Header1_HeaderA_button_go_ctl01Over.src" onmouseout="this.src=ctl00_Header1_HeaderA_button_go_ctl01Out.src" onmousedown="this.src=ctl00_Header1_HeaderA_button_go_ctl01Down.src" onmouseup="this.src=ctl00_Header1_HeaderA_button_go_ctl01Over.src" class="png"></a></span>
             </li>
-            <li id="nav_wawarewards">
-                <a id="ctl00_Header1_HeaderA_navWawaRewards" title="Wawa Rewards" onclick="window.open(_tracker._getLinkerUrl($(this).attr('href')));return false;" href="//www.wawarewards.com">Wawa Rewards</a>
-            </li>
 	    </ul>
     </nav>
 </header>
 
 <script type="text/javascript">
-    //$(document).ready(function() {
-    //    _gaq.push(['_trackEvent', 'Test Segment', 'User Session', 'A', 0, true]);
-    //});
+    $(document).ready(function () {
+        _gaq.push(['_trackEvent', 'Test Segment', 'User Session', 'A', 0, true]);
+    });
 </script>
 
 
 <script type="text/javascript">
-    //$(document).ready(function () {
-    //    $('nav.main a').not(':external').not(':rewards').not('nav.mobile ul#navbar > li > a').click(function (e) {
-    //        if ($(this).attr('href') === undefined || $(this).attr('href') == '') {
-    //            return;
-    //        }
-    //        e.preventDefault();
-    //        _gaq.push(['_trackEvent', 'Navigation Elements', 'Main Navigation', $(this).attr('href')]);
+    $(document).ready(function () {
+        $('nav.main a').not(':external').not(':rewards').click(function (e) {
+            if (showingMobileNav && $(this).siblings().length > 0)
+            {
+                return;
+            }
 
-    //        var self = this;
-    //        setTimeout(function() {
-    //            window.location = $(self).attr('href');
-    //        }, 200);
-    //    });
-    //});
+            if ($(this).attr('href') === undefined || $(this).attr('href') == '') {
+                return;
+            }
+
+            e.preventDefault();
+            _gaq.push(['_trackEvent', 'Navigation Elements', 'Main Navigation', $(this).attr('href')]);
+
+            var self = this;
+            setTimeout(function() {
+                window.location = $(self).attr('href');
+            }, 200);
+        });
+    });
 </script>
-                
+                <div class="main-content">
+                    
 	<div id="contentsub">
 		<div id="ctl00_ContentPlaceHolder1_EditableContent" class="webpartzone">
 	<div id="WebPart_PrivacyPart" class="podawebpart_frame">
@@ -324,7 +478,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
 				Privacy Policy
 			</div><span title="minimize" class="icon18 icon_sprite column right minimize up " id="WebPart_PrivacyPartminimize" onclick="javascript:__doPostBack('ctl00$ContentPlaceHolder1$EditableContent','minimize:PrivacyPart');" style="cursor:hand;"></span><span title="close" class="icon18 icon_sprite column right close delete " id="WebPart_PrivacyPartclose" onclick="javascript:__doPostBack('ctl00$ContentPlaceHolder1$EditableContent','close:PrivacyPart');" style="cursor:hand;"></span>
 		</div><div id="WebPart_PrivacyPartverbsMenu">
-			<div class="breadcrumbs"><ul>    <li id="bc_home"><a href="/">Home</a></li>    <li class="current">Privacy Policy</li></ul></div><div id="hero">			<img alt="" class="responsive-image" src="//s3.amazonaws.com/Wawa.com/hero_store_1080x340.jpg" image-960="//s3.amazonaws.com/Wawa.com/hero_store_1080x340.jpg" image-760="//s3.amazonaws.com/Wawa.com/hero_store_760x340.jpg" image-480="images/wawa.web/hero_store_480x340.jpg">		</div><div class="clear"></div><div id="content-center"><div class="contentsub_tabs"><ul class="tabnav">    <li><a id="tabnav_privacypolicy" class="tab" title="Privacy Policy">Privacy Policy</a>    <div class="tab-content-pad">    <div class="tab-content-hide">    <p>Wawa takes your privacy seriously. When you order Cool Merchandise from Wawa, your personal information will be used only for the processing of that order. It will not be used for any other purpose without your permission.</p>    <h3>Wawa Official Privacy Policy</h3>    <p>Protecting your privacy is important to Wawa. We hope the following policy will help you understand how Wawa collects, uses, and safeguards the personal information you provide on our website.</p>    <h3>Information Collection </h3>    <p>If you browse Wawa's website, you do so anonymously. We don't collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. But we do not link your IP address to anything personally identifiable. The only other information automatically provided to us is the type of computer and operating system you are using. Your browser supplies us with this information. </p>    <p>At times we may request that you voluntarily supply us with personal information, such as your email address and postal address, for purposes such as corresponding with us, registering at a site, or participating in an online survey. </p>    <h3>Information Use</h3>    <p>If you provide us with your email or postal address, or have done so in the past, we will ask you if we can use it to send you updates on the latest Wawa news. If you do not want us to contact you, you can choose to "opt out," and Wawa will respect your wishes. </p>    <p>We may use information that you have given us to learn more about our customers so that we can develop better products and services. We may also use the information to inform you about new products, services, and offers that may be of interest to you. These offers may be based on information you provided in your initial transaction with us or in surveys.</p>    <p>Wawa does not share your profile with anyone else outside of Wawa without your consent, and no one else can access your information. </p>    <h3>Data Security</h3>    <p>Wawa is fully committed to data security. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information you provide to us online. However, while we strive to protect your personal information, we cannot ensure the security of the information you transmit to us. In this regard, we urge you to take every precaution to protect your personal data while you are on the Internet. At a minimum, we encourage you to make sure that you are using a secure browser as you surf the Internet. </p>    <h3>Company Commitment to Privacy </h3>    <p>Wawa's privacy policy is subject to change at any time and without notice. For updates, please return here.</p>    <div class="clear"></div>    </div>    </div>    </li></ul><div class="tabcontent"><div class="tabcontent_pad"></div></div></div></div>
+			<div id="hero"><img alt="" class="responsive-image" src="//s3.amazonaws.com/WawaPromotions/2015/reskin/hero/GenericStoreImage_SubHdrL_1260x490_v1_sm.jpg" image-1260="//s3.amazonaws.com/WawaPromotions/2015/reskin/hero/GenericStoreImage_SubHdrL_1260x490_v1_sm.jpg" image-1000="//s3.amazonaws.com/WawaPromotions/2015/reskin/hero/GenericStoreImage_SubHdrM_1000x490_v1_sm.jpg" image-640="//s3.amazonaws.com/WawaPromotions/2015/reskin/hero/GenericStoreImage_SubHdrS_640x515_v1_sm.jpg"></div><div class="clear"></div><div id="content-center"><div class="contentsub_tabs"><div class="tabcontent2"><ul>    <li class="content2-item" id="tabmain_privacypolicy">    <a href="#community" onclick="_gaq.push(['_trackPageview', '/PrivacyPolicy/vp']);" title="Privacy Policy" id="tabnav_m_privacypolicy" name="privacypolicy" class="tab-accordian">Privacy Policy</a>    <div class="tabcontent_pad">    <h1>Wawa Official Privacy Policy</h1>    <p>Effective Date:  June 7, 2016</p>    <p>Protecting your privacy is important to Wawa. This Wawa Privacy Policy (“Policy”) describes how Wawa and its subsidiaries and affiliated companies collect, use, and safeguard the personal information you provide on our websites, <a href="https://www.wawa.com">www.wawa.com</a> and <a href="https://www.wawarewards.com/">www.wawarewards.com</a>, and through or in connection with our mobile apps or other software- and Internet-enabled programs and services sponsored by Wawa (the “Sites”) as well as information collected when you visit our stores or otherwise communicate or interact with Wawa.</p>    <h2>Information Collection</h2>    <p><span style="text-decoration:underline;">Information Collected Automatically</span></p>    <p>Each time you visit the Sites, we may automatically collect certain types of information. Some examples of automatic information we may collect are as follows:</p>    <ul>        <li>We may record your internet service provider's address, your internet protocol or IP address, the web page from which you came, your web browser software, the type of handheld or mobile device used to link to the web page, and the language settings on your web browser;</li>        <li>We may collect a record of your activity or your "clickstream" while visiting the Sites;</li>        <li>We may use "cookies" of different types to recognize your computer. A cookie is a small text file that a website, online application, or e-mail may save to your internet browser and/or your computer's hard drive for use in subsequent visits to the Sites or other sites;</li>        <li>We may use web beacons, match scripts, pixel tags or similar technologies that allow us to know if a particular web page was visited, an e-mail opened, links in the email utilized or if the advertisements on the Sites or other sites were effective. In some instances, these technologies may allow us to match activities with particular users; and</li>        <li>We may collect any information you enter, share or that can be obtained from your use of our apps, games, contests, or promotions.</li>    </ul>    <p><span style="text-decoration:underline;">Information You Give to Us</span></p>    <p>We may collect any information, such as your first and last name, credit card number, email address, postal address, and telephone number that you provide when you interact with Wawa.  Some examples are when you:</p>    <ul>        <li>Make an online or in-store purchase;</li>        <li>Correspond with us;</li>        <li>Register or create an account  on the Sites;</li>        <li>Participate in an online survey;</li>        <li>Use our mobile apps to buy goods using a Wawa gift card;</li>        <li>Sign up for our rewards program or other program or club; or</li>        <li>Sign up for email and/or SMS news and alerts</li>    </ul>    <p><span style="text-decoration:underline;">Combined Information</span></p>    <p>Information you provide at Wawa retail stores may be combined with information that you provide online at the Sites, as well as with information about your interests and purchases we collect automatically. The information you provide to Wawa may also be combined with demographic and other information that is available from other sources in order to allow Wawa to better communicate with you and enhance our customer service and your shopping experience.</p>    <p><span style="text-decoration:underline;">Do Not Track</span></p>    <p>Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, Wawa and the Sites do not recognize DNT.</p>    <h2>Information Use</h2>    <p>We may use information about you for purposes described in this Policy or disclosed to you on the Sites. For example, we may use information about you to:</p>    <ul>        <li>Send you updates on the latest Wawa news, including information about new products, services, and offers that may be of interest to you including co-branded offers and affiliate and partner offers.</li>         <li>Process and manage your purchase and use of Wawa products and services, including your accounts and program participation.</li>        <li>Respond to your customer service inquiries, post your comments or statements on any blog or other online forum maintained on our website and other websites, or take other actions in response to your inquiries or other website activities.</li>        <li>Create personalized promotions by combining your personal information with non-personal information about you, such as the amounts and types of purchases you make or any benefits you receive through our programs.</li>        <li>Communicate with you about your orders or purchases, your services, accounts and program participation, a contest or sweepstakes you have entered, product recalls that may affect you, and your requests for information.</li>        <li>Learn more about our customers so that we can develop better products and services.</li>    </ul>    <p>We participate in interest-based advertising and we or others may use information about you to deliver to you or allow you to see certain advertising based on your interests, searches you perform, information you provide, or your activity on the Sites or other websites. </p>    <p>Wawa may also use this information to analyze and manage its businesses. Aggregate or combined data is collected from online and offline facilities and may be used to enhance the ability of Wawa to communicate with you and to support business functions such as internal business processes, marketing, authentication, customer service, fraud prevention, and public safety and legal functions.  </p>    <p>Any sweepstakes, raffles, surveys, games, or similar promotions offered by Wawa may be governed by specific rules and terms and conditions that are separate from and in addition to this Privacy Policy. By participating in any such sweepstakes, contest, raffle, survey, game, or similar promotion, you will become subject to those rules, including but not limited to receiving emails containing promotional communications and/or Wawa Rewards information.</p>    <p>We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.</p>    <p><span style="text-decoration:underline;">Opt-Out</span></p>    <p>If you provide us with your email or postal address, or have done so in the past, we will ask you if we can use it to send you updates on the latest Wawa news. If you do not want us to contact you, you can choose to "opt out," and Wawa will respect your wishes.</p>    <p>If you opt out of receiving promotional communications from us whether online or on your mobile device, we may still send you non-promotional communications such as emails about your Wawa account, if you have one, or our ongoing business relations.</p>    <h2>Sharing Your Personal Information</h2>    <p><span style="text-decoration:underline;">With Third Parties</span></p>    <p>Wawa may share your personal information with third parties, including as set forth below.</p>    <p><span style="text-decoration:underline;">With Other Parts of our Business and our Business Partners</span></p>    <p>Personal information collected by any part or department of Wawa’s business will be used in accordance with this Privacy Policy and may be shared with other parts or departments of Wawa’s business and with our business partners, including third parties, for use in accordance with this Privacy Policy.</p>    <p><span style="text-decoration:underline;">With our Service Providers</span></p>    <p>Wawa may share your personal information with companies that provide support services to us. Some examples of things service providers may do that may involve your personal information are:</p>    <ul>        <li>Authorization of credit card and check transactions, order fulfillment, sweepstakes and contests, our rewards program, and cobranded or joint product and service promotions.</li>        <li>Developing, hosting or maintaining the Sites on behalf of Wawa.</li>        <li>Warehousing product, personalizing product and performing order fulfillment and shipping services on behalf of Wawa or on your behalf and at your request. </li>        <li>Aggregating customer information and/or improving customer service. We may then share such aggregated information with prospective marketing partners and advertisers. </li>        <li>Marketing our products and services (such as email vendors).</li>    </ul>    <p>These service providers are granted access to some or all of your personal information as necessary and may use cookies (as defined above and below) or other automatic collection technology on our behalf. The service providers are contractually restricted in the ways they may use your personal information.</p>    <p><span style="text-decoration:underline;">In Connection with Business Transfers</span></p>    <p>In the event that a store, division or part or all of Wawa is bought, sold or otherwise transferred, or is in the process of a potential transaction, customer information will likely be shared for evaluation purposes and included among the transferred business assets.</p>    <p><span style="text-decoration:underline;">To Comply with Laws</span></p>    <p>Wawa may also disclose specific information when such disclosure appears necessary to comply with the law, a subpoena or other litigation process or to protect the interests or safety of its visitors and customers, Wawa employees or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>    <h2>Data Security</h2>    <p>Wawa is fully committed to data security. We use industry-standard security techniques on the Sites to help protect against the loss, misuse or alteration of information collected from you at the Sites. For example, Wawa provides you the capability to input a personalized 4-digit password to access the Wawa application on your mobile device. When you access your account information or transmit personally identifiable data to the Sites, that information is stored on servers that the Sites have attempted to secure from unauthorized access or intrusion. "Secure Socket Layer" software encrypts personal information you transmit to the Sites. However, while we strive to protect your personal information, we cannot ensure the security of the information you transmit to us. In this regard, we urge you to take every precaution to protect your personal data while you are on the Internet. At a minimum, we encourage you to make sure that you are using a secure browser as you surf the Internet.</p>    <h2>Cookies Policy</h2>    <p>The Sites use "cookies," which are small pieces of information stored by your browser or other application on your computer's browser or hard drive. The cookies are used to connect your computer with information stored about your online activity, searches, preferences and product purchases both within the same website visit and from one visit to the next on Wawa and/or other websites. (Some examples of this data include your account preferences, user specific information on pages accessed, searched terms or addresses entered, and previous visits to the site.) The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. If you reject cookies, you may not be able to participate in certain activities or receive a promotion tailored to you. The Sites do not control and do not guarantee the effectiveness of browser-based tools for managing cookies.</p>    <p>We or our partners may also use Flash cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash or similar technology that may be built into your computer or downloaded or installed by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, and personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our Sites by measuring which areas are of greatest interest to customers. They may be recognized by other sites or by our marketing or business partners. Flash cookies are different from browser cookies and the cookie management tools provided by your browser may not remove Flash cookies. Click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">here</a> to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.</p>    <p>We may also use web beacons, which are electronic images that may be used on our websites or in our emails. We use web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.</p>    <h2>Network Advertising</h2>    <p>We may also enter into agreements with third parties that possess technology that allows the Sites to use targeting or advertising cookies to see which areas and features are popular, count visits to our Sites and customize the advertising and marketing messages you receive on the Sites. This information may be shared with these third parties for this purpose. The Sites may use Google Analytics and the third-party cookie DoubleClick to optimize our Sites based on the traffic we receive and assist with marketing. To learn more about Google Analytics, including options for opting out and/or managing the ads you may see online please visit:  <a href="http://www.google.com/policies/privacy/partners">www.google.com/policies/privacy/partners</a>.  Additional information regarding online advertising is available at: <a href="https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options">https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options</a>.</p>    <h2>Updates or Changes to Your Information</h2>    <p>You may update or change your personal information by calling us at 1-800-444-9292 and a representative will instruct you on how to update or change your personal information. You can also use the <a href="/Contact.aspx">contact form on Wawa.com</a>.  To change your shipping or billing information for Wawa.com orders, log on, select "My Account" and make the appropriate changes.</p>    <h2>Children’s Privacy</h2>    <p>The Sites do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If Wawa learns that a child under the age of 13 has submitted personally identifiable information online without parental consent, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please call us at 1-800-444-9292 or use the contact form on <a href="/Contact.aspx">Wawa.com</a>. </p>    <h2>Company Commitment to Privacy</h2>    <p>Wawa's privacy policy is subject to change at any time and without notice. For updates, please return here.  You agree that the information that we gather now will be subject to the Privacy Policy in effect at the time of use.</p>    <h2>Contact Us</h2>    <p>If you have questions or concerns about this Privacy Policy, please feel free to call us at 1-800-444-9292 or use the <a href="/Contact.aspx">contact form on Wawa.com</a>. </p>    <h2>Your California Privacy Rights</h2>    <p>This privacy policy describes how we may share your information for marketing purposes, as described above.  California residents are entitled to request and obtain from us once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information.  To request this information and for any other questions about our privacy practices and compliance with California law, please contact us as explained above: Contact Us.</p>    <div class="clear"></div>    </div>    </li></ul></div></div></div>
 		</div>
 	</div>
 </div>
@@ -333,7 +487,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
     
         	<div id="sub_callout" class="callout">
 		        <div class="callout_content">
-		            <a id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl01_BannerAd_lnkBanner" href="/Fuel.aspx"><img id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl01_BannerAd_imgBanner" class="promoright" src="/cms_images/callout_fuelnoaddedfees.jpg" alt="Fuel No Added Fees" style="height:205px;width:211px;border-width:0px;">
+		            <a id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl01_BannerAd_lnkBanner" title="Wawa Gift Card" href="/WawaStore/storecategory81.aspx"><img id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl01_BannerAd_imgBanner" class="promoright" src="/cms_images/GiftCard_RHCallout_Winter2016.jpg" alt="Wawa Gift Card" style="height:207px;width:211px;border-width:0px;">
       <div class="callout_hover"></div>
     </a>
 
@@ -343,7 +497,17 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
     
         	<div id="sub_callout" class="callout">
 		        <div class="callout_content">
-		            <a id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl02_BannerAd_lnkBanner" href="/StoreLocator.aspx"><img id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl02_BannerAd_imgBanner" class="promoright" src="/cms_images/callout_fuelfinder.jpg" alt="Fuel Finder" style="height:205px;width:211px;border-width:0px;">
+		            <a id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl02_BannerAd_lnkBanner" href="/StoreLocator.aspx"><img id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl02_BannerAd_imgBanner" class="promoright" src="/cms_images/Fuel_RHCallout_Winter2016.jpg" alt="Fuel Finder" style="height:207px;width:211px;border-width:0px;">
+      <div class="callout_hover"></div>
+    </a>
+
+		        </div>
+		        <div class="callout_frame"></div>
+	        </div>
+    
+        	<div id="sub_callout" class="callout">
+		        <div class="callout_content">
+		            <a id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl03_BannerAd_lnkBanner" title="Apply for the new Wawa Credit Card!" href="https://www.wawa.com/wawacreditcard/?source=WD32"><img id="ctl00_ContentPlaceHolder1_SubPageCallout2_sub_callouts_repeater_ctl03_BannerAd_imgBanner" class="promoright" src="/cms_images/CreditCard_RHCallout_Update_Summer2016.jpg" alt="Apply for the new Wawa Credit Card!" style="height:207px;width:211px;border-width:0px;">
       <div class="callout_hover"></div>
     </a>
 
@@ -357,99 +521,71 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ajaxScriptManager', '
     
 	<div class="clear"></div>
     </div>
-    
+    </div>
 
+                
             </section><!--end wrapper-->
             
 <!--BEGIN Footer-->
 <!-- StartNoSearch -->
 <footer class="main">
 	<nav id="nav-footer">
+         <!-- Social Media -->
+        <ul class="social">
+        	<li class="facebook"><a href="http://www.facebook.com/wawa" title="Wawa on Facebook">Facebook</a></li>
+        	<li class="twitter"><a href="http://www.twitter.com/wawa" title="Wawa on Twitter">Twitter</a></li>
+        	<li class="instagram"><a href="http://www.instagram.com/wawa" title="Wawa on Instagram">Instagram</a></li>
+            <li class="tumblr"><a href="http://officialwawa.tumblr.com/" title="Wawa on Tumblr">Tumblr</a></li>
+        	<li class="youtube"><a href="http://www.youtube.com/wawa" title="Wawa on YouTube">Youtube</a></li>
+            
+            <li class="footer-callout-button">
+                <!-- START PRODUCT RECALL BUTTON -->
+		        
+            
+                
+            
+                
+            
+                
+		    
+			    <span id="ctl00_Footer1_pnlProductRecall">
+				    <a href="/ProductRecall.aspx">Product Recall</a>
+			    </span><!--end product-recall-->
+
+			    
+                <!--Wawa-711-->
+                
+            </li>
+            
+        </ul>
+        <!-- End Social Media -->
+
+       
+
+
 		<ul class="primary">
-			<li class="hidemobile"><a href="/Wholesale.aspx" title="Wholesale">Wholesale</a></li>
-			<li class="hidemobile"><a href="/realestate/RealEstate.aspx" title="Real Estate">Real Estate</a></li>
-			<li class="hidemobile"><a href="/Vendors.aspx" title="Vendor Links">Vendor Links</a></li>
-			<li><a href="/Terms.aspx" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-			<li class="lastmobile"><a href="/Privacy.aspx" title="Privacy Policy">Privacy Policy</a></li>
-			<li class="hidemobile"><a href="/SiteMap.aspx" title="Site Map">Site Map</a></li>
-		</ul>
-        <div class="secondary-container">
-            <ul class="secondary">
-                <li><a href="/FAQs.aspx" title="Press">FAQ</a></li>
-			    <li class="hidemobile"><a href="/PublicRelations.aspx" title="Press">Press</a></li>
-			    <li><a href="/Contact.aspx" title="Contact">Contact</a></li>
-			    <li class="last"><a href="/EmailSignup.aspx" title="E-mail Sign Up">Email Sign Up</a></li>
-		    </ul>
-            <ul class="social">
-                <li class="facebook"><a href="http://www.facebook.com/wawa" title="Wawa on Facebook">Facebook</a></li>
-			    <li class="twitter"><a href="http://www.twitter.com/wawa" title="Wawa on Twitter">Twitter</a></li>
-                <li class="instagram"><a href="http://www.instagram.com/wawa" title="Wawa on Instagram">Instagram</a></li>
-			    <li class="youtube"><a href="http://www.youtube.com/wawa" title="Wawa on YouTube">YouTube</a></li>
-            </ul>
-        </div>
+			<li class="hidemobile"><a href="/wholesale.aspx" title="wholesale">Wholesale</a></li>
+			<li class="hidemobile"><a href="/realestate/realestate.aspx" title="real estate">Real Estate</a></li>
+			<li class="hidemobile"><a href="/vendors.aspx" title="vendor links">Vendor Links</a></li>
+			<li><a href="/terms.aspx" title="terms &amp; conditions">Terms &amp; Conditions</a></li>
+			<li class="lastmobile"><a href="/privacy.aspx" title="privacy policy">Privacy Policy</a></li>
+			<li class="hidemobile"><a href="/sitemap.aspx" title="site map">Site Map</a></li>
+            <li><a href="/faqs.aspx" title="press">FAQ</a></li>
+            <li class="hidemobile"><a href="/publicrelations.aspx" title="press">Press</a></li>
+    	    <li><a href="/contact.aspx" title="contact">Contact</a></li>
+		    <li class="last"><a href="/emailsignup.aspx" title="e-mail sign up">Email Sign Up</a></li>
+        </ul>
+
         
         <div class="clear"></div>
 
-		<!-- START PRODUCT RECALL BUTTON -->
-		<style type="text/css">
-			.footer-callout {
-				position: relative;
-				float: right;
-				margin: 15px 0 25px;
-			}
-			nav#nav-footer .footer-callout a {
-				font-size:120% !important;
-				text-decoration: none;
-				font-weight:bold;
-				padding:8px 20px !important;
-				margin:5px;
-				-moz-border-radius: 6px;
-				-webkit-border-radius:6px;
-				border-radius: 6px;
-				color: #FFFFFF;
-				position: relative;
-				background: #e02b4a;
-				background: -moz-linear-gradient(top,  #e02b4a 50%, #c41230 50%);
-				background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#e02b4a), color-stop(50%,#c41230));
-				background: -webkit-linear-gradient(top,  #e02b4a 50%,#c41230 50%);
-				background: -o-linear-gradient(top,  #e02b4a 50%,#c41230 50%);
-				background: -ms-linear-gradient(top,  #e02b4a 50%,#c41230 50%);
-				background: linear-gradient(top,  #e02b4a 50%,#c41230 50%);
-				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e02b4a', endColorstr='#c41230',GradientType=0 );
-				-moz-box-shadow: -2px 3px 3px rgba(0,0,0,.2);
-				-webkit-box-shadow: -2px 3px 3px rgba(0,0,0,.2);
-				box-shadow: -2px 3px 3px rgba(0,0,0,.2);
-			}
-			nav#nav-footer .footer-callout a:hover {
-				text-decoration: underline;
-			}
-			@media only screen and (max-width: 1000px) {
-				nav#nav-footer ul.primary { top:125px;}
-				nav#nav-footer .footer-callout { float: none;display: block;padding: 0 0 0 5px;margin:10px 0 25px;}
-				#copyright { top: 140px; }
-                #accessibility-statement { top:170px; }
-			}
-		</style>
-        
-		<div class="footer-callout">
-		    
-            
-            
-            
-            
-            
-            
-		    
-			<!--end product-recall-->
-
-			<!--end product-recall-->
-		</div>
+		
 
 		<div id="copyright">
-			© <span id="ctl00_Footer1_lblCopyrightYear">2015</span> Wawa, Inc. <span id="ctl00_Footer1_lblVersionNumber" class="system-version">(Version: 1.36.5745.16374 on PRDWCW01)</span>
+			© <span id="ctl00_Footer1_lblCopyrightYear">2016</span> Wawa, Inc. <span id="ctl00_Footer1_lblVersionNumber" class="system-version" style="display: none;">(Version: 2.5.6003.19080 on PRDWCW01)</span>
 		</div><!--end copyright-->
 
-        <div id="accessibility-statement">If you cannot access this information, please call 1.800.444.9292 for assistance</div>
+        <div id="accessibility-statement"><img src="//s3.amazonaws.com/WawaPromotions/2015/reskin/images/handicap.png"><p>If you cannot access this information, please call 1.800.444.9292 for assistance</p></div>
 
 	</nav><!--end footer_links-->
 </footer><!--end footer-->
