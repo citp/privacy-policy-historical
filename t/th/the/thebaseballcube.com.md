@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115175755id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623193809id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.*
 
 # About The Baseball Cube - The Cube
 
@@ -22,4 +22,4 @@ In addition to affiliate product advertisements on the site, we also include net
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-For questions about our privacy policy, please [Contact Us](https://web.archive.org/web/20151115175755id_/http%3A//www.thebaseballcube.com/about/contact.asp)
+For questions about our privacy policy, please [Contact Us](https://web.archive.org/web/20160623193809id_/http%3A//www.thebaseballcube.com/about/contact.asp)
