@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utc.edu privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223033503id_/http%3A//www.utc.edu/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utc.edu privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623132413id_/http%3A//www.utc.edu/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,5 +7,7 @@ We know that your privacy is very important to you. When you place orders on our
 We collect only the domain name, but not the e-mail address of visitors to the UTC WEBSITE. We will collect the e-mail addresses of those who communicate with us via e-mail or those who create accounts on the UTC WEBSITE. We also collect aggregate information on what pages users access or visit, information volunteered by the user, such as survey information and/or site registrations. 
 
 The administrators of the UTC WEBSITE are making every effort to minimize and safeguard the personal information associated with each user account that resides on the system. Only the user's Name, City/Town, State and Country will be displayed to other users. 
+
+Some pages on the UTC WEBSITE display social media content. “Sharing” features of social media content share anonymous browsing data (for users not logged in to social media services), and/or personally identifiable data (for users logged in to those services).
 
 Those using the system should be careful to do nothing that might compromise the privacy of users. All information posted within the UTC WEBSITE should conform to the [University of Tennessee's Privacy of Student Records Policy](https://web.archive.org/records/student-rights-responsibilities/ferpa.php). 
