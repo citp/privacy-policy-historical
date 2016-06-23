@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the axs.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104133233id_/http%3A//www.axs.com/about-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axs.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623101932id_/http%3A//www.axs.com/about-privacy-policy.html) for the most accurate reproduction.*
 
 # AXS Privacy Policy
 
-Effective Date: March 20, 2013
+Effective March 25, 2016
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=d9b9b762-6c4c-487c-b0e7-f561089823e1 "TRUSTe Privacy Certification")
 
 ## General Overview
 
-This Site is one of several sites relating to and/or operated by the sports and live entertainment venues and properties owned and/or operated by Anschutz Entertainment Group, Inc., its subsidiaries and its affiliates ("AEG" or "we"). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Terms not otherwise defined herein shall have the meaning ascribed to such terms in the Site Terms and Conditions.
+This Privacy Policy applies to our web site, [axs.com](http://axs.com/) (the "Site") as well as the AXS mobile application (the "Mobile App").  The Site and Mobile App are collectively referred to in this Privacy Policy as the "Services." The Services are owned and operated Outbox AXS, LLC, which processes sales for events in the United States, and its subsidiaries and its affiliates, including 9390936 Canada, Inc. which processes sales in Canada (collectively, "AXS" or "we"). The purpose of this Privacy Policy is to disclose to you what information we may collect when you use our Services, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. This Privacy Policy is incorporated into the [Terms of Use](https://web.archive.org/about-terms-of-use.html) for our Services. Terms not otherwise defined herein shall have the meaning ascribed to such terms in the [Terms of Use](https://web.archive.org/about-terms-of-use.html).
 
-AEG is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request that can be completed on this Site, and to provide you with a more personalized experience on our Site. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we collect and transfer personal information to a service provider. For some services, such as ticket sales, we act as a service provider for our clients -- the venues. We encourage you to review the venue's privacy policy before purchasing tickets on this site. Or, as a result of visiting our site you may visit or click-through to other merchants (e.g. unaffiliated ticket sites) through links on our site who may collect and use your personal information in ways that are different than how we utilize your information. We encourage you to review the privacy policies of these sites before you disclose your personal information to others.
+AXS has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through our Site and does not cover information that may be collected through our Mobile App.
 
-AXS US complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. AXS US has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AXS US’s certification, please visit export.gov/safeharbor.
+If, after contacting us, you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-AXS UK and AXS US are committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request that can be completed on this Site, and to provide you with a more personalised experience on our Site. With your consent we also use the information for marketing purposes. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. With your consent we may transfer your personal information to our sponsors and partners (“Partners”) or you may visit other merchants (e.g. unaffiliated ticket selling sites like Ticketmaster) through links on our site who may collect and use your personal information in ways that are different to how we utilise your information. We encourage you to review the privacy policies of these sites before you disclose your personal information to others.
+AXS is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request that can be completed on our Services, and to provide you with a more personalized experience on our Services. We may also use certain information for marketing purposes. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, including ticket sales, we collect and transfer personal information to a service provider and/or Partner (as defined below), and we act as a service provider for our clients, the venues, promoters, and/or teams ("Clients"), when we sell tickets on their behalf. We encourage you to review the venue, promoter, and/or team's privacy policy before purchasing tickets on our Services. Or, as a result of visiting our Services you may visit or click-through to other merchants (e.g. unaffiliated ticket sites) through links on our Services who may collect and use your personal information in ways that are different than how we utilize your information. We encourage you to review the privacy policies of these sites before you disclose your personal information to others. We may occasionally transfer your personal information to our sponsors, partners, and other third parties (collectively, "Partners") as further described in our Privacy Policy. 
+
+AXS complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. AXS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AXS's certification, please visit [http://export.gov/safeharbor](http://export.gove/safeharbor).
 
 Please read the following to learn more about our data collection policies and practices:
 
@@ -22,8 +26,8 @@ Please read the following to learn more about our data collection policies and p
   * With whom the information may be shared.
   * The choices you have about the collection and use of your information.
   * The security precautions are in place to protect against the loss, misuse, or alteration of your information.
-  * Chat Rooms, Forums, and Message Boards.
   * Links to other Websites.
+  * Single Sign-On
   * A special note for parents concerning privacy.
   * International Users.
   * Limitation of Liability.
@@ -33,438 +37,206 @@ Please read the following to learn more about our data collection policies and p
 
 
 
-## Types of information that may be collected
+**Types of information that may be collected**
 
-The personally-identifiable information we collect is used to facilitate the purchase and delivery of tickets and/or other products and/or services to our customers. In the process of providing these tickets, products and/or services, we require our customers to provide certain personally-identifiable information. Specific details may include, but is not limited to the following and may be subject to change:.
+For purposes of this Privacy Policy, " **personal information** " is information which can be used to distinguish or trace an individual's identity, such as their name, email address, etc. whether used alone, or when combined with other personal or identifying information which is linked or linkable to a specific individual. The personal information we collect is used to facilitate the purchase and delivery of tickets and/or other products, services, or information to our customers, and we may require our customers to provide certain personal information in some instances. We also collect non-personal information such as browsing patterns, geographic location and demographics, which does not reveal your specific identity, as further described below. The categories of information collected by our Mobile App will be disclosed at the time you download the Mobile App from the applicable mobile application "store" using your mobile device, and are also described below. 
 
 Please read the following to learn more about our data collection policies and practices:
 
-  * In the case of contests, promotions, and/or newsletter registrations or other features that may or may not involve a purchase, we may require users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, newsletters, fantasy games, webcasts or other interactive features which may or may not involve a purchase to complete an entry or similar form which will require the submission of certain personally-identifiable information. 
-  * The personally-identifiable information that may be collected in an entry or similar form includes, but may not be limited to, customer's first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally-identifiable information such as a shipping address and telephone number. If the privacy policy varies for a particular sweepstakes, promotion or feature, that information will be disclosed in the sweepstakes or promotion rules or feature's terms of use.information, such as browsing patterns, geographic location and demographics which does not reveal your specific identity.
-  * In the case of a ticket or other product and/or service which involves a purchase which is completed on the Site, in order to complete the purchase of a ticket, a product and/or service, an online credit card transaction is required. During this process we generate and collect certain personally-identifiable information. 
-  * The personally-identifiable information that may be collected from our customers in completion of a ticket, product and/or service purchase, includes, but may not be limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase. If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to you. 
+  * We may require users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, newsletters, or other interactive features which may or may not involve a purchase to complete an entry or similar form which will require the submission of certain personal information. 
+  * The personal information that may be collected in an entry or similar form includes, but may not be limited to, customer's first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personal information such as a shipping address and telephone number. If the privacy policy varies for a particular sweepstakes, promotion or feature, that information will be disclosed in the sweepstakes or promotion rules or feature's terms of use. 
+  * In order to complete the purchase of a ticket, a product and/or service on the Site or Mobile App, an online credit card transaction is required. During this process we generate and collect certain personal information. 
+  * The personal information that may be collected from our customers in completion of a ticket, product and/or service purchase, includes, but may not be limited to: customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase. If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to you. 
+
+
+  * If you choose to use our AXS InviteTM feature, we ask you for your friend's name and email address. We will send your friend an invite email on your behalf. AO or our service providers store this information for the sole purpose of sending this invitation email along with subsequent email reminders if your friend has not responded to the original request. Your friend may contact us at [privacypolicy@axs.com](mailto:privacypolicy@axs.com) to request that we remove this information from our database. 
 
 
 
 back to top
 
-## How is this information collected?
+**How is this information collected?**
 
-We may collect information from you in several different areas on the Site, including but not limited to those described below: 
+We may collect information from you in several different areas on the Services, including but not limited to those described below: 
 
-### Registration
+**Registration**
 
-If you register for a service you will be asked to complete a registration form and provide personally-identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, newsletters, contests, forums, fantasy games, webcasts, or other subscription based services.
+If you register on our Services, you will be asked to complete a registration form and provide personal information; you may also be asked to choose a user ID and password in order to take advantage of certain features our Services may choose to offer, including, but not limited to, newsletters, contests, notifications, or other services.
 
-###  Newsletters, Site Emails, Mobile Offers
+**Newsletters, Emails, Mobile Offers**
 
-We may offer newsletters and/or other communications to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your subscription by following the instructions provided on the Site or in the designated area of the newsletters or emails or as specified in a mobile communication. Remember, if you consent to receive texts from us, your wireless carrier may impose a charge on incoming texts. Please check with your wireless carrier for details.
+We may offer newsletters and/or other communications to share information with you about the Services, about us and our affiliates and subsidiaries, or about our business partners, advertisers and sponsors. You may receive a newsletter from us or our Partners (as appropriate) either by registering for a particular newsletter, offer, or category of offers (e.g. Partner offers), or in conjunction with a special feature or membership for which you have registered through the Services. You may cancel your subscription by following the instructions provided on the Services, in the designated area of the newsletters or emails, or as specified in a mobile communication. Remember, if you consent to receive Mobile App alerts or texts from us, your wireless carrier may impose a charge on incoming texts. Please check with your wireless carrier for details.
 
-###  Contests or Sweepstakes
+**Contests or Sweepstakes**
 
-We may operate contests and sweepstakes through the Site, which may require registration in order to enter. Your personally-identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing/texting lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on the Site, such as on a winner's page, in the event you win a contest or sweepstakes. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the Sponsor of the contest or sweepstakes, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+We may operate contests and sweepstakes through the Services, which may require registration in order to enter. Your personal information may be used to contact you for winner notification, prize delivery confirmation or other promotional purposes. Your entry in the contest or sweepstakes may also result in your being added to our marketing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on the Services, such as on a winner's page. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Services, and collect your information. In those cases, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser's or sponsor's privacy policy, before participating.
 
-### Surveys or Voting
+**Surveys or Voting**
 
-From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+From time-to-time we may request personal information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey. By completing the survey, you consent to our collection of any Personal Information and other data you provide, and use of that personal information and other data to administer, respond to, analyze or otherwise complete the survey process or as otherwise described in this Privacy Policy.
 
-### Cookies. 
+## **If you use our Mobile App**
 
-As with many websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies.
+If you download and use our Mobile App, we or third party service providers may collect certain information through that Mobile App. Information collected may include the personal information and other registration, login, or payment information you choose to provide; information about your device, such as your IP address, OS, device model, your device's proprietary advertising identifier; and information relating to how you use the Mobile App, such as the content you view, ads you click, and purchases you make. When you consent to our use of location services, or otherwise depending on the settings on your mobile device, we or third party service providers may collect the precise location information provided by your device, including data provided by your GPS, WiFi, or data obtained when the Mobile App interacts with a beacon or other technology at a venue. 
 
-###  IP Addresses and Click-stream Data
+We may use data collected from physical proximity beacons (which may be located in some of the venues or events for which we have sold tickets) to send you relevant, targeted offers based on this data (for example, a discount on food purchases near our event). We and any third parties enabling these features may store this data and combine it with other information about you. You may disable the communication of these beacons with your mobile device by disabling Bluetooth or modifying your preferences for location services through your OS. 
 
-We may collect IP addresses and/or click-stream data for purposes of system administration, to improve our Site, to report aggregate information to our advertisers and sponsors and/or other internal uses related to the Site. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. 
+We collect the information primarily to facilitate the functionality of our Mobile App and deliver relevant content to you. For example, we may collect your registration and payment information so we can show you content that interests you and to process transactions on your behalf. We may collect your device's location in order to show you offers or features available near you, to deliver more relevant information and ads, and to understand how users interact with a venue or at events we have ticketed. We may combine data we collect through our Mobile App with other information we hold about you so that we can personalize or improve the relevance and quality of the services we provide you.
 
-Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+**Tracking Technologies**
 
-### Transaction Information
+AXS and our Partners may employ industry common tracking technologies such as: cookies, beacons or pixel tags, and scripts on the Services to provide you with an efficient and personalized experience, to help us better understand our users, and to present information we or our Partners believe would be of interest to you. Analytics tools such as Google Analytics and Omniture Reports & Analytics are used in analyzing trends, administering the Services, tracking users' movements around the Services and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. To learn more about, or to opt-out of Google's analytic and marketing services, visit [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html), the [Google Privacy Policy](http://www.google.com/privacypolicy.html), or [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
-If you place an order or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, e.g., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection. 
+When you first use our Services, AXS may send a cookie to your computer that identifies you as a unique user. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to store your preferences, identify you and maintain your signed-in status, provide advertising as described below, and provide you with a more personal and interactive experience. You can set your browser to refuse cookies or delete persistent cookies by following your browser's help instructions. If you choose to disable cookies, some of our services may not work properly and your experience on areas of our Services may be limited.
 
-### Fantasy Games and Webcasts
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
-When you register to play fantasy games or participate in webcasts, you may be asked to provide personally-identifiable information.
+To learn more about cookies and similar tracking technologies, and how they can affect your privacy, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**Behavioral Targeted Advertising/Ad Re-targeting**
+
+We partner with third parties to either display advertising on our Services or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Services and other sites in order to provide you advertising based upon your browsing activities and interests.  We or a third party may also place or recognize a unique cookie on your browser, which may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, that we may share with a data provider or other third party.  
+
+These third-party tracking technologies may be set to, among other things: (a) help deliver relevant, personalized advertisements or content to you on our Services or third party sites; (b) prevent you from seeing the same advertisements too many times; and (c) understand the effectiveness of the advertisements that have been delivered to you. To achieve these purposes, our partners may use the shared information in a number of ways, including (i) to evaluate the nature of the connection across your devices, browsers, or applications; (ii) to assess the suitability of your desktop or mobile device for interest- or demographic-based content; (iii) to provide information and inferences about user interests to third parties; and (iv) to develop insights and reports relating to the presentation of customized advertisements or content, including statistical reports in connection with activity on a website, optimization of ad placement and performance, development of reach and frequency metrics, billing activities, and tracking ads served on a particular day to a particular website.  Our partners may also combine shared information with additional non-identifying information collected from other sources to enhance these activities.  
+
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Services. To learn more about how to opt out of Google's use of cookies, visit [Google's Ads Settings](https://www.google.com/settings/u/0/ads/authenticated). To learn more about how to opt out of DoubleClick's use of cookies, visit the [DoubleClick opt-out page](https://www.google.com/settings/u/0/ads/authenticated). Please note, most modern browsers include a "do not track" feature that may help protect your privacy. However, because there is not yet a defined response to do-not-track requests, our Site does not respond to your browser's do-not-track request. 
+
+If you do not wish to not have your information used for the purpose of serving you interest-based ads, you may opt-out by clicking [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/) or visit the Digital Advertising Alliance in the U.S. at http://www.aboutads.info/choices or in Canada at <http://youradchoices.ca/choices>(or if located in the European Union click [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served all ads.  You will continue to receive generic ads. 
+
+**IP Addresses and Click-stream Data**
+
+As is true of most web sites, we gather certain information automatically and store it in log files. We may collect IP addresses and/or click-stream data for purposes of system administration, to improve our Services, to report aggregate information to our advertisers and sponsors and/or other internal uses related to the Services. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Services, our computers log your IP address. 
+
+Click-stream data is information collected by our computers when you request Web pages from the Services. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Services, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or Site functionality.
+
+**Transaction Information**
+
+If you place an order on our Services, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, e.g., to deliver the information, products or other services that you order, and to send you a record of your transaction. Such information is collected and stored through encrypted means for your protection. 
 
 back to top
 
-## How we use the information we collect?
+**How we use the information we collect**
 
-We internally use personally-identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content and layout. We believe these uses allow us to improve our Site and provide better service to our customers. 
+We internally use personal information about our customers for the purpose it was collected (for example, to deliver the ticket you purchased), to improve our marketing and promotional efforts, to statistically analyze usage, to improve our content and product offerings and to customize our content and layout, or for the other purposes described in this Privacy Policy. We believe these uses allow us to improve our Services and provide better services and information to our customers. 
 
-We may use a customer's email address and mailing address or phone number, to contact a customer regarding administrative matters or notices, issues with a transaction, satisfaction with the Site and/or our products and services and to provide further information regarding additional events, products and/or services in which we believe the customer would be interested. 
+We may use a customer's email address and mailing address or phone number, to contact a customer regarding administrative matters or notices, issues with a transaction, satisfaction with the Services and/or our products and services, to provide further information regarding additional events, products and/or services in which we or our third party partners believe the customer would be interested, or as otherwise described in this Privacy Policy.  We may also acquire information about you from other sources, and aggregate it with the information we have obtained from you in order to create a more complete profile. 
 
-We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems. 
+We may also use information in the file we maintain about a customer to resolve disputes and troubleshoot problems, or for our, or our Clients', other business purposes. 
 
 back to top
 
-## With whom the information may be disclosed.
+**To whom the information may be disclosed.**
 
-Information we collect may be accessed by a variety of parties, depending upon the purpose for which the information was provided and the context in which the information was provided. 
+We will share your personal information with third parties in the ways that are described in this privacy policy, or in accordance with your choices (for example, when you opt-in to receive Partner offers). When appropriate, our Partners may contact you regarding goods and services they provide which may be of interest to you.nformation we collect may be accessed by a variety of parties, depending upon the purpose for which the information was provided and the context in which the information was provided. 
 
-If you register with the Site, your information and information related to purchase you make on any of our Sites will be aggregated and maintained as part of your profile and may be accessed or used by us and our clients (the venues) for whom we are providing ticketing services to provide you with information or marketing communications we think you will be interested in. 
+If you register with the Site or Mobile App, your information and information related to purchases you make on any of our Services will be aggregated and maintained as part of your profile and may potentially be accessed or used by us, our affiliates, our Partners, and our Clients, or shared by us with third parties, to provide you with offers, information or marketing communications we think may interest you. 
 
-In order to process your requests we may provide your personally-identifiable information to service providers or other companies who work on our behalf in order, for example, to process the transaction and deliver the tickets or other goods/services you have ordered. When we do so, we use reasonable efforts to assure that they comply with our Privacy Policy and applicable law. When we are acting as a service provider on behalf of a client (a venue), we provide your personally-identifiable information to the client for use, among other things, in connection with identification/verification of purchasers of tickets and event security. 
+In order to process your requests we may provide your personal information to service providers or other companies who work on our behalf in order, for example, to process the transaction and deliver the tickets or other goods/services you have ordered. When we do so, we use reasonable efforts to assure that they comply with our Privacy Policy and applicable law. When we are acting as a service provider on behalf of a Client, we provide your personal information to the Client for use, among other things, in connection with identification/verification of purchasers of tickets and event security, marketing future events to you, or for other business purposes. The Client may in turn share your personal information with the promoter for a specific concert or event, or with other parties, and may use the information in accordance with their usual business practices. 
 
 In addition, in the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, customer information will, in most instances, be part of the assets transferred. 
 
-We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law, regulation, rule or court order pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety or any person or property if we believe that your information in any way relates to that threat. 
+We may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law, regulation, rule or court order pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety or any person or property if we believe that your information in any way relates to that threat. 
 
-Finally, if you choose to opt-in by checking off the appropriate box or otherwise notifying us, your information may be provided (by us) to unaffiliated third parties. Otherwise we will not provide your information to unaffiliated third parties. 
+Finally, your information may be provided (by us) to Partners, or affiliates, our service providers, and other companies, to the extent permitted by applicable laws and regulations in the circumstances described in this Privacy Policy. Otherwise we will not provide your information to unaffiliated third parties. 
 
-If you do opt-in, at any time, you may withdraw your consent and tell us not to give your information to unaffiliated third parties for marketing purposes. If you want us to do so, please either email us or mail your written request to: 
+Your information when provided to Partners, Clients, affiliates, or other third parties is subject to the usage and protections outlined in that party's privacy policy and related terms.  You may contact the third party, using the means of communication specified in their policies, web and mobile tools and/or email correspondence, to limit and/or remove the use of your information by that party. However, we do not control your information once it has been provided to a third party. 
 
-AEG  
-800 W. Olympic Blvd., Suite 305  
+Remember, when we sell tickets, we do so as a service provider for our Clients. We do not control the privacy practices of our Clients. If you wish to confirm the privacy practices of one of our Clients, please review the Client's privacy policy or contact the Client directly. 
+
+back to top
+
+**What choices do I have about** **AXS** **collecting, using, and sharing my information?**
+
+It is possible for you to use much of the Site or Mobile App without giving us any personal information. During the registration process or after you have registered with us, you will be able to manage your information and communications preferences. You can request at any time that AXS or our Partners not send future e-mails to you either by unsubscribing from the communication (or class of communications) through your online account preferences, by contacting us at [unsubscribe@axs.com](mailto:unsubscribe@axs.com), or by contacting us by mail at the address below. Requests by email only need to include your email address. If you send a request by mail, please include your name, email address, and mailing address if you wish to unsubscribe from all means of communication. Please note, we are only able to opt you out of receiving those offers and other communications sent by our Partners to subscribers to communications provided as part of the Service. These Partners and other third parties may receive your information independently from AXS or your use of the Service, and you may continue to receive certain communications from them. Please contact these parties directly to exercise your right to opt out of any other communications you may receive from them. 
+
+_For Residents of the United States_ : To obtain a list of the personal information that AXS holds about you, or for residents of California (as required by California law) any personal information AXS has disclosed about you to third parties for direct marketing purposes during the preceding calendar year, please send a written, signed request to:
+
+Outbox AXS, LLC  
+425 West 11th Street, Suite 100  
 Los Angeles, CA 90015  
-Attn: Privacy Policy - AXS
+Attn: Privacy Policy – AXS
 
-or email: [privacypolicy@axs.com](mailto:privacypolicy@axs.com)
+For Residents of Canada: To obtain a list of the personal information that AXS holds about you, please send a written, signed request to:
 
-Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request. 
+9390936 Canada, Inc.  
+400-333 Bay Street  
+Toronto ON M5H 2R2
 
-Remember, when we sell tickets, we do so as a service provider for the venues. We do not control the privacy practices of venues. If you wish to confirm the venue's privacy practices please review the venue's privacy policy or contact the venue. 
-
-back to top
-
-## What choices do I have about AEG collecting, using, and sharing my information? 
-
-It is possible for you to use much of the Site without giving us any personally-identifiable information. When you do register with us or give us personally-identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from us or opt-in to receive e-mails from third parties. You can request at any time that any of the AEG affiliated companies not send future e-mails to you either by unsubscribing from the communication or by contacting us at unsubscribe@axs.com 
-
-We reserve the right to disclose personally-identifiable information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of AEG or its employees, Site users, performers, athletes, or the public. Information collected through this Site, including personally-identifiable information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition. 
+You may control or limit information collected using proximity beacons or other location services and networks by changing your preferences in your device's location services preferences menu, or through your choices regarding Bluetooth, WiFi, and other network interfaces you may use to interact with our Services.
 
 back to top
 
-## What security precautions are in place to protect against the loss, misuse, or alteration of your information? 
+**What security precautions are in place to protect against the loss, misuse, or alteration of your information?**
 
-We have implemented reasonable security measures to safeguard the personally-identifiable information you provide to us. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web. 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-back to top
-
-## Chat Rooms, Forums, and Message Boards
-
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. We strongly recommend that you DO NOT use your personal information as your user name and DO NOT post any personally-identifiable information on line, since such information will be publicly available. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. 
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Services, you can contact us at [privacypolicy@axs.com](mailto:privacypolicy@axs.com) _._
 
 back to top
 
-## Links to other Websites
+**Links to other Websites and Services**
 
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you seek to purchase a ticket to a concert that is not sold on one of our Sites or "click" on a banner advertisement, you will likely leave the Site and move to a different website which is not operated by us. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should carefully review that site's privacy policy before providing any personal information. 
+You should be aware that when you are on the Services you could be directed to other sites or services beyond our control. This Privacy Policy does not govern your use of any third party websites or services. For example, if you seek to purchase a ticket to a concert that is not sold on one of our Services or "click" on a banner advertisement, you will likely leave our Service and move to a different website or service which is not operated by us. This includes links from advertisers, sponsors and partners that may use one of our logos as part of a co-branding agreement. These other websites or services may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to our Services, you should carefully review that site's privacy policy before providing any personal information. 
 
-back to top
+**Single Sign-On**
 
-## A special note for parents concerning privacy
-
-This Site is not intended for use by children under the age of 13, without the consent of a parent or legal guardian as provided in the Terms. We do not knowingly collect personally-identifiable information from children under the age of 13. 
+You can log in to our Services using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on our Services to your profile page to share with others within your network.
 
 back to top
 
-## International Users
+**A special note for parents concerning privacy**
 
-If you are accessing this Site from outside of the United States, your information will be transferred to the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. 
-
-back to top
-
-## Limitation of Liability
-
-By providing us with any personally-identifiable information you expressly and unconditionally release and hold harmless AEG and all of its subsidiaries, affiliates or related companies and their respective, directors, officers, employees and agents from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information. In addition, while AEG takes efforts to ensure the proper and appropriate use of AEG data provided by AEG to third party companies, promotional partners or vendors, AEG is not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information by AEG or the above-mentioned non-AEG entities. 
+Our Services are not intended for use by children under the age of 13. We do not knowingly collect personal information from children under the age of 13. 
 
 back to top
 
-## Notification of changes and acceptance of the Privacy Policy
+**International Users/Transfers**
 
-By using this Site, you signify your agreement to the terms of our Privacy Policy. AEG may change this policy from time to time. If so, any such changes will be posted on this page, so that the AEG may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of the Site shall constitute your acceptance of such revised Privacy Policy. 
-
-back to top
-
-## Correcting and updating personal information
-
-If your personally-identifiable information changes (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile on line, or by contacting us at the address below: 
-
-Please click here to make any changes to your profile and/or opt out of your registration. 
+By providing your information to this Site or Mobile App, you are granting your consent for the transfer of your information to the United States and Canada, as well as any other country in which our servers may be located. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy. 
 
 back to top
 
-## Whom do I contact with questions or concerns about this privacy policy? 
+**Limitation of Liability**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact AEG by sending a letter to: 
+By providing us with any personal information you expressly and unconditionally release and hold harmless AXS and all of its subsidiaries, affiliates or related companies and their respective, directors, officers, employees and agents, and our Partners from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information. In addition, while AXS takes efforts to ensure the proper and appropriate use of AXS data provided by AXS to third party companies, promotional partners or vendors, AXS is not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information by AXS or the above-mentioned non- AXS entities. 
 
-AEG  
-800 W. Olympic Blvd., Suite 305  
+back to top
+
+**Notification of changes and acceptance of the Privacy Policy**
+
+By using the Services, you signify your agreement to the terms of our Privacy Policy. AXS may change this policy from time to time. If so, any such changes will be posted on this page, so that the AXS may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of the Site or Mobile App shall constitute your acceptance of such revised Privacy Policy. 
+
+back to top
+
+**Correcting and updating personal information**
+
+If your personal information changes (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile on line, or by contacting us at the address below: 
+
+Please click <https://www.axs.com/me/account> to make any changes to your profile and/or opt out of your registration, or submit a support request at [guestservices@axs.com](mailto:guestservices@axs.com). We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+back to top
+
+**Whom do I contact with questions or concerns about this privacy policy?**
+
+If you have any questions about this Privacy Policy, the practices of this Site or Mobile App, or your dealings with our Services, please contact us at [privacypolicy@axs.com](mailto:privacypolicy@axs.com) or by mail as follows:
+
+If you live in the United States, you can write to us here: 
+
+Outbox AXS, LLC  
+425 West 11th Street, Suite 100  
 Los Angeles, CA 90015  
-Attn: Privacy Policy - AXS
+Attn: Privacy Policy   
+888.929.7849
 
-or email: [privacypolicy@axs.com](mailto:privacypolicy@axs.com)
+If you live in Canada, you can write to us here:
 
-Oct 11, 2012
+9390936 Canada, Inc.  
+400-333 Bay Street  
+Toronto ON M5H 2R2  
+Attn: Privacy Policy 
 
-© 2012 AXS.
-
-back to top
-
-Effective Date: 15 November 2012
-
-**General Overview**
-
-AXS Digital Europe Limited (“AXS UK”) is a subsidiary AXS Digital LLC (“AXS US”, together with AXS UK (“we” or “us” or “AXS”)) which is a subsidiary of Anschutz Entertainment Group, Inc (“AEG”). This Site, www.AXS.com (the “Site”) is one of several sites relating to and/or operated by the sports and live entertainment venues and properties owned and/or operated by AEG and its subsidiaries (the “AEG Group” ). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Terms not otherwise defined herein shall have the meaning ascribed to such terms in the Site Terms of Use. If at any time you have questions about this policy please use the Customer Support tools available at [support.axs.com](http://support.axs.com/).
-
-AXS UK a company incorporated in England and Wales. AXS US is a corporation incorporated in the State of Delaware, U.S. and has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacypolicy@axs.com](mailto:privacypolicy@axs.com). If you are not satisfied with our response in relation to AXS US you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-AXS US complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. AXS US has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AXS US’s certification, please visit [export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-AXS UK and AXS US are committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request that can be completed on this Site, and to provide you with a more personalised experience on our Site. With your consent we also use the information for marketing purposes. We have created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. With your consent we may transfer your personal information to our sponsors and partners (“Partners”) or you may visit other merchants (e.g. unaffiliated ticket selling sites like Ticketmaster) through links on our site who may collect and use your personal information in ways that are different to how we utilise your information. We encourage you to review the privacy policies of these sites before you disclose your personal information to others.
-
-Please read the following to learn more about our data collection policies and practices:
-
-  * Information we collect and how we use it
-  * With whom the information may be shared
-  * Information collection by third-parties
-  * Opt-out policy 
-  * Information security practices
-  * A special note for parents concerning privacy
-  * Limitation of liability
-  * Notification of changes and acceptance of the Privacy Policy
-  * Correcting and updating personal information.
-  * Whom do I contact with questions or concerns about this Privacy Policy?
-
-
-
-**I. Information we collect and how we use it**
-
-We may collect two types of information about you during your use of this Site, affiliated sites and applications: personally identifiable information (PII), such as your name, contact information and financial information, as well as non-personally identifiable information, such as browsing patterns, geographic location and demographics which does not reveal your specific identity.
-
-A. Non-Personally Identifiable Information
-
-We may collect and use non-PII in order to improve the functionality of our site, better target products and services to you, and in the course of general maintenance and administration of the Site. Non-PII information is anonymous and cannot be used to identify you.
-
-Examples of Non-PII we collect include:
-
-#### i. Cookies
-
-As with many websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Please see our Cookie Policy for further details of the cookies which we use and how to disable them should you wish.
-
-#### ii. Web beacons
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyse how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-B. Personally Identifiable Information (PII)
-
-The personally-identifiable information we collect is used to facilitate delivery of tickets and /or other products and/or services to our customers. In the process of providing these tickets, products and/or services, we require our customers to provide certain personally-identifiable information.
-
-We take the security of your personal information very seriously, and follow all applicable laws regarding its security. We collect and use PII in the following ways:-
-
-#### i. Registration information
-
-When you sign up for an AXS.com account (an “Account”) you will be asked to complete a registration form and to provide personally-identifiable information; you may also be asked to choose a user ID and password. Registration information may include your name, physical address, email address, telephone number(s), and/or credit card information. If you register with the Site, your information and information related to purchases you make on any of our Sites will be aggregated and maintained as part of your profile and may be accessed or used by us.
-
-Unless you opt out, we may use the PII we collect when you register for an Account to send you personalised marketing communications which may include, without limitation, event announcements, updates, reviews and special offers about us, our services as well as promotional material on behalf of some of our Partners. If at any time you change your mind and prefer no longer to receive such marketing communications from us, you may “opt-out” in accordance with the "Opt-Out Policy" section below.
-
-#### ii. Social networking information
-
-We may ask you to share information about you stored on social networks and other third-party services in order to personalise your experience on the Site. This information may include your username or id, email address, interests, activities, and relationships to other users of the Site. You may choose not to provide this information.
-
-#### iii. Contact information for email newsletters, site emails and/or mobile Offers
-
-With your consent, we may send you newsletters and/or other marketing communications to share information with you about the Site, about us or about our Partners and advertisers and sponsors. Subject to providing your consent and unless you opt out, you may receive a newsletter from us either by purchasing a ticket, registering for a particular newsletter, registering for an Account or in conjunction with a special feature or membership for which you have registered on the Site.
-
-You may change your opt-in settings by following the instructions provided on the Site or in the designated area of the newsletters or emails or as specified in a mobile communication. For more information refer to the Opt-Out policy section below. Remember, if you consent to receive texts from us, your mobile network provider may impose a charge on incoming texts. Please check with your mobile network provider for details.
-
-#### iv. Entry information for contests or sweepstakes ("Offers")
-
-We may operate Offers throughout the Site and other AEG Group properties, such as our Facebook page, which may require registration in order to enter. The personally-identifiable information that may be collected in an entry or similar form includes, but may not be limited to, Customer's first name, last name, post code, phone number, age and email address. Where applicable and indicated to you, your entry in the contest or sweepstakes may also result in your being added to our mailing/texting lists as well as those of our promotional partners associated with the contest or sweepstakes.
-
-Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally-identifiable information such as a shipping address and telephone number. Acceptance of a prize may also require you (unless prohibited by law) to allow us to post publicly some of your information on the Site, such as on a winner's page, in the event you win a contest or sweepstakes. Your personally-identifiable information may be used by us to contact you for winner notification, prize delivery confirmation or other promotional purposes.
-
-If the privacy policy varies for a particular sweepstakes, promotion or feature, that information will be disclosed in the sweepstakes or promotion rules or feature’s terms of use. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information should you enter such contest or sweepstake; that company is prohibited from using our users’ personally-identifiable information for any other purpose without their consent. In those cases, where we are not the operator or sponsor of the contest or sweepstakes, we may have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
-
-In the event that the Official Rules of an Offer conflict with this Privacy Policy, the Official Rules will govern that particular Offer.
-
-#### v. Information collected for surveys or voting
-
-From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Most surveys will be anonymous and not request your personally identifiable information. However, at times, you may have to register to vote or to take part in a survey. All survey participation is, of course, voluntary, and you will be able to decide the information you provide.
-
-#### vi. Information required to process transactions (including financial information)  
-
-
-If you place an order or subscribe for any of the goods and/or services offered on our Site, we will ask you to complete an order form that will request certain information from you. The personally-identifiable information that may be collected from our customers in completion of a ticket, product and/or service purchase, includes, but may not be limited to: Customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer's shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase. Such information is collected and stored through encrypted means for your protection. Refer to the Information Security Practices section for more details on how we protect this sensitive information.
-
-We will use your PII including your financial information to complete the transaction that you have requested, e.g., to deliver the information, products or other services that you order, and to invoice you. We may also use your payment information to allow us to ship or deliver tickets and/or receipts to you, respond to customer service requests, review and enforce limits on the number of tickets purchased per event and to help prevent credit card fraud.
-
-In addition, unless you have opted out, we will use your contact details obtained during the transaction process in order to send you personalised marketing communications. 
-
-If you'd prefer not to give us any personally identifiable information when you purchase tickets for events, then please visit the Box Office at the venue where an event is taking place.
-
-#### vii. Information used for internal business purposes.
-
-We may also use your PII for our internal business purposes, such as to target advertising, for data analysis, for audits, for fraud prevention and for other internal purposes.
-
-#### viii. Information collected for "Send to a Friend" messages.
-
-The Site may allow you to send information on the Site via email, social network, or other messaging system to recipients who you feel may be interested in receiving such information. To use this feature you provide us with certain information about the receiving party and by doing so you warrant that you have their consent to do so. Any PII you provide in connection with sending such other party the message, such as your name and your email address will, of course, be disclosed to such other party. While, due to technical restrictions, the recipient's information may be retained in our systems as required for delivery and logging, we do not share it with third parties and we do not use this PII for any purpose except to send this one-time message (unless the recipient has already consented to such use of his/her PII). Recipients of these messages will not be opted in to any future communications from AXS and/or the AEG Group and/or Ticket Suppliers unless they have previously given their consent by using this Site, and as such in accordance with their privacy and Opt-Out choices.
-
-#### ix. Information provided to customer support.
-
-To facilitate our ability to provide you with timely and accurate customer support services, we may ask you for personally identifiable information, such as name, email address, and phone number so that we may be able to respond to your request quickly and identify your customer records in our database so as to identify and resolve your particular issue. Information collected during customer support activities may be stored in our logs to provide us with heuristic information to monitor and improve our customer support capabilities, but will not be shared with third-parties or used for marketing purposes by AXS and/or the AEG Group.
-
-#### x. Data retention.
-
-We will retain your information for as long as your Account is active, as needed to provide you services and will use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-#### xi. Chat rooms, forums, and message boards
-
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personally-identifiable information when using these areas but you may choose to do so. We strongly recommend that you DO NOT use your personal information as your user name and DO NOT post any personally-identifiable information on line, since such information will be publicly available. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
-
-#### xii. Pre-populating forms with PII
-
-To facilitate some transactions, including but not limited to activities on the Site such as registration, ticket purchase, contest entry, and “Send to a Friend” we may pre-populate form fields with your PII in order to minimize data entry. You may, in all cases and at your discretion, review and edit your PII as it is displayed before submitting the form or transaction. Furthermore, we encourage you to review your PII wherever it is displayed for accuracy, and make corrections as necessary.
-
-In some cases, we may pre-populate forms with your PII in the course of an Offer or transaction with one of our Partners, however, we will not share your data with our Partners unless you have given us your consent to do so. In the case where there is a Partner who may receive your information where you have given us your consent to share it, we encourage you to review the Privacy Policy of the Partner entity to familiarise yourself with their practices governing the security of your PII. For more information, please refer to the section “With whom the information may be shared” and “Information collection by third-parties.
-
-back to top
-
-**II. With whom the information may be shared.**
-
-The PII we collect from you may be transferred to certain parties, depending upon the purpose for which the information was provided, the consents which you give at the time the information is provided and the context in which the information was provided, as described in the following sections. We reserve the right to share Non-PII, which does not personally identify you, with third parties, for any purpose. For example, we may share information with advertisers or other third parties that are not part of the AEG Group on an aggregate or other basis that does not disclose any of your PII.
-
-### A. Within the AEG group
-
-Where we have your consent to do so, which is obtained at the time you create an Account or sign up for our weekly event calendar email and certain other newsletters as notified to you at the time, we may share your PII within the AEG Group, which includes, without limitation, AEG Live and The O2. The data will be shared in order to enhance your experience on other AEG websites and for the AEG Group to contact you with personalised marketing communications, including, without limitation, personalised event announcements, updates and reviews. To the extent we share your data within the AEG Group, we make sure that your PII receives the same level of protection throughout the AEG Group. All AEG Group companies comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future. Please note that such sharing may involve the collection use, storage, or disclosure of PII within Europe and the United States of America. PII will only be processed within the United States of America by corporations which comply with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce.
-
-### B. AXS Ticket Suppliers
-
-Unless you opt-out of such communications, when you purchase a ticket to a specific event on our Site, your first name, last name, physical address, phone number and email address may be provided to the person or entity which supplies the tickets to AXS and on whose behalf we sell tickets which may include, without limitation, venues, promoters, producers, artists, teams and record labels (the “Ticket Supplier”). There may be more than one Ticket Supplier per event and for events which are promoted by AEG Live (UK) Limited at The O2, both AEG Live (UK) Limited and Ansco Arena Limited shall be deemed to be the Ticket Supplier.
-
-### C. AXS service providers
-
-By providing your Payment Information, you are authorizing us to give that information to third parties as necessary to confirm and fulfill your order (for example, to process your credit card or payment account number and to send you products you have ordered and to exchange information with other companies and organisations for fraud protection and credit risk reduction). When we do so, we apply payment industry standard encryption methods to maintain its security and use reasonable efforts to assure that they comply with our Privacy Policy and applicable law.
-
-We will share your PII with our service providers in order to fulfill your order. Outbox Enterprises UK Limited process transactions on behalf of AXS and your PII will be used and stored by them in either Europe and/or Canada and/or the United States in order to fulfill your order. Where we use a third party supplier to carry out specific business operations (e.g. a Customer Relations Management system, a market research company, a courier) we will share your PII with them for that purpose.
-
-If you've ordered any additional goods or services through our Site such as ticket insurance or merchandise for an event, your information may be passed to the providers of such goods or services so they can process your transaction and provide you with the goods or services you've ordered.
-
-Except as explained above, we will not share your financial information with any third parties without your prior consent.
-
-### D. Other Uses
-
-In the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of our assets, customer information will, in most instances, be part of the assets transferred. 
-
-Finally, we may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law, regulation, rule or court order pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organisations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Use and/or Additional Purchase Terms and Conditions, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety or any person or property if we believe that your information in any way relates to that threat.
-
-back to top
-
-**III. Information collection By third-parties**
-
-#### A. Co-branded offers and sponsorships. 
-
-We may enter into partnerships with "powered by" Partners and co-branded sites (referred to here as "Co-branded Offers"). These might include, for example, unique pages where both AEG and our Partner may present to end-users., and which may feature a specific privacy policy on any such co-branded page. Any PII that you provide when signing up at any co-branded page may be collected by, or shared with, our Partner. We have no control over, and are not responsible for, our Partners' use of your PII. If you want to learn more about other entities' privacy practices, please review the websites of those third parties.
-
-#### B. Transactions with e-commerce Partners, vendors and advertisers. 
-
-This Site may offer merchandise, ticket purchase services, or advertising for products offered by one of our Partners. To the extent the merchandise and/or ticket purchase services are offered by one of our Partners, such Partner will be collecting and using the PII you provide. Therefore, the information you provide to complete such transactions is collected pursuant to the privacy policy of the Partner site on which you transact. AEG is not responsible for our Partners’ privacy policies, and we recommend you familiarise yourself with the privacy policy of all sites on which you transact.
-
-#### C. Job postings
-
-IIf you apply for a position with AXS and submit your personal information through our website, the information you submit will be used only in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions.
-
-If you choose to respond to a job posting on the Site, you may be directed to a third-party site (for example, a third-party site specialising in job postings, such as Monster.com). Any PII you provide will be collected by such third party. We have no control over, and are not responsible or liable for, such third party's use of your PII. Please consult such third party's privacy policy for information regarding their privacy practices.
-
-The third party collecting your PII will share such PII with AXS so that AXS can review your information and, if applicable, respond to your query or job application. Please note that AXS has no obligation to respond to all queries or job applications submitted. Any PII that AXS receives from such third party will be treated in accordance with this Privacy Policy.
-
-#### D. Third party advertising
-
-Advertisements on this Site may be delivered to you by third parties, which, in the course of delivering such advertising, may place or recognise a unique tracking cookie on your browser. Non-PII about your visits to this Site, such as number of times you have viewed an ad or they type of content you have viewed on the Site, is used to serve ads to you that better reflect your interests. 
-
-For more information on these advertising practices, please visit the Network Advertising Initiative, which offers a website to opt out of ad targeting from several advertising companies ([www.networkadvertising.org](https://web.archive.org/web/20131104133233id_/http%3A//www.axs.com/www.networkadvertising.org)).
-
-#### E. Third party links
-
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you seek to purchase a ticket to a concert that is not sold on one of our Sites or "click" on a banner advertisement, you will likely leave the Site and move to a different website which is not operated by us. This includes links from advertisers and Partners that may use the Site's logo as part of a co-branding agreement. These other websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a website that is linked to our Site, you should carefully review that website's privacy policy before providing any personal information.
-
-back to top
-
-**IV. Opt-Out Policy**
-
-### A. AEG Communications
-
-It is possible for you to use much of the Site without giving us any personally-identifiable information. When you do provide PII you can opt out of receiving communications from us, the AXS Group and Ticket Suppliers via the methods set out below:- 
-
-#### 1\. Through your Account
-
-By creating an Account you agree to receive personalised marketing communications from AXS and the AEG Group, including, without limitation, AEG Live and The O2. You will have the opportunity to limit communications from us or the AEG Group via the “preference” settings in your online account. In addition, you may also choose to receive communications from third parties, including our Partners, by amending your “preference” settings within your Account
-
-#### 2\. On the "order confirmation" page
-
-By purchasing a Ticket you agree to receive personalised marketing communications from AXS and the Ticket Supplier for the event in respect of which you are purchasing a ticket. You may opt out of receiving communications from AXS and Ticket Suppliers on the order confirmation page after you have submitted your order by following the link provided.
-
-#### 3\. Via marketing communications
-
-Where you have not opted out of communications using the methods set out in (1) and/or (2) you will receive communications from AXS, AEG Group and/or the Ticket Supplier (as applicable). You may opt out of these communications at any time via the “unsubscribe” instructions in any communications you may receive.
-
-#### 4\. Via this website
-
-You can request at any time to opt out of future communications from AXS and/or the AEG Group or individual companies within the AEG Group by contacting us at [unsubscribe@axs.com](mailto:unsubscribe@axs.com) __.
-
-B. Administrative matters
-
-AXS reserves the right to contact you in the event of a change in the Site's Terms of Use and/or this Privacy Policy, or to notify you of other administrative matters in connection with the Site (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.
-
-back to top
-
-**V. Information security pactices**
-
-We know it is very important to protect the information you share with us and we take appropriate security measures to safeguard this information from unauthorised access and disclosure. 
-
-Your PII is securely stored and in many cases encrypted when stored. Any transmission of your PII across the open internet is done using secure socket layer (SSL) technology. Furthermore, we employ firewalls around our data centers in order to further prevent unauthorised access.
-
-While we have implemented reasonable security measures to safeguard your personally identifiable information using reasonable industry standards, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web.
-
-A. Social Media Widgets
-
-Our Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-B. Facebook Connect
-
-You can log in to our Site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network.
-
-back to top
-
-**VIII. A special note for parents concerning privacy**
-
-This Site is not intended for use by children under the age of 13 or between the ages of 18 and 13 without the consent of a parent or legal guardian as provided in the Terms. We do not knowingly collect personally-identifiable information from children under the age of 13.
-
-back to top
-
-**IX. Limitation of Liability**
-
-By providing us with any personally-identifiable information you expressly and unconditionally release and hold harmless AXS and the AEG Group and their respective, directors, officers, employees and agents from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the of your collected personally-identifiable information other than willful processing of data in breach of this Privacy Policy. In addition, while AXS takes efforts to ensure the proper and appropriate use of data provided by AXS to third parties with your consent, neither AXS nor the AEG Group is liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personally-identifiable information by such third parties.
-
-back to top
-
-**X. Notification of changes and acceptance of the Privacy Policy**
-
-BBy using this Site, you signify your agreement to the terms of our Privacy Policy. AXS may change this policy from time to time. If so, any such changes will be posted on this page, so that AXS may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of the Site shall constitute your acceptance of such revised Privacy Policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your Account) or by means of a notice on this Site prior to the change becoming effective. We encourage you periodically to review this page for the latest information on our privacy practices.
-
-## A. Correcting and updating personal information
-
-If your personally identifiable information changes you may correct it via your Account
-
-## B. Whom do I contact with questions or concerns about this privacy policy?
-
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact AXS by sending a letter to:
-
-back to top
-
-**AXS Europe**  
-Almack House  
-28 King Street   
-London   
-SW1Y 6QW   
-_Attn: Privacy Policy - AXS_
-
-or e-mail at: [support@axs.com](mailto:support@axs.com)
-
-15 November 2012
-
-copyright 2012 AXS
-
-back to top
+©2016 Outbox AXS, LLC and 9390936 Canada, Inc.
