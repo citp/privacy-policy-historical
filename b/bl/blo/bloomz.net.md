@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomz.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921043451id_/https%3A//bloomz.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomz.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623074716id_/http%3A//bloomz.net/privacypolicy) for the most accurate reproduction.*
 
 # Bloomz - Privacy Policy
 
