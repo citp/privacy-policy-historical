@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigspot.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230022407id_/http%3A//www.bigspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigspot.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623172731id_/http%3A//www.bigspot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BigSpot.com
 
