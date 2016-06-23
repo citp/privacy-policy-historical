@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227064520id_/http%3A//www.daltonsbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623193523id_/http%3A//www.daltonsbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Daltonsbusiness.com needs to place cookies on your computer/device to make this website work properly. [__Learn more here__](https://web.archive.org/cookie-policy "Cookie policy")    Hide this message 
 
 **YOUR REGISTRATION ON USE OF THE CONTACT FORM**
 
