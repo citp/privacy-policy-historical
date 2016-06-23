@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundicons.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907185046id_/https%3A//roundicons.com/privacy-policy-refunds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundicons.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623221410id_/https%3A//roundicons.com/privacy-policy-refunds) for the most accurate reproduction.*
 
 # Privacy Policy - Round Icons
 
