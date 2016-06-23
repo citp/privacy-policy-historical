@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfjobsbank.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223230220id_/http%3A//www.gulfjobsbank.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfjobsbank.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623123200id_/http%3A//www.gulfjobsbank.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www
 
