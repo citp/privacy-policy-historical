@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asianmetal.com privacy policy that was archived on 2015-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516222956id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asianmetal.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624011945id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -17,8 +17,433 @@
 <div id="header">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="/js/loginErrMsgEn-min.js"></script>
 <script src="/js/dateManage.js"></script>
-<script src="/js/loginEn-min.js"></script>
-<script>ifLoginEnV2();</script>
+<script src="/js/loginEn.js?v=1"></script>
+<div class="boxwrap" id="showFilter" style="display:none"></div>
+<div class="loginbox" id="loginWin" style="display:none">
+    <p class="closebtn" onclick="closeWin('loginWin');"></p>
+    	<!-----logo----------->
+    	<div class="l_logo"></div>     
+        
+        <!-----粗字体提示文字------->
+        <div id="boxword">
+            <div id="showMessByLogin" class="l_word1">Welcome to Asian Metal</div>          
+        </div>        
+        
+        <!--------输入框---------->
+        <div id="boxinput">
+            <div id="showMail" class="l_inp">
+                 <span class="spantext">Username</span><input type="text" placeholder="Email Address" required="required" name="cnopenloginname" id="cnopenloginname">&nbsp;<font color="red">*</font>
+            </div>
+         
+            <div id="showPwd" class="l_inp">
+                 <span class="spantext">Password</span><input type="password" required="required" name="cnopenloginpwd" id="cnopenloginpwd">&nbsp;<font color="red">*</font>
+            </div>
+        </div>       
+        
+        <!----------按钮----------->
+       <div id="showBut">
+        <input name="openloginbutn" id="openloginbutn" type="button" class="loginbtn" onclick="return loginByWin();" value="OK">
+       </div>       
+        
+        <!----------立即注册提示字-------->
+        <div id="wordReq" class="tipsbox">
+        <a href="/member/memberRegEn.shtml" target="_blank">Register Now!</a><a href="#" onclick="showFind();"><span>Forgot Password?</span></a>
+        </div>
+</div>
+
+<div class="loginbox" id="logoutWin" style="display:none;">
+    <p class="closebtn" onclick="closeWin('logoutWin');"></p>
+    	<!-----logo----------->
+    	<div class="l_logo"></div>             
+        <div>
+            <div class="parbox" id="logoutAlert">You have Logged Out successfully!</div>
+        </div> 
+        <div>
+        <input class="okbtn" type="button" value="OK" onclick="closeWin('logoutWin');">
+        </div>           
+</div>
+
+<div class="loginbox" id="findPwdWin" style="display:none;">
+    <p class="closebtn" onclick="closeWin('findPwdWin');"></p>
+    	<!-----logo----------->
+    	<div class="l_logo"></div> 
+    	
+    	<div>
+            <div class="l_word1" id="showMessByFind">Please Input Username</div>
+        </div> 
+                   
+        <div id="findInp">
+            <div class="l_inp2">
+                 <span class="spantext">Username</span>
+                 <input type="text" placeholder="Email Address" required="required" id="findUserMail">&nbsp;<font color="red">*</font>
+            </div>
+        </div>            
+        
+    <div id="findBut">
+    <input class="loginbtn" type="button" value="OK" onclick="findPwdByWin();">
+    </div>
+</div>
+
+<div class="loginbox" id="wrapAlert" style="display:none;">
+    <p class="closebtn" onclick="closeWin('wrapAlert');"></p>
+    	<!-----logo----------->
+    	<div class="l_logo"></div>    
+			<div class="parbox2">
+			<!--更换用户名提示样式-->
+			    <div id="chgTip" style="display:none;">
+				  <p>Since Jan 1 2016, Asian Metal will officially replace your current username with your email address. You will be asked to enter your email address into the username blank to login in the future. Thanks for your cooperation.</p>
+				  <p>Please enter your email address:</p>
+				 </div>
+				 <!--邮件错误提示样式-->
+				 <div id="chgTipRrror" style="display:none;">
+				  <p class="textred">The email has been registered and there is no need to register again. You can contact us to apply for a Free Trial or register a different email: </p>
+				</div>	
+					
+			  <div id="chgTipInp" style="display:none;">
+			    <p>Email:<input type="text" id="txtSUser_LoginName" class="shortemail" placeholder="abc@happy.com"><span id="showChgMessage"></span></p>
+                        <input type="hidden" id="txtSUser_Pwd">
+                        <input type="hidden" id="uaId">
+                        <input type="hidden" id="uId">
+                        <input type="hidden" id="pId">
+                        <input type="hidden" id="uName">
+				</div>
+				
+				<!--邮件提示样式-->
+				<div id="chgTipSuccess" style="display:none;">
+				We will send a verification link to this email, and all you have to do is click the link to complete the change; Incorrect email address will cause your change FAILED; Do check your SPAM folder in case you have not received the email in your box.
+				</div>
+			</div>
+			<!--在邮件中验证完成后提示-->
+			<div class="parbox" style="display:none;">Your email verification is completed!</div>
+	<div>
+      <input class="okbtn" id="chgBut" type="button" value="OK">
+    </div>
+</div>
+
+
+<script>
+var wurl = window.location.href;
+var wurls = wurl.split("?");
+var r="";
+if(wurls.length>1){
+	var pArr = wurls[1].split("&");
+	var param = "";
+	if(pArr.length>0&&pArr.length<3){
+		var pArrParam1=pArr[0];		
+	    param=pArrParam1.split("=")[0].toUpperCase();
+	    if(param=="S"&&pArrParam1.split("=")[1].toUpperCase()=="1"){
+	    	var nowDate = new Date();
+	    	var tData = {n:nowDate};
+	    	$.post("/login/ifLogin.am",tData,function(data){
+	    		if(data!=''){  
+	    			
+	    	    }else{
+	    	    	$("body").css("overflow","hidden");
+	    			$("#findPwdWin").hide();
+	    			$("#loginWin").show();
+	    			$("#showFilter").show();
+	    			$("#logoutWin").hide();
+	    			$("#wrapAlert").hide();
+	    	    }
+	    	});	
+			
+		}
+		if(pArr.length==2){
+	        var pArrParam2=pArr[1];
+		    if(pArrParam2.split("=")==2&&pArrParam2.split("=")[0].toUpperCase()=="R"){
+		        r=pArrParam2.split("=")[1];
+		        if(r.indexOf("?")>=0){
+	               r="";
+		        }
+		    }
+		}
+	}	
+}
+function loginByTop(){
+	$("body").css("overflow","hidden");
+	$("#findPwdWin").hide();
+	$("#loginWin").show();
+	$("#boxword").show();
+	$("#showMessByLogin").removeClass();
+	$("#showMessByLogin").addClass("l_word1");
+	$("#boxinput").html('<div id="showMail" class="l_inp">'
+            +'<span class="spantext">Username</span><input type="text" placeholder="Email Address" required="required" name="cnopenloginname" id="cnopenloginname" />&nbsp;<font color="red">*</font>'
+            +'</div>'
+            +'<div id="showPwd" class="l_inp" >'
+            +'<span class="spantext">Password</span><input type="password" required="required" name="cnopenloginpwd" id="cnopenloginpwd" />&nbsp;<font color="red">*</font>'
+            +'</div>');
+	$("#showBut").html('<input name="openloginbutn" id="openloginbutn" type="button" class="loginbtn"  onclick="return loginByWin();"  value="OK" />');
+	$("#wordReq").show();	
+	$("#showFilter").show();
+	$("#logoutWin").hide();
+	$("#wrapAlert").hide();
+	
+	if(!$("#txtUser_LoginName").check().notNull()){
+		$("#showMessByLogin").html("Please Input Username");
+		$("#showMessByLogin").removeClass();
+		$("#showMessByLogin").addClass("l_word2");
+		$("#txtUser_LoginName").focus();
+		return;
+	}
+	if(!$("#txtUser_Pwd").check().notNull()){
+		$("#showMessByLogin").html("Please Input Password");
+		$("#showMessByLogin").removeClass();
+		$("#showMessByLogin").addClass("l_word2");
+		$("#txtUser_Pwd").focus();
+		return;
+	}
+	var nowDate = new Date();
+	var tData = {txtUser_LoginName:$.trim($('#txtUser_LoginName').val()),txtUser_Pwd:$.trim($('#txtUser_Pwd').val()),ifc:$('#ifc').val()};
+	$.post("/login/ajaxLogin.am?n="+nowDate,tData,function(data){
+		if(data==''){
+			 var showStr = '<ul><li><a href="/login/logout.am" class="loginoutbutn"></a></li>';
+			 showStr+='<li class="logusername">'+$.trim($('#txtUser_LoginName').val())+'</li><li class="loginoutchar">Welcome</li></ul>';
+			 $("#loginbox").html(showStr);	        
+			 $("#boxword").hide();
+			 $("#boxinput").html('<div class="parbox">Login Successfully!</div>');
+			 $("#showBut").html('<input class="okbtn" type="button" value="OK" onclick="closeWin(\'loginWin\');location.reload();" />');
+			 $("#wordReq").hide();
+		}else{
+            if(data=='-1'||data=='-10'||data=='-20'||data=='-30'||data=='-40'||data=='-100'){
+            	$("#showMessByLogin").html(getMsgName(data));
+            	$("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word2");
+            }else if(data=='-50'){
+            	$("#showMessByLogin").html("The account is ONLINE now!");
+                $("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word3");
+            	$("#boxinput").html('<div class="parbox2">You can click “Log On” to sign in by signing out the other user mandatorily or click “Log Off” to give up the access. If you just logged in again and see this page, it means someone just signed you out mandatorily.</div><input type="hidden" id="hidLName" value="'+$("#txtUser_LoginName").val()+'"/><input type="hidden" id="hidLPa" value="'+$("#txtUser_Pwd").val()+'"/>');
+            	$("#showBut").html('<input class="twobtn1" type="submit" value="Log On" onclick="return outLine();" /><input class="twobtn2" type="button" value="Log Off" onclick="closeWin(\'loginWin\');" />');
+            	$("#wordReq").hide();
+            }else if(data.indexOf('|')>=0){
+                if(data.split("|")[0]=='-90'){
+            	    $("#loginWin").hide();
+            	    $("#findPwdWin").hide();
+            	    $("#logoutWin").hide();
+            	    $("#wrapAlert").show();
+            	    $("#chgTip").show();
+            	    $("#chgTipInp").show();
+            	    $("#chgBut").unbind("click");
+            	    $("#chgBut").click(function(){setMail();});
+            	    $("#pId").val(data.split("|")[1]);
+            	    $("#uaId").val(data.split("|")[2]);
+            	    $("#uId").val(data.split("|")[3]);
+            	    $("#uName").val(data.split("|")[4]);
+                }
+            }else{
+            	$("#showMessByLogin").html(getMsgName(data));
+            	$("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word2");
+            }
+		}
+		   
+	});
+	
+    
+}
+function loginByWin(){
+	$("body").css("overflow","hidden");
+	$("#findPwdWin").hide();
+	$("#loginWin").show();
+	$("#showFilter").show();
+	$("#logoutWin").hide();
+	$("#wrapAlert").hide();
+	
+	if(!$("#cnopenloginname").check().notNull()){
+		$("#showMessByLogin").html("Please Input Username");
+		$("#showMessByLogin").removeClass();
+		$("#showMessByLogin").addClass("l_word2");
+		$("#cnopenloginname").focus();
+		return;
+	}
+	if(!$("#cnopenloginpwd").check().notNull()){
+		$("#showMessByLogin").html("Please Input Password");
+		$("#showMessByLogin").removeClass();
+		$("#showMessByLogin").addClass("l_word2");
+		$("#showMessByLogin").focus();
+		return;
+	}
+	var nowDate = new Date();
+	var tData = {txtUser_LoginName:$.trim($('#cnopenloginname').val()),txtUser_Pwd:$.trim($('#cnopenloginpwd').val()),ifc:$('#ifc').val()};
+	$.post("/login/ajaxLogin.am?n="+nowDate,tData,function(data){
+		if(data==''){
+			 var showStr = '<ul><li><a href="/login/logout.am" class="loginoutbutn"></a></li>';
+			    showStr+='<li class="logusername">'+$.trim($('#cnopenloginname').val())+'</li><li class="loginoutchar">Welcome</li></ul>';
+			    $("#loginbox").html(showStr);
+			$("#boxword").hide();
+			$("#boxinput").html('<div class="parbox">Login Successfully!</div>');
+			$("#showBut").html('<input class="okbtn" type="button" value="OK" onclick="closeWin(\'loginWin\');location.reload();" />');
+			$("#wordReq").hide();
+		}else{
+            if(data=='-1'||data=='-10'||data=='-20'||data=='-30'||data=='-40'||data=='-100'){
+            	$("#showMessByLogin").html(getMsgName(data));
+            	$("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word2");
+            }else if(data=='-50'){
+            	$("#showMessByLogin").html("The account is ONLINE now!");
+                $("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word3");
+            	$("#boxinput").html('<div class="parbox2">You can click “Log On” to sign in by signing out the other user mandatorily or click “Log Off” to give up the access. If you just logged in again and see this page, it means someone just signed you out mandatorily.</div><input type="hidden" id="hidLName" value="'+$("#cnopenloginname").val()+'"/><input type="hidden" id="hidLPa" value="'+$("#cnopenloginpwd").val()+'"/>');
+            	$("#showBut").html('<input class="twobtn1" type="submit" value="Log On" onclick="return outLine();" /><input class="twobtn2" type="button" value="Log Off" onclick="closeWin(\'loginWin\');" />');
+            	$("#wordReq").hide();
+            }else if(data.indexOf('|')>=0){
+                if(data.split("|")[0]=='-90'){
+            	    $("#loginWin").hide();
+            	    $("#findPwdWin").hide();
+            	    $("#logoutWin").hide();
+            	    $("#wrapAlert").show();
+            	    $("#chgTip").show();
+            	    $("#chgTipInp").show();
+            	    $("#chgBut").unbind("click");
+            	    $("#chgBut").click(function(){setMail();});
+            	    $("#pId").val(data.split("|")[1]);
+            	    $("#uaId").val(data.split("|")[2]);
+            	    $("#uId").val(data.split("|")[3]);
+            	    $("#uName").val(data.split("|")[4]);
+                }
+            }else{
+            	$("#showMessByLogin").html(getMsgName(data));
+            	$("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word2");
+            }
+		}
+		   
+	});
+	
+}
+function showFind(){
+	$("#findPwdWin").show();
+	$("#loginWin").hide();
+	$("#logoutWin").hide();
+	$("#wrapAlert").hide();
+}
+function findPwdByWin(){
+	if(!$("#findUserMail").check().notNull()){
+		$("#showMessByFind").html("Please Input Username");
+		$("#showMessByFind").removeClass();
+		$("#showMessByFind").addClass("l_word2");
+		$("#findUserMail").focus();
+		return;
+	}
+	var nowDate = new Date();
+	var tData = {userLoginName:$.trim($('#findUserMail').val()),userMail:$.trim($('#findUserMail').val())};
+	$.post("/login/findPwd.am?n="+nowDate,tData,function(data){
+		if(data==''){  
+			$("#showMessByFind").html("Successfully!");
+			$("#showMessByFind").removeClass();
+			$("#showMessByFind").addClass("l_word3");
+			$("#findInp").html('<div class="parbox2">The password has been sent to your Email account. Do check your SPAM folder in case you have not received the Email in your box. </div>');
+			$("#findBut").html('<input class="okbtn" type="button" value="OK" onclick="closeWin(\'findPwdWin\');" />');
+			
+	    }else{
+	    	$("#showMessByFind").html(getMsgName(data));
+	    	$("#showMessByFind").removeClass();
+	    	$("#showMessByFind").addClass("l_word2");
+	    }
+	});
+	
+}
+function setMail(){
+	var nowDate = new Date();
+	var tData = {txtSUser_LoginName:$.trim($('#txtSUser_LoginName').val()),uId:$('#uId').val(),uName:$('#uName').val(),ifc:$('#ifc').val(),pId:$("#pId").val(),uaId:$("#uaId").val()};
+	$.post("/login/setLoginName.am?n="+nowDate,tData,function(data){
+		if(data==''){
+			 $("#loginWin").hide();
+     	     $("#findPwdWin").hide();
+     	     $("#logoutWin").hide();
+     	     $("#wrapAlert").show();
+     	     $("#chgTipSuccess").show();
+     	     $("#chgTip").hide();
+     	     $("#chgTipError").hide();
+     	     $("#chgTipInp").hide();
+     	    $("#chgBut").unbind("click");
+     	     $("#chgBut").click(function(){closeWin('wrapAlert');});
+     	     
+		}else{
+            if(data=='-1'||data=='-10'||data=='-20'||data=='-30'||data=='-40'||data=='-100'||data=='-110'){
+            	 $("#loginWin").hide();
+         	     $("#findPwdWin").hide();
+         	     $("#logoutWin").hide();
+         	     $("#wrapAlert").show();
+         	     $("#chgTipSuccess").hide();
+         	     $("#chgTip").hide();
+         	     $("#chgTipError").show();
+         	     $("#chgTipInp").show();
+         	     $("#chgBut").unbind("click");
+         	     $("#chgBut").click(function(){setMail();});
+         	     
+            }
+		}
+		  // alert(getMsgName(data));
+	});
+}
+function outLine(){
+	$("body").css("overflow","hidden");
+	$("#findPwdWin").hide();
+	$("#loginWin").show();
+	$("#logoutWin").hide();
+	$("#wrapAlert").hide();
+	
+	var nowDate = new Date();
+	var tData = {txtUser_LoginName:$.trim($('#hidLName').val()),txtUser_Pwd:$.trim($('#hidLPa').val()),ifc:$('#ifc').val()};
+	$.post("/login/kickoutLogin.am?n="+nowDate,tData,function(data){
+		if(data==''){
+			var showStr = "";
+		    showStr+='<div class="welcomeuse">welcome&nbsp;&nbsp;<font color="#ff0000">'+$.trim($('#hidLName').val())+'</font>&nbsp;&nbsp;</div>';
+	        showStr+='<div id="loginbotn"><a href="/login/logout.am" class="logout"><img src="/images/logoutEn.gif" border="0"></a></div>';
+	        $("#logindiv").html(showStr);
+	        $("#boxword").hide();
+			$("#boxinput").html('<div class="parbox">Login Successfully!</div>');
+			$("#showBut").html('<input class="okbtn" type="button" value="OK" onclick="closeWin(\'loginWin\');location.reload();" />');
+			$("#wordReq").hide();
+			
+		}else{
+			if(data=='-1'||data=='-10'||data=='-20'||data=='-30'||data=='-40'||data=='-100'){
+            	$("#showMessByLogin").html(getMsgName(data));
+            	$("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word2");
+            }else if(data=='-50'){
+            	$("#showMessByLogin").html("The account is ONLINE now!");
+                $("#showMessByLogin").removeClass();
+            	$("#showMessByLogin").addClass("l_word3");
+            	$("#boxinput").html('<div class="parbox2">You can click “Log On” to sign in by signing out the other user mandatorily or click “Log Off” to give up the access. If you just logged in again and see this page, it means someone just signed you out mandatorily.</div><input type="hidden" id="hidLName" value="'+$("#cnopenloginname").val()+'"/>');
+            	$("#showBut").html('<input class="twobtn1" type="submit" value="Log On" onclick="return outLine();" /><input class="twobtn2" type="button" value="Log Off" onclick="closeWin(\'loginWin\');" />');
+            	$("#wordReq").hide();
+            }else if(data.indexOf('|')>=0){
+                if(data.split("|")[0]=='-90'){
+            	    $("#loginWin").hide();
+            	    $("#findPwdWin").hide();
+            	    $("#logoutWin").hide();
+            	    $("#wrapAlert").show();
+            	    $("#chgTip").show();
+            	    $("#chgTipInp").show();
+            	    $("#chgBut").unbind("click");
+            	    $("#chgBut").click(function(){setMail();});
+            	    $("#pId").val(data.split("|")[1]);
+            	    $("#uaId").val(data.split("|")[2]);
+            	    $("#uId").val(data.split("|")[3]);
+            	    $("#uName").val(data.split("|")[4]);
+                }
+            }
+		}
+		   //alert(data);
+	});
+}
+function closeWin(dId){
+    $("#"+dId).hide();
+    $("#showFilter").hide();
+    $("body").css("overflow","auto");
+}
+function alertMessage(mess){
+	$("body").css("overflow","hidden");
+	$("#findPwdWin").hide();
+	$("#loginWin").hide();
+	$("#logoutWin").show();
+	$("#wrapAlert").hide();
+	$("#showFilter").show();
+	$("#logoutAlert").html(mess);
+}
+</script>
 <div class="divposition headbg">
 	<div class="floatleft">
     	<div class="logodiv"><a href="http://www.asianmetal.com/" target="_blank" class="pageen"></a></div>
@@ -53,20 +478,18 @@
                     </div> 
                 </div>                
                 </li></form>
-                <li class="subli"><a href="/about/subscribe.shtml" target="_blank" class="sublia">Subscribe</a></li>
-                <li class="lineli">|</li>
-                <li class="freeli"><a href="/redirect/redirectRegEn.am" target="_blank" class="freelia">Free Trial</a></li>
+                <li class="freeli"><a href="/member/memberRegEn.shtml" target="_blank" class="freelia">Free Trial</a></li>
             </ul>
         </div>
         <div class="clearfloat"></div>
     	<div id="loginbox" class="logindiv">
         	<ul>
-        		<form name="loginHead" id="loginHead" method="post" action="/login/login.am">
+        		<form name="loginHead" id="loginHead">
         		<input type="hidden" name="ifc" id="ifc" value="1">
-            	<li><a class="loginbutn" onclick="return checkLoginEn();"></a></li>
+            	<li><a class="loginbutn" onclick="loginByTop();"></a></li>
             	<li>
-                <input style="display:none;" id="txtUser_Pwd" name="txtUser_Pwd" class="logininput" type="password" onkeydown="if(event.keyCode == 13) return checkLoginEn();" onfocus="sso_focus(this)">
-                <input id="pwddiv" name="pwddiv" class="logininput" type="text" onkeydown="if(event.keyCode == 13) return checkLoginEn();" onfocus="sso_focus(this)" value="Password">
+                <input style="display:none;" id="txtUser_Pwd" name="txtUser_Pwd" class="logininput" type="password" onkeydown="if(event.keyCode == 13) loginByTop();" onfocus="sso_focus(this)">
+                <input id="pwddiv" name="pwddiv" class="logininput" type="text" onkeydown="if(event.keyCode == 13) loginByTop();" onfocus="sso_focus(this)" value="Password">
                 </li>
             	<li><input id="txtUser_LoginName" name="txtUser_LoginName" type="text" class="logininput" value="Loginname" onfocus="sso_focus(this)"></li>
             </form>
@@ -79,17 +502,18 @@ $(document).ready(function () {
     else
   	  $("#ifc").val("0");
 });
+ifLoginEnV2();
 </script>
         <div class="clearfloat"></div>
         <div class="logindiv">
         	<ul>
-            	<li><a href="/redirect/redirectLoginEn.am?returnUrl=/member/getMmbNewsEn.am" class="logina4">My page</a></li>
+            	<li><a href="/member/myNegotiateEn.am" class="logina4">My page</a></li>
                 <li class="lineli2">|</li>
             	<li><a href="/about/contactusEn.shtml" target="_blank" class="logina2">Contact us</a></li>
             	<li class="lineli2">|</li>
             	<li><a href="/about/aboutusEn.shtml" target="_blank" class="logina3">About us</a></li>
             	<li class="lineli2">|</li>
-            	<li><a href="/login/findPwdEn.shtml" target="_blank" class="logina1">Forgot password?</a></li>
+            	<li><a onclick="showFind()" target="_blank" class="logina1">Forgot password?</a></li>
             </ul>
         </div>
         <div class="clearfloat"></div>
@@ -172,7 +596,8 @@ jQuery(function($){
 	  $("#onSubId1").click(function (e) {
 		e.preventDefault();
 			if(!$("#searchtext").check().notNull()||$("#searchtext").val()=='Search News'){
-			alert("Please enter a keyword");
+			//alert("Please enter a keyword");
+			alertMessage("Please enter a keyword");
 			$("#searchtext").focus();
 			return;
 			}
@@ -189,15 +614,19 @@ jQuery(function($){
 	<ul>
     	<li id="ntab1" class="ntabmenuoff"><a href="/price/initPriceListEn.am" target="_blank">AM Prices</a></li>
     	<li id="ntab2" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=News" target="_blank">News</a></li>
-    	<li id="ntab3" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=researchReport" target="_blank">Reports</a></li>
-      <li id="ntab4" class="ntabmenuoff"><a href="/datacenter/index.am" target="_blank">Database</a></li>
-    	<li id="ntab5" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=Statistic" target="_blank">Statistics</a></li>
-    	<li id="ntab6" class="ntabmenuoff"><a href="/trade/initTradeEn.am" target="_blank">Proposals</a></li>
-    	<li id="ntab7" class="ntabmenuoff"><a href="/supply/getAllCompany.am" target="_blank">Directories</a></li>
+    	<li id="ntab3" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=martAnalysis" target="_blank">Analysis</a></li>
+    	<li id="ntab4" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=WeeklyReview" target="_blank">Weekly</a></li>
+    	<li id="ntab5" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=researchReport" target="_blank">Reports</a></li>
+		<li id="ntab6" class="ntabmenuoff"><a href="/datacenter/index.am" target="_blank">Database</a></li>
+    	<li id="ntab7" class="ntabmenuoff"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=Statistic" target="_blank">Statistics</a></li>
+    	<li id="ntab8" class="ntabmenuoff"><a href="/trade/initTradeEn.am" target="_blank">Marketplace</a></li>
+    	<li id="ntab9" class="ntabmenuoff"><a href="http://www.worldmetalmap.com/" target="_blank">Metal Map</a></li>
     	<li class="liw">&nbsp;</li>
-    	<li id="ntab8" class="ntabmenuoff"><a href="/events/index_events_en.shtml" target="_blank">Conferences</a></li>
-    	<li id="ntab9" class="ntabmenuoff"><a>Video</a></li>
-    	<li id="ntab10" class="ntabmenuoff"><a href="/interviews/indexEn.shtml" target="_blank">Interviews</a></li>
+    	<li id="ntab10" class="ntabmenuoff"><a href="/events/index_events_en.shtml" target="_blank">Events</a></li>
+    	<li id="ntab11" class="ntabmenuoff"><a href="/interviews/indexEn.shtml" target="_blank">Interviews</a></li>
+    	<li id="ntab12" class="ntabmenuon"><a href="/cag/indexEn.shtml" target="_blank">Visits</a></li>
+    	 <img style="position:absolute; left:350px; top:-8px;;" src="/img/New.png">
+        <img style="position:absolute; left:600px; top:-8px;;" src="/img/New.png">
     </ul>
 </div> 
 </div>
@@ -237,16 +666,16 @@ jQuery(function($){
         	<div class="foottitle">Navigation</div>
         	<div class="footenmenu"><a href="http://www.asianmetal.com/" target="_blank">Home</a></div>
         	<div class="footenmenu"><a href="/redirect/redirectRegEn.am" target="_blank">Free Trial</a></div>
-        	<div class="footenmenu"><a href="/about/subscribe.shtml" target="_blank">Subscribe</a></div>
+        	<div class="footenmenu"><a href="http://www.asianmetal.com/about/aboutusEn.shtml" target="_blank">Subscribe</a></div>
         	<div class="footenmenu"><a href="/redirect/redirectLoginEn.am?returnUrl=/member/getMmbNewsEn.am" target="_blank">My Page</a></div>
         	<div class="footenmenu"><a href="/price/initPriceListEn.am" target="_blank">AM Prices</a></div>
         	<div class="footenmenu"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=News" target="_blank">News</a></div>
         	<div class="footenmenu"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=researchReport" target="_blank">Reports</a></div>
         	<div class="footenmenu"><a href="/news/getMoreProNewsEn.am?jspBarNewsType=Statistic" target="_blank">Statistics</a></div>
-        	<div class="footenmenu"><a href="/trade/initTradeEn.am" target="_blank">Proposals</a></div>
+        	<div class="footenmenu"><a href="/trade/initTradeEn.am" target="_blank">Marketplace</a></div>
         	<div class="footenmenu"><a href="/supply/getAllCompany.am" target="_blank">Directories</a></div>
-        	<div class="footenmenu"><a href="/events/index_events_en.shtml" target="_blank">Conferences</a></div>
-        	<div class="footenmenu">Video</div>
+        	<div class="footenmenu"><a href="/events/index_events_en.shtml" target="_blank">Events</a></div>
+        	<div class="footenmenu"><a href="/video/indexEn.shtml" target="_blank">Photostream</a></div>
         	<div class="footenmenu"><a href="/interviews/indexEn.shtml" target="_blank">Interviews</a></div>
         	<div class="footenmenu">Database</div>
         	<div class="footenmenu"><a href="/cag/indexen.shtml" target="_blank">Visits</a></div>
