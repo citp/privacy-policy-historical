@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pastebin.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234731id_/http%3A//pastebin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastebin.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005502id_/http%3A//pastebin.com/privacy) for the most accurate reproduction.*
 
 # Pastebin.com - Privacy Policy
-
-**Pastebin PRO Accounts CHRISTMAS SPECIAL!** For a limited time only. Get **40% discount** on a [LIFETIME PRO](https://web.archive.org/pro) account!
 
 Pastebin.com Privacy Policy
 
