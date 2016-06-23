@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212163418id_/http%3A//exametc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623164933id_/http%3A//www.exametc.com/ppolice.php) for the most accurate reproduction.*
 
-# Exametc : : Privacy Policy
+# Exametc.com - Browse all India examination results and notifications of Secondary board, Higher secondary board, university, competitive examination and entrance examination
+
+[Home](http://www3.exametc.com/) |  Privacy Policy
 
 In the course of registering for and availing various services we provide from time to time through our website www.exametc.com (Website, Mobile application and SMS or any other medium in which Exametc.com may provide services (collectively referred to as "Media") you may be required to give your name, email address, phone number or mobile number, Age, educational qualifications and similar Personal Information (Collectively referred to as "Personal Information"). The Personal Information is used for two general purposes: to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media.
 
