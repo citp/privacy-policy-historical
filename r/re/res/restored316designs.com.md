@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the restored316designs.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906181057id_/http%3A//restored316designs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restored316designs.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624015743id_/http%3A//restored316designs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Restored 316 // Feminine Wordpress Themes using the Genesis Framework by Lauren Gaige
 
 BY VISITING RESTORED316DESIGNS.COM, YOU ARE CONSENTING TO OUR PRIVACY POLICY.
 
