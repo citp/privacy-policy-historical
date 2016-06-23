@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125063224id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623191055id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Adrenalin
 
@@ -9,15 +9,12 @@ Except where necessary for viewing, the Material on this web site on your browse
 'Adrenalin', 'LIVE Adrenalin', 'A.365', 'Serious Fun', ‘Corporate Adrenalin’ and ‘a.gear’ all associated trademarks, are trademarks of ADRENALINE PTY LTD.  ACN 117 402 838.  
  ****
 
-  
-**Privacy**
-
-[](https://privacy.truste.com/privacy-seal/Trackcorp-Adrenalin-Pty-Ltd/validation?rid=f25d380c-0ed9-4a5e-aa77-03ce35ada8f5 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=00a3e43a-c66f-4d78-991e-8ec1f384aee6 "TRUSTe Privacy Certification")
 
 ADRENALINE PTY LTD takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate/](http://www.adrenalin.com.au/corporate/).
 
   
-ADRENALINE PTY LTD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.adrenalin.com.au](http://www.adrenalin.com.au/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, [please contact us](https://www.adrenalin.com.au/contact/). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Adrenaline Pty Ltd has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.adrenalin.com.au](http://www.adrenalin.com.au/). If you have questions or complaints regarding our privacy policy or practices, [please contact us](https://www.adrenalin.com.au/contact/). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 **Collection of personal information by Adrenalin**   
 The personal information we collect and store will depend on what products and services you request from us. This includes (but is not limited to) information provided when requesting an adventure booking, gift voucher, gear and/or membership. Our sites registration form requests users’ [which includes third party personal information where applicable collected as described below] to give us contact and profile information such as name, email address, phone number, mailing address, age, medical conditions and dietary requirements.  Some of the requested information is required in order to receive the Adrenalin product or service; other information is optional.  
@@ -50,7 +47,7 @@ Personal information may also be disclosed to our third party service providers 
 
   * To the adventure provider for the purpose of processing your booking request
   * To others in the event of a medical emergency
-  * To any entity to which we are required, or authorised by or under law to disclose such information such as, in responding to a formal request in a court order, judicial proceeding or subpoena.
+  * To any entity to which we are required, or authorised by or under law to disclose such information such as, in responding to a formal request in a court order, judicial proceeding or subpoena, bankruptcy proceedings or similar legal process.
   * To protect against misuse or unauthorised use of Adrenalin
   * To protect the safety, or property of our members, or the public.
   * We use a third party payment processor to fulfill payment for services procured on the Site.
@@ -67,14 +64,12 @@ We request demographic information for our own market research and understanding
  **  
 Collection of information other than personal information**
 
-  * IP addresses/operating system/browser type: When you visit our web site or click on one of our links, we may automatically record information such as your I.P. address, operating system, browser version, date and time of your visit, pages you accessed and information you downloaded. We use this information to generate usage statistics, ensure that our site and emails are accessible to the widest possible audience and to assist in improving the quality and usability of our website. We may also use I.P. addresses to track abuse of our system.
+  * IP addresses/operating system/browser type: When you visit our web site or click on one of our links, we may automatically record information such as your I.P. address, operating system, browser version, date and time of your visit, pages you accessed and information you downloaded. We use this information to generate usage statistics, ensure that our site and emails are accessible to the widest possible audience and to assist in improving the quality and usability of our website. We may also use I.P. addresses to track abuse of our system. We do link this automatically collected data to other information we collect about you.
   * Links: When we provide you with links in our emails, they may include a special tracking code unique to you, which allows us to determine which content and advertisements are most popular. We may share this data in aggregate form, but we will never share it in individual form.
   * Cookies: A cookie is a small string of information that a website transfers to your browser for identification purposes. We may use cookies to determine which third party offers our members utilise and to personalise your current visit to our website. The information in cookies is not tied to your personal information. Most internet browsers can be set up to accept, or reject cookies, however rejecting cookies may limit the functionality of our website. We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
-  * Web beacons: Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyse how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-  * Our tracking utility company use both session ID and persistent cookies. The use of cookies by our tracking utility company is not covered by our privacy policy.  We do not have access or control over these cookies.
-  * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-  * We use Local Storage Objects (LSOs) such as HTML5 of Flash to store preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.  Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
-  * We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+  * Tracking Technologies: Technologies such as: cookies, beacons, tags and scripts are used by Adrenaline Pty Ltd and our marketing partners, affiliates, or analytics or online customer support service providers provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+  * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.  Various browsers may offer their own management tools for removing HTML5 LSOs. 
+  * We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
   * 
 
 
@@ -95,13 +90,13 @@ Our servers are equipped with 128-bit encryption bit technology (designated secu
 If you no longer wish to receive Adrenalin’s publications, you may remove your details from the subscriptions list by clicking on the ‘unsubscribe’ link at the bottom of the associated email. Alternatively, [please contact us](https://www.adrenalin.com.au/contact/). Please note that by law, Adrenalin has 5 days to action your unsubscribe request.  
  **  
 Reviews  
-** We provider users’ an opportunity to review their adventures; we post their first name and last initial with their review after obtaining their consent. Please be aware that Adrenalin is not responsible for the personal information a user selects to include within their review. If you wish to update or delete your testimonial, you can [contact us](https://www.adrenalin.com.au/contact/).
+** We provide users’ an opportunity to review their adventures; we post their first name and last initial with their review after obtaining their consent. Please be aware that Adrenalin is not responsible for the personal information a user selects to include within their review. If you wish to update or delete your testimonial, you can [contact us](https://www.adrenalin.com.au/contact/).
 
 **Notification of Changes**   
 Adrenalin reserves the right to modify this privacy policy. For this reason, you should regularly check our policy to ensure that you are up to date on our policy. Should we make material changes in the manner we handle your personal information, we shall notify you by a prominent notice on the home page prior to the change becoming effective.  
  **  
 Access and Correction of your personal information**   
-You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected or deleted, [please contact us](https://www.adrenalin.com.au/contact/) with your updated information.  
+You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected or deleted, [please contact us](https://www.adrenalin.com.au/contact/) with your updated information. We will respond to your request within a reasonable timeframe.  
  **  
 Data Retention**   
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, [please contact us](https://www.adrenalin.com.au/contact/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
@@ -110,4 +105,4 @@ Contacting the web site or webmaster**
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](https://www.adrenalin.com.au/contact/) or call us on 1300 791 793. We will make all reasonable attempts to respond to your enquiry.  
 By Mail: 20 Burton, Darlinghurst, NSW 2010 Australia.
 
-Last Modified 10th December 2014.
+Last Modified 14th March 2016.
