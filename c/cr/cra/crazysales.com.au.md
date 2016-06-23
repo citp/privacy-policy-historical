@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028153334id_/http%3A//www.crazysales.com.au/article/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005753id_/http%3A//www.crazysales.com.au/article/PrivacyStatement) for the most accurate reproduction.*
 
 # CrazySales Privacy Statement
 
@@ -33,17 +33,17 @@ We may collect personal information about you when you visit our website, when y
 
 We generally collect your personal information for the following purposes:
 
-•To facilitate your access to our website, products and services
+?To facilitate your access to our website, products and services
 
-•To deliver products you have ordered from us
+?To deliver products you have ordered from us
 
-•To conduct marketing activities
+?To conduct marketing activities
 
-•To provide you with information about our products and services
+?To provide you with information about our products and services
 
-•To seek your opinion on our products, services, marketing and website.
+?To seek your opinion on our products, services, marketing and website.
 
-•To send you newsletters 
+?To send you newsletters 
 
 Some of the personal information we collect is essential for us to be able to accurately identify who is using the service. Other types of personal information we collect help us to develop a profile of who is using our service and what their interests are. This assists us in offering products to suit the needs of the users of this website.
 
@@ -53,9 +53,9 @@ We will share your personal information with third parties only in the ways that
 
 We may disclose your personal information to third parties for the purpose of which the information was collected, or for related purposes. For example to complete a transaction on your behalf or provide you with a product that you purchased. We engage third party contractors to perform services for us which involve the contractor handling personal information we hold. For example, we currently engage third party contractors to:
 
-•Deliver products purchased from this website
+?Deliver products purchased from this website
 
-•Provide electronic funds transfer services, credit card account processing and related services
+?Provide electronic funds transfer services, credit card account processing and related services
 
 In these situations, the third party contractor is strictly prohibited from using any personal information about you outside of the specific purpose for which we have supplied it. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, to comply with a subpoena, customs and immigration purposes. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate any suspected unlawful activity.
 
