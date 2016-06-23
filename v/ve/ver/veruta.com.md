@@ -1,178 +1,183 @@
-> *The following text is extracted and transformed from the veruta.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127143824id_/http%3A//www.mybuys.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veruta.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623222107id_/http%3A//www.magnetic.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyBuys
+# Magnetic Privacy Policy
 
-UPDATED – November 19, 2015
+## Summary of Privacy Policy
 
-_This Privacy Policy explains the privacy practices of MyBuys, Inc. and how we collect, use, and disclose information we collect from users of any of our corporate Clients’ websites or mobile websites (each, a “Client” and “Client’s Site”, respectively) and users of our corporate website (_[ _www.mybuys.com_](http://www.mybuys.com/) _) (“Corporate Site”). We take your privacy seriously and want to help you understand what we do, our practices, and the protections we use to safeguard data._
+_At Magnetic, we are in the business of knowing what you’re interested in so that when you’re visiting websites or receiving e-mails from companies that work with us, we can show you content that is more likely to be relevant to you.  We collect and use information from across the web and beyond to help us give our customers insights into what types of products you are interested in purchasing.  We also employ a variety of tools to try to figure out which browsers or devices belong to you so that our customers and partners provide you with a consistent experience everywhere – on your smartphone, tablet, laptop or other connected device. To help us do this, we may collect your IP address, e-mail address, and other information about you or your devices. We value your privacy, and you have the right to opt-out from certain of our services, as explained in [Section 6](http://www.magnetic.com/about/privacy/#consumercontrol). Please note that this does not mean you will see less ads or get fewer e-mails; it just means that what you see will be less relevant. _
 
-_If you have questions about our Privacy Policy, please contact us at privacy at mybuys dot com_
+## Full Privacy Policy
 
-_As used in this Privacy Policy, “PI” or “Personal Information” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, and e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Information” means data that is not associated with or linked to your Personal Data. Anonymous Information does not, by itself, permit the identification of individual persons._
+**Updated June  9, 2016**
 
-_By using our services through a Client Site or our Corporate Site, you agree to the terms of this Privacy Policy and you expressly consent to the processing collection, use, and disclosure of your Personal Information in accordance with this Privacy Policy._
+Magnetic Media Online, Inc. (“Magnetic” or “we”) is committed to protecting the privacy of individuals. This policy applies to Magnetic and provides information about our Services, the information we collect, how we use and share that information, your rights, and how to contact us. This privacy policy covers our collection and use of information relating to a natural person that we collect on our websites and through relationships with our Customers and Partners.
 
-_This Privacy Policy is effective as of June 21, 2013_
+**1\. MAGNETIC’S SERVICES**
 
-PORTION OF PRIVACY POLICY FOR USERS OF CLIENTS’ SITES – SUMMARY
+Magnetic provides marketing and advertising services used by retailers and other businesses. Through relationships with our customers (“ **Customers** ”) and partners (including without limitation online or mobile ad networks, ad exchanges, marketing platforms, and data partners) that we and our Customers and partners work with across the web (collectively “ **Partners** ”), we collect information about online activity related to search, website, and shopping behavior which enables us to deliver in-store product recommendations, personalized email marketing services, audience and customer analytics, and personalized advertisements (which is sometimes referred to as “targeted advertising” or “retargeting”), and to analyze the effectiveness of these services. For the purposes of this privacy policy, these practices are referred to as our “ **Services**.”
 
-MyBuys provides marketing and advertising services used by retailers and other businesses. In general, the data that we use is collected while you browse or buy on one of our Clients’ Sites. For example, we pay attention to the kinds of things you like to shop for and buy – what categories (like T-shirts or digital cameras), what brands, and other details about those items, such as whether they were on sale.
+**2\. THE INFORMATION WE RECEIVE AND COLLECT TO PROVIDE OUR SERVICES**
 
-We don’t collect sensitive data like credit card numbers, social security numbers or even your name or address. We don’t collect data on sensitive topics like your health, your finances or political views. We don’t collect Personal Information, except for your email address. And we only collect your email address if you’ve opted-in to receive emails from that Client. You can opt-out of such emails at any time by clicking the “Opt-Out” or “Unsubscribe” link at the bottom of every email we send on behalf of that Client. We do not use your email to send you email marketing regarding MyBuys or our other Clients, unless you have also opted-in to receive emails from any such other Client.
+To provide our Services, we collect and receive a variety of data from, and on behalf of, our Customers and Partners.  This includes the following information, referred to collectively as “ **Service Information**.”  (To learn about the information collected on the Magnetic Websites, which is distinct from our Service Information, please go to the Section titled [“INFORMATION COLLECTED ON THE MAGNETIC WEBSITES AND HOW WE USE AND SHARE IT.”](http://www.magnetic.com/about/privacy/#informationonthemagneticwebsites))
 
-We use the data we collect to determine your preferences, which in turn enables us to make our marketing and advertising services more useful to you. These services include making product recommendations to you when you are on our Clients’ Sites, in follow-up emails sent by our Clients or by us on our Clients’ behalf, in advertisements sent by our Clients or by us on our Clients’ behalf, or in direct mail pieces sent by our Clients.
+**a. Unique Identifiers**.  We may collect unique user identifiers from your browsers or devices.  This may include, for instance, a unique identifier associated with a cookie on your browser, or a mobile advertising identifier associated with your mobile device, such as an Apple IDFA or an Android Ad ID.  For more details on how these technologies work, please see the section below regarding [“COOKIES, PIXEL TAGS, AND SDKs.”](http://www.magnetic.com/about/privacy/#cookiestagssdks)
 
-We don’t sell, barter, or otherwise disclose your Personal Information, except to our service providers, affiliates, in connection with legal processes or protecting the rights of ourselves or any third parties, or in connection with a merger or acquisition. We may freely disclose Anonymous Information.
+**b. Log Information**. Similarly, when you visit the website of a Customer or Partner, or a website where our Partner’s services are deployed, our servers may automatically collect information from your browser. This may include information such as your Internet Protocol (“IP”) address (a unique number automatically assigned to your computer from which your location can be inferred), date and time, whether one of our cookies is already set on your browser, browser type, the website (or mobile application) with which you are interacting, search data, webpage information, and your interactions with our Services, Customers, or Partners.
 
-You can opt-out of having us automatically collect your data for the purpose of serving personalized content to you at any time by clicking [here](http://www.mybuys.com/opt-out). Please note that this doesn’t mean that you won’t see ads or recommendations. Rather, you’ll see a generic ad or recommendation in place of personalized content because no data related to you individually will have been used in our services.
+**c. Data Segments.**   We do occasionally create or offer (for ad targeting or analytics usage) Data Segments regarding general health-related interests (such as diet, fitness, or smoking) or customized health-related Data Segments to help determine which ads a person might be interested in. A list of those segments can be found here.
 
-We retain information that we collect about you only for as long as it remains relevant to providing you recommendations and advertisements or as required by law or to protect our rights.
+**d. Transactional Information**. Our Customers may provide us with information about your transactions and interactions with them or their websites.
 
-**_The foregoing Summary is meant to provide an overview of our Privacy Policy. Please note that the Full Privacy Policy below governs in the case of any discrepancy between the Summary and the Full Privacy Policy. Accordingly, please review the Full Privacy Policy for a complete description of our privacy practices._**
+**e.  ** **Mobile data.** Through our Partners and mobile applications using our Services, we may collect information about your interactions with those applications (including your IP address and time-stamp information), and information about your mobile device (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, app-specific identifiers, and a list of the applications your device interacts with.  Sometimes, this may include precise location information, which may be categorized into interest categories based on vicinities your device tends to visit.
 
-PORTION OF PRIVACY POLICY FOR USERS OF CLIENTS’ SITES – FULL POLICY
+**f. Email Marketing Information.**  When we provide email-related Services, we may collect information regarding how you interact with emails sent by, or on behalf of, our Customers, including information relating to the opening of the email and clicking on recommendations contained in the email.
 
-This portion of our Privacy Policy for Users of Clients’ Sites describes the privacy practices of MyBuys with respect to information we collect from you through our Clients’ Sites. We understand that your privacy is important to you, and we strive to safeguard and manage your Personal Information and data in a responsible fashion.
+**g.** **Data Enhancement and Combination.**  We may combine the Service Information listed above, or enhance it with other information that we obtain from other sources, to improve our Services.  When we do this, we often use data “hashing” and other methods to de-identify or obfuscate certain types of information,  such as email addresses.
 
-  * What Personal Information and Anonymous Information we collect.
-  * How we use your information.
-  * What choices are available to you regarding collection, use, and distribution of your information.
-  * How we protect your information.
-  * With whom we share your information.
+**3\. HOW WE USE AND SHARE THE SERVICE INFORMATION**
 
+We use the Service Information as follows:
 
+**a. Provision of Services**. We use the Service Information to provide our Services (which we describe at the beginning of this Privacy Policy) across multiple media and advertising channels (also described in this Policy).  For instance, we use the Service Information to enable our Customers to better tailor ads to their own customers and prospective customers, which may include sending or serving ads through email, display media, in-site recommendations, or direct mail.  To do this, we may use de-identified, unique identifiers that enable our Services, and we may work with our Partners to do so.  These identifiers can often enhance consumer privacy by enabling us to maintain or associate data through de-identified or obfuscated information. 
 
-INFORMATION WE COLLECT
+******b.** **Creation and Sharing of Data Segments**.  We sometimes use the Service Information to create Data Segments (described in Section 2), which may then be used by Magnetic, our Customers, or our Partners to tailor advertising, marketing, and other services.  By way of illustration, if we collect Service Information that indicates that you enjoy the outdoors, we may then send, or help our Customers send, targeted ads or emails regarding outdoor gear or travel ideas. We also may create data models that indicate that many people with similar attributes to you (such as geographic or interest-based) seem to like the outdoors, and we may then send them ads regarding outdoor gear or travel ideas, based on that same model.
 
-**Types of Information**
+******c.** **Sharing and Syncing Information Across Platforms and Devices.**  We may share Service Information by integrating it (or Data Segments) with Partners to grant access to advertisers and Customers in conjunction with analytics or marketing services they provide. This might be done by syncing identifiers to permit de-identified data that we collect to be used by these platforms and their customers.  Likewise, we may obtain data from our Partners, such as browser or mobile identifiers and associated information; this process may involve the sharing of unique identifiers to create the sync. We may do this to provide Customers with this data or to improve our Services.  Similarly, we or our Partners may use other information collected through the Services (for instance, IP addresses), aggregated with information collected from various unaffiliated websites, mobile applications, and various devices or browsers, to provide content and advertisements about goods and services of interest to you across those devices and browsers.  
 
-We collect information about you to enable our Clients to provide compelling marketing and advertising services to you such as product recommendations and personalized ads. We believe the services that we power for our Clients improve your overall shopping experience with them.
+**d. Customers and Partners.** We may share Service Information with our Customers and Partners so that they can improve their offerings and services.
 
-Specifically, we may collect the following information:
+**e. Agents and Service Providers.** We may share Service Information with agents and service providers acting on our behalf so that they may provide services to us. For example, we may use a third-party database provider to store Information.
 
-  * Your use of our Clients’ Sites, including what products you view and other online navigation data;
-  * Your purchases on our Clients’ Sites;
-  * Your interaction with emails sent by our Clients or by us on our Clients’ behalf, including opening emails and clicking on recommendations in the emails;
-  * Your clicks on advertisements sent by our Clients or by us on our Clients’ behalf;
-  * Your email address if you have consented to receive emails from our Client;
-  * Information from our Clients whose privacy policies allow them to share Personal Information and/or Anonymous Information about their customers with us, such as purchase history; and
-  * Information from marketing partners and other third party data providers whose privacy policies allow them to share Anonymous Information about their customers with us, such as a consumer’s interests or purchase behavior.
+**f. Research.** We may share or disclose Service Information in de-identified form in connection with our research and development efforts.
 
+**g. Corporate and Legal Compliance.** In addition, we may share or disclose Service Information for the following limited purposes:
 
+  * As part of a business sale, merger, consolidation, investment, change in control, transfer of substantial assets, reorganization or liquidation, or in connection with steps taken in anticipation of such an event (e.g., due diligence).
+  * With our corporate affiliates.
+  * When required by law or in response to lawful process, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official.
+  * If we believe sharing the information may prevent physical, financial or other harm, injury or loss; or we believe is necessary to protect our, or any other person’s or entity’s, interests; or in connection with an investigation of suspected or actual unlawful activity.
 
-Much of the information that we collect is automatically generated by your computer or browser and collected by MyBuys. For example, when you visit an area of our Client’s Site where our services are deployed, our servers automatically record information that your browser sends. These server logs include information such as Internet Protocol (“IP”) address (a unique number that is automatically assigned to your computer), the date and time, whether one of our cookies is already set on your browser, your browser type, and your interactions with our services. Your IP address provides us with geographic location information. We also collect information with cookies and pixel tags, as described below. If you have opted-in to receive email from that Client, we also collect your email address. We don’t collect sensitive data like credit card numbers, social security numbers, or even your name or address. We don’t collect data on sensitive topics like your health, your finances or political views. Except for the collection of emails on an opt-in basis only, we do not collect Personal Information through our services.
 
-Cookies and Pixel Tags
 
-Much of the Anonymous Information that we collect about you is through the use of industry standard cookies and pixel tags. These technologies enable the exchange of data between your computer or mobile device and our servers, based on instructions on our Clients’ Sites. In other words, our Clients enable their Clients’ Sites to allow us to collect this information.
+**4\. INFORMATION COLLECTED ON THE MAGNETIC WEBSITES AND HOW WE USE AND SHARE IT**
 
-A “cookie” is a small data file that is stored on your computer that contains an anonymous unique browser identifier. Cookies act as anonymous tags that identify your computer, but not you personally. A “pixel tag” (also known as a web beacon or clear GIF) can be any file that makes up part of a web page, but is usually a small image (1×1 .gif). When you access a web page that has a pixel tag, the pixel tag generates a generic notice of your visit and permits us to set or read our cookies. Pixel tags are used in combination with cookies to anonymously track the activity on a site by a particular computer. This helps website operators analyze customer traffic and track transactions.
+**a. The Website Information We Collect**
 
-Cookies and pixel tags allow us to save your preference information to improve the quality of our services and to allow our Clients to offer you a better overall shopping experience. The information that we collect from cookies only includes Anonymous Information. We cannot and do not use cookies to collect any Personal Information.
+We collect the following information from visitors to our websites (the “Magnetic Websites”), including the website on which this Privacy Policy appears (“Magnetic Website Information”):
 
-Disabling Cookies
+  * **Volunteered:** You may share information with us on the Magnetic Websites when you request information from us, fill out a form on our website, or interact with us in other ways.  This information may include personal information, such as your name, email address, and other contact information. 
+  * **Passively Collected (e.g., Cookies and Unique IDs):** We use automated mechanisms (e.g., cookies and pixels) with unique identifiers to keep track of visitor interactions with the Magnetic Websites.  (You can learn more about these technologies below in the Section titled [“COOKIES, PIXEL TAGS, AND SDKS”](http://www.magnetic.com/about/privacy/#cookiestagssdks)).  We may use third party-services such as Google Analytics, in which case those third parties gather information such as your IP address, browser type, the webpage from which you came to our website, and the times of your access to the Magnetic Websites.  In addition, as you browse our websites, advertising cookies may be placed on your computer so that we can understand what you are interested in.  Our display advertising partners may then help us retarget ads to you on other sites based on your interactions with the Magnetic Websites.  To “opt out” of having your information used to tailor ads to you in this way, review the Section below titled [“CONSUMER CONTROL AND OPT OUT OPTIONS](http://www.magnetic.com/about/privacy/#consumercontrol)[ **”**](http://www.magnetic.com/about/privacy/#consumercontrol) to learn how to opt-out of these services and instead receive generic, non-tailored ads.
 
-In providing our services to you on behalf of our Clients, we use both session cookies and persistent cookies. A session cookie expires when you close your browser. A persistent cookie is stored on your hard drive for an extended period of time. You can remove persistent cookies or set your browser to notify you to either accept or deny cookies by following directions provided in your internet browser’s “help” file. If you choose to disable cookies, we will not be able to serve you personalized content. You can choose not to receive our cookies and to opt-out of having us collect data and serve personalized content at any time by clicking [here](http://www.mybuys.com/opt-out). Additional detail regarding your choices regarding our collection of data is detailed in the [“Your Choices”](http://www.mybuys.com/privacy-policy#your_choices) section below.
 
-HOW WE USE YOUR INFORMATION
 
-We keep track of your buying preferences by using the Anonymous Information we collect. If your email address is known to us because you have opted-in to receive email communications from our Client, we associate your Anonymous Information with your email address (while associated, such information is Personal Information; and when not associated, such information is Anonymous Information). If your email address is not known to us and you browse our Client’s Site, your product interests will be tied to an anonymous cookie placed on your computer. Please note that we work with, and on behalf of, our Clients and share email information only with them.
+**b. How we Use the Magnetic Website Information**
 
-We combine all of the information about you that we collect and use that combined information to power our marketing and advertising services. Some examples include:
+In addition to the uses described above, we use the Magnetic Website Information (alone or in combination) to provide, market, and operate the Magnetic Websites and Services.  Among other things, by collecting the Magnetic Website Information, we are able to:
 
-  * To determine the best recommendations to show you when you are on one of our Client’s Sites;
-  * To provide more relevant advertisements;
-  * On behalf of our Clients, to send personalized communications (including emails) that are most relevant to your interests if you have opted-in to allow such communications;
-  * To track user trends and review the use of our services;
-  * To research ways to improve our services; and
-  * To develop new products and technologies.
+  * Maintain and offer access to the Magnetic Websites and Services and optimize the way the Magnetic Websites and Services are offered to our Customers.
+  * Send you information about our products and services, including marketing communications.
+  * Respond to your questions, concerns, or customer service inquiries.
+  * Provide you or your customers with our Services.
+  * Customize the content and advertising you see on the Magnetic Websites, across the Internet, and elsewhere.
 
 
 
-How Long We Keep Your Information
+**c. How We Share the Magnetic Website Information**
 
-Except as otherwise permitted by law, we retain the Anonymous Information that we collect about you only for as long as it remains relevant to providing you recommendations and advertisements. This retention period may be indefinite. Our collection of Personal Information about you is limited to the receipt of your email address when you have opted-in to receive communications from our Client. We will retain this information for as long as needed to provide services to our Clients and as necessary to comply with our legal obligations and protect our rights and property.
+We may share the Magnetic Website Information as follows:
 
-YOUR CHOICES
+  * As part of a business sale, merger, consolidation, investment, change in control, transfer of substantial assets, reorganization or liquidation, or in connection with steps taken in anticipation of such an event (e.g., due diligence).
+  * With our corporate affiliates.
+  * With third parties that help us to provide the Magnetic Websites or Services, such as entities that help us make the Magnetic Websites or Services available and functional (such as hosting services); entities that help us make available or transmit any information we hold (such as helping us send emails, process payments, and manage customer information); and entities that help us (including our contractors, agents, and affiliates) provide technical, customer, billing, administrative, event planning, marketing or operational services to us or our Customers.
+  * When required by law or in response to lawful process, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official.
+  * If we believe sharing the information may prevent physical, financial or other harm, injury or loss; or we believe is necessary to protect our, or any other person’s or entity’s, interests; or in connection with an investigation of suspected or actual unlawful activity.
+  * We also may disclose your information under circumstances not mentioned here with your prior consent.
 
-**Opting out of Communications**
 
-You can opt-out of receiving future emails that we send on behalf of a specific Client by following the “Opt-Out” or “Unsubscribe” instructions in the emails we send. Note that your opt-out preferences apply with respect to that Client only.
 
-**Changing Your Email Address**
+**5\. COOKIES, PIXEL TAGS, AND SDKS**
 
-If you would like to change the address where you receive emails that we send on behalf of a specific Client, you can first opt out as described above and then subscribe again using your preferred email address. Note that your change of address will apply with respect to that Client only.
+  1. ******Cookies and Pixel Tags.   **Cookies are small data files containing a string of characters, such as an anonymous unique browser identifier.  Cookies are stored on your computer or other device and act as unique tags that identify your device or browser. Our servers may send your device a cookie when you visit the Magnetic Websites, and our Customers and Partners may do likewise on our Websites, our Customers’ and Partners’ websites, and elsewhere.  A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages. When you access web pages on which a pixel tag is deployed, the pixel tag may generate a generic notice of the visit and permit Magnetic, our Customers, or our Partners to set or read cookies.  Pixel tags are used in combination with cookies to anonymously track the activity on a website by a particular browser on a particular device. If you disable cookies, pixel tags simply detect an anonymous website visit.  Magnetic, alone or with our Customers and Partners, may use cookies to, among other things, “remember” you (e.g., when you visit the Magnetic Websites or the websites of our Customers or Partners), track trends, and collect information about how you use our Customers’ or Partners’ websites or interact with advertising.  We use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests.
+  2. ******Mobile Device Identifiers and SDKs.**  We may use or work with Partners who use mobile SDKs to collect information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information related to how mobile devices and their users interact with our Services and those using our Services.  A mobile SDK is in effect the mobile app version of a pixel tag or beacon.  The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented.  We may use this technology, for instance, to analyze or measure certain advertising through mobile applications and browsers based on information associated with your mobile device.  If you would like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the below Section titled [“CONSUMER CONTROL AND OPT OUT OPTIONS.](http://www.magnetic.com/about/privacy/#consumercontrol)[” ](http://www.magnetic.com/about/privacy/#consumercontrol)
 
-**Opting out of Tracking for Advertising and Recommendations**
 
-You can opt-out of allowing us to collect preference data when you browse any of our Clients’ Sites and at the same time opt-out of receiving ads, product recommendations, or other communications based on that data by clicking the button on [this page](http://www.mybuys.com/opt-out).
 
-By clicking this button, you will opt-out of receiving cookies for all of our services, including our product recommendations and our advertising services. If you choose to opt-out, please note that you will receive a “persistent cookie” that tells us not to recognize your browser. To maintain your opt-out status, this cookie must be maintained on your computer. If you manually delete your cookies, you will delete this opt-out cookie and you must opt-out again for your opt-out status to be recognized by us. In addition, if you use a different internet browser or a different computer, you will need to perform the opt-out task again.
+As described in Section 3, our Customers or Partners may use the above technologies (sometimes, in combination with each other or other data such as IP addresses or hashed or de-identified data files) to coordinate identifiers across platforms, browsers or devices, to more efficiently analyze or target advertising.
 
-MyBuys uses the Evidon assurance platform (<http://info.evidon.com/companies/mybuys>) and certifies compliance with the cross‐industry Self‐Regulatory Program for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). As part of this service, online advertisements served by MyBuys are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
+**6\. CONSUMER CONTROL& OPT-OUT OPTIONS**
 
-**Client Websites**
+Consumers have control over whether or not they would like to receive relevant advertisements and marketing email from our Customers.
 
-Our Clients have their own websites and their own privacy policies. We are not responsible for the privacy practices or the content of our Clients’ Sites. This Privacy Policy applies solely to information collected by us when you visit our Clients’ Sites.
+**a. How to  ** **Opt Out from Targeted Advertising**
 
-PORTION OF PRIVACY POLICY FOR USERS OF CLIENTS’ SITES OR CORPORATE SITE
+_To opt out of receiving personalized ads from Magnetic, please visit  _[ _http://www.magnetic.com/about/opt-out/_](http://www.magnetic.com/about/opt-out/) _ _
 
-HOW WE PROTECT YOUR INFORMATION
+_To opt out of receiving personalized ads from Magnetic and other advertising companies, please visit_[ _http://www.aboutads.info/_](http://www.aboutads.info/)
 
-We take reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data we collect and store. These include internal reviews of our data collection, storage, and processing practices and security measures. Our servers are protected by firewalls and are physically located in secure data facilities to further increase security. However, no security system is 100% secure. While we have taken reasonable measures to safeguard the data we collect and store, we cannot guarantee that it will not be disclosed or accessed inadvertently or through the unauthorized acts of others.
+_Other consumer choice tools are provided through the Ghostery Enterprise opt-out program (available at<http://choices.ghosteryenterprise.com/global-opt-out.html>)._
 
-SHARING INFORMATION
+Please note that opting out does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
 
-Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or share your Personal Information with third parties, unless you or our Client (in accordance with its privacy policy) asks or authorizes us to do so.
+Your choice to opt out from personalized ads placed by Magnetic will not affect ads placed by any other organization. 
 
-Service Providers. We may provide your Personal Information to third party service providers who work on our behalf to provide some aspects of our services, including to help us communicate with you. These service providers do not have any independent right to use or share this information (except pursuant to a legal requirement, such as a subpoena or warrant).
+We comply with opt-out requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, an opt-out request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.
 
-Affiliates. Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under common control (collectively, “Affiliates”), we may in the future. We may share some or all of your information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
+**b. How to Opt Out from Receiving Emails from Our Customers**
 
-Other Disclosures. In special circumstances, we may disclose your email address and other Personal Information about you. These include situations where we believe in good faith that such disclosure is necessary to (a) comply with relevant laws and regulations or to respond to subpoenas or warrants served on us; (b) in connection with any legal investigation; or (c) to protect or defend the rights, property, or safety of MyBuys, our customers, our employees, or any other person.
+You can opt-out of receiving future emails that we send on behalf of a specific Customer by following the “Opt-Out” or “Unsubscribe” instructions in the emails we send. Please note that your opt-out preferences apply with respect to that customer only. 
 
-Anonymous Information. We may share Anonymous Information about the use of our services to Clients, business partners, prospective investors, and other third parties. This information includes how users interact with our services, how many users clicked on a particular recommendation or how many users responded to a particular advertisement. This information does not identify you individually and cannot be used to contact you.
+**c. How to Opt Out on Mobile Devices**
 
-**Change in Corporate Structure**
+You may be able to opt out of having your mobile advertising identifiers used for certain types of mobile behavioral advertising, by accessing the “settings” on your Apple or Android mobile device, as follows:
 
-If we or our assets are acquired by another company, that company will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Policy.
+Apple Devices:  If you have an Apple device, you can opt out of most app-based tracking for interest-based advertising by updating to iOS 6.0 or higher and setting Limit Ad Tracking to ‘ON.’ You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON.’ 
 
-**Changes to the Privacy Statement**
+If you have an Android device, you can opt out of most app-based tracking for interest-based advertising by opening the Google Settings app on your device, selecting Ads, and then selecting the option to opt-out of interest-based ads.
 
-If we change our Privacy Policy, we will post the updates at [www.mybuys.com/privacy-policy](http://www.mybuys.com/privacy-policy/) and will notify you by means of a notice on our website. We encourage you to review this policy periodically. Continued use of the service represents your acceptance of the updated privacy policy. Each version of our Privacy Policy will be indicated by a reference to its effective date at the beginning.
+**7\. DATA RETENTION**
 
-INTERNATIONAL VISITORS
+We retain Service Information for as long as it remains relevant (in our discretion) to providing our Services. However, for most of our Service Information, this period is 24 months.
 
-Our website is hosted in, and we provide our services from, the United States. If you use our services from other regions with laws governing data collection and use that may differ from United States law, you are transferring your Personal Information to the United States and you consent to the use of your information under the terms of this Privacy Policy.
+**8\. MAGNETIC’S INDUSTRY MEMBERSHIPS**
 
-PRIVACY OF CHILDREN
+Magnetic is a member of the Digital Advertising Alliance in the United States (“DAA”) and Canada (“DAAC”) as well as the Network Advertising Initiative (“NAI”) and adheres to their Codes and Principles.  For more information about how online advertising affects your privacy, see the [“Understanding Online Advertising”](https://www.networkadvertising.org/understanding-online-advertising) page on the NAI website. For information about the Self-Regulatory Program For Online Behavioral Advertising and to learn more about the Ad Choices icon, visit [http://www.aboutads.info/](http://www.aboutads.info/). For more information on the DAAC program, please visit [http://youradchoices.ca](http://youradchoices.ca/).
 
-Neither our website nor our marketing and advertising services are intended or designed to attract children under the age of 13. We do not knowingly collect Personal Information from children under 13. Nor do we intentionally create, share, or collect data or segments regarding children under 13 years of age.
+**9\. HOW WE PROTECT THE INFORMATION WE COLLECT**
 
-P3P POLICY
+We employ security measures to guard the information we process against accidental, unlawful or unauthorized destruction, alteration, disclosure, access, or other use, and we comply with applicable security requirements. However, despite the measures we take, no security measures can be 100 percent secure; we therefore do not warrant the security of any information provided to or collected by us.
 
-We also subscribe to a P3P policy, which may be viewed in plain text by accessing the “Privacy Report” in your browser. To the extent that there is any inconsistency between the machine-readable P3P policy and this Privacy Policy, this Privacy Policy governs.
+**10\. DATA TRANSFERS AND INTERNATIONAL USE**
 
-**Contact Information**
+Our Services are hosted by servers located primarily in the United States. We may transfer Magnetic Website Information and Service Information to countries other than the country in which that information was originally collected for purposes such as storing and processing information, responding to your inquiries, and operating our Services. Those countries may not have the same data protection laws as the country from which the information was initially collected. 
 
-Please email us at privacy at mybuys dot com if you have questions about our Privacy Policy or if you feel that we have not followed our Privacy Policy in any way.
+**11\. CONSUMER PRIVACY RESOURCES**
 
-PORTION OF PRIVACY POLICY FOR USERS OF OUR CORPORATE SITE
+To learn more about how your browser can help maintain certain privacy choices, please visit the appropriate link below
 
-**Collection of Client Information**
+[Internet Explorer](http://windows.microsoft.com/en-US/internet-explorer/products/ie-8/privacy-statement#section_3)
 
-Our Clients are businesses, not individuals, and our Corporate Site collects information from our Clients and prospective Clients who request information, fill out ‘Contact Us’ forms, or otherwise contact us. We may collect information from you, such as your first and last name, e-mail address, phone number, professional title, company name, and corporate website when you contact us for a demo. If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail (e.g., your resume).
+[Safari](http://www.apple.com/safari/#security)
 
-**Use of Client Information**
+[Chrome](https://www.google.com/intl/en/chrome/browser/privacy/)
 
-To the extent that Personal Information (e.g., first and last name, telephone number, e-mail address, or resume) is collected, we may use this to provide you with information that you requested, to correspond with you about any questions or concerns you have brought to our attention, to notify you of new services or updates to our existing services, to send you administrative e-mail notifications, and to respond to your inquiries related to employment opportunities or other requests. You can opt-out of receiving future marketing emails that we send by following the “Opt-Out” or “Unsubscribe” instructions in such emails (however we may continue to send you administrative emails). We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the data personally identifiable to you. We do not share, sell, rent, or trade any of your Personal Information to any third party for promotional purposes or otherwise, except as expressly described above (e.g., to our service providers, affiliates, in connection with legal processes or protecting the rights of ourselves or any third parties, or in connection with a merger or acquisition) or unless we obtain your prior consent. In addition, we may share Personal Information when we believe such action is appropriate to enforce customer agreements or to bill or collect for services. We post customer testimonials on our website which may contain Personal Information such as the customer’s name. We obtain the customer’s consent prior to posting the testimonial. Anyone who has provided Personal Information through our corporate website may e-mail us at privacy at mybuys dot com to review, update, delete, and/or correct his/her Personal Information. Please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.
+[Firefox](http://www.mozilla.org/en-US/firefox/security/)
 
-**Third-Party Websites**
+**12\. CHANGES TO PRIVACY POLICY**
 
-Our Corporate Site may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects information, including Personal Information.
+Magnetic reserves the right to change, modify, and add terms to this policy at any time. We will post changes on this page, and if we determine that they are material in nature, we will provide more prominent notice on our homepage and indicate at the top of the policy when it was most recently updated.  Changes we determine to be material to this policy will become effective 30 days after posting.
 
-**Interest-Based Advertising**
+**13\. QUESTIONS ABOUT OUR PRIVACY POLICY**
 
-We may allow third parties to insert pixel tags in ads presented to you when you are on our Corporate Site. This enables the third party advertising exchange to advertise our services to you when you are on a different website, after you have left our Corporate Site. This then enables these third parties to write and read their own cookies on your computer. We do not control use of these cookies used by these third parties and expressly disclaim responsibility for information collected through them.
+Magnetic is responsible for the processing of personal data we collect about you in relation to our Services. If you are located in the European Economic Area or certain other jurisdictions, you may have the right to request access to, rectification, or deletion of the information we maintain about you, within the limits of the applicable law(s), and you may also have the right to object to the processing of the personal data we collect about you. If you would like to exercise those rights or if you have any questions or concerns related to our privacy policy, please contact us at:
 
-To learn more about interest-based advertising, and to opt-out from interest-based advertising from third party providers who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices/).
+Email: privacy at magnetic dot com
+
+Magnetic Media Online, Inc.
+
+360 Park Avenue South, 19th Floor
+
+New York, NY 10010
+
+USA
+
+Telephone: 212-757-3189
