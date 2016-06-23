@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209082707id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623073542id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
@@ -153,10 +153,10 @@ You are entitled to receive a copy of this information in a standardized format 
 
 ## Contact Us 
 
-Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-800-5800** [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). We will need your name‚ address‚ and telephone number to mail catalogs to you. 
+Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-478-8508** [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). We will need your name‚ address‚ and telephone number to mail catalogs to you. 
 
-Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-800-5800** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). It may take 2-4 weeks to process your request. 
+Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-478-8508** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). It may take 2-4 weeks to process your request. 
 
-Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
+Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at **1-800-478-8508** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
 
-General Privacy Questions: If you have questions about this Privacy Policy‚ please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/)‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). 
+General Privacy Questions: If you have questions about this Privacy Policy‚ please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/)‚ call **1-800-478-8508** or send an email‚ including your name and mailing address‚ to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). 
