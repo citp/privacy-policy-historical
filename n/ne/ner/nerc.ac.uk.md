@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215000812id_/http%3A//www.nerc.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623195504id_/http%3A//www.nerc.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # NERC - Privacy and cookies
 
@@ -10,7 +10,29 @@
 
 ## Privacy policy
 
-NERC's website does not store or capture personal information, but for administration purposes merely logs the user's IP address which is automatically recognised by the web server.
+We collect information or data about you when you use this website.
+
+This includes your computer's IP address and details about which web browser and device you are using (eg the version and screen size), and information on how you use this website, including the pages you visit, using analytics and cookies to help us improve the website.
+
+This enables us to ensure this website works correctly for as many devices as possible, and we monitor the relative popularity of different parts of the site to ensure content is of interest and being accessed.
+
+We cannot personally identify you with this information, unless you provide it yourself.
+
+### Storing your data
+
+We will store your data to ensure an adequate level of protection for your data protection rights and freedoms. This sometimes may involve the use of assured third party systems.
+
+### Disclosing your information
+
+We will not pass on your details to other providers, unless you give your consent for us to do so, and we will not share your information with any other organisations for marketing, market research or commercial purposes.
+
+We may need to pass on your personal information if we have a legal obligation to do so.
+
+### Processing your personal data
+
+We handle personal data in compliance with the Data Protection Act 1998, and recognise the importance of the correct and lawful processing of personal data in maintaining confidence in our operations.
+
+Further information can be found in our [information notice](https://web.archive.org/about/policy/foi/information/).
 
 ## Cookies policy
 
@@ -26,13 +48,13 @@ These pieces of information are used to improve services for you through, for ex
 
 You can use your web browser's settings to manage these small files yourself.
 
-## Our use of cookies
+### Our use of cookies
 
-We use analytics cookies provided by Google, primarily to monitor which browser types and operating systems people are using. This enables us to create a site that works with many different browsers, improving the service we can offer.
+We use analytics cookies provided by Google to monitor the smooth running of our site and to improve the service we offer, based on the usage and popularity of different content. More details on these cookies and how to manage them can be found on the [Google Technologies & Principles \- external link -](http://www.google.com/intl/en_gb/policies/technologies/types/ "external link") pages.
 
-More details on these cookies and how to manage them can be found on the [Google Technologies & Principles \- external link -](http://www.google.com/intl/en_gb/policies/technologies/types/ "external link") pages.
+We also use our own cookies in order to comply with EU legislation on cookies and to allow selection of an alternative high-contrast colour scheme for users who have trouble reading our standard site (this is selectable from the [accessibility](https://web.archive.org/site/accessibility/) page).
 
-## How to control and delete cookies
+### How to control and delete cookies
 
 We will not use cookies to collect personally identifiable information about you.
 
