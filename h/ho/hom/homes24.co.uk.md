@@ -1,56 +1,91 @@
-> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214230525id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623212752id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
 
 # Homes24 Privacy policy
 
-## Our commitment to you
+Zoopla Property Group Plc (" ** _Zoopla_** ") and Archant Ltd (" ** _Archant_** ", together with Zoopla, " ** _we_** " or " ** _us_** ") are committed to protecting and respecting your privacy.
 
-Zoopla Property Group Plc ('Zoopla') and Archant Ltd ('Archant') respect your privacy and are committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to both Zoopla Property Group Plc and Archant Ltd.
+This policy (together with our [terms of use](https://web.archive.org/terms/) and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting this website you are accepting and consenting to the practices described in this policy.
 
-## Information we collect
+We may amend this privacy policy at any time. Any changes we may make will be posted on this page, so please check back frequently. Your continued use of our website(s) will constitute your acceptance of, and agreement to, any changes to the privacy policy.
 
-When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
+For the purpose of the Data Protection Act 1998 (the **_Act_** ), the data controllers are Zoopla Property Group Plc of 65 Southwark Street, London, SE1 0HR and Archant Ltd of Prospect House, Rouen Road, Norwich, NR1 1RE. Zoopla Property Group Plc, the subsidiaries it controls and Archant Ltd and the subsidiaries it controls, are referred to in this privacy policy, collectively, as the Zoopla Group of Companies and the Archant Group of Companies and, individually, as a Zoopla Group Company and Archant.
 
-When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
+## Information we may collect from you
 
-## How we use information
+We may collect and process the following information about you:
 
-We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
-
-  * When you have consented or directed us to share the information.
-  * With service providers or affiliate companies who perform services on our behalf.
-  * In order to satisfy any requirement under the law or to protect our rights or prevent any concerns relating to fraud or security.
-  * In the event of a merger or sale of all or part of our business whereby personal information may be transferred as an asset of the business.
+  * **Information you provide to us.** You may provide us with information by filling in forms on our website(s) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register for an account or subscribe, contact estate agents via forms or phone numbers made available on our website, enter a competition, promotion or survey, provide feedback and/or when you report a problem with our website. The information you give us may include your name, address, e-mail address and phone number.
+  * **Information we collect about you.** When you visit our website(s) we may automatically collect information about your computer, including your IP address, information about your visit, your browsing history, and how you use our website(s). This information may be combined with other information you provide to us, as described above.
+  * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we, or Zoopla Group of Companies or the Archant Group of Companies, operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, service providers, advertising networks, analytics providers, and search information providers) and may receive information about you from them. This information may be combined with other information you provide to us, as described above.
 
 
 
-We may share with third parties aggregate information or information that does not personally identify you.
+## How we use your personal information
 
-## Communicating with you
+We use personal information about you in connection with the following purposes:
 
-If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyHomes24](https://web.archive.org/myaccount/).
+  * Fulfilling your requests: 
+    * to provide you with the information, products and services that you request from us or another Zoopla Group Company or another Archant Group Company;
+    * to administer any promotion or competition that you enter via our website(s); and
+    * to allow you to participate in interactive features of our service, when you choose to do so.
+  * Marketing: 
+    * to provide you, or permit other Zoopla Group Companies and Archant Group Company, or selected third parties to provide you, with information about goods or services that may interest you, provided that you have opted-in to receive those communications;
+    * to customise or enhance your experience on our website(s) and services, including via the display of adverts and direct communications you receive from us which may be based on your activity on our website(s) or the website of another Zoopla Group Company;
+    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, which may be based on your activity on our website(s) or the website of another Zoopla Group Company; and
+    * to make suggestions and recommendations to you and other users of our website about goods or services that may interest you or them, which may be based on your activity on our website(s) or the website of another Zoopla Group Company.
+  * Service improvements and account management: 
+    * to notify you about changes to our service and to send you service emails relating to your account;
+    * to administer our website(s) and for internal business administration and operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+    * to provide information and services to estate agents that allow them to monitor and benchmark their own performance; and
+    * as part of our efforts to keep our website(s) safe and secure.
 
-## Third parties
 
-We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
 
-We may use your Personal Information to customise or enhance your experience on the Zoopla Property Group Network (including the display of advertisements) and communications related to our products or services or those of third parties. In addition, we may share other information we may have about you and your use of the Zoopla Property Group Network (such as which pages you have visited) with third parties for those purposes and for the purpose of facilitating the serving of targeted ads for the Zoopla Property Group Network on other Web sites.
+## Sharing your personal information
 
-## Opting Out of Collection of Information by Third Parties
+We may share your personal information in connection with the purposes above with any other Zoopla Group Company or Archant Group Company.
 
-Zoopla Property Group's third-party ad servers, ad network providers, and third-party advertisers (the "Zoopla Property Group Ad Providers") may provide you with advertisements that you may see on the Services or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Zoopla Property Group Ad Providers may use cookies, Web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. 
+We may also share your personal information with third parties in the following circumstances:
 
-Zoopla Property Group Ad Providers. Use of these technologies by Zoopla Property Group Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), [click here](http://www.networkadvertising.org/participating-networks) to learn about Zoopla Property Group Ad Providers participating in the Network Advertising Initiative, and [click here](http://www.aboutads.info/participating) to learn about the Zoopla Property Group Ad Providers participating in the Digital Advertising Alliance. The Network Advertising Initiative and Digital Advertising Alliance offer some centralized opt-out tools; otherwise you must visit each provider's website individually and opt out.
+  * Selected estate agents or other service providers, when you have asked us to do so. For example, when you enquire about a property of interest to you, we will pass your personal information to the estate agents handling that property sale or rental. Upon receipt of your personal information, the relevant third party is the data controller and their use of your information will be governed by their own terms of use and privacy policy.
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Advertisers and advertising networks and other third parties that require the data to select and serve relevant adverts to you and others.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our website(s). Your personal information is generally shared in a form that does not directly identify you.
 
-Zoopla Property Group marketing service providers. If you do not want Zoopla Property Group and its marketing services providers to follow your usage of our Services via cookies and Web beacons, you can opt out of Cookies/Web beacons from: comScore, Google Analytics, Omniture and Yahoo! Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. Please note that, if you opt out and later delete your cookies, use a different browser, or use a different computer or other electronic device, you will need to renew your opt-out choices.
 
-## Safety and security
 
-Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
+We may also share your personal information with third parties:
 
-## Changes to Privacy Policy
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets, along with its professional advisers. If Zoopla or Archant or substantially all of either of their assets are acquired by a third party, personal information held by it about its customers will be one of the transferred assets.
+  * If required in order to obtain professional advice.
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Zoopla or Archant, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
-We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
 
-If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-This policy was last updated on 19th June, 2014
+## Where we store your personal information
+
+The information that we collect from you may be transferred to, and stored, in a country outside the European Economic Area ( ** _EEA_** ). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. The laws in some countries may not provide as much legal protection for your information as in the EEA. By submitting your information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Cookies
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website and to provide interest-based advertising. You may adjust the settings on your browser to refuse cookies but some of the services on our website(s) may not work if you do so. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/privacy/cookies/).
+
+## Opting out of collection of information by third parties
+
+Zoopla Property Group Plc's and Archant Limited's third-party ad servers, ad network providers, and third-party advertisers (the **_Ad Providers_** ) may provide you with advertisements that you may see on our website(s) or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Ad Providers may use cookies, web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. Use of these technologies by Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), [click here](http://www.youronlinechoices.eu/).
+
+## Your rights
+
+You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing by checking or unchecking certain boxes on the forms we use to collect your data, unsubscribing via any marketing emails we send or amending your details in [MyHomes24](https://web.archive.org/myaccount/).
+
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers, affiliates or other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
+
+## Access to information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+This policy was last updated April 2016
