@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizly.io privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104306id_/http%3A//quizly.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizly.io privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623193059id_/http%3A//quizly.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizly
 
