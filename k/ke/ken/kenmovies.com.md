@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenmovies.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606041123id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenmovies.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623124750id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.*
 
 # Private Policy :: Webcams.com
 
@@ -56,4 +56,4 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
-© Copyright 2005-2014 Webcams.com, All Rights Reserved.
+© Copyright 2005-2016 Webcams.com, All Rights Reserved.
