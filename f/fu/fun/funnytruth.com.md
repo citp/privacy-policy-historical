@@ -1,100 +1,44 @@
-> *The following text is extracted and transformed from the funnytruth.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004042id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnytruth.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065155id_/http%3A//www.funnytruth.com/about/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Funnytruth.com
 
-**GoDaddy Respects Your Privacy**
+## Latest Revisions: July 30, 2014
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Thank you for visiting Funnytruth.com (the "Site"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at the Site and in connection with the various services and software products we provide on or through the Site (collectively the "Services"). This Privacy Policy is hereby incorporated in our Terms of Use and by using the Site and Services, you accept the terms of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use any of the Site or Services.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## WHAT WE TRACK
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Every computer connected to the Internet is given a domain name and a set of numbers known as the "Internet Protocol" IP address. Like most web servers, when a visitor requests a page from the Site, our servers automatically recognize and log his/her domain name and IP address, along with the access times, referring web sites, platform, and browser type. The information collected is not personally identifiable and is used only to provide statistics about usage of the Site in the aggregate to improve the quality of the Site and Services, to better understand how people interact with us, to deliver advertising and measure its effectiveness, to provide advertisements about goods and services that may be of interest to you, or to cooperate with law enforcement. We may use third party contractors to collect and aggregate such information.
 
-**Information Collection and Use**
+Additionally, please note that none of the Services include "spyware," meaning the Services do not run any background processes that report information about your software or hardware configuration or your web browsing or purchasing habits.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## HOW WE TRACK IT 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The Site and Services use either cookies and/or registry settings on your computer to store user information. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. Additionally, some ad networks may use web beacons in conjunction with cookies to compile aggregate statistics about usage on the Site. A web beacon is a transparent image, typically in GIF format that can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of page view, and a description of the page where the web beacon is placed.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+You may disable cookies on your web browser, thereby also rendering some web beacons unusable. You can use the Site and Services even if cookies are disabled, but this may impact our ability to adapt any of the Site or Services according to your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## PERSONALLY IDENTIFIABLE INFORMATION 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Personally identifiable information is information you provide to us that is uniquely associated with you, including your first and last name, a home or physical address, email address, and telephone number. Information identifying an entity other than an individual (e.g., a school or library) does not constitute personally identifiable information and is treated the same as anonymous information discussed in this privacy policy. Although you are not required to provide any personally identifiable information to use most parts of the Site or Services, registration and full utilization of some of our Services do require that you provide certain personally identifiable information. For example, personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, your email address if you are registering for Funnytruth.com or requesting Funnytruth's highlights or newsletters or if you submit a help request to us via email or respond to employment opportunities posted on the Site. Other personally identifiable information you might provide could include your contact information if you participate in a promotion or sweepstakes, your email address if you request Funnytruth's highlights or newsletters or if you submit a help request to us via email or respond to employment opportunities posted on the Site. The amount of such personally identifiable information that you choose to disclose to us is completely up to you, although access to or use of some Services may be affected if such information is not provided. We have put in place procedures reasonably designed to safeguard and secure the information we collect online.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+In accordance with the United States' Children's Online Privacy Protection Act of 1998, as amended, we do not knowingly collect personally identifiable information from anyone under the age of 13.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## INFORMATION SHARING & DISCLOSURE
 
-**Security**
+In addition to using the anonymous identifying information that we track for internal purposes in the manner described here, this information may also, on an aggregate basis, be shared with and used by third parties with which we have contracted (e.g., our third-party content providers and licensees of Funnytruth's services). Furthermore, in addition to Funnytruth providing its own advertising, Funnytruth uses third-party advertising companies and networks to serve ads when you visit the Site. These companies and networks include, among others, third party ad servers, ad agencies, ad technology vendors, and research firms. These companies and networks may use information (not including your name, address, email address, or telephone number) about your visits to the Site in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to the Site, our ad networks may place or recognize a unique "cookie" on your browser or use a "web beacon." An example of such ad network is Google, Inc.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Certain third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. This is also known as online behavioral advertising. An example of such ad network serving advertisements on our site is AOL/Ad.com, a member of the Network Advertising Initiative. Other examples are Microsoft Advertising, whereby data collection by or on behalf of Microsoft is taking place in connection our services agreement with 24/7 Media US, Inc. as well as by or on behalf of 24/7 Media itself. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here:<http://networkadvertising.org/consumer/opt_out.asp>.
 
-**Updating Your Information**
+Please note that ad networks' use of cookies or web beacons, and that of any other third-party that has a link available on any Site, is subject to their own privacy policies and not this privacy policy.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Personally Identifiable Information:  
+We do not rent or sell your personally identifying information to any third parties, unless we have your consent. We may disclose your personally identifying information, however, in any of the following limited circumstances (i) if we have your consent; (ii) to our external service providers when necessary in order to facilitate, provides services to, and evaluate the Site and Services; and (iii) if we conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Funnytruth, its users or the public. Additionally, we may transfer personally identifiable information in the event of a transfer of ownership of Funnytruth or any of the Site and/or Services, such as acquisition by or merger with another company.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## LINKS & CO-BRANDED SITES 
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+This policy only addresses the Site and Services. Other websites, such as those to which we link or with which we co-brand, may have their own policies. These other sites to which we link or with which we co-brand might independently collect data, solicit personal information, or send their own cookies to you. We are not responsible for any use of information when you use such third party sites. Additionally, in many cases, co-branded services that are jointly provided by us and selected companies will contain the Site branding, but might not be hosted by us. In such cases, you should follow the privacy link on such site to determine which company's privacy policy protects the information you enter on such site. Even if the page is governed by a separate privacy policy, we might be entitled to receive information about what you do when using that service. We encourage you to read the privacy policies of these other companies and to contact these companies directly if you have any questions about their use of this information.
 
-      iii.      You may call us at: (480) 505-8800
+## CHANGES TO THIS PRIVACY STATEMENT
 
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Funnytruth may amend this policy from time to time by posting the new text on the Site. Unless otherwise provided, the revised terms will take effect when they are posted. Once any changes that we make to this Privacy Policy become effective, your continued use of the Site or Services after such time will signify your acceptance of the new terms.
