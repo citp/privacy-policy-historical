@@ -1,150 +1,126 @@
-<!--The following is the downloaded HTML source of the hired.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906131123id_/https%3A//hired.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hired.com privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623175618id_/https%3A//hired.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="home-controller home-controller-privacy-action no-js" id="hired"><head>
+<!DOCTYPE html><html id="hired" class="no-js home-controller home-controller-privacy-action"><head>
+<script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/PWGVK5i3ebeUKs6oXX5p261iZxO0kmW5/analytics.min.js"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js"></script><script type="text/javascript">var _rollbarConfig = {"accessToken":"8d4a53377d3142c48016a34d3506bc33","captureUncaught":true,"ignoredMessages":["Error calling method on NPObject.","QuotaExceededError: DOM Exception 22","QuotaExceededError: DOM Exception 22: An attempt was made to add something to storage that exceeded the quota."],"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"production-20160623095559","guess_uncaught_frames":true}}}};</script>
+<script type="text/javascript">!function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);</script>
+<title>Privacy Policy - Hired</title>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="/KAhXrfnm45sscb8fjXhkLcYr3hynehV3I/C66srQVMNg7dKVdsWYdDMVUE4t5HxfW1p2U7r3sfFfz3tNktjEg==">
+<link rel="shortcut icon" type="image/x-icon" href="https://d1enbull9nrjgw.cloudfront.net/assets/favicon-8ff4353fcd847f31bd558047acb456df.ico">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+<script>
+  window.jQuery || document.write('<script src="https://d1enbull9nrjgw.cloudfront.net/assets/jquery2-2025acea260e5bd2693acafbab757e9a.js"><\/script>')
+</script><script src="https://d1enbull9nrjgw.cloudfront.net/assets/jquery2-2025acea260e5bd2693acafbab757e9a.js"></script>
+
+<script>
+  window.__HIRED_CONFIG__ = {"controller":"Home","action":"Privacy","components":[],"bootstrap":{"require_cookie_consent":false},"post_sign_in":false,"vendor":{"filepicker":{"apiKey":"A43ciXkN1QQey1MayglyUz"},"segment":null}};
+</script>
+<script>
+  window.I18n || (window.I18n = {});
+  window.I18n.defaultLocale = "en-US";
+  window.I18n.locale = "en-US";
+  window.I18n.extend = window.jQuery.prototype.extend;
+  I18n.translations || (I18n.translations = {});
+I18n.translations["en-US"] = I18n.extend((I18n.translations["en-US"] || {}), {"js":{"ajax_then_reload":{"generic_error":"The requested action could not be completed."},"availability_calendar":{"auto_saved":"Changes saved automatically","change_tz":"Times below are listed in %{zone}. To change your local time zone, go to\n<a href='/profile/personal_info?user_return_to=%2Fcalendar'>your profile</a>\n","display":"Display","formats":{"calendar":{"day_name":"ddd","day_of_month":"DD"},"time_range_date":"hA z","time_slot":"h:mmA","week_start_end":"MMMM DD"},"note":"Note:","to":"to"},"candidates_search":{"clear":"Clear","error":"Error","filters":{"dont_show_relocation":"Don't show relocation candidates","experience":"Experience","job_type":"Job Type","miscellaneous":"Miscellaneous","more":"More","new_this_week":"New this week","offices":"Offices","or_uppercase":"OR","roles":"Roles","us_dod":"US DOD Clearance"},"keywords":{"instructions":"You can use advanced search operators: AND, OR, the minus sign (to exclude a term), parentheses to group searches, and quotation marks for exact phrase matches.","placeholder":"Search by keyword, skill, name, etc."},"new_search":"New Search","save_search":"Save Search","save_search_modal":{"loading":"Saving...","name_your_search":"Name your search","save":"Save","save_search":"Save Search"},"saved_searches":"Saved Searches","select_filters":"Select filters from the menu to narrow your search"},"cookie_warning":{"text":"We use cookies to improve your browsing experience as they enable us to remember log-in details, improve security, collect statistics, optimize site functionality and deliver content tailored to your interests. By continuing your navigation on this website, you are consenting to our use of such cookies or other plotters per our <a href='https://www.hired.com/privacy' target='_blank'>Privacy Policy</a>."},"date_picker":{"clear":"Clear","close":"Close","days_full":{"day1":"Sunday","day2":"Monday","day3":"Tuesday","day4":"Wednesday","day5":"Thursday","day6":"Friday","day7":"Saturday"},"days_short":{"day1":"Sun","day2":"Mon","day3":"Tue","day4":"Wed","day5":"Thu","day6":"Fri","day7":"Sat"},"format":"d mmmm, yyyy","months_full":{"month1":"January","month10":"October","month11":"November","month12":"December","month2":"February","month3":"March","month4":"April","month5":"May","month6":"June","month7":"July","month8":"August","month9":"September"},"months_short":{"month1":"Jan","month10":"Oct","month11":"Nov","month12":"Dec","month2":"Feb","month3":"Mar","month4":"Apr","month5":"May","month6":"Jun","month7":"Jul","month8":"Aug","month9":"Sep"},"next_month":"Next Month","prev_month":"Previous Month","select_month":"Select a month","select_year":"Select a year","today":"Today"},"list_page_intro":{"done":"Done","next":"Next →","scenes":{"intro":{"filters":{"body":"Enter your office location, the role you're looking for, and other filters to narrow your search.\nGo ahead, try it!\n","headline":"Filter for the Candidates you need"},"keyword_search":{"body":"Try searching for target company names or skills, like \"Google\", \"JavaScript\", \"Salesforce\".\n","headline":"Search for specific keywords"},"new_this_week":{"body":"Log on each Monday to reach out to top-quality candidates before anyone else.","headline":"New Candidates are added every week"},"saved_search":{"body":"Easily switch between the roles you're looking for with Saved Searches.","headline":"Save your Search"},"welcome":{"body":"Every Candidate on our platform is ready to start interviewing today.\nLet's show you around.\n","headline":"Welcome to Hired!"},"your_ce":{"body":"Reach out to your personal Client Executive.","headline":"Have more questions?"}},"vertical_removal":{"body":"You can now find all tech, sales, and marketing candidates in one place!\n","headline":"Manage sourcing across all of your open roles"}}},"profile_page_intro":{"done":"Done","next":"Next →","steps":{"base_salary":{"body":"Candidates will also see the info and perks you list on your Company Profile; it's not all about salary.\n","headline":"Salaries are Non-Binding"},"bookmark":{"body":"Your colleagues can also see who you've bookmarked.","headline":"Bookmark to Come Back Later"},"location":{"body":"Many candidates may not live in your city, but are willing to relocate.","headline":"Willing to Relocate"},"mentions":{"body":"@mention your colleagues in a note and they will be notified with an email.","headline":"Collaborate with Private Notes"},"pass":{"body":"This will hide the candidate from your searches (not your colleagues').","headline":"Not Interested? Pass."},"questions":{"body":"Ask an anonymous question before committing to a phone screen.","headline":"On the Fence?"},"visa":{"body":"See if a Candidate will require a sponsorship to work in your country.","headline":"Work Status"},"welcome":{"body":"Candidates work with their dedicated Talent Advocate to create an up-to-date profile.","headline":"Welcome to the Profile"}}},"read_more":{"read_more":"Read More","show_less":"Show Less"},"skills_chooser":{"add_button":"Add","add_skill":"Add a skill…","additional_skills":"Additional Skills","drag_instructions":"Drag and drop to re-order with top skills","max_selected":"You have selected your top 5 skills, you can add additional skills later","suggested_skills":"Suggested skills:","top_skills":"Your Top Skills"},"web_push":{"unsupported_browser":"Unfortunately, your browser doesn't support push notifications."}}});
+
+</script>
+
+<script src="//cdn.optimizely.com/js/5414328115134464.js" async="async"></script>
+
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+    analytics.load("PWGVK5i3ebeUKs6oXX5p261iZxO0kmW5");
+  
+    // setup cross domain tracking
+    var s = {'hired.com' : true, 'hired.co.uk' : true, 'hired.ca' : true};
+    if (s[window.location.host] !== undefined) {
+      delete s[window.location.host];
+      analytics.ready(function () {
+        ga('require', 'linker');
+        ga('linker:autoLink', Object.keys(s));
+      });
+    }
+  
+    analytics.page();
+  
+    var segmentConfig = window.__HIRED_CONFIG__.vendor.segment;
+    if (segmentConfig) {
+      analytics.identify(segmentConfig.current_user_id, segmentConfig.user_properties, segmentConfig.segment_options);
+    }
+  }}();
+</script>
+
+
+<script src="https://d1enbull9nrjgw.cloudfront.net/assets/application-4fb7efb0096e40ee16e0109dda4a6462.js" async="async" debug="false"></script>
 <meta charset="utf-8">
-<script src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.4/rollbar.min.js" async=""></script><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/PWGVK5i3ebeUKs6oXX5p261iZxO0kmW5/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"52b5b06cfe","applicationID":"6081049","transactionName":"JQoMQBcJCVpRRRleWwsATUQXDxNXV04=","queueTime":6,"applicationTime":61,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAEHWVdWGwUAXFBSAwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<meta content="INDEX, FOLLOW" name="ROBOTS">
-<meta content="Hired - Marketplace for Recruiting Top Talent" property="og:title">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"52b5b06cfe","applicationID":"6081049","transactionName":"JQoMQBcJCVpRRRleWwsATUQXDxNXV04=","queueTime":0,"applicationTime":82,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAEHWVdWGwUAXFBSAwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta content="INDEX, FOLLOW, NOODP, NOYDIR" name="ROBOTS">
+<meta content="Privacy Policy - Hired" property="og:title">
 <meta content="website" property="og:type">
-<meta content="https://dmrxx81gnj0ct.cloudfront.net/assets/social-logo-ab97e2cf576be6838be848b391d07060.png" property="og:image">
-<meta content="https://hired.com/" property="og:url">
+<meta content="https://d1enbull9nrjgw.cloudfront.net/assets/social-logo-large-99b378d3e1e2c617ece13d2d07c38c26.png" property="og:image">
+<meta content="https://d1enbull9nrjgw.cloudfront.net/assets/social-logo-8be14e4cbad6d554f557c67e9fe2e7b7.png" property="og:image">
+<meta content="https://hired.com/privacy" property="og:url">
 <meta content="Hired" property="og:site_name">
 <meta content="12806518" property="fb:admins">
 <meta content="11003525" property="fb:admins">
 <meta content="341938729194248" property="fb:app_id">
-<meta content="Let the World's Best Companies Compete For You." property="og:description">
-<meta property="uid">
-<meta content="Hired is a two-sided marketplace that connects talent with top tech companies. Originally known as Developer Auction, Hired now works with everyone from early stage startups to large public companies." name="description">
-<meta content="hired, marketplace, developers, engineers, two-sided, talent, developer, auction, startups, tech, sales, ruby, node, javascript, angular, cocoa, python, php, go, java, c, objective-c, ios, android, graphic, design, devops, data, science, product, management" name="keywords">
+<meta content="At Hired your privacy is our primary concern. Learn more about Hired’s privacy policy including our cookies policy &amp; how we store you personal information." property="og:description">
+<meta content="" property="uid">
+<meta content="At Hired your privacy is our primary concern. Learn more about Hired’s privacy policy including our cookies policy &amp; how we store you personal information." name="description">
 <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 <meta content="none" name="msapplication-config">
 <meta content="77fa531398233ba4b21e315eec2e4217" name="p:domain_verify">
-<meta content="Hired - Marketplace for Recruiting Top Talent" name="twitter:title">
-<meta content="Hired is a two-sided marketplace that connects talent with top tech companies. Originally known as Developer Auction, Hired now works with everyone from early stage startups to large public companies." name="twitter:description">
-<meta content="https://dmrxx81gnj0ct.cloudfront.net/assets/social-logo-ab97e2cf576be6838be848b391d07060.png" name="twitter:image">
-
-<title>Privacy Policy | Hired</title>
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="lsZ8OxFBAHjBctUt5ZCpSGuTiC2U1IMSF5ThOwccakMAxiMnk1E1LYnoEt8xWOAzRowMUpr3xNE6m+j8HpXVTQ==">
-<link href="/favicon.ico" rel="icon" type="image/x-icon">
-<link href="https://hired.com/" hreflang="en-us" rel="alternate">
-<link href="https://hired.co.uk/" hreflang="en-gb" rel="alternate">
-<script type="text/javascript">
-var _rollbarConfig = { accessToken: "8d4a53377d3142c48016a34d3506bc33", captureUncaught: true, payload: { environment: "production" } };
-!function(r){function t(o){if(e[o])return e[o].exports;var n=e[o]={exports:{},id:o,loaded:!1};return r[o].call(n.exports,n,n.exports,t),n.loaded=!0,n.exports}var e={};return t.m=r,t.c=e,t.p="",t(0)}([function(r,t,e){"use strict";var o=e(1).Rollbar,n=e(2),a="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.4/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||a;var i=o.init(window,_rollbarConfig),l=n(i,_rollbarConfig);i.loadFull(window,document,!1,_rollbarConfig,l)},function(r,t){"use strict";function e(){var r=window.console;r&&"function"==typeof r.log&&r.log.apply(r,arguments)}function o(r){this.shimId=++u,this.notifier=null,this.parentShim=r,this.logger=e,this._rollbarOldOnError=null}function n(r,t,e){window._rollbarWrappedError&&(e[4]||(e[4]=window._rollbarWrappedError),e[5]||(e[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,e),t&&t.apply(window,e)}function a(r){var t=o;return l(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var e=this,o="scope"===r;o&&(e=new t(this));var n=Array.prototype.slice.call(arguments,0),a={shim:e,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),o?e:void 0})}function i(r,t){if(t.hasOwnProperty&&t.hasOwnProperty("addEventListener")){var e=t.addEventListener;t.addEventListener=function(t,o,n){e.call(this,t,r.wrap(o),n)};var o=t.removeEventListener;t.removeEventListener=function(r,t,e){o.call(this,r,t&&t._wrapped?t._wrapped:t,e)}}}function l(r,t){return t=t||e,function(){try{return r.apply(this,arguments)}catch(e){t("Rollbar internal error:",e)}}}var u=0;o.init=function(r,t){var e=t.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShimQueue=[],r._rollbarWrappedError=null,t=t||{};var a=new o;return l(function(){if(a.configure(t),t.captureUncaught){a._rollbarOldOnError=r.onerror,r.onerror=function(){var r=Array.prototype.slice.call(arguments,0);n(a,a._rollbarOldOnError,r)};var o,l,u="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<u.length;++o)l=u[o],r[l]&&r[l].prototype&&i(a,r[l].prototype)}return r[e]=a,a},a.logger)()},o.prototype.loadFull=function(r,t,e,o,n){var a=l(function(){var r=t.createElement("script"),n=t.getElementsByTagName("script")[0];r.src=o.rollbarJsUrl,r.async=!e,r.onload=i,n.parentNode.insertBefore(r,n)},this.logger),i=l(function(){var t;if(void 0===r._rollbarPayloadQueue){var e,o,a,i;for(t=new Error("rollbar.js did not load");e=r._rollbarShimQueue.shift();)for(a=e.args,i=0;i<a.length;++i)if(o=a[i],"function"==typeof o){o(t);break}}"function"==typeof n&&n(t)},this.logger);l(function(){e?a():r.addEventListener?r.addEventListener("load",a,!1):r.attachEvent("onload",a)},this.logger)()},o.prototype.wrap=function(r,t){try{var e;if(e="function"==typeof t?t:function(){return t||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(t){throw t._rollbarContext=e()||{},t._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=t,t}},r._wrapped._isWrap=!0;for(var o in r)r.hasOwnProperty(o)&&(r._wrapped[o]=r[o])}return r._wrapped}catch(n){return r}};for(var s="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<s.length;++p)o.prototype[s[p]]=a(s[p]);r.exports={Rollbar:o,_rollbarWindowOnError:n}},function(r,t){"use strict";r.exports=function(r,t){return function(e){if(!e&&!window._rollbarInitialized){var o=window.RollbarNotifier,n=t||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,o.processPayloads()}}}}]);
-</script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
- <script async="" src="//cdn.optimizely.com/js/5414328115134464.js"></script> 
-<script type="text/javascript">
-  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
-  analytics.load("PWGVK5i3ebeUKs6oXX5p261iZxO0kmW5");
-
-  // setup cross domain tracking
-  var s = {'hired.com' : true, 'hired.co.uk' : true, 'hired.ca' : true};
-  if (s[window.location.host] !== undefined) {
-    delete s[window.location.host];
-    analytics.ready(function () {
-      ga('require', 'linker');
-      ga('linker:autoLink', Object.keys(s));
-    });
-  }
-
-  analytics.page();
-    post_sign_in = false;
-    
-    }}();
-</script>
-
-<script type="text/javascript">
-(function() {
-
-  var marketoSessionSignature = '';
-
-  var didInit = false,
-      currentUserData = {},
-      recentLogin = (currentUserData.Email && null),
-      newVisitingBrowser = localStorage && !localStorage.hiredMarketoAssociated;
-
-  function initMunchkin() {
-    if(didInit === false && typeof(Munchkin) !== 'undefined') {
-      didInit = true;
-      Munchkin.init('348-IPO-044');
-
-      if ( recentLogin || newVisitingBrowser ) {
-        mktoMunchkinFunction('associateLead', currentUserData, marketoSessionSignature);
-        if (localStorage) localStorage.hiredMarketoAssociated = true;
-      }
-    }
-  }
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//munchkin.marketo.net/munchkin.js';
-  s.onreadystatechange = function() {
-    if (this.readyState == 'complete' || this.readyState == 'loaded') {
-      initMunchkin();
-    }
-  };
-  s.onload = initMunchkin;
-  document.getElementsByTagName('head')[0].appendChild(s);
-})();
-</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script>
+<meta content="Privacy Policy - Hired" name="twitter:title">
+<meta content="At Hired your privacy is our primary concern. Learn more about Hired’s privacy policy including our cookies policy &amp; how we store you personal information." name="twitter:description">
+<meta content="https://d1enbull9nrjgw.cloudfront.net/assets/social-logo-8be14e4cbad6d554f557c67e9fe2e7b7.png" name="twitter:image">
+<link href="https://hired.com/privacy" rel="canonical">
 
 
-<script async="" src="https://dmrxx81gnj0ct.cloudfront.net/assets/application-ed97a257a7013810f12167b8f7254efd.js"></script>
-<script>
-//<![CDATA[
 
-      $(document).on('initialize.Hired', function() {
-        if (Hired.init) { Hired.init(); }
-        if (Hired && Hired.Home) {
-          if (Hired.Home.init) { Hired.Home.init(); }
-          if (Hired.Home.initPrivacy) { Hired.Home.initPrivacy(); }
-        }
-        
-      });
-    
-//]]>
-</script>
+<link rel="stylesheet" media="all" href="https://d1enbull9nrjgw.cloudfront.net/assets/new_application-b6e3a4bbeb2c18ffc6e651a27ca0e698.css" debug="false">
 
-<link rel="stylesheet" media="all" href="https://dmrxx81gnj0ct.cloudfront.net/assets/new_application-c29fe634eae1ee7ea8f5c92edb81640d.css" debug="false">
+<link rel="manifest" href="/manifest.json">
+
 
 </head>
 
-<body class="" id="">
+<body id="" class="">
 <header class="fluid-container">
 
-<nav class="false navigationbar">
+<nav class=" navigationbar">
 <div class="container">
 <div class="navigationbar__header">
 <a class="navigationbar__header__logo" href="/" target="_self">
-<img alt="Hired" class="icon icon--hired" height="22" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="102">
+<img alt="Hired" class="icon icon--hired" height="15" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="95">
 </a>
 </div>
 <div class="navigationbar__toggle">
 <div class="navigationbar__toggle__element">
-<img alt="Menu" class="icon icon--burger" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+<img alt="Menu" class="icon icon--sandwich" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
 </div>
 <input class="navigationbar__toggle__helper" type="checkbox">
-<ul class="navigationbar__navigation">
-<li class="navigationbar__item">
-<a class="navigationbar__link navigationbar__link--for-employers" href="/employers" target="_self">For Employers</a>
-</li>
-<li class="navigationbar__item">
-<a class="navigationbar__link navigationbar__link--suport" href="/support" target="_self">Support</a>
-</li>
-<li class="navigationbar__item">
-<a class="navigationbar__link navigationbar__link--invite" href="/invite?traffic_source=u_h_home_privacy" target="_self">Invite</a>
-</li>
-<li class="navigationbar__item">
-<a class="navigationbar__link navigationbar__link--sign-in" href="/login" target="_self">Sign In</a>
-</li>
-<li class="navigationbar__item navigationbar__item--cta">
-<a class="navigationbar__link navigationbar__link--apply" href="/signup" target="_self">Sign Up</a>
-</li>
+<ul class="navigationbar__navigation xs-text-right">
+<li class="navigationbar__item nav-how-it-works-dropdown"><a class="navigationbar__link" target="_self" href="/how-it-works">How It Works <span class="sm-inline xs-none">
+<img alt="How It Works" class="icon icon--carat" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</span>
+</a><ul class="navigationbar__dropdown"><a class="navigationbar__link" target="_self" href="/how-it-works">
+</a><li class="navigationbar__dropdown__item"><a class="navigationbar__link" target="_self" href="/how-it-works"></a><a class="xs-none sm-block sm-pl1" target="_self" href="/how-it-works">Overview</a></li>
+<li class="navigationbar__dropdown__item"><a class="xs-pl2 sm-pl1" target="_self" href="/freelance-jobs">For Freelancers</a></li>
+<li class="navigationbar__dropdown__item"><a class="xs-pl2 sm-pl1" target="_self" href="/candidates/faq">General Questions</a></li>
+</ul>
+</li><li class="navigationbar__item "><a class="xs-none sm-block" target="_self" href="/employers">Employers</a></li>
+<li class="navigationbar__item "><a href="javascript:void 0;" target="_self" class="xs-none">Employers <img alt="Employers" class="icon icon--carat" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a><ul class="navigationbar__dropdown"><a href="javascript:void 0;" target="_self" class="xs-none">
+</a><li class="navigationbar__dropdown__item"><a href="javascript:void 0;" target="_self" class="xs-none"></a><a class="navigationbar__link" target="_self" href="/employers">Employers</a></li>
+<li class="navigationbar__dropdown__item"><a class="xs-pl2 sm-pl0" target="_self" href="/employers/product">Product</a></li>
+<li class="navigationbar__dropdown__item"><a class="xs-pl2 sm-pl0" target="_self" href="/employers/customers">Customers</a></li>
+<li class="navigationbar__dropdown__item"><a class="xs-pl2 sm-pl0" target="_self" href="/employers/resources">Resources</a></li>
+</ul>
+</li><li class="navigationbar__item "><a class="navigationbar__link" target="_self" href="/invite?traffic_source=u_h_home_privacy">Invite</a></li>
+<li class="navigationbar__item "><a class="navigationbar__link" target="_self" href="/login">Sign In</a></li>
+<li class="navigationbar__item "><a class="navigationbar__link" target="_self" href="/signup">Sign Up</a></li>
 
 </ul>
 </div>
@@ -155,75 +131,88 @@ var _rollbarConfig = { accessToken: "8d4a53377d3142c48016a34d3506bc33", captureU
 
 
 <div class="container xs-prl1">
-<div class="layout layout--center"><div class="false layout__item"><h1 class="xs-alpha text-light text-black xs-inset2 xs-mtb1">Privacy Policy</h1>
+<div class="layout layout--center">
+<div class="layout__item"><h1 class="xs-alpha text-light text-black xs-inset2 xs-mtb1">Hired US Privacy Policy</h1>
 <div class="xs-mb1">
-<p class="text-light text-black">Version 2.0</p>
-<p class="text-light text-black">Last Revised: June 10, 2013</p>
+<p class="text-light text-black">Version 2.1</p>
+<p class="text-light text-black">Last Revised: May 31, 2016</p>
 <div class="text-light text-black">
 <p>Hired, Inc. (“Hired”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at hired.com (the “Site”) and online service (“Service”).</p>
 </div>
 </div>
 <hr class="text-gray-light"></div></div>
-<div class="false layout" data-scroll-spy="" data-target=".list-navigation--sidebar"><div class="layout__item sidebar sidebar--faq sm-3of12" data-fixed-class="sidebar--is-fixed" data-offset-top="160"><div class="layout sidebar__inner xs-pth2 xs-prl1 sm-prl0"><div class="layout__item xs-mb1"><ul class="list-navigation list-navigation--sidebar xs-mb1" id="sidebar-navigation">
+<div class="layout" data-scroll-spy="" data-target=".list-navigation--sidebar">
+<div class="layout__item sm-3of12 sidebar sidebar--faq" data-offset-top="160" data-fixed-class="sidebar--is-fixed"><div class="layout sidebar__inner xs-pth2 xs-prl1 sm-prl0">
+<div class="layout__item xs-mb1"><ul class="list-navigation list-navigation--sidebar xs-mb1" id="sidebar-navigation">
 <li class="list-navigation__item text-uppercase text-gray xs-mb1">Navigation</li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#1-questions-contacting-hired-reporting-violations" target="_self">1. Questions; Contacting Hired; Reporting Violations</a>
+<a class="list-navigation__link a--smooth-scroll" href="#1-questions-contacting-hired-reporting-violations" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">1. Questions; Contacting Hired; Reporting Violations</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#2-user-consent" target="_self">2. User Consent</a>
+<a class="list-navigation__link a--smooth-scroll" href="#2-user-consent" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">2. User Consent</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#3-a-note-about-children" target="_self">3. A Note About Children</a>
+<a class="list-navigation__link a--smooth-scroll" href="#3-a-note-about-children" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">3. A Note About Children</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#4-a-note-to-users-outside-of-the-united-states" target="_self">4. A Note To Users Outside Of The United States</a>
+<a class="list-navigation__link a--smooth-scroll" href="#4-a-note-to-users-outside-of-the-united-states" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">4. A Note To Users Outside Of The United States</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#5-types-of-data-we-collect" target="_self">5. Types Of Data We Collect</a>
+<a class="list-navigation__link a--smooth-scroll" href="#5-types-of-data-we-collect" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">5. Types Of Data We Collect</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#6-use-of-your-personal-data" target="_self">6. Use Of Your Personal Data</a>
+<a class="list-navigation__link a--smooth-scroll" href="#6-use-of-your-personal-data" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">6. Use Of Your Personal Data</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#7-disclosure-of-your-personal-data" target="_self">7. Disclosure Of Your Personal Data</a>
+<a class="list-navigation__link a--smooth-scroll" href="#7-disclosure-of-your-personal-data" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">7. Disclosure Of Your Personal Data</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#8-third-party-websites" target="_self">8. Third Party Websites</a>
+<a class="list-navigation__link a--smooth-scroll" href="#8-third-party-websites" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">8. Third Party Websites</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#9-your-choices-regarding-information" target="_self">9. Your Choices Regarding Information</a>
+<a class="list-navigation__link a--smooth-scroll" href="#9-your-choices-regarding-information" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">9. Your Choices Regarding Information</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#10-security-of-your-personal-data" target="_self">10. Security Of Your Personal Data</a>
+<a class="list-navigation__link a--smooth-scroll" href="#10-security-of-your-personal-data" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">10. Security Of Your Personal Data</a>
 </li>
 <li class="list-navigation__item">
-<a class="a--smooth-scroll list-navigation__link" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active" href="#11-changes-to-this-privacy-policy" target="_self">11. Changes To This Privacy Policy</a>
+<a class="list-navigation__link a--smooth-scroll" href="#11-changes-to-this-privacy-policy" target="_self" data-scroll-spy-target=".list-navigation__item" data-scroll-spy-target-class="list-navigation__item--is-active">11. Changes To This Privacy Policy</a>
 </li>
-</ul></div><div class="layout__item sm-none"><hr class="text-gray-light"></div></div></div><div class="layout__item sm-8of12"><div class="layout xs-prl1"><div class="layout__item xs-pt2"><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="1-questions-contacting-hired-reporting-violations">1. Questions; Contacting Hired; Reporting Violations</h2>
+</ul></div><div class="layout__item sm-none"><hr class="text-gray-light"></div></div></div><div class="layout__item sm-8of12"><div class="layout xs-prl1">
+<div class="layout__item xs-pt2"><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="1-questions-contacting-hired-reporting-violations">1. Questions; Contacting Hired; Reporting Violations</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:</p>
 
-<p>Hired, Inc. 
-460 Bryant St, 3rd Floor
-San Francisco, CA 94107
+<p>Hired, Inc.
+1455 Market St, Floor 19
+San Francisco, CA 94103
 help@hired.com</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="2-user-consent">2. User Consent</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="2-user-consent">2. User Consent</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>By submitting Personal Data through our Site or Service, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="3-a-note-about-children">3. A Note About Children</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="3-a-note-about-children">3. A Note About Children</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Hired and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at help@hired.com.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="4-a-note-to-users-outside-of-the-united-states">4. A Note To Users Outside Of The United States</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="4-a-note-to-users-outside-of-the-united-states">4. A Note To Users Outside Of The United States</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>If you are a non-U.S. user of the Site, by visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your data, you consent to such transfer.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="5-types-of-data-we-collect">5. Types Of Data We Collect</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="5-types-of-data-we-collect">5. Types Of Data We Collect</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">A. Information You Provide To Us</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">A. Information You Provide To Us</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <ul>
 <li>We may collect Personal Data from you, such as your first and last name, location, phone number, gender, e-mail and mailing addresses, professional title, company name, employment history, education history, personal summary, and password when you create an account to log in to our network (“Account”).</li>
@@ -235,10 +224,10 @@ help@hired.com</p>
 <li>We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support for the Service.</li>
 <li>We may also collect Personal Data at other points in our Site that state that Personal Data is being collected.</li>
 </ul>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">B. Information You Provide To Facebook And Other Social Networking Sites</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">B. Information You Provide To Facebook And Other Social Networking Sites</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>If you are not currently registered as a user of the Service, and you click on “Sign In” using Facebook, LinkedIn, GitHub, Angellist, or another SNS that we support, you will first be asked to enter your SNS credentials and then be given the option to register for the Service. In this case, we may receive information from that SNS to make it easier for you to create an Account on the Site. Any information that we collect from your SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">C. Information Collected Via Technology</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">C. Information Collected Via Technology</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <ul>
 <li><u>Information Collected by Our Servers.</u> To make our Site and Service more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.</li>
@@ -248,18 +237,20 @@ help@hired.com</p>
 <li><u>Flash LSOs.</u> When we post videos, third parties may use local shared objects, known as “Flash Cookies,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.</li>
 <li><u>Google Analytics.</u> We use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site and Service. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Data. Although Google Analytics plants a persistent Cookie on your web browser to identify you as a unique user the next time you visit the Site, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.</li>
 </ul>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">D. Information Collected From You About Others</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">D. Information Collected From You About Others</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at help@hired.com to request the removal of this information from our database. Also, when you invite friends to the Service, we will access your Address Book and we will import your contacts names and phone numbers in order to facilitate the invitation. The e-mail that is sent to your friends will come from your e-mail address so that your friends know that you want to invite them to visit the Site. We do not store any passwords you provide as part of the contact import process. We also collect some settings that help us to interpret your data, such as the language and keyboard settings that you have established.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">E. Google Id</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">E. Google Id</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We allow you to use your Google ID to set up an Account. If you wish to use your Google account you are taken to the Google website to login to your account and this information is then shared with us for the sole purpose of setting up your Account.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">F. Information Collected From Third Party Companies</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">F. Information Collected From Third Party Companies</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
-<p>We may receive Personal and/or Anonymous Data about you from companies that provide our Service by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site. These third party companies may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Service we provide.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="6-use-of-your-personal-data">6. Use Of Your Personal Data</h2>
-</div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">A. General Use</h3>
+<p>We may receive Personal and/or Anonymous Data about you from companies that provide our Service by way of a co-branded or private-labeled website, companies that offer their products and/or services on our Site, and/or companies that otherwise collect such information. These third party companies may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Service we provide.</p>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="6-use-of-your-personal-data">6. Use Of Your Personal Data</h2>
+</div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">A. General Use</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:</p>
 
@@ -276,97 +267,192 @@ help@hired.com</p>
 <li>send you calendar invitations; and</li>
 <li>send newsletters, surveys, offers, and other promotional materials related to our Service and for other marketing purposes of Hired.</li>
 </ul>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">B. User Testimonials And Feedback</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">B. User Testimonials And Feedback</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We often receive testimonials and comments from users who have had positive experiences with our Service. We occasionally publish such content. When we publish this content, we may identify our users by their first and last name and may also indicate their home city. We obtain the user’s consent prior to posting his or her name along with the testimonial. We may post user feedback on the Site from time to time. We will share your feedback with your first name and last initial only. If we choose to post your first and last name along with your feedback, we will obtain your consent prior to posting you name with your feedback. If you make any comments on a blog or forum associated with your Site, you should be aware that any Personal Data you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">C. Creation Of Anonymous Data</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">C. Creation Of Anonymous Data</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Service and improve Site navigation. We reserve the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in our sole discretion.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="7-disclosure-of-your-personal-data">7. Disclosure Of Your Personal Data</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="7-disclosure-of-your-personal-data">7. Disclosure Of Your Personal Data</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">A. Third Parties Designated By You</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">A. Third Parties Designated By You</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>When you use the Service, the Personal Data you provide will be shared with the third parties that you designate to receive such information, including other websites, your friends, relatives and business associates. Depending on the type of access you grant to such third parties, they may also be permitted to edit the information you have provided to us and to designate others to access and edit such information. You may change your settings at any time as to who has access to your information by going to your account settings and changing your publishing options.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">B. Third Party Service Providers</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">B. Third Party Service Providers</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We may share your Personal Data with third party service providers to: provide you with the Service that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Hired. These third party service providers are required not to use your Personal Data other than to provide the services requested by Hired.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">C. Affiliates</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">C. Affiliates</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">D. Corporate Restructuring</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">D. Corporate Restructuring</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">E. Social Networking Sites</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">E. Social Networking Sites</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>Our Service may enable you to post content to SNSs. If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs. We will not be responsible or liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services on or availability of such SNSs; or (iii) your use of any such SNSs.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">F. Public Profile</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">F. Public Profile</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>Certain portions of the information you provide to us may also be displayed in your Profile. As an essential element of the Service, most of the Personal Data you explicitly provide to us when you register or update your Profile is displayed on your Profile. In order for your Profile to be made public, you must go to your profile settings and then to profile visibility. By default, your Profile is not for public viewing. Your photos, posts, friends, and other content you post to the Site are also meant for public consumption. We may display this content on the Site and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put Personal Data in your posts. Once you have posted information publicly, while you will still be able to edit and delete it on the Site, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines).</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">G. Other Disclosures</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">G. Other Disclosures</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>Regardless of any choices you make regarding your Personal Data (as described below), Hired may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Hired; (c) to protect or defend the rights or property of Hired or users of the Site or Service; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="8-third-party-websites">8. Third Party Websites</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="8-third-party-websites">8. Third Party Websites</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site, and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your Personal Data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our recommendation of such third parties or their products, content or websites.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="9-your-choices-regarding-information">9. Your Choices Regarding Information</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="9-your-choices-regarding-information">9. Your Choices Regarding Information</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>You have several choices regarding the use of information on our Service:</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">A. Email Communications</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">A. Email Communications</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Service. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our Terms of Use or Privacy Policy.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">B. Cookies</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">B. Cookies</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>If you decide at any time that you no longer wish to accept Cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify Cookies, please let us know at the contact information provided below.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">C. De-linking Sns</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">C. De-linking Sns</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your Account, then you may de-link the SNS account in the “preferences” section in your account settings. You may also manage the sharing of certain Personal Data with us when you connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Service and your social media account or mobile device.</p>
-</div></div><div class="layout__item xs-mb2"><h3 class="xs-epsilon text-medium text-black xs-mb1">D. Changing Or Deleting Your Personal Data</h3>
+</div></div><div class="layout__item xs-mb2"><h3 class="xs-inset1 xs-epsilon text-medium text-black xs-mb1">D. Changing Or Deleting Your Personal Data</h3>
 <div class="xs-epsilon text-light content--minimal-markdown">
 <p>You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at help@hired.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="10-security-of-your-personal-data">10. Security Of Your Personal Data</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="10-security-of-your-personal-data">10. Security Of Your Personal Data</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>Hired is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Hired uses reasonable efforts to protect your Personal Data, Hired cannot guarantee its absolute security.</p>
-</div></div><div class="layout layout--bottom xs-mb3 xs-prl1"><div class="layout__item"><hr class="text-gray-light"></div></div>
-</div><div class="layout"><div class="layout__item xs-mb2"><h2 class="text-black text-light xs-beta xs-inset2" id="11-changes-to-this-privacy-policy">11. Changes To This Privacy Policy</h2>
+</div></div><div class="layout layout--bottom xs-mb3 xs-prl1">
+<div class="layout__item"><hr class="text-gray-light"></div></div>
+</div><div class="layout">
+<div class="layout__item xs-mb2"><h2 class="xs-beta xs-inset2 text-light text-black" id="11-changes-to-this-privacy-policy">11. Changes To This Privacy Policy</h2>
 <div class="xs-epsilon text-light content--minimal-markdown xs-pt1">
 <p>This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here: https://hired.com/privacy and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes. Continued use of our Site or Service, following posting of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes.</p>
 </div></div></div></div></div></div></div>
 </div>
 
-<div class="container xs-ptb3">
-<div class="footer">
-<ul class="footer-list text-uppercase xs-mb1"><li><a href="/" target="_self">Home</a></li><li><a href="/employers" target="_self">Employers</a></li><li><a href="/sales" target="_self">Sales</a></li><li><a href="/company-directory" target="_self">Companies</a></li><li><a href="/about" target="_self">About</a></li><li><a href="/support" target="_self">Support</a></li><li><a href="https://blog.hired.com" target="_self">Blog</a></li><li><a href="/careers" target="_self">Careers</a></li><li><a href="/privacy" target="_self">Privacy</a></li><li><a href="/terms" target="_self">Terms</a></li></ul>
-<ul class="footer-list footer-list--small xs-mb1">
+<div class="box box--white xs-ptb1 sm-pt2 xs-bt1">
+<div class="container footer">
+<div class="layout layout--center xs-mrlh1">
+<div class="layout__item xs-6of12 sm-3of12 md-2of12 xs-mt1 sm-mt0"><div class="text-medium text-dark text-uppercase xs-mbh0">Candidates</div>
+<ul>
 <li>
-<a href="https://www.facebook.com/HiredInc/" target="_self">Facebook</a>
+<a href="/index" title="Home">Home</a>
 </li>
 <li>
-<a href="https://twitter.com/hired_hq" target="_self">Twitter</a>
+<a href="/how-it-works" title="How Hired Works">How It Works</a>
 </li>
 <li>
-<a href="https://www.linkedin.com/company/hired-inc" target="_self">LinkedIn</a>
+<a href="/freelance-jobs" title="Freelance Jobs">Freelance Jobs</a>
 </li>
 <li>
-<a href="http://www.glassdoor.com/Reviews/Hired-Reviews-E816441.htm" target="_self">Glassdoor</a>
+<a href="/Sales" title="Sales Jobs">Sales Jobs</a>
 </li>
 <li>
-<a href="https://www.youtube.com/c/HiredSanFrancisco" target="_self">YouTube</a>
+<a href="/invite" title="Invite Your Friends &amp; Get Paid">Invite</a>
+</li>
+</ul></div><div class="layout__item xs-6of12 sm-3of12 md-2of12 xs-mt1 sm-mt0"><div class="text-medium text-dark text-uppercase xs-mbh0">Employers</div>
+<ul>
+<li>
+<a href="/employers" title="Hire a great team.">Employers</a>
 </li>
 <li>
-<a href="https://plus.google.com/+HiredSanFrancisco/posts" target="_self">Google+</a>
+<a href="/employers/product" title="Product">Product</a>
+</li>
+<li>
+<a href="/employers/customers" title="Customers">Customers</a>
+</li>
+<li>
+<a href="/employers/resources" title="Resources">Resources</a>
+</li>
+<li>
+<a href="/employers/faq" title="FAQ">FAQ</a>
+</li>
+</ul></div><div class="layout__item xs-6of12 sm-3of12 md-2of12 xs-mt1 sm-mt0"><div class="text-medium text-dark text-uppercase xs-mbh0">Hired</div>
+<ul>
+<li>
+<a href="/about">About</a>
+</li>
+<li>
+<a href="/careers">Careers</a>
+</li>
+<li>
+<a href="/press">Press</a>
+</li>
+<li>
+<a href="/blog/highlights">Blog</a>
+</li>
+<li>
+<a href="/support">Support</a>
+</li>
+</ul></div><div class="layout__item xs-6of12 sm-3of12 xs-mt1 sm-mt0 sm-pl0"><div class="social">
+<div class="text-medium xs-block text-dark text-uppercase xs-mbh0">Follow Us</div>
+<a class="xs-mrh0" href="https://www.glassdoor.com/Overview/Working-at-Hired-EI_IE816441.11,16.htm" target="_blank">
+<img class="icon icon--social-glassdoor" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a>
+<a class="xs-mrh0" href="https://www.facebook.com/HiredInc/" target="_blank">
+<img class="icon icon--social-facebook" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a>
+<a class="xs-mrh0" href="https://twitter.com/Hired_HQ" target="_blank">
+<img class="icon icon--social-twitter" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a>
+<a class="xs-mrh0" href="https://www.instagram.com/hiredinc/" target="_blank">
+<img class="icon icon--social-instagram" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a>
+<a class="xs-mrh0" href="https://www.linkedin.com/company/hired-inc" target="_blank">
+<img class="icon icon--social-linkedin" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a>
+<a href="https://www.youtube.com/channel/UCwNUQ1kQphwzCYo4E0POCEw" target="_blank">
+<img class="icon icon--social-youtube" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+</a>
+</div><div class="languages xs-mt1 sm-mt1 sm-pl0 text-dark"><div class="text-medium xs-block text-uppercase xs-mbh0">Language</div>
+<ul>
+<li>
+<a class="text-bold xs-mrh0" href="?set_locale=en-US" title="EN">EN</a>
+|
+<a class="xs-mlh0" href="?set_locale=fr-FR" title="FR">FR</a>
+</li>
+</ul></div></div><div class="layout__item xs-text-center xs-mth0"><ul class="xs-zeta footer__list">
+<li>
+© 2016 Hired, Inc. All Rights Reserved.
+</li>
+<li>
+<a href="/privacy" target="_self">Privacy</a>
+</li>
+<li>
+<a href="/terms" target="_self">Terms</a>
+</li>
+<li>
+<a href="/jobs" target="_self">Jobs</a>
+</li>
+<li>
+<a href="/cities" target="_self">Cities</a>
+</li>
+<li>
+<a href="/companies" target="_self">Companies</a>
+</li>
+<li>
+<a href="/company-directory" target="_self">Directory</a>
+</li>
+<li>
+<a href="/salary-calculator" target="_self">Salary Calculator</a>
+</li>
+<li>
+<a href="/sitemap" target="_self">Sitemap</a>
 </li>
 </ul>
-<p class="xs-text-center">
-<small>© 2015 Hired, Inc. All Rights Reserved.</small>
-</p>
+</div></div>
 </div>
 </div>
-<div class="animated shade" data-ft-hide-class="fadeOut" data-ft-show-class="fadeIn"></div>
+<div class="shade animated" data-ft-show-class="fadeIn" data-ft-hide-class="fadeOut"></div>
 
 
 
