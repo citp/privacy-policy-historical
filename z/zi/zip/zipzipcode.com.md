@@ -1,41 +1,76 @@
-> *The following text is extracted and transformed from the zipzipcode.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208193332id_/http%3A//zipzipcode.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipzipcode.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623201652id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ZipZipCode : Find Local Deals Fast!
+# Privacy Policy
 
-| 
+**Updated: September 29, 2014**
 
-At ZipZipCode LLC, ("ZipZipCode", "we" or "us"), we know our visitors and advertisers (collectively, "you" or "users") value their privacy, and we have created this privacy policy to ensure that you understand our policies and procedures regarding the types of information we collect or that you may provide to us in connection with use of [_www.ZipZipCode.com_](http://www.zipzipcode.com/) (the "Site") and our ZipZipCode service (the "Service") and how we use such information.
+HoodaMath.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Hooda Math is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.hoodamath.com. 
 
-**Personal Information Collection & Usage:** ZipZipCode only collects personal information from you when it is voluntarily provided by you. Personal information may include name, title, company, email address, physical address, telephone number, credit card information and similar information which identifies you. We may use this information in a variety of ways. For example, we may use this information so that you may obtain access to advertiser-only portions of the Service and/or to receive ZipZipCode information, products and services. In addition, we may share your personal information with our affiliates, technical consultants, third party auditors and other third parties who make our Site and Service available, enhance its functionality or provide associated services and/or who deal with you in processing your orders and/or deliver the Services or related services. The personal information you provide is considered a company asset and may be included among transferred assets if our company or any of its assets are ever acquired by or transferred to a third party or an affiliate.
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We use this information to help us design a website that is targeted to the interests of our visitors. We do not tie any personal information to your IP address. 
 
-From time to time we may supplement personal information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site and Service may be intermingled with and used in conjunction with information obtained through sources other than the Site or Service, including both offline and online sources.
+Hooda Math uses cookies to track game progress and level completion. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies. Clear Gifs (Web Beacons/Web Bugs) 
 
-**Aggregate Information Collection & Usage:** We may collect information from you in an aggregate, anonymous form, which means that the information will not contain nor be linked to any personal information. For instance, we may aggregate data based upon the advertisements you upload and deliver through our Service, the Targeting Criteria (described in the [_Terms and Conditions_](https://web.archive.org/web/20131208193332id_/http%3A//zipzipcode.com/legal.html)) you select, the amount of money you spend on your account and other campaign or user data. ZipZipCode uses this information to measure the use of our Site and Service, to report to our business partners aggregate statistics regarding use of our Service, to improve our Site and Service and for other business purposes.
+We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. Advertisers 
 
-We also reserve the right to access and/or disclose personal information and non-personal information we have gathered, as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the [_Terms and Conditions_](https://web.archive.org/web/20131208193332id_/http%3A//zipzipcode.com/legal.html), or the rights of third parties or to investigate any suspected conduct which ZipZipCode deems improper. 
+We use third-party advertising companies to serve ads when you visit our Web site. In response to the new COPPA rules, HoodaMath.com has opted out of behaviorally targeted ads from all of our advertising networks, and instead only shows contextually-based ads or other carefully-selected ads which are not based on a user's browsing behavior. 
 
-**Clickstream:** As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use clickstream data as a form of aggregate information to anonymously determine how much time users spend on each page of our Site, how users navigate throughout the Site and how we may tailor our web pages to better meet the needs of users. This information may be used to improve our Site and Service or to share with business partners. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any personal information.
+We have asked all of our advertising networks to turn off all behaviorally targeted ads that would track a user or attempt to create a profile on any of our users. We have also alerted our advertising agencies that a portion of our audience is "under 13" and that they need to adhere to all COPPA rules and regulations. Hooda Math does not run behaviorally targeted ads, but, if you want to opt out of these on other websites that do, you can opt out here: <http://www.iab.net/privacymatters/>
 
-**Cookies:** The Site and Service may use "cookies" to improve our level of service to our you. Cookies are lines of text that are transmitted to your web browser when you click on a web site. Your browser stores the information on your hard drive and when you return to that web site later, the cookie is transmitted back to the server that originally sent it to you. Cookies provide a way for a server to recall a previous request or previous registration, or to keep track of a transaction as it progresses, so that information does not have to be repeated. To be notified when you are about to receive a cookie, you can configure your browser to alert you when a web site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” or web beacon on your browser. 
 
-**Gifs and Tags:** ZipZipCode, and third-party advertising companies serving ads on our Site or on our behalf, may employ cookies, action tags, clear gifs, web beacons or similar devices to measure advertising effectiveness. Any information collected via such devices is anonymous and will not contain your personal information.
+You can view the privacy policies for each ad company by following the links below: 
 
-**Security Procedures:** The security of your personal information is very important to us. We attempt to provide for the secure transmission of your information by utilizing encryption software. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees and contractors who need access to your personal information in order to perform their duties are allowed access to your personal information. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and ZipZipCode, ZipZipCode and you or ZipZipCode and any business partners will be free from unauthorized access by third parties such as hackers and your use of the Site and Service demonstrates your assumption of this risk.
+  * BURST! Media: <http://www.burstmedia.com/privacy.html>
+  * Google Adsense: <http://www.google.com/privacy.html>
+  * Viacom Media Network Tribes: <http://www.viacom.com/privacypolicy/Pages/default.aspx>
+  * Commission Junction: <http://www.cj.com/legal/privacy_web_user.html>
+  * Linkshare: <http://www.linkshare.com/legal/privacy/>
 
-**Other Web Sites:** This Site may provide links or references to other web sites, including those of our business partners. However, we have no control over or responsibility for the content or practices on third party web sites or transac.tions that occur therein. The privacy policies and [_Terms and Conditions_](https://web.archive.org/web/20131208193332id_/http%3A//zipzipcode.com/legal.html) governing this Site may differ significantly from the policies of third party web sites. We encourage you to be aware when you leave our Site and you should always read and accept the privacy policies and terms and conditions of such third party web sites before you access these web sites.
 
-**Reviewing or Changing Your Information:** In order to ensure that the information we maintain is accurate, ZipZipCode gives users the opportunity to change or modify their previously provided information. If you would like to change your information currently in our database, please access your account on the Site. If you are unable to access your account, please contact us at [_contact@zipzipcode.com_](mailto:contact@zipzipcode.com). ZipZipCode is not responsible for updating information provided pursuant to this privacy policy to third party lists or databases. 
 
-**Protection for Children:** This Site is not intended to collect personal information from children under the age of 13. Where appropriate, we take reasonable measures to inform children not to submit such information to our Site or in response to advertisements. When we become aware that personal information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database.
+HoodaMath.com uses third-party analytics software to provide us with information regarding the usage of the Website. The information we receive from such third-party analytics software is not Personal Information attributable to any user but rather information that is aggregated by the software so that we can track such things as how many users we have of the Website on a daily, weekly or monthly basis, what Website content or features our users are frequenting and the general geographic locations of our users. 
 
-**United States:** Our Site and Service are maintained in New York, New York USA. By using the Site or Service, you authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. 
+To opt-out from this type of tracking, please use the links below: 
 
-**Changes to policy; Opt-in / Opt-out:** This policy applies to our online information collection practices only. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. When your consent is required for any action under this policy, you agree that we may obtain your consent by an "opt-in" or "opt-out" method, or by other means (such as sending to you an email). However, if at any time in the future we plan to use your personal information in a way that differs from this policy, we will obtain your consent. 
+  * Google Analytics: <http://tools.google.com/dlpage/gaoptout>
+  * comScore: <http://www.comscore.com/About_comScore/Privacy_Policy>
 
-By registering to use the Service, you consent to receive information and updates on our products and services. You may opt-out of such communications by sending an email to [_contact@zipzipcode.com_](mailto:contact@zipzipcode.com). 
 
-**Terms and Conditions:** Use of this Site and our Service are governed by the provisions contained in the [_Terms and Conditions_](https://web.archive.org/web/20131208193332id_/http%3A//zipzipcode.com/legal.html). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE.
 
-**Contacting Us:** If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us at: [_contact@zipzipcode.com_](mailto:contact@zipzipcode.com). 
+This site contains links to other sites. HoodaMath.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every site that collects personal information. This privacy policy applies only to the information collected on this Site. Security 
 
-| 
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+
+Children's Guidelines: 
+
+We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
+
+We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. The only information we collect from you prior to allowing your use of the tell a friend feature that is ran by a third party social media feature is your age to determine whether or not you are able to use this feature. 
+
+We will share your personal information only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
+
+We may provide your personal information to companies that provide services to help us with our business activities such as providing customer support or content management. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+
+We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified by prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by emailing our Customer Support at admin@hoodamath.com. We will respond to your request to access within 30 days. Data Retention 
+
+We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at the email address provided above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+We may update this privacy policy to reflect changes to our information practices. If we make material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+If we make material changes to how we use personal information collected from children under 13, we will notify parents by e-mail (if possible), or by means of a notice on this Site in order to obtain verifiable consent for the new uses of the child's personal information. 
+
+Classroom Pages collect information only from Teachers and Parents to set-up a classroom page account. This information is used in summation to better understand where are users are located in the US and to be used as proof of use to our advertisers. "Student Login" is not an actual login, but rather a code a teacher gives to all of their students that links to the Classroom Page, nothing personally identifiable in any way. 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+Hooda Math LLC   
+5115 Excelsior Blvd   
+#321   
+St Louis Park, MN 55416   
+admin@hoodamath.com 
