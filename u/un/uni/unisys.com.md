@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226005019id_/http%3A//www.unisys.com/unisys-legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623105717id_/http%3A//www.unisys.com/unisys-legal/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -8,16 +8,11 @@ We developed the following privacy statements to provide you information you nee
 
   * A  Privacy Notice to help you understand the types of personal data we collect through our websites and off-line business activities, how we use your personal data, with whom we share your personal data and how we protect your personal data.  
 
-  * A description of our  Sharing practices, including information about how we may transfer your personal information.  
-
-  * ​Identification of the  Marketing tools, including cookies, we use to tailor your Unisys experience and improve our interaction with you and information about how to change cookie preferences.  
-
-  * Information describing our  [Recruiting ](http://www.unisys.com/unisys-legal/recruiting)privacy practices, including how we treat personal data you provide for recruiting and hiring purposes.​  
+  * A description of our  Sharing practices, including information about how we may transfer your personal information.
+  * ​Identification of the  Marketing tools, including cookies, we use to tailor your Unisys experience and improve our interaction with you and information about how to change cookie preferences.​
+  * ​​Information describing our  [Recruiting ](http://www.unisys.com/unisys-legal/recruiting)privacy practices, including how we treat personal data you provide for recruiting and hiring purposes.​
 
 
-
-
-​ 
 
 ​​ **Privacy Notice**
 
@@ -39,7 +34,7 @@ We use the personal data you provide to manage the services you request, respond
 
 We may also use your personal data to support our relationship with you by sending you materials or contacting you about services or offers that we think would be of interest to you. For more information on how we use personal data for Marketing, please review the section below. 
 
-At all times, we will process your data fairly and lawfully. We will retain your personal data for as long as is necessary for the purposes stated above. 
+At all times, we will process your data fairly and lawfully. We will retain your personal data for as long as is necessary for the purposes stated above (this time period will not exceed 3 years for external candidates in Germany).
 
 **How We Protect Your Personal Data**
 
@@ -65,7 +60,7 @@ We may also disclose your personal data if we are required to do so in order to 
 
 We rely on you to provide accurate, complete and current personal data to us. 
 
-If you need to correct or update the personal data you provided to us, in many cases, you can edit your data from the location where you provided the personal data to us. If you have any problems accessing your personal data, you may contact the [Unisys Global Privacy Of​​fice](http://outreach.unisys.com/LP=914) for assistance.​​
+If you need to correct or update the personal data you provided to us, in many cases, you can edit your data from the location where you provided the personal data to us. If you have any problems accessing your personal data, you may contact the  [Unisys Global Privacy Of​​fice](http://outreach.unisys.com/LP=914) for assistance.​​
 
 **Marketing, Cookies and Data Tools**
 
@@ -124,4 +119,4 @@ United States​
 Effective October 26​​, 2015  
 
 
-​​
+​​​​
