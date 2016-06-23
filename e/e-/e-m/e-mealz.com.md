@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919111421id_/http%3A//emeals.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623200512id_/http%3A//emeals.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](http://emeals.com/) > About > Privacy Policy
 
 _Last updated: November 2014_
 
@@ -22,12 +20,12 @@ Examples of information you provide to us include your name, email address, phys
 **Information that we collect automatically:**  
 There are some forms of information that we collect automatically, including:
 
-  * • Information about your interactions with and use of our website and mobile app.
-  * • Details about your interactions with customer support, such as the times and dates of interactions, the details of the interactions, and live-chat transcripts.
-  * • Device identifiers such as the type of device you use, the version of your browser, your operating system and identifiers that can be used to uniquely identify your device.
-  * • Standard web-logging information such as page views, referral URLs, ad data, IP addresses, connection information, browser versions, and operating system versions.
-  * • Information collected via the use of cookies, web beacons and other technologies.
-  * • Information from advertising network partners about the type of ads you have viewed or interacted with.
+  * Information about your interactions with and use of our website and mobile app.
+  * Details about your interactions with customer support, such as the times and dates of interactions, the details of the interactions, and live-chat transcripts.
+  * Device identifiers such as the type of device you use, the version of your browser, your operating system and identifiers that can be used to uniquely identify your device.
+  * Standard web-logging information such as page views, referral URLs, ad data, IP addresses, connection information, browser versions, and operating system versions.
+  * Information collected via the use of cookies, web beacons and other technologies.
+  * Information from advertising network partners about the type of ads you have viewed or interacted with.
 
 
 
@@ -38,9 +36,9 @@ We may supplement the information collected with information we obtain from othe
 
 eMeals uses the information that you provide in a manner that is consistent with this Privacy Policy. We use the information we collect to provide, analyze, administer, enhance and personalize our service and marketing initiatives. For example, we may use the information to:
 
-  * • Identify your general geographic location, such as a city or zip code, to determine locally available products and discounts or for other local marketing efforts. 
-  * • Detect, prevent or investigate fraudulent uses of our Site or Services.
-  * • Send you service- or marketing-related emails or push notifications.
+  * Identify your general geographic location, such as a city or zip code, to determine locally available products and discounts or for other local marketing efforts. 
+  * Detect, prevent or investigate fraudulent uses of our Site or Services.
+  * Send you service- or marketing-related emails or push notifications.
 
 
 
