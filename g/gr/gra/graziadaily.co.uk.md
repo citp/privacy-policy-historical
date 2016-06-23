@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the graziadaily.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210151149id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graziadaily.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623210318id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
 **The Bauer Media Group consists of:**
 
-Bauer Consumer Media Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 01176085, VAT no. 918 5617 01. 
+Bauer Consumer Media Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 01176085, VAT no. 918 5617 01. 
 
 **And**
 
-Bauer Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 01394141, VAT no. 918 5617 01. 
+Bauer Radio Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 01394141, VAT no. 918 5617 01. 
 
 **And**
 
-Absolute Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 02674136, VAT no. 918 5617 01. 
+Absolute Radio Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 02674136, VAT no. 918 5617 01. 
 
 **Please click on the following links or scroll down to see the details of our Privacy Policy:**
 
@@ -113,4 +113,4 @@ This Privacy Policy will be amended from time-to-time if we make any important c
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in October 2015. 
+This Privacy Policy was last revised in March 2016. 
