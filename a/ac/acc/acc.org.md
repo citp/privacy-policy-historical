@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acc.org privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010004535id_/http%3A//www.acc.org/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acc.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623150318id_/http%3A//www.acc.org/footer-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American College of Cardiology
 
@@ -46,9 +46,11 @@ We contract with third-party advertisers who post advertisements on the Site, wh
 
 We recognize that your privacy is important to you, and therefore we endeavor to keep your Personal Information confidential. The Personal information about each user is stored on servers that are behind a firewall and physically housed within a secure data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of Personal Information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the Personal Information submitted to us nor for your or third parties' use or misuse of Personal Information.
 
-## Use of Google Universal Analytics
+## Use of Google Products
 
 We use Google Universal (GUA) for tracking and reporting Site activity. GUA collects information such as how often users visit the Site, what pages they visit on the Site, and what other sites they used prior to coming to the Site. This allows us to better understand our users and to optimize their digital experience. We use the Google User ID features to associate data from the different devices and multiple sessions of users and we may stitch together session data from unauthenticated user visits with authenticated user visits to give us a more accurate count of our Site users in order to improve Site usage data. We use data from the Google Display Network with GUA for demographic and interest reports to better understand and serve our audience. We may connect GUA data with data from our registered user database to understand the usage and needs of our registered users. Google prohibits the transmission of personally identifiable information to GUA, and we will not transmit any such information to GUA.
+
+We use Google’s AdWords and Remarketing features to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. You can opt out of Google’s use of cookies by visiting Ads Settings (<http://www.google.com/settings/ads>).
 
 You have choices
 
@@ -61,6 +63,10 @@ You have choices
 ## WebTrends
 
 WebTrends tracks and analyzes personally identifiable usage and volume statistical information from visitors and members on Site. All data collected by WebTrends on our behalf is owned and used by the ACCF.
+
+## Mouseflow
+
+This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at <https://mouseflow.com/opt-out/>
 
 ## About This Privacy Policy
 
