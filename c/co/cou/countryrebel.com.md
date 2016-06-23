@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countryrebel.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225162237id_/http%3A//countryrebel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryrebel.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005208id_/http%3A//countryrebel.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Country Rebel Clothing Co.
+# Privacy Policy | Country Rebel
 
 ### WHAT INFORMATION DO WE COLLECT?
 
@@ -95,7 +95,7 @@ THIS POLICY WAS LAST MODIFIED ON **14 April 2014**
 IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
 TRMI Inc. / dba Country Rebel Clothing Co.  
-300 W. BEECH ST. #1810  
+832 5TH AVE. #6  
 SAN DIEGO, CA 92101  
 UNITED STATES OF AMERICA  
 admin [@] countryrebel [dot] com  
