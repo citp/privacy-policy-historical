@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridewithgps.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026155719id_/http%3A//ridewithgps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridewithgps.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623191358id_/https%3A//ridewithgps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Ride With GPS
 
@@ -15,10 +15,6 @@ Additionally, cookies may be used to provide easier and faster access to website
 We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as maintaining your authenticated status so you do not have to sign in every time you visit.
 
 We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
-
-### Links to Other Websites
-
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
 ### Registration and Use of Personal Information
 
@@ -50,6 +46,6 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us, our contact information is as follows:
 
-ridewithgps@gmail.com
+[info@ridewithgps.com](mailto:info@ridewithgps.com?subject=Privacy%20Policy%20Question)
 
 This privacy policy was last updated on February 17, 2009.
