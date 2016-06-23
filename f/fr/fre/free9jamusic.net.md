@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free9jamusic.net privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128052201id_/https%3A//www.iubenda.com/private/privacy-policy/377051/legal%3Fpreview%3Dtrue%26ifr%3Dtrue%26height%3D533%26an%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free9jamusic.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623075741id_/https%3A//www.iubenda.com/private/privacy-policy/377051/legal%3Fpreview%3Dtrue%26ifr%3Dtrue%26height%3D533%26an%3Dno) for the most accurate reproduction.*
 
 # Privacy Policy of free9jamusic.net
 
@@ -30,7 +30,7 @@ The natural person, legal person, public administration or any other body, assoc
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookie
+#### Cookies
 
 Small piece of data stored in the User's device.
 
