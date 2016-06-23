@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topinfopost.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908155456id_/http%3A//topinfopost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topinfopost.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623213346id_/http%3A//topinfopost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – TIP
 
 This privacy policy is for this website topinfopost.com and served by ‘D.N.A Inc’ and governs the privacy of its users who choose to use it.
 
