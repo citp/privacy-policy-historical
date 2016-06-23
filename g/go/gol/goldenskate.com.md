@@ -1,16 +1,38 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604180937id_/http%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623171044id_/http%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
 
-# Golden Skate Privacy Policy - Golden Skate
+# Golden Skate Privacy Policy
 
 _Golden Skate_ has created this privacy policy to demonstrate it’s firm commitment to your privacy and the protection of your information.
 
+**Sharing and Usage**
+
+Golden Skate does not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**Third party websites**
+
+Users may find advertising or other content on our site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensor and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our site, is subject to that website’s own terms and policies.
+
 **Cookies**
 
-_Golden Skate_ does not collect or use cookies, however, cookies are _enabled_ for the [ _Golden Skate Forums_](http://www.goldenskate.com/forum/forum.php) in order to prevent a user from registering more than once.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Google Adsense**
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **COPPA**
 
-_Golden Skate_ , in compliance with the [Children’s Online Privacy Protection Act (COPPA) of 1998](http://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), provides notice to parents of children under 13 that:
+_Golden Skate_ , in compliance with the [Children’s Online Privacy Protection Act (COPPA) of 1998](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), provides notice to parents of children under 13 that:
 
   * The [ _Golden Skate Forums_](http://www.goldenskate.com/forum/forum.php) require the consent of parents or guardians to collect, use and disclose personally identifiable information about children under 13;
   * _Golden Skate_ has created a mechanism by which parents and guardians can provide consent;
@@ -28,12 +50,6 @@ If you received an email from  _Golden Skate_ , (a) your email address is eithe
 Please carefully examine the headers of the offending email to locate the IP address of the host that sent the email.
 
 If an examination of the headers reveals that the message originated from a host in the **goldenskate.com** domain, then forward the message (with full headers) to the [webmaster](http://www.goldenskate.com/contact/).
-
-If you cannot tell where the message originated from or if it did not originate from the goldenskate.com domain, please do not report the matter to us. Instead, we suggest that you use the [spam reporting service](http://www.spamcop.net/) at Spamcop.net.
-
-**Sharing and Usage**
-
-_Golden Skate_ will  **never** share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to  _Golden Skate_ is only available to the site owner managing this information for the purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to it’s communications with you.
 
 **How can you stop receiving email from Golden Skate?**
 
