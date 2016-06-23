@@ -1,19 +1,91 @@
-> *The following text is extracted and transformed from the wpthemedesigner.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918104853id_/http%3A//www.wpthemedesigner.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemedesigner.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623202732id_/http%3A//www.wpthemedesigner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WP Theme Designer
 
-## PRIVACY Policy
+[Home](http://www.wpthemedesigner.com/) » Privacy Policy
 
-Like most websites, "WP Theme Designer.com" collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. "WP Theme Designer.com"�s purpose in collecting non-personally identifying information is to better understand how "WP Theme Designer.com"�s visitors use its website. From time to time, "WP Theme Designer.com" may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+PRIVACY STATEMENT
 
-"WP Theme Designer.com" also collects potentially personally-identifying information like Internet Protocol (IP) addresses. "WP Theme Designer.com" does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
+—-
 
-Certain visitors to "WP Theme Designer.com"�s websites choose to interact with "WP Theme Designer.com" in ways that require "WP Theme Designer.com" to gather personally-identifying information. The amount and type of information that "WP Theme Designer.com" gathers depends on the nature of the interaction. For example, we ask visitors who [PERFORM AN ACTION] at [YOUR SITE] to provide [CERTAIN DETAILS]. Those who engage in transactions with "WP Theme Designer.com" � by [DOING SOMETHING], for example � are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, "WP Theme Designer.com" collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor�s interaction with "WP Theme Designer.com". "WP Theme Designer.com" does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
-"WP Theme Designer.com" may collect statistics about the behavior of visitors to its websites. For instance, "WP Theme Designer.com" may monitor the most popular parts of the [YOUR SITE] site, and [OTHER EXAMPLE]. "WP Theme Designer.com" may display this information publicly or provide it to others. However, "WP Theme Designer.com" does not disclose personally-identifying information other than as described below. 
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-"WP Theme Designer.com" discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on "WP Theme Designer.com"�s behalf or to provide services available at "WP Theme Designer.com"�s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using "WP Theme Designer.com"�s websites, you consent to the transfer of such information to them. "WP Theme Designer.com" will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, "WP Theme Designer.com" discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when "WP Theme Designer.com" believes in good faith that disclosure is reasonably necessary to protect the property or rights of "WP Theme Designer.com", third parties or the public at large. If you are a registered user of a "WP Theme Designer.com" website and have supplied your email address, "WP Theme Designer.com" may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what�s going on with "WP Theme Designer.com" and our products. We primarily use our [OTHER METHODS, SUCH AS WEB SITE OR BLOGS] to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. "WP Theme Designer.com" takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-A cookie is a string of information that a website stores on a visitor�s computer, and that the visitor�s browser provides to the website each time the visitor returns. "WP Theme Designer.com" uses cookies to help "WP Theme Designer.com" identify and track visitors, their usage of "WP Theme Designer.com" website, and their website access preferences. "WP Theme Designer.com" visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using "WP Theme Designer.com"�s websites, with the drawback that certain features of "WP Theme Designer.com"�s websites may not function properly without the aid of cookies. 
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Although most changes are likely to be minor, "WP Theme Designer.com" may change its Privacy Policy from time to time, and in "WP Theme Designer.com"�s sole discretion. "WP Theme Designer.com" encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+SECTION 2 – CONSENT
+
+How do you get my consent?
+
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+
+How do I withdraw my consent?
+
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@wpthemedesigner.com or mailing us at: WpThemeDesigner.com 2501 S Louise AVE 90546, Sioux Falls, SD, 57109, United States
+
+SECTION 3 – DISCLOSURE
+
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+
+SECTION 4 – WooCommerce
+
+Our store is run by WooCommerce. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+
+You data is processed by Stripe’s secure firewall.
+
+Payment:
+
+If you choose a direct payment gateway to complete your purchase, then Stripe processes your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+SECTION 5 – THIRD-PARTY SERVICES
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal [assignment writing](http://englishhomeworkhelp.co.uk/assignment-writing-service/) information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+SECTION 6 – SECURITY
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+SECTION 7 – AGE OF CONSENT
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+SECTION 8 – CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@wpthemedesigner.com or by mail at WpThemeDesigner.com
+
+[Re: Privacy Compliance Officer]
+
+[2501 S Louise AVE 90546, Sioux Falls, SD, 57109, United States]
+
+—-
