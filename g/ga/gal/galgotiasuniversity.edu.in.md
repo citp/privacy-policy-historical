@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the galgotiasuniversity.edu.in privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202110753id_/http%3A//galgotiasuniversity.edu.in/privacy.aspx%3Fmpgid%3D84%26pgid%3D84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galgotiasuniversity.edu.in privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624002444id_/http%3A//www.galgotiasuniversity.edu.in/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy policy
+# Galgotias University
 
 Thank you for visiting the Galgotias University website and reviewing our privacy policy. Our policy is simple: We collect no personal information about you unless you choose to provide that information to us. We do not give, share, sell, or transfer any personal information to a third party.
 
 If you do nothing during your visit but browse through the website, read pages, or download information, our website's operating system will automatically record some general information about your visit.
 
-**During your visit, our web operating system will record :**  
-
+### During your visit, our web operating system will record :
 
   * The Internet domain for your Internet service, such as "xyz.com" or "xyz.net" if you use a private Internet access account, or "yourcollege.edu" if you connect from a college or university domain. 
   * The type of browser (such as "Netscape version X" or "Internet Explorer version X") that you are using. 
@@ -19,7 +18,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 We use this information for statistical analysis, to help us make our site more useful to visitors. This tracking system does not record information about individuals.
 
-**Cookies**
+### Cookies
 
 On certain Galgotias University web pages, we use "cookies" to help you use our websites interactively. A cookie is a small file that a website transfers to your computer's hard disk, usually to keep track of you while you are connected to that site.
 
@@ -27,15 +26,14 @@ The cookies on Galgotias University web pages do not collect information about y
 
 To protect your privacy, be sure to close your browser completely after you have finished conducting business with a website that uses cookies. If you are concerned about the potential use of information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
 
-**Information from E-mail You Send to Us**
+### Information from E-mail You Send to Us
 
-If you decide to send us an electronic mail message (e-mail), the message will usually contain your return e-mail address. If you include personally-identifying information in your e-mail because you want  
-us to address issues specific to your situation, we may use that information in responding to your request. Also, e-mail is not necessarily secure against interception. Please send only information necessary to help us process your request.
+If you decide to send us an electronic mail message (e-mail), the message will usually contain your return e-mail address. If you include personally-identifying information in your e-mail because you want us to address issues specific to your situation, we may use that information in responding to your request. Also, e-mail is not necessarily secure against interception. Please send only information necessary to help us process your request.
 
-**Information Collected from Interactive Forms**
+### Information Collected from Interactive Forms
 
 On some of our web pages we offer interactive forms that let you voluntarily submit personal information (such as your e-mail address, name, or organization). This occurs when you are registering for online counseling, various tests, quizzes, seminars, workshops, or training sessions offered by GALGOTIAS UNIVERSITY, Filling up admission forms from GALGOTIAS UNIVERSITY. In those cases, all submitted information is used only for the purposes for which it is intended and is not made available to any third party.
 
-**Links to Other Sites**
+### Links to Other Sites
 
 Our policy discloses the privacy practices for the GALGOTIAS UNIVERSITY website. But GALGOTIAS UNIVERSITY provides links to other websites. When you leave the GALGOTIAS UNIVERSITY website ([www.Galgotiasuniversity.edu.in](http://galgotiasuniversity.edu.in/)), you will be going to sites that are beyond our control. These other sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for GALGOTIAS UNIVERSITY do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy
