@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220014020id_/http%3A//www.firestonecompleteautocare.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624003124id_/http%3A//www.firestonecompleteautocare.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Firestone Complete Auto Care
 
@@ -56,5 +56,9 @@ Upon your request, Firestone Complete Auto Care will (a) remove your personal in
 ## Updates to This Policy
 
 If Firestone Complete Auto Care decides to change or update this Privacy Policy, Firestone Complete Auto Care will post changes and updates on this Site so that you will always be aware of what information Firestone Complete Auto Care collects, uses and distributes. Firestone Complete Auto Care encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Firestone Complete Auto Care’s Privacy Policy, please use the “Contact Us” section of this Site.
+
+* References to Firestone Complete Auto Care in this privacy policy includes Tires Plus, Hibdon Tires Plus, Wheel Works and other trade names under which Bridgestone Retail Operations operates. 
+
+** © 2016 Firestone Complete Auto Care. All rights reserved. **
   *[IP]: Internet Protocol
   *[ COPPA]: Children’s Online Privacy Protection Act
