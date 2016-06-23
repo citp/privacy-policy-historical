@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002110724id_/http%3A//www.proctoru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623055614id_/http%3A//www.proctoru.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProctorU
 
@@ -74,7 +74,7 @@ In the event that ProctorU is involved in a bankruptcy, merger, acquisition, reo
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from our site or deactivate it by making the change on your profile page or by emailing our Customer Support at [help@proctoru.com](mailto:help@proctoru.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe. 
 
-The telephone number to contact is 855-772-8678. The mailing address is 2100 Riverchase Ctr., Suite 108, Birmingham, AL 35244.
+The telephone number to contact is 855-772-8678. The mailing address is 3083 Independence Ave, Suite A, Livermore California, 94551.
 
 ## Data Retention
 
