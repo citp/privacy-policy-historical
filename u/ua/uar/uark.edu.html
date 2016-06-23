@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the uark.edu privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215031620id_/http%3A//www.uark.edu/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uark.edu privacy policy that was archived on 2016-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623224009id_/http%3A//www.uark.edu/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -41,32 +41,70 @@ var switchTo5x=true;
 <script type="text/javascript">// <![CDATA[
 stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: true, doNotCopy: false, hashAddressBar: false});
 // ]]></script>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "University of Arkansas",
+  "url" : "http://www.uark.edu",
+  "sameAs" : [
+    "https://www.facebook.com/UofArkansas",
+    "https://twitter.com/uarkansas",
+    "https://plus.google.com/104159281704656057709/posts",
+	"https://www.youtube.com/user/UniversityArkansas",
+	"https://www.instagram.com/uarkansas/",
+	"https://www.linkedin.com/company/university-of-arkansas"
+  ]
+}
+</script>
 <style>
    #oudirectedit{ position: absolute; top: 0px; left: 0px; text-decoration: none; }
-  </style></head>
+  </style><script src="//www.uark.edu/_resources/includes/universal-www-google-analytics.inc" type="text/javascript"></script><script src="/_resources/includes/secondary-google-analytics.inc" type="text/javascript"></script></head>
 <body class="landing">
    <div id="skip"><a href="#content">Skip navigation</a></div>
    <div id="header-bg"></div>
    <div class="container" id="opener" role="banner"><a class="brand" href="http://www.uark.edu/">University of Arkansas</a><h1 id="site-heading"><!-- college header/name/info goes here -->
 </h1>
       <div id="search-stack">
-         <div class="form-group" role="search">
+         <div class="form-group" role="search"><!-- Form update for site search dropdown -->
 <form action="http://google.uark.edu/search" method="get" name="gsa" id="site-search" class="form-search">
-                <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="uark_v_2">
-                <input type="hidden" name="client" value="uark_v_2">
-                <input type="hidden" name="domains" value="uark.edu">
-                <input type="hidden" name="oe" value="UTF-8">
-                <input type="hidden" name="ie" value="UTF-8">
-                <input type="hidden" name="output" value="xml_no_dtd">
-                <input name="q" type="text" title="Site Search" class="input-medium search-query" placeholder="search">
-                <button name="sa" type="submit" id="searchButton" class="searchButton" value="Search" title="Go"></button>
-                                </form>
+	<input type="hidden" name="proxystylesheet" id="proxystylesheet" value="uark_v_2">
+	<input type="hidden" name="client" value="uark_v_2">
+	<input type="hidden" name="domains" value="uark.edu">
+	<input type="hidden" name="oe" value="UTF-8">
+	<input type="hidden" name="ie" value="UTF-8">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<div class="dropdown">
+		<input name="q" id="searchbox" type="text" title="Site Search" class="input-medium search-query dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" placeholder="Search this site">
+		<ul class="dropdown-menu" id="searchParameter" aria-labelledby="searchbox">
+<script>
+	var hostname = window.location.hostname;
+	
+	
+	if(hostname=='www.uark.edu' || hostname=='arkansas.edu' || hostname=='uark.edu')
+	{
+		document.write('<li><label for="radioLabela"><input id="radioLabela" class="searchRadio" type="radio" name="sitesearch" value="http://' + hostname + '"  /><i class="fa fa-lg fa-dot-circle-o"></i> Search this site</label></li>');
+		document.write('<li><label for="radioLabelb"><input id="radioLabelb" class="searchRadio" type="radio" name="sitesearch" value="http://uark.edu" checked /><i class="fa fa-lg fa-dot-circle-o"></i>  Search all uark.edu</label></li>');
+	} 
+	else
+	{
+	document.write('<li><label for="radioLabela"><input id="radioLabela" class="searchRadio" type="radio" name="sitesearch" value="http://' + hostname + '" checked /><i class="fa fa-lg fa-dot-circle-o"></i> Search this site</label></li>');
+	document.write('<li><label for="radioLabelb"><input id="radioLabelb" class="searchRadio" type="radio" name="sitesearch" value="http://uark.edu" /><i class="fa fa-lg fa-dot-circle-o"></i> Search all uark.edu</label></li>');
+	}
+</script><li><label for="radioLabela"><input id="radioLabela" class="searchRadio" type="radio" name="sitesearch" value="http://web.archive.org" checked=""><i class="fa fa-lg fa-dot-circle-o"></i> Search this site</label></li><li><label for="radioLabelb"><input id="radioLabelb" class="searchRadio" type="radio" name="sitesearch" value="http://uark.edu"><i class="fa fa-lg fa-dot-circle-o"></i> Search all uark.edu</label></li>
+			
+		</ul>
+	</div>
+	<button name="sa" type="submit" id="searchButton" class="searchButton" value="Search" title="Go"></button>
+</form>
+<!-- END Form update for site search dropdown -->
+
 </div>
-         <div id="global-dropdown"><a href="#" class="dropdown-toggle" title="Links to important University of Arkansas pages" data-toggle="dropdown"><i class="icon-reorder icon-large"></i></a><ul class="dropdown-menu"><li class="nav-header">University of Arkansas</li>
+         <div id="global-dropdown"><a href="#" class="dropdown-toggle" title="Links to important University of Arkansas pages" data-toggle="dropdown"><span class="hidden">Links to important University of Arkansas pages</span><i class="fa fa-lg fa-bars"></i></a><ul class="dropdown-menu"><li class="nav-header">University of Arkansas</li>
 <li><a href="http://www.uark.edu/a-to-z.php" onclick="ga('event', 'global-dropdown', 'click', 'A-Z Index');">A-Z Index</a></li>
 <li><a href="https://learn.uark.edu" onclick="ga('event', 'global-dropdown', 'click', 'Bb Learn');">Bb Learn</a></li>
 <li><a href="http://campusmaps.uark.edu/" onclick="ga('event', 'global-dropdown', 'click', 'Campus Map');">Campus Map</a></li>
-<li><a href="http://isis.uark.edu/" onclick="ga('event', 'global-dropdown', 'click', 'ISIS');">ISIS</a></li>
+<li><a href="http://UAConnect.uark.edu/" onclick="ga('event', 'global-dropdown', 'click', 'UAConnect');">UAConnect</a></li>
 <li><a href="http://directory.uark.edu/" onclick="ga('event', 'global-dropdown', 'click', 'Directory');">Directory</a></li>
 <li><a href="http://email.uark.edu/" onclick="ga('event', 'global-dropdown', 'click', 'UARK Gmail');">UARK Gmail</a></li>
 <li><a href="http://exchange.uark.edu/" onclick="ga('event', 'global-dropdown', 'click', 'Exchange Mail');">Exchange Mail</a></li>
@@ -80,59 +118,59 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
          <div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span>
                	          Menu <i class="icon-chevron-down icon-large"></i></button></div>
          <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav" id="mainnav"><li><a href="/admissions/index.php" onclick="gaSendEvent(this.href, 'top-nav', 'Admissions');">Admissions</a>
+            <ul class="nav navbar-nav" id="mainnav"><li><a onclick="gaSendEvent(this.href, 'top-nav', 'Admissions');" href="/admissions/index.php">Admissions</a>
 <ul>
-<li><a href="/admissions/index.php#undergraduate-admissions" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Request Information');">Request Information</a></li>
-<li><a href="/admissions/virtual-tour/index.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Take a Virtual Tour');">Take a Virtual Tour</a></li>
-<li><a href="/admissions/index.php#funding-your-education" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Funding Your Education');">Funding Your Education</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Request Information');" href="/admissions/index.php#undergraduate-admissions">Request Information</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Take a Virtual Tour');" href="/admissions/virtual-tour/index.php">Take a Virtual Tour</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Funding Your Education');" href="/admissions/index.php#funding-your-education">Funding Your Education</a></li>
 </ul>
 </li>
-<li><a href="/academics/index.php" onclick="gaSendEvent(this.href, 'top-nav', 'Academics');">Academics</a>
+<li><a onclick="gaSendEvent(this.href, 'top-nav', 'Academics');" href="/academics/index.php">Academics</a>
 <ul>
-<li><a href="/academics/majors.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Majors');">Majors</a></li>
-<li><a href="http://online.uark.edu/" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Online Programs');">Online Programs</a></li>
-<li><a href="/about/index.php#colleges-schools" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Colleges &amp; Schools');">Colleges &amp; Schools</a></li>
-<li><a href="http://registrar.uark.edu/465.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Schedule of Classes');">Schedule of Classes</a></li>
-<li><a href="/academics/academic-support.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Academic Support');">Academic Support</a></li>
-<li><a href="http://libraries.uark.edu/" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Libraries');">Libraries</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Majors');" href="/academics/majors.php">Majors</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Online Programs');" href="http://online.uark.edu/">Online Programs</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Colleges &amp; Schools');" href="/about/index.php#colleges-schools">Colleges &amp; Schools</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Schedule of Classes');" href="http://registrar.uark.edu/465.php">Schedule of Classes</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Academic Support');" href="/academics/academic-support.php">Academic Support</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Libraries');" href="http://libraries.uark.edu/">Libraries</a></li>
 </ul>
 </li>
-<li><a href="/campus-life/index.php" onclick="gaSendEvent(this.href, 'top-nav', 'Campus Life');">Campus Life</a>
+<li><a onclick="gaSendEvent(this.href, 'top-nav', 'Campus Life');" href="/campus-life/index.php">Campus Life</a>
 <ul>
-<li><a href="/campus-life/index.php#things-to-do" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Things to do');">Things to do</a></li>
-<li><a href="/campus-life/index.php#get-involved" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Get Involved');">Get Involved</a></li>
-<li><a href="/campus-life/index.php#stay-healthy" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Health &amp; Recreation');">Health &amp; Recreation</a></li>
-<li><a href="http://calendars.uark.edu/" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Events');">Events</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Things to do');" href="/campus-life/index.php#things-to-do">Things to do</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Get Involved');" href="/campus-life/index.php#get-involved">Get Involved</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Health &amp; Recreation');" href="/campus-life/index.php#stay-healthy">Health &amp; Recreation</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Events');" href="http://calendars.uark.edu/">Events</a></li>
 </ul>
 </li>
-<li><a href="/research/index.php" onclick="gaSendEvent(this.href, 'top-nav', 'Research');">Research</a>
+<li><a onclick="gaSendEvent(this.href, 'top-nav', 'Research');" href="/research/index.php">Research</a>
 <ul>
-<li><a href="/research/index.php#resources" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Resources');">Resources</a></li>
-<li><a href="/research/index.php#publications-and-video" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Publications &amp; Video');">Publications &amp; Video</a></li>
-<li><a href="http://vpred.uark.edu/" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Research and Economic Development');">Research and Economic Development</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Resources');" href="/research/index.php#resources">Resources</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Publications &amp; Video');" href="/research/index.php#publications-and-video">Publications &amp; Video</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Research and Economic Development');" href="http://vpred.uark.edu/">Research and Economic Development</a></li>
 </ul>
 </li>
-<li><a href="/athletics/index.php" onclick="gaSendEvent(this.href, 'top-nav', 'Athletics');">Athletics</a>
+<li><a onclick="gaSendEvent(this.href, 'top-nav', 'Athletics');" href="/athletics/index.php">Athletics</a>
 <ul>
-<li><a href="http://www.arkansasrazorbacks.com/" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Intercollegiate Athletics');">Intercollegiate Athletics</a></li>
-<li><a href="http://www.arkansasrazorbacks.com/ViewArticle.dbml?DB_OEM_ID=6100&amp;ATCLID=204976724" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Game Day Guides');">Game Day Guides</a></li>
-<li><a href="http://www.arkansasrazorbacks.com/ViewArticle.dbml?DB_OEM_ID=6100&amp;ATCLID=205701323" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Tickets');">Tickets</a></li>
-<li><a href="/athletics/traditions.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Traditions');">Traditions</a></li>
-<li><a href="/athletics/index.php#university-recreation" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Recreational Sports');">Recreational Sports</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Intercollegiate Athletics');" href="http://www.arkansasrazorbacks.com/">Intercollegiate Athletics</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Game Day Guides');" href="http://www.arkansasrazorbacks.com/ViewArticle.dbml?DB_OEM_ID=6100&amp;ATCLID=204976724">Game Day Guides</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Tickets');" href="http://www.arkansasrazorbacks.com/ViewArticle.dbml?DB_OEM_ID=6100&amp;ATCLID=205701323">Tickets</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Traditions');" href="/athletics/traditions.php">Traditions</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Recreational Sports');" href="/athletics/index.php#university-recreation">Recreational Sports</a></li>
 </ul>
 </li>
-<li><a href="/about/index.php" onclick="gaSendEvent(this.href, 'top-nav', 'About');">About</a>
+<li><a onclick="gaSendEvent(this.href, 'top-nav', 'About');" href="/about/index.php">About</a>
 <ul>
-<li><a href="/about/visitors-guide.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Visitor\'s Guide');">Visitor's Guide</a></li>
-<li><a href="/about/quick-facts.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Quick Facts');">Quick Facts</a></li>
-<li><a href="/about/by-the-numbers.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'By the Numbers');">By the Numbers</a></li>
-<li><a href="/about/history.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'History');">History</a></li>
-<li><a href="/about/index.php#administration" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Administration');">Administration</a></li>
-<li><a href="/about/index.php#a-great-place-to-work" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Employment');">Employment</a></li>
-<li><a href="/contact-us.php" onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Contact Us');">Contact Us</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Visitor\'s Guide');" href="/about/visitors-guide.php">Visit Campus</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Quick Facts');" href="/about/quick-facts.php">Quick Facts</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'By the Numbers');" href="/about/by-the-numbers.php">By the Numbers</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'History');" href="/about/history.php">History</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Administration');" href="/about/index.php#administration">Administration</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Employment');" href="/about/index.php#a-great-place-to-work">Employment</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav-drop-down', 'Contact Us');" href="/contact-us.php">Contact Us</a></li>
 </ul>
 </li>
-<li><a href="https://onlinegiving.uark.edu" onclick="gaSendEvent(this.href, 'top-nav', 'Give');"><i class="fa fa-gift fa-fw"><!--Gift--></i> Give</a></li>
+<li><a onclick="gaSendEvent(this.href, 'top-nav', 'Give');" href="https://onlinegiving.uark.edu"><i class="fa fa-gift fa-fw"><!--Gift--></i> Give</a></li>
 </ul>
          </div>
       </div>
@@ -143,7 +181,7 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
       
       <section class="landingPage">
          
-         <div class="container">
+         <div class="container opener" id="content">
             	<img class="img-responsive" title="Silas Hunt and Old Main" src="/_resources/images/silashunt_oldmain.jpg" alt="Silas Hunt and Old Main" width="1170">
             
             <h1>Website Privacy Policy</h1>
@@ -161,7 +199,7 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
                but are not limited to, the laws and policies contained in Appendix A.
             </p>
             
-            <h2 id=""><b xmlns:ouc="http://omniupdate.com/XSL/Variables">Official University Websites</b></h2>
+            <h2 id="official-university-websites">Official University Websites</h2>
             
             <p>Except as noted, the information in this privacy policy applies to all official University
                of Arkansas websites, which are defined as those administered through the university
@@ -173,7 +211,7 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
                supplementary privacy policies appropriate to their function or as required by law
             </p>
             
-            <h2 id=""><b xmlns:ouc="http://omniupdate.com/XSL/Variables">Other Websites</b></h2>
+            <h2 id="other-websites">Other Websites</h2>
             
             <p>Within the university domain (uark.edu) are various websites that are not maintained
                by the university. These unofficial sites include, but are not limited to, RSO sites,
@@ -181,7 +219,7 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
                policy only applies to official university websites.
             </p>
             
-            <h2 id=""><b xmlns:ouc="http://omniupdate.com/XSL/Variables">Access Information Collected</b></h2>
+            <h2 id="access-information-collected">Access Information Collected</h2>
             
             <p>The university, while reserving its right to monitor communications via university
                websites for legal, policy or business reasons, including security and functionality,
@@ -433,22 +471,7 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
       </section>
       
       
-   </div><section id="section-footer" class="gray">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<ul class="nav nav-pills">
-<li><a href="/admissions/virtual-tour/index.php" onclick="gaSendEvent(this.href, 'footer-pic-links', 'Virtual Campus Tour');"><img class="img-responsive" title="Virtual Campus Tour" src="/_resources/img/pf-campus-tour.jpg" alt="Virtual Campus Tour" width="212"></a></li>
-<li><a href="http://sustainability.uark.edu/" onclick="gaSendEvent(this.href, 'footer-pic-links', 'Sustainability');"><img class="img-responsive" title="Sustainability" src="/_resources/img/pf-sustainability.jpg" alt="Sustainability" width="212"></a></li>
-<li><a href="http://isis.uark.edu/" onclick="gaSendEvent(this.href, 'footer-pic-links', 'ISIS Login');"><img class="img-responsive" title="ISIS Login" src="/_resources/images/pf-isis.jpg" alt="ISIS Login" width="212" height="141"></a></li>
-<li><a href="http://fulbright.uark.edu/fine-arts/" onclick="gaSendEvent(this.href, 'footer-pic-links', 'Arts');"><img class="img-responsive" title="Arts" src="/_resources/img/pf-arts.jpg" alt="Arts" width="212"></a></li>
-<li><a href="http://www.arkansasrazorbacks.com/" onclick="gaSendEvent(this.href, 'footer-pic-links', 'Arkansas Razorbacks');"><img class="img-responsive" title="Arkansas Razorbacks" src="/_resources/img/pf-razorbacks.jpg" alt="Arkansas Razorbacks" width="212"></a></li>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<!-- FOOTER --><footer>
+   </div><!-- FOOTER --><footer>
 <div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -519,8 +542,8 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
    {
        $.ajax({
 		type: 'GET',
-        url: '/_resources/php/proxy.php',
-        data: { requrl: "www.uark.edu/_resources/php/proxy.php?requrl=https://calendars.uark.edu/RSSSyndicator.aspx?type=N&department=239%2c277&expire=Y&sortorder=ASC" },
+        url: 'https://calendars.uark.edu/RSSSyndicator.aspx?type=N&department=239%2c277&expire=Y&sortorder=ASC',
+        data: {},
         cache: 'true',
         success: function (data)
         {
@@ -592,6 +615,31 @@ stLight.options({publisher: "7ed727b1-f06d-4133-934d-d9b6bedf1fa3", doNotHash: t
 		$('table.tablesorter').addClass('table-striped').tablesorter();
 	});
 </script>
+
+<!-- JS and CSS for search and mobile-menu -->
+<script type="text/javascript">
+$(function() {
+
+	$(".form-search").on("click", function() {
+		selectedValue = $(".form-search [name='sitesearch']:checked").val();
+		if(selectedValue == "http://uark.edu" ) {
+			$("label[for=radioLabela]").removeClass("searchSelected");
+			$("label[for=radioLabelb]").addClass("searchSelected");
+			$("#searchbox").attr("placeholder", "Search all uark.edu");
+		} else if($.type(selectedValue) === "string" ) {
+			$("label[for=radioLabela]").addClass("searchSelected");
+			$("label[for=radioLabelb]").removeClass("searchSelected");
+			$("#searchbox").attr("placeholder", "Search this site");
+		}
+	});
+
+
+$( "#sidebar .nav-stacked" ).clone().addClass( "visible-xs-block hidden-sm hidden-md hidden-lg" ).appendTo( ".navbar-default .navbar-collapse" );
+
+});
+</script>
+<!-- END JS and CSS for search and mobile-menu -->
+
 <!--
 <script src="//www.uark.edu/_resources/js/oucampus-2.js" type="text/javascript" ></script>
 -->
@@ -609,8 +657,8 @@ document.getElementById("directedit-footer").innerHTML = anchor;
 }
 window.onload = function(){ directedit(); }
 //--></script>
-   <!--2015-02-05T14:23:00Z--><div id="hidden">
-      <a href="http://a.omniupdate.uark.edu/10?skin=oucampus&amp;account=www&amp;site=www&amp;action=de&amp;path=/privacy-policy.pcf" id="oudirectedit">&nbsp;&nbsp;&nbsp;</a>
+   <!--2016-01-12T15:36:00Z--><div id="hidden">
+      <a rel="nofollow" id="oudirectedit" href="http://a.omniupdate.uark.edu/10?skin=oucampus&amp;account=www&amp;site=www&amp;action=de&amp;path=/privacy-policy.pcf"><span class="hidden">Edit webpage</span></a>
    </div><span id="directedit-footer">
-      <a href="http://a.omniupdate.uark.edu/10?skin=oucampus&amp;account=www&amp;site=www&amp;action=de&amp;path=/privacy-policy.pcf" id="none">&nbsp;&nbsp;&nbsp;Copyright of University of Arkansas</a>
+      <a rel="nofollow" id="none" href="http://a.omniupdate.uark.edu/10?skin=oucampus&amp;account=www&amp;site=www&amp;action=de&amp;path=/privacy-policy.pcf"><span class="hidden">Edit webpage</span>Copyright of University of Arkansas</a>
    </span></body></html>
