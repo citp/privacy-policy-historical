@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerbacks.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920100332id_/http%3A//powerbacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbacks.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623202335id_/http%3A//powerbacks.com/privacy-policy) for the most accurate reproduction.*
 
-# Power Point Templates – Privacy Policy
+# Privacy Policy | Power Point Templates
 
 The privacy of our visitors to powerbacks.com is important to us.
 
