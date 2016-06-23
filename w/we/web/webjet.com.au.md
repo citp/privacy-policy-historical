@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051800id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623185027id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet
 
