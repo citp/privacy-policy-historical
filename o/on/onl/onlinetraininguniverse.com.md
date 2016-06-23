@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetraininguniverse.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910022146id_/http%3A//onlinetraininguniverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetraininguniverse.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623115900id_/http%3A//onlinetraininguniverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Training Universe
 
@@ -113,5 +113,5 @@ Attn: Privacy Policy Officer
 Suwanee, GA, 30024  
 Email: compliance.officer-at-http://onlinetraininguniverse.com  
 Text “PRIVACY” to 404-418-6019  
-–  
+—  
 Material Modifications Since March 9, 2014: none.
