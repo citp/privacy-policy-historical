@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superwarehouse.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910105844id_/http%3A//www.superwarehouse.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superwarehouse.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623203954id_/http%3A//www.superwarehouse.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Superwarehouse - Privacy Policy Information
 
