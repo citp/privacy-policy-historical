@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035412id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623233603id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
 
 # Feedback - About Us - Privacy Policy - Movie Insider
 
@@ -74,7 +74,7 @@ Movie Insider strives to provide information at every stage of a movie, from con
 If you believe that there is inaccurate, infringing or unauthorized content on Movie Insider, contact us using the email form on this page. Please include the URL(s) of the information in question. We will promptly review the applicable request and determine the appropriate actions. If you do not believe our response to be adequate, you can send a Digital Millennium Copyright Act (DMCA)-compliant notification to our designated agent:
 
 **Designated Agent:** The Movie Insider LLC  
- **Mailing Address:** P.O. Box 1626, Birmingham MI 48012-1626   
+**Mailing Address:** P.O. Box 1626, Birmingham MI 48012-1626   
 **__Email Address:** [dmca@movieinsider.com](mailto:dmca@movieinsider.com)  
 **__Phone:** (248) 387-9826
 
