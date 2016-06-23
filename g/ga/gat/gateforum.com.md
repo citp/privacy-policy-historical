@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gateforum.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123701id_/http%3A//gateforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateforum.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623220657id_/http%3A//gateforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gateforum
+# Privacy Policy - Gateforum
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -16,10 +16,10 @@ We collect information from you when you register on our site, place an order, s
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, or use certain other site features in the following ways:
 
-  *  To allow us to better service you in responding to your customer service requests.
-  *  To administer a contest, promotion, survey or other site feature.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
   * To quickly process your transactions.
-  *  To send periodic emails regarding your order or other products and services.
+  * To send periodic emails regarding your order or other products and services.
 
 
 
@@ -65,8 +65,8 @@ Google’s advertising requirements can be summed up by Google’s Advertising P
 
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.  
-**Opting out:  
-**Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
 Users will be notified of any privacy policy changes:
 
@@ -104,25 +104,24 @@ We also agree to the individual redress principle, which requires that individua
 
 **We collect your email address in order to:**
 
-  *   Send information, respond to inquiries, and/or other requests or questions.
-  *   ****Process orders and to send information and updates pertaining to orders
-  *   Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Process orders and to send information and updates pertaining to orders
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
 
 
 
 **To be in accordance with CANSPAM we agree to the following:**
 
-  *  NOT use false, or misleading subjects or email addresses
-  *   ****Identify the message as an advertisement in some reasonable way
-  * ****Include the physical address of our business or site headquarters
-  *  Monitor third party email marketing services for compliance, if one is used.
+  * NOT use false, or misleading subjects or email addresses
+  * Identify the message as an advertisement in some reasonable way
+  * Include the physical address of our business or site headquarters
+  * Monitor third party email marketing services for compliance, if one is used.
   * Honor opt-out/unsubscribe requests quickly
-  * llow users to unsubscribe by using the link at the bottom of each email
+  * Allow users to unsubscribe by using the link at the bottom of each email
 
 
 
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can**
+**If at any time you would like to unsubscribe from receiving future emails, you can**
 
   * Follow the instructions at the bottom of each email.
 
@@ -141,5 +140,3 @@ Hyderabad – 500016
 
 http://gateforum.com  
 support@gateforum.in
-
-Last Edited on 2015-02-10
