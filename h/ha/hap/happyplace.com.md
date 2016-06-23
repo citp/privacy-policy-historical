@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225015158id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyplace.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623071800id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | someecards.com
 
@@ -80,6 +80,15 @@ You may request deletion of your Someecards account by sending an e-mail to feed
 
 Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
+Here are the choices you have regarding the information collected by third parties on our website:
+
+  1. For more information about your option to not accept advertiser cookies [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  2. To opt-out of having interest-based ad targeting [click here](http://www.aboutads.info/choices/).
+
+
+
+Access to our websites should not be affected if you do not accept third party cookies.
+
 #### SECURITY
 
 Information collected by Someecards is stored in secure operating environments that are not made generally available to the public. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, Someecards cannot ensure the security of any information you provide, and you do so at your own risk. Once Someecards receives your transmission, it will make reasonable efforts to ensure its security on its systems, and will restrict access to your personally identifying information to employees who require that information, at all time complying with this Policy.
@@ -160,7 +169,8 @@ Confirm Your Email Address
 
 We have sent you an email with a link to confirm and activate your account.
 
-Enter your email to subscribe to our newsletter
+Get the Newsletter  
+You'll love not unsubscribing.
 
 You're really close. To complete your subscription, click on the activation link in the email you've been sent.
 
