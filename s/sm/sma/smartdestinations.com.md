@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116131753id_/http%3A//www.smartdestinations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623023200id_/http%3A//www.smartdestinations.com/privacy.html) for the most accurate reproduction.*
 
 # Customer Care Center 1-800-887-9103
 
