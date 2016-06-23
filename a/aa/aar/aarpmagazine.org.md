@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225053328id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623115922id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy, Your Privacy Rights - AARP
 
