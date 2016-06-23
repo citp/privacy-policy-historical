@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cymath.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072505id_/http%3A//www.cymath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymath.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623022859id_/http%3A//www.cymath.com/privacy) for the most accurate reproduction.*
 
-# Contact Us
+# Privacy Policy | Math Problem Solving Website - Cymath
 
 This privacy policy discloses the privacy practices for cymath.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
