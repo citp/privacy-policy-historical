@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906050151id_/https%3A//badgeville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624003843id_/https%3A//badgeville.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Badgeville
 
@@ -17,23 +17,25 @@ Your Options Regarding Personal Information
 Your California Privacy Rights  
 Contacting Us_
 
+## Badgeville Notice of Privacy Practices
+
 Badgeville respects the privacy of visitors to its websites, as a result, we have developed this website privacy notice (“Privacy Notice” or “Notice”). This Privacy Notice applies only to the operation of websites that directly link to this Notice when you click on “Privacy Policy” in the website footer.
 
-This Notice is intended to inform you about Badgeville, Inc.’s (“Badgeville”, “We”, “Us”, or “Our”) collection, use, and disclosure of information that we receive through the third party websites of our customers (the “Badgeville Network”), through the business applications offered on Badgeville.com, through our website, [www.badgeville.com](https://www.badgeville.com/), and for our related Community and Support Pages (collectively the “Badgeville Site”). 
+This Notice is intended to inform you about Badgeville, Inc.’s (“Badgeville”, “We”, “Us”, or “Our”) collection, use, and disclosure of information that we receive through the third party websites of our customers (the “Badgeville Network”), through the business applications offered on Badgeville.com, through our website, [www.badgeville.com](https://www.badgeville.com/), and for our related Community and Support Pages (collectively the “Badgeville Site”).
 
-#### Overview of our Services
+##### Overview of our Services
 
-Built on modern web standards, Badgeville’s Behavior Platform integrates with virtually any site or app, and powers engagement programs for our customers in order to improve customer advocacy and loyalty and enhanced employee performance across all their digital touchpoints. 
+Built on modern web standards, Badgeville’s Behavior Platform integrates with virtually any site or app, and powers engagement programs for our customers in order to improve customer advocacy and loyalty and enhanced employee performance across all their digital touchpoints.
 
-#### The Information We Collect Through the Badgeville Site
+##### The Information We Collect Through the Badgeville Site
 
 We collect Personal Information (which is information that directly or indirectly identifies a particular individual or allows us to contact them) and non-personally identifiable information or NPI (which is information about an individual or about categories or groups of individuals that does not directly or indirectly, and cannot reasonably be used to, identify or contact that individual). You will have the opportunity to opt-in to disclosure to third parties. Customers will have the choice to receive any and all correspondence mailings from Badgeville.
 
-#### Personal Information
+##### Personal Information
 
-Through the Badgeville Site, Badgeville will collect information that can identify you, such as your name, address, telephone number, e-mail address, and other similar information when it is voluntarily submitted to us. We will use Personal Information to respond to requests you may make of us, and from time to time, we may refer to Personal Information to better understand your needs and how we can improve our websites, products, and services. We may also use Personal Information to contact you via email, postal mail, or phone call and provide you with general information about our products and services. We may also enhance or merge Personal Information with data obtained from third parties for the same purposes. 
+Through the Badgeville Site, Badgeville will collect information that can identify you, such as your name, address, telephone number, e-mail address, and other similar information when it is voluntarily submitted to us. We will use Personal Information to respond to requests you may make of us, and from time to time, we may refer to Personal Information to better understand your needs and how we can improve our websites, products, and services. We may also use Personal Information to contact you via email, postal mail, or phone call and provide you with general information about our products and services. We may also enhance or merge Personal Information with data obtained from third parties for the same purposes.
 
-#### Non-Personally Identifiable Information
+##### Non-Personally Identifiable Information
 
 We collect NPI through many sources, including information that you and third parties provide to us. We may also de-identify Personal Information (by removing certain data elements such as name, zip code, area code, age, gender, occupation and preferences) that we receive from you or from third parties so that it cannot be used as Personal Information.
 
@@ -41,41 +43,41 @@ Any NPI transferred by you in connection with your visit to the Badgeville Site 
 
 We may use cookies and other technologies to collect information on our website. If used, our cookies may give us access to information about your browsing patterns, which we may use to personalize your experience and to analyze general user traffic patterns. If and when applicable, the Badgeville Site uses the cookies to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. You may be able to disable use of cookies through the options on your web browser, but please note that you may not be able to use all of the features on our websites if you disable use of cookies. The Badgeville Site includes social media features, such as the “Facebook” or “Twitter” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy practices of the company providing them.
 
-#### Disclosure of Personal Information
+##### Disclosure of Personal Information
 
 We may share Personal Information with agents, contractors or partners of Badgeville in connection with services that these individuals or entities perform for, or with, Badgeville. These agents, contractors or partners are restricted from using this data in any way other than to provide services for Badgeville, or services for the collaboration in which they and Badgeville are engaged (for example, some of our products are developed and marketed through joint agreements with other companies). We may share Personal Information with third-party service providers (e.g., email service providers, data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf. We may also share Personal Information with selected third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. After the information is provided to such third parties, the subsequent use or disclosure of such information is subject to those third parties’ privacy policies and practices. We may also disclose the information we receive; if required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In addition, information in our possession or control, including aggregate Personal Information and NPI, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.
 
-#### Information We Receive Through Customer Sites on the Badgeville Network
+##### Information We Receive Through Customer Sites on the Badgeville Network
 
-Badgeville Customers (“Customers”) deploy Badgeville services to visualize and track rank and rewards of their end users who are registered on the Customer’s website (the “Customer Site”). The end user information that our Customer decides to send Badgeville from the Customer Site (“Customer End User Information”) typically has an anonymized user name or encrypted email and whatever additional metadata the Customer decides to send. Badgeville attaches to the Customer End User Information the data that notes the end user has taken a certain behavior, as well as any associated reward, achievement, or other behavior mechanic that has been configured by Customer in their Badgeville deployment, and return it back to Customer so that the appropriate visualization or notification can be rendered. It is recommended that Customers do not keep the personally identifiable information of their end users in our system as the Badgeville system is not encrypted. Any Personal Information collected by the Customer Site is subject to that Customer’s privacy policies and practices. 
+Badgeville Customers (“Customers”) deploy Badgeville services to visualize and track rank and rewards of their end users who are registered on the Customer’s website (the “Customer Site”). The end user information that our Customer decides to send Badgeville from the Customer Site (“Customer End User Information”) typically has an anonymized user name or encrypted email and whatever additional metadata the Customer decides to send. Badgeville attaches to the Customer End User Information the data that notes the end user has taken a certain behavior, as well as any associated reward, achievement, or other behavior mechanic that has been configured by Customer in their Badgeville deployment, and return it back to Customer so that the appropriate visualization or notification can be rendered. It is recommended that Customers do not keep the personally identifiable information of their end users in our system as the Badgeville system is not encrypted. Any Personal Information collected by the Customer Site is subject to that Customer’s privacy policies and practices.
 
 Customer End User Information may be made available to our Customers in certain circumstances. For example; if an end user unlocks a certain achievement by asking questions or contributing to a forum on the Customer Site, such Customer End User Information may be shared with the Customer, and such information can be aggregated for Badgeville use of improving, fixing, changing the Badgeville Product.
 
-#### Data Retention
+##### Data Retention
 
 We retain the Customer End User Information and/or Personal Information as the account is active or as needed to provide our Services. We will retain and use your information as necessary to comply with our legal and contractual obligations, resolve disputes, and enforce our agreements. End User Information is retained on our servers in its original form for up to six months. Other information related to the Badgeville Platform, as in score, rank, badging or rewards of the End Users, might be retained for up to eighteen months before it is aggregated or deleted. If and when the Customer and Badgeville relationship ends, End User Information may be deleted after thirty (30) days, otherwise, said information will be anonymized and aggregated.
 
-#### Data Security
+##### Data Security
 
 Badgeville has established a privacy program designed to help respect and protect your data privacy rights. We maintain administrative, technical and physical safeguards intended to protect against the loss, misuse, unauthorized access, alteration, or disclosure of Personal Information. Although we take such precautions seriously, it is impossible for us or others to guarantee the safety and security of Personal Information. Consequently, we cannot ensure or warrant the security of any information.
 
-#### Other Information
+##### Other Information
 
 Badgeville reviews the privacy commitments made throughout this notice and we evaluate our performance against them on an annual basis. Our website includes links to other websites whose privacy practices may differ from those of Badgeville. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
 
-#### Children's Privacy
+##### Children's Privacy
 
 The Badgeville Site is a general audience website, and it and its related sites, applications, services, and tools are not intended for children under the age of 13. We do not knowingly collect personal information via our websites, applications, services, or tools from users in this age group.
 
-#### Safe Harbor
+##### Safe Harbor
 
 Badgeville, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Badgeville has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Badgeville’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-#### Updates to this Notice
+##### Updates to this Notice
 
-We may update this Notice from time to time. When we do, we will also revise the "last updated" date at the bottom of this page. If and when material changes are made, you will be notified in accordance with applicable law. We encourage you to review this Notice periodically to stay informed on our privacy practices.
+We may update this Notice from time to time. When we do, we will also revise the “last updated” date at the bottom of this page. If and when material changes are made, you will be notified in accordance with applicable law. We encourage you to review this Notice periodically to stay informed on our privacy practices.
 
-#### Your Options Regarding Personal Information
+##### Your Options Regarding Personal Information
 
 You may elect to opt out of receipt of email from us by following the instructions provided in such communications or by contacting us as provided below. Even after opting out, you may still receive service oriented, non-promotional communications from us and promotional communications from franchisees or other third parties as a result of their own interactions or transactions with you. **[NOTE: This paragraph may not be applicable to Badgeville’s use of Personal Information]**
 
@@ -83,15 +85,15 @@ You may request that we correct, update or amend the Personal Information we hol
 
 In the event you wish to correct, update or amend Customer End User Information that was submitted through a Customer Site on the Badgeville Network, please refer to the contact information at the Customer Site.
 
-#### Your California Privacy Rights
+##### Your California Privacy Rights
 
 If you are a California resident, you may ask us to refrain from sharing Personal Information with third parties for their own direct marketing purposes. Please indicate your preference by contacting us as described below. Please also note it may take us thirty (30) days to fully process your request.
 
-#### Contacting Us
+## **Contacting Us**
 
 If you wish to contact us regarding Personal Information or this Notice, you may reach us as follows:
 
-Badgeville, Inc.  
+**Badgeville, Inc.**  
 805 Veterans Blvd. Suite #307  
 Redwood City, CA 94063  
 Attn: Legal Department  
@@ -99,6 +101,5 @@ Attn: Legal Department
 
 1-855-BADGEVILLE
 
-Version 2.3
-
-Last Updated: February 3, 2015
+Version 2.3  
+**Last Updated:** February 3, 2015
