@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003144733id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623223034id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
 
 # Roadmunk's Privacy Policy | Create Beautiful Roadmaps Quickly
 
@@ -92,7 +92,7 @@ Roadmunk stresses its privacy and security standards. Although no one can guaran
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [support@roadmunk.com](mailto:support@roadmunk.com?Subject=Support%20Case "Contact Support"), or at c/o Digital Media Zone, 10 Dundas Street East, Suite 600, M5B2G9.
+If you have any questions about this Privacy Policy, please contact us at [support@roadmunk.com](mailto:support@roadmunk.com?Subject=Support%20Case "Contact Support"), or 30 Duncan Street, Lower Level North, Toronto, Ontario M5V 2C3.
 
 **Changes to our Privacy & Security Policy**
 
