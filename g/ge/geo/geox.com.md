@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220074221id_/http%3A//www.geox.com/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005927id_/http%3A//www.geox.com/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy and Policy - Customer Care | Geox
+# Privacy Policy - Customer Service | Shop now at Geox
 
  
 
@@ -15,7 +15,7 @@ TLG controls the use of www.geox.com users' personal data together with Geox S.p
 
 ## 1\. Our Policy
 
-Everyone has the right to protection of his/her personal data. TLG and Geox respect its users' right to be informed regarding the collection of and other operations involving their personal data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we have designed www.geox.com in such a way that the use of your personal data will be kept to a minimum and will not exceed the purposes for which your personal data was collected and/or processed; we do not process your personal data when we can provide you with services through the use of anonymous data (such as marketing research made for improving our services) or by other means which allow TLG and Geox to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). TLG and Geox determine the purposes and means for processing your personal data, including security measures, as TLG and Geox control www.geox.com users' personal data. This Privacy Policy provides you with all information needed to understand how we collect data which may identify www.geox.com's users. For further information on our Privacy Policy, please contact us at [support@contact.geox.com](mailto:support@contact.geox.com), or at The Level Group, Piazza Arcole 4, 20143, Milano, Italy.
+Everyone has the right to protection of his/her personal data. TLG and Geox respect its users' right to be informed regarding the collection of and other operations involving their personal data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we have designed www.geox.com in such a way that the use of your personal data will be kept to a minimum and will not exceed the purposes for which your personal data was collected and/or processed; we do not process your personal data when we can provide you with services through the use of anonymous data (such as marketing research made for improving our services) or by other means which allow TLG and Geox to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). TLG and Geox determine the purposes and means for processing your personal data, including security measures, as TLG and Geox control www.geox.com users' personal data. This Privacy Policy provides you with all information needed to understand how we collect data which may identify www.geox.com's users. For further information on our Privacy Policy, please contact us at [customer.care@geox.com](mailto:customer.care@geox.com), or at The Level Group, Piazza Arcole 4, 20143, Milano, Italy.
 
   
 
@@ -28,7 +28,7 @@ The above mentioned processors have been chosen by TLG and Geox because of their
 
 Aside from the companies appointed for personal data processing, your information will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by user (for example, for purchase transactions). For more information on the matter, see section 5 (To Whom Your Personal Data Will Be Disclosed).
 
-Please contact our [Customer Service](http://www.geox.com/en/customer-care) or send us an e-mail at [support@contact.geox.com](mailto:support@contact.geox.com), in order to receive a full list of data processors.
+Please contact our [Customer Service](http://www.geox.com/en/customer-care) or send us an e-mail at [customer.care@geox.com](mailto:customer.care@geox.com), in order to receive a full list of data processors.
 
   
 
@@ -51,7 +51,7 @@ E. when creating a Wish List, we process your personal data in order to customiz
 
  
 
-Your personal data is mostly processed by electronic means and in some circumstances by paper-based means, such as when the processing of your personal data is required for preventing fraud on www.geox.com. Your personal data shall be stored in a way which allows TLG and Geox to identify you for the period necessary for the purposes which the data was collected for and subsequently processed and, in any case, in accordance with applicable law. Please report any modification of your personal data to [support@contact.geox.com](mailto:support@contact.geox.com), in order to ensure that your personal information is always accurate and up-to-date, relevant and complete.
+Your personal data is mostly processed by electronic means and in some circumstances by paper-based means, such as when the processing of your personal data is required for preventing fraud on www.geox.com. Your personal data shall be stored in a way which allows TLG and Geox to identify you for the period necessary for the purposes which the data was collected for and subsequently processed and, in any case, in accordance with applicable law. Please report any modification of your personal data to [customer.care@geox.com](mailto:customer.care@geox.com), in order to ensure that your personal information is always accurate and up-to-date, relevant and complete.
 
 Your personal data shall not be disclosed to third parties for purposes which are not permitted by law or without your explicit consent.
 
@@ -150,7 +150,7 @@ You are entitled to obtain, at any time, confirmation from TLG and Geox as to wh
 
 Moreover, you are entitled to receive from TLG and Geox information on the source of your personal data; the purposes and way of processing your personal data; the logic involved in any electronic data processing; details of the data controller and of the data processors; the names of the entities and categories of entities to whom your personal data may be disclosed or who may access your personal data, for example, as a data controller or a party so appointed.
 
-You can easily find part of the above information in our Privacy Policy. For further information, send an e-mail to [support@contact.geox.com](mailto:support@contact.geox.com). You are entitled to obtain at any time from TLG and Geox:
+You can easily find part of the above information in our Privacy Policy. For further information, send an e-mail to [customer.care@geox.com](mailto:customer.care@geox.com). You are entitled to obtain at any time from TLG and Geox:
 
 A. the updating, adjustment or, when you have an interest in such, the integration of your personal data;
 
@@ -164,7 +164,7 @@ A. for legitimate reasons, to the processing of your personal data, even if it i
 
 B. to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications.
 
-You may freely exercise your rights at any time, provided that you do so in compliance with applicable laws, by sending your request to TLG and Geox at the following e-mail address: [support@contact.geox.com](mailto:support@contact.geox.com). We will reply to you as necessary.
+You may freely exercise your rights at any time, provided that you do so in compliance with applicable laws, by sending your request to TLG and Geox at the following e-mail address: [customer.care@geox.com](mailto:customer.care@geox.com). We will reply to you as necessary.
 
   
 
@@ -180,7 +180,7 @@ geox.com's Privacy Policy does not apply to third party web sites. www.geox.com 
 
 ## 12\. Contacts
 
-If you wish to receive further information on how TLG and Geox process your personal data, please send an e-mail to [support@contact.geox.com](mailto:support@contact.geox.com). Should you require any further information on your rights and on personal data protection law you can contact the personal data protection authority at the following address: [www.garanteprivacy.it](http://www.garanteprivacy.it/).
+If you wish to receive further information on how TLG and Geox process your personal data, please send an e-mail to [customer.care@geox.com](mailto:customer.care@geox.com). Should you require any further information on your rights and on personal data protection law you can contact the personal data protection authority at the following address: [www.garanteprivacy.it](http://www.garanteprivacy.it/).
 
   
 
