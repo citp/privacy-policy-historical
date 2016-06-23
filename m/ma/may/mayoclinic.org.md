@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mayoclinic.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083931id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623211351id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About This Site - Mayo Clinic
 
 ### Web privacy policy
 
-We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. In addition to this privacy policy, users of the Mayo Clinic site should consult the Mayo Clinic site terms of use as well as any product specific terms and conditions that apply. Policies specifically related to patient information (protected health information, or PHI) submitted through Mayo Clinic's patient portal can be reviewed here. [http://www.mayoclinic.org/global/patient-privacy.html](http://www.mayoclinic.org/about-mayo-clinic/notice-of-privacy-practices)
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. In addition to this privacy policy, users of the Mayo Clinic site should consult the Mayo Clinic site terms of use as well as any product specific terms and conditions that apply. Policies specifically related to patient information (protected health information, or PHI) submitted through Mayo Clinic's patient portal can be reviewed here. [http://www.mayoclinic.org/global/patient-privacy.html](http://www.mayo.edu/pmts/mc5200-mc5299/mc5256-01.pdf)
 
 This policy applies to MayoClinic.org, MayoClinic.edu and other Web locations under Mayo Clinic's control.
 
