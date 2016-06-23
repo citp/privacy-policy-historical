@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221101816id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623184148id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - email marketing - GetResponse
 
-We realize that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By visiting our GetResponse Service website (“Service”, “Website”), you are accepting and consenting to the practices described in this Privacy Policy.
+This privacy policy applies to www.getresponse.com owned and operated by GetResponse Sp. z o.o. We realize that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By visiting our GetResponse Service website (“Service”, “Website”), you are accepting and consenting to the practices described in this Privacy Policy.
 
 Capitalized terms that are not expressly defined in this document shall have the meanings ascribed to them in the GetResponse Terms of Service ([”Terms of Service”](http://www.getresponse.com/email-marketing/legal "www.getresponse.com/legal")).
 
@@ -20,9 +20,9 @@ When you click on links on the Website you may leave it. We are not responsible 
 
 If you have any questions or concerns about our Privacy Policy, contact us through this link: [ http://www.getresponse.com/feedback.html](http://www.getresponse.com/feedback.html). You may also contact us by mail at: Arkońska 6, A3, 80-387 Gdańsk, Poland.
 
-TRUSTe Program – GetResponse has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This Privacy Policy covers the website [www.getresponse.com](http://www.getresponse.com/). The TRUSTe program covers only information that is collected through this Website, and does not cover other information, such as information that may be collected through other GetResponse’s websites.
+TRUSTe Program – GetResponse Sp. z.o.o. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. This Privacy Policy covers the website [www.getresponse.com](http://www.getresponse.com/) and does not cover other services found on our site such as GetResponse Affiliate. The TRUSTe program covers only information that is collected through this Website, and does not cover our Mobile Apps, information collected on behalf of our Customers and other information, such as information that may be collected through other GetResponse’s websites. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have any complaints about our policy or practices please let us know via this link: [ http://www.getresponse.com/feedback.html](http://www.getresponse.com/feedback.html). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have any complaints about our policy or practices please let us know via this link: [ http://www.getresponse.com/feedback.html](http://www.getresponse.com/feedback.html). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
  **SPECIAL NOTE ABOUT CHILDREN**
 
@@ -65,7 +65,7 @@ GetResponse will not share, sell, rent or trade the Customer’s and Subscriber�
 
 We reserve the right to disclose the Customer’s and Subscriber’s personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, Court order, or legal process served on GetResponse.
 
-We use other third parties in a scope necessary to provide the Service, such as a credit card processing company to bill the Customer for goods and services, an email service provider to send out emails on our behalf. When you sign up for the Service we will share your information as necessary for the third party to provide the Service.
+We use other third parties in a scope necessary to provide the Service, such as a credit card processing company to bill the Customer for goods and services. When you sign up for the Service we will share your information as necessary for the third party to provide the Service.
 
 These third parties are prohibited from using your personal information for promotional purposes.
 
@@ -97,6 +97,10 @@ We will use this information solely for processing payments for the Service that
 
 GetResponse collects only personal information that you choose to provide voluntarily registering to our Service. GetResponse shall advise you which information is mandatory to provide and what you do not have to enclose.
 
+We [GetResponse] and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+
  **Mailing Policy**
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply for any future correspondence. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
@@ -123,7 +127,7 @@ GetResponse stores its servers in a highly secure server environment, with surve
 
 We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but GetResponse cannot ensure or warrant the security of any information you transmit to the Website or Services. Any data transmissions you make over the Internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems.
 
-If you use a blog on this Website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these blogs. To request removal of your personal information from our blog, contact us using our [feedback form](https://app.getresponse.com/feedback.html). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want your personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy statement.
 
  **Facebook Connect or other OpenID provider**
 
@@ -157,4 +161,4 @@ Information posted by users in online blog updates, public forums, online bullet
 
 "You" and "Customer" mean the same.
 
-"Effective Date": 8/13/2013 is the last date that the company's privacy practices or privacy statement disclosures were approved by TRUSTe.
+"Effective Date": 4/28/2016 is the last date that the company's privacy practices or privacy statement disclosures were approved by TRUSTe.
