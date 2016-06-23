@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141253id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623035114id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Honest John
 
@@ -6,7 +6,7 @@
 
 This policy (together with our [terms of use ](https://web.archive.org/forum-terms/)and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read this policy carefully before you use the site.
 
-For the purpose of the Data Protection Act 1998 (Act), the data controller is HonestJohn.co.uk Ltd (we or us) of Hamilton House, Mabeldon Place, London WC1H 9BB
+For the purpose of the Data Protection Act 1998 (Act), the data controller is HonestJohn.co.uk Ltd (we or us) of Eaglethorpe Barns, Warmington, Peterborough PE8 6TJ
 
 Our nominated representative for the purpose of the Act is Nova J Robinson
 
@@ -150,4 +150,4 @@ Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to nova@honestjohn.co.uk.
 
-HonestJohn.co.uk Limited, Hamilton House, Mabeldon Place, London, WC1H 9BB. Registered in London no 6011794. 
+HonestJohn.co.uk Limited, Wagstaffs, Richmond House, Walkern Rd, Stevenage SG1 3QP. Registered in London no 6011794. 
