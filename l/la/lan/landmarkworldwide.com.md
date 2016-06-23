@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landmarkworldwide.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228093331id_/http%3A//www.landmarkworldwide.com/ec/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkworldwide.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623162951id_/http%3A//www.landmarkworldwide.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 OVERVIEW  
 CHILDREN  
@@ -43,9 +43,9 @@ Landmark Worldwide("Landmark") has adopted the following Privacy Policy, which i
 
 References to "Landmark", "we", "us" or "our" are references to: Landmark Worldwide LLC of 353 Sacramento Street, Suite 200, San Francisco, CA 94111, USA.
 
-Please also review the [LandmarkWorldwide.com Terms of Use](http://www.landmarkworldwide.com/terms-of-use) (the "Terms of Use"), which incorporate this Privacy Policy and govern your use of the Site.
+Please also review the [LandmarkWorldwide.com Terms of Use](http://www.landmarkworldwide.com/termsofuse) (the "Terms of Use"), which incorporate this Privacy Policy and govern your use of the Site.
 
-Landmark may change this Privacy Policy periodically. Review our Privacy Policy available at [http://LandmarkWorldwide.com/About_US/Privacy_Policy.aspx](http://www.landmarkworldwide.com/privacy-policy) regularly to be sure you are fully current with our practices and procedures in this area. If we make a material change that will affect the way that we use personally identifiable information that we already have collected about you, we will endeavor to notify you by posting a notice on our Site and sending an email to our registered users. We will post the last date of any change to this Privacy Policy at the bottom of this page. Your continued use of the Site will be subject to the then-current Privacy Policy. The following discloses our information gathering and dissemination practices for the Site:
+Landmark may change this Privacy Policy periodically. Review our Privacy Policy available at [http://www.LandmarkWorldwide.com/privacypolicy](http://www.landmarkworldwide.com/privacypolicy) regularly to be sure you are fully current with our practices and procedures in this area. If we make a material change that will affect the way that we use personally identifiable information that we already have collected about you, we will endeavor to notify you by posting a notice on our Site and sending an email to our registered users. We will post the last date of any change to this Privacy Policy at the bottom of this page. Your continued use of the Site will be subject to the then-current Privacy Policy. The following discloses our information gathering and dissemination practices for the Site:
 
 Overview  
 As part of the normal operation of the Site, we collect and, in some cases, may disclose personally identifiable information about you. This Privacy Policy describes the information, including personally identifiable information, that we collect about you and what may happen to that information.
@@ -69,7 +69,9 @@ Our primary goal in collecting your information, including your personally ident
 Marketing  
 We will use your personally identifiable information for marketing purposes. Among other purposes, we may send you communications via email, including promotional communications about products and services that we believe would be of interest to you.
 
-You may opt-out of the receipt of marketing communications from us by following the link contained in the email. Alternatively, if you have registered and paid for a course or have created an account on this Site, you may update your preferences on the [Update Records/Account page](https://www.landmarkworldwide.com/ec/Updateaccount). Please note that it may take up to 10 days to process your request.
+You may opt-out of the receipt of marketing promotional communications from us by following the link contained in the email. Alternatively, if you have registered and paid for a course or have created an account on this Site, you may update your preferences on the [Update Records/Account page](https://www.landmarkworldwide.com/Updateaccount). Please note that it may take up to 10 days to process your request.
+
+If you are accessing this site from The Netherlands, you may opt-in to the receipt of promotional communications when you create an account of register for a course.
 
 If you opt out of receiving marketing communications from us, we will continue to send administrative notices and communications relevant to your use of the Site to you via email. You will also receive email confirmations if you register for a course online, subscribe to services, join a service as an Authorized User, or update records information.
 
@@ -107,11 +109,11 @@ Your Use of User Information
 Certain features of our Site enable you to have access to other users of our Site. For example, you may interact with other users through seminars and various forums. You are prohibited from disclosing personally identifiable information about another user, including Authorized Users, that you learn through these or other portions of our Site or otherwise, to any third party without our consent and the informed consent of such other user. Our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add any user to your mail list (email or physical mail) without their express written informed consent.
 
 Accessing and Changing Your Personally Identifiable Information  
-After setting up an account (creating a username and password) you can review and change specific information you submitted during the process of setting up the account or registering for a course, including your password, email address, occupation, marital status, name, address, city, state, zip code, country, and phone number by visiting the [Update Records/Account page](https://www.landmarkworldwide.com/ec/Updateaccount).
+After setting up an account (creating a username and password) you can review and change specific information you submitted during the process of setting up the account or registering for a course, including your password, email address, occupation, marital status, name, address, city, state, zip code, country, and phone number by visiting the [Update Records/Account page](https://www.landmarkworldwide.com/Updateaccount).
 
 If you would like to request a change to other information regarding your account or your participation in Landmark programs, you may contact us at [grad.records@landmarkworldwide.com](mailto:grad.records@landmarkworldwide.com).
 
-If you are located in Canada and you require any information about your personal information under our custody and control, how such information is being used or disclosed by us, or if you require corrections to your personal information, you may submit your questions and requests in writing to our Privacy Officer:
+If you are located in Canada or The Netherlands and you require any information about your personal information under our custody and control, how such information is being used or disclosed by us, or if you require corrections, deletions or alterations to your personal information, you may submit your questions and requests in writing to our Privacy Officer:
 
 The Office of the Privacy Officer  
 Landmark Worldwide LLC  
@@ -145,9 +147,9 @@ User Generated Content
 Certain portions of our Site, such as our blogs and forums, permit user generated content. If you post content to our Site, all of the information that you post will be available to other persons visiting the Site. Your posting becomes public and we cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy.
 
 Questions and Updates  
-If you have any questions or suggestions about our privacy practices, please feel free to contact our Privacy Officer in writing at the address set out above or by email to the Privacy Officer at: [legal@landmarkworldwide.com](mailto:legal@landmarkworldwide.com).
+If you have any questions or suggestions about our privacy practices, please feel free to contact our Privacy Officer in writing at the address set out above or by email to the Privacy Officer at: [legal@landmarkworldwide.com](mailto:legal@landmarkworldwide.com). See Accessing and Changing Your Personally Identifiable Information.
 
 If you are located in Canada and you are dissatisfied with our handling of your personal information, we invite you to contact our Privacy Officer in writing, setting out the reasons for your concern. If, after our Privacy Officer has reviewed and responded to your concern, you remain dissatisfied, you may wish to contact the Office of the Information and Privacy Commissioner for your local province or state.
 
-This Privacy Policy is effective as of: 05/20/2013   
+This Privacy Policy is effective as of: 04/01/2016   
 
