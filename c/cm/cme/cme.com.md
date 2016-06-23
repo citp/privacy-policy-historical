@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514134740id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623192639id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Exchange Privacy Policy
 
@@ -42,7 +42,7 @@ We may also give information about you, such as your name and address, to person
 
 **YOUR ACCESS TO INFORMATION**
 
-You may request from us certain information about you including, but not limited to, any information you have provided to us upon registration for various services. Requests should be sent to [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com)
+You may request from us certain information about you including, but not limited to, any information you have provided to us upon registration for various services. Requests should be sent to [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com)
 
 **SECURITY**
 
@@ -62,7 +62,7 @@ Any information you submit to us via our online forms or via e-mail is provided 
 
 **COOKIES**
 
-Cookies are small data files that many internet sites automatically download to a user's computer, phone or tablet hard disk. They are primarily used in helping websites recognise a user that has visited the website previously such as simplifying the logging on process for registered users. They can store account and password information. Most web browsers automatically accept cookies. Our Site uses cookies so that we can better service your return to the Site (further details on the exact cookies and their purposes is contained below). You may configure your browser to prevent cookies from being set on your computer. If you do so, you may still view most of the Site, although you may not be able to enjoy all of our services. If you should wish to reject the cookies then please read the information that came with your browser software to see how you can turn off the automatic download feature. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Cookies are small data files that many internet sites automatically download to a user's computer, phone or tablet hard disk. They are primarily used in helping websites recognise a user that has visited the website previously such as simplifying the logging on process for registered users. They can store account and password information. Most web browsers automatically accept cookies. Our Site uses cookies so that we can better service your return to the Site (further details on the exact cookies and their purposes is contained below). You may configure your browser to prevent cookies from being set on your computer. If you do so, you may still view most of the Site, although you may not be able to enjoy all of our services. If you should wish to reject the cookies then please read the information that came with your browser software to see how you can turn off the automatic download feature. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 We will use the following types of cookies on the Site:
 
@@ -102,6 +102,6 @@ As part of our normal operations and in order to better serve your particular ne
 
 **CONTACT US**
 
-If you have any questions or comments regarding this Policy, or wish to communicate to the Exchange your desire to opt out of receiving communications from the Exchange or others as described in this Policy, please contact us via [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com).
+If you have any questions or comments regarding this Policy, or wish to communicate to the Exchange your desire to opt out of receiving communications from the Exchange or others as described in this Policy, please contact us via [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com).
 
-© 2015 CME Group. All rights reserved.
+© 2016 CME Group. All rights reserved.
