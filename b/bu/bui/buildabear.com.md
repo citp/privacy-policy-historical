@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221222706id_/http%3A//www.buildabear.com/shopping/info/Privacy-Policy/3300008/10100013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624000207id_/http%3A//www.buildabear.com/shopping/info/Privacy-Policy/3300008/10100013) for the most accurate reproduction.*
 
-# Privacy Policy - Build-A-Bear Workshop US
+# Privacy Policy | Build-A-Bear
 
-[](https://web.archive.org/shopping "Build-A-Bear Workshop")
-* [ About Us ](https://web.archive.org/shopping/workshop/About%20Us/3100004/10100029;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-* [ Guest Services ](https://web.archive.org/shopping/info/Guest%20Services/3100005/10900008;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
+* [ About Us ](https://web.archive.org/shopping/workshop/About%20Us/3100004/10100029;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+* [ Guest Services ](https://web.archive.org/shopping/info/Guest%20Services/3100005/10900008;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
 
-  * [ FAQs ](https://web.archive.org/shopping/info/Frequently%20Asked%20Questions/3100006/10100007;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-  * [ Shipping Information ](https://web.archive.org/shopping/info/Shipping%20Information/3100007/10100008;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-  * [ Build-A-Party ](https://web.archive.org/shopping/workshop/Build%20A%20Birthday%20Party,%20Event,%20or%20Outing/3300007/10500008;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-  * [ Return Policy ](https://web.archive.org/shopping/info/Return%20Policy/3100009/10100012;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-  * [ Privacy Policy ](https://web.archive.org/shopping/info/Privacy%20Policy/3300008/10100013;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-  * [ Supply Chain ](https://web.archive.org/shopping/workshop/About%20Our%20Supply%20Chain/3300009/4400007;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
-  * [ Contact Us ](https://web.archive.org/shopping/info/Contact%20Us/3100013/10100015;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
+  * [ FAQs ](https://web.archive.org/shopping/info/Frequently%20Asked%20Questions/3100006/10100007;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+  * [ Shipping Information ](https://web.archive.org/shopping/info/Shipping%20Information/3100007/10100008;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+  * [ Build-A-Party ](https://web.archive.org/shopping/workshop/Build%20A%20Birthday%20Party,%20Event,%20or%20Outing/3300007/10500008;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+  * [ Return Policy ](https://web.archive.org/shopping/info/Return%20Policy/3100009/10100012;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+  * [ Privacy Policy ](https://web.archive.org/shopping/info/Privacy%20Policy/3300008/10100013;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+  * [ Supply Chain ](https://web.archive.org/shopping/workshop/About%20Our%20Supply%20Chain/3300009/4400007;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
+  * [ Contact Us ](https://web.archive.org/shopping/info/Contact%20Us/3100013/10100015;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
 
 
-* [ Our Products ](https://web.archive.org/shopping/workshop/Our%20Products/3100003/10500009;jsessionid=F2E00727A94C2C06472CFE6757E2B266.bab-app-03-p-app1)
+* [ Our Products ](https://web.archive.org/shopping/workshop/Our%20Products/3100003/10500009;jsessionid=1B08BAB6BF3F28A27132DA9C9C150B6E.bab-app-03-p-app2)
 
 Build-A-Bear Workshop Privacy Policy - effective January 1st, 2014
 
