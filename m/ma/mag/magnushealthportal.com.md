@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209033952id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnushealthportal.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623162000id_/http%3A//magnushealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Magnus Health | Privacy Policy
 
@@ -11,8 +11,6 @@ Magnus Health collects personal information when you register with Magnus Health
 When you register, we ask for information such as your name, email address, birth date, gender, and zip code. We may also ask for your address, and other important health related information. Once you register with Magnus Health and sign in to our services, you are not anonymous to us.
 
 Magnus Health automatically receives and records information on our server logs from your browser, including your IP address, Magnus Health cookie information, and the page you request. Magnus Health uses information for the following general purposes: to fulfill your requests for services, improve our services, to deliver targeted educational information, and to contact you.
-
-Magnus Health uses information for the following general purposes: to fulfill your requests for services, improve our services, and to contact you.
 
 If you choose to use our medical proxy service, we will ask you for your proxy’s name and email address. We will automatically send your proxy a one-time email inviting them to visit the website. Magnus Health stores this information for the sole purpose of keeping a record of the proxy. Your proxy may contact us [here](http://helpdesk.magnushealth.com/customer/portal/emails/new "http://helpdesk.magnushealth.com/customer/portal/emails/new") to request that we remove this information from our database.
 
@@ -59,7 +57,7 @@ Magnus Health works with partners and other service providers in the healthcare 
 
 #####  **Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by Magnus Health and our partners, analytics, or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We and our partners, analytics, or online customer support provider, use cookies or other similar technologies at magnushealth.com. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users’ settings and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited
 
@@ -115,7 +113,7 @@ Our website includes social media features, such as the Facebook Like button and
 
 ### **Changes to this Privacy Policy**
 
-Magnus Health may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Magnus Health account or by placing a prominent notice on our site prior to the change becoming effective.
+Magnus Health may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Magnus Health account or by placing a prominent notice on our site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
  **Questions & Suggestions**
 
@@ -129,4 +127,4 @@ Raleigh, NC 27601
 (877) 461-6831  
 [Help Desk](http://helpdesk.magnushealth.com/customer/portal/emails/new "http://helpdesk.magnushealth.com/customer/portal/emails/new")
 
-Effective Date: March 31, 2015
+Effective Date: April 21, 2016
