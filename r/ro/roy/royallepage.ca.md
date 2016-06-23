@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175823id_/http%3A//www.royallepage.ca/realestate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623124351id_/http%3A//www.royallepage.ca/realestate/privacy-policy) for the most accurate reproduction.*
 
-# Royal LePage Real Estate Services Privacy Policy - Royal LePageRoyal LePage
+# Royal LePage Real Estate Services Privacy Policy | Royal LePageRoyal LePage
 
 At Royal LePage Real Estate Services (“Royal LePage”), we respect the privacy of our clients and we are committed to keeping your personal information accurate, confidential, secure, and private. We have adopted the following Privacy Policy to ensure that Royal LePage continues to meet its commitment to your privacy.
 
@@ -149,12 +149,9 @@ You may configure your browser to notify you when you receive a cookie, and you 
 
 ### **Questions, concerns, and complaints**
 
-If you have any questions, concerns, or complaints about your Personal Information, or about the Royal LePage Privacy Policy, contact our privacy officer using the contact information provided below:
-
-Thomas A. Hogan  
-General Counsel  
-465 South Street, Suite 202  
-Morristown, NJ 07960  
-Tel: (973) 889-6150  
-Bizcom: No. 1-888-228-0715  
-[tom.hogan@brookfieldrps.com](mailto:tom.hogan@brookfieldrps.com)
+If you have any questions, concerns, or complaints about your Personal Information, or about the Royal LePage Privacy Policy, contact our privacy officer using the contact information provided below:  
+Penny Egan  
+Brookfield Real Estate Services  
+39 Wynford Drive, Toronto, ON M3C 3K5  
+**T**  [416.510.5669](tel:416.510.5669)   **  F **[416.510.5856](tel:416.510.5856)  
+[pennyegan@brookfieldres.com](mailto:pennyegan@brookfieldres.com)
