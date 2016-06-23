@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221043941id_/http%3A//www.luxurylaunches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151332id_/http%3A//luxurylaunches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -61,5 +61,3 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 Contact Us
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact dhiram [at] luxurylaunches.com.
-
-© 2015 - Luxurylaunches.com 
