@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222023421id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623132857id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actian – Take Action on Big Data
 
@@ -6,7 +6,7 @@
 
 Actian Corporation (“Actian” “we” or “us”) and its subsidiaries respect your privacy and are committed to protecting it. Actian provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We’ve structured our websites so that, in general, you can visit Actian on the Web without identifying yourself or revealing any personal information. We make this notice readily available at the bottom of every Actian Web page.
 
-[](http://privacy.truste.com/privacy-seal/Actian-Corporation/validation?rid=70b80091-6a31-4aa4-8b2e-6291b3eb9118)
+[](https://privacy.truste.com/privacy-seal/validation?rid=3eace8b5-0fcc-4856-85ef-48b061d61cda "TRUSTe Privacy Certification")
 
 Actian has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, including TRUSTe’s TRUSTed Cloud program, which is viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers information collected on [www.actian.com](http://www.actian.com/), [www.pervasive.com](http://www.pervasive.com/), [www.paraccel.com](http://www.paraccel.com/) and our service platform.
 
@@ -157,4 +157,4 @@ Web site URL: [www.actian.com](http://www.actian.com/)
 
 Effective Date:
 
-Rev. May 21 2015
+Rev. April 26, 2016
