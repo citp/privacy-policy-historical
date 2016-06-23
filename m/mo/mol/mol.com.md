@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216001616id_/https%3A//www.mol.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623175842id_/http%3A//www.mol.com/Home/Privacy) for the most accurate reproduction.*
 
 # MOL - Money Online | Privacy Policy
 
 ## Privacy Policy
 
-Last modified: April 2014
+Last modified: August 2014
 
 #### Our Commitment
 
@@ -66,7 +66,7 @@ You acknowledge that MOL may in its sole discretion establish general practices 
 
 To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and the latest Internet security methods and technologies.
 
-Any changes to our Privacy Policy will be communicated through our website at least 10 days in advance of implementation. Information collected before changes are made will be secured according to the previous Privacy Policy. 
+Any changes to our Privacy Policy will be communicated through our website at least 21 days prior written notice in advance of implementation. Information collected before changes are made will be secured according to the previous Privacy Policy. 
 
 #### Your Consent
 
