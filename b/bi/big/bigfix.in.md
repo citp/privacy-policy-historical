@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfix.in privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022123841id_/http%3A//www.bigfix.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfix.in privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623044151id_/http%3A//www.bigfix.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Bigfix
 
@@ -37,7 +37,7 @@ This Policy applies to information that is obtained by BigFix whether through el
 
 
 
-**DOES  BigFix DISCLOSE YOUR PERSONAL IDENTIFIABLE INFORMATION?**
+**DOES  BIGFIX DISCLOSE YOUR PERSONAL IDENTIFIABLE INFORMATION?**
 
 You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site or the public. BigFix does not sell, rent or trade your e-mail address to third parties. We may, however, use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, and administering e-mails. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third parties, we will require that such information be maintained by them in strictest confidence.
 
