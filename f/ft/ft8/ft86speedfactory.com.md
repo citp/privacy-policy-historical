@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ft86speedfactory.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222072540id_/http%3A//www.ft86speedfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ft86speedfactory.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623061856id_/http%3A//www.ft86speedfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : FT-86 Speedfactory - Your exclusive source for FR-S, BRZ, and GT-86 parts!
 
