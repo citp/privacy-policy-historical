@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231140524id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623140635id_/https%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy | raleighnc.gov
 
 ### Privacy practices regarding information collected from the City of Raleigh website.
 
-Last Modified: July 28, 2012
+Last updated May 02, 2016 - 10:33 am
 
 This privacy policy contains information about what data is collected and how that information is used. This policy may be updated periodically.  
 This policy applies only to the official City of Raleigh web site. When you follow a link to another web site, even the site of another governmental agency, you are subject to the privacy policy of that site. You should check the privacy policies of each of these other sites if you have questions about how they handle personally identifiable information.
