@@ -1,31 +1,39 @@
-> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235236id_/http%3A//www.petfooddirect.com/landing/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623105959id_/http%3A//www.petfooddirect.com/privacy-policy-pfd) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
 PetFoodDirect recognizes that your privacy is important to you and we are committed to maintaining and using your information responsibly. Our privacy policy describes the information we collect and how we use it.
 
 For any questions related to privacy, please contact:
 
-PetFoodDirect  
-189 Main Street   
-Harleysville, PA 19438  
-1-877-PET-FOOD  
+Pet360, Inc.
 
+Attn: PetFoodDirect Privacy Policy
 
-**or** complete our contact form by [clicking here](https://web.archive.org/landing/Contact-PetFoodDirect.aspx)
+2260 Butler Pike
+
+Plymouth Meeting, PA 19462
+
+ph. 1-877-PET-FOOD
 
 **What Information We Do Collect**  
 We collect the information that you provide us when you visit our website or contact our call center to purchase, return, or exchange a product, in addition if you participate in a contest/survey. The type of information we may collect includes the following: domain name and e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address).
 
 **How We Use Your Information**  
-The information we collect is used to improve the content of our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes. From time to time we will share with other reputable organizations information to help them contact consumers for marketing purposes. If requested by governmental authorities, when legally required to do so, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website. Also, in the event of a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+The information we collect is used to improve the content of our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes. From time to time we will share with other reputable organizations information to help them contact consumers for marketing purposes. If requested by governmental authorities, when legally required to do so, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+
+We may share information between and among Pet360, Inc., and its current and future parents, affiliates, subsidiaries, companies under common control and ownership, divisions and designees.
+
+Also, we may share information in the event of a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
 If you do not want to receive e-mail or postal mailings from us in the future, please let us know by sending us e-mail at the above address or calling us.
 
-**Cookies**  
-Cookies are small data files that one of our servers sends to your computer via your Web browser when you connect with our Web site. Their primary function is to help us remember returning customers by tracking their browsing sessions, which enables us to collect non-personally identifiable information. With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit.
+**Cookies and Tracking**  
+Cookies are small data files that one of our servers sends to your computer via your Web browser when you connect with our Web site. Their primary function is to help us remember returning customers by tracking their browsing sessions, which enables us to collect non-personally identifiable information. We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit.
+
+Currently, our systems do not recognize browser "do-not-track" signals. Most browsers, however, allow you to refuse cookies. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Certain portions of our Website may not be accessible to you if you disable cookies. Please see [3rd Party Advertising](http://www.networkadvertising.org/choices/) for information about how you may opt-out of targeted advertising.
 
 **Security**  
 Protecting the safety of your personal information is very important to us. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you.
@@ -33,4 +41,12 @@ Protecting the safety of your personal information is very important to us. We h
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward.
 
 **3rd Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**California**
+
+California Civil Code Section § 1798.83 permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please call us at 1-877-PET-FOOD or write us at: Pet360, Inc., Attn: PetFoodDirect Privacy Policy, 2260 Butler Pike, Plymouth Meeting, PA 19462.
+
+**Children**
+
+Our website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the website. We do not knowingly collect personal information from children under 13. If you are under 13, do not provide any information on this website or on or through any of its features/register on the website, make any purchases through the website, use any of the interactive or public comment features of this website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please call us at 1-877-PET-FOOD or write us at: Pet360, Inc., Attn: PetFoodDirect Privacy Policy, 2260 Butler Pike, Plymouth Meeting, PA 19462.
