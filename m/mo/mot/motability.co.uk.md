@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235333id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motability.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623082938id_/http%3A//www.motability.co.uk/utilities/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy and cookies policy | Motability
+# Privacy and cookies policy | Motability Scheme
 
-Motability Operations Limited and Motability are committed to protecting and respecting your privacy online.
+We are committed to protecting and respecting your privacy online.
 
-This policy sets out how we handle your personal information and provides comprehensive information about cookies and the way we use them on [www.motability.co.ukOpens in new window](http://www.motability.co.uk/ "Opens in new window") ("our website").
+This policy sets out how we handle your personal information and provides comprehensive information about cookies and the way we use them on [www.motability.co.ukOpens in new window](https://web.archive.org/ "Opens in new window") ("our website").
 
 ## Privacy
 
@@ -157,4 +157,4 @@ Any changes we may make to our privacy and cookies policy in the future will be 
 
 ## How to contact us about privacy policy
 
-Questions, comments and requests regarding this privacy and cookies policy are welcomed and should be addressed to the [feedback form](https://www.motability.co.uk/about-us/contact-us/feedback-form) . You have the legal right to a copy of all the personal information about you held by us. You also have the right to correct any errors in that information.
+Questions, comments and requests regarding this privacy and cookies policy are welcomed and should be addressed to the [feedback form](https://www.motability.co.uk/contact-and-support/contact-information/feedback-form) . You have the legal right to a copy of all the personal information about you held by us. You also have the right to correct any errors in that information.
