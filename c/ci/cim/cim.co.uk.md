@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909235622id_/http%3A//www.cim.co.uk/insight/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623142641id_/http%3A//www.cim.co.uk/contact-us/privacy) for the most accurate reproduction.*
 
 # Privacy | The Chartered Institute of Marketing
 
@@ -38,30 +38,27 @@ The Chartered Institute of Marketing (CIM) is committed to respecting the person
 
 [Back to top](https://web.archive.org/insight/privacy/#top)
 
-## Cookie policy
+## CIM Cookie Policy
 
-A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is used for an origin website to send state information to a user's browser and for the browser to return the state information to the origin site. The state information can be used for authentication, identification of a user session, user's preferences, shopping cart contents, or anything else that can be accomplished through storing text data. (ref. [wikipedia.org](http://en.wikipedia.org/wiki/HTTP_cookie))
+This website uses cookies.   
 
-CIM uses five cookies on our main web site:
+A cookie, also known as an HTTP  cookie, web cookie, or browser cookie, is a small text file which is stored on  your computer or other browsing device Cookies are widely used in order to make  websites work, or work more efficiently, and also to provide information on  visitor behaviour to the website owner. For further information on the use of  cookies visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-1\. SSO cookie used when a user logs into the site, this is a session cookie that expires after 12 hours. This identifies whether the user is authenticated and logged into the web site.
+CIM uses cookies to collect data  about who is using our website (and what browser, equipment etc. they are using  to do so) and thus to improve the experience of using our website for our  users.
 
-2\. Shopping basket cookie that allows a user to store items to be purchased and shipping address. This is a session cookie that expires after 14 days.
+By using this site, you agree  with our use of cookies as set out in this Cookie Policy.
 
-3\. ASP.NET session cookie, holds information about the state of some ASP.NET controls.
+  1. Single Sign-On (SSO) cookie:  when a user logs into the website, this identifies whether the user is  authenticated and logged into the website. This is a 'session' cookie that  expires after 12 hours.
+  2. Shopping basket cookie: this allows  a user to store (i.e. remember) items to be purchased and their shipping  address / shopping details. This is a 'session' cookie that expires after 14  days.
+  3. ASP.NET session cookie: this holds  information about the state of certain ASP.NET controls.
+  4. Citrix cookie: this allows the  CIM website to interact with CIM's web server farm.
+  5. Google Analytics cookie: this shows  web traffic analysis. These cookies have multiple expiration dates; please  refer to this [**article**](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html "Google cookies") (published by Google)  for more information.
+  6. Crazy Egg cookie: this allows  us to obtain information regarding how visitors interact with our website. We  can then evaluate the online customer experience and, where necessary, make  changes to provide a better user experience for our customers. This will not  contain any personally identifiable information. More information can be found  here: <http://www.crazyegg.com/privacy>
+  7. [](http://www.crazyegg.com/privacy)Facebook Custom Audience Pixel:  this is a 'web beacon', in this case a pixel used on the CIM website, which  functions in a similar way to a cookie. It is used to build up a 'Custom  Audience' based on people who visit our website, so we can target Facebook ads  to them. Please refer to Facebook's [terms](https://www.facebook.com/ads/manage/customaudiences/tos.php) for more information.
 
-4\. Citrix cookie, for use with the CIMs web server farm.
 
-5\. Google analytics cookie that shows web traffic analysis. These cookies have multiple expiration dates; please refer to this [article](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html "Google cookies") for more information.
 
-The first 4 cookies on the list are functional cookies so that the site can work correctly. The Google analytics is a tracking cookie and not is classified as a non-functional cookie.
-
-You can opt out of any non-functional cookies by clicking the following check box:  
-I wish to opt out of non-functional cookies
-
-CIM's main website uses a Twitter widget to display a Twitter feed on the homepage. This widget uses third-party cookies from Twitter to log that you have visited the CIM site. You can read the [Twitter Privacy Policy](https://twitter.com/privacy "Twitter Privacy Policy"), particularly the section on Widget Data, to find out how these cookies are used.
-
-These cookies are not currently prevented by the above opt out; we are seeking to address this issue as soon as we can. The Twitter cookies can be prevented by opting out of 3rd party cookies in your browser settings as normal.
+On CIM's Exchange website, we use social sharing buttons for services including, but not limited to, Twitter, LinkedIn and Facebook. These allow you to share website pages with your friends via those networks. Whilst you will be asked to login to use these services, this process is handled directly with the social network providers and their databases and servers; CIM accepts no responsibility for any use of your personally identifiable information and/or any further use of cookies by those social network providers.
 
 [Back to top](https://web.archive.org/insight/privacy/#top)
 
