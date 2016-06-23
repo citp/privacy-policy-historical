@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219011200id_/http%3A//www.cooperhewitt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624010616id_/http%3A//www.cooperhewitt.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Cooper Hewitt, Smithsonian Design Museum
 
@@ -62,3 +62,5 @@ The Smithsonian’s Websites are intended to be accessible and enjoyed by genera
 ### Comments
 
 The Smithsonian is a large organization with many people sharing responsibility for the content of our Websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at <http://www.si.edu/contacts>. If you have questions about this Privacy Statement, please contact us via email at Privacy@si.edu.
+
+Featured Image: Detail of Drawing, Abstract Composition with Grid, 1935–39, designed by Edward McKnight Kauffer 
