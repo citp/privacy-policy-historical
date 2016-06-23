@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the addocart.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511150248id_/http%3A//www.addocart.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addocart.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623150351id_/http%3A//www.addocart.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ]()
+
+  * Your shopping cart is empty!
+
+
+
+
+  * [Home](http://www.addocart.com/index.php?route=common/home)
+  * [Privacy Policy](http://www.addocart.com/Privacy-Policy)
+
+
 
 ## Information Collection and Use
 
