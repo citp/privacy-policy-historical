@@ -1,84 +1,76 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220049id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151845id_/http%3A//www.hostelbookers.com/privacy) for the most accurate reproduction.*
 
-# Privacy - HostelBookers
+# Privacy & Cookie Information - HostelBookers
 
-#### HostelBookers Privacy Policy
+#### Hostelbookers.com Privacy and Security Statement
 
-HostelBookers understands and respects the importance of your privacy and we are committed to safeguarding your personal information. In providing our booking service and access to any Hostelbookers account you may open, we must collect personal information from you and make subsequent use of it as detailed below.  
+Hostelworld.com Limited (“ **Hostelworld** ”) operates the Hostelbookers.com website, mobile site and mobile app (together the “ **Hostelbookers Sites** ”). This privacy statement sets out our privacy and security practices and forms part of the Terms and Conditions that apply to your use of the Hostelbookers Sites. 
+
+Hostelworld has been processing online hostel reservations since 1999 and we have always placed the security of our internet transactions and our customers’ credit card details as our top priority. We will continue to offer our customers the highest level of security available for online transactions and hope this reassures you when you make your reservations with us. 
+
+Hostelworld realises that some people are unsure about entering their personal details into websites and apps over the Internet. Below, we explain how we use your information and how we protect your privacy. Hostelworld and its associated companies respect and protect your right to privacy in relation to your interactions with the Hostelbookers Sites. Any information which is provided by you to Hostelworld via the Hostelbookers Sites or otherwise will be treated in accordance with the terms of the Irish Data Protection Acts 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time. 
+
+#### Information Required To Process Your Booking
+
+For us to process a booking for you on behalf of a travel services provider, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the Hostelbookers Site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit. 
+
+#### Who Sees Your Information
+
+We are required to send your information to the travel services provider with which you booked travel services so that the travel service provider knows who you are and when you will use its travel services. We give your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking. The travel service provider requires this information to accept a confirmed booking from you. All travel service providers on whose behalf we facilitate bookings have agreed to the Hostelworld terms and conditions and accept this privacy policy. 
+
+We may also pass your personal information to third party service providers who process it on our behalf in order to allow us to provide the best service to you. For example, we use various technologies provided by Google, including its Maps product and its analytics products, to enhance the Hostelbookers Sites. The following websites set out Google’s privacy policies in connection with these services <http://www.google.com/policies/privacy/partners/> and <http://www.google.com/policies/privacy/>. We only pass your personal information to trusted third party services providers in accordance with our obligations under the Irish Data Protection Acts 1988 and 2003. 
+
+#### Security
+
+All personal information exchanged between your device and the Hostelbookers Sites is encrypted using TLS. Our TLS Cert. is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties. 
+
+You should be aware that where you link to another website from the Hostelbookers Sites, Hostelworld has no control over that other website. Accordingly, Hostelworld cannot guarantee that the controller of that website will respect your privacy in the same manner as Hostelworld. 
+
+#### How We Use Your Information
+
+In addition to the use and disclosure of information which is required when you avail of our travel related and data processing services (and which we describe above), we use your email address for sending you a confirmation of your bookings, pre-trip reminder e-mails, an email reminder to provide a guest review of your last accommodation stay, or occasionally to inform you of new features on the Hostelbookers Sites. Our booking confirmation and pre-trip reminder emails may contain banner advertising. We only use your phone number to contact you urgently if there is a problem with your booking. In circumstances where you contact us with a query, we use your contact details in order to respond to your query. 
+
+Where you have given us your consent, we may send you emails that we think will be useful to you. This may include our regular e-newsletter, special offers, travel tips, customer surveys and information about products and services offered by us or our selected partners. Where your settings on your device permit us to send app notifications we may also send you app notifications containing similar information. You may opt out of receiving email messages at any time by clicking on the link provided in the email messages, and app notifications by changing the notification settings in your app. 
+
+We take reasonable steps to ensure that your information is relevant to its intended use, and that it is accurate and up to date. As a registered Hostelbookers.com user, you can access and update your contact information, personal preferences and e-mail subscription choices at any time by visiting the account section of the Hostelbookers.com website. The information that you submit helps us to make your emails more useful, interesting and relevant to you. 
+
+We use cookies and pixel tags on the Hostelbookers Sites and in our e-mails in accordance with our Cookies Policy, which is available [here](https://web.archive.org/cookies/). 
+
+On occasions, we may supply statistics about our customers to third-parties such as hostels or other agents. These statistics never contain personally identifying information. 
+
+We would not sell or rent your personal information to third parties for their marketing purposes without your prior consent. 
+
+#### Targeted Advertising
+
+We want to make it easy for you to take advantage of the travel related opportunities which we feature on the Hostelbookers Sites. We work with our advertising partners in order to try and ensure that when you see an advert for a Hostelworld brand it will be relevant to you and your interests. This applies to adverts that are displayed on Hostelworld’s own websites (including the Hostelbookers Sites, in Hostelbookers emails, and on websites owned by third parties). We do this by allowing our third party advertisers to collect non-personally identifiable information about your visit to the Hostelbookers Sites, such as the pages you visit on the Hostelbookers Sites and the locations you appear to be interested in. We also provide third party advertisers with non-personally identifiable information that we collect about you when you use the Hostelbookers Sites in order to only show you relevant adverts. We may also use such information in order to avoid showing you adverts on third party websites like Facebook and Twitter if we don’t think that you will be interested in them. 
+
+When we share your information with third party advertisers we always ensure that we do so in compliance with our obligations under data protection law. We may use technologies such as “hashing” to ensure that we do not provide our third party service providers with your personal data. For more information on how our third party advertising service providers gather information about your use of the Hostelbookers Sites, please refer to our Cookies Policy which is available [here](https://web.archive.org/cookies/). 
+
+Some of our third party advertising partners ask us to make you aware of their privacy policies. These policies are available by following the links below: 
+
+  * [Facebook](https://en-gb.facebook.com/policies)
+  * [Twitter](https://twitter.com/privacy?lang=en)
+  * [Criteo](http://www.criteo.com/privacy/)
+  * [Google](https://www.google.com/intl/en/policies/privacy/)
 
 
-HOW?
 
-We will only collect personal information from you by specifically asking for it:- 
+#### Reviews
 
-  * When you make a booking with us, over the telephone or via our internet booking facilities.
-  * When you register with us for newsletters, email updates, enter competitions or take part in surveys and customer feedback.
-  * When you create a user account via this website.
-  * When you write, fax, telephone or email us to make an enquiry.
+We offer you the opportunity to post reviews of the accommodation you book through the Hostelbookers Sites. Where you provide us with a review, we may include your review on the Hostelbookers Sites and on selected partner sites. 
 
+#### Website Testing
 
+We use various technologies to allow us to test how the Hostelbookers Sites operate and allow us to improve our services. Further details of such tests are available at [http://www.hostelbookers.com/website-testing/](https://web.archive.org/website-testing/). 
 
-WHAT INFORMATION WILL WE COLLECT?
+#### Your Access And Amendment Rights
 
-We may collect all or some of the following information relating to you or other members of your party:- 
+You have the right to request a copy of the information which we hold about you (for which we may charge you a small fee) and to have inaccuracies in the information corrected. If you wish to avail of any of these rights, please contact us at [customerservice@hostelbookers.com](mailto:customerservice@hostelbookers.com). 
 
-  * names and contact details (address, email address, telephone number)
-  * credit/ debit card or other payment details
-  * special requirements such as those relating to any disability or medical condition which may affect the chosen holiday arrangements
-  * dietary restrictions (which may disclose your religious beliefs)
-  * travel preferences
+#### Limitation And Exclusion Of Liability
 
+Hostelworld, its directors, employees, servants and agents, affiliates or other representatives and their respective parent and subsidiary companies shall not be liable in respect of any claims, emergencies, demands, causes of action, damages, losses, expenses including without limitation, reasonable attorney fees and costs of proceedings arising out of or in connection with the use and/or dissemination of personal information relating to you in accordance with this privacy policy and your consent. 
 
+#### Amendment Of Privacy And Security Statement
 
-Some of the information we collect (such as about health or religion) will only be collected on the condition that we have your positive consent to its use. We will seek this consent when necessary. 
-
-WHAT WILL WE DO WITH IT?
-
-  1. For the purpose of providing you with our services, we may disclose the information to the providers of the services making up your holiday arrangements (who could be located outside the UK/EEA). 
-  2. In order for you to travel overseas, it may be mandatory (as requested government authorities) to disclose your information for immigration, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
-  3. We may need to disclose our customer list including any personal information relating to you to a third party who acquires or attempts to acquire all or substantially all of the asset/ stock in our company or our website. 
-  4. We may also disclose information to organisations who act as “data processors” on our behalf, or to other organisations who perform business functions on our behalf, some of whom are outside the UK/EEA. These functions include administration, providing services (and contacting you where necessary), customer care, business management and operation, re-organisation/structuring/sale of our business (or our group companies), risk assessment, security and crime prevention/detection, research and analysis, marketing, monitoring, measuring and assessing customer purchasing preferences and trends, dispute resolution, credit checking and debt collection. 
-  5. We may from time to time contact you (by email and by post) with information about special offers, brochures, new products, forthcoming events or competitions. If do not wish to receive such information, you may ask us in writing not to receive it. If you set up an account via our website, you will be able to tell us how you would like to receive such information when we send it by email (by unsubscribing to our email alerts) 
-  6. If you set up an account via our website, we will store your personal information and information about the bookings that you have made with us that have been performed and those that are due to be performed in the future. This is so you can access this information when you come to use our site. We will retain this personal information until the later of: a) 6 months after you close down your account with us or b) a year after your last booking activity. 
-
-
-
-We have taken all reasonable steps to have appropriate security measures in place to protect your information. Outside the European Economic Area, controls on data protection may not be as wide as the legal requirements in this country. 
-
-WHAT CAN I DO?
-
-If you do not agree to our use of the information as set out above, you should inform us as soon as possible by contacting us at <http://www.hostelbookers.com/contact/>
-
-You may ask us in writing for a copy of the information we hold about you (for which we may charge a fee) and to correct any inaccuracies in your information. We aim to respond to you within 21 days from the date of request. 
-
-COOKIES
-
-Please note that in order for us to provide you with optimum service, we use ‘Cookies’ on our website. ‘Cookies’ are a feature of web browser software which allows web servers to temporarily store information within your browser. ‘Cookies’ allow us to obtain information regarding users of our site which essentially helps us to provide you with a better user experience and tailor our services to your individual needs. We don’t store and record any of your passwords or other highly sensitive data. Most browsers automatically allow ‘cookies,’ however usually your web browser will enable you to disable ‘cookies’ should you wish to do so. 
-
-If you want to know more about what cookies are and how to control them, please visit [AboutCookies.org](http://www.aboutcookies.org/). Be aware that restricting cookies may impact on the functionality of our website.
-
-Below is a list of the main cookies we use and what they are used for:
-
-**Cookies ******|  **Description**  
----|---  
-.hostelbookers.com|  We use different servers within HostelBookers, this cookie ensures users are kept on the same server throughout their visit on the site.   
-JSESSIONID|  This cookie identifies your preferences while you are visiting HostelBookers. i.e. if your search was "London hostels", the website will (in the first instance) only show you availability for properties in London.   
-Google Analytics & ns_session|  These cookies collect information about how you use HostelBookers' website. This information is used in reports and helps us to improve your experience of the website.   
-HBLOCATIONCURRENCY|  This cookie enables our website to remember your preferred currency.   
-ns_cookietest|  This is used to confirm that your browser is able to accept cookies.   
-Criteo|  These cookies display personalized advertisements based on the past websites you have visited.   
-HB_AFF|  This cookie helps us to identify whether you reached our website via one of our partners.   
-  
-Please note that our website contains certain literature and hyperlinks to websites owned by third parties. This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. 
-
-MONITORING
-
-To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; and (2) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
-
-UPDATES AND CHANGES
-
-As our privacy statement may change due to developments in the law we encourage you to re read this from time to time so you are aware of any changes in how we gather and use your personal information. 
-
-HostelBookers.com Ltd 52-54 High Holborn London WC1V 6RL 
-
-+353 (1) 4980700 
+Hostelworld reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments. However, where any such amendments would materially change the use we make of any personal data, any such amendment will be subject to your prior consent. 
