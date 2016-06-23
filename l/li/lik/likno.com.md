@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likno.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140006id_/http%3A//www.likno.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likno.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623163028id_/http%3A//www.likno.com/privacy.html) for the most accurate reproduction.*
 
 # DHTML menu&Javascript Menu Maker. Professional DHTML menu solutions by AllWebMenus.
 
