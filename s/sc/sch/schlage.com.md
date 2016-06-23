@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the schlage.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321060817id_/http%3A//www.schlage.com/en/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlage.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623194056id_/http%3A//www.schlage.com/en/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
+#### Privacy policy.
+
+  
 Allegion plc ("Allegion”) respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. Allegion strives to collect, store, process and distribute Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. Allegion abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Data Protection and Privacy Policy (the "Policy") sets forth the privacy principles that Allegion follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States.
 
 **I. SAFE HARBOR**
@@ -76,7 +79,7 @@ User data is all anonymous.
 
 **Google Analytics  **– we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. | You can find out more about Google’s position on privacy as regards its analytics service at [Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
 ---|---  
-**Adobe Site Catalyst  **\- we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. | You can find out more about Adobe’s position on privacy as regards its analytics service at [Omniture](http://www.omniture.com/en/privacy/product)  
+**Adobe Site Catalyst  **\- we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. | You can find out more about Adobe’s position on privacy as regards its analytics service at [Omniture](http://www.adobe.com/privacy/analytics.html)  
   
 Few, if any, of Allegion's websites are directed toward children. Nevertheless, Allegion is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA").
 
