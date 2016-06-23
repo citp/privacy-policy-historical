@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingkong.com.au privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026164207id_/http%3A//kingkong.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingkong.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623032207id_/http%3A//kingkong.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - King Kong
 
