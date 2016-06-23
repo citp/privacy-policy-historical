@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050614id_/http%3A//www.appbrain.com/info/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623045055id_/http%3A//www.appbrain.com/info/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy — AppBrain Help Center
 
@@ -59,7 +59,7 @@ Although most changes are likely to be minor, AppBrain may change its Privacy Po
 
 ## Further questions¶
 
-If you have questions about privacy or your personal data please contact our [_support team_](https://web.archive.org/web/20151225050614id_/http%3A//www.appbrain.com/info/help/about.html).
+If you have questions about privacy or your personal data please contact our [_support team_](https://web.archive.org/web/20160623045055id_/http%3A//www.appbrain.com/info/help/about.html).
 
 Change log:
 
