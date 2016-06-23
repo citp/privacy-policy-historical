@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218202838id_/http%3A//www.ryder.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623191049id_/http%3A//www.ryder.com/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ryder
 
@@ -137,7 +137,7 @@ This Site, as well as the e-mail messages sent with respect to this Site, may co
 
 **Secure Email**
 
-Ryder is committed to providing our employees and customers with the safest and most secure environment for exchanging sensitive and/or private information via email. To ensure privacy and confidentiality, Ryder uses a registered envelope service to protect sensitive emails. [Click here for instructions on Opening a Secure Encrypted Email (PDF). ](https://web.archive.org/web/20151218202838id_/http%3A//www.ryder.com/en/~/media/Ryder/Files/privacy/encrypted_email.ashx)
+Ryder is committed to providing our employees and customers with the safest and most secure environment for exchanging sensitive and/or private information via email. To ensure privacy and confidentiality, Ryder uses a registered envelope service to protect sensitive emails. [Click here for instructions on Opening a Secure Encrypted Email (PDF). ](https://web.archive.org/web/20160623191049id_/http%3A//www.ryder.com/en/~/media/Ryder/Files/privacy/encrypted_email.ashx)
 
 **Operation of this Site in the United States**
 
