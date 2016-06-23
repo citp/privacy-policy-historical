@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goonerhead.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004144031id_/http%3A//goonerhead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonerhead.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005507id_/http%3A//goonerhead.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Goonerhead
+# Privacy Policy – Latest Arsenal News
 
 This privacy policy sets out how goonerhead.com uses and protects any information that you give goonerhead.com when you use this website.
 
