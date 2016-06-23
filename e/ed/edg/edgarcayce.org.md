@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175543id_/http%3A//www.edgarcayce.org/are/aboutus.aspx%3Fid%3D550) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624001352id_/http%3A//www.edgarcayce.org/are/aboutus.aspx%3Fid%3D550) for the most accurate reproduction.*
 
 # Edgar Cayce' s A.R.E. Privacy Policy Statement
 
