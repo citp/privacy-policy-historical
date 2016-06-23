@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbonline.co.uk privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213133028id_/http%3A//www.cbonline.co.uk/legal-privacy/use-of-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbonline.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623160216id_/http%3A//www.cbonline.co.uk/legal-privacy/use-of-cookies) for the most accurate reproduction.*
 
-# Use of Cookies | Clydesdale Bank
+# Internet cookies | Clydesdale Bank
 
 A cookie is a small file which is sent to your browser and stored on your computer's hard disc and helps us understand and track your use of the site and where it can improve the information and services provided.
 
@@ -42,7 +42,6 @@ We do not capture or record any personally identifiable information, with the ex
 cbonline.co.uk  
 ybonline.co.uk  
 tracking cookie | Used to recognise repeat visitors to the site and in conjunction with other information we hold to attempt to record specific browsing information (that is, about the way you arrive at the site, pages you view, options you select, information you enter and path you take through the site) against an individual customer profile. |    
-Redeye | We use Redeye's software to carry out statistical analysis of page use, page interactions and paths through CBOnline.com and YBOnline.com. This is known as 'web metrics'. This information allows us to more accurately understand our visitors’ browsing preferences. | [Redeye Cookie Policy](http://www.redeye.com/about-us/cookie-policy/)  
 Google Analytics | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Analytics Cookie Policy](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
 DoubleClick | We use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. | [DoubleClick Cookie Policy](http://www.google.co.uk/intl/en/policies/privacy/)  
 Adobe SiteCatalyst | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Adobe Privacy Policy](http://www.adobe.com/uk/privacy/analytics.html)  
@@ -56,7 +55,7 @@ By using our website you consent to our use of cookies.
 
 You can manage your cookies within your browser settings however turning these off may impact your experience on our website.
 
-### More Information
+### More information
 
 Please be aware that some aspects of our website, such as Internet Banking, will not work properly if you choose to not accept cookies via your browser.
 
