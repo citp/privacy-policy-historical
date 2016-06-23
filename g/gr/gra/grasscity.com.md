@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grasscity.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231102941id_/http%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasscity.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623163411id_/https%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Grasscity.com | Online Headshop
+# Privacy Policy | Grasscity
 
 Privacy Policy - Grasscity.com 
 
@@ -36,7 +36,7 @@ In order to process your purchase and to send the purchased product to you, Gras
 
 To enjoy a tailored browsing and shopping experience and to participate in the Community you can register an Account on the Website or in the Application. In addition to the required information as listed above the registration process requires you to provide and confirm your password. Grasscity shall send an email to the provided email address to activate your Account. It is therefore imperative that you provide a valid email address.
 
-In your Account you may add (additional) information about yourself. You may also sign up for the Grasscity newsletter and view various data, such as your wish list, downloadable products, invitations and reward points. With your Account you can also post Material in the Community. See the [End User License Agreement](http://www.grasscity.com/us_en/privacy-policy/) for more information about posting Material.
+In your Account you may add (additional) information about yourself. You may also sign up for the Grasscity newsletter and view various data, such as your wish list, downloadable products, invitations and reward points. With your Account you can also post Material in the Community. See the [End User License Agreement](https://www.grasscity.com/us_en/privacy-policy/) for more information about posting Material.
 
 Grasscity saves and processes all the supplied information. The information that is made public in the Account, such as Material and contact information, may be used by other Users of the Community. You can change the information in your Account at any time in your Account, however Material can only be deleted within seven (7) days after it is made public. Photos can at any time be removed from the Community.
 
