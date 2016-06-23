@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201221506id_/http%3A//www.evoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623174352id_/http%3A//www.evoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eVoice
 
@@ -18,7 +18,7 @@ In this Policy we describe the following:
   5. How users can correct any inaccuracies in the information.
   6. How we will notify you of any changes to this Policy.
   7. The Company's participation in the Safe Harbor program.
-  8. The Company's data retention practices. ** **
+  8. The Company's data retention practices. ****
 
 
 
@@ -67,7 +67,7 @@ We may store information that we collect through cookies, log files and clear gi
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information of a child under the age of 13, we will delete that information from our systems.
 
 For tips on protecting children's privacy online, please visit the FTC's Web site  
-(<http://www.ftc.gov/bcp/menus/consumer/data/child.shtm>).
+(<https://www.consumer.ftc.gov/>).
 
 
 
@@ -122,7 +122,7 @@ In the event the Company goes through a business transition, such as a merger, a
 
   2. **Choice/Opt-Out**
 
-Free users are automatically opted-in to receive Promotional Emails. Free users who upgrade their accounts or cancel their free services may still receive such Promotional Emails until they opt out by clicking on the opt-out link included in Promotional Emails. Paying users may opt-out of receiving Promotional Emails by clicking the opt-out link included in Promotional Emails. We also utilize third party advertisers to display advertisements for our Services on other web sites. If you would like more information about receiving the Company's advertisements on other Web sites, or would like to opt out of this practice, please visit [http://www.networkadvertising.org/optout_nonppii.asp.](http://www.networkadvertising.org/optout_nonppii.asp)
+Free users are automatically opted-in to receive Promotional Emails. Free users who upgrade their accounts or cancel their free services may still receive such Promotional Emails until they opt out by clicking on the opt-out link included in Promotional Emails. Paying users may opt-out of receiving Promotional Emails by clicking the opt-out link included in Promotional Emails. We also utilize third party advertisers to display advertisements for our Services on other web sites. If you would like more information about receiving the Company's advertisements on other Web sites, or would like to opt out of this practice, please visit [http://www.networkadvertising.org/choices/.](http://www.networkadvertising.org/choices/)
 
   3. **Links**
 
