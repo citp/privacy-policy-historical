@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226151052id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623180217id_/https%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fix
 
@@ -6,6 +6,8 @@
   2. Privacy Policy
 
 
+
+## Will My Insurance Pay for Rehab?
 
 Submitted by Allison Floam on Fri, 03/25/2011 - 17:04 
 
@@ -113,3 +115,156 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
 
 Email: [info@thefix.com](mailto:info@thefix.com)
+
+## Learn More About The Top Rated Rehabs In the Country
+
+[ ](https://web.archive.org/content/visions-adolescent-treatment) | 
+
+###  [Visions Adolescent Treatment](https://web.archive.org/content/visions-adolescent-treatment)
+
+  
+
+
+Visions offers top-of-the-line treatment for 13 to 18 year old addicts, with alumni that includes Elizabeth Brockovich—daughter of Erin Brockovich—who found treatment in Vision's outpatient, day school, sober living and their Launch program. 
+
+Rating: 5 stars
+
+_33335 Mulholland Highway, Malibu, CA 115 Barrington Walk, Los Angeles, CA 90049_
+
+_$40,000/30 days (45 day minimum)_  
+  
+---|---  
+[ ](https://web.archive.org/content/cliffside-malibu0005) | 
+
+###  [Cliffside Malibu](https://web.archive.org/content/cliffside-malibu0005)
+
+  
+
+
+The “beach-house-relaxed” **Cliffside Malibu** claims to provide an oasis for recovering addicts and alcoholics. And that’s just what you'll get—if you’ve got the cash. 
+
+Rating: 5 stars
+
+_Malibu, Calif._
+
+_$58,000/mo._  
+  
+[ ](https://web.archive.org/content/newport-academy0001) | 
+
+###  [Newport Academy](https://web.archive.org/content/newport-academy0001)
+
+  
+
+
+This SoCal rehab fosters a regimented but respectful recovery environment, where teens learn how to live sober through plenty of 12-step meetings and life-skills classes—not to mention "equine-assisted psychotherapy" and mixed martial arts. 
+
+Rating: 5 stars
+
+_Newport Beach, Calif._
+
+_$30,000/mo._  
+  
+[ ](https://web.archive.org/content/sunset-malibu-treatment-center) | 
+
+###  [Sunset Malibu Treatment Center](https://web.archive.org/content/sunset-malibu-treatment-center)
+
+  
+
+
+The kind of addict who comes to Sunset Malibu is frequently using drugs to cope with a deep pain; for these people, life is just too painful to deal with without the buffer of drugs or alcohol. 
+
+Rating: 5 stars
+
+_Malibu, CA_
+
+_$58,000/mo. for a semi-private room;_  
+  
+[ ](https://web.archive.org/content/aton-center-san-diego-rehab00430) | 
+
+###  [AToN Center](https://web.archive.org/content/aton-center-san-diego-rehab00430)
+
+  
+
+
+Whether you’re interested in the 12 Steps, SMART Recovery, or holistic treatments, this luxurious, appealing and commendable 4.5 star  **San Diego rehab** has a program for you. 
+
+Rating: 4.5 stars
+
+_San Diego_
+
+_$45,000/mo._  
+  
+[ ](https://web.archive.org/genesis-house) | 
+
+###  [Genesis House](https://web.archive.org/genesis-house)
+
+  
+
+
+Every Genesis alum who took our survey has remained clean and sober, with more than half of the respondents having double-digit sobriety. 
+
+Rating: 4.5 stars
+
+_Cheviot Hills, CA_
+
+_$10,000 - 15,000/mo._  
+  
+[ ](https://web.archive.org/content/access-malibu-0) | 
+
+###  [Access Malibu](https://web.archive.org/content/access-malibu-0)
+
+  
+
+
+Access Malibu offers five-star treatment and luxury amenities at a more accessible price. 
+
+Rating: 4.5 stars
+
+_Malibu, CA_
+
+_$25,000 to $34,000 per/month._  
+  
+[ ](https://web.archive.org/content/discovery-place) | 
+
+###  [Discovery Place](https://web.archive.org/content/discovery-place)
+
+  
+
+
+This 12-step based non-profit Tennessee facility for men offers meetings, groups, camaraderie, and boasts an impressive success rate. 
+
+Rating: 4.5 stars
+
+_Burns, TN_
+
+_30-day program: $6500; LTR Program / Extended Care: $5500 (monthly); step-down program (outpatient): $1500_  
+  
+[ ](https://web.archive.org/content/northwest-counseling-wellness-center) | 
+
+###  [Northwest Counseling & Wellness Center](https://web.archive.org/content/northwest-counseling-wellness-center)
+
+  
+
+
+This Austin, Texas rehab provides substance abuse and mental health services as an outpatient programs. It is universally beloved by its clients and alumni for the therapy provided to the individual and the support freely given by a caring staff. 
+
+Rating: 4.5 stars
+
+_Austin, TX_
+
+_$190/day_  
+  
+[ ](https://web.archive.org/content/authentic-recovery-center-arc) | 
+
+###  [Authentic Recovery Center (ARC)](https://web.archive.org/content/authentic-recovery-center-arc)
+
+  
+
+
+Traffic fumes aside, Authentic Recovery Center is a haven for addicts seeking individualized care. 
+
+Rating: 4.5 stars
+
+_Los Angeles_
+
+_$28,500_
