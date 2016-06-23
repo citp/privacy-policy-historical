@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videologygroup.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051127id_/http%3A//videologygroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videologygroup.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623223659id_/http%3A//videologygroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Videology : video advertising platform
 
@@ -8,7 +8,7 @@ Through use of the Videology® services in the U.S. and in the United Kingdom (o
 
 Videology is a member of the Network Advertising Initiative (NAI). Our practices conform with the [NAI’s Self-Regulatory Code](http://www.networkadvertising.org/code-enforcement)
 
-Videology conforms to [Interactive Advertising Bureau's (IAB) Cross-Industry Privacy Guidelines for Interactive Advertising](http://www.iab.net/media/file/ven-principles-07-01-09.pdf). 
+Videology conforms to the [Digital Advertising Alliance (DAA) Self-Regulatory Principals for Online Behavioral Advertising.](http://www.iab.net/media/file/ven-principles-07-01-09.pdf)
 
 Videology Ltd. (Videology's UK subsidiary) is committed to the [IAB Europe Framework for Online Behavioural Advertising](http://www.iabeurope.eu/files/5013/8487/2916/2013-11-11_IAB_Europe_OBA_Framework.pdf). 
 
@@ -55,9 +55,11 @@ Videology will not rent, sell or share information about you with other people o
 
 
 
-###  Third Party Service Providers 
+###  Third Party Service Providers & Social Media Plugins 
 
 Videology and its advertisers may use third party digital advertising and media companies, service providers and technology providers to help present advertisements to you via the Services. These third party providers may also use cookies, web beacons, or similar technologies on your device to collect click-stream data. The use of cookies, web beacons, or similar technologies by such third-party providers is subject to their own privacy policies, not Videology's. Please contact them directly for information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/), the [Digital Advertising Alliance](http://www.aboutads.info/), and the [IAB's YourOnlineChoices](http://www.youronlinechoices.com/) each offer useful information about third party digital advertising and media companies, including information about how to opt-out of their information collection. 
+
+Our website may include plugins from social networks or other third parties. An example of a plugin is the link to Videology’s Twitter feed or LinkedIn page. These plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the web page you are visiting on our site. Loading, using or clicking the plugins may also place, read and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns to you for use in associating non-personally identifiable information collected about your browser, so they can deliver interest-based advertising to you. The loading, functionality and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin. To learn more about interest-based advertising, please visit the Digital Advertising Alliance’s consumer opt-out page where you can opt-out of the DAA’s participating companies <http://www.aboutads.info/choices/>. 
 
 ###  Access To and Choices About Your Information – Opting Out and Reviewing Your Ad Preferences 
 
@@ -116,4 +118,4 @@ Baltimore, MD 21230
 
 Videology may update this Privacy Policy from time to time, and so you should review this policy periodically. If there are significant changes to Videology’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Services, as well as for special features and services not described in this Policy that may be introduced in the future. 
 
-Last Updated: May 26, 2015 
+Last Updated: Dec 21, 2015 
