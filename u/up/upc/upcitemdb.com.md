@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207002007id_/http%3A//www.upcitemdb.com/term.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624163224id_/http%3A//www.upcitemdb.com/terms) for the most accurate reproduction.*
 
-# Term & Privacy Policy
+# Term & Privacy Policy - UPCitemdb
 
 The policies below are applicable to upcitemdb.com only. 
 
 **Aggregate Information**
 
-Upcitemdb respects each individual user's right to privacy. Upcitemdb does not collect any personal identifying information. 
+UPCitemdb respects each individual user's right to privacy. UPCitemdb does not collect any personal identifying information. 
 
 **Cookies**
 
-Non-personal information and data may be automatically collected through the standard operation of upcitemdb's Internet servers (i.e. log file information like IP address) or through the use of "cookies." Cookies are small text files that our site places on your computer's hard drive to recognize repeat users and facilitate the user's use of the site. Also, our cookies allow a site to track usage behavior and compile aggregate data for content improvement, targeted advertising, and marketing and promotional purposes. Some of our business partners use cookies on our site (for example, advertisers). Users should be aware that upcitemdb cannot control the use of cookies or the resulting information by advertisers or other third parties. Most browsers allow a user to deny cookies; however, users should note that cookies may be required to provide certain web site features. 
+Non-personal information and data may be automatically collected through the standard operation of UPCitemdb's Internet servers (i.e. log file information like IP address) or through the use of "cookies." Cookies are small text files that our site places on your computer's hard drive to recognize repeat users and facilitate the user's use of the site. Also, our cookies allow a site to track usage behavior and compile aggregate data for content improvement, targeted advertising, and marketing and promotional purposes. Some of our business partners use cookies on our site (for example, advertisers). Users should be aware that UPCitemdb cannot control the use of cookies or the resulting information by advertisers or other third parties. Most browsers allow a user to deny cookies; however, users should note that cookies may be required to provide certain web site features. 
 
 **Third Party Advertising**
 
@@ -26,4 +26,4 @@ UPCITEMDB.com uses [VigLink](http://viglink.com/?vgref=1715237) to monetize some
 
 By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law. 
 
-Upcitemdb reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+UPCitemdb reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
