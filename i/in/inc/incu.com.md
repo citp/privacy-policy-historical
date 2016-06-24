@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incu.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106143519id_/http%3A//www.incu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incu.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624041133id_/https%3A//www.incu.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Incu | Privacy Policy
 
 We are committed to protecting your privacy and understand that your privacy is important. We ensure that any information you provide is collected and held in accordance with relevant Australian privacy laws. 
 
