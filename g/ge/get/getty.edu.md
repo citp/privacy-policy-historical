@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227182643id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624022838id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Getty
 
@@ -71,18 +71,6 @@ Please note that information you submit to the TeacherArtExchange listserv is no
 
 You can [unsubscribe](https://web.archive.org/education/teacherartexchange/unsubscribe.html) from TeacherArtExchange at any time.
 
-**Online Purchases, Getty Villa Ticket Bookings, and Catalog Requests**  
-If you make an online purchase, request a catalogue, and/or book Getty Villa tickets, we may also collect your e-mail address and/or your mailing address to contact you with Getty program updates, the e-Getty newsletter, and/or for marketing purposes. We may share the mailing addresses we collect with other reputable publishers to help them contact consumers for marketing purposes.
-
-If you do not want to receive e-mail from Getty Publications in the future, or do not want us to share your mailing address with other publishers, please let us know by e-mailing us at [pubsinfo@getty.edu](mailto:pubsinfo@getty.edu) or by sending a letter to:
-
-Getty Publications  
-The J. Paul Getty Trust  
-1200 Getty Center Drive, Suite 500  
-Los Angeles CA 90049-1682
-
-Please provide your exact name and address and tell us if you want your name removed from our mailing list, the list we may share with other companies, or both.
-
 **Cookies and Pixel Tags**  
 A cookie is a piece of data we store on your computer's hard drive. This data contains information about you that we use to help make your visit to the Getty website easier. For example, one cookie we may store can remember what kind of video capability you have selected, so that you do not have to choose a bandwidth every time you watch a video. In addition, we have authorized various reputable companies to help us track cookies so that we can analyze how people are using the Getty website in order to continually offer the best possible experience for our visitors. Pixel tags are small pieces of code that may place cookies or provide non personally-identifiable information such as IP address, time of website visit, or browser used.
 
@@ -95,7 +83,7 @@ You do not have to accept any Getty cookies to enjoy and use the Getty website; 
 Your iOS or Android device may provide a "Limit Ad Tracking" or "Opt out of interest-based advertising" setting that you can enable if you would like to limit ad tracking from pixel tags on mobile devices.
 
 **Third-Party Service Providers**  
-The Getty engages reputable third-party vendors in order to help us manage the Getty website and mobile applications, process transactions, better respond to the needs of our visitors, and enhance our marketing efforts. This includes third-party marketing partners who serve advertisements across the Internet and sometimes on the Getty website and mobile applications on the Museum's behalf. They may use information about your visits to the Getty website and mobile applications and other sites to personalize advertisements. 
+The Getty engages reputable third-party vendors in order to help us manage the Getty website and mobile applications, process transactions, better respond to the needs of our visitors, and enhance our marketing efforts. This includes third-party e-commerce service providers who collect personal information necessary to process transactions, and may use the collected information to improve the services they provide. It also includes third-party marketing partners who serve advertisements across the Internet and sometimes on the Getty website and mobile applications on the Museum's behalf. These marketing partners may use information about your visits to the Getty website and mobile applications and other sites to personalize advertisements.
 
 **Links to Other Web Sites**  
 This Web site contains links to other sites that are not owned or controlled by the Getty. We are not responsible for the content or privacy practices of other sites. This privacy statement applies only to this Web site.
