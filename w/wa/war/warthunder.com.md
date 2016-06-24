@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226123800id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624163002id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
 
 # War Thunder - Next-Gen MMO Combat Game for PC, Mac, Linux and PlayStation®4 | Play for free now! - Privacy Policy
 
 ## Gaijin Online
 
-PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES.  ALSO NOTE THAT BY CONTINUING TO USE GAIJIN’S WEBSITE AND/OR RELATED SERVICES (As such term defined in the Terms of Services <http://online.gaijinent.com/terms.php>) YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Gaijin’s websites, Services provided therein and related products, is subject to this privacy statement (“ _Privacy Policy_ ”) and Gaijin’s Terms of Services located at: <http://online.gaijinent.com/terms.php>.
+PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES.  ALSO NOTE THAT BY CONTINUING TO USE GAIJIN’S WEBSITE AND/OR RELATED SERVICES (As such term defined in the Terms of Services [http://warthunder.com/en/support/termsofuse/​](http://warthunder.com/en/support/termsofuse/)) YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Gaijin’s websites, Services provided therein and related products, is subject to this privacy statement (“ _Privacy Policy_ ”) and Gaijin’s Terms of Services located at: [http://warthunder.com/en/support/termsofuse/​](http://warthunder.com/en/support/termsofuse/).
 
 Gaijin has a strong commitment to providing superior service to all of our Website customers and visitors, and particularly Gaijin respects your concerns about your privacy.  When you use our Website and our products and Services, we may gather certain personal and other information from you.  We have created this Privacy Policy to inform you of the type of information we gather, what we do with that information, and the circumstances under which we may disclose your information.  We ask that you please read this Privacy Policy carefully prior to using our Website or our products and Services.
 
@@ -68,7 +68,7 @@ If you wish to deactivate your personal account, you can contact us at [legals@g
 
 ### Information Relating to Children
 
-Our Website and any products or Services available on our Website are **not** directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and Services. Parents and Legal Guardians may request for us to review, delete, or stop the collection of their child’s personally identifiable information by contacting us [atlegals@gaijinent.com](mailto:atlegals@gaijinent.com).  For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>.
+Our Website and any products or Services available on our Website are **not** directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter or purchase products and Services. Parents and Legal Guardians may request for us to review, delete, or stop the collection of their child’s personally identifiable information by contacting us at [legals@gaijinent.com](mailto:legals@gaijinent.com).  For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>.
 
 ### Securing the Transmission and Storage of Information
 
