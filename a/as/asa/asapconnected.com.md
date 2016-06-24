@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asapconnected.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209063012id_/http%3A//www.asapconnected.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asapconnected.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624100913id_/http%3A//www.asapconnected.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — ASAP Registration + Management Software
 
