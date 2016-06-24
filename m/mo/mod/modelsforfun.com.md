@@ -1,47 +1,49 @@
-> *The following text is extracted and transformed from the modelsforfun.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230113019id_/http%3A//www.redclouds.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelsforfun.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624131955id_/http%3A//www.voyeurweb.com/page/privacy-policy) for the most accurate reproduction.*
 
-# RedClouds - Privacy Policy
+# VoyeurWeb - Privacy Policy
 
-This document details important information regarding the use and disclosure of User Data collected on HomeClips.com   
-The security of your Data is very important to us, and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.   
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. We are committed to protecting your privacy. We use the information we collect about you and your payment method to process transactions only. Private account and address information is necessary to verify that you are the person making the purchase and to thwart potential fraud. All information gathered in the course of a transaction is transmitted securely and is protected by our database throughout the transaction process. By visiting our website or otherwise interacting with network, you agreed to accept the practices described in this Privacy Statement. 
+This document details important information regarding the use and disclosure of User Data collected on Voyeurweb.com   
+The security of your Data is very important to Voyeurweb.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.   
+This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.   
 
-WE WILL NEVER PROVIDE YOUR INFORMATION TO ANOTHER PARTY AND WE WILL NEVER SOLICIT YOU. 
 
-Please read on for more details about our privacy statement.
+## Data Collected
 
-## 1\. What information do we collect? How do we use it?
+### Personal Information:
 
-When you register, we need to know your name, e-mail address, Internet Protocol ("IP") address, mailing address, phone number and payment information. This allows us to safely process and fulfill your purchase process, as well as to notify you of your delivery status. We log the IP address for address verification purposes. However, the "IP" address is never used for any other purpose than to process your purchase. 
+Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.   
+Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.   
+Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.   
+Cookies: When you visit Voyeurweb.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Voyeurweb.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.   
+Log File Information: When you visit Voyeurweb.com, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.   
+Emails: If you contact us, we may keep a record of that correspondence.   
 
-WE ONLY USE THE INFORMATION TO PROCESS, CONFIRM AND NOTIFY YOU OF THE SPECIFIC PURCHASE YOU ARE MAKING.
 
-## 2\. How does Social Media Inc protect customer information?
+## Uses
 
-When you purchase a product with us, we use an internal secure network. This network encrypts all information between the servers of Social Media Inc. Furthermore, all of the customer data we collect is protected against unauthorized access.
+Your Personally identifiable information submitted to Voyeurweb.com is used to provide to the user the website's features and special personalized features.   
+Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Voyeurweb.com private mail, etc. Other Users can contact you through, private messages.   
+Any videos that you submit to Voyeurweb.com may be redistributed through the internet and other media channels, and may be viewed by the general public.   
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.   
+We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).   
+OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."   
+OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.   
+We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Voyeurweb.com user-experience.   
 
-## 3\. What about "cookies"?
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as linking and reselling. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Sometimes at Social Media Inc we do use cookies during the purchase process, to have your own PC remember what kind of information was entered. We collect this information to better develop a sense of what services our customers need and not to track your individual usage patterns.
+## Disclosure of Information
 
-## 4\. Correct/Update of Information
+if under duty to do so Voyeurweb.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of PornHub.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Voyeurweb.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.   
+Should you deliberately upload any illegal material Voyeurweb.com shall forward all available information to all relevant authorities and this without notice.   
+\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.   
 
-You may access, correct and update your personal information by contacting us.
 
-## 5\. Disclosure to Third Parties
+## Security
 
-Social Media Inc does not sell, disclose or provide personal information to third parties. 
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
 
-WE NEVER PROVIDE PERSONAL CREDIT CARD, DEBIT CARD OR BANKING INFORMATION.
+Unfortunately, the transmission of information via the Internet is not completely secure. Voyeurweb.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Voyeurweb.com and you do so at your own risk. 
 
-## 6\. How will Social Media Inc correspond with me?
+## Your Rights
 
-Social Media Inc will notify consumers via email that their purchase is completed. From time to time we may use your personal information to contact you by email concerning your use of our services. These communications are intended to inform you of important information regarding your account or about general services provided by us. Only in rare circumstances will Social Media Inc contact consumers via telephone to confirm purchase or resolve disputes.
-
-## 7\. Will Social Media Inc notify me to changes in the way it uses Personally Identifiable Information?
-
-Should Social Media Inc make material changes to our Privacy Statement and method in which we handle your Personally Identifiable Information, we will notify you via email. Should you wish to cancel your account or affiliation, you will be able to do so by responding to Social Media Inc. If you have any concern about privacy at Social Media Inc, please contact us and we will attempt to assist you. Because our business and the online business is fluid and changes constantly, this Privacy Statement may change as well. You are advised to check our website to keep apprised of any recent changes. 
-
-WE WILL NOT INCLUDE PERSONALLY IDENTIFYING INFORMATION. 
-
-Social Media Inc may release account information when we believe, in good faith, that such release is reasonably necessary to (i) enforce or apply the terms of any of our user agreements; (ii) protect the rights, property or safety of Social Media Inc, our users, or others or (iii) comply with any legal requirement to disclose such information to any local, state, federal, national or international governmental enforcement authorities. Although we are committed to the strongest possible protection of your privacy, certain other websites may not be. Therefore, we shall not be responsible for the content or privacy policies of other websites such as those of advertisers to which it may link. Our Privacy Statement is only applicable to the information we collect on the Social Media Inc website. You should review the privacy policy of every online service you use before submitting personal or otherwise private inform ation. In summary, we are committed to protecting your privacy. We do not sell, trade, or rent your personal information to others. By using our Web site, you consent to the collection and use of this information by Social Media Inc. If we decide to change our privacy statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at [webmaster@voyeurweb.com](mailto:webmaster@voyeurweb.com). 
