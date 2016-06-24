@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117080302id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624203324id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
 
 # Sweepstakes Advantage is committed to respecting and protecting your personal privacy
 
