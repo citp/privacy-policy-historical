@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calvin.edu privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218094435id_/http%3A//www.calvin.edu/directory/policies/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calvin.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624064120id_/http%3A//www.calvin.edu/directory/policies/web-privacy-statement) for the most accurate reproduction.*
 
-# Web Privacy Statement - Policies - Policies - Directory - Calvin College
+# Web Privacy Statement - Policies | Calvin College
 
 At Calvin College, we strive to respect the privacy of our website visitors because your privacy is important to us. This privacy statement describes what information we collect and how that information is protected and used. 
 
