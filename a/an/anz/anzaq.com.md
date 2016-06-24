@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anzaq.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011175235id_/http%3A//anzaq.com/p/if-you-require-any-more-information-or.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anzaq.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624180511id_/http%3A//anzaq.com/p/if-you-require-any-more-information-or.html) for the most accurate reproduction.*
 
-# Privacy Policy | ALL YOU NEED
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://anzaq1.blogspot.com/p/foxyform.html) by email at **11014119-063@uog.edu.pk**  
   
