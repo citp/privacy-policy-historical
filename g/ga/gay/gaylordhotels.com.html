@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gaylordhotels.com privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230044713id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gaylordhotels.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624140945id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" style="" class=" js no-touch geolocation history rgba backgroundsize boxshadow textshadow opacity cssgradients fontface video localstorage sessionstorage applicationcache svg inlinesvg svgclippaths"><head> <script type="text/javascript" async="" src="https://nexus.ensighten.com/marriott/prod/Bootstrap.js"></script><script type="text/javascript" src="/tsedge_instr-min.js"> </script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head> <script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-d0156d0b/p/marriott.com/439596/g"></script><script type="text/javascript" async="" src="https://nexus.ensighten.com/marriott/prod/Bootstrap.js"></script><script type="text/javascript" src="/tsedge_instr-min.js"> </script>
 		
 		
 
@@ -125,8 +125,8 @@
 	
 	
 
-	<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='45EB255E225CCE40FD0901D356EA4B4B';JAWR.app_context_path='';</script>
-<link rel="stylesheet" type="text/css" media="all" href="/miCSSPath/N355655894/bundles/foundation_all.css">
+	<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='ABDB6E8DA469D05AF06AD1C515878560';JAWR.app_context_path='';</script>
+<link rel="stylesheet" type="text/css" media="all" href="/miCSSPath/N988383513/bundles/foundation_all.css">
 
 
 
@@ -142,10 +142,13 @@
 
 
 
-	<link rel="stylesheet" type="text/css" media="all" href="/miCSSPath/N1291384807/common/css/rcss/components/anita.css">
+	<link rel="stylesheet" type="text/css" media="all" href="/miCSSPath/169827347/common/css/rcss/components/anita.css">
 
 		
 
+
+
+	<link rel="stylesheet" type="text/css" media="all" href="/miCSSPath/872086588/common/css/rcss/gSearchBoxLayout.css">
 
 		
 
@@ -176,12 +179,12 @@
    
 
 
-<link rel="stylesheet" type="text/css" media="print" href="/miCSSPath/N95031326/common/css/base/print/marriottPrint.css">
+<link rel="stylesheet" type="text/css" media="print" href="/miCSSPath/945172325/common/css/base/print/marriottPrint.css">
 
 
 
 <!--[if lte IE 9]>
-<link rel="stylesheet" type="text/css" media="screen" href="/miCSSPath/1702462765/common/css/rcss/base/IEOverride.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/miCSSPath/1962074040/common/css/rcss/base/IEOverride.css" />
 
 <![endif]-->
 		
@@ -193,20 +196,35 @@
 
 
 
+</head><body data-imgpath="http://cache.marriott.com" id="" class="page-grid-b
+		
+		
+			
+				
+					l-anita
+				
+			
+		
+		
+		
+			 l-responsive" data-responsive="true"><input id="akamaiCountryCode" type="hidden" value="US">
+
+
 
 <!--[if gt IE 9]><!-->
 <script type="text/javascript" src="/common/js/webFontPreloader.js" async=""></script>
 <!--<![endif]-->
 
 
-<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='2DAE3C710D779DA5DFCA068F99360CD8';JAWR.app_context_path='';</script>
-<script type="text/javascript" src="/miJSPath/1742414831/common/js/libs/modernzr/modernzr.js"></script>
+
+<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='2FBDDFE63E029D976F5C76D5AB84FA2A';JAWR.app_context_path='';</script>
+<script type="text/javascript" src="/miJSPath/N1021449670/common/js/libs/modernzr/modernzr.js"></script>
 
 
 
 
 <!--[if gt IE 7]><!-->
-	<script type="text/javascript" src="/miJSPath/74580420/common/js/libs/picturefill/picturefill.min.js"></script>
+	<script type="text/javascript" src="/miJSPath/469854537/common/js/libs/picturefill/picturefill.min.js"></script>
 
 <!--<![endif]-->
 
@@ -226,59 +244,65 @@ var webfontloads = true;
 
 
 	
-<script> 
+<script>
 var averageDailyRateUSD = '';
 var resTotalUSD = '';
 var lengthOfStay = '';
 /* Average daily rate */
 if (resTotalUSD != '' && lengthOfStay != ''){
-	averageDailyRateUSD = resTotalUSD / lengthOfStay;
+	averageDailyRateUSD = (resTotalUSD / lengthOfStay).toFixed(2);
 }
+
+/*
+ * Determine the current breakpoint and orientation of the window.
+ * Portrait, Landscape or Square
+ */
+	
+	var viewportWidth  = screen.width
+	,viewportHeight = screen.height
+	,viewportDiff = viewportWidth - viewportHeight
+	,viewportOrientation = "Square"
+	,viewportBreakPoint = "1024";
+	
+	if(typeof MI !== "undefined" && typeof MI.breakpoints !== "undefined" && typeof MI.breakpoints.getBreakpoint === "function") {
+	var currentVp = MI.breakpoints.getBreakpoint("screen");
+	if(currentVp != "" && currentVp != null) { viewportBreakPoint = currentVp; }
+}
+
+if(viewportDiff > 0) { viewportOrientation = "Landscape"; }
+else if(viewportDiff < 0) { viewportOrientation = "Portrait"; }
+
+
+if (viewportBreakPoint != '' && viewportOrientation != ''){
+	pageBreakpointOrientation = "Page Loaded on " + viewportBreakPoint + "w: " + viewportOrientation;
+	  
+}	
+	
+	//PersonalizationCookie non member control group
+var pers_cookie = '';
+var nonMemberCtrlGrp_grpNum = '';
+if(pers_cookie != '' && pers_cookie.length > 0){
+      pers_cookie = $.parseJSON(pers_cookie);
+      if(pers_cookie && $.isNumeric(pers_cookie.groupNumber)){
+            nonMemberCtrlGrp_grpNum = pers_cookie.groupNumber;
+      }
+}
+	
 var dataLayer = {
 	
-		"numRooms": "1",
+		"srchBrands": "all|",
 	
-		"numGuestsPerRoom": "1",
-	
-		"geoCodeLatLong": "39.950231,-86.262161",
-	
-		"srchType": "MiniStores",
-	
-		"isRewardRedemption": "false",
-	
-		"srchDest": "Zionsville,IN,US",
-	
-		"srchBrands": "CY|",
-	
-    	"currSortOrder": "Distance",
-	
-    	"isDefaultSort": "true",
-	
-    	"currentPage": "1",
-	
-    	"numberOfPages": "1",
-	
-    	"numberOfRecords": "11",
-	
-    	"recordsPerPage": "20",
-	
-    	"startEndIndex": "0*19",
-	
-		"searchState": "IN",
-	
-		"ctrlgrp": "22",
+		"ctrlgrp": "27",
 	
 		"isProd": "true",
 	
 		"domainName": "Marriott.com",
 	
-		"buildVers": "15.12.11",       
-	"ctrl_ad_exclude":"false","ctrl_exp_exclude":"false","ctrl_pers_exclude":"false","ctrl_exp_validation":"true",
-		"ctrl_exp_baseline": "22",
+		"buildVers": "16.06.28 (release/16.06) Release-Build-308",
+	"ctrl_ad_exclude":"false","ctrl_exp_exclude":"false","ctrl_pers_exclude":"false","ctrl_exp_validation":"false",
+		"ctrl_exp_baseline": "27",
 	
 		"device_ip_address": "204.236.235.245",
-	
-		"device_language_preferred": "en_US",
 	
 		"page_domain_name": "www.marriott.com",
 	
@@ -286,28 +310,35 @@ var dataLayer = {
 	
 		"page_url_path_branch": "/about/privacy",
 	
-		"res_rooms_per_night": "1",
-	
 		"roomkey_api_key": "a9bc92520c8acea6eadbc930b2ce2874",
 	
 		"roomkey_api_version": "1.5.1",
 	
-		"search_destination_city": "Zionsville",
+		"device_user_guid": "c228e8af-e66b-41ac-bc16-804985972388",
 	
-		"search_destination_state": "IN",
+		"env_tool_ensighten_bluekai": "c228e8af-e66b-41ac-bc16-804985972388",
 	
-		"search_destination_country": "US",
-	
-		"search_guests_per_room": "1",
-	
-		"device_user_guid": "fe0d6466-989a-4f95-b635-9fca07280c00",
-	
-		"env_tool_ensighten_bluekai": "fe0d6466-989a-4f95-b635-9fca07280c00",
+    	"prof_state": "notAuthenticatedOrRemembered",
+   	
+		"page_breakpt_orientation": pageBreakpointOrientation,
 	
 	    "brwsrLang": "en_US"
     
-	}; 
-</script>	
+	};
+		
+	
+		var datalayerString = 'mr_prof_id_alternate,mr_prof_id_unique,mr_prof_rewards_level,mr_prof_points_balance,mr_prof_address_city,mr_prof_address_state_abbr,mr_prof_address_country_abbr,mr_prof_interests_activity,mr_prof_earning_pref,mr_prof_preferred_program,mr_prof_cc_us_business,mr_prof_cc_us_signature,mr_prof_cc_us_premier,mr_prof_cc_uk_platinum,mr_prof_cc_ca_platinum,mr_prof_cc_us_rcr,mr_prof_cc_ca_premier,mr_cei_SttValSeg,mr_cei_SttBhvSeg,prop_marsha_code,prop_brand_code,prop_name,prop_address_city_state_country,search_list_marsha,search_date_check_in,search_date_check_out,search_cluster_code,search_advance_purchase_days,res_rate_program,res_stay_length,res_payment_type,res_revenue_total_usd,res_room_nights_total,res_confirmation_number,res_revenue_adr_rate_usd,res_rate_lowest_standard,res_cancellation_number,res_rooms_per_night,res_market_code,res_guest_address_postal_code,res_guest_address_country_abbr,group_event_type,group_contract_type,group_rooms_max_num,group_opportuntity_id,env_site_id';
+		var datalayerArr = datalayerString.split(',')
+	            ,DMPdata = {};
+		for(var i = 0; i < datalayerArr.length; i++){
+		      var keyName = datalayerArr[i];
+		      if (typeof(dataLayer[keyName]) != 'undefined') 
+		      {
+		      	DMPdata[keyName] = dataLayer[keyName];
+		      }
+		}
+	
+</script>
 
 	
 
@@ -405,7 +436,43 @@ var dataLayer = {
 
 
 
+
+
+ 
+
+
+
+
+
 	
+		
+		
+			
+			     <script type="text/javascript">
+					var monetateT = new Date().getTime();
+					(function() {
+					    var p = document.location.protocol;
+					    if (p == "http:" || p == "https:") {
+					        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-d0156d0b/p/marriott.com/" + Math.floor((monetateT + 2665099) / 3600000) + "/g";
+					        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+					    }
+					})();
+				 </script>
+			
+		
+			
+		
+	
+	
+
+
+
+
+
+
+
+
+
 
 
 
@@ -419,14 +486,6 @@ var dataLayer = {
 
 
 	
-                  <iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript">
-                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,a){AKSB.q.push(["mark",c,a||(new Date).getTime()])};AKSB.measure=function(c,a,b){AKSB.q.push(["measure",c,a,b||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());
-                    AKSB.prof={custid:"34308",ustr:"",originlat:0,clientrtt:1,ghostip:"96.6.47.96",ipv6:false,pct:10,xhrtest:false,clientip:"204.236.235.245",requestid:"7d46fc7",protocol:"",blver:2,akM:"b",akN:"ae",akTT:"O",akTX:"1",
-                    akTI:"7d46fc7"};
-                    (function(c){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var b=document.getElementsByTagName("script"),b=b[b.length-1];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;b=String.fromCharCode;c=b(60)+"body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+c+"';document.body.appendChild(js);\""+b(62);a.open().write(c);a.close()})(("https:"===document.location.protocol?
-                    "https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
-                  </script>
-                  </head>
 
 	
 	
@@ -465,18 +524,7 @@ var dataLayer = {
 	
 
 	
-	<body data-imgpath="http://cache.marriott.com" id="" class="page-grid-b
-		
-		
-			
-				
-					l-anita
-				
-			
-		
-		
-		
-			 l-responsive" data-responsive="true">
+	
 
 		
 
@@ -638,27 +686,42 @@ var webfontloads = true;
 
 
 
-<!-- TIMESTAMP="Tue Dec 29 23:47:13 EST 2015" JVMID="pEbizMdcom8R133_prd4" -->
-
-
-
-
-	
-	
-		
-	
-		
-	
+<!-- TIMESTAMP="Fri Jun 24 10:09:44 EDT 2016" JVMID="pEbizMdcom8A151_prd5" -->
 
 
 
 
 
+
+
+ 
 
 	
 	
 	
 	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 	
@@ -1271,7 +1334,7 @@ var webfontloads = true;
 										
 											
 											
-												<a href="/rewards/earn-points.mi" title="" class="t-primary-nav-link analytics-click" data-analytics="{&quot;sendNow&quot;:&quot;true&quot;}" target="_new">
+												<a href="/marriott-rewards/earn.mi" title="" class="t-primary-nav-link analytics-click" data-analytics="{&quot;sendNow&quot;:&quot;true&quot;}" target="_new">
 														<span class="t-menu-label">Earn Points</span>
 												</a>
 											
@@ -1290,7 +1353,7 @@ var webfontloads = true;
 										
 											
 											
-												<a href="/rewards/use-points.mi" title="" class="t-primary-nav-link analytics-click" data-analytics="{&quot;sendNow&quot;:&quot;true&quot;}" target="_new">
+												<a href="/marriott-rewards/use.mi" title="" class="t-primary-nav-link analytics-click" data-analytics="{&quot;sendNow&quot;:&quot;true&quot;}" target="_new">
 														<span class="t-menu-label">Use Points</span>
 												</a>
 											
@@ -1924,7 +1987,103 @@ var webfontloads = true;
 	</div>
 
 
+				
+					
+					
+						
+
+
+
+
+
+
+
 	
+
+	
+	
+
+	
+		
+	
+	
+		
+		
+			<p class="m-logo l-float-left">
+				<a href="/default.mi" class="l-main-logo l-float-left analytics-click">
+					<img src="http://cache.marriott.com/Images/DigitalFoundations/Header/logo-marriott-markonleft-2x.png" alt="Marriott Logo">
+				</a>
+				
+				
+				
+
+				<a href="/marriott/internationalmodal.mi" class="t-logo-lang-link l-float-left mi-popover analytics-click" data-analytics="{&quot;description&quot;:&quot;Logo Change Language&quot;}">
+					
+					
+						
+							
+						
+						
+						
+					
+
+					
+						
+					
+
+					
+					
+
+					
+					<span class="t-link-text">English–US &amp; Canada </span>
+					<span class="t-country-label-icon">
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	
+		
+		
+
+		
+		
+		
+
+		
+		
+			
+		
+		
+
+
+		
+		
+			
+		
+	
+
+
+<img src="/Images/DigitalFoundations/Header/countryflags.png" alt="" class="t-flag-icon t-double-flag">
+</span>
+				</a>
+			</p>
+		
+	
+
+					
+				
 				
 
 
@@ -2161,7 +2320,7 @@ var webfontloads = true;
 			
 			<input type="hidden" name="poiName" value="" class="search-poiname">
 			<input type="hidden" name="poiCity" value="" class="search-citydisplay">
-			<input type="hidden" name="recordsPerPage" value="20">
+			<input type="hidden" name="recordsPerPage" value="">
 			<input type="hidden" id="single-search-date-format" value="mm/dd/yy">
 			<input type="hidden" name="vsMarriottBrands">
 			
@@ -2193,6 +2352,7 @@ var webfontloads = true;
 				
 				
 				
+				
 					
 
 
@@ -2205,7 +2365,7 @@ var webfontloads = true;
 <div class="inline-elements single-search-fields">
 	
 	<input type="hidden" id="single-search-type" value="">
-	<input type="hidden" id="single-search-autosuggest" class="single-search-autosuggest" name="singleSearchAutoSuggest" value="false">
+	<input type="hidden" id="single-search-autosuggest" class="single-search-autosuggest" name="singleSearchAutoSuggest" value="">
 	
 	
 	
@@ -2215,8 +2375,8 @@ var webfontloads = true;
 	<input type="hidden" id="single-search-room-count-label" value="">
 	<input type="hidden" id="single-search-guest-count-label" value="">
 
-	<input type="hidden" name="destinationAddress.latitude" value="39.950231" class="search-lat">
-	<input type="hidden" name="destinationAddress.longitude" value="-86.262161" class="search-long">
+	<input type="hidden" name="destinationAddress.latitude" value="" class="search-lat">
+	<input type="hidden" name="destinationAddress.longitude" value="" class="search-long">
 	<input type="hidden" name="destinationAddress.cityPopulation" value="0.0" class="city-pop">
 	<input type="hidden" name="destinationAddress.cityPopulationDensity" value="0.0" class="city-pop-density">
 
@@ -2226,9 +2386,9 @@ var webfontloads = true;
 	<input type="hidden" class="search-countryRegion" value="">
 	<input type="hidden" class="search-locality" value="">
 	<input type="hidden" name="singleSearch" value="true">
-	<input type="hidden" name="destinationAddress.city" id="hotel-city-airport" class="search-city" value="Zionsville">
-	<input type="hidden" name="destinationAddress.stateProvince" id="destinationAddress.stateProvince" class="search-state" value="IN">
-	<input type="hidden" name="destinationAddress.country" id="destinationAddress.country" class="search-country" value="US">
+	<input type="hidden" name="destinationAddress.city" id="hotel-city-airport" class="search-city" value="">
+	<input type="hidden" name="destinationAddress.stateProvince" id="destinationAddress.stateProvince" class="search-state" value="">
+	<input type="hidden" name="destinationAddress.country" id="destinationAddress.country" class="search-country" value="">
 	<input type="hidden" name="airportCode" class="search-airport" value="">
 	<input type="hidden" name="for-hotels-nearme" class="for-hotels-nearme" value="Near">
 	<input type="hidden" name="is-hotelsnerame-clicked" class="is-hotelsnearme-clicked" value="false">
@@ -2243,19 +2403,23 @@ var webfontloads = true;
 		
 	
 	
-	<p class="single-search-location-title">
-		<label for="global-header-search-location" class="">
-			
-			Location
-		</label>
-	</p>
+	
+					
+			<label for="global-header-search-location" class=" single-search-location-title">
+				
+				Location
+			</label>	
+		
+		
+	
+	
 	
 		
 		
-		<div id="single-search-destination"><input id="global-header-search-location" type="text" name="destinationAddress.destination" value="Zionsville, IN, USA" maxlength="100" class=" single-search single-search-destination js-search-location js-recent-search"></div>
+		<div id="single-search-destination"><input id="global-header-search-location" type="text" name="destinationAddress.destination" value="" maxlength="100" class=" single-search single-search-destination js-search-location js-recent-search"></div>
 	
 	
-		<div id="single-search-location"><input type="text" name="destinationAddress.location" maxlength="100" value="" id="global-header-single-location" class=" single-search single-search-location"></div>
+		<div id="single-search-location"><label for="global-header-single-location" class="is-hidden-label">Location</label><input type="text" name="destinationAddress.location" maxlength="200" value="" id="global-header-single-location" class=" single-search single-search-location"></div>
 	
 	
 	
@@ -2302,7 +2466,7 @@ var webfontloads = true;
 						<label for="global-header-hotel-fromDate">
 							Check-in
 						</label>
-						<input name="fromDate" type="text" id="global-header-hotel-fromDate" maxlength="10" data-min="12/29/2015" data-max="12/18/2016" data-value="" value="" class="l-margin-bottom l-width-max js-date-from" aria-labelledby="Check-in">
+						<input name="fromDate" type="text" id="global-header-hotel-fromDate" maxlength="10" data-min="06/24/2016" data-max="06/11/2017" data-value="" value="" class="l-margin-bottom l-width-max js-date-from" aria-labelledby="global-header-hotel-fromDate">
 					</p>
 					<div class="l-pos-rel js-date-from-pick-container l-em-reset l-date-container"></div>
 			
@@ -2347,7 +2511,7 @@ var webfontloads = true;
 							Check-out
 							<span class="js-no-ofnights l-no-ofnights"></span>
 						</label>
-						<input name="toDate" type="text" id="global-header-hotel-toDate" maxlength="10" data-value="" value="" class="l-width-max js-date-to js-flex-out" aria-labelledby="Check-out">
+						<input name="toDate" type="text" id="global-header-hotel-toDate" maxlength="10" data-value="" value="" class="l-width-max js-date-to js-flex-out" aria-labelledby="global-header-hotel-toDate">
 
 					</p>
 					<div class="l-pos-rel js-date-to-pick-container l-em-reset l-date-container"></div>
@@ -2408,7 +2572,7 @@ var webfontloads = true;
 				
 				<div class="col">
 					<p>
-						<label for="mr-number">
+						<label for="global-header-mr-number">
 							Rewards number
 						</label>
 						
@@ -2430,12 +2594,21 @@ var webfontloads = true;
 
 	
 			
-		<input type="text" name="marriottRewardsNumber" maxlength="9" size="22" tabindex="" value="" id="global-header-mr-number" class="mr-number search-rewardNumber formContent short">
+		<input type="text" name="marriottRewardsNumber" maxlength="9" size="22" tabindex="" value="" id="global-header-mr-number" class="mr-number search-rewardNumber formContent short" autocomplete="off">
 	
 	 
 	
 
-
+<script language="javascript">
+	/*
+	This script is to prevent the autocomplete feature on the credit card fields.
+	It cannot be put in a javascript function because invoking the function with any events(onfocus/onchage) on 
+	the text field, doesn't seem to work. Looks like the autocomplete attribute needs to be set when the page loads.
+	Note: There is an option to set autocomplete="true" on 'input type="text"'. But struts 'html:text'
+	doesn't support the attribute since it is not a standard one.
+	*/
+	document.getElementById("global-header-mr-number").setAttribute("autocomplete", "off");		
+</script>
 
 
 
@@ -2452,7 +2625,7 @@ var webfontloads = true;
 								Use Rewards points
 						</label>			
 						<a class="l-inline mi-popover" href="/hotel-prices/use-points.mi">
-	        				What's This?
+	        				What's this?
 						</a>				
 					</p>
 				</div>
@@ -2534,7 +2707,7 @@ var webfontloads = true;
 
  
 
-<label class="is-hidden-label" for="global-header-corporateCode">Corporate/promotional code</label>
+
   
 	
 	
@@ -2581,7 +2754,7 @@ var webfontloads = true;
 					</li>
 				
 					<li>
-					<input type="checkbox" name="marriottBrands" value="CY" checked="checked" id="global-header-brand-cy" class="search-brand-CY"> 
+					<input type="checkbox" name="marriottBrands" value="CY" id="global-header-brand-cy" class="search-brand-CY"> 
 					<label for="global-header-brand-cy" class="inline-label">Courtyard</label>
 					</li>
 				
@@ -2661,7 +2834,7 @@ var webfontloads = true;
 					</li>
 				
 					<li>
-						<input type="checkbox" name="marriottBrands" value="all" id="global-header-brand-all" class="search-brand-all">
+						<input type="checkbox" name="marriottBrands" value="all" checked="checked" id="global-header-brand-all" class="search-brand-all">
 						<label for="global-header-brand-all" class="inline-label">All brands</label>
 				    </li>
 				</ul>
@@ -2731,7 +2904,7 @@ var webfontloads = true;
 			
 				
 					<div class="t-bg-lightestGray l-bookright clearfix l-padding-half l-margin-top l-margin-bottom-half">
-						<p>Get our best rate available when you book directly on <b>Marriott.com</b></p>
+						<p><b>Marriott Rewards<sup>®</sup> Member Rates</b><br>Our lowest rates when you book direct.</p>
 						<p class=" t-see-details is-hidden-xs is-visible-m is-visible-l l-margin-bottom l-s-col-4 l-sm-col-4 l-l-col-8">
 							
 							
@@ -2770,13 +2943,14 @@ var webfontloads = true;
 
 
 
-<a href="javascript:sendto('no_country','no_brand','/marriott/hotel-prices/online-booking-details.mi','5');" class="t-secondary-cta   analytics-click" data-analytics="{&quot;description&quot;:&quot;Book Right Click&quot;}">
+
+<a href="/online-hotel-booking.mi" title="See details" class="t-secondary-cta   analytics-click" data-analytics="{&quot;description&quot;:&quot;Book Right Click&quot;}">
 	<span class="icon icon-arrow-right"></span>
-	<span class="t-link-label ">See brand exclusions and guarantee terms.</span>
+	<span class="t-link-label ">See details</span>
 </a>
 						</p>
 						<div class="m-bookright l-float-right l-padding-left l-padding-top-half l-padding-bottom">
-							<img src="/Images/ConfigurablePromotions/MR_HSIA/12_1_2014/searchcard_mr_freewi-fi_148x38.png" alt="Not a member? Join now and get free in-room Wi-Fi at 3,800+ hotels in 70+ countries.">
+							<img src="/Images/Book_Right/Book_Direct/mr_logo_76x38.png" alt="See details.">
 						</div>
 					</div>
 				
@@ -2910,7 +3084,7 @@ var webfontloads = true;
 <div class="l-equal-height-child-column m-lookup-reservation l-split-50">
     <p class="m-panel-title l-padding-left l-padding-top">View and Manage Reservations</p>
     <p class="t-desc l-padding-left">Find specific reservations, including those made by phone or when not signed in.</p>
-   <form name="reservationLookUpForm" method="post" action="https://www.marriott.com/reservation/findReservationDetail.mi;jsessionid=LHEllwIqbz8BbcmNLzv6MJr">
+   <form name="reservationLookUpForm" method="post" action="https://www.marriott.com/reservation/findReservationDetail.mi;jsessionid=uWZFsQffH8nlhS9IJzaYrIf">
         <input type="hidden" name="bc" value="MC">
         <input type="hidden" name="returnURL" value="/reservation/lookupReservation.mi">
         
@@ -2940,16 +3114,22 @@ var webfontloads = true;
         
         <div class="form-block  l-width-half l-clear is-lookup-res is-date-field">
 			<label for="checkInDate" class="is-field is-required"><i class="icon icon-asterisk t-form-asterisk"></i><span class="is-hidden-text">Required Field</span>Check-in date</label> 
-			<input type="text" name="checkInDate" id="checkInDate" value="" maxlength="10" class="calendar-module-fromdate search-fromDate js-moreoptions-expander"><input type="hidden" name="minDate" value="12/29/2015"><input type="hidden" name="maxDate" value="12/18/2016"><input type="hidden" name="monthNames" value="January,February,March,April,May,June,July,August,September,October,November,December"><input type="hidden" name="weekDays" value="S,M,T,W,T,F,S"><input type="hidden" name="dateFormatPattern" value="MM/dd/yy">
+			<input type="text" name="checkInDate" id="checkInDate" value="" maxlength="10" class="calendar-module-fromdate search-fromDate js-moreoptions-expander"><input type="hidden" name="minDate" value="06/24/2016"><input type="hidden" name="maxDate" value="06/11/2017"><input type="hidden" name="monthNames" value="January,February,March,April,May,June,July,August,September,October,November,December"><input type="hidden" name="weekDays" value="S,M,T,W,T,F,S"><input type="hidden" name="dateFormatPattern" value="MM/dd/yy">
 		 </div>
 				
-        <p class="t-find-button clearfix">
-            <button type="submit" name="submit" id="find-reservaton" class="m-button-default">
+		
+        
+        	
+        	
+        		<p class="t-find-button clearfix">
+					<button type="submit" name="submit" id="find-reservaton" class="m-button-default">
                 <em>
                     Find
                 </em>
-            </button>   
-        </p>
+            </button>
+	        	</p>
+        	
+        	
         
    </form>
 </div>
@@ -2981,7 +3161,7 @@ var webfontloads = true;
     
 	    
 	         
-	        <form name="directLoginForm" method="post" action="https://www.marriott.com/directLogin.mi;jsessionid=LHEllwIqbz8BbcmNLzv6MJr">
+	        <form name="directLoginForm" method="post" action="https://www.marriott.com/directLogin.mi;jsessionid=uWZFsQffH8nlhS9IJzaYrIf">
 
 	                
 	                
@@ -3014,7 +3194,7 @@ var webfontloads = true;
 						</label>
 						
 						<a class="mi-popover" href="/remember-me.mi" target="new">
-							What's This?
+							What's this?
 						</a>
 	                </p>
 
@@ -3095,12 +3275,13 @@ var webfontloads = true;
 
 
 
+																								
+				
+
+	
 	
 		
 	
-	
-
-
 
 
 
@@ -3109,10 +3290,9 @@ var webfontloads = true;
 	
 
 	
-
 		<div class="m-header-myaccount-container is-default-state">
 			<div class="m-header-myaccount">
-				<form name="directLoginForm" method="post" action="https://www.marriott.com/directLogin.mi;jsessionid=LHEllwIqbz8BbcmNLzv6MJr">
+				<form name="directLoginForm" method="post" action="https://www.marriott.com/directLogin.mi;jsessionid=uWZFsQffH8nlhS9IJzaYrIf">
 					
 					
 
@@ -3138,7 +3318,6 @@ var webfontloads = true;
 							<input name="rememberMe" id="my-account-rememberme" type="checkbox" value="true"> <label for="my-account-rememberme"> Remember me </label>
 						</p>
 																			
-																														
 						<ul class="l-padding-top t-link-blue">
 							<li class="l-padding-bottom-half">
 								<span class="icon icon-arrow-right t-icon-sm"></span>
@@ -3153,25 +3332,34 @@ var webfontloads = true;
 								<a href="/rewards/createAccount/activateAccountChallenge.mi" title="Create online account">Create online account</a>													
 							</li>
 						</ul>																														
-					</div>
-				</form>				
+					</div>					
+				</form>
 				
 				<!-- Icon for social login  -->
-					
-					
-						
-						<input type="hidden" value="Sign in to your account with Facebook" id="fbAltTextHeader">						
-						<div id="social-login-header-container" class="clearfix l-clear socialClick t-border-top-mdGry l-padding-top-quarter l-margin-top l-margin-bottom l-padding-bottom l-pos-rel">												
-							<div class="l-pos-abs l-padding-top-three-quarters">
-								Or sign in using: 
-							</div>						
-							<div id="social-login-header" class="l-pos-abs l-padding-top-quarter"></div>				
-						</div>
-					
-				 											
+	
+		 
+		
+			
+		
+		
+		
+			
+				
+				
+				<input type="hidden" value="Sign in to your account with Facebook" name="gig-facebook" class="js-gig-alt-text">
+			
+			
+			<div id="social-login-header-container" class="clearfix l-clear socialClick t-border-top-mdGry l-padding-top-quarter l-margin-top">												
+				<div class="l-float-left l-padding-top-three-quarters">
+					Or sign in using: 
+				</div>
+				<div id="social-login-header" class="l-float-left l-padding-top-quarter" data-login-providers="facebook"></div>					
+			</div>																							
 			</div>
 		</div>
 	
+
+
 
 			
 
@@ -3204,105 +3392,6 @@ var webfontloads = true;
 	
 </ul>
 
-	
-				
-				
-					
-					
-						
-
-
-
-
-
-
-
-	
-
-	
-	
-
-	
-		
-	
-	
-		
-		
-			<p class="m-logo">
-				<a href="/default.mi" class="l-main-logo l-float-left analytics-click">
-					<img src="http://cache.marriott.com/Images/DigitalFoundations/Header/logo-marriott-markonleft-2x.png" alt="Marriott Logo">
-				</a>
-				
-				
-				
-
-				<a href="/marriott/internationalmodal.mi" class="t-logo-lang-link l-float-left mi-popover analytics-click" data-analytics="{&quot;description&quot;:&quot;Logo Change Language&quot;}">
-					
-					
-						
-							
-						
-						
-						
-					
-
-					
-						
-					
-
-					
-					
-
-					
-					<span class="t-link-text">English–US &amp; Canada </span>
-					<span class="t-country-label-icon">
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-	
-	
-		
-		
-
-		
-		
-		
-
-		
-		
-			
-		
-		
-
-
-		
-		
-			
-		
-	
-
-
-<img src="/Images/DigitalFoundations/Header/countryflags.png" alt="" class="t-flag-icon t-double-flag">
-</span>
-				</a>
-			</p>
-		
-	
-
-					
-				
 			</div>
 		</header>
 	
@@ -3366,6 +3455,13 @@ var webfontloads = true;
 	
 
 		
+		
+		
+			
+			
+				
+			
+					
 			<div id="content-wrapper" class="l-content-wrapper">
 			
 			
@@ -3814,15 +3910,13 @@ var webfontloads = true;
 
 <div class="ito-text-wrap t-text-wrap ">
 	
-	
-<p>This privacy statement (“Statement”) applies to all of the hotel brands owned or licensed by Marriott International, Inc. and its affiliates, including The Ritz-Carlton Hotel Company, L.L.C. (collectively, the “Marriott Group”).</p>
+	<p>This privacy statement (“Statement”) applies to all of the hotel brands owned or licensed by Marriott International, Inc. and its affiliates, including The Ritz-Carlton Hotel Company, L.L.C. (collectively, the “<a href="/Media/PDF/Foreign Subsidiaries - Country of Incorporation/2015 10K_Entity Only.pdf" title="Link to Marriott Group definition PDF">Marriott Group</a>”).</p>
 
 <p>We have prepared this Statement to inform you of the privacy principles that govern our use of information we obtain from our customers, including information we obtain through our websites, including Marriott.com, Ritz-Carlton.com and other websites owned or controlled by the Marriott Group (collectively, the “Websites”). As used in this Statement, the term “Authorized Licensees” means certain companies that have entered into a license or similar agreement with a Marriott Group company to sell products and services under a Marriott Group brand. Authorized Licensees are independent from the Marriott Group, and include entities such as Marriott Vacations Worldwide Corporation operator of the Marriott Vacation Club and Marriott and Ritz-Carlton Real Estate, and the issuer of the Marriott Rewards Credit Card.</p>
 
-<p>Our Websites are available to visitors located throughout the world, and operated for different purposes. For instance, some may be specific to a hotel brand or property, and others may enable you to shop for travel-related products. Our Websites are generally operated from the United States in accordance with laws of the United States and visitors to our Websites should be aware that the laws of the United States may differ from those of your country of residence. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our <a href="/corporateinfo/euswissprivacy.mi">European Union and Switzerland Privacy Statement</a>. Where we operate country-specific Websites, those Websites are operated in accordance with the laws of that specific country.</p>
+<p>Our Websites are available to visitors located throughout the world, and operated for different purposes. For instance, some may be specific to a hotel brand or property, and others may enable you to shop for travel-related products. Our Websites are generally operated from the United States in accordance with laws of the United States and visitors to our Websites should be aware that the laws of the United States may differ from those of your country of residence. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our <a href="/corporateinfo/euswissprivacy.mi" title="link to Customer and Guest Safe Harbor Privacy Statement">Customer and Guest Safe Harbor Privacy Statement</a>. Where we operate country-specific Websites, those Websites are operated in accordance with the laws of that specific country.</p>
 
 <p>This Statement was last updated on <b>May 21, 2015</b>, to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.</p>
-
 	
 	
 		
@@ -4536,7 +4630,7 @@ var webfontloads = true;
 
 <li><a title="Portugal (Português)" href="http://www.marriott.com.br/sobre-marriott/declaracao-de-privacidade-portugal.mi">Portugal (Português)</a></li>
 
-<li><a title="European Union and Switzerland Privacy Statement (English)" href="/corporateinfo/euswissprivacy.mi">European Union and Switzerland Privacy Statement (English)</a></li>
+<li><a title="link to Customer and Guest Safe Harbor Privacy Statement (English)" href="/corporateinfo/euswissprivacy.mi">Customer and Guest Safe Harbor Privacy Statement (English)</a></li>
 </ul>
 	
 	
@@ -7824,13 +7918,11 @@ You may also opt-out online of Marriott Rewards and The Ritz-Carlton Rewards ema
 
 <div class="ito-text-wrap t-text-wrap ">
 	
-	
-<p>Marriott International, Inc. and The Ritz-Carlton Hotel Company, L.L.C. are established in the United States, and the servers upon which our site is hosted and on which hotel bookings are processed are located in the United States. The laws of the United States may differ from those of your country of residence and may not offer the same level of protection for personal information. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our <a href="/corporateinfo/euswissprivacy.mi">European Union and Switzerland Privacy Statement</a> as well as to our safe harbor European and Switzerland Privacy Statement.</p>
+	<p>Marriott International, Inc. and The Ritz-Carlton Hotel Company, L.L.C. are established in the United States, and the servers upon which our site is hosted and on which hotel bookings are processed are located in the United States. The laws of the United States may differ from those of your country of residence and may not offer the same level of protection for personal information. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our <a href="/corporateinfo/euswissprivacy.mi" title="link to Customer and Guest Safe Harbor Privacy Statement">Customer and Guest Safe Harbor Privacy Statement</a> as well as to our safe harbor European and Switzerland Privacy Statement.</p>
 
 <p>Marriott's managed and franchised properties are located around the world. As you would expect, where you book to stay in a hotel outside the country in which you live, personal data will be transferred to Marriott's property manager or franchisee together with other affiliates and Authorized Licensees located in the country in which you are staying so that your reservation is fulfilled.</p>
 
 <p>Countries located outside the EEA and Switzerland do not have laws in place which provide the same level of protection for personally identifiable information as provided for in the EEA and Switzerland although such data is covered by Marriott's own policies and procedures which are designed to ensure an adequate level of protection.</p>
-
 	
 	
 		
@@ -8353,7 +8445,8 @@ Chevy Chase, Maryland 20815</p>
 
 
 
-<a href="/about/terms-of-use.mi" class="t-secondary-cta   analytics-click">
+
+<a href="/about/terms-of-use.mi" title="Terms of Use for <br />United States and Canada" class="t-secondary-cta   analytics-click">
 	<span class="icon icon-arrow-right"></span>
 	<span class="t-link-label ">Terms of Use for <br>United States and Canada</span>
 </a>
@@ -8410,7 +8503,8 @@ Chevy Chase, Maryland 20815</p>
 
 
 
-<a href="/about/sms-terms-of-use.mi" class="t-secondary-cta   analytics-click">
+
+<a href="/about/sms-terms-of-use.mi" title="SMS Messaging Terms of Use" class="t-secondary-cta   analytics-click">
 	<span class="icon icon-arrow-right"></span>
 	<span class="t-link-label ">SMS Messaging Terms of Use</span>
 </a>
@@ -8467,7 +8561,8 @@ Chevy Chase, Maryland 20815</p>
 
 
 
-<a href="/about/digital-entry-terms-of-use.mi" class="t-secondary-cta   analytics-click">
+
+<a href="/about/digital-entry-terms-of-use.mi" title="Digital Entry Terms of Use" class="t-secondary-cta   analytics-click">
 	<span class="icon icon-arrow-right"></span>
 	<span class="t-link-label ">Digital Entry Terms of Use</span>
 </a>
@@ -8562,7 +8657,33 @@ Chevy Chase, Maryland 20815</p>
 
 
 
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	
 	<footer class="l-clear">
@@ -8572,8 +8693,9 @@ Chevy Chase, Maryland 20815</p>
 				
 					<section class="t-border-bottom t-footer-section-spacing clearfix">
 						<h2 id="seo-links-control" class="t-footer-icon-control is-drawer-control is-cursor-pointer analytics-click" aria-controls="seo-links" tabindex="0" role="button">
-							<span class="t-footer-icon icon-drawer-open" aria-hidden="true" aria-labelledby="Open"></span>
-							<span class="t-footer-icon icon-drawer-close" aria-hidden="true" aria-labelledby="Close"></span>								
+							<span class="t-footer-icon is-hidden-label">expand</span>
+							<span class="t-footer-icon icon-drawer-open" aria-hidden="true"></span>
+							<span class="t-footer-icon icon-drawer-close" aria-hidden="true"></span>								
 							Top Destinations
 						</h2>
 						
@@ -9262,7 +9384,7 @@ Chevy Chase, Maryland 20815</p>
 						
 						
 						
-							<a href="http://www.marriott.com/hotel-development/real-estate-investment.mi?stop_mobi=yes" title="" class="analytics-click">
+							<a href="https://hotel-development.marriott.com/?stop_mobi=yes" title="" class="analytics-click">
 								Hotel Developers
 							</a>
 						
@@ -9320,7 +9442,7 @@ Chevy Chase, Maryland 20815</p>
 						
 						
 						
-							<a href="http://investor.shareholder.com/mar/default.cfm" title="" class="analytics-click">
+							<a href="http://investor.shareholder.com/mar/index.cfm" title="" class="analytics-click">
 								Investors
 							</a>
 						
@@ -9411,7 +9533,7 @@ Chevy Chase, Maryland 20815</p>
 						
 						
 						
-							<a href="/marriott/aboutmarriott.mi" title="" class="analytics-click">
+							<a href="http://www.marriott.com/marriott/aboutmarriott.mi" title="" class="analytics-click">
 								About Marriott
 							</a>
 						
@@ -9438,7 +9560,7 @@ Chevy Chase, Maryland 20815</p>
 						
 						
 						
-							<a href="/help/default.mi" title="" class="analytics-click">
+							<a href="http://www.marriott.com/help/default.mi" title="" class="analytics-click">
 								Help
 							</a>
 						
@@ -9521,7 +9643,7 @@ Chevy Chase, Maryland 20815</p>
 						
 						
 						
-							<a href="/about/terms-of-use.mi" title="" class="analytics-click">
+							<a href="http://www.marriott.com/about/terms-of-use.mi" title="" class="analytics-click">
 								Terms of Use
 							</a>
 						
@@ -9547,10 +9669,10 @@ Chevy Chase, Maryland 20815</p>
 					
 						
 						
-							<a href="/about/privacy.mi" title="" class="active analytics-click">
+						
+							<a href="http://www.marriott.com/about/privacy.mi" title="" class="analytics-click">
 								Privacy &amp; Cookie Statement
 							</a>
-						
 						
 					
 				
@@ -9596,18 +9718,20 @@ Chevy Chase, Maryland 20815</p>
 					
 					
 						<section class="t-book-direct l-clear">
-							<p>Our Best Available Rate Guarantee assures you receive the best rates when you book directly with us. If you find a lower publicly available rate within 24 hours of booking, we will match that rate plus give you 25% off the lower rate, subject to guarantee terms and exclusions. See our <a title="" href="/online-hotel-booking.mi">Terms &amp; Conditions</a> for details. Guarantee does not apply to Delta Hotels, Protea Hotels®, Ritz-Carlton Montreal, The Ritz London, Hotel Ritz Madrid, and Ritz-Carlton Residences®.</p>
-
-<p>Hotels shown on <a title="Marriott.com" href="/default.mi">Marriott.com</a> may be operated under a license from Marriott International, Inc. or one of its affiliates.</p>
-
-<p>&nbsp;</p>
+							<p>Best Available Rate Guarantee assures you receive the best rates when you book directly with us. If you find a lower publicly available rate within 24 hours of booking, we will match that rate plus give you 25% off the lower rate, subject to guarantee terms and exclusions. Guarantee does not apply to Delta Hotels, Protea Hotels®, Ritz-Carlton Montreal, The Ritz London, Hotel Ritz Madrid, and Ritz-Carlton Residences®. Marriott Rewards® and The Ritz-Carlton Rewards® members (“Rewards Members”) who book rooms through a Marriott® Direct Booking Channel, authorized travel agents or select corporate travel partners ("Eligible Channels") at hotels that participate in Marriott Rewards® and The Ritz-Carlton Rewards loyalty programs will receive an exclusive, preferred rate (“Marriott Rewards Member Rate”). Member Rates are available globally at all hotels that participate in Marriott Rewards, excluding hotels in Mainland China, Macau, Hong Kong and Taiwan. Exclusions apply. See our <a title="" href="/online-hotel-booking.mi">Terms &amp; Conditions</a> for additional details related to our Best Available Rate Guarantee and Marriott Rewards Member Rate. Hotels shown on <a href="/default.mi">Marriott.com</a> may be operated under a license from Marriott International, Inc. or one of its affiliates</p>
 						</section>
 					
 
 					
 					
+						
+							
+							
+								
+							
+						
 						<section class="t-copyright l-clear" itemscope="" itemtype="http://schema.org/Hotel">
-							<p class="t-uppercase-small " id="copyright">© 1996 - 2015 <span itemprop="branchOf" itemscope="" itemtype="http://schema.org/Corporation"><span itemprop="name">Marriott International, Inc.</span></span> All rights reserved. Marriott proprietary information</p>
+							<p class="t-uppercase-small " id="copyright">© 1996 - 2016 <span itemprop="branchOf" itemscope="" itemtype="http://schema.org/Corporation"><span itemprop="name">Marriott International, Inc.</span></span> All rights reserved. Marriott proprietary information</p>
 						</section>
 					
 				</div>
@@ -10146,10 +10270,6 @@ Chevy Chase, Maryland 20815</p>
 
 		
 	
-		
-		
-		
-	
 	
 	
 
@@ -10170,21 +10290,21 @@ var hdVars = {
 				hd_isAssociate : "",
 				hd_isAffiliateOfConcur : "",
 				hd_rewardLevel : "",
-				hd_rewardsRedemption : "false",
+				hd_rewardsRedemption : "",
 				hd_marshaCode : "",
-				hd_brand_Codes : "CY",
+				hd_brand_Codes : "all",
 				hd_errorMessage : 'id="error-messages"',
 				hd_domain : "US",
-				hd_numGuestsPerRoom : "1",
-				hd_numRooms : "1",
+				hd_numGuestsPerRoom : "",
+				hd_numRooms : "",
 				hd_roomKeyBaseURL :"//www.roomkey.com/referrals",
 				hd_roomKeyAPIKey : "a9bc92520c8acea6eadbc930b2ce2874",
-				hd_city : "Zionsville",
-				hd_stateProvince : "IN",
-				hd_country : "US",
-				hd_sgoSearch : "false",
+				hd_city : "",
+				hd_stateProvince : "",
+				hd_country : "",
+				hd_sgoSearch : "",
 				hd_vsDimGrp : "",
-				hd_brandCodes : "[CY]",
+				hd_brandCodes : "",
 				hd_indate : "",
                 hd_outdate : "",
 				hd_clusterCode :"",
@@ -10408,7 +10528,7 @@ var hdVars = {
 
 
 	
-		<script type="text/javascript" src="/miJSPath/1324077057/bundles/micorelib.js"></script>
+		<script type="text/javascript" src="/miJSPath/430581217/bundles/micorelib.js"></script>
 
 	
 	
@@ -10598,6 +10718,7 @@ var hdVars = {
 
 
 
+
 	
 	
 	
@@ -10670,6 +10791,9 @@ var hdVars = {
 	
 	
 	
+	
+	
+	
 		
 		
 		
@@ -10701,7 +10825,7 @@ var hdVars = {
 	<input type="hidden" name="analytics-separator" value="^" id="analytics-separator">
 	
 	
-	<script type="text/javascript" src="/miJSPath/N1429527695/common/analytics/js/analytics.js"></script>
+	<script type="text/javascript" src="/miJSPath/N816826861/common/analytics/js/analytics.js"></script>
 
 	
 
@@ -10711,22 +10835,29 @@ var hdVars = {
 
 <!-- Gigya API KEY -->
 
+<!-- Starwood flag for points transfer -->
+
+
+
+
+<!-- Starwood -->
+
 
 <!-- Social Share -->
 
 
-	<script type="text/javascript" src="//cdns.gigya.com/js/gigya.js?apiKey=3_M__rJP5AaxFgwpIUXjckNU1Cf7bzbIswIwNURF3Lo-gOFRNxldIolAZc2U3yBDLW"></script>  							
+	<script type="text/javascript" src="//cdns.gigya.com/js/gigya.js?apiKey=3_M__rJP5AaxFgwpIUXjckNU1Cf7bzbIswIwNURF3Lo-gOFRNxldIolAZc2U3yBDLW&amp;lang=en-us"></script>
 	<script type="text/javascript" src="/common/js/account/socialShareRewards.js"></script>
 
 
 <!-- Social Login -->
 
 
-   		
-	<script type="text/javascript" src="/miJSPath/N296241658/bundles/dwrall.js"></script>
+   	
+	<script type="text/javascript" src="/miJSPath/1268736978/bundles/dwrall.js"></script>
 
 	
-	<script type="text/javascript" src="/common/js/account/socialLoginRewards.js"></script>	
+	<script type="text/javascript" src="/common/js/account/socialLoginRewards.js"></script>
 
 
 
@@ -10757,25 +10888,14 @@ var hdVars = {
 
 
 
-	
-		
-		
-		
-		
-			
-			
-				<script type="text/javascript" src="/miJSPath/N1242164328/common/js/libs/isotope/isotope.min.js"></script>
-
-			
-		
 	
 		
 		
 		
 		
 			
-			
-				<script type="text/javascript" src="/miJSPath/1117563430/common/js/Anita/Components/Superhero.js"></script>
+						    
+				<script type="text/javascript" src="/miJSPath/840146604/common/js/libs/isotope/isotope.min.js"></script>
 
 			
 		
@@ -10785,8 +10905,8 @@ var hdVars = {
 		
 		
 			
-			
-				<script type="text/javascript" src="/miJSPath/849449708/common/js/Anita/Components/Portfolio.js"></script>
+						    
+				<script type="text/javascript" src="/miJSPath/1892722196/common/js/Anita/Components/Superhero.js"></script>
 
 			
 		
@@ -10796,8 +10916,8 @@ var hdVars = {
 		
 		
 			
-			
-				<script type="text/javascript" src="/miJSPath/N84806771/common/js/Anita/Components/Accordion.js"></script>
+						    
+				<script type="text/javascript" src="/miJSPath/N1485247837/common/js/Anita/Components/Portfolio.js"></script>
 
 			
 		
@@ -10807,8 +10927,8 @@ var hdVars = {
 		
 		
 			
-			
-				<script type="text/javascript" src="/miJSPath/1247687697/common/js/Anita/Components/Tabs.js"></script>
+						    
+				<script type="text/javascript" src="/miJSPath/N577218762/common/js/Anita/Components/Accordion.js"></script>
 
 			
 		
@@ -10818,8 +10938,8 @@ var hdVars = {
 		
 		
 			
-			
-				<script type="text/javascript" src="/miJSPath/N936020225/common/js/Anita/Components/Action.js"></script>
+						    
+				<script type="text/javascript" src="/miJSPath/N1673357821/common/js/Anita/Components/Tabs.js"></script>
 
 			
 		
@@ -10829,8 +10949,19 @@ var hdVars = {
 		
 		
 			
+						    
+				<script type="text/javascript" src="/miJSPath/N137685146/common/js/Anita/Components/Action.js"></script>
+
 			
-				<script type="text/javascript" src="/miJSPath/703404781/common/js/Anita/Page.js"></script>
+		
+	
+		
+		
+		
+		
+			
+						    
+				<script type="text/javascript" src="/miJSPath/958517243/common/js/Anita/Page.js"></script>
 
 			
 		
@@ -10839,8 +10970,40 @@ var hdVars = {
 
 
 
+	
+	
+		<script type="text/javascript" src="/miJSPath/1961055843/common/js/reservations/cashAndPoints.js"></script>
+		
+	
 
 
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	googleMap.src = {api: "//maps.googleapis.com/maps/api/js?v=3.exp&client=gme-marriottinternational&libraries=places&signed_in=false&language=en_US&region=",
+		cluster: "/common/js/map/markerclusterer.min.js",
+		oms: "/common/js/map/oms.min.js",
+		search: "/common/js/map/propertySearchGoogleMap.js"}
+</script>
 
 
 
@@ -10870,6 +11033,14 @@ var hdVars = {
 
 
 
+
+
+
+
+
+
+
+
    	
 
 
@@ -10884,7 +11055,7 @@ var hdVars = {
 
 
 	
-	<script type="text/javascript" src="/miJSPath/N667191691/bundles/mi_customer_survey.js"></script>
+	<script type="text/javascript" src="/miJSPath/N1231508724/bundles/mi_customer_survey.js"></script>
 
 
 
@@ -10908,7 +11079,7 @@ var hdVars = {
 
 
 
-	
+
 	
 	
 	
@@ -10917,7 +11088,6 @@ var hdVars = {
 	
 	
 	
-
 
 
 		
