@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220154548id_/https%3A//www.fi.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624045431id_/https%3A//www.fi.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Franklin Institute Science Museum
 
