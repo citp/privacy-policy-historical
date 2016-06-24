@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015042258id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624232037id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # Freeflys - Privacy
 
@@ -96,9 +96,9 @@ If you are not in agreement with the terms of this Policy, please unsubscribe fr
 
 If you feel that Freeflys is not abiding by its posted privacy policy, write us at Freeflys, 303 Ray Street, Pleasanton, CA 94566.
 
-**Urban Decay, Bath & Body Works, Yankee Candles, Rachael Ray Giveaway Rules**
+**Bath and Body Works, Honolulu set, Bath and Body Works Holiday set, $25 Starbucks card, Schick® Intuition® Revitalizing Moisture Razor pack, MAC Mineralize skin finish Giveaway rules**
 
-You must be at least 18-years-old and a resident of the continental United States, including Alaska and Hawaii, to enter. No purchase necessary to enter or win. Contest runs from September 23, 2015 at 12:00 a.m. PST to December 31, 2015 at 11:59 p.m. PST. The winners for each of the 4 prizes will be chosen January 12, 2016 and notified via email. The winners will have 7 days to claim their prize, and must do so by replying to the email they receive from Freeflys. The Giveaway Terms/Rules are subject to change at any time without notice. Prizes are subject to change at any time without notice. Prizes: (1) Urban Decay naked vault, (1) Rachael Ray 10 piece porcelain cook set, (1) set of 4 large Yankee candles, (1) set of Bath Body Works products.
+You must be at least 18-years-old and a resident of the continental United States, including Alaska and Hawaii, to enter. No purchase necessary to enter or win. Contest runs from April 1, 2016 at 12:00 a.m. PST to June 30, 2016 at 11:59 p.m. PST. The winners for each of the prizes will be chosen July 8, 2016 and notified via email. The winners will have 7 days to claim their prize, and must do so by replying to the email they receive from Freeflys. The Giveaway Terms/Rules are subject to change at any time without notice. 
 
 NO PURCHASE IS NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. ALL FEDERAL, STATE, LOCAL, AND MUNICIPAL LAWS AND REGULATIONS APPLY. VOID WHERE PROHIBITED. Participation constitutes entrant's full and unconditional agreement to and acceptance of these Official Rules. Sweepstakes is sponsored by Freeflys, 303 Ray Street, Pleasanton, CA 94566 (the "Sponsors"), who is solely responsible for all aspects of this Sweepstakes.
 
