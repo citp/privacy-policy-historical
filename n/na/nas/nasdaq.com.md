@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225014240id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624191855id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
 
 # NASDAQ, Inc. Privacy Statement
 
@@ -152,7 +152,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20151225014240id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20160624191855id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
