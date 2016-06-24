@@ -1,124 +1,195 @@
-> *The following text is extracted and transformed from the groupees.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081756id_/https%3A//groupees.com/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupees.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624174250id_/https%3A//groupees.com/GroupeesLLC-Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# This Privacy Policy ("Policy") explains how your personal information is collected, used, and disclosed by YAWMA LLC (“YAWMA”) with respect to your use of the Groupees website, located at www.groupees.net (the "Site"). We reserve the right to change the provisions of this Policy at any time. We will alert you to these changes by indicating the date that the Policy was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
+# Groupees LLC Privacy Policy
 
-YAWMA LLC PRIVACY POLICY FOR GROUPEES
-Last Updated: September 10, 2011
-This Privacy Policy ("Policy") explains how your personal information is collected, used, and
-disclosed by YAWMA LLC (“YAWMA”) with respect to your use of the Groupees website,
-located at www.groupees.net (the "Site"). We reserve the right to change the provisions of this
-Policy at any time. We will alert you to these changes by indicating the date that the Policy was
-last updated. We encourage you to review this Policy from time to time to make sure that you
-understand how any personal information you provide will be used.
-What Is Personal Information?
-As used herein, the term "personal information" means information that specifically identifies an
-individual (such as a name, address, telephone number, mobile number, e-mail address, or credit
-card or other account number), or information about that individual that is directly linked to
-personally identifiable information. Personal information does not include "aggregate"
-information, which is data we collect about the use of the Site or about a group or category of
-products, services, or users, from which individual identities or other personal information has
-been removed. This Policy in no way restricts or limits our collection and use of aggregate
-information.
-What Personal Information Do We Collect?
-We collect information about you in various ways when you use our Site. We collect certain
-information you voluntarily provide to us, such as when you register for an account, make a
-purchase, send us an email, or provide or request information. Such information may include
-personal information, such as your name, user name, email address, mailing address, credit or
-debit card info and PayPal account information. We may also collect your purchase history and
-other contact and demographic information you provide to us.
-When you visit our Site, some information is also automatically collected. For example, we log
-information such as your Internet Protocol (IP) address, operating system, browser type, address
-of a referring website, and your activity on the Site. We treat this information as personal
-information if we combine it with, or link it to, any of the identifying information mentioned
-above. Otherwise, it is used only in the aggregate.
-We may also automatically collect certain information through the use of "cookies" or web
-beacons. Cookies are small data files stored on your hard drive at the request of a website. Among
-other things, cookies help us improve our Site and your experience. If we link cookies to any
-personally identifying information, we will treat this information as personal information. If you
-wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn
-about these functions. However, if you choose to remove or reject cookies, this could affect
-certain features on our Site. Web beacons are small, invisible graphic images that may be used on
-the Site or in emails relating to the Site to collect certain information and monitor user activity on
-the Site.
-We may store and process personal information in the United States and other countries.
-How Do We Use the Personal Information We Collect?
-We use personal information collected through our Site for purposes described in this Policy or
-disclosed to you on our Site or in connection with our services. For example, we may use
-personal information we collect:
+Groupees LLC Privacy Policy
+Effective Date: September 1, 2014
+Your privacy matters to us, so Groupees LLC ("Groupees", "we", "us" or "our")
+has created the following Privacy Policy to let users of groupees.com or
+Groupee’s mobile application (individually and collectively, the “Service”), know
+what information we collect when you visit the Service, why we collect it, and how
+it is used. This Privacy Policy explains the data collection and use practices of
+the Service; it does not apply to other online or offline Groupees sites, products
+or services. The terms "you," "your," and "yours" refer to the customer/purchaser
+utilizing our Service. This Privacy Policy is governed by Groupees Terms and
+Conditions. By using the Service, you consent to the data practices prescribed in
+this Privacy Policy. We may periodically make changes to this Privacy Policy that
+we will include on this page. It is your responsibility to review this Privacy Policy
+and remain informed about any changes to it, so we encourage you to visit this
+page often. If a material change is made to this Privacy Policy, then Groupees
+will post a notice on groupees.com.
+What Information Is Collected?
+"Personal Information" means any information that may be used to identify an
+individual, including, but not limited to, a first and last name, home or other
+physical address, an email address, phone number or other contact information,
+whether at work or at home. Groupees may collect the following Personally
+Identifiable Information from you when you use our Service: your email address,
+Facebook login, Twitter login or Steam login, and payment confirmation details
+from any payments you make to supported payment services such as Paypal,
+Google, Amazon and Bitcoin. If you correspond with us by email or through the
+Service, we may retain the content of your messages, your email address and
+our responses.
+Groupees also automatically receives and records information on our server logs
+from your browser, including your IP address, cookie information, and the page
+you request. Our Service uses Google Analytics to help us learn about who visits
+our site and what pages are being viewed. You can choose not to provide us with
+certain information, but then you might not be able to take advantage of some of
+our features.
+When you visit the Service, we may send one or more cookies - a small text file
+containing a string of alphanumeric characters - to your computer that uniquely
+identifies your browser and lets Groupees help you log in faster and enhance
+your navigation through the Service. A cookie may also convey information about
+how you browse the Service to us. A cookie does not collect personal information
 
 
-•      to administer our business activities and make our Site and Services available to you and
-prospective members;
-•      to process orders, product ratings, and recommendations;
-•      to respond to your requests, comments, and questions and provide customer service;
-•      to provide and deliver products and services and to send you related information, including
-confirmations, technical notices, updates, security alerts, and support and administrative
-messages;
-•      to inform you about other information, events, promotions, products, or services we think
-will be of interest to you;
-•      to analyze trends and personalize and improve Site content, features, and the user
-experience;
-•      to notify you about important changes to our Site or Services;
-•      to process and deliver gift certificates, contest entries, and prizes; and
-•      for the purposes for which the information was collected.
-What Personal Information Do We Share With Third Parties?
-We will not share the Personal Information we collect from you through this Site with third
-parties, except as described in this Policy or on the Site. Because the promotions that are run on
-Groupees are the promotions of the Artists, Developers, Authors and other Content Owners
-whose products are featured during the sale promotions (the “Partners”), the Partners themselves
-are provided full access to Personal Information of individuals who purchase products during the
-Partner’s specific Groupee promotion, excepting specific financial information such as credit card
-information, Paypal accounts and the like.
-In addition, you should understand that information you post in recommendations, profiles, public
-or private groups, or other interactive areas of the Site or services will be available to other users
-and in some cases may be publicly available. We recommend you be cautious about giving out
-personal information to others or sharing personal information in public or private online forums.
-We are not responsible for the actions of any third parties with whom you share personal
-information.
-We may also disclose information to third party social networks at your direction, e.g. when you
+about you. A persistent cookie remains on your hard drive after you close your
+browser. Persistent cookies may be used by your browser on subsequent visits
+to the Service. Persistent cookies can be removed by following your web
+browser's directions. A session cookie is temporary and disappears after you
+close your browser. You can reset your web browser to refuse all cookies or to
+indicate when a cookie is being sent. However, some features of the Service may
+not function properly if the ability to accept cookies is disabled.
+How Is Such Information Used?
+We use your Personal Information to provide you the services offered on our
+Service. Groupees may use your email address to email you a link to your
+download page and to notify you of future Groupees promotions if the "Notify me
+about future Groupees promotions" checkbox is checked. Groupees may also
+use your Personal Information in order to contact you if you request customer or
+technical support.
+Groupees uses the data you enter on the Service, such as the price you enter
+and the option to include charity, to make sure that your contributions go to the
+right places. Groupees uses browser data like which operating system you are
+using to improve the Service’s user experience by making your download page
+default to the game builds corresponding to your current operating system.
+We use cookies to improve our Service and make it easier to use. Cookies permit
+us to recognize users and avoid repetitive requests for the same information.
+Cookies from our Service cannot be read by other sites. Most browsers will
+accept cookies until you change your browser settings to refuse them.
+We may use certain information about you internally for purposes such as
+analyzing how the Service is used, diagnosing service or technical problems,
+maintaining security, and personalizing content.
+We may make your Personal Information non-personally identifiable by either
+combining it with information about other users (aggregating your Personal
+Information with information about other users), or by removing characteristics
+(such as your name or email address) that make the information personally
+identifiable. This process is known as de-personalizing your information. You
+grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable
+right and license to use your Personal Information in connection with the creation
+and development of analytical and statistical analysis tools relating to the use of
+the customer data we collect on the Site (the “Analytical Data”). We may make
+any commercial use of the Analytical Data, including without limitation, sharing
+the Analytical Data with third parties.
+Is The Information Shared or Disclosed?
+Groupees does not sell or share the information it collects through the Service
+except as described in this Privacy Policy. Information collected from you is
+
+
+disclosed and used to complete and support your purchases from and use of the
+GroupeesService and to comply with any requirements of law. For example, we
+may disclose information to third party payment processors. We may also
+disclose information to third party social networks at your direction, e.g. when you
 "tweet" or "like" something on the Service.
-We may also disclose personal information in the good faith belief that such disclosure is legally
-required or is reasonably necessary or appropriate (i) to comply with laws or to respond to lawful
-requests and legal process, or (ii) to protect the rights, property, and safety of YAWMA, our
-employees, agents, members, and the public, including to respond to claims, enforce our
-agreements, policies, and Terms of Use and protect YAWMA and our members from fraudulent,
-abusive, inappropriate, or unlawful use of the Site or Services. Personal information may also be
-disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets,
-financing or acquisition or in any other situation where personal information may be transferred
-as one of the business assets of YAWMA.
-We may also share personal information with vendors, consultants, and other service providers
-("Service Providers") who are engaged by or working with us in connection with the operation of
-the Site or services we provide and who need access to such information to carry out their work
-for us. For example, in some cases, the Service Provider may be directly collecting information
-from you on our behalf. We may also share personal information with other third parties when
+From time to time, we may run contests, special offers, or other events or
+activities ("Events") on the Service together with a third party partner. If you
+provide information to such third parties, you give them permission to use it for
+the purpose of that Event and any other use that you approve. We cannot control
+third parties' use of your information. If you do not want your information to be
+collected by or shared with a third party, you can choose not to participate in
+these Events.
+Groupees may disclose Personal Information if required to do so by law or in the
+good faith belief that such action is necessary to: (1) conform to the edicts of the
+law or comply with legal process served on Groupees or the Service; (2) protect
+and defend the rights or property of Groupees; or (3) act in urgent circumstances
+to protect the personal safety of users of Groupees, its web sites or the public. If
+Groupees or substantially all of its assets are acquired, or in the unlikely event
+that Groupees goes out of business or enters bankruptcy, user information would
+be one of the assets that is transferred or acquired by a third party. You
+acknowledge that such transfers may occur, and that any acquirer of Groupees
+may continue to use your Personal Information as set forth in this policy.
+Choice.
+You can access and modify your information by visiting your unique download
+page and changing the settings. Please be aware that this Privacy Policy and the
+choices you make on the Service will not necessarily apply to Personal
+Information you may have provided to Groupees in the context of other,
+separately operated, Groupees products or services.
+The Security of Your Information.
+The Personal Information that you provide to us is stored on severs that are
+located in secured facilities and protected by protocols and procedures designed
+to ensure the security of such information. In addition, Groupees employees and
+agents who have access to your personal information are trained in the
+maintenance and security of that information. However, no server, computer or
+communications network or system, or data transmission over the Internet can be
+guaranteed to be 100% secure. As a result, while we strive to protect user
+information, we cannot ensure or warrant the security of any information you
+transmit to us or through the use of the Service and you acknowledge and agree
+that you provide such information and engage in such transmissions at your own
 
 
-you give us your consent to do so. We are not responsible for the actions of Service Providers or
-other third parties, nor are we responsible for any additional information you provide directly to
-these Service Providers or other third parties, and we encourage you to become familiar with their
-practices before disclosing information directly to them. Nothing herein restricts the sharing of
-aggregated or anonymized information, which may be shared with third parties without your
-consent.
-Do We Link To Other Web Sites?
-Our Site may contain links to other websites. Any personal information you provide on the linked
-pages is provided directly to that third party and is subject to that third party's privacy policy. We
-are not responsible for the content or privacy and security practices and policies of websites to
-which we link. Links from our website to third parties or to other sites are provided for your
-convenience. We encourage you to learn about their privacy and security practices and policies
-before providing them with personal information.
-What Steps Do We Take To Protect Your Information Online?
-YAWMA takes reasonable measures to protect your personal information in an effort to prevent
-loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
-What Choices Do You Have Regarding the Use of Your Information?
-You may "opt out" of receiving marketing or promotional emails from us by following the
-instructions in those emails. You may also send requests about your contact preferences and
-changes to your information by emailing support@groupees.net. If you opt out, we may still send
-you non-promotional emails, such as emails about your account, products and service-related
-issues.
-How Can You Correct and Update Your Personal Information or Obtain Additional
-Information?
-If you have any questions about this Policy or the practices relating to this Site or our services, or
-you wish to verify, correct, or delete any personal information we have collected, please contact
-us at support@groupees.net. However, please note that in some cases, we may believe it is
-necessary or appropriate to retain certain personal information we have collected, and the deletion
-of such personal information will be in our sole discretion unless otherwise required by law.
+risk. Once we receive a transmission from you, we will endeavor to maintain its
+security on our systems.
+International Transfers
+Personal information collected on the Service may be stored and processed in
+the United States or any other country in which Groupees or its affiliates,
+subsidiaries or agents maintain facilities, and by using the Service, you consent
+to any such transfer of information outside of your country.
+Children.
+Groupees will not knowingly collect personally identifiable information from any
+person age 13 and under. Groupees encourages parents to instruct their children
+to never give out personal information when online. Parents who are concerned
+about the transfer of personal information from their children may contact us at
+support@groupees.com to obtain a record of any information held by Groupees
+and have it removed at their request.
+Links to Other Web Sites.
+We are not responsible for the practices employed by websites linked to or from
+the Service, nor the information or content contained therein. Please remember
+that when you use a link to go from the Service to another website, our Privacy
+Policy is no longer in effect. Your browsing and interaction on any other website,
+including those that have a link on our website, is subject to that website's own
+rules and policies. Please read over those rules and policies before proceeding.
+Your Consent To This Privacy Policy.
+By using this Service, you agree to this Privacy Policy. This is our entire and
+exclusive Privacy Policy and it supersedes any earlier version. Our Terms and
+Conditions take precedence over any conflicting Privacy Policy provision. We
+may change this Privacy Policy by posting a new version of this Privacy Policy on
+this Service which it is your responsibility to review. Your continued use of the
+Service constitutes your agreement to this Privacy Policy and any updates.
+Contacting Groupees.
+If you have any questions about this Privacy Policy or the privacy practices of
+Groupees, please contact us.
+Governing Law
+This Privacy Policy is governed by, and construed under, the laws of the United
+States of America and the law of the State of Oregon, excluding its choice of law
+provisions.
+Dispute Resolution Outside The European Union
+
+
+If you are a resident of any country not a current member of the European Union,
+you agree that should any dispute or claim arise out of, or relate to, this Policy
+(“Claim”), you will attempt in good faith to negotiate a written resolution of the
+Claim directly with us. You agree that if the matter remains unresolved for thirty
+(30) days after one party has provided written notice of the Claim to the other
+party, all parties shall join in mediation services in Portland, Oregon with a
+mutually agreed mediator in an attempt to resolve the dispute. Should you file
+any arbitration claims, or any administrative or legal actions without first having
+attempted to resolve the matter by mediation, then you agree that you will not be
+entitled to recover attorneys’ fees, even if you would otherwise be entitled to
+them.
+Groupees will send its notice to the mailing or email address that we have on file.
+You will send your notice to Groupees LLC, 1515 SW Elizabeth Court, Portland,
+OR 97201, Attn: Legal Department. Please note that this informal resolution
+procedure does not suspend any statutory limitation periods applicable to the
+bringing of a Claim.
+Dispute Resolution for Residents of the European Union
+If you are a resident of the European Union, in the event that you have any
+dispute or claim arising out of or relating to this Privacy Policy, you may report
+your claim to the European Union Data Protection Authorities located in your
+jurisdiction.
+European Commission’s Directive on Data Protection - Safe Harbor
+Groupees complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss
+Safe Harbor Framework as set forth by the U.S. Department of Commerce
+regarding the collection, use, and retention of personal information from
+European Union member countries and Switzerland. Groupees has certified that
+it adheres to the Safe Harbor Privacy Principles of notice, choice, onward
+transfer, security, data integrity, access, and enforcement. To learn more about
+the Safe Harbor program, and to view Groupees’ certification, please visit
+http://www.export.gov/safeharbor/.
