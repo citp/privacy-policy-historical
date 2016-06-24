@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231045358id_/http%3A//www.sears.com/en_us/customer-service/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624170851id_/http%3A//www.sears.com/en_us/customer-service/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sears
 
@@ -12,7 +12,7 @@ Sears Holdings may update this Privacy Policy from time to time. Please check th
 
 Your use of this Site, and any disputes arising from it, are subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions, including arbitration, class action waiver, limitation on damages and choice of law.
 
-What Type of Information Do We Collect and How Do We Use It?
+## What Type of Information Do We Collect and How Do We Use It?
 
 We may collect personally identifiable information ("PII" - for example, your full name, email address, mailing address, telephone number, mobile phone number or credit card number) from you when you voluntarily submit the information to us, such as when you purchase items from us, sign up for one of our services or programs or register with our Site. We may also collect PII from you--either directly or via a third party--in other ways, including, without limitation, if you choose to subscribe to our email program; participate in sweepstakes, contests, surveys, and polls; participate in our Personal Shopper program; post content or suggestions on this Site; or use any of this Site's other features that otherwise permit you to provide information or other content.
 
@@ -28,7 +28,7 @@ Some Site features may make use of your device attributes and settings that will
 
 Non-PII may be collected from you by means of cookies, pixel tags (also called web beacons or clear gifs), local shared objects and other technologies. Cookies are small bits of information that this Site places on your computer. We and our third party service providers use these technologies to identify your IP address, browser type, device characteristics, domain name, referring urls and specific links and web pages through which you click. This data is collected automatically and utilized for data analytics, site operations, fraud prevention and to help us improve this Site and your overall experience. This technology also allows us to recognize you when you return to this Site and to provide you with a customized experience that we feel will be of value to you. We may use and disclose non-PII in any manner for any purpose, except where prohibited under applicable law.
 
-What Information Do We Share and With Whom?
+## What Information Do We Share and With Whom?
 
 We may share your PII with members of the Sears Holdings family of businesses to provide you with products or services that you have requested, to provide you with promotional offers we believe will be of interest to you and for any other purpose described in this Privacy Policy. The Sears Holdings family of businesses includes all Sears Holdings affiliates, as well as other selected third party businesses with which Sears Holdings or its affiliates have a relationship and which have agreed to appropriate restrictions on the disclosure and use of your information. We do not rent or sell your PII to marketers outside the Sears Holdings family of businesses, unless indicated in this Privacy Policy or you otherwise authorize us to do so.
 
@@ -44,7 +44,7 @@ We may provide information about you, which may include PII, to regulatory autho
 
 Sears Holdings may sell, transfer and/or share PII with third parties in connection with a merger, reorganization, joint venture, assignment, spin-off, transfer or sale or disposition of all or any portion of our business, and in the event of a store closing or bankruptcy.
 
-Can I Disable Cookies?
+## Can I Disable Cookies?
 
 Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function.
 
@@ -52,7 +52,7 @@ We may also use Flash Cookies, LSOs and other technologies to, among other thing
 
 If you do elect to disable cookies, please note that you may not be able to take full advantage of a personalized experience on this Site and on other Sears Holdings Sites.
 
-How Do We Handle Personally Identifiable Information Collected from Children?
+## How Do We Handle Personally Identifiable Information Collected from Children?
 
 This Site is a general audience site and we do not knowingly collect personal information from children under 13 years of age. In the event a Sears Holdings Site or portion thereof is directed to children under 13, the Site will contain a Children's Online Privacy Policy that complies with the Children's Online Privacy Protection Act.
 
@@ -64,7 +64,7 @@ What About Links to Other Sites?
 
 This Site may contain links to other websites or applications that are not owned and operated by Sears Holdings. In addition, some of our Sites feature content drawn directly from third party websites using a technique known as i-framing or simply "framing." These frames allow you to view and interact directly with the third party website from within our Site. Sears Holdings is not responsible for the privacy practices of non-affiliated websites or applications, including, without limitation, those that are linked to or framed on this Site. You should read the privacy statements of each and every website and application that collects PII.
 
-Interest-Based Ads - Online Advertisements
+## Interest-Based Ads - Online Advertisements
 
 This Site may display ads from other companies. We also partner with third-party service providers to serve ads on our behalf on other non-affiliated third party sites or apps. Some of the ads on this Site or on third party sites or apps may be personalized, meaning that they are intended to be relevant to you based on what we or the online advertising network serving the ad know about you or your device's browsing activity. For example, anonymous information collected by our ad networks or other third-party service providers across multiple sites that you visit may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. We may share your information with our service providers to permit them to recognize and serve targeted ads to you across the different devices you use. Before we share your information, we transform, or “hash”, it so that it is not in personally identifiable form.
 
@@ -72,27 +72,27 @@ If you do not wish to receive personalized advertising from us on other mobile o
 
 The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and<http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> tto learn about online behavioral advertising and how to opt-out from online or in-app behavioral ads served by some or all participating companies.
 
-To learn more about interest based advertising and to manage your preferences for Sears and Kmart branded online ads, please visit the [Sears Online Advertising Preference Center](http://www.sears.com/en_us/customer-service/policies/terms-of-use.html) or the [Kmart Online Advertising Preference Center](http://www.kmart.com/trusteprivacy/dap-120000000391830).
+To learn more about interest based advertising and to manage your preferences for Sears and Kmart branded online ads, please visit the [Sears Online Advertising Preference Center](http://preferences-mgr.truste.com/?pid=sears01&aid=sears01&type=sears) or the [Kmart Online Advertising Preference Center](http://preferences-mgr.truste.com/?pid=sears01&aid=sears01&type=kmart).
 
 These opt-out mechanisms rely on cookies to remember your choices with respect to ad-serving on websites. If you delete your cookies, use another computer or device, or change browsers, you will need to repeat this process. In addition, opting out of interest-based ads will not opt you out of all ads, but rather only those ads that are personalized to your interests based on activities observed on our Site and/or web sites or mobile apps not owned and operated by Sears Holdings.
 
-Is My Information Secure?
+## Is My Information Secure?
 
 We maintain reasonable and appropriate physical, electronic and procedural safeguards to protect your PII. While we work very hard to protect your privacy, no method of security is 100% effective, and we cannot be responsible for the actions of those who may gain unauthorized access to your PII. Sears Holdings makes no warranties, express, implied or otherwise, as to the ultimate effectiveness of its reasonable and appropriate safeguards.
 
-How Can I Access My Information?
+## How Can I Access My Information?
 
 You can personalize your experience on this Site and other Sears Holdings Sites by becoming a Registered User or Member. By registering, you will be able to tell us what products and services interest you, and whether you wish to receive information about special sales, promotions and other events. Once registered, you can submit, review and maintain your account profile information at any time by accessing your profile from within the particular Site. Your account information is accessible by using a password that you select or by using third-party social networking login credentials for accounts such as Facebook, Google or Yahoo if you choose to enable this feature.
 
-Can I "Opt-Out" of Receiving Promotional E-mails?
+## Can I "Opt-Out" of Receiving Promotional E-mails?
 
 From time to time, we may send you e-mails with promotional offers and messages. If you would no longer like to receive e-mails with promotional offers and messages from this Site, you can unsubscribe from these e-mails by following the unsubscribe link located at the bottom of each promotional e-mail. Please note that you may still receive transactional or relationship or other non-promotional e-mails (e.g. order confirmations, shipping notices, statements, important information regarding a product you have purchased).
 
-Where Is My Information Stored?
+## Where Is My Information Stored?
 
 Your PII may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country. This Site is controlled and operated by us from the United States and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
 
-How May I Contact You?
+## How May I Contact You?
 
 If you have any questions about this Privacy Policy, please contact us at [PrivacyOffice@searshc.com](mailto:PrivacyOffice@searshc.com). Because email communications are not always secure, please do not include credit card or other financial information, health or prescription-related information or other sensitive information in your email to us. If you prefer to contact us via US Mail, please address your inquiry to
 
