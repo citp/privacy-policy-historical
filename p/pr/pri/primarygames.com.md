@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219113232id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624214434id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Kids Games Online
 
@@ -6,13 +6,7 @@
 
 #### Effective: April 8, 2015
 
-[](https://privacy.truste.com/privacy-seal/PrimaryGames-com/validation?rid=d58c691e-9179-4a6d-ba78-1d4ce8e273fd "TRUSTe online privacy certification")
-
-[](https://privacy.truste.com/privacy-seal/PrimaryGames-com/validation?rid=12f54fed-a46b-42d6-a21e-6617f1e3735f "TRUSTe Children privacy certification")
-
 **PrimaryGames.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. PrimaryGames is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.primarygames.com.
-
-**PrimaryGames.com** has received TRUSTe’s Children’s Privacy and Privacy Seal signifying this privacy policy and our pratices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers information collected on our site [www.primarygames.com](http://www.primarygames.com/) and does not cover information that may be collected through our mobile applications, mobile sites, or downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@primarygames.com](mailto:privacy@primarygames.com) .  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 #### Information Automatically Logged
 
@@ -77,7 +71,7 @@ Quantcast: <https://www.quantcast.com/company/opt-out/>
 
 We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:
 
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+[http://www.macromedia.com/support/documentation/en/flashplayer/help/](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 #### External Links
 
