@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625012225id_/https%3A//www.tuscl.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.myfreecams.com/?cam=30487&track=banner792x90a#Homepage)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -15,19 +17,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-* * *
-
-**The Ultimate Strip Club List**
-
- _More than a list. It's the evocation of a culture._
-
-[Glossary](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/gloss.php) | [FAQ](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/faq.php) | [Advertise](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/promote.php) | [Contact](mailto:founder@tuscl.net) | [Privacy](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/privacy.php) | [Terms](https://web.archive.org/web/20150326115033id_/https%3A//www.tuscl.net/tos.php)
-
-[Free Girls on Webcam 18+](http://www.myfreecams.com/?cam=30487&track=footer1) | [Sex Dating](http://www.sexdating.org/sex-dating-online-or-hookup-at-a-bar-.php)
-
-March 26, 2015 •  Vol. 22, No. 85
-
-Everything written on this site should be considered a work of fiction.
-
-© 1995-2015 - tuscl 
