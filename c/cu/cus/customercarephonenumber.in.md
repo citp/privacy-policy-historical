@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customercarephonenumber.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185235id_/http%3A//www.customercarephonenumber.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercarephonenumber.in privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624231335id_/http%3A//www.customercarephonenumber.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Care Phone Number
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Customers Forum may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
 
@@ -65,5 +65,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 customercarephonenumber.in@gmail.com
 
 This document was last updated on December 29, 2012
-
-### Share and Enjoy
