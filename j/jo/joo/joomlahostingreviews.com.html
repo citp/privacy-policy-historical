@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joomlahostingreviews.com privacy policy that was archived on 2015-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151101072035id_/http%3A//www.joomlahostingreviews.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joomlahostingreviews.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624053654id_/http%3A//www.joomlahostingreviews.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb"><head>
 <link href="http://www.joomlahostingreviews.com/privacy-policy.html" rel="canonical">
@@ -25,10 +25,11 @@
   <link rel="stylesheet" href="/templates/gantry/css-compiled/mediaqueries.css" type="text/css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Amaranth:regular,italic,700,700italic&amp;subset=latin,latin-ext" type="text/css">
   <link rel="stylesheet" href="/templates/gantry/css/gantry-custom.css" type="text/css">
+  <link rel="stylesheet" href="/media/jui/css/chosen.css" type="text/css">
   <link rel="stylesheet" href="/media/com_finder/css/finder.css" type="text/css">
-  <link rel="stylesheet" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/jquery_ui_theme/jquery-ui-1.9.2.custom.css?v=12" type="text/css">
-  <link rel="stylesheet" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/theme.css?v=12" type="text/css">
-  <link rel="stylesheet" href="/templates/jreviews_overrides/views/themes/jhr336/theme_css/custom_styles.css?v=12" type="text/css">
+  <link rel="stylesheet" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/jquery_ui_theme/jquery-ui-1.9.2.custom.css?v=17" type="text/css">
+  <link rel="stylesheet" href="/components/com_jreviews/jreviews/views/themes/default/theme_css/theme.css?v=17" type="text/css">
+  <link rel="stylesheet" href="/templates/jreviews_overrides/views/themes/jhr336/theme_css/custom_styles.css?v=17" type="text/css">
   <link rel="stylesheet" href="/templates/gantry/css-compiled/menu-15997eefb2d318a0842bccda000eeb9e.css" type="text/css">
   <style type="text/css">
 h1, h2 { font-family: 'Amaranth', 'Helvetica', arial, serif; }
@@ -44,11 +45,12 @@ h1, h2 { font-family: 'Amaranth', 'Helvetica', arial, serif; }
   <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
   <script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
   <script src="/templates/gantry/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/media/jui/js/chosen.jquery.min.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery.autocomplete.min.js" type="text/javascript"></script>
-  <script src="/components/com_s2framework/tmp/cache/core/locale-en_GB.js?v=12" type="text/javascript"></script>
-  <script src="/components/com_jreviews/jreviews/views/js/jquery/jquery-ui-1.9.2.custom.min.js?v=12" type="text/javascript"></script>
-  <script src="/components/com_jreviews/jreviews/views/js/jquery/i18n/jquery.ui.datepicker-en-GB.js?v=12" type="text/javascript"></script>
-  <script src="/components/com_jreviews/jreviews/views/js/jreviews.js?v=12" type="text/javascript"></script>
+  <script src="/components/com_s2framework/tmp/cache/core/locale-en_GB.js?v=17" type="text/javascript"></script>
+  <script src="/components/com_jreviews/jreviews/views/js/jquery/jquery-ui-1.9.2.custom.min.js?v=17" type="text/javascript"></script>
+  <script src="/components/com_jreviews/jreviews/views/js/jquery/i18n/jquery.ui.datepicker-en-GB.js?v=17" type="text/javascript"></script>
+  <script src="/components/com_jreviews/jreviews/views/js/jreviews.js?v=17" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js" type="text/javascript"></script>
   <script src="/modules/mod_roknavmenu/themes/default/js/responsive.js" type="text/javascript"></script>
@@ -67,24 +69,24 @@ jQuery(window).on('load',  function() {
 	
 
 
+		jQuery(document).ready(function (){
+			jQuery('select').chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
+		});
+	
 jQuery(document).ready(function(){
 	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
 });
 jQuery(document).ready(function() {
 	var value, searchword = jQuery('#mod-finder-searchword');
 
-		// Set the input value if not already set.
-		if (!searchword.val())
-		{
-			searchword.val('Search ...');
-		}
-
 		// Get the current value.
 		value = searchword.val();
 
 		// If the current value equals the default value, clear it.
-		searchword.on('focus', function()
-		{	var el = jQuery(this);
+		searchword.on('focus', function ()
+		{
+			var el = jQuery(this);
+
 			if (el.val() === 'Search ...')
 			{
 				el.val('');
@@ -92,30 +94,37 @@ jQuery(document).ready(function() {
 		});
 
 		// If the current value is empty, set the previous value.
-		searchword.on('blur', function()
-		{	var el = jQuery(this);
+		searchword.on('blur', function ()
+		{
+			var el = jQuery(this);
+
 			if (!el.val())
 			{
 				el.val(value);
 			}
 		});
 
-		jQuery('#mod-finder-searchform').on('submit', function(e){
+		jQuery('#mod-finder-searchform').on('submit', function (e)
+		{
 			e.stopPropagation();
 			var advanced = jQuery('#mod-finder-advanced');
+
 			// Disable select boxes with no value selected.
-			if ( advanced.length)
+			if (advanced.length)
 			{
-				advanced.find('select').each(function(index, el) {
+				advanced.find('select').each(function (index, el)
+				{
 					var el = jQuery(el);
-					if(!el.val()){
+
+					if (!el.val())
+					{
 						el.attr('disabled', 'disabled');
 					}
 				});
 			}
 		});
 	var suggest = jQuery('#mod-finder-searchword').autocomplete({
-		serviceUrl: '/finder.html?format=json&task=suggestions.suggest&tmpl=component',
+		serviceUrl: '/finder.html?format=json&amp;task=suggestions.suggest&amp;tmpl=component',
 		paramName: 'q',
 		minChars: 1,
 		maxHeight: 400,
@@ -128,21 +137,21 @@ jQuery(document).ready(function(){
 });
 
 
+		jQuery(document).ready(function (){
+			jQuery('select').chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
+		});
+	
 jQuery(document).ready(function() {
 	var value, searchword = jQuery('#mod-finder-searchword');
-
-		// Set the input value if not already set.
-		if (!searchword.val())
-		{
-			searchword.val('Search ...');
-		}
 
 		// Get the current value.
 		value = searchword.val();
 
 		// If the current value equals the default value, clear it.
-		searchword.on('focus', function()
-		{	var el = jQuery(this);
+		searchword.on('focus', function ()
+		{
+			var el = jQuery(this);
+
 			if (el.val() === 'Search ...')
 			{
 				el.val('');
@@ -150,30 +159,37 @@ jQuery(document).ready(function() {
 		});
 
 		// If the current value is empty, set the previous value.
-		searchword.on('blur', function()
-		{	var el = jQuery(this);
+		searchword.on('blur', function ()
+		{
+			var el = jQuery(this);
+
 			if (!el.val())
 			{
 				el.val(value);
 			}
 		});
 
-		jQuery('#mod-finder-searchform').on('submit', function(e){
+		jQuery('#mod-finder-searchform').on('submit', function (e)
+		{
 			e.stopPropagation();
 			var advanced = jQuery('#mod-finder-advanced');
+
 			// Disable select boxes with no value selected.
-			if ( advanced.length)
+			if (advanced.length)
 			{
-				advanced.find('select').each(function(index, el) {
+				advanced.find('select').each(function (index, el)
+				{
 					var el = jQuery(el);
-					if(!el.val()){
+
+					if (!el.val())
+					{
 						el.attr('disabled', 'disabled');
 					}
 				});
 			}
 		});
 	var suggest = jQuery('#mod-finder-searchword').autocomplete({
-		serviceUrl: '/finder.html?format=json&task=suggestions.suggest&tmpl=component',
+		serviceUrl: '/finder.html?format=json&amp;task=suggestions.suggest&amp;tmpl=component',
 		paramName: 'q',
 		minChars: 1,
 		maxHeight: 400,
@@ -190,35 +206,19 @@ jQuery(document).ready(function() {
             jreviews.lang = jreviews.lang || {};
             jreviews.qvars = {"pg":"page","mc":"m"};
             jreviews.locale = "en_GB";
-            jreviews.jparams = false,
             jreviews.fb = {"appid":"","og":true,"xfbml":false,"optout":false,"post":false};
             jreviews.comparison = {
                 numberOfListingsPerPage: 3,
                 maxNumberOfListings: 15,
-                compareURL: "/reviews/categories/compare/?id=listing_ids"
+                compareURL: "/review-directory/categories/compare/?id=listing_ids"
             };
             jreviews.mobi = 0;
             jreviews.iOS = 0;
             jreviews.isRTL = 0;
             /* ]]> */
             </script>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
+</head>
 <body class="logo-type-custom headerstyle-dark font-family-amaranth font-size-is-default menu-type-splitmenu layout-mode-responsive col12 option-com-content menu-privacy-policy ">
-<!-- Facebook SDK -->
-<div id="fb-root"></div>
-<script type="text/javascript">
-
-      // Load the SDK Asynchronously
-      (function(d){
-      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-      js = d.createElement('script'); js.id = id; js.async = true;
-      js.src = '//connect.facebook.net/en_GB/all.js';
-      d.getElementsByTagName('head')[0].appendChild(js);
-    }(document));
-
-</script>
-<!-- End Facebook SDK -->
-
         <header id="rt-top-surround">
 				<div id="rt-top">
 			<div class="rt-container">
@@ -260,7 +260,7 @@ jQuery(document).ready(function() {
 	                		
 <form id="mod-finder-searchform" action="/search.html" method="get" class="form-search">
 	<div class="finder-searchtop -logot hidden-phone">
-		<input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="40" value=""><button class="btn btn-primary hasTooltip -searchtop -logot hidden-phone finder-searchtop -logot hidden-phone" type="submit" title="Go"><span class="icon-search icon-white"></span></button>
+		<label for="mod-finder-searchword" class="element-invisible finder-searchtop -logot hidden-phone">Search</label><br><input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="40" value="" placeholder="Search ..."><button class="btn btn-primary hasTooltip -searchtop -logot hidden-phone finder-searchtop -logot hidden-phone" type="submit" title="Go"><span class="icon-search icon-white"></span>Search</button>
 							</div>
 </form>
 	                	</div>
@@ -1152,9 +1152,6 @@ jQuery(document).ready(function() {
 
 
 	</article>
-
-
-
 								</div>
 	                        </div>
 						</div>
@@ -1761,18 +1758,19 @@ jQuery(document).ready(function() {
 </div>
 <div class="pf-bottom-search">
 <div style="float: left; padding-right: 5px;">Did not find what you were looking for? Try <a href="http://www.google.com/" target="_blank">Google</a>, <a href="http://dmoz.org" target="_blank">The Open Directory Project</a> or</div>
-<div style="float: left;"><!-- START: Modules Anywhere --><div class="rt-block _topsearch">
+<div style="float: left;"><!-- START: Modules Anywhere -->           <div class="rt-block _topsearch">
            	<div class="module-surround">
 	           		                	<div class="module-content">
 	                		
 <form id="mod-finder-searchform" action="/search.html" method="get" class="form-search">
 	<div class="finder_topsearch">
-		<input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="40" value=""><button class="btn btn-primary hasTooltip _topsearch finder_topsearch" type="submit" title="Go"><span class="icon-search icon-white"></span></button>
+		<label for="mod-finder-searchword" class="element-invisible finder_topsearch">Search</label><br><input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="40" value="" placeholder="Search ..."><button class="btn btn-primary hasTooltip _topsearch finder_topsearch" type="submit" title="Go"><span class="icon-search icon-white"></span>Search</button>
 							</div>
 </form>
 	                	</div>
                 	</div>
-           </div><!-- END: Modules Anywhere --></div>
+           </div>
+	<!-- END: Modules Anywhere --></div>
 </div>
 <div style="clear: both;">&nbsp;</div></div>
 	                	</div>
