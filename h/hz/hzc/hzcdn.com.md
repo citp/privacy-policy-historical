@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hzcdn.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231064520id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hzcdn.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624171116id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 Welcome to Houzz! Houzz is an information and social network dedicated to homebuilding, renovation, and design. Houzz connects you to home-related products and businesses, professional service providers, and others who can give you feedback and ideas about your design goals. 
 
-This privacy policy is to help you understand what information Houzz collects, how Houzz uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website and applications (collectively the “Site” or “Houzz”). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our [Terms of Use](http://www.houzz.com/termsOfUse/v=20150815) are incorporated by reference into this privacy policy. The terms “we,” or “our,” refer to Houzz Inc., a Delaware corporation, headquartered in Palo Alto, California in the United States. 
+This privacy policy is to help you understand what information Houzz collects, how Houzz uses it, how it may be shared, and what choices you have. This privacy policy governs the products and services we offer through our website and applications (collectively the “Site” or “Houzz”). When you use the Site, you consent to our collection, use and disclosure of information about you as described in this privacy policy. Additionally, our [Terms of Use](http://www.houzz.com/termsOfUse) are incorporated by reference into this privacy policy. The terms “we,” or “our,” refer to Houzz Inc., a Delaware corporation, headquartered in Palo Alto, California in the United States. 
 
 We collect information that you provide us directly or automatically when you use our Site.
 
@@ -31,7 +31,7 @@ Please note we do not change system behavior within the Site in response to brow
 
 It may be possible to disable Cookies through your device or browser settings. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings. However, doing so may affect your ability to use the Site. If you are not comfortable with the above uses of Cookies, please do not use this Site. 
 
-For more information about our use of Cookies on the Site, please see our [Cookie Policy](http://www.houzz.com/cookiePolicy/v=20150815). 
+For more information about our use of Cookies on the Site, please see our [Cookie Policy](http://www.houzz.com/cookiePolicy). 
 
 We do not rent or sell your personal contact information (such as your email address associated with your account registration) to third-parties to use for their own marketing purposes. We may share some information about you with third parties in connection with your use of the Site. Our information sharing with third-parties fall into these categories and purposes: 
 
