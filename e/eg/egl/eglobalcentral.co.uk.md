@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eglobalcentral.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907063340id_/http%3A//www.eglobalcentral.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624210023id_/http%3A//www.eglobalcentral.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY -
+# PRIVACY POLICY - eGlobal Central UK Reward Scheme
 
 Your privacy is important to us. This privacy statement provides information about the personal information that eglobal central collects, and the ways in which eglobal central uses that personal information. 
 
@@ -61,3 +61,11 @@ Cheung Sha Wan Post Office
 Hong Kong
 
 e-mail: support@eglobalcentral.co.uk
+
+**To Unsubscribe**
+
+To close an account, please visit our online support centre and submit a ticket. Your user account will be closed and all information removed from our server within 48 hours.
+
+To opt-out from our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
+
+To opt-out from our advertising or promotion inforomation, you can unsubscribe [here](http://www.eglobalcentral.co.uk/unsubscribe.php).
