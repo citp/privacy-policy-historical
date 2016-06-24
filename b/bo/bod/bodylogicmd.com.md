@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211003628id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625015411id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
 
 # BodyLogicMD - Privacy Policy
 
@@ -46,7 +46,7 @@ We use the information you provide about yourself to contact you regarding your 
 
 We use return email addresses to answer the email and requests we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-As a patient of BodyLogicMD, you will register with our website to complete a personal history form and manage your prescription and supplement orders. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+As a patient of BodyLogicMD affiliated physician, you will register with our website to complete a personal history form and manage your prescription and supplement orders. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
