@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiomelody.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916024425id_/http%3A//www.audiomelody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomelody.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624150320id_/http%3A//www.audiomelody.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AudioMelody
 
