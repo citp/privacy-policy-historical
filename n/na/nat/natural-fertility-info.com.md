@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natural-fertility-info.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220181303id_/http%3A//natural-fertility-info.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-fertility-info.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624105533id_/http%3A//natural-fertility-info.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,10 +23,10 @@ If you do not want to receive e-mail from us in the future, please let us know b
 Natural Fertility Info.com is always interested in what our customers have to say. If you have any questions or concerns, please [contact us here](http://natural-fertility-info.com/contact-us).
 
 Our postal address is:  
-Natural Fertility Info.com  
-340 S. Lemon Ave. #6218  
-Walnut CA, 91789
+The Natural Fertility Company  
+313918 E Mississippi Ave #67080  
+Aurora, CO 80012
 
-This document was last updated December 7th, 2012.
+This document was last updated April 1st, 2016.
 
 If you feel this site is not following its stated information policy, you may contact us via phone, e-mail or mail.
