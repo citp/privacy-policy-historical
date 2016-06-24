@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwedeh.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219090044id_/http%3A//pwedeh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwedeh.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624143120id_/http%3A//pwedeh.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | PHILIPPINE PCSO LOTTO RESULTS PCSO
 
@@ -37,3 +37,5 @@ Use original username/codename (not fullname). Username/Codename must not be the
 Content post must be in a horizontal form. 
 
 Deletion/Banned will be imposed at any time without prior notice.
+
+................................................................................................................. 
