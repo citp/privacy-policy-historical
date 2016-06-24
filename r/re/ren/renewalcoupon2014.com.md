@@ -1,32 +1,37 @@
-> *The following text is extracted and transformed from the renewalcoupon2014.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218140723id_/http%3A//renewalcoupon2014.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renewalcoupon2014.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624222604id_/http%3A//lockcoupons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GoDaddy Coupon
+# Privacy Policy
 
-If you  have any questions about our privacy policy, please  [contact us](http://renewalcoupon2014.com/contact-us "Contact Us"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://renewalcoupon2014.com](http://renewalcoupon2014.com/)[  
-](http://www.abcdefghijklmnopqrstuvwxyz-games.com/ "Abcdefghijklmnopqrstuvwxyz Games")
+Lock Coupons ([http://lockcoupons.com](http://lockcoupons.com/)) understands that privacy is important to its clients.
 
-  * **Log Files**
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-
-
-Like many other Web sites, the site makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-  * **Cookies and Web Beacons**
+  * **Website Visitors**
 
 
 
-[http://renewalcoupon2014.com](http://renewalcoupon2014.com/)  does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Like most website operators, Lock Coupons collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Lock Coupon’s purpose in collecting non-personally identifying information is to better understand how our visitors use its website. From time to time, Lock Coupons may release non-personally-identifying information in the aggregate.
 
-  * **Our Coupons**
-
-
-
-When you visit our Sites or download and install our coupon printing software, toolbar, or mobile applications on your computer or other device, we may collect and store information about that device that helps us manage our products and services, deliver a more customized experience for you, and detect and prevent coupon fraud.
-
-A device identifier remains associated with your computer even after uninstalling the coupon printer software. This identifier is used primarily to prevent coupon fraud and does not collect personally identifiable information.
-
-  * **Changes to this Privacy Policy**
+  * **Cookies and Tracking Technologies**
 
 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Some of our Web pages utilize “cookies” and other tracking technologies. A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you’ve visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may use cookies to remember personal settings you have chosen at our website. In no other context do we use cookies to collect information that identifies you personally. Most of the cookies we set are automatically deleted from your computer when you leave our website or shortly afterwards.
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience.
+
+  * **Protection of personal information**
+
+
+
+We understands the importance of securing your personal information. We do not collect personal information. Our sites do not need to register or login.
+
+  * **Changes to Privacy Policy**
+
+
+
+The internet and data privacy best practice are both developing. We therefore reserve the right to revise this Privacy Statement at any time. If this Privacy Statement changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+
+[Contact Us.](http://lockcoupons.com/contact "contact us")
+
+Email: lockcoupons#gmail.com
