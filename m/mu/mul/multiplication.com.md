@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplication.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225215140id_/http%3A//www.multiplication.com/help/policy-returns) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplication.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624151245id_/http%3A//www.multiplication.com/help/policy-returns) for the most accurate reproduction.*
 
 # Policies and Returns | Multiplication.com
 
@@ -10,7 +10,7 @@ All of our products have a MONEY BACK guarantee.  If you are not completely sat
   * [**Privacy Policy**](https://web.archive.org/help/privacy-policy)
     * We value your privacy!  Krimsten Publishing will never willfully sell, trade, or publish information from your visit or transaction.  We may send you an e-mail message to see how you like the product you ordered - but that is it. 
     * Please click the links below for our **detailed  **[Privacy Policy](https://web.archive.org/help/privacy-policy) and [Terms and Conditions of Use](https://web.archive.org/help/terms-of-use). 
-      * **[DETAILED PRIVACY POLICY](https://web.archive.org/help/privacy-policy) \- Revised March 2015**
+      * **[DETAILED PRIVACY POLICY](https://web.archive.org/help/privacy-policy) \- Revised January 2016**
       * **[TERMS AND CONDITIONS OF USE](https://web.archive.org/help/terms-of-use) \- Revised March 2015**  
  
   * **Policies for On-Line Visitors Under 13 Years of Age**
