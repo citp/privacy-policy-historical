@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trendelier.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216012519id_/http%3A//www.trendelier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendelier.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624151320id_/http%3A//www.trendelier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trendelier
 
-This Privacy Policy governs the manner in which Trendelier collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.trendelier.com](http://www.generateprivacypolicy.com/account/policies/edit/www.trendelier.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Trendelier.
+This Privacy Policy governs the manner in which Trendelier collects, uses, maintains and discloses information collected from users (each, a “User”) of the website (“Site”). This privacy policy applies to the Site and all products and services offered by Trendelier.
 
 **Personal identification information**
 
@@ -45,25 +45,13 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-  * You may learn about our advertizing partners here: 
-    * [Google AdSense](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.google.com%2Fadsense%2Fstart%2F&ei=HLRDVYuDAZHmaIWwgcgJ&usg=AFQjCNFbD4977pRyFbOtH_EiEZ8ai7TWNg&bvm=bv.92189499,d.d2s)
-    * [content.ad](https://web.archive.org/web/20151216012519id_/http%3A//www.trendelier.com/content.ad)
-    * [Taboola](https://web.archive.org/web/20151216012519id_/http%3A//www.trendelier.com/taboola.com)
-    * [Kiosked](https://web.archive.org/web/20151216012519id_/http%3A//www.trendelier.com/kiosked.com)
-    * [infolinks](https://web.archive.org/web/20151216012519id_/http%3A//www.trendelier.com/infolinks.com)
-
-
-  * You may opt out of these third-party vendors’ use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
-
-
-
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you that are based on your visit to this site and/or other sites across the Internet.
-  * You may opt out of a third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * You may opt out of a third-party vendor’s use of cookies for interest-based advertising.
 
 
 
@@ -73,13 +61,11 @@ Trendelier has the discretion to update this privacy policy at any time. When we
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.trendelier.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Trendelier](http://www.generateprivacypolicy.com/account/policies/edit/www.trendelier.com)  
-[www.trendelier.com](http://www.generateprivacypolicy.com/account/policies/edit/www.trendelier.com)  
-info@trendelier.com
+privacy(at)trendelier.com
 
-This document was last updated on February 03, 2015
+This document was last updated on February 03, 2016
