@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the prochan.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918093758id_/http%3A//www.prochan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochan.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624085700id_/http%3A//www.prochan.com/privacy) for the most accurate reproduction.*
 
 # ProChan - Social networking communities
 
-  * [Skip to navigation (n)](https://www.prochan.com/#nav)
-  * [Skip to content (c)](https://www.prochan.com/#content)
-  * [Skip to footer (f)](https://www.prochan.com/#footer)
+  * [Skip to navigation (n)](http://www.prochan.com/#nav)
+  * [Skip to content (c)](http://www.prochan.com/#content)
+  * [Skip to footer (f)](http://www.prochan.com/#footer)
 
 
 
 ## Navigation
 
-  * [Register](https://www.prochan.com/user?a=register) _(1)_
-  * [Login](https://www.prochan.com/user?a=login) _(2)_
-  * [Channels](https://www.prochan.com/channel?a=browse) _(3)_
+  * [Register](http://www.prochan.com/user?a=register) _(1)_
+  * [Login](http://www.prochan.com/user?a=login) _(2)_
+  * [Channels](http://www.prochan.com/channel?a=browse) _(3)_
 
 
 
@@ -113,7 +113,7 @@ We at ProChan take the online safety of children very seriously. ProChan's websi
 ##### Your Questions or Suggestions Regarding this Privacy Policy.  
   
   
-If you have a privacy concern regarding any ProChan website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should [contact us here](https://www.prochan.com/contact_us)  
+If you have a privacy concern regarding any ProChan website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should [contact us here](http://www.prochan.com/contact_us)  
   
   
 
