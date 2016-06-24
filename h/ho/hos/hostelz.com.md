@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelz.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007054219id_/http%3A//www.hostelz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelz.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624153002id_/http%3A//www.hostelz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hostelz.com
 
@@ -33,7 +33,3 @@ By using our site you consent to our privacy policy.
 ## Changes to our Privacy Policy
 
 If we decide to change our privacy policy we will post those changes on this page. 
-
-Copyright © 2015 Hostelz.com
-
-[](http://www.hostelz.com/chat.php?page=http%3A%2F%2Fwww.hostelz.com%2Fprivacy.php)
