@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edadvisor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124618id_/https%3A//www.edvisors.com/terms-privacy-disclaimer/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edadvisor.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624134712id_/https%3A//www.edvisors.com/terms-privacy-disclaimer/%23privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use, Privacy Policy, and Disclaimer | Edvisors
 
 ## Terms of Use
 
-Last Modified: October 29, 2013
+Last Modified: March 3, 2016
 
 ### Contents
 
@@ -73,6 +73,8 @@ As a condition for using the Service(s), you agree that you have read, understoo
 We reserve the right to modify these Terms of Use at any time and in our sole discretion without prior notice. Furthermore, we reserve the right to add to, update, delete from or modify the Services at any time and in our sole discretion. We may post or display notices of changes to the Term of Use on or through the Services. Once posted, these changes to the Terms of Use become effective immediately. If any change that we make is not acceptable to you, your sole recourse shall be to cease using the Services. Any access or use by you of the Services after any changes to our Terms of Use constitutes conclusive evidence of your acknowledgement of the modification to these Terms of Use and your agreement to be bound by such change(s). You should check back regularly and review these Terms of Use. Any new or additional feature of the Services shall be subject to these Terms of Use.
 
 ### 4\. Third-Party Links and Content
+
+Edvisors does not exercise editorial control over third-party content provided, uploaded, published, or distributed by users and other participants on Edvisors websites. In other words, the Edvisors website(s) is/are merely a distributor, not a publisher, of such content. Such content may contain the views, opinions, statements, offers, and other material of the respective users, suppliers, participants, or authors. Edvisors does not endorse, is not responsible for, and makes no representations or warranties regarding, such content or its accuracy, supplier ability or fitness for any particular purpose, and Edvisors shall not be liable for any harm resulting from or in connection with reliance on any such content, including, but not limited to, claims for defamation, libel, slander, infringement, invasion of privacy and publicity rights, obscenity, pornography, profanity, fraud, or misrepresentation. In addition, the Edvisors. shall not be a party to or liable in any way for any harm associated with, any transaction between our users and any other user or participant on the website(s). Notwithstanding the foregoing, Edvisors reserves the right to block or remove communications, postings or materials at any time in our sole discretion.
 
 The Services may contain links to third-party websites or applications that are not owned or controlled by Edvisors. Edvisors has no control over, and assumes no responsibility for the products, services, content, privacy policies or practices of any third-party website or application. In addition, Edvisors is unable and unwilling to censor or edit the content of any third-party website or application. By accessing and using the Services, you expressly relieve Edvisors from any and all liability arising from your use of any linked third-party website or application. Accordingly, we encourage you to be aware when you leave our Services and to read the terms and conditions and privacy policy of each website or application that you access or use. If you decide to access any other websites or applications linked to or from our Services, you do so entirely at your own risk. Any questions, complaints, or claims related to any product or service provided by a third-party on the Services should be directed to the applicable third-party.
 
@@ -235,10 +237,11 @@ We provide this policy to explain our privacy practices, including what informat
   5. How We Share Your Information
   6. Links To Other Sites
   7. How To Update Your Information
-  8. Changing Our Privacy Policy
-  9. Retention
-  10. Disputes: No Rights of Third Parties
-  11. Effective Date of This Policy
+  8. Your Opt Out Rights
+  9. Changing Our Privacy Policy
+  10. Retention
+  11. Disputes: No Rights of Third Parties
+  12. Effective Date of This Policy
 
 
 
@@ -250,7 +253,7 @@ This Privacy Policy applies to all web sites owned and operated by Edvisors Netw
 10000 W. Charleston Blvd., Suite 200  
 Las Vegas, NV 89135 USA**
 
-Our goal is to resolve questions or concerns you have about this policy or our privacy practices. If you have questions about this policy, you may reach us during regular business hours at (888) 972-1010. If you wish to opt out, [click here](https://www.edvisors.com/contact/unsubscribe/). 
+Our goal is to resolve questions or concerns you have about this policy or our privacy practices. If you have questions about this policy, you may reach us during regular business hours at (888) 972-1010.
 
 ### 1\. Information We Collect
 
@@ -330,7 +333,7 @@ This web site is not directed or otherwise promoted for use by children under th
 
 ### 3\. How We Protect Your Information
 
-We take the security of your personal information very seriously, and have implemented policies and procedures designed to safeguard it. Edvisors Network, Inc. maintains physical, electronic, and administrative safeguards to help protect our data. To protect your personal information from unauthorized access and use, we have implemented both online and offline security measures such as computer safeguards (firewalls and passwords) and securing servers and buildings where your information is stored. We require all third party advertising and marketing partners with whom we share your information to make reasonable efforts to protect your information.
+We take the security of your personal information very seriously, and have implemented policies and procedures designed to safeguard it. Edvisors Network, Inc. maintains physical, electronic, and administrative safeguards to help protect our data. To protect your personal information from unauthorized access and use, we have implemented both online and offline security measures such as computer safeguards (firewalls and passwords) and securing servers and buildings where your information is stored. We require all third party advertising and marketing partners with whom we share your information to make reasonable efforts to protect your information, however we "do not guarantee" the security of personal information sold to or shared with third parties.
 
 We cannot, however, ensure or warrant the security of any information you transmit to us or store on the Service and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
@@ -342,11 +345,11 @@ In addition, we use your information to operate, administer, test and improve ou
 
 ### 5\. How We Share Your Information
 
-**Edvisors Sites:** The sites that constitute the Edvisors Network all have access to and use information about you for the purposes described above. If you prefer not to receive marketing materials from Edvisors, you may [opt out](https://www.edvisors.com/contact/unsubscribe/).
+**Edvisors Sites:** The sites that constitute the Edvisors Network all have access to and use information about you for the purposes described above.
 
-**Advertisers and Marketing Partners:** We may share with third parties whose products and services we think may be of interest to you, such as educational institutions; financial companies, such as those that make or arrange student loans and other financial products; non-financial institutions, such as retailers who sell a wide range of products and services to consumers; direct marketing companies; or nonprofit organizations. If you prefer not to receive marketing materials from third parties, you may [opt out](https://www.edvisors.com/contact/unsubscribe/).
+**Advertisers and Marketing Partners:** We may share and/or sell with third parties whose products and services we think may be of interest to you, such as educational institutions; financial companies, such as those that make or arrange student loans and other financial products; non-financial institutions, such as retailers who sell a wide range of products and services to consumers; direct marketing companies; or nonprofit organizations. These third parties may be domestic or international.
 
-**Third Party Market Research (MR) Companies:** We may also share your personal information and/or social-demographic information, including, without limitation, a unique identification number (“UID”), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the purpose of identifying survey opportunities that you may be eligible for through the Third Party MR Companies. If you are eligible for a survey opportunity, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the survey. We will not share your name, email address, or phone number with the Third Party MR Companies. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States. If you have any questions about this data sharing, you may reach us during regular business hours at (888) 972-1010 or alternatively you may [opt-out](https://www.edvisors.com/contact/unsubscribe/). Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies.
+**Third Party Market Research (MR) Companies:** We may also share your personal information and/or social-demographic information, including, without limitation, a unique identification number (“UID”), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the purpose of identifying survey opportunities that you may be eligible for through the Third Party MR Companies. If you are eligible for a survey opportunity, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the survey. We will not share your name, email address, or phone number with the Third Party MR Companies. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States. If you have any questions about this data sharing, you may reach us during regular business hours at (888) 972-1010. Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies.
 
 **Analytics Partners:** We may share your information with third parties who use the information solely for analytical purposes. The third-party analytics provider cannot associate your IP address with your personally identifiable information.
 
@@ -378,23 +381,27 @@ We endeavor to ensure that personal information is as accurate, complete and cur
 
 The appropriate method(s) for accessing your information, if any, will depend on which of our web sites and services you have visited or used. Depending on the web site and service, you may have the ability to view or edit some of your information online, by logging into the services and visiting your account profile page. You may also reach us during regular business hours at (888) 972-1010 to request access to, correct, or delete any personal information that you have provided to us; however, we may ask you to verify your identity and provide other details to help us to respond to your request.
 
-**Promotional E-mails:** If you do not wish to receive promotional e-mails from us, including our e-newsletters, follow the unsubscribe process at the bottom of the promotional e-mail. Alternatively, you can [opt-out here](https://www.edvisors.com/contact/unsubscribe/). Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on or made through the services).
+### 8\. Your Opt Out Rights
 
-If you wish to opt out of the use of your technical information by online advertising networks, please visit <http://www.aboutads.info/choices>. You can also disable or delete cookies directly on your web browser. Please see your browser’s “help” content for information on how to do this.
+**Unsubscribe from Our E-mails:** If you do not wish to receive promotional e-mails from us, (whether on our behalf or on behalf of a client), including our e-newsletters, follow the unsubscribe process at the bottom of the promotional e-mail. Alternatively, you can [unsubscribe here](https://web.archive.org/contact/unsubscribe/). Note that even if you opt out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on or made through the services).
 
-You can opt-out of our use of your online viewing behavior data to serve you interest-based advertising on third-party sites at [www.aboutads.info](http://www.aboutads.info/) or by clicking on the Interest-based Ads link in the footer of our web sites and navigating to the consumer opt-out page. Use the same links to opt-out of interest-based advertising on our services from any third-party advertising networks we may use.
+**Opting Out —  Advertisers and Third Parties:** We will stop sharing and/or selling your personal information in Edvisors’ proprietary database to help third parties (including **Third Party Market Research (MR) Companies** ), or marketing partners send or tailor ads and content to you, including through email, direct mail or online display marketing. Doing so will not opt you out of our marketing partners’ or third parties databases, only data in Edvisors’ own database – so other companies that we work with may still send ads, offers and content to you. To opt out of Edvisors sharing and/or selling your information with third parties and/or marketing partners, [opt out here](https://web.archive.org/third-party-opt-out/).
 
-If you would like to opt-out of having interest-based ad targeting, [click here](http://www.aboutads.info/choices/).
+**Opting Out of Interest Based Advertising:** If you wish to opt out of the use of your technical information by online advertising networks, please visit <http://www.aboutads.info/choices>. You can also disable or delete cookies directly on your web browser. Please see your browser’s “help” content for information on how to do this.
+
+You can opt out of our use of your online viewing behavior data to serve you interest-based advertising on third-party sites at [www.aboutads.info](http://www.aboutads.info/) or by clicking on the Interest-based Ads link in the footer of our web sites and navigating to the consumer opt-out page. Use the same links to opt out of interest-based advertising on our services from any third-party advertising networks we may use.
+
+If you would like to opt out of having interest-based ad targeting, [click here](http://www.aboutads.info/choices/).
 
 Your access to our web sites should not be affected if you do not accept cookies served by third parties.
 
-If you have any problems or questions regarding your privacy preferences or opt out options, and cannot resolve them using our [opt out](https://www.edvisors.com/contact/unsubscribe/) page, you may reach us during regular business hours at (888) 972-1010.
+If you have any problems or questions regarding your privacy preferences or opt out options, you may reach us during regular business hours at (888) 972-1010.
 
 **Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)**
 
-Any California residents who have an established relationship with Edvisors may opt out of Edvisors disclosing your personal information with third parties for direct marketing purposes. Under California law, third parties include affiliates of Edvisors. If you do not want Edvisors to disclose your personal information to third parties, including affiliates, you can [opt-out here](https://www.edvisors.com/contact/unsubscribe/).
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California residents asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of California residents to third parties for the third parties' direct marketing purposes if the California resident has exercised an option to opt out of such information-sharing. We have such a policy in place.
 
-**Opting out of Email Marketing:** If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails.
+Any California residents who have an established relationship with Edvisors may opt out of Edvisors disclosing your personal information with third parties for direct marketing purposes. Under California law, third parties include affiliates of Edvisors. If you do not want Edvisors to disclose your personal information to third parties, including affiliates, you can [opt out here](https://web.archive.org/third-party-opt-out/).
 
 Pursuant to California privacy law, registered users under 18 years of age may request to have content or information posted by the user removed from any of our online platforms. In order to effectuate removal of such content or information, you may reach us during regular business hours at (888) 972-1010.
 
@@ -402,24 +409,24 @@ The removal of content does not ensure complete or comprehensive removal of the 
 
 We do not advertise or market any of the products or services identified in Chapter 22.1 Sec. 22580 (i) to users we have actual knowledge are under 18 years of age.
 
-### 8\. Changing Our Privacy Policy
+### 9\. Changing Our Privacy Policy
 
 Your use of any web site owned or operated by Edvisors Network, Inc. indicates an acceptance of the terms of the Privacy Policy. Edvisors reserves the right to update or amend this Privacy Policy at any time to reflect our current privacy practices. If Edvisors decides to materially change this Privacy Policy in the way we use your personal information, those changes will be posted through a prominent notice on the web site.
 
-### 9\. Retention
+### 10\. Retention
 
 We will retain your personal information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law.
 
-### 10\. Disputes; No Rights of Third Parties
+### 11\. Disputes; No Rights of Third Parties
 
 If you choose to access our web sites or use any of our services, any dispute over privacy is subject to our [Terms of Use](https://www.edvisors.com/terms-privacy-disclaimer/#terms-of-use), including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of Nevada. This Privacy Policy does not create rights enforceable by third parties.
 
-### 11\. Effective Date of This Policy
+### 12\. Effective Date of This Policy
 
-Revised: **August 5, 2015**
+Revised: **June 8, 2016**
 
 ## Disclaimer
 
 The information contained on this web site is provided for general informational and educational purposes and is not, nor intended to be, legal, financial or tax advice. The publisher is not authorized to practice in front of the IRS and is not subject to IRS Circular 230. This information is general in nature and may not apply to the specific circumstances of individual readers. No claims are made about the accuracy, timeliness or usefulness of the content contained on this web site or any site linked to this site. Users of this site should seek specific guidance directly from a qualified legal, financial or tax professional. Nothing contained on or provided through this site is intended to be or is to be used as a substitute for professional advice.
 
-Copyright © 2015 by Edvisors.com. All rights reserved.
+Copyright © 2016 by Edvisors.com. All rights reserved.
