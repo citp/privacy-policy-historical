@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globis.ac.jp privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223030530id_/http%3A//www.globis.ac.jp/etc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globis.ac.jp privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624034941id_/http%3A//www.globis.ac.jp/etc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GLOBIS MBA - Largest Business School in Japan
 
@@ -53,6 +53,13 @@ The GLOBIS University website uses cookies for the following purposes. A "cookie
 
 
 
+#### ▣ Types of data to be collected:
+
+GLOBIS University collects information of the following categories.  
+Various kinds of information that you provide at the time of making an application, such as name, country of residence, sex, date of birth and e-mail address.
+
+Provided, however, that you will remain anonymous until personal information is entered in a form or the like.
+
 In addition, advertisements such as banner ads may also use cookies according to their own privacy policies. You should review the policies for the use of cookies of these advertisements.
 
 GLOBIS University websites use SSL encrypted communication to ensure secure data transmission for pages in which personal information has been provided for inquiries, applications or member log-in pages. SSL is a transmission protocol for data transmission between a Web server and client browsers.
@@ -60,6 +67,10 @@ GLOBIS University websites use SSL encrypted communication to ensure secure data
 In regard to member log-in pages, users are strongly urged to carefully manage their IDs and passwords. Careless misuse or disclosure of IDs and/or passwords can lead to the leaking of your information.
 
 Please exercise appropriate judgment whenever disclosing your personal information or any other important information when using services that are open to many users, such as message boards and mailing lists offered by GLOBIS University.
+
+#### ▣ Governing law and court with jurisdiction:
+
+The governing law regarding this privacy policy shall be the laws of Japan. In addition, the Tokyo District Court shall be the court of first instance for any and all disputes related to the use of this website.
 
 #### Sharing of Private Information
 
@@ -110,6 +121,6 @@ Sumitomo Fudosan Kojimachi Building, 5-1 Nibancho, Chiyoda-ku, Tokyo, 102-0084 J
 
 #### Inquiries
 
-For inquiries on GLOBIS University's Privacy Policy and its initiatives to protect personal information, please contact _[imba@globis.ac.jp](mailto:imba@globis.ac.jp)_
+For inquiries on GLOBIS University's Privacy Policy and its initiatives to protect personal information, please contact _[imba-info@globis.ac.jp](mailto:imba-info@globis.ac.jp)_
 
-Updated April 1, 2008
+Updated April 1, 2016
