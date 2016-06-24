@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222071818id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624183417id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
 
 # Equestria Daily: EQD Privacy Policy
 
@@ -10,11 +10,11 @@ The Blogger engine may collect non-personal identification information about Use
 Web browser cookies  
 Our Site may use "cookies" to enhance User experience. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Advertising and IntenseDebate  
+Advertising and Disqus  
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-The third-party IntenseDebate comment system created by Automattic Inc. might use cookies to maintain user sessions. This privacy policy does not cover the use of information and cookies set by Automattic Inc. plugins. The Automattic Inc. Privacy Policy can be found here: [http://automattic.com/privacy/](http://automattic.com/privacy/)  
-    
+The third-party Disqus comment system created by Disqus Inc. might use cookies to maintain user sessions. This privacy policy does not cover the use of information and cookies set by Disqus Inc. plugins. The Disqus Inc. Privacy Policy can be found [here](https://help.disqus.com/customer/en/portal/articles/466259-privacy-policy).
+
 Changes to this privacy policy  
 Equestria Daily has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -28,4 +28,4 @@ Equestria Daily
 [http://www.equestriadaily.com](http://www.equestriadaily.com/)  
 [sethisto@gmail.com](mailto:sethisto@gmail.com)
 
-This document was last updated on March 19, 2013
+This document was last updated on January 8, 2016
