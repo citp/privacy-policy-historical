@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketplace-live.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216074932id_/http%3A//www.marketplace-simulation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketplace-live.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624042614id_/http%3A//www.marketplace-simulation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketplace Business Simulations
 
@@ -78,7 +78,7 @@ Knoxville
 TN 37901-1671   
 USA
 
-Email Address: [support@ilsworld.com](mailto:support@ilsworld.com)
+Email Address: support@ilsworld.com
 
 Telephone number: +1 (865) 522 1946
 
