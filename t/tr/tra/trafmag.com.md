@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafmag.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204084718id_/http%3A//trafmag.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafmag.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624184143id_/http%3A//trafmag.com/policy) for the most accurate reproduction.*
 
 # Policy | Advertising network TrafMag
 
@@ -13,7 +13,7 @@ We store your name, e-mail address and other information you provided us with wh
 
 ### Non-personal data
 
-Our site inserts a text fragment (cookie) into the data storage of your web-browser. This cookie keeps information about your activity on the site and usually contains the following data:
+Our site inserts a text fragment (cookie) into the data storage of your web-browser. This cookie keeps information about your activity on the site and usually contains the following data: 
 
   * Personal settings of the site (e.g., the automatic login for the repeat visit of the web-page), what makes your browsing of the site more convenient.
   * Site analytics. This information shows, which sections of the site are most frequently used, so that we can constantly work on their improvement.
