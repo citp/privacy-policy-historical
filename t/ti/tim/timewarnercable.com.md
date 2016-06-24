@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timewarnercable.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630083246id_/http%3A//www.timewarnercable.com/en/our-company/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timewarnercable.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624064917id_/http%3A//www.timewarnercable.com/en/our-company/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Time Warner Cable
 
-The information Time Warner Cable collects about you at [http://www.timewarnercable.com](http://www.timewarnercable.com/), and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability. Time Warner Cable, together withTime Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
+The information Time Warner Cable collects about you at [http://www.timewarnercable.com](http://www.timewarnercable.com/), and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability. Time Warner Cable, together with Time Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
 
 ## What Does This Privacy Policy Cover?
 
