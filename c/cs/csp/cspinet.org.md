@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120092508id_/http%3A//cspinet.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624203526id_/http%3A//www.cspinet.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Center for Science in the Public Interest
 
@@ -14,6 +14,7 @@
   * If you are a subscriber to _Nutrition Action_ or donor to Center for Science in the Public Interest and would not like us to share your name with other organizations, please provide us with your exact name, address, and the ID number from your _Nutrition Action Healthletter_ mailing label. We will be sure your name is removed from the list we share with other organizations.
   * In general, to find out how to protect your name and address, e-mail address, and telephone number from being used by others to contact you for marketing purposes, visit the [DMA Consumer Preference Service.](http://www.dmachoice.org/consumerassistance.php)
   * All personal information and financial transactions conducted on CSPI's web site are secure and encrypted using high-grade encryption verified by VeriSign.
+  * If you have questions regarding how your personal information is used, or if you’d like to make any corrections to your account, please contact customer service at [customercare@nutritionaction.com](mailto:%20customercare@nutritionaction.com) or 202-777-8393.
 
   
 
