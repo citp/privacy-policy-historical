@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilebytes.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126094742id_/http%3A//www.mobilebytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilebytes.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624133359id_/http%3A//www.mobilebytes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MobileBytes | iPad POS for Restaurants
+# Privacy Policy | MobileBytes | Restaurant POS for iPad
 
 LAST UPDATED: AUGUST 11, 2014
 
@@ -136,7 +136,7 @@ If you have any questions about this Privacy Policy or its implementation, pleas
 
   * Webmaster
   * Mobile Bytes, LLC
-  * 130 N Central Ave Suite 203
+  * 130 N Central Ave Suite 301
   * Phoenix, AZ, USA 85004
   * 480.351.8800
 
