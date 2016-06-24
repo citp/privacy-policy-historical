@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203200847id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624103235id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cricket Media
 
 #### CRICKET MEDIA’S PRIVACY POLICY
 
-**EFFECTIVE DATE:**  June 22, 2015, Last Updated Date: October 29, 2015  
+**EFFECTIVE DATE:**  June 22, 2015, Last Updated Date: January 28, 2016  
  
 
 #### PURPOSE OF THIS PRIVACY POLICY:
@@ -36,7 +36,7 @@ If you have questions or concerns regarding the Privacy Policy, you should conta
 
 #### PRIVO-Cert™ Safe Harbor Certification Program
 
-Cricketmedia.com, In2books and the Folklorist Challenge (owned and operated by Cricket Media Inc.) are Members of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Cricket Media Inc. adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Cricket Media Inc. has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (703) 885-3400 or [support@cricketmedia.com](mailto:support@cricketmedia.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
+Cricketmedia.com, In2books, the ePals Global Community, the Folklorist Challenge, and the Invent It 2016 Challenge (owned and operated by Cricket Media Inc.) are Members of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Cricket Media Inc. adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Cricket Media Inc. has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (703) 885-3400 or [support@cricketmedia.com](mailto:support@cricketmedia.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 #### USERS UNDER THE AGE OF THIRTEEN ARE TREATED DIFFERENTLY:
 
@@ -90,7 +90,7 @@ If you are a student under 13, please do not send any personal information about
 We may collect the following types of personal information directly from children: date of birth and parent email address in order to notify the parent or the teacher and obtain consent. We may collect the following information from parents or teachers about a child: first name, last name, password, nickname, IP address, grade level, mailing address and parent’s name and email address. We also collect the IP addresses of child user’s computers, which may be considered in some circumstances to be personally identifiable information.  
  
 
-We may also passively collect, through Users’ computers, mobile phones or other wireless devices and we also collect personally identifiable information through cookies from children’s computers. In connection with activities such as contests/Challenges, we do collect and share children’s images, audio and video submitted through such contest or Challenge but only after full parental consent has been obtained. Children are able to post on forums but such content is moderated and any personally identifiable information and removed and deleted before posting.  
+We may also passively collect, through Users’ computers, mobile phones or other wireless devices and we also collect personally identifiable information through cookies from children’s computers. In connection with activities such as contests/Challenges, we do collect and share children’s images, audio and video submitted through such contest or Challenge but only after full parental consent has been obtained. Children are able to post on forums but such content is moderated and any personally identifiable information is removed and deleted before posting.  
  
 
 ###### Non-Personally Identifiable Information
@@ -228,8 +228,9 @@ In certain situations, we may share such information with affiliates, partners, 
 
 ##### Agents
 
-We engage certain other companies and people to perform tasks on our behalf and sometimes need to share your information with them to provide products or services to you. Examples may include sending email, analyzing data, processing payments, providing user services, providing customer service, processing parental consents, and/or monitoring online forums and chatrooms. These third parties: (a) have agreed to maintain the confidentiality, security and integrity of personally identifiable information; and (b) do not have any right to use the Personal Information or Child Related Personal Information we share with them except as necessary to assist us.  
- 
+We engage certain other companies and people to perform tasks on our behalf and sometimes need to share your information with them to provide products or services to you. Examples may include sending email, analyzing data, processing payments, providing user services, providing customer service, processing parental consents, and/or monitoring online forums and chatrooms. These third parties: (a) have agreed to maintain the confidentiality, security and integrity of personally identifiable information; and (b) do not have any right to use the Personal Information or Child Related Personal Information we share with them except as necessary to assist us.
+
+  In connection with certain online contests or similar challenges involving submissions of user-generated content, we capture registration information that contains personal information from parents and/or teachers or students age 13 or older through the establishment of an account with our trusted service provider, Submittable, so that we can process your request. For more information on Submittable click here: <http://www.submittable.com/privacy>
 
 ##### Service Provider, Sub-Processors / Onward Transfer
 
