@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icckeyworkz.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214213245id_/http%3A//www.icckeyworkz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icckeyworkz.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625010639id_/http%3A//www.icckeyworkz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ICC Express (Instant Content Curator) Curation Software by Web Dimensions, Inc.
 
