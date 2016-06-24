@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluestackstutorial.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220183445id_/http%3A//bluestackstutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluestackstutorial.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624135730id_/http%3A//bluestackstutorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BlueStacks Tutorial
 
