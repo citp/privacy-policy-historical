@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212534id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624122451id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
 
 # CareerOne Privacy Center | CareerOne.com.au
 
@@ -34,7 +34,7 @@ You may review, correct, or delete the personal information you submit to us at 
 
 Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage.
 
-If you change your mind about receiving communications from CareerOne or other parties, you may change your preferences by logging into your account.
+If you change your mind about receiving communications from CareerOne or other parties (excluding CareerOne Education or Acquire Learning), you may change your preferences by logging into your account. Details of how to opt out of being contacted by Acquire Learning or CareerOne Education specifically are set out below.
 
 You may also [turn off cookies](http://inside.careerone.com.au/fullpolicy/inside2.aspx#turnoff "turn off cookies") in your browser. This may affect your use of the site.
 
@@ -47,6 +47,26 @@ Our Sites are not intended for children under 18 years of age.
 We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](http://inside.careerone.com.au/fullpolicy/inside2.aspx#safeharbour "Safe Harbor Framework") and Monster is a member of [TRUSTe](http://inside.careerone.com.au/fullpolicy/inside2.aspx#truste "TRUSTe").
 
 For more information on how to protect yourself online, click [here](http://inside.careerone.com.au/security-center/home.aspx "security center").
+
+## CareerOne Education & Acquire Learning
+
+If you have consented for us to do so (either by applying for a job through the CareerOne job board or registering with CareerOne), we may also share your information with third parties who may contact you about their products or services. This includes sharing your information with Acquire Learning Pty Ltd for the purposes of the provision of services by our joint venture,
+
+CareerOne Education to discuss potentially enrolling in education and training courses with third party education providers. Acquire Learning Pty Ltd's privacy policy is available at <http://www.acquirelearning.com.au/privacy-policy>.
+
+If you do not wish to be contacted by Acquire Learning or CareerOne Education about education or training services, you may opt out at any time by requesting to be removed from the database via:
+
+**_CareerOne Education:_**  
+Email: [optout@careeroneeducation.com.au](mailto:optout@careeroneeducation.com.au);  
+Tel: 1800 555 010;  
+Mail: CareerOne Education Privacy Officer, 600 Glenferrie Road, Hawthorn, Vic, Australia 3122  
+In person: by attending 600 Glenferrie Road, Hawthorn, Vic, Australia 3122. 
+
+**_Acquire Learning:_**  
+Email: [optout@acquirelearning.com.au](mailto:optout@acquirelearning.com.au)  
+Tel: 1800 426 732;  
+Mail: Acquire Learning Privacy Officer, 600 Glenferrie Road, Hawthorn, Vic, Australia 3122  
+In person: by attending 600 Glenferrie Road, Hawthorn, Vic, Australia 3122.
 
 ## How to Contact Us
 
