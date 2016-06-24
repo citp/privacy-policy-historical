@@ -1,27 +1,37 @@
-<!--The following is the downloaded HTML source of the mcdonalds.ca privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227141731id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcdonalds.ca privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624214440id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><style></style> 
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache,no-Store">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:nutrition=""><head><style></style>
 
-              
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBZ2PB"></script><script type="text/javascript">
+
+
   
+
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache,no-Store">
+
+
+
+
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript"> 
+
     function desktopRedirect(){
-        var redirectPath = "";  
+        var redirectPath = "";
+        var siteLevelRedirect = "";
         var useragent = navigator.userAgent;
         var domain = "www.mcdonalds.ca";
-        //if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS 4') != -1 || useragent.indexOf('iPhone OS 5') != -1 || useragent.indexOf('iPhone OS 6') != -1 || useragent.indexOf('Android 2') != -1 || useragent.indexOf('Android 4') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 )
-        if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS') != -1 || useragent.indexOf('Android') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 )
-         {    
+  
+        // if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS 4') != -1 || useragent.indexOf('iPhone OS 5') != -1 || useragent.indexOf('iPhone OS 6') != -1 ||  useragent.indexOf('iPhone OS 7') != -1 || useragent.indexOf('Android 2') != -1 || useragent.indexOf('Android 4') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 )
+        // if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS') != -1 || useragent.indexOf('Android') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 ) 
+		if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 || ( useragent.indexOf('Android') != -1 && useragent.indexOf('Mobile') != -1 ))
+        {    
           var alertURL = "";            
           var getAlertPage = "false";
           var fullSite = "no";
           if(getCookie("fullsite") != null){
             fullSite = getCookie("fullsite");
           }
-   
+
       if(fullSite == "yes"){
                 //cookie set for full site
                 var pagePath = '/ca/en/privacy';
@@ -39,7 +49,17 @@
                         redPath = redirectPath;
                     }  
             alertURL = redPath;
-         }else{                
+         }else if(siteLevelRedirect != ""){
+                 //redirecting to path specified in site config for site level redirection
+                 var rPath = "";
+                 if((siteLevelRedirect.indexOf("/content/")>-1)){
+                        rPath = "http://"+domain+siteLevelRedirect+".html";
+                 }else{
+                        rPath = siteLevelRedirect;
+                 } 
+                 alertURL = rPath ; 
+                 
+            }else{                
             //check if intermediate page is required or not               
             if(getAlertPage == "true"){
                 var pagePath = '/ca/en/privacy';
@@ -96,45 +116,90 @@
         var today = new Date();
         var expire = new Date();
         expire.setTime(today.getTime() + 15 * 60 * 1000);
+        if(currentPage.getPath().contains("/se/")||currentPage.getPath().contains("/hk/")||currentPage.getPath().contains("/no/")||currentPage.getPath().contains("/dk/")||currentPage.getPath().contains("/iehome/")||currentPage.getPath().contains("/tw/")){
+        document.cookie = cookieName+"="+escape(cookieValue)+ ";domain="+getMainDomain() +";expires="+expire.toGMTString();
+        }
+        else{
         document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+        }
     }
-    
+
+    function getMainDomain(){
+       var i=0,domain=document.domain,p=domain.split('.'),s='_gd'+(new Date()).getTime();
+       while(i<(p.length-1) && document.cookie.indexOf(s+'='+s)==-1){
+          domain = p.slice(-1-(++i)).join('.');
+          document.cookie = s+"="+s+";domain="+domain+";";
+       }
+       document.cookie = s+"=;expires=Thu, 01 Jan 1970 00:00:01 GMT;domain="+domain+";";
+       return "."+domain;
+    }  
+   var overwriteRedirection = "false"; 
    var allowIntRed= "true";
    if("yes" == "yes"){  
    if(allowIntRed == "true"){
        desktopRedirect();  
        } 
    }    
-</script> 
+</script>
+
+	 
+
+	<script>
+		int imageId="";
+		mailTo="";
+		var currentPageURL = window.location.href ;
+		var splitResult = currentPageURL.split("?");
+		if(splitResult.length >1){
+			splitResult = splitResult[1].split("=")
+			if(splitResult.length > 1){
+				imageId=splitResult[1];
+			} 
+		}
+	</script>  
+
+	 
+
+	
+
+	  
 
 
 
 
-    
-      
 
 
-  
 
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
+
+
+
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<!-- WXB Search Changes end -->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="title" content="Privacy Policy | McDonalds.ca">
 <meta name="description" content="McDonald's Internet Privacy Policy">
+
 <meta name="keywords" content="">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="_market" content="">
 <meta name="_language" content="">
 
- 
 
- 
- 
 
-<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/mcdonalds.css?p=0"> 
-<link rel="stylesheet" type="text/css" media="print" href="/themes/Canada/css/print.css?">
-<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/food.css">    
-<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/news.css">  
+
+<meta name="apple-itunes-app" content="app-id=542447673">
+
+
+<!-- Added from Arabia ends -->
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/mcdonalds.css">
+<link rel="stylesheet" type="text/css" media="print" href="/themes/Canada/css/print.css">
+<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/food.css">
+<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/news.css">
 <link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/contactus.css">
-<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/jquery.ui.theme.css">   
+<link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/jquery.ui.theme.css">
 <!--[if IE 7]>
     <link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/ie7.css" />
 <![endif]-->
@@ -142,147 +207,138 @@
     <link rel="stylesheet" type="text/css" media="all" href="/themes/Canada/css/ie6.css" />
 <![endif]-->
 
-<script type="text/javascript" src="/themes/Canada/scripts/jquery-1.3.2.min.js"></script> 
+<script type="text/javascript" src="/themes/Canada/scripts/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/jquery.activetextinput.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/global_utils.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/themes/Canada/css/jquery.mcdcolorbox.css">
-<script type="text/javascript" src="/themes/Canada/scripts/jquery.colorbox-mod.js?p=0"></script>
-<script type="text/javascript" src="/themes/Canada/scripts/jquery.mcdcolorbox.js?p=0"></script>
+<script type="text/javascript" src="/themes/Canada/scripts/jquery.colorbox-mod.js"></script>
+<script type="text/javascript" src="/themes/Canada/scripts/jquery.mcdcolorbox.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/jquery.callouts.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/jquery-ui-1.7.2.custom.min.js"></script>
-<script type="text/javascript" src="/themes/Canada/scripts/jquery.ifixpng.js"></script>    
-<script type="text/javascript" src="/themes/Canada/scripts/commons.js"></script> 
+<script type="text/javascript" src="/themes/Canada/scripts/jquery.ifixpng.js"></script>
+<script type="text/javascript" src="/themes/Canada/scripts/commons.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/datepicker.js"></script>
-<script type="text/javascript" src="/themes/Canada/scripts/custom-form-elements.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; }</style>  
+<script type="text/javascript" src="/themes/Canada/scripts/custom-form-elements.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; }</style>
 <script type="text/javascript" src="/themes/Canada/scripts/textArea.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/formValidation.js"></script>
 <script type="text/javascript" src="/themes/Canada/scripts/page-grayed-out.js"></script>
-<script type="text/javascript" src="/themes/Canada/scripts/textresize.js"></script></head><body class="page genericpage " style="background:#AA1E1B; "><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div><div id="viewTextSize" style="font-size: medium; visibility: hidden; position: absolute; left: -50px; top: -50px;">M</div>
-<script type="text/javascript" src="/themes/Canada/scripts/news.js?p=0"></script>  
-<script type="text/javascript" src="/themes/Canada/scripts/jquery_newsarticles.js"></script>  
-<script type="text/javascript" src="/themes/Canada/scripts/DD_roundies_0.0.2a-min.js"></script>   
+<script type="text/javascript" src="/themes/Canada/scripts/textresize.js"></script></head><body class="genericpage page " style="background:#AA1E1B; "><div id="viewTextSize" style="font-size: medium; visibility: hidden; position: absolute; left: -50px; top: -50px;">M</div>
+<script type="text/javascript" src="/themes/Canada/scripts/news.js"></script>
+<script type="text/javascript" src="/themes/Canada/scripts/jquery_newsarticles.js"></script>
+<script type="text/javascript" src="/themes/Canada/scripts/DD_roundies_0.0.2a-min.js"></script>
 
 <script type="text/javascript" src="/themes/Canada/scripts/swfobject.js"></script>
 
+<script type="text/javascript" src="/apps/mcd/docroot/themes/mobile/scripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="/apps/mcd/docroot/themes/Default/scripts/mobileredirect.js"></script>
 <script type="text/javascript">
-var webtrends = ''; 
-        $(document).ready(function(){ 
-            var hideMealBuilder = 'true';
-            if(hideMealBuilder!='true')
-                changevalue('itemsAdded_ca_en');         
-            
-            /*** Bumper ***/
-            try {
-                $('a.external').mcdColorboxDeleteConfirm({question:"<strong>Leaving McDonald's Web Site.</strong>You are leaving the McDonald's Canada web site for a site that is controlled by a third party, not affiliated with McDonald's. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald's viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald's is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the web site you are entering.",yescontrol:"Continue",nocontrol:"Cancel"});
-            } catch ( exeption ) { /* silence */ }   
-         
-         }); 
-     
-        
+	var webtrends = ''; 
+	$(document).ready(function(){ 
+		var hideMealBuilder = 'true';
+		if(hideMealBuilder!='true')
+			changevalue('itemsAdded_ca_en');         
+
+		/*** Bumper ***/
+		try {
+			$('a.external').mcdColorboxDeleteConfirm({question:"<strong>Leaving McDonald's Web Site.</strong>You are leaving the McDonald's Canada web site for a site that is controlled by a third party, not affiliated with McDonald's. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald's viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald's is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the web site you are entering.",yescontrol:"Continue",nocontrol:"Cancel"});
+		} catch ( exeption ) { /* silence */ }   
+
+	 }); 
+
+
     /* function to check cookies are enabled or not */
-        
-       function isCookiesEnabled() 
-       {
-   
-                //alert("========isCookiesEnabled()====calling==="); 
-                var cookieEnabled=(navigator.cookieEnabled)? true : false
-               //if not IE4+ nor NS6+
-               if (typeof navigator.cookieEnabled=="undefined" && !cookieEnabled)
-               { 
-                   document.cookie="testcookie" ; 
-                   cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? true : false
-               }
-                
-               if(cookieEnabled == false)
-               {
-                 alert('Browser cookies must be enabled in order to use the Meal Builder ') ; 
-               }
-               
-               return cookieEnabled;
-   
-   
-        } 
-  
-        /* function to add items to meal builder */
-    
-     function addtoMyMealBuilder(id)
-        { 
+	function isCookiesEnabled() 
+	{
+		//alert("========isCookiesEnabled()====calling==="); 
+		var cookieEnabled=(navigator.cookieEnabled)? true : false
+		//if not IE4+ nor NS6+
+		if (typeof navigator.cookieEnabled=="undefined" && !cookieEnabled)
+		{ 
+		   document.cookie="testcookie" ; 
+		   cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? true : false
+		}
 
-                if(isCookiesEnabled()== true) 
-               {                 
-                 
-                     if(checkLimit(id)==true)
-                     {                      
-                         // Tracker3('DCS.dcsuri','/food/ProductInformationFlyOut','WT.ti','Product Information Fly Out :: McDonaldsArabia.com','DCSext.item', id, 'addtomealbuilder');                         
-                          addItemstoSession(id,'ca_en');
-                     }
-                     else
-                         return false; 
-               }else
-                 return false; 
-        }
-        
-        
-  /* function to add items to meal builder */     
-    
-     function addtoMyMealBuilder(path,id)
-        { 
+		if(cookieEnabled == false)
+		{
+			//alert('Browser cookies must be enabled in order to use the Meal Builder ') ; 
+		}
 
-                if(isCookiesEnabled()== true) 
-               {                 
-                 
-                     if(checkLimit(id)==true)
-                     {                      
-                        // if( webtrends !="")
-                        // Tracker3('DCS.dcsuri','/food/ProductInformationFlyOut','WT.ti','Product Information Fly Out :: McDonaldsArabia.com','DCSext.item', id, 'addtomealbuilder');                       
-                         addItemstoSession(id,'ca_en');   
-                     }
-                     else
-                         return false; 
-               }else
-                 return false; 
-        }
-        
-         /* function to add item to meal builder */
-        
-        function addItemtoMyMealBuilder(itemId,compList)
-        {
+		return cookieEnabled;
+	} 
 
-                if(isCookiesEnabled()== true)
-               {
-                 
-                     if(checkLimit(itemId)==true)                         
-                     {                      
-                       // Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
-                        addItemtoSession(itemId,compList,'ca_en');  
-                     }
-                     else
-                         return false;  
-                    
-               }
-               else
-                   return false; 
-        }  
-        
-        function addReverseItemtoMyMealBuilder(itemId,compList,revList,optionalList,masterItemId)
-        {
-               if(isCookiesEnabled()== true)
-               {
-                 
-                     if(checkLimit(itemId)==true)                         
-                     {
-                        // Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                       
-                         addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ca_en');
-                     }
-                     else
-                         return false;  
-                    
-               }
-               else
-                   return false; 
-        }  
-        
-        
+	/* function to add items to meal builder */
+	function addtoMyMealBuilder(id)
+	{ 
+
+			if(isCookiesEnabled()== true) 
+		   {                 
+
+				 if(checkLimit(id)==true)
+				 {                      
+					 //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);
+					 addItemstoSession(id,'ca_en');   
+				 }
+				 else
+					 return false; 
+		   }else
+			 return false; 
+	}
+
+
+	/* function to add items to meal builder */
+
+    function addtoMyMealBuilder(path,id)
+	{ 
+		if(isCookiesEnabled()== true) 
+		{
+			if(checkLimit(id)==true)
+			{                      
+				//if( webtrends !="")
+				//Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);    
+				addItemstoSession(id,'ca_en');   
+			}
+			else
+				return false; 
+		}else
+			return false; 
+	}
+
+	/* function to add item to meal builder */
+
+	function addItemtoMyMealBuilder(itemId,compList)
+	{
+		if(isCookiesEnabled()== true)
+		{
+			if(checkLimit(itemId)==true)                         
+			{                      
+				//Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
+				addItemtoSession(itemId,compList,'ca_en');  
+			}
+			else
+			 return false;  
+
+		}
+		else
+		   return false; 
+    }  
+
+	function addReverseItemtoMyMealBuilder(itemId,compList,revList,optionalList,masterItemId)
+	{
+		if(isCookiesEnabled()== true)
+		{
+			if(checkLimit(itemId)==true)                         
+			{
+				//Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                    
+				addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ca_en');
+			}
+			else
+			 return false;           
+		}
+		else
+		   return false; 
+	}  
+
+
       function checkLimit(id) 
       {
            //alert("===========checkLimit()======calling========");
@@ -291,62 +347,82 @@ var webtrends = '';
            var pids=id.split("|");
            var total_length=pids.length+existLength;
            //alert("total_length======>"+total_length);
-            
+
            if(total_length>limit){
-            
+
                 //alert('Your Meal Builder is currently full. Please remove items before adding more. ') ; 
-               // Tracker('DCS.dcsuri','/food/MyMealBuilder/full','WT.ti','My Meal Builder Full :: McDonalds.com');             
+                //dcsMultiTrack('DCS.dcsuri','/food/MyMealBuilder/full','WT.ti','My Meal Builder Full :: McDonalds.com');              
                 return false;            
-            
+
            }
            else
-           return true;         
-      
+           return true;              
+
       }
-        
-         
-</script> 
+</script>
 
 
+
+<!-- Added from arabia starts -->
 
 <title>Privacy Policy | McDonalds.ca</title>
 
-   
 
+
+
+	<!-- Added from Nordic 7 -->
+	
+<!-- Added from Nordic End 7 -->
+
+<!-- Data layer files reference for DTM Start -->
+   
+	<script type="text/javascript" src="/apps/mcd/docroot/themes/Canada/scripts/MCDCanadaAnalyticsEventsCapture.js"></script>
+    
+<!-- Data layer files reference for DTM Ends -->
 
 <!--Configurable DTM Code -->
-<script src="//assets.adobedtm.com/b1e0f2f1c887c13d5a8d850fc709d9f680d2011c/satelliteLib-b1e02cefea93fd681a97df26a9d144af0550c982.js"></script>
- 
-
-
-
- 
-
-	 <script type="text/javascript" src="/apps/mcd/docroot/themes/Canada/scripts/MCDCanadaAnalyticsEventsCapture.js"></script>
+    <script src="//assets.adobedtm.com/b1e0f2f1c887c13d5a8d850fc709d9f680d2011c/satelliteLib-b1e02cefea93fd681a97df26a9d144af0550c982.js"></script>
   
+
+
+<!--  configurable DTM Code end   --->
 
   
 
+
  
-  
+ 
+    
+
+
 
     <div id="document_wrapper">
         <a name="top"></a>
         
  
-     
-<div id="top_wrapper"> 
-    <div id="top_content">
-        <div id="logo">
-            <div class="logo mlogo parbase">
+ 
+    
+
+
+
+
 
 
  
-  
+<div id="top_wrapper">
+	<div id="top_content">
+		<div id="logo">
+			
+				<div class="parbase logo mlogo">
 
-    <a href="/ca/en.html">
 
-                <img src="/etc/designs/ca/en/_jcr_content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage.img.png" width="113" height="98" alt="">
+ 
+ 
+    
+
+    <a href="/content/ca/en.html">
+
+                <img src="/etc/designs/ca/en/jcr:content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage.img.png" width="113" height="98" alt="">
 
         </a>   
   
@@ -354,13 +430,16 @@ var webtrends = '';
 
 </div>
 
-        </div>
-        <div id="main_navigation">
-            <div class="mcdonaldsleftnav parbase">
+			
+		</div>
+		<div id="main_navigation">
+			
+				<div class="mcdonaldsleftnav parbase">
  
     
  
-  
+ 
+    
     
  
    
@@ -372,7 +451,7 @@ var webtrends = '';
     
     <ul>
                     <li id="foodnav_li" class="first">
-                        <a href="/ca/en/menu.html" id="foodnav_link" class="nav_item firstLink" style="background-image: url('/content/ca/en/menu/jcr:content/navimage.img.png/1395411139854.png');"><img src="/content/ca/en/menu/jcr:content/navimage.img.png/1395411139854.png"></a>
+                        <a href="/content/ca/en/menu.html" id="foodnav_link" class="nav_item firstLink" style="background-image: url('/content/ca/en/menu/jcr:content/navimage.img.png/1451676422967.png');"><img src="/content/ca/en/menu/jcr:content/navimage.img.png/1451676422967.png"></a>
                     
                     <div class="active_nav_widget" id="foodnav_layer">
                       <div id="foodnav_inner_layer">
@@ -388,55 +467,61 @@ var webtrends = '';
                             
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/mccafe.html">McCafé® &amp; Bakery</a>
+                                            <a href="/content/ca/en/menu/full_menu/create_your_taste.html">Create Your Taste</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/value_picks.html">Value Picks®</a>
+                                            <a href="/content/ca/en/menu/full_menu/mccafe.html">McCafé® &amp; Bakery</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/sandwiches.html">Burgers, Sandwiches, &amp; Wraps</a>
+                                            <a href="/content/ca/en/menu/full_menu/value_picks.html">Value Picks®</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/chicken.html">Chicken</a>
+                                            <a href="/content/ca/en/menu/full_menu/sandwiches.html">Burgers, Sandwiches, &amp; Wraps</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/breakfast.html">Breakfast</a>
+                                            <a href="/content/ca/en/menu/full_menu/chicken.html">Chicken</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/salads.html">Salads</a>
+                                            <a href="/content/ca/en/menu/full_menu/breakfast.html">Breakfast</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/snacks.html">Snacks &amp; Sides</a>
+                                            <a href="/content/ca/en/menu/full_menu/salads.html">Salads</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/beverages.html">Beverages</a>
+                                            <a href="/content/ca/en/menu/full_menu/snacks.html">Snacks &amp; Sides</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/desserts_shakes.html">Desserts &amp; Shakes</a>
+                                            <a href="/content/ca/en/menu/full_menu/beverages.html">Beverages</a>
+                                          </td>
+                                        </tr>
+                                
+                                        <tr>
+                                          <td>
+                                            <a href="/content/ca/en/menu/full_menu/desserts_shakes.html">Desserts &amp; Shakes</a>
                                           </td>
                                         </tr>
                                 
@@ -455,33 +540,45 @@ var webtrends = '';
                             
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/meal_bundles/extra_value_meals.html">Extra Value Meals</a>
+                                            <a href="/content/ca/en/menu/meal_bundles/extra_value_meals.html">Extra Value Meals</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/meal_bundles/happy_meal.html">Happy Meal</a>
+                                            <a href="/content/ca/en/menu/meal_bundles/mccafe_bundles.html">McCafé® Bundles</a>
                                           </td>
                                         </tr>
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/meal_bundles/happy_meal_61PcnGGLjGr0.html">Happy Meal</a>
+                                            <a href="/content/ca/en/menu/meal_bundles/happy_meal.html">Happy Meal</a>
                                           </td>
                                         </tr>
                                 
                                 </tbody>
                             </table>
                             </div>
-                            
+                            	
+             
+   			 <div id="food_flyout_image">		
+                 <a href="http://www4.mcdonalds.ca/createyourtaste/">		
+                             <img src="/content/dam/Canada/food_flyout_bg-link.png" alt="food flyout image link" style="">		
+                         </a><table border-"0"="" cellpadding="0" cellspacing="0" class="">		
+                     <tbody>		
+                         		
+                     </tbody>		
+                 </table>		
+            </div>	
+           
+
                     </div>
                 </div>
             
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ca/en/food.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/food/jcr:content/navimage.img.png/1336914422602.png');"><img src="/content/ca/en/food/jcr:content/navimage.img.png/1336914422602.png"></a>
+                        <a href="/content/ca/en/food.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/food/jcr:content/navimage.img.png/1451678036147.png');"><img src="/content/ca/en/food/jcr:content/navimage.img.png/1451678036147.png"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -490,17 +587,17 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/ca/en/food/our-food--your-questions.html">Our Food. Your Questions</a></td></tr>
+                                <tbody><tr><td><a href="/content/ca/en/food/our-food--your-questions.html">Our Food. Your Questions</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/food/nutrition_centre.html">Nutrition Centre</a></td></tr>
+                                <tr><td><a href="/content/ca/en/food/nutrition_centre.html">Nutrition Centre</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/food/your_questions_answered.html">FAQs</a></td></tr>
+                                <tr><td><a href="/content/ca/en/food/your_questions_answered.html">FAQs</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/food/all-access_moms.html">All-Access Moms</a></td></tr>
+                                <tr><td><a href="/content/ca/en/food/all-access_moms.html">All-Access Moms</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/food/making_informed_choices.html">Making Informed Choices</a></td></tr>
+                                <tr><td><a href="/content/ca/en/food/making_informed_choices.html">Making Informed Choices</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/food/meet_our_suppliers.html">Meet Our Suppliers</a></td></tr>
+                                <tr><td><a href="/content/ca/en/food/meet_our_suppliers.html">Meet Our Suppliers</a></td></tr>
                     
                           </tbody></table>
                         </div>
@@ -511,28 +608,32 @@ var webtrends = '';
             </li>
             
                     <li id="noflyout_li">
-                        <a href="/ca/en/mccafe.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/mccafe/jcr:content/navimage.img.png/1447782590280.png');"><img src="/content/ca/en/mccafe/jcr:content/navimage.img.png/1447782590280.png"></a>
+                        <a href="/content/ca/en/mccafe.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/mccafe/jcr:content/navimage.img.png/1457398996123.png');"><img src="/content/ca/en/mccafe/jcr:content/navimage.img.png/1457398996123.png"></a>
                     
             </li>
             
                     <li id="promonav_li">
-                        <a href="/ca/en/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ca/en/promotions/jcr:content/navimage.img.png/1448574831306.png');"><img src="/content/ca/en/promotions/jcr:content/navimage.img.png/1448574831306.png"></a>
+                        <a href="/content/ca/en/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ca/en/promotions/jcr:content/navimage.img.png/1466000696844.png');"><img src="/content/ca/en/promotions/jcr:content/navimage.img.png/1466000696844.png"></a>
                     
                     <div class="active_nav_widget" id="promonav_layer">
                       <div id="promonav_inner_layer">
             
                             <div class="float_left">
                         
-                                        <a href="/ca/en/promotions/holidaywarmers.html">
-                                        <img src="/content/ca/en/promotions/holidaywarmers/_jcr_content/promolevel2image.img.jpg/1448906003187.jpg" title="">
+                                        <a href="/content/ca/en/promotions/summerdrinkdays.html">
+                                        <img src="/content/ca/en/promotions/summerdrinkdays/_jcr_content/promolevel2image.img.png/1462487417164.png" title="">
                                         </a>
                                     
                             </div>
                         
                             <div class="float_left">
                         
-                                        <a href="/ca/en/promotions/breakfastmcwraps.html">
-                                        <img src="/content/ca/en/promotions/breakfastmcwraps/_jcr_content/promolevel2image.img.jpg/1447973821216.jpg" title="">
+                                        <a href="/content/ca/en/menu/full_menu/desserts_shakes/mcflurry.html">
+                                        <img src="/content/ca/en/menu/full_menu/desserts_shakes/mcflurry/_jcr_content/promolevel3image.img.png/1463595391938.png" title="">
+                                        </a>
+                                    
+                                        <a href="/content/ca/en/promotions/greatcanadiantaste.html">
+                                        <img src="/content/ca/en/promotions/greatcanadiantaste/_jcr_content/promolevel3image.img.png/1466528486118.png" title="">
                                         </a>
                                     
                             </div>
@@ -543,12 +644,12 @@ var webtrends = '';
             </li>
             
                     <li id="noflyout_li">
-                        <a href="/ca/en/happy_meal.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/happy_meal/jcr:content/navimage.img.png/1428513029254.png');"><img src="/content/ca/en/happy_meal/jcr:content/navimage.img.png/1428513029254.png"></a>
+                        <a href="/content/ca/en/happy_meal.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/happy_meal/jcr:content/navimage.img.png/1451676839349.png');"><img src="/content/ca/en/happy_meal/jcr:content/navimage.img.png/1451676839349.png"></a>
                     
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ca/en/our_story.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/our_story/jcr:content/navimage.img.png/1336914394659.png');"><img src="/content/ca/en/our_story/jcr:content/navimage.img.png/1336914394659.png"></a>
+                        <a href="/content/ca/en/our_story.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/our_story/jcr:content/navimage.img.png/1451678038196.png');"><img src="/content/ca/en/our_story/jcr:content/navimage.img.png/1451678038196.png"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -557,15 +658,15 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/ca/en/our_story/our_history.html">Our History</a></td></tr>
+                                <tbody><tr><td><a href="/content/ca/en/our_story/our_history.html">Our History</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/our_story/values_in_action.html">Values In Action</a></td></tr>
+                                <tr><td><a href="/content/ca/en/our_story/values_in_action.html">Values In Action</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/our_story/corporate_info.html">Corporate Info</a></td></tr>
+                                <tr><td><a href="/content/ca/en/our_story/corporate_info.html">Corporate Info</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/our_story/mcdonalds_ads.html">McDonald's Ads</a></td></tr>
+                                <tr><td><a href="/content/ca/en/our_story/mcdonalds_ads.html">McDonald's Ads</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/our_story/mcdonalds_worldwide.html">McDonald's Worldwide</a></td></tr>
+                                <tr><td><a href="/content/ca/en/our_story/mcdonalds_worldwide.html">McDonald's Worldwide</a></td></tr>
                     
                           </tbody></table>
                         </div>
@@ -576,7 +677,7 @@ var webtrends = '';
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ca/en/communities.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/communities/jcr:content/navimage.img.png/1336914435534.png');"><img src="/content/ca/en/communities/jcr:content/navimage.img.png/1336914435534.png"></a>
+                        <a href="/content/ca/en/communities.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/communities/jcr:content/navimage.img.png/1451676735352.png');"><img src="/content/ca/en/communities/jcr:content/navimage.img.png/1451676735352.png"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -585,15 +686,15 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/ca/en/communities/rmhc.html">Ronald McDonald House Charities® Canada</a></td></tr>
+                                <tbody><tr><td><a href="/content/ca/en/communities/rmhc.html">Ronald McDonald House Charities® Canada</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/communities/environment.html">Environment</a></td></tr>
+                                <tr><td><a href="/content/ca/en/communities/environment.html">Environment</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/communities/sports_sponsorships.html">Sports &amp; Sponsorships</a></td></tr>
+                                <tr><td><a href="/content/ca/en/communities/sports_sponsorships.html">Sports &amp; Sponsorships</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/communities/our_communities.html">Local Community</a></td></tr>
+                                <tr><td><a href="/content/ca/en/communities/our_communities.html">Local Community</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/communities/atomc.html">atomc</a></td></tr>
+                                <tr><td><a href="/content/ca/en/communities/atomc.html">atomc</a></td></tr>
                     
                           </tbody></table>
                         </div>
@@ -604,47 +705,16 @@ var webtrends = '';
             </li>
             
                     <li id="noflyout_li">
-                        <a href="/ca/en/franchising.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/franchising/jcr:content/navimage.img.png/1352411674022.png');"><img src="/content/ca/en/franchising/jcr:content/navimage.img.png/1352411674022.png"></a>
+                        <a href="/content/ca/en/franchising.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/franchising/jcr:content/navimage.img.png/1451677369385.png');"><img src="/content/ca/en/franchising/jcr:content/navimage.img.png/1451677369385.png"></a>
                     
             </li>
             
                     <li id="careernav_li">
-                        <a href="/ca/en/careers.html" id="careernav_link" class="nav_item" style="background-image: url('/content/ca/en/careers/jcr:content/navimage.img.png/1439988848419.png');"><img src="/content/ca/en/careers/jcr:content/navimage.img.png/1439988848419.png"></a>
+                        <a href="/content/ca/en/careers.html" id="careernav_link" class="nav_item" style="background-image: url('/content/ca/en/careers/jcr:content/navimage.img.png/1451676837926.png');"><img src="/content/ca/en/careers/jcr:content/navimage.img.png/1451676837926.png"></a>
                     
                     <div class="active_nav_widget" id="careernav_layer">
                       <div id="careernav_inner_layer">
             
-                            <div class="float_left first_column">
-                            <table border-"0"="" cellpadding="0" cellspacing="0" class="column_table">
-                                <thead>
-                                    <tr>
-                                        <th>Restaurant</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                            
-                                        <tr>
-                                          <td>
-                                            <a href="/ca/en/careers/rest_opp/people.html">People</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ca/en/careers/rest_opp/working_here.html">Working Here</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ca/en/careers/rest_opp/training_education_and_benefits.html">Training, Education and Benefits</a>
-                                          </td>
-                                        </tr>
-                                
-                                </tbody>
-                            </table>
-                            </div>
-                            
                             <div class="float_left with_padding middle_column">
                             <table border-"0"="" cellpadding="0" cellspacing="0" class="column_table">
                                 <thead>
@@ -656,7 +726,7 @@ var webtrends = '';
                             
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/careers/corp_opp/corporate_opportunities.html">Corporate Opportunities</a>
+                                            <a href="/content/ca/en/careers/corp_opp/corporate_opportunities.html">Corporate Opportunities</a>
                                           </td>
                                         </tr>
                                 
@@ -670,7 +740,7 @@ var webtrends = '';
             </li>
             
                     <li id="no_li">
-                        <a href="/ca/en/contact_us.html" id="no_link" class="nav_item" style=""></a>
+                        <a href="/content/ca/en/contact_us.html" id="no_link" class="nav_item" style=""></a>
                     
                     <div class="active_nav_widget" id="no_layer">
                       <div id="no_inner_layer">
@@ -681,7 +751,7 @@ var webtrends = '';
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ca/en/How_Can_We_Help.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/How_Can_We_Help/jcr:content/navimage.img.png/1427468539617.png');"><img src="/content/ca/en/How_Can_We_Help/jcr:content/navimage.img.png/1427468539617.png"></a>
+                        <a href="/content/ca/en/How_Can_We_Help.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/How_Can_We_Help/jcr:content/navimage.img.png/1451676838023.png');"><img src="/content/ca/en/How_Can_We_Help/jcr:content/navimage.img.png/1451676838023.png"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -690,19 +760,21 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/ca/en/How_Can_We_Help/How_Can_We_Help_You.html">How Can We Help You?</a></td></tr>
+                                <tbody><tr><td><a href="/content/ca/en/How_Can_We_Help/Talk_to_Us.html">Talk to Us</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/How_Can_We_Help/FAQ.html">Frequently Asked Questions</a></td></tr>
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/How_Can_We_Help_You.html">How Can We Help You?</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/How_Can_We_Help/Our_Food_Your_Questions.html">Our Food Your Questions</a></td></tr>
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/FAQ.html">Frequently Asked Questions</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/How_Can_We_Help/Nutrition_Calculator.html">Nutrition Calculator</a></td></tr>
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/Our_Food_Your_Questions.html">Our Food Your Questions</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/How_Can_We_Help/Guest_Satisfaction_Survey.html">Guest Satisfaction Survey</a></td></tr>
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/Nutrition_Calculator.html">Nutrition Calculator</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/How_Can_We_Help/New_Products_and_Promos.html">New Products and Promos</a></td></tr>
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/Guest_Satisfaction_Survey.html">Guest Satisfaction Survey</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/How_Can_We_Help/Restaurant_Locator.html">Restaurant Locator</a></td></tr>
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/New_Products_and_Promos.html">New Products and Promos</a></td></tr>
+                    
+                                <tr><td><a href="/content/ca/en/How_Can_We_Help/Restaurant_Locator.html">Restaurant Locator</a></td></tr>
                     
                           </tbody></table>
                         </div>
@@ -713,12 +785,12 @@ var webtrends = '';
             </li>
             
                     <li id="noflyout_li">
-                        <a href="/ca/en/mcard.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/mcard/jcr:content/navimage.img.png/1336914417698.png');"><img src="/content/ca/en/mcard/jcr:content/navimage.img.png/1336914417698.png"></a>
+                        <a href="/content/ca/en/mcard.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/mcard/jcr:content/navimage.img.png/1451676837468.png');"><img src="/content/ca/en/mcard/jcr:content/navimage.img.png/1451676837468.png"></a>
                     
             </li>
             
                     <li id="no_li">
-                        <a href="/ca/en/dylantest.html" id="no_link" class="nav_item" style=""></a>
+                        <a href="/content/ca/en/dylantest.html" id="no_link" class="nav_item" style=""></a>
                     
                     <div class="active_nav_widget" id="no_layer">
                       <div id="no_inner_layer">
@@ -729,7 +801,18 @@ var webtrends = '';
             </li>
             
                     <li id="no_li">
-                        <a href="/ca/en/maintenancepage.html" id="no_link" class="nav_item" style=""></a>
+                        <a href="/content/ca/en/maintenancepage.html" id="no_link" class="nav_item" style=""></a>
+                    
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
+            </li>
+            
+                    <li id="no_li">
+                        <a href="/content/ca/en/errors.html" id="no_link" class="nav_item" style=""></a>
                     
                     <div class="active_nav_widget" id="no_layer">
                       <div id="no_inner_layer">
@@ -847,7 +930,7 @@ function _utf8_encode(string) {
     $('a[href$="/ar/mds.html"]').click(function(){ 
     
         _gaq.push(['_trackPageview', '/ca/ar/mds.html']);  
-    
+
     });
     
     $(".nav_item").each(function(){
@@ -892,50 +975,60 @@ function _utf8_encode(string) {
 </script>
 </div>
 
-        </div> 
-        
-            <div id="breadcrumb">
-                <div class="mcdonaldsbreadcrumb breadcrumb">
+			
+		</div>
+		
+		
+			<div id="breadcrumb">
+				
+					<div class="breadcrumb mcdonaldsbreadcrumb">
 
  
-  
+ 
+    
 
  
-   
-   
+ 
+     
+                  
          
  
         <div class="breadCrumb"> 
                     
-                <a href="/ca/en.html">English</a>&nbsp;<span class="bd_separator">/</span>&nbsp;<a href="#" class="last">Privacy Policy</a>
+                <a href="#" class="last">Privacy Policy</a>
                        
         </div>      
-              
+     
  
    
   
          </div>
 
-            </div>
-        
-        <div id="notification">
-       
-         
-            <div id="search">
-               <div class="parbase search"> 
+				
+
+			</div>
+    
+		<div id="notification">
+			
+			
+				<div id="search">
+					
+						<div class="search parbase"> 
  
 
  
-  
+ 
+    
    <form name="searchfrm" action="javascript:submitSearch();">
-     Search&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="search" rel=""> 
+     ca_en&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="search"> 
    </form> 
      <script language="javaScript"> 
+
      function submitSearch() {
          var collection ="canada" ;
          var searchVal = document.searchfrm.search.value;
          if (searchVal.trim()==""){ 
-             alert('Search');
+             alert('Please provide a Keyword');
          }
          else{
              var formActionn = "/content/ca/en/search/search_results.html?queryText=" + searchVal.trim() + "&collection="+collection;
@@ -944,13 +1037,17 @@ function _utf8_encode(string) {
      }
      </script></div>
 
-           </div>
-        
-        
-            <div id="language">
-                <div class="siteToggler">
+					
+				</div>
+			
+			
+			
+				<div id="language">
+					
+						<div class="siteToggler">
  
-  
+ 
+    
 
 <script>
 
@@ -976,22 +1073,35 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
     <!--<a href="javascript: siteToggler('fr', '/ca/fr/privacy.html')">Français </a> -->
     
      <a href="javascript: siteToggler('fr', '/ca/fr/privacy.html','false')">Français </a> 
-</div> 
+
 </div>
 
-       
-        
-        
-            <div id="search"> 
-               <a href="https://careers.mcdonalds.ca/mcd-careers/applicant/location">Apply Now</a>
-            </div>  
-        
-         
-        
-            <div id="share">
-                <div class="share socialsharing">
+					
+				</div>
+			
+			
+			<!-- Start of Show Apply Now -->
+			
+					<div id="search">
+					  <a href="https://careers.mcdonalds.ca/mcd-careers/applicant/location">Apply Now</a>
+					</div>
+				
+			<!-- End of Show Apply Now -->
+			
+			<!-- Start of country switcher -->
+			
+			<!-- End of country switcher -->
+		
+		
+		
+			<!-- Start of Social Sharing -->
+			
+				<div id="share">
+					
+						<div class="share socialsharing">
  
-  
+ 
+    
 
 
 
@@ -1001,21 +1111,21 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
    
     function twitter()      
     { if(webtrends){
-          //  Tracker1('uri','/share/twitter','title','Share_Twitter','share',''+encodeURIComponent(location.href)+''); 
+           // Tracker1('uri','/share/twitter','title','Share_Twitter','share',''+encodeURIComponent(location.href)+''); 
         }
           window.open('http://www.addtoany.com/add_to/twitter?linkurl='+encodeURIComponent(location.href)+'&linkname='+encodeURIComponent(document.title),'twitter'); 
     }
     
     function facebook()
     { if(webtrends){
-           // Tracker1('uri','/share/facebook','title','Share_Facebook','share',''+encodeURIComponent(location.href)+'');  
+            //Tracker1('uri','/share/facebook','title','Share_Facebook','share',''+encodeURIComponent(location.href)+'');  
             }
         window.open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title),'facebook');        
     }
     
     function delicious()
     {  if(webtrends){
-            //Tracker1('uri','/share/delicious','title','Share_Delicious','share',''+encodeURIComponent(location.href)+'');    
+          //  Tracker1('uri','/share/delicious','title','Share_Delicious','share',''+encodeURIComponent(location.href)+'');    
             }
            window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious');
     }
@@ -1029,7 +1139,7 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
     
     function googlebuzz()
     {  if(webtrends){
-          //  Tracker1('uri','/share/googlebuzz','title','Share_Google_Buzz','share',''+encodeURIComponent(location.href)+'');  
+           // Tracker1('uri','/share/googlebuzz','title','Share_Google_Buzz','share',''+encodeURIComponent(location.href)+'');  
             }
         window.open('http://www.google.com/buzz/post?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'googlebuzz');
     }
@@ -1043,26 +1153,26 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
     
     function blogger()
     { if(webtrends){
-           // Tracker1('uri','/share/blogger','title','Share_Blogger','share',''+encodeURIComponent(location.href)+''); 
+          //  Tracker1('uri','/share/blogger','title','Share_Blogger','share',''+encodeURIComponent(location.href)+''); 
             }
         window.open('http://www.blogger.com/blog_this.pyra?t&u='+encodeURIComponent(location.href)+'&n='+encodeURIComponent(document.title),'blogger');
     }
     
     function emailform()
     {  if(webtrends){
-           // Tracker1('uri','/share/emailform','title','Share_Email','share',''+encodeURIComponent(location.href)+''); 
+          //  Tracker1('uri','/share/emailform','title','Share_Email','share',''+encodeURIComponent(location.href)+''); 
             }            
     }
     
     function rssnews()
     {  if(webtrends){
-           // Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
+          //  Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
             }
     }
-   
+    
     function googleplus()
     {  if(webtrends){
-            //Tracker1('uri','/share/googleplus','title','Share_Google_Plus','share',''+encodeURIComponent(location.href)+'');  
+        //    Tracker1('uri','/share/googleplus','title','Share_Google_Plus','share',''+encodeURIComponent(location.href)+'');  
             }
         window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'googleplus');
     }
@@ -1072,13 +1182,13 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
                 
                 
         <a href="javascript:void(0);">Share</a>
-           </div>
+
 
 <div id="share_spacer"></div> 
     
  
   
-<div id="share_flyout" style="display: none; top: 30px; left: 42.4688px;">
+<div id="share_flyout" style="">
     
                 <a href="javascript:facebook();" class="external" id="share_facebook" title="Facebook"><img src="/content/dam/Canada/en/socialsharing/share_facebook.png" width="16" height="16" alt="Facebook"></a>      
             
@@ -1087,48 +1197,69 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
                 <a href="javascript:googleplus();" class="external" id="share_googleplus" title="Google Plus"><img src="/content/dam/Canada/en/socialsharing/share_gplus.png" width="16" height="16" alt="Google Plus"></a>
             
 </div> 
-<div style="clear:both"></div> 
+<div style="clear:both"></div>
 
    </div>
 
-           
-        
-        
-        
-            <div id="locator"> 
-               <a href="/ca/en/restaurant_locator.html">Restaurant Locator</a>
-           </div>  
-              
+					
+				</div>	
+			
+			
+			
+			
+			
+				<div id="locator">
+					<a href="/content/ca/en/restaurant_locator.html">Restaurant Locator</a>
+				</div>
+			
+			
+			<!-- Wei - 6/25/2013 - for ie10 pinning -->
+			
+
+			
+
+
+			
+			
         </div>
-        
+
     </div>
-</div>  
-     
+</div>
+<script type="text/javascript"> 
+          var hideSocial="false";
+          if(hideSocial=="true"){
+          $("#share").css("background","none");
+          }
+</script>
         
 
  
-  
+ 
+    
     <div id="page_wrapper">
         <div id="page_content">
     
     
         <div id="page_narrow_hero" style="padding-top: 40px; #padding-top: 34px;padding-bottom: 0px; max-width:886px;overflow:hidden; margin-bottom:-2px; #margin-bottom:0px; _margin-bottom:0px;">
-            <div class="parsys herosectionpar">
+            <div class="herosectionpar parsys">
 </div>
 
         </div>
+   
         
         
         <div id="content_section" style="background-color:#FFFFFF;  padding-bottom: 71px;">
-        
+
                 
  
-  
+ 
+    
     <div id="main_content_segment" class="clear">
         <div class="main_content_inner_ko" style="">
-            <div class="parsys genericpagecontent"><div class="everything section">
+            <div class="genericpagecontent parsys"><div class="section everything">
  
-  
+ 
+    
 
   
 
@@ -1234,13 +1365,13 @@ Fax: 416-446-3429</p>
         </div>
     
             <div>
-                <div class="featuredcontent parsys iparsys"><div class="iparys_inherited"><div class="featuredcontent parsys iparsys"></div>
+                <div class="parsys featuredcontent iparsys"><div class="iparys_inherited"><div class="parsys featuredcontent iparsys"></div>
 </div>
 </div>
 
             </div>
               
-    
+     
     </div>
     
             
@@ -1257,14 +1388,15 @@ Fax: 416-446-3429</p>
         </div>
     
         <div id="page_footer">
-            <div class="parsys iparsys footeripar"><div class="iparys_inherited"><div class="parsys iparsys footeripar"><div class="footer section">
+            <div class="footeripar parsys iparsys"><div class="iparys_inherited"><div class="footeripar parsys iparsys"><div class="footer section">
  
-  
+ 
+    
 
  
 
  
-   
+
 <style>
     #page_footer, #page_footer a 
     {
@@ -1276,22 +1408,19 @@ Fax: 416-446-3429</p>
     
     function twitterMCD() 
     { 
-      //  Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
-        window.open('http://www.twitter.com/McDonalds'); 
+      window.open('http://www.twitter.com/McDonalds'); 
     }
       function YouTubeMCD() 
-    { //alert("inside function");
-      //  Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+    { 
         window.open('http://www.YouTube.com/McDonalds'); 
     }
       function FlickerMCD() 
     { 
-       // Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+
         window.open('http://www.Flicker.com/McDonalds'); 
     }
     function facebookMCD()
     {
-       // Tracker('uri','/facebook/McDonalds','title','Go to Facebook.com/McDonalds');
         window.open('http://www.facebook.com/McDonalds');
     }    
 </script>
@@ -1320,35 +1449,35 @@ Fax: 416-446-3429</p>
             
         <td align="right" valign="right" class="not_bigger_but_bolder">
 
-      Contest Rules
+      <a href="/content/ca/en/contest_rules.html">Contest Rules</a>
       
            <span>|</span> 
 
-      <a href="/ca/en/our_story/corporate_info.html">Corporate Info</a>
+      <a href="/content/ca/en/our_story/corporate_info.html">Corporate Info</a>
       
            <span>|</span> 
 
-      <a href="/ca/en/our_story/corporate_info/press_room.html">Press Room</a>
+      <a href="/content/ca/en/our_story/corporate_info/press_room.html">Press Room</a>
       
            <span>|</span> 
 
-      <a href="/ca/en/help.html">Help</a>
+      <a href="/content/ca/en/help.html">Help</a>
       
            <span>|</span> 
 
-      <a href="/ca/en/privacy.html">Privacy</a>
+      <a href="/content/ca/en/privacy.html">Privacy</a>
       
            <span>|</span> 
 
-      <a href="/ca/en/terms_conditions.html">Terms &amp; Conditions</a>
+      <a href="/content/ca/en/terms_conditions.html">Terms &amp; Conditions</a>
       
            <span>|</span> 
 
-      <a href="/ca/en/accessibility.html">Accessibility</a>
+      <a href="/content/ca/en/accessibility.html">Accessibility</a>
         
   
      <span>|</span>                 
-     <span style="color:#;font-size:px;"> ©2010-2015&nbsp;&nbsp;McDonald's</span>
+     <span style="color:#;font-size:px;"> ©2010-2016&nbsp;&nbsp;McDonald's</span>
        
        </td>
     </tr>
@@ -1358,15 +1487,50 @@ Fax: 416-446-3429</p>
 
 
  
-  
+ 
+    </div>
+<div class="uploadHtml section">
+
+
+ 
+ 
+    
       <div id="import_html">
-            <!-- Trialfire Start --> 
-	<script src="//cdn.trialfire.com/tf.js"></script> 
-	<script>Trialfire.init('48221d93-a776-4424-8a27-d73784160b3b');</script> 
-	<!-- Trialfire End --> 
+            <!-- Add placeholder to site search field --><script type="text/javascript">$(function(){$('#search input[name=search]').attr('placeholder',"Search")})</script>
       </div>
 </div>
+<div class="uploadHtml section">
 
+
+ 
+ 
+    
+      <div id="import_html">
+            <!-- mcd-crm/2.0.0 -->
+<!--[if !IE]> -->
+<div class="mcd-crm-header js-mcd-crm-header">
+    <a class="mcd-crm-header__button js-mcd-crm-header-button" href="http://www4.mcdonalds.ca/acquisition/">
+        Join Email List
+    </a>
+</div>
+    <style type="text/css">
+        @font-face{font-family:machand;src:url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-light-webfont.eot);src:url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-light-webfont.eot?#iefix) format('embedded-opentype'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-light-webfont.woff2) format('woff2'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-light-webfont.woff) format('woff'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-light-webfont.ttf) format('truetype'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-light-webfont.svg#machandlight) format('svg');font-weight:400;font-style:normal}@font-face{font-family:machand;src:url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-bold-webfont.eot);src:url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-bold-webfont.eot?#iefix) format('embedded-opentype'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-bold-webfont.woff2) format('woff2'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-bold-webfont.woff) format('woff'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-bold-webfont.ttf) format('truetype'),url(/content/dam/Canada/en/Promo/crm/assets/fonts/machand-bold-webfont.svg#machand_boldbold) format('svg');font-weight:700;font-style:normal}.mcd-crm-reset p{font-size:inherit;font-weight:inherit;font-style:inherit;font-family:inherit;line-height:inherit;font-variant:inherit;color:inherit;margin:0}.mcd-crm-reset p+p{margin-top:1em}.mcd-crm-reset ul{list-style-image:none}.mcd-crm-reset h1,.mcd-crm-reset h2,.mcd-crm-reset ol,.mcd-crm-reset ul{color:inherit;line-height:inherit}.mcd-crm-reset h2,.mcd-crm-reset h3,.mcd-crm-reset h4{padding-bottom:0}.mcd-crm-reset sup{font-size:50%}.mcd-crm-reset a{font-family:inherit}@media all and (max-width:640px){.mcd-crm-reset *{max-height:1000000px}}.mcd-crm-button{display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;padding:.8em 4em;border-radius:1.2em;text-transform:uppercase;font-weight:700;background:-webkit-linear-gradient(top,#fac32e,#fabe1e);background:linear-gradient(180deg,#fac32e,#fabe1e);border:1px solid #e6a905;box-shadow:inset 0 0 2px #fde095;color:#212121;text-decoration:none;cursor:pointer}.mcd-crm-button:hover{color:#212121}.mcd-crm-button--red{background:-webkit-linear-gradient(top,#b30c0c,#a70b0b);background:linear-gradient(180deg,#b30c0c,#a70b0b);border:1px solid #8d0a0a;box-shadow:inset 0 0 2px #f56868;color:#fff;text-decoration:none}.mcd-crm-button--red:hover{color:#fff}.mcd-crm-button--black{background:-webkit-linear-gradient(top,#030303,#000);background:linear-gradient(180deg,#030303,#000);border:1px solid #000;box-shadow:inset 0 0 2px gray;color:#fff;text-decoration:none}.mcd-crm-button--black:hover{color:#fff}.mcd-crm-button--less-padding{padding-left:2em;padding-right:2em}@media all and (min-width:641px){.mcd-crm-valign{display:table;width:100%;height:100%}.mcd-crm-valign__inner{display:table-cell;vertical-align:middle}}#notification{width:auto}@media all and (max-width:640px){#nav{position:relative;z-index:1}}@media all and (max-width:640px){#import_html{margin-top:-60px}}@media all and (max-width:640px){.mcd-crm-page__mobile-header-spacer{padding-top:60px}}.mcd-crm-page__header{position:relative;padding:70px 100px;box-sizing:border-box}@media all and (max-width:640px){.mcd-crm-page__header{padding-bottom:0}}.mcd-crm-page__header--yellow{background-color:#fac22c;color:#212121}@media all and (min-width:641px){.mcd-crm-page__header--yellow{background:-webkit-radial-gradient(350px at 70% 75%,#fce095 0,#fac22c 100%);background:radial-gradient(350px at 70% 75%,#fce095 0,#fac22c 100%)}}@media all and (max-width:640px){.mcd-crm-page__header--yellow{background:-webkit-radial-gradient(350px at 50% 50%,#fce095 0,#fac22c 100%);background:radial-gradient(350px at 50% 50%,#fce095 0,#fac22c 100%)}}@media all and (min-width:641px){.mcd-crm-page__header--yellow{padding-left:370px}}@media all and (min-width:641px){.mcd-crm-page__header--yellow .mcd-crm-page__header__food{left:140px}}@media all and (max-width:640px){.mcd-crm-page__header--yellow .mcd-crm-page__header__food{width:75%;height:auto;display:block;margin:0 auto}}@media all and (min-width:641px){.mcd-crm-page__header__food{display:block;position:absolute;bottom:0}}.mcd-crm-page__header__heading{position:relative;margin:0;text-align:center;font-family:machand,sans-serif;font-weight:700;text-transform:uppercase}.mcd-crm-page__header .mcd-crm-page__header__heading{line-height:1;font-size:220%}@media all and (max-width:640px){.mcd-crm-page__header .mcd-crm-page__header__heading{font-size:150%}}.mcd-crm-page__header .mcd-crm-page__header__heading__image{display:block}@media all and (max-width:640px){.mcd-crm-page__box{padding-left:60px;padding-right:60px;background-color:#fff}}.mcd-crm-page__flair-container{position:relative;display:inline-block}.mcd-crm-page__flair{position:absolute;display:block}.mcd-crm-page__flair--majesty{left:50%;bottom:100%;margin-bottom:10px;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.mcd-crm-header{position:relative;float:right;padding:2px 17px 0;height:32px;line-height:30px;color:#a6a6a3;font-family:Arial,Helvetica,sans-serif;font-size:11px;font-variant:normal;font-weight:400;letter-spacing:0;word-spacing:.1em;background:transparent url(/themes/Canada/images/backgrounds/topbar_spacer.png) repeat-y left top}#page_footer .mcd-crm-header{display:none}
+    </style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+    window.jq214 = jQuery.noConflict(true);
+</script>
+    <script type="text/javascript">
+        !function e(r,t,n){function o(a,c){if(!t[a]){if(!r[a]){var s="function"==typeof require&&require;if(!c&&s)return s(a,!0);if(i)return i(a,!0);var u=new Error("Cannot find module '"+a+"'");throw u.code="MODULE_NOT_FOUND",u}var f=t[a]={exports:{}};r[a][0].call(f.exports,function(e){var t=r[a][1][e];return o(t?t:e)},f,f.exports,e,r,t,n)}return t[a].exports}for(var i="function"==typeof require&&require,a=0;a<n.length;a++)o(n[a]);return o}({1:[function(e,r,t){var t=r.exports=function(e){e||(e={}),"string"==typeof e&&(e={cookie:e}),void 0===e.cookie&&(e.cookie="");var r={};return r.get=function(r){for(var t=e.cookie.split(/;\s*/),n=0;n<t.length;n++){var o=t[n].split("="),i=unescape(o[0]);if(i===r)return unescape(o[1])}},r.set=function(r,t,n){n||(n={});var o=escape(r)+"="+escape(t);return n.expires&&(o+="; expires="+n.expires),n.path&&(o+="; path="+escape(n.path)),e.cookie=o,o},r};if("undefined"!=typeof document){var n=t(document);t.get=n.get,t.set=n.set}},{}],2:[function(e,r,t){var n,o;e("../partial/overlay"),e("../partial/removeHeaderItems"),n=window.jq214,o=!0,null!=("undefined"!=typeof navigator&&null!==navigator?navigator.appVersion:void 0)&&/\bMSIE\b/.test(navigator.appVersion)&&(o=parseInt(navigator.appVersion.match(/\bMSIE\s+([\d.]+)/)[1])>=10),o&&n(function(){var e;e=n(".js-mcd-crm-header"),n("#language").after(e)})},{"../partial/overlay":4,"../partial/removeHeaderItems":5}],3:[function(e,r,t){var n;n=function(){return/(BlackBerry|iPhone OS|Android|Opera|Windows Phone)/.test(navigator.userAgent)},r.exports=n},{}],4:[function(e,r,t){var n,o,i,a;i=e("cookie-cutter"),a=e("../partial/isMobile"),o="mcd-crm-overlay-seen",(n=window.jq214)(function(){var e,r,t,c;return r=n(".js-mcd-crm-overlay"),r.length?(a()||r.insertAfter(n("#page_footer")),e=r.find(".js-mcd-crm-overlay-box"),t=function(){r.removeClass("is-active"),i.set(o,"yes",{expires:new Date((new Date).getTime()+31536e6).toUTCString(),path:"/"})},r.find(".js-mcd-crm-close-button").on("click",function(e){e.stopPropagation(),t()}),r.on("click",function(e){t()}),e.on("click",function(e){e.stopPropagation()}),c=function(){"yes"!==i.get(o)&&r.addClass("is-active")},a()?c():setTimeout(c,3e3)):void 0})},{"../partial/isMobile":3,"cookie-cutter":1}],5:[function(e,r,t){var n;(n=window.jq214)(function(){var e;e=n("#notification"),e.length&&(e.find("#apply, #share").remove(),e.find("#search form[name=searchfrm]").contents().filter(function(){return 3===this.nodeType}).remove())})},{}]},{},[2]);
+    </script>
+    <script type="text/javascript" src="//use.typekit.net/xlx6jsk.js"></script>
+<script type="text/javascript">
+    !function r(e,t,n){function o(u,f){if(!t[u]){if(!e[u]){var c="function"==typeof require&&require;if(!f&&c)return c(u,!0);if(i)return i(u,!0);var a=new Error("Cannot find module '"+u+"'");throw a.code="MODULE_NOT_FOUND",a}var p=t[u]={exports:{}};e[u][0].call(p.exports,function(r){var t=e[u][1][r];return o(t?t:r)},p,p.exports,r,e,t,n)}return t[u].exports}for(var i="function"==typeof require&&require,u=0;u<n.length;u++)o(n[u]);return o}({1:[function(r,e,t){try{Typekit.load()}catch(n){}},{}]},{},[1]);
+</script>
+<!-- <![endif]-->
+
+      </div>
+</div>
 </div>
 </div>
 </div>
@@ -1390,8 +1554,9 @@ Fax: 416-446-3429</p>
 -->
 
     </div>
+	
     
-    <script type="text/javascript">
+	<script type="text/javascript">
 
     if ($.browser.mozilla) {
         $('.callout_body_segement').each(function () {
@@ -1406,8 +1571,23 @@ Fax: 416-446-3429</p>
         $('.featurecallout .callout_body_segement').callouts();
     });
     </script>  
+
+ 
+			<!-- START OF Google Analytics TAG -->
+			<script type="text/javascript">
+		
+
+
+		
+		
+			</script>
+			<!-- END OF Google Analytics TAG --> 
+
     
-    
+
+
+
+								
              
     <!-- START OF Google Analytics TAG -->    
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PBZ2PB"
@@ -1437,16 +1617,24 @@ Fax: 416-446-3429</p>
             </script>
     <!-- END OF Google Analytics TAG -->
 
-	 
+                
 
+	          
+	<!--Configurable DTM Code -->
+	  <script type="text/javascript">_satellite.pageBottom();</script>
 
-   <!--Configurable DTM Code -->
-    <script type="text/javascript">_satellite.pageBottom();</script>
-  
-    
-
-
-
+	<!--Configurable DTM Code End -->
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
+   
+   
 <script type="text/javascript">
 
         var foodnav = new Image();
@@ -1465,14 +1653,6 @@ Fax: 416-446-3429</p>
 
         inputnav.src = "/images/navigation/input_flyout_bg.png";
 
-</script>     
+</script>       
 
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script>   </body></html>
+                              </body></html>
