@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spanishcentral.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031132414id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishcentral.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624170052id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # English to Spanish Translation | Merriam-Webster's Spanish-English Dictionary - Spanish Central
+
+_Updated June 9, 2015_
 
 _About Our Ads and our Privacy Policy together explain how we and some of the companies we work with collect, use, share and protect information in relation to our Web sites, mobile application services and any software provided on or in connection with Merriam-Webster services (collectively, the "Services") and your choices about the collection and use of your information. The Services are general audience services, intended for Users (visitors and subscribers) of all ages. Our free Services are supported by advertising. Our subscription Web sites are paid for by subscription fees, and are ad-free, as are our paid-for mobile applications. If you would like to avoid ads, sign up for a subscription or upgrade your mobile application._ This Privacy Policy does not govern the use of data that Users provide directly to advertisers or third party partners; that usage is governed by the advertiser’s or third party partner’s privacy policy.
 
