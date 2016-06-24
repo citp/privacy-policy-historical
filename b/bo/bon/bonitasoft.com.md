@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonitasoft.com privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714152917id_/http%3A//www.bonitasoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonitasoft.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624163359id_/http%3A//www.bonitasoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bonitasoft | Open Source Workflow & BPM software
 
