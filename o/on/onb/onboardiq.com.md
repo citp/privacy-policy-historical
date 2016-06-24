@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the onboardiq.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923224726id_/https%3A//www.onboardiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onboardiq.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624081420id_/https%3A//onboardiq.com/privacy) for the most accurate reproduction.*
 
 # OnboardIQ
 
 * * *
 
-#### Effective Date: October 1, 2015
+#### Effective Date: October 1, 2014
 
-#### Last Updated Date: August 3, 2016
+#### Last Updated Date: August 3, 2015
 
 * * *
 
 This Privacy Policy is incorporated by reference into the SaaS Services Agreement and [Terms of Use](https://web.archive.org/tos) (the “Terms”). The term “Company,” “we,” and “us” includes OnboardIQ, Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Company may:
 
-• collect,  
-• use, and  
-• disclose
+• collect,   
+• use, and   
+• disclose 
 
 information we obtain through the Service. All other terms not defined herein will have the meanings set forth in the Terms.
 
@@ -29,7 +29,7 @@ We collect Personal Information when you:
 • communicate with us.   
 We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service. 
 
-Personal Information Collection. You must register to use the Service. To register, you may need to provide Personal Information, such as your name, company name and e-mail address. You may also provide other optional information, such as drivers license number, social security number, birthdate, background checks, qualifications and availability.
+Personal Information Collection. You must register to use the Service. To register, you may need to provide Personal Information, such as your name, company name and e-mail address. You may also provide other optional information, such as drivers license number, social security number, birthdate, background checks, qualifications and availability. 
 
 Using the Service. We collect information you post through the Service. For example, when you interact with other users, the Service will collect the information you provide in such submissions, including any Personal Information. Making Payments. When you make payments through the Service, you may need to provide Personal Information to our third-party service providers, such as your credit card number.
 
