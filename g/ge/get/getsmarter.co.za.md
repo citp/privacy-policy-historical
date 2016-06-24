@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211144302id_/http%3A//www.getsmarter.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624142558id_/http%3A//www.getsmarter.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GetSmarter
 
@@ -6,7 +6,7 @@
 
 THIS PRIVACY POLICY FORMS PART OF OUR WEBSITE TERMS AND CONDITIONS OF USE. IF YOU DO NOT AGREE WITH ANY TERM OF THIS PRIVACY POLICY, YOU MUST CEASE YOUR ACCESS OF THIS WEBSITE IMMEDIATELY.
 
-#### 1\. Definitions 
+#### 1\. Definitions
 
 The following words and phrases have these meanings in this document:
 
@@ -20,7 +20,7 @@ The following words and phrases have these meanings in this document:
 
 1.5. “Site” means Internet World Wide website at URL www.getsmarter.co.za.
 
-1.6. “You” or the “user” means any person who accesses this Site for any purpose. 
+1.6. “You” or the “user” means any person who accesses this Site for any purpose.
 
 #### 2\. Status and Amendments
 
@@ -40,7 +40,7 @@ The following words and phrases have these meanings in this document:
 
 3.1.3. Personal Information will only be Processed for a purpose compatible with that for which it was collected, unless you have consented to an alternative purpose in writing or we are permitted by POPI or in terms of national legislation of general application.
 
-3.1.4. We will not disclose any Personal Information relating to you to any third party unless your prior written agreement is obtained or we are required to do so by law. In this regard your attention is drawn to the Terms and Conditions for Learners.
+3.1.4. We will not disclose any Personal Information relating to you to any third party unless your prior written agreement is obtained or we are required to do so by law. In this regard your attention is drawn to the Terms and Conditions for Students.
 
 3.1.5. We will destroy or delete any Personal Information that is no longer needed by us for the purpose it was initially collected, or subsequently Processed.
 
