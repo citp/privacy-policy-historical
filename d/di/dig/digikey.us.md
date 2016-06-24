@@ -1,102 +1,83 @@
-> *The following text is extracted and transformed from the digikey.us privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224082257id_/http%3A//www.digikey.com/en/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.us privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624170612id_/https%3A//www.digikey.com/en/help/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey Electronics
 
-> We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
+Revision 1.0
 
-## Web Site Visits
+## DATE OF LAST MODIFICATION
 
-> Each time you visit Digi-Key's Web Site, our server automatically recognizes and logs your IP address. An IP address is basically the address of the computer making a request to our web server. No personal information or detail is obtained in this data interchange—a visitor's browser is not designed to provide this information.
-> 
-> At Digi-Key, logged IP addresses are periodically reviewed and analyzed in an effort to monitor, maintain, and effectively improve our Web site. This information is retained for no other purpose and is not shared outside of Digi-Key.
-> 
-> During a Web site visit, we may ask a customer for contact information (email address, telephone number, fax number and addresses for shipping/billing). This information is collected on a voluntary basis—and only with customer approval.
-> 
-> The Digi-Key Web site contains links to other web sites. Digi-Key does not control or take responsibility for personal information collected on these sites nor is Digi-Key responsible for the accuracy or the content of these sites.
+## February 24, 2016
 
-## Customer Information
+We welcome you to the Digi-Key® Web Site. We provide this Privacy Statement to inform you on how we use and manage the information collected at Digi-Key. This Privacy Statement applies to any website or mobile application that includes, attaches, references, or links to this Privacy Statement (“Web Site”). The Digi-Key Web site may contain links to other websites. Digi-Key does not control or take responsibility for personal information collected on these sites nor is Digi-Key responsible for the accuracy or the content of these sites.
 
-> Once you make a purchase or request other information from Digi-Key, your name, shipping/mailing address, telephone number, email address and fax number are included in our customer file.
-> 
-> This information is used to ensure a quick, efficient flow of products and services to you.
-> 
-> This information may also be used for other purposes as outlined below.
+**1\. Types And Use Of Information We Collect From You**
 
-> ### Postal Addresses
-> 
-> Digi-Key may use your mailing address to send Digi-Key marketing materials to keep you updated on our most current products and services.
-> 
-> Occasionally, Digi-Key may make the names and addresses of our customer list available to carefully screened companies that offer products and/or services that may be of interest to you.
-> 
-> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](https://www.digikey.com/classic/forms/dkc/www/servicesoptout.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
+ **Customer Information** \- During a Web Site visit, we ask a customer for contact information (such as name, title, company name, email address, telephone number, fax number and addresses for shipping/billing, and credit card information, when applicable) as part of the purchase process, to become a registered user of the Web Site, when you request information from or submit a question to Digi-Key, and when you complete any web forms asking for such information.
 
-> ### Email Addresses
-> 
-> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://www.digikey.com/classic/forms/dkc/www/servicesoptout.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
-> 
-> Emails may be sent by Digi-Key or an authorized agent working for Digi-Key. All authorized agents operate with a confidentiality agreement. Information sent in this manner will always include "opt out" options.
-> 
-> Email addresses are never rented, sold or traded to third parties.
+Once you make a purchase, become a registered user, or request information from Digi-Key, your name, title, company name, shipping/mailing address, telephone number, email address, fax number, financial and credit card, and other information may be included in our customer file.
 
-> ### Other Uses of Customer Information
-> 
-> Digi-Key is under contract to provide point of sale information to many of its product suppliers for market research and payment of commission to the supplier's agents.
-> 
-> If you have an open account with Digi-Key, credit and payment history will periodically be shared with credit reporting agencies.
-> 
-> Customer information is also used for marketing and market research for Digi-Key Corporation. Digi-Key or an authorized agent working for Digi-Key may complete these activities. All customer information is kept confidential.
-> 
-> Digi-Key will share customer information with government agencies if required by law.
+**Use of Information** \- We use this information to fulfill your orders and otherwise provide the product and services you request, as well as support for those products and services. We may use customer information to send you information and advertising about Digi-Key and its products and services. For example, Digi-Key may use your mailing address to send Digi-Key marketing materials to keep you updated on our most current products and services. Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://www.digikey.com/classic/forms/dkc/www/servicesoptout.aspx?FormSite=US&FormLang=en&site=US&lang=en)." Emails may be sent to you by Digi-Key or an authorized agent working for Digi-Key. Information sent in this manner will always include "opt out" options. We also reserve the right, but not the obligation, to contact you regarding changes to this Privacy Statement and other matters relevant to the Web Site.
 
-## Web Site Security
+**2\. Information Automatically Collected**
 
-> Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. SSL protocol was developed by Netscape Communications Corporation to enable encrypted, authenticated communications across the Internet. SSL uses public key encryption mechanisms, one of the strongest encryption methods available to protect data sent over the Internet. SSL provides 3 important services, all using public key techniques: Privacy, Authentication, and Message Integrity. Customer information sent is not discernible to anyone except the recipient.
-> 
-> Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases.
-> 
-> If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](https://web.archive.org/en/help/ordering-faqs) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
-> 
-> When accessing our online order entry system using a secure browser, one can feel secure transmitting credit card or other confidential information sent over the Internet.
+When you visit the Web Site, we collect some information automatically. By collecting this information we get a better understanding of your needs and preferences, what products and services we can develop to meet those needs and preferences, and how well Digi-Key’s Web Site is functioning. Some of the information we automatically collect is necessary for the proper functioning of the Web Site, such as cookies as explained below. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Statement.
 
-## Online Chat
+**Links, Embedded Content, and Buttons** – Digi-Key may keep track of how you interact with links across our services, including our email notifications. We do this to help improve our services, provide information and advertising, and to be able to analyze aggregate click statistics such as how many times a particular link was clicked on. The Web Site may contain links to other websites, content embedded in the Web Site that comes from or relates to other websites and services, and buttons from other websites and services such as social media websites like YouTube, Facebook, Twitter, LinkedIn, and Google+. Several of these third parties may use cookies or other tracking devices to collect and track information about you across the Internet. We are not responsible for the privacy practices or the content of these other websites or their data collection practices. You should check the privacy policies of these other websites when providing personally identifiable information or to find out what other information they collect from users, whether while on their platform or website or in relation to links, buttons, or embedded media.
 
-> Your online chat login information and communications conducted via the chat feature are recorded and stored by LivePerson, a third party Application Service Provider ("ASP"). Digi-Key has access to LivePerson's recorded and stored chat information and may monitor or review such information for quality assurance. Digi-Key may also use that information in accordance with Digi-Key's Privacy Policy and Web Site Terms & Conditions. The use of the information by LivePerson is subject to the LivePerson Privacy Policy that can be found at the LivePerson web site: <http://www.liveperson.com/policies/privacy>
+**Information From Your Computer** – Digi-Key may itself, or through our third party service providers, collect information about your computer, such as the browser, operating system, IP address, country and other geolocation data, date and time of visit, whether you are using a mobile device, referring websites, the search engine queries you used to get to the Web Site, the pages of the Web Site you visit and your activities on the Web Site such as what images, videos, or other embedded media you view, as well as the amount of time spent on the Web Site pages, and the number of pages visited. Some of this information may be collected using cookies, as further explained below. This information is used for a variety of purposes to improve the Web Site and its content, including without limitation to gather broad demographic data, identify trends and statistics, help diagnose problems with our server, and to administer the Web Site and its content. Digi-Key may also collect and share information between pages of the Web Site for the proper functioning of the Web Site, as well as authentication. Digi-Key may also use this information to provide you with information and advertising regarding our products and services.
 
-## "Cookies"
+**Cookies** – The Web Site may use "cookies" to provide information on your computer. Cookies are pieces of data that a website can send to your browser, which may then be stored on your computer or device. Digi-Key may use both session and persistent cookies on our own or through our third-party service providers as described below. Cookies may save your preferences while you are at the Web Site, such as allowing for persistent login on pages that require logging in, and Digi-Key may use them to provide you with tailored information and tracking as you use the Web Site services. Cookies help Digi-Key, among other things, to determine which areas of the Web Site are popular by tracking hits to those areas, which may in turn allow Digi-Key or our third-party providers to provide you with targeted information or advertising regarding Digi-Key’s products and services. By modifying your browser preferences, you may have the choice to accept cookies, to be notified when a cookie is sent, or to reject cookies. The rejection or limitation of cookies by your browser may limit your ability to use the Web Site.
 
-> A "cookie" is a very tiny piece of text we're asking permission to place on your computer's hard drive. If you agree, then your browser adds the text in a small file. Each "cookie" has a unique identifier and structure assigned by the sending Web site. Only the originating Web site can access a cookie left behind in a prior session (when you return to that site). Your identity will not become public information on the Internet because you visited our site.
-> 
-> Digi-Key uses "cookies" to:
-> 
->   * Allow you to build an order over time, adding components throughout the day or over an extended period of time.
->     * Uncommitted orders will remain available for 30 days. An order that has not been visited within that 30 day period will be removed.
->   * Allow you to easily return to the site to retrieve information on previous orders.
->   * Maintain a client/server connection or user "state" as you move between pages building an order.
->   * Allow you to store your user ID's.
-> 
+**Third-Party Service Providers** – Digi-Key may use a variety of third-party services to help provide our services, to help us understand the use of our services, provide information and provide advertising regarding the Web Site and our products and services. Third-party services providers may include, but are not limited to third party web analytics services and a variety of third party social media platforms such as YouTube, Facebook, Twitter, LinkedIn, and Google+. These third-party service providers may collect, store, and share information as further dictated by the privacy policies of those third parties.
 
-> 
-> "Cookies" are assigned an expiration date and time. Digi-Key's "cookies," used for online order processing, remain on your hard drive for two months. However, no more than 300 "cookies" can be stored by your browser at any one time and no more than 20 can be stored from any one site. If the "cookie" jar is filled, your browser will automatically begin deleting the oldest "cookies."
-> 
-> "Cookies" cannot enable the web server to read from your hard drive, get your email address against your will, destroy files on your computer, create executable programs, or obtain sensitive information about you. "Cookies" from one site cannot be read by another site; your information cannot be passed from site to site.
-> 
-> If you feel that your privacy is being violated by the use of "cookies," they can be erased from your hard drive. However, any links developed with the Web site that sent the "cookies" are lost. In the case of an online order with Digi-Key, the ability to create an order over time, or retrieve an order, would be lost. 
-> 
-> With respect to customer privacy concerns, Digi-Key has tried using alternative technologies to "cookies" to maintain stable connections. We returned to "cookies" after experiencing reduced performance and an unacceptable number of customer service problems. "Cookies" have, thus far, proven to be the best method of making the online ordering experience as efficient as possible.
-> 
-> **Spotlight tags:**   Information about Web site usage and visitors to our Web site is shared with a reputable third-party for the purpose of targeting our Internet advertisements in other sites. To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. For more information about our third-party advertiser or for your choices about not having this anonymous information used, please [click here](http://www.doubleclick.net/us/corporation/privacy).
+Digi-Key may use services through companies such as Google and Facebook to target ads to you related to your usage of the Web Site, such as to display advertising for the Web Site, products, and services on other websites you visit based on your activities on the Web Site in the past. Google may use the data collected to track and examine the use of the Web Site, to prepare reports on its activities and share them with other Google services. Google may also use the data collected to contextualize and personalize the ads of its own advertising network. You may view Google’s privacy policy here: [www.google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy), with more information located here: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners) (including information regarding how to control how information is shared through your Ads Settings) and here: [support.google.com/analytics/answer/6004245?hl=en](http://support.google.com/analytics/answer/6004245?hl=en). You may opt out of Google Analytics data as instructed here: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout). Facebook similarly provides more information regarding the information it collects and how it is used in relation to advertising along with methods to opt out of collecting and sharing of information here: [www.facebook.com/settings?tab=ads](http://www.facebook.com/settings?tab=ads).
 
-> Please contact us if you have any questions, concerns or comments.  
->  Use the [Communications Center](https://web.archive.org/us/en/info/contact-us.html) (forms based method of communicating with Digi-Key), or by contacting us at:
->
->> Digi-Key Electronics  
->  701 Brooks Avenue South  
->  P.O. BOX 677  
->  Thief River Falls, MN 56701-0677  
->  Phone: 800-344-4539 or 218-681-6674  
->  Fax: 218-681-3380  
->  Email: [sales@digikey.com](mailto:sales@digikey.com)
+**Web Beacons** \- We may employ Web beacons (also called single-pixel gifs), which are customized links or similar technologies, on the Web Site and when sending you messages, newsletters, or promotional emails or in using third-party service providers. Web beacons allow us to (a) determine whether you have opened, or acted upon, a promotional email and which links you have clicked on to deliver to you more focused communications and other content, (b) allow us to count the number of users who have visited certain webpages and effectively deliver services, and (c) enable us to compile aggregated statistics and determine the efficacy of promotions by using Web beacons from third parties.
 
-"Calls to Digi-Key may be monitored and recorded for quality assurance purposes."
+**Online Chat** – Your online chat login information and communications conducted via the chat feature are recorded and stored by LivePerson, a third-party Application Service Provider. Digi-Key has access to LivePerson's recorded and stored chat information and may monitor or review such information for quality assurance. Digi-Key may also use that information in accordance with Digi-Key's Privacy Statement and Web Site Terms & Conditions. The use of the information by LivePerson is subject to the LivePerson Privacy Policy that can be found at the LivePerson web site: [www.liveperson.com/policies/privacy](http://www.liveperson.com/policies/privacy).
 
-_Note: We reserve the right to make changes to our privacy policy at any time without prior notification_.
+**3\. Sharing Of Your Information**
+
+Digi-Key may share information we collect through the Web Site, including personal information, with its product suppliers, for example, for market research and payment of commission to the supplier's agents.
+
+Occasionally, Digi-Key may make the names and addresses of our customer list available to carefully screened companies that offer products and/or services that may be of interest to you. You may elect to opt out of this use of your mailing address by completing the "[Opt Out Form](https://www.digikey.com/classic/forms/dkc/www/servicesoptout.aspx?FormSite=US&FormLang=en&site=US&lang=en)."
+
+Digi-Key may engage third party service providers, consultants, and independent contractors to perform functions and provide services for us including without limitation database management, advertising, and email service providers. Digi-Key may share the information we collect through the Web Site with these service providers so that they can perform services for us in relation to the Web Site and Digi-Key’s business.
+
+If you have an open account with Digi-Key, credit and payment history will periodically be shared with credit reporting agencies.
+
+Digi-Key will share customer information with government agencies if required by law.
+
+**Business Transfers** \- In the event that we are involved in a merger, acquisition, bankruptcy, reorganization or sale of assets or change in our ownership or control, your information may be sold or transferred as part of that transaction.
+
+**4\. Other Information Practices**
+
+ **Security** – Digi-Key takes commercially reasonable steps to protect data, particularly financial information, transmitted through the Web Site. Digi-Key, however, cannot be responsible for and does not warrant the security of any information you transmit over the Internet, including using the Web Site. Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases. If you **do not** have a _secure browser_ or would like to place orders using a method other than the Web Site, please review the [Ordering FAQs](http://www.digikey.com/en/help/ordering-faqs) for alternative ordering methods.
+
+**Access to Personal Information for Reviewing, Editing, and/or Removing** \- If you wish to discuss this Privacy Statement and the information we collect, you may contact us at the address provided in this Privacy Statement.
+
+**Children** \- The Web Site is not intended to solicit, collect or maintain personally identifiable information from users under the age of 13. If you are a parent or guardian, please contact us if you believe information regarding a child has been collected by us through our Web Site.
+
+**Do Not Track** \- Presently the Web Site does not honor “do not track” settings on web browsers and does not offer you the opportunity to request that we not track your use of its services.
+
+**Changes to this Policy** \- We may revise this Privacy Statement from time to time. The most current version of the Privacy Statement will govern our use of your information and will always be available. Please check this [Privacy Statement](http://www.digikey.com/en/help/Privacy) often for changes. By continuing to access or use the Web Site after those changes become effective, you agree to be bound by the revised Privacy Statement and acknowledge that the revised Policy Statement applies to all information held by Digi-Key.
+
+**Contacting Us** – If you have questions about our use of information, please contact us using the [Communications Center](http://www.digikey.com/en/help/contact-us) (forms-based method of communicating with Digi-Key), or by contacting us at:
+
+Digi-Key Electronics  
+701 Brooks Avenue South   
+P.O. BOX 677   
+Thief River Falls, MN 56701-0677   
+Toll Free: 1-800-344-4539   
+Phone: 218-681-6674   
+Fax: 218-681-3380   
+Email: [sales@digikey.com](mailto:sales@digikey.com)
+
+Calls to Digi-Key may be monitored and recorded for quality assurance purposes.   
+© 2016 Digi-Key Electronics, All Rights Reserved.
+
+## DATE OF LAST MODIFICATION
+
+## February 24, 2016
+
+Revision 1.0
