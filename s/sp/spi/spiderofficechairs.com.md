@@ -1,64 +1,136 @@
-> *The following text is extracted and transformed from the spiderofficechairs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226233752id_/http%3A//www.vistastores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiderofficechairs.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624104309id_/http%3A//www.vistastores.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vista Stores
+# Privacy Policy
 
-VistaStores is committed to respecting the privacy rights of our customers and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to insure that none of your privacy rights as stated herein are ever violated. The following outlines VistaStores's privacy policy and details the measures we have taken to safeguard and protect your privacy, while providing you with a unique and rewarding online shopping experience. By visiting VistaStores.com, you are agreeing to the policies detailed below.
+**Privacy & Security**
 
-What if I communicate with VistaStores electronically?
+We recognize the trust you place in us to safeguard your privacy. Hence we emphasize the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. We welcome your questions and feedback about our Privacy Policy or our privacy commitments, and invite you to [Contact Us](https://cvshealth.com/contact).
 
-When you send an email to VistaStores.com or visit the web site, you are communicating with us electronically. When you send an email to VistaStores.com, you consent to receive communications from us electronically in response. Please note that this does not constitute opting in to our email or direct mail lists.
+**Note:**   
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-VistaStores.com may communicate with you by email, by updating or posting notices on the web site. You agree that all agreements, notices, disclosure and other communications that VistaStores.com provides to you electronically satisfy any legal requirement that such communication be in writing. All communications with VistaStores.com become the property of VistaStores.com.
+By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-What information does VistaStores.com collect?
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
-In order to serve you better, VistaStores.com collects and stores your personal information when you:   
-(i) create an account on VistaStores.com;   
-(ii) sign up to be notified of special deals like discounts and exclusive offers; or   
-(iii) enter a contest or promotion on our site.  
-An account is created when you do one of following things: make a purchase on VistaStores.com, create a wish list on VistaStores.com, or register for an account on VistaStores.com, or enter certain VistaStores.com sweepstakes. When creating an account, we ask you for your first and last name, your e-mail address, a password, and perhaps some other similar information. If you are making a purchase, we will additionally ask you for your billing address, shipping address, and credit card information.
+**Privacy Policy and Consent**
 
-Our system also may gather information about the areas you visit on our site as well as the IP address you use to connect to our site. We may use this data internally only for 2 reasons:   
-1) to personalize your experience on VistaStores.com and the marketing materials you receive from VistaStores.com or its partners and   
-2) to prevent fraud on your account. We would not share any of this data on an individual basis (we may share it in an aggregate form without personal identifiers) with any outside company other than perhaps consultants or service providers of VistaStores.com who were assisting VistaStores in serving you better. Of course, to the extent that we would ever share any of that information with a consultant or service provider, we would only do so if that party agreed to protect your private information by adopting a privacy policy at least as stringent as our own. We do use navigational information both in the aggregate and on an individual basis to understand how our visitors use VistaStores so that we can make our site better. We do not keep track of where you go on the World Wide Web.
+This privacy policy lets you know what information we collect, how we may share that information, and your choices regarding the sharing of your information. This policy applies to VistaStores.com, any VistaStores Affiliate sites where you may interact with any of the VistaStores Family of Companies, and other places where we may collect personal information.
 
-What does VistaStores do with this personal information?
+**Information Collected By Automated Means:** ****
 
-Your information is used to process your orders and personalize your shopping experience on VistaStores.com, for internal purposes and to comply with any legal requirements. By storing your personal information on a secure server, VistaStores is able to shorten your checkout process and allow you to check your order status online.
+Personally Identifiable Information: Is information we collect that uniquely identifies you, the customer. This information may contain name, shipping address, email address, phone number, and prescription information, as well as other information you may choose to share while interacting with our site and online services.
 
-At VistaStores.com, we also review what kinds of products appeal most to our customers as a group. This statistical information helps us improve our offering in the same way that other companies change their catalog based on what sells best. We may also use information about the kinds of products you buy from VistaStores to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers (for instructions on how to opt-out, please see below). To the extent that you use electronic wallet technology provided by a portal, such as AOL's Quick Checkout feature or MSN's .NET Passport technology, or another service provider, we may share some of your purchase information with that portal or service provider to assist that portal in serving you better. However, rest assured that we would only share that information with the same portal you are using and then only to the extent that such portal agreed to protect your private information by adopting a privacy policy at least as stringent as our own.
+Non-Personal Information: Anonymous information is that information we collect that is not traceable to any individual person or computer. VistaStores utilizes this data to analyze trends and understand customer needs while shopping and interacting on our site so that we can provide a better user experience. For example, VistaStores may use cookies, web beacons, log files and other technologies to collect information about visitors to our Website, and interactions with our online advertisements and offerings.
 
-Does VistaStores share any information it collects with outside parties?
+### Information We Collect
 
-We do not share or sell any information we collect on our web site.
+**Contact Information**
 
-How does VistaStores safeguard my personal information?
+we may collect the names and user names of our customers and other visitors. Additionally, we may collect your purchase history, billing and shipping addresses, phone numbers, email addresses, and other digital contact information. We may also collect information that you provide us about others.
 
-VistaStores has implemented a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in VistaStores's database.
+**Returns Information**
 
-Does VistaStores provide a way to update or remove personal information?
+when you return a product to our stores or request a refund or exchange, you may be asked to provide your name, address, phone number and information that identifies you, such as your driver’s license. We use the information we collect from you and capture off of your government issued ID to process and track returns and to help detect and prevent fraud and otherwise administer our loss prevention program. To learn more about our Returns Policy, [click here](http://www.homedepot.com/c/Return_Policy).
 
-VistaStores provides a my account feature on our website which allows you to modify and/or remove most of your personal information. This page can be accessed by clicking the my account link at the top of every page on the site. Rest assured that all of your information within my accountis secure and accessible only by you or limited VistaStores personnel.
+**Demographic Information**  
+**  
+** We may collect information about products or services you like, reviews you submit, or where you shop. We might also collect information like your age or gender.
 
-How does VistaStores use my e-mail address?
+In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our Website.
 
-Your e-mail address is used to create and identify your account on VistaStores. Your e-mail address is also used by VistaStores to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. We may also use your e-mail address to notify you about important functionality changes to the Web site, new VistaStores services and special offers and promotions we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers and promotions.
+We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
 
-Alternately, if you have created an account with VistaStores, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by clicking on the "my account" button that appears on most every page of our Web site, logging into your account, clicking on the "edit preferences" button, and making the appropriate change.
+We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or  
+income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.
 
-Does VistaStores use "cookies"?
+**Cookies**
 
-A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, the internet provider's domain name and country that our visitors come from (e.g. "aol.com" or "msn.com") and the addresses of the sites visited immediately before coming to and immediately after leaving VistaStores.com. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies lets us trace your "clickstream" activity (i.e., the paths take by visitors to our site as they move from page to page). Cookies do not capture your individual email address or any private information about you.
+A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer's hard drive. The cookies do not contain any of your personally identifiable information.
 
-VistaStores may use third-party advertising companies to serve ads on our web site as well as third party companies to provide tracking and analysis of information and data collected from visitors to our web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and VistaStores reserves the right to provide that information and data to these third parties.
+**Links**
 
-To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different so check the "Help" menu of your browser to learn how to change your cookie preferences. Even without accepting a cookie, you can still access most of the features on VistaStores. How can you remove your name from our direct mail or email list?
+Our websites contain links to third party websites. If you click on one of those links, you will be taken to websites we do not control. This Privacy and Security Statement does not apply to the information practices of those websites. You should read the privacy policies of other websites carefully. We are not responsible for third party websites.
 
-To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions.
+**Third Party Features**
 
-Your consent
+The Service also may include an activity feed, social media buttons and widgets, such as the Facebook "Like" button or the "Share This" button. These features may collect and display your Personal Information, your IP address and the page you are visiting on the Service and may set a cookie to enable the feature to function properly. These features are either hosted by a third party or hosted directly on the Service and your interactions with them are governed by the privacy policy of the third party that provides the feature.
 
-You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to VistaStores's privacy policy. VistaStores reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+**Use of Service via Mobile Device**
+
+If you use the Service through your mobile device, we may collect your geo-location information to assist us in fulfilling your order. We will not share this information with third parties and will only use this information for the sole purpose of fulfilling your order. You may at any time prevent the Service from using your location by turning this option off at the device level.
+
+When you use the Service through your mobile device, we also collect device type and UUID; a unique identifier generated within the App, and stores this information in log files. We use this information to provide you with the most up to date application and features, or to advertise or promote products or services to you that are applicable to your device type.
+
+**How Your Personal Information Is Used, Processed and Disclosed**
+
+Except as specified in this Privacy Policy, VistaStores does not rent, sell, trade or disclose your Personal Information to third parties without your prior consent. VistaStores may, however, use, process and disclose Personal Information to:
+
+  1. Send information to customers about orders;
+    1. Fulfill your orders;
+    2. Process and collect your payments;
+    3. Administer "VistaStores Rewards" and other customer loyalty programs;
+    4. Send you promotional marketing material about VistaStores company and partners;
+    5. Produce content for our activity feed feature;
+    6. Customize, analyze, adjust and improve the Service to better meet your needs;
+    7. Execute a sweepstakes, contest or other promotion;
+    8. Enforce VistaStores agreements with you;
+
+
+
+10\. Provide you with important administrative information regarding the Service, such as changes to this Privacy Policy and our Terms of Use, rewards and loyalty programs and other policies;
+
+11\. Prevent fraud and other prohibited or illegal activities; and
+
+12\. Comply with potential requests of law enforcement or data protection agencies.
+
+**Third Party Service Providers**
+
+VistaStores employs other companies and individuals to perform functions on our behalf, such as fulfilling orders, delivering packages, sending postal mail and e-mail, serving ads on our behalf, providing search results and links, and processing credit card payments. These third-party service providers have access to Personal Information needed to perform their functions but may not use it for any other purpose.
+
+**Acquisition of VistaStores**
+
+Information about customers is considered an asset of VistaStores and, as such, may be transferred to another company as part of a merger or acquisition.
+
+**Information Sharing For Marketing Purposes**
+
+To provide you with information about products and services that may be useful to you, we may partner with select reputable organizations whose privacy policies we believe are consistent with ours. Such organizations may include other retailers and magazine publishers. Through these arrangements, we may share, exchange, cross-reference and/or rent your name and mailing address.
+
+If you do not want us to share your Personal Information with third parties for marketing purposes, please contact us [here.](https://www.dwellstudio.com/help/faq.php) Immediately after your request has been processed, your information will no longer be shared with any third party for marketing purposes.
+
+**Retention of Personal Information**
+
+VistaStores retains Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by applicable law.
+
+**Accessing and updating your personal information and preferences**
+
+**Modifying or deleting your personal information**
+
+If you would like to modify or delete your Personal Information, please contact us [here](https://www.dwellstudio.com/help/faq.php) with clear instructions about what you would like to be modified or deleted. We will respond to your request promptly.
+
+**Changing Your Subscription Preferences**
+
+If you tell us that you do not want us to use your Personal Information to contact you, VistaStores will respect your wishes. If you are a registered user, you may change your preferences to receive or not to receive email or other communications from us by logging in to your account and indicating those preferences on the "My Account" section of our Service.
+
+You may also instruct VistaStores to stop sending you emails, newsletters or other information by following the ‘unsubscribe’ instructions provided in the email. VistaStores may, however, continue to use your Personal Information to contact you to service your account or as otherwise authorized by law. Please note that if you use more than one name or e-mail address when communicating with VistaStores or using the Service, you may continue to receive communications from VistaStores to any name and/or email address not specified in your opt-out request.
+
+**Information for visitors from California and outside of the United States**
+
+**California residents**
+
+California law permits individuals who provide VistaStores with Personal Information and who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To request this information, please contact us [here.](https://www.dwellstudio.com/help/faq.php)
+
+**Visitors From Outside Of the United States**
+
+The Service is hosted in the United States. If you are visiting the Service from outside the United States, your information may be transferred to, stored and processed in the United States in accordance with this Privacy Policy and applicable US laws. Please note that data protection and other applicable laws of the United States may not be as comprehensive as those laws or regulations in your country or may otherwise differ from the data protection or consumer protection laws in your country. By using the Service, you consent to transfer of your information to our facilities as described in this Privacy Policy.
+
+**Security Precautions**
+
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+
+**Changes to Our Privacy Policy**
+
+We may occasionally update this Privacy Policy to reflect changes in our practices. When we post modifications to this Privacy Policy, we will revise the "Last Updated" date at the top of this web page. The modified Privacy Policy will be effective immediately upon posting on the Service. Your continued use of the Service after the posting of the modified Privacy Policy constitutes your agreement to abide and be bound by it. If we make any material change, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Service prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you object to any modification, your sole recourse is to stop using the Service.
 
 **Tell us what you think**  
-If you have any comments or questions about VistaStores's privacy statement, please e-mail us at [info[@]VistaStores.com](mailto:info@VistaStores.com "info@VistaStores.com")
+If you have any comments or questions about VistaStores privacy statement, please e-mail us at [info[@]VistaStores.com](mailto:info@VistaStores.com "info@VistaStores.com")
