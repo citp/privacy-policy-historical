@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324192409id_/https%3A//www.talkphotography.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624030112id_/https%3A//www.talkphotography.co.uk/help/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Talk Photography
+# * Privacy Policy | Talk Photography
 
 #### Privacy policy
 
@@ -64,7 +64,7 @@ This is only ever done as a last resort when other avenues and options have fail
 If you are a registered member, you may only opt-out of receiving our newsletters, or any other forum notifications by modifying your user preferences.   
 However, we may still contact you with what we consider are important updates or notifications regarding the site or your account, or queries regarding your conduct or activity on the site.   
 You may, at any time, remove any voluntary information you enter into your user control panel, except your valid email address and date of birth. These are required to keep your site membership active.   
-We don't delete site accounts on request if you have already posted. If you wish, you may remove ALL information from your profile yourself. However, please note that your account will become restricted if you remove your valid email address, so remove this information last.
+We may delete your site account on request. Please use the Contact Us facility of the site to do so. If you wish, you may remove ALL information from your profile yourself. However, please note that your account will become restricted if you remove your valid email address, so remove this information last.
 
 ### Advertisements and Skimlinks/Viglinks
 
