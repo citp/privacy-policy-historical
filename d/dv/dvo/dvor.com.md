@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvor.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510221757id_/http%3A//www.dvor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvor.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624181724id_/http%3A//www.dvor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,6 +75,7 @@ Dvor does not sell or share your personal information with other non-affiliated 
   * Dvor may share information to address security, technical or customer service issues or enforce any policies or terms and conditions of our websites or transactions.
   * Dvor may provide your information to our trusted service providers who work under confidentiality and non-disclosure agreements or assist with our business operations, including the maintenance and operation of Dvor. Such companies may support our effective and innovative marketing techniques or aid in services necessary for fulfillment or completion of orders.
   * Dvor may share information as needed for the processing, tracking and fulfillment of any orders, as well as to collect fees and resolve any payment issues. Additionally, Dvor may share information to track email invitations sent or calculate credit information.
+  * Dvor may share specific order information such as first and last names and shipping addresses as needed for the processing, tracking and fulfillment of any orders placed with Third-Party sellers on the Dvor Marketplace.
   * Dvor may use personal information to provide you with important marketing or promotional notices and to improve our marketing efforts or website design.
   * Dvor shares information with other third parties when necessary to improve your consumer experience. Please note that personal information includes any information that can be used to identify a specific person, not anonymous information about a user. 
   * Dvor may aid or facilitate with your ability to share personal information via social media or networking websites, only at your option.
@@ -106,7 +107,7 @@ When you visit Dvor, we may receive information about your visit automatically t
 
 ## What if I am referred to another Site or Service?
 
-We may provide links to Sites or Services outside of the Dvor site for your reference or use. Dvor may not have any affiliation with these sites or services and you should review the privacy policies associated with these sites or services. Dvor is not responsible for the privacy policies of external sites. Please see the following privacy policies for information about checkout options: [PayPal](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US).
+We may provide links to Sites or Services outside of the Dvor site for your reference or use. Dvor may not have any affiliation with these sites or services and you should review the privacy policies associated with these sites or services. Dvor is not responsible for the privacy policies of external sites. Please see the following privacy policies for information about checkout options: [PayPal](https://www.paypal.com/webapps/mpp/ua/privacy-full?country.x=US&locale.x=en_US).
 
 ## What are Your Practices regarding Children's Privacy?
 
