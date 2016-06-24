@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaresults.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126235120id_/http%3A//www.indiaresults.com/company-profile/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaresults.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624111053id_/http%3A//www.indiaresults.com/company-profile/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Indiaresults.com :: Our Services
 
