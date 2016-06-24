@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the takkle.com privacy policy that was archived on 2015-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229024831id_/http%3A//www.break.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the takkle.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624185752id_/http%3A//www.break.com/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head data-page-type="legal">
 		<title>Privacy</title>
 
         
-        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KMD8Z3"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KMD8Z3"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M8TRSH"></script><script src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
 
 		
 		
@@ -41,8 +41,7 @@
 
 			
 				BUI.globals.experiments.push({dim : 17, expName : 'Break'});
-				BUI.globals.experiments.push({dim : 14, expName : '4'});
-				BUI.globals.experiments.push({dim : 18, expName : 'NewNav'});
+				BUI.globals.experiments.push({dim : 14, expName : '1'});
 
 		    
 		    var expDimensionValue = window.canRunAds === undefined ? 'ad-blocked' : 'not-ad-blocked'; // canRunAds is defined in http://media5.break.com/campaigns/block-test/advertisement.js
@@ -71,24 +70,26 @@
 		<meta name="google-site-verification" content="wVFhf5HVF0MXlvnoW9R3u4gUUVRBHp0LDTfoFWSMnWY">
 		<!-- Bing Webmaster Tools Verification 2-->
 		<meta name="msvalidate.01" content="4B5EC512F2F8F984A26CE9B8F412FA5D">
+		
+		<meta property="fb:pages" content="20800882791">
 
 		
 		
 
 		
-		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/layoutCssLight/121515_114921/">
+		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/layoutCssLight/062116_113151/">
 		
 		
 		
-	<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/legalCss/121515_114921/">
+	<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/legalCss/062116_113151/">
 
 		
 		
-		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/LightColorSchemeCss/121515_114921/">	
+		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/LightColorSchemeCss/062116_113151/">	
 		<script src="http://s.brkmd.com/Scripts/break/js/libs/modernizr-2.6.2-custom.min.js"></script>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/coreJsLight/121515_114921/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/coreJsLight/062116_113151/"></script>
 		
 
 		
@@ -128,17 +129,18 @@
 					window.BUI.page.Init();
 				});
 			}
+			
 		</script>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutTopJs/121515_114921/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutTopJs/062116_113151/"></script>
 			
 		
 		
 
 		
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/brktrkrJs/121515_114921/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/brktrkrJs/062116_113151/"></script>
 
 		
 		
@@ -155,15 +157,25 @@
 
 		<script>
 			
-			(function () {
-				var gads = document.createElement('script');
-				gads.async = true;
-				gads.type = 'text/javascript';
-				var useSSL = 'https:' == document.location.protocol;
-				gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-				var node = document.getElementsByTagName('script')[0];
-				node.parentNode.insertBefore(gads, node);
-			})();
+			setTimeout(function() {
+
+				if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
+
+					(function () {
+						var gads = document.createElement('script');
+						gads.async = true;
+						gads.type = 'text/javascript';
+						var useSSL = 'https:' == document.location.protocol;
+						gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+						var node = document.getElementsByTagName('script')[0];
+						node.parentNode.insertBefore(gads, node);
+					})();
+
+				} else {
+					//GPT already loaded
+				}
+
+			}, BUI.globals.GTM_TIMEOUT);
 
 			
 			BUI.ads.normalizeAdArray = function (actual) {
@@ -200,7 +212,8 @@
 						'topics' : 'topics',
 						'topics-landing' : 'topics',
 						'gallery_hub' : 'gallery_hub',
-						'default' : 'uncategorized'
+						'default' : 'uncategorized',
+						'cdp-article-polar': 'article_canvas'
 					},
 					interstitial = {
 						'home' : 'inter_stitial_home',
@@ -387,7 +400,21 @@
 		<!-- End GooglePublisherTags -->
 
 		
-		<script src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
+
+
+	<!-- Google Tag Manager <script> part -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M8TRSH');</script>
+	<!-- End Google Tag Manager <script> part -->
+
+
+		
+		<script src="/Content/Platform/scripts/DFY.BRK.polar.js"></script>
+		
+		
 
 
 		
@@ -472,15 +499,34 @@
 			}(document, 'script', 'facebook-jssdk'));
 		</script>
 
-		<!-- Google Tag Manager -->
-		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMD8Z3"
-		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-KMD8Z3');</script>
-		<!-- End Google Tag Manager -->
+		
+
+
+	<!-- Google Tag Manager <noscript> part -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M8TRSH"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager <noscript> part -->
+
+
+		
+
+
+	<!-- Google Tag Manager <script> part -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KMD8Z3');</script>
+	<!-- End Google Tag Manager <script> part -->
+
+		
+
+
+	<!-- Google Tag Manager <noscript> part -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMD8Z3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager <noscript> part -->
+
 
 		<!-- Comscore Beacon -->
 		
@@ -495,7 +541,7 @@
 			})();
 		</script>
 		<noscript>
-		<img alt="Comscore beacon image" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=4000003&amp;c3=&amp;c4=http://www.break.com/corp/privacy/&amp;c5=&amp;c6&amp;c15&amp;cv=2.0&amp;cj=1">
+		<img alt="Comscore beacon image" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=4000003&amp;c3=&amp;c4=http://www.break.com/corp/privacy&amp;c5=&amp;c6&amp;c15&amp;cv=2.0&amp;cj=1">
 		</noscript>
 
 
@@ -574,8 +620,13 @@
 
 
 <!-- 1600x200 / 960x1 Ad Tag -->
-<div id="div-gpt-ad-1351557334350-0" style="text-align:center;">
+<div id="div-gpt-ad-leaderboard" style="text-align:center;">
 	<script type="text/javascript">
+	    //For Polar sponsored articl page, update the adid with the querypram value, mvi
+        if(BUI.ads.props.pageType === 'cdp-article-polar'){
+            BUI.ads.props.adid =BUI.utils.getURLParameter('mvi');
+        }
+
 		googletag.cmd.push(function () {
 			 googletag.defineSlot('/4678/brk.brk/' + adZone, [
 				[728, 90],
@@ -587,8 +638,8 @@
 				[1000, 40],
 				[1000, 66],
 				[1000, 250]
-			], 'div-gpt-ad-1351557334350-0').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-			
+			], 'div-gpt-ad-leaderboard').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+
 			googletag.pubads()
 				.setTargeting('category', BUI.ads.props.movieCategories)
 				.setTargeting('mar', BUI.ads.props.mar)
@@ -606,9 +657,14 @@
 				.setTargeting('brkref', BUI.ads.props.brkref)
 				.setTargeting('sourcedomain', BUI.ads.props.sourcedomain)
 				.setTargeting('utmc', BUI.ads.props.utmc);
+
+			//Set targeting for header bidding
+			if (typeof pbjs_setTargeting === 'function') {
+				pbjs_setTargeting();
+			}
 				
 			googletag.enableServices();
-			googletag.display('div-gpt-ad-1351557334350-0');
+			googletag.display('div-gpt-ad-leaderboard');
 		});
 	</script>
 </div>
@@ -623,7 +679,7 @@
 
 
 
-<script type="text/javascript" src="http://s.brkmd.com/combres.axd/authJs/121515_114921/"></script>
+<script type="text/javascript" src="http://s.brkmd.com/combres.axd/authJs/062116_113151/"></script>
 
 <header class="SiteNav">
 
@@ -647,40 +703,60 @@
 
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2890649" data-content-uri="http://www.break.com/video/katy-perry-brings-out-the-worst-in-people-2890649" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="2991101" data-content-uri="http://www.break.com/video/karate-thats-funny-2991101" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/649/890/2890649/so-church-got-awkward-this-weekend1_550x309.jpg" alt="So Church Got Awkward This Weekend" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/101/991/2991101/why-you-shouldn-t-make-fun-of-your-opponent-s-skills-until-after-you-win1_550x309.jpg" alt="Why You Shouldn’t Make Fun Of Your Opponent’s Skills Until After You Win" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Featured_1" href="http://www.break.com/video/katy-perry-brings-out-the-worst-in-people-2890649">So Church Got Awkward This Weekend</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">3 months ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">188,685</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">207</span>
+				<a data-ga="Navigation:Featured_1" href="http://www.break.com/video/karate-thats-funny-2991101">Why You Shouldn’t Make Fun Of Your Opponent’s Skills Until After You Win</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">5 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">115,744</span>
+				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">166</span>
 			</h1>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2888994" data-content-uri="http://www.break.com/video/diapers-may-be-the-only-thing-that-can-defeat-marine-2888994" data-title-sequence="0">
+    <div class="ui-ContentThumbNail ui-ContentThumbNail--thirdParty" data-content-id="2991373" data-content-uri="http://www.break.com/video/documenting-the-urban-wildlife-found-at-the-gym-2991373" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/994/888/2888994/diapers-may-be-the-only-thing-that-can-defeat-a-marine1_550x309.jpg" alt="Diapers May Be The Only Thing That Can Defeat A Marine" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://i.ytimg.com/vi/n1GUQVo1Lps/maxresdefault.jpg" alt="Funny! Documenting Urban Wildlife Found At The Gym" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Featured_2" href="http://www.break.com/video/diapers-may-be-the-only-thing-that-can-defeat-marine-2888994">Diapers May Be The Only Thing That Can Defeat A Marine</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">3 months ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">57,095</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">1</span>
+				<a data-ga="Navigation:Featured_2" href="http://www.break.com/video/documenting-the-urban-wildlife-found-at-the-gym-2991373">Funny! Documenting Urban Wildlife Found At The Gym</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">5 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">165,209</span>
+				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">4,300</span>
+			</h1>
+		</div>
+	</article>
+<!-- article:end -->
+
+	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
+    <div class="ui-ContentThumbNail " data-content-id="2984699" data-content-uri="http://www.break.com/video/prank-bank/hot-girl-naked-office-prank-prank-bank-2984699" data-title-sequence="0">
+
+        
+                    <img src="http://media11.break.com/dnet/media/699/984/2984699/hot-girl-naked-office-prank-prank-bank1_550x309.png" alt="This Prank Asks How You'd React After Seeing Another Man's Wife Naked" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+
+        <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
+    </div>
+
+		<div class="ui-ContentBottom">
+			<h1>
+				<a data-ga="Navigation:Featured_3" href="http://www.break.com/video/prank-bank/hot-girl-naked-office-prank-prank-bank-2984699">This Prank Asks How You'd React After Seeing Another Man's Wife Naked</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">6 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">286,738</span>
+				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">0</span>
 			</h1>
 		</div>
 	</article>
@@ -699,7 +775,7 @@
 	</ul>
 	<hr>
 
-	<div class="VideosNav-flyout-count"><span>365,767</span> viral videos (and counting)</div>
+	<div class="VideosNav-flyout-count"><span>339,830</span> viral videos (and counting)</div>
 	<a href="/content/surpriseme/" data-ga="Navigation:SurpriseMe" class="VideosNav-flyout-surprise">Surprise Me</a>
 </div>
 		</li>
@@ -714,63 +790,63 @@
 
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2988824" data-content-uri="http://www.break.com/video/speakeasy/constance-wu-internet-games-2988824" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="3030276" data-content-uri="http://www.break.com/video/epic-how-to-2810344/how-to-survive-the-wild-west-epic-how-to-3030276" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/824/988/2988824/constance-wu-internet-games1_550x309.png?78" alt="Constance Wu Gets Deep with Internet Games" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/276/030/3030276/how-to-survive-the-wild-west-epic-how-todefault1-1_550x309.jpg?109" alt="How to Survive The Wild West - EPIC HOW TO" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_1:Speakeasy" href="http://www.break.com/video/speakeasy/constance-wu-internet-games-2988824">Constance Wu Gets Deep with Internet Games</a>
+				<a data-ga="Navigation:Latest_1:Epic How To" href="http://www.break.com/video/epic-how-to-2810344/how-to-survive-the-wild-west-epic-how-to-3030276">How to Survive The Wild West - EPIC HOW TO</a>
 						</h1>
 			<p>
 
-			Constance Wu sits down with Russel Peters and gives her best impromptu insp...
+			Planning on time travelling back to the notorious Wild West? Don't worry, e...
 			</p>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2988365" data-content-uri="http://www.break.com/video/break-compilations-2591623/fresh-and-furry-breaking-videos-2988365" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="3029153" data-content-uri="http://www.break.com/video/new-justice-league-details-what-do-they-mean-3029153" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/365/988/2988365/fresh-and-furry-breaking-videos1_550x309.png?6" alt="Fresh and Furry - Breaking Videos" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/153/029/3029153/new-justice-league-details-what-do-they-meandefault1-15_550x309.jpg?40" alt="New Justice League Details - What Do They Mean?" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_2:Break Compilations" href="http://www.break.com/video/break-compilations-2591623/fresh-and-furry-breaking-videos-2988365">Fresh and Furry - Breaking Videos</a>
+				<a data-ga="Navigation:Latest_2:" href="http://www.break.com/video/new-justice-league-details-what-do-they-mean-3029153">New Justice League Details - What Do They Mean?</a>
 						</h1>
 			<p>
 
-			Who knew a pug eating broccoli in slow motion could make your day? Check ou...
+			Huge Justice League News dropped this week and our panel comes to the rescu...
 			</p>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2988813" data-content-uri="http://www.break.com/video/epic-how-to-2810344/things-we-didnt-teach-you-in-2015-2988813" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="3029942" data-content-uri="http://www.break.com/video/break-compilations-2591623/motorcycle-wipeouts-breaking-videos-3029942" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/813/988/2988813/things-we-didnt-teach-you-in-2015-year-end-wrap-up-epic-how-to1_550x309.png" alt="Things We Didn't Teach You in 2015 (Year End Wrap Up!) - EPIC HOW TO " onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/942/029/3029942/motorcycle-wipeouts-breaking-videosdefault1-1_550x309.jpg?195" alt="Best Motorcycle Fail Compilation!  - Breaking Videos" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_3:Epic How To" href="http://www.break.com/video/epic-how-to-2810344/things-we-didnt-teach-you-in-2015-2988813">Things We Didn't Teach You in 2015 (Year End Wrap Up!) - EPIC HOW TO </a>
+				<a data-ga="Navigation:Latest_3:Break Compilations" href="http://www.break.com/video/break-compilations-2591623/motorcycle-wipeouts-breaking-videos-3029942">Best Motorcycle Fail Compilation!  - Breaking Videos</a>
 						</h1>
 			<p>
 
-			We're finally answering all of those super-weird-supervillain-esque questio...
+			There's always that one obnoxious person on a motorcycle trying to do somet...
 			</p>
 		</div>
 	</article>
@@ -836,10 +912,10 @@
 	<div class="Apps">
 		<div class="AppsNav-apps">
 			<h2>Experience Break Everywhere</h2>
-			<a class="AppsNav-appApple" data-ga="Navigation:Apps_IOS" href="http://itunes.apple.com/us/app/id342257973?mt=8">App Store</a>
-			<a class="AppsNav-appGoogle" data-ga="Navigation:Apps_Google" href="https://play.google.com/store/apps/details?id=com.breakapps.breakdotcom&amp;referrer=utm_source%3Dbreak_nav%26utm_medium%3Dapps_games%26utm_campaign%3Dmenu">Google Play</a>
-			<a class="AppsNav-appRoku" data-ga="Navigation:Apps_Roku" href="https://www.roku.com/channels#!details/1756/break-funny-videos-and-pics">Roku</a>
-			<a class="AppsNav-appAmazon" data-ga="Navigation:Apps_Amazon" href="http://www.amazon.com/Videos-Break-Kindle-Tablet-Edition/dp/B005MSH4P4">Amazon</a>
+			<a class="AppsNav-appApple" data-ga="Navigation:Apps_IOS" href="http://itunes.apple.com/us/app/id342257973?mt=8" target="_blank">App Store</a>
+			<a class="AppsNav-appGoogle" data-ga="Navigation:Apps_Google" href="https://play.google.com/store/apps/details?id=com.breakapps.breakdotcom&amp;referrer=utm_source%3Dbreak_nav%26utm_medium%3Dapps_games%26utm_campaign%3Dmenu" target="_blank">Google Play</a>
+			<a class="AppsNav-appRoku" data-ga="Navigation:Apps_Roku" href="https://www.roku.com/channels#!details/1756/break-funny-videos-and-pics" target="_blank">Roku</a>
+			<a class="AppsNav-appAmazon" data-ga="Navigation:Apps_Amazon" href="http://www.amazon.com/Videos-Break-Kindle-Tablet-Edition/dp/B005MSH4P4" target="_blank">Amazon</a>
 		</div>
 	</div>
 </div>
@@ -1167,9 +1243,10 @@ Entertainment                    </a>
 									<li class="AppButtons-item AppButtons-item--android">
 										<a data-ga="Mobile App:download-android:footer" href="https://play.google.com/store/apps/details?id=com.breakapps.breakdotcom&amp;referrer=utm_source%3Dbreak%2520footer%26utm_medium%3Dalso%2520available%26utm_campaign%3Dfooter">Get it on Google Play.<span class="AppButtons-thumb">&nbsp;</span></a>
 									</li>
+									<!-- HIDE windows button until we get a windows app
 									<li class="AppButtons-item AppButtons-item--win-phone">
 										<a data-ga="Mobile App:download-windows:footer" href="http://redirect.zune.net/redirect?type=phoneApp&amp;id=d1cd2dcb-7cd5-df11-a844-00237de2db9e&amp;source=infopage">Download for Windows Phone.<span class="AppButtons-thumb">&nbsp;</span></a>
-									</li>
+									</li> -->
 									<li class="AppButtons-item AppButtons-item--amazon">
 										<a data-ga="Mobile App:download-kindle:footer" href="http://www.amazon.com/Videos-Break-Kindle-Tablet-Edition/dp/B005MSH4P4">Available at Amazon<span class="AppButtons-thumb">&nbsp;</span></a>
 									</li>
@@ -1216,14 +1293,14 @@ Entertainment                    </a>
 		</div>
 
 			<!-- BMP Break Main/inter_stitial_new -->
-	<div id="div-gpt-ad-1366135673049-0-oop" style="width:0px; height:0px;">
+	<div id="div-gpt-ad-oop" style="width:0px; height:0px;">
 		<script type="text/javascript">
-			googletag.cmd.push(function () { googletag.display('div-gpt-ad-1366135673049-0-oop'); });
+			googletag.cmd.push(function () { googletag.display('div-gpt-ad-oop'); });
 		</script>
 	</div>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutBottomJsLight/121515_114921/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutBottomJsLight/062116_113151/"></script>
 
 		
 		
@@ -1354,7 +1431,7 @@ Entertainment                    </a>
 			</div>
 		</script>
 
-		<!-- 2015-12-28 18:48 APP07 -->
+		<!-- 2016-06-24 11:57 APP02 -->
 		
 		<script type="text/javascript">
 			var _sf_async_config={};
@@ -1406,13 +1483,13 @@ Entertainment                    </a>
 			</li>
 		</ul>
 
-		<span class="UniversalFooter-copyright">© 2015 Defy Media. All rights reserved.</span>
+		<span class="UniversalFooter-copyright">© 2016 Defy Media. All rights reserved.</span>
 		<div class="UniversalFooter-logo"></div>
 
 	</div>
 </footer>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/contactFormJs/121515_114921/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/contactFormJs/062116_113151/"></script>
 	
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
