@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thundertix.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044328id_/http%3A//www.thundertix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thundertix.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624062515id_/http%3A//www.thundertix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ThunderTix commitment to protecting your information
+# ThunderTix | Privacy Policy - ThunderTix commitment to protecting your information
 
 Updated November 3, 2011
 
