@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsubmission.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218201324id_/http%3A//www.freewebsubmission.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsubmission.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624232122id_/http%3A//www.freewebsubmission.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Submission: Free Search Engine Submission and Site Promotion
 
@@ -16,7 +16,7 @@ With the exception of autoresponse messages which are sent at the time of autosu
 
 #### Cookies
 
-Ad networks and third party vendors, including Google, may place cookies on your browser while visiting Free Web Submission. Google's DART cookie enables it and its partners to serve ads based on your visit to Free Web Submission and/or other websites. Users may opt out of the use of the DART cookie [here](http://www.google.com/privacy_ads.html) and cookies from many other ad networks [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+At this time, cookies are not used on the Free Web Submission site. 
 
 #### Security
 
