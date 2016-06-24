@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the azcc.gov privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209074910id_/http%3A//www.azcc.gov/Divisions/Administration/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcc.gov privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624083924id_/http%3A//www.azcc.gov/Divisions/Administration/Privacy.asp) for the most accurate reproduction.*
 
 # Arizona Corporation Commission:
 
+| 
+
 Privacy Policy Statement  
   
+---  
 Thank you for visiting the Arizona Corporation Commission web site and reviewing our Privacy Policy Statement. This policy statement is provided as required by statute to inform you about the information that may be collected as a result of your visiting our site. More importantly, we want you to know how that information may be used, and the steps we take to insure the security of your information. Your right to privacy is of utmost importance to the Arizona Corporation Commission and it is our desire to earn your trust and confidence when you conduct business with us via the internet.  
  **Online Customer Service and Alternatives**  
 If you prefer to request information from us in person, you may do so by telephone or in person. Our goal here is to provide you with a more convenient and efficient means to interact with us.  
@@ -47,4 +50,6 @@ By Mail:
 Privacy Officer  
 Arizona Corporation Commission  
 1200 West Washington Street  
-Phoenix, Arizona 85007
+Phoenix, Arizona 85007  
+  
+###  Quick Launch...
