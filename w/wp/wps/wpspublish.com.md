@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpspublish.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117200912id_/https%3A//www.wpspublish.com/app/Home/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpspublish.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624051734id_/https%3A//www.wpspublish.com/app/Home/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # WPS | unlocking potential > Home > Privacy Statement
 
