@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasenza.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208132630id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624092116id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | La Senza
 
@@ -90,6 +90,10 @@ We may rely on the expertise of third-party service providers to run sweepstakes
 
 We may at times facilitate easy access to third-party sites, like social networking sites and other sites that host user-generated content. This may include easy click-through access or even "single sign-on" to these sites. The third-party’s privacy policy applies to any personal information you provide at these sites.
 
+4\. International Checkout
+
+We work with eShopWorld to sell and deliver our products to certain international destinations. If you are shipping to a country supported by eShopWorld, you will navigate away from our Web site to a co-branded checkout site "powered by eShopWorld." eShopWorld's privacy policy, and not our privacy policy, will apply to information that you directly provide on that site, such as your payment information. However, we and other parties will continue to use certain technologies, as described in Sections 2 (Information We Observe or Collect through Technology) and 3 (Information Others Observe or Collect through Technology) of this policy, to collect information about your online activities on that site. Additionally, when you navigate to eShopWorld's checkout site, we will share information about you and your order with eShopWorld to facilitate your purchase of our products from eShopWorld. Please see eShopWorld's privacy policy for information about its privacy practices.
+
 ## What information do we share with third parties and our sister brands (or what information may they access because of the services they provide to us)?
 
 1\. Our Sister Brands
@@ -149,7 +153,7 @@ Customer Service Department
 3 Limited Parkway, Columbus, OH 43230  
 US  
 1 888 LA SENZA (1-888-527-3692)  
-E-mail: onlinemanager@lasenza.com
+E-mail: customercare@lasenza.com
 
 2\. Specific Questions about this Policy
 
@@ -177,4 +181,4 @@ La Senza Corporation
 Attn: Customer Service Department  
 3 Limited Parkway, Columbus, OH 43230  
 1 888 LA SENZA (1-888-527-3692)  
-E-mail: onlinemanager@lasenza.com
+E-mail: customercare@lasenza.com
