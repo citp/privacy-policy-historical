@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxadda.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230142209id_/http%3A//taxadda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxadda.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624142849id_/http%3A//taxadda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxAdda
 
@@ -24,7 +24,7 @@ Your privacy is very important to TaxAdda. So, this is a bit more detail to help
 
 TaxAdda may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
- **Information collected by third-parties.**
+**Information collected by third-parties.**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
@@ -56,7 +56,7 @@ If You Have Any Questions, Concerns, Or Comments About Our Privacy Policy Or [Te
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
-  * Did you find this article Helpful ?
-  * Yes   No
+  * Something missing? Suggest to make it more helpful!
+  * No   Yes
 
 
