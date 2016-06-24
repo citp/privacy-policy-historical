@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143147id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624093433id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Gear Guide Australia
 
@@ -136,11 +136,11 @@ For more information about privacy issues in Australia and protecting your priva
 
 **LAST UPDATED** : March 3, 2014
 
-  * 1 [Mazda MX-5 (2016) review: Absolute driving purity ](https://web.archive.org/review/mazda_australia/mx-5/586576/)
-  * 2 [Sony 75-inch UHD TV (X9400C) review: Sony and Android are a winning duo](https://web.archive.org/review/sony/x9400c/581761/)
-  * 3 [LG 55EG960T OLED UHD TV](https://web.archive.org/review/lg/55eg960t/580005/)
-  * 4 [Ford Focus ST (2015) review: Absolutely mental styling, engine, handling](https://web.archive.org/review/ford_motor/focus-st-2015/578959/)
-  * 5 [Microsoft Lumia 640 review: Honouring Nokia's legacy](https://web.archive.org/review/microsoft/lumia-640/574875/)
+  * 1 [​2016 Ford Mustang EcoBoost review](https://web.archive.org/review/ford_motor_company_of_australia/2016-mustang-ecoboost/601777/)
+  * 2 [​Review: TCL C1 series 4K TV](https://web.archive.org/review/tcl/c1-series/598533/)
+  * 3 [Sony 75-inch UHD TV (X9400C) review: Sony and Android are a winning duo](https://web.archive.org/review/sony/x9400c/581761/)
+  * 4 [LG 55EG960T OLED UHD TV](https://web.archive.org/review/lg/55eg960t/580005/)
+  * 5 [Panasonic Viera UHD TV review: good hardware, fragmented software ](https://web.archive.org/review/panasonic/viera-60xc700a/579810/)
 
 
 
@@ -197,5 +197,3 @@ STYLISTIC Q702
 My first impression after unboxing the Q702 is that it is a nice looking unit. Styling is somewhat minimalist but very effective. The tablet part, once detached, has a nice weight, and no buttons or switches are located in awkward or intrusive positions. 
 
 [Good Gear Guide Evaluation Team](https://web.archive.org/gggtester/)
-
-BASE RHS WIDGET 
