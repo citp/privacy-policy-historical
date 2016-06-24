@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 9icefaces.com privacy policy that was archived on 2015-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151220173750id_/http%3A//9icefaces.com/info/page/name/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 9icefaces.com privacy policy that was archived on 2016-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624213527id_/http%3A//9icefaces.com/info/page/name/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
@@ -73,7 +73,7 @@
 </style>	
 				<style type="text/css"></style>
 	
-				<title>9iceface.com - Nigeria's fastest growing social media platform</title>
+				<title>9iceface.com is Nigeria's fastest growing social media platform</title>
 	
 						
 			
@@ -209,7 +209,7 @@
 <div class="row motd">
 	<div class="col-md-12">
 		<div class="alert alert-success close-motd"><button data-dismiss="alert" class="close" type="button">×</button>
-			We are paying N5.00/follower at min of 100  followers. Offer ends December 31. Email ceo@potechng.com once you hit min of 100 followers, to get paid instantly!		</div>
+			Post your number/network using hashtag #FreeAirtime to win instant airtime!		</div>
 	</div>
 </div>
 
@@ -509,75 +509,7 @@
 			$(".nav.navbar-search form").attr("action", "/search/posts/");
 		});
 		</script>
-		<div id="fb-root"></div><script type="text/javascript">var php_addonName = "facebooklogin"</script><style type="text/css">
-.form-group.registerbtn,
-.form-group.loginbtn {
-	margin-bottom: 0;
-}
-</style>
-
-<script type="text/javascript">
-/**
- * facebook init 2/2
- * 
- * v2.0 API https://developers.facebook.com/docs/apps/upgrading#upgrading_web_apps
- */
-window.fbAsyncInit = function() {
-	FB.init({
-		appId   : php_facebookAppId,
-		version : 'v2.0',
-		status  : true, // check login status
-		cookie  : true, // enable cookies to allow the server to access the session
-		xfbml   : true // parse XFBML
-	});
-
-};
-
-/**
- * facebook login
- */
-function fb_login(){
-
-	FB.login(function(response) {
-
-		if (response.authResponse) {
-			
-			var reload_url = php_baseURL + '/addons/' + php_addonName + '/?fb-login';
-				window.location.replace(reload_url);
-				return true;
-
-			} else {
-	
-				// cancel button pressed
-				return true;
-			}
-
-		}, {
-			scope: 'email'
-		});
-}
-
-
-$(document).ready(function(){
-
-
-	// add facebook buttons
-		$("#registerbtn, #loginbtn").closest('span').before('<button name="facebooklogin" id="facebooklogin" type="button" class="facebook-login-btn btn btn-info" onclick="fb_login();">Facebook</button>');
-	
-	/**
-	 * facebook init 1/2 (script load & attach to fb-root at footer) 
-	 */
-	(function() {
-		   var e = document.createElement('script');
-		   e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
-		   e.async = true;
-		   document.getElementById('fb-root').appendChild(e);
-		}());
 		
-	
-});
-
-</script>
 	<script type="text/javascript">
 		 // delete box and confirmation
 		$(document).on("click", ".linkpreview-delete" ,function(){
