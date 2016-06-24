@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919084027id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macuha.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624042425id_/http%3A//www.macuha.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MACUHA DOT COM
-
-  * [](http://www.macuha.com/sikreto/?sid=JA021651-MC)
-
-
-
+# Privacy Policy – MACUHA.COM
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site www.macuha.com . The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -28,6 +23,3 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 
  **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://www.macuha.com/contact/).
-
-  * 
-
