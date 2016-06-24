@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220221640id_/http%3A//www.mfa.org/node/307) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624043054id_/http%3A//www.mfa.org/node/307) for the most accurate reproduction.*
 
 # Privacy Policy | Museum of Fine Arts, Boston
 
