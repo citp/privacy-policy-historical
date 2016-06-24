@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029205940id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624033522id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
-# None
+# TripleClicks Privacy Policy
 
 TripleClicks holds the privacy and security of our site visitors in the highest regard. The following information explains the type of information gathered on our sites and how that information is used.
 
