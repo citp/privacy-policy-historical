@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the augustana.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061025id_/http%3A//www.augustana.edu/x61998.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augustana.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624081038id_/http%3A//www.augustana.edu/x61998.xml) for the most accurate reproduction.*
 
 # Augustana College Privacy and Social Media Policy | Augustana College
-
-**April 27, 2015**
 
 It is the policy of Augustana College to respect your privacy regarding any information we may collect through your use of our website, Augustana.edu.
 
@@ -14,7 +12,15 @@ Augustana College also collects potentially personally-identifying information s
 
 Some visitors to our website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, visitors who comment on a blog are asked to provide a name and email address. We may collect personal information you supply when you subscribe to a newsletter, complete a form or survey, register for an event, enter a contest or provide your email address.
 
-We collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction. We do not disclose personally-identifying information to third parties other than as described below.
+We do not disclose personally-identifying information to third parties other than as described below.
+
+If you have shared personal information with Augustana, the college may use that information in some circumstances to tailor offerings and services to you, or display web content that may be of particular interest to you. In some cases, we may share this personal information with trusted vendors to understand how we might better understand and improve your experience with and interest in Augustana College. We do not sell any personally-identifying information to a third party.
+
+The types of personal information we collect may include name, email address, phone number, street address, and correspondence with the college. Correspondence means contact by phone, mail, email or online. Augustana may collect personal information about you as well as from third parties, including trusted vendors and suppliers and related companies.
+
+Augustana may use email tracking to improve the emails we send you. If you do not wish to participate in email tracking, you should unsubscribe from our email list. You can opt out of email from Augustana College at any time by contacting [webmaster@augustana.edu](mailto:webmaster@augustana.edu "webmaster@augustana.edu").
+
+If you do not want personal information used by us for the purposes and activities outlined above, you may opt out by setting your web browser to reject cookies when you are using our website.
 
 ### Aggregated statistics
 
@@ -36,7 +42,9 @@ Augustana College takes all measures reasonably necessary to protect against the
 
 A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Augustana College uses cookies to help identify and track visitors, their usage of our website, and their website access preferences.
 
-These cookies will not contain any personally-identifiable information. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our website.
+Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our website and should use their browser to remove any cookies.
+
+We may transmit non-personally identifiable website usage information to third parties in order to show you messages from Augustana College when you visit other sites. See (<http://www.google.com/policies/technologies/ads/>) Google Privacy & Terms and Facebook (<https://www.facebook.com/policy.php>) to find out how you may choose not to have this non-personal information used.
 
 ### **Sites affiliated Augustana.edu**
 
@@ -57,3 +65,5 @@ Augustana College reserves the right to remove a post from a college social medi
 ### **Policy changes**
 
 Augustana College may change its Privacy and Social Media Policy from time to time, and in Augustana College's sole discretion. We encourage visitors to check this page for any changes to the Privacy and Social Media Policy.
+
+_Last updated Jan. 4, 2016_
