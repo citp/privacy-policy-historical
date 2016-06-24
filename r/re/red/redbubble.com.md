@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225011018id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624044115id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
@@ -56,7 +56,7 @@ Our services are hosted in the United States. If you choose to use the services 
 
 ## Children’s privacy
 
-Our website and services are not directed to individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please [contact us](http://help.redbubble.com/).
+Our website and services are not directed to individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please [contact us](https://help.redbubble.com/hc/en/).
 
 ## Third-party services
 
@@ -64,4 +64,4 @@ The site may contain features or links to websites and services provided by thir
 
 ## How you can access or correct your personal information or make a complaint
 
-If you have any complaints, comments or questions about the way we collect and use your personal information, or if you would like to access or correct your personal information, please [just tell us](http://help.redbubble.com/). You can also access and update some of your personal information by accessing your profile settings.
+If you have any complaints, comments or questions about the way we collect and use your personal information, or if you would like to access or correct your personal information, please [just tell us](https://help.redbubble.com/hc/en/). You can also access and update some of your personal information by accessing your profile settings.
