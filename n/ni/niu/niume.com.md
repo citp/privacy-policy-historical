@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the niume.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niume.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624084716id_/https%3A//niume.com/pages/privacy/index.php) for the most accurate reproduction.*
 
 # Niume | Privacy
 
 ## Privacy policy
 
-This policy (together with our [terms of use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.niume.com you are accepting and consenting to the practices described in this policy. 
+This policy (together with our [terms of use](https://web.archive.org/web/20160624084716id_/https%3A//niume.com/pages/terms/index.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.niume.com you are accepting and consenting to the practices described in this policy. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Niume Limited of Threshold House, 65-69 Shepherds’ Bush Green, W12 8TX, London, UK (Trading address). 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Niume Limited London Accelerator, 35 Kingsland Road, E2 8AA (Trading address). 
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
@@ -15,7 +15,7 @@ We may collect and process the following data about you:
   * **Information you give us.** You may give us information about you by filling in forms on our site www.niume.com (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph. 
   * **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information: 
     * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
-    * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. 
+    * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); content you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. 
   * **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 
@@ -40,7 +40,7 @@ We use information held about you in the following ways:
     * as part of our efforts to keep our site safe and secure;
     * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
     * to make suggestions and recommendations to you and other users of our site about services that may interest you or them.
-  * **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  * **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 
 
@@ -58,7 +58,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Niume Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php) and other agreements; or to protect the rights, property, or safety of Niume Limited, our customers, or others. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20160624084716id_/https%3A//niume.com/pages/terms/index.php) and other agreements; or to protect the rights, property, or safety of Niume Limited, our customers, or others. 
 
 
 
@@ -74,7 +74,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at support@niume.co.uk
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Our site may contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 ### ACCESS TO INFORMATION
 
@@ -92,7 +92,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 This acceptable use policy sets out the terms between you and us under which you may access our website www.niume.com (our site). This acceptable use policy applies to all users of, and visitors to, our site.
 
-Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php)
+Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20160624084716id_/https%3A//niume.com/pages/terms/index.php)
 
 ### PROHIBITED USES
 
@@ -109,7 +109,7 @@ You may use our site only for lawful purposes. You may not use our site:
 
 You also agree:
 
-  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use ](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/index.php "Terms")
+  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use ](https://web.archive.org/web/20160624084716id_/https%3A//niume.com/pages/terms/index.php "Terms")
   * Not to access without authority, interfere with, damage or disrupt: 
     * any part of our site;
     * any equipment or network on which our site is stored; 
@@ -123,9 +123,7 @@ You also agree:
 We may from time to time provide interactive services on our site, including, without limitation:
 
   * Chat rooms.
-  * Bulletin boards.
-  * Circles.
-  * Names.
+  * Spheres.
 
 
 
@@ -135,15 +133,13 @@ Where we do provide any interactive service, we will provide clear information t
 
 We will do our best to assess any possible risks for users (and in particular, for children) from third parties when they use any interactive service provided on our site, and we will decide in each case whether it is appropriate to use moderation of the relevant service (including what kind of moderation to use) in the light of those risks. However, we are under no obligation to oversee, monitor or moderate any interactive service we provide on our site, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not. 
 
-The use of any of our interactive services by a minor is subject to the consent of their parent or guardian. We advise parents who permit their children to use an interactive service that it is important that they communicate with their children about their safety online, as moderation is not foolproof. Minors who are using any interactive service should be made aware of the potential risks to them. 
-
 Where we do moderate an interactive service, we will normally provide you with a means of contacting the moderator, should a concern or difficulty arise.
 
 ### CONTENT STANDARDS
 
 These content standards apply to any and all material which you contribute to our site **(contributions)** , and to any interactive services associated with it.
 
-You must comply with the spirit of the following standards as well as the letter. The standards apply to each part of any contribution as well as to its whole.
+You must comply with the spirit of the following standards as well as the latter. The standards apply to each part of any contribution as well as to its whole.
 
 Contributions must:
 
@@ -176,7 +172,7 @@ Contributions must not:
 
 We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site. When a breach of this policy has occurred, we may take such action as we deem appropriate.
 
-Failure to comply with this acceptable use policy constitutes a material breach of the [ terms of use](https://web.archive.org/web/20150317193050id_/https%3A//niume.com/pages/terms/ "Terms and Conditions") upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
+Failure to comply with this acceptable use policy constitutes a material breach of the [ terms of use](https://web.archive.org/web/20160624084716id_/https%3A//niume.com/pages/terms/ "Terms and Conditions") upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
 
   * Immediate, temporary or permanent withdrawal of your right to use our site.
   * Immediate, temporary or permanent removal of any posting or material uploaded by you to our site.
