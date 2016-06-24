@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakeshoredrive.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223231322id_/http%3A//www.fakeshoredrive.com/online-privacy-policy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeshoredrive.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624111011id_/http%3A//www.fakeshoredrive.com/online-privacy-policy-agreement) for the most accurate reproduction.*
 
 # ONLINE PRIVACY POLICY AGREEMENT - Fake Shore Drive®
 
