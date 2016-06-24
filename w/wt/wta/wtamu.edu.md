@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927130609id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624183516id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
-# West Texas A&M University
+# West Texas A&M University: Link Policy and Privacy Statement
 
 ## Link Policy
 
-West Texas A&M University is committed to abiding by the link policy set forth by the [Texas Department of Information Resources Link Policy](http://dir.texas.gov/View-About-DIR/Pages/Content.aspx?id=21), meaning that advance permission to link to WTAMU's website(s) is not necessary; however, be aware that WTAMU subpages may change at any time without notice. Entities and individuals linking to the WTAMU website must continuously verify links to our subpages.
+West Texas A&M University is committed to abiding by the link policy set forth by the [Texas DIR State Website Linking and Privacy Policy (PDF - opens new window)](http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf) meaning that advance permission to link to WTAMU's website(s) is not necessary; however, be aware that WTAMU subpages may change at any time without notice. Entities and individuals linking to the WTAMU website must continuously verify links to our subpages.
 
-Entities and individuals linking to the WTAMU website, or any of its entities, shall not capture WTAMU pages within frames, present WTAMU content as its own, or otherwise misrepresent WTAMU content. Furthermore, they shall not misinform users about the origin or ownership of wTAMU content. Certain information on the WTAMU website may be trademarked, service-marked, or otherwise protected as intellectual property. Protected intellectual property must be used in accordance with state and federal laws and must reflect the proper ownership of the intellectual property.
+Entities and individuals linking to the WTAMU website, or any of its entities, shall not capture WTAMU pages within frames, present WTAMU content as its own, or otherwise misrepresent WTAMU content. Furthermore, they shall not misinform users about the origin or ownership of WTAMU content. Certain information on the WTAMU website may be trademarked, service-marked, or otherwise protected as intellectual property. Protected intellectual property must be used in accordance with state and federal laws and must reflect the proper ownership of the intellectual property.
 
 Any link to the WTAMU website should be a full forward link that passes the client browser to WTAMU unencumbered.
 
