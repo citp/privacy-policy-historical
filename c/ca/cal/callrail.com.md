@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316185554id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624120341id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Call Tracking and Analytics
 
@@ -22,7 +22,7 @@ This Privacy Statement applies to all of CallRail’s Services. This Privacy Sta
 
 ### How To Contact Us
 
-If you have any questions about these Terms of Use or would like to learn more about us, please email us at [support@callrail.com](mailto:support@callrail.com) or write to us at CallRail Inc., 845 Spring Street Unit C Atlanta GA, 30308 or contact us by phone at 888-907-4718.
+If you have any questions about these Terms of Use or would like to learn more about us, please email us at [support@callrail.com](mailto:support@callrail.com) or write to us at CallRail Inc., 100 Peachtree Street Suite 2480 Atlanta GA, 30303 or contact us by phone at 888-907-4718.
 
 ### Description of Our Services
 
