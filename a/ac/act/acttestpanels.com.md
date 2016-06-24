@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acttestpanels.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211215635id_/http%3A//www.acttestpanels.com/default.aspx%3Fpageid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acttestpanels.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624232835id_/http%3A//www.acttestpanels.com/default.aspx%3Fpageid%3D98) for the most accurate reproduction.*
 
 # ACT Test Panels
 
