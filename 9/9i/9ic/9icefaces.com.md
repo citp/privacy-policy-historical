@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9icefaces.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220173750id_/http%3A//9icefaces.com/info/page/name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9icefaces.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624213527id_/http%3A//9icefaces.com/info/page/name/privacy) for the most accurate reproduction.*
 
-# 9iceface.com - Nigeria's fastest growing social media platform
+# 9iceface.com is Nigeria's fastest growing social media platform
 
 ## Privacy Policy
 
