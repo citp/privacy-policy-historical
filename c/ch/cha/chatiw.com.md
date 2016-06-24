@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the chatiw.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028102809id_/http%3A//www.chatiw.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatiw.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624113535id_/http%3A//www.chatiw.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Chatiw - Privacy Policy
 
-**Privacy Policy**  
 Chatiw.com forbids the sending of bulk unsolicited electronic mail.
 
 Chatiw.com is strongly committed to protecting the privacy of our users & subscribers, along with that of our clients or partners and their users & subscribers. We strive to provide a safe and secure environment for all users of our products and services. 
@@ -38,3 +37,6 @@ The usage of cookies while on our site is in no way linked to any personally ide
 In the event that Chatiw.com decides to alter its privacy policy, we will list any changes here, but Chatiw.com will not retroactively alter its policies. We are committed to keeping our users informed and up-to-date on the type of information we gather, how we might use that information, and whether we will disclose it to anyone. 
 
 Users of our sites are always notified when their information is being collected by any outside parties, so they can make an informed choice as to whether or not they should proceed with services that require an outside party.
+
+  
+
