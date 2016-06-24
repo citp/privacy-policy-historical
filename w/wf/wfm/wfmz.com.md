@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204035152id_/http%3A//www.wfmz.com/Privacy-Policy/141168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624070904id_/http%3A//www.wfmz.com/Privacy-Policy/141168) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
-**PRIVACY STATEMENT FOR wfmz.com** as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT WFMZ Online - Maranatha Broadcasting Company, Inc.
+**PRIVACY STATEMENT FOR wfmz.com, awchannel.com** as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT WFMZ Online - Maranatha Broadcasting Company, Inc.
 
  **Maranatha Broadcasting Company, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site.
 
@@ -19,6 +19,8 @@ This is how we will handle information we learn about you from your visit to our
  **If you register for any of our online services:** This site offers several services for which registration is required. These include (but are not limited to) school closings, news alerts, and other newsletters.  The information gathered is necessary for the functionality of these services.
 
  **Access and Use of Personally Identifiable Information (PII):   **If you choose to establish a Personalized User Profile and participate in the sharing of Personally Identifiable Information, Internet Broadcasting (a division of Nextar Broadcasting, Inc.) may collect this PII in connection with performing services related to the operation of this site and our other digital properties.  This information may be stored, retained, and/or shared with third parties for the purpose of creating and maintaining Personalized User Profiles on your behalf.
+
+Examples of PII that we may collect include (but are not limited to) your name, location, and mobile phone number. These pieces of information are collected when you create a Personal User Profile, contribute an image or video file, or register for newsletter, text, or push notification alerts. The PII that is collected may be shared with our technology partners (including Lakana, TextCaster, WSI, and others) in order to facilitate the proper operation of these services.
 
  **Google Analytics -** We use “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
 
@@ -41,3 +43,5 @@ Allentown, PA 18103-7599
  **Delete / deactivate policy** Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration for any service.
 
 We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us.
+
+Updates and changes are periodically made to this policy in order to maintain functionality and compliance with applicable federal and state laws. Users can determine when this policy has been updated by noting the "Updated" time and date near the top of this page.
