@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcpdfr.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105135517id_/http%3A//www.lcpdfr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcpdfr.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624212845id_/http%3A//www.lcpdfr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LCPDFR.com
 
@@ -19,5 +19,7 @@ G17 Media tracks all site visits across its network to ensure we're delivering t
 
  **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
+
+LCPDFR.com, G17 Media, Friedrichstr. 123, Berlin, 10117
   *[ LCPDFR]: LCPD First Response
   *[LCPDFR]: LCPD First Response
