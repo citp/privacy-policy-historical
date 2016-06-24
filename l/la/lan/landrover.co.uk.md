@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027022736id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624140903id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
 
-# Cookies and Privacy Policy - Land Rover
+# Cookies & Privacy Policy - Land Rover UK
 
 ## PRIVACY POLICY
 
-Land Rover respects the privacy of every individual who visits its websites. Any information collected about you will be used to fulfil any service you might request, to inform you about new products and services and also to improve how we serve you. Your data will be treated in accordance with relevant European Union and local country legal provisions. Your information will not be disclosed to anyone outside of Land Rover, its affiliated or associated companies, and its retailers, agencies and licensees of any of these companies, and any other companies with which Land Rover has directly or indirectly arranged services for your benefit.   
+Jaguar Land Rover limited respects the privacy of every individual who visits its websites. Any information collected about you will be used to fulfil any service you might request, to inform you about new products and services and also to improve how we serve you. Your data will be treated in accordance with relevant European Union and local country legal provisions. Your information will not be disclosed to anyone outside of Jaguar Land Rover, its affiliated or associated companies, and its retailers, agencies and licensees of any of these companies, and any other companies with which Jaguar Land Rover has directly or indirectly arranged services for your benefit.   
 
 
-Land Rover will not collect personal information about you using cookies however by enabling cookies or keeping cookies enabled, you are providing your consent to Land Rover storing cookies on your browser. Please note that disabling cookies is likely to impact website functionality and your experience of the Land Rover website.   
+Jaguar Land Rover will not collect personal information about you using cookies however by enabling cookies or keeping cookies enabled, you are providing your consent to Jaguar Land Rover storing cookies on your browser. Please note that disabling cookies is likely to impact website functionality and your experience of the Jaguar Land Rover website.   
 
 
 The purpose of this privacy policy is to describe the types of information that we collect from you when you visit our site and explain how we use this information.   
 
 
-Due to the international nature of Land Rover’s business, Land Rover processes and stores personal data outside the EU. We are obliged to ask you to agree to this. If you do not wish to, unfortunately we will not be able to process any request you make through this website.   
+Due to the international nature of Jaguar Land Rover’s business, Jaguar Land Rover processes and stores personal data outside the EU. We are obliged to ask you to agree to this. If you do not wish to, unfortunately we will not be able to process any request you make through this website.   
 
 
-If you do agree, you may do so on the basis either that we use your data ONLY to process the request you make, or that Land Rover can make further use for further contacts (always subject to the Privacy Policy below) 
+If you do agree, you may do so on the basis either that we use your data ONLY to process the request you make, or that Jaguar Land Rover can make further use for further contacts (always subject to the Privacy Policy below). 
 
 ### DATA PROTECTION
 
@@ -29,7 +29,7 @@ Any information that you choose to provide us with about yourself will be held o
 This ensures, among other things, that data we hold about you is processed lawfully and fairly. We aim to ensure that the personal data stored will be accurate, relevant and not excessive. We will keep the data up to date and not retain the information longer than is necessary. We will keep data securely to prevent unauthorised access by other people. You have the right to see what is held about you and correct any inaccuracies.   
 
 
-Land Rover will not share or loan any identifiable information about you to any third party without your consent. We may share generalised information about site visitor patterns with partners or other parties in such a way that individual visitors can never be identified. It is possible to view our site without providing any personal details. However, without registering your details you will not be able to receive further communications from us. 
+Jaguar Land Rover will not share or loan any identifiable information about you to any third party without your consent. We may share generalised information about site visitor patterns with partners or other parties in such a way that individual visitors can never be identified. It is possible to view our site without providing any personal details. However, without registering your details you will not be able to receive further communications from us. 
 
 ### WHAT PERSONAL INFORMATION IS COLLECTED
 
@@ -82,15 +82,11 @@ We may use "pixel tags," which are small graphic files that allow us to monitor 
 
 ### MORE QUESTIONS ABOUT PRIVACY?
 
-You have the right as an individual to find out what information we hold about you and make corrections if necessary. You also have the right to ask us to not use the information by choosing not to give your consent on the registration form.   
+You have the right as an individual to find out what information we hold about you and make corrections if necessary. You also have the right to ask us to not use your information for marketing purposes by choosing not to give your consent on the registration form. 
 
+If you have any specific questions that are not covered in this section, or want to know what information we currently store on you, please [contact us.](http://www.landrover.co.uk/contact-us.html)
 
-If you have any specific questions that are not covered in this section, or want to know what information we currently store on you, please mail your enquiry to:   
-Subject Access Request   
-Land Rover Administration   
-Freepost TK494   
-Twickenham   
-
+If you have a specific data protection concern or complaint, you can address it to our Data Protection & Privacy Team at [DPOffice@jaguarlandrover.com](mailto:DPOffice@jaguarlandrover.com)
 
 ## COOKIE POLICY
 
@@ -130,7 +126,7 @@ Persistent Cookies are used:
 
 Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies on the next tab.
 
-**Cookie Name** | **Cookie Purpose  
+ **Cookie Name**|  **Cookie Purpose  
 **  
 ---|---  
 JLR_cookies   
@@ -173,16 +169,16 @@ These are used for the following purposes:
 
 
 
-**Cookie  
-** | **Cookie Name  
-** | **Cookie Purpose  
+ **Cookie  
+**|  **Cookie Name  
+**|  **Cookie Purpose  
 **  
 ---|---|---  
 Psyma   
 | psyma_participation   
 | Stores users preference in participation of the Psyma research survey.   
   
-Addthis  | __atuvc   
+Addthis | __atuvc   
 __atuvs   
 bt   
 um   
@@ -191,7 +187,7 @@ uid
 loc   
 dt   
 bt2   
-di2 | These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
+di2| These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
 For more information you can visit:[www.addthis.com/](http://www.addthis.com/)  
   
 ### Web Beacons
