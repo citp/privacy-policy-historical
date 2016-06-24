@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the viralrad.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210124507id_/http%3A//viralrad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralrad.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624180201id_/http%3A//viralrad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ViralRad
 
 This privacy policy sets out how ViralRad.com uses and protects any information that you give us when you use this website. ViralRad.com  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ViralRad.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Feb 17, 2015.
-
-**What we collect**
 
 We may ask to collect the following information:
 
