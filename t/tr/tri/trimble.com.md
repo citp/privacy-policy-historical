@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231040448id_/http%3A//www.trimble.com/Corporate/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624055034id_/http%3A//www.trimble.com/Corporate/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Privacy
 
@@ -87,8 +87,8 @@ Docebo NA Inc. hosts the Trimble learning management system (LMS) Learn.Trimble.
 Google Analytics is a website statistics service that Trimble uses to track our site activity including traffic sources, visitors' information, their activity and sales. This helps us in understanding our audience and improving the customer experience on our sites. For further information about Google Analytics data privacy practices, please view its privacy policy at <http://www.google.com/intl/en/policies/privacy/>
   * [VeriSign](http://www.verisign.com/)   
 Trimble uses VeriSign, Inc. to process credit card transactions on the Trimble Store. Trimble passes VeriSign the name of the customer and their credit card details. For further information about VeriSign's privacy procedures please visit their website at <http://www.verisign.com/Privacy/index.aspx>. 
-  * [WorldPay](http://www.worldpay.us/)  
-Trimble uses WorldPay to process payments for the Trimble VRS Now Store. When you make purchases from our online store, Trimble passes WorldPay the customer name along with shipping and billing information, and WorldPay collects information for the selected credit, debit, or other payment method. WorldPay processes personal data on behalf of Trimble only in order to perform the payment instructions of the customer, and personal data will not be provided to third parties other than the financial institutions for the selected payment method. Please view WorldPay's Privacy Policy at <http://www.worldpay.us/privacy.htm>. 
+  * [WorldPay](http://www.worldpay.com/us)  
+Trimble uses WorldPay to process payments for the Trimble VRS Now Store. When you make purchases from our online store, Trimble passes WorldPay the customer name along with shipping and billing information, and WorldPay collects information for the selected credit, debit, or other payment method. WorldPay processes personal data on behalf of Trimble only in order to perform the payment instructions of the customer, and personal data will not be provided to third parties other than the financial institutions for the selected payment method. Please view WorldPay's Privacy Policy at <http://www.worldpay.com/us/privacy-policy-us>. 
 
 
 
