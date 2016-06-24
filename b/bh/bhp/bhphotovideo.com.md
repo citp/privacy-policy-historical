@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231234627id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhphotovideo.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624132529id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
 # Privacy and Security | B&H Photo Video
 
