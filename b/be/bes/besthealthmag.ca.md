@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230024103id_/http%3A//www.besthealthmag.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625005001id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
 
-# Privacy | besthealthmag.ca
+# Privacy | Best Health Magazine Canada
 
-Unless otherwise indicated, the policies below are applicable to www.readersdigest.ca, www.ourcanada.ca and www.besthealthmag.ca, all of which are operated by The Reader's Digest Association (Canada) ULC. 
+Unless otherwise indicated, the policies below are applicable to www.readersdigest.ca, www.ourcanada.ca and www.besthealthmag.ca, all of which are operated by The Reader’s Digest Association (Canada) ULC. 
 
 **Online Policy for Individuals Under 18 Years Old**
 
@@ -29,20 +29,21 @@ The information that may be gathered through our web sites is submitted to us vo
 
 **Receiving E-mail and Postal Correspondence**
 
-By submitting a form on our web sites you will be entitled to receive e-mail correspondence from us. Both our e-mail and postal correspondence may include subscriber-only special offers, including discounts, free gifts, opportunities to win cash and prizes, as well as opportunities to enter the Reader’s Digest sweepstakes. Our purpose is to provide users with useful information and offers that will interest them. Please note Reader's Digest will not share e-mail addresses we collect through our web sites with any unaffiliated third parties unless we specify at the point of collection. Every e-mail we send out will include an explanation on how to opt out from receiving future e-mail correspondence. You may also opt out of being included in our postal mailing list at any time, by following the instructions below. 
+By submitting a form on our web sites you will be entitled to receive e-mail correspondence from us. Both our e-mail and postal correspondence may include subscriber-only special offers, including discounts, free gifts, opportunities to win cash and prizes, as well as opportunities to enter the Reader’s Digest sweepstakes. Our purpose is to provide users with useful information and offers that will interest them. Please note Reader’s Digest will not share e-mail addresses we collect through our web sites with any unaffiliated third parties unless we specify at the point of collection. Every e-mail we send out will include an explanation on how to opt out from receiving future e-mail correspondence. You may also opt out of being included in our postal mailing list at any time, by following the instructions below. 
 
 **Your Privacy Choices**
 
-Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](http://www.besthealthmag.ca/newsletter). 
+Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](https://web.archive.org/newsletter/). 
 
 If, at any time, you prefer not to receive offers and/or other correspondence by mail or telephone originated by Reader’s Digest and its third party affiliates, you may choose to opt-out by calling 1-866-659-2887 or writing to us at the address below. 
 
-Privacy Office  
+Privacy Office
+
 Reader’s Digest Association (Canada) ULC  
 P.O. Box 974, Stn. Main  
 Markham, Ontario L3P 0K6. 
 
-To view and edit your existing personal information, or for more information on how to view and edit your personal information, [click here](http://www.besthealthmag.ca/newsletter). 
+To view and edit your existing personal information, or for more information on how to view and edit your personal information, [click here](https://web.archive.org/newsletter/). 
 
 For general customer-service questions not related to privacy issues, please click here to visit our online Customer Care Centre. For customer-service purposes, we maintain a record of e-mail messages and addresses sent to us, as well as any replies we may have sent in return. 
 
@@ -52,9 +53,9 @@ Our web sites may include links to web sites of other companies unaffiliated wit
 
 **Cookies and Server Logs**
 
-Reader's Digest, Best Health and Our Canada as well as related web-hosting providers and advertisers sometimes utilize "cookie" technology. Cookies are bits of data stored on your local hard drive which help enhance your web-browsing experience.  Not all web browsers accept cookies, and those that do usually provide a preference or setting which allow you to refuse cookies. If your browser does not accept cookies, you may not be able to fully participate in all our web sites' features, including registration and entry into contests, prize draws and sweepstakes. 
+Reader’s Digest, Best Health and Our Canada as well as related web-hosting providers and advertisers sometimes utilize "cookie" technology. Cookies are bits of data stored on your local hard drive which help enhance your web-browsing experience.  Not all web browsers accept cookies, and those that do usually provide a preference or setting which allow you to refuse cookies. If your browser does not accept cookies, you may not be able to fully participate in all our web sites’ features, including registration and entry into contests, prize draws and sweepstakes. 
 
-Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from.  This information is used in aggregate form to help us plan system enhancements when necessary and to provide content which is compatible with our visitors' web browsing systems. 
+Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user’s ISP, and the web URL a user linked from.  This information is used in aggregate form to help us plan system enhancements when necessary and to provide content which is compatible with our visitors’ web browsing systems. 
 
 **Acceptance of Privacy Policy Terms and Conditions**
 
