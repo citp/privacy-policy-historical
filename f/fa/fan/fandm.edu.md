@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220193735id_/http%3A//www.fandm.edu/college-policies/news-media-publicity-promotions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624034806id_/http%3A//www.fandm.edu/college-policies/news-media-publicity-promotions/privacy-policy) for the most accurate reproduction.*
 
 # Franklin & Marshall – Privacy Policy
 
@@ -8,7 +8,7 @@ When users visit the Franklin & Marshall College website(s), the webmaster colle
 
 #### Family Educational Rights and Privacy
 
-F&M is bound by the Family Educational Rights and Privacy Act (FERPA) regarding the release of student education records and, in the event of conflict with this policy, FERPA will govern. A guide to understanding FERPA is available in the office of the Registrar. The full text of F&M's policy with regard to FERPA can be found at [www.fandm.edu/registrar/ferpa](https://web.archive.org/registrar/ferpa).
+F&M is bound by the Family Educational Rights and Privacy Act (FERPA) regarding the release of student education records and, in the event of conflict with this policy, FERPA will govern. A guide to understanding FERPA is available in the office of the Registrar. See the [full text of F&M's policy with regard to FERPA](https://web.archive.org/registrar/managing-credits/ferpa-regulations).
 
 #### Personal Information
 
