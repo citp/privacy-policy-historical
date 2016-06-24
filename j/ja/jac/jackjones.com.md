@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the jackjones.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204111617id_/http%3A//jackjones.com/customer-service/privacy-policy/jj-cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackjones.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624071241id_/http%3A//jackjones.com/customer-service/privacy-policy/jj-cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - read about privacy policy for JACK & JONES
+
+Please note that we will currently answer the phone in English, as we have very limited availability of Spanish language agents. Emails in Spanish will be replied to in Spanish.
+
+We apologize for any inconvenience this may cause you.
 
 ###### Collection of personal data
 
