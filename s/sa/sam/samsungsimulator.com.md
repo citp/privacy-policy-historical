@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungsimulator.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224085613id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungsimulator.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625000531id_/http%3A//www.samsung.com/us/common/privacy.html) for the most accurate reproduction.*
 
 # About SAMSUNG - SAMSUNG
 
@@ -177,7 +177,7 @@ We have put in place reasonable physical and technical measures to safeguard the
 
 ## Your California Privacy Rights
 
-California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of personally identifiable information to third parties for their direct marketing purposes in the preceding calendar year (e.g., requests made in 2013 will receive information about 2012 sharing activities). We comply with this law by giving users the ability to tell us not to share personally identifiable information with third parties for their direct marketing purposes. To make such a request, send an email to [opt-out-shine-the-light-law@sisa.samsung.com](mailto:opt-out-shine-the-light-law@sisa.samsung.com). We may need additional information to process your request. 
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of personally identifiable information to third parties for their direct marketing purposes in the preceding calendar year (e.g., requests made in 2013 will receive information about 2012 sharing activities). We comply with this law by giving users the ability to tell us not to share personally identifiable information with third parties for their direct marketing purposes. To make such a request, send an email to [NAPrivacy@sea.samsung.com](mailto:NAPrivacy@sea.samsung.com). We may need additional information to process your request. 
 
 ## Third-Party Links and Products on Our Services
 
