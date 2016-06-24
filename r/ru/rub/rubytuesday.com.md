@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rubytuesday.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213061404id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubytuesday.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624225501id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Ruby Tuesday
+# Privacy Policy
 
 ## Privacy Policy and Terms of Use
 
