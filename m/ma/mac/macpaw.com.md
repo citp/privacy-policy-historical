@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207231844id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624185823id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy for CleanMyMac, CleanMyPC, MacHider and Ensoul
 
@@ -52,10 +52,10 @@ We use third party advertising companies to serve ads about our products. We imp
 
 You can opt-out of Google Analytics for Display Advertising and customize Google Display.  
 Network ads using the Ads Settings [here](https://www.google.com/settings/ads).  
-You can opt-out of AppNexus cookies [here](http://www.appnexus.com/platform-policy#choices).  
+You can opt-out of AppNexus cookies [here](http://www.appnexus.com/en/company/platform-privacy-policy).  
 You can opt-out of AdRoll cookies [here](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=true).  
-You can opt-out of Quantcast cookies [here](https://www.quantcast.com/opt-out).  
-You can opt-out of mediaFORGE and other third-party cookies [here](http://www.networkadvertising.org/choices).  
+You can opt-out of Quantcast cookies [here](https://www.quantcast.com/opt-out/).  
+You can opt-out of mediaFORGE and other third-party cookies [here](http://www.networkadvertising.org/choices/).  
 You can opt-out of The Trade Desk cookies [here](http://www.adsrvr.org/). 
 
 **HOW WE PROTECT PERSONAL DATA**
