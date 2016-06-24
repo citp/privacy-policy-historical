@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderjoes.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207004226id_/http%3A//www.traderjoes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderjoes.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624190802id_/http%3A//www.traderjoes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trader Joe's
 
@@ -8,7 +8,7 @@
 
 At Trader Joe’s, we understand that you care how information about you is used and shared. We care, too. As such, we make sure we safeguard your personally identifiable information and honor your requests for privacy. The following note outlines our privacy practices and commitments:
 
-**Contact Information for The Fearless Flyer, e-newsletter Communications, and the TJ’s App** When you sign up to receive the Trader Joe’s Fearless Flyer and/or our e-newsletter or the TJ’s App, we store your personally identifiable information (such as name, mailing address and/or email) in an electronic database, which is for **Trader Joe’s use only (we’ll describe what we do with this information in a minute).** If at any time you do not want to receive our Fearless Flyer or E-newsletter, please update [your preferences here.](https://web.archive.org/subscribe)
+**Contact Information for The Fearless Flyer, e-newsletter Communications, and the TJ’s App** When you sign up to receive the Trader Joe’s Fearless Flyer and/or our e-newsletter or the TJ’s App, we store your personally identifiable information (such as name, mailing address and/or email) in an electronic database, which is for **Trader Joe’s use only (we’ll describe what we do with this information in a minute).** If at any time you do not want to receive our Fearless Flyer or E-newsletter, please [update your preferences](https://web.archive.org/subscribe).
 
 **Site Navigation**  
 Trader Joe’s may collect, store and accumulate certain information concerning your use of our websites and/or our app. This would include information regarding which of our pages, contests or promotions you access the most often and are most popular among our users. The one and only reason that we collect this information is to learn how we can better enhance our offerings to and communications with you. That’s it.
